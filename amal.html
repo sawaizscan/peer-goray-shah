@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aʻmāl & Practices – Syed Saleem Raza Kazmi</title>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600&family=Noto+Nastaliq+Urdu:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <nav id="navbar">
+    <div class="nav-inner">
+      <a href="index.html" class="nav-logo">Saleem Raza <span>· Pir</span></a>
+      <button class="nav-toggle" id="navToggle" aria-label="Menu"><i class="fas fa-bars"></i></button>
+      <ul class="nav-links" id="navLinks">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="wisdom.html">Wisdom</a></li>
+        <li><a href="amal.html">Aʻmāl</a></li>
+        <li><a href="contact.html">Connect</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <div class="page-header">
+    <h1>اعمال · وظائف · اوراد</h1>
+    <div class="divider"></div>
+    <p>Selected spiritual practices for sustenance, protection, and nearness — from verified sources</p>
+  </div>
+
+  <section class="section" style="background: var(--white);">
+    <div class="section-inner">
+
+      <div class="filters" id="amalFilters"></div>
+      <div class="count-badge" id="amalCount"></div>
+      <div id="amalList"></div>
+      <div class="empty-state" id="amalEmpty" style="display:none;">
+        <i class="fas fa-filter"></i>
+        <p>No practices match this category.</p>
+      </div>
+
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; <span id="year"></span> Syed Saleem Raza Kazmi · Pir Goray Shah</p>
+  </footer>
+
+  <div class="floating">
+    <a href="https://www.facebook.com/syed.saleem.raza.kazmi.2025" target="_blank" rel="noopener" class="f-fb"><i class="fab fa-facebook-f"></i></a>
+    <a href="https://www.instagram.com/ishq_e_ali_as" target="_blank" rel="noopener" class="f-ig"><i class="fab fa-instagram"></i></a>
+    <a href="https://wa.me/923244787885" target="_blank" rel="noopener" class="f-wa"><i class="fab fa-whatsapp"></i></a>
+  </div>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+  <script>
+    (function() {
+      const ALL = AMAL_DATA;
+      const cats = [...new Set(ALL.map(d => d.category))];
+      let activeCat = null;
+
+      function render() {
+        const filtered = activeCat ? ALL.filter(d => d.category === activeCat) : ALL;
+        document.getElementById('amalCount').textContent = filtered.length + ' of ' + ALL.length + ' practices';
+        const list = document.getElementById('amalList');
+        const empty = document.getElementById('amalEmpty');
+
+        if (filtered.length === 0) {
+          list.innerHTML = '';
+          empty.style.display = 'block';
+          return;
+        }
+        empty.style.display = 'none';
+
+        list.innerHTML = filtered.map(d => {
+          const isRtl = d.language === 'ar' || d.language === 'fa' || d.language === 'ur';
+          const cls = isRtl ? '' : ' en';
+          return `<div class="amal-card">
+            <div class="amal-header">
+              <h3>${d.category} · ${d.source}</h3>
+              <div class="amal-cats"><span>${d.category}</span><span>${d.language}</span></div>
+            </div>
+            <div class="amal-text${cls}">${d.text_original}</div>
+            <div class="amal-trans">${d.text_urdu}</div>
+            <div class="amal-source">
+              <span>${d.author}</span>
+              <span>${d.source}</span>
+            </div>
+          </div>`;
+        }).join('');
+      }
+
+      // filters
+      const container = document.getElementById('amalFilters');
+      container.innerHTML = '<button class="filter-btn active" data-cat="">All</button>' +
+        cats.map(c => `<button class="filter-btn" data-cat="${c}">${c}</button>`).join('');
+
+      container.addEventListener('click', e => {
+        const btn = e.target.closest('.filter-btn');
+        if (!btn) return;
+        container.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        activeCat = btn.dataset.cat || null;
+        render();
+      });
+
+      render();
+    })();
+  </script>
+</body>
+</html>

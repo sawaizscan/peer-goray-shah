@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Connect – Syed Saleem Raza Kazmi</title>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600&family=Noto+Nastaliq+Urdu:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <link rel="stylesheet" href="style.css">
+  <style>
+    .connect-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 1.5rem;
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .cc {
+      background: var(--white);
+      border-radius: var(--radius-lg);
+      padding: 2.5rem 2rem;
+      text-align: center;
+      box-shadow: var(--shadow-sm);
+      border: 1px solid rgba(0,0,0,0.04);
+      transition: all 0.35s;
+      text-decoration: none;
+      display: block;
+    }
+    .cc:hover {
+      transform: translateY(-5px);
+      box-shadow: var(--shadow);
+    }
+    .cc .icon {
+      width: 64px; height: 64px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.6rem;
+      color: var(--white);
+      margin: 0 auto 1.25rem;
+    }
+    .cc h3 { font-family: 'Playfair Display', serif; font-size: 1.2rem; margin-bottom: 0.3rem; color: var(--text); }
+    .cc p { color: var(--text-light); font-size: 0.85rem; margin-bottom: 1.25rem; line-height: 1.5; }
+    .cc .handle { font-size: 0.8rem; color: var(--text-muted); background: rgba(0,0,0,0.03); padding: 0.25rem 0.75rem; border-radius: 50px; display: inline-block; }
+
+    .fb-icon { background: #1877F2; }
+    .ig-icon { background: linear-gradient(135deg,#833ab4,#fd1d1d); }
+    .wa-icon { background: #25D366; }
+  </style>
+</head>
+<body>
+
+  <nav id="navbar">
+    <div class="nav-inner">
+      <a href="index.html" class="nav-logo">Saleem Raza <span>· Pir</span></a>
+      <button class="nav-toggle" id="navToggle" aria-label="Menu"><i class="fas fa-bars"></i></button>
+      <ul class="nav-links" id="navLinks">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="wisdom.html">Wisdom</a></li>
+        <li><a href="amal.html">Aʻmāl</a></li>
+        <li><a href="contact.html">Connect</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <div class="page-header">
+    <h1>Connect · رابطہ کریں</h1>
+    <div class="divider"></div>
+    <p>For spiritual guidance, blessings, and companionship on the path</p>
+  </div>
+
+  <section class="section" style="background: var(--white);">
+    <div class="section-inner">
+      <div class="connect-grid">
+        <a href="https://www.facebook.com/syed.saleem.raza.kazmi.2025" target="_blank" rel="noopener" class="cc">
+          <div class="icon fb-icon"><i class="fab fa-facebook-f"></i></div>
+          <h3>Facebook</h3>
+          <p>Follow daily posts, stories, and spiritual reflections. Send a direct message.</p>
+          <span class="handle">@syed.saleem.raza.kazmi.2025</span>
+        </a>
+        <a href="https://www.instagram.com/ishq_e_ali_as" target="_blank" rel="noopener" class="cc">
+          <div class="icon ig-icon"><i class="fab fa-instagram"></i></div>
+          <h3>Instagram</h3>
+          <p>Daily spiritual content, reels, and behind-the-scenes of the spiritual journey.</p>
+          <span class="handle">@ishq_e_ali_as</span>
+        </a>
+        <a href="https://wa.me/923244787885" target="_blank" rel="noopener" class="cc">
+          <div class="icon wa-icon"><i class="fab fa-whatsapp"></i></div>
+          <h3>WhatsApp</h3>
+          <p>Direct personal message. Reach out for guidance, prayers, and blessings.</p>
+          <span class="handle">+92 324 4787885</span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- EMBEDDED FEED -->
+  <section class="section" style="background: var(--cream); padding-bottom: 4rem;">
+    <div class="section-inner">
+      <div class="section-title">
+        <h2>Latest from Facebook</h2>
+        <div class="divider"></div>
+        <p>Follow the spiritual journey in real time</p>
+      </div>
+      <div style="max-width:500px; margin:0 auto; border-radius:var(--radius); overflow:hidden; box-shadow:var(--shadow);">
+        <div id="fb-root"></div>
+        <div class="fb-page"
+          data-href="https://www.facebook.com/syed.saleem.raza.kazmi.2025"
+          data-tabs="timeline"
+          data-width=""
+          data-height="600"
+          data-small-header="false"
+          data-adapt-container-width="true"
+          data-hide-cover="false"
+          data-show-facepile="true">
+          <blockquote cite="https://www.facebook.com/syed.saleem.raza.kazmi.2025" class="fb-xfbml-parse-ignore">
+            <a href="https://www.facebook.com/syed.saleem.raza.kazmi.2025">Syed Saleem Raza Kazmi</a>
+          </blockquote>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; <span id="year"></span> Syed Saleem Raza Kazmi · Pir Goray Shah</p>
+  </footer>
+
+  <div class="floating">
+    <a href="https://www.facebook.com/syed.saleem.raza.kazmi.2025" target="_blank" rel="noopener" class="f-fb"><i class="fab fa-facebook-f"></i></a>
+    <a href="https://www.instagram.com/ishq_e_ali_as" target="_blank" rel="noopener" class="f-ig"><i class="fab fa-instagram"></i></a>
+    <a href="https://wa.me/923244787885" target="_blank" rel="noopener" class="f-wa"><i class="fab fa-whatsapp"></i></a>
+  </div>
+
+  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v19.0"></script>
+  <script src="app.js"></script>
+</body>
+</html>

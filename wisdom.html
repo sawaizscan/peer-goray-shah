@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Spiritual Wisdom – Syed Saleem Raza Kazmi</title>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600&family=Noto+Nastaliq+Urdu:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <nav id="navbar">
+    <div class="nav-inner">
+      <a href="index.html" class="nav-logo">Saleem Raza <span>· Pir</span></a>
+      <button class="nav-toggle" id="navToggle" aria-label="Menu"><i class="fas fa-bars"></i></button>
+      <ul class="nav-links" id="navLinks">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="wisdom.html">Wisdom</a></li>
+        <li><a href="amal.html">Aʻmāl</a></li>
+        <li><a href="contact.html">Connect</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <div class="page-header">
+    <h1>Spiritual Wisdom</h1>
+    <div class="divider"></div>
+    <p>اشراقات · تناقضات · رموز · توضیحات · تماثیل · شطحیات · ملفوظات · نصائح · اقوال · فرمودات</p>
+  </div>
+
+  <section class="section" style="background: var(--white);">
+    <div class="section-inner">
+
+      <!-- SEARCH -->
+      <div class="search-box">
+        <input type="text" id="wisdomSearch" placeholder="Search wisdom, author, source…">
+      </div>
+
+      <!-- FILTERS -->
+      <div class="filters" id="categoryFilters"></div>
+      <div class="filters" id="langFilters"></div>
+
+      <!-- COUNT -->
+      <div class="count-badge" id="resultCount"></div>
+
+      <!-- GRID -->
+      <div class="card-grid" id="wisdomGrid"></div>
+
+      <div class="empty-state" id="emptyState" style="display:none;">
+        <i class="fas fa-search"></i>
+        <p>No entries match your filter.</p>
+      </div>
+
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; <span id="year"></span> Syed Saleem Raza Kazmi · Pir Goray Shah</p>
+  </footer>
+
+  <div class="floating">
+    <a href="https://www.facebook.com/syed.saleem.raza.kazmi.2025" target="_blank" rel="noopener" class="f-fb"><i class="fab fa-facebook-f"></i></a>
+    <a href="https://www.instagram.com/ishq_e_ali_as" target="_blank" rel="noopener" class="f-ig"><i class="fab fa-instagram"></i></a>
+    <a href="https://wa.me/923244787885" target="_blank" rel="noopener" class="f-wa"><i class="fab fa-whatsapp"></i></a>
+  </div>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+  <script>
+    (function() {
+      const ALL = WISDOM_DATA;
+
+      // extract unique categories & languages
+      const cats = [...new Set(ALL.map(d => d.category))];
+      const langs = [...new Set(ALL.map(d => d.language))];
+      const langLabels = { ar: 'العربية', fa: 'فارسی', tr: 'Türkçe', en: 'English', ur: 'اردو' };
+
+      let activeCat = null;
+      let activeLang = null;
+      let searchQ = '';
+
+      function render() {
+        let filtered = ALL;
+
+        if (activeCat) filtered = filtered.filter(d => d.category === activeCat);
+        if (activeLang) filtered = filtered.filter(d => d.language === activeLang);
+        if (searchQ) {
+          const q = searchQ.toLowerCase();
+          filtered = filtered.filter(d =>
+            d.text_original.toLowerCase().includes(q) ||
+            d.text_urdu.includes(q) ||
+            d.author.toLowerCase().includes(q) ||
+            d.source.toLowerCase().includes(q)
+          );
+        }
+
+        const grid = document.getElementById('wisdomGrid');
+        const empty = document.getElementById('emptyState');
+        const count = document.getElementById('resultCount');
+
+        count.textContent = filtered.length + ' of ' + ALL.length + ' entries';
+
+        if (filtered.length === 0) {
+          grid.innerHTML = '';
+          empty.style.display = 'block';
+          return;
+        }
+        empty.style.display = 'none';
+
+        grid.innerHTML = filtered.map(d => {
+          const isRtl = d.language === 'ar' || d.language === 'fa' || d.language === 'ur';
+          const origClass = isRtl ? '' : ' en';
+          return `<div class="card">
+            <div>
+              <span class="cat">${d.category}</span>
+              <span class="lang">${langLabels[d.language] || d.language}</span>
+            </div>
+            <div class="orig${origClass}">${d.text_original}</div>
+            <div class="trans">${d.text_urdu}</div>
+            <div class="meta">
+              <span>${d.author}</span>
+              <span>${d.source}</span>
+            </div>
+          </div>`;
+        }).join('');
+      }
+
+      // build filter buttons
+      const catContainer = document.getElementById('categoryFilters');
+      catContainer.innerHTML = '<button class="filter-btn active" data-cat="">All Categories</button>' +
+        cats.map(c => `<button class="filter-btn" data-cat="${c}">${c}</button>`).join('');
+
+      const langContainer = document.getElementById('langFilters');
+      langContainer.innerHTML = '<button class="filter-btn active" data-lang="">All Languages</button>' +
+        langs.map(l => `<button class="filter-btn" data-lang="${l}">${langLabels[l] || l}</button>`).join('');
+
+      // category filter clicks
+      catContainer.addEventListener('click', e => {
+        const btn = e.target.closest('.filter-btn');
+        if (!btn) return;
+        catContainer.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        activeCat = btn.dataset.cat || null;
+        render();
+      });
+
+      // language filter clicks
+      langContainer.addEventListener('click', e => {
+        const btn = e.target.closest('.filter-btn');
+        if (!btn) return;
+        langContainer.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        activeLang = btn.dataset.lang || null;
+        render();
+      });
+
+      // search
+      document.getElementById('wisdomSearch').addEventListener('input', e => {
+        searchQ = e.target.value;
+        render();
+      });
+
+      render();
+    })();
+  </script>
+</body>
+</html>
