@@ -1,16 +1,15 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" dir="ltr">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Syed Saleem Raza Kazmi – Pir Goray Shah</title>
-  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600&family=Noto+Nastaliq+Urdu:wght@400;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600&family=Noto+Nastaliq+Urdu:wght@400;600;700&family=Amiri:wght@400;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-  <!-- NAV -->
   <nav id="navbar">
     <div class="nav-inner">
       <a href="index.html" class="nav-logo">Syed Saleem Raza Kazmi<span class="sub">پیر گورے شاہ</span></a>
@@ -24,7 +23,6 @@
     </div>
   </nav>
 
-  <!-- HERO -->
   <header class="hero" id="home">
     <div class="hero-pattern"></div>
     <div class="hero-content">
@@ -47,27 +45,17 @@
     </div>
   </header>
 
-  <!-- QUOTE TEASER -->
   <section class="section" style="background: var(--white);">
     <div class="section-inner">
       <div class="section-title">
-        <h2>اقتباس · Selected Wisdom</h2>
+        <h2>الیوم · اقتباس</h2>
         <div class="divider"></div>
-        <p>A glimpse into the treasury of spiritual illuminations</p>
+        <p>Today's selection from the treasury</p>
       </div>
-      <div style="max-width: 700px; margin: 0 auto; text-align: center;">
-        <div id="homeQuote" style="padding: 2rem; border-radius: var(--radius-lg); background: linear-gradient(135deg, var(--primary), var(--primary-dark));">
-          <p id="hqCategory" style="font-size:0.65rem; letter-spacing:2.5px; text-transform:uppercase; color:var(--gold-light); margin-bottom:1rem;"></p>
-          <p id="hqUrdu" style="font-family:'Noto Nastaliq Urdu',serif; font-size:clamp(1.2rem,2.5vw,1.6rem); color:var(--white); line-height:2; margin-bottom:1rem; direction:rtl;"></p>
-          <p id="hqEnglish" style="font-family:'Playfair Display',serif; font-size:clamp(0.9rem,1.8vw,1.1rem); color:rgba(255,255,255,0.7); font-style:italic; line-height:1.7;"></p>
-          <p id="hqSource" style="font-size:0.75rem; color:var(--gold); margin-top:1rem; opacity:0.7;"></p>
-        </div>
-        <a href="wisdom.html" class="btn btn-gold" style="margin-top:1.5rem;"><i class="fas fa-arrow-right"></i> Browse All 50+ Entries</a>
-      </div>
+      <div id="dailyQuote" style="max-width: 700px; margin: 0 auto;"></div>
     </div>
   </section>
 
-  <!-- QUICK LINKS -->
   <section class="section" style="background: var(--cream);">
     <div class="section-inner">
       <div class="section-title">
@@ -79,12 +67,12 @@
         <a href="wisdom.html" style="background:var(--white); border-radius:var(--radius); padding:2rem; text-align:center; box-shadow:var(--shadow-sm); border:1px solid rgba(0,0,0,0.04); transition:all 0.3s; text-decoration:none; display:block;">
           <i class="fas fa-lightbulb" style="font-size:1.8rem; color:var(--gold); margin-bottom:0.75rem;"></i>
           <h4 style="color:var(--text); margin-bottom:0.25rem; font-family:'Playfair Display',serif;">Wisdom · اشراقات</h4>
-          <p style="color:var(--text-light); font-size:0.8rem;">Ashraq, Tanaqazat, Ramz, Tamaseel & more — original texts with Urdu translation</p>
+          <p style="color:var(--text-light); font-size:0.8rem;">Ashraqat, Tanaquzat, Ramuz — original texts with Urdu translation and spiritual analysis</p>
         </a>
         <a href="amal.html" style="background:var(--white); border-radius:var(--radius); padding:2rem; text-align:center; box-shadow:var(--shadow-sm); border:1px solid rgba(0,0,0,0.04); transition:all 0.3s; text-decoration:none; display:block;">
           <i class="fas fa-hands-praying" style="font-size:1.8rem; color:var(--primary); margin-bottom:0.75rem;"></i>
           <h4 style="color:var(--text); margin-bottom:0.25rem; font-family:'Playfair Display',serif;">Aʻmāl · اعمال</h4>
-          <p style="color:var(--text-light); font-size:0.8rem;">Aurād, prayers, practices for sustenance, protection & spiritual elevation</p>
+          <p style="color:var(--text-light); font-size:0.8rem;">Aurād, prayers, practices from verified sources</p>
         </a>
         <a href="contact.html" style="background:var(--white); border-radius:var(--radius); padding:2rem; text-align:center; box-shadow:var(--shadow-sm); border:1px solid rgba(0,0,0,0.04); transition:all 0.3s; text-decoration:none; display:block;">
           <i class="fas fa-envelope" style="font-size:1.8rem; color:#1877F2; margin-bottom:0.75rem;"></i>
@@ -95,29 +83,43 @@
     </div>
   </section>
 
-  <!-- FOOTER -->
   <footer>
     <p>&copy; <span id="year"></span> Syed Saleem Raza Kazmi · Pir Goray Shah &mdash; crafted with <span class="heart">&hearts;</span> in the light of faith</p>
   </footer>
 
-  <!-- FLOATING -->
   <div class="floating">
     <a href="https://www.facebook.com/syed.saleem.raza.kazmi.2025" target="_blank" rel="noopener" class="f-fb" title="Facebook"><i class="fab fa-facebook-f"></i></a>
     <a href="https://www.instagram.com/ishq_e_ali_as" target="_blank" rel="noopener" class="f-ig" title="Instagram"><i class="fab fa-instagram"></i></a>
     <a href="https://wa.me/923244787885" target="_blank" rel="noopener" class="f-wa" title="WhatsApp"><i class="fab fa-whatsapp"></i></a>
   </div>
 
-  <script src="data.js"></script>
   <script src="app.js"></script>
   <script>
-    document.addEventListener('DOMContentLoaded', () => {
-      const pool = WISDOM_DATA.filter(q => q.language === 'ar' || q.language === 'fa');
-      const pick = pool.length ? pool[Math.floor(Math.random() * pool.length)] : WISDOM_DATA[0];
-      if (pick) {
-        document.getElementById('hqCategory').textContent = pick.category;
-        document.getElementById('hqUrdu').textContent = pick.text_urdu;
-        document.getElementById('hqEnglish').textContent = pick.text_original;
-        document.getElementById('hqSource').textContent = '— ' + pick.author + ', ' + pick.source;
+    document.addEventListener('DOMContentLoaded', function() {
+      var stored = localStorage.getItem('peer_wisdom_data');
+      var data = [];
+      if (stored) {
+        try { data = JSON.parse(stored); } catch(e) {}
+      }
+      if (!data.length) {
+        var xhr = new XMLHttpRequest();
+        xhr.open('GET', 'data.json', false);
+        xhr.onload = function() {
+          try { data = JSON.parse(xhr.responseText); } catch(e) {}
+        };
+        xhr.send();
+      }
+      if (data.length) {
+        var idx = new Date().getDate() % data.length;
+        var q = data[idx];
+        var container = document.getElementById('dailyQuote');
+        container.innerHTML =
+          '<div style="padding: 2rem; border-radius: var(--radius-lg); background: linear-gradient(160deg, var(--primary-deeper), var(--primary-dark)); text-align: center;">' +
+          '<p style="font-size:0.6rem; letter-spacing:2.5px; text-transform:uppercase; color:var(--gold-light); margin-bottom:0.75rem;">' + q.source_person + ' · ' + q.category + '</p>' +
+          '<p style="font-family:\'Amiri\',serif; font-size:clamp(1.2rem,2.5vw,1.6rem); color:var(--gold); line-height:2; margin-bottom:0.75rem; direction:rtl;">' + q.original + '</p>' +
+          '<p style="font-family:\'Noto Nastaliq Urdu\',serif; font-size:clamp(0.9rem,1.8vw,1.15rem); color:rgba(255,255,255,0.8); line-height:1.8; direction:rtl; margin-bottom:0.75rem;">' + q.urdu + '</p>' +
+          '<p style="font-size:0.7rem; color:rgba(255,255,255,0.4);">' + q.makhaz + '</p>' +
+          '</div>';
       }
     });
   </script>

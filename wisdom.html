@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" dir="ltr">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Spiritual Wisdom – Syed Saleem Raza Kazmi</title>
-  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600&family=Noto+Nastaliq+Urdu:wght@400;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600&family=Noto+Nastaliq+Urdu:wght@400;600;700&family=Amiri:wght@400;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
   <link rel="stylesheet" href="style.css">
 </head>
@@ -24,22 +24,26 @@
   </nav>
 
   <div class="page-header">
-    <h1>Spiritual Wisdom</h1>
+    <h1>Spiritual Wisdom · اقوال و حکمتیں</h1>
     <div class="divider"></div>
-    <p>اشراقات · تناقضات · رموز · توضیحات · تماثیل · شطحیات · ملفوظات · نصائح · اقوال · فرمودات</p>
+    <p>گہرے اشراقات · تناقضات · رموز — Basair al-Darajat, Tuhaf al-Uqul, Tamhidat, Malfuzat & more</p>
   </div>
 
   <section class="section" style="background: var(--white);">
     <div class="section-inner">
 
+      <!-- TODAY'S RAREST -->
+      <div id="rarestContainer"></div>
+
       <!-- SEARCH -->
       <div class="search-box">
-        <input type="text" id="wisdomSearch" placeholder="Search wisdom, author, source…">
+        <input type="text" id="wisdomSearch" placeholder="Search original text, Urdu, source_person, source…">
       </div>
 
       <!-- FILTERS -->
       <div class="filters" id="categoryFilters"></div>
-      <div class="filters" id="langFilters"></div>
+      <div class="filters" id="sourceFilters"></div>
+      <div class="filters" id="rarityFilters"></div>
 
       <!-- COUNT -->
       <div class="count-badge" id="resultCount"></div>
@@ -65,103 +69,148 @@
     <a href="https://wa.me/923244787885" target="_blank" rel="noopener" class="f-wa"><i class="fab fa-whatsapp"></i></a>
   </div>
 
-  <script src="data.js"></script>
   <script src="app.js"></script>
   <script>
     (function() {
-      const ALL = WISDOM_DATA;
+      var ALL = [];
+      var dataLoaded = false;
 
-      // extract unique categories & languages
-      const cats = [...new Set(ALL.map(d => d.category))];
-      const langs = [...new Set(ALL.map(d => d.language))];
-      const langLabels = { ar: 'العربية', fa: 'فارسی', tr: 'Türkçe', en: 'English', ur: 'اردو' };
+      function loadData() {
+        // Try localStorage first
+        var stored = localStorage.getItem('peer_wisdom_data');
+        var storedDate = localStorage.getItem('peer_wisdom_date');
+        var today = new Date().toDateString();
 
-      let activeCat = null;
-      let activeLang = null;
-      let searchQ = '';
-
-      function render() {
-        let filtered = ALL;
-
-        if (activeCat) filtered = filtered.filter(d => d.category === activeCat);
-        if (activeLang) filtered = filtered.filter(d => d.language === activeLang);
-        if (searchQ) {
-          const q = searchQ.toLowerCase();
-          filtered = filtered.filter(d =>
-            d.text_original.toLowerCase().includes(q) ||
-            d.text_urdu.includes(q) ||
-            d.author.toLowerCase().includes(q) ||
-            d.source.toLowerCase().includes(q)
-          );
+        if (stored && storedDate === today) {
+          try { ALL = JSON.parse(stored); dataLoaded = true; return; } catch(e) {}
         }
 
-        const grid = document.getElementById('wisdomGrid');
-        const empty = document.getElementById('emptyState');
-        const count = document.getElementById('resultCount');
-
-        count.textContent = filtered.length + ' of ' + ALL.length + ' entries';
-
-        if (filtered.length === 0) {
-          grid.innerHTML = '';
-          empty.style.display = 'block';
-          return;
-        }
-        empty.style.display = 'none';
-
-        grid.innerHTML = filtered.map(d => {
-          const isRtl = d.language === 'ar' || d.language === 'fa' || d.language === 'ur';
-          const origClass = isRtl ? '' : ' en';
-          return `<div class="card">
-            <div>
-              <span class="cat">${d.category}</span>
-              <span class="lang">${langLabels[d.language] || d.language}</span>
-            </div>
-            <div class="orig${origClass}">${d.text_original}</div>
-            <div class="trans">${d.text_urdu}</div>
-            <div class="meta">
-              <span>${d.author}</span>
-              <span>${d.source}</span>
-            </div>
-          </div>`;
-        }).join('');
+        // Fetch fresh
+        var xhr = new XMLHttpRequest();
+        xhr.open('GET', 'data.json', true);
+        xhr.onload = function() {
+          try {
+            ALL = JSON.parse(xhr.responseText);
+            dataLoaded = true;
+            localStorage.setItem('peer_wisdom_data', xhr.responseText);
+            localStorage.setItem('peer_wisdom_date', today);
+            init();
+          } catch(e) { console.error('JSON parse error'); }
+        };
+        xhr.onerror = function() { console.error('Failed to load data.json'); };
+        xhr.send();
       }
 
-      // build filter buttons
-      const catContainer = document.getElementById('categoryFilters');
-      catContainer.innerHTML = '<button class="filter-btn active" data-cat="">All Categories</button>' +
-        cats.map(c => `<button class="filter-btn" data-cat="${c}">${c}</button>`).join('');
+      function init() {
+        if (!dataLoaded || !ALL.length) return;
 
-      const langContainer = document.getElementById('langFilters');
-      langContainer.innerHTML = '<button class="filter-btn active" data-lang="">All Languages</button>' +
-        langs.map(l => `<button class="filter-btn" data-lang="${l}">${langLabels[l] || l}</button>`).join('');
+        // ─── TODAY'S RAREST ───
+        var rarestPool = ALL.filter(function(d) { return d.rarity === 'Nadir-tareen'; });
+        if (rarestPool.length) {
+          var dayIndex = new Date().getDate() % rarestPool.length;
+          var r = rarestPool[dayIndex];
+          var rc = document.getElementById('rarestContainer');
+          rc.innerHTML =
+            '<div class="rarest-section">' +
+            '<div class="badge"><i class="fas fa-gem"></i> نادر ترین · Today's Rarest</div>' +
+            '<div class="ra">' + r.original + '</div>' +
+            '<div class="ru">' + r.urdu + '</div>' +
+            '<div class="r-meta">' +
+            '<span><i class="fas fa-user"></i> ' + r.source_person + '</span>' +
+            '<span><i class="fas fa-tag"></i> ' + r.category + '</span>' +
+            '<span><i class="fas fa-book"></i> ' + r.makhaz + '</span>' +
+            '</div></div>';
+        }
 
-      // category filter clicks
-      catContainer.addEventListener('click', e => {
-        const btn = e.target.closest('.filter-btn');
-        if (!btn) return;
-        catContainer.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
-        btn.classList.add('active');
-        activeCat = btn.dataset.cat || null;
+        // ─── FILTERS ───
+        var cats = [...new Set(ALL.map(function(d) { return d.category; }))];
+        var sources = [...new Set(ALL.map(function(d) { return d.source_person; }))];
+        var rarities = [...new Set(ALL.map(function(d) { return d.rarity; }))];
+        var rarityLabels = { 'Nadir': 'نادر', 'Khas': 'خاص', 'Nadir-tareen': 'نادر ترین' };
+
+        var activeCat = '', activeSource = '', activeRarity = '', searchQ = '';
+
+        function buildFilter(containerId, items, labelMap, prefix, activeVar) {
+          var c = document.getElementById(containerId);
+          if (!c) return;
+          var html = '<button class="filter-btn active" data-key="" data-prefix="' + prefix + '">All</button>';
+          items.forEach(function(item) {
+            html += '<button class="filter-btn" data-key="' + item + '" data-prefix="' + prefix + '">' + (labelMap && labelMap[item] ? labelMap[item] : item) + '</button>';
+          });
+          c.innerHTML = html;
+
+          c.addEventListener('click', function(e) {
+            var btn = e.target.closest('.filter-btn');
+            if (!btn) return;
+            c.querySelectorAll('.filter-btn').forEach(function(b) { b.classList.remove('active'); });
+            btn.classList.add('active');
+            var prefix = btn.dataset.prefix;
+            var key = btn.dataset.key;
+            if (prefix === 'cat') activeCat = key;
+            else if (prefix === 'src') activeSource = key;
+            else if (prefix === 'rar') activeRarity = key;
+            render();
+          });
+        }
+
+        buildFilter('categoryFilters', cats, null, 'cat', activeCat);
+        buildFilter('sourceFilters', sources, null, 'src', activeSource);
+        buildFilter('rarityFilters', rarities, rarityLabels, 'rar', activeRarity);
+
+        // ─── SEARCH ───
+        document.getElementById('wisdomSearch').addEventListener('input', function(e) {
+          searchQ = e.target.value.toLowerCase();
+          render();
+        });
+
+        // ─── RENDER ───
+        function render() {
+          var filtered = ALL;
+          if (activeCat) filtered = filtered.filter(function(d) { return d.category === activeCat; });
+          if (activeSource) filtered = filtered.filter(function(d) { return d.source_person === activeSource; });
+          if (activeRarity) filtered = filtered.filter(function(d) { return d.rarity === activeRarity; });
+          if (searchQ) {
+            filtered = filtered.filter(function(d) {
+              return (d.original && d.original.toLowerCase().includes(searchQ)) ||
+                     (d.urdu && d.urdu.includes(searchQ)) ||
+                     (d.source_person && d.source_person.toLowerCase().includes(searchQ)) ||
+                     (d.makhaz && d.makhaz.toLowerCase().includes(searchQ));
+            });
+          }
+
+          document.getElementById('resultCount').textContent = filtered.length + ' of ' + ALL.length + ' entries';
+          var grid = document.getElementById('wisdomGrid');
+          var empty = document.getElementById('emptyState');
+
+          if (!filtered.length) {
+            grid.innerHTML = '';
+            empty.style.display = 'block';
+            return;
+          }
+          empty.style.display = 'none';
+
+          grid.innerHTML = filtered.map(function(d) {
+            var rarityClass = d.rarity === 'Nadir-tareen' ? 'Nadir-tareen' : (d.rarity === 'Khas' ? 'Khas' : 'Nadir');
+            return '<div class="card">' +
+              '<div class="card-header">' +
+                '<span class="cat">' + d.category + '</span>' +
+                '<span class="rarity ' + rarityClass + '">' + (rarityLabels[d.rarity] || d.rarity) + '</span>' +
+              '</div>' +
+              '<div class="source-person"><i class="fas fa-user"></i> ' + d.source_person + '</div>' +
+              '<div class="original">' + d.original + '</div>' +
+              '<div class="urdu">' + d.urdu + '</div>' +
+              '<div class="ishraq-section"><div class="label"><i class="fas fa-sun"></i> اشراق</div><div class="content">' + d.ishraqat + '</div></div>' +
+              '<div class="tanaquz-section"><div class="label"><i class="fas fa-balance-scale"></i> تناقض</div><div class="content">' + d.tanaquz + '</div></div>' +
+              '<div class="related-section"><div class="label">متعلقہ قول</div><div class="content">' + d.related + '</div></div>' +
+              '<div class="meta"><span><i class="fas fa-book"></i> ' + d.makhaz + '</span></div>' +
+            '</div>';
+          }).join('');
+        }
+
         render();
-      });
+      }
 
-      // language filter clicks
-      langContainer.addEventListener('click', e => {
-        const btn = e.target.closest('.filter-btn');
-        if (!btn) return;
-        langContainer.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
-        btn.classList.add('active');
-        activeLang = btn.dataset.lang || null;
-        render();
-      });
-
-      // search
-      document.getElementById('wisdomSearch').addEventListener('input', e => {
-        searchQ = e.target.value;
-        render();
-      });
-
-      render();
+      loadData();
     })();
   </script>
 </body>

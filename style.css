@@ -12,6 +12,8 @@
   --text-light: #6b6b7e;
   --text-muted: #9a9aae;
   --white: #ffffff;
+  --ishraq: #1a7a3a;
+  --tanaquz: #6a3a8a;
   --shadow-sm: 0 2px 12px rgba(0,0,0,0.05);
   --shadow: 0 8px 40px rgba(0,0,0,0.08);
   --shadow-lg: 0 20px 60px rgba(0,0,0,0.12);
@@ -303,11 +305,11 @@ nav.scrolled {
 }
 .section-title p { color: var(--text-light); font-size: 0.9rem; max-width: 500px; margin: 0 auto; }
 
-/* ─── CARDS ─── */
+/* ─── ISLAMIC GEOMETRIC CARD ─── */
 .card-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-  gap: 1.25rem;
+  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+  gap: 1.5rem;
 }
 .card {
   background: var(--white);
@@ -316,10 +318,31 @@ nav.scrolled {
   box-shadow: var(--shadow-sm);
   border: 1px solid rgba(0,0,0,0.04);
   transition: all 0.3s;
+  position: relative;
+  overflow: hidden;
+}
+.card::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%; height: 4px;
+  background: linear-gradient(90deg, var(--gold), var(--primary), var(--gold));
+  opacity: 0.6;
 }
 .card:hover { box-shadow: var(--shadow); transform: translateY(-3px); }
+
+.card .card-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-bottom: 1rem;
+}
 .card .cat {
-  display: inline-block;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
   font-size: 0.6rem;
   letter-spacing: 1.5px;
   text-transform: uppercase;
@@ -328,45 +351,197 @@ nav.scrolled {
   background: rgba(10,74,42,0.06);
   color: var(--primary);
   border: 1px solid rgba(10,74,42,0.1);
-  margin-bottom: 0.75rem;
 }
-.card .lang {
-  display: inline-block;
-  font-size: 0.6rem;
-  padding: 0.15rem 0.5rem;
-  border-radius: 4px;
-  background: rgba(184,148,46,0.1);
-  color: var(--gold);
-  margin-left: 0.4rem;
+.card .rarity {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  font-size: 0.55rem;
+  letter-spacing: 1px;
+  padding: 0.15rem 0.6rem;
+  border-radius: 50px;
   font-weight: 600;
 }
-.card .orig {
-  font-size: 1.1rem;
-  line-height: 1.7;
+.card .rarity.Nadir { background: rgba(184,148,46,0.12); color: var(--gold); border: 1px solid rgba(184,148,46,0.2); }
+.card .rarity.Khas { background: rgba(10,74,42,0.1); color: var(--primary); border: 1px solid rgba(10,74,42,0.15); }
+.card .rarity.Nadir-tareen { background: rgba(106,58,138,0.1); color: var(--tanaquz); border: 1px solid rgba(106,58,138,0.2); }
+
+.card .source-person {
+  font-size: 0.72rem;
+  color: var(--text-muted);
+  margin-bottom: 0.75rem;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+.card .source-person i { color: var(--gold); font-size: 0.6rem; }
+
+.card .original {
+  font-family: 'Amiri', 'Traditional Arabic', serif;
+  font-size: 1.25rem;
+  line-height: 1.8;
   margin-bottom: 0.75rem;
   direction: rtl;
-  font-family: 'Noto Nastaliq Urdu', 'Traditional Arabic', serif;
+  color: var(--gold);
+  text-align: center;
+  padding: 0.75rem 0;
+  border-bottom: 1px dashed rgba(184,148,46,0.15);
 }
-.card .orig.en { direction: ltr; font-family: 'Playfair Display', serif; font-style: italic; }
-.card .orig.tr { direction: ltr; font-family: 'Playfair Display', serif; font-style: italic; }
-.card .trans {
-  font-size: 0.85rem;
-  color: var(--text-light);
+
+.card .urdu {
+  font-family: 'Noto Nastaliq Urdu', serif;
+  font-size: 0.95rem;
+  line-height: 1.8;
+  direction: rtl;
+  margin-bottom: 1rem;
+  padding: 0.5rem 0;
+  color: var(--text);
+}
+
+.card .ishraq-section {
+  margin-bottom: 0.6rem;
+  padding: 0.6rem 0.75rem;
+  background: rgba(26,122,58,0.04);
+  border-radius: 8px;
+  border-right: 2px solid var(--ishraq);
+}
+.card .ishraq-section .label {
+  font-size: 0.6rem;
+  font-weight: 600;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: var(--ishraq);
+  margin-bottom: 0.3rem;
+}
+.card .ishraq-section .content {
+  font-size: 0.82rem;
+  color: #1a5a2a;
   line-height: 1.6;
+  direction: rtl;
+  font-family: 'Noto Nastaliq Urdu', serif;
+}
+
+.card .tanaquz-section {
   margin-bottom: 0.75rem;
-  padding: 0.75rem;
+  padding: 0.6rem 0.75rem;
+  background: rgba(106,58,138,0.04);
+  border-radius: 8px;
+  border-right: 2px solid var(--tanaquz);
+}
+.card .tanaquz-section .label {
+  font-size: 0.6rem;
+  font-weight: 600;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: var(--tanaquz);
+  margin-bottom: 0.3rem;
+}
+.card .tanaquz-section .content {
+  font-size: 0.82rem;
+  color: #5a2a6a;
+  line-height: 1.6;
+  direction: rtl;
+  font-family: 'Noto Nastaliq Urdu', serif;
+  font-style: italic;
+}
+
+.card .related-section {
+  margin-bottom: 0.75rem;
+  padding: 0.5rem 0.75rem;
   background: rgba(0,0,0,0.02);
   border-radius: 8px;
-  border-left: 2px solid var(--gold);
+  border-right: 2px solid var(--gold-light);
 }
+.card .related-section .label {
+  font-size: 0.6rem;
+  font-weight: 600;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin-bottom: 0.2rem;
+}
+.card .related-section .content {
+  font-size: 0.78rem;
+  color: var(--text-light);
+  line-height: 1.5;
+  direction: rtl;
+  font-family: 'Noto Nastaliq Urdu', serif;
+}
+
 .card .meta {
-  font-size: 0.72rem;
+  font-size: 0.68rem;
   color: var(--text-muted);
   display: flex;
   flex-wrap: wrap;
   gap: 0.5rem;
+  margin-top: 0.5rem;
+  padding-top: 0.5rem;
+  border-top: 1px solid rgba(0,0,0,0.04);
 }
-.card .meta span { background: rgba(0,0,0,0.03); padding: 0.15rem 0.5rem; border-radius: 4px; }
+.card .meta span {
+  background: rgba(0,0,0,0.03);
+  padding: 0.15rem 0.5rem;
+  border-radius: 4px;
+  font-size: 0.65rem;
+}
+
+/* ─── RAREST QUOTE SECTION ─── */
+.rarest-section {
+  max-width: 800px;
+  margin: 0 auto 3rem;
+  padding: 2rem;
+  border-radius: var(--radius-lg);
+  background: linear-gradient(160deg, var(--primary-deeper), var(--primary-dark));
+  position: relative;
+  overflow: hidden;
+  text-align: center;
+}
+.rarest-section::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border: 1px solid rgba(184,148,46,0.1);
+  border-radius: var(--radius-lg);
+  pointer-events: none;
+}
+.rarest-section .badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  background: rgba(184,148,46,0.12);
+  border: 1px solid rgba(184,148,46,0.2);
+  color: var(--gold-light);
+  padding: 0.25rem 1rem;
+  border-radius: 50px;
+  font-size: 0.6rem;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-bottom: 1rem;
+}
+.rarest-section .ra {
+  font-family: 'Amiri', 'Traditional Arabic', serif;
+  font-size: clamp(1.3rem, 3vw, 1.8rem);
+  color: var(--gold);
+  line-height: 1.8;
+  direction: rtl;
+  margin-bottom: 0.75rem;
+}
+.rarest-section .ru {
+  font-family: 'Noto Nastaliq Urdu', serif;
+  font-size: clamp(0.95rem, 2vw, 1.15rem);
+  color: rgba(255,255,255,0.85);
+  line-height: 1.8;
+  direction: rtl;
+  margin-bottom: 0.75rem;
+}
+.rarest-section .r-meta {
+  font-size: 0.75rem;
+  color: rgba(255,255,255,0.4);
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
 
 /* ─── FILTERS ─── */
 .filters {
