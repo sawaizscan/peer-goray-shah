@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" dir="ltr">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Aʻmāl & Practices – Syed Saleem Raza Kazmi</title>
-  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600&family=Noto+Nastaliq+Urdu:wght@400;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600&family=Noto+Nastaliq+Urdu:wght@400;600;700&family=Amiri:wght@400;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
   <link rel="stylesheet" href="style.css">
 </head>
@@ -26,7 +26,7 @@
   <div class="page-header">
     <h1>اعمال · وظائف · اوراد</h1>
     <div class="divider"></div>
-    <p>Selected spiritual practices for sustenance, protection, and nearness — from verified sources</p>
+    <p>Verified spiritual practices from Mehj al-Da'awat, Shams al-Ma'arif, Makarim al-Akhlaq, Tibb al-Aimma & more</p>
   </div>
 
   <section class="section" style="background: var(--white);">
@@ -53,60 +53,99 @@
     <a href="https://wa.me/923244787885" target="_blank" rel="noopener" class="f-wa"><i class="fab fa-whatsapp"></i></a>
   </div>
 
-  <script src="data.js"></script>
   <script src="app.js"></script>
   <script>
     (function() {
-      const ALL = AMAL_DATA;
-      const cats = [...new Set(ALL.map(d => d.category))];
-      let activeCat = null;
+      var ALL = [];
+      var catLabels = {
+        'Hifazat': 'حفاظت',
+        'Taskhir': 'تسخیر',
+        'Rizq': 'رزق',
+        'Sehr': 'سحر و آسیب'
+      };
 
-      function render() {
-        const filtered = activeCat ? ALL.filter(d => d.category === activeCat) : ALL;
-        document.getElementById('amalCount').textContent = filtered.length + ' of ' + ALL.length + ' practices';
-        const list = document.getElementById('amalList');
-        const empty = document.getElementById('amalEmpty');
+      function loadData() {
+        var stored = localStorage.getItem('peer_amal_data');
+        var storedDate = localStorage.getItem('peer_amal_date');
+        var today = new Date().toDateString();
 
-        if (filtered.length === 0) {
-          list.innerHTML = '';
-          empty.style.display = 'block';
-          return;
+        if (stored && storedDate === today) {
+          try { ALL = JSON.parse(stored); init(); return; } catch(e) {}
         }
-        empty.style.display = 'none';
 
-        list.innerHTML = filtered.map(d => {
-          const isRtl = d.language === 'ar' || d.language === 'fa' || d.language === 'ur';
-          const cls = isRtl ? '' : ' en';
-          return `<div class="amal-card">
-            <div class="amal-header">
-              <h3>${d.category} · ${d.source}</h3>
-              <div class="amal-cats"><span>${d.category}</span><span>${d.language}</span></div>
-            </div>
-            <div class="amal-text${cls}">${d.text_original}</div>
-            <div class="amal-trans">${d.text_urdu}</div>
-            <div class="amal-source">
-              <span>${d.author}</span>
-              <span>${d.source}</span>
-            </div>
-          </div>`;
-        }).join('');
+        var xhr = new XMLHttpRequest();
+        xhr.open('GET', 'amal.json', true);
+        xhr.onload = function() {
+          try {
+            ALL = JSON.parse(xhr.responseText);
+            localStorage.setItem('peer_amal_data', xhr.responseText);
+            localStorage.setItem('peer_amal_date', today);
+            init();
+          } catch(e) { console.error('JSON parse error'); }
+        };
+        xhr.onerror = function() { console.error('Failed to load amal.json'); };
+        xhr.send();
       }
 
-      // filters
-      const container = document.getElementById('amalFilters');
-      container.innerHTML = '<button class="filter-btn active" data-cat="">All</button>' +
-        cats.map(c => `<button class="filter-btn" data-cat="${c}">${c}</button>`).join('');
+      function init() {
+        if (!ALL.length) return;
 
-      container.addEventListener('click', e => {
-        const btn = e.target.closest('.filter-btn');
-        if (!btn) return;
-        container.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
-        btn.classList.add('active');
-        activeCat = btn.dataset.cat || null;
+        var cats = [...new Set(ALL.map(function(d) { return d.category; }))];
+
+        // filter buttons
+        var container = document.getElementById('amalFilters');
+        container.innerHTML = '<button class="filter-btn active" data-cat="">All</button>' +
+          cats.map(function(c) {
+            return '<button class="filter-btn" data-cat="' + c + '">' + (catLabels[c] || c) + '</button>';
+          }).join('');
+
+        var activeCat = '';
+
+        container.addEventListener('click', function(e) {
+          var btn = e.target.closest('.filter-btn');
+          if (!btn) return;
+          container.querySelectorAll('.filter-btn').forEach(function(b) { b.classList.remove('active'); });
+          btn.classList.add('active');
+          activeCat = btn.dataset.cat || '';
+          render();
+        });
+
+        function render() {
+          var filtered = activeCat ? ALL.filter(function(d) { return d.category === activeCat; }) : ALL;
+          document.getElementById('amalCount').textContent = filtered.length + ' of ' + ALL.length + ' practices';
+          var list = document.getElementById('amalList');
+          var empty = document.getElementById('amalEmpty');
+
+          if (!filtered.length) {
+            list.innerHTML = '';
+            empty.style.display = 'block';
+            return;
+          }
+          empty.style.display = 'none';
+
+          var catIcons = { 'Hifazat': 'fa-shield-halved', 'Taskhir': 'fa-heart', 'Rizq': 'fa-coins', 'Sehr': 'fa-cross' };
+
+          list.innerHTML = filtered.map(function(d) {
+            return '<div class="card" style="margin-bottom:1.25rem;">' +
+              '<div class="card-header">' +
+                '<span class="cat"><i class="fas ' + (catIcons[d.category] || 'fa-star') + '"></i> ' + (catLabels[d.category] || d.category) + '</span>' +
+                '<span style="font-size:0.6rem;color:var(--text-muted);">' + d.source_book + '</span>' +
+              '</div>' +
+              '<div class="original" style="text-align:center;">' + d.original + '</div>' +
+              '<div class="urdu" style="text-align:center;color:var(--text);">' + d.urdu + '</div>' +
+              '<div style="margin:0.75rem 0;padding:0.75rem;background:rgba(10,74,42,0.04);border-radius:8px;border-right:2px solid var(--primary);">' +
+                '<div style="font-size:0.6rem;font-weight:600;letter-spacing:1.5px;text-transform:uppercase;color:var(--primary);margin-bottom:0.3rem;"><i class="fas fa-list-check"></i> طریقہ · Methodology</div>' +
+                '<div style="font-size:0.82rem;color:var(--text);line-height:1.7;direction:rtl;font-family:\'Noto Nastaliq Urdu\',serif;">' + d.methodology + '</div>' +
+              '</div>' +
+              '<div class="meta"><span><i class="fas fa-book"></i> ' + d.source_ref + '</span></div>' +
+            '</div>';
+          }).join('');
+        }
+
         render();
-      });
+      }
 
-      render();
+      loadData();
     })();
   </script>
 </body>
