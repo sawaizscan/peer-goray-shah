@@ -97,14 +97,14 @@
   <script>
     (function() {
       var POEMS = [
-        { couplet: 'تُو خود آئینہ ہو اپنا، تجھے کیا ڈھونڈتا ہے\nوہی جلوہ ہے تیرا جو تجھے چاہیے ہو کر رہ گیا', poet: 'Syed Saleem Raza Kazmi', theme: 'Self-Knowledge', essence: 'The seeker is the sought — the mirror and the reflection are one.' },
-        { couplet: 'دل سے نکلا ہے جو دم، وہ دم پلٹ کر آتا ہے\nآئینہ خانہ میں جو دیکھے، وہیں سماتا ہے', poet: 'Mawlana Rumi', theme: 'Love', essence: 'Every breath born of the heart returns to it — the heart is both origin and destination.' },
-        { couplet: 'موت کا منظر نہ دیکھو، زندگی میں جھانکیے\nجو بھی ہے اسی پل میں، اس سے آگے جانکیے', poet: 'Mirza Ghalib', theme: 'Philosophy', essence: 'Death is not a separate event — it is the depth of the present moment itself.' },
-        { couplet: 'ہر اک ذرہ تجھے پکار رہا ہے\nمگر تُو اپنے شور میں گم ہے', poet: 'Iqbal', theme: 'Tawhid', essence: 'The universe is a ceaseless dhikr — only the veils of the self drown it out.' },
-        { couplet: 'عشق میں کافر و مومن کا کوئی فرق نہیں\nوہ تو اس کو بھی جلاتا ہے جس نے آگ کو بجھایا تھا', poet: 'Ayn al-Qudat Hamadani', theme: 'Love', essence: 'Divine love burns equally the one who believes and the one who denies — it consumes all categories.' },
-        { couplet: 'نور سے پوچھا کبھی ظلمت نے کہ تُو کیا ہے\nنور نے کہا: میرا ہونا ہی تیری پہچان ہے', poet: 'Syed Saleem Raza Kazmi', theme: 'Philosophy', essence: 'Darkness and light define each other — opposites are the doorways to unity.' },
-        { couplet: 'گوہر نایاب ہے دل، اس کو نہ بیچنا سستی میں\nخاک کی قیمت تب ہے جب وہ گِل ہو مصطفیٰ کی', poet: 'Bulleh Shah', theme: 'Spiritual', essence: 'The heart is a priceless gem — gains value only when kneaded into the clay of the Beloved.' },
-        { couplet: 'فنا سے ڈر نہیں لگتا، بقا کا یقین ہے مجھ کو\nسمندر ڈوب کر پایا جاتا ہے، بوند بھر نہیں', poet: 'Mansur Hallaj', theme: 'Fana', essence: 'Annihilation is not loss but the only way to true subsistence — the drop dies to become the ocean.' }
+        { misra1: 'تُو خود آئینہ ہو اپنا، تجھے کیا ڈھونڈتا ہے', misra2: 'وہی جلوہ ہے تیرا جو تجھے چاہیے ہو کر رہ گیا', poet: 'Syed Saleem Raza Kazmi', theme: 'Self-Knowledge', essence: 'The seeker is the sought — the mirror and the reflection are one.' },
+        { misra1: 'دل سے نکلا ہے جو دم، وہ دم پلٹ کر آتا ہے', misra2: 'آئینہ خانہ میں جو دیکھے، وہیں سماتا ہے', poet: 'Mawlana Rumi', theme: 'Love', essence: 'Every breath born of the heart returns to it — the heart is both origin and destination.' },
+        { misra1: 'موت کا منظر نہ دیکھو، زندگی میں جھانکیے', misra2: 'جو بھی ہے اسی پل میں، اس سے آگے جانکیے', poet: 'Mirza Ghalib', theme: 'Philosophy', essence: 'Death is not a separate event — it is the depth of the present moment itself.' },
+        { misra1: 'ہر اک ذرہ تجھے پکار رہا ہے', misra2: 'مگر تُو اپنے شور میں گم ہے', poet: 'Iqbal', theme: 'Tawhid', essence: 'The universe is a ceaseless dhikr — only the veils of the self drown it out.' },
+        { misra1: 'عشق میں کافر و مومن کا کوئی فرق نہیں', misra2: 'وہ تو اس کو بھی جلاتا ہے جس نے آگ کو بجھایا تھا', poet: 'Ayn al-Qudat Hamadani', theme: 'Love', essence: 'Divine love burns equally the one who believes and the one who denies.' },
+        { misra1: 'نور سے پوچھا کبھی ظلمت نے کہ تُو کیا ہے', misra2: 'نور نے کہا: میرا ہونا ہی تیری پہچان ہے', poet: 'Syed Saleem Raza Kazmi', theme: 'Philosophy', essence: 'Darkness and light define each other — opposites are the doorways to unity.' },
+        { misra1: 'گوہر نایاب ہے دل، اس کو نہ بیچنا سستی میں', misra2: 'خاک کی قیمت تب ہے جب وہ گِل ہو مصطفیٰ کی', poet: 'Bulleh Shah', theme: 'Spiritual', essence: 'The heart is a priceless gem — gains value only when kneaded into the clay of the Beloved.' },
+        { misra1: 'فنا سے ڈر نہیں لگتا، بقا کا یقین ہے مجھ کو', misra2: 'سمندر ڈوب کر پایا جاتا ہے، بوند بھر نہیں', poet: 'Mansur Hallaj', theme: 'Fana', essence: 'Annihilation is not loss but the only way to true subsistence — the drop dies to become the ocean.' }
       ];
 
       var FACTS = [
@@ -194,6 +194,20 @@
           } catch(e) {}
         };
         xhr.send();
+      }
+
+      // ─── POETRY — fetch from poetry.json (no cache) ───
+      function renderPoetry(poems) {
+        if (!poems || !poems.length) return;
+        document.getElementById('poetryGrid').innerHTML = poems.map(function(p) {
+          return '<div class="poem-card"><div class="poem-theme">' + p.theme + '</div>' +
+            '<div class="poem-couplet">' +
+            '<div class="misra">' + p.misra1 + '</div>' +
+            '<div class="misra">' + p.misra2 + '</div>' +
+            '</div>' +
+            '<div class="poem-poet">— ' + p.poet + '</div>' +
+            '<div class="poem-essence"><span class="label"><i class="fas fa-water"></i> Deep Essence</span>' + p.essence + '</div></div>';
+        }).join('');
       }
 
       // ─── RENDER ALL ───
@@ -290,12 +304,19 @@
 
       renderAll();
 
-      // Poetry grid
-      document.getElementById('poetryGrid').innerHTML = POEMS.map(function(p) {
-        return '<div class="poem-card"><div class="poem-theme">' + p.theme + '</div>' +
-          '<div class="poem-urdu">' + p.couplet + '</div><div class="poem-poet">— ' + p.poet + '</div>' +
-          '<div class="poem-essence"><span class="label"><i class="fas fa-water"></i> Deep Essence</span>' + p.essence + '</div></div>';
-      }).join('');
+      // Poetry grid — fresh fetch every time, no cache
+      var poetryXhr = new XMLHttpRequest();
+      poetryXhr.open('GET', 'poetry.json?_=' + Date.now(), true);
+      poetryXhr.onload = function() {
+        try {
+          var pData = JSON.parse(poetryXhr.responseText);
+          if (pData && pData.poems) { renderPoetry(pData.poems); return; }
+        } catch(e) {}
+        // Fallback to static pool
+        renderPoetry(POEMS);
+      };
+      poetryXhr.onerror = function() { renderPoetry(POEMS); };
+      poetryXhr.send();
 
       // Daily fun
       var dayN = new Date().getDate();

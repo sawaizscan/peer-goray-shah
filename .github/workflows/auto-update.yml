@@ -24,11 +24,14 @@ jobs:
       - name: Generate fresh content
         run: python scripts/generate_content.py
 
+      - name: Generate fresh poetry
+        run: python scripts/generate_poetry.py
+
       - name: Commit and push changes
         run: |
           git config user.name "Content Bot"
           git config user.email "bot@peer-goray-shah.github.io"
-          git add discover.json
+          git add discover.json poetry.json
           git diff --quiet && git diff --staged --quiet || \
-            git commit -m "auto: refresh discover.json $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git commit -m "auto: refresh discover.json & poetry.json $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push
