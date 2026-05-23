@@ -1,168 +1,106 @@
 {
+  "meta": {
+    "generated": "2026-05-23T15:48:32.758633Z",
+    "version": 2
+  },
   "facts": [
     {
-      "id": 1,
-      "text": "The word 'heart' (qalb) in Arabic comes from the root q-l-b, meaning 'to turn' — because the heart constantly turns between states. Imam al-Sadiq (AS) said: 'The heart is called qalb because it turns over in every state.'",
-      "source": "al-Kafi, vol. 2, p. 422",
-      "category": "Language & Spirituality"
+      "text": "Hadith is the Arabic word for a 'report' or an 'account [of an event]' and refers to the Islamic oral tradition of anecdotes containing the purported words, actions, and the silent approvals of the I.",
+      "source": "Hadith — Wikipedia",
+      "category": "Hadith",
+      "id": 1
     },
     {
-      "id": 2,
-      "text": "Mulla Sadra's Asfar (The Four Journeys) was so revolutionary that contemporary scholars declared it heresy. He was exiled from Shiraz and took refuge in the village of Kahak near Qom — where he wrote his most profound works.",
-      "source": "Mulla Sadra, Asfar, Vol. 1 Introduction",
-      "category": "Philosophy"
+      "text": "Jalāl al-Dīn Muḥammad Rūmī, commonly known as Rumi, was a Sufi mystic, poet, and founder of the Islamic brotherhood known as the Mevlevi Order.  His family hailed from Balkh.  Rumi is an influential figure in Sufism, and his thought and works loom large both in Persian literature and mystic poetry in general.",
+      "source": "Rumi — Wikipedia",
+      "category": "Spiritual",
+      "id": 2
     },
     {
-      "id": 3,
-      "text": "Shaykh Bahai (Shaykh Baha'i) was both a grand Shi'a jurist and a master of mathematics, astronomy, and esoteric sciences. He wrote on astrology and the secrets of letters — and saw no contradiction.",
-      "source": "Kashkul, Shaykh Bahai",
-      "category": "Scholars"
+      "text": "Sayyid Abdullāh Shāh Qādrī, popularly known as Baba Bulleh Shah and vocatively as Bulleya, was a Punjabi revolutionary philosopher, reformer and poet, regarded as one of the greatest poets of the Punj.  His literary oeuvre, comprising ~150 kafi and 94 other poetic compositions, reflect themes of Sufi and humanist philosophy — for which he is regarded as 'Poet of the People' among Punjabis.",
+      "source": "Bulleh Shah — Wikipedia",
+      "category": "Spiritual",
+      "id": 3
     },
     {
-      "id": 4,
-      "text": "Ibn Arabi wrote over 500 works. When asked about the shortest path to knowledge of God, he replied: 'Know yourself.' When asked for something shorter, he said: 'Be silent.'",
-      "source": "Futuhat al-Makkiyya, vol. 2, p. 189",
-      "category": "Scholars"
+      "text": "Ali ibn Abi Talib was the fourth Rashidun caliph who ruled from 656 CE until his assassination in 661, as well as the first Shia Imam.  He was the cousin and son-in-law of the Islamic prophet Muhammad.  Born to Abu Talib ibn Abd al-Muttalib and Fatima bint Asad, Ali was raised in the household of his cousin Muhammad and was among the first to accept his teachings.",
+      "source": "Imam Ali — Wikipedia",
+      "category": "Ahl al-Bayt",
+      "id": 4
     },
     {
-      "id": 5,
-      "text": "Surah al-Fatiha contains exactly seven verses — matching the seven heavens, the seven earths, and the seven circumambulations of the Kaaba. Every recitation is a cosmic ascent.",
-      "source": "Tafsir al-Mizan, Allamah Tabatabai",
-      "category": "Quran"
+      "text": "The Israʾ and Miʿraj are the names given to the narrations that the Islamic prophet Muhammad ascended to the sky during a night journey, had a vision of afterlife, and returned.  It is believed that expressions without a subject in verses 1-18 of Surāh an-Najm and some verses of the 17th chapter of the Quran, commonly called Surāh al-’Isrā’, allude to the story.",
+      "source": "Isra and Mi'raj — Wikipedia",
+      "category": "History",
+      "id": 5
     },
     {
-      "id": 6,
-      "text": "The Prophet Muhammad (SAW) said: 'Whoever recites Qul Huwa Allahu Ahad (Surah al-Ikhlas) ten times, Allah builds for him a palace in Paradise.' This single surah contains one-third of the Quran in meaning.",
-      "source": "Bihar al-Anwar, vol. 89, p. 259",
-      "category": "Quran"
+      "text": "Shia Islam is the second-largest branch of Islam.  It is rooted in the belief that the Islamic prophet Muhammad explicitly designated his cousin and son-in-law Ali ibn Abi Talib as his rightful political successor (caliph) and the divinely guided spi.  Shia Muslims maintain that Ali's divine right to leadership was unjustly usurped at the meeting of Saqifa, where certain companions of Muhammad apparently acted against the Prophet's mandate to appoi.",
+      "source": "Shia Islam — Wikipedia",
+      "category": "History",
+      "id": 6
     },
     {
-      "id": 7,
-      "text": "Imam Ali (AS) used to pray 1000 rakats of nafilah prayer every day and night. His son Imam al-Hasan (AS) said: 'I never saw my father tire of worship — his soul found rest in it.'",
-      "source": "al-Kafi, vol. 3, p. 445",
-      "category": "Ahl al-Bayt"
+      "text": "The Mahdi is a messianic figure in Islamic belief.  He is comparable to the Christian concept of the Second Coming of Jesus Christ, the Jewish concept of Mashiach ben David and the Zoroastrian concept of the Saoshyant.  The Mahdi is said to be a descendant of Muhammad and is believed to appear at the End of Times, shortly before Jesus returns, to rid the world of evil and injustice.",
+      "source": "Imam al-Mahdi — Wikipedia",
+      "category": "Ahl al-Bayt",
+      "id": 7
     },
     {
-      "id": 8,
-      "text": "The angel Jibra'il (AS) did not enter the house of Sayyida Fatima (AS) for three days after the Prophet's (SAW) death — because the light had left that home. It is said he wept.",
-      "source": "Amali al-Saduq, Majlis 28",
-      "category": "Ahl al-Bayt"
+      "text": "In Islam, \"the promise and threat\" of Judgement Day,  is when \"all bodies will be resurrected\" from the dead, and \"all people\" are \"called to account\" for their deeds and their faith during their life.  It has been called \"the dominant message\" of the holy book of Islam, the Quran, and resurrection and judgement the two themes \"central to the understanding of Islamic eschatology. \" Judgement Day is considered a fundamental tenet of faith by all Muslims, and one of the six articles of Islamic faith.",
+      "source": "Qiyamah — Wikipedia",
+      "category": "General",
+      "id": 8
     },
     {
-      "id": 9,
-      "text": "The phrase 'Bismillah al-Rahman al-Rahim' contains 19 Arabic letters. The keepers of Hell (Zabaniyah) are also 19. Imam Ali (AS) said: 'Bismillah is the key to every closed door; recite it and the gates of mercy open.'",
-      "source": "Tafsir al-Burhan, vol. 1, p. 42",
-      "category": "Esoteric"
+      "text": "Medieval Islamic astronomy comprises the astronomical developments made in the Islamic world, particularly during the Islamic Golden Age, and mostly written in the Arabic language.  These developments mostly took place in the Middle East, Central Asia, Al-Andalus, and North Africa, and later in the Far East and India.  It closely parallels the genesis of other Islamic sciences in its assimilation of foreign material and the amalgamation of the disparate elements of that material to create a science with Islamic cha.",
+      "source": "Islamic astronomy — Wikipedia",
+      "category": "General",
+      "id": 9
     },
     {
-      "id": 10,
-      "text": "Ayn al-Qudat Hamadani wrote Tamhidat at age 28 — a masterpiece of Sufi metaphysics. He was executed at 33 for his views. His last words were: 'The wine of love was too strong for this world.'",
-      "source": "Tamhidat, Ayn al-Qudat",
-      "category": "History"
-    },
-    {
-      "id": 11,
-      "text": "Shaykh al-Ra'is Ibn Sina read Aristotle's Metaphysics 40 times without understanding it — until al-Farabi's commentary made it click. He wrote a note of thanks in the margin.",
-      "source": "Ibn Sina, al-Shifa, Introduction",
-      "category": "Scholars"
-    },
-    {
-      "id": 12,
-      "text": "In Islamic eschatology, Imam al-Mahdi (AJ) will emerge on the Day of Ashura — the same day Imam Husayn (AS) was martyred. The day that began in tragedy will end in justice.",
-      "source": "Bihar al-Anwar, vol. 52, p. 290",
-      "category": "Eschatology"
-    },
-    {
-      "id": 13,
-      "text": "The Kaaba has been rebuilt at least 12 times in history. Imam Ali (AS) was born inside the Kaaba — the only person in history honored with birth in the House of Allah.",
-      "source": "al-Irshad, Shaykh al-Mufid, p. 5",
-      "category": "Ahl al-Bayt"
-    },
-    {
-      "id": 14,
-      "text": "Mulla Husayn Quli Hamadani said: 'The journey to Allah is not measured in miles but in breaths. Each breath can take you closer or farther — there is no standing still.'",
-      "source": "Malfuzat, Mulla Husayn Quli Hamadani",
-      "category": "Spiritual"
-    },
-    {
-      "id": 15,
-      "text": "Jabir ibn Hayyan, the father of chemistry, was a student of Imam Ja'far al-Sadiq (AS). The Imam taught him alchemy, astronomy, and the science of the soul — knowledge above and below.",
-      "source": "Fihrist al-Nadim, Ibn al-Nadim",
-      "category": "Science"
+      "text": "Khajeh Shams-od-Din Mohammad Hafez Shirazi (1325–1390), also known by his pen name Hafez, was a Persian lyric poet whose collected works are regarded by many Iranians as one of the highest pinnacles o. His works are often found in the homes of Persian speakers, who learn his poems by heart and use them as everyday proverbs and sayings.  His life and poems have become the subjects of much analysis, commentary, and interpretation, influencing post-14th century Persian writing more than any other Persian author.",
+      "source": "Hafez — Wikipedia",
+      "category": "Spiritual",
+      "id": 10
     }
   ],
   "wit": [
     {
-      "id": 1,
-      "text": "A mureed asked his Pir: 'Master, how long have I been in your company?' The Pir replied: 'Son, you haven't even asked when you arrived. If the question hasn't arisen, how can the answer come?'",
-      "source": "Popular Lutfia",
-      "type": "Pir-Mureed"
-    },
-    {
-      "id": 2,
-      "text": "A man asked Ibn Arabi: 'How do I know God?' Ibn Arabi said: 'Do you know who is asking?' The man said: 'I am.' Ibn Arabi said: 'Then you already know.'",
-      "source": "Futuhat, Adapted",
-      "type": "Scholarly Humor"
-    },
-    {
-      "id": 3,
       "text": "Mulla Nasruddin was asked: 'What happens after death?' The Mulla said: 'Forget about after death — first see what this life before death is, then ask.'",
       "source": "Mulla Nasruddin",
-      "type": "Mulla Nasruddin"
+      "type": "Mulla Nasruddin",
+      "id": 1
     },
     {
-      "id": 4,
-      "text": "A student asked Allamah Tabatabai: 'How did you write such a massive tafsir?' The Allamah smiled: 'You read each verse — I asked each verse.'",
+      "text": "Someone asked Mulla Sadra: 'Why is your philosophy so hard to understand?' He said: 'The sun is not hard to see — it's the eyes that need preparation.'",
+      "source": "Asfar, Adapted",
+      "type": "Scholarly Humor",
+      "id": 2
+    },
+    {
+      "text": "A man asked Ibn Arabi: 'How do I know God?' Ibn Arabi said: 'Do you know who is asking?'",
+      "source": "Futuhat, Adapted",
+      "type": "Scholarly Humor",
+      "id": 3
+    },
+    {
+      "text": "Shaykh Ansari was asked: 'What is the most difficult ruling in fiqh?' He said: 'To stop giving your own opinion when the truth has already been spoken.'",
+      "source": "Shaykh Ansari",
+      "type": "Scholarly Humor",
+      "id": 4
+    },
+    {
+      "text": "Mulla Nasruddin sat by a river. A scholar asked: 'Mulla, can you read Arabic?' The Mulla said: 'I can read water — it says: Flow, for stagnation is death.'",
+      "source": "Mulla Nasruddin",
+      "type": "Mulla Nasruddin",
+      "id": 5
+    },
+    {
+      "text": "A mureed asked his Pir: 'Master, how long have I been in your company?' The Pir replied: 'Son, you haven't even asked when you arrived. If the question hasn't arisen, how can the answer come?'",
       "source": "Popular Lutfia",
-      "type": "Scholarly Humor"
-    },
-    {
-      "id": 5,
-      "text": "Shaykh Ansari was asked: 'What is the most difficult ruling in fiqh?' He thought and said: 'To stop yourself from giving your own opinion when the truth has already been spoken.'",
-      "source": "Shaykh Ansari, Taqrirat",
-      "type": "Scholarly Humor"
-    },
-    {
-      "id": 6,
-      "text": "Imam al-Ghazali was asked: 'You mastered the outward sciences — why did you then abandon them for the path of the heart?' Ghazali said: 'The outward told me where the door was; the inward let me enter.'",
-      "source": "Ihya al-Ulum, Adapted",
-      "type": "Pir-Mureed"
-    },
-    {
-      "id": 7,
-      "text": "A man went to a sage and said: 'I want to see God.' The sage replied: 'Close your eyes and look inward.' The man closed his eyes and said: 'I see nothing.' The sage said: 'Then you looked with eyes — not with the heart.'",
-      "source": "Popular Wisdom Tale",
-      "type": "Pir-Mureed"
-    },
-    {
-      "id": 8,
-      "text": "Mulla Nasruddin was sitting by a river when a scholar asked: 'Mulla, can you read Arabic?' The Mulla said: 'I can read water — it says: \"Flow, for stagnation is death.\"'",
-      "source": "Mulla Nasruddin",
-      "type": "Mulla Nasruddin"
-    },
-    {
-      "id": 9,
-      "text": "Shaykh Baha'i dreamt of Imam al-Zaman (AJ) and asked: 'Master, what is the shortest path?' The Imam replied: 'Wait — you're still asking about paths? Start walking and the path will rise beneath your feet.'",
-      "source": "Kashkul, Shaykh Baha'i",
-      "type": "Spiritual"
-    },
-    {
-      "id": 10,
-      "text": "A philosopher asked Rumi: 'You speak of love — but what is its proof?' Rumi replied: 'The proof of fire is that it burns. Come closer.'",
-      "source": "Masnavi, Adapted",
-      "type": "Spiritual"
-    },
-    {
-      "id": 11,
-      "text": "A faqih was explaining the proofs of God's existence. A simple man interrupted: 'Sir, you speak as if He is lost and needs to be found. I speak as if He is here and needs to be felt.'",
-      "source": "Popular Tale",
-      "type": "Pir-Mureed"
-    },
-    {
-      "id": 12,
-      "text": "Mulla Nasruddin saw a group arguing about the essence of God. He laughed and said: 'You remind me of blind men describing an elephant — each touching a different part, each sure he alone is right.'",
-      "source": "Mulla Nasruddin",
-      "type": "Mulla Nasruddin"
+      "type": "Pir-Mureed",
+      "id": 6
     }
   ]
 }

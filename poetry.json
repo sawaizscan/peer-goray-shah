@@ -1,441 +1,144 @@
 {
   "meta": {
-    "generated": "2026-05-23T00:00:00Z",
+    "generated": "2026-05-23T15:48:33.176796Z",
     "version": 2,
-    "count": 48
+    "count": 15
   },
   "poems": [
-  {
-    "id": 1,
-    "misra1": "دل ہی تو ہے نہ سنگ و خشت، درد سے بھر نہ آئے کیوں",
-    "misra2": "روئیں گے ہم ہزار بار، کوئی ہمیں ستائے کیوں",
-    "poet": "Mirza Ghalib",
-    "source": "Diwan-e-Ghalib",
-    "theme": "Love & Pain",
-    "essence": "The heart is not stone or brick — why would it not fill with pain? We weep a thousand times — why must someone torment us?"
-  },
-  {
-    "id": 2,
-    "misra1": "ہم کو معلوم ہے جنت کی حقیقت لیکن",
-    "misra2": "دل کے خوش رکھنے کو غالِبؔ یہ خیال اچھا ہے",
-    "poet": "Mirza Ghalib",
-    "source": "Diwan-e-Ghalib",
-    "theme": "Philosophy",
-    "essence": "We know the reality of Paradise — but to keep the heart content, Ghalib, this illusion is pleasant."
-  },
-  {
-    "id": 3,
-    "misra1": "ہزاروں خواہشیں ایسی کہ ہر خواہش پہ دم نکلے",
-    "misra2": "بہت نکلے مرے ارمان لیکن پھر بھی کم نکلے",
-    "poet": "Mirza Ghalib",
-    "source": "Nuskha-e-Hamidia",
-    "theme": "Desire",
-    "essence": "So many desires that each one could cost a breath — many of my wishes were fulfilled, yet it still felt too few."
-  },
-  {
-    "id": 4,
-    "misra1": "رنج سے خوگر ہوا انسان تو مٹ جاتا ہے رنج",
-    "misra2": "مشکلیں مجھ پر پڑیں اتنی کہ آساں ہو گئیں",
-    "poet": "Mirza Ghalib",
-    "source": "Diwan-e-Ghalib",
-    "theme": "Resilience",
-    "essence": "When man becomes accustomed to suffering, suffering itself dissolves — so many difficulties befell me that they became easy."
-  },
-  {
-    "id": 5,
-    "misra1": "نقش فریادی ہے کس کی شوخیِ تحریر کا",
-    "misra2": "ہر گلی میں ہو رہے ہیں، ہر پناہ میں کوزہ گر",
-    "poet": "Mir Taqi Mir",
-    "source": "Kulliyat-e-Mir",
-    "theme": "Lament",
-    "essence": "Every image cries out — whose audacious inscription is this? On every street, in every corner, a potter works."
-  },
-  {
-    "id": 6,
-    "misra1": "دیکھنا تقریر کی لذت کہ جس نے کہا",
-    "misra2": "میں نے یہ جانا کہ گویا یہ بھی کچھ ہم جیسے ہیں",
-    "poet": "Mir Taqi Mir",
-    "source": "Kulliyat-e-Mir",
-    "theme": "Observation",
-    "essence": "See the delight of this speech — when someone said it, I realized: these too are somewhat like me."
-  },
-  {
-    "id": 7,
-    "misra1": "تم میرے پاس ہوتے ہو گویا",
-    "misra2": "جب کوئی دوسرا نہیں ہوتا",
-    "poet": "Mir Taqi Mir",
-    "source": "Kulliyat-e-Mir",
-    "theme": "Solitude",
-    "essence": "You are near me, it seems — when there is no one else."
-  },
-  {
-    "id": 8,
-    "misra1": "خودی کو کر بلند اتنا کہ ہر تقدیر سے پہلے",
-    "misra2": "خدا بندے سے خود پوچھے، بتا تیری رضا کیا ہے",
-    "poet": "Allama Iqbal",
-    "source": "Bal-e-Jibril",
-    "theme": "Selfhood",
-    "essence": "Elevate your selfhood to such heights that before every decree, God Himself asks you: tell Me, what is your will?"
-  },
-  {
-    "id": 9,
-    "misra1": "ستاروں سے آگے جہاں اور بھی ہیں",
-    "misra2": "ابھی عشق کے امتحاں اور بھی ہیں",
-    "poet": "Allama Iqbal",
-    "source": "Bal-e-Jibril",
-    "theme": "Love & Quest",
-    "essence": "Beyond the stars there are still more worlds — there are still more trials of love ahead."
-  },
-  {
-    "id": 10,
-    "misra1": "نہ تیرا وصل ممکن ہے نہ ہجر تجھ سے ممکن ہے",
-    "misra2": "یہ دونوں باتوں کے بیچوں بیچ میں برباد رکھا ہے",
-    "poet": "Jaun Elia",
-    "source": "Shayad",
-    "theme": "Existential",
-    "essence": "Neither is union with you possible, nor is separation from you possible — between these two, I am kept ruined."
-  },
-  {
-    "id": 11,
-    "misra1": "شاید کبھی تم نے بھی محبت کی ہو",
-    "misra2": "لیکن تم تو کسی اور سے کرتے رہے",
-    "poet": "Jaun Elia",
-    "source": "Shayad",
-    "theme": "Unrequited Love",
-    "essence": "Perhaps you too have loved — but you kept loving someone else."
-  },
-  {
-    "id": 12,
-    "misra1": "اب کے ہم بچھڑے تو شاید کبھی خوابوں میں ملیں",
-    "misra2": "جس طرح سوکھے ہوئے پھول کتابوں میں ملیں",
-    "poet": "Ahmad Faraz",
-    "source": "Tanha Tanha",
-    "theme": "Separation",
-    "essence": "If we part now, perhaps we'll meet only in dreams — like dried flowers found pressed in books."
-  },
-  {
-    "id": 13,
-    "misra1": "ربط کچھ ایسا بھی ہو دے نہ دے خلوت میں صدائیں",
-    "misra2": "چپ کی بھی ایک زبان ہوتی ہے",
-    "poet": "Ahmad Faraz",
-    "source": "Nay Dour",
-    "theme": "Silence",
-    "essence": "The connection may be such that no sound passes in solitude — yet silence too has a language of its own."
-  },
-  {
-    "id": 14,
-    "misra1": "دل نادان تجھے ہوا کیا ہے",
-    "misra2": "آخر اس درد کی دوا کیا ہے",
-    "poet": "Mirza Ghalib",
-    "source": "Diwan-e-Ghalib",
-    "theme": "Heart",
-    "essence": "O foolish heart, what has happened to you? What, after all, is the cure for this pain?"
-  },
-  {
-    "id": 15,
-    "misra1": "یہ پھول بکھرے ہیں تو کیا، یہ رات ڈھلی ہے تو کیا",
-    "misra2": "ابھی تو محفل میں کچھ اور باقی ہے",
-    "poet": "Parveen Shakir",
-    "source": "Khwab Ka Dar Band Hai",
-    "theme": "Hope",
-    "essence": "So what if these flowers have scattered, so what if the night has waned — there is still something left in this gathering."
-  },
-  {
-    "id": 16,
-    "misra1": "میں نے کہا تجھے دیکھا تو مِلا ہوں جیسے",
-    "misra2": "اس نے کہا کہ یہ احساں ہے جدا ہونے کا",
-    "poet": "Parveen Shakir",
-    "source": "Khwab Ka Dar Band Hai",
-    "theme": "Encounter",
-    "essence": "I said: seeing you, I feel found. She said: this kindness is that of remaining separate."
-  },
-  {
-    "id": 17,
-    "misra1": "ابھی تو سب کچھ ہے ابھی کچھ نہیں",
-    "misra2": "یہ زندگی کا کھیل ہے رُکنا نہیں",
-    "poet": "Munir Niazi",
-    "source": "Dil-o-Danan",
-    "theme": "Life",
-    "essence": "Right now everything is here, right now nothing is — this is the game of life, do not stop."
-  },
-  {
-    "id": 18,
-    "misra1": "یہ بستی ہے خیالوں کی، نہ جانے کب بکھر جائے",
-    "misra2": "کسی پل یوں بھی ہو، جیسے تھی ہی نہیں کبھی",
-    "poet": "Munir Niazi",
-    "source": "Dil-o-Danan",
-    "theme": "Ephemeral",
-    "essence": "This is a settlement of thoughts — who knows when it may scatter. In some moment it may become as if it never was."
-  },
-  {
-    "id": 19,
-    "misra1": "وہ جو لفظ ہیں زندگی کے، انہیں کھول کر دیکھو",
-    "misra2": "ایک معنی تو ملے گا، شاید کچھ اور بھی نکلے",
-    "poet": "Amjad Islam Amjad",
-    "source": "Barzakh",
-    "theme": "Meaning",
-    "essence": "Those words that belong to life — open them and look. At least one meaning you will find, perhaps something more will emerge."
-  },
-  {
-    "id": 20,
-    "misra1": "یوں تو بہت سے لوگوں کو دیکھا ہے محفل میں",
-    "misra2": "پر تم کیسی چیز ہو کہ جیسے پھولوں میں روشنی",
-    "poet": "Tehzeeb Hafi",
-    "source": "Contemporary Poetry",
-    "theme": "Wonder",
-    "essence": "I have seen many people in gatherings — but what kind of thing are you, like light among flowers."
-  },
-  {
-    "id": 21,
-    "misra1": "میرا نام لے کے کوئی پکارتا نہیں",
-    "misra2": "میں اس شہر میں تنہا سفر کرتا ہوں",
-    "poet": "Ali Zaryoun",
-    "source": "Contemporary Poetry",
-    "theme": "Solitude",
-    "essence": "No one calls out my name — I travel alone in this city."
-  },
-  {
-    "id": 22,
-    "misra1": "اتنی اذیتوں کے بعد بھی تم سے محبت ہے",
-    "misra2": "یہ دل نہیں ہے کچھ اور ہی چیز ہے یارو",
-    "poet": "Umair Najmi",
-    "source": "Contemporary Urdu Poetry",
-    "theme": "Love's Persistence",
-    "essence": "Even after so much torment, I still love you — this is not a heart, it is something else entirely, my friends."
-  },
-  {
-    "id": 23,
-    "misra1": "شہر کے شور میں کھوئے ہوئے لوگوں کی طرح",
-    "misra2": "ہم بھی ملتے ہیں مگر بھولے بھٹے ہوتے ہیں",
-    "poet": "Yasmeen Hameed",
-    "source": "Contemporary Urdu Poetry",
-    "theme": "Alienation",
-    "essence": "Like people lost in the city's noise — we meet too, but we are scattered and distracted."
-  },
-  {
-    "id": 24,
-    "misra1": "یہ پیرہن کفن سے بھی گیا گزرا ہے",
-    "misra2": "میں سوچتا ہوں کس کو دعائے صبر دوں",
-    "poet": "Jaun Elia",
-    "source": "Shayad",
-    "theme": "Despair",
-    "essence": "This shroud has worn thinner than a burial cloth — I wonder to whom I should offer my prayer of patience."
-  },
-  {
-    "id": 25,
-    "misra1": "مجھے پتہ ہے کہ اس کا کوئی علاج نہیں",
-    "misra2": "مگر یہ دل ہے مرا، چھوڑ بھی نہیں سکتا",
-    "poet": "Ahmad Faraz",
-    "source": "Tanha Tanha",
-    "theme": "Helplessness",
-    "essence": "I know that this has no cure — but this is my heart, I cannot abandon it either."
-  },
-  {
-    "id": 26,
-    "misra1": "اے ہم سفرو تم کو بھی سفر میں ساتھ لے چلیں",
-    "misra2": "اس طرح نہیں کہ ہم تھک جائیں اور تم رک جاؤ",
-    "poet": "Allama Iqbal",
-    "source": "Bal-e-Jibril",
-    "theme": "Companionship",
-    "essence": "O fellow traveler, let me take you along on the journey — but not so that I tire and you stop."
-  },
-  {
-    "id": 27,
-    "misra1": "بہت پہلے سے ان قدموں کی آہٹ جان لیتے ہیں",
-    "misra2": "بچھڑنے والے ملنے کا بہانہ ڈھونڈتے ہیں",
-    "poet": "Mir Taqi Mir",
-    "source": "Kulliyat-e-Mir",
-    "theme": "Parting",
-    "essence": "We recognize the sound of those footsteps long before — those who will leave are always seeking an excuse to meet."
-  },
-  {
-    "id": 28,
-    "misra1": "اتنا ہے بسکہ درد کا احساس ہی نہیں",
-    "misra2": "اس درجہ زخم دل پہ گہرے اتر گئے",
-    "poet": "Tehzeeb Hafi",
-    "source": "Contemporary Poetry",
-    "theme": "Numbness",
-    "essence": "It has reached a point where I don't even feel the pain — the wounds on my heart have sunk that deep."
-  },
-  {
-    "id": 29,
-    "misra1": "کچھ تو ہے جس کی خاطر یہ بستی اجڑی ہے",
-    "misra2": "ورنہ اتنی تو نہیں تھی یہاں کی کوئی بربادی",
-    "poet": "Amjad Islam Amjad",
-    "source": "Barzakh",
-    "theme": "Ruin",
-    "essence": "There must be something for which this settlement was destroyed — otherwise the desolation here was not so great."
-  },
-  {
-    "id": 30,
-    "misra1": "ہر ایک بات پہ کہتے ہو تم کہ تو کیا ہے",
-    "misra2": "تمھیں کہو کہ یہ انداز گفتگو کیا ہے",
-    "poet": "Mirza Ghalib",
-    "source": "Diwan-e-Ghalib",
-    "theme": "Dialogue",
-    "essence": "At every word you say 'what are you?' — I say to you, what kind of speech is this?"
-  },
-  {
-    "id": 31,
-    "misra1": "وہ دکھ تھا جس کو بھلانا بھی ایک مشکل ہے",
-    "misra2": "وہ زخم ہے جو زمانے کے ساتھ بھرتا ہے",
-    "poet": "Yasmeen Hameed",
-    "source": "Contemporary Urdu Poetry",
-    "theme": "Grief",
-    "essence": "That sorrow which is itself difficult to forget — that wound which heals only with time itself."
-  },
-  {
-    "id": 32,
-    "misra1": "میں نے دیکھا ہے کہ شامیں کس قدر بے رنگ ہیں",
-    "misra2": "اس لئے شاید مری آنکھوں میں نمی رہتی ہے",
-    "poet": "Parveen Shakir",
-    "source": "Khwab Ka Dar Band Hai",
-    "theme": "Melancholy",
-    "essence": "I have seen how colourless the evenings are — that is perhaps why my eyes stay moist."
-  },
-  {
-    "id": 33,
-    "misra1": "خوابوں کا کوئی ملتجیٰ ہوتا نہیں",
-    "misra2": "جو دیکھے جاگ کر اسے کہتے ہیں زندگی",
-    "poet": "Ali Zaryoun",
-    "source": "Contemporary Poetry",
-    "theme": "Dreams & Reality",
-    "essence": "Dreams have no petitioner — what one sees awake is what is called life."
-  },
-  {
-    "id": 34,
-    "misra1": "موت کا منظر نہ دیکھو، زندگی میں جھانکیے",
-    "misra2": "جو بھی ہے اسی پل میں، اس سے آگے جانکیے",
-    "poet": "Mirza Ghalib",
-    "source": "Diwan-e-Ghalib",
-    "theme": "Philosophy",
-    "essence": "Do not look at the scene of death — look into life. Whatever exists is in this moment; do not seek beyond it."
-  },
-  {
-    "id": 35,
-    "misra1": "یہ سب تمھارے فضول ہیں یہ باتیں",
-    "misra2": "کہ تم نہیں تو کچھ بھی نہیں",
-    "poet": "Munir Niazi",
-    "source": "Dil-o-Danan",
-    "theme": "Devotion",
-    "essence": "All these words of yours are meaningless — that without you, there is nothing at all."
-  },
-  {
-    "id": 36,
-    "misra1": "ہر اکھاڑے میں یہ کہتے ہیں کہ انسان نہیں",
-    "misra2": "کوئی صورت ہے مگر دیکھنے والا نہیں",
-    "poet": "Umair Najmi",
-    "source": "Contemporary Urdu Poetry",
-    "theme": "Identity",
-    "essence": "In every arena they say: there is no human being anymore. There is a face, but no one to see it."
-  },
-  {
-    "id": 37,
-    "misra1": "میں نے سوچا تھا کہ تم آؤ گے تو سب ٹھیک ہو گا",
-    "misra2": "تم تو آئے مگر کچھ اس طرح کہ سب بگڑ گیا",
-    "poet": "Ahmad Faraz",
-    "source": "Nay Dour",
-    "theme": "Disappointment",
-    "essence": "I thought when you came, everything would be right — you came, but in such a way that everything fell apart."
-  },
-  {
-    "id": 38,
-    "misra1": "پھر اپنی یاد آنے لگی تو آئینہ دھندلایا",
-    "misra2": "کسی نے مجھ کو دیکھا تو مرے چہرے پہ گرد تھی",
-    "poet": "Munir Niazi",
-    "source": "Dil-o-Danan",
-    "theme": "Self-Reflection",
-    "essence": "When my own memory returned, the mirror fogged — when someone saw me, there was dust on my face."
-  },
-  {
-    "id": 39,
-    "misra1": "جو بات تم سے کہی گئی وہ بات رہی نہیں",
-    "misra2": "جو بات تم نے سن لی وہ بات ہو گئی",
-    "poet": "Amjad Islam Amjad",
-    "source": "Barzakh",
-    "theme": "Communication",
-    "essence": "What was said to you did not remain what it was — what you heard became its own thing."
-  },
-  {
-    "id": 40,
-    "misra1": "ہم نے چاہا تھا کہ پھر تم سے کبھی مل نہ سکیں",
-    "misra2": "تم ملے تو یوں لگا جیسے کبھی ملے ہی نہ تھے",
-    "poet": "Jaun Elia",
-    "source": "Shayad",
-    "theme": "Meeting",
-    "essence": "I wished I would never meet you again — but when we met, it felt as if we had never met at all."
-  },
-  {
-    "id": 41,
-    "misra1": "عشق پر زور نہیں ہے یہ وہ آتش جو لگائے نہ لگے",
-    "misra2": "اور بجھائے نہ بنے",
-    "poet": "Mirza Ghalib",
-    "source": "Diwan-e-Ghalib",
-    "theme": "Love's Power",
-    "essence": "Love cannot be forced — it is that fire which, once kindled, cannot be kindled at will, nor extinguished by effort."
-  },
-  {
-    "id": 42,
-    "misra1": "کبھی کچھ اور بھی نہیں تھا، کبھی کچھ اور بھی نہیں",
-    "misra2": "ابھی جو کچھ بھی ہے وہ بھی نہیں تھا",
-    "poet": "Jaun Elia",
-    "source": "Shayad",
-    "theme": "Nothingness",
-    "essence": "At times there was nothing else, at times there was nothing at all — even whatever now exists, once did not."
-  },
-  {
-    "id": 43,
-    "misra1": "اے صبا تجھ سے کوئی بات کہی جاتی ہے",
-    "misra2": "اس کی خوشبو کو میری یاد بنا کر رکھ دے",
-    "poet": "Tehzeeb Hafi",
-    "source": "Contemporary Poetry",
-    "theme": "Longing",
-    "essence": "O morning breeze, I want to tell you something — keep her fragrance as my memory."
-  },
-  {
-    "id": 44,
-    "misra1": "جو مل گیا تو وہ مل گیا، جو نہ ملا تو کیا",
-    "misra2": "دنیا میں کچھ نہ رکھا ہے، کچھ نہ رکھا جائے گا",
-    "poet": "Ali Zaryoun",
-    "source": "Contemporary Poetry",
-    "theme": "Detachment",
-    "essence": "What came, came — what didn't, so what? Nothing is kept in this world, nothing will be kept."
-  },
-  {
-    "id": 45,
-    "misra1": "تم نہیں ہو تو میں بھی نہیں ہوں",
-    "misra2": "اس لئے شاید اتنا سکون ہے",
-    "poet": "Umair Najmi",
-    "source": "Contemporary Urdu Poetry",
-    "theme": "Silence After Loss",
-    "essence": "When you are not here, I am not here either — that is perhaps why there is so much peace."
-  },
-  {
-    "id": 46,
-    "misra1": "حسن کا بوجھ اٹھا کر وہ جوانی میں گزر گئے",
-    "misra2": "مشکل آسان تھی ان کو مگر ان سے کچھ نہ بن سکا",
-    "poet": "Yasmeen Hameed",
-    "source": "Contemporary Urdu Poetry",
-    "theme": "Beauty & Time",
-    "essence": "Bearing the weight of beauty, they passed through youth — the difficult was easy for them, yet nothing came of it."
-  },
-  {
-    "id": 47,
-    "misra1": "مجھ سے بچھڑ کے بھی تم نے کوئی دیکھ لیا",
-    "misra2": "اس کو بھی میری طرح تم نے کبھی نہ دیکھا",
-    "poet": "Ahmad Faraz",
-    "source": "Tanha Tanha",
-    "theme": "Echo of Loss",
-    "essence": "Even after parting from me, you found someone else — but you never saw them the way you saw me."
-  },
-  {
-    "id": 48,
-    "misra1": "سینہ داغوں سے بھرا ہے اور زباں پہ حرفِ گِلہ",
-    "misra2": "یہ بھی کچھ کم ظرفی ہے کہ صبر کر نہ سکیں",
-    "poet": "Mir Taqi Mir",
-    "source": "Kulliyat-e-Mir",
-    "theme": "Complaint",
-    "essence": "The chest is full of wounds yet the tongue speaks of complaint — it is itself a kind of baseness that we cannot endure."
-  }
+    {
+      "misra1": "نہ تیرا وصل ممکن ہے نہ ہجر تجھ سے ممکن ہے",
+      "misra2": "یہ دونوں باتوں کے بیچوں بیچ میں برباد رکھا ہے",
+      "poet": "Jaun Elia",
+      "source": "Shayad",
+      "theme": "Existential",
+      "essence": "Neither union nor separation is possible with you — between the two, I am kept ruined.",
+      "id": 1
+    },
+    {
+      "misra1": "کچھ تو ہے جس کی خاطر یہ بستی اجڑی ہے",
+      "misra2": "ورنہ اتنی تو نہیں تھی یہاں کی کوئی بربادی",
+      "poet": "Amjad Islam Amjad",
+      "source": "Barzakh",
+      "theme": "Ruin",
+      "essence": "Something caused this settlement's ruin — the desolation wasn't so great before.",
+      "id": 2
+    },
+    {
+      "misra1": "خودی کو کر بلند اتنا کہ ہر تقدیر سے پہلے",
+      "misra2": "خدا بندے سے خود پوچھے، بتا تیری رضا کیا ہے",
+      "poet": "Allama Iqbal",
+      "source": "Bal-e-Jibril",
+      "theme": "Selfhood",
+      "essence": "Elevate your self so God asks: what is your will?",
+      "id": 3
+    },
+    {
+      "misra1": "نقش فریادی ہے کس کی شوخیِ تحریر کا",
+      "misra2": "ہر گلی میں ہو رہے ہیں، ہر پناہ میں کوزہ گر",
+      "poet": "Mir Taqi Mir",
+      "source": "Kulliyat-e-Mir",
+      "theme": "Lament",
+      "essence": "Every image cries out — on every street a potter works.",
+      "id": 4
+    },
+    {
+      "misra1": "شاید کبھی تم نے بھی محبت کی ہو",
+      "misra2": "لیکن تم تو کسی اور سے کرتے رہے",
+      "poet": "Jaun Elia",
+      "source": "Shayad",
+      "theme": "Unrequited Love",
+      "essence": "Perhaps you too have loved — but you loved someone else.",
+      "id": 5
+    },
+    {
+      "misra1": "دل نادان تجھے ہوا کیا ہے",
+      "misra2": "آخر اس درد کی دوا کیا ہے",
+      "poet": "Mirza Ghalib",
+      "source": "Diwan-e-Ghalib",
+      "theme": "Heart",
+      "essence": "O foolish heart, what has happened to you? What is the cure for this pain?",
+      "id": 6
+    },
+    {
+      "misra1": "شہر کے شور میں کھوئے ہوئے لوگوں کی طرح",
+      "misra2": "ہم بھی ملتے ہیں مگر بھولے بھٹے ہوتے ہیں",
+      "poet": "Yasmeen Hameed",
+      "source": "Contemporary Poetry",
+      "theme": "Alienation",
+      "essence": "Like people lost in city noise — we meet, but we are scattered.",
+      "id": 7
+    },
+    {
+      "misra1": "دل ہی تو ہے نہ سنگ و خشت، درد سے بھر نہ آئے کیوں",
+      "misra2": "روئیں گے ہم ہزار بار، کوئی ہمیں ستائے کیوں",
+      "poet": "Mirza Ghalib",
+      "source": "Diwan-e-Ghalib",
+      "theme": "Love & Pain",
+      "essence": "The heart is not stone — why would it not fill with pain?",
+      "id": 8
+    },
+    {
+      "misra1": "تم میرے پاس ہوتے ہو گویا",
+      "misra2": "جب کوئی دوسرا نہیں ہوتا",
+      "poet": "Mir Taqi Mir",
+      "source": "Kulliyat-e-Mir",
+      "theme": "Solitude",
+      "essence": "You are near me, it seems — when there is no one else.",
+      "id": 9
+    },
+    {
+      "misra1": "رنج سے خوگر ہوا انسان تو مٹ جاتا ہے رنج",
+      "misra2": "مشکلیں مجھ پر پڑیں اتنی کہ آساں ہو گئیں",
+      "poet": "Mirza Ghalib",
+      "source": "Diwan-e-Ghalib",
+      "theme": "Resilience",
+      "essence": "When pain becomes habit, pain itself dissolves.",
+      "id": 10
+    },
+    {
+      "misra1": "دیکھنا تقریر کی لذت کہ جس نے کہا",
+      "misra2": "میں نے یہ جانا کہ گویا یہ بھی کچھ ہم جیسے ہیں",
+      "poet": "Mir Taqi Mir",
+      "source": "Kulliyat-e-Mir",
+      "theme": "Observation",
+      "essence": "So delightful was the speech — I felt: they too are somewhat like me.",
+      "id": 11
+    },
+    {
+      "misra1": "اب کے ہم بچھڑے تو شاید کبھی خوابوں میں ملیں",
+      "misra2": "جس طرح سوکھے ہوئے پھول کتابوں میں ملیں",
+      "poet": "Ahmad Faraz",
+      "source": "Tanha Tanha",
+      "theme": "Separation",
+      "essence": "If we part now, we may meet only in dreams — like dried flowers in books.",
+      "id": 12
+    },
+    {
+      "misra1": "اتنی اذیتوں کے بعد بھی تم سے محبت ہے",
+      "misra2": "یہ دل نہیں ہے کچھ اور ہی چیز ہے یارو",
+      "poet": "Umair Najmi",
+      "source": "Contemporary Poetry",
+      "theme": "Love's Persistence",
+      "essence": "After so much torment, I still love — this is not a heart, something else entirely.",
+      "id": 13
+    },
+    {
+      "misra1": "سینہ داغوں سے بھرا ہے اور زباں پہ حرفِ گِلہ",
+      "misra2": "یہ بھی کچھ کم ظرفی ہے کہ صبر کر نہ سکیں",
+      "poet": "Mir Taqi Mir",
+      "source": "Kulliyat-e-Mir",
+      "theme": "Complaint",
+      "essence": "Chest full of wounds yet the tongue complains — it is a baseness that we cannot endure.",
+      "id": 14
+    },
+    {
+      "misra1": "ابھی تو سب کچھ ہے ابھی کچھ نہیں",
+      "misra2": "یہ زندگی کا کھیل ہے رُکنا نہیں",
+      "poet": "Munir Niazi",
+      "source": "Dil-o-Danan",
+      "theme": "Life",
+      "essence": "Everything is here, then nothing — life's game, do not stop.",
+      "id": 15
+    }
   ]
 }
