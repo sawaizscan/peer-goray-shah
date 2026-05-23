@@ -1,4 +1,10 @@
-[
+{
+  "meta": {
+    "generated": "2026-05-23T00:00:00Z",
+    "version": 2,
+    "count": 48
+  },
+  "poems": [
   {
     "id": 1,
     "misra1": "دل ہی تو ہے نہ سنگ و خشت، درد سے بھر نہ آئے کیوں",
@@ -431,4 +437,5 @@
     "theme": "Complaint",
     "essence": "The chest is full of wounds yet the tongue speaks of complaint — it is itself a kind of baseness that we cannot endure."
   }
-]
+  ]
+}
