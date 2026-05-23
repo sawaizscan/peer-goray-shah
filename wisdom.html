@@ -173,7 +173,7 @@
         var today = new Date().toDateString();
 
         if (stored && storedDate === today) {
-          try { ALL = JSON.parse(stored); dataLoaded = true; return; } catch(e) {}
+          try { ALL = JSON.parse(stored); dataLoaded = true; init(); return; } catch(e) {}
         }
 
         var xhr = new XMLHttpRequest();
