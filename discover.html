@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Discover – Syed Saleem Raza Kazmi</title>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600&family=Noto+Nastaliq+Urdu:wght@400;600;700&family=Amiri:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <nav id="navbar">
+    <div class="nav-inner">
+      <a href="index.html" class="nav-logo">Syed Saleem Raza Kazmi<span class="sub">پیر گورے شاہ</span></a>
+      <button class="nav-toggle" id="navToggle" aria-label="Menu"><i class="fas fa-bars"></i></button>
+      <ul class="nav-links" id="navLinks">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="wisdom.html">Wisdom</a></li>
+        <li><a href="discover.html">Discover</a></li>
+        <li><a href="amal.html">Aʻmāl</a></li>
+        <li><a href="contact.html">Connect</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <div class="page-header">
+    <h1>Discover · دریافت</h1>
+    <div class="divider"></div>
+    <p>Fresh spiritual facts, history, and wit — updated daily from the Islamic intellectual tradition</p>
+  </div>
+
+  <section class="section" style="background: var(--white);">
+    <div class="section-inner">
+
+      <div class="discover-tabs" id="tabBar">
+        <button class="discover-tab active" data-tab="facts"><i class="fas fa-lightbulb"></i> Amazing Facts · حقائق</button>
+        <button class="discover-tab" data-tab="wit"><i class="fas fa-grin-wink"></i> Literary Wit · کشتِ زعفران</button>
+      </div>
+
+      <div class="discover-panel active" id="panel-facts">
+        <div class="discover-count" id="factsCount"></div>
+        <div class="discover-grid" id="factsGrid"></div>
+        <div class="empty-state" id="factsEmpty" style="display:none;">
+          <i class="fas fa-spinner fa-pulse"></i>
+          <p>Loading facts...</p>
+        </div>
+      </div>
+
+      <div class="discover-panel" id="panel-wit">
+        <div class="discover-count" id="witCount"></div>
+        <div class="discover-grid" id="witGrid"></div>
+        <div class="empty-state" id="witEmpty" style="display:none;">
+          <i class="fas fa-spinner fa-pulse"></i>
+          <p>Loading wit...</p>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; <span id="year"></span> Syed Saleem Raza Kazmi · Pir Goray Shah &mdash; Content auto-updates daily</p>
+  </footer>
+
+  <div class="floating">
+    <a href="https://www.facebook.com/syed.saleem.raza.kazmi.2025" target="_blank" rel="noopener" class="f-fb"><i class="fab fa-facebook-f"></i></a>
+    <a href="https://www.instagram.com/ishq_e_ali_as" target="_blank" rel="noopener" class="f-ig"><i class="fab fa-instagram"></i></a>
+    <a href="https://wa.me/923244787885" target="_blank" rel="noopener" class="f-wa"><i class="fab fa-whatsapp"></i></a>
+  </div>
+
+  <script src="app.js"></script>
+  <script>
+    (function() {
+      var DATA = null;
+
+      function showEmpty(prefix) {
+        document.getElementById(prefix + 'Grid').innerHTML = '';
+        document.getElementById(prefix + 'Empty').style.display = 'block';
+        document.getElementById(prefix + 'Count').textContent = '';
+      }
+
+      function render() {
+        if (!DATA) return;
+
+        var facts = DATA.facts || [];
+        var wit = DATA.wit || [];
+
+        // Facts
+        if (facts.length) {
+          document.getElementById('factsEmpty').style.display = 'none';
+          document.getElementById('factsCount').textContent = facts.length + ' amazing facts';
+          document.getElementById('factsGrid').innerHTML = facts.map(function(f) {
+            return '<div class="discover-card">' +
+              (f.category ? '<div class="dc-badge">' + f.category + '</div>' : '') +
+              '<div class="dc-text en">' + f.text + '</div>' +
+              '<div class="dc-source"><span><i class="fas fa-book"></i> ' + f.source + '</span></div>' +
+            '</div>';
+          }).join('');
+        } else {
+          showEmpty('facts');
+        }
+
+        // Wit
+        if (wit.length) {
+          document.getElementById('witEmpty').style.display = 'none';
+          document.getElementById('witCount').textContent = wit.length + ' literary wit entries';
+          document.getElementById('witGrid').innerHTML = wit.map(function(w) {
+            return '<div class="discover-card">' +
+              (w.type ? '<div class="dc-badge">' + w.type + '</div>' : '') +
+              '<div class="dc-text en">' + w.text + '</div>' +
+              '<div class="dc-source"><span><i class="fas fa-book"></i> ' + w.source + '</span></div>' +
+            '</div>';
+          }).join('');
+        } else {
+          showEmpty('wit');
+        }
+      }
+
+      // Tab switching
+      document.getElementById('tabBar').addEventListener('click', function(e) {
+        var btn = e.target.closest('.discover-tab');
+        if (!btn) return;
+        document.querySelectorAll('.discover-tab').forEach(function(b) { b.classList.remove('active'); });
+        document.querySelectorAll('.discover-panel').forEach(function(p) { p.classList.remove('active'); });
+        btn.classList.add('active');
+        document.getElementById('panel-' + btn.dataset.tab).classList.add('active');
+      });
+
+      // Fresh fetch every time — no localStorage cache
+      document.getElementById('factsEmpty').style.display = 'block';
+      document.getElementById('witEmpty').style.display = 'block';
+
+      var xhr = new XMLHttpRequest();
+      xhr.open('GET', 'discover.json?_=' + Date.now(), true);
+      xhr.onload = function() {
+        try {
+          DATA = JSON.parse(xhr.responseText);
+          render();
+        } catch(e) {
+          document.getElementById('factsEmpty').innerHTML = '<p>Could not load content. Please refresh.</p>';
+          document.getElementById('witEmpty').innerHTML = '<p>Could not load content. Please refresh.</p>';
+        }
+      };
+      xhr.onerror = function() {
+        document.getElementById('factsEmpty').innerHTML = '<p>Network error. Please refresh.</p>';
+        document.getElementById('witEmpty').innerHTML = '<p>Network error. Please refresh.</p>';
+      };
+      xhr.send();
+    })();
+  </script>
+</body>
+</html>
