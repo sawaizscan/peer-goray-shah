@@ -56,6 +56,11 @@
   <script src="app.js"></script>
   <script>
     (function() {
+      var FALLBACK = [
+        {"category":"Hifazat","source_book":"Mehj al-Da'awat","original":"بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ. اللَّهُمَّ إِنِّي أَسْأَلُكَ بِاسْمِكَ الْأَعْظَمِ الَّذِي مَنْ دَعَا بِهِ اسْتَجَبْتَ لَهُ وَمَنْ سَأَلَ بِهِ أَعْطَيْتَهُ أَنْ تُصَلِّيَ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ وَأَنْ تَكْفِيَنِي شَرَّ فُلَانِ بْنِ فُلَانٍ وَشَرَّ جَمِيعِ خَلْقِكَ وَأَحْرِزَنِي مِنْ جَمِيعِ الْآفَاتِ وَالْبَلَايَا","urdu":"حفاظت کی دعا: اسم اعظم سے وسیلہ کرتے ہوئے پڑھیں۔ صبح و شام تین بار پڑھنے سے ہر شر سے حفاظت ہوتی ہے۔","methodology":"شرائط: باوضو ہو کر قبلہ رخ بیٹھیں۔ صبح صادق کے وقت یا مغرب کے بعد تین مرتبہ پڑھیں۔ جس شخص کے شر سے بچنا ہے اس کی جگہ 'فلان بن فلان' میں نام لیں۔ دودھ کے سفید کاغذ پر زعفران سے لکھ کر ساتھ رکھیں تو حفاظت زیادہ ہوتی ہے۔ بخور: کندر یا صندل۔","source_ref":"Mehj al-Da'awat wa Minhaj al-'Ibadat, Sayyid Ibn Tawus, Bab al-Hifz wa al-Hirs"},
+        {"category":"Rizq","source_book":"Shams al-Ma'arif","original":"اللَّهُمَّ اكْفِنِي بِحَلَالِكَ عَنْ حَرَامِكَ وَأَغْنِنِي بِفَضْلِكَ عَمَّنْ سِوَاكَ","urdu":"اللہ میرے لیے تیری حلال چیز حرام سے کافی ہے اور تیرا فضل میرے لیے تیرے سوا ہر کسی سے بے نیاز کر دیتا ہے۔","methodology":"شرائط: باوضو ہو کر صبح صادق کے وقت ۳۱۳ بار پڑھیں۔ پہلے درود شریف ۱۱ بار، پھر یہ دعا، پھر درود شریف ۱۱ بار۔ ۴۰ دن کا ورد۔ بخور: لوبان۔","source_ref":"Shams al-Ma'arif al-Kubra, Shaykh Ahmad al-Buni, al-Bab al-Sadis"}
+      ];
+
       var ALL = [];
       var catLabels = {
         'Hifazat': 'حفاظت',
@@ -81,9 +86,9 @@
             localStorage.setItem('peer_amal_data', xhr.responseText);
             localStorage.setItem('peer_amal_date', today);
             init();
-          } catch(e) { console.error('JSON parse error'); }
+          } catch(e) { ALL = FALLBACK; init(); }
         };
-        xhr.onerror = function() { console.error('Failed to load amal.json'); };
+        xhr.onerror = function() { ALL = FALLBACK; init(); };
         xhr.send();
       }
 
