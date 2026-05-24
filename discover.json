@@ -1,99 +1,105 @@
 {
   "meta": {
-    "generated": "2026-05-23T20:36:02.932418Z",
+    "generated": "2026-05-24T09:10:56.213633Z",
     "version": 2
   },
   "facts": [
     {
-      "text": "Ṣadr ad-Dīn Muḥammad Shīrāzī, more commonly known as Mullā Ṣadrā, was an Iranian Twelver Shi'i Islamic mystic, philosopher, theologian, and ‘Ālim who led the cultural renaissance in the country during.  According to Oliver Leaman, Mulla Sadra is arguably the single most important and influential philosopher in the Muslim world in the last four hundred years.  Though not its founder, he is considered the master of the Illuminationist school of Philosophy, a seminal figure who synthesized the many tracts of the Islamic Golden Age philosophies into what he c.",
-      "source": "Mulla Sadra — Wikipedia",
+      "text": "Abu Nasr Muhammad al-Farabi, known in the Latin West as Alpharabius, was an early Islamic philosopher and music theorist.  He has been designated as \"Father of Islamic Neoplatonism\", and the \"Founder of Islamic Political Philosophy\".",
+      "source": "Al-Farabi — Wikipedia",
       "category": "Scholars",
       "id": 1
+    },
+    {
+      "text": "The Kaaba, also spelled Kaʽba, Kaʽbah or Kabah, sometimes referred to as al-Kaʽba al-Musharrafa, is a stone building at the center of Islam's most important mosque and holiest site, the Masjid al-Hara.  It is considered by Muslims to be the Baytullah and determines the qibla for Muslims around the world.",
+      "source": "Kaaba — Wikipedia",
+      "category": "History",
+      "id": 2
+    },
+    {
+      "text": "Barzakh is a Persian word meaning \"obstacle\", \"hindrance\", \"separation\", or \"barrier\".  In Islamic eschatology, it denotes a barrier separating the world of humans from the world of spirits.  It can also refer to a phase/\"stage\" between an individual's death and their resurrection in \"the Hereafter\".",
+      "source": "Barzakh — Wikipedia",
+      "category": "General",
+      "id": 3
     },
     {
       "text": "Medieval Islamic astronomy comprises the astronomical developments made in the Islamic world, particularly during the Islamic Golden Age, and mostly written in the Arabic language.  These developments mostly took place in the Middle East, Central Asia, Al-Andalus, and North Africa, and later in the Far East and India.  It closely parallels the genesis of other Islamic sciences in its assimilation of foreign material and the amalgamation of the disparate elements of that material to create a science with Islamic cha.",
       "source": "Islamic astronomy — Wikipedia",
       "category": "General",
-      "id": 2
-    },
-    {
-      "text": "Bihar al-Anwar is a comprehensive collection of hadith compiled by Shia scholar Mohammad-Baqer Majlesi.  It is the secondary Shi'ite hadith verification source after the Four Books.",
-      "source": "Bihar al-Anwar — Wikipedia",
-      "category": "Hadith",
-      "id": 3
-    },
-    {
-      "text": "Dhikr is a form of Islamic worship in which phrases or prayers are repeatedly recited for the purpose of remembering God.  It plays a central role in Sufism, and each Sufi order typically adopts a specific dhikr, accompanied by specific posture, breathing, and movement.  In Sufism, dhikr refers to both the act of this remembrance as well as the prayers used in these acts of remembrance.",
-      "source": "Dhikr — Wikipedia",
-      "category": "General",
       "id": 4
     },
     {
-      "text": "Nūr ad-Dīn 'Abd ar-Rahmān Jāmī, also known as Mawlanā Nūr al-Dīn 'Abd al-Rahmān or Abd-Al-Rahmān Nur-Al-Din Muhammad Dashti, or simply as Jami or Djāmī and in Turkey as Molla Cami, was a Persian Sunni.  He was primarily a prominent poet-theologian of the school of Ibn Arabi and a Khwājagānī Sũfī, recognized for his eloquence and for his analysis of the metaphysics of mercy.  His most famous poetic works are Haft Awrang, Tuhfat al-Ahrar, Layla wa Majnun, Fatihat al-Shabab, Lawa'ih, Al-Durrah al-Fakhirah.",
-      "source": "Jami — Wikipedia",
-      "category": "Spiritual",
+      "text": "Ali ibn Abi Talib was the fourth Rashidun caliph who ruled from 656 CE until his assassination in 661, as well as the first Shia Imam.  He was the cousin and son-in-law of the Islamic prophet Muhammad.  Born to Abu Talib ibn Abd al-Muttalib and Fatima bint Asad, Ali was raised in the household of his cousin Muhammad and was among the first to accept his teachings.",
+      "source": "Imam Ali — Wikipedia",
+      "category": "Ahl al-Bayt",
       "id": 5
+    },
+    {
+      "text": "Suhrawardi or Sohrevardi or variants may refer to:Suhrawardiyya, a Sufi order Abu al-Najib Suhrawardi (1097–1168), founder of the order Shihab al-Din 'Umar al-Suhrawardi, his nephew Shahab al-Din Yahy.",
+      "source": "Suhrawardi — Wikipedia",
+      "category": "Spiritual",
+      "id": 6
     },
     {
       "text": "Rūḥ or The Spirit is mentioned twenty one times in the Quran, where it is described as issuing from command of God.  The spirit acts as an agent of divine action or communication.",
       "source": "Ruh — Wikipedia",
       "category": "General",
-      "id": 6
-    },
-    {
-      "text": "Fatima bint Muhammad, commonly known as Fatima al-Zahra', was the daughter of the Islamic prophet Muhammad and his wife Khadija.  Fatima's husband was Ali, the fourth of the Rashidun caliphs and the first Shia imam.  Fatima's sons were Hasan and Husayn, the second and third Shia imams, respectively.",
-      "source": "Fatima al-Zahra — Wikipedia",
-      "category": "Ahl al-Bayt",
       "id": 7
     },
     {
-      "text": "Kashf al-Mahjub was the first formal treatise on Sufism, compiled in the 11th century by the Persian scholar al-Hujwiri.  The work contains a complete system of Sufism with its doctrines and practices.  Mystical controversies and current opinions are illustrated where many are clarified by presenting his experiences.",
-      "source": "Kashf al-Mahjub — Wikipedia",
-      "category": "General",
+      "text": "Ibn 'Arabī was a Sunni Muslim Arab scholar, Sufi mystic, poet, and Muslim philosopher from al-Andalus, who exercised notable influence within Sufi metaphysics and Islamic thought in general.  There are 850 works attributed to Ibn 'Arabi, though only 700 of these are considered authentic, and only 400 are extant.  His cosmological teachings became a dominant intellectual framework in many regions of the Muslim world.",
+      "source": "Ibn Arabi — Wikipedia",
+      "category": "Spiritual",
       "id": 8
     },
     {
-      "text": "Abū Mūsā Jābir ibn Ḥayyān, died c.  806−816, is the purported author of a large number of works in Arabic, often called the Jabirian corpus.  The c.",
-      "source": "Jabir ibn Hayyan — Wikipedia",
-      "category": "General",
+      "text": "The Israʾ and Miʿraj are the names given to the narrations that the Islamic prophet Muhammad ascended to the sky during a night journey, had a vision of afterlife, and returned.  It is believed that expressions without a subject in verses 1-18 of Surāh an-Najm and some verses of the 17th chapter of the Quran, commonly called Surāh al-’Isrā’, allude to the story.",
+      "source": "Isra and Mi'raj — Wikipedia",
+      "category": "History",
       "id": 9
+    },
+    {
+      "text": "Islamic ethics is the \"philosophical reflection upon moral conduct\" with a view to defining \"good character\" and attaining the \"pleasure of God\".  It is distinguished from \"Islamic morality\", which pertains to \"specific norms or codes of behavior\".",
+      "source": "Islamic ethics — Wikipedia",
+      "category": "Philosophy",
+      "id": 10
     }
   ],
   "wit": [
     {
-      "text": "Shaykh Baha'i dreamt of Imam al-Zaman (AJ) and asked: 'Master, what is the shortest path?' The Imam replied: 'Start walking and the path will rise beneath your feet.'",
-      "source": "Kashkul",
-      "type": "Spiritual",
+      "text": "Mulla Nasruddin saw a group arguing about God's essence. He laughed: 'You remind me of blind men describing an elephant — each touching a different part, each sure he alone is right.'",
+      "source": "Mulla Nasruddin",
+      "type": "Mulla Nasruddin",
       "id": 1
-    },
-    {
-      "text": "Imam al-Ghazali was asked: 'You mastered the outward sciences — why did you then abandon them?' He said: 'The outward told me where the door was; the inward let me enter.'",
-      "source": "Ihya al-Ulum",
-      "type": "Pir-Mureed",
-      "id": 2
-    },
-    {
-      "text": "Someone asked Mulla Sadra: 'Why is your philosophy so hard to understand?' He said: 'The sun is not hard to see — it's the eyes that need preparation.'",
-      "source": "Asfar, Adapted",
-      "type": "Scholarly Humor",
-      "id": 3
-    },
-    {
-      "text": "A student asked Allamah Tabatabai: 'How did you write such a massive tafsir?' He smiled: 'You read each verse — I asked each verse.'",
-      "source": "Popular Lutfia",
-      "type": "Scholarly Humor",
-      "id": 4
-    },
-    {
-      "text": "A man went to a sage: 'I want to see God.' The sage said: 'Close your eyes and look inward.' The man closed his eyes. 'I see nothing.' 'Then you looked with eyes — not with the heart.'",
-      "source": "Popular Tale",
-      "type": "Pir-Mureed",
-      "id": 5
     },
     {
       "text": "Mulla Nasruddin sat by a river. A scholar asked: 'Mulla, can you read Arabic?' The Mulla said: 'I can read water — it says: Flow, for stagnation is death.'",
       "source": "Mulla Nasruddin",
       "type": "Mulla Nasruddin",
+      "id": 2
+    },
+    {
+      "text": "Shaykh Baha'i dreamt of Imam al-Zaman (AJ) and asked: 'Master, what is the shortest path?' The Imam replied: 'Start walking and the path will rise beneath your feet.'",
+      "source": "Kashkul",
+      "type": "Spiritual",
+      "id": 3
+    },
+    {
+      "text": "A man asked Ibn Arabi: 'How do I know God?' Ibn Arabi said: 'Do you know who is asking?'",
+      "source": "Futuhat, Adapted",
+      "type": "Scholarly Humor",
+      "id": 4
+    },
+    {
+      "text": "A faqih was explaining proofs of God's existence. A simple man interrupted: 'You speak as if He is lost. I speak as if He is here and needs to be felt.'",
+      "source": "Popular Tale",
+      "type": "Pir-Mureed",
+      "id": 5
+    },
+    {
+      "text": "A scholar cornered Rumi: 'Define love precisely — no poetry.' Rumi laughed: 'You might as well ask a fish to define water precisely — no wetness.'",
+      "source": "Mathnawi, Adapted",
+      "type": "Scholarly Humor",
       "id": 6
     }
   ]
