@@ -1,81 +1,93 @@
 {
   "meta": {
-    "generated": "2026-05-24T15:49:10.393226Z",
+    "generated": "2026-05-24T21:14:48.866047Z",
     "version": 2
   },
   "facts": [
     {
-      "text": "In Islam, \"the promise and threat\" of Judgement Day,  is when \"all bodies will be resurrected\" from the dead, and \"all people\" are \"called to account\" for their deeds and their faith during their life.  It has been called \"the dominant message\" of the holy book of Islam, the Quran, and resurrection and judgement the two themes \"central to the understanding of Islamic eschatology. \" Judgement Day is considered a fundamental tenet of faith by all Muslims, and one of the six articles of Islamic faith.",
-      "source": "Qiyamah — Wikipedia",
+      "text": "Rūḥ or The Spirit is mentioned twenty one times in the Quran, where it is described as issuing from command of God.  The spirit acts as an agent of divine action or communication.",
+      "source": "Ruh — Wikipedia",
       "category": "General",
       "id": 1
     },
     {
-      "text": "Mansour al-Hallaj or Mansour Hallaj was a mystic, poet, and teacher of Sufism.  He was best known for his saying \"I am the Truth\" (\"Ana'l-Ḥaqq\"), which many saw as a claim to divinity, while others interpreted it as an instance of annihilation of the ego, which allowed God to sp.  Al-Hallaj gained a wide following as a preacher before he became implicated in power struggles of the Abbasid court and was executed after a long period of confinement on religious and political char.",
-      "source": "Mansur al-Hallaj — Wikipedia",
-      "category": "Spiritual",
+      "text": "Islamic ethics is the \"philosophical reflection upon moral conduct\" with a view to defining \"good character\" and attaining the \"pleasure of God\".  It is distinguished from \"Islamic morality\", which pertains to \"specific norms or codes of behavior\".",
+      "source": "Islamic ethics — Wikipedia",
+      "category": "Philosophy",
       "id": 2
     },
     {
-      "text": "Nūr ad-Dīn 'Abd ar-Rahmān Jāmī, also known as Mawlanā Nūr al-Dīn 'Abd al-Rahmān or Abd-Al-Rahmān Nur-Al-Din Muhammad Dashti, or simply as Jami or Djāmī and in Turkey as Molla Cami, was a Persian Sunni.  He was primarily a prominent poet-theologian of the school of Ibn Arabi and a Khwājagānī Sũfī, recognized for his eloquence and for his analysis of the metaphysics of mercy.  His most famous poetic works are Haft Awrang, Tuhfat al-Ahrar, Layla wa Majnun, Fatihat al-Shabab, Lawa'ih, Al-Durrah al-Fakhirah.",
-      "source": "Jami — Wikipedia",
-      "category": "Spiritual",
+      "text": "Ruhollah Mostafavi Musavi Khomeini was an Iranian politician and Shia cleric who served as the first supreme leader of Iran from 1979 until his death in 1989.  He was the leader of the Iranian Revolution, which overthrew Mohammad Reza Pahlavi, ended the Pahlavi era, and transformed the country into an Islamic republic.  As supreme leader, he implemented policies that came to be known as Khomeinism.",
+      "source": "Imam Khomeini — Wikipedia",
+      "category": "Scholars",
       "id": 3
     },
     {
-      "text": "Ṣadr ad-Dīn Muḥammad Shīrāzī, more commonly known as Mullā Ṣadrā, was an Iranian Twelver Shi'i Islamic mystic, philosopher, theologian, and ‘Ālim who led the cultural renaissance in the country during.  According to Oliver Leaman, Mulla Sadra is arguably the single most important and influential philosopher in the Muslim world in the last four hundred years.  Though not its founder, he is considered the master of the Illuminationist school of Philosophy, a seminal figure who synthesized the many tracts of the Islamic Golden Age philosophies into what he c.",
-      "source": "Mulla Sadra — Wikipedia",
+      "text": "Ibn Sina, commonly known in the West as Avicenna, was a preeminent philosopher and physician of the Muslim world.  He was a seminal figure of the Islamic Golden Age, serving in the courts of various Iranian rulers, and was influential to medieval European medical and Scholastic thought.  Avicenna is considered one of the greatest thinkers and medical scholars in history.",
+      "source": "Avicenna — Wikipedia",
       "category": "Scholars",
       "id": 4
     },
     {
-      "text": "Suhrawardi or Sohrevardi or variants may refer to:Suhrawardiyya, a Sufi order Abu al-Najib Suhrawardi (1097–1168), founder of the order Shihab al-Din 'Umar al-Suhrawardi, his nephew Shahab al-Din Yahy.",
-      "source": "Suhrawardi — Wikipedia",
-      "category": "Spiritual",
+      "text": "Hadith is the Arabic word for a 'report' or an 'account [of an event]' and refers to the Islamic oral tradition of anecdotes containing the purported words, actions, and the silent approvals of the I.",
+      "source": "Hadith — Wikipedia",
+      "category": "Hadith",
       "id": 5
     },
     {
-      "text": "Murāqabah is an Islamic methodology of achieving a transcendent union with God via Meditation.  It is a tradition commonly found in the ṭarīqas of Sunni Islam and in Irfani Shi'ism.  It's origins in the Sunnah are generally attributed to the asceticism that Prophet Muhammad practiced in the Cave of Hira.",
-      "source": "Muraqaba — Wikipedia",
-      "category": "General",
+      "text": "The Israʾ and Miʿraj are the names given to the narrations that the Islamic prophet Muhammad ascended to the sky during a night journey, had a vision of afterlife, and returned.  It is believed that expressions without a subject in verses 1-18 of Surāh an-Najm and some verses of the 17th chapter of the Quran, commonly called Surāh al-’Isrā’, allude to the story.",
+      "source": "Isra and Mi'raj — Wikipedia",
+      "category": "History",
       "id": 6
+    },
+    {
+      "text": "Al-Ghazali, (Persian: ابو حامد محمد ابن محمد غزالی توسی, romanized: Abū Ḥāmid Muḥammad ibn Muḥammad Ghazālī Ṭūsi, Latinized as Algazelus, was a Shafi'i Sunni Muslim Persian scholar and polymath.  He is known as one of the most prominent and influential jurisconsults, legal theoreticians, muftis, philosophers, theologians, logicians and mystics in Islamic history.",
+      "source": "Al-Ghazali — Wikipedia",
+      "category": "Spiritual",
+      "id": 7
+    },
+    {
+      "text": "Bihar al-Anwar is a comprehensive collection of hadith compiled by Shia scholar Mohammad-Baqer Majlesi.  It is the secondary Shi'ite hadith verification source after the Four Books.",
+      "source": "Bihar al-Anwar — Wikipedia",
+      "category": "Hadith",
+      "id": 8
     },
     {
       "text": "Tafsir refers to an exegesis, or commentary, of the Quran.  An author of a tafsir is a mufassir.  A Quranic tafsir attempts to provide education, explanation, interpretation, context or commentary for clear understanding and conviction of God's will in Islam.",
       "source": "Tafsir — Wikipedia",
       "category": "General",
-      "id": 7
+      "id": 9
     },
     {
-      "text": "Nahj al-balāgha is the best-known collection of sermons, letters, and sayings attributed to Ali ibn Abi Talib, the fourth Rashidun caliph, the first Shia imam, and the cousin and son-in-law of the Isl.  The compilation of the book is often credited to Sharif al-Radi, a prominent Shia scholar.  Known for its moral aphorisms and eloquent content, Nahj al-balagha is widely studied in the Islamic world and has considerably influenced the Arabic literature and rhetoric.",
-      "source": "Nahj al-Balagha — Wikipedia",
-      "category": "Hadith",
-      "id": 8
+      "text": "Fanaa in Sufism is the \"passing away\" or \"annihilation\".  Fana means \"to die before one dies\", a concept highlighted by famous notable Persian mystics such as Rumi.  There is controversy around what Fana exactly is, with some Sufis defining it as the absolute annihilation of the human ego before God, whereby the self becomes an instrument of God's plan in the wor.",
+      "source": "Fana (Sufism) — Wikipedia",
+      "category": "Spiritual",
+      "id": 10
     }
   ],
   "wit": [
     {
-      "text": "A student asked Allamah Tabatabai: 'How did you write such a massive tafsir?' He smiled: 'You read each verse — I asked each verse.'",
-      "source": "Popular Lutfia",
+      "text": "A scholar cornered Rumi: 'Define love precisely — no poetry.' Rumi laughed: 'You might as well ask a fish to define water precisely — no wetness.'",
+      "source": "Mathnawi, Adapted",
       "type": "Scholarly Humor",
       "id": 1
     },
     {
-      "text": "A scholar cornered Rumi: 'Define love precisely — no poetry.' Rumi laughed: 'You might as well ask a fish to define water precisely — no wetness.'",
-      "source": "Mathnawi, Adapted",
+      "text": "A student asked Allamah Tabatabai: 'How did you write such a massive tafsir?' He smiled: 'You read each verse — I asked each verse.'",
+      "source": "Popular Lutfia",
       "type": "Scholarly Humor",
       "id": 2
     },
     {
-      "text": "A faqih was explaining proofs of God's existence. A simple man interrupted: 'You speak as if He is lost. I speak as if He is here and needs to be felt.'",
+      "text": "A man went to a sage: 'I want to see God.' The sage said: 'Close your eyes and look inward.' The man closed his eyes. 'I see nothing.' 'Then you looked with eyes — not with the heart.'",
       "source": "Popular Tale",
       "type": "Pir-Mureed",
       "id": 3
     },
     {
-      "text": "Someone asked Mulla Sadra: 'Why is your philosophy so hard to understand?' He said: 'The sun is not hard to see — it's the eyes that need preparation.'",
-      "source": "Asfar, Adapted",
-      "type": "Scholarly Humor",
+      "text": "Imam al-Ghazali was asked: 'You mastered the outward sciences — why did you then abandon them?' He said: 'The outward told me where the door was; the inward let me enter.'",
+      "source": "Ihya al-Ulum",
+      "type": "Pir-Mureed",
       "id": 4
     },
     {
@@ -85,8 +97,8 @@
       "id": 5
     },
     {
-      "text": "A mureed asked his Pir: 'Master, how long have I been in your company?' The Pir replied: 'Son, you haven't even asked when you arrived. If the question hasn't arisen, how can the answer come?'",
-      "source": "Popular Lutfia",
+      "text": "A faqih was explaining proofs of God's existence. A simple man interrupted: 'You speak as if He is lost. I speak as if He is here and needs to be felt.'",
+      "source": "Popular Tale",
       "type": "Pir-Mureed",
       "id": 6
     }
