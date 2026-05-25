@@ -1,25 +1,25 @@
 {
   "meta": {
-    "generated": "2026-05-24T21:14:48.866047Z",
+    "generated": "2026-05-25T12:51:38.212113Z",
     "version": 2
   },
   "facts": [
     {
-      "text": "Rūḥ or The Spirit is mentioned twenty one times in the Quran, where it is described as issuing from command of God.  The spirit acts as an agent of divine action or communication.",
-      "source": "Ruh — Wikipedia",
+      "text": "The Masnavi is an extensive Persian masnavi written by Rumi, and one of the most influential works in the history of Sufism.  It is a series of six books of poetry that together amount to around 25,000 verses or 50,000 lines.",
+      "source": "Masnavi — Wikipedia",
       "category": "General",
       "id": 1
     },
     {
-      "text": "Islamic ethics is the \"philosophical reflection upon moral conduct\" with a view to defining \"good character\" and attaining the \"pleasure of God\".  It is distinguished from \"Islamic morality\", which pertains to \"specific norms or codes of behavior\".",
-      "source": "Islamic ethics — Wikipedia",
-      "category": "Philosophy",
+      "text": "Baha al-Din al-Amili, commonly known as Sheikh Bahāʾī, was a Twelver Shia Muslim scholar and polymath in Safavid Iran, who composed various works in Arabic and Persian.  Closely tied to the court of Shah Abbas I, he became known for his role in the intellectual sphere of Isfahan and is seen as a leading figure in his field, with seventy-seven scholars counted among h.",
+      "source": "Shaykh Bahai — Wikipedia",
+      "category": "Scholars",
       "id": 2
     },
     {
-      "text": "Ruhollah Mostafavi Musavi Khomeini was an Iranian politician and Shia cleric who served as the first supreme leader of Iran from 1979 until his death in 1989.  He was the leader of the Iranian Revolution, which overthrew Mohammad Reza Pahlavi, ended the Pahlavi era, and transformed the country into an Islamic republic.  As supreme leader, he implemented policies that came to be known as Khomeinism.",
-      "source": "Imam Khomeini — Wikipedia",
-      "category": "Scholars",
+      "text": "Nasreddin or Nasreddin Hodja (1208–1285) is a character commonly found in the folklores of the Muslim world, and a hero of humorous short stories and satirical anecdotes.  There are frequent statements about his existence in real life and even archaeological evidence in specific places, for example, a tombstone in the city of Akşehir, Turkey.  There is currently no confirmed information or serious grounds to talk about the specific date or place of Nasreddin's birth, and his historicity remains an open question.",
+      "source": "Mulla Nasruddin — Wikipedia",
+      "category": "Folklore",
       "id": 3
     },
     {
@@ -29,77 +29,71 @@
       "id": 4
     },
     {
-      "text": "Hadith is the Arabic word for a 'report' or an 'account [of an event]' and refers to the Islamic oral tradition of anecdotes containing the purported words, actions, and the silent approvals of the I.",
-      "source": "Hadith — Wikipedia",
-      "category": "Hadith",
+      "text": "Fanaa in Sufism is the \"passing away\" or \"annihilation\".  Fana means \"to die before one dies\", a concept highlighted by famous notable Persian mystics such as Rumi.  There is controversy around what Fana exactly is, with some Sufis defining it as the absolute annihilation of the human ego before God, whereby the self becomes an instrument of God's plan in the wor.",
+      "source": "Fana (Sufism) — Wikipedia",
+      "category": "Spiritual",
       "id": 5
     },
     {
-      "text": "The Israʾ and Miʿraj are the names given to the narrations that the Islamic prophet Muhammad ascended to the sky during a night journey, had a vision of afterlife, and returned.  It is believed that expressions without a subject in verses 1-18 of Surāh an-Najm and some verses of the 17th chapter of the Quran, commonly called Surāh al-’Isrā’, allude to the story.",
-      "source": "Isra and Mi'raj — Wikipedia",
-      "category": "History",
+      "text": "Kashf al-Mahjub was the first formal treatise on Sufism, compiled in the 11th century by the Persian scholar al-Hujwiri.  The work contains a complete system of Sufism with its doctrines and practices.  Mystical controversies and current opinions are illustrated where many are clarified by presenting his experiences.",
+      "source": "Kashf al-Mahjub — Wikipedia",
+      "category": "General",
       "id": 6
-    },
-    {
-      "text": "Al-Ghazali, (Persian: ابو حامد محمد ابن محمد غزالی توسی, romanized: Abū Ḥāmid Muḥammad ibn Muḥammad Ghazālī Ṭūsi, Latinized as Algazelus, was a Shafi'i Sunni Muslim Persian scholar and polymath.  He is known as one of the most prominent and influential jurisconsults, legal theoreticians, muftis, philosophers, theologians, logicians and mystics in Islamic history.",
-      "source": "Al-Ghazali — Wikipedia",
-      "category": "Spiritual",
-      "id": 7
-    },
-    {
-      "text": "Bihar al-Anwar is a comprehensive collection of hadith compiled by Shia scholar Mohammad-Baqer Majlesi.  It is the secondary Shi'ite hadith verification source after the Four Books.",
-      "source": "Bihar al-Anwar — Wikipedia",
-      "category": "Hadith",
-      "id": 8
     },
     {
       "text": "Tafsir refers to an exegesis, or commentary, of the Quran.  An author of a tafsir is a mufassir.  A Quranic tafsir attempts to provide education, explanation, interpretation, context or commentary for clear understanding and conviction of God's will in Islam.",
       "source": "Tafsir — Wikipedia",
       "category": "General",
-      "id": 9
+      "id": 7
     },
     {
-      "text": "Fanaa in Sufism is the \"passing away\" or \"annihilation\".  Fana means \"to die before one dies\", a concept highlighted by famous notable Persian mystics such as Rumi.  There is controversy around what Fana exactly is, with some Sufis defining it as the absolute annihilation of the human ego before God, whereby the self becomes an instrument of God's plan in the wor.",
-      "source": "Fana (Sufism) — Wikipedia",
+      "text": "Sayyid Abdullāh Shāh Qādrī, popularly known as Baba Bulleh Shah and vocatively as Bulleya, was a Punjabi revolutionary philosopher, reformer and poet, regarded as one of the greatest poets of the Punj.  His literary oeuvre, comprising ~150 kafi and 94 other poetic compositions, reflect themes of Sufi and humanist philosophy — for which he is regarded as 'Poet of the People' among Punjabis.",
+      "source": "Bulleh Shah — Wikipedia",
       "category": "Spiritual",
-      "id": 10
+      "id": 8
+    },
+    {
+      "text": "Medieval Islamic astronomy comprises the astronomical developments made in the Islamic world, particularly during the Islamic Golden Age, and mostly written in the Arabic language.  These developments mostly took place in the Middle East, Central Asia, Al-Andalus, and North Africa, and later in the Far East and India.  It closely parallels the genesis of other Islamic sciences in its assimilation of foreign material and the amalgamation of the disparate elements of that material to create a science with Islamic cha.",
+      "source": "Islamic astronomy — Wikipedia",
+      "category": "General",
+      "id": 9
     }
   ],
   "wit": [
     {
-      "text": "A scholar cornered Rumi: 'Define love precisely — no poetry.' Rumi laughed: 'You might as well ask a fish to define water precisely — no wetness.'",
-      "source": "Mathnawi, Adapted",
-      "type": "Scholarly Humor",
+      "text": "Mulla Nasruddin was asked: 'What happens after death?' The Mulla said: 'Forget about after death — first see what this life before death is, then ask.'",
+      "source": "Mulla Nasruddin",
+      "type": "Mulla Nasruddin",
       "id": 1
+    },
+    {
+      "text": "Shaykh Baha'i dreamt of Imam al-Zaman (AJ) and asked: 'Master, what is the shortest path?' The Imam replied: 'Start walking and the path will rise beneath your feet.'",
+      "source": "Kashkul",
+      "type": "Spiritual",
+      "id": 2
+    },
+    {
+      "text": "Mulla Nasruddin sat by a river. A scholar asked: 'Mulla, can you read Arabic?' The Mulla said: 'I can read water — it says: Flow, for stagnation is death.'",
+      "source": "Mulla Nasruddin",
+      "type": "Mulla Nasruddin",
+      "id": 3
     },
     {
       "text": "A student asked Allamah Tabatabai: 'How did you write such a massive tafsir?' He smiled: 'You read each verse — I asked each verse.'",
       "source": "Popular Lutfia",
       "type": "Scholarly Humor",
-      "id": 2
-    },
-    {
-      "text": "A man went to a sage: 'I want to see God.' The sage said: 'Close your eyes and look inward.' The man closed his eyes. 'I see nothing.' 'Then you looked with eyes — not with the heart.'",
-      "source": "Popular Tale",
-      "type": "Pir-Mureed",
-      "id": 3
-    },
-    {
-      "text": "Imam al-Ghazali was asked: 'You mastered the outward sciences — why did you then abandon them?' He said: 'The outward told me where the door was; the inward let me enter.'",
-      "source": "Ihya al-Ulum",
-      "type": "Pir-Mureed",
       "id": 4
     },
     {
-      "text": "Mulla Nasruddin was asked: 'What happens after death?' The Mulla said: 'Forget about after death — first see what this life before death is, then ask.'",
-      "source": "Mulla Nasruddin",
-      "type": "Mulla Nasruddin",
+      "text": "A man asked Ibn Arabi: 'How do I know God?' Ibn Arabi said: 'Do you know who is asking?'",
+      "source": "Futuhat, Adapted",
+      "type": "Scholarly Humor",
       "id": 5
     },
     {
-      "text": "A faqih was explaining proofs of God's existence. A simple man interrupted: 'You speak as if He is lost. I speak as if He is here and needs to be felt.'",
-      "source": "Popular Tale",
-      "type": "Pir-Mureed",
+      "text": "Someone asked Mulla Sadra: 'Why is your philosophy so hard to understand?' He said: 'The sun is not hard to see — it's the eyes that need preparation.'",
+      "source": "Asfar, Adapted",
+      "type": "Scholarly Humor",
       "id": 6
     }
   ]
