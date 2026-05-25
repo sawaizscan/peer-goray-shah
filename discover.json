@@ -1,69 +1,63 @@
 {
   "meta": {
-    "generated": "2026-05-25T12:51:38.212113Z",
+    "generated": "2026-05-25T21:57:49.382086Z",
     "version": 2
   },
   "facts": [
     {
-      "text": "The Masnavi is an extensive Persian masnavi written by Rumi, and one of the most influential works in the history of Sufism.  It is a series of six books of poetry that together amount to around 25,000 verses or 50,000 lines.",
-      "source": "Masnavi — Wikipedia",
-      "category": "General",
+      "text": "Ali ibn Abi Talib was the fourth Rashidun caliph who ruled from 656 CE until his assassination in 661, as well as the first Shia Imam.  He was the cousin and son-in-law of the Islamic prophet Muhammad.  Born to Abu Talib ibn Abd al-Muttalib and Fatima bint Asad, Ali was raised in the household of his cousin Muhammad and was among the first to accept his teachings.",
+      "source": "Imam Ali — Wikipedia",
+      "category": "Ahl al-Bayt",
       "id": 1
-    },
-    {
-      "text": "Baha al-Din al-Amili, commonly known as Sheikh Bahāʾī, was a Twelver Shia Muslim scholar and polymath in Safavid Iran, who composed various works in Arabic and Persian.  Closely tied to the court of Shah Abbas I, he became known for his role in the intellectual sphere of Isfahan and is seen as a leading figure in his field, with seventy-seven scholars counted among h.",
-      "source": "Shaykh Bahai — Wikipedia",
-      "category": "Scholars",
-      "id": 2
-    },
-    {
-      "text": "Nasreddin or Nasreddin Hodja (1208–1285) is a character commonly found in the folklores of the Muslim world, and a hero of humorous short stories and satirical anecdotes.  There are frequent statements about his existence in real life and even archaeological evidence in specific places, for example, a tombstone in the city of Akşehir, Turkey.  There is currently no confirmed information or serious grounds to talk about the specific date or place of Nasreddin's birth, and his historicity remains an open question.",
-      "source": "Mulla Nasruddin — Wikipedia",
-      "category": "Folklore",
-      "id": 3
-    },
-    {
-      "text": "Ibn Sina, commonly known in the West as Avicenna, was a preeminent philosopher and physician of the Muslim world.  He was a seminal figure of the Islamic Golden Age, serving in the courts of various Iranian rulers, and was influential to medieval European medical and Scholastic thought.  Avicenna is considered one of the greatest thinkers and medical scholars in history.",
-      "source": "Avicenna — Wikipedia",
-      "category": "Scholars",
-      "id": 4
     },
     {
       "text": "Fanaa in Sufism is the \"passing away\" or \"annihilation\".  Fana means \"to die before one dies\", a concept highlighted by famous notable Persian mystics such as Rumi.  There is controversy around what Fana exactly is, with some Sufis defining it as the absolute annihilation of the human ego before God, whereby the self becomes an instrument of God's plan in the wor.",
       "source": "Fana (Sufism) — Wikipedia",
       "category": "Spiritual",
-      "id": 5
-    },
-    {
-      "text": "Kashf al-Mahjub was the first formal treatise on Sufism, compiled in the 11th century by the Persian scholar al-Hujwiri.  The work contains a complete system of Sufism with its doctrines and practices.  Mystical controversies and current opinions are illustrated where many are clarified by presenting his experiences.",
-      "source": "Kashf al-Mahjub — Wikipedia",
-      "category": "General",
-      "id": 6
-    },
-    {
-      "text": "Tafsir refers to an exegesis, or commentary, of the Quran.  An author of a tafsir is a mufassir.  A Quranic tafsir attempts to provide education, explanation, interpretation, context or commentary for clear understanding and conviction of God's will in Islam.",
-      "source": "Tafsir — Wikipedia",
-      "category": "General",
-      "id": 7
-    },
-    {
-      "text": "Sayyid Abdullāh Shāh Qādrī, popularly known as Baba Bulleh Shah and vocatively as Bulleya, was a Punjabi revolutionary philosopher, reformer and poet, regarded as one of the greatest poets of the Punj.  His literary oeuvre, comprising ~150 kafi and 94 other poetic compositions, reflect themes of Sufi and humanist philosophy — for which he is regarded as 'Poet of the People' among Punjabis.",
-      "source": "Bulleh Shah — Wikipedia",
-      "category": "Spiritual",
-      "id": 8
+      "id": 2
     },
     {
       "text": "Medieval Islamic astronomy comprises the astronomical developments made in the Islamic world, particularly during the Islamic Golden Age, and mostly written in the Arabic language.  These developments mostly took place in the Middle East, Central Asia, Al-Andalus, and North Africa, and later in the Far East and India.  It closely parallels the genesis of other Islamic sciences in its assimilation of foreign material and the amalgamation of the disparate elements of that material to create a science with Islamic cha.",
       "source": "Islamic astronomy — Wikipedia",
       "category": "General",
-      "id": 9
+      "id": 3
+    },
+    {
+      "text": "Mansour al-Hallaj or Mansour Hallaj was a mystic, poet, and teacher of Sufism.  He was best known for his saying \"I am the Truth\" (\"Ana'l-Ḥaqq\"), which many saw as a claim to divinity, while others interpreted it as an instance of annihilation of the ego, which allowed God to sp.  Al-Hallaj gained a wide following as a preacher before he became implicated in power struggles of the Abbasid court and was executed after a long period of confinement on religious and political char.",
+      "source": "Mansur al-Hallaj — Wikipedia",
+      "category": "Spiritual",
+      "id": 4
+    },
+    {
+      "text": "The Masnavi is an extensive Persian masnavi written by Rumi, and one of the most influential works in the history of Sufism.  It is a series of six books of poetry that together amount to around 25,000 verses or 50,000 lines.",
+      "source": "Masnavi — Wikipedia",
+      "category": "General",
+      "id": 5
+    },
+    {
+      "text": "Baha al-Din al-Amili, commonly known as Sheikh Bahāʾī, was a Twelver Shia Muslim scholar and polymath in Safavid Iran, who composed various works in Arabic and Persian.  Closely tied to the court of Shah Abbas I, he became known for his role in the intellectual sphere of Isfahan and is seen as a leading figure in his field, with seventy-seven scholars counted among h.",
+      "source": "Shaykh Bahai — Wikipedia",
+      "category": "Scholars",
+      "id": 6
+    },
+    {
+      "text": "Dhikr is a form of Islamic worship in which phrases or prayers are repeatedly recited for the purpose of remembering God.  It plays a central role in Sufism, and each Sufi order typically adopts a specific dhikr, accompanied by specific posture, breathing, and movement.  In Sufism, dhikr refers to both the act of this remembrance as well as the prayers used in these acts of remembrance.",
+      "source": "Dhikr — Wikipedia",
+      "category": "General",
+      "id": 7
+    },
+    {
+      "text": "Al-Ghazali, (Persian: ابو حامد محمد ابن محمد غزالی توسی, romanized: Abū Ḥāmid Muḥammad ibn Muḥammad Ghazālī Ṭūsi, Latinized as Algazelus, was a Shafi'i Sunni Muslim Persian scholar and polymath.  He is known as one of the most prominent and influential jurisconsults, legal theoreticians, muftis, philosophers, theologians, logicians and mystics in Islamic history.",
+      "source": "Al-Ghazali — Wikipedia",
+      "category": "Spiritual",
+      "id": 8
     }
   ],
   "wit": [
     {
-      "text": "Mulla Nasruddin was asked: 'What happens after death?' The Mulla said: 'Forget about after death — first see what this life before death is, then ask.'",
-      "source": "Mulla Nasruddin",
-      "type": "Mulla Nasruddin",
+      "text": "A mureed asked his Pir: 'Master, how long have I been in your company?' The Pir replied: 'Son, you haven't even asked when you arrived. If the question hasn't arisen, how can the answer come?'",
+      "source": "Popular Lutfia",
+      "type": "Pir-Mureed",
       "id": 1
     },
     {
@@ -73,21 +67,21 @@
       "id": 2
     },
     {
-      "text": "Mulla Nasruddin sat by a river. A scholar asked: 'Mulla, can you read Arabic?' The Mulla said: 'I can read water — it says: Flow, for stagnation is death.'",
-      "source": "Mulla Nasruddin",
-      "type": "Mulla Nasruddin",
-      "id": 3
-    },
-    {
       "text": "A student asked Allamah Tabatabai: 'How did you write such a massive tafsir?' He smiled: 'You read each verse — I asked each verse.'",
       "source": "Popular Lutfia",
       "type": "Scholarly Humor",
+      "id": 3
+    },
+    {
+      "text": "A man went to a sage: 'I want to see God.' The sage said: 'Close your eyes and look inward.' The man closed his eyes. 'I see nothing.' 'Then you looked with eyes — not with the heart.'",
+      "source": "Popular Tale",
+      "type": "Pir-Mureed",
       "id": 4
     },
     {
-      "text": "A man asked Ibn Arabi: 'How do I know God?' Ibn Arabi said: 'Do you know who is asking?'",
-      "source": "Futuhat, Adapted",
-      "type": "Scholarly Humor",
+      "text": "Imam al-Ghazali was asked: 'You mastered the outward sciences — why did you then abandon them?' He said: 'The outward told me where the door was; the inward let me enter.'",
+      "source": "Ihya al-Ulum",
+      "type": "Pir-Mureed",
       "id": 5
     },
     {
