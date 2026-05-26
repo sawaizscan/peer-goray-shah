@@ -131,14 +131,14 @@
         document.getElementById('poetryEmpty').style.display = 'none';
         document.getElementById('poetryCount').textContent = poems.length + ' couplets';
         document.getElementById('poetryGrid').innerHTML = poems.map(function(p) {
-          return '<div class="discover-card" style="background:linear-gradient(170deg,rgba(139,37,37,0.06),rgba(139,37,37,0.02));border-color:rgba(139,37,37,0.15);">' +
-            (p.theme ? '<div class="dc-badge" style="background:rgba(139,37,37,0.1);color:#c95a5a;border-color:rgba(139,37,37,0.15);">' + p.theme + '</div>' : '') +
-            '<div style="display:flex;flex-direction:column;align-items:center;gap:0.15rem;padding:0.5rem 0;border-top:1px dashed rgba(184,148,46,0.12);border-bottom:1px dashed rgba(184,148,46,0.12);margin-bottom:0.5rem;">' +
-            '<div style="font-family:\'Noto Nastaliq Urdu\',serif;font-size:clamp(1rem,2.2vw,1.25rem);color:#b8942e;line-height:1.8;direction:rtl;text-align:center;width:100%;padding:0.1rem 0;border-bottom:1px dashed rgba(184,148,46,0.07);padding-bottom:0.3rem;margin-bottom:0.15rem;">' + p.misra1 + '</div>' +
-            '<div style="font-family:\'Noto Nastaliq Urdu\',serif;font-size:clamp(1rem,2.2vw,1.25rem);color:#b8942e;line-height:1.8;direction:rtl;text-align:center;width:100%;padding:0.1rem 0;">' + p.misra2 + '</div>' +
+          return '<div class="discover-card poetry">' +
+            (p.theme ? '<div class="dc-badge">' + p.theme + '</div>' : '') +
+            '<div class="poem-misra-wrapper">' +
+            '<div class="poem-misra">' + p.misra1 + '</div>' +
+            '<div class="poem-misra">' + p.misra2 + '</div>' +
             '</div>' +
             '<div class="dc-source"><span><i class="fas fa-user"></i> ' + p.poet + '</span><span><i class="fas fa-book"></i> ' + (p.source || '') + '</span></div>' +
-            (p.essence ? '<div style="font-size:0.7rem;color:var(--text-light);padding:0.35rem 0.5rem;margin-top:0.3rem;background:rgba(0,0,0,0.03);border-radius:6px;line-height:1.4;">' + p.essence + '</div>' : '') +
+            (p.essence ? '<div class="poem-essence-foot">' + p.essence + '</div>' : '') +
           '</div>';
         }).join('');
       }
