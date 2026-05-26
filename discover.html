@@ -104,6 +104,7 @@
             return '<div class="discover-card">' +
               (f.category ? '<div class="dc-badge">' + f.category + '</div>' : '') +
               '<div class="dc-text en">' + f.text + '</div>' +
+              (f.urdu ? '<div class="dc-text rtl" style="margin-top:0.5rem;padding-top:0.5rem;border-top:1px dashed rgba(184,148,46,0.15);color:#8a7a4a;">' + f.urdu + '</div>' : '') +
               '<div class="dc-source"><span><i class="fas fa-book"></i> ' + f.source + '</span></div>' +
             '</div>';
           }).join('');
@@ -119,6 +120,7 @@
             return '<div class="discover-card">' +
               (w.type ? '<div class="dc-badge">' + w.type + '</div>' : '') +
               '<div class="dc-text en">' + w.text + '</div>' +
+              (w.urdu ? '<div class="dc-text rtl" style="margin-top:0.5rem;padding-top:0.5rem;border-top:1px dashed rgba(184,148,46,0.15);color:#8a7a4a;">' + w.urdu + '</div>' : '') +
               '<div class="dc-source"><span><i class="fas fa-book"></i> ' + w.source + '</span></div>' +
             '</div>';
           }).join('');
@@ -139,6 +141,7 @@
             '</div>' +
             '<div class="dc-source"><span><i class="fas fa-user"></i> ' + p.poet + '</span><span><i class="fas fa-book"></i> ' + (p.source || '') + '</span></div>' +
             (p.essence ? '<div class="poem-essence-foot">' + p.essence + '</div>' : '') +
+            (p.urdu_essence ? '<div class="poem-essence-foot" style="margin-top:0.25rem;direction:rtl;font-family:\'Noto Nastaliq Urdu\',serif;background:rgba(139,37,37,0.05);">' + p.urdu_essence + '</div>' : '') +
           '</div>';
         }).join('');
       }

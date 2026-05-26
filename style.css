@@ -647,6 +647,50 @@ footer .heart { color: #e74c3c; }
   .floating a { width: 40px; height: 40px; font-size: 1rem; }
 }
 
+/* ─── WISDOM PAGE TABS ─── */
+.wisdom-tabs {
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-bottom: 2rem;
+  flex-wrap: wrap;
+}
+.wisdom-tab {
+  padding: 0.6rem 1.4rem;
+  border-radius: 50px;
+  border: 1.5px solid rgba(184,148,46,0.2);
+  background: transparent;
+  color: var(--text-light);
+  font-size: 0.8rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  font-family: 'Inter', sans-serif;
+}
+.wisdom-tab i { font-size: 0.75rem; opacity: 0.6; }
+.wisdom-tab:hover {
+  border-color: var(--gold);
+  color: var(--gold);
+  background: rgba(184,148,46,0.04);
+}
+.wisdom-tab.active {
+  background: var(--primary);
+  border-color: var(--primary);
+  color: var(--white);
+}
+.wisdom-tab.active i { opacity: 1; }
+
+.wisdom-panel { display: none; }
+.wisdom-panel.active { display: block; animation: fadeIn 0.35s ease; }
+
+@media (max-width: 480px) {
+  .wisdom-tab { font-size: 0.68rem; padding: 0.4rem 0.9rem; }
+  .wisdom-tabs { gap: 0.35rem; }
+}
+
 /* ─── RESPONSIVE ─── */
 @media (max-width: 768px) {
   .section { padding: 2.5rem 1.25rem; }
@@ -926,6 +970,26 @@ footer .heart { color: #e74c3c; }
   letter-spacing: 2px;
   text-transform: uppercase;
   color: #c95a5a;
+  margin-bottom: 0.25rem;
+}
+.poem-card .poem-essence-urdu {
+  font-size: 0.72rem;
+  color: rgba(255,255,255,0.35);
+  line-height: 1.6;
+  padding: 0.5rem;
+  border-radius: 6px;
+  background: rgba(0,0,0,0.1);
+  border: 1px solid rgba(255,255,255,0.03);
+  margin-top: 0.35rem;
+  direction: rtl;
+  font-family: 'Noto Nastaliq Urdu', serif;
+}
+.poem-card .poem-essence-urdu .label {
+  display: block;
+  font-size: 0.5rem;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--gold);
   margin-bottom: 0.25rem;
 }
 

@@ -33,53 +33,60 @@
   <section class="section" style="background: var(--white);">
     <div class="section-inner">
 
-      <div id="rarestContainer"></div>
-
-      <div class="search-box">
-        <input type="text" id="wisdomSearch" placeholder="Search original, Urdu, source_person, book…">
+      <div class="wisdom-tabs" id="wisdomTabBar">
+        <button class="wisdom-tab active" data-panel="sayings"><i class="fas fa-quote-left"></i> کلمات · Sayings</button>
+        <button class="wisdom-tab" data-panel="poetry"><i class="fas fa-feather"></i> شاعری · Poetry</button>
+        <button class="wisdom-tab" data-panel="fun"><i class="fas fa-lightbulb"></i> معلومات · Fun Facts</button>
       </div>
 
-      <div class="search-tags-wrapper" id="searchTags"></div>
+      <div class="wisdom-panel active" id="panel-sayings">
+        <div id="rarestContainer"></div>
 
-      <div class="filters" id="categoryFilters"></div>
-      <div class="filters" id="sourceFilters"></div>
-      <div class="filters" id="rarityFilters"></div>
+        <div class="search-box">
+          <input type="text" id="wisdomSearch" placeholder="Search original, Urdu, source_person, book…">
+        </div>
 
-      <div class="count-badge" id="resultCount"></div>
+        <div class="search-tags-wrapper" id="searchTags"></div>
 
-      <div class="card-grid" id="wisdomGrid"></div>
+        <div class="filters" id="categoryFilters"></div>
+        <div class="filters" id="sourceFilters"></div>
+        <div class="filters" id="rarityFilters"></div>
 
-      <div class="empty-state" id="emptyState" style="display:none;">
-        <i class="fas fa-search"></i>
-        <p>No entries match your filter.</p>
+        <div class="count-badge" id="resultCount"></div>
+
+        <div class="card-grid" id="wisdomGrid"></div>
+
+        <div class="empty-state" id="emptyState" style="display:none;">
+          <i class="fas fa-search"></i>
+          <p>No entries match your filter.</p>
+        </div>
       </div>
 
-    </div>
-  </section>
-
-  <section class="poetry-section" id="poetry">
-    <div class="section-title">
-      <h2>شاعری · Poetry</h2>
-      <div class="divider"></div>
-      <p>Couplets of longing, love, and the divine — from the treasury of Islamic mysticism</p>
-    </div>
-    <div class="poetry-grid" id="poetryGrid"></div>
-  </section>
-
-  <section class="fun-section" id="fun">
-    <div class="fun-inner">
-      <div class="fun-card" id="factCard">
-        <div class="fun-icon fact-icon"><i class="fas fa-lightbulb"></i></div>
-        <div class="fun-badge fact"><i class="fas fa-star"></i> Did You Know?</div>
-        <div class="fun-text en" id="factText"></div>
-        <div class="fun-source" id="factSource"></div>
+      <div class="wisdom-panel" id="panel-poetry">
+        <div class="poetry-grid" id="poetryGrid"></div>
+        <div class="empty-state" id="poetryEmpty" style="display:none;">
+          <i class="fas fa-spinner fa-pulse"></i>
+          <p>Loading poetry...</p>
+        </div>
       </div>
-      <div class="fun-card" id="humorCard">
-        <div class="fun-icon humor-icon"><i class="fas fa-grin-wink"></i></div>
-        <div class="fun-badge humor"><i class="fas fa-feather"></i> Literary Wit</div>
-        <div class="fun-text" id="humorText"></div>
-        <div class="fun-source" id="humorSource"></div>
+
+      <div class="wisdom-panel" id="panel-fun">
+        <div class="fun-inner" style="max-width:800px;margin:0 auto;">
+          <div class="fun-card" id="factCard">
+            <div class="fun-icon fact-icon"><i class="fas fa-lightbulb"></i></div>
+            <div class="fun-badge fact"><i class="fas fa-star"></i> Did You Know?</div>
+            <div class="fun-text en" id="factText"></div>
+            <div class="fun-source" id="factSource"></div>
+          </div>
+          <div class="fun-card" id="humorCard">
+            <div class="fun-icon humor-icon"><i class="fas fa-grin-wink"></i></div>
+            <div class="fun-badge humor"><i class="fas fa-feather"></i> Literary Wit</div>
+            <div class="fun-text" id="humorText"></div>
+            <div class="fun-source" id="humorSource"></div>
+          </div>
+        </div>
       </div>
+
     </div>
   </section>
 
@@ -125,6 +132,17 @@
         { text: 'ایک طالب علم نے علامہ طباطبائی سے پوچھا: "آپ نے المیزان میں اتنی تفسیر کیسے لکھ دی؟" علامہ مسکرائے اور بولے: "تم نے ایک ایک آیت پڑھی ہے، میں نے ایک ایک آیت سے پوچھا ہے۔"', source: 'مشہور لطیفہ' },
         { text: 'Shaykh Ansari was asked: "What is the most difficult ruling in fiqh?" He thought and said: "To stop yourself from giving your own opinion when the truth has already been spoken."', source: 'Shaykh Ansari, Taqrirat' },
         { text: 'امام غزالی سے پوچھا گیا: "آپ نے علوم ظاہر میں دسترس حاصل کی، پھر باطن کا راستہ کیوں اختیار کیا؟" غزالی نے کہا: "ظاہر علم بتاتا تھا کہ دروازہ کہاں ہے، باطن نے اندر جانے دیا۔"', source: 'احیاء العلوم' }
+      ];
+
+      var POEMS = [
+        { misra1: 'تُو خود آئینہ ہو اپنا، تجھے کیا ڈھونڈتا ہے', misra2: 'وہی جلوہ ہے تیرا جو تجھے چاہیے ہو کر رہ گیا', poet: 'Syed Saleem Raza Kazmi', theme: 'Self-Knowledge', essence: 'The seeker is the sought — the mirror and the reflection are one.' },
+        { misra1: 'دل سے نکلا ہے جو دم، وہ دم پلٹ کر آتا ہے', misra2: 'آئینہ خانہ میں جو دیکھے، وہیں سماتا ہے', poet: 'Mawlana Rumi', theme: 'Love', essence: 'Every breath born of the heart returns to it — the heart is both origin and destination.' },
+        { misra1: 'موت کا منظر نہ دیکھو، زندگی میں جھانکیے', misra2: 'جو بھی ہے اسی پل میں، اس سے آگے جانکیے', poet: 'Mirza Ghalib', theme: 'Philosophy', essence: 'Death is not a separate event — it is the depth of the present moment itself.' },
+        { misra1: 'ہر اک ذرہ تجھے پکار رہا ہے', misra2: 'مگر تُو اپنے شور میں گم ہے', poet: 'Iqbal', theme: 'Tawhid', essence: 'The universe is a ceaseless dhikr — only the veils of the self drown it out.' },
+        { misra1: 'عشق میں کافر و مومن کا کوئی فرق نہیں', misra2: 'وہ تو اس کو بھی جلاتا ہے جس نے آگ کو بجھایا تھا', poet: 'Ayn al-Qudat Hamadani', theme: 'Love', essence: 'Divine love burns equally the one who believes and the one who denies.' },
+        { misra1: 'نور سے پوچھا کبھی ظلمت نے کہ تُو کیا ہے', misra2: 'نور نے کہا: میرا ہونا ہی تیری پہچان ہے', poet: 'Syed Saleem Raza Kazmi', theme: 'Philosophy', essence: 'Darkness and light define each other — opposites are the doorways to unity.' },
+        { misra1: 'گوہر نایاب ہے دل، اس کو نہ بیچنا سستی میں', misra2: 'خاک کی قیمت تب ہے جب وہ گِل ہو مصطفیٰ کی', poet: 'Bulleh Shah', theme: 'Spiritual', essence: 'The heart is a priceless gem — gains value only when kneaded into the clay of the Beloved.' },
+        { misra1: 'فنا سے ڈر نہیں لگتا، بقا کا یقین ہے مجھ کو', misra2: 'سمندر ڈوب کر پایا جاتا ہے، بوند بھر نہیں', poet: 'Mansur Hallaj', theme: 'Fana', essence: 'Annihilation is not loss but the only way to true subsistence — the drop dies to become the ocean.' }
       ];
 
       var SEARCH_TAGS = [
@@ -196,25 +214,60 @@
         xhr.send();
       }
 
-      // ─── POETRY — fetch from poetry.json (no cache) ───
-      function renderPoetry(poems) {
-        if (!poems || !poems.length) return;
-        document.getElementById('poetryGrid').innerHTML = poems.map(function(p) {
-          return '<div class="poem-card"><div class="poem-theme">' + p.theme + '</div>' +
-            '<div class="poem-couplet">' +
-            '<div class="misra">' + p.misra1 + '</div>' +
-            '<div class="misra">' + p.misra2 + '</div>' +
-            '</div>' +
-            '<div class="poem-poet">— ' + p.poet + '</div>' +
-            '<div class="poem-essence"><span class="label"><i class="fas fa-water"></i> Deep Essence</span>' + p.essence + '</div></div>';
-        }).join('');
+      // ─── TAB SWITCHING ───
+      document.getElementById('wisdomTabBar').addEventListener('click', function(e) {
+        var btn = e.target.closest('.wisdom-tab');
+        if (!btn) return;
+        document.querySelectorAll('.wisdom-tab').forEach(function(b) { b.classList.remove('active'); });
+        document.querySelectorAll('.wisdom-panel').forEach(function(p) { p.classList.remove('active'); });
+        btn.classList.add('active');
+        document.getElementById('panel-' + btn.dataset.panel).classList.add('active');
+      });
+
+      // ─── LOAD DATA ───
+      var ALL = [];
+
+      var stored = localStorage.getItem('peer_wisdom_data');
+      var storedDate = localStorage.getItem('peer_wisdom_date');
+      var today = new Date().toDateString();
+      if (stored && storedDate === today) {
+        try { ALL = JSON.parse(stored); } catch(e) {}
+      }
+
+      if (!ALL.length) {
+        ALL = [
+          {"id":1,"source_person":"Imam Ali (AS)","category":"Mawt","original":"فإن الموت غائب لا بد أن يرديك، وإن كان مسكنه في غيب غير منقطع","urdu":"موت ایک غائب حقیقت ہے جو تجھ پر ضرور وارد ہوگی، خواہ اس کا ٹھکانا غیب کے پردے میں ہی کیوں نہ ہو۔","ishraqat":"موت کا خوف دراصل ناآشنائی کا خوف ہے۔ جب روح اپنے اصلی وطن سے آشنا ہو جائے تو موت اس کے لیے پردہ چاک کرنے کا نام بن جاتی ہے۔","tanaquz":"موت جسے سب سے بڑی وحشت سمجھا جاتا ہے، وہی عارف کے لیے سب سے بڑی راحت بن جاتی ہے — یہ تضاد معرفت کے درجے پر منحصر ہے۔","makhaz":"Bihar al-Anwar, vol. 73, p. 31","related":"﴿كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ﴾ — ہر نفس موت کا مزہ چکھنے والا ہے۔ (آل عمران: 185)","rarity":"Nadir"},
+          {"id":2,"source_person":"Imam al-Baqir (AS)","category":"Barzakh","original":"إنما مثل المؤمن عند الموت مثل الظمآن الذي انتهى إلى الماء البارد","urdu":"مومن کی موت کے وقت کیفیت اس پیاسے کی سی ہے جو ٹھنڈے پانی تک پہنچ گیا ہو۔","ishraqat":"موت ایک آئینہ ہے جو بندے کے باطن کی اصل کیفیت ظاہر کر دیتی ہے۔ مومن کی روح اپنی اصلی منزل کو پہنچان کر مشتاق ہو جاتی ہے۔","tanaquz":"موت ایک ہی حقیقت ہے مگر اس کا ذائقہ مومن اور کافر کے لیے بالکل مختلف ہے۔","makhaz":"Basair al-Darajat, p. 186","related":"امیر المؤمنین (ع): الموت قنطرة — موت ایک پل ہے۔","rarity":"Khas"},
+          {"id":3,"source_person":"Imam Ja'far al-Sadiq (AS)","category":"Mawt","original":"إذا مات المؤمن دخل معه في قبره ست صور، فيهن صورة أحسن من الباقين","urdu":"جب مومن مرتا ہے تو اس کے ساتھ قبر میں چھ صورتیں داخل ہوتی ہیں، ان میں ایک سب سے خوبصورت ہوتی ہے۔","ishraqat":"اعمال صالحہ قبر میں نورانی صورتوں کے روپ میں جلوہ گر ہوتے ہیں، مگر ان سب پر ولایت کا نور غالب ہے۔","tanaquz":"قبر میں صرف اعمال داخل ہوتے ہیں، مگر یہاں اعمال صورت بن کر داخل ہوتے ہیں — جسم اور عمل کا تضاد۔","makhaz":"Al-Khisal, p. 311, hadith 84","related":"النبي (ص): حب علي بن أبي طالب يأكل الذنوب","rarity":"Nadir-tareen"},
+          {"id":4,"source_person":"Imam Zayn al-Abidin (AS)","category":"Qabr","original":"واجعل قبري روضة من رياض الجنة، ولا تجعله حفرة من حفر النار","urdu":"میری قبر کو جنت کے باغیچوں میں سے ایک باغیچہ بنا، اور جہنم کے گڑھوں میں سے ایک گڑھا نہ بنا۔","ishraqat":"قبر جنت کا باغیچہ یا جہنم کا گڑھا — یہ دنیا میں کی گئی شخصیت کی تعمیر کا نتیجہ ہے۔","tanaquz":"قبر ظاہری طور پر ایک تنگ اور تاریک گڑھا ہے، مکنہ طور پر وہی جنت کا باغیچہ بن سکتی ہے۔","makhaz":"al-Sahifa al-Sajjadiyya, Du'a 53","related":"النبي (ص): القبر إما روضة من رياض الجنة أو حفرة من حفر النار","rarity":"Khas"},
+          {"id":5,"source_person":"Mulla Husayn Quli Hamadani","category":"Nafs","original":"دل چراغ معرفت است و نفس باد مخالف — هر که این چراغ را از باد نفس نگاه دارد، به مقام قرب رسد","urdu":"دل معرفت کا چراغ ہے اور نفس مخالف ہوا ہے — جو اس چراغ کو نفس کی ہوا سے بچائے رکھے، وہ مقام قرب تک پہنچ جاتا ہے۔","ishraqat":"دل اور نفس کا تضاد ابدی ہے۔ نفس وہ ہوا ہے جو چراغِ دل کو بجھانے پر آمادہ ہے، مگر جب دل کا چراغ نفس کی ہوا سے بچ جائے تو اس کی روشنی عرش تک پہنچتی ہے۔","tanaquz":"دل کو نفس سے بچانا ہے مگر نفس ہی وہ چیز ہے جو دل کی حفاظت کرتی ہے — یہ وہ معمہ ہے جسے عارف خود حل کرتا ہے۔","makhaz":"Malfuzat, Mulla Husayn Quli Hamadani, Majlis 3","related":"امام علی (ع): من عرف نفسه فقد عرف ربه — جس نے خود کو پہچانا اس نے اپنے رب کو پہچانا۔","rarity":"Nadir-tareen"},
+          {"id":6,"source_person":"Ayn al-Qudat Hamadani","category":"Ishq","original":"عشق چنان آتشی است که هر چه جز معشوق باشد بسوزاند — و این عین بقاست","urdu":"عشق ایسی آگ ہے کہ معشوق کے سوا جو کچھ ہے اسے جلا ڈالتی ہے — اور یہی عین بقا ہے۔","ishraqat":"عشق کی آگ میں جلنا ہی بقا ہے۔ یہ ظاہری تضاد باطنی حقیقت ہے — جب تک غیر نہ جلے، حقیقت ظاہر نہیں ہوتی۔ عشق وہ راستہ ہے جہاں فنا ہی عین بقا ہے۔","tanaquz":"جو عشق میں جلتا ہے وہی باقی رہتا ہے، جو بچتا ہے وہ جلتا ہے — یہ الٹی منطق عشق کی اپنی ہے۔","makhaz":"Tamhidat, Ayn al-Qudat, Section 8, Tahrir-e Dovvom","related":"منصور حلاج: أنا الحق — میں ہی حق ہوں (فنا فی اللہ کا اظہار)","rarity":"Nadir-tareen"},
+          {"id":7,"source_person":"Rumi","category":"Ishq","original":"عشق را خواهی که بی پایان بود\nشرط اول آنست کہ نادان بود","urdu":"اگر چاہتے ہو کہ عشق بے انتہا ہو تو پہلی شرط یہ ہے کہ عقل سے خالی ہو جاؤ۔","ishraqat":"عقل حدود میں رہتی ہے اور عشق حدود سے باہر ہے۔ جب عقل خاموش ہوتی ہے تو عشق بولنا شروع کرتا ہے۔ عقل کا خاتمہ عشق کا آغاز ہے — یہ وہ راز ہے جو صرف عاشق جانتا ہے۔","tanaquz":"عقل سے خالی ہونا عشق کی پہلی شرط ہے — مگر یہ خالی پن ہی اصل علم ہے۔","makhaz":"Masnavi-e-Ma'navi, Daftar 1, Bayt 141-142, Mawlana Rumi","related":"ابن عربی: الحب أن لا یبقی منك شيء — عشق یہ ہے کہ تجھ سے کچھ باقی نہ رہے۔","rarity":"Khas"},
+          {"id":8,"source_person":"Sayyid Ahmad Karbalai","category":"Nafs","original":"مراقبت عبارت است از حضور قلب در جمیع حالات — و این حضور جز با ترک تعلقات میسر نشود","urdu":"مراقبہ دل کی ہر حالت میں حاضر رہنے کا نام ہے — اور یہ حضوری تعلقات کو چھوڑے بغیر ممکن نہیں۔","ishraqat":"مراقبہ صرف نماز یا عبادت کا نام نہیں، بلکہ ہر لمحہ اللہ کے سامنے حاضر رہنا ہے۔ تعلقاتِ دنیا وہ پردے ہیں جو اس حضوری میں حائل ہوتے ہیں۔ جب تعلق ختم ہوتا ہے تو حضور شروع ہوتا ہے۔","tanaquz":"تعلقات چھوڑنے سے حضور ملتا ہے، مگر تعلقات خود اللہ کے دیے ہوئے ہیں — اس تضاد کو حل کرنا ہی مراقبہ ہے۔","makhaz":"Makatib, Sayyid Ahmad Karbalai, Letter 12","related":"امام علی (ع): لا یذوق العبد حقیقة الایمان حتی لا یبالي من فی الدارین","rarity":"Nadir-tareen"},
+          {"id":9,"source_person":"Imam Muhammad al-Baqir (AS)","category":"Ilm","original":"العلم نور یقذفه الله في قلب من یشاء","urdu":"علم ایک نور ہے جسے اللہ جس کے دل میں چاہتا ہے ڈال دیتا ہے۔","ishraqat":"علم حقیقی کسبی نہیں بلکہ وہبی ہے۔ یہ ایک نور ہے جو دل میں ڈالا جاتا ہے — بشرطیکہ دل اس کے لیے تیار ہو۔ یہ نور نفس کے اندھیروں کو ختم کر کے حق کی روشنی پھیلا دیتا ہے۔ اس کا حصول مجاہدہ سے ممکن ہے۔","tanaquz":"علم جو کمانے سے نہیں ملتا، مگر اس کے بغیر کوئی عالم نہیں بن سکتا — یہ وہ نور ہے جو عمل سے ملتا ہے مگر عمل کا نتیجہ نہیں۔","makhaz":"Tuhaf al-Uqul, p. 295, Ibn Shu'bah al-Harrani","related":"امام صادق (ع): العلم نور یقذفه الله في قلب من یشاء","rarity":"Nadir"},
+          {"id":10,"source_person":"Bahr al-Ulum","category":"Ilm","original":"السیر إلی الله من البداية إلی النهایة عبارة عن خروج العبد من نفسه","urdu":"اللہ کی طرف سفر، شروع سے آخر تک، بندے کا اپنے نفس سے نکل جانے کا نام ہے۔","ishraqat":"سیر الی اللہ کا آغاز بندے کی اپنی ذات سے نکلنے سے ہوتا ہے۔ جب تک بندہ اپنے نفس میں گرفتار ہے، وہ اللہ سے دور ہے۔ ہر قدم جو نفس سے دور لے جاتا ہے، وہ اللہ کے قریب لے جاتا ہے۔","tanaquz":"اللہ کی طرف سفر کا مطلب اپنے نفس سے نکلنا ہے، مگر یہ سفر بھی اسی نفس کے ذریعے ہی ممکن ہے — سفر کرنے والا اور جس سے سفر کیا جائے ایک ہیں۔","makhaz":"Risalat al-Sayr wa al-Suluk, Bahr al-Ulum, p. 23","related":"ملا حسینقلی ہمدانی: سیر إلی الله سیر في نفسك — اللہ کی طرف سفر تیرے اپنے نفس میں ہے۔","rarity":"Khas"}
+        ];
+
+        var xhr = new XMLHttpRequest();
+        xhr.open('GET', 'data.json', true);
+        xhr.onload = function() {
+          try {
+            var fresh = JSON.parse(xhr.responseText);
+            if (fresh && fresh.length) {
+              ALL = fresh;
+              localStorage.setItem('peer_wisdom_data', xhr.responseText);
+              localStorage.setItem('peer_wisdom_date', today);
+              renderAll();
+            }
+          } catch(e) {}
+        };
+        xhr.send();
       }
 
       // ─── RENDER ALL ───
       function renderAll() {
         if (!ALL.length) return;
 
-        // Rarest
         var rarestPool = ALL.filter(function(d) { return d.rarity === 'Nadir-tareen'; });
         if (rarestPool.length) {
           var dayIndex = new Date().getDate() % rarestPool.length;
@@ -304,7 +357,25 @@
 
       renderAll();
 
-      // Poetry grid — fresh fetch every time, no cache
+      // ─── POETRY — fetch fresh, render into panel ───
+      function renderPoetry(poems) {
+        if (!poems || !poems.length) return;
+        document.getElementById('poetryEmpty').style.display = 'none';
+        document.getElementById('poetryGrid').innerHTML = poems.map(function(p) {
+          return '<div class="poem-card"><div class="poem-theme">' + p.theme + '</div>' +
+            '<div class="poem-couplet">' +
+            '<div class="misra">' + p.misra1 + '</div>' +
+            '<div class="misra">' + p.misra2 + '</div>' +
+            '</div>' +
+            '<div class="poem-poet">— ' + p.poet + '</div>' +
+            '<div class="poem-essence"><span class="label"><i class="fas fa-water"></i> Deep Essence</span>' + p.essence + '</div>' +
+            (p.urdu_essence ? '<div class="poem-essence-urdu"><span class="label"><i class="fas fa-language"></i> شرح</span>' + p.urdu_essence + '</div>' : '') +
+            '</div>';
+        }).join('');
+      }
+
+      document.getElementById('poetryEmpty').style.display = 'block';
+
       var poetryXhr = new XMLHttpRequest();
       poetryXhr.open('GET', 'poetry.json?_=' + Date.now(), true);
       poetryXhr.onload = function() {
@@ -312,13 +383,12 @@
           var pData = JSON.parse(poetryXhr.responseText);
           if (pData && pData.poems) { renderPoetry(pData.poems); return; }
         } catch(e) {}
-        // Fallback to static pool
         renderPoetry(POEMS);
       };
       poetryXhr.onerror = function() { renderPoetry(POEMS); };
       poetryXhr.send();
 
-      // Daily fun
+      // ─── DAILY FUN ───
       var dayN = new Date().getDate();
       document.getElementById('factText').textContent = FACTS[dayN % FACTS.length].text;
       document.getElementById('factSource').textContent = '— ' + FACTS[dayN % FACTS.length].source;
