@@ -686,9 +686,149 @@ footer .heart { color: #e74c3c; }
 .wisdom-panel { display: none; }
 .wisdom-panel.active { display: block; animation: fadeIn 0.35s ease; }
 
+/* ─── CATEGORY SUB-TABS ─── */
+.wisdom-subtabs {
+  display: flex;
+  gap: 0.4rem;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 1.25rem;
+  padding: 0.5rem;
+  background: rgba(0,0,0,0.02);
+  border-radius: var(--radius);
+  border: 1px solid rgba(0,0,0,0.04);
+}
+.subtab {
+  padding: 0.45rem 0.9rem;
+  border-radius: 50px;
+  border: 1px solid rgba(184,148,46,0.15);
+  background: transparent;
+  color: var(--text-light);
+  font-size: 0.72rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.25s ease;
+  font-family: 'Inter', sans-serif;
+  white-space: nowrap;
+}
+.subtab:hover { border-color: var(--gold); color: var(--gold); background: rgba(184,148,46,0.04); }
+.subtab.active { background: var(--primary); border-color: var(--primary); color: var(--white); }
+
+/* ─── COLLAPSIBLE SOURCE FILTER ─── */
+.source-filter-details {
+  margin-bottom: 1.25rem;
+  border: 1px solid rgba(0,0,0,0.06);
+  border-radius: var(--radius);
+  background: rgba(0,0,0,0.015);
+  overflow: hidden;
+}
+.source-filter-details summary {
+  padding: 0.75rem 1.25rem;
+  cursor: pointer;
+  font-size: 0.82rem;
+  font-weight: 500;
+  color: var(--text-light);
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  transition: background 0.2s;
+  list-style: none;
+}
+.source-filter-details summary::-webkit-details-marker { display: none; }
+.source-filter-details summary::before {
+  content: '\f078';
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 900;
+  font-size: 0.6rem;
+  opacity: 0.4;
+  transition: transform 0.25s;
+}
+.source-filter-details[open] summary::before { transform: rotate(180deg); }
+.source-filter-details summary:hover { background: rgba(184,148,46,0.04); }
+.source-filter-details summary i { color: var(--gold); font-size: 0.75rem; }
+.source-count {
+  margin-left: auto;
+  font-size: 0.65rem;
+  color: var(--text-muted);
+  background: rgba(0,0,0,0.05);
+  padding: 0.1rem 0.5rem;
+  border-radius: 50px;
+}
+#sourceGroups {
+  padding: 0 1.25rem 1rem;
+}
+.source-group {
+  margin-bottom: 0.9rem;
+}
+.source-group:last-child { margin-bottom: 0; }
+.source-group-title {
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: var(--gold);
+  margin-bottom: 0.4rem;
+}
+.source-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+}
+.source-chip {
+  padding: 0.3rem 0.7rem;
+  border-radius: 50px;
+  border: 1px solid rgba(0,0,0,0.06);
+  background: transparent;
+  font-size: 0.68rem;
+  color: var(--text-light);
+  cursor: pointer;
+  transition: all 0.2s;
+  font-family: 'Inter', sans-serif;
+}
+.source-chip:hover { border-color: var(--gold); color: var(--gold); }
+.source-chip.active {
+  background: var(--primary);
+  border-color: var(--primary);
+  color: var(--white);
+}
+
+/* ─── RARITY ROW ─── */
+.rarity-row {
+  display: flex;
+  gap: 0.35rem;
+  justify-content: center;
+  margin-bottom: 1.5rem;
+  flex-wrap: wrap;
+}
+.rarity-chip {
+  padding: 0.3rem 0.85rem;
+  border-radius: 50px;
+  border: 1px solid rgba(0,0,0,0.06);
+  background: transparent;
+  font-size: 0.68rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.25s;
+  color: var(--text-light);
+  font-family: 'Inter', sans-serif;
+}
+.rarity-chip.rar-nt { color: #8a3aaa; border-color: rgba(138,58,170,0.15); }
+.rarity-chip.rar-nt.active { background: #8a3aaa; border-color: #8a3aaa; color: white; }
+.rarity-chip.rar-n { color: var(--gold); border-color: rgba(184,148,46,0.15); }
+.rarity-chip.rar-n.active { background: var(--gold); border-color: var(--gold); color: white; }
+.rarity-chip.rar-k { color: var(--primary); border-color: rgba(10,74,42,0.1); }
+.rarity-chip.rar-k.active { background: var(--primary); border-color: var(--primary); color: white; }
+.rarity-chip.rar-all.active { background: var(--text); border-color: var(--text); color: white; }
+.rarity-chip:hover:not(.active) { border-color: var(--gold); }
+
 @media (max-width: 480px) {
   .wisdom-tab { font-size: 0.68rem; padding: 0.4rem 0.9rem; }
   .wisdom-tabs { gap: 0.35rem; }
+  .subtab { font-size: 0.62rem; padding: 0.35rem 0.7rem; }
+  .wisdom-subtabs { gap: 0.25rem; padding: 0.4rem; }
+  .source-chip { font-size: 0.6rem; padding: 0.25rem 0.55rem; }
+  .rarity-chip { font-size: 0.6rem; padding: 0.25rem 0.65rem; }
+  .source-filter-details summary { font-size: 0.75rem; padding: 0.6rem 1rem; }
 }
 
 /* ─── RESPONSIVE ─── */
