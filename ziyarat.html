@@ -90,27 +90,56 @@
   </div>
 
   <script src="app.js"></script>
+  <style>
+    .dua-card .dua-segment { padding: 0.75rem 1rem; border-bottom: 1px solid var(--border); }
+    .dua-card .dua-segment:last-child { border-bottom: 0; }
+    .dua-card .dua-arabic { font-family:'Amiri',serif; font-size:1.4rem; line-height:2; text-align:center; color:var(--gold); direction:rtl; margin-bottom:0.25rem; }
+    .dua-card .dua-translit { font-size:0.85rem; font-style:italic; color:var(--text-light); text-align:center; margin-bottom:0.25rem; }
+    .dua-card .dua-translation { font-size:0.85rem; color:var(--text); line-height:1.6; text-align:center; }
+    .dua-card .dua-preview { max-height:300px; overflow:hidden; transition:max-height 0.3s; position:relative; }
+    .dua-card .dua-preview.expanded { max-height:none; }
+    .dua-card .dua-preview .fade-bottom { position:absolute; bottom:0; left:0; right:0; height:60px; background:linear-gradient(transparent, var(--card-bg)); }
+    .dua-card .dua-preview.expanded .fade-bottom { display:none; }
+    .dua-toggle { display:block; width:100%; padding:0.5rem; text-align:center; cursor:pointer; font-size:0.85rem; color:var(--tanaquz); border-top:1px solid var(--border); }
+    .dua-toggle:hover { background:rgba(179,98,255,0.05); }
+  </style>
   <script>
     (function() {
+      var DEEP = {};
+
       function loadData() {
-        var xhr = new XMLHttpRequest();
-        xhr.open('GET', 'data_v2/duas_pool.json?_=' + Date.now(), true);
-        xhr.onload = function() {
+        var loaded = 0;
+        function checkDone() { loaded++; if (loaded === 2) { render(); } }
+
+        var xhr1 = new XMLHttpRequest();
+        xhr1.open('GET', 'data_v2/duas_pool.json?_=' + Date.now(), true);
+        xhr1.onload = function() {
           try {
-            var pool = JSON.parse(xhr.responseText);
-            if (pool && pool.all) {
-              var ziyarat = pool.all.filter(function(d) { return d.category === 'Ziyarat'; });
-              render(ziyarat);
-              return;
+            var pool = JSON.parse(xhr1.responseText);
+            if (pool && pool.all) { window._ziyaratPool = pool.all.filter(function(d) { return d.category === 'Ziyarat'; }); }
+          } catch(e) {}
+          checkDone();
+        };
+        xhr1.onerror = checkDone;
+        xhr1.send();
+
+        var xhr2 = new XMLHttpRequest();
+        xhr2.open('GET', 'data_v2/duas_deep.json?_=' + Date.now(), true);
+        xhr2.onload = function() {
+          try {
+            var deep = JSON.parse(xhr2.responseText);
+            if (deep && deep.length) {
+              deep.forEach(function(d) { DEEP[d.url] = d; });
             }
           } catch(e) {}
-          document.getElementById('ziyaratCount').textContent = 'Could not load data.';
+          checkDone();
         };
-        xhr.onerror = function() { document.getElementById('ziyaratCount').textContent = 'Network error.'; };
-        xhr.send();
+        xhr2.onerror = checkDone;
+        xhr2.send();
       }
 
-      function render(items) {
+      function render() {
+        var items = window._ziyaratPool || [];
         document.getElementById('ziyaratCount').textContent = items.length + ' ziyarat entries';
         var list = document.getElementById('ziyaratList');
         if (!items.length) {
@@ -121,15 +150,52 @@
         document.getElementById('ziyaratEmpty').style.display = 'none';
 
         list.innerHTML = items.map(function(d) {
-          var hasArabic = d.arabic && d.arabic.length > 0 && d.arabic[0].length > 2;
+          var deep = DEEP[d.url];
+          var hasSegments = deep && deep.segments && deep.segments.length;
+
+          var contentHtml = '';
+          if (hasSegments) {
+            var segments = deep.segments;
+            var maxPreview = 5;
+            var showMore = segments.length > maxPreview;
+            var count = showMore ? maxPreview : segments.length;
+
+            contentHtml = '<div class="dua-card"><div class="dua-preview" id="zseg-' + d.id + '">';
+            for (var i = 0; i < count; i++) {
+              var s = segments[i];
+              contentHtml += '<div class="dua-segment">' +
+                (s.arabic ? '<div class="dua-arabic">' + s.arabic + '</div>' : '') +
+                (s.transliteration ? '<div class="dua-translit">' + s.transliteration + '</div>' : '') +
+                (s.translation ? '<div class="dua-translation">' + s.translation + '</div>' : '') +
+              '</div>';
+            }
+            if (showMore) { contentHtml += '<div class="fade-bottom"></div>'; }
+            contentHtml += '</div>';
+            if (showMore) {
+              contentHtml += '<div class="dua-toggle" onclick="toggleZSeg(this,\'' + d.id + '\')">Show all ' + segments.length + ' verses <i class="fas fa-chevron-down"></i></div>';
+            }
+            contentHtml += '</div>';
+          } else {
+            var text = d.text ? d.text.slice(0, 400) : '';
+            contentHtml = '<div style="font-size:0.85rem;color:var(--text-light);line-height:1.6;padding:1rem;">' +
+              text + (d.text && d.text.length > 400 ? '...' : '') + '</div>';
+          }
+
           return '<div class="card" style="margin-bottom:1rem;border-left:3px solid var(--tanaquz);">' +
-            '<h3 style="font-family:\'Playfair Display\',serif;font-size:1rem;color:var(--tanaquz);margin-bottom:0.5rem;">' + d.title + '</h3>' +
-            (hasArabic ? '<div class="original" style="font-size:1rem;color:var(--gold);line-height:1.8;text-align:center;margin-bottom:0.5rem;">' + d.arabic.slice(0,3).join(' · ') + '</div>' : '') +
-            '<div style="font-size:0.85rem;color:var(--text-light);line-height:1.6;margin-bottom:0.5rem;">' + d.text.slice(0,500) + (d.text.length > 500 ? '...' : '') + '</div>' +
-            '<div class="meta"><span><i class="fas fa-link"></i> <a href="' + d.url + '" target="_blank" style="color:var(--tanaquz);">Read full on Duas.org</a></span></div>' +
+            '<h3 style="font-family:\'Playfair Display\',serif;font-size:1rem;color:var(--tanaquz);padding:0.75rem 1rem 0;margin-bottom:0;">' + d.title + '</h3>' +
+            contentHtml +
+            '<div class="meta" style="padding:0.5rem 1rem;border-top:1px solid var(--border);"><span style="font-size:0.75rem;color:var(--text-light);"><i class="fas fa-link"></i> ' + d.url.replace('https://www.duas.org', '') + '</span></div>' +
           '</div>';
         }).join('');
       }
+
+      window.toggleZSeg = function(el, id) {
+        var card = el.previousElementSibling;
+        var expanded = card.classList.toggle('expanded');
+        el.innerHTML = expanded
+          ? 'Show less <i class="fas fa-chevron-up"></i>'
+          : 'Show all verses <i class="fas fa-chevron-down"></i>';
+      };
 
       loadData();
     })();

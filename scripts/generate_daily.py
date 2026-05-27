@@ -57,7 +57,7 @@ def generate():
         json.dump(poetry_output, f, ensure_ascii=False, indent=2)
     print(f"  → poetry.json ({len(daily_poetry)} poems with meta)")
 
-    # ── Duas (daily 10 from duas_pool) ──
+    # ── Duas (daily 10 from duas_pool, enriched with deep segments) ──
     duas_pool = load_pool("duas_pool.json", "data_v2")
     if isinstance(duas_pool, dict) and "all" in duas_pool:
         duas_list = duas_pool["all"]
@@ -65,7 +65,23 @@ def generate():
         duas_list = duas_pool
     else:
         duas_list = []
+
+    # Load deep-scraped segments
+    deep_map = {}
+    try:
+        deep_data = load_pool("duas_deep.json", "data_v2")
+        for d in deep_data:
+            deep_map[d["url"]] = d
+    except (FileNotFoundError, json.JSONDecodeError):
+        pass
+
     daily_duas = daily_selection(duas_list, min(10, len(duas_list)), date_str + "duas")
+    # Enrich with segments
+    for du in daily_duas:
+        deep = deep_map.get(du["url"])
+        if deep and deep.get("segments"):
+            du["segments"] = deep["segments"]
+            du["segment_count"] = len(deep["segments"])
     write_output(daily_duas, "duas_daily.json")
     print(f"  ✓ Daily set ready: {len(daily_amal)} a'māl + {len(daily_poetry)} poems + {len(daily_duas)} duas")
     return 0

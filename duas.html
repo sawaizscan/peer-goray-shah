@@ -96,13 +96,27 @@
   </div>
 
   <script src="app.js"></script>
+  <style>
+    .dua-card .dua-segment { padding: 0.75rem 1rem; border-bottom: 1px solid var(--border); }
+    .dua-card .dua-segment:last-child { border-bottom: 0; }
+    .dua-card .dua-arabic { font-family:'Amiri',serif; font-size:1.4rem; line-height:2; text-align:center; color:var(--gold); direction:rtl; margin-bottom:0.25rem; }
+    .dua-card .dua-translit { font-size:0.85rem; font-style:italic; color:var(--text-light); text-align:center; margin-bottom:0.25rem; }
+    .dua-card .dua-translation { font-size:0.85rem; color:var(--text); line-height:1.6; text-align:center; }
+    .dua-card .dua-preview { max-height:300px; overflow:hidden; transition:max-height 0.3s; position:relative; }
+    .dua-card .dua-preview.expanded { max-height:none; }
+    .dua-card .dua-preview .fade-bottom { position:absolute; bottom:0; left:0; right:0; height:60px; background:linear-gradient(transparent, var(--card-bg)); }
+    .dua-card .dua-preview.expanded .fade-bottom { display:none; }
+    .dua-toggle { display:block; width:100%; padding:0.5rem; text-align:center; cursor:pointer; font-size:0.85rem; color:var(--gold); border-top:1px solid var(--border); }
+    .dua-toggle:hover { background:rgba(212,168,67,0.05); }
+  </style>
   <script>
     (function() {
       var CAT_ICONS = {
         'Worship': 'fa-mosque', 'Supplication': 'fa-hand-sparkles', 'Ziyarat': 'fa-kaaba',
         'Sahifa': 'fa-book', 'Monthly': 'fa-calendar'
       };
-      var ALL = [];
+      var POOL = [];
+      var DEEP = {};
 
       function getParam(name) {
         name = name.replace(/[\[\]]/g, '\\$&');
@@ -112,22 +126,74 @@
       }
 
       function loadData() {
-        var xhr = new XMLHttpRequest();
-        xhr.open('GET', 'data_v2/duas_pool.json?_=' + Date.now(), true);
-        xhr.onload = function() {
+        var loaded = 0;
+        function checkDone() { loaded++; if (loaded === 2) { init(); } }
+
+        var xhr1 = new XMLHttpRequest();
+        xhr1.open('GET', 'data_v2/duas_pool.json?_=' + Date.now(), true);
+        xhr1.onload = function() {
           try {
-            var pool = JSON.parse(xhr.responseText);
-            if (pool && pool.all && pool.all.length) { ALL = pool.all; init(); return; }
+            var pool = JSON.parse(xhr1.responseText);
+            if (pool && pool.all && pool.all.length) { POOL = pool.all; }
           } catch(e) {}
-          document.getElementById('duaCount').textContent = 'Could not load duas data.';
+          checkDone();
         };
-        xhr.onerror = function() { document.getElementById('duaCount').textContent = 'Network error.'; };
-        xhr.send();
+        xhr1.onerror = checkDone;
+        xhr1.send();
+
+        var xhr2 = new XMLHttpRequest();
+        xhr2.open('GET', 'data_v2/duas_deep.json?_=' + Date.now(), true);
+        xhr2.onload = function() {
+          try {
+            var deep = JSON.parse(xhr2.responseText);
+            if (deep && deep.length) {
+              deep.forEach(function(d) { DEEP[d.url] = d; });
+            }
+          } catch(e) {}
+          checkDone();
+        };
+        xhr2.onerror = checkDone;
+        xhr2.send();
       }
+
+      function getDeep(url) { return DEEP[url]; }
+
+      function renderSegments(segments, maxPreview) {
+        maxPreview = maxPreview || 5;
+        var html = '<div class="dua-card">';
+        html += '<div class="dua-preview" id="seg-preview">';
+        var showMore = segments.length > maxPreview;
+        var count = showMore ? maxPreview : segments.length;
+        for (var i = 0; i < count; i++) {
+          var s = segments[i];
+          html += '<div class="dua-segment">' +
+            (s.arabic ? '<div class="dua-arabic">' + s.arabic + '</div>' : '') +
+            (s.transliteration ? '<div class="dua-translit">' + s.transliteration + '</div>' : '') +
+            (s.translation ? '<div class="dua-translation">' + s.translation + '</div>' : '') +
+          '</div>';
+        }
+        if (showMore) {
+          html += '<div class="fade-bottom"></div>';
+        }
+        html += '</div>';
+        if (showMore) {
+          html += '<div class="dua-toggle" onclick="toggleSegments(this)">Show all ' + segments.length + ' verses <i class="fas fa-chevron-down"></i></div>';
+        }
+        html += '</div>';
+        return html;
+      }
+
+      window.toggleSegments = function(el) {
+        var card = el.previousElementSibling;
+        var expanded = card.classList.toggle('expanded');
+        el.innerHTML = expanded
+          ? 'Show less <i class="fas fa-chevron-up"></i>'
+          : 'Show all ' + (card.querySelectorAll('.dua-segment').length > 5 ? '' : '') + ' verses <i class="fas fa-chevron-down"></i>';
+      };
 
       function init() {
         var cats = [];
-        ALL.forEach(function(d) { if (cats.indexOf(d.category) === -1) cats.push(d.category); });
+        POOL.forEach(function(d) { if (cats.indexOf(d.category) === -1) cats.push(d.category); });
         cats.sort();
 
         var catContainer = document.getElementById('duaCatFilters');
@@ -140,7 +206,6 @@
         var activeCat = getParam('cat') || '';
         var activeSub = getParam('sub') || '';
 
-        // Auto-activate from URL
         if (activeCat) {
           catContainer.querySelectorAll('.filter-btn').forEach(function(b) {
             if (b.dataset.cat === activeCat) { b.classList.add('active'); }
@@ -164,7 +229,7 @@
           if (!activeCat) { subContainer.innerHTML = ''; return; }
 
           var subs = [];
-          ALL.forEach(function(d) {
+          POOL.forEach(function(d) {
             if (d.category === activeCat && subs.indexOf(d.subcategory) === -1) subs.push(d.subcategory);
           });
           subs.sort();
@@ -194,13 +259,13 @@
         }
 
         function render() {
-          var filtered = ALL.filter(function(d) {
+          var filtered = POOL.filter(function(d) {
             if (activeCat && d.category !== activeCat) return false;
             if (activeSub && d.subcategory !== activeSub) return false;
             return true;
           });
 
-          document.getElementById('duaCount').textContent = filtered.length + ' of ' + ALL.length + ' entries';
+          document.getElementById('duaCount').textContent = filtered.length + ' of ' + POOL.length + ' entries';
           var list = document.getElementById('duaList');
           var empty = document.getElementById('duaEmpty');
 
@@ -209,15 +274,25 @@
 
           list.innerHTML = filtered.map(function(d) {
             var icon = CAT_ICONS[d.category] || 'fa-star';
-            var hasArabic = d.arabic && d.arabic.length > 0 && d.arabic[0].length > 2;
+            var deep = getDeep(d.url);
+            var hasSegments = deep && deep.segments && deep.segments.length;
+
+            var contentHtml = '';
+            if (hasSegments) {
+              contentHtml = renderSegments(deep.segments);
+            } else {
+              var text = d.text ? d.text.slice(0, 400) : '';
+              contentHtml = '<div style="font-size:0.85rem;color:var(--text-light);line-height:1.6;padding:1rem;">' +
+                text + (d.text && d.text.length > 400 ? '...' : '') + '</div>';
+            }
+
             return '<div class="card" style="margin-bottom:1rem;">' +
               '<div class="card-header">' +
-                '<span class="cat"><i class="fas ' + icon + '"></i> ' + d.category + (d.subcategory !== 'General' ? ' / ' + d.subcategory : '') + '</span>' +
+                '<span class="cat"><i class="fas ' + icon + '"></i> ' + d.category + (d.subcategory && d.subcategory !== 'General' ? ' / ' + d.subcategory : '') + '</span>' +
               '</div>' +
-              '<h3 style="font-family:\'Playfair Display\',serif;font-size:0.95rem;color:var(--gold);margin-bottom:0.5rem;">' + d.title + '</h3>' +
-              (hasArabic ? '<div class="original" style="font-family:\'Amiri\',serif;font-size:1.1rem;color:var(--gold);line-height:2;text-align:center;margin-bottom:0.5rem;">' + d.arabic.slice(0,3).join(' · ') + '</div>' : '') +
-              '<div class="" style="font-size:0.85rem;color:var(--text-light);line-height:1.6;margin-bottom:0.5rem;">' + d.text.slice(0,600) + (d.text.length > 600 ? '...' : '') + '</div>' +
-              '<div class="meta" style="margin-top:0.5rem;"><span><i class="fas fa-link"></i> <a href="' + d.url + '" target="_blank" style="color:var(--gold-light);">View on Duas.org</a></span></div>' +
+              '<h3 style="font-family:\'Playfair Display\',serif;font-size:0.95rem;padding:0.5rem 1rem 0;color:var(--gold);margin-bottom:0;">' + d.title + '</h3>' +
+              contentHtml +
+              '<div class="meta" style="padding:0.5rem 1rem;border-top:1px solid var(--border);"><span style="font-size:0.75rem;color:var(--text-light);"><i class="fas fa-link"></i> ' + d.url.replace('https://www.duas.org', '') + '</span></div>' +
             '</div>';
           }).join('');
         }

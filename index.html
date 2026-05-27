@@ -185,7 +185,7 @@
       var INTERVAL = 6000;
 
       function loadAll() {
-        var loaded = 0, total = 3;
+        var loaded = 0, total = 4;
         function done() { loaded++; if (loaded >= total) initCarousel(); }
 
         // Load sayings
@@ -266,6 +266,32 @@
         };
         axhr.onerror = done;
         axhr.send();
+
+        // Load daily duas
+        var dxhr = new XMLHttpRequest();
+        dxhr.open('GET', 'duas_daily.json?_=' + Date.now(), true);
+        dxhr.onload = function() {
+          try {
+            var dd = JSON.parse(dxhr.responseText);
+            if (dd && dd.length) {
+              for (var i = 0; i < Math.min(10, dd.length); i++) {
+                var du = dd[i];
+                CAROUSEL.push({
+                  type: 'dua',
+                  icon: 'fa-hand-sparkles',
+                  cat: du.category + (du.subcategory ? ' / ' + du.subcategory : ''),
+                  source: du.title,
+                  arabic: du.arabic && du.arabic.length ? du.arabic.slice(0, 2).join(' · ') : '',
+                  urdu: du.text ? du.text.slice(0, 300) : '',
+                  ref: ''
+                });
+              }
+            }
+          } catch(e) {}
+          done();
+        };
+        dxhr.onerror = done;
+        dxhr.send();
       }
 
       function initCarousel() {
@@ -281,12 +307,14 @@
           var bgGrads = {
             saying: 'linear-gradient(160deg, #0a4a2a, #031a0c)',
             poetry: 'linear-gradient(160deg, #2d1b4e, #1a0f2e)',
-            amal: 'linear-gradient(160deg, #1a3a2a, #0d1f15)'
+            amal: 'linear-gradient(160deg, #1a3a2a, #0d1f15)',
+            dua: 'linear-gradient(160deg, #1a2a4e, #0d1530)'
           };
           var typeLabels = {
             saying: '<i class="fas fa-quote-left"></i> Saying · ' + item.source,
             poetry: '<i class="fas fa-feather"></i> Poetry · ' + item.source,
-            amal: '<i class="fas fa-hands-praying"></i> ' + item.source
+            amal: '<i class="fas fa-hands-praying"></i> ' + item.source,
+            dua: '<i class="fas fa-hand-sparkles"></i> ' + item.source
           };
 
           // Seed shuffle for daily variety
