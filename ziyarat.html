@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ziyarat – Syed Saleem Raza Kazmi</title>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600&family=Noto+Nastaliq+Urdu:wght@400;600;700&family=Amiri:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <nav id="navbar">
+    <div class="nav-inner">
+      <a href="index.html" class="nav-logo">Syed Saleem Raza Kazmi<span class="sub">پیر گورے شاہ</span></a>
+      <button class="nav-toggle" id="navToggle" aria-label="Menu"><i class="fas fa-bars"></i></button>
+      <ul class="nav-links" id="navLinks">
+        <li class="dropdown"><a href="index.html">Home <i class="fas fa-chevron-down"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="index.html#carousel"><i class="fas fa-sliders-h"></i> Daily Carousel</a></li>
+            <li><a href="index.html#explore"><i class="fas fa-compass"></i> Explore</a></li>
+          </ul>
+        </li>
+        <li class="dropdown"><a href="wisdom.html">Wisdom <i class="fas fa-chevron-down"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="wisdom.html"><i class="fas fa-quote-left"></i> Sayings</a></li>
+            <li><a href="wisdom.html?tab=poetry"><i class="fas fa-feather"></i> Poetry</a></li>
+            <li><a href="wisdom.html?tab=fun"><i class="fas fa-smile"></i> Fun Facts</a></li>
+          </ul>
+        </li>
+        <li class="dropdown"><a href="discover.html">Discover <i class="fas fa-chevron-down"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="discover.html"><i class="fas fa-atom"></i> Facts</a></li>
+            <li><a href="discover.html?tab=wit"><i class="fas fa-theater-masks"></i> Wit</a></li>
+            <li><a href="discover.html?tab=poetry"><i class="fas fa-feather-alt"></i> Poetry</a></li>
+          </ul>
+        </li>
+        <li class="dropdown"><a href="amal.html">A'mal <i class="fas fa-chevron-down"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="amal.html"><i class="fas fa-hands-praying"></i> Daily A'mal</a></li>
+            <li><a href="amal.html?cat=Worship"><i class="fas fa-mosque"></i> Worship</a></li>
+            <li><a href="amal.html?cat=Protection"><i class="fas fa-shield-halved"></i> Protection</a></li>
+          </ul>
+        </li>
+        <li class="dropdown"><a href="duas.html">Duas <i class="fas fa-chevron-down"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="duas.html"><i class="fas fa-book"></i> All Duas</a></li>
+            <li><a href="duas.html?cat=Supplication"><i class="fas fa-hand-sparkles"></i> Supplications</a></li>
+            <li><a href="duas.html?cat=Worship"><i class="fas fa-mosque"></i> Worship</a></li>
+            <li><a href="duas.html?cat=Monthly"><i class="fas fa-calendar"></i> Monthly</a></li>
+            <li><a href="ziyarat.html"><i class="fas fa-kaaba"></i> Ziyarat</a></li>
+          </ul>
+        </li>
+        <li class="dropdown"><a href="ziyarat.html">Ziyarat <i class="fas fa-chevron-down"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="ziyarat.html"><i class="fas fa-list"></i> All Ziyarat</a></li>
+            <li><a href="duas.html?cat=Sahifa"><i class="fas fa-book"></i> Sahifas</a></li>
+          </ul>
+        </li>
+        <li><a href="contact.html">Connect</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <div class="page-header" style="background: linear-gradient(160deg, #1a0f2e, #0f0a1a);">
+    <h1>زیارت · Ziyarat</h1>
+    <div class="divider"></div>
+    <p>Sacred visitations and salutations to the Ahl al-Bayt (AS)</p>
+  </div>
+
+  <section class="section" style="background: var(--card-bg);">
+    <div class="section-inner">
+      <div class="count-badge" id="ziyaratCount"></div>
+      <div id="ziyaratList"></div>
+      <div class="empty-state" id="ziyaratEmpty" style="display:none;">
+        <i class="fas fa-filter"></i>
+        <p>No ziyarat entries loaded.</p>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; <span id="year"></span> Syed Saleem Raza Kazmi · Pir Goray Shah &mdash; <a href="https://www.duas.org" target="_blank" style="color:var(--gold-light);">Source: Duas.org</a></p>
+  </footer>
+
+  <div class="floating">
+    <a href="https://www.facebook.com/syed.saleem.raza.kazmi.2025" target="_blank" rel="noopener" class="f-fb"><i class="fab fa-facebook-f"></i></a>
+    <a href="https://www.instagram.com/ishq_e_ali_as" target="_blank" rel="noopener" class="f-ig"><i class="fab fa-instagram"></i></a>
+    <a href="https://wa.me/923244787885" target="_blank" rel="noopener" class="f-wa"><i class="fab fa-whatsapp"></i></a>
+  </div>
+
+  <script src="app.js"></script>
+  <script>
+    (function() {
+      function loadData() {
+        var xhr = new XMLHttpRequest();
+        xhr.open('GET', 'data_v2/duas_pool.json?_=' + Date.now(), true);
+        xhr.onload = function() {
+          try {
+            var pool = JSON.parse(xhr.responseText);
+            if (pool && pool.all) {
+              var ziyarat = pool.all.filter(function(d) { return d.category === 'Ziyarat'; });
+              render(ziyarat);
+              return;
+            }
+          } catch(e) {}
+          document.getElementById('ziyaratCount').textContent = 'Could not load data.';
+        };
+        xhr.onerror = function() { document.getElementById('ziyaratCount').textContent = 'Network error.'; };
+        xhr.send();
+      }
+
+      function render(items) {
+        document.getElementById('ziyaratCount').textContent = items.length + ' ziyarat entries';
+        var list = document.getElementById('ziyaratList');
+        if (!items.length) {
+          list.innerHTML = '';
+          document.getElementById('ziyaratEmpty').style.display = 'block';
+          return;
+        }
+        document.getElementById('ziyaratEmpty').style.display = 'none';
+
+        list.innerHTML = items.map(function(d) {
+          var hasArabic = d.arabic && d.arabic.length > 0 && d.arabic[0].length > 2;
+          return '<div class="card" style="margin-bottom:1rem;border-left:3px solid var(--tanaquz);">' +
+            '<h3 style="font-family:\'Playfair Display\',serif;font-size:1rem;color:var(--tanaquz);margin-bottom:0.5rem;">' + d.title + '</h3>' +
+            (hasArabic ? '<div class="original" style="font-size:1rem;color:var(--gold);line-height:1.8;text-align:center;margin-bottom:0.5rem;">' + d.arabic.slice(0,3).join(' · ') + '</div>' : '') +
+            '<div style="font-size:0.85rem;color:var(--text-light);line-height:1.6;margin-bottom:0.5rem;">' + d.text.slice(0,500) + (d.text.length > 500 ? '...' : '') + '</div>' +
+            '<div class="meta"><span><i class="fas fa-link"></i> <a href="' + d.url + '" target="_blank" style="color:var(--tanaquz);">Read full on Duas.org</a></span></div>' +
+          '</div>';
+        }).join('');
+      }
+
+      loadData();
+    })();
+  </script>
+</body>
+</html>

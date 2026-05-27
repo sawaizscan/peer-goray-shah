@@ -21,17 +21,14 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Generate fresh content
-        run: python scripts/generate_content.py
-
-      - name: Generate fresh poetry
-        run: python scripts/generate_poetry.py
+      - name: Generate daily a'mal & poetry & duas
+        run: python3 scripts/generate_daily.py
 
       - name: Commit and push changes
         run: |
           git config user.name "Content Bot"
           git config user.email "bot@peer-goray-shah.github.io"
-          git add discover.json poetry.json
+          git add amal.json poetry.json duas_daily.json
           git diff --quiet && git diff --staged --quiet || \
-            git commit -m "auto: refresh discover.json & poetry.json $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git commit -m "auto: refresh daily amal, poetry & duas $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push

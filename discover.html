@@ -15,10 +15,64 @@
       <a href="index.html" class="nav-logo">Syed Saleem Raza Kazmi<span class="sub">پیر گورے شاہ</span></a>
       <button class="nav-toggle" id="navToggle" aria-label="Menu"><i class="fas fa-bars"></i></button>
       <ul class="nav-links" id="navLinks">
-        <li><a href="index.html">Home</a></li>
-        <li><a href="wisdom.html">Wisdom</a></li>
-        <li><a href="discover.html">Discover</a></li>
-        <li><a href="amal.html">Aʻmāl</a></li>
+        <li class="dropdown">
+          <a href="index.html">Home <i class="fas fa-chevron-down" style="font-size:0.55rem;margin-left:4px;"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="index.html#carousel"><i class="fas fa-sliders-h"></i> Daily Carousel</a></li>
+            <li><a href="index.html#explore"><i class="fas fa-compass"></i> Explore</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="wisdom.html">Wisdom <i class="fas fa-chevron-down" style="font-size:0.55rem;margin-left:4px;"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="wisdom.html"><i class="fas fa-quote-left"></i> Sayings</a></li>
+            <li><a href="wisdom.html?tab=poetry"><i class="fas fa-feather"></i> Poetry</a></li>
+            <li><a href="wisdom.html?tab=fun"><i class="fas fa-smile"></i> Fun Facts</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="discover.html">Discover <i class="fas fa-chevron-down" style="font-size:0.55rem;margin-left:4px;"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="discover.html"><i class="fas fa-atom"></i> Facts</a></li>
+            <li><a href="discover.html?tab=wit"><i class="fas fa-theater-masks"></i> Wit</a></li>
+            <li><a href="discover.html?tab=poetry"><i class="fas fa-feather-alt"></i> Poetry</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="amal.html">A'mal <i class="fas fa-chevron-down" style="font-size:0.55rem;margin-left:4px;"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="amal.html"><i class="fas fa-hands-praying"></i> Daily A'mal</a></li>
+            <li><a href="amal.html?cat=Worship"><i class="fas fa-mosque"></i> Worship</a></li>
+            <li><a href="amal.html?cat=Sustenance"><i class="fas fa-bread-slice"></i> Sustenance</a></li>
+            <li><a href="amal.html?cat=Protection"><i class="fas fa-shield-halved"></i> Protection</a></li>
+            <li><a href="amal.html?cat=Health"><i class="fas fa-heart-pulse"></i> Health</a></li>
+            <li><a href="amal.html?cat=Hereafter"><i class="fas fa-mosque"></i> Hereafter</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="duas.html">Duas <i class="fas fa-chevron-down" style="font-size:0.55rem;margin-left:4px;"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="duas.html"><i class="fas fa-book"></i> All Duas</a></li>
+            <li><a href="duas.html?cat=Supplication"><i class="fas fa-hand-sparkles"></i> Supplications</a></li>
+            <li><a href="duas.html?cat=Worship"><i class="fas fa-mosque"></i> Worship</a></li>
+            <li><a href="duas.html?cat=Sahifa"><i class="fas fa-book"></i> Sahifas</a></li>
+            <li><a href="duas.html?cat=Monthly"><i class="fas fa-calendar"></i> Monthly</a></li>
+            <li><a href="https://www.duas.org/dua-kumayl.html" target="_blank"><i class="fas fa-hand-sparkles"></i> Dua Kumayl</a></li>
+            <li><a href="https://www.duas.org/dua-nudba.html" target="_blank"><i class="fas fa-moon"></i> Dua Nudba</a></li>
+            <li><a href="https://www.duas.org/dua-sections.html" target="_blank"><i class="fas fa-sitemap"></i> All Sections</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="ziyarat.html">Ziyarat <i class="fas fa-chevron-down" style="font-size:0.55rem;margin-left:4px;"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="ziyarat.html"><i class="fas fa-list"></i> All Ziyarat</a></li>
+            <li><a href="duas.html?cat=Ziyarat"><i class="fas fa-building"></i> Browse Ziyarat</a></li>
+            <li><a href="duas.html?cat=Sahifa"><i class="fas fa-book"></i> Sahifas</a></li>
+            <li><a href="https://www.duas.org/ziyarat-jamia-kabira.html" target="_blank"><i class="fas fa-building"></i> Jamia Kabira</a></li>
+            <li><a href="https://www.duas.org/mobile/ziyarat-imam-hussain-ashura.html" target="_blank"><i class="fas fa-cross"></i> Ashura</a></li>
+            <li><a href="https://www.duas.org/ziyarat.html" target="_blank"><i class="fas fa-list"></i> Full list</a></li>
+          </ul>
+        </li>
         <li><a href="contact.html">Connect</a></li>
       </ul>
     </div>
@@ -134,7 +188,7 @@
         document.getElementById('poetryCount').textContent = poems.length + ' couplets';
         document.getElementById('poetryGrid').innerHTML = poems.map(function(p) {
           return '<div class="discover-card poetry">' +
-            (p.theme ? '<div class="dc-badge">' + p.theme + '</div>' : '') +
+            (p.theme || p.category ? '<div class="dc-badge">' + (p.theme || p.category) + '</div>' : '') +
             '<div class="poem-misra-wrapper">' +
             '<div class="poem-misra">' + p.misra1 + '</div>' +
             '<div class="poem-misra">' + p.misra2 + '</div>' +

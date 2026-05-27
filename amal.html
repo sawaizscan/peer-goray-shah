@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Aʻmāl & Practices – Syed Saleem Raza Kazmi</title>
+  <title>A'mal & Practices – Syed Saleem Raza Kazmi</title>
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600&family=Noto+Nastaliq+Urdu:wght@400;600;700&family=Amiri:wght@400;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
   <link rel="stylesheet" href="style.css">
@@ -15,19 +15,73 @@
       <a href="index.html" class="nav-logo">Syed Saleem Raza Kazmi<span class="sub">پیر گورے شاہ</span></a>
       <button class="nav-toggle" id="navToggle" aria-label="Menu"><i class="fas fa-bars"></i></button>
       <ul class="nav-links" id="navLinks">
-        <li><a href="index.html">Home</a></li>
-        <li><a href="wisdom.html">Wisdom</a></li>
-        <li><a href="discover.html">Discover</a></li>
-        <li><a href="amal.html">Aʻmāl</a></li>
+        <li class="dropdown">
+          <a href="index.html">Home <i class="fas fa-chevron-down" style="font-size:0.55rem;margin-left:4px;"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="index.html#carousel"><i class="fas fa-sliders-h"></i> Daily Carousel</a></li>
+            <li><a href="index.html#explore"><i class="fas fa-compass"></i> Explore</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="wisdom.html">Wisdom <i class="fas fa-chevron-down" style="font-size:0.55rem;margin-left:4px;"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="wisdom.html"><i class="fas fa-quote-left"></i> Sayings</a></li>
+            <li><a href="wisdom.html?tab=poetry"><i class="fas fa-feather"></i> Poetry</a></li>
+            <li><a href="wisdom.html?tab=fun"><i class="fas fa-smile"></i> Fun Facts</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="discover.html">Discover <i class="fas fa-chevron-down" style="font-size:0.55rem;margin-left:4px;"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="discover.html"><i class="fas fa-atom"></i> Facts</a></li>
+            <li><a href="discover.html?tab=wit"><i class="fas fa-theater-masks"></i> Wit</a></li>
+            <li><a href="discover.html?tab=poetry"><i class="fas fa-feather-alt"></i> Poetry</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="amal.html">A'mal <i class="fas fa-chevron-down" style="font-size:0.55rem;margin-left:4px;"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="amal.html"><i class="fas fa-hands-praying"></i> Daily A'mal</a></li>
+            <li><a href="amal.html?cat=Worship"><i class="fas fa-mosque"></i> Worship</a></li>
+            <li><a href="amal.html?cat=Sustenance"><i class="fas fa-bread-slice"></i> Sustenance</a></li>
+            <li><a href="amal.html?cat=Protection"><i class="fas fa-shield-halved"></i> Protection</a></li>
+            <li><a href="amal.html?cat=Health"><i class="fas fa-heart-pulse"></i> Health</a></li>
+            <li><a href="amal.html?cat=Hereafter"><i class="fas fa-mosque"></i> Hereafter</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="duas.html">Duas <i class="fas fa-chevron-down" style="font-size:0.55rem;margin-left:4px;"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="duas.html"><i class="fas fa-book"></i> All Duas</a></li>
+            <li><a href="duas.html?cat=Supplication"><i class="fas fa-hand-sparkles"></i> Supplications</a></li>
+            <li><a href="duas.html?cat=Worship"><i class="fas fa-mosque"></i> Worship</a></li>
+            <li><a href="duas.html?cat=Sahifa"><i class="fas fa-book"></i> Sahifas</a></li>
+            <li><a href="duas.html?cat=Monthly"><i class="fas fa-calendar"></i> Monthly</a></li>
+            <li><a href="https://www.duas.org/dua-kumayl.html" target="_blank"><i class="fas fa-hand-sparkles"></i> Dua Kumayl</a></li>
+            <li><a href="https://www.duas.org/dua-nudba.html" target="_blank"><i class="fas fa-moon"></i> Dua Nudba</a></li>
+            <li><a href="https://www.duas.org/dua-sections.html" target="_blank"><i class="fas fa-sitemap"></i> All Sections</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="ziyarat.html">Ziyarat <i class="fas fa-chevron-down" style="font-size:0.55rem;margin-left:4px;"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="ziyarat.html"><i class="fas fa-list"></i> All Ziyarat</a></li>
+            <li><a href="duas.html?cat=Ziyarat"><i class="fas fa-building"></i> Browse Ziyarat</a></li>
+            <li><a href="duas.html?cat=Sahifa"><i class="fas fa-book"></i> Sahifas</a></li>
+            <li><a href="https://www.duas.org/ziyarat-jamia-kabira.html" target="_blank"><i class="fas fa-building"></i> Jamia Kabira</a></li>
+            <li><a href="https://www.duas.org/mobile/ziyarat-imam-hussain-ashura.html" target="_blank"><i class="fas fa-cross"></i> Ashura</a></li>
+            <li><a href="https://www.duas.org/ziyarat.html" target="_blank"><i class="fas fa-list"></i> Full list</a></li>
+          </ul>
+        </li>
         <li><a href="contact.html">Connect</a></li>
       </ul>
     </div>
   </nav>
 
   <div class="page-header">
-    <h1>اعمال · وظائف · اوراد</h1>
+    <h1>اعمال · وظائف · ادعیہ</h1>
     <div class="divider"></div>
-    <p>Verified spiritual practices from Mehj al-Da'awat, Shams al-Ma'arif, Makarim al-Akhlaq, Tibb al-Aimma & more</p>
+    <p>Daily 30 verified practices from Sahifa Sajjadiyya, Muhaj al-Da'wat, Misbah al-Mutahajjid, Balad al-Amin, Makarim al-Akhlaq, Tibb al-A'imma & 14 more authentic sources</p>
   </div>
 
   <section class="section" style="background: var(--card-bg);">
@@ -57,55 +111,64 @@
   <script src="app.js"></script>
   <script>
     (function() {
-      var FALLBACK = [
-        {"category":"Hifazat","source_book":"Mehj al-Da'awat","original":"بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ. اللَّهُمَّ إِنِّي أَسْأَلُكَ بِاسْمِكَ الْأَعْظَمِ الَّذِي مَنْ دَعَا بِهِ اسْتَجَبْتَ لَهُ وَمَنْ سَأَلَ بِهِ أَعْطَيْتَهُ أَنْ تُصَلِّيَ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ وَأَنْ تَكْفِيَنِي شَرَّ فُلَانِ بْنِ فُلَانٍ وَشَرَّ جَمِيعِ خَلْقِكَ وَأَحْرِزَنِي مِنْ جَمِيعِ الْآفَاتِ وَالْبَلَايَا","urdu":"حفاظت کی دعا: اسم اعظم سے وسیلہ کرتے ہوئے پڑھیں۔ صبح و شام تین بار پڑھنے سے ہر شر سے حفاظت ہوتی ہے۔","methodology":"شرائط: باوضو ہو کر قبلہ رخ بیٹھیں۔ صبح صادق کے وقت یا مغرب کے بعد تین مرتبہ پڑھیں۔ جس شخص کے شر سے بچنا ہے اس کی جگہ 'فلان بن فلان' میں نام لیں۔ دودھ کے سفید کاغذ پر زعفران سے لکھ کر ساتھ رکھیں تو حفاظت زیادہ ہوتی ہے۔ بخور: کندر یا صندل۔","source_ref":"Mehj al-Da'awat wa Minhaj al-'Ibadat, Sayyid Ibn Tawus, Bab al-Hifz wa al-Hirs"},
-        {"category":"Rizq","source_book":"Shams al-Ma'arif","original":"اللَّهُمَّ اكْفِنِي بِحَلَالِكَ عَنْ حَرَامِكَ وَأَغْنِنِي بِفَضْلِكَ عَمَّنْ سِوَاكَ","urdu":"اللہ میرے لیے تیری حلال چیز حرام سے کافی ہے اور تیرا فضل میرے لیے تیرے سوا ہر کسی سے بے نیاز کر دیتا ہے۔","methodology":"شرائط: باوضو ہو کر صبح صادق کے وقت ۳۱۳ بار پڑھیں۔ پہلے درود شریف ۱۱ بار، پھر یہ دعا، پھر درود شریف ۱۱ بار۔ ۴۰ دن کا ورد۔ بخور: لوبان۔","source_ref":"Shams al-Ma'arif al-Kubra, Shaykh Ahmad al-Buni, al-Bab al-Sadis"}
-      ];
 
-      var ALL = [];
-      var catLabels = {
-        'Hifazat': 'حفاظت',
-        'Taskhir': 'تسخیر',
-        'Rizq': 'رزق',
-        'Sehr': 'سحر و آسیب'
+      var CAT_ICONS = {
+        'Sustenance': 'fa-bread-slice', 'Protection': 'fa-shield-halved', 'Health': 'fa-heart-pulse',
+        'Worship': 'fa-mosque', 'Forgiveness': 'fa-hand', 'Parents': 'fa-people-arrows',
+        'Character': 'fa-user-check', 'Faith': 'fa-star-and-crescent', 'Hereafter': 'fa-mosque',
+        'Morning': 'fa-sun', 'Evening': 'fa-moon', 'Children': 'fa-child',
+        'Neighbors': 'fa-house-chimney'
       };
 
+      var ALL = [];
+
+      function getUrlParam(name) {
+        name = name.replace(/[\[\]]/g, '\\$&');
+        var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)');
+        var results = regex.exec(window.location.href);
+        if (!results) return null;
+        if (!results[2]) return '';
+        return decodeURIComponent(results[2].replace(/\+/g, ' '));
+      }
+
       function loadData() {
-        var stored = localStorage.getItem('peer_amal_data');
-        var storedDate = localStorage.getItem('peer_amal_date');
-        var today = new Date().toDateString();
-
-        if (stored && storedDate === today) {
-          try { ALL = JSON.parse(stored); init(); return; } catch(e) {}
-        }
-
         var xhr = new XMLHttpRequest();
-        xhr.open('GET', 'amal.json', true);
+        xhr.open('GET', 'amal.json?_=' + Date.now(), true);
         xhr.onload = function() {
           try {
             ALL = JSON.parse(xhr.responseText);
-            localStorage.setItem('peer_amal_data', xhr.responseText);
-            localStorage.setItem('peer_amal_date', today);
-            init();
-          } catch(e) { ALL = FALLBACK; init(); }
+            if (ALL && ALL.length) { init(); return; }
+          } catch(e) {}
+          ALL = [];
+          init();
         };
-        xhr.onerror = function() { ALL = FALLBACK; init(); };
+        xhr.onerror = function() { ALL = []; init(); };
         xhr.send();
       }
 
       function init() {
-        if (!ALL.length) return;
+        if (!ALL.length) {
+          document.getElementById('amalCount').textContent = 'No practices loaded';
+          return;
+        }
 
-        var cats = [...new Set(ALL.map(function(d) { return d.category; }))];
+        var cats = [];
+        ALL.forEach(function(d) { if (cats.indexOf(d.category) === -1) cats.push(d.category); });
 
-        // filter buttons
         var container = document.getElementById('amalFilters');
         container.innerHTML = '<button class="filter-btn active" data-cat="">All</button>' +
           cats.map(function(c) {
-            return '<button class="filter-btn" data-cat="' + c + '">' + (catLabels[c] || c) + '</button>';
+            var icon = CAT_ICONS[c] || 'fa-star';
+            return '<button class="filter-btn" data-cat="' + c + '"><i class="fas ' + icon + '"></i> ' + c + '</button>';
           }).join('');
 
         var activeCat = '';
+
+        // Auto-activate from URL param
+        var urlCat = getUrlParam('cat');
+        if (urlCat && cats.indexOf(urlCat) !== -1) {
+          activeCat = urlCat;
+        }
 
         container.addEventListener('click', function(e) {
           var btn = e.target.closest('.filter-btn');
@@ -119,6 +182,11 @@
         function render() {
           var filtered = activeCat ? ALL.filter(function(d) { return d.category === activeCat; }) : ALL;
           document.getElementById('amalCount').textContent = filtered.length + ' of ' + ALL.length + ' practices';
+
+          // Sync active filter button
+          container.querySelectorAll('.filter-btn').forEach(function(b) {
+            b.classList.toggle('active', (b.dataset.cat || '') === activeCat);
+          });
           var list = document.getElementById('amalList');
           var empty = document.getElementById('amalEmpty');
 
@@ -129,20 +197,21 @@
           }
           empty.style.display = 'none';
 
-          var catIcons = { 'Hifazat': 'fa-shield-halved', 'Taskhir': 'fa-heart', 'Rizq': 'fa-coins', 'Sehr': 'fa-cross' };
-
           list.innerHTML = filtered.map(function(d) {
+            var icon = CAT_ICONS[d.category] || 'fa-star';
             return '<div class="card" style="margin-bottom:1.25rem;">' +
               '<div class="card-header">' +
-                '<span class="cat"><i class="fas ' + (catIcons[d.category] || 'fa-star') + '"></i> ' + (catLabels[d.category] || d.category) + '</span>' +
-                '<span style="font-size:0.6rem;color:var(--text-muted);">' + d.source_book + '</span>' +
+                '<span class="cat"><i class="fas ' + icon + '"></i> ' + d.category + (d.subcategory ? ' / ' + d.subcategory : '') + '</span>' +
+                '<span style="font-size:0.6rem;color:var(--text-muted);"><i class="fas fa-book"></i> ' + d.source_book + '</span>' +
               '</div>' +
-              '<div class="original" style="text-align:center;">' + d.original + '</div>' +
-              '<div class="urdu" style="text-align:center;color:var(--text);">' + d.urdu + '</div>' +
-              '<div style="margin:0.75rem 0;padding:0.75rem;background:rgba(10,74,42,0.04);border-radius:8px;border-right:2px solid var(--primary);">' +
-                '<div style="font-size:0.6rem;font-weight:600;letter-spacing:1.5px;text-transform:uppercase;color:var(--primary);margin-bottom:0.3rem;"><i class="fas fa-list-check"></i> طریقہ · Methodology</div>' +
-                '<div style="font-size:0.82rem;color:var(--text);line-height:1.7;direction:rtl;font-family:\'Noto Nastaliq Urdu\',serif;">' + d.methodology + '</div>' +
+              '<h3 style="font-family:\'Playfair Display\',serif;font-size:1.05rem;color:var(--gold);margin-bottom:0.75rem;text-align:center;">' + d.title + '</h3>' +
+              (d.original ? '<div class="original" style="text-align:center;">' + d.original + '</div>' : '') +
+              '<div class="urdu" style="text-align:center;color:var(--text-light);">' + d.urdu + '</div>' +
+              '<div class="ishraq-section" style="margin-top:0.75rem;">' +
+                '<div class="label"><i class="fas fa-list-check"></i> طريقہ · Method</div>' +
+                '<div class="content">' + d.method + '</div>' +
               '</div>' +
+              (d.note ? '<div class="amal-note" style="font-size:0.75rem;color:var(--ishraq);padding:0.4rem 0.6rem;background:rgba(63,185,80,0.08);border-radius:6px;margin-bottom:0.5rem;font-family:\'Noto Nastaliq Urdu\',serif;direction:rtl;line-height:1.6;"><i class="fas fa-circle-info"></i> ' + d.note + '</div>' : '') +
               '<div class="meta"><span><i class="fas fa-book"></i> ' + d.source_ref + '</span></div>' +
             '</div>';
           }).join('');

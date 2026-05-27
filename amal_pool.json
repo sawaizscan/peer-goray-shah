@@ -1,0 +1,922 @@
+[
+  {
+    "category": "Sustenance",
+    "subcategory": "Rizq",
+    "title": "دعا برائے وسعت رزق",
+    "original": "اللَّهُمَّ ارْزُقْنِي مِنْ فَضْلِكَ الْوَاسِعِ",
+    "urdu": "خدایا! تو جو چاہتا ہے اسے بغیر حساب کے رزق دیتا ہے۔ میرے رزق میں برکت دے اور مجھے حلال روزی عطا فرما۔",
+    "method": "روزانہ صبح نماز فجر کے بعد یا شام مغرب کے بعد 3 بار پڑھیں۔ باوضو ہوں اور قبلہ رخ بیٹھیں۔",
+    "source_book": "al-Sahifa al-Sajjadiyya",
+    "source_ref": "الصحیفة السجادیة، دعاء ۲۱"
+  },
+  {
+    "category": "Sustenance",
+    "subcategory": "Rizq",
+    "title": "دعا برائے طلب رزق حلال",
+    "original": "",
+    "urdu": "یا اللہ! مجھے حلال روزی عطا فرما جو حرام سے پاک ہو اور مجھے اپنی عبادت میں مشغول رکھ۔",
+    "method": "ہر نماز کے بعد 7 بار پڑھیں۔",
+    "source_book": "al-Sahifa al-Sajjadiyya",
+    "source_ref": "الصحیفة السجادیة، دعاء ۳۳"
+  },
+  {
+    "category": "Protection",
+    "subcategory": "Hifazat",
+    "title": "دعا برائے حفاظت از شرور",
+    "original": "",
+    "urdu": "خدایا! میں تیری پناہ میں آتا ہوں ہر شر سے، ہر برائی سے، اور ہر شیطان سے۔ میری حفاظت فرما۔",
+    "method": "صبح و شام 3 بار پڑھیں۔",
+    "source_book": "al-Sahifa al-Sajjadiyya",
+    "source_ref": "الصحیفة السجادیة، دعاء ۸"
+  },
+  {
+    "category": "Parents",
+    "subcategory": "Waldayn",
+    "title": "دعا برائے والدین",
+    "original": "",
+    "urdu": "پروردگارا! میرے والدین پر رحم فرما جیسے انہوں نے مجھے بچپن میں پالا۔ ان کی مغفرت فرما اور ان کے درجات بلند فرما۔",
+    "method": "روزانہ نماز کے بعد والدین کے لیے دعا کریں۔",
+    "source_book": "al-Sahifa al-Sajjadiyya",
+    "source_ref": "الصحیفة السجادیة، دعاء ۲۴"
+  },
+  {
+    "category": "Hereafter",
+    "subcategory": "Aakhirat",
+    "title": "دعا برائے حسن عاقبت",
+    "original": "",
+    "urdu": "خدایا! مجھے اچھی موت عطا فرما اور میرا انجام نیک بنا۔ قبر کی سختیوں سے بچا اور جنت میں داخل فرما۔",
+    "method": "ہر روز مغرب کے بعد 3 بار پڑھیں۔",
+    "source_book": "al-Sahifa al-Sajjadiyya",
+    "source_ref": "الصحیفة السجادیة، دعاء ۳۹"
+  },
+  {
+    "category": "Forgiveness",
+    "subcategory": "Maghfirat",
+    "title": "دعا برائے گناہوں کی معافی",
+    "original": "",
+    "urdu": "یا غفار! میرے گناہوں کو بخش دے خواہ وہ کتنے ہی بڑے کیوں نہ ہوں۔ تیری رحمت امید سے بڑھ کر ہے۔",
+    "method": "سجدے میں 7 بار 'استغفر اللہ ربی و اتوب الیہ' پڑھیں۔",
+    "source_book": "al-Sahifa al-Sajjadiyya",
+    "source_ref": "الصحیفة السجادیة، دعاء ۴۴"
+  },
+  {
+    "category": "Health",
+    "subcategory": "Shifa",
+    "title": "دعا برائے عافیت و شفا",
+    "original": "",
+    "urdu": "خدایا! میرے جسم کو صحت عطا فرما، میرے دل کو نور دے، اور مجھے ہر بیماری سے شفا دے۔",
+    "method": "صبح و شام تین بار ہاتھ اٹھا کر پڑھیں اور اپنے اوپر دم کریں۔",
+    "source_book": "al-Sahifa al-Sajjadiyya",
+    "source_ref": "الصحیفة السجادیة، دعاء ۵۴"
+  },
+  {
+    "category": "Faith",
+    "subcategory": "Iman",
+    "title": "دعا برائے استقامت فی الدین",
+    "original": "",
+    "urdu": "پروردگارا! مجھے دین پر ثابت قدم رکھ جب تک میں تجھ سے ملاقات نہ کروں۔ میرے ایمان کو محفوظ رکھ۔",
+    "method": "صبح صادق کے وقت 7 بار پڑھیں۔",
+    "source_book": "al-Sahifa al-Sajjadiyya",
+    "source_ref": "الصحیفة السجادیة، دعاء ۴۰"
+  },
+  {
+    "category": "Neighbors",
+    "subcategory": "Hamsaygan",
+    "title": "دعا برائے پڑوسیوں کی بھلائی",
+    "original": "",
+    "urdu": "خدایا! میرے پڑوسیوں کے ساتھ نیک سلوک کرنے کی توفیق دے اور ان کی حاجتیں پوری فرما۔",
+    "method": "جمعہ کے روز 3 بار پڑھیں۔",
+    "source_book": "al-Sahifa al-Sajjadiyya",
+    "source_ref": "الصحیفة السجادیة، دعاء ۲۶"
+  },
+  {
+    "category": "Children",
+    "subcategory": "Aulad",
+    "title": "دعا برائے نیک اولاد",
+    "original": "",
+    "urdu": "پروردگارا! مجھے نیک اولاد عطا فرما جو تیری اطاعت کرے اور میرے لیے صدقہ جاریہ ہو۔",
+    "method": "روزانہ عشاء کے بعد 3 بار پڑھیں۔",
+    "source_book": "al-Sahifa al-Sajjadiyya",
+    "source_ref": "الصحیفة السجادیة، دعاء ۳۶"
+  },
+  {
+    "category": "Protection",
+    "subcategory": "Hifazat",
+    "title": "حفاظتی وظیفہ از سید ابن طاووس",
+    "original": "",
+    "urdu": "بسم اللہ الرحمن الرحیم۔ یا حفیظ یا حفیظ یا حفیظ۔ احفظنی بحفظک و اکفنی بکفایتک۔",
+    "method": "صبح و شام 11 بار پڑھیں۔ ہر بار درود شریف 3 بار پہلے اور بعد میں۔",
+    "source_book": "Muhaj al-Da'wat",
+    "source_ref": "مہج الدعوات، سید ابن طاووس، باب الحفظ"
+  },
+  {
+    "category": "Sustenance",
+    "subcategory": "Rizq",
+    "title": "وظیفہ برائے کشائش رزق",
+    "original": "",
+    "urdu": "یا رزاق یا فتاح یا وہاب۔ اللَّهُمَّ اكْفِنِي بِحَلَالِكَ عَنْ حَرَامِكَ۔",
+    "method": "ہر نماز فجر کے بعد 100 بار یا رزاق پڑھیں۔ 40 دن مسلسل۔",
+    "source_book": "Muhaj al-Da'wat",
+    "source_ref": "مہج الدعوات، سید ابن طاووس، باب الرزق"
+  },
+  {
+    "category": "Protection",
+    "subcategory": "Hifazat",
+    "title": "تحصین از شر دشمنان",
+    "original": "",
+    "urdu": "یا اللہ! تو میرے لیے کافی ہے۔ تو ہی بہترین محافظ ہے۔ تیرے سوا کوئی طاقت نہیں۔",
+    "method": "جب خطرہ ہو یا دشمن کا ڈر ہو تو 7 بار 'حسبنا اللہ و نعم الوکیل' پڑھیں۔",
+    "source_book": "Muhaj al-Da'wat",
+    "source_ref": "مہج الدعوات، سید ابن طاووس"
+  },
+  {
+    "category": "Protection",
+    "subcategory": "Hifazat",
+    "title": "پناہ از شر نفس و شیطان",
+    "original": "",
+    "urdu": "اعوذ باللہ من شر نفسی و من شر الشیطان الرجیم۔",
+    "method": "ہر نماز سے پہلے 3 بار پڑھیں۔ باوضو رہیں۔",
+    "source_book": "Muhaj al-Da'wat",
+    "source_ref": "مہج الدعوات، سید ابن طاووس"
+  },
+  {
+    "category": "Sustenance",
+    "subcategory": "Rizq",
+    "title": "دعا برائے قرض سے نجات",
+    "original": "",
+    "urdu": "اللَّهُمَّ اقْضِ عَنِّي الدَّيْنَ وَاغْنِنِي مِنَ الْفَقْرِ۔",
+    "method": "روزانہ نماز عصر کے بعد 21 بار پڑھیں۔",
+    "source_book": "Muhaj al-Da'wat",
+    "source_ref": "مہج الدعوات، سید ابن طاووس، باب قضاء الدین"
+  },
+  {
+    "category": "Worship",
+    "subcategory": "Ad'iya",
+    "title": "دعا برائے قبولیت اعمال",
+    "original": "",
+    "urdu": "خدایا! میرے اعمال کو اپنی بارگاہ میں قبول فرما اور انہیں ذخیرہ آخرت بنا۔",
+    "method": "ہر عمل کے بعد 3 بار 'ربنا تقبل منا' پڑھیں۔",
+    "source_book": "Iqbal al-A'mal",
+    "source_ref": "اقبال الاعمال، سید ابن طاووس"
+  },
+  {
+    "category": "Worship",
+    "subcategory": "Ad'iya",
+    "title": "دعا برائے خشوع در نماز",
+    "original": "",
+    "urdu": "خدایا! میری نماز میں خشوع عطا فرما اور مجھے حاضر قلب رکھ۔",
+    "method": "نماز سے پہلے 3 بار اللہ اکبر کہہ کر یہ دعا پڑھیں۔",
+    "source_book": "Iqbal al-A'mal",
+    "source_ref": "اقبال الاعمال، سید ابن طاووس"
+  },
+  {
+    "category": "Worship",
+    "subcategory": "Ad'iya",
+    "title": "نیّت خالص کرنے کا وظیفہ",
+    "original": "",
+    "urdu": "یا مخلص! میرے عمل کو ریا سے پاک فرما اور اسے خالص اپنی رضا کے لیے بنا۔",
+    "method": "ہر عمل سے پہلے 3 بار 'اللهم إنی أفعله خالصا لوجهک' پڑھیں۔",
+    "source_book": "Iqbal al-A'mal",
+    "source_ref": "اقبال الاعمال، سید ابن طاووس"
+  },
+  {
+    "category": "Protection",
+    "subcategory": "Hifazat",
+    "title": "تحصین از سحر و حسد",
+    "original": "",
+    "urdu": "المعوذتین (سورہ فلق و سورہ ناس)۔",
+    "method": "صبح و شام 3 بار سورہ فلق اور سورہ ناس پڑھ کر اپنے اوپر دم کریں۔",
+    "source_book": "Iqbal al-A'mal",
+    "source_ref": "اقبال الاعمال، سید ابن طاووس"
+  },
+  {
+    "category": "Worship",
+    "subcategory": "Namaz",
+    "title": "نماز شب کا وظیفہ",
+    "original": "",
+    "urdu": "نماز شب 11 رکعت: 8 رکعت نفل (2,2 کر کے) + 2 رکعت شفع + 1 رکعت وتر۔ وتر میں قنوت پڑھیں۔",
+    "method": "آدھی رات کے بعد سے اذان صبح تک پڑھی جا سکتی ہے۔ سونے سے پہلے بھی پڑھ سکتے ہیں۔",
+    "source_book": "Misbah al-Mutahajjid",
+    "source_ref": "مصباح المتهجد، شیخ طوسی، باب صلاة اللیل"
+  },
+  {
+    "category": "Worship",
+    "subcategory": "Namaz",
+    "title": "نماز جعفر طیار",
+    "original": "",
+    "urdu": "4 رکعت نماز (2 سلام کے ساتھ)۔ ہر رکعت میں سورہ حمد کے بعد سورہ اخلاص۔ اور ہر رکوع و سجود کے بعد 15 بار 'سبحان اللہ و الحمدللہ و لا الہ الا اللہ و اللہ اکبر'۔",
+    "method": "جمعہ کے دن یا کسی بھی دن حاجت کے وقت پڑھیں۔",
+    "source_book": "Misbah al-Mutahajjid",
+    "source_ref": "مصباح المتهجد، شیخ طوسی"
+  },
+  {
+    "category": "Worship",
+    "subcategory": "Adhkar",
+    "title": "تسبیح فاطمہ زہرا (س)",
+    "original": "",
+    "urdu": "34 بار اللہ اکبر، 33 بار الحمدللہ، 33 بار سبحان اللہ۔",
+    "method": "ہر نماز کے بعد پڑھیں۔ یہ تسبیح گناہوں کو مٹا دیتی ہے۔",
+    "source_book": "Misbah al-Mutahajjid",
+    "source_ref": "مصباح المتهجد، شیخ طوسی، تعقیبات"
+  },
+  {
+    "category": "Worship",
+    "subcategory": "Adhkar",
+    "title": "تعقیب نماز صبح",
+    "original": "",
+    "urdu": "نماز فجر کے بعد: 100 بار الحمدللہ، 100 بار سبحان اللہ، 100 بار اللہ اکبر۔ پھر سورہ آل عمران کی آخری آیات۔",
+    "method": "نماز فجر کے فوراً بعد بیٹھ کر پڑھیں۔",
+    "source_book": "Misbah al-Mutahajjid",
+    "source_ref": "مصباح المتهجد، شیخ طوسی"
+  },
+  {
+    "category": "Worship",
+    "subcategory": "Adhkar",
+    "title": "تعقیب نماز مغرب",
+    "original": "",
+    "urdu": "نماز مغرب کے بعد: 10 بار لا الہ الا اللہ، 7 بار الحمدللہ، 7 بار سبحان اللہ، پھر سورہ قدر 3 بار۔",
+    "method": "نماز مغرب کے بعد سلام سے فارغ ہوتے ہی پڑھیں۔",
+    "source_book": "Misbah al-Mutahajjid",
+    "source_ref": "مصباح المتهجد، شیخ طوسی"
+  },
+  {
+    "category": "Forgiveness",
+    "subcategory": "Maghfirat",
+    "title": "استغفار سید الساجدین",
+    "original": "",
+    "urdu": "استغفر اللہ الذی لا الہ الا ہو الحی القیوم و اتوب الیہ۔",
+    "method": "روزانہ 100 بار پڑھیں۔ صبح اور شام دونوں وقت افضل ہے۔",
+    "source_book": "Misbah al-Mutahajjid",
+    "source_ref": "مصباح المتهجد، شیخ طوسی"
+  },
+  {
+    "category": "Protection",
+    "subcategory": "Hifazat",
+    "title": "دعا برائے حفاظت از بلا",
+    "original": "",
+    "urdu": "بسم اللہ الذی لا یضر مع اسمہ شیء فی الارض و لا فی السماء و ہو السمیع العلیم۔",
+    "method": "صبح و شام 3 بار پڑھیں۔ جس نے یہ دعا پڑھی اس پر کوئی بلا نازل نہیں ہوتی۔",
+    "source_book": "al-Balad al-Amin",
+    "source_ref": "البلد الامین، شیخ کفعمی"
+  },
+  {
+    "category": "Sustenance",
+    "subcategory": "Rizq",
+    "title": "دعا برائے برکت در رزق",
+    "original": "",
+    "urdu": "اللَّهُمَّ بَارِكْ لِي فِيمَا رَزَقْتَنِي وَقِنِي عَذَابَ النَّارِ۔",
+    "method": "روزانہ کھانے سے پہلے اور بعد میں 3 بار پڑھیں۔",
+    "source_book": "al-Balad al-Amin",
+    "source_ref": "البلد الامین، شیخ کفعمی"
+  },
+  {
+    "category": "Protection",
+    "subcategory": "Hifazat",
+    "title": "آیت الکرسی کا وظیفہ",
+    "original": "",
+    "urdu": "آیت الکرسی (سورہ بقرہ: 255)۔",
+    "method": "ہر نماز کے بعد اور سوتے وقت 1 بار پڑھیں۔ شیطان سے حفاظت ہوتی ہے۔",
+    "source_book": "al-Balad al-Amin",
+    "source_ref": "البلد الامین، شیخ کفعمی"
+  },
+  {
+    "category": "Morning",
+    "subcategory": "Sabah",
+    "title": "دعائے صبح",
+    "original": "",
+    "urdu": "اللَّهُمَّ إِنِّي أَصْبَحْتُ مِنْكَ فِي نِعْمَةٍ وَعَافِيَةٍ وَسِتْرٍ فَأَتْمِمْ عَلَيَّ نِعْمَتَكَ وَعَافِيَتَكَ وَسِتْرَكَ فِي الدُّنْيَا وَالْآخِرَةِ۔",
+    "method": "صبح صادق کے وقت پڑھیں۔",
+    "source_book": "al-Balad al-Amin",
+    "source_ref": "البلد الامین، شیخ کفعمی"
+  },
+  {
+    "category": "Evening",
+    "subcategory": "Masa",
+    "title": "دعائے شام",
+    "original": "",
+    "urdu": "اللَّهُمَّ إِنِّي أَمْسَيْتُ مِنْكَ فِي نِعْمَةٍ وَعَافِيَةٍ وَسِتْرٍ فَأَتْمِمْ عَلَيَّ نِعْمَتَكَ وَعَافِيَتَكَ وَسِتْرَكَ فِي الدُّنْيَا وَالْآخِرَةِ۔",
+    "method": "مغرب کے بعد پڑھیں۔",
+    "source_book": "al-Balad al-Amin",
+    "source_ref": "البلد الامین، شیخ کفعمی"
+  },
+  {
+    "category": "Forgiveness",
+    "subcategory": "Maghfirat",
+    "title": "سیّد الاستغفار",
+    "original": "",
+    "urdu": "اللَّهُمَّ أَنْتَ رَبِّي لَا إِلَهَ إِلَّا أَنْتَ خَلَقْتَنِي وَأَنَا عَبْدُكَ وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ۔",
+    "method": "صبح و شام 1 بار پڑھیں۔ جو یہ دعا پڑھے اور اسی دن مر جائے تو جنت میں جائے گا۔",
+    "source_book": "al-Balad al-Amin",
+    "source_ref": "البلد الامین، شیخ کفعمی"
+  },
+  {
+    "category": "Protection",
+    "subcategory": "Hifazat",
+    "title": "دعا برائے حفاظت از شر جن و انس",
+    "original": "",
+    "urdu": "اعوذ بکلمات اللہ التامات من شر ما خلق۔",
+    "method": "صبح و شام 3 بار پڑھیں۔ ہر قسم کے شر سے حفاظت ہوتی ہے۔",
+    "source_book": "al-Balad al-Amin",
+    "source_ref": "البلد الامین، شیخ کفعمی"
+  },
+  {
+    "category": "Worship",
+    "subcategory": "Adhkar",
+    "title": "ذکر یا حی یا قیوم",
+    "original": "",
+    "urdu": "یا حی یا قیوم برحمتک استغیث۔",
+    "method": "روزانہ 100 بار پڑھیں۔ مشکل وقت میں کثرت سے پڑھیں۔",
+    "source_book": "al-Misbah",
+    "source_ref": "المصباح، شیخ کفعمی"
+  },
+  {
+    "category": "Forgiveness",
+    "subcategory": "Maghfirat",
+    "title": "دعای توبہ",
+    "original": "",
+    "urdu": "اللَّهُمَّ تُبْ عَلَيَّ إِنَّكَ أَنْتَ التَّوَّابُ الرَّحِيمُ۔",
+    "method": "ہر نماز کے بعد 7 بار پڑھیں۔",
+    "source_book": "al-Misbah",
+    "source_ref": "المصباح، شیخ کفعمی"
+  },
+  {
+    "category": "Sustenance",
+    "subcategory": "Rizq",
+    "title": "دعا برائے رزق بلا حساب",
+    "original": "",
+    "urdu": "یا وہاب! ہب لی من لدنک رزقا حلالا طیبا۔",
+    "method": "روزانہ سحر کے وقت (صبح صادق سے پہلے) 21 بار پڑھیں۔",
+    "source_book": "al-Misbah",
+    "source_ref": "المصباح، شیخ کفعمی"
+  },
+  {
+    "category": "Protection",
+    "subcategory": "Hifazat",
+    "title": "تحصین باللیل",
+    "original": "",
+    "urdu": "بسم اللہ وضعت جنبی و بسم اللہ رفعتہ۔",
+    "method": "سونے سے پہلے 3 بار پڑھیں۔ رات بھر حفاظت میں رہیں گے۔",
+    "source_book": "al-Misbah",
+    "source_ref": "المصباح، شیخ کفعمی"
+  },
+  {
+    "category": "Worship",
+    "subcategory": "Adab",
+    "title": "آداب دعا: باوضو ہونا",
+    "original": "",
+    "urdu": "دعا سے پہلے وضو کرنا سنت ہے۔ جیسے نماز کے لیے وضو کرتے ہیں ویسے ہی دعا کے لیے کریں۔",
+    "method": "دعا سے پہلے وضو کریں، قبلہ رخ ہوں، اور ہاتھ اٹھائیں۔",
+    "source_book": "'Uddat al-Da'i",
+    "source_ref": "عدة الداعی، ابن فہد حلی، باب آداب الدعاء"
+  },
+  {
+    "category": "Worship",
+    "subcategory": "Adab",
+    "title": "آداب دعا: حمد و صلوات",
+    "original": "",
+    "urdu": "دعا کا آغاز حمد و ثنا اور درود شریف سے کریں۔ آخر میں بھی درود شریف پڑھیں۔",
+    "method": "ہر دعا سے پہلے 3 بار الحمدللہ اور 3 بار صلی اللہ علی محمد و آل محمد۔",
+    "source_book": "'Uddat al-Da'i",
+    "source_ref": "عدة الداعی، ابن فہد حلی"
+  },
+  {
+    "category": "Sustenance",
+    "subcategory": "Rizq",
+    "title": "دعا برائے طلب روزی",
+    "original": "",
+    "urdu": "یا رازق! ارزقنی حلالا طیبا۔",
+    "method": "ہر روز اشراق کے وقت (طلوع آفتاب کے 15 منٹ بعد) 33 بار پڑھیں۔",
+    "source_book": "'Uddat al-Da'i",
+    "source_ref": "عدة الداعی، ابن فہد حلی"
+  },
+  {
+    "category": "Forgiveness",
+    "subcategory": "Maghfirat",
+    "title": "دعا برائے مغفرت ذنوب",
+    "original": "",
+    "urdu": "اللَّهُمَّ اغْفِرْ لِي مَا قَدَّمْتُ وَمَا أَخَّرْتُ وَمَا أَسْرَرْتُ وَمَا أَعْلَنْتُ۔",
+    "method": "ہر نماز کے بعد 1 بار پڑھیں۔",
+    "source_book": "'Uddat al-Da'i",
+    "source_ref": "عدة الداعی، ابن فہد حلی"
+  },
+  {
+    "category": "Character",
+    "subcategory": "Akhlaq",
+    "title": "دعا برائے حسن خلق",
+    "original": "",
+    "urdu": "اللَّهُمَّ حَسِّنْ خُلُقِي كَمَا حَسَّنْتَ خَلْقِي۔",
+    "method": "روزانہ 7 بار پڑھیں۔ اخلاق میں نکھار آتا ہے۔",
+    "source_book": "Makarim al-Akhlaq",
+    "source_ref": "مکارم الاخلاق، شیخ طبرسی"
+  },
+  {
+    "category": "Character",
+    "subcategory": "Akhlaq",
+    "title": "تواضع کا وظیفہ",
+    "original": "",
+    "urdu": "اللَّهُمَّ لَا تَجْعَلْنِي مُسْتَكْبِرًا وَاجْعَلْنِي مِنَ الْمُتَوَاضِعِينَ۔",
+    "method": "ہر جمعہ کو 7 بار پڑھیں۔",
+    "source_book": "Makarim al-Akhlaq",
+    "source_ref": "مکارم الاخلاق، شیخ طبرسی"
+  },
+  {
+    "category": "Character",
+    "subcategory": "Akhlaq",
+    "title": "صبر کا وظیفہ",
+    "original": "",
+    "urdu": "یا صابر! اصبرنی علی طاعتک۔",
+    "method": "مشکل وقت میں 21 بار پڑھیں۔",
+    "source_book": "Makarim al-Akhlaq",
+    "source_ref": "مکارم الاخلاق، شیخ طبرسی"
+  },
+  {
+    "category": "Character",
+    "subcategory": "Akhlaq",
+    "title": "شکر گزاری کا وظیفہ",
+    "original": "",
+    "urdu": "الحمدللہ رب العالمین حمدا کثیرا۔",
+    "method": "ہر دن صبح اٹھتے ہی 33 بار پڑھیں۔",
+    "source_book": "Makarim al-Akhlaq",
+    "source_ref": "مکارم الاخلاق، شیخ طبرسی"
+  },
+  {
+    "category": "Character",
+    "subcategory": "Akhlaq",
+    "title": "عفو و درگزر کا وظیفہ",
+    "original": "",
+    "urdu": "اللَّهُمَّ اجْعَلْنِي مِنَ الْعَافِينَ عَنِ النَّاسِ۔",
+    "method": "روزانہ عشاء کے بعد 3 بار پڑھیں۔",
+    "source_book": "Makarim al-Akhlaq",
+    "source_ref": "مکارم الاخلاق، شیخ طبرسی"
+  },
+  {
+    "category": "Character",
+    "subcategory": "Akhlaq",
+    "title": "سچائی کا وظیفہ",
+    "original": "",
+    "urdu": "اللَّهُمَّ اجْعَلْنِي مِنَ الصَّادِقِينَ۔",
+    "method": "ہر صبح پڑھیں۔",
+    "source_book": "Makarim al-Akhlaq",
+    "source_ref": "مکارم الاخلاق، شیخ طبرسی"
+  },
+  {
+    "category": "Health",
+    "subcategory": "Shifa",
+    "title": "شفا کا وظیفہ از امام جعفر صادق (ع)",
+    "original": "",
+    "urdu": "بسم اللہ و باللہ و من اللہ و الی اللہ۔",
+    "method": "مریض پر 7 بار پڑھ کر دم کریں۔",
+    "source_book": "Makarim al-Akhlaq",
+    "source_ref": "مکارم الاخلاق، شیخ طبرسی"
+  },
+  {
+    "category": "Protection",
+    "subcategory": "Hifazat",
+    "title": "دعا برائے پناہ از بلایا",
+    "original": "",
+    "urdu": "اللَّهُمَّ ادْفَعْ عَنِّي الْبَلَاءَ وَالْآفَاتِ۔",
+    "method": "صبح و شام 7 بار پڑھیں۔",
+    "source_book": "al-Da'wat",
+    "source_ref": "الدعوات، قطب الدین راوندی"
+  },
+  {
+    "category": "Sustenance",
+    "subcategory": "Rizq",
+    "title": "دعا برائے فراوانی رزق",
+    "original": "",
+    "urdu": "اللَّهُمَّ زِدْنِي رِزْقًا وَارْزُقْنِي مِنْ حَيْثُ لَا أَحْتَسِبُ۔",
+    "method": "ہر نماز ظہر کے بعد 11 بار پڑھیں۔",
+    "source_book": "al-Da'wat",
+    "source_ref": "الدعوات، قطب الدین راوندی"
+  },
+  {
+    "category": "Forgiveness",
+    "subcategory": "Maghfirat",
+    "title": "استغفار از امام علی (ع)",
+    "original": "",
+    "urdu": "استغفر اللہ من کل ذنب و اتوب الیہ۔",
+    "method": "روزانہ 70 بار پڑھیں۔",
+    "source_book": "al-Da'wat",
+    "source_ref": "الدعوات، قطب الدین راوندی"
+  },
+  {
+    "category": "Health",
+    "subcategory": "Shifa",
+    "title": "دعا برائے شفا مریض",
+    "original": "",
+    "urdu": "اللَّهُمَّ رَبَّ النَّاسِ أَذْهِبِ الْبَاسَ اشْفِ وَأَنْتَ الشَّافِي لَا شِفَاءَ إِلَّا شِفَاؤُكَ۔",
+    "method": "مریض کے سرہانے بیٹھ کر 7 بار پڑھیں اور دم کریں۔",
+    "source_book": "al-Da'wat",
+    "source_ref": "الدعوات، قطب الدین راوندی"
+  },
+  {
+    "category": "Health",
+    "subcategory": "Shifa",
+    "title": "قرآنی علاج برائے بخار",
+    "original": "",
+    "urdu": "سورہ حمد 7 بار + سورہ اخلاص 3 بار + آیت الکرسی 1 بار۔",
+    "method": "صبح و شام پانی پر پڑھ کر مریض کو پلائیں۔",
+    "source_book": "Tibb al-A'imma",
+    "source_ref": "طب الأئمة، ابنا بسطام"
+  },
+  {
+    "category": "Health",
+    "subcategory": "Shifa",
+    "title": "دعا برائے درد سر",
+    "original": "",
+    "urdu": "بسم اللہ الکریم و بسم اللہ العظیم۔",
+    "method": "ہاتھ پر پڑھ کر سر پر پھیریں۔",
+    "source_book": "Tibb al-A'imma",
+    "source_ref": "طب الأئمة، ابنا بسطام"
+  },
+  {
+    "category": "Health",
+    "subcategory": "Shifa",
+    "title": "دعا برائے درد پیٹ",
+    "original": "",
+    "urdu": "بسم اللہ۔ اللَّهُمَّ اشْفِ بَطْنِي۔",
+    "method": "تین بار پڑھ کر پیٹ پر ہاتھ پھیریں۔",
+    "source_book": "Tibb al-A'imma",
+    "source_ref": "طب الأئمة، ابنا بسطام"
+  },
+  {
+    "category": "Health",
+    "subcategory": "Shifa",
+    "title": "دعا برائے آنکھوں کے درد",
+    "original": "",
+    "urdu": "اللَّهُمَّ بَارِكْ لِي فِي بَصَرِي۔",
+    "method": "صبح و شام 3 بار پڑھیں اور آنکھوں پر ہاتھ پھیریں۔",
+    "source_book": "Tibb al-A'imma",
+    "source_ref": "طب الأئمة، ابنا بسطام"
+  },
+  {
+    "category": "Health",
+    "subcategory": "Shifa",
+    "title": "قرآنی شفا",
+    "original": "",
+    "urdu": "سورہ اسراء کی آیت 82: 'وَنُنَزِّلُ مِنَ الْقُرْآنِ مَا هُوَ شِفَاءٌ وَرَحْمَةٌ لِّلْمُؤْمِنِينَ'",
+    "method": "ہر بیماری پر 7 بار پڑھ کر پانی پر دم کریں اور پئیں۔",
+    "source_book": "Tibb al-A'imma",
+    "source_ref": "طب الأئمة، ابنا بسطام"
+  },
+  {
+    "category": "Health",
+    "subcategory": "Shifa",
+    "title": "دعا برائے محافظت صحت",
+    "original": "",
+    "urdu": "الْحَمْدُ لِلَّهِ الَّذِي عَافَانِي مِمَّا ابْتَلَى بِهِ كَثِيرًا مِنْ عِبَادِهِ۔",
+    "method": "صبح اٹھتے ہی ایک بار پڑھیں۔",
+    "source_book": "Tibb al-A'imma",
+    "source_ref": "طب الأئمة، ابنا بسطام"
+  },
+  {
+    "category": "Protection",
+    "subcategory": "Hifazat",
+    "title": "دعا از امام علی (ع) برائے حفاظت",
+    "original": "",
+    "urdu": "اللَّهُمَّ احْفَظْنِي بِعَيْنِكَ الَّتِي لَا تَنَامُ۔",
+    "method": "صبح و شام 3 بار پڑھیں۔",
+    "source_book": "al-Sahifa al-'Alawiyya",
+    "source_ref": "الصحیفة العلویة، شیخ عبد اللہ سماهیجی"
+  },
+  {
+    "category": "Sustenance",
+    "subcategory": "Rizq",
+    "title": "دعا از امام علی (ع) برائے رزق",
+    "original": "",
+    "urdu": "اللَّهُمَّ ارْزُقْنِي مِنْ فَضْلِكَ فَإِنَّكَ ذُو الْفَضْلِ الْعَظِيمِ۔",
+    "method": "ہر نماز کے بعد پڑھیں۔",
+    "source_book": "al-Sahifa al-'Alawiyya",
+    "source_ref": "الصحیفة العلویة، شیخ عبد اللہ سماهیجی"
+  },
+  {
+    "category": "Faith",
+    "subcategory": "Iman",
+    "title": "دعا از امام علی (ع) برائے نور ایمان",
+    "original": "",
+    "urdu": "اللَّهُمَّ نَوِّرْ قَلْبِي بِنُورِ الْإِيمَانِ۔",
+    "method": "روزانہ 7 بار پڑھیں۔",
+    "source_book": "al-Sahifa al-'Alawiyya",
+    "source_ref": "الصحیفة العلویة، شیخ عبد اللہ سماهیجی"
+  },
+  {
+    "category": "Protection",
+    "subcategory": "Hifazat",
+    "title": "دعا از امام علی (ع) از شر دشمن",
+    "original": "",
+    "urdu": "اللَّهُمَّ اكْفِنِي شَرَّ عَدُوِّي بِمَشِيَّتِكَ۔",
+    "method": "جب دشمن کا ڈر ہو تو 11 بار پڑھیں۔",
+    "source_book": "al-Sahifa al-'Alawiyya",
+    "source_ref": "الصحیفة العلویة، شیخ عبد اللہ سماهیجی"
+  },
+  {
+    "category": "Worship",
+    "subcategory": "Adhkar",
+    "title": "ذکر لا الہ الا اللہ",
+    "original": "",
+    "urdu": "لا الہ الا اللہ 100 بار روزانہ۔",
+    "method": "باوضو ہو کر، قبلہ رخ، دل سے حاضر ہو کر پڑھیں۔ صبح یا شام کسی بھی وقت۔",
+    "source_book": "Khulasat al-Adhkar",
+    "source_ref": "خلاصة الأذکار، فیض کاشانی"
+  },
+  {
+    "category": "Worship",
+    "subcategory": "Adhkar",
+    "title": "ذکر سبحان اللہ و بحمدہ",
+    "original": "",
+    "urdu": "سبحان اللہ و بحمدہ 100 بار روزانہ۔",
+    "method": "اس ذکر سے گناہ معاف ہوتے ہیں اگرچہ سمندر کی جھاگ کے برابر ہوں۔",
+    "source_book": "Khulasat al-Adhkar",
+    "source_ref": "خلاصة الأذکار، فیض کاشانی"
+  },
+  {
+    "category": "Worship",
+    "subcategory": "Adhkar",
+    "title": "ذکر لا حول و لا قوۃ الا باللہ",
+    "original": "",
+    "urdu": "لا حول و لا قوۃ الا باللہ العلی العظیم۔",
+    "method": "مشکل وقت میں 100 بار پڑھیں۔ یہ ذکر جنت کا خزانہ ہے۔",
+    "source_book": "Khulasat al-Adhkar",
+    "source_ref": "خلاصة الأذکار، فیض کاشانی"
+  },
+  {
+    "category": "Worship",
+    "subcategory": "Adhkar",
+    "title": "ذکر حسبنا اللہ و نعم الوکیل",
+    "original": "",
+    "urdu": "حسبنا اللہ و نعم الوکیل۔",
+    "method": "خوف اور پریشانی کے وقت 70 بار پڑھیں۔",
+    "source_book": "Khulasat al-Adhkar",
+    "source_ref": "خلاصة الأذکار، فیض کاشانی"
+  },
+  {
+    "category": "Worship",
+    "subcategory": "Ad'iya",
+    "title": "دعا برائے قبولیت دعا",
+    "original": "",
+    "urdu": "یا من یعطی من سألہ! یا من یجیب من دعاہ!",
+    "method": "ہر دعا سے پہلے 3 بار پڑھیں۔",
+    "source_book": "Falah al-Sa'il",
+    "source_ref": "فلاح السائل، سید ابن طاووس"
+  },
+  {
+    "category": "Worship",
+    "subcategory": "Ad'iya",
+    "title": "دعا برائے آسانی امور",
+    "original": "",
+    "urdu": "اللَّهُمَّ يَسِّرْ لِي كُلَّ عَسِيرٍ فَإِنَّ تَيْسِيرَ الْعَسِيرِ عَلَيْكَ يَسِيرٌ۔",
+    "method": "ہر مشکل کام کے شروع میں 3 بار پڑھیں۔",
+    "source_book": "Falah al-Sa'il",
+    "source_ref": "فلاح السائل، سید ابن طاووس"
+  },
+  {
+    "category": "Worship",
+    "subcategory": "Ad'iya",
+    "title": "دعا برائے رفع پریشانی",
+    "original": "",
+    "urdu": "اللَّهُمَّ لَا تَكِلْنِي إِلَى نَفْسِي طَرْفَةَ عَيْنٍ أَبَدًا۔",
+    "method": "پریشانی کے وقت 21 بار پڑھیں۔",
+    "source_book": "Falah al-Sa'il",
+    "source_ref": "فلاح السائل، سید ابن طاووس"
+  },
+  {
+    "category": "Worship",
+    "subcategory": "Ayyam",
+    "title": "دعائے روز یکشنبہ (اتوار)",
+    "original": "",
+    "urdu": "اللَّهُمَّ اجْعَلْ أَوَّلَ يَوْمِي هَذَا فَلَاحًا وَآخِرَهُ نَجَاحًا۔",
+    "method": "اتوار کی صبح پڑھیں۔",
+    "source_book": "Jamal al-Usbu'",
+    "source_ref": "جمال الأسبوع، سید ابن طاووس"
+  },
+  {
+    "category": "Worship",
+    "subcategory": "Ayyam",
+    "title": "دعائے روز دوشنبہ (پیر)",
+    "original": "",
+    "urdu": "اللَّهُمَّ بَارِكْ لِي فِي يَوْمِي هَذَا ولا تُصِبْنِي فِيهِ بِمَكْرُوهٍ۔",
+    "method": "پیر کی صبح پڑھیں۔",
+    "source_book": "Jamal al-Usbu'",
+    "source_ref": "جمال الأسبوع، سید ابن طاووس"
+  },
+  {
+    "category": "Worship",
+    "subcategory": "Ayyam",
+    "title": "دعائے روز پنج شنبہ (جمعرات)",
+    "original": "",
+    "urdu": "اللَّهُمَّ افْتَحْ لِي فِي يَوْمِي هَذَا أَبْوَابَ الْخَيْرِ وَالرَّحْمَةِ۔",
+    "method": "جمعرات کی صبح پڑھیں۔",
+    "source_book": "Jamal al-Usbu'",
+    "source_ref": "جمال الأسبوع، سید ابن طاووس"
+  },
+  {
+    "category": "Protection",
+    "subcategory": "Hifazat",
+    "title": "مجرب دعا برائے حفاظت سفر",
+    "original": "",
+    "urdu": "بسم اللہ و باللہ۔ اللَّهُمَّ احْفَظْنِي فِي سَفَرِي۔",
+    "method": "سفر شروع کرتے وقت 11 بار پڑھیں۔",
+    "source_book": "al-Tuhfa al-Radawiyya",
+    "source_ref": "التحفة الرضویة، سید محمد رضی رضوی"
+  },
+  {
+    "category": "Sustenance",
+    "subcategory": "Rizq",
+    "title": "مجرب دعا برائے رزق",
+    "original": "",
+    "urdu": "یا غنی یا مغنی! اغننی بفضلك.",
+    "method": "ہر نماز فجر کے بعد 41 بار پڑھیں۔ 40 دن تک۔",
+    "source_book": "al-Tuhfa al-Radawiyya",
+    "source_ref": "التحفة الرضویة، سید محمد رضی رضوی"
+  },
+  {
+    "category": "Protection",
+    "subcategory": "Hifazat",
+    "title": "مجرب دعا برائے حفاظت اولاد",
+    "original": "",
+    "urdu": "اللَّهُمَّ احْفَظْ أَوْلَادِي فَإِنِّي ضَعِيفٌ عَنْ حِفْظِهِمْ وَأَنْتَ الْقَوِيُّ الْحَفِيظُ۔",
+    "method": "روزانہ 3 بار اولاد پر پڑھ کر دم کریں۔",
+    "source_book": "al-Tuhfa al-Radawiyya",
+    "source_ref": "التحفة الرضویة، سید محمد رضی رضوی"
+  },
+  {
+    "category": "Worship",
+    "subcategory": "A'mal",
+    "title": "ثواب تلاوت سورہ اخلاص",
+    "original": "",
+    "urdu": "جس نے ایک بار سورہ اخلاص پڑھی تو گویا تہائی قرآن پڑھا۔ جو 11 بار پڑھے تو اسے جنت میں ایک محل ملے گا۔",
+    "method": "روزانہ 11 بار سورہ اخلاص پڑھیں۔",
+    "source_book": "Thawab al-A'mal",
+    "source_ref": "ثواب الأعمال، شیخ صدوق"
+  },
+  {
+    "category": "Worship",
+    "subcategory": "A'mal",
+    "title": "ثواب تلاوت سورہ قدر",
+    "original": "",
+    "urdu": "جس نے 11 بار سورہ قدر پڑھی تو اس کے گناہ معاف ہوتے ہیں اور اسے ثواب عظیم ملتا ہے۔",
+    "method": "روزانہ صبح 11 بار سورہ قدر پڑھیں۔",
+    "source_book": "Thawab al-A'mal",
+    "source_ref": "ثواب الأعمال، شیخ صدوق"
+  },
+  {
+    "category": "Worship",
+    "subcategory": "A'mal",
+    "title": "ثواب صلوات",
+    "original": "",
+    "urdu": "جس نے ایک بار صلی اللہ علی محمد و آل محمد کہا تو اللہ اس پر 10 رحمتیں نازل کرتا ہے۔",
+    "method": "روزانہ 100 بار درود شریف پڑھیں۔ صبح و شام دونوں وقت۔",
+    "source_book": "Thawab al-A'mal",
+    "source_ref": "ثواب الأعمال، شیخ صدوق"
+  },
+  {
+    "category": "Worship",
+    "subcategory": "A'mal",
+    "title": "ثواب تسبیح فاطمہ زہرا",
+    "original": "",
+    "urdu": "جس نے ہر نماز کے بعد تسبیح فاطمہ زہرا (34 اللہ اکبر، 33 الحمدللہ، 33 سبحان اللہ) پڑھی تو اس کے گناہ معاف ہوتے ہیں۔",
+    "method": "ہر نماز کے فوراً بعد پڑھیں۔",
+    "source_book": "Thawab al-A'mal",
+    "source_ref": "ثواب الأعمال، شیخ صدوق"
+  },
+  {
+    "category": "Worship",
+    "subcategory": "Ayyam",
+    "title": "اعمال روز جمعہ",
+    "original": "",
+    "urdu": "جمعہ کے دن 100 بار درود شریف، سورہ کہف پڑھیں، اور امام زمان (عج) کے لیے دعا کریں۔",
+    "method": "جمعہ کی صبح غسل کریں، صاف کپڑے پہنیں، اور ان اعمال کو بجا لائیں۔",
+    "source_book": "Zad al-Ma'ad",
+    "source_ref": "زاد المعاد، علامہ مجلسی"
+  },
+  {
+    "category": "Worship",
+    "subcategory": "Ayyam",
+    "title": "دعای سمات (شب جمعہ)",
+    "original": "",
+    "urdu": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِاسْمِكَ الْعَظِيمِ الْأَعْظَمِ۔",
+    "method": "شب جمعہ (جمعرات کی رات) مغرب کے بعد پڑھیں۔",
+    "source_book": "Zad al-Ma'ad",
+    "source_ref": "زاد المعاد، علامہ مجلسی"
+  },
+  {
+    "category": "Worship",
+    "subcategory": "Ayyam",
+    "title": "اعمال ماہ رمضان: دعائے سحر",
+    "original": "",
+    "urdu": "اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ بَهَائِكَ بِأَبْهَاهُ۔",
+    "method": "ہر شب رمضان سحر کے وقت پڑھیں۔",
+    "source_book": "Zad al-Ma'ad",
+    "source_ref": "زاد المعاد، علامہ مجلسی"
+  },
+  {
+    "category": "Worship",
+    "subcategory": "Ayyam",
+    "title": "اعمال ماہ رمضان: دعائے افتتاح",
+    "original": "",
+    "urdu": "اللَّهُمَّ إِنِّي أَفْتَتِحُ الثَّنَاءَ بِحَمْدِكَ۔",
+    "method": "ہر شب رمضان نماز مغرب کے بعد پڑھیں۔",
+    "source_book": "Zad al-Ma'ad",
+    "source_ref": "زاد المعاد، علامہ مجلسی"
+  },
+  {
+    "category": "Worship",
+    "subcategory": "Ayyam",
+    "title": "اعمال ماہ رمضان: دعائے ابو حمزہ",
+    "original": "",
+    "urdu": "إِلَـهِي لَا تُؤَدِّبْنِي بِعُقُوبَتِكَ۔",
+    "method": "ہر شب رمضان سحر کے وقت پڑھیں۔",
+    "source_book": "Zad al-Ma'ad",
+    "source_ref": "زاد المعاد، علامہ مجلسی"
+  },
+  {
+    "category": "Worship",
+    "subcategory": "Ayyam",
+    "title": "اعمال عید فطر",
+    "original": "",
+    "urdu": "عید فطر کی صبح غسل کریں، نماز عید پڑھیں، اور زکوٰۃ فطرہ ادا کریں۔",
+    "method": "عید کے دن یہ اعمال بجا لائیں۔",
+    "source_book": "Zad al-Ma'ad",
+    "source_ref": "زاد المعاد، علامہ مجلسی"
+  },
+  {
+    "category": "Worship",
+    "subcategory": "Ayyam",
+    "title": "اعمال روز دوشنبہ (پیر)",
+    "original": "",
+    "urdu": "پیر کے دن روزہ رکھیں، 100 بار درود شریف، اور سورہ اخلاص 100 بار پڑھیں۔",
+    "method": "ہر پیر کو یہ اعمال بجا لائیں۔",
+    "source_book": "Rabi' al-Asabi'",
+    "source_ref": "ربیع الأسابیع، علامہ مجلسی"
+  },
+  {
+    "category": "Worship",
+    "subcategory": "Ayyam",
+    "title": "اعمال روز پنج شنبہ (جمعرات)",
+    "original": "",
+    "urdu": "جمعرات کے دن 200 بار صلوات اور سورہ یٰسین پڑھیں۔",
+    "method": "ہر جمعرات کو یہ اعمال بجا لائیں۔",
+    "source_book": "Rabi' al-Asabi'",
+    "source_ref": "ربیع الأسابیع، علامہ مجلسی"
+  },
+  {
+    "category": "Protection",
+    "subcategory": "Hifazat",
+    "title": "دعا از امام صادق (ع) برائے حفاظت",
+    "original": "",
+    "urdu": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِحَقِّ مُحَمَّدٍ وَآلِ مُحَمَّدٍ أَنْ تَحْفَظَنِي مِنْ كُلِّ بَلَاءٍ۔",
+    "method": "صبح و شام 3 بار پڑھیں۔",
+    "source_book": "al-Sahifa al-Sadiqiyya",
+    "source_ref": "الصحیفة الصادقیة، ادعیة امام صادق (ع)"
+  },
+  {
+    "category": "Sustenance",
+    "subcategory": "Rizq",
+    "title": "دعا از امام صادق (ع) برائے رزق",
+    "original": "",
+    "urdu": "اللَّهُمَّ ارْزُقْنِي رِزْقًا حَلَالًا لَا تَجْعَلْ لِأَحَدٍ فِيهِ مَنَّةً۔",
+    "method": "ہر نماز فجر کے بعد 7 بار پڑھیں۔",
+    "source_book": "al-Sahifa al-Sadiqiyya",
+    "source_ref": "الصحیفة الصادقیة، ادعیة امام صادق (ع)"
+  },
+  {
+    "category": "Forgiveness",
+    "subcategory": "Maghfirat",
+    "title": "استغفار از امام صادق (ع)",
+    "original": "",
+    "urdu": "أَسْتَغْفِرُ اللَّهَ الَّذِي لَا إِلَهَ إِلَّا هُوَ الْحَيَّ الْقَيُّومَ وَأَتُوبُ إِلَيْهِ۔",
+    "method": "روزانہ 70 بار پڑھیں۔",
+    "source_book": "al-Sahifa al-Sadiqiyya",
+    "source_ref": "الصحیفة الصادقیة، ادعیة امام صادق (ع)"
+  },
+  {
+    "category": "Worship",
+    "subcategory": "Ziyarat",
+    "title": "زیارت جامعه کبیرہ (مختصر)",
+    "original": "",
+    "urdu": "السَّلَامُ عَلَيْكُمْ يَا أَهْلَ بَيْتِ النُّبُوَّةِ۔",
+    "method": "زیارت کے وقت یا دور سے پڑھیں۔ جمعہ کے روز خاص طور پر پڑھیں۔",
+    "source_book": "Misbah al-Za'ir",
+    "source_ref": "مصباح الزائر، سید ابن طاووس"
+  },
+  {
+    "category": "Worship",
+    "subcategory": "Ziyarat",
+    "title": "زیارت عاشورا (مختصر)",
+    "original": "",
+    "urdu": "السَّلَامُ عَلَيْكَ يَا أَبَا عَبْدِ اللَّهِ۔",
+    "method": "ہر روز یا کم از کم جمعہ کے دن پڑھیں۔",
+    "source_book": "Misbah al-Za'ir",
+    "source_ref": "مصباح الزائر، سید ابن طاووس"
+  },
+  {
+    "category": "Worship",
+    "subcategory": "Ziyarat",
+    "title": "زیارت امین اللہ",
+    "original": "",
+    "urdu": "السَّلَامُ عَلَيْكَ يَا أَمِينَ اللَّهِ فِي أَرْضِهِ۔",
+    "method": "زیارت امام علی (ع) کے لیے پڑھیں۔",
+    "source_book": "Misbah al-Za'ir",
+    "source_ref": "مصباح الزائر، سید ابن طاووس"
+  }
+]

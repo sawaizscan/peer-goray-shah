@@ -15,10 +15,64 @@
       <a href="index.html" class="nav-logo">Syed Saleem Raza Kazmi<span class="sub">پیر گورے شاہ</span></a>
       <button class="nav-toggle" id="navToggle" aria-label="Menu"><i class="fas fa-bars"></i></button>
       <ul class="nav-links" id="navLinks">
-        <li><a href="index.html">Home</a></li>
-        <li><a href="wisdom.html">Wisdom</a></li>
-        <li><a href="discover.html">Discover</a></li>
-        <li><a href="amal.html">Aʻmāl</a></li>
+        <li class="dropdown">
+          <a href="index.html">Home <i class="fas fa-chevron-down" style="font-size:0.55rem;margin-left:4px;"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="index.html#carousel"><i class="fas fa-sliders-h"></i> Daily Carousel</a></li>
+            <li><a href="index.html#explore"><i class="fas fa-compass"></i> Explore</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="wisdom.html">Wisdom <i class="fas fa-chevron-down" style="font-size:0.55rem;margin-left:4px;"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="wisdom.html"><i class="fas fa-quote-left"></i> Sayings</a></li>
+            <li><a href="wisdom.html?tab=poetry"><i class="fas fa-feather"></i> Poetry</a></li>
+            <li><a href="wisdom.html?tab=fun"><i class="fas fa-smile"></i> Fun Facts</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="discover.html">Discover <i class="fas fa-chevron-down" style="font-size:0.55rem;margin-left:4px;"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="discover.html"><i class="fas fa-atom"></i> Facts</a></li>
+            <li><a href="discover.html?tab=wit"><i class="fas fa-theater-masks"></i> Wit</a></li>
+            <li><a href="discover.html?tab=poetry"><i class="fas fa-feather-alt"></i> Poetry</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="amal.html">A'mal <i class="fas fa-chevron-down" style="font-size:0.55rem;margin-left:4px;"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="amal.html"><i class="fas fa-hands-praying"></i> Daily A'mal</a></li>
+            <li><a href="amal.html?cat=Worship"><i class="fas fa-mosque"></i> Worship</a></li>
+            <li><a href="amal.html?cat=Sustenance"><i class="fas fa-bread-slice"></i> Sustenance</a></li>
+            <li><a href="amal.html?cat=Protection"><i class="fas fa-shield-halved"></i> Protection</a></li>
+            <li><a href="amal.html?cat=Health"><i class="fas fa-heart-pulse"></i> Health</a></li>
+            <li><a href="amal.html?cat=Hereafter"><i class="fas fa-mosque"></i> Hereafter</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="duas.html">Duas <i class="fas fa-chevron-down" style="font-size:0.55rem;margin-left:4px;"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="duas.html"><i class="fas fa-book"></i> All Duas</a></li>
+            <li><a href="duas.html?cat=Supplication"><i class="fas fa-hand-sparkles"></i> Supplications</a></li>
+            <li><a href="duas.html?cat=Worship"><i class="fas fa-mosque"></i> Worship</a></li>
+            <li><a href="duas.html?cat=Sahifa"><i class="fas fa-book"></i> Sahifas</a></li>
+            <li><a href="duas.html?cat=Monthly"><i class="fas fa-calendar"></i> Monthly</a></li>
+            <li><a href="https://www.duas.org/dua-kumayl.html" target="_blank"><i class="fas fa-hand-sparkles"></i> Dua Kumayl</a></li>
+            <li><a href="https://www.duas.org/dua-nudba.html" target="_blank"><i class="fas fa-moon"></i> Dua Nudba</a></li>
+            <li><a href="https://www.duas.org/dua-sections.html" target="_blank"><i class="fas fa-sitemap"></i> All Sections</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="ziyarat.html">Ziyarat <i class="fas fa-chevron-down" style="font-size:0.55rem;margin-left:4px;"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="ziyarat.html"><i class="fas fa-list"></i> All Ziyarat</a></li>
+            <li><a href="duas.html?cat=Ziyarat"><i class="fas fa-building"></i> Browse Ziyarat</a></li>
+            <li><a href="duas.html?cat=Sahifa"><i class="fas fa-book"></i> Sahifas</a></li>
+            <li><a href="https://www.duas.org/ziyarat-jamia-kabira.html" target="_blank"><i class="fas fa-building"></i> Jamia Kabira</a></li>
+            <li><a href="https://www.duas.org/mobile/ziyarat-imam-hussain-ashura.html" target="_blank"><i class="fas fa-cross"></i> Ashura</a></li>
+            <li><a href="https://www.duas.org/ziyarat.html" target="_blank"><i class="fas fa-list"></i> Full list</a></li>
+          </ul>
+        </li>
         <li><a href="contact.html">Connect</a></li>
       </ul>
     </div>
@@ -46,44 +100,67 @@
     </div>
   </header>
 
-  <section class="section" style="background: var(--card-bg);">
+  <section class="section" style="background: var(--card-bg);" id="carousel">
     <div class="section-inner">
       <div class="section-title">
-        <h2>الیوم · اقتباس</h2>
+        <h2>الیوم · اليوم · Today's Treasury</h2>
         <div class="divider"></div>
-        <p>Today's selection from the treasury</p>
+        <p>Daily rotating wisdom from the sacred pools</p>
       </div>
-      <div id="dailyQuote" style="max-width: 700px; margin: 0 auto;"></div>
+      <div class="carousel-container">
+        <div class="carousel-track" id="carouselTrack"></div>
+        <div class="carousel-controls">
+          <button class="carousel-btn" id="carouselPrev"><i class="fas fa-chevron-left"></i></button>
+          <div class="carousel-dots" id="carouselDots"></div>
+          <button class="carousel-btn" id="carouselNext"><i class="fas fa-chevron-right"></i></button>
+        </div>
+      </div>
     </div>
   </section>
 
-  <section class="section" style="background: var(--cream);">
+  <section class="section" style="background: var(--cream);" id="explore">
     <div class="section-inner">
       <div class="section-title">
-        <h2>Discover</h2>
+        <h2>Explore the Archive</h2>
         <div class="divider"></div>
-        <p>Navigate the spiritual archive</p>
+        <p>Navigate the spiritual treasury</p>
       </div>
-      <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(240px,1fr)); gap:1.25rem; max-width:800px; margin:0 auto;">
-        <a href="wisdom.html" style="background:var(--card-bg); border-radius:var(--radius); padding:2rem; text-align:center; box-shadow:var(--shadow-sm); border:1px solid rgba(255,255,255,0.06); transition:all 0.3s; text-decoration:none; display:block;">
-          <i class="fas fa-lightbulb" style="font-size:1.8rem; color:var(--gold); margin-bottom:0.75rem;"></i>
-          <h4 style="color:var(--text); margin-bottom:0.25rem; font-family:'Playfair Display',serif;">Wisdom · اشراقات</h4>
-          <p style="color:var(--text-light); font-size:0.8rem;">Ashraqat, Tanaquzat, Ramuz — original texts with Urdu translation and spiritual analysis</p>
+      <div class="explore-grid">
+        <a href="wisdom.html" class="explore-card">
+          <div class="explore-icon" style="background:rgba(212,168,67,0.12);"><i class="fas fa-lightbulb" style="color:var(--gold);"></i></div>
+          <h4>Wisdom · اشراقات</h4>
+          <p>Ashraqat, Tanaquzat, Ramuz — categorized sayings with Urdu translation</p>
+          <span class="explore-tags">Mawt · Barzakh · Qabr · Qiyamah</span>
         </a>
-        <a href="discover.html" style="background:var(--card-bg); border-radius:var(--radius); padding:2rem; text-align:center; box-shadow:var(--shadow-sm); border:1px solid rgba(255,255,255,0.06); transition:all 0.3s; text-decoration:none; display:block;">
-          <i class="fas fa-compass" style="font-size:1.8rem; color:var(--tanaquz); margin-bottom:0.75rem;"></i>
-          <h4 style="color:var(--text); margin-bottom:0.25rem; font-family:'Playfair Display',serif;">Discover · دریافت</h4>
-          <p style="color:var(--text-light); font-size:0.8rem;">Amazing facts, history, and literary wit — updated daily from the Islamic tradition</p>
+        <a href="discover.html" class="explore-card">
+          <div class="explore-icon" style="background:rgba(188,140,255,0.12);"><i class="fas fa-compass" style="color:var(--tanaquz);"></i></div>
+          <h4>Discover · دریافت</h4>
+          <p>Facts, history, literary wit, and poetry from Islamic tradition</p>
+          <span class="explore-tags">Facts · Wit · Poetry · History</span>
         </a>
-        <a href="amal.html" style="background:var(--card-bg); border-radius:var(--radius); padding:2rem; text-align:center; box-shadow:var(--shadow-sm); border:1px solid rgba(255,255,255,0.06); transition:all 0.3s; text-decoration:none; display:block;">
-          <i class="fas fa-hands-praying" style="font-size:1.8rem; color:var(--primary); margin-bottom:0.75rem;"></i>
-          <h4 style="color:var(--text); margin-bottom:0.25rem; font-family:'Playfair Display',serif;">Aʻmāl · اعمال</h4>
-          <p style="color:var(--text-light); font-size:0.8rem;">Aurād, prayers, practices from verified sources</p>
+        <a href="amal.html" class="explore-card">
+          <div class="explore-icon" style="background:rgba(29,185,84,0.12);"><i class="fas fa-hands-praying" style="color:var(--primary);"></i></div>
+          <h4>A'māl · اعمال</h4>
+          <p>Daily 30 verified practices from authentic Shia sources</p>
+          <span class="explore-tags">Worship · Sustenance · Protection · Health</span>
         </a>
-        <a href="contact.html" style="background:var(--card-bg); border-radius:var(--radius); padding:2rem; text-align:center; box-shadow:var(--shadow-sm); border:1px solid rgba(255,255,255,0.06); transition:all 0.3s; text-decoration:none; display:block;">
-          <i class="fas fa-envelope" style="font-size:1.8rem; color:#1877F2; margin-bottom:0.75rem;"></i>
-          <h4 style="color:var(--text); margin-bottom:0.25rem; font-family:'Playfair Display',serif;">Connect · رابطہ</h4>
-          <p style="color:var(--text-light); font-size:0.8rem;">Reach out via Facebook, Instagram, or WhatsApp</p>
+        <a href="duas.html" class="explore-card">
+          <div class="explore-icon" style="background:rgba(212,168,67,0.12);"><i class="fas fa-book-open" style="color:var(--gold);"></i></div>
+          <h4>Duas · ادعیہ</h4>
+          <p>Famous supplications, Sahifas, monthly a'mal, and routines</p>
+          <span class="explore-tags">Kumayl · Tawassul · Nudba · Jawshan</span>
+        </a>
+        <a href="ziyarat.html" class="explore-card">
+          <div class="explore-icon" style="background:rgba(188,140,255,0.12);"><i class="fas fa-kaaba" style="color:var(--tanaquz);"></i></div>
+          <h4>Ziyarat · زیارت</h4>
+          <p>Sacred visitations to the Ahl al-Bayt (AS)</p>
+          <span class="explore-tags">Jamia · Ashura · Warith · Ameenullah</span>
+        </a>
+        <a href="contact.html" class="explore-card">
+          <div class="explore-icon" style="background:rgba(24,119,242,0.12);"><i class="fas fa-envelope" style="color:#1877F2;"></i></div>
+          <h4>Connect · رابطہ</h4>
+          <p>Reach out via Facebook, Instagram, or WhatsApp</p>
+          <span class="explore-tags">Social · Contact · Guidance</span>
         </a>
       </div>
     </div>
@@ -102,34 +179,170 @@
   <script src="app.js"></script>
   <script>
     (function() {
-      var FALLBACK = [
-        {"source_person":"Imam Ali (AS)","category":"Mawt","original":"فإن الموت غائب لا بد أن يرديك، وإن كان مسكنه في غيب غير منقطع","urdu":"موت ایک غائب حقیقت ہے جو تجھ پر ضرور وارد ہوگی، خواہ اس کا ٹھکانا غیب کے پردے میں ہی کیوں نہ ہو۔","makhaz":"Bihar al-Anwar, vol. 73, p. 31"},
-        {"source_person":"Imam al-Baqir (AS)","category":"Barzakh","original":"إنما مثل المؤمن عند الموت مثل الظمآن الذي انتهى إلى الماء البارد","urdu":"مومن کی موت کے وقت کیفیت اس پیاسے کی سی ہے جو ٹھنڈے پانی تک پہنچ گیا ہو۔","makhaz":"Basair al-Darajat, p. 186"},
-        {"source_person":"Imam Ja'far al-Sadiq (AS)","category":"Mawt","original":"إذا مات المؤمن دخل معه في قبره ست صور، فيهن صورة أحسن من الباقين","urdu":"جب مومن مرتا ہے تو اس کے ساتھ قبر میں چھ صورتیں داخل ہوتی ہیں، ان میں ایک سب سے خوبصورت ہوتی ہے۔","makhaz":"Al-Khisal, p. 311, hadith 84"}
-      ];
-      var data = [];
+      var CAROUSEL = [];
+      var currentSlide = 0;
+      var autoTimer = null;
+      var INTERVAL = 6000;
 
-      var stored = localStorage.getItem('peer_wisdom_data');
-      if (stored) { try { data = JSON.parse(stored); } catch(e) {} }
+      function loadAll() {
+        var loaded = 0, total = 3;
+        function done() { loaded++; if (loaded >= total) initCarousel(); }
 
-      if (!data.length) {
-        var xhr = new XMLHttpRequest();
-        xhr.open('GET', 'data.json', false);
-        xhr.onload = function() { try { data = JSON.parse(xhr.responseText); } catch(e) {} };
-        xhr.send();
+        // Load sayings
+        var sxhr = new XMLHttpRequest();
+        sxhr.open('GET', 'data.json?_=' + Date.now(), true);
+        sxhr.onload = function() {
+          try {
+            var d = JSON.parse(sxhr.responseText);
+            if (d && d.length) {
+              for (var i = 0; i < Math.min(10, d.length); i++) {
+                var item = d[i];
+                CAROUSEL.push({
+                  type: 'saying',
+                  icon: 'fa-quote-left',
+                  cat: item.category,
+                  source: item.source_person,
+                  arabic: item.original,
+                  urdu: item.urdu,
+                  ref: item.makhaz
+                });
+              }
+            }
+          } catch(e) {}
+          done();
+        };
+        sxhr.onerror = done;
+        sxhr.send();
+
+        // Load poetry
+        var pxhr = new XMLHttpRequest();
+        pxhr.open('GET', 'poetry.json?_=' + Date.now(), true);
+        pxhr.onload = function() {
+          try {
+            var p = JSON.parse(pxhr.responseText);
+            var poems = p.poems || p;
+            if (poems && poems.length) {
+              for (var i = 0; i < Math.min(10, poems.length); i++) {
+                var po = poems[i];
+                CAROUSEL.push({
+                  type: 'poetry',
+                  icon: 'fa-feather',
+                  cat: po.category || po.theme || 'Poetry',
+                  source: po.poet,
+                  arabic: po.misra1 + ' // ' + po.misra2,
+                  urdu: po.misra1 + '\n' + po.misra2,
+                  ref: po.source || ''
+                });
+              }
+            }
+          } catch(e) {}
+          done();
+        };
+        pxhr.onerror = done;
+        pxhr.send();
+
+        // Load amal
+        var axhr = new XMLHttpRequest();
+        axhr.open('GET', 'amal.json?_=' + Date.now(), true);
+        axhr.onload = function() {
+          try {
+            var a = JSON.parse(axhr.responseText);
+            if (a && a.length) {
+              for (var i = 0; i < Math.min(10, a.length); i++) {
+                var am = a[i];
+                CAROUSEL.push({
+                  type: 'amal',
+                  icon: 'fa-hands-praying',
+                  cat: am.category + (am.subcategory ? ' / ' + am.subcategory : ''),
+                  source: am.title,
+                  arabic: am.original || '',
+                  urdu: am.urdu,
+                  ref: am.source_book + ' — ' + am.source_ref
+                });
+              }
+            }
+          } catch(e) {}
+          done();
+        };
+        axhr.onerror = done;
+        axhr.send();
       }
 
-      if (!data.length) { data = FALLBACK; }
+      function initCarousel() {
+        if (!CAROUSEL.length) return;
 
-      var idx = new Date().getDate() % data.length;
-      var q = data[idx];
-      document.getElementById('dailyQuote').innerHTML =
-        '<div style="padding: 2rem; border-radius: var(--radius-lg); background: linear-gradient(160deg, var(--primary-deeper), var(--primary-dark)); text-align: center;">' +
-        '<p style="font-size:0.6rem; letter-spacing:2.5px; text-transform:uppercase; color:var(--gold-light); margin-bottom:0.75rem;">' + q.source_person + ' · ' + q.category + '</p>' +
-        '<p style="font-family:\'Amiri\',serif; font-size:clamp(1.2rem,2.5vw,1.6rem); color:var(--gold); line-height:2; margin-bottom:0.75rem; direction:rtl;">' + q.original + '</p>' +
-        '<p style="font-family:\'Noto Nastaliq Urdu\',serif; font-size:clamp(0.9rem,1.8vw,1.15rem); color:rgba(255,255,255,0.8); line-height:1.8; direction:rtl; margin-bottom:0.75rem;">' + q.urdu + '</p>' +
-        '<p style="font-size:0.7rem; color:rgba(255,255,255,0.4);">' + q.makhaz + '</p>' +
-        '</div>';
+        var track = document.getElementById('carouselTrack');
+        var dots = document.getElementById('carouselDots');
+
+        function renderSlide(idx) {
+          var item = CAROUSEL[idx];
+          var isRtl = item.type !== 'poetry';
+
+          var bgGrads = {
+            saying: 'linear-gradient(160deg, #0a4a2a, #031a0c)',
+            poetry: 'linear-gradient(160deg, #2d1b4e, #1a0f2e)',
+            amal: 'linear-gradient(160deg, #1a3a2a, #0d1f15)'
+          };
+          var typeLabels = {
+            saying: '<i class="fas fa-quote-left"></i> Saying · ' + item.source,
+            poetry: '<i class="fas fa-feather"></i> Poetry · ' + item.source,
+            amal: '<i class="fas fa-hands-praying"></i> ' + item.source
+          };
+
+          // Seed shuffle for daily variety
+          var seed = Math.floor(Date.now() / (INTERVAL * 2));
+          var dayIdx = (idx + seed) % CAROUSEL.length;
+
+          track.innerHTML =
+            '<div class="carousel-slide" style="background: ' + bgGrads[item.type] + ';">' +
+              '<div class="carousel-badge">' + typeLabels[item.type] + '</div>' +
+              '<div class="carousel-cat"><i class="fas ' + item.icon + '"></i> ' + item.cat + '</div>' +
+              (item.arabic ? '<div class="carousel-arabic">' + item.arabic + '</div>' : '') +
+              '<div class="carousel-urdu" style="' + (isRtl ? 'direction:rtl;' : '') + '">' + item.urdu.replace(/\n/g, '<br>') + '</div>' +
+              (item.ref ? '<div class="carousel-ref"><i class="fas fa-book"></i> ' + item.ref + '</div>' : '') +
+            '</div>';
+        }
+
+        function updateDots(active) {
+          dots.innerHTML = '';
+          for (var i = 0; i < CAROUSEL.length; i++) {
+            var dot = document.createElement('button');
+            dot.className = 'carousel-dot' + (i === active ? ' active' : '');
+            dot.dataset.idx = i;
+            dot.addEventListener('click', function() { go(parseInt(this.dataset.idx)); });
+            dots.appendChild(dot);
+          }
+        }
+
+        function go(idx) {
+          currentSlide = idx;
+          renderSlide(currentSlide);
+          updateDots(currentSlide);
+          resetTimer();
+        }
+
+        function next() { go((currentSlide + 1) % CAROUSEL.length); }
+        function prev() { go((currentSlide - 1 + CAROUSEL.length) % CAROUSEL.length); }
+
+        function resetTimer() {
+          if (autoTimer) clearInterval(autoTimer);
+          autoTimer = setInterval(next, INTERVAL);
+        }
+
+        // Seed to start at a different position each session
+        var seed = Math.floor(Date.now() / (INTERVAL * 3));
+        currentSlide = seed % CAROUSEL.length;
+
+        renderSlide(currentSlide);
+        updateDots(currentSlide);
+
+        document.getElementById('carouselNext').addEventListener('click', next);
+        document.getElementById('carouselPrev').addEventListener('click', prev);
+
+        resetTimer();
+      }
+
+      loadAll();
     })();
   </script>
 </body>

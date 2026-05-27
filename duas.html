@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Duas & Supplications – Syed Saleem Raza Kazmi</title>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600&family=Noto+Nastaliq+Urdu:wght@400;600;700&family=Amiri:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <nav id="navbar">
+    <div class="nav-inner">
+      <a href="index.html" class="nav-logo">Syed Saleem Raza Kazmi<span class="sub">پیر گورے شاہ</span></a>
+      <button class="nav-toggle" id="navToggle" aria-label="Menu"><i class="fas fa-bars"></i></button>
+      <ul class="nav-links" id="navLinks">
+        <li class="dropdown"><a href="index.html">Home <i class="fas fa-chevron-down"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="index.html#carousel"><i class="fas fa-sliders-h"></i> Daily Carousel</a></li>
+            <li><a href="index.html#explore"><i class="fas fa-compass"></i> Explore</a></li>
+          </ul>
+        </li>
+        <li class="dropdown"><a href="wisdom.html">Wisdom <i class="fas fa-chevron-down"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="wisdom.html"><i class="fas fa-quote-left"></i> Sayings</a></li>
+            <li><a href="wisdom.html?tab=poetry"><i class="fas fa-feather"></i> Poetry</a></li>
+            <li><a href="wisdom.html?tab=fun"><i class="fas fa-smile"></i> Fun Facts</a></li>
+          </ul>
+        </li>
+        <li class="dropdown"><a href="discover.html">Discover <i class="fas fa-chevron-down"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="discover.html"><i class="fas fa-atom"></i> Facts</a></li>
+            <li><a href="discover.html?tab=wit"><i class="fas fa-theater-masks"></i> Wit</a></li>
+            <li><a href="discover.html?tab=poetry"><i class="fas fa-feather-alt"></i> Poetry</a></li>
+          </ul>
+        </li>
+        <li class="dropdown"><a href="amal.html">A'mal <i class="fas fa-chevron-down"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="amal.html"><i class="fas fa-hands-praying"></i> Daily A'mal</a></li>
+            <li><a href="amal.html?cat=Worship"><i class="fas fa-mosque"></i> Worship</a></li>
+            <li><a href="amal.html?cat=Protection"><i class="fas fa-shield-halved"></i> Protection</a></li>
+          </ul>
+        </li>
+        <li class="dropdown"><a href="duas.html">Duas <i class="fas fa-chevron-down"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="duas.html"><i class="fas fa-book"></i> All Duas</a></li>
+            <li><a href="duas.html?cat=Supplication"><i class="fas fa-hand-sparkles"></i> Supplications</a></li>
+            <li><a href="duas.html?cat=Worship"><i class="fas fa-mosque"></i> Worship</a></li>
+            <li><a href="duas.html?cat=Sahifa"><i class="fas fa-book"></i> Sahifas</a></li>
+            <li><a href="duas.html?cat=Monthly"><i class="fas fa-calendar"></i> Monthly</a></li>
+            <li><a href="ziyarat.html"><i class="fas fa-kaaba"></i> Ziyarat</a></li>
+          </ul>
+        </li>
+        <li class="dropdown"><a href="ziyarat.html">Ziyarat <i class="fas fa-chevron-down"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="ziyarat.html"><i class="fas fa-list"></i> All Ziyarat</a></li>
+            <li><a href="ziyarat.html?cat=Ziyarat&sub=General"><i class="fas fa-building"></i> General</a></li>
+            <li><a href="duas.html?cat=Sahifa"><i class="fas fa-book"></i> Sahifas</a></li>
+          </ul>
+        </li>
+        <li><a href="contact.html">Connect</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <div class="page-header">
+    <h1>ادعیہ · Duas & Supplications</h1>
+    <div class="divider"></div>
+    <p>Duas, Ziyarat, Sahifas, Monthly A'mal — curated from Duas.org</p>
+  </div>
+
+  <section class="section" style="background: var(--card-bg);">
+    <div class="section-inner">
+
+      <div class="filters" id="duaCatFilters"></div>
+      <div id="duaSubFilters" class="filters" style="margin-top:0.5rem;"></div>
+      <div class="count-badge" id="duaCount"></div>
+      <div id="duaList"></div>
+      <div class="empty-state" id="duaEmpty" style="display:none;">
+        <i class="fas fa-filter"></i>
+        <p>No entries match this category.</p>
+      </div>
+
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; <span id="year"></span> Syed Saleem Raza Kazmi · Pir Goray Shah &mdash; <a href="https://www.duas.org" target="_blank" style="color:var(--gold-light);">Source: Duas.org</a></p>
+  </footer>
+
+  <div class="floating">
+    <a href="https://www.facebook.com/syed.saleem.raza.kazmi.2025" target="_blank" rel="noopener" class="f-fb"><i class="fab fa-facebook-f"></i></a>
+    <a href="https://www.instagram.com/ishq_e_ali_as" target="_blank" rel="noopener" class="f-ig"><i class="fab fa-instagram"></i></a>
+    <a href="https://wa.me/923244787885" target="_blank" rel="noopener" class="f-wa"><i class="fab fa-whatsapp"></i></a>
+  </div>
+
+  <script src="app.js"></script>
+  <script>
+    (function() {
+      var CAT_ICONS = {
+        'Worship': 'fa-mosque', 'Supplication': 'fa-hand-sparkles', 'Ziyarat': 'fa-kaaba',
+        'Sahifa': 'fa-book', 'Monthly': 'fa-calendar'
+      };
+      var ALL = [];
+
+      function getParam(name) {
+        name = name.replace(/[\[\]]/g, '\\$&');
+        var r = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)');
+        var m = r.exec(window.location.href);
+        return m && m[2] ? decodeURIComponent(m[2]) : null;
+      }
+
+      function loadData() {
+        var xhr = new XMLHttpRequest();
+        xhr.open('GET', 'data_v2/duas_pool.json?_=' + Date.now(), true);
+        xhr.onload = function() {
+          try {
+            var pool = JSON.parse(xhr.responseText);
+            if (pool && pool.all && pool.all.length) { ALL = pool.all; init(); return; }
+          } catch(e) {}
+          document.getElementById('duaCount').textContent = 'Could not load duas data.';
+        };
+        xhr.onerror = function() { document.getElementById('duaCount').textContent = 'Network error.'; };
+        xhr.send();
+      }
+
+      function init() {
+        var cats = [];
+        ALL.forEach(function(d) { if (cats.indexOf(d.category) === -1) cats.push(d.category); });
+        cats.sort();
+
+        var catContainer = document.getElementById('duaCatFilters');
+        catContainer.innerHTML = '<button class="filter-btn active" data-cat="">All</button>' +
+          cats.map(function(c) {
+            var icon = CAT_ICONS[c] || 'fa-star';
+            return '<button class="filter-btn" data-cat="' + c + '"><i class="fas ' + icon + '"></i> ' + c + '</button>';
+          }).join('');
+
+        var activeCat = getParam('cat') || '';
+        var activeSub = getParam('sub') || '';
+
+        // Auto-activate from URL
+        if (activeCat) {
+          catContainer.querySelectorAll('.filter-btn').forEach(function(b) {
+            if (b.dataset.cat === activeCat) { b.classList.add('active'); }
+            else { b.classList.remove('active'); }
+          });
+        }
+
+        catContainer.addEventListener('click', function(e) {
+          var btn = e.target.closest('.filter-btn');
+          if (!btn) return;
+          activeSub = '';
+          catContainer.querySelectorAll('.filter-btn').forEach(function(b) { b.classList.remove('active'); });
+          btn.classList.add('active');
+          activeCat = btn.dataset.cat || '';
+          renderSubFilters();
+          render();
+        });
+
+        function renderSubFilters() {
+          var subContainer = document.getElementById('duaSubFilters');
+          if (!activeCat) { subContainer.innerHTML = ''; return; }
+
+          var subs = [];
+          ALL.forEach(function(d) {
+            if (d.category === activeCat && subs.indexOf(d.subcategory) === -1) subs.push(d.subcategory);
+          });
+          subs.sort();
+
+          if (subs.length <= 1) { subContainer.innerHTML = ''; return; }
+
+          subContainer.innerHTML = '<button class="filter-btn sm active" data-sub="">All</button>' +
+            subs.map(function(s) {
+              return '<button class="filter-btn sm" data-sub="' + s + '">' + s + '</button>';
+            }).join('');
+
+          if (activeSub) {
+            subContainer.querySelectorAll('.filter-btn').forEach(function(b) {
+              if (b.dataset.sub === activeSub) { b.classList.add('active'); }
+              else { b.classList.remove('active'); }
+            });
+          }
+
+          subContainer.addEventListener('click', function(e) {
+            var btn = e.target.closest('.filter-btn');
+            if (!btn) return;
+            subContainer.querySelectorAll('.filter-btn').forEach(function(b) { b.classList.remove('active'); });
+            btn.classList.add('active');
+            activeSub = btn.dataset.sub || '';
+            render();
+          });
+        }
+
+        function render() {
+          var filtered = ALL.filter(function(d) {
+            if (activeCat && d.category !== activeCat) return false;
+            if (activeSub && d.subcategory !== activeSub) return false;
+            return true;
+          });
+
+          document.getElementById('duaCount').textContent = filtered.length + ' of ' + ALL.length + ' entries';
+          var list = document.getElementById('duaList');
+          var empty = document.getElementById('duaEmpty');
+
+          if (!filtered.length) { list.innerHTML = ''; empty.style.display = 'block'; return; }
+          empty.style.display = 'none';
+
+          list.innerHTML = filtered.map(function(d) {
+            var icon = CAT_ICONS[d.category] || 'fa-star';
+            var hasArabic = d.arabic && d.arabic.length > 0 && d.arabic[0].length > 2;
+            return '<div class="card" style="margin-bottom:1rem;">' +
+              '<div class="card-header">' +
+                '<span class="cat"><i class="fas ' + icon + '"></i> ' + d.category + (d.subcategory !== 'General' ? ' / ' + d.subcategory : '') + '</span>' +
+              '</div>' +
+              '<h3 style="font-family:\'Playfair Display\',serif;font-size:0.95rem;color:var(--gold);margin-bottom:0.5rem;">' + d.title + '</h3>' +
+              (hasArabic ? '<div class="original" style="font-family:\'Amiri\',serif;font-size:1.1rem;color:var(--gold);line-height:2;text-align:center;margin-bottom:0.5rem;">' + d.arabic.slice(0,3).join(' · ') + '</div>' : '') +
+              '<div class="" style="font-size:0.85rem;color:var(--text-light);line-height:1.6;margin-bottom:0.5rem;">' + d.text.slice(0,600) + (d.text.length > 600 ? '...' : '') + '</div>' +
+              '<div class="meta" style="margin-top:0.5rem;"><span><i class="fas fa-link"></i> <a href="' + d.url + '" target="_blank" style="color:var(--gold-light);">View on Duas.org</a></span></div>' +
+            '</div>';
+          }).join('');
+        }
+
+        renderSubFilters();
+        render();
+      }
+
+      loadData();
+    })();
+  </script>
+</body>
+</html>
