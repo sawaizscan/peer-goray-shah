@@ -18,6 +18,19 @@ os.makedirs(DATA_DIR, exist_ok=True)
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; PirGorayShahBot/1.0; +https://pirgorayshah.live)"}
 
+def fix_arabic_encoding(text):
+    """Fix mojibake: UTF-8 bytes misinterpreted as Latin-1."""
+    if not text:
+        return text
+    try:
+        has_arabic = any(ord(c) > 0x0600 and ord(c) < 0x06FF for c in text)
+        if not has_arabic:
+            fixed = text.encode('latin-1').decode('utf-8')
+            return fixed
+    except:
+        pass
+    return text
+
 def extract_segments_old(html):
     """Extract Arabic/transliteration/translation triplets from old-format HTML."""
     segments = []
@@ -48,8 +61,8 @@ def extract_segments_old(html):
 
         if i < len(ara_matches):
             arabic = html_mod.unescape(ara_matches[i].strip())
-            # Clean up residual tags
             arabic = re.sub(r'<[^>]+>', '', arabic)
+            arabic = fix_arabic_encoding(arabic)
 
         if i < len(trl_matches):
             translit = re.sub(r'<[^>]+>', '', trl_matches[i].strip())
@@ -126,6 +139,8 @@ def deep_scrape_entry(entry):
         print(f"  Error: {e}")
         return None
 
+    # Fix encoding: server claims ISO-8859-1 but content is UTF-8
+    resp.encoding = 'utf-8'
     html = resp.text
     segments = []
     audio = None
