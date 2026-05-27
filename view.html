@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Reader – Syed Saleem Raza Kazmi</title>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600&family=Noto+Nastaliq+Urdu:wght@400;600;700&family=Amiri:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <link rel="stylesheet" href="style.css">
+  <style>
+    .reader-container { max-width: 800px; margin: 0 auto; padding: 2rem 1.5rem 6rem; }
+    .reader-header { text-align:center; margin-bottom:2rem; }
+    .reader-header h1 { font-family:'Playfair Display',serif; font-size:1.6rem; color:var(--gold); margin-bottom:0.25rem; }
+    .reader-header .cat { font-size:0.8rem; color:var(--text-light); }
+    .reader-segment { padding:1rem 0; border-bottom:1px solid var(--border); }
+    .reader-segment:last-child { border-bottom:0; }
+    .reader-arabic { font-family:'Amiri',serif; font-size:1.8rem; line-height:2.2; text-align:center; color:var(--gold); direction:rtl; margin-bottom:0.5rem; }
+    .reader-translit { font-size:0.9rem; font-style:italic; color:var(--text-light); text-align:center; margin-bottom:0.5rem; }
+    .reader-translation { font-size:0.9rem; color:var(--text); line-height:1.7; text-align:center; }
+    .reader-ref { text-align:center; margin-top:2rem; font-size:0.8rem; color:var(--text-light); border-top:1px solid var(--border); padding-top:1rem; }
+    .reader-loading { text-align:center; padding:4rem 0; color:var(--text-light); }
+    .reader-loading i { font-size:2rem; margin-bottom:1rem; }
+    .reader-error { text-align:center; padding:4rem 0; color:var(--text-light); }
+    .reader-back { display:inline-block; margin-bottom:1.5rem; font-size:0.85rem; color:var(--gold-light); }
+    .reader-back i { margin-right:0.4rem; }
+    .reader-stats { font-size:0.75rem; color:var(--text-light); text-align:center; margin-top:1.5rem; }
+    .reader-audio { text-align:center; margin:1.5rem 0; }
+    .reader-audio audio { width:100%; max-width:400px; }
+  </style>
+</head>
+<body>
+  <nav id="navbar">
+    <div class="nav-inner">
+      <a href="index.html" class="nav-logo">Syed Saleem Raza Kazmi<span class="sub">پیر گورے شاہ</span></a>
+      <button class="nav-toggle" id="navToggle" aria-label="Menu"><i class="fas fa-bars"></i></button>
+      <ul class="nav-links" id="navLinks">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="wisdom.html">Wisdom</a></li>
+        <li><a href="discover.html">Discover</a></li>
+        <li><a href="amal.html">A'mal</a></li>
+        <li><a href="duas.html">Duas</a></li>
+        <li><a href="ziyarat.html">Ziyarat</a></li>
+        <li><a href="contact.html">Connect</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <div class="reader-container" id="readerContainer">
+    <div class="reader-loading" id="readerLoading">
+      <i class="fas fa-spinner fa-pulse"></i>
+      <p>Loading content...</p>
+    </div>
+  </div>
+
+  <footer>
+    <p>&copy; <span id="year"></span> Syed Saleem Raza Kazmi · Pir Goray Shah &mdash; Source: Duas.org</p>
+  </footer>
+
+  <div class="floating">
+    <a href="https://www.facebook.com/syed.saleem.raza.kazmi.2025" target="_blank" rel="noopener" class="f-fb"><i class="fab fa-facebook-f"></i></a>
+    <a href="https://www.instagram.com/ishq_e_ali_as" target="_blank" rel="noopener" class="f-ig"><i class="fab fa-instagram"></i></a>
+    <a href="https://wa.me/923244787885" target="_blank" rel="noopener" class="f-wa"><i class="fab fa-whatsapp"></i></a>
+  </div>
+
+  <script src="app.js"></script>
+  <script>
+    (function() {
+      var DEEP = {};
+      var AMAL = {};
+
+      function getParam(name) {
+        name = name.replace(/[\[\]]/g, '\\$&');
+        var r = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)');
+        var m = r.exec(window.location.href);
+        return m && m[2] ? decodeURIComponent(m[2]) : null;
+      }
+
+      function loadData() {
+        var url = getParam('url');
+        if (!url) { showError('No content URL specified.'); return; }
+
+        var loaded = 0, total = 2;
+        function done() { loaded++; if (loaded >= total) renderContent(url); }
+
+        var xhr1 = new XMLHttpRequest();
+        xhr1.open('GET', 'data_v2/duas_deep.json?_=' + Date.now(), true);
+        xhr1.onload = function() {
+          try {
+            var d = JSON.parse(xhr1.responseText);
+            d.forEach(function(e) { DEEP[e.url] = e; });
+          } catch(e) {}
+          done();
+        };
+        xhr1.onerror = done;
+        xhr1.send();
+
+        var xhr2 = new XMLHttpRequest();
+        xhr2.open('GET', 'amal.json?_=' + Date.now(), true);
+        xhr2.onload = function() {
+          try {
+            var a = JSON.parse(xhr2.responseText);
+            a.forEach(function(e) { AMAL[e.id] = e; });
+          } catch(e) {}
+          done();
+        };
+        xhr2.onerror = done;
+        xhr2.send();
+      }
+
+      function renderContent(url) {
+        var container = document.getElementById('readerContainer');
+        var loading = document.getElementById('readerLoading');
+        if (loading) loading.style.display = 'none';
+
+        var entry = DEEP[url];
+
+        if (!entry || !entry.segments || !entry.segments.length) {
+          showError('Full content not available for this entry.');
+          return;
+        }
+
+        var segs = entry.segments;
+        var catHtml = entry.category + (entry.subcategory ? ' / ' + entry.subcategory : '');
+        if (entry.audio) {
+          catHtml += ' &middot; <i class="fas fa-headphones"></i> Audio available';
+        }
+
+        var html = '';
+        html += '<a href="javascript:history.back()" class="reader-back"><i class="fas fa-arrow-left"></i> Back</a>';
+        html += '<div class="reader-header">';
+        html += '<h1>' + entry.title + '</h1>';
+        html += '<div class="cat">' + catHtml + '</div>';
+        html += '</div>';
+
+        if (entry.audio) {
+          html += '<div class="reader-audio"><audio controls><source src="' + entry.audio + '" type="audio/mpeg"></audio></div>';
+        }
+
+        for (var i = 0; i < segs.length; i++) {
+          var s = segs[i];
+          html += '<div class="reader-segment">';
+          if (s.arabic) html += '<div class="reader-arabic">' + s.arabic + '</div>';
+          if (s.transliteration) html += '<div class="reader-translit">' + s.transliteration + '</div>';
+          if (s.translation) html += '<div class="reader-translation">' + s.translation + '</div>';
+          html += '</div>';
+        }
+
+        html += '<div class="reader-stats">' + segs.length + ' verses';
+
+        if (entry.reference) {
+          html += ' &middot; Reference: ' + entry.reference;
+        }
+
+        html += ' &middot; <a href="' + url + '" target="_blank" style="color:var(--gold-light);">Source: Duas.org <i class="fas fa-external-link-alt"></i></a>';
+        html += '</div>';
+
+        container.innerHTML = html;
+        document.title = entry.title + ' – Syed Saleem Raza Kazmi';
+      }
+
+      function showError(msg) {
+        var container = document.getElementById('readerContainer');
+        var loading = document.getElementById('readerLoading');
+        if (loading) loading.style.display = 'none';
+        container.innerHTML = '<div class="reader-error"><i class="fas fa-exclamation-triangle" style="font-size:2rem;margin-bottom:1rem;color:var(--gold);"></i><p>' + msg + '</p><a href="duas.html" style="color:var(--gold-light);margin-top:1rem;display:inline-block;">Browse Duas</a></div>';
+      }
+
+      loadData();
+    })();
+  </script>
+</body>
+</html>

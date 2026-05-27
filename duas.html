@@ -158,7 +158,7 @@
 
       function getDeep(url) { return DEEP[url]; }
 
-      function renderSegments(segments, maxPreview) {
+      function renderSegments(segments, url, maxPreview) {
         maxPreview = maxPreview || 5;
         var html = '<div class="dua-card">';
         html += '<div class="dua-preview" id="seg-preview">';
@@ -177,19 +177,11 @@
         }
         html += '</div>';
         if (showMore) {
-          html += '<div class="dua-toggle" onclick="toggleSegments(this)">Show all ' + segments.length + ' verses <i class="fas fa-chevron-down"></i></div>';
+          html += '<a href="view.html?url=' + encodeURIComponent(url) + '" class="dua-toggle">Read full page <i class="fas fa-external-link-alt"></i></a>';
         }
         html += '</div>';
         return html;
       }
-
-      window.toggleSegments = function(el) {
-        var card = el.previousElementSibling;
-        var expanded = card.classList.toggle('expanded');
-        el.innerHTML = expanded
-          ? 'Show less <i class="fas fa-chevron-up"></i>'
-          : 'Show all ' + (card.querySelectorAll('.dua-segment').length > 5 ? '' : '') + ' verses <i class="fas fa-chevron-down"></i>';
-      };
 
       function init() {
         var cats = [];
@@ -279,7 +271,7 @@
 
             var contentHtml = '';
             if (hasSegments) {
-              contentHtml = renderSegments(deep.segments);
+              contentHtml = renderSegments(deep.segments, d.url);
             } else {
               var text = d.text ? d.text.slice(0, 400) : '';
               contentHtml = '<div style="font-size:0.85rem;color:var(--text-light);line-height:1.6;padding:1rem;">' +
@@ -290,7 +282,9 @@
               '<div class="card-header">' +
                 '<span class="cat"><i class="fas ' + icon + '"></i> ' + d.category + (d.subcategory && d.subcategory !== 'General' ? ' / ' + d.subcategory : '') + '</span>' +
               '</div>' +
-              '<h3 style="font-family:\'Playfair Display\',serif;font-size:0.95rem;padding:0.5rem 1rem 0;color:var(--gold);margin-bottom:0;">' + d.title + '</h3>' +
+              (hasSegments
+                ? '<h3 style="font-family:\'Playfair Display\',serif;font-size:0.95rem;padding:0.5rem 1rem 0;margin-bottom:0;"><a href="view.html?url=' + encodeURIComponent(d.url) + '" style="color:var(--gold);text-decoration:none;">' + d.title + ' <i class="fas fa-external-link-alt" style="font-size:0.6rem;opacity:0.5;"></i></a></h3>'
+                : '<h3 style="font-family:\'Playfair Display\',serif;font-size:0.95rem;padding:0.5rem 1rem 0;color:var(--gold);margin-bottom:0;">' + d.title + '</h3>') +
               contentHtml +
               '<div class="meta" style="padding:0.5rem 1rem;border-top:1px solid var(--border);"><span style="font-size:0.75rem;color:var(--text-light);"><i class="fas fa-link"></i> ' + d.url.replace('https://www.duas.org', '') + '</span></div>' +
             '</div>';

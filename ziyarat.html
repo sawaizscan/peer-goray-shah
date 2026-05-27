@@ -172,7 +172,7 @@
             if (showMore) { contentHtml += '<div class="fade-bottom"></div>'; }
             contentHtml += '</div>';
             if (showMore) {
-              contentHtml += '<div class="dua-toggle" onclick="toggleZSeg(this,\'' + d.id + '\')">Show all ' + segments.length + ' verses <i class="fas fa-chevron-down"></i></div>';
+              contentHtml += '<a href="view.html?url=' + encodeURIComponent(d.url) + '" class="dua-toggle">Read full page <i class="fas fa-external-link-alt"></i></a>';
             }
             contentHtml += '</div>';
           } else {
@@ -182,20 +182,14 @@
           }
 
           return '<div class="card" style="margin-bottom:1rem;border-left:3px solid var(--tanaquz);">' +
-            '<h3 style="font-family:\'Playfair Display\',serif;font-size:1rem;color:var(--tanaquz);padding:0.75rem 1rem 0;margin-bottom:0;">' + d.title + '</h3>' +
+            (hasSegments
+              ? '<h3 style="font-family:\'Playfair Display\',serif;font-size:1rem;padding:0.75rem 1rem 0;margin-bottom:0;"><a href="view.html?url=' + encodeURIComponent(d.url) + '" style="color:var(--tanaquz);text-decoration:none;">' + d.title + ' <i class="fas fa-external-link-alt" style="font-size:0.6rem;opacity:0.5;"></i></a></h3>'
+              : '<h3 style="font-family:\'Playfair Display\',serif;font-size:1rem;color:var(--tanaquz);padding:0.75rem 1rem 0;margin-bottom:0;">' + d.title + '</h3>') +
             contentHtml +
             '<div class="meta" style="padding:0.5rem 1rem;border-top:1px solid var(--border);"><span style="font-size:0.75rem;color:var(--text-light);"><i class="fas fa-link"></i> ' + d.url.replace('https://www.duas.org', '') + '</span></div>' +
           '</div>';
         }).join('');
       }
-
-      window.toggleZSeg = function(el, id) {
-        var card = el.previousElementSibling;
-        var expanded = card.classList.toggle('expanded');
-        el.innerHTML = expanded
-          ? 'Show less <i class="fas fa-chevron-up"></i>'
-          : 'Show all verses <i class="fas fa-chevron-down"></i>';
-      };
 
       loadData();
     })();
