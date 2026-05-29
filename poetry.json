@@ -1,50 +1,18 @@
 {
   "meta": {
-    "generated": "2026-05-28T23:01:36.700564Z",
+    "generated": "2026-05-29T12:27:55.778475Z",
     "version": 3,
     "count": 30,
     "source": "15 specified Urdu collections"
   },
   "poems": [
     {
-      "category": "Ishq",
-      "misra1": "تجھ سے پہلے بھی محبتیں کیں",
-      "misra2": "یہ نہیں کہ تجھی سے پیار کیا",
-      "poet": "Yagana Changezi",
-      "source": "Kulliyat-e-Yagana Changezi",
-      "id": 1
-    },
-    {
-      "category": "Judai",
-      "misra1": "تم سے بچھڑ کر یوں لگتا ہے جیسے",
-      "misra2": "کوئی مجھ سے بچھڑ گیا ہے",
-      "poet": "Majeed Amjad",
-      "source": "Kulliyat-e-Majeed Amjad",
-      "id": 2
-    },
-    {
-      "category": "Ishq",
-      "misra1": "مجھ سے پہلی سی محبت مری محبوب نہ مانگ",
-      "misra2": "میں نے سمجھا تھا کہ تو ہے تو درخشاں ہے حیات",
-      "poet": "Faiz Ahmad Faiz",
-      "source": "Nuskha-e-Wafa",
-      "id": 3
-    },
-    {
-      "category": "Sher",
-      "misra1": "یوں تو ہر شخص بہت بات کرتا ہے",
-      "misra2": "دل کی بات کرتا ہے کوئی کم ہی",
-      "poet": "Muhammad Asif Bhalli",
-      "source": "Sher Ke Sau Rang",
-      "id": 4
-    },
-    {
-      "category": "Wafa",
-      "misra1": "تم نے وعدہ تو کیا تھا مگر",
-      "misra2": "تم نے سوچا تو نہیں تھا شاید",
+      "category": "Dard",
+      "misra1": "درد اتنا تھا کہ رونے کی سزا ملتی",
+      "misra2": "ہم نے آنکھیں تو کھولیں تھیں، ہوا ملتی",
       "poet": "Ahmad Faraz",
       "source": "Kulliyat-e-Ahmad Faraz",
-      "id": 5
+      "id": 1
     },
     {
       "category": "Ishq",
@@ -52,71 +20,55 @@
       "misra2": "روئیں گے ہم ہزار بار، کوئی ہمیں ستائے کیوں",
       "poet": "Mirza Ghalib",
       "source": "Diwan-e-Ghalib",
-      "id": 6
+      "id": 2
     },
     {
-      "category": "Falsafa",
-      "misra1": "زندگی کا فلسفہ سمجھ نہیں آیا",
-      "misra2": "کیوں کچھ لوگ ملتے ہیں اور چھوٹ جاتے ہیں",
-      "poet": "Faiz Ahmad Faiz",
-      "source": "Nuskha-e-Wafa",
-      "id": 7
+      "category": "Umeed",
+      "misra1": "یہ پھول بکھرے ہیں تو کیا، یہ رات ڈھلی ہے تو کیا",
+      "misra2": "ابھی تو محفل میں کچھ اور باقی ہے",
+      "poet": "Parveen Shakir",
+      "source": "Kulliyat-e-Parveen Shakir",
+      "id": 3
     },
     {
-      "category": "Tawhid",
-      "misra1": "ہر اک ذرہ تجھے پکار رہا ہے",
-      "misra2": "مگر تُو اپنے شور میں گم ہے",
-      "poet": "Allama Iqbal",
-      "source": "Bal-e-Jibril",
-      "id": 8
+      "category": "Wujood",
+      "misra1": "میں نے اپنا وجود ڈھونڈا تو",
+      "misra2": "ایک آوارہ سا ملا مجھ کو",
+      "poet": "Yagana Changezi",
+      "source": "Kulliyat-e-Yagana Changezi",
+      "id": 4
+    },
+    {
+      "category": "Wujood",
+      "misra1": "اپنی آنکھوں میں کچھ اور بھی ہے",
+      "misra2": "جو اداسی سے پرے ہے",
+      "poet": "Munir Niazi",
+      "source": "Kulliyat-e-Munir Niazi",
+      "id": 5
     },
     {
       "category": "Ishq",
-      "misra1": "عشق پر زور نہیں ہے یہ وہ آتش جو لگائے نہ لگے",
-      "misra2": "اور بجھائے نہ بنے",
-      "poet": "Mirza Ghalib",
-      "source": "Diwan-e-Ghalib",
-      "id": 9
-    },
-    {
-      "category": "Azadari",
-      "misra1": "کیا کہوں تم سے میں کیا ہے مرا",
-      "misra2": "درد کا سمندر ہے سینے میں",
-      "poet": "Mir Anis",
-      "source": "Rubaiyat-e-Mir Anis",
-      "id": 10
-    },
-    {
-      "category": "Mazi",
-      "misra1": "ماضی کے دنوں کی خوشبو",
-      "misra2": "آتی ہے تو روکے نہیں رکتی",
-      "poet": "Majeed Amjad",
-      "source": "Kulliyat-e-Majeed Amjad",
-      "id": 11
-    },
-    {
-      "category": "Mazi",
-      "misra1": "پرانی باتیں یاد آتی ہیں تو لگتا ہے",
-      "misra2": "کچھ اور ہی زمانہ تھا وہ بھی",
+      "misra1": "محبت میں یہ کوئی نیا نہیں",
+      "misra2": "اکثر ایسا ہوتا ہے",
       "poet": "Nasir Kazmi",
       "source": "Kulliyat-e-Nasir Kazmi",
-      "id": 12
+      "id": 6
+    },
+    {
+      "category": "Sher",
+      "misra1": "اپنے سائے سے بھی ڈرنے لگے ہیں",
+      "misra2": "کیا قصور اس شہر کی فضا کا ہے",
+      "poet": "Muhammad Asif Bhalli",
+      "source": "Jab Mera Intikhab Niklega",
+      "id": 7
     },
     {
       "category": "Dard",
-      "misra1": "نقش فریادی ہے کس کی شوخیِ تحریر کا",
-      "misra2": "ہر گلی میں ہو رہے ہیں، ہر پناہ میں کوزہ گر",
-      "poet": "Mir Taqi Mir",
-      "source": "Sher Shor Angez",
-      "id": 13
-    },
-    {
-      "category": "Khudi",
-      "misra1": "خودی کو کر بلند اتنا کہ ہر تقدیر سے پہلے",
-      "misra2": "خدا بندے سے خود پوچھے، بتا تیری رضا کیا ہے",
-      "poet": "Allama Iqbal",
-      "source": "Bal-e-Jibril",
-      "id": 14
+      "misra1": "رنج سے خوگر ہوا انسان تو مٹ جاتا ہے رنج",
+      "misra2": "مشکلیں مجھ پر پڑیں اتنی کہ آساں ہو گئیں",
+      "poet": "Mirza Ghalib",
+      "source": "Diwan-e-Ghalib",
+      "id": 8
     },
     {
       "category": "Waqt",
@@ -124,87 +76,39 @@
       "misra2": "کچھ شکستہ دلوں کے ٹکڑے بھی",
       "poet": "Majeed Amjad",
       "source": "Kulliyat-e-Majeed Amjad",
-      "id": 15
+      "id": 9
     },
     {
-      "category": "Mulaqat",
-      "misra1": "میں نے کہا تجھے دیکھا تو مِلا ہوں جیسے",
-      "misra2": "اس نے کہا کہ یہ احساں ہے جدا ہونے کا",
-      "poet": "Parveen Shakir",
-      "source": "Kulliyat-e-Parveen Shakir",
-      "id": 16
-    },
-    {
-      "category": "Firaq",
-      "misra1": "اب کے بچھڑے ہیں تو عمریں لگیں گی ملنے میں",
-      "misra2": "ہم بھی اک دوسرے سے ملتے ہیں کہاں",
-      "poet": "Mustafa Zaidi",
-      "source": "Kulliyat-e-Mustafa Zaidi",
-      "id": 17
-    },
-    {
-      "category": "Ishq",
-      "misra1": "وہ میرے دل میں ہے مگر",
-      "misra2": "اسے پتہ نہیں کہ وہ کہاں ہے",
-      "poet": "Ahmad Faraz",
-      "source": "Kulliyat-e-Ahmad Faraz",
-      "id": 18
-    },
-    {
-      "category": "Ishq",
-      "misra1": "شاید کبھی تم نے بھی محبت کی ہو",
-      "misra2": "لیکن تم تو کسی اور سے کرتے رہے",
-      "poet": "Jaun Elia",
-      "source": "Kulliyat-e-Jaun Elia",
-      "id": 19
-    },
-    {
-      "category": "Tanhai",
-      "misra1": "تم میرے پاس ہوتے ہو گویا",
-      "misra2": "جب کوئی دوسرا نہیں ہوتا",
-      "poet": "Mir Taqi Mir",
-      "source": "Sher Shor Angez",
-      "id": 20
-    },
-    {
-      "category": "Makan",
-      "misra1": "گھر تو بہت ہیں مگر",
-      "misra2": "اپنا نہیں کوئی",
-      "poet": "Majeed Amjad",
-      "source": "Kulliyat-e-Majeed Amjad",
-      "id": 21
-    },
-    {
-      "category": "Amal",
-      "misra1": "محبت سے نہیں ملتا خدا کا راز",
-      "misra2": "عمل سے ملتا ہے یہ راز، عمل سے",
-      "poet": "Allama Iqbal",
-      "source": "Bal-e-Jibril",
-      "id": 22
-    },
-    {
-      "category": "Shikwa",
-      "misra1": "ہم اہلِ نظر اپنی نگاہوں کے سبب سے",
-      "misra2": "یاد آتے ہیں بھی اور بھلا دیے جاتے ہیں",
-      "poet": "Mirza Ghalib",
-      "source": "Diwan-e-Ghalib",
-      "id": 23
+      "category": "Shab",
+      "misra1": "رات بہت تھی مگر نیند کم تھی",
+      "misra2": "خواب بہت تھے مگر تم نہ تھے",
+      "poet": "Munir Niazi",
+      "source": "Kulliyat-e-Munir Niazi",
+      "id": 10
     },
     {
       "category": "Judai",
-      "misra1": "اب کے ہم بچھڑے تو شاید کبھی خوابوں میں ملیں",
-      "misra2": "جس طرح سوکھے ہوئے پھول کتابوں میں ملیں",
-      "poet": "Ahmad Faraz",
-      "source": "Kulliyat-e-Ahmad Faraz",
-      "id": 24
+      "misra1": "تم سے بچھڑ کر یوں لگتا ہے جیسے",
+      "misra2": "کوئی مجھ سے بچھڑ گیا ہے",
+      "poet": "Majeed Amjad",
+      "source": "Kulliyat-e-Majeed Amjad",
+      "id": 11
     },
     {
-      "category": "Ishq",
-      "misra1": "عشق میں کافر و مومن کا کوئی فرق نہیں",
-      "misra2": "وہ تو اس کو بھی جلاتا ہے جس نے آگ کو بجھایا تھا",
-      "poet": "Mir Taqi Mir",
-      "source": "Sher Shor Angez",
-      "id": 25
+      "category": "Inqilab",
+      "misra1": "ظلمت سے نہ گھبرا، اے طالبِ حق",
+      "misra2": "یہ رات بھی گزر جائے گی، صبح ہو کر",
+      "poet": "Faiz Ahmad Faiz",
+      "source": "Nuskha-e-Wafa",
+      "id": 12
+    },
+    {
+      "category": "Falsafa",
+      "misra1": "زندگی کا فلسفہ سمجھ نہیں آیا",
+      "misra2": "کیوں کچھ لوگ ملتے ہیں اور چھوٹ جاتے ہیں",
+      "poet": "Faiz Ahmad Faiz",
+      "source": "Nuskha-e-Wafa",
+      "id": 13
     },
     {
       "category": "Sher",
@@ -212,38 +116,134 @@
       "misra2": "تم تو دیکھو کہ ہم کتنے مسکرا سکتے ہیں",
       "poet": "Muhammad Asif Bhalli",
       "source": "Sher Jo Pehchan Banay",
-      "id": 26
-    },
-    {
-      "category": "Azadari",
-      "misra1": "کربلا کے بعد کوئی کربلا جیسا نہیں",
-      "misra2": "جیسے کوئی غم نہیں حسین جیسا",
-      "poet": "Mirza Dabir",
-      "source": "Qita'at-e-Mirza Dabir",
-      "id": 27
-    },
-    {
-      "category": "Zindagi",
-      "misra1": "ابھی تو سب کچھ ہے ابھی کچھ نہیں",
-      "misra2": "یہ زندگی کا کھیل ہے رُکنا نہیں",
-      "poet": "Munir Niazi",
-      "source": "Kulliyat-e-Munir Niazi",
-      "id": 28
+      "id": 14
     },
     {
       "category": "Dard",
-      "misra1": "چھوٹے چھوٹے غموں سے گھبرا کر",
-      "misra2": "بڑے بڑے سوال سوچنے لگے",
+      "misra1": "وہ مرے درد کا کچھ بھی نہ سمجھے",
+      "misra2": "میں نے سوچا تھا کہ کہہ دوں گا نہیں",
+      "poet": "Yagana Changezi",
+      "source": "Kulliyat-e-Yagana Changezi",
+      "id": 15
+    },
+    {
+      "category": "Tanhai",
+      "misra1": "میں بھی کب کا اجڑ چکا تھا لیکن",
+      "misra2": "تیری یادوں کی بھیڑ تھی کہ بس گیا",
+      "poet": "Munir Niazi",
+      "source": "Kulliyat-e-Munir Niazi",
+      "id": 16
+    },
+    {
+      "category": "Dard",
+      "misra1": "درد کی شدت کو الفاظ نہیں دیتے",
+      "misra2": "بس اتنا کہتے ہیں کہ بہت کچھ ہے",
+      "poet": "Parveen Shakir",
+      "source": "Kulliyat-e-Parveen Shakir",
+      "id": 17
+    },
+    {
+      "category": "Zindagi",
+      "misra1": "زندگی ایسی ہے جیسے بے تحاشا بھیڑ میں",
+      "misra2": "لوگ ملتے ہیں مگر کچھ دیر کا ساتھ ہوتا ہے",
+      "poet": "Jaun Elia",
+      "source": "Kulliyat-e-Jaun Elia",
+      "id": 18
+    },
+    {
+      "category": "Falsafa",
+      "misra1": "ہم نے سوچا تھا کہ ہر اک بھید کھل جائے گا",
+      "misra2": "اور کھلا کچھ بھی نہیں، کچھ اور الجھن بڑھ گئی",
+      "poet": "Jaun Elia",
+      "source": "Kulliyat-e-Jaun Elia",
+      "id": 19
+    },
+    {
+      "category": "Amal",
+      "misra1": "محبت سے نہیں ملتا خدا کا راز",
+      "misra2": "عمل سے ملتا ہے یہ راز، عمل سے",
+      "poet": "Allama Iqbal",
+      "source": "Bal-e-Jibril",
+      "id": 20
+    },
+    {
+      "category": "Mohabbat",
+      "misra1": "تمہارے شہر میں ہم بھی اجنبی ہو کر رہے",
+      "misra2": "کوئی نہ ہم سا ہوا، کوئی ہمارا نہ ہوا",
       "poet": "Various",
       "source": "Sadi ki Muntakhib Ghazlein",
+      "id": 21
+    },
+    {
+      "category": "Mulaqat",
+      "misra1": "ملے ہو تم تو یوں لگتا ہے جیسے",
+      "misra2": "چراغوں سے اُجالا ہو گیا ہو",
+      "poet": "Mustafa Zaidi",
+      "source": "Kulliyat-e-Mustafa Zaidi",
+      "id": 22
+    },
+    {
+      "category": "Shikwa",
+      "misra1": "تم سے شکوہ بھی نہیں، تم سے گلا بھی نہیں",
+      "misra2": "بات صرف اتنی ہے تم وفا کرتے نہیں",
+      "poet": "Ahmad Faraz",
+      "source": "Kulliyat-e-Ahmad Faraz",
+      "id": 23
+    },
+    {
+      "category": "Subah",
+      "misra1": "صبح ہونے والی ہے لیکن",
+      "misra2": "آج پھر رات نہیں کٹتی",
+      "poet": "Nasir Kazmi",
+      "source": "Kulliyat-e-Nasir Kazmi",
+      "id": 24
+    },
+    {
+      "category": "Azadari",
+      "misra1": "نہ جانے کس لئے یہ دل دھڑکتا ہے",
+      "misra2": "حسینؑ کا غم ہر پل یاد آتا ہے",
+      "poet": "Mir Anis",
+      "source": "Rubaiyat-e-Mir Anis",
+      "id": 25
+    },
+    {
+      "category": "Firaq",
+      "misra1": "اب کے بچھڑے ہیں تو عمریں لگیں گی ملنے میں",
+      "misra2": "ہم بھی اک دوسرے سے ملتے ہیں کہاں",
+      "poet": "Mustafa Zaidi",
+      "source": "Kulliyat-e-Mustafa Zaidi",
+      "id": 26
+    },
+    {
+      "category": "Ishq",
+      "misra1": "ستاروں سے آگے جہاں اور بھی ہیں",
+      "misra2": "ابھی عشق کے امتحاں اور بھی ہیں",
+      "poet": "Allama Iqbal",
+      "source": "Bal-e-Jibril",
+      "id": 27
+    },
+    {
+      "category": "Ishq",
+      "misra1": "وہ میرے سامنے ہیں اور مجھ کو",
+      "misra2": "ان سے ملنے کی خواہش نہیں رہی",
+      "poet": "Mustafa Zaidi",
+      "source": "Kulliyat-e-Mustafa Zaidi",
+      "id": 28
+    },
+    {
+      "category": "Khudi",
+      "misra1": "خودی کو کر بلند اتنا کہ ہر تقدیر سے پہلے",
+      "misra2": "خدا بندے سے خود پوچھے، بتا تیری رضا کیا ہے",
+      "poet": "Allama Iqbal",
+      "source": "Bal-e-Jibril",
       "id": 29
     },
     {
-      "category": "Umeed",
-      "misra1": "ابھی تو سفر ہے بہت ابھی تو رات ہے",
-      "misra2": "صبح ہونے کو ہے تو کیا، سحر آئے گا",
-      "poet": "Various",
-      "source": "Sadi ki Muntakhib Ghazlein",
+      "category": "Dard",
+      "misra1": "نقش فریادی ہے کس کی شوخیِ تحریر کا",
+      "misra2": "ہر گلی میں ہو رہے ہیں، ہر پناہ میں کوزہ گر",
+      "poet": "Mir Taqi Mir",
+      "source": "Sher Shor Angez",
       "id": 30
     }
   ]
