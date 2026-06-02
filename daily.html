@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Daily Treasury — Peer Goray Shah</title>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600&family=Noto+Nastaliq+Urdu:wght@400;600;700&family=Amiri:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <link rel="stylesheet" href="style.css">
+  <style>
+    .daily-tabs { display:flex; gap:0; justify-content:center; margin: 30px 0 20px; border-bottom: 1px solid var(--border); flex-wrap:wrap; }
+    .daily-tab { background:transparent; border:none; color: var(--text-secondary); padding: 12px 24px; font-family: var(--font-body); font-size: 14px; font-weight: 500; cursor:pointer; border-bottom: 2px solid transparent; transition: all .2s; position:relative; }
+    .daily-tab.active { color: var(--gold); border-bottom-color: var(--gold); }
+    .daily-tab:hover { color: var(--text); }
+    .daily-tab .count { display:inline-block; background: var(--border); color: var(--text-secondary); font-size: 11px; padding: 2px 8px; border-radius: 10px; margin-left: 6px; }
+    .daily-tab.active .count { background: rgba(212,168,67,0.15); color: var(--gold); }
+
+    .daily-panel { display:none; }
+    .daily-panel.active { display:block; animation: fadeIn .4s ease; }
+
+    .couplet-card { background: var(--card-bg); border: 1px solid var(--border); border-radius: 12px; padding: 24px 28px; margin-bottom: 16px; transition: all .2s; position:relative; overflow:hidden; }
+    .couplet-card:hover { border-color: rgba(212,168,67,0.3); transform: translateY(-2px); }
+    .couplet-card::before { content:''; position:absolute; top:0; left:0; width:3px; height:100%; background: linear-gradient(to bottom, var(--gold), transparent); opacity:0; transition: opacity .3s; }
+    .couplet-card:hover::before { opacity:1; }
+    .couplet-num { position:absolute; top:16px; right:20px; font-family: var(--font-display); font-size: 28px; font-weight: 700; color: rgba(212,168,67,0.08); line-height:1; }
+    .couplet-meta { display:flex; align-items:center; gap:10px; margin-bottom:12px; flex-wrap:wrap; }
+    .couplet-poet { font-weight: 600; color: var(--gold); font-size: 13px; }
+    .couplet-book { color: var(--text-secondary); font-size: 12px; }
+    .couplet-sep { color: var(--border); }
+    .couplet-verse { font-family: 'Noto Nastaliq Urdu', 'Amiri', serif; font-size: 20px; line-height: 2; color: var(--text); direction:rtl; text-align:right; margin-bottom: 14px; padding-right: 8px; }
+    .couplet-trans { font-family: 'Noto Nastaliq Urdu', serif; font-size: 15px; line-height: 1.9; color: var(--text-secondary); direction:rtl; text-align:right; padding: 12px 16px; background: rgba(0,0,0,0.15); border-radius: 8px; border-right: 2px solid var(--gold); }
+    .couplet-trans-label { font-family: var(--font-body); font-size: 10px; text-transform:uppercase; letter-spacing:1px; color: var(--gold); margin-bottom: 6px; direction:ltr; text-align:left; }
+
+    .wazifa-card { background: var(--card-bg); border: 1px solid var(--border); border-radius: 12px; padding: 22px 26px; margin-bottom: 16px; transition: all .2s; position:relative; }
+    .wazifa-card:hover { border-color: rgba(29,185,84,0.3); transform: translateY(-2px); }
+    .wazifa-card::before { content:''; position:absolute; top:0; left:0; width:3px; height:100%; background: linear-gradient(to bottom, var(--primary), transparent); opacity:0; transition: opacity .3s; }
+    .wazifa-card:hover::before { opacity:1; }
+    .wazifa-num { position:absolute; top:14px; right:18px; font-family: var(--font-display); font-size: 26px; font-weight: 700; color: rgba(29,185,84,0.08); }
+    .wazifa-header { display:flex; align-items:center; gap:8px; margin-bottom:10px; flex-wrap:wrap; }
+    .wazifa-cat { background: rgba(29,185,84,0.1); color: var(--primary); font-size: 11px; font-weight: 600; padding: 3px 10px; border-radius: 20px; text-transform:uppercase; letter-spacing:0.5px; }
+    .wazifa-book { color: var(--text-secondary); font-size: 12px; }
+    .wazifa-title { font-weight: 600; font-size: 16px; color: var(--text); margin-bottom: 10px; }
+    .wazifa-arabic { font-family: 'Amiri', serif; font-size: 20px; line-height: 2; color: var(--text); direction:rtl; text-align:right; margin-bottom: 12px; }
+    .wazifa-instruction { font-family: 'Noto Nastaliq Urdu', serif; font-size: 15px; line-height: 1.9; color: var(--text-secondary); direction:rtl; text-align:right; }
+
+    .daily-loading { text-align:center; padding: 60px 20px; color: var(--text-secondary); }
+    .daily-loading i { font-size: 32px; color: var(--gold); margin-bottom: 16px; display:block; animation: spin 1.5s linear infinite; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    @keyframes fadeIn { from { opacity:0; transform: translateY(10px); } to { opacity:1; transform: translateY(0); } }
+
+    .daily-error { text-align:center; padding: 60px 20px; color: #e74c3c; }
+    .daily-empty { text-align:center; padding: 60px 20px; color: var(--text-secondary); }
+
+    .daily-hero { background: linear-gradient(135deg, #0d1117 0%, #161b22 50%, #1a1520 100%); padding: 60px 20px 40px; text-align:center; border-bottom: 1px solid var(--border); }
+    .daily-hero h1 { font-family: var(--font-display); font-size: clamp(28px, 5vw, 42px); font-weight: 700; color: var(--text); margin-bottom: 8px; }
+    .daily-hero p { color: var(--text-secondary); font-size: 16px; max-width: 600px; margin: 0 auto; }
+    .daily-hero .daily-date { display:inline-block; background: rgba(212,168,67,0.1); border: 1px solid rgba(212,168,67,0.2); color: var(--gold); padding: 6px 16px; border-radius: 20px; font-size: 13px; margin-top: 16px; font-weight: 500; }
+
+    @media (max-width: 640px) {
+      .couplet-verse { font-size: 17px; }
+      .wazifa-arabic { font-size: 17px; }
+      .couplet-card, .wazifa-card { padding: 18px 16px; }
+    }
+  </style>
+</head>
+<body>
+
+  <nav id="navbar">
+    <div class="nav-inner">
+      <a href="index.html" class="nav-logo">Syed Saleem Raza Kazmi<span class="sub">پیر گورے شاہ</span></a>
+      <button class="nav-toggle" id="navToggle" aria-label="Menu"><i class="fas fa-bars"></i></button>
+      <ul class="nav-links" id="navLinks">
+        <li class="dropdown">
+          <a href="index.html">Home <i class="fas fa-chevron-down" style="font-size:0.55rem;margin-left:4px;"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="index.html#carousel"><i class="fas fa-sliders-h"></i> Daily Carousel</a></li>
+            <li><a href="index.html#explore"><i class="fas fa-compass"></i> Explore</a></li>
+          </ul>
+        </li>
+        <li><a href="daily.html" class="active"><i class="fas fa-calendar-day" style="margin-right:4px;"></i> Daily</a></li>
+        <li class="dropdown">
+          <a href="wisdom.html">Wisdom <i class="fas fa-chevron-down" style="font-size:0.55rem;margin-left:4px;"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="wisdom.html"><i class="fas fa-quote-left"></i> Sayings</a></li>
+            <li><a href="wisdom.html?tab=poetry"><i class="fas fa-feather"></i> Poetry</a></li>
+            <li><a href="wisdom.html?tab=fun"><i class="fas fa-smile"></i> Fun Facts</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="discover.html">Discover <i class="fas fa-chevron-down" style="font-size:0.55rem;margin-left:4px;"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="discover.html"><i class="fas fa-atom"></i> Facts</a></li>
+            <li><a href="discover.html?tab=wit"><i class="fas fa-theater-masks"></i> Wit</a></li>
+            <li><a href="discover.html?tab=poetry"><i class="fas fa-feather-alt"></i> Poetry</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="amal.html">A'mal <i class="fas fa-chevron-down" style="font-size:0.55rem;margin-left:4px;"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="amal.html"><i class="fas fa-hands-praying"></i> Daily A'mal</a></li>
+            <li><a href="amal.html?cat=Worship"><i class="fas fa-mosque"></i> Worship</a></li>
+            <li><a href="amal.html?cat=Sustenance"><i class="fas fa-bread-slice"></i> Sustenance</a></li>
+            <li><a href="amal.html?cat=Protection"><i class="fas fa-shield-halved"></i> Protection</a></li>
+            <li><a href="amal.html?cat=Health"><i class="fas fa-heart-pulse"></i> Health</a></li>
+            <li><a href="amal.html?cat=Hereafter"><i class="fas fa-mosque"></i> Hereafter</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="duas.html">Duas <i class="fas fa-chevron-down" style="font-size:0.55rem;margin-left:4px;"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="duas.html"><i class="fas fa-book"></i> All Duas</a></li>
+            <li><a href="duas.html?cat=Supplication"><i class="fas fa-hand-sparkles"></i> Supplications</a></li>
+            <li><a href="duas.html?cat=Worship"><i class="fas fa-mosque"></i> Worship</a></li>
+            <li><a href="duas.html?cat=Sahifa"><i class="fas fa-book"></i> Sahifas</a></li>
+            <li><a href="duas.html?cat=Monthly"><i class="fas fa-calendar"></i> Monthly</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="ziyarat.html">Ziyarat <i class="fas fa-chevron-down" style="font-size:0.55rem;margin-left:4px;"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="ziyarat.html"><i class="fas fa-list"></i> All Ziyarat</a></li>
+            <li><a href="duas.html?cat=Ziyarat"><i class="fas fa-building"></i> Browse Ziyarat</a></li>
+            <li><a href="duas.html?cat=Sahifa"><i class="fas fa-book"></i> Sahifas</a></li>
+          </ul>
+        </li>
+        <li><a href="contact.html">Connect</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <div class="daily-hero">
+    <h1>Daily Treasury</h1>
+    <p>30 Deep Couplets &middot; 30 Verified Wazaif — renewed each day</p>
+    <div class="daily-date" id="dailyDate"><i class="fas fa-calendar-day"></i> Loading...</div>
+  </div>
+
+  <section class="section" style="background: var(--cream);">
+    <div class="section-inner" style="max-width: 800px;">
+
+      <div class="daily-tabs" id="dailyTabs">
+        <button class="daily-tab active" data-panel="couplets">
+          <i class="fas fa-feather"></i> Deep Couplets <span class="count">30</span>
+        </button>
+        <button class="daily-tab" data-panel="wazaif">
+          <i class="fas fa-hands-praying"></i> Wazaif & Secrets <span class="count">30</span>
+        </button>
+      </div>
+
+      <div class="daily-loading" id="dailyLoading">
+        <i class="fas fa-circle-notch"></i>
+        <div>Loading today's treasury...</div>
+      </div>
+
+      <div class="daily-error" id="dailyError" style="display:none;">
+        <i class="fas fa-exclamation-circle" style="font-size:32px;margin-bottom:12px;display:block;"></i>
+        <div>Could not load daily content.</div>
+        <button class="btn btn-gold" style="margin-top:16px;" onclick="location.reload()">Retry</button>
+      </div>
+
+      <div class="daily-panel active" id="panel-couplets"></div>
+      <div class="daily-panel" id="panel-wazaif"></div>
+
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; <span id="year"></span> Syed Saleem Raza Kazmi · Pir Goray Shah &mdash; crafted with <span class="heart">&hearts;</span> in the light of faith</p>
+  </footer>
+
+  <script src="app.js"></script>
+  <script>
+    (function() {
+      var DAILY_DATA = null;
+
+      function loadDaily() {
+        var xhr = new XMLHttpRequest();
+        xhr.open('GET', 'data_v2/daily_content_2026-06-02.json?_=' + Date.now(), true);
+        xhr.onload = function() {
+          try {
+            DAILY_DATA = JSON.parse(xhr.responseText);
+            document.getElementById('dailyLoading').style.display = 'none';
+            document.getElementById('dailyDate').innerHTML = '<i class="fas fa-calendar-day"></i> ' + (DAILY_DATA.date || 'Today');
+            renderCouplets();
+            renderWazaif();
+          } catch(e) {
+            showError();
+          }
+        };
+        xhr.onerror = showError;
+        xhr.send();
+      }
+
+      function showError() {
+        document.getElementById('dailyLoading').style.display = 'none';
+        document.getElementById('dailyError').style.display = 'block';
+      }
+
+      function renderCouplets() {
+        var panel = document.getElementById('panel-couplets');
+        if (!DAILY_DATA || !DAILY_DATA.poetry_section || !DAILY_DATA.poetry_section.length) {
+          panel.innerHTML = '<div class="daily-empty">No couplets available today.</div>';
+          return;
+        }
+        var html = '';
+        DAILY_DATA.poetry_section.forEach(function(item) {
+          html +=
+            '<div class="couplet-card">' +
+              '<div class="couplet-num">' + String(item.id).padStart(2, '0') + '</div>' +
+              '<div class="couplet-meta">' +
+                '<span class="couplet-poet"><i class="fas fa-user-pen"></i> ' + item.poet + '</span>' +
+                '<span class="couplet-sep">·</span>' +
+                '<span class="couplet-book">' + item.book + '</span>' +
+              '</div>' +
+              '<div class="couplet-verse">' + item.verse + '</div>' +
+              (item.translation ?
+                '<div class="couplet-trans-label">Urdu Translation</div>' +
+                '<div class="couplet-trans">' + item.translation + '</div>' : '') +
+            '</div>';
+        });
+        panel.innerHTML = html;
+      }
+
+      function renderWazaif() {
+        var panel = document.getElementById('panel-wazaif');
+        if (!DAILY_DATA || !DAILY_DATA.wazaif_section || !DAILY_DATA.wazaif_section.length) {
+          panel.innerHTML = '<div class="daily-empty">No wazaif available today.</div>';
+          return;
+        }
+        var html = '';
+        DAILY_DATA.wazaif_section.forEach(function(item) {
+          html +=
+            '<div class="wazifa-card">' +
+              '<div class="wazifa-num">' + String(item.id).padStart(2, '0') + '</div>' +
+              '<div class="wazifa-header">' +
+                '<span class="wazifa-cat">' + item.category + '</span>' +
+                '<span class="wazifa-book">' + item.source_book + '</span>' +
+              '</div>' +
+              '<div class="wazifa-title">' + item.title + '</div>' +
+              '<div class="wazifa-arabic">' + item.arabic_text + '</div>' +
+              '<div class="wazifa-instruction">' + item.urdu_instruction + '</div>' +
+            '</div>';
+        });
+        panel.innerHTML = html;
+      }
+
+      // Tab switching
+      var tabs = document.querySelectorAll('.daily-tab');
+      tabs.forEach(function(tab) {
+        tab.addEventListener('click', function() {
+          tabs.forEach(function(t) { t.classList.remove('active'); });
+          tab.classList.add('active');
+          document.querySelectorAll('.daily-panel').forEach(function(p) { p.classList.remove('active'); });
+          document.getElementById('panel-' + tab.dataset.panel).classList.add('active');
+        });
+      });
+
+      loadDaily();
+    })();
+  </script>
+</body>
+</html>
