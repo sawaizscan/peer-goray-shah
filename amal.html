@@ -144,7 +144,7 @@
 
       function loadData() {
         var xhr = new XMLHttpRequest();
-        xhr.open('GET', 'amal.json?_=' + Date.now(), true);
+        xhr.open('GET', 'amal_pool.json?_=' + Date.now(), true);
         xhr.onload = function() {
           try {
             ALL = JSON.parse(xhr.responseText);

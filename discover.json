@@ -1,115 +1,32 @@
-{
-  "meta": {
-    "generated": "2026-06-02T09:30:00.000000Z",
-    "version": 3
-  },
-  "facts": [
-    {
-      "text": "Shia Islam is the second-largest branch of Islam. It is rooted in the belief that the Islamic prophet Muhammad explicitly designated his cousin and son-in-law Ali ibn Abi Talib as his rightful political successor (caliph) and the divinely guided spiritual leader.",
-      "source": "Shia Islam — Wikipedia",
-      "category": "History",
-      "urdu": "شیعہ اسلام اسلام کا دوسرا بڑا فرقہ ہے۔ یہ اس عقیدے پر مبنی ہے کہ اسلامی نبی محمدﷺ نے اپنے چچا زاد بھائی اور داماد علی بن ابی طالب کو اپنا جائز سیاسی جانشین (خلیفہ) اور الہامی روحانی پیشوا مقرر کیا تھا۔",
-      "id": 1
-    },
-    {
-      "text": "Kashf al-Mahjub was the first formal treatise on Sufism, compiled in the 11th century by the Persian scholar al-Hujwiri. The work contains a complete system of Sufism with its doctrines and practices.",
-      "source": "Kashf al-Mahjub — Wikipedia",
-      "category": "General",
-      "urdu": "کشف المحجوب تصوف پر پہلی باقاعدہ تصنیف ہے جسے گیارہویں صدی میں فارسی عالم علی ہجویری نے مرتب کیا۔ اس میں تصوف کا مکمل نظریہ، عقائد اور عملیات شامل ہیں۔",
-      "id": 2
-    },
-    {
-      "text": "Baha al-Din al-Amili, commonly known as Sheikh Bahai, was a Twelver Shia Muslim scholar and polymath in Safavid Iran, who composed various works in Arabic and Persian. Closely tied to the court of Shah Abbas I, he became known for his role in the intellectual sphere of Isfahan.",
-      "source": "Shaykh Bahai — Wikipedia",
-      "category": "Scholars",
-      "urdu": "بہاء الدین العاملی، مشہور بہ شیخ بہائی، صفوی ایران میں ایک اہم شیعہ عالم اور کثیر العلوم شخصیت تھے جنھوں نے عربی اور فارسی میں کئی تصانیف کیں۔ شاہ عباس اول کے دربار سے وابستہ، وہ اصفہان کے فکری حلقے میں نمایاں کردار ادا کرتے تھے۔",
-      "id": 3
-    },
-    {
-      "text": "Ishq is an Arabic word meaning 'love' or 'passion', also widely used in other languages of the Muslim world. In Sufism, it refers to divine love — the burning longing of the soul for union with the Beloved.",
-      "source": "Ishq — Wikipedia",
-      "category": "General",
-      "urdu": "عشق ایک عربی لفظ ہے جس کا مطلب 'محبت' یا 'جوش' ہے، جو مسلم دنیا کی دیگر زبانوں میں بھی مستعمل ہے۔ تصوف میں یہ الہامی محبت کا نام ہے — روح کی محبوب کے ساتھ وصال کی جلتی ہوئی تمنا۔",
-      "id": 4
-    },
-    {
-      "text": "Alchemy is an ancient branch of natural philosophy, historically practised in China, India, the Muslim world, and Europe. In the Islamic tradition, alchemy (al-kimiya) was deeply connected to spiritual transformation and the purification of the soul.",
-      "source": "Alchemy — Wikipedia",
-      "category": "General",
-      "urdu": "کیمیا (الکیمیا) قدرتی فلسفہ کی ایک قدیم شاخ ہے جو چین، ہندوستان، مسلم دنیا اور یورپ میں رواج پاتی رہی۔ اسلامی روایت میں کیمیا روحانی تبدیلی اور نفس کی تطہیر سے گہری وابستگی رکھتی تھی۔",
-      "id": 5
-    },
-    {
-      "text": "Ali ibn Abi Talib was the fourth Rashidun caliph who ruled from 656 CE until his assassination in 661, as well as the first Shia Imam. He was the cousin and son-in-law of the Islamic prophet Muhammad.",
-      "source": "Imam Ali — Wikipedia",
-      "category": "Ahl al-Bayt",
-      "urdu": "علی بن ابی طالب چوتھے خلیفہ راشد تھے جو ۶۵۶ء سے ۶۶۱ء تک حکومت کیے اور شیعہ کے پہلے امام ہیں۔ وہ اسلامی نبی محمدﷺ کے چچا زاد بھائی اور داماد تھے۔",
-      "id": 6
-    },
-    {
-      "text": "Barzakh is a Persian word meaning 'obstacle', 'hindrance', 'separation', or 'barrier'. In Islamic eschatology, it denotes a barrier separating the world of humans from the world of spirits, and a phase between death and resurrection.",
-      "source": "Barzakh — Wikipedia",
-      "category": "General",
-      "urdu": "برزخ ایک فارسی لفظ ہے جس کا مطلب 'رکاوٹ'، 'روک'، 'جدا'یی' یا 'پردہ' ہے۔ اسلامی آخریات میں یہ انسانی دنیا اور ارواح کی دنیا کے درمیان ایک حجاب اور موت و قیامت کے درمیان ایک مرحلہ ہے۔",
-      "id": 7
-    },
-    {
-      "text": "Dhikr is a form of Islamic worship in which phrases or prayers are repeatedly recited for the purpose of remembering God. It plays a central role in Sufism, where each order typically adopts a specific dhikr with specific posture, breathing, and movement.",
-      "source": "Dhikr — Wikipedia",
-      "category": "General",
-      "urdu": "ذکر ایک اسلامی عبادت ہے جس میں خدا کی یاد کے لیے جملے یا دعائیں بار بار پڑھی جاتی ہیں۔ یہ تصوف میں مرکزی کردار ادا کرتا ہے جہاں ہر سلسلہ ایک مخصوص ذکر، انداز، سانس لینے کا طریقہ اور حرکت اپناتا ہے۔",
-      "id": 8
-    },
-    {
-      "text": "In Islam, Judgement Day (Qiyamah) is when all bodies will be resurrected from the dead, and all people are called to account for their deeds and faith. It is considered a fundamental tenet of faith by all Muslims, and one of the six articles of Islamic faith.",
-      "source": "Qiyamah — Wikipedia",
-      "category": "General",
-      "urdu": "اسلام میں قیامت کا دن وہ وقت ہے جب تمام اجساد مردوں میں سے اٹھائے جائیں گے اور سب لوگوں سے ان کے اعمال اور ایمان کا حساب لیا جائے گا۔ یہ تمام مسلمانوں کے نزدیک بنیادی عقیدہ ہے اور اسلام کے چھ ارکان ایمان میں سے ایک ہے۔",
-      "id": 9
-    }
-  ],
-  "wit": [
-    {
-      "text": "A man went to a sage: 'I want to see God.' The sage said: 'Close your eyes and look inward.' The man closed his eyes. 'I see nothing.' 'Then you looked with eyes — not with the heart.'",
-      "urdu": "ایک شخص ایک عارف کے پاس گیا: 'میں اللہ کو دیکھنا چاہتا ہوں۔' عارف نے کہا: 'آنکھیں بند کرو اور اندر دیکھو۔' اس نے آنکھیں بند کیں۔ 'کچھ نہیں دیکھتا۔' 'تو نے آنکھوں سے دیکھا — دل سے نہیں۔'",
-      "source": "Popular Tale",
-      "type": "Pir-Mureed",
-      "id": 1
-    },
-    {
-      "text": "Mulla Nasruddin was asked: 'What happens after death?' The Mulla said: 'Forget about after death — first see what this life before death is, then ask.'",
-      "urdu": "ملا نصرالدین سے پوچھا گیا: 'موت کے بعد کیا ہوتا ہے؟' ملا نے کہا: 'موت کے بعد کو چھوڑو — پہلے دیکھو موت سے پہلے کی یہ زندگی کیا ہے، پھر پوچھو۔'",
-      "source": "Mulla Nasruddin",
-      "type": "Mulla Nasruddin",
-      "id": 2
-    },
-    {
-      "text": "Someone asked Mulla Sadra: 'Why is your philosophy so hard to understand?' He said: 'The sun is not hard to see — it's the eyes that need preparation.'",
-      "urdu": "کسی نے ملا صدرا سے پوچھا: 'آپ کا فلسفہ اتنا مشکل کیوں ہے؟' انہوں نے کہا: 'سورج کو دیکھنا مشکل نہیں — آنکھیں ہیں جنہیں تیاری کی ضرورت ہے۔'",
-      "source": "Asfar, Adapted",
-      "type": "Scholarly Humor",
-      "id": 3
-    },
-    {
-      "text": "Mulla Nasruddin sat by a river. A scholar asked: 'Mulla, can you read Arabic?' The Mulla said: 'I can read water — it says: Flow, for stagnation is death.'",
-      "urdu": "ملا نصرالدین دریا کے کنارے بیٹھے تھے۔ ایک عالم نے پوچھا: 'ملا، کیا آپ عربی پڑھ سکتے ہیں؟' ملا نے کہا: 'میں پانی پڑھ سکتا ہوں — وہ کہتا ہے: بہتے رہو، کیونکہ جمنا موت ہے۔'",
-      "source": "Mulla Nasruddin",
-      "type": "Mulla Nasruddin",
-      "id": 4
-    },
-    {
-      "text": "Shaykh Ansari was asked: 'What is the most difficult ruling in fiqh?' He said: 'To stop giving your own opinion when the truth has already been spoken.'",
-      "urdu": "شیخ انصاری سے پوچھا گیا: 'فقہ میں سب سے مشکل حکم کیا ہے؟' فرمایا: 'اپنی رائے دینا چھوڑ دینا جب حقیقت پہلے ہی بیان ہو چکی ہو۔'",
-      "source": "Shaykh Ansari",
-      "type": "Scholarly Humor",
-      "id": 5
-    },
-    {
-      "text": "A man asked Ibn Arabi: 'How do I know God?' Ibn Arabi said: 'Do you know who is asking?'",
-      "urdu": "ایک شخص نے ابن عربی سے پوچھا: 'اللہ کو کیسے پہچانوں؟' ابن عربی نے کہا: 'کیا تم جانتے ہو کہ پوچھنے والا کون ہے؟'",
-      "source": "Futuhat, Adapted",
-      "type": "Scholarly Humor",
-      "id": 6
-    }
-  ]
-}
+[
+  {"id": 1, "type": "fact", "title": "Angels born from light", "text": "فرشتے نور سے پیدا کیے گئے ہیں۔ ہر فرشتے کے مخصوص پروں کی تعداد اس کی طاقت اور مقام کو ظاہر کرتی ہے۔ جبرائیل علیہ السلام کے چھ سو پروں کا ذکر حدیث میں ملتا ہے۔", "category": "Malakut"},
+  {"id": 2, "type": "fact", "title": "Every raindrop recorded", "text": "ہر قطرہ بارش کے نازل ہونے سے پہلے اس کا پورا سفر لوحِ محفوظ میں درج ہے۔ فرشتے اس بارش کو اسی جگہ اتارتے ہیں جہاں اللہ کا حکم ہوتا ہے، خواہ وہ صحرا ہو یا سمندر۔", "category": "Malakut"},
+  {"id": 3, "type": "fact", "title": "Barzakh interrogation", "text": "قبر میں میت سے پہلا سوال 'ربک من؟' یعنی تیرا رب کون ہے؟ پوچھا جاتا ہے۔ یہ امتحان برزخ کے اس عالم میں ہوتا ہے جہاں وقت اور روح کے قوانین بدل جاتے ہیں۔", "category": "Qiyamat"},
+  {"id": 4, "type": "fact", "title": "Souls meet in Barzakh", "text": "روحیں برزخ میں ایک دوسرے سے ملتی ہیں اور پہچانتی ہیں جیسے دنیا میں۔ نیک روحیں آسمان کی بلندیوں میں جمع ہوتی ہیں جبکہ بری روحیں زمین کی پستیوں میں بھٹکتی رہتی ہیں۔", "category": "Ruh"},
+  {"id": 5, "type": "fact", "title": "Jinn from smokeless fire", "text": "جنات کو 'ماریج من نار' یعنی دھوئیں والی آگ سے پیدا کیا گیا۔ ان کی تخلیق انسان سے دو ہزار سال پہلے ہوئی۔ ان کی آنکھیں انسانی آنکھوں سے مختلف سپیکٹرم میں دیکھتی ہیں۔", "category": "Jinn"},
+  {"id": 6, "type": "fact", "title": "Three types of Jinn", "text": "رسول اللہ ﷺ نے فرمایا کہ جنات تین قسموں پر ہیں: ایک وہ جو ہوا میں اڑتے ہیں، دوسرے سانپ اور بچھو کی شکل میں، اور تیسرے جو زمین میں رہتے ہیں اور کام کاج کرتے ہیں۔", "category": "Jinn"},
+  {"id": 7, "type": "fact", "title": "Iron revealed from sky", "text": "سورہ حدید میں لوہے کا ذکر 'انزلنا' (ہم نے اتارا) کے ساتھ آیا ہے، جس کا جدید سائنس نے ثابت کیا کہ لوہا زمین پر نہیں بنا بلکہ سپرنووا دھماکوں سے خلا سے آیا۔", "category": "Science"},
+  {"id": 8, "type": "fact", "title": "Seven heavens and atoms", "text": "قرآن میں سات آسمانوں کا ذکر سات بار آیا ہے۔ جدید طبیعیات نے دریافت کیا کہ مادہ سات سطحوں پر مشتمل ہے — ایٹم، نیوکلئس، پروٹان، کوارک، اور اس سے آگے۔", "category": "Science"},
+  {"id": 9, "type": "fact", "title": "Bismillah's 19 letters", "text": "بسم اللہ الرحمن الرحیم کے کل انیس حروف ہیں۔ سورہ مدثر میں فرمایا کہ دوزخ پر انیس فرشتے مقرر ہیں — یہ عددی نظام قرآنی معجزات میں سے ایک ہے۔", "category": "Quran"},
+  {"id": 10, "type": "fact", "title": "Number 19 code in Quran", "text": "لفظ 'اللہ' قرآن میں 2698 بار آیا ہے، جو 19 کا 142 گنا ہے۔ سورہ الفاتحہ کی سات آیات کے حروف کا مجموعہ بھی 19 سے تقسیم ہوتا ہے۔ یہ ریاضیاتی نظام بشری تصنیف سے بالا تر ہے۔", "category": "Quran"},
+  {"id": 11, "type": "fact", "title": "Ilm al-Huruf mystery", "text": "حروفِ مقطعات — الف لام میم، طٰسٓ، یٰسٓ — انتیس سورتوں کے شروع میں آتے ہیں۔ حروف کی رمزیہ تفسیر کو علم الحروف کہتے ہیں جسے شیخ اکبر محی الدین ابن عربی نے تفصیل سے بیان کیا۔", "category": "History"},
+  {"id": 12, "type": "fact", "title": "Sufi chain to Prophet", "text": "ہر سلسلہ تصوف کی سند رسول اللہ ﷺ تک پہنچتی ہے — جبرائیل علیہ السلام کے ذریعے۔ یہ سلسلہ نسب اسی طرح محفوظ ہے جیسے حدیث کی اسناد، جسے 'سلسلہ طلائی' کہا جاتا ہے۔", "category": "History"},
+  {"id": 13, "type": "fact", "title": "Mountain as stabilizer", "text": "اللہ تعالیٰ نے فرمایا: 'اور ہم نے زمین میں بھاری پہاڑ گاڑ دیے تاکہ وہ انہیں لے کر جھک نہ جائے' (الانبیاء 31)۔ جدید ارضیات کے مطابق پہاڑ زمین کی کرسٹ کو مستحکم رکھتے ہیں۔", "category": "Science"},
+  {"id": 14, "type": "fact", "title": "Angels write every breath", "text": "دائیں اور بائیں کندھے پر دو فرشتے — رقیب اور عتید — ہر ایک لفظ، ہر ایک خیال، حتیٰ کہ دل کی آواز کو بھی ثبت کرتے ہیں۔ وہ کبھی تھکتے اور نہ سوتے ہیں۔", "category": "Malakut"},
+  {"id": 15, "type": "fact", "title": "Malaika of mercy", "text": "ایک فرشتہ ہے جس کا کام مومنوں کے لیے رحمت کی دعا کرنا ہے۔ وہ قیامت تک ہر اس شخص کے لیے استغفار کرتا رہے گا جس نے ایک بار بھی کلمہ پڑھا۔", "category": "Malakut"},
+  {"id": 16, "type": "fact", "title": "Ruh blown at 120 days", "text": "جنین میں روح پھونکنے کا عمل حمل کے 120 ویں دن ہوتا ہے۔ اس وقت فرشتہ مقرر کرتا ہے: رزق، عمر، عمل اور شقی یا سعید ہونا۔ اس کے بعد بچہ ماں کے پیٹ میں حرکت کرتا ہے۔", "category": "Ruh"},
+  {"id": 17, "type": "fact", "title": "Sleep is soul travel", "text": "نیند کو قرآن نے 'وفات' یعنی چھوٹی موت کہا ہے۔ سوتے وقت روح جسم سے نکل کر عرشِ الٰہی کے سامنے سجدہ کرتی ہے، پھر جو روحیں واپس آنے کی اجازت پائیں وہ لوٹتی ہیں — یہی تعبیر الرؤیا ہے۔", "category": "Ruh"},
+  {"id": 18, "type": "fact", "title": "Jinn see us, we don't", "text": "قرآن فرماتا ہے: 'وہ تمہیں دیکھتے ہیں جہاں سے تم انہیں نہیں دیکھتے' (الاعراف 27)۔ یہ اس بات کی دلیل ہے کہ جنات ایک مختلف طول موج یا جہت میں موجود ہیں جہاں سے انسان محجوب ہے۔", "category": "Jinn"},
+  {"id": 19, "type": "fact", "title": "Qiyaamat signs in numbers", "text": "حدیث میں قیامت کی چھوٹی نشانیوں میں علم کا اٹھ جانا اور جاہلیت کا پھیلنا بتایا گیا۔ جب قرآن کو سنانے والے باقی نہ رہیں گے اور لوگ اسے صرف رسمی طور پر پڑھیں گے، وہ وقت قریب ہوگا۔", "category": "Qiyamat"},
+  {"id": 20, "type": "fact", "title": "Israfil's trumpet", "text": "اسرافیل علیہ السلام صور پھونکنے والے فرشتے ہیں۔ صور میں جتنی سوراخ ہیں اتنی ہی تمام مخلوقات کی روحیں ہیں — ایک دم سے سب زندہ ہو جائیں گے۔ یہ صور اسرافیل کے ہونٹوں سے کبھی جدا نہیں ہوتا۔", "category": "Malakut"},
+  {"id": 21, "type": "wit", "title": "Silence is gold", "text": "بہت باتیں کرنے والا اکثر پچھتاتا ہے، اور خاموش رہنے والا شاذ و نادر۔ اگر بولنا چاندی ہے تو خاموشی سونا — اور سونے کی قیمت تم جانتے ہو۔", "category": "Hikmah"},
+  {"id": 22, "type": "wit", "title": "Mirror of the heart", "text": "دنیا ایک آئینہ ہے — تم اس پر مسکراؤ گے تو وہ تم پر ہنسے گی، تم روؤ گے تو وہ بھی روئے گی۔ مگر یاد رکھو، آئینہ تو صرف دکھاتا ہے، بدلتا کچھ نہیں۔ تم خود بدل جاؤ تو دنیا بھی بدل جائے گی۔", "category": "Hikmah"},
+  {"id": 23, "type": "wit", "title": "The clever fool", "text": "عقل مند وہ ہے جو دنیا کو آخرت کا کھیت سمجھے، اور بیوقوف وہ جو آخرت کو دنیا کا کھیت سمجھے۔ فرق صرف اتنا ہے — ایک بیج بوتا ہے، دوسرا فصل کھاتا ہے۔ انجام تم خود جان لو۔", "category": "Hikmah"},
+  {"id": 24, "type": "wit", "title": "Ocean of ego", "text": "انسان ایک سمندر ہے جس کا پانی انا ہے۔ جب تک موجیں اٹھیں گی، سکون نہیں ملے گا۔ عارف وہ ہے جو اپنی انا کو غرق کر دے — پھر سمندر بھی تیرتا ہے اس میں۔", "category": "Hikmah"},
+  {"id": 25, "type": "wit", "title": "Guest in your own house", "text": "تم اپنے جسم میں مہمان ہو — تم نے نہ اسے بنایا، نہ اسے لے کر آئے، نہ اسے لے کر جاؤ گے۔ پھر کیوں اس گھر کو اپنا دائمی گھر سمجھ کر بیٹھ گئے ہو؟ اصل سفر تو مرنے کے بعد شروع ہوتا ہے۔", "category": "Hikmah"},
+  {"id": 26, "type": "wit", "title": "Feast of patience", "text": "صبر کا پھل میٹھا ہوتا ہے مگر اس کا درخت کانٹوں والا۔ جو لوگ پہلی کڑواہٹ پر چھوڑ دیتے ہیں وہ کبھی شہد نہیں چکھتے۔ صبر کرنے والے کو اللہ 'صابرین' کہتا ہے — اور اس سے بڑا خطاب کیا ہے؟", "category": "Hikmah"},
+  {"id": 27, "type": "wit", "title": "Gravity of rizq", "text": "رزق کے پیچھے بھاگنے والا کبھی نہیں تھکتا، مگر رزق اس کے پیچھے دوڑتا ہے اس سے بھی تیز۔ بس تم اپنے حصے کا کام کرو — رزق کا لکھا ہوا حساب اللہ خود چکاتا ہے۔ تمہاری فکر صرف اسے حلال طریقے سے کمانے کی ہو۔", "category": "Hikmah"},
+  {"id": 28, "type": "wit", "title": "Secret of the rose", "text": "گلاب کے پھول نے کانٹوں سے گھرے رہ کر سیکھا کہ خوبصورتی کا مطلب محفوظ رہنا نہیں، بلکہ اپنی خوشبو بکھیرتے رہنا ہے۔ تم بھی دشمنوں کے درمیان رہو مگر اپنی اخلاقی خوشبو نہ کھونا۔", "category": "Hikmah"},
+  {"id": 29, "type": "wit", "title": "Sufi's math", "text": "صوفی کا حساب ایسا ہے: ایک دے کر دس پانا، دس دے کر سو پانا، اور سب کچھ دے کر سب کچھ پانا۔ دنیا والے اس ریاضی کو نہیں سمجھتے کیونکہ ان کی کتاب میں صرف گھٹاؤ اور جمع ہے — صوفی نے ضرب اور تقسیم سیکھی ہوئی ہے۔", "category": "Hikmah"},
+  {"id": 30, "type": "wit", "title": "Lamp of the heart", "text": "دل کا چراغ علم سے جلتا ہے اور محبت سے روشن ہوتا ہے۔ اگر علم ہو مگر محبت نہ ہو تو چراغ ہے مگر بجھا ہوا۔ اگر محبت ہو مگر علم نہ ہو تو روشنی ہے مگر راستہ نہیں۔ کامل وہ ہے جس کے پاس دونوں ہیں۔", "category": "Hikmah"}
+]
