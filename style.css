@@ -798,6 +798,24 @@ nav.scrolled {
   color: var(--white);
 }
 .filter-btn:hover:not(.active) { border-color: var(--gold); color: var(--text); }
+.filter-group {
+  margin-bottom: 0.5rem;
+}
+.filter-label {
+  font-size: 0.7rem;
+  color: var(--text-muted);
+  margin-bottom: 0.4rem;
+  text-align: center;
+  letter-spacing: 0.5px;
+}
+.filter-group .filter-btn {
+  margin: 0.15rem;
+}
+.filter-btn.filter-school.active {
+  background: var(--tanaquz);
+  border-color: var(--tanaquz);
+  color: var(--white);
+}
 
 /* ─── COUNT ─── */
 .count-badge {

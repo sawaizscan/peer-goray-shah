@@ -56,6 +56,8 @@
             <li><a href="amal.html?cat=Protection"><i class="fas fa-shield-halved"></i> Protection</a></li>
             <li><a href="amal.html?cat=Health"><i class="fas fa-heart-pulse"></i> Health</a></li>
             <li><a href="amal.html?cat=Hereafter"><i class="fas fa-mosque"></i> Hereafter</a></li>
+            <li style="border-top:1px solid var(--subtle-border);margin-top:0.25rem;padding-top:0.25rem;"><a href="amal.html?school=Shia%20(Irfan)"><i class="fas fa-user-graduate"></i> Shia Scholars</a></li>
+            <li><a href="amal.html?school=Sunni%2FSalafi%20(Ruqyah)"><i class="fas fa-user-graduate"></i> Sunni/Salafi Scholars</a></li>
           </ul>
         </li>
         <li class="dropdown">
@@ -162,40 +164,66 @@
         }
 
         var cats = [];
-        ALL.forEach(function(d) { if (cats.indexOf(d.category) === -1) cats.push(d.category); });
+        var schools = [];
+        ALL.forEach(function(d) {
+          if (cats.indexOf(d.category) === -1) cats.push(d.category);
+          if (d.school && schools.indexOf(d.school) === -1) schools.push(d.school);
+        });
 
         var container = document.getElementById('amalFilters');
-        container.innerHTML = '<button class="filter-btn active" data-cat="">All</button>' +
+        var catHtml = '<div class="filter-group"><div class="filter-label"><i class="fas fa-tag"></i> Category</div>' +
+          '<button class="filter-btn active" data-cat="">All</button>' +
           cats.map(function(c) {
             var icon = CAT_ICONS[c] || 'fa-star';
             return '<button class="filter-btn" data-cat="' + c + '"><i class="fas ' + icon + '"></i> ' + c + '</button>';
-          }).join('');
+          }).join('') + '</div>';
+
+        var schoolHtml = '<div class="filter-group" style="margin-top:0.5rem;"><div class="filter-label"><i class="fas fa-graduation-cap"></i> Scholar School</div>' +
+          '<button class="filter-btn filter-school active" data-school="">All</button>' +
+          schools.map(function(s) {
+            return '<button class="filter-btn filter-school" data-school="' + s + '">' + s + '</button>';
+          }).join('') + '</div>';
+
+        container.innerHTML = catHtml + schoolHtml;
 
         var activeCat = '';
+        var activeSchool = '';
 
-        // Auto-activate from URL param
         var urlCat = getUrlParam('cat');
-        if (urlCat && cats.indexOf(urlCat) !== -1) {
-          activeCat = urlCat;
-        }
+        if (urlCat && cats.indexOf(urlCat) !== -1) activeCat = urlCat;
+        var urlSchool = getUrlParam('school');
+        if (urlSchool && schools.indexOf(urlSchool) !== -1) activeSchool = urlSchool;
 
         container.addEventListener('click', function(e) {
           var btn = e.target.closest('.filter-btn');
           if (!btn) return;
-          container.querySelectorAll('.filter-btn').forEach(function(b) { b.classList.remove('active'); });
-          btn.classList.add('active');
-          activeCat = btn.dataset.cat || '';
+          if (btn.classList.contains('filter-school')) {
+            container.querySelectorAll('.filter-school').forEach(function(b) { b.classList.remove('active'); });
+            btn.classList.add('active');
+            activeSchool = btn.dataset.school || '';
+          } else {
+            container.querySelectorAll('.filter-btn:not(.filter-school)').forEach(function(b) { b.classList.remove('active'); });
+            btn.classList.add('active');
+            activeCat = btn.dataset.cat || '';
+          }
           render();
         });
 
         function render() {
-          var filtered = activeCat ? ALL.filter(function(d) { return d.category === activeCat; }) : ALL;
+          var filtered = ALL.filter(function(d) {
+            var catMatch = !activeCat || d.category === activeCat;
+            var schoolMatch = !activeSchool || (d.school && d.school === activeSchool);
+            return catMatch && schoolMatch;
+          });
           document.getElementById('amalCount').textContent = filtered.length + ' of ' + ALL.length + ' practices';
 
-          // Sync active filter button
-          container.querySelectorAll('.filter-btn').forEach(function(b) {
+          container.querySelectorAll('.filter-btn:not(.filter-school)').forEach(function(b) {
             b.classList.toggle('active', (b.dataset.cat || '') === activeCat);
           });
+          container.querySelectorAll('.filter-school').forEach(function(b) {
+            b.classList.toggle('active', (b.dataset.school || '') === activeSchool);
+          });
+
           var list = document.getElementById('amalList');
           var empty = document.getElementById('amalEmpty');
 
@@ -208,11 +236,14 @@
 
           list.innerHTML = filtered.map(function(d) {
             var icon = CAT_ICONS[d.category] || 'fa-star';
+            var scholarBadge = d.scholar ? '<span style="display:inline-block;font-size:0.65rem;color:var(--gold);background:rgba(198,153,72,0.1);padding:0.15rem 0.5rem;border-radius:4px;margin-right:0.3rem;"><i class="fas fa-user-graduate"></i> ' + d.scholar + '</span>' : '';
+            var schoolBadge = d.school ? '<span style="display:inline-block;font-size:0.6rem;color:var(--text-muted);background:rgba(255,255,255,0.05);padding:0.15rem 0.5rem;border-radius:4px;">' + d.school + '</span>' : '';
             return '<div class="card" style="margin-bottom:1.25rem;">' +
               '<div class="card-header">' +
                 '<span class="cat"><i class="fas ' + icon + '"></i> ' + d.category + (d.subcategory ? ' / ' + d.subcategory : '') + '</span>' +
                 '<span style="font-size:0.6rem;color:var(--text-muted);"><i class="fas fa-book"></i> ' + d.source_book + '</span>' +
               '</div>' +
+              '<div style="text-align:center;margin-bottom:0.5rem;">' + scholarBadge + schoolBadge + '</div>' +
               '<h3 style="font-family:\'Playfair Display\',serif;font-size:1.05rem;color:var(--gold);margin-bottom:0.75rem;text-align:center;">' + d.title + '</h3>' +
               (d.original ? '<div class="original" style="text-align:center;">' + d.original + '</div>' : '') +
               '<div class="urdu" style="text-align:center;color:var(--text-light);">' + d.urdu + '</div>' +
