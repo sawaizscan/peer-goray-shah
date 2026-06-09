@@ -1,6 +1,11 @@
 (function() {
   var API_KEY = atob('QVEuQWI4Uk42SVMweWEwbmRhQWpPOXNqSWxrWmNGSFZkTWZkZnlBektnVVdaRDZYS2dnREE=');
-  var API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent';
+  var MODELS = [
+    'gemini-2.5-flash',
+    'gemini-3.1-flash-lite',
+    'gemini-2.5-flash-lite'
+  ];
+  var BASE_URL = 'https://generativelanguage.googleapis.com/v1beta/models/';
 
   var SYSTEM_PROMPT = [
     'آپ "AI بابا جی" (AI BABA J) ہیں — ایک انتہائی شفیق، گہرے اور امید افزا روحانی رہبر۔',
@@ -260,6 +265,9 @@
                 '2. Enable billing for the project (projects/580236750173)\n' +
                 '3. Or wait until the quota resets (midnight PT)\n\n' +
                 'Current error: ' + msg;
+        } else if (msg.indexOf('All models unavailable') !== -1) {
+          msg = '🔴 All AI models are currently busy or at capacity. Please wait a moment and try again.\n\n' +
+                'تمام AI ماڈلز اس وقت مصروف ہیں۔ براہ کرم تھوڑی دیر بعد دوبارہ کوشش کریں۔';
         } else if (msg) {
           msg = 'معاف کیجیے، ایک تکنیکی مسئلہ ہے۔\n\nError: ' + msg;
         } else {
@@ -301,10 +309,12 @@
       el && el.remove();
     }
 
-    function callGemini(userText) {
-      var fullContext = SYSTEM_PROMPT + '\n\n---\n' + chatHistory.map(function(m) { return m.role + ': ' + m.text; }).join('\n') + '\n---\n\nUser: ' + userText + '\nAI BABA J:';
-
-      return fetch(API_URL + '?key=' + API_KEY, {
+    function tryModel(modelIdx, userText, fullContext) {
+      if (modelIdx >= MODELS.length) {
+        return Promise.reject(new Error('All models unavailable.'));
+      }
+      var url = BASE_URL + MODELS[modelIdx] + ':generateContent?key=' + API_KEY;
+      return fetch(url, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
@@ -317,7 +327,16 @@
           ]
         })
       }).then(function(res) {
-        if (!res.ok) { return res.json().then(function(e) { throw new Error(e.error.message); }); }
+        if (!res.ok) {
+          return res.json().then(function(e) {
+            var msg = e.error.message;
+            var isRetryable = msg.indexOf('high demand') !== -1 || msg.indexOf('429') !== -1 || msg.indexOf('500') !== -1 || msg.indexOf('503') !== -1 || msg.indexOf('quota') !== -1;
+            if (isRetryable) {
+              return tryModel(modelIdx + 1, userText, fullContext);
+            }
+            throw new Error(msg);
+          });
+        }
         return res.json();
       }).then(function(data) {
         var reply = '';
@@ -327,6 +346,11 @@
         if (chatHistory.length > 20) chatHistory = chatHistory.slice(-20);
         return reply;
       });
+    }
+
+    function callGemini(userText) {
+      var fullContext = SYSTEM_PROMPT + '\n\n---\n' + chatHistory.map(function(m) { return m.role + ': ' + m.text; }).join('\n') + '\n---\n\nUser: ' + userText + '\nAI BABA J:';
+      return tryModel(0, userText, fullContext);
     }
   }
 
