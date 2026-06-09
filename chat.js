@@ -1,6 +1,6 @@
 (function() {
   var API_KEY = atob('QVEuQWI4Uk42SVMweWEwbmRhQWpPOXNqSWxrWmNGSFZkTWZkZnlBektnVVdaRDZYS2dnREE=');
-  var API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent';
+  var API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent';
 
   var SYSTEM_PROMPT = [
     'آپ "AI بابا جی" (AI BABA J) ہیں — ایک انتہائی شفیق، گہرے اور امید افزا روحانی رہبر۔',
@@ -252,7 +252,20 @@
         sendBtn.disabled = false;
       }).catch(function(err) {
         removeTyping(typingId);
-        addMessage('معاف کیجیے، میں فی الحال دستیاب نہیں ہوں۔ براہ کرم تھوڑی دیر بعد پوچھیں۔\n\nSorry, I am currently unavailable. Please try again shortly.', 'bot');
+        var msg = err.message || '';
+        if (msg.indexOf('429') !== -1 || msg.indexOf('quota') !== -1 || msg.indexOf('RESOURCE_EXHAUSTED') !== -1) {
+          msg = '🔴 API quota exhausted. The daily free limit has been reached.\n\n' +
+                'To fix:\n' +
+                '1. Go to https://console.cloud.google.com/apis/credentials\n' +
+                '2. Enable billing for the project (projects/580236750173)\n' +
+                '3. Or wait until the quota resets (midnight PT)\n\n' +
+                'Current error: ' + msg;
+        } else if (msg) {
+          msg = 'معاف کیجیے، ایک تکنیکی مسئلہ ہے۔\n\nError: ' + msg;
+        } else {
+          msg = 'معاف کیجیے، میں فی الحال دستیاب نہیں ہوں۔ براہ کرم تھوڑی دیر بعد پوچھیں۔\n\nSorry, I am currently unavailable. Please try again shortly.';
+        }
+        addMessage(msg, 'bot');
         sendBtn.disabled = false;
       });
     }
