@@ -289,7 +289,7 @@
         ];
 
         var xhr = new XMLHttpRequest();
-        xhr.open('GET', 'data.json', true);
+        xhr.open('GET', 'data.json?_=' + Date.now(), true);
         xhr.onload = function() {
           try {
             var fresh = JSON.parse(xhr.responseText);

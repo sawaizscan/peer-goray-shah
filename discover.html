@@ -147,17 +147,19 @@
     (function() {
       var DATA = null;
 
-      function showEmpty(prefix) {
+      function showEmpty(prefix, label) {
         document.getElementById(prefix + 'Grid').innerHTML = '';
         document.getElementById(prefix + 'Empty').style.display = 'block';
         document.getElementById(prefix + 'Count').textContent = '';
+        document.getElementById(prefix + 'Empty').innerHTML = '<i class="fas fa-inbox"></i><p>No ' + label + ' available yet. Check back soon.</p>';
       }
 
       function render() {
         if (!DATA) return;
 
-        var facts = DATA.facts || [];
-        var wit = DATA.wit || [];
+        var items = Array.isArray(DATA) ? DATA : [];
+        var facts = items.filter(function(d) { return d.type === 'fact'; });
+        var wit = items.filter(function(d) { return d.type === 'wit'; });
 
         // Facts
         if (facts.length) {
@@ -171,7 +173,7 @@
             '</div>';
           }).join('');
         } else {
-          showEmpty('facts');
+          showEmpty('facts', 'facts');
         }
 
         // Wit
@@ -186,7 +188,7 @@
             '</div>';
           }).join('');
         } else {
-          showEmpty('wit');
+          showEmpty('wit', 'wit entries');
         }
       }
 
