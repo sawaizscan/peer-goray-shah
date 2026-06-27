@@ -202,6 +202,7 @@
             '<div class="poem-misra">' + (p.misra1 || (p.text && p.text.split('\n')[0]) || '') + '</div>' +
             '<div class="poem-misra">' + (p.misra2 || (p.text && p.text.split('\n')[1]) || '') + '</div>' +
             '</div>' +
+            (p.urdu ? '<div class="poem-urdu" style="margin-top:0.6rem;direction:rtl;font-family:\'Noto Nastaliq Urdu\',serif;color:var(--text-light);font-size:0.8rem;line-height:1.6;text-align:center;">' + p.urdu + '</div>' : '') +
             '<div class="dc-source"><span><i class="fas fa-user"></i> ' + p.poet + '</span><span><i class="fas fa-book"></i> ' + (p.source || '') + '</span></div>' +
             (p.essence ? '<div class="poem-essence-foot">' + p.essence + '</div>' : '') +
             (p.urdu_essence ? '<div class="poem-essence-foot" style="margin-top:0.25rem;direction:rtl;font-family:\'Noto Nastaliq Urdu\',serif;background:rgba(139,37,37,0.05);">' + p.urdu_essence + '</div>' : '') +
