@@ -269,8 +269,8 @@
                   icon: 'fa-feather',
                   cat: po.category || po.theme || 'Poetry',
                   source: po.poet,
-                  arabic: po.misra1 + ' // ' + po.misra2,
-                  urdu: po.misra1 + '\n' + po.misra2,
+                  arabic: (po.misra1 || (po.text && po.text.split('\n')[0]) || '') + ' // ' + (po.misra2 || (po.text && po.text.split('\n')[1]) || ''),
+                  urdu: (po.misra1 || (po.text && po.text.split('\n')[0]) || '') + '\n' + (po.misra2 || (po.text && po.text.split('\n')[1]) || ''),
                   ref: po.source || ''
                 });
               }

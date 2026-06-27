@@ -466,8 +466,8 @@
         document.getElementById('poetryGrid').innerHTML = poems.map(function(p) {
           return '<div class="poem-card"><div class="poem-theme">' + (p.theme || p.category || 'Poetry') + '</div>' +
             '<div class="poem-couplet">' +
-            '<div class="misra">' + p.misra1 + '</div>' +
-            '<div class="misra">' + p.misra2 + '</div>' +
+            '<div class="misra">' + (p.misra1 || (p.text && p.text.split('\n')[0]) || '') + '</div>' +
+            '<div class="misra">' + (p.misra2 || (p.text && p.text.split('\n')[1]) || '') + '</div>' +
             '</div>' +
             '<div class="poem-poet">— ' + p.poet + (p.source ? ' (' + p.source + ')' : '') + '</div>' +
             (p.essence ? '<div class="poem-essence"><span class="label"><i class="fas fa-water"></i> Deep Essence</span>' + p.essence + '</div>' : '') +
