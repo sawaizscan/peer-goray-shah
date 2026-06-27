@@ -1,0 +1,446 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EB6K1V6L5J"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-EB6K1V6L5J');
+</script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ahl al-Bayt Poetry – Syed Saleem Raza Kazmi</title>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600&family=Noto+Nastaliq+Urdu:wght@400;600;700&family=Amiri:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <link rel="stylesheet" href="style.css">
+  <style>
+    .poet-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+      gap: 1.25rem;
+    }
+    .poet-card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1.25rem;
+      transition: border-color 0.3s;
+    }
+    .poet-card:hover {
+      border-color: var(--gold);
+    }
+    .poet-name {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.05rem;
+      color: var(--gold);
+      margin-bottom: 0.4rem;
+    }
+    .poet-desc {
+      font-size: 0.8rem;
+      color: var(--text-light);
+      line-height: 1.65;
+      font-family: 'Noto Nastaliq Urdu', serif;
+      direction: rtl;
+    }
+    .section-title {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.3rem;
+      color: var(--gold);
+      margin-top: 2rem;
+      margin-bottom: 1rem;
+      padding-bottom: 0.5rem;
+      border-bottom: 1px solid var(--border);
+    }
+    .section-title i {
+      margin-right: 0.5rem;
+      color: var(--accent);
+    }
+    .collection-card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1.15rem 1.25rem;
+      margin-bottom: 0.85rem;
+    }
+    .collection-card:hover {
+      border-color: var(--gold);
+    }
+    .collection-name {
+      font-family: 'Playfair Display', serif;
+      font-size: 1rem;
+      color: var(--gold);
+      margin-bottom: 0.3rem;
+    }
+    .collection-desc {
+      font-size: 0.8rem;
+      color: var(--text-light);
+      line-height: 1.6;
+      font-family: 'Noto Nastaliq Urdu', serif;
+      direction: rtl;
+    }
+    @media (max-width: 600px) {
+      .poet-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <nav id="navbar">
+    <div class="nav-inner">
+      <a href="index.html" class="nav-logo">Syed Saleem Raza Kazmi<span class="sub">پیر گورے شاہ</span></a>
+      <button class="nav-toggle" id="navToggle" aria-label="Menu"><i class="fas fa-bars"></i></button>
+      <ul class="nav-links" id="navLinks">
+        <li class="dropdown">
+          <a href="index.html">Home <i class="fas fa-chevron-down" style="font-size:0.55rem;margin-left:4px;"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="index.html#carousel"><i class="fas fa-sliders-h"></i> Daily Carousel</a></li>
+            <li><a href="index.html#explore"><i class="fas fa-compass"></i> Explore</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="wisdom.html">Wisdom <i class="fas fa-chevron-down" style="font-size:0.55rem;margin-left:4px;"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="wisdom.html"><i class="fas fa-quote-left"></i> Sayings</a></li>
+            <li><a href="wisdom.html?tab=poetry"><i class="fas fa-feather"></i> Poetry</a></li>
+            <li><a href="wisdom.html?tab=fun"><i class="fas fa-smile"></i> Fun Facts</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="discover.html">Discover <i class="fas fa-chevron-down" style="font-size:0.55rem;margin-left:4px;"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="discover.html"><i class="fas fa-atom"></i> Facts</a></li>
+            <li><a href="discover.html?tab=wit"><i class="fas fa-theater-masks"></i> Wit</a></li>
+            <li><a href="discover.html?tab=poetry"><i class="fas fa-feather-alt"></i> Poetry</a></li>
+            <li><a href="ahelbait.html"><i class="fas fa-star"></i> Ahl al-Bayt Poetry</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="amal.html">A'mal <i class="fas fa-chevron-down" style="font-size:0.55rem;margin-left:4px;"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="amal.html"><i class="fas fa-hands-praying"></i> Daily A'mal</a></li>
+            <li><a href="amal.html?cat=Worship"><i class="fas fa-mosque"></i> Worship</a></li>
+            <li><a href="amal.html?cat=Sustenance"><i class="fas fa-bread-slice"></i> Sustenance</a></li>
+            <li><a href="amal.html?cat=Protection"><i class="fas fa-shield-halved"></i> Protection</a></li>
+            <li><a href="amal.html?cat=Health"><i class="fas fa-heart-pulse"></i> Health</a></li>
+            <li><a href="amal.html?cat=Hereafter"><i class="fas fa-mosque"></i> Hereafter</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="duas.html">Duas <i class="fas fa-chevron-down" style="font-size:0.55rem;margin-left:4px;"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="duas.html"><i class="fas fa-book"></i> All Duas</a></li>
+            <li><a href="duas.html?cat=Supplication"><i class="fas fa-hand-sparkles"></i> Supplications</a></li>
+            <li><a href="duas.html?cat=Worship"><i class="fas fa-mosque"></i> Worship</a></li>
+            <li><a href="duas.html?cat=Sahifa"><i class="fas fa-book"></i> Sahifas</a></li>
+            <li><a href="duas.html?cat=Monthly"><i class="fas fa-calendar"></i> Monthly</a></li>
+            <li><a href="https://www.duas.org/dua-kumayl.html" target="_blank"><i class="fas fa-hand-sparkles"></i> Dua Kumayl</a></li>
+            <li><a href="https://www.duas.org/dua-nudba.html" target="_blank"><i class="fas fa-moon"></i> Dua Nudba</a></li>
+            <li><a href="https://www.duas.org/dua-sections.html" target="_blank"><i class="fas fa-sitemap"></i> All Sections</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="ziyarat.html">Ziyarat <i class="fas fa-chevron-down" style="font-size:0.55rem;margin-left:4px;"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="ziyarat.html"><i class="fas fa-list"></i> All Ziyarat</a></li>
+            <li><a href="duas.html?cat=Ziyarat"><i class="fas fa-building"></i> Browse Ziyarat</a></li>
+            <li><a href="duas.html?cat=Sahifa"><i class="fas fa-book"></i> Sahifas</a></li>
+            <li><a href="https://www.duas.org/ziyarat-jamia-kabira.html" target="_blank"><i class="fas fa-building"></i> Jamia Kabira</a></li>
+            <li><a href="https://www.duas.org/mobile/ziyarat-imam-hussain-ashura.html" target="_blank"><i class="fas fa-cross"></i> Ashura</a></li>
+            <li><a href="https://www.duas.org/ziyarat.html" target="_blank"><i class="fas fa-list"></i> Full list</a></li>
+          </ul>
+        </li>
+        <li><a href="contact.html">Connect</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <div class="page-header">
+    <h1>Ahl al-Bayt Poetry · اہل بیت شاعری</h1>
+    <div class="divider"></div>
+    <p>کلاسیکی و جدید شعرا کا انتخاب — میر انیس سے محسن نقوی تک، اہلِ بیتؑ کی محبت میں ڈوبا ہوا کلام</p>
+  </div>
+
+  <section class="section" style="background: var(--card-bg);">
+    <div class="section-inner">
+
+      <h2 class="section-title"><i class="fas fa-book-open"></i> قدیم اور کلاسیکی شعرا</h2>
+      <div class="poet-grid">
+
+        <div class="poet-card">
+          <div class="poet-name">میر انیس</div>
+          <div class="poet-desc">ہندوستانی اردو مرثیہ نگاری کی سب سے بلند روایت۔ ان کے سلام اور مراثی اہلِ بیتؑ کے ادب کا ستون ہیں۔</div>
+        </div>
+
+        <div class="poet-card">
+          <div class="poet-name">مرزا سلامت علی دبیر</div>
+          <div class="poet-desc">لکھنؤی مرثیہ روایت کے بڑے نام اور مرثیہ نگاری میں عظیم مقام رکھتے ہیں۔</div>
+        </div>
+
+        <div class="poet-card">
+          <div class="poet-name">علامہ محمد اقبال</div>
+          <div class="poet-desc">کربلا، حریت اور فلسفہِ شہادتِ امام حسینؑ (جیسے 'رموزِ بیخودی' میں) کے حوالے سے ان کا کلام اردو اور فارسی میں بنیادی حیثیت رکھتا ہے۔</div>
+        </div>
+
+        <div class="poet-card">
+          <div class="poet-name">میر ضمیر</div>
+          <div class="poet-desc">مرثیے کی جدید ہیئت اور چہرہ، سراپا وغیرہ کے موجد، قدیم مرثیہ نگاری کے اساتذہ میں شمار ہوتے ہیں۔</div>
+        </div>
+
+        <div class="poet-card">
+          <div class="poet-name">مرزا غالب</div>
+          <div class="poet-desc">اگرچہ براہِ راست مراثی کم ہیں، مگر ان کے قصائد اور سلام اردو روایت کا اہم حصہ ہیں۔</div>
+        </div>
+
+        <div class="poet-card">
+          <div class="poet-name">جوش ملیح آبادی</div>
+          <div class="poet-desc">شاعرِ انقلاب؛ کربلا اور حریت کے موضوعات پر ان کا کلام بے حد طاقتور اور اثر انگیز ہے۔</div>
+        </div>
+
+        <div class="poet-card">
+          <div class="poet-name">قمر جلالوی</div>
+          <div class="poet-desc">کلاسیکی غزل کے ساتھ ساتھ ان کے سلام اور منقبت اپنے درد اور روانی میں بے مثال ہیں۔</div>
+        </div>
+
+        <div class="poet-card">
+          <div class="poet-name">نجم آفندی</div>
+          <div class="poet-desc">سلام اور نوحہ نگاری کی کلاسیکی اور جدید روایت کے درمیان ایک بہت بڑا اور معتبر ترین نام۔</div>
+        </div>
+
+        <div class="poet-card">
+          <div class="poet-name">حسرت موہانی</div>
+          <div class="poet-desc">اہلِ بیتؑ اور اسلامی عقیدت کے مضامین میں نمایاں ہیں۔</div>
+        </div>
+
+      </div>
+
+      <h2 class="section-title"><i class="fas fa-book-open"></i> جدید پاکستانی اور ہم عصر شعرا</h2>
+      <div class="poet-grid">
+
+        <div class="poet-card">
+          <div class="poet-name">محسن نقوی</div>
+          <div class="poet-desc">جدید اردو میں اہلِ بیتؑ کی مدح، ذکرِ کربلا اور منقبت میں سب سے توانا، مقبول اور بے مثال نام۔</div>
+        </div>
+
+        <div class="poet-card">
+          <div class="poet-name">پروفیسر ریحان اعظمی</div>
+          <div class="poet-desc">عالمی سطح پر نوحہ اور سلام نگاری کا سب سے بڑا نام۔ موجودہ دور کا شاید ہی کوئی مقبول نوحہ ہو جو ان کے قلم سے نہ نکلا ہو۔</div>
+        </div>
+
+        <div class="poet-card">
+          <div class="poet-name">استاد سبطِ جعفر زیدی</div>
+          <div class="poet-desc">سوز خوانی کے ساتھ ساتھ بہترین شاعر، جن کا کلام محبتِ اہلِ بیتؑ میں ڈوبا ہوا ہے۔</div>
+        </div>
+
+        <div class="poet-card">
+          <div class="poet-name">افتخار عارف</div>
+          <div class="poet-desc">جدید اردو میں سنجیدہ، تہذیبی اور روحانی لہجے کے اہم شاعر۔ کربلا کے استعارے کو جدید غزل میں برتنے کے امام ہیں۔</div>
+        </div>
+
+        <div class="poet-card">
+          <div class="poet-name">پیر نصیرالدین نصیر</div>
+          <div class="poet-desc">نعت و منقبت کے بہت بڑے شاعر؛ اہلِ بیتؑ کے بارے میں ان کا کلام خاص طور پر مقبول ہے۔</div>
+        </div>
+
+        <div class="poet-card">
+          <div class="poet-name">نصیر ترابی</div>
+          <div class="poet-desc">جدید غزل اور مرثیہ نگاری کا انتہائی معتبر نام (خصوصاً ان کا سلام "وہ جو تیغِ ستم کے آگے ہیں")۔</div>
+        </div>
+
+        <div class="poet-card">
+          <div class="poet-name">احمد فراز</div>
+          <div class="poet-desc">جدید اردو کے مقبول ترین شعرا میں سے، جن کی بعض عقیدتی نظمیں اور سلام معروف ہیں۔</div>
+        </div>
+
+        <div class="poet-card">
+          <div class="poet-name">ناصر کاظمی</div>
+          <div class="poet-desc">اردو غزل کا دھیما اور اداس لہجہ؛ ان کے ہاں بھی کربلا اور اہلِ بیتؑ کی محبت کے نہایت لطیف اور گہرے اشعار ملتے ہیں۔</div>
+        </div>
+
+        <div class="poet-card">
+          <div class="poet-name">مظفر وارثی</div>
+          <div class="poet-desc">عقیدت، سلاست اور روحانیت (خصوصاً حمد و نعت کے ساتھ سلام) کے لیے ممتاز ہیں۔</div>
+        </div>
+
+        <div class="poet-card">
+          <div class="poet-name">فیض احمد فیض</div>
+          <div class="poet-desc">مرکزی شناخت ترقی پسند شاعری، مگر ان کا مرثیہ اور سلام نہایت عقیدت مندانہ ہے۔</div>
+        </div>
+
+        <div class="poet-card">
+          <div class="poet-name">علی زریون</div>
+          <div class="poet-desc">ہم عصر شعرا میں سے، جن کے ہاں منقبت اور ذکرِ اہلِ بیتؑ جدید اور منفرد لب و لہجے کے ساتھ ملتا ہے۔</div>
+        </div>
+
+        <div class="poet-card">
+          <div class="poet-name">تہذیب حافی</div>
+          <div class="poet-desc">جدید مشاعرے کا مقبول نام، جنھوں نے کربلا اور اہلِ بیتؑ کے حوالے سے انتہائی پراثر اشعار کہے ہیں۔</div>
+        </div>
+
+        <div class="poet-card">
+          <div class="poet-name">ضیاء جالندھری</div>
+          <div class="poet-desc">منقبت اور سلام میں اثر انگیز طرز رکھتے ہیں۔</div>
+        </div>
+
+        <div class="poet-card">
+          <div class="poet-name">عبداللطیف بھٹائی</div>
+          <div class="poet-desc">صوفیانہ روایت میں اہلِ بیتؑ سے وابستہ روحانی رنگ نمایاں ہے (سندھی اور اردو تراجم کے حوالے سے)۔</div>
+        </div>
+
+      </div>
+
+      <h2 class="section-title"><i class="fas fa-book-open"></i> ہندوستانی شعرا (کلاسیکی و جدید)</h2>
+      <div class="poet-grid">
+
+        <div class="poet-card">
+          <div class="poet-name">ڈاکٹر وحید اختر</div>
+          <div class="poet-desc">جدید اردو مرثیے کو فکری اور فلسفیانہ بنیاد فراہم کرنے والا ہندوستان کا سب سے بڑا نام۔</div>
+        </div>
+
+        <div class="poet-card">
+          <div class="poet-name">علی سردار جعفری</div>
+          <div class="poet-desc">ترقی پسند تحریک کے صفِ اول کے شاعر، جن کی نظم "کربلا" ایک شاہکار ہے۔</div>
+        </div>
+
+        <div class="poet-card">
+          <div class="poet-name">ندا فاضلی</div>
+          <div class="poet-desc">ان کے ہاں کربلا کے استعارے اور ذکرِ حسینؑ جدید اور آفاقی انداز میں ملتے ہیں۔</div>
+        </div>
+
+        <div class="poet-card">
+          <div class="poet-name">کیفی اعظمی</div>
+          <div class="poet-desc">انہوں نے بھی نہایت شاندار سلام اور نظمیں اہلِ بیتؑ کی شان میں کہی ہیں۔</div>
+        </div>
+
+        <div class="poet-card">
+          <div class="poet-name">چھنو لال دلگیر</div>
+          <div class="poet-desc">ہندو شاعر جنہوں نے اردو کا مشہور ترین نوحہ "گھبراگی زینبؑ" لکھا۔ غیر مسلم شعرا کی عقیدت کی روشن مثال۔</div>
+        </div>
+
+        <div class="poet-card">
+          <div class="poet-name">داغ دہلوی</div>
+          <div class="poet-desc">کلاسیکی رنگ کے حامل شاعر، جنہیں اردو روایت میں وسیع مقبولیت حاصل ہے۔</div>
+        </div>
+
+        <div class="poet-card">
+          <div class="poet-name">عبدالماجد دریابادی</div>
+          <div class="poet-desc">عقیدتی اور اسلامی موضوعات میں سنجیدہ تحریر کے لیے معروف۔</div>
+        </div>
+
+        <div class="poet-card">
+          <div class="poet-name">شمیم کرہانی</div>
+          <div class="poet-desc">منقبت و سلام کی روایت میں یاد کیے جاتے ہیں۔</div>
+        </div>
+
+      </div>
+
+      <h2 class="section-title"><i class="fas fa-book-open"></i> عالمی اردو شعرا اور محققین</h2>
+      <div class="poet-grid">
+
+        <div class="poet-card">
+          <div class="poet-name">ڈاکٹر ہلال نقوی</div>
+          <div class="poet-desc">مرثیے کے حوالے سے عالمی سطح پر مانا ہوا نام، جو شاعر بھی ہیں اور مرثیے کے بہت بڑے محقق بھی۔</div>
+        </div>
+
+        <div class="poet-card">
+          <div class="poet-name">پروفیسر اویس خالد</div>
+          <div class="poet-desc">اہلِ بیتؑ سے متعلق منقبت و سلام کے لیے معروف۔</div>
+        </div>
+
+        <div class="poet-card">
+          <div class="poet-name">ڈاکٹر طارق قمر</div>
+          <div class="poet-desc">سلام اہلِ بیتؑ کے لیے معروف جدید شاعر۔</div>
+        </div>
+
+        <div class="poet-card">
+          <div class="poet-name">سید انور جاوید ہاشمی</div>
+          <div class="poet-desc">مرثیہ و سلام کی جدید روایت سے وابستہ۔</div>
+        </div>
+
+        <div class="poet-card">
+          <div class="poet-name">حافظ حمزہ سلمانی</div>
+          <div class="poet-desc">اہلِ بیتؑ کے موضوعات پر منقبت اور کلام رکھتے ہیں۔</div>
+        </div>
+
+        <div class="poet-card">
+          <div class="poet-name">امجد حمید محسن</div>
+          <div class="poet-desc">اہلِ بیتِ اطہارؑ سے محبت پر مبنی مجموعہ "کریمِ کربلا" ان کی ایک نمایاں کتاب ہے۔</div>
+        </div>
+
+        <div class="poet-card">
+          <div class="poet-name">آغا سروش</div>
+          <div class="poet-desc">ان کا مجموعہ "بیاضِ جاں" نعت، منقبت اور سلام پر مشتمل ہے۔</div>
+        </div>
+
+      </div>
+
+      <h2 class="section-title"><i class="fas fa-book-open"></i> اہم شعری مجموعے</h2>
+
+      <div class="collection-card">
+        <div class="collection-name">نہج البلاغہ</div>
+        <div class="collection-desc">یہ شعری دیوان نہیں، مگر حضرت علیؑ کے خطبات، خطوط اور کلماتِ قصار کا نہایت بلند مرتبہ مجموعہ ہے، جو ہر شاعر کے لیے منبعِ فصاحت ہے۔</div>
+      </div>
+
+      <div class="collection-card">
+        <div class="collection-name">بندِ قبا / برگِ صحرا</div>
+        <div class="collection-desc">محسن نقوی کے کلام کے مجموعے جن میں شاہکار منقبتیں، سلام اور قطعات شامل ہیں۔</div>
+      </div>
+
+      <div class="collection-card">
+        <div class="collection-name">خوابِ کربلا / نوائے سرِ دار</div>
+        <div class="collection-desc">پروفیسر ریحان اعظمی کے عالمی شہرت یافتہ نوحوں اور سلاموں کے مجموعے۔</div>
+      </div>
+
+      <div class="collection-card">
+        <div class="collection-name">پیمانِ شب / شہرِ ربط</div>
+        <div class="collection-desc">افتخار عارف کے وہ مجموعے جن میں جدید غزل کے ساتھ اہلِ بیتؑ کی عقیدت اور سلام شامل ہیں۔</div>
+      </div>
+
+      <div class="collection-card">
+        <div class="collection-name">تجلیاتِ انیس / دیوانِ سلام و کلامِ انیس</div>
+        <div class="collection-desc">میر انیس کے سلاموں کا مجموعہ۔</div>
+      </div>
+
+      <div class="collection-card">
+        <div class="collection-name">کربلا</div>
+        <div class="collection-desc">علی سردار جعفری کی شاہکار طویل نظم۔</div>
+      </div>
+
+      <div class="collection-card">
+        <div class="collection-name">بیاضِ جاں</div>
+        <div class="collection-desc">آغا سروش کا نعت، منقبت اور سلام کا مجموعہ۔</div>
+      </div>
+
+      <div class="collection-card">
+        <div class="collection-name">کریمِ کربلا</div>
+        <div class="collection-desc">امجد حمید محسن کا اہلِ بیتؑ سے محبت کا شعری مجموعہ۔</div>
+      </div>
+
+      <div class="collection-card">
+        <div class="collection-name">محراب</div>
+        <div class="collection-desc">حمد، نعت، منقبت، سلام اور نوحہ جات کا جامع مجموعہ۔</div>
+      </div>
+
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; <span id="year"></span> Syed Saleem Raza Kazmi · Pir Goray Shah &mdash; Content auto-updates daily</p>
+  </footer>
+
+  <div class="floating">
+    <a href="https://www.facebook.com/syed.saleem.raza.kazmi.2025" target="_blank" rel="noopener" class="f-fb"><i class="fab fa-facebook-f"></i></a>
+    <a href="https://www.instagram.com/ishq_e_ali_as" target="_blank" rel="noopener" class="f-ig"><i class="fab fa-instagram"></i></a>
+    <a href="https://wa.me/923244787885" target="_blank" rel="noopener" class="f-wa"><i class="fab fa-whatsapp"></i></a>
+  </div>
+
+  <script src="app.js"></script>
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
