@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EB6K1V6L5J"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-EB6K1V6L5J');
+</script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Latest News – Syed Saleem Raza Kazmi</title>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600&family=Noto+Nastaliq+Urdu:wght@400;600;700&family=Amiri:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <link rel="stylesheet" href="style.css">
+  <style>
+    .news-tabs {
+      display: flex;
+      gap: 0.35rem;
+      flex-wrap: wrap;
+      margin-bottom: 1.5rem;
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 0.5rem;
+    }
+    .news-tab {
+      background: transparent;
+      border: none;
+      color: var(--text-muted);
+      font-family: var(--font-body);
+      font-size: 0.78rem;
+      font-weight: 500;
+      padding: 0.5rem 0.9rem;
+      border-radius: 8px 8px 0 0;
+      cursor: pointer;
+      transition: all 0.3s;
+      position: relative;
+    }
+    .news-tab i { margin-right: 0.35rem; }
+    .news-tab:hover { color: var(--text); background: rgba(255,255,255,0.04); }
+    .news-tab.active { color: var(--gold); background: rgba(198,153,72,0.08); }
+    .news-tab.active::after {
+      content: ''; position: absolute; bottom: -1px; left: 0; right: 0;
+      height: 2px; background: var(--gold); border-radius: 2px 2px 0 0;
+    }
+    .news-panel { display: none; }
+    .news-panel.active { display: block; }
+
+    .news-card {
+      background: var(--card-bg); border: 1px solid var(--border);
+      border-radius: 10px; padding: 1rem 1.15rem; margin-bottom: 0.85rem;
+      transition: border-color 0.3s; position: relative;
+    }
+    .news-card:hover { border-color: var(--gold); }
+    .news-card a { text-decoration: none; color: inherit; display: block; }
+    .news-card .n-title {
+      font-size: 0.88rem; font-weight: 600; color: var(--text);
+      line-height: 1.5; margin-bottom: 0.3rem;
+    }
+    .news-card .n-desc {
+      font-size: 0.75rem; color: var(--text-light);
+      line-height: 1.55;
+    }
+    .news-card .n-meta {
+      font-size: 0.6rem; color: var(--text-muted);
+      margin-top: 0.4rem; display: flex; align-items: center; gap: 0.6rem; flex-wrap: wrap;
+    }
+    .news-card .n-source { color: var(--gold); }
+    .news-card .n-flag {
+      display: inline-block; font-size: 0.55rem; font-weight: 600;
+      padding: 0.15rem 0.45rem; border-radius: 4px; text-transform: uppercase;
+    }
+    .n-flag-pk { background: rgba(0,102,51,0.15); color: #00cc66; }
+    .n-flag-us { background: rgba(13,71,161,0.15); color: #4285f4; }
+    .n-flag-uk { background: rgba(0,33,71,0.15); color: #1d3557; }
+    .n-flag-ir { background: rgba(218,32,44,0.12); color: #da202c; }
+    .n-flag-iq { background: rgba(0,123,61,0.12); color: #007b3d; }
+    .n-flag-il { background: rgba(0,56,168,0.12); color: #0038a8; }
+    .n-flag-in { background: rgba(255,153,51,0.12); color: #ff9933; }
+
+    .n-empty {
+      text-align: center; padding: 3rem 1rem;
+      color: var(--text-muted);
+    }
+    .n-empty i { font-size: 2.5rem; margin-bottom: 0.7rem; opacity: 0.4; }
+
+    .biz-card {
+      background: linear-gradient(160deg, #1a2a1a, #0d1f0d);
+      border: 1px solid rgba(63,185,80,0.2);
+      border-radius: 14px; padding: 2rem; text-align: center;
+      max-width: 700px; margin: 1rem auto;
+    }
+    .biz-card .biz-quote {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.15rem; color: var(--gold); line-height: 1.6;
+      font-style: italic; margin-bottom: 0.8rem;
+    }
+    .biz-card .biz-quote::before { content: '\201C'; font-size: 2rem; color: var(--gold); opacity: 0.5; }
+    .biz-card .biz-quote::after { content: '\201D'; font-size: 2rem; color: var(--gold); opacity: 0.5; }
+    .biz-card .biz-author { font-size: 0.8rem; color: var(--text-light); }
+    .biz-card .biz-urdu {
+      font-family: 'Noto Nastaliq Urdu', serif;
+      font-size: 0.9rem; color: var(--text-light);
+      direction: rtl; margin-top: 0.8rem;
+      padding-top: 0.8rem; border-top: 1px solid rgba(63,185,80,0.1);
+    }
+
+    .w-card {
+      background: var(--card-bg); border: 1px solid var(--border);
+      border-radius: 10px; padding: 0.85rem; text-align: center;
+      min-width: 100px; flex: 1; transition: border-color 0.3s;
+    }
+    .w-card:hover { border-color: var(--gold); }
+    .w-card .w-day { font-size: 0.7rem; color: var(--text-muted); margin-bottom: 0.15rem; }
+    .w-card .w-date { font-size: 0.6rem; color: var(--text-muted); }
+    .w-card .w-temp { font-size: 1rem; font-weight: 600; color: var(--text); margin: 0.2rem 0; }
+    .w-card .w-cond { font-size: 0.65rem; color: var(--text-light); }
+    .w-card .w-precip { font-size: 0.6rem; color: var(--accent); }
+    .w-icon { font-size: 1.3rem; margin-bottom: 0.2rem; }
+
+    .date-card {
+      background: linear-gradient(160deg, #1a2a3a, #0d1520);
+      border: 1px solid rgba(100,150,255,0.15);
+      border-radius: 14px; padding: 2rem; text-align: center;
+      max-width: 600px; margin: 1rem auto;
+    }
+    .date-card .d-label { font-size: 0.65rem; color: var(--text-muted); text-transform: uppercase; letter-spacing: 1px; }
+    .date-card .d-greg { font-size: 1.2rem; font-weight: 600; color: var(--text); margin: 0.3rem 0; }
+    .date-card .d-hijri {
+      font-family: 'Noto Nastaliq Urdu', serif;
+      font-size: 1rem; color: var(--gold); direction: rtl;
+    }
+    .date-card .d-icon { font-size: 2rem; color: var(--gold); opacity: 0.3; margin-bottom: 0.5rem; }
+
+    .n-updated {
+      text-align: center; font-size: 0.65rem; color: var(--text-muted);
+      margin-bottom: 1.5rem;
+    }
+
+    .weather-strip {
+      display: flex; gap: 0.5rem; overflow-x: auto;
+      padding-bottom: 0.5rem;
+    }
+    .weather-strip::-webkit-scrollbar { height: 4px; }
+    .weather-strip::-webkit-scrollbar-track { background: rgba(255,255,255,0.03); border-radius: 4px; }
+    .weather-strip::-webkit-scrollbar-thumb { background: var(--gold); border-radius: 4px; }
+
+    @media (max-width: 600px) {
+      .news-tabs { gap: 0.2rem; }
+      .news-tab { font-size: 0.7rem; padding: 0.4rem 0.6rem; }
+      .biz-card { padding: 1.25rem; }
+      .biz-card .biz-quote { font-size: 0.95rem; }
+    }
+  </style>
+</head>
+<body>
+
+  <nav id="navbar">
+    <div class="nav-inner">
+      <a href="index.html" class="nav-logo">Syed Saleem Raza Kazmi<span class="sub">پیر گورے شاہ</span></a>
+      <button class="nav-toggle" id="navToggle" aria-label="Menu"><i class="fas fa-bars"></i></button>
+      <ul class="nav-links" id="navLinks">
+        <li class="dropdown">
+          <a href="index.html">Home <i class="fas fa-chevron-down" style="font-size:0.55rem;margin-left:4px;"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="index.html#carousel"><i class="fas fa-sliders-h"></i> Daily Carousel</a></li>
+            <li><a href="index.html#explore"><i class="fas fa-compass"></i> Explore</a></li>
+          </ul>
+        </li>
+        <li><a href="news.html"><i class="fas fa-newspaper"></i> News</a></li>
+        <li class="dropdown">
+          <a href="wisdom.html">Wisdom <i class="fas fa-chevron-down" style="font-size:0.55rem;margin-left:4px;"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="wisdom.html"><i class="fas fa-quote-left"></i> Sayings</a></li>
+            <li><a href="wisdom.html?tab=poetry"><i class="fas fa-feather"></i> Poetry</a></li>
+            <li><a href="wisdom.html?tab=fun"><i class="fas fa-smile"></i> Fun Facts</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="discover.html">Discover <i class="fas fa-chevron-down" style="font-size:0.55rem;margin-left:4px;"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="discover.html"><i class="fas fa-atom"></i> Facts</a></li>
+            <li><a href="discover.html?tab=wit"><i class="fas fa-theater-masks"></i> Wit</a></li>
+            <li><a href="discover.html?tab=poetry"><i class="fas fa-feather-alt"></i> Poetry</a></li>
+            <li><a href="ahelbait.html"><i class="fas fa-star"></i> Ahl al-Bayt Poetry</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="amal.html">A'mal <i class="fas fa-chevron-down" style="font-size:0.55rem;margin-left:4px;"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="amal.html"><i class="fas fa-hands-praying"></i> Daily A'mal</a></li>
+            <li><a href="amal.html?cat=Worship"><i class="fas fa-mosque"></i> Worship</a></li>
+            <li><a href="amal.html?cat=Sustenance"><i class="fas fa-bread-slice"></i> Sustenance</a></li>
+            <li><a href="amal.html?cat=Protection"><i class="fas fa-shield-halved"></i> Protection</a></li>
+            <li><a href="amal.html?cat=Health"><i class="fas fa-heart-pulse"></i> Health</a></li>
+            <li><a href="amal.html?cat=Hereafter"><i class="fas fa-mosque"></i> Hereafter</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="duas.html">Duas <i class="fas fa-chevron-down" style="font-size:0.55rem;margin-left:4px;"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="duas.html"><i class="fas fa-book"></i> All Duas</a></li>
+            <li><a href="duas.html?cat=Supplication"><i class="fas fa-hand-sparkles"></i> Supplications</a></li>
+            <li><a href="duas.html?cat=Worship"><i class="fas fa-mosque"></i> Worship</a></li>
+            <li><a href="duas.html?cat=Sahifa"><i class="fas fa-book"></i> Sahifas</a></li>
+            <li><a href="duas.html?cat=Monthly"><i class="fas fa-calendar"></i> Monthly</a></li>
+            <li><a href="https://www.duas.org/dua-kumayl.html" target="_blank"><i class="fas fa-hand-sparkles"></i> Dua Kumayl</a></li>
+            <li><a href="https://www.duas.org/dua-nudba.html" target="_blank"><i class="fas fa-moon"></i> Dua Nudba</a></li>
+            <li><a href="https://www.duas.org/dua-sections.html" target="_blank"><i class="fas fa-sitemap"></i> All Sections</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="ziyarat.html">Ziyarat <i class="fas fa-chevron-down" style="font-size:0.55rem;margin-left:4px;"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="ziyarat.html"><i class="fas fa-list"></i> All Ziyarat</a></li>
+            <li><a href="duas.html?cat=Ziyarat"><i class="fas fa-building"></i> Browse Ziyarat</a></li>
+            <li><a href="duas.html?cat=Sahifa"><i class="fas fa-book"></i> Sahifas</a></li>
+            <li><a href="https://www.duas.org/ziyarat-jamia-kabira.html" target="_blank"><i class="fas fa-building"></i> Jamia Kabira</a></li>
+            <li><a href="https://www.duas.org/mobile/ziyarat-imam-hussain-ashura.html" target="_blank"><i class="fas fa-cross"></i> Ashura</a></li>
+            <li><a href="https://www.duas.org/ziyarat.html" target="_blank"><i class="fas fa-list"></i> Full list</a></li>
+          </ul>
+        </li>
+        <li><a href="contact.html">Connect</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <div class="page-header">
+    <h1>Latest News · تازہ ترین خبریں</h1>
+    <div class="divider"></div>
+    <p>Automatically updated headlines — world, business, weather & more, refreshed every 30 minutes</p>
+  </div>
+
+  <section class="section" style="background: var(--card-bg);">
+    <div class="section-inner">
+
+      <div class="n-updated" id="lastUpdated"></div>
+
+      <div class="news-tabs" id="newsTabBar">
+        <button class="news-tab active" data-tab="world"><i class="fas fa-globe"></i> World · عالمی</button>
+        <button class="news-tab" data-tab="pakistan"><i class="fas fa-flag"></i> Pakistan · پاکستان</button>
+        <button class="news-tab" data-tab="business"><i class="fas fa-chart-line"></i> Business · کاروبار</button>
+        <button class="news-tab" data-tab="weather"><i class="fas fa-cloud-sun"></i> Weather · موسم</button>
+        <button class="news-tab" data-tab="date"><i class="fas fa-calendar"></i> Today's Date · تاریخ</button>
+      </div>
+
+      <div class="news-panel active" id="panel-world"></div>
+      <div class="news-panel" id="panel-pakistan"></div>
+      <div class="news-panel" id="panel-business"></div>
+      <div class="news-panel" id="panel-weather"></div>
+      <div class="news-panel" id="panel-date"></div>
+
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; <span id="year"></span> Syed Saleem Raza Kazmi · Pir Goray Shah &mdash; News auto-updates every 30 min</p>
+  </footer>
+
+  <div class="floating">
+    <a href="https://www.facebook.com/syed.saleem.raza.kazmi.2025" target="_blank" rel="noopener" class="f-fb"><i class="fab fa-facebook-f"></i></a>
+    <a href="https://www.instagram.com/ishq_e_ali_as" target="_blank" rel="noopener" class="f-ig"><i class="fab fa-instagram"></i></a>
+    <a href="https://wa.me/923244787885" target="_blank" rel="noopener" class="f-wa"><i class="fab fa-whatsapp"></i></a>
+  </div>
+
+  <script src="app.js"></script>
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+
+    // Tab switching
+    document.getElementById('newsTabBar').addEventListener('click', function(e) {
+      var btn = e.target.closest('.news-tab');
+      if (!btn) return;
+      document.querySelectorAll('.news-tab').forEach(function(b) { b.classList.remove('active'); });
+      document.querySelectorAll('.news-panel').forEach(function(p) { p.classList.remove('active'); });
+      btn.classList.add('active');
+      document.getElementById('panel-' + btn.dataset.tab).classList.add('active');
+    });
+
+    // Country flag class
+    function flagClass(country) {
+      var c = (country || '').toLowerCase();
+      if (c === 'pakistan') return 'n-flag-pk';
+      if (c === 'us' || c === 'usa') return 'n-flag-us';
+      if (c === 'uk' || c === 'britain') return 'n-flag-uk';
+      if (c === 'iran') return 'n-flag-ir';
+      if (c === 'iraq') return 'n-flag-iq';
+      if (c === 'israel') return 'n-flag-il';
+      if (c === 'india') return 'n-flag-in';
+      return 'n-flag-pk';
+    }
+
+    // Weather icon mapping
+    function weatherIcon(cond) {
+      var c = (cond || '').toLowerCase();
+      if (c.indexOf('clear') !== -1 || c.indexOf('sunny') !== -1) return 'fa-sun';
+      if (c.indexOf('cloud') !== -1) return 'fa-cloud';
+      if (c.indexOf('drizzle') !== -1) return 'fa-cloud-rain';
+      if (c.indexOf('rain') !== -1) return 'fa-cloud-showers-heavy';
+      if (c.indexOf('snow') !== -1) return 'fa-snowflake';
+      if (c.indexOf('thunder') !== -1) return 'fa-cloud-bolt';
+      if (c.indexOf('fog') !== -1) return 'fa-smog';
+      if (c.indexOf('partly') !== -1) return 'fa-cloud-sun';
+      return 'fa-cloud';
+    }
+
+    function timeAgo(ts) {
+      if (!ts) return '';
+      var d = new Date(ts + (ts.indexOf('Z') === -1 && ts.indexOf('+') === -1 ? 'Z' : ''));
+      var now = new Date();
+      var diff = Math.floor((now - d) / 1000);
+      if (diff < 60) return 'just now';
+      if (diff < 3600) return Math.floor(diff / 60) + 'm ago';
+      if (diff < 86400) return Math.floor(diff / 3600) + 'h ago';
+      return Math.floor(diff / 86400) + 'd ago';
+    }
+
+    function renderNews(items, panelId) {
+      var panel = document.getElementById(panelId);
+      if (!items || !items.length) {
+        panel.innerHTML = '<div class="n-empty"><i class="fas fa-newspaper"></i><p>No articles yet. Check back soon.</p></div>';
+        return;
+      }
+      panel.innerHTML = items.map(function(item) {
+        return '<div class="news-card"><a href="' + (item.url || '#') + '" target="_blank" rel="noopener">' +
+          '<div class="n-title">' + (item.title_ur || item.title) + '</div>' +
+          (item.desc_ur || item.desc ? '<div class="n-desc">' + (item.desc_ur || item.desc) + '</div>' : '') +
+          '<div class="n-meta">' +
+            '<span class="n-source"><i class="fas fa-newspaper"></i> ' + item.source + '</span>' +
+            (item.country ? '<span class="n-flag ' + flagClass(item.country) + '">' + item.country + '</span>' : '') +
+            '<span>' + timeAgo(item.time) + '</span>' +
+          '</div></a></div>';
+      }).join('');
+    }
+
+    function loadData() {
+      var cacheBust = '?_=' + Date.now();
+      fetch('news.json' + cacheBust)
+        .then(function(r) { return r.json(); })
+        .then(function(data) {
+          var gen = data.generated || '';
+          if (gen) {
+            document.getElementById('lastUpdated').innerHTML = '<i class="fas fa-sync-alt"></i> Last updated: ' + gen.replace('T', ' at ').replace(/\.\d+Z/, ' UTC');
+          }
+          renderNews(data.world, 'panel-world');
+          renderNews(data.pakistan, 'panel-pakistan');
+
+          // Business
+          var bizPanel = document.getElementById('panel-business');
+          if (data.business) {
+            bizPanel.innerHTML = '<div class="biz-card">' +
+              '<div class="biz-quote">' + data.business.quote + '</div>' +
+              '<div class="biz-author">— ' + (data.business.author || 'Unknown') + '</div>' +
+              '<div class="biz-urdu">' + (data.business.quote_ur || '') + '</div>' +
+            '</div>';
+          } else {
+            bizPanel.innerHTML = '<div class="n-empty"><i class="fas fa-chart-line"></i><p>Business wisdom not available.</p></div>';
+          }
+
+          // Weather
+          var weatherPanel = document.getElementById('panel-weather');
+          if (data.weather && data.weather.forecast && data.weather.forecast.length) {
+            weatherPanel.innerHTML = '<div class="weather-strip">' +
+              data.weather.forecast.map(function(w) {
+                return '<div class="w-card">' +
+                  '<div class="w-day">' + (w.day || '') + '</div>' +
+                  '<div class="w-date">' + (w.date || '').slice(5) + '</div>' +
+                  '<div class="w-icon"><i class="fas ' + weatherIcon(w.condition) + '"></i></div>' +
+                  '<div class="w-temp">' + (w.high || '—') + '° / ' + (w.low || '—') + '°</div>' +
+                  '<div class="w-cond">' + (w.condition_ur || w.condition) + '</div>' +
+                  (w.precip > 0 ? '<div class="w-precip"><i class="fas fa-droplet"></i> ' + w.precip + '%</div>' : '') +
+                '</div>';
+              }).join('') + '</div>';
+          } else {
+            weatherPanel.innerHTML = '<div class="n-empty"><i class="fas fa-cloud-sun"></i><p>Weather forecast not available.</p></div>';
+          }
+
+          // Date
+          var datePanel = document.getElementById('panel-date');
+          if (data.date) {
+            datePanel.innerHTML = '<div class="date-card">' +
+              '<div class="d-icon"><i class="fas fa-calendar-check"></i></div>' +
+              '<div class="d-label">Gregorian · عیسوی</div>' +
+              '<div class="d-greg">' + data.date.gregorian + '</div>' +
+              '<div style="height:1rem;"></div>' +
+              '<div class="d-label">Hijri · ہجری</div>' +
+              '<div class="d-hijri">' + (data.date.hijri_ur || data.date.hijri) + '</div>' +
+            '</div>';
+          } else {
+            datePanel.innerHTML = '<div class="n-empty"><i class="fas fa-calendar"></i><p>Date info not available.</p></div>';
+          }
+        })
+        .catch(function(err) {
+          var msg = '<div class="n-empty"><i class="fas fa-exclamation-triangle"></i><p>Could not load data. Please refresh.</p></div>';
+          ['panel-world','panel-pakistan','panel-business','panel-weather','panel-date'].forEach(function(id) {
+            document.getElementById(id).innerHTML = msg;
+          });
+        });
+    }
+
+    loadData();
+    setInterval(loadData, 600000); // auto-refresh every 10 min
+  </script>
+</body>
+</html>

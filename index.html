@@ -31,7 +31,7 @@
             <li><a href="index.html#explore"><i class="fas fa-compass"></i> Explore</a></li>
           </ul>
         </li>
-        <li><a href="daily.html"><i class="fas fa-calendar-day" style="margin-right:4px;"></i> Daily</a></li>
+        <li><a href="news.html"><i class="fas fa-newspaper"></i> News</a></li>
         <li class="dropdown">
           <a href="wisdom.html">Wisdom <i class="fas fa-chevron-down" style="font-size:0.55rem;margin-left:4px;"></i></a>
           <ul class="dropdown-menu">
@@ -110,6 +110,18 @@
       <i class="fas fa-chevron-down"></i>
     </div>
   </header>
+
+  <section class="section" style="background: var(--card-bg); padding: 1rem 0;" id="news-highlight">
+    <div class="section-inner">
+      <div style="display:flex;align-items:center;gap:0.75rem;flex-wrap:wrap;">
+        <span style="background:var(--accent);color:#fff;font-size:0.65rem;font-weight:700;padding:0.2rem 0.6rem;border-radius:4px;text-transform:uppercase;letter-spacing:0.5px;"><i class="fas fa-bolt"></i> LATEST</span>
+        <div style="flex:1;min-width:0;" id="newsTicker">
+          <span style="font-size:0.78rem;color:var(--text-muted);"><i class="fas fa-spinner fa-pulse"></i> Loading headlines...</span>
+        </div>
+        <a href="news.html" style="font-size:0.7rem;color:var(--gold);white-space:nowrap;text-decoration:none;font-weight:600;">All News <i class="fas fa-arrow-right"></i></a>
+      </div>
+    </div>
+  </section>
 
   <section class="section" style="background: var(--cream); position:relative; overflow:hidden;" id="aibaba">
     <div class="section-inner">
@@ -412,6 +424,22 @@
       }
 
       loadAll();
+
+      // News ticker
+      fetch('news.json?_=' + Date.now()).then(function(r){return r.json()}).then(function(d){
+        var items = (d.world || []).slice(0,5);
+        if (items.length) {
+          var ticker = document.getElementById('newsTicker');
+          var idx = 0;
+          function showTick() {
+            var it = items[idx % items.length];
+            ticker.innerHTML = '<a href="news.html" style="font-size:0.78rem;color:var(--text);text-decoration:none;display:flex;align-items:center;gap:0.5rem;"><span style="font-size:0.55rem;text-transform:uppercase;color:var(--gold);font-weight:600;white-space:nowrap;">' + it.country + '</span><span style="overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">' + (it.title_ur || it.title) + '</span></a>';
+            idx = (idx + 1) % items.length;
+          }
+          showTick();
+          setInterval(showTick, 7000);
+        }
+      }).catch(function(){});
     })();
   </script>
 </body>
