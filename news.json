@@ -1,6 +1,16 @@
 {
-  "generated": "2026-07-01T22:45:39Z",
+  "generated": "2026-07-01T22:47:04Z",
   "world": [
+    {
+      "title": "Tepid outlook weighs on Nike despite tariff refund boost",
+      "desc": "That sum accounted for most of Nike's $1.1 billion profit in the quarter ending May 30 -- about five times the earnings compared with the year-ago period.\nThe post Tepid outlook weighs on Nike despite tariff refund boost appeared first on Digital Journal.",
+      "source": "Digital Journal",
+      "url": "https://www.digitaljournal.com/article/tepid-outlook-weighs-on-nike-despite-tariff-refund-boost/",
+      "time": "2026-06-30T22:45:36",
+      "country": "International",
+      "title_ur": "ٹیرف ریفنڈ میں اضافے کے باوجود نائیکی پر ٹیپڈ آؤٹ لک کا وزن ہے۔",
+      "desc_ur": "یہ رقم 30 مئی کو ختم ہونے والی سہ ماہی میں نائکی کے 1.1 بلین ڈالر کے منافع میں سے زیادہ تر تھی -- جو کہ سال پہلے کی مدت کے مقابلے میں تقریباً پانچ گنا کمائی تھی۔\nThe post ٹیرف ریفنڈ میں اضافے کے باوجود ٹیپڈ آؤٹ لک کا وزن نائکی پر ہے appeared first on Digital Journal."
+    },
     {
       "title": "Netanyahu under fire as Bennett claims Israel allows Hamas to rebuild in Gaza",
       "desc": "The controversy over Israel's security policies could shift legislative focus, affecting political stability and regional security dynamics.\nThe post Netanyahu under fire as Bennett claims Israel allows Hamas to rebuild in Gaza appeared first on Crypto Briefi…",
@@ -19,7 +29,7 @@
       "time": "2026-06-30T22:42:13",
       "country": "Russia",
       "title_ur": "'ریاست سے منظور شدہ' روسی ہجوم نے نیویارک سے باہر $1B میڈیکیئر اسکینڈل چلایا، 1M میڈیکل ریکارڈ سے سمجھوتہ کیا: Feds",
-      "desc_ur": "ایک پُرسکون بروکلین اسٹور فرنٹ نے روسی ہجوم کی قیادت میں 1 بلین ڈالر کی میڈیکیئر فراڈ اسکیم کے کلیدی حصے کے طور پر کام کیا، ایک وفاقی فرد جرم - اور اسے کریملن کی حمایت بھی حاصل ہو سکتی تھی۔ اسکیم اتنی ڈھٹائی کی تھی، ایک میڈیکل سپلائی کمپنی جو کہ آپ سے منسلک تھی…"
+      "desc_ur": "ایک پُرسکون بروکلین اسٹور فرنٹ نے روسی ہجوم کی قیادت میں 1 بلین ڈالر کی میڈیکیئر فراڈ اسکیم کے کلیدی حصے کے طور پر کام کیا، ایک وفاقی فرد جرم - اور اسے کریملن کی حمایت بھی حاصل ہو سکتی تھی۔ اسکیم اتنی ڈھٹائی سے بھری ہوئی تھی، ایک میڈیکل سپلائی کمپنی جو آپ سے منسلک تھی…"
     },
     {
       "title": "EXCLUSIVE: New York woman who wished 'every day were Oct. 7' charged with funding Palestinian terror group",
@@ -140,16 +150,6 @@
       "country": "US",
       "title_ur": "رینڈی رینبو نے جازی گانے کی پیروڈی میں ڈونلڈ ٹرمپ کو 'ڈی مینٹڈ' گھسیٹ لیا۔",
       "desc_ur": "رینڈی رینبو نے اپنے تازہ ترین جازی گانے کی پیروڈی میں ڈونلڈ ٹرمپ کو گھسیٹتے ہوئے کول پورٹر کے \"اٹس ڈی لولی\" کو \"ہیز ڈی مینٹڈ\" میں تبدیل کر دیا۔"
-    },
-    {
-      "title": "News Wrap: Heat wave brings dangerous temperatures to central and eastern U.S.",
-      "desc": "In our news wrap Tuesday, a record-breaking heat wave is intensifying across much of the central and eastern U.S. and pushing temperatures to what officials are calling dangerous levels, the Food and Drug Administration announced that Zyn nicotine pouches can…",
-      "source": "PBS",
-      "url": "https://www.pbs.org/newshour/show/news-wrap-heat-wave-brings-dangerous-temperatures-to-central-and-eastern-u-s",
-      "time": "2026-06-30T22:25:34",
-      "country": "US",
-      "title_ur": "نیوز ریپ: گرمی کی لہر وسطی اور مشرقی امریکہ میں خطرناک درجہ حرارت لاتی ہے",
-      "desc_ur": "منگل کو ہماری خبروں کی لپیٹ میں، ایک ریکارڈ توڑ گرمی کی لہر وسطی اور مشرقی امریکہ کے بیشتر حصوں میں شدت اختیار کر رہی ہے اور درجہ حرارت کو خطرناک سطح تک لے جا رہی ہے جسے حکام خطرناک سطح قرار دے رہے ہیں، فوڈ اینڈ ڈرگ ایڈمنسٹریشن نے اعلان کیا کہ Zyn نیکوٹین پاؤچز…"
     }
   ],
   "pakistan": [
@@ -201,7 +201,72 @@
   },
   "weather": {
     "city": "Lahore",
-    "forecast": []
+    "city_ur": "لاہور",
+    "forecast": [
+      {
+        "date": "2026-07-02",
+        "day": "جمعرات",
+        "high": 35,
+        "low": 27,
+        "condition": "Thunderstorm",
+        "condition_ur": "گرج چمک",
+        "precip": 41
+      },
+      {
+        "date": "2026-07-03",
+        "day": "جمعہ",
+        "high": 34,
+        "low": 26,
+        "condition": "Thunderstorm",
+        "condition_ur": "گرج چمک",
+        "precip": 67
+      },
+      {
+        "date": "2026-07-04",
+        "day": "ہفتہ",
+        "high": 37,
+        "low": 28,
+        "condition": "Mainly Clear",
+        "condition_ur": "زیادہ تر صاف",
+        "precip": 14
+      },
+      {
+        "date": "2026-07-05",
+        "day": "اتوار",
+        "high": 37,
+        "low": 28,
+        "condition": "Light Drizzle",
+        "condition_ur": "ہلکی بوندا باندی",
+        "precip": 27
+      },
+      {
+        "date": "2026-07-06",
+        "day": "پیر",
+        "high": 37,
+        "low": 28,
+        "condition": "Drizzle",
+        "condition_ur": "بوندا باندی",
+        "precip": 31
+      },
+      {
+        "date": "2026-07-07",
+        "day": "منگل",
+        "high": 36,
+        "low": 25,
+        "condition": "Thunderstorm",
+        "condition_ur": "گرج چمک",
+        "precip": 52
+      },
+      {
+        "date": "2026-07-08",
+        "day": "بدھ",
+        "high": 34,
+        "low": 29,
+        "condition": "Thunderstorm",
+        "condition_ur": "گرج چمک",
+        "precip": 49
+      }
+    ]
   },
   "date": {
     "gregorian": "Thursday, 2 July 2026",
