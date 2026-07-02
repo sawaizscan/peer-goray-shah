@@ -1,207 +1,177 @@
 {
-  "generated": "2026-07-02T22:02:28Z",
+  "generated": "2026-07-02T23:35:20Z",
   "world": [
     {
-      "title": "Fox News Poll: A close Senate contest is brewing in Iowa",
-      "desc": "Democrat Josh Turek holds a 4-point lead over Republican Ashley Hinson in the 2026 Iowa Senate race as Donald Trump favorability drops statewide.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/fox-news-poll-close-senate-contest-brewing-iowa",
-      "time": "2026-07-01T22:00:05",
-      "country": "US",
-      "title_ur": "فاکس نیوز پول: آئیووا میں سینیٹ کا قریبی مقابلہ جاری ہے۔",
-      "desc_ur": "ریاست بھر میں ڈونلڈ ٹرمپ کی حمایت میں کمی کے بعد ڈیموکریٹ جوش ٹورک کو 2026 کے آئیووا سینیٹ کی دوڑ میں ریپبلکن ایشلے ہینسن پر 4 پوائنٹس کی برتری حاصل ہے۔"
-    },
-    {
-      "title": "Fox News Poll: An early look at the Georgia Senate race",
-      "desc": "A new poll shows Democrat Jon Ossoff leading Republican Mike Collins by 13 points in the 2026 Georgia Senate race, with inflation as the top concern.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/fox-news-poll-early-look-georgia-senate-race",
-      "time": "2026-07-01T22:00:02",
-      "country": "International",
-      "title_ur": "فاکس نیوز پول: جارجیا سینیٹ کی دوڑ پر ایک ابتدائی نظر",
-      "desc_ur": "ایک نیا سروے ظاہر کرتا ہے کہ ڈیموکریٹ جان اوسوف 2026 جارجیا سینیٹ کی دوڑ میں ریپبلکن مائیک کولنز کو 13 پوائنٹس سے آگے لے رہے ہیں، جس میں مہنگائی سرفہرست تشویش ہے۔"
-    },
-    {
-      "title": "The New Socialist Guillotine Is Coming for the Democratic Party",
-      "desc": "Editor’s note: This is a lightly edited transcript of today’s video from Daily Signal senior contributor Victor Davis Hanson. Subscribe to our YouTube channel to see more of his videos. Hello, this is Victor Davis Hanson for the Daily Signal.   We’re watching…",
-      "source": "Daily Signal",
-      "url": "https://www.dailysignal.com/2026/07/01/socialist-guillotine-democratic/",
-      "time": "2026-07-01T22:00:00",
-      "country": "International",
-      "title_ur": "ڈیموکریٹک پارٹی کے لیے نیا سوشلسٹ گیلوٹین آ رہا ہے۔",
-      "desc_ur": "ایڈیٹر کا نوٹ: یہ ڈیلی سگنل کے سینئر معاون وکٹر ڈیوس ہینسن کی جانب سے آج کی ویڈیو کا ہلکا سا ترمیم شدہ ٹرانسکرپٹ ہے۔ اس کی مزید ویڈیوز دیکھنے کے لیے ہمارے یوٹیوب چینل کو سبسکرائب کریں۔ ہیلو، یہ ڈیلی سگنل کے لیے وکٹر ڈیوس ہینسن ہے۔   ہم دیکھ رہے ہیں…"
-    },
-    {
-      "title": "CNA Explains: Why AI stocks are whipsawing markets from Wall Street to Seoul",
-      "desc": "Are recent tech sell-offs a cause for concern, and is an AI bubble forming?",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/singapore/ai-stocks-sell-tech-bubble-wall-street-kospi-6224231",
-      "time": "2026-07-01T22:00:00",
-      "country": "US",
-      "title_ur": "سی این اے وضاحت کرتا ہے: اے آئی اسٹاک وال اسٹریٹ سے سیئول تک مارکیٹوں کو کیوں کر رہے ہیں",
-      "desc_ur": "کیا حالیہ ٹیک سیل آف تشویش کا باعث ہیں، اور کیا AI بلبلہ بن رہا ہے؟"
-    },
-    {
-      "title": "Surrey beat Essex in T20 Blast",
-      "desc": "Northamptonshire Steelbacks maintain their perfect record in the T20 Blast by beating Gloucestershire at Bristol.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cly7zjnl089o",
-      "time": "2026-07-01T21:59:46",
-      "country": "International",
-      "title_ur": "ٹی ٹوئنٹی بلاسٹ میں سرے نے ایسیکس کو ہرا دیا۔",
-      "desc_ur": "نارتھمپٹن ​​شائر اسٹیل بیکس نے برسٹل میں گلوسٹر شائر کو شکست دے کر T20 بلاسٹ میں اپنا بہترین ریکارڈ برقرار رکھا۔"
-    },
-    {
-      "title": "Commentary: Indian sailors’ deaths in US strike reopen old wounds and deepen new grievances",
-      "desc": "After a US military strike killed three Indians on a commercial ship near the Strait of Hormuz, India fears that its concerns are becoming easy to overlook, says think tank researcher Rahul Jaybhay.",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/commentary/us-india-ties-strike-sailors-hormuz-strait-6224271",
-      "time": "2026-07-01T21:59:00",
-      "country": "India",
-      "title_ur": "تبصرہ: امریکی حملے میں ہندوستانی ملاحوں کی موت پرانے زخموں کو دوبارہ کھولتی ہے اور نئی شکایات کو گہرا کرتی ہے",
-      "desc_ur": "تھنک ٹینک کے محقق راہول جے بھائے کا کہنا ہے کہ آبنائے ہرمز کے قریب ایک تجارتی جہاز پر امریکی فوجی حملے میں تین ہندوستانیوں کی ہلاکت کے بعد، ہندوستان کو خدشہ ہے کہ اس کے خدشات کو نظر انداز کرنا آسان ہوتا جا رہا ہے۔"
-    },
-    {
-      "title": "Bill O’Reilly Says Megyn Kelly and Tucker Carlson Are Only Anti-Trump Because They’re ‘Personalities,’ Not Journalists",
-      "desc": "\"I’m not in it for clicks,\" he adds\nThe post Bill O’Reilly Says Megyn Kelly and Tucker Carlson Are Only Anti-Trump Because They’re ‘Personalities,’ Not Journalists appeared first on TheWrap.",
-      "source": "TheWrap",
-      "url": "https://www.thewrap.com/media-platforms/journalism/bill-o-reilly-slams-megyn-kelly-tucker-carlson-anti-trump/",
-      "time": "2026-07-01T21:57:50",
-      "country": "US",
-      "title_ur": "بل او ریلی کا کہنا ہے کہ میگین کیلی اور ٹکر کارلسن صرف ٹرمپ مخالف ہیں کیونکہ وہ 'شخصیات' ہیں، صحافی نہیں۔",
-      "desc_ur": "\"میں کلکس کے لیے اس میں نہیں ہوں،\" وہ مزید کہتے ہیں۔\nThe post بل او ریلی کا کہنا ہے کہ میگین کیلی اور ٹکر کارلسن صرف ٹرمپ مخالف ہیں کیونکہ وہ ’شخصیات‘ ہیں، صحافی نہیں appeared first on TheWrap."
-    },
-    {
-      "title": "'I'm Going to Help Build a Third Party': Tucker Carlson Drops Political Bombshell",
-      "desc": "Tucker Carlson says he plans to help build a third political party.\nThe post ‘I’m Going to Help Build a Third Party’: Tucker Carlson Drops Political Bombshell appeared first on Breitbart.",
-      "source": "Breitbart News",
-      "url": "https://www.breitbart.com/politics/2026/07/01/im-going-help-build-third-party-tucker-carlson-drops-political-bombshell/",
-      "time": "2026-07-01T21:53:47",
-      "country": "Saudi Arabia",
-      "title_ur": "'میں تیسرے فریق کی تعمیر میں مدد کرنے جا رہا ہوں': ٹکر کارلسن نے سیاسی بمبشیل چھوڑ دیا",
-      "desc_ur": "ٹکر کارلسن کا کہنا ہے کہ وہ تیسری سیاسی جماعت بنانے میں مدد کرنے کا ارادہ رکھتے ہیں۔\nThe post 'میں تیسری پارٹی کی تعمیر میں مدد کرنے جا رہا ہوں': ٹکر کارلسن نے سیاسی بمباری چھوڑ دی appeared first on Breitbart."
-    },
-    {
-      "title": "Trump sees progress as US, Iran hold Qatar talks",
-      "desc": "US President Donald Trump said Wednesday that indirect talks with Iran in Qatar were making progress, offering a tentative sign that diplomacy was holding after recent exchanges of fire threatened efforts to end the Middle East war.\nIran's Deputy Foreign Mini…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/f8dfc68502993d0f",
-      "time": "2026-07-01T21:52:02",
-      "country": "Iran",
-      "title_ur": "ٹرمپ امریکہ اور ایران کے درمیان قطر میں ہونے والے مذاکرات میں پیش رفت دیکھ رہے ہیں۔",
-      "desc_ur": "امریکی صدر ڈونلڈ ٹرمپ نے بدھ کو کہا کہ قطر میں ایران کے ساتھ بالواسطہ بات چیت میں پیش رفت ہو رہی ہے، جو ایک عارضی علامت پیش کر رہی ہے کہ حالیہ فائرنگ کے تبادلے کے بعد مشرق وسطیٰ کی جنگ کو ختم کرنے کی کوششوں کو خطرہ لاحق ہونے کے بعد سفارت کاری ہو رہی ہے۔\nایران کے نائب وزیر خارجہ..."
-    },
-    {
-      "title": "US Navy crew member missing as chopper goes down in Arabian Sea",
-      "desc": "A US Navy service member is missing and three others are injured after their MH-60S Sea Hawk helicopter went down in the Arabian Sea.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-07-02/us-navy-helicopter-goes-down-in-arabian-sea/106868126",
-      "time": "2026-07-01T21:51:34",
-      "country": "US",
-      "title_ur": "بحیرہ عرب میں ہیلی کاپٹر گرنے سے امریکی بحریہ کا عملہ لاپتہ ہوگیا۔",
-      "desc_ur": "MH-60S سی ہاک ہیلی کاپٹر بحیرہ عرب میں گرنے سے امریکی بحریہ کا ایک سروس ممبر لاپتہ اور تین دیگر زخمی ہو گئے۔"
-    },
-    {
-      "title": "U.S. Air Force Officer Arrested on Capitol Steps for Call to Impeach Trump: ‘The Bill Must Come Due’",
-      "desc": "Air Force Major Jason Watson was arrested after he joined others to call for the impeachment and removal from office of President Donald Trump and Vice President JD Vance.\nThe post U.S. Air Force Officer Arrested on Capitol Steps for Call to Impeach Trump: ‘T…",
-      "source": "Mediaite",
-      "url": "https://www.mediaite.com/media/news/u-s-air-force-officer-arrested-on-capitol-steps-for-call-to-impeach-trump-the-bill-must-come-due/",
-      "time": "2026-07-01T21:47:26",
-      "country": "US",
-      "title_ur": "امریکی فضائیہ کے افسر کو ٹرمپ کے مواخذے کی کال کے لیے کیپیٹل سٹیپس پر گرفتار کیا گیا: 'بل لازمی طور پر آنا چاہیے'",
-      "desc_ur": "ایئر فورس کے میجر جیسن واٹسن کو اس وقت گرفتار کیا گیا جب وہ صدر ڈونلڈ ٹرمپ اور نائب صدر جے ڈی وینس کے مواخذے اور عہدے سے ہٹانے کا مطالبہ کرنے کے لیے دوسروں کے ساتھ شامل ہوئے۔\nThe post امریکی فضائیہ کا افسر ٹرمپ کے مواخذے کی کال کے لیے کیپیٹل اسٹیپس پر گرفتار: 'T…"
-    },
-    {
-      "title": "‘Come and have a go’: Captains take on Iran in Strait of Hormuz",
-      "desc": "As US-Iran peace talks flounder in Qatar, stranded ship captains are taking matters into their own hands to escape the Strait of ...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/5854ee2cc9974ec9",
-      "time": "2026-07-01T21:45:04",
-      "country": "Iran",
-      "title_ur": "'آؤ اور جاؤ': آبنائے ہرمز میں کپتانوں کا ایران سے مقابلہ",
-      "desc_ur": "جیسا کہ قطر میں امریکہ ایران امن مذاکرات ناکام ہو رہے ہیں، پھنسے ہوئے جہاز کے کپتان آبنائے سے بچنے کے لیے معاملات کو اپنے ہاتھ میں لے رہے ہیں..."
-    },
-    {
-      "title": "How the Iran War Ignited a Clash Between Trump and the Saudi Crown Prince",
-      "desc": "Crown Prince Mohammed bin Salman pressed President Trump earlier to cripple Iran. But as Iran asserted its power, the prince urged a cease-fire, and is now pursuing his security priorities.President Trump and his military commanders were in a bind.They had an…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4386269/posts",
-      "time": "2026-07-01T21:40:24",
-      "country": "Iran",
-      "title_ur": "کیسے ایران جنگ نے ٹرمپ اور سعودی ولی عہد کے درمیان تصادم کو ہوا دی۔",
-      "desc_ur": "ولی عہد شہزادہ محمد بن سلمان نے اس سے قبل صدر ٹرمپ پر ایران کو معذور کرنے کے لیے دباؤ ڈالا تھا۔ لیکن جیسے ہی ایران نے اپنی طاقت کا دعویٰ کیا، شہزادے نے جنگ بندی پر زور دیا، اور اب وہ اپنی سلامتی کی ترجیحات پر عمل پیرا ہے۔ صدر ٹرمپ اور ان کے فوجی کمانڈر ایک بندھن میں تھے۔"
-    },
-    {
-      "title": "Maccabiah opening ceremony kicks off in Jerusalem, thousands of athletes in attendance",
-      "desc": "Both President Herzog and Prime Minister Netanyahu addressed the crowd during the ceremony, bidding the Jews who had come from around the world a warm “welcome home. ” The Maccabiah Games, often referred to as the “Jewish Olympics,” kicked off on Wednesday ev…",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/sports/article-901157",
-      "time": "2026-07-01T21:40:14",
+      "title": "Explosions rock Kyiv as Ukraine braces for Russia's next bombardment - The Kyiv Independent",
+      "desc": "Explosions rock Kyiv as Ukraine braces for Russia's next bombardmentThe Kyiv Independent Russian drones attack Ukrainian capital, set central district hotel on fireReuters Fire erupts in central Kyiv following explosionThe Times of Israel Ukraine war briefing…",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184262472",
+      "time": "2026-07-01T23:32:47",
       "country": "Israel",
-      "title_ur": "یروشلم میں مکابیہ کی افتتاحی تقریب کا آغاز، ہزاروں ایتھلیٹس نے شرکت کی۔",
-      "desc_ur": "صدر ہرزوگ اور وزیر اعظم نیتن یاہو دونوں نے تقریب کے دوران ہجوم سے خطاب کرتے ہوئے دنیا بھر سے آئے ہوئے یہودیوں کو پرتپاک \"استقبال گھر\" کہا۔ مکابیہ گیمز، جنہیں اکثر \"یہودی اولمپکس\" کہا جاتا ہے، بدھ کے روز شروع ہوا…"
+      "title_ur": "دھماکوں نے کیف کو ہلا کر رکھ دیا کیونکہ یوکرین روس کی اگلی بمباری کے لیے تیار ہے - دی کیف انڈیپنڈنٹ",
+      "desc_ur": "دھماکوں نے کیف کو ہلا کر رکھ دیا جب یوکرین روس کی اگلی بمباری کی تیاری کر رہا ہے کیف آزاد روسی ڈرون نے یوکرین کے دارالحکومت پر حملہ کیا، سینٹرل ڈسٹرکٹ ہوٹل کو آگ لگا دی"
     },
     {
-      "title": "Birthright Ruling Won’t Halt Trump’s War on Immigrants — Only Organizing Will",
-      "desc": "Sustained resistance in the form of walkouts, shutdowns, and strikes is our best way to defeat anti-immigrant policies.",
-      "source": "Truthout",
-      "url": "https://truthout.org/articles/birthright-ruling-wont-halt-trumps-war-on-immigrants-only-organizing-will/",
-      "time": "2026-07-01T21:35:56",
+      "title": "The Japanese yen is at a 40-year low. Here’s why that matters | CNN Business",
+      "desc": "The Japanese yen has dropped to a 40-year low against the US dollar, putting investors on watch for potential government intervention by Japan that could ripple through US stocks, the Treasury market and the broader global economy.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/07/01/economy/japanese-yen-low",
+      "time": "2026-07-01T23:30:25",
       "country": "US",
-      "title_ur": "پیدائشی حق حکمرانی تارکین وطن کے خلاف ٹرمپ کی جنگ کو نہیں روکے گی - صرف آرگنائزنگ مرضی",
-      "desc_ur": "واک آؤٹ، شٹ ڈاؤن اور ہڑتالوں کی شکل میں پائیدار مزاحمت تارکین وطن مخالف پالیسیوں کو شکست دینے کا ہمارا بہترین طریقہ ہے۔"
+      "title_ur": "جاپانی ین 40 سال کی کم ترین سطح پر ہے۔ یہاں یہ ہے کہ اس کی اہمیت کیوں ہے | سی این این بزنس",
+      "desc_ur": "جاپانی ین امریکی ڈالر کے مقابلے میں 40 سال کی کم ترین سطح پر آ گیا ہے، جس نے سرمایہ کاروں کو جاپان کی جانب سے ممکنہ حکومتی مداخلت پر نظر رکھی ہوئی ہے جو امریکی اسٹاک، ٹریژری مارکیٹ اور وسیع تر عالمی معیشت کو متاثر کر سکتی ہے۔"
+    },
+    {
+      "title": "UK Diesel Prices Post Biggest Monthly Drop on Record, RAC Says",
+      "desc": "UK diesel costs tumbled by the most on record in June, the latest sign the inflationary shock delivered by the Iran war is rapidly unwinding.",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/uk-diesel-prices-post-biggest-monthly-drop-on-record-rac-says",
+      "time": "2026-07-01T23:29:38",
+      "country": "Iran",
+      "title_ur": "RAC کا کہنا ہے کہ یوکے ڈیزل کی قیمتوں میں ماہانہ سب سے بڑی کمی ریکارڈ کی گئی ہے۔",
+      "desc_ur": "جون میں برطانیہ کے ڈیزل کی قیمتوں میں سب سے زیادہ کمی ریکارڈ کی گئی، یہ تازہ ترین نشانی ہے کہ ایران جنگ سے مہنگائی کے جھٹکے تیزی سے ختم ہو رہے ہیں۔"
+    },
+    {
+      "title": "Why Japanese airlines' $400 fuel surcharges are hitting now — and when they will end",
+      "desc": "Fuel surcharges at Japan Airlines and All Nippon Airways increased Wednesday, despite falling jet fuel costs in Asia.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/02/japan-airlines-increase-fuel-surcharges-despite-falling-jet-fuel-costs.html",
+      "time": "2026-07-01T23:27:45",
+      "country": "International",
+      "title_ur": "جاپانی ایئر لائنز کے $400 فیول سرچارجز اب کیوں مار رہے ہیں - اور یہ کب ختم ہوں گے۔",
+      "desc_ur": "ایشیا میں جیٹ فیول کی قیمتوں میں کمی کے باوجود بدھ کو جاپان ایئر لائنز اور آل نپون ایئرویز پر فیول سرچارجز میں اضافہ ہوا۔"
+    },
+    {
+      "title": "US, Iran conclude talks focused on Strait of Hormuz",
+      "desc": "Iran and the US have concluded a round of indirect ⁠talks with no sign they had made headway toward a lasting peace.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/middle-east/2026/0702/1581343-middle-east/",
+      "time": "2026-07-01T23:26:29",
+      "country": "Iran",
+      "title_ur": "امریکہ اور ایران کے درمیان آبنائے ہرمز پر بات چیت ختم",
+      "desc_ur": "ایران اور امریکہ نے بلاواسطہ بات چیت کا ایک دور مکمل کر لیا ہے جس کے کوئی آثار نہیں ہیں کہ وہ دیرپا امن کی طرف پیش رفت کر سکے۔"
+    },
+    {
+      "title": "Electric vehicle registrations up 165% in the June quarter with Iran conflict - but will the trend continue?",
+      "desc": "Battery and hybrid vehicles made up a record 38.2% of June registrations.",
+      "source": "New Zealand Herald",
+      "url": "https://www.nzherald.co.nz/business/electric-vehicle-registrations-up-165-in-the-june-quarter-with-iran-conflict-but-will-the-trend-continue/premium/3VUA3C7A6FBOBNSZPW3HZUMOFY/",
+      "time": "2026-07-01T23:25:57",
+      "country": "Iran",
+      "title_ur": "ایران کے تنازع کے ساتھ جون کی سہ ماہی میں الیکٹرک گاڑیوں کی رجسٹریشن میں 165 فیصد اضافہ ہوا - لیکن کیا یہ رجحان جاری رہے گا؟",
+      "desc_ur": "بیٹری اور ہائبرڈ گاڑیوں نے جون کی رجسٹریشن کا 38.2 فیصد ریکارڈ بنایا۔"
+    },
+    {
+      "title": "WSJ Editorial Board Accuses Trump Family of ‘Cashing In on the Presidency in Big and Sketchy Ways’",
+      "desc": "President Donald Trump and his family's financial dealings drew sharp criticism from The Wall Street Journal's editorial board on Wednesday, with the conservative newspaper accusing the Trumps of \"cashing in on the Presidency in big and sketchy ways.\"\nThe pos…",
+      "source": "Mediaite",
+      "url": "https://www.mediaite.com/media/news/wsj-editorial-board-accuses-trump-family-of-cashing-in-on-the-presidency-in-big-and-sketchy-ways/",
+      "time": "2026-07-01T23:24:51",
+      "country": "US",
+      "title_ur": "ڈبلیو ایس جے ایڈیٹوریل بورڈ نے ٹرمپ فیملی پر 'بڑے اور خاکے دار طریقوں سے صدارت پر کیش ان' کا الزام لگایا",
+      "desc_ur": "صدر ڈونلڈ ٹرمپ اور ان کے خاندان کے مالی معاملات کو بدھ کے روز وال سٹریٹ جرنل کے ادارتی بورڈ کی طرف سے شدید تنقید کا نشانہ بنایا گیا، قدامت پسند اخبار نے ٹرمپ پر \"بڑے اور خاکے دار طریقوں سے ایوانِ صدر کو کیش اِن کرنے\" کا الزام لگایا۔\nپوزیشن…"
+    },
+    {
+      "title": "Diesel sees biggest monthly fall in 26 years. What's happening to fuel prices?",
+      "desc": "UK motorists experienced the fastest monthly fall in diesel prices since 2000 with the cost plunging by 17p a litre in June, according to motoring group RAC.\nWhen the US-Israel war with Iran began on 28 February, fuel prices surged as the conflict severely di…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/a40676e3a505b9a9",
+      "time": "2026-07-01T23:22:48",
+      "country": "Iran",
+      "title_ur": "ڈیزل 26 سالوں میں سب سے بڑی ماہانہ گراوٹ دیکھ رہا ہے۔ ایندھن کی قیمتوں کا کیا ہو رہا ہے؟",
+      "desc_ur": "موٹرنگ گروپ RAC کے مطابق، برطانیہ کے گاڑی چلانے والوں نے 2000 کے بعد ڈیزل کی قیمتوں میں سب سے تیزی سے ماہانہ کمی کا تجربہ کیا اور جون میں لاگت میں 17p فی لیٹر کمی واقع ہوئی۔\nجب 28 فروری کو ایران کے ساتھ امریکہ اور اسرائیل کی جنگ شروع ہوئی تو ایندھن کی قیمتوں میں اضافہ ہوا کیونکہ تنازعہ شدید طور پر…"
+    },
+    {
+      "title": "Audacity of Trump's billion-dollar haul has shaken MAGA allies from their slumber... now horrified insiders are confiding their worst fears about these jaw-dropping receipts: MARK HALPERIN",
+      "desc": "Some of my MAGA sources are taken aback, even horrified, by these latest reports, considering the deals greedy, unseemly and politically unwise, bad karma and possibly corrupt.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/debate/article-15945243/Trump-billion-financial-disclosures-MARK-HALPERIN.html",
+      "time": "2026-07-01T23:22:37",
+      "country": "US",
+      "title_ur": "ٹرمپ کے اربوں ڈالر کی داد رسی نے MAGA کے اتحادیوں کو ان کی نیند سے ہلا کر رکھ دیا ہے... اب خوفزدہ اندرونی ان جبڑے گرنے والی رسیدوں کے بارے میں اپنے بدترین خوف کا اظہار کر رہے ہیں: مارک ہالپرین",
+      "desc_ur": "میرے MAGA کے کچھ ذرائع ان تازہ ترین رپورٹوں سے، سودوں کو لالچی، غیر مناسب اور سیاسی طور پر غیر دانشمندانہ، برے کرما اور ممکنہ طور پر بدعنوان سمجھ کر حیران، حتیٰ کہ خوف زدہ بھی ہیں۔"
+    },
+    {
+      "title": "Iran limits IAEA access to nuclear sites after recent bombings",
+      "desc": "Iran's restricted IAEA access may hinder nuclear negotiations, impacting global market confidence and complicating diplomatic resolutions.\nThe post Iran limits IAEA access to nuclear sites after recent bombings appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-limits-iaea-access-to-nuclear-sites-after-recent-bombings/",
+      "time": "2026-07-01T23:22:25",
+      "country": "Iran",
+      "title_ur": "حالیہ بم دھماکوں کے بعد ایران نے جوہری مقامات تک IAEA کی رسائی کو محدود کر دیا۔",
+      "desc_ur": "ایران کی IAEA کی محدود رسائی جوہری مذاکرات میں رکاوٹ بن سکتی ہے، عالمی مارکیٹ کے اعتماد کو متاثر کر سکتی ہے اور سفارتی قراردادوں کو پیچیدہ بنا سکتی ہے۔\nThe post حالیہ بم دھماکوں کے بعد ایران نے IAEA کی جوہری سائٹس تک رسائی محدود کردی appeared first on Crypto Briefing."
+    },
+    {
+      "title": "Crude slips below $72, petrol stays above N1,000",
+      "desc": "Despite crude oil prices dropping below $72, petrol prices in Nigeria remain above N1,000. Marketers warn against price controls amid consumer exploitation\n\nRead More: https://punchng.com/crude-slips-below-72-petrol-stays-above-n1000/",
+      "source": "The Punch",
+      "url": "https://punchng.com/crude-slips-below-72-petrol-stays-above-n1000/",
+      "time": "2026-07-01T23:22:09",
+      "country": "International",
+      "title_ur": "خام تیل $72 سے نیچے پھسل گیا، پیٹرول N1,000 سے اوپر رہتا ہے۔",
+      "desc_ur": "خام تیل کی قیمت $72 سے نیچے گرنے کے باوجود، نائیجیریا میں پیٹرول کی قیمتیں N1,000 سے اوپر ہیں۔ مارکیٹرز صارفین کے استحصال کے درمیان قیمتوں کے کنٹرول کے خلاف خبردار کرتے ہیں۔\n\nمزید پڑھیں: https://punchng.com/crude-slips-below-72-petrol-stays-above-n1000/"
+    },
+    {
+      "title": "When do the Socceroos play next and how to watch the knockout match",
+      "desc": "Australia's journey at the 2026 World Cup continues this weekend as the Socceroos take on Egypt. Here's everything you need to know.",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-07-02/socceroos-vs-egypt-explainer-world-cup-knockout-stage/106868294",
+      "time": "2026-07-01T23:21:37",
+      "country": "US",
+      "title_ur": "Socceroos اگلا کب کھیلتے ہیں اور ناک آؤٹ میچ کیسے دیکھنا ہے۔",
+      "desc_ur": "2026 ورلڈ کپ میں آسٹریلیا کا سفر اس ہفتے کے آخر میں جاری ہے جب Socceroos مصر سے مقابلہ کریں گے۔ یہاں وہ سب کچھ ہے جو آپ کو جاننے کی ضرورت ہے۔"
+    },
+    {
+      "title": "Beyond October 7: Hamas’ Atrocities Against Gazan Children and Civilians",
+      "desc": "The American left and the LGBTQ alliance love Hamas, but they seem not to know or care that Hamas is a brutal, repressive terrorist organization that would consume the very leftists who support it.\nThe post Beyond October 7: Hamas’ Atrocities Against Gazan Ch…",
+      "source": "Thegatewaypundit.com",
+      "url": "https://www.thegatewaypundit.com/2026/07/beyond-october-7-hamas-atrocities-against-gazan-children/",
+      "time": "2026-07-01T23:20:58",
+      "country": "Israel",
+      "title_ur": "7 اکتوبر سے آگے: غزہ کے بچوں اور شہریوں کے خلاف حماس کے مظالم",
+      "desc_ur": "امریکی بائیں بازو اور LGBTQ اتحاد حماس سے محبت کرتے ہیں، لیکن ایسا لگتا ہے کہ وہ یہ نہیں جانتے یا پرواہ نہیں کرتے کہ حماس ایک سفاک، جابرانہ دہشت گرد تنظیم ہے جو اس کی حمایت کرنے والے بائیں بازو کے لوگوں کو کھا جائے گی۔\nThe post 7 اکتوبر سے آگے: غزہ کے خلاف حماس کے مظالم…"
+    },
+    {
+      "title": "Bridgewater’s flagship macro fund gains 8% in first half as AI strategy matches pace",
+      "desc": "Bridgewater's AI-driven fund's matching performance with its flagship suggests a pivotal shift towards technology in investment strategies.\nThe post Bridgewater’s flagship macro fund gains 8% in first half as AI strategy matches pace appeared first on Crypto …",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/bridgewater-macro-fund-gains-h1-2026/",
+      "time": "2026-07-01T23:20:03",
+      "country": "International",
+      "title_ur": "برج واٹر کے فلیگ شپ میکرو فنڈ میں پہلی ششماہی میں 8 فیصد اضافہ ہوا کیونکہ AI حکمت عملی رفتار سے ملتی ہے۔",
+      "desc_ur": "برج واٹر کے AI سے چلنے والے فنڈ کی اپنے فلیگ شپ کے ساتھ مماثل کارکردگی سرمایہ کاری کی حکمت عملیوں میں ٹیکنالوجی کی طرف ایک اہم تبدیلی کی تجویز کرتی ہے۔\nThe post برج واٹر کے فلیگ شپ میکرو فنڈ میں پہلی ششماہی میں 8 فیصد اضافہ ہوا کیونکہ AI حکمت عملی رفتار سے مماثل ہے appeared first on Crypto …"
+    },
+    {
+      "title": "Oil Extends Decline as Barrels Flow Through Strait of Hormuz",
+      "desc": "Oil fell for a third day as flows through the Strait of Hormuz climbed and there were signs of progress in indirect talks between the US and Iran.",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/oil-extends-decline-as-barrels-flow-through-strait-of-hormuz",
+      "time": "2026-07-01T23:19:21",
+      "country": "Iran",
+      "title_ur": "آبنائے ہرمز کے ذریعے بیرل کے بہاؤ کی وجہ سے تیل کمی کو بڑھاتا ہے۔",
+      "desc_ur": "آبنائے ہرمز سے گزرتے ہوئے تیل کی قیمتوں میں تیسرے روز بھی کمی ہوئی اور امریکا اور ایران کے درمیان بالواسطہ مذاکرات میں پیش رفت کے آثار نظر آئے۔"
     }
   ],
   "pakistan": [
     {
-      "title": "After His Messy Breakup With Republicans, Tucker Carlson Claims He’s Building A Political Party",
-      "desc": "Carlson argued that the only other option is to be \"ruled by the most unscrupulous people.”",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/tucker-carlson-building-new-political-party_n_6a457225e4b001e08fc06c2f",
-      "time": "2026-07-01T22:02:00",
+      "title": "Gal Gadot suffers another career blow as her new Netflix film is dubbed one of the year's worst releases: 'Get her off the screen!'",
+      "desc": "Gal Gadot has long been ridiculed for her performances in front of the camera, and her latest film is no exception.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/tvshowbiz/article-15946211/Gal-Gadot-netflix-hand-dante-reviews.html",
+      "time": "2026-07-01T23:30:03",
       "country": "Pakistan",
-      "title_ur": "ریپبلکن کے ساتھ اس کے گندے بریک اپ کے بعد، ٹکر کارلسن کا دعویٰ ہے کہ وہ ایک سیاسی پارٹی بنا رہا ہے۔",
-      "desc_ur": "کارلسن نے استدلال کیا کہ واحد دوسرا آپشن یہ ہے کہ \"انتہائی بےایمان لوگوں کی طرف سے حکومت کی جائے۔\""
+      "title_ur": "Gal Gadot کو کیریئر کا ایک اور دھچکا لگا کیونکہ اس کی نئی Netflix فلم کو سال کی بدترین ریلیز میں سے ایک قرار دیا گیا ہے: 'اسے اسکرین سے دور کرو!'",
+      "desc_ur": "Gal Gadot کا کیمرے کے سامنے پرفارمنس کے لیے کافی عرصے سے مذاق اڑایا جاتا رہا ہے، اور ان کی تازہ ترین فلم بھی اس سے مستثنیٰ نہیں ہے۔"
     },
     {
-      "title": "Quantum X Labs Demonstrates First All-Optical HRG Architecture for Advanced Inertial Sensing",
-      "desc": "Quantum X Labs Demonstrates First All-Optical HRG Architecture for Advanced Inertial Sensing...",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/07/01/3321044/0/en/Quantum-X-Labs-Demonstrates-First-All-Optical-HRG-Architecture-for-Advanced-Inertial-Sensing.html",
-      "time": "2026-07-01T21:51:00",
+      "title": "Senegal exits 2026 World Cup after 3-2 loss to Norway",
+      "desc": "Senegal's World Cup exit may shift focus to future team strategies and market dynamics, impacting perceptions of their international prospects.\nThe post Senegal exits 2026 World Cup after 3-2 loss to Norway appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/senegal-exits-2026-world-cup-after-3-2-loss-to-norway/",
+      "time": "2026-07-01T23:16:31",
       "country": "Pakistan",
-      "title_ur": "کوانٹم ایکس لیبز نے ایڈوانسڈ انرشل سینسنگ کے لیے پہلے آل آپٹیکل ایچ آر جی آرکیٹیکچر کا مظاہرہ کیا",
-      "desc_ur": "کوانٹم ایکس لیبز نے ایڈوانسڈ انرشل سینسنگ کے لیے پہلے آل آپٹیکل ایچ آر جی آرکیٹیکچر کا مظاہرہ کیا..."
-    },
-    {
-      "title": "Why The AI Credit Rush Isn’t Hurting The Bond Market, But Is Boosting Bank Stocks",
-      "desc": "AI borrowing is surging, but investors say it's not disrupting the bond market. Instead, banks are benefiting from the financing boom.",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/brandonkochkodin/2026/07/01/why-the-ai-credit-rush-isnt-hurting-the-bond-market-but-is-boosting-bank-stocks/",
-      "time": "2026-07-01T21:50:56",
-      "country": "Pakistan",
-      "title_ur": "کیوں AI کریڈٹ رش بانڈ مارکیٹ کو نقصان نہیں پہنچا رہا ہے، لیکن بینک اسٹاک کو بڑھا رہا ہے",
-      "desc_ur": "AI قرض لینے میں اضافہ ہو رہا ہے، لیکن سرمایہ کاروں کا کہنا ہے کہ یہ بانڈ مارکیٹ میں خلل نہیں ڈال رہا ہے۔ اس کے بجائے، بینک فنانسنگ بوم سے فائدہ اٹھا رہے ہیں۔"
-    },
-    {
-      "title": "The End: British Monarchy Is Dead as Charles Bows the Knee to Islam With Sickening Change to His Own Title",
-      "desc": "We are one step closer to the United Kingdom of Great Britain and Northern Ireland becoming the Islamic Republic of Great Britain and Northern Ireland. King Charles III has a new description in his role as monarch to that end. In an annual review published fo…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4386271/posts",
-      "time": "2026-07-01T21:45:58",
-      "country": "Pakistan",
-      "title_ur": "انجام: برطانوی بادشاہت ختم ہو چکی ہے کیونکہ چارلس نے اسلام کے سامنے گھٹنے ٹیک دیے ہیں اور اس کے اپنے عنوان میں بیمار تبدیلی",
-      "desc_ur": "ہم برطانیہ کی برطانیہ اور شمالی آئرلینڈ کے اسلامی جمہوریہ برطانیہ اور شمالی آئرلینڈ بننے کے ایک قدم قریب ہیں۔ بادشاہ چارلس III کے پاس اس مقصد تک بادشاہ کے طور پر اپنے کردار میں ایک نئی وضاحت ہے۔ کے لیے شائع ہونے والے سالانہ جائزے میں…"
-    },
-    {
-      "title": "U.S. tries to talk Iran out of tolls as talks resume in Doha - Axios",
-      "desc": "U.S. tries to talk Iran out of tolls as talks resume in DohaAxios Iran war live: Iran says meetings with Pakistani, Qatari officials concludeAl Jazeera US envoys arrive in Qatar for meetings on Iran, with tensions high over HormuzAP News US, Iran wrap up indi…",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184259268",
-      "time": "2026-07-01T21:14:08",
-      "country": "Pakistan",
-      "title_ur": "دوحہ - Axios میں بات چیت کے دوبارہ شروع ہونے کے ساتھ ہی امریکہ ایران کے ساتھ ٹول سے باہر بات کرنے کی کوشش کرتا ہے۔",
-      "desc_ur": "دوحہ ایکسیوس میں بات چیت دوبارہ شروع ہونے پر امریکہ نے ایران سے بات کرنے کی کوشش کی ایران جنگ لائیو: ایران کا کہنا ہے کہ پاکستانی اور قطری حکام کے ساتھ ملاقاتیں نتیجہ اخذ الجزیرہ امریکی ایلچی ایران سے متعلق ملاقاتوں کے لیے قطر پہنچ گئے، ہرمزاپ نیوز پر کشیدگی عروج پر ہے امریکہ، ایران نے بھارت کو لپیٹ کر…"
+      "title_ur": "سینیگال ناروے سے 3-2 کی شکست کے بعد 2026 ورلڈ کپ سے باہر ہو گیا۔",
+      "desc_ur": "سینیگال کا ورلڈ کپ سے باہر ہونا مستقبل کی ٹیم کی حکمت عملیوں اور مارکیٹ کی حرکیات پر توجہ مرکوز کر سکتا ہے، جو ان کے بین الاقوامی امکانات کے تصورات کو متاثر کر سکتا ہے۔\nThe post سینیگال ناروے سے 3-2 سے شکست کے بعد 2026 ورلڈ کپ سے باہر appeared first on Crypto Briefing."
     }
   ],
   "business": {
@@ -220,7 +190,7 @@
         "low": 28,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 23
+        "precip": 37
       },
       {
         "date": "2026-07-04",
@@ -229,7 +199,7 @@
         "low": 30,
         "condition": "Light Drizzle",
         "condition_ur": "ہلکی بوندا باندی",
-        "precip": 19
+        "precip": 34
       },
       {
         "date": "2026-07-05",
@@ -238,7 +208,7 @@
         "low": 30,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 27
+        "precip": 39
       },
       {
         "date": "2026-07-06",
@@ -247,7 +217,7 @@
         "low": 25,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 41
+        "precip": 35
       },
       {
         "date": "2026-07-07",
@@ -265,7 +235,7 @@
         "low": 28,
         "condition": "Light Drizzle",
         "condition_ur": "ہلکی بوندا باندی",
-        "precip": 47
+        "precip": 35
       },
       {
         "date": "2026-07-09",
