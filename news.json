@@ -1,197 +1,217 @@
 {
-  "generated": "2026-07-03T09:41:27Z",
+  "generated": "2026-07-03T12:05:23Z",
   "world": [
     {
-      "title": "Your Electronics Are About to Get Way More Expensive",
-      "desc": "The A.I. boom and the Iran war are driving demand for chips to unprecedented levels—leading to bigger price tags for your gadgets.",
-      "source": "Slate Magazine",
-      "url": "https://slate.com/business/2026/07/ai-car-phone-expensive-iran.html",
-      "time": "2026-07-02T09:40:00",
-      "country": "Iran",
-      "title_ur": "آپ کا الیکٹرانکس مزید مہنگا ہونے والا ہے۔",
-      "desc_ur": "A.I. بوم اور ایران کی جنگ چپس کی مانگ کو بے مثال سطح تک لے جا رہی ہے - جس کے نتیجے میں آپ کے گیجٹس کی قیمتوں میں اضافہ ہو رہا ہے۔"
-    },
-    {
-      "title": "Tehran warns against attacks as it prepares for Khamenei funeral",
-      "desc": "US-Iran talks conclude in Doha with no sign of progress towards lasting peace",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/07/02/tehran-warns-against-attacks-as-it-prepares-for-khamenei-funeral/",
-      "time": "2026-07-02T09:33:42",
-      "country": "Iran",
-      "title_ur": "تہران نے حملوں کے خلاف خبردار کیا ہے جب وہ خامنہ ای کے جنازے کی تیاری کر رہا ہے۔",
-      "desc_ur": "دوحہ میں امریکہ اور ایران کے مذاکرات دیرپا امن کی طرف پیش رفت کے بغیر ختم ہو گئے۔"
-    },
-    {
-      "title": "Masoud Pezeshkian calls for national unity after Khamenei’s death, crypto markets react sharply",
-      "desc": "The leadership transition in Iran could reshape geopolitical dynamics and economic landscapes, influencing global markets and diplomacy.\nThe post Masoud Pezeshkian calls for national unity after Khamenei’s death, crypto markets react sharply appeared first on…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/khamenei-death-iran-crypto-markets-react/",
-      "time": "2026-07-02T09:32:37",
-      "country": "Iran",
-      "title_ur": "خامنہ ای کی موت کے بعد مسعود پیزشکیان نے قومی اتحاد کا مطالبہ کیا، کرپٹو مارکیٹوں کا شدید ردعمل",
-      "desc_ur": "ایران میں قیادت کی منتقلی جغرافیائی سیاسی حرکیات اور اقتصادی منظر نامے کو نئی شکل دے سکتی ہے، عالمی منڈیوں اور سفارت کاری کو متاثر کر سکتی ہے۔\nThe post خامنہ ای کی موت کے بعد مسعود پیزشکیان کا قومی اتحاد پر زور، کرپٹو مارکیٹوں کا شدید ردعمل appeared first on…"
-    },
-    {
-      "title": "Trump has a bomb ticking in the White House — and he plans for it to blow up the midterms",
-      "desc": "Somewhere inside the White House right now, there’s a federal intelligence report sitting in a drawer, and Trump’s lickspittles who put it there are betting you won’t see it before you vote in November.It’s an assessment of the security of America’s voting ma…",
-      "source": "Raw Story",
-      "url": "https://www.rawstory.com/raw-investigates/bill-pulte/",
-      "time": "2026-07-02T09:30:02",
-      "country": "US",
-      "title_ur": "ٹرمپ کے پاس وائٹ ہاؤس میں بم کی ٹک ٹک ہے - اور وہ اس کے لیے وسط مدتوں کو اڑانے کا ارادہ رکھتے ہیں۔",
-      "desc_ur": "اس وقت وائٹ ہاؤس کے اندر کہیں، ایک دراز میں وفاقی انٹیلی جنس رپورٹ بیٹھی ہے، اور اسے وہاں ڈالنے والے ٹرمپ کے لِک سپٹلز شرط لگا رہے ہیں کہ آپ نومبر میں ووٹ ڈالنے سے پہلے اسے نہیں دیکھ پائیں گے۔ یہ امریکہ کی ووٹنگ کی حفاظت کا اندازہ ہے…"
-    },
-    {
-      "title": "Israel emerges as new Democratic litmus test",
-      "desc": "The News\nDemocrats are waking up to a new reality: Impeaching President Donald Trump just doesn’t land the way it used to.\nAfter two prominent backers of Trump’s impeachments lost their primaries to candidates with few major policy differences, Israel is ecli…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/40b6ee2c7862d410",
-      "time": "2026-07-02T09:29:34",
+      "title": "Upstream Harms: OSI, AI Militarism, Big Tech, and Gaza",
+      "desc": "[Patrick Brian Smith is an Assistant Professor and University Fellow at the University of Salford, where his research critically examines how evidence is mediated with a particular focus on open-source investigation, AI, and human rights] Human Rights-focused…",
+      "source": "Opiniojuris.org",
+      "url": "http://opiniojuris.org/2026/07/02/upstream-harms-osi-ai-militarism-big-tech-and-gaza/",
+      "time": "2026-07-02T12:00:12",
       "country": "Israel",
-      "title_ur": "اسرائیل نئے ڈیموکریٹک لٹمس ٹیسٹ کے طور پر ابھرا ہے۔",
-      "desc_ur": "دی نیوز\nڈیموکریٹس ایک نئی حقیقت کی طرف جاگ رہے ہیں: صدر ڈونلڈ ٹرمپ کا مواخذہ کرنا پہلے کی طرح نہیں اترتا۔\nٹرمپ کے مواخذے کے دو نمایاں حامیوں کے چند بڑے پالیسی اختلافات کے حامل امیدواروں سے اپنی پرائمری ہارنے کے بعد، اسرائیل ایک طرف ہے…"
+      "title_ur": "اپ اسٹریم نقصانات: OSI، AI ملٹریزم، بگ ٹیک، اور غزہ",
+      "desc_ur": "[پیٹرک برائن اسمتھ یونیورسٹی آف سیلفورڈ میں اسسٹنٹ پروفیسر اور یونیورسٹی فیلو ہیں، جہاں ان کی تحقیق تنقیدی طور پر اس بات کا جائزہ لیتی ہے کہ اوپن سورس انویسٹی گیشن، AI، اور انسانی حقوق پر خاص توجہ کے ساتھ شواہد کی ثالثی کیسے کی جاتی ہے] انسانی حقوق پر مرکوز…"
     },
     {
-      "title": "Supreme Court ruling expands presidential authority over FTC, threatens crypto regulator independence",
-      "desc": "The ruling could lead to increased political influence over regulatory agencies, affecting stability and predictability in financial markets.\nThe post Supreme Court ruling expands presidential authority over FTC, threatens crypto regulator independence appear…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/supreme-court-ftc-presidential-authority-crypto/",
-      "time": "2026-07-02T09:27:42",
-      "country": "International",
-      "title_ur": "سپریم کورٹ کے فیصلے نے ایف ٹی سی پر صدارتی اختیار کو بڑھایا، کرپٹو ریگولیٹر کی آزادی کو خطرہ",
-      "desc_ur": "اس فیصلے سے ریگولیٹری ایجنسیوں پر سیاسی اثر و رسوخ بڑھ سکتا ہے، جس سے مالیاتی منڈیوں میں استحکام اور پیشن گوئی متاثر ہو سکتی ہے۔\nThe post سپریم کورٹ کے فیصلے نے ایف ٹی سی پر صدارتی اختیار کو بڑھایا، کرپٹو ریگولیٹر کی آزادی کو خطرہ ظاہر…"
-    },
-    {
-      "title": "Global Rapid Microbiology Testing Market Set to Surge, Reaching USD 1.46 Billion by 2035",
-      "desc": "The rapid microbiology testing solutions market offers significant growth opportunities driven by increasing regulatory acceptance, demand for faster product release, and technological advances. The consumables segment is poised for expansion due to recurring…",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/07/02/3321170/28124/en/Global-Rapid-Microbiology-Testing-Market-Set-to-Surge-Reaching-USD-1-46-Billion-by-2035.html",
-      "time": "2026-07-02T09:19:00",
+      "title": "The Judeo-Bolshevist Target",
+      "desc": "Popular memory in the West tends to separate the Holocaust from the German war against the Soviet Union, but for the Nazi regime they were two faces of the same undertaking.",
+      "source": "The New York Review of Books",
+      "url": "https://www.nybooks.com/articles/2026/07/23/the-judeo-bolshevist-target-jochen-hellbeck/",
+      "time": "2026-07-02T12:00:00",
       "country": "US",
-      "title_ur": "گلوبل ریپڈ مائیکرو بایولوجی ٹیسٹنگ مارکیٹ 2035 تک 1.46 بلین امریکی ڈالر تک پہنچنے کے لیے تیار ہے",
-      "desc_ur": "ریپڈ مائیکرو بایولوجی ٹیسٹنگ سلوشنز مارکیٹ ریگولیٹری قبولیت، تیز تر مصنوعات کی ریلیز کی مانگ، اور تکنیکی ترقی کے ذریعے ترقی کے اہم مواقع پیش کرتی ہے۔ استعمال کی اشیاء کا طبقہ بار بار آنے کی وجہ سے توسیع کے لیے تیار ہے…"
+      "title_ur": "یہودی بالشویسٹ ہدف",
+      "desc_ur": "مغرب میں مشہور یادداشت ہولوکاسٹ کو سوویت یونین کے خلاف جرمن جنگ سے الگ کرتی ہے، لیکن نازی حکومت کے لیے وہ ایک ہی کام کے دو چہرے تھے۔"
     },
     {
-      "title": "Which Countries Produce and Consume the Most Natural Gas?",
-      "desc": "Rigzone examines the Energy Institute's latest statistical review of world energy report, which was released recently.",
-      "source": "Rigzone",
-      "url": "https://www.rigzone.com/news/which_countries_produce_and_consume_the_most_natural_gas-02-jul-2026-184041-article/",
-      "time": "2026-07-02T09:18:10",
-      "country": "International",
-      "title_ur": "کون سے ممالک سب سے زیادہ قدرتی گیس پیدا اور استعمال کرتے ہیں؟",
-      "desc_ur": "رگ زون نے انرجی انسٹی ٹیوٹ کی عالمی توانائی کی رپورٹ کے تازہ ترین شماریاتی جائزے کا جائزہ لیا، جو حال ہی میں جاری کی گئی تھی۔"
+      "title": "Space Oddity",
+      "desc": "Quinn Slobodian and Ben Tarnoff’s Muskism examines how Elon Musk became the world’s first trillionaire, by selling a vision of the future that very few people would want to inhabit.",
+      "source": "The New York Review of Books",
+      "url": "https://www.nybooks.com/articles/2026/07/23/space-oddity-muskism-slobodian-tarnoff/",
+      "time": "2026-07-02T12:00:00",
+      "country": "US",
+      "title_ur": "خلائی عجیب و غریب",
+      "desc_ur": "Quinn Slobodian اور Ben Tarnoff's Muskism اس بات کا جائزہ لیتے ہیں کہ ایلون مسک کس طرح مستقبل کا ایک وژن بیچ کر دنیا کا پہلا کھرب پتی بن گیا جس میں بہت کم لوگ آباد ہونا چاہیں گے۔"
     },
     {
-      "title": "Iran’s Floating Oil Hoard Swells as Major Buyers Stay Away",
-      "desc": "A hoard of Iranian oil is building up at sea, as the Islamic Republic struggles to find buyers before the expiry of a 60-day window granted by Washington. More than 20 million barrels of Iranian crude have been idling in …",
-      "source": "Insurance Journal",
-      "url": "https://www.insurancejournal.com/news/international/2026/07/02/876095.htm",
-      "time": "2026-07-02T09:18:07",
+      "title": "Revisiting the Speech That Made America See Farmworkers: Dolores Huerta and the Power of Saying, ‘We Exist’",
+      "desc": "In 1965, the National Farm Workers Association announced their decision to join the striking Agricultural Workers Organizing Committee on Sept. 16—Mexican Independence Day. The choice of date reflected the hybrid identity of Chicanos: straddling Mexican and A…",
+      "source": "Ms. Magazine",
+      "url": "https://msmagazine.com/2026/07/02/dolores-huerta-speech-farmworkers-grape-strike/",
+      "time": "2026-07-02T12:00:00",
+      "country": "US",
+      "title_ur": "اس تقریر پر نظر ثانی کرنا جس نے امریکہ کو فارم ورکرز کو دیکھنے پر مجبور کیا: ڈولورس ہورٹا اور یہ کہنے کی طاقت، 'ہم موجود ہیں'",
+      "desc_ur": "1965 میں، نیشنل فارم ورکرز ایسوسی ایشن نے 16 ستمبر—میکسیکو کے یوم آزادی پر ہڑتال کرنے والی زرعی ورکرز آرگنائزنگ کمیٹی میں شامل ہونے کے اپنے فیصلے کا اعلان کیا۔ تاریخ کا انتخاب Chicanos کی ہائبرڈ شناخت کی عکاسی کرتا ہے: میکسیکن اور A…"
+    },
+    {
+      "title": "Inside the Pritzkers’ ‘Quantum Prairie’",
+      "desc": "This story is part of Quantum Crossroads, a series examining the impact of the quantum computing megadevelopment in South Chicago. In an April press conference, Governor J.B. Pritzker was asked about some southeast-side residents’ concerns that a large quantu…",
+      "source": "Chicago Reader",
+      "url": "http://chicagoreader.com/news/quantum-crossroads/quantum-pritzker-illinois-iqmp/",
+      "time": "2026-07-02T12:00:00",
+      "country": "Russia",
+      "title_ur": "پرٹزکرز کے اندر 'کوانٹم پریری'",
+      "desc_ur": "یہ کہانی کوانٹم کراسروڈز کا حصہ ہے، ایک سیریز جو جنوبی شکاگو میں کوانٹم کمپیوٹنگ میگا ڈیولپمنٹ کے اثرات کا جائزہ لیتی ہے۔ اپریل کی ایک پریس کانفرنس میں، گورنر جے بی پرٹزکر سے جنوب مشرقی جانب کے رہائشیوں کے خدشات کے بارے میں پوچھا گیا کہ ایک بڑی مقدار…"
+    },
+    {
+      "title": "The 26 Best Movies to Watch on the Fourth of July",
+      "desc": "Baseball games, alien invasions, and youthful restlessness. Welcome to summer in America.",
+      "source": "esquire.com",
+      "url": "https://www.esquire.com/entertainment/movies/a71785428/best-fourth-of-july-movies/",
+      "time": "2026-07-02T12:00:00",
+      "country": "US",
+      "title_ur": "چوتھی جولائی کو دیکھنے کے لیے 26 بہترین فلمیں۔",
+      "desc_ur": "بیس بال کے کھیل، اجنبی حملے، اور جوانی کی بے چینی۔ امریکہ میں موسم گرما میں خوش آمدید۔"
+    },
+    {
+      "title": "India Fast-Tracks State Company Stake Sales to Cover Oil Shock Costs",
+      "desc": "India is accelerating a plan to sell stakes in major state-held companies as it looks to raise billions of U.S. dollars to plug the gap left by the oil shock from the Strait of Hormuz closure. The Indian government has identified eight state-owned companies i…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Fast-Tracks-State-Company-Stake-Sales-to-Cover-Oil-Shock-Costs.html",
+      "time": "2026-07-02T12:00:00",
+      "country": "India",
+      "title_ur": "تیل کے جھٹکے کی لاگت کو پورا کرنے کے لیے انڈیا فاسٹ ٹریک اسٹیٹ کمپنی حصص کی فروخت کرتا ہے۔",
+      "desc_ur": "بھارت آبنائے ہرمز کی بندش سے تیل کے جھٹکے سے رہ جانے والے خلا کو پورا کرنے کے لیے ریاست کے زیر انتظام بڑی کمپنیوں میں حصص فروخت کرنے کے منصوبے کو تیز کر رہا ہے۔ ہندوستانی حکومت نے آٹھ سرکاری کمپنیوں کی نشاندہی کی ہے۔"
+    },
+    {
+      "title": "Multicultural barbarism is destroying Europe from within",
+      "desc": "We condemn our fascist and Nazi past, but we do not understand it. Because understanding it would mean recognizing that terror does not only come in brown or gray uniforms, but also under the black veil and the green flag. Opinion.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/429538",
+      "time": "2026-07-02T11:59:47",
+      "country": "US",
+      "title_ur": "کثیر الثقافتی بربریت یورپ کو اندر سے تباہ کر رہی ہے۔",
+      "desc_ur": "ہم اپنے فاشسٹ اور نازی ماضی کی مذمت کرتے ہیں لیکن ہم اسے نہیں سمجھتے۔ کیونکہ اسے سمجھنے کا مطلب یہ ہوگا کہ دہشت گردی صرف بھوری یا سرمئی وردیوں میں ہی نہیں آتی بلکہ سیاہ نقاب اور سبز پرچم کے نیچے بھی آتی ہے۔ رائے۔"
+    },
+    {
+      "title": "Iran warns oil tankers to use approved routes in Strait of Hormuz or face 'forceful response'",
+      "desc": "Iran's joint military command warned Thursday that all oil tankers moving through  the Strait of Hormuz must use its approved routes or face a \"forceful response,\" again ratcheting up tensions over a waterway crucial for international energy supplies.",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/news/world/iran-oil-tankers-strait-of-hormuz-9.7255677",
+      "time": "2026-07-02T11:59:18",
       "country": "Iran",
-      "title_ur": "ایران کا تیرتا ہوا تیل کا ذخیرہ پھول گیا کیونکہ بڑے خریدار دور رہتے ہیں۔",
-      "desc_ur": "ایرانی تیل کا ایک ذخیرہ سمندر میں کھڑا ہو رہا ہے، کیونکہ اسلامی جمہوریہ واشنگٹن کی طرف سے دی گئی 60 دن کی ونڈو کی میعاد ختم ہونے سے پہلے خریداروں کو تلاش کرنے کے لیے جدوجہد کر رہا ہے۔ ایران میں 20 ملین بیرل سے زیادہ خام تیل پڑا ہے…"
+      "title_ur": "ایران نے آئل ٹینکرز کو خبردار کیا ہے کہ وہ آبنائے ہرمز میں منظور شدہ راستے استعمال کریں ورنہ 'زبردست ردعمل' کا سامنا کرنا پڑے گا۔",
+      "desc_ur": "ایران کی مشترکہ فوجی کمان نے جمعرات کو خبردار کیا ہے کہ آبنائے ہرمز سے گزرنے والے تمام آئل ٹینکرز کو اپنے منظور شدہ راستوں کو استعمال کرنا چاہیے یا پھر \"زبردست ردعمل\" کا سامنا کرنا چاہیے، جس سے ایک بار پھر بین الاقوامی توانائی کی سپلائی کے لیے اہم آبی گزرگاہ پر کشیدگی میں اضافہ ہو گا۔"
     },
     {
-      "title": "Summer Holiday the Musical: an ‘immensely good-humoured’ show",
-      "desc": "p>Will Barker joined The Week team as a staff writer in 2025, covering UK and global news and politics. He previously worked at the Financial Times and The Sun, contributing to the arts and world news desks, respectively. Before that, he achieved a gold-stand…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/47aa02c2ff248d38",
-      "time": "2026-07-02T09:14:07",
-      "country": "UK",
-      "title_ur": "سمر ہالیڈے دی میوزیکل: ایک 'بے حد اچھے مزاحیہ' شو",
-      "desc_ur": "ول بارکر نے 2025 میں ایک اسٹاف رائٹر کے طور پر دی ویک ٹیم میں شمولیت اختیار کی، جس میں برطانیہ اور عالمی خبروں اور سیاست کا احاطہ کیا گیا۔ اس نے پہلے فنانشل ٹائمز اور دی سن میں کام کیا، بالترتیب آرٹس اور ورلڈ نیوز ڈیسک میں تعاون کیا۔ اس سے پہلے، اس نے گولڈ اسٹینڈ حاصل کیا…"
-    },
-    {
-      "title": "Sam Altman seeks new world order for AI as OpenAI slowly loses ground to Google and Anthropic",
-      "desc": "Everything you need to know before you reach the office this morning.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/02/sam-altman-new-world-order-ai-openai-google-anthropic/",
-      "time": "2026-07-02T09:10:23",
-      "country": "International",
-      "title_ur": "سیم آلٹ مین اے آئی کے لیے نئے عالمی آرڈر کی تلاش میں ہیں کیونکہ اوپن اے آئی آہستہ آہستہ گوگل اور اینتھروپک سے گراؤنڈ کھو دیتا ہے۔",
-      "desc_ur": "ہر وہ چیز جو آپ کو آج صبح دفتر پہنچنے سے پہلے جاننے کی ضرورت ہے۔"
-    },
-    {
-      "title": "Gueye quits Senegal until coaching staff replaced",
-      "desc": "Senegal midfielder Pape Gueye says he will be \"taking a break\" from playing for his country while the current management is in charge.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/sport/football/articles/cqj18d7q2vwo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "time": "2026-07-02T09:09:20",
-      "country": "International",
-      "title_ur": "Gueye نے سینیگال چھوڑ دیا جب تک کہ کوچنگ سٹاف تبدیل نہ ہو جائے۔",
-      "desc_ur": "سینیگال کے مڈفیلڈر Pape Gueye کا کہنا ہے کہ وہ اپنے ملک کے لیے کھیلنے سے \"بریک\" لیں گے جب کہ موجودہ انتظامیہ انچارج ہے۔"
-    },
-    {
-      "title": "US-Iran talks in Doha: What were the outcomes and what’s next?",
-      "desc": "Qatar says the next meeting will take place after funeral processions for Iran's former supreme leader.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/7/2/us-iran-talks-in-doha-what-were-the-outcomes-and-whats-next",
-      "time": "2026-07-02T09:06:14",
-      "country": "Iran",
-      "title_ur": "دوحہ میں امریکہ ایران مذاکرات: کیا نتائج نکلے اور آگے کیا ہوگا؟",
-      "desc_ur": "قطر کا کہنا ہے کہ اگلی ملاقات ایران کے سابق سپریم لیڈر کے جنازے کے بعد ہوگی۔"
-    },
-    {
-      "title": "Billions flow between EU institutions and Israel, despite Gaza genocide",
-      "desc": "EU departments and some universities, including in Spain, are still spending on Israeli companies.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/7/2/billions-flow-between-eu-institutions-and-israel-despite-gaza-genocide",
-      "time": "2026-07-02T09:05:23",
+      "title": "Goldman says support for Israel cost him New York Democratic primary",
+      "desc": "U.S. progressives often criticize Rep. Dan Goldman for his AIPAC ties and his refusal to call Israel's actions in Gaza a genocide. He claimed that New York Mayor Mamdani's sponsorship of opponent Brad Lander had a 'tremendous impact'",
+      "source": "Haaretz",
+      "url": "https://www.haaretz.com/us-news/2026-07-02/ty-article/.premium/goldman-says-support-for-israel-cost-him-new-york-democratic-primary/0000019f-227c-d4dc-a3bf-2efca6130000",
+      "time": "2026-07-02T11:57:32",
       "country": "Israel",
-      "title_ur": "غزہ کی نسل کشی کے باوجود یورپی یونین کے اداروں اور اسرائیل کے درمیان اربوں کا بہاؤ",
-      "desc_ur": "یورپی یونین کے محکمے اور کچھ یونیورسٹیاں، بشمول سپین، اب بھی اسرائیلی کمپنیوں پر خرچ کر رہی ہیں۔"
+      "title_ur": "گولڈمین کا کہنا ہے کہ اسرائیل کی حمایت انہیں نیویارک ڈیموکریٹک پرائمری کی مہنگی پڑی۔",
+      "desc_ur": "امریکی ترقی پسند اکثر نمائندے ڈین گولڈمین کو ان کے AIPAC تعلقات اور غزہ میں اسرائیل کے اقدامات کو نسل کشی کہنے سے انکار پر تنقید کرتے ہیں۔ انہوں نے دعویٰ کیا کہ نیویارک کے میئر مامدانی کی مخالف بریڈ لینڈر کی کفالت کا 'زبردست اثر' پڑا۔"
     },
     {
-      "title": "ALL Accor Up To 7,500 Per Stay In Africa, Europe, Middle East & Asia July 3 – September 13, 2026 (Book July 2 – 31)",
-      "desc": "Accor has now launched a new bonus offer for stays in Africa, Europe, the Middle East, and Asia between July 3 and September 13, 2026. ALL Accor members can earn 1,000 or 5,000 bonus points, depending on the stay length, and ALL Accor+ members who […]",
-      "source": "Loyaltylobby.com",
-      "url": "https://loyaltylobby.com/2026/07/02/all-accor-up-to-7500-per-stay-in-africa-europe-middle-east-asia-july-3-september-13-2026-book-july-2-31/",
-      "time": "2026-07-02T09:03:33",
+      "title": "Trump Trying To Sabotage Kennedy Center Funds To Keep His Name On It",
+      "desc": "Donald Trump may be “bored” with the Iran war he started but it seems there is no wound to his vanity too trivial not to obsess over.\nIn this case, it’s a judge’s order that Trump’s name be removed from the John F. Kennedy Center for the Performing Arts. You …",
+      "source": "Crooksandliars.com",
+      "url": "https://crooksandliars.com/2026/07/trump-wants-sabotage-kennedy-ctr-funds",
+      "time": "2026-07-02T11:54:22",
+      "country": "Iran",
+      "title_ur": "ٹرمپ اپنا نام رکھنے کے لیے کینیڈی سینٹر کے فنڈز کو سبوتاژ کرنے کی کوشش کر رہے ہیں۔",
+      "desc_ur": "ڈونلڈ ٹرمپ اپنی شروع کی گئی ایران جنگ سے \"بور\" ہو سکتے ہیں لیکن ایسا لگتا ہے کہ ان کی باطل پر کوئی زخم نہیں ہے جس کا جنون نہ ہونا معمولی بات ہے۔\nاس معاملے میں، یہ جج کا حکم ہے کہ ٹرمپ کا نام جان ایف کینیڈی سینٹر فار دی پرفارمنگ آرٹس سے ہٹا دیا جائے۔ آپ…"
+    },
+    {
+      "title": "Free trade agreements to give major boost to toy exports: Industry",
+      "desc": "India's toy exports are poised for a surge following the finalisation of free trade agreements with the UK and the European Union, offering zero-duty access. Industry officials anticipate these pacts will unlock substantial growth, with the UK and EU markets …",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/free-trade-agreements-to-give-major-boost-to-toy-exports-industry/articleshow/132137911.cms",
+      "time": "2026-07-02T11:52:47",
+      "country": "India",
+      "title_ur": "کھلونوں کی برآمدات کو بڑا فروغ دینے کے لیے آزاد تجارتی معاہدے: صنعت",
+      "desc_ur": "UK اور یورپی یونین کے ساتھ آزادانہ تجارت کے معاہدوں کو حتمی شکل دینے کے بعد بھارت کی کھلونوں کی برآمدات میں اضافہ ہو رہا ہے، جس میں صفر ڈیوٹی رسائی کی پیشکش کی گئی ہے۔ صنعت کے عہدیداروں کا اندازہ ہے کہ یہ معاہدے برطانیہ اور یورپی یونین کی منڈیوں کے ساتھ خاطر خواہ ترقی کو غیر مقفل کریں گے…"
+    },
+    {
+      "title": "Iran warns oil tankers to follow approved Hormuz routes or face action",
+      "desc": "Iran's joint military command has issued a stern warning to all oil tankers traversing the Strait of Hormuz. Vessels must adhere strictly to approved routes, or face immediate and forceful action from Iranian armed forces. The command cited the presence of US…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-warns-oil-tankers-to-follow-approved-hormuz-routes-or-face-action/articleshow/132137938.cms",
+      "time": "2026-07-02T11:46:56",
+      "country": "Iran",
+      "title_ur": "ایران نے آئل ٹینکرز کو خبردار کیا ہے کہ وہ ہرمز کے منظور شدہ راستوں پر عمل کریں ورنہ کارروائی کا سامنا کرنا پڑے گا۔",
+      "desc_ur": "ایران کی مشترکہ فوجی کمان نے آبنائے ہرمز سے گزرنے والے تمام آئل ٹینکروں کو سخت وارننگ جاری کی ہے۔ جہازوں کو منظور شدہ راستوں پر سختی سے عمل کرنا چاہیے، یا ایرانی مسلح افواج کی جانب سے فوری اور زبردست کارروائی کا سامنا کرنا پڑے گا۔ کمانڈ نے امریکہ کی موجودگی کا حوالہ دیا…"
+    },
+    {
+      "title": "Iran warns tankers to use approved routes in Strait of Hormuz or face ‘forceful response’",
+      "desc": "DUBAI, United Arab Emirates (AP) — Iran’s joint military command warned Thursday that all oil tankers moving through the Strait of Hormuz must use its approved routes or face a “forceful response,” again ratcheting up tensions over a waterway crucial for inte…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/a0b042c06165992b",
+      "time": "2026-07-02T11:46:21",
+      "country": "Iran",
+      "title_ur": "ایران نے ٹینکرز کو خبردار کیا کہ وہ آبنائے ہرمز میں منظور شدہ راستے استعمال کریں ورنہ ’زبردست جواب‘ کا سامنا کرنا پڑے گا",
+      "desc_ur": "دبئی، متحدہ عرب امارات (اے پی) - ایران کی مشترکہ فوجی کمان نے جمعرات کو خبردار کیا ہے کہ آبنائے ہرمز سے گزرنے والے تمام آئل ٹینکرز کو اپنے منظور شدہ راستوں کو استعمال کرنا چاہیے یا پھر \"زبردست ردعمل\" کا سامنا کرنا پڑے گا، جس سے ایک بار پھر ایک آبی گزرگاہ پر کشیدگی کو بڑھاوا دیا جائے گا۔"
+    },
+    {
+      "title": "NY's Socialist Surge: A warning America cannot afford to ignore",
+      "desc": "One of America's most influential cities is becoming the principal laboratory for an ideological social experiment which has failed before. The lessons are neither abstract nor academic. They are written in cemeteries across continents. Opinion.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/429537",
+      "time": "2026-07-02T11:46:20",
       "country": "US",
-      "title_ur": "افریقہ، یورپ، مشرق وسطیٰ اور ایشیا میں 7,500 فی قیام تک ALL Accor 3 جولائی تا 13 ستمبر 2026 (کتاب جولائی 2 - 31)",
-      "desc_ur": "Accor نے اب افریقہ، یورپ، مشرق وسطیٰ اور ایشیا میں 3 جولائی سے 13 ستمبر 2026 کے درمیان قیام کے لیے ایک نئی بونس آفر شروع کی ہے۔ Accor کے تمام ممبران قیام کی لمبائی کے لحاظ سے 1,000 یا 5,000 بونس پوائنٹس حاصل کر سکتے ہیں، اور ALL Accor+ ممبران جو […]"
+      "title_ur": "نیویارک کا سوشلسٹ سرج: ایک انتباہ امریکہ نظر انداز کرنے کا متحمل نہیں ہو سکتا",
+      "desc_ur": "امریکہ کے سب سے زیادہ بااثر شہروں میں سے ایک ایک نظریاتی سماجی تجربے کے لیے اہم تجربہ گاہ بن رہا ہے جو پہلے ناکام ہو چکا ہے۔ اسباق نہ تو خلاصہ ہیں اور نہ ہی تعلیمی۔ وہ تمام براعظموں کے قبرستانوں میں لکھے گئے ہیں۔ رائے۔"
     }
   ],
   "pakistan": [
     {
-      "title": "‘Israel Picking Up The Pieces Of Its Deep-Seated Hubris’",
-      "desc": "By Alastair Crooke via Ron Paul Institute for Peace and Prosperity | June 24, 2026\nThe Iran-US de-escalation framework has been signed. As always, getting a framework agreed is one thing, but preserving it from disruptive actors or malicious distortion of the…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/cbd554952a7a211a",
-      "time": "2026-07-02T09:29:10",
+      "title": "What Would Mark Twain Think of America at 250?",
+      "desc": "The country’s greatest satirist loved technology and hated corruption. He’d have plenty to say about both in 2026.",
+      "source": "The Atlantic",
+      "url": "https://www.theatlantic.com/ideas/2026/07/mark-twain-america-anniversary-critique/687718/",
+      "time": "2026-07-02T12:00:00",
       "country": "Pakistan",
-      "title_ur": "'اسرائیل اپنے گہرے بیٹھے حبس کے ٹکڑے اٹھا رہا ہے'",
-      "desc_ur": "ایلسٹر کروک بذریعہ رون پال انسٹی ٹیوٹ برائے امن اور خوشحالی | 24 جون 2026\nایران امریکہ کشیدگی میں کمی کے فریم ورک پر دستخط ہو گئے ہیں۔ ہمیشہ کی طرح، ایک فریم ورک پر اتفاق کرنا ایک چیز ہے، لیکن اسے خلل ڈالنے والے اداکاروں یا بدنیتی پر مبنی بگاڑ سے بچانا…"
+      "title_ur": "مارک ٹوین 250 کی عمر میں امریکہ کے بارے میں کیا سوچیں گے؟",
+      "desc_ur": "ملک کا سب سے بڑا طنز نگار ٹیکنالوجی سے محبت کرتا تھا اور کرپشن سے نفرت کرتا تھا۔ اس کے پاس 2026 میں دونوں کے بارے میں بہت کچھ کہنا ہوگا۔"
     },
     {
-      "title": "Police and protesters clash near Knesset",
-      "desc": "Anti-government protesters mark 1,000 days since October 7 massacre with demonstrations around the country, attempting to block roads and disrupt routine.",
+      "title": "Qatar says progress made in indirect U.S.-Iran talks in Doha",
+      "desc": "Qatar confirmed late Wednesday that Qatari and Pakistani mediators had concluded separate meetings with U.S. and Iranian negotiators, making positive progress on issues related to the Islamabad Memorandum of Understanding.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260702-pdo01.htm",
+      "time": "2026-07-02T12:00:00",
+      "country": "Pakistan",
+      "title_ur": "قطر کا کہنا ہے کہ دوحہ میں امریکہ اور ایران کے بالواسطہ مذاکرات میں پیش رفت ہوئی ہے۔",
+      "desc_ur": "قطر نے بدھ کو دیر گئے تصدیق کی کہ قطری اور پاکستانی ثالثوں نے امریکی اور ایرانی مذاکرات کاروں کے ساتھ الگ الگ ملاقاتیں کی ہیں، جس سے اسلام آباد کی مفاہمت کی یادداشت سے متعلق معاملات پر مثبت پیش رفت ہوئی ہے۔"
+    },
+    {
+      "title": "'You': Watters And Gutfeld Scream Over Tarlov While Dismissing Trump's Corruption",
+      "desc": "After Annie Wu suggested that someone was gonna take Mike Johnson's weird fearmongering effort to vilify the DSA and turn into a banger of a TikTok video, @raphliy did just that.\nSource: New Republic\nSpeaker of the House Mike Johnson tried to fearmonger by … …",
+      "source": "Crooksandliars.com",
+      "url": "https://crooksandliars.com/2026/07/mike-johnson-cuts-ad-democratic-socialists",
+      "time": "2026-07-02T11:54:33",
+      "country": "Pakistan",
+      "title_ur": "'آپ': ٹرمپ کی بدعنوانی کو مسترد کرتے ہوئے واٹرز اور گٹفیلڈ ٹارلو پر چیخ رہے ہیں۔",
+      "desc_ur": "اینی وو کی طرف سے یہ تجویز کرنے کے بعد کہ کوئی مائیک جانسن کی DSA کو بدنام کرنے اور ٹِک ٹِک ویڈیو کے بینر میں تبدیل کرنے کی عجیب خوف زدہ کوشش کو لے گا، @raphliy نے ایسا ہی کیا۔\nماخذ: نیو ریپبلک\nایوان کے اسپیکر مائیک جانسن نے خوفزدہ کرنے کی کوشش کی…"
+    },
+    {
+      "title": "Watch: Moving blessing at captivity survivor's henna",
+      "desc": "Hamas captivity survivor Eliya Cohen celebrates henna together with fiancee Ziv Abud.",
       "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/429526",
-      "time": "2026-07-02T09:05:31",
+      "url": "https://www.israelnationalnews.com/news/429535",
+      "time": "2026-07-02T11:40:33",
       "country": "Pakistan",
-      "title_ur": "کنیسیٹ کے قریب پولیس اور مظاہرین میں جھڑپ",
-      "desc_ur": "حکومت مخالف مظاہرین 7 اکتوبر کو قتل عام کے 1,000 دن پورے ملک بھر میں مظاہروں کے ساتھ، سڑکیں بلاک کرنے اور معمولات میں خلل ڈالنے کی کوشش کر رہے ہیں۔"
+      "title_ur": "دیکھو: قیدی زندہ بچ جانے والے کی مہندی پر حرکت کرتی برکت",
+      "desc_ur": "حماس کی قید میں زندہ بچ جانے والی ایلیا کوہن منگیتر زیو ابو کے ساتھ مل کر مہندی لگا رہی ہیں۔"
     },
     {
-      "title": "India’s LPG consumption declined 8% in H1 2026 as West Asia conflict upended supply",
-      "desc": "India's LPG consumption fell 8% in H1 2026 due to supply disruptions from the West Asia conflict, impacting availability.",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/indias-lpg-consumption-declines-8-in-h1-2026-as-west-asia-conflict-upends-supply/article71173667.ece",
-      "time": "2026-07-02T09:00:31",
+      "title": "Victims of forced adoption to get formal apology after years campaigning - BBC",
+      "desc": "Victims of forced adoption to get formal apology after years campaigningBBC Starmer Gives Apology But No Payments to Forced Adoption VictimsBloomberg.com Starmer to issue formal apology to mothers and children harmed by historic forced adoption policies – UK …",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184269630",
+      "time": "2026-07-02T11:33:29",
       "country": "Pakistan",
-      "title_ur": "H1 2026 میں ہندوستان کی ایل پی جی کی کھپت میں 8 فیصد کمی واقع ہوئی کیونکہ مغربی ایشیا کے تنازعہ نے سپلائی میں اضافہ کیا",
-      "desc_ur": "مغربی ایشیا کے تنازعہ سے سپلائی میں رکاوٹ کی وجہ سے H1 2026 میں ہندوستان کی ایل پی جی کی کھپت میں 8 فیصد کمی واقع ہوئی، جس سے دستیابی متاثر ہوئی۔"
+      "title_ur": "جبری گود لینے کے متاثرین برسوں کی مہم چلانے کے بعد باضابطہ معافی حاصل کرنے کے لیے - BBC",
+      "desc_ur": "جبری گود لینے کے متاثرین کو سالہا سال کی مہم کے بعد باضابطہ معافی حاصل کرنے کے لیے بی بی سی سٹارمر نے معافی مانگی لیکن جبری گود لینے کے لیے کوئی ادائیگی نہیں VictimsBloomberg.com Starmer تاریخی جبری گود لینے کی پالیسیوں سے متاثر ہونے والی ماؤں اور بچوں سے رسمی معافی مانگے گا – UK…"
     },
     {
-      "title": "Peter Mandelson considered a 'privileged contact' by Russian spies attempting to 'manipulate UK politics' for decades, report claims",
-      "desc": "Project Fish was compiled by Christopher Steele, who gained fame for creating the 'Trump dossier' on claims that the US president was 'compromised' by the Kremlin.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-15947157/Peter-Mandelson-considered-privileged-contact-Russian-spies.html",
-      "time": "2026-07-02T08:49:13",
+      "title": "Nova WMC™ Expanding Adoption Across the Most Advanced Packaging Processes",
+      "desc": "REHOVOT, Israel, July 2, 2026 /PRNewswire/ -- Nova (NASDAQ: NVMI), today announced the selection of its Nova WMC™ platform by a leading global foundry customer for multiple layers' measurement in the most advanced packaging processes. The selection followed a…",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/nova-wmc-expanding-adoption-across-the-most-advanced-packaging-processes-302816846.html",
+      "time": "2026-07-02T11:30:00",
       "country": "Pakistan",
-      "title_ur": "رپورٹ میں دعویٰ کیا گیا ہے کہ پیٹر مینڈیلسن کو روسی جاسوسوں کی جانب سے 'برطانیہ کی سیاست میں جوڑ توڑ' کرنے کی کوشش کرنے والے 'مراعات یافتہ رابطہ' سمجھا جاتا ہے۔",
-      "desc_ur": "پروجیکٹ فش کو کرسٹوفر اسٹیل نے مرتب کیا تھا، جس نے اس دعوے پر 'ٹرمپ ڈوزیئر' بنانے کے لیے شہرت حاصل کی تھی کہ امریکی صدر کریملن کی جانب سے 'سمجھوتہ' کیے گئے تھے۔"
+      "title_ur": "نووا ڈبلیو ایم سی ™ جدید ترین پیکیجنگ کے عمل میں اپنانے کی توسیع",
+      "desc_ur": "REHOVOT، اسرائیل، 2 جولائی، 2026/PRNewswire/ -- Nova (NASDAQ: NVMI) نے آج اپنے Nova WMC™ پلیٹ فارم کے انتخاب کا اعلان ایک سرکردہ عالمی فاؤنڈری گاہک کے ذریعے کیا ہے تاکہ پیکیجنگ کے جدید ترین عمل میں متعدد پرتوں کی پیمائش کی جاسکے۔ انتخاب ایک کے بعد ہوا…"
     }
   ],
   "business": {
@@ -210,7 +230,7 @@
         "low": 29,
         "condition": "Light Drizzle",
         "condition_ur": "ہلکی بوندا باندی",
-        "precip": 51
+        "precip": 45
       },
       {
         "date": "2026-07-04",
@@ -219,7 +239,7 @@
         "low": 30,
         "condition": "Light Drizzle",
         "condition_ur": "ہلکی بوندا باندی",
-        "precip": 32
+        "precip": 22
       },
       {
         "date": "2026-07-05",
@@ -228,7 +248,7 @@
         "low": 31,
         "condition": "Light Drizzle",
         "condition_ur": "ہلکی بوندا باندی",
-        "precip": 32
+        "precip": 41
       },
       {
         "date": "2026-07-06",
@@ -237,7 +257,7 @@
         "low": 26,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 45
+        "precip": 26
       },
       {
         "date": "2026-07-07",
@@ -246,7 +266,7 @@
         "low": 26,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 37
+        "precip": 39
       },
       {
         "date": "2026-07-08",
@@ -255,7 +275,7 @@
         "low": 27,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 45
+        "precip": 39
       },
       {
         "date": "2026-07-09",
@@ -264,7 +284,7 @@
         "low": 28,
         "condition": "Mainly Clear",
         "condition_ur": "زیادہ تر صاف",
-        "precip": 35
+        "precip": 25
       }
     ]
   },
