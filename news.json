@@ -1,197 +1,177 @@
 {
-  "generated": "2026-07-04T14:08:05Z",
+  "generated": "2026-07-04T15:40:20Z",
   "world": [
     {
-      "title": "Vought cites $30B war cost as his agency seeks $67B for conflict",
-      "desc": "Office of Management and Budget Director Russell Vought told Congress the Iran conflict has cost \"about $30 billion,\" six days after his own agency asked lawmakers for $67.1 billion to cover the same conflict's costs.Neither Vought nor lawmakers reconciled th…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4386489/posts",
-      "time": "2026-07-03T14:07:30",
+      "title": "Wales' hockey team crowdfunding for World Cup",
+      "desc": "Wales men's hockey team are aiming to raise £40,000 through crowdfunding to aid their Hockey World Cup bid.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/hockey/articles/clyer343zm1o",
+      "time": "2026-07-03T15:36:33",
+      "country": "International",
+      "title_ur": "ویلز کی ہاکی ٹیم ورلڈ کپ کے لیے کراؤڈ فنڈنگ ​​کر رہی ہے۔",
+      "desc_ur": "ویلز کی مردوں کی ہاکی ٹیم ہاکی ورلڈ کپ کی بولی میں مدد کے لیے کراؤڈ فنڈنگ ​​کے ذریعے £40,000 اکٹھا کرنا چاہتی ہے۔"
+    },
+    {
+      "title": "Iran plans to sell oil to Japan under US sanctions waiver",
+      "desc": "The temporary waiver could reshape global oil dynamics, influencing US-Iran relations and impacting energy market stability and pricing.\nThe post Iran plans to sell oil to Japan under US sanctions waiver appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-oil-japan-us-sanctions-waiver/",
+      "time": "2026-07-03T15:35:42",
       "country": "Iran",
-      "title_ur": "ووٹ نے $30B جنگی لاگت کا حوالہ دیا کیونکہ اس کی ایجنسی نے تنازعہ کے لیے $67B کا مطالبہ کیا ہے۔",
-      "desc_ur": "آفس آف مینجمنٹ اور بجٹ کے ڈائریکٹر رسل ووٹ نے کانگریس کو بتایا کہ ایران تنازعہ پر \"تقریباً 30 بلین ڈالر\" لاگت آئی ہے، چھ دن بعد جب ان کی اپنی ایجنسی نے قانون سازوں سے اسی تنازعہ کے اخراجات کو پورا کرنے کے لیے 67.1 بلین ڈالر مانگے۔"
+      "title_ur": "ایران امریکی پابندیوں کی چھوٹ کے تحت جاپان کو تیل فروخت کرنے کا ارادہ رکھتا ہے۔",
+      "desc_ur": "عارضی چھوٹ تیل کی عالمی حرکیات کو نئی شکل دے سکتی ہے، امریکہ ایران تعلقات کو متاثر کر سکتی ہے اور توانائی کی مارکیٹ کے استحکام اور قیمتوں کو متاثر کر سکتی ہے۔\nThe post امریکی پابندیوں کی چھوٹ کے تحت ایران کا جاپان کو تیل فروخت کرنے کا منصوبہ appeared first on Crypto Briefing."
     },
     {
-      "title": "Bob Vylan Sue the BBC for Defamation Following Pro-Palestine Chants at Glastonbury",
-      "desc": "The punk rappers alleged the British broadcaster unjustly labeled them antisemitic.\nBob Vylan Sue the BBC for Defamation Following Pro-Palestine Chants at Glastonbury\nTravis Bland",
-      "source": "Consequence.net",
-      "url": "https://consequence.net/2026/07/bob-vylan-sue-bbc/",
-      "time": "2026-07-03T14:07:30",
-      "country": "UK",
-      "title_ur": "باب ویلان نے گلاسٹنبری میں فلسطین کے حامی نعروں کے بعد بی بی سی پر ہتک عزت کا مقدمہ دائر کیا",
-      "desc_ur": "پنک ریپرز نے الزام لگایا کہ برطانوی براڈکاسٹر نے ان پر غیر منصفانہ طور پر سام دشمنی کا لیبل لگایا۔\nباب ویلان نے گلاسٹنبری میں فلسطین کے حامی نعروں کے بعد بی بی سی پر ہتک عزت کا مقدمہ دائر کیا\nٹریوس بلینڈ"
+      "title": "A new ‘strategic’ plan being pushed by the Israeli settler movement would establish 100 outposts in the heart of Palestinian cities",
+      "desc": "The Israeli settler movement and its allies in the government have submitted a plan to build 100 new outposts in Palestinian-controlled areas of the West Bank. The move would effectively eliminate the Oslo Accords.",
+      "source": "Mondoweiss",
+      "url": "https://mondoweiss.net/2026/07/a-new-strategic-plan-being-pushed-by-the-israeli-settler-movement-would-establish-100-outposts-in-the-heart-of-palestinian-cities/",
+      "time": "2026-07-03T15:33:16",
+      "country": "Israel",
+      "title_ur": "اسرائیلی آبادکاروں کی تحریک کی طرف سے آگے بڑھایا جانے والا ایک نیا 'سٹریٹجک' منصوبہ فلسطینی شہروں کے قلب میں 100 چوکیاں قائم کرے گا۔",
+      "desc_ur": "اسرائیلی آبادکار تحریک اور حکومت میں اس کے اتحادیوں نے مغربی کنارے کے فلسطینیوں کے زیر کنٹرول علاقوں میں 100 نئی چوکیاں تعمیر کرنے کا منصوبہ پیش کیا ہے۔ یہ اقدام اوسلو معاہدے کو مؤثر طریقے سے ختم کر دے گا۔"
     },
     {
-      "title": "Hong Kong Designers Team With Paris-based Yaz Bukey for Capsules",
-      "desc": "Hong Kong brands Marcch and Matter Matters teamed up with Parisian designer Yaz Bukey for capsules that starred at Paris event highlighting Asian metropolis.",
-      "source": "WWD",
-      "url": "http://wwd.com/fashion-news/fashion-scoops/fashion-hong-kong-yaz-bukey-collaborations-paris-1239052071/",
-      "time": "2026-07-03T14:07:28",
-      "country": "UK",
-      "title_ur": "ہانگ کانگ کے ڈیزائنرز کی ٹیم پیرس میں مقیم Yaz Bukey برائے کیپسول کے ساتھ",
-      "desc_ur": "ہانگ کانگ کے برانڈز Marcch اور Matter Matters نے پیرس کے ڈیزائنر Yaz Bukey کے ساتھ کیپسول کے لیے مل کر کام کیا جس نے پیرس ایونٹ میں ایشیائی میٹروپولیس کو اجاگر کیا۔"
+      "title": "Americans hit the road in record numbers for 4th of July — in spite of high gas prices",
+      "desc": "National average for regular gasoline has fallen from a June peak above $4.56 a gallon as crude oil prices eased following the end of Iran conflict.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/07/03/business/americans-hit-the-road-in-record-numbers-for-july-fourth-in-spite-of-pricey-gas/",
+      "time": "2026-07-03T15:31:54",
+      "country": "Iran",
+      "title_ur": "گیس کی اونچی قیمتوں کے باوجود 4 جولائی کے لیے امریکیوں نے ریکارڈ تعداد میں سڑک کو نشانہ بنایا",
+      "desc_ur": "ریگولر پٹرول کی قومی اوسط جون کی چوٹی سے $4.56 فی گیلن سے اوپر گر گئی ہے کیونکہ ایران تنازعہ کے خاتمے کے بعد خام تیل کی قیمتوں میں نرمی آئی ہے۔"
     },
     {
-      "title": "Indonesia lifts 11-year Reddit ban after regulatory compliance",
-      "desc": "The Ministry of Communication and Digital Affairs (Komdigi) confirmed the normalization of access to Reddit for users in Indonesia after an 11-year block, ...",
-      "source": "Antaranews.com",
-      "url": "https://en.antaranews.com/news/421473/indonesia-lifts-11-year-reddit-ban-after-regulatory-compliance",
-      "time": "2026-07-03T14:05:23",
-      "country": "US",
-      "title_ur": "انڈونیشیا نے ریگولیٹری تعمیل کے بعد 11 سالہ Reddit پابندی ہٹا دی۔",
-      "desc_ur": "مواصلات اور ڈیجیٹل امور کی وزارت (Komdigi) نے 11 سال کے بلاک کے بعد انڈونیشیا میں صارفین کے لیے Reddit تک رسائی کو معمول پر لانے کی تصدیق کی، ..."
+      "title": "TotalEnergies Offers Millions of Barrels of Iraqi Crude to Asian Buyers",
+      "desc": "TotalEnergies is offering millions of barrels of Iraq’s Basrah Medium and Basrah Heavy crudes for prompt delivery to Asia this month and next, traders who had received some of these offers told Bloomberg on Friday. Iraq, one of the Persian Gulf producers most…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/TotalEnergies-Offers-Millions-of-Barrels-of-Iraqi-Crude-to-Asian-Buyers.html",
+      "time": "2026-07-03T15:30:00",
+      "country": "Iraq",
+      "title_ur": "ٹوٹل انرجی ایشیائی خریداروں کو لاکھوں بیرل عراقی خام تیل کی پیشکش کرتی ہے۔",
+      "desc_ur": "ٹوٹل انرجی اس ماہ اور اگلے ماہ ایشیا کو فوری ترسیل کے لیے عراق کے بصرہ میڈیم اور بصرہ ہیوی کروڈز کے لاکھوں بیرل پیش کر رہی ہے، جن تاجروں کو ان میں سے کچھ پیشکشیں موصول ہوئی تھیں، انھوں نے جمعہ کو بلومبرگ کو بتایا۔ عراق، خلیج فارس کے سب سے زیادہ پروڈیوسر میں سے ایک…"
     },
     {
-      "title": "Election wins prove pro-Palestine US campus protests didn’t fail: Activists",
-      "desc": "With Columbia University set to be represented in Congress by former protester, advocates see 'new wave of hope'.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/7/3/election-wins-prove-pro-palestine-us-campus-protests-didnt-fail-activists",
-      "time": "2026-07-03T14:03:35",
-      "country": "US",
-      "title_ur": "انتخابات کی جیت ثابت کرتی ہے کہ فلسطین کے حامی امریکی کیمپس کے احتجاج ناکام نہیں ہوئے: کارکن",
-      "desc_ur": "کولمبیا یونیورسٹی کے سابق مظاہرین کے ذریعہ کانگریس میں نمائندگی کرنے کے ساتھ، وکلاء 'امید کی نئی لہر' دیکھ رہے ہیں۔"
-    },
-    {
-      "title": "Silo Season-Premiere Recap: The Hole Truth",
-      "desc": "Juliette is back in Silo 18 as the new mayor thanks to her heroics last season — except she can’t remember what happened.",
-      "source": "Vulture",
-      "url": "http://www.vulture.com/article/silo-recap-season-3-episode-1-apple-tv.html",
-      "time": "2026-07-03T14:00:55",
+      "title": "A vote of confidence in our financial governance",
+      "desc": "The RBI’s latest initiative on FCNR(B) deposits and ECBs benefits banks, NRIs and the country’s external sector",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/opinion/a-vote-of-confidence-in-our-financial-governance/article71179702.ece",
+      "time": "2026-07-03T15:23:11",
       "country": "International",
-      "title_ur": "سائلو سیزن-پریمیئر ریکپ: دی ہول ٹروتھ",
-      "desc_ur": "جولیٹ پچھلے سیزن میں اپنی بہادری کی بدولت نئے میئر کے طور پر سائلو 18 میں واپس آگئی ہے - سوائے اس کے کہ وہ یاد نہیں کر سکتی کہ کیا ہوا ہے۔"
+      "title_ur": "ہماری مالیاتی حکمرانی میں اعتماد کا ووٹ",
+      "desc_ur": "FCNR(B) ڈپازٹس اور ECBs پر RBI کی تازہ ترین پہل بینکوں، NRIs اور ملک کے بیرونی شعبے کو فائدہ پہنچاتی ہے۔"
     },
     {
-      "title": "Senator John Fetterman Reveals the One Thing That Would Make Him Leave the Democrat Party (VIDEO)",
-      "desc": "During a recent appearance on the Sean Hannity Show, Senator John Fetterman of Pennsylvania revealed the one thing that would make him leave the Democrat Party.\nThe post Senator John Fetterman Reveals the One Thing That Would Make Him Leave the Democrat Party…",
-      "source": "Thegatewaypundit.com",
-      "url": "https://www.thegatewaypundit.com/2026/07/senator-john-fetterman-reveals-one-thing-that-would/",
-      "time": "2026-07-03T14:00:50",
-      "country": "International",
-      "title_ur": "سینیٹر جان فیٹرمین نے ایک ایسی چیز کا انکشاف کیا جو اسے ڈیموکریٹ پارٹی چھوڑنے پر مجبور کرے گا (ویڈیو)",
-      "desc_ur": "شان ہنیٹی شو میں ایک حالیہ پیشی کے دوران، پنسلوانیا کے سینیٹر جان فیٹرمین نے ایک ایسی چیز کا انکشاف کیا جو انہیں ڈیموکریٹ پارٹی چھوڑنے پر مجبور کر دے گا۔\nسینیٹر جان فیٹرمین نے ایک ایسی چیز کا انکشاف کیا جو اسے ڈیموکریٹ پارٹی چھوڑنے پر مجبور کرے گا…"
+      "title": "Iran Schedules Ayatollah’s Funeral for Fourth of July Weekend",
+      "desc": "The Iranian regime scheduled a two-day funeral ceremony for its former supreme leader, Ayatollah Ali Khamenei, on the 4th and 5th of July.\nThe post Iran Schedules Ayatollah’s Funeral for Fourth of July Weekend appeared first on Breitbart.",
+      "source": "Breitbart News",
+      "url": "https://www.breitbart.com/middle-east/2026/07/03/iran-schedules-ayatollahs-funeral-fourth-july-weekend/",
+      "time": "2026-07-03T15:19:46",
+      "country": "Iran",
+      "title_ur": "ایران نے چوتھے جولائی کے اختتام ہفتہ کو آیت اللہ کی تدفین کا شیڈول بنایا ہے۔",
+      "desc_ur": "ایرانی حکومت نے 4 اور 5 جولائی کو اپنے سابق سپریم لیڈر آیت اللہ علی خامنہ ای کی دو روزہ جنازے کی تقریب طے کی۔\nThe post ایران نے آیت اللہ کی تدفین 4 جولائی کے ویک اینڈ کے لیے کر دی appeared first on Breitbart."
     },
     {
-      "title": "LEE GREENWOOD: Trump can help finish the fight Frank Sinatra started",
-      "desc": "The artist behind \"God Bless the U.S.A.\" reveals how AM/FM radio profits from his recordings without paying performers under a century-old loophole.",
+      "title": "Trump calls out NATO ahead of summit, calling it 'ridiculous' for US to persist on 'one sided path'",
+      "desc": "U.S. President Donald Trump blasted NATO on Truth Social over defense spending disparities ahead of the alliance's upcoming summit in Ankara, Turkey.",
       "source": "Fox News",
-      "url": "https://www.foxnews.com/opinion/lee-greenwood-trump-help-finish-fight-frank-sinatra-started",
-      "time": "2026-07-03T14:00:35",
+      "url": "https://www.foxnews.com/politics/trump-calls-out-nato-ahead-summit-calling-ridiculous-us-persist-one-sided-path",
+      "time": "2026-07-03T15:19:22",
       "country": "US",
-      "title_ur": "لی گرین ووڈ: ٹرمپ فرینک سناترا کی لڑائی کو ختم کرنے میں مدد کر سکتے ہیں۔",
-      "desc_ur": "\"گاڈ بلیس دی یو ایس اے\" کے پیچھے فنکار۔ یہ ظاہر کرتا ہے کہ کس طرح AM/FM ریڈیو ایک صدی پرانی خامی کے تحت فنکاروں کو ادائیگی کیے بغیر اس کی ریکارڈنگ سے فائدہ اٹھاتا ہے۔"
+      "title_ur": "ٹرمپ نے سربراہی اجلاس سے قبل نیٹو کو پکارا، امریکہ کا 'ایک طرفہ راستے' پر قائم رہنا 'مضحکہ خیز' قرار",
+      "desc_ur": "امریکی صدر ڈونلڈ ٹرمپ نے ترکی کے شہر انقرہ میں اتحاد کے آئندہ سربراہی اجلاس سے قبل دفاعی اخراجات میں تفاوت پر نیٹو کو سچائی پر تنقید کا نشانہ بنایا۔"
     },
     {
-      "title": "FROM $71 MILLION TO $39 TRILLION: DEBT'S 250-YEAR CLIMB",
-      "desc": "The national debt has accompanied America through wars, crises and its journey to becoming the world’s leading superpower.",
-      "source": "Newsweek",
-      "url": "https://www.newsweek.com/from-71-million-to-39-trillion-u-s-national-debts-250-year-climb-12084747",
-      "time": "2026-07-03T14:00:13",
+      "title": "How A Quiet Melania Trump Hopes To Make An Impact In Her Husband’s Second Term",
+      "desc": "First Lady Melania Trump is taking a different approach to her husband's second term, Politico reported, focusing on big policy areas that are personal to her.",
+      "source": "The Daily Caller",
+      "url": "https://dailycaller.com/2026/07/03/melania-trump-white-house-policy-artificial-intelligence-ukraine-capitol-hill/",
+      "time": "2026-07-03T15:19:17",
       "country": "US",
-      "title_ur": "$71 ملین سے $39 ٹریلین تک: قرض کا 250 سال کا اضافہ",
-      "desc_ur": "قومی قرض نے جنگوں، بحرانوں اور دنیا کی صف اول کی سپر پاور بننے کے سفر میں امریکہ کا ساتھ دیا ہے۔"
+      "title_ur": "کس طرح خاموش میلانیا ٹرمپ اپنے شوہر کی دوسری مدت میں اثر ڈالنے کی امید کرتی ہے۔",
+      "desc_ur": "پولیٹیکو نے رپورٹ کیا کہ خاتون اول میلانیا ٹرمپ اپنے شوہر کی دوسری میعاد کے لیے ایک مختلف انداز اختیار کر رہی ہیں، جو ان کے ذاتی نوعیت کے بڑے پالیسی شعبوں پر توجہ مرکوز کر رہی ہیں۔"
     },
     {
-      "title": "Where to watch Colombia vs. Ghana live stream, TV channel, start time for World Cup Round of 32 match",
-      "desc": "Here's everything you need to know to watch the Colombia vs. Ghana World Cup match, including where to watch on TV or live stream, what time the game starts and more.",
-      "source": "Sporting News",
-      "url": "https://www.sportingnews.com/us/soccer/news/watch-colombia-vs-ghana-live-stream-channel-time-world-cup/e3cb36d9660cc6bb863ecb89",
-      "time": "2026-07-03T14:00:02",
-      "country": "International",
-      "title_ur": "کہاں دیکھنا ہے کولمبیا بمقابلہ گھانا لائیو سٹریم، ٹی وی چینل، ورلڈ کپ راؤنڈ آف 32 میچ کا وقت شروع",
-      "desc_ur": "یہاں وہ سب کچھ ہے جو آپ کو کولمبیا بمقابلہ گھانا ورلڈ کپ میچ دیکھنے کے لیے جاننے کی ضرورت ہے، بشمول ٹی وی پر کہاں دیکھنا ہے یا لائیو سلسلہ، کھیل کب شروع ہوتا ہے اور بہت کچھ۔"
+      "title": "Von der Leyen defends Commission on Israel, blames EU governments for inaction",
+      "desc": "\"The ball is in the court of the member states,\" she said",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/1b5fce69e6cd7cb6",
+      "time": "2026-07-03T15:15:46",
+      "country": "Israel",
+      "title_ur": "وان ڈیر لیین نے کمیشن برائے اسرائیل کا دفاع کیا، یورپی یونین کی حکومتوں کو بے عملی کا ذمہ دار ٹھہرایا",
+      "desc_ur": "انہوں نے کہا کہ گیند رکن ممالک کے کورٹ میں ہے۔"
     },
     {
-      "title": "How to watch Australia vs Egypt in USA: 2026 World Cup, Live Stream, TV & Preview",
-      "desc": "Australia and Egypt will clash in the FIFA World Cup Round of 32. Here’s everything you need to know to catch the action live in the United States. \nHere are all of the details of where you can watch Australia vs Egypt on US television and via legal streaming…",
-      "source": "Worldsoccertalk.com",
-      "url": "https://worldsoccertalk.com/watch-on-us-tv/how-to-watch-australia-vs-egypt-in-the-usa-live-stream-and-tv-for-world-cup-round-of-32/",
-      "time": "2026-07-03T14:00:00",
+      "title": "Assassination fears gripped White House as Israel staged plot to kill Iran's peace negotiators",
+      "desc": "US officials were gripped by fears that Israel was plotting to assassinate Iran's top negotiators during highly sensitive, secret peace talks with the administration.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-15950937/Assassination-fears-gripped-White-House-Israel-staged-plot-kill-Irans-peace-negotiators.html",
+      "time": "2026-07-03T15:14:31",
+      "country": "Iran",
+      "title_ur": "وائٹ ہاؤس میں قاتلانہ حملے کے خوف نے اپنی لپیٹ میں لے لیا کیونکہ اسرائیل نے ایران کے امن مذاکرات کاروں کو قتل کرنے کی سازش کی",
+      "desc_ur": "امریکی حکام اس خدشے سے دوچار تھے کہ اسرائیل انتظامیہ کے ساتھ انتہائی حساس، خفیہ امن مذاکرات کے دوران ایران کے اعلیٰ مذاکرات کاروں کو قتل کرنے کی سازش کر رہا ہے۔"
+    },
+    {
+      "title": "A volcano has erupted remnants of Earth's primordial magma ocean",
+      "desc": "Earth was once covered by a global magma ocean, which later cooled and crystallised – now traces of this primordial event have been found in magma from a young volcano in the Indian Ocean",
+      "source": "New Scientist",
+      "url": "https://www.newscientist.com/article/2532929-a-volcano-has-erupted-remnants-of-earths-primordial-magma-ocean/",
+      "time": "2026-07-03T15:13:44",
+      "country": "India",
+      "title_ur": "ایک آتش فشاں نے زمین کے قدیم میگما سمندر کی باقیات کو پھٹا ہے",
+      "desc_ur": "زمین کبھی ایک عالمی میگما سمندر سے ڈھکی ہوئی تھی، جو بعد میں ٹھنڈا ہو کر کرسٹلائز ہو گیا – اب بحر ہند میں ایک نوجوان آتش فشاں سے میگما میں اس ابتدائی واقعہ کے آثار ملے ہیں۔"
+    },
+    {
+      "title": "Peter Thiel Accuses Pope Leo of Serving as Chinese Communist Agent on AI",
+      "desc": "Billionaire tech investor Peter Thiel launched a series of controversial criticisms and predictions about AI and Western democracy during remarks at the Aspen Ideas Festival in Colorado on Tuesday. In his most provocative statement, Thiel accused Pope Leo of …",
+      "source": "Breitbart News",
+      "url": "https://www.breitbart.com/tech/2026/07/03/peter-thiel-accuses-pope-leo-of-serving-as-chinese-communist-agent-on-ai/",
+      "time": "2026-07-03T15:11:31",
       "country": "US",
-      "title_ur": "USA میں آسٹریلیا بمقابلہ مصر کیسے دیکھیں: 2026 ورلڈ کپ، لائیو سٹریم، ٹی وی اور پیش نظارہ",
-      "desc_ur": "آسٹریلیا اور مصر FIFA ورلڈ کپ راؤنڈ آف 32 میں ٹکرائیں گے۔ ریاستہائے متحدہ میں براہ راست ایکشن دیکھنے کے لیے آپ کو جاننے کی ضرورت ہے۔ \nیہاں وہ تمام تفصیلات ہیں جہاں آپ آسٹریلیا بمقابلہ مصر امریکی ٹیلی ویژن پر اور قانونی سلسلہ بندی کے ذریعے دیکھ سکتے ہیں…"
+      "title_ur": "پیٹر تھیل نے پوپ لیو پر AI پر چینی کمیونسٹ ایجنٹ کے طور پر کام کرنے کا الزام لگایا",
+      "desc_ur": "ارب پتی ٹیک سرمایہ کار پیٹر تھیل نے منگل کو کولوراڈو میں ایسپین آئیڈیاز فیسٹیول میں ریمارکس کے دوران AI اور مغربی جمہوریت کے بارے میں متنازعہ تنقیدوں اور پیشین گوئیوں کا ایک سلسلہ شروع کیا۔ اپنے انتہائی اشتعال انگیز بیان میں تھیل نے پوپ لیو پر الزام لگایا کہ…"
     },
     {
-      "title": "America’s British History: The Declaration of Independence (1776): The Final Break with Britain",
-      "desc": "Great Events in Colonial American History – Article 21 The British Context By the summer of 1776, the thirteen American colonies had been in open rebellion for over a year. Blood had been shed at Lexington, Concord, and Bunker Hill. A Continental Army under G…",
-      "source": "Anglotopia.net",
-      "url": "https://anglotopia.net/british-history/british-empire/americas-british-history-the-declaration-of-independence-1776-the-final-break-with-britain/",
-      "time": "2026-07-03T14:00:00",
+      "title": "Drivers spent £1bn more buying cars in the first three months of this year compared to 2025",
+      "desc": "British drivers spent £1.07bn more buying new and used cars in the first three months of this year, compared to the same period last year, AA analysis finds.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/money/electriccars/article-15950333/Drivers-spent-1bn-buying-cars-three-months-year-compared-2025.html",
+      "time": "2026-07-03T15:11:06",
       "country": "UK",
-      "title_ur": "امریکہ کی برطانوی تاریخ: آزادی کا اعلان (1776): برطانیہ کے ساتھ آخری وقفہ",
-      "desc_ur": "نوآبادیاتی امریکی تاریخ کے عظیم واقعات - آرٹیکل 21 برطانوی سیاق و سباق 1776 کے موسم گرما تک، تیرہ امریکی کالونیاں ایک سال سے زیادہ عرصے سے کھلی بغاوت میں تھیں۔ لیکسنگٹن، کنکورڈ اور بنکر ہل میں خون بہایا گیا تھا۔ جی کے تحت ایک کانٹی نینٹل آرمی…"
+      "title_ur": "ڈرائیوروں نے 2025 کے مقابلے میں اس سال کے پہلے تین مہینوں میں کاروں کی خریداری میں £1 بلین زیادہ خرچ کیے",
+      "desc_ur": "AA تجزیہ سے پتہ چلتا ہے کہ برطانوی ڈرائیوروں نے اس سال کے پہلے تین مہینوں میں نئی ​​اور استعمال شدہ کاریں خریدنے پر £1.07bn زیادہ خرچ کیے، جو کہ گزشتہ سال کی اسی مدت کے مقابلے میں ہے۔"
     },
     {
-      "title": "Rocket and Missile Market Outlook: Opportunities and Challenges Through 2029",
-      "desc": "Delray Beach, FL, July 03, 2026 (GLOBE NEWSWIRE) -- The report \"Rocket and Missile Market by Product (Missiles, Rocket Artilleries, Torpedoes), Speed (Subsonic, Supersonic, Hypersonic), Propulsion Type (Solid, Liquid, Hybrid, Ramjet, Turbojet), Launch Mode, G…",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/07/03/3321871/0/en/Rocket-and-Missile-Market-Outlook-Opportunities-and-Challenges-Through-2029.html",
-      "time": "2026-07-03T14:00:00",
+      "title": "Birthright Citizenship Reopens the Fight Over Abortion",
+      "desc": "Birthright Citizenship Reopens the Fight Over Abortion Opinion post by Christine Bish The Supreme Court drew the line at birth.\nThe post Birthright Citizenship Reopens the Fight Over Abortion appeared first on The Gateway Pundit.",
+      "source": "Joehoft.com",
+      "url": "https://joehoft.com/birthright-citizenship-reopens-fight-abortion/",
+      "time": "2026-07-03T15:10:41",
       "country": "International",
-      "title_ur": "راکٹ اور میزائل مارکیٹ آؤٹ لک: 2029 کے ذریعے مواقع اور چیلنجز",
-      "desc_ur": "ڈیلرے بیچ، FL، 03 جولائی، 2026 (گلوبی نیوز وائر) -- رپورٹ \"راکٹ اور میزائل مارکیٹ بذریعہ پروڈکٹ (میزائل، راکٹ آرٹلریز، ٹارپیڈو)، رفتار (سبسونک، سپرسونک، ہائپرسونک)، پروپلشن کی قسم (ٹھوس، مائع، ہائبرڈ، موج، موج، ٹربوج)"
-    },
-    {
-      "title": "Fury as pro-Palestinian protester gets ludicrously light sentence over attack that killed Jewish man",
-      "desc": "“One year? That’s not a punishment; that’s an invitation for more political violence.\"",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/07/03/us-news/fury-as-pro-palestinian-protester-gets-ludicrously-light-sentence-over-attack-that-killed-jewish-man/",
-      "time": "2026-07-03T14:00:00",
-      "country": "US",
-      "title_ur": "فلسطینیوں کے حامی مظاہرین کے طور پر غصے میں ایک یہودی شخص کو ہلاک کرنے والے حملے پر مضحکہ خیز طور پر ہلکی سزا سنائی گئی",
-      "desc_ur": "\"ایک سال؟ یہ کوئی سزا نہیں ہے؛ یہ مزید سیاسی تشدد کی دعوت ہے۔\""
-    },
-    {
-      "title": "Australia vs. Egypt prediction: World Cup Round of 32 picks, best bets",
-      "desc": "In one of the last games of the Round of 32, Australia returns from Group D to the knockout stage and faces Egypt in the early window on Friday.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/07/03/betting/australia-vs-egypt-prediction-world-cup-round-of-32-picks-best-bets/",
-      "time": "2026-07-03T14:00:00",
-      "country": "US",
-      "title_ur": "آسٹریلیا بمقابلہ مصر کی پیشن گوئی: ورلڈ کپ راؤنڈ آف 32 پکس، بہترین شرط",
-      "desc_ur": "راؤنڈ آف 32 کے آخری کھیلوں میں سے ایک میں، آسٹریلیا گروپ ڈی سے ناک آؤٹ مرحلے میں واپس آیا اور جمعہ کو ابتدائی ونڈو میں اس کا سامنا مصر سے ہوگا۔"
+      "title_ur": "پیدائشی حق شہریت اسقاط حمل کے خلاف جنگ کو دوبارہ کھولتی ہے۔",
+      "desc_ur": "برتھ رائٹ سٹیزن شپ نے اسقاط حمل کے خلاف لڑائی کو دوبارہ کھول دیا کرسٹین بش کی رائے کی پوسٹ سپریم کورٹ نے پیدائش پر لکیر کھینچی۔\nThe post پیدائشی حق شہریت نے اسقاط حمل کے خلاف جنگ دوبارہ کھول دی appeared first on The Gateway Pundit."
     }
   ],
   "pakistan": [
     {
-      "title": "Congress Workers Clash in Kolkata Over TMC ex-councillor Rehana Khatun's Induction",
-      "desc": "Clashes broke out at Kolkata’s Congress HQ Bidhan Bhavan as workers protested the induction of ex-TMC KMC Ward 44 councillor Rehana Khatun amid corruption claims.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/kolkata/congress-workers-clash-in-kolkata-over-tmc-ex-councillor-rehana-khatuns-induction/articleshow/132163585.cms",
-      "time": "2026-07-03T14:05:48",
+      "title": "Now Streaming: SILO S3, Getting Back on a Revolutionary Track",
+      "desc": "Rebecca Ferguson returns for more underground intrigue in the post-apocalyptic series, while the series also begins telling its origin story. \n \n [Read the whole post on screenanarchy.com...]",
+      "source": "Screenanarchy.com",
+      "url": "https://screenanarchy.com/2026/07/now-streaming-silo-s3-getting-back-on-a-revolutionary-track.html",
+      "time": "2026-07-03T15:23:21",
       "country": "Pakistan",
-      "title_ur": "ٹی ایم سی کی سابق کونسلر ریحانہ خاتون کی شمولیت کو لے کر کولکتہ میں کانگریس کارکنان میں تصادم",
-      "desc_ur": "کولکتہ کے کانگریس ہیڈکوارٹر بیدھان بھون میں جھڑپیں ہوئیں جب کارکنوں نے بدعنوانی کے دعووں کے درمیان سابق ٹی ایم سی کے ایم سی وارڈ 44 کونسلر ریحانہ خاتون کی شمولیت پر احتجاج کیا۔"
+      "title_ur": "ابھی سلسلہ بندی: SILO S3، ایک انقلابی ٹریک پر واپس جانا",
+      "desc_ur": "ربیکا فرگوسن پوسٹ apocalyptic سیریز میں مزید زیر زمین سازش کے لیے واپس آتی ہے، جب کہ سیریز بھی اپنی اصل کہانی سنانا شروع کر دیتی ہے۔ \n \n [Screenanarchy.com پر پوری پوسٹ پڑھیں...]"
     },
     {
-      "title": "UK and Pakistan in talks about deporting grooming gang leader",
-      "desc": "The prime minister's spokesperson says the government is exploring \"all possible options in this case\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c8e2j0z7xgxo",
-      "time": "2026-07-03T14:02:25",
+      "title": "Pakistan's Unprecedented Tehran Move: What's the Real Agenda?",
+      "desc": "Pakistan is investing significant political capital in the Iranian track. In return, it expects Tehran to respect its mediatory role and cooperate on security matters.",
+      "source": "Sputnikglobe.com",
+      "url": "https://sputnikglobe.com/20260703/pakistans-unprecedented-tehran-move-whats-the-real-agenda-1124391187.html",
+      "time": "2026-07-03T15:11:50",
       "country": "Pakistan",
-      "title_ur": "برطانیہ اور پاکستان گرومنگ گینگ لیڈر کو ملک بدر کرنے پر بات چیت کر رہے ہیں۔",
-      "desc_ur": "وزیر اعظم کے ترجمان کا کہنا ہے کہ حکومت \"اس معاملے میں تمام ممکنہ آپشنز\" تلاش کر رہی ہے۔"
-    },
-    {
-      "title": "UK in talks with Pakistan about deporting grooming gang leader",
-      "desc": "The prime minister's spokesperson says the government is exploring \"all possible options in this case\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8e2j0z7xgxo",
-      "time": "2026-07-03T14:02:25",
-      "country": "Pakistan",
-      "title_ur": "برطانیہ گرومنگ گینگ لیڈر کو ملک بدر کرنے کے لیے پاکستان کے ساتھ بات چیت کر رہا ہے۔",
-      "desc_ur": "وزیر اعظم کے ترجمان کا کہنا ہے کہ حکومت \"اس معاملے میں تمام ممکنہ آپشنز\" تلاش کر رہی ہے۔"
-    },
-    {
-      "title": "Catholic accused of blasphemy dies in Pakistani custody",
-      "desc": "Amir Peter, the younger brother of a Catholic priest in Lahore, died July 1 while held on a blasphemy charge, months after doctors declared him mentally unfit to stand trial.",
-      "source": "Ewtnnews.com",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/blasphemy-accused-catholic-dies-in-custody-in-pakistan",
-      "time": "2026-07-03T14:00:00",
-      "country": "Pakistan",
-      "title_ur": "توہین مذہب کے الزام میں کیتھولک ملزم پاکستانی حراست میں انتقال کر گیا۔",
-      "desc_ur": "لاہور میں ایک کیتھولک پادری کے چھوٹے بھائی امیر پیٹر، 1 جولائی کو توہین مذہب کے الزام میں گرفتار ہونے کے بعد انتقال کر گئے، ڈاکٹروں نے اسے مقدمے کا سامنا کرنے کے لیے ذہنی طور پر نااہل قرار دے دیا۔"
+      "title_ur": "پاکستان کا تہران کا بے مثال اقدام: اصل ایجنڈا کیا ہے؟",
+      "desc_ur": "پاکستان ایرانی ٹریک میں اہم سیاسی سرمایہ کاری کر رہا ہے۔ بدلے میں، وہ تہران سے توقع رکھتا ہے کہ وہ اپنے ثالثی کردار کا احترام کرے گا اور سلامتی کے معاملات میں تعاون کرے گا۔"
     }
   ],
   "business": {
@@ -210,7 +190,7 @@
         "low": 28,
         "condition": "Drizzle",
         "condition_ur": "بوندا باندی",
-        "precip": 39
+        "precip": 52
       },
       {
         "date": "2026-07-05",
@@ -219,7 +199,7 @@
         "low": 31,
         "condition": "Light Drizzle",
         "condition_ur": "ہلکی بوندا باندی",
-        "precip": 22
+        "precip": 37
       },
       {
         "date": "2026-07-06",
@@ -228,7 +208,7 @@
         "low": 29,
         "condition": "Light Drizzle",
         "condition_ur": "ہلکی بوندا باندی",
-        "precip": 41
+        "precip": 69
       },
       {
         "date": "2026-07-07",
@@ -237,7 +217,7 @@
         "low": 26,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 41
+        "precip": 39
       },
       {
         "date": "2026-07-08",
@@ -246,7 +226,7 @@
         "low": 29,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 36
+        "precip": 42
       },
       {
         "date": "2026-07-09",
@@ -255,7 +235,7 @@
         "low": 26,
         "condition": "Light Drizzle",
         "condition_ur": "ہلکی بوندا باندی",
-        "precip": 30
+        "precip": 31
       },
       {
         "date": "2026-07-10",
@@ -264,7 +244,7 @@
         "low": 28,
         "condition": "Mainly Clear",
         "condition_ur": "زیادہ تر صاف",
-        "precip": 27
+        "precip": 20
       }
     ]
   },
