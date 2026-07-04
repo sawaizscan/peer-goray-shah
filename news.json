@@ -1,6 +1,116 @@
 {
-  "generated": "2026-07-04T21:53:03Z",
+  "generated": "2026-07-04T22:52:54Z",
   "world": [
+    {
+      "title": "News Wrap: Iran begins funeral ceremonies for late Supreme Leader Khamenei",
+      "desc": "In our news wrap Friday, Iran began funeral ceremonies for its late supreme leader, hundreds more in Venezuela have been confirmed dead after last week's earthquakes, Egypt won its first-ever game in the World Cup's knockout round, New York is preparing for T…",
+      "source": "PBS",
+      "url": "https://www.pbs.org/newshour/show/news-wrap-iran-begins-funeral-ceremonies-for-late-supreme-leader-khamenei",
+      "time": "2026-07-03T22:50:33",
+      "country": "Iran",
+      "title_ur": "نیوز ریپ: ایران میں مرحوم سپریم لیڈر خامنہ ای کی آخری رسومات کا آغاز ہو گیا۔",
+      "desc_ur": "جمعہ کو ہماری خبروں کی لپیٹ میں، ایران نے اپنے آنجہانی سپریم لیڈر کی آخری رسومات کا آغاز کیا، وینزویلا میں گزشتہ ہفتے آنے والے زلزلوں کے بعد سینکڑوں مزید افراد کی ہلاکت کی تصدیق ہوئی ہے، مصر نے ورلڈ کپ کے ناک آؤٹ راؤنڈ میں اپنا پہلا میچ جیت لیا، نیویارک ٹی وی کے لیے تیاریاں کر رہا ہے…"
+    },
+    {
+      "title": "'Appropriate to mourn a dictator?': Danon rips Guterres over condolences to Iran",
+      "desc": "Israel's UN Ambassador Danny Danon fiercely criticizes Secretary-General Antonio Guterres for expressing condolences over the death of Iran's slain Ayatollah Ali Khamenei.(Arutz Sheva-Israel National News' North American desk is keeping you updated until the …",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/flashes/689021",
+      "time": "2026-07-03T22:47:11",
+      "country": "Iran",
+      "title_ur": "'ایک آمر کا ماتم کرنا مناسب ہے؟': ڈینن نے ایران سے تعزیت پر گٹیرس کو چیر دیا",
+      "desc_ur": "اسرائیل کے اقوام متحدہ کے سفیر ڈینی ڈینن نے ایران کے مقتول آیت اللہ علی خامنہ ای کی موت پر اظہار تعزیت کرنے پر سیکرٹری جنرل انتونیو گوٹیرس پر شدید تنقید کی۔"
+    },
+    {
+      "title": "Iran plans dayslong funeral for Supreme Leader Khamenei after war death - NPR",
+      "desc": "Iran plans dayslong funeral for Supreme Leader Khamenei after war deathNPR It’s Day 1 of the Supreme Leader’s Funeral, and Allies Gather in IranThe New York Times Iran plans massive funeral for Supreme Leader Khamenei after war deathNPR Iran war live: Day one…",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184298202",
+      "time": "2026-07-03T22:33:05",
+      "country": "Iran",
+      "title_ur": "ایران جنگی موت کے بعد سپریم لیڈر خامنہ ای کی آخری رسومات کا منصوبہ بنا رہا ہے - NPR",
+      "desc_ur": "ایران نے جنگی موت کے بعد سپریم لیڈر خامنہ ای کی آخری رسومات کا منصوبہ بنایا ہےNPR یہ سپریم لیڈر کی آخری رسومات کا پہلا دن ہے، اور اتحادی ایران میں جمع ہیں نیویارک ٹائمز ایران نے جنگی موت کے بعد سپریم لیڈر خامنہ ای کے لیے بڑے پیمانے پر جنازے کا منصوبہ بنایا ہےNPR ایران جنگ لائیو: پہلا دن…"
+    },
+    {
+      "title": "Mohamed Salah explains penalty after Egypt make history at World Cup 2026: ‘I had to decide at the last minute’",
+      "desc": "Watch highlights from Egypt vs Australia as Mohamed Salah says this World Cup could be his last and reflects on his panenka penalty.",
+      "source": "101 Great Goals",
+      "url": "https://www.101greatgoals.com/football/world-cup-news/mohamed-salah-penalty-egypt/",
+      "time": "2026-07-03T22:22:14",
+      "country": "US",
+      "title_ur": "محمد صلاح نے ورلڈ کپ 2026 میں مصر کی تاریخ رقم کرنے کے بعد پنالٹی کی وضاحت کی: 'مجھے آخری لمحات میں فیصلہ کرنا تھا'",
+      "desc_ur": "مصر بمقابلہ آسٹریلیا کی جھلکیاں دیکھیں کیونکہ محمد صلاح کا کہنا ہے کہ یہ ورلڈ کپ ان کا آخری ہو سکتا ہے اور اس کی عکاسی ان کے پنینکا پنالٹی سے ہوتی ہے۔"
+    },
+    {
+      "title": "The Taiwan Freedom Project Will Uphold a Free and Open Indo-Pacific by Winning in the Information Domain",
+      "desc": "“Why Taiwan Matters, Now More than Ever” “Why Taiwan Matters, Now More than Ever”",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/07/03/3321993/0/en/The-Taiwan-Freedom-Project-Will-Uphold-a-Free-and-Open-Indo-Pacific-by-Winning-in-the-Information-Domain.html",
+      "time": "2026-07-03T22:17:00",
+      "country": "International",
+      "title_ur": "تائیوان فریڈم پروجیکٹ انفارمیشن ڈومین میں جیت کر ایک آزاد اور کھلے انڈو پیسیفک کو برقرار رکھے گا",
+      "desc_ur": "\"کیوں تائیوان اہمیت رکھتا ہے، اب پہلے سے زیادہ\" \"کیوں تائیوان اہمیت رکھتا ہے، اب پہلے سے زیادہ\""
+    },
+    {
+      "title": "Dumber than a 10 year old: Are Israeli students really that stupid?",
+      "desc": "In a recent article by The Economist, the publication ranked Israel last among 15 OECD countries for proficiency in mathematics, and second last for reading comprehension",
+      "source": "Haaretz",
+      "url": "https://www.haaretz.com/israel-news/2026-07-04/ty-article/dumber-than-a-10-year-old-are-israeli-students-really-that-stupid/0000019f-1ccb-d759-a7bf-deefd1690000",
+      "time": "2026-07-03T22:12:27",
+      "country": "Israel",
+      "title_ur": "10 سال کی عمر سے زیادہ بے وقوف: کیا اسرائیلی طلباء واقعی اتنے بیوقوف ہیں؟",
+      "desc_ur": "دی اکانومسٹ کے ایک حالیہ مضمون میں، اشاعت نے ریاضی میں مہارت کے لیے OECD کے 15 ممالک میں اسرائیل کو آخری اور پڑھنے کی سمجھ کے لیے دوسرے نمبر پر رکھا۔"
+    },
+    {
+      "title": "Congress can still ban birthright citizenship: Here’s how",
+      "desc": "'There are four distinct clauses of the Constitution that reference invasion'",
+      "source": "Wnd.com",
+      "url": "https://www.wnd.com/2026/07/congress-can-still-ban-birthright-citizenship-heres-how/",
+      "time": "2026-07-03T22:06:40",
+      "country": "US",
+      "title_ur": "کانگریس اب بھی پیدائشی حق شہریت پر پابندی لگا سکتی ہے: یہ طریقہ ہے۔",
+      "desc_ur": "'آئین کی چار الگ شقیں ہیں جو حملے کا حوالہ دیتی ہیں'"
+    },
+    {
+      "title": "Can we stop the slide into socialism?",
+      "desc": "'They traffic in ignorance, elevate envy, reward sloth, expand government, discourage effort and punish success'",
+      "source": "Wnd.com",
+      "url": "https://www.wnd.com/2026/07/can-we-stop-slide-socialism/",
+      "time": "2026-07-03T22:05:18",
+      "country": "International",
+      "title_ur": "کیا ہم سوشلزم میں سلائیڈ کو روک سکتے ہیں؟",
+      "desc_ur": "'وہ جہالت میں چلتے ہیں، حسد کو بڑھاتے ہیں، سستی کو انعام دیتے ہیں، حکومت کو بڑھاتے ہیں، کوشش کی حوصلہ شکنی کرتے ہیں اور کامیابی کو سزا دیتے ہیں'"
+    },
+    {
+      "title": "'That’s done': Eurovision boss rules out new vote on Israel",
+      "desc": "Eurovision director Martin Green rules out a re-vote on Israel's participation, after a vote last year permitted Israel to participate despite boycott calls.(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabb…",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/flashes/689020",
+      "time": "2026-07-03T22:01:14",
+      "country": "Israel",
+      "title_ur": "'یہ ہو گیا': یوروویژن باس نے اسرائیل پر نئے ووٹ کو مسترد کردیا۔",
+      "desc_ur": "یورو ویژن کے ڈائریکٹر مارٹن گرین نے اسرائیل کی شرکت پر دوبارہ ووٹنگ کو مسترد کردیا، گزشتہ سال ایک ووٹ کے بعد اسرائیل کو بائیکاٹ کی کالوں کے باوجود حصہ لینے کی اجازت دی گئی۔"
+    },
+    {
+      "title": "Donny Deutsch of MSNOW Sounds Alarm for Democrats Over DSA Takeover",
+      "desc": "\"This is ridiculous. And they’re both running on anti-American, socialistic, let’s blow up — let’s abolish ICE, let’s abolish prisons, let’s abolish everything, let’s abolish the police. It’s insane.\"\nThe post Donny Deutsch of MSNOW Sounds Alarm for Democrats…",
+      "source": "Legalinsurrection.com",
+      "url": "https://legalinsurrection.com/2026/07/donny-deutsch-of-msnow-sounds-alarm-for-democrats-over-dsa-takeover/",
+      "time": "2026-07-03T22:00:21",
+      "country": "US",
+      "title_ur": "MSNOW کے ڈونی ڈوئچ نے ڈی ایس اے ٹیک اوور پر ڈیموکریٹس کے لیے خطرے کی گھنٹی بجا دی۔",
+      "desc_ur": "\"یہ مضحکہ خیز ہے۔ اور وہ دونوں امریکہ مخالف، سوشلسٹ پر چل رہے ہیں، آئیے اڑا دیں - آئیے آئی سی ای کو ختم کریں، آئیے جیلوں کو ختم کریں، آئیے سب کچھ ختم کریں، آئیے پولیس کو ختم کریں۔ یہ پاگل پن ہے۔\"\nThe post MSNOW کے ڈونی ڈوئچ نے ڈیموکریٹس کے لیے خطرے کی گھنٹی بجا دی…"
+    },
+    {
+      "title": "France and UK partner with Oman to restore safe transit through Strait of Hormuz, and crypto markets are watching",
+      "desc": "The collaboration to secure the Strait of Hormuz could stabilize global energy prices, impacting inflation and crypto market dynamics positively.\nThe post France and UK partner with Oman to restore safe transit through Strait of Hormuz, and crypto markets are…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/france-uk-oman-strait-hormuz-crypto-impact/",
+      "time": "2026-07-03T21:53:11",
+      "country": "UK",
+      "title_ur": "فرانس اور برطانیہ نے آبنائے ہرمز کے ذریعے محفوظ راہداری بحال کرنے کے لیے عمان کے ساتھ شراکت داری کی، اور کرپٹو مارکیٹیں دیکھ رہی ہیں۔",
+      "desc_ur": "آبنائے ہرمز کو محفوظ بنانے کے لیے تعاون عالمی توانائی کی قیمتوں کو مستحکم کر سکتا ہے، جس سے افراط زر اور کرپٹو مارکیٹ کی حرکیات پر مثبت اثر پڑے گا۔\nThe post فرانس اور برطانیہ نے آبنائے ہرمز کے ذریعے محفوظ راہداری بحال کرنے کے لیے عمان کے ساتھ شراکت داری کی، اور کریپٹو مارکیٹیں…"
+    },
     {
       "title": "Hydration Breaks At 2026 World Cup Raise Controversy For FIFA",
       "desc": "The 2026 World Cup is the first one to have required hydration breaks during each half of the football matches. Here's why FIFA instituted these and the controversy.",
@@ -40,116 +150,6 @@
       "country": "US",
       "title_ur": "ٹرمپ نے اپنے دستخط کے ساتھ $100 بل کی نئی تصویر پوسٹ کی۔ سی این این پولیٹکس",
       "desc_ur": "صدر ڈونالڈ ٹرمپ نے جمعہ کو ایک نئی تصویر شائع کی جس میں ان کے دستخط والے $100 بل ہیں، جس کے مہینوں بعد محکمہ خزانہ نے اعلان کیا کہ، پہلی بار، کسی موجودہ صدر کے دستخط امریکی کاغذی کرنسی پر نمایاں ہوں گے۔"
-    },
-    {
-      "title": "France braced for extreme heat threat in World Cup clash with Paraguay",
-      "desc": "\"We knew it would be very hot. I think tomorrow it will be a little cooler than today, and I hope there are no storms this time,\" Deschamps told reporters at Lincoln Financial Field, where Saturday's game will take place.\nThe post France braced for extreme he…",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/07/france-braced-for-extreme-heat-threat-in-world-cup-clash-with-paraguay/",
-      "time": "2026-07-03T21:22:48",
-      "country": "France",
-      "title_ur": "فرانس نے پیراگوئے کے ساتھ ورلڈ کپ کے تصادم میں شدید گرمی کے خطرے کا مقابلہ کیا۔",
-      "desc_ur": "\"ہمیں معلوم تھا کہ یہ بہت گرم ہو گا۔ میرے خیال میں کل یہ آج کے مقابلے میں تھوڑا ٹھنڈا ہو گا، اور مجھے امید ہے کہ اس بار کوئی طوفان نہیں آئے گا،\" Deschamps نے لنکن فنانشل فیلڈ میں صحافیوں کو بتایا، جہاں ہفتہ کا کھیل ہو گا۔\nThe post فرانس نے انتہائی قدم اٹھا لیا وہ…"
-    },
-    {
-      "title": "America’s Wrecking-Ball Revolution",
-      "desc": "The Economist: “As it celebrates the 250th anniversary of its independence, the United States is once again in a state of rebellion. This time the revolution is against the world America itself created.” “Instead of George III and his parliament in far-off Lo…",
-      "source": "Politicalwire.com",
-      "url": "https://politicalwire.com/2026/07/03/americas-wrecking-ball-revolution/",
-      "time": "2026-07-03T21:21:34",
-      "country": "US",
-      "title_ur": "امریکہ کا ریکرنگ بال انقلاب",
-      "desc_ur": "دی اکانومسٹ: \"جب یہ اپنی آزادی کی 250ویں سالگرہ منا رہا ہے، امریکہ ایک بار پھر بغاوت کی حالت میں ہے۔ اس بار انقلاب اس دنیا کے خلاف ہے جو امریکہ نے خود بنائی ہے۔\" \"جارج III اور اس کی پارلیمنٹ کے بجائے بہت دور Lo…"
-    },
-    {
-      "title": "Is Australia out of World Cup after loss to Egypt?",
-      "desc": "Australia's World Cup run came to an end in the Round of 32 after a penalty kick loss to Egypt. See the Aussie's full World Cup route here.",
-      "source": "USA Today",
-      "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/03/is-australia-out-of-the-world-cup/90795949007/",
-      "time": "2026-07-03T21:19:46",
-      "country": "US",
-      "title_ur": "کیا مصر سے شکست کے بعد آسٹریلیا ورلڈ کپ سے باہر ہو گیا؟",
-      "desc_ur": "آسٹریلیا کا ورلڈ کپ رن راؤنڈ آف 32 میں مصر کے ہاتھوں پنالٹی کِک کے نقصان کے بعد ختم ہو گیا۔ آسٹریلیا کا ورلڈ کپ کا مکمل راستہ یہاں دیکھیں۔"
-    },
-    {
-      "title": "Mbappé is hot for France. The World Cup game against Paraguay is going to be a scorcher in Philly",
-      "desc": "For the complainers that hydration breaks have watered down the pace of play at the World Cup, consider the steamy, sticky, downright miserable heatwave colliding with the France-Paraguay knockout game Saturday. It's going to be hot in Philly. Philadelphia wa…",
-      "source": "Yahoo Entertainment",
-      "url": "https://sports.yahoo.com/articles/mbapp-hot-france-world-cup-211839881.html",
-      "time": "2026-07-03T21:18:39",
-      "country": "France",
-      "title_ur": "Mbappé فرانس کے لیے گرم ہیں۔ فیلی میں پیراگوئے کے خلاف ورلڈ کپ کا کھیل ایک خوفناک ہونے جا رہا ہے۔",
-      "desc_ur": "شکایت کرنے والوں کے لیے کہ ہائیڈریشن کے وقفے نے ورلڈ کپ میں کھیل کی رفتار کو کم کر دیا ہے، ہفتے کے روز فرانس-پیراگوئے کے ناک آؤٹ میچ سے ٹکرا جانے والی بھاپ سے بھری، چپچپا، سیدھی دکھی ہیٹ ویو پر غور کریں۔ یہ فلی میں گرم ہونے والا ہے۔ فلاڈیلفیا و…"
-    },
-    {
-      "title": "Lebanese President defends Israel accord, vows Lebanese Army control over sovereign land",
-      "desc": "Lebanese President Joseph Aoun defends the US-mediated framework with Israel, asserting it empowers the domestic army despite fierce pushback from Hezbollah.(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabb…",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/flashes/689019",
-      "time": "2026-07-03T21:14:13",
-      "country": "Israel",
-      "title_ur": "لبنانی صدر نے اسرائیل معاہدے کا دفاع کیا، خودمختار زمین پر لبنانی فوج کے کنٹرول کا عزم کیا۔",
-      "desc_ur": "لبنانی صدر جوزف عون نے اسرائیل کے ساتھ امریکی ثالثی کے فریم ورک کا دفاع کرتے ہوئے کہا کہ یہ حزب اللہ کی جانب سے شدید دھکے کے باوجود ملکی فوج کو بااختیار بناتا ہے۔"
-    },
-    {
-      "title": "This TSX stock jumped 17% on the week and could buck its discount status on massive Alberta power centre project, analyst says",
-      "desc": "The Week in Stocks: Rosenberg's picks for the year's second half, oil patch candidates as conflict eases in the Mideast and more. Read on.",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/investing/tsx-stock-jumped-17-this-week-discount",
-      "time": "2026-07-03T21:13:44",
-      "country": "US",
-      "title_ur": "تجزیہ کار کا کہنا ہے کہ اس TSX اسٹاک نے ہفتے میں 17 فیصد چھلانگ لگائی اور البرٹا پاور سینٹر کے بڑے پروجیکٹ پر اپنی رعایتی حیثیت کو کم کر سکتا ہے۔",
-      "desc_ur": "اسٹاکس میں ہفتہ: سال کے دوسرے نصف کے لیے روزن برگ کے انتخاب، مشرق وسطی میں تنازعات میں آسانی کے طور پر تیل پیچ کے امیدوار اور مزید۔ پڑھیں"
-    },
-    {
-      "title": "World Cup 2026: Australia 1-1 Egypt (2-4 on penalties) – report, result, goals as Mohamed Salah dodges Lionel Messi question after scoring in shootout",
-      "desc": "Watch the goals including Hossam Abdelmaguid's winning penalty and celebrations as Egypt reach the World Cup last 16.",
-      "source": "101 Great Goals",
-      "url": "https://www.101greatgoals.com/football/world-cup-news/australia-egypt-penalties-report-result-goals-mohamed-salah-lionel-messi/",
-      "time": "2026-07-03T21:09:43",
-      "country": "US",
-      "title_ur": "ورلڈ کپ 2026: آسٹریلیا 1-1 مصر (پینالٹیز پر 2-4) – رپورٹ، نتیجہ، گولز جیسا کہ محمد صلاح نے شوٹ آؤٹ میں گول کرنے کے بعد لیونل میسی کے سوال کو چکما دیا",
-      "desc_ur": "مصر کے ورلڈ کپ کے آخری 16 میں پہنچنے پر حسام عبدالمجید کی جیتنے والی پینلٹی اور جشن سمیت گول دیکھیں۔"
-    },
-    {
-      "title": "Iran plans massive funeral for Supreme Leader Khamenei after war death",
-      "desc": "Iran is preparing a delayed, massive funeral for Ayatollah Ali Khamenei. While the government stages it as a show of force, citizens remain deeply divided over his legacy.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/07/03/nx-s1-5877614/iran-plans-massive-funeral-for-supreme-leader-khamenei-after-war-death",
-      "time": "2026-07-03T21:02:32",
-      "country": "Iran",
-      "title_ur": "ایران نے جنگی موت کے بعد سپریم لیڈر خامنہ ای کی تدفین کا منصوبہ بنایا ہے۔",
-      "desc_ur": "ایران آیت اللہ علی خامنہ ای کے لیے تاخیر سے، بڑے پیمانے پر جنازے کی تیاری کر رہا ہے۔ جب کہ حکومت اسے طاقت کے مظاہرہ کے طور پر پیش کرتی ہے، شہری اس کی میراث پر گہری تقسیم ہیں۔"
-    },
-    {
-      "title": "Who, when and where will Egypt play in the Round of 16?",
-      "desc": "The next rival, the kickoff time and the venue of the round of 16 match for Egypt. Maybe it wasn’t the highest-profile match of the 2026 World Cup Round of 32, but Egypt were able to secure a place in the Round of 16 after beating Australia in the penalty sho…",
-      "source": "Worldsoccertalk.com",
-      "url": "https://worldsoccertalk.com/world-cup/who-when-and-where-will-egypt-play-in-the-round-of-16/",
-      "time": "2026-07-03T21:01:08",
-      "country": "US",
-      "title_ur": "راؤنڈ آف 16 میں مصر کون، کب اور کہاں کھیلے گا؟",
-      "desc_ur": "اگلا حریف، کِک آف ٹائم اور مصر کے لیے راؤنڈ آف 16 کے میچ کا مقام۔ ہو سکتا ہے کہ یہ 2026 کے ورلڈ کپ راؤنڈ آف 32 کا سب سے زیادہ پروفائل میچ نہ ہو، لیکن مصر نے پینلٹی شو میں آسٹریلیا کو شکست دے کر راؤنڈ آف 16 میں جگہ حاصل کر لی۔"
-    },
-    {
-      "title": "‘You brought me into politics and stood by me’ – Tinubu mourns Kola Oseni",
-      "desc": "President Bola Tinubu has paid a glowing tribute to elder statesman and progressive politician, Alhaji Ganiyu Kolapo Oseni, describing him as the man who introduced him to politics and stood firmly by him throughout his political journey. In a personal tribut…",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/07/you-brought-me-into-politics-and-stood-by-me-tinubu-mourns-kola-oseni/",
-      "time": "2026-07-03T21:00:07",
-      "country": "International",
-      "title_ur": "'آپ مجھے سیاست میں لائے اور میرے ساتھ کھڑے ہوئے' - ٹینوبو نے کولا اوسینی کا ماتم کیا۔",
-      "desc_ur": "صدر بولا ٹینوبو نے بزرگ سیاستدان اور ترقی پسند سیاست دان الحاجی گنیو کولاپو اوسینی کو شاندار خراج تحسین پیش کرتے ہوئے انہیں ایک ایسے شخص کے طور پر بیان کیا ہے جس نے انہیں سیاست میں متعارف کرایا اور اپنے پورے سیاسی سفر میں مضبوطی سے ان کے ساتھ کھڑا رہا۔ ذاتی خراج تحسین میں…"
-    },
-    {
-      "title": "Small businesses owners in US tourist destinations see more domestic demand",
-      "desc": "Small business owners in U.S. tourist destinations say they’re seeing more Americans sticking closer to home this summer",
-      "source": "ActionNewsJax.com",
-      "url": "https://www.actionnewsjax.com/news/business/small-businesses-say/SJJRA3E3LE2INHRQAP5I7HURNU/",
-      "time": "2026-07-03T20:57:02",
-      "country": "US",
-      "title_ur": "امریکی سیاحتی مقامات پر چھوٹے کاروبار کے مالکان زیادہ گھریلو مانگ دیکھتے ہیں۔",
-      "desc_ur": "امریکی سیاحتی مقامات کے چھوٹے کاروباری مالکان کا کہنا ہے کہ وہ اس موسم گرما میں مزید امریکیوں کو گھر کے قریب ہوتے دیکھ رہے ہیں"
     }
   ],
   "pakistan": [
@@ -180,7 +180,7 @@
         "low": 28,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 37
+        "precip": 21
       },
       {
         "date": "2026-07-06",
@@ -189,7 +189,7 @@
         "low": 28,
         "condition": "Light Drizzle",
         "condition_ur": "ہلکی بوندا باندی",
-        "precip": 69
+        "precip": 35
       },
       {
         "date": "2026-07-07",
@@ -198,7 +198,7 @@
         "low": 26,
         "condition": "Heavy Drizzle",
         "condition_ur": "تیز بوندا باندی",
-        "precip": 39
+        "precip": 35
       },
       {
         "date": "2026-07-08",
@@ -225,7 +225,7 @@
         "low": 28,
         "condition": "Drizzle",
         "condition_ur": "بوندا باندی",
-        "precip": 20
+        "precip": 27
       },
       {
         "date": "2026-07-11",
@@ -234,7 +234,7 @@
         "low": 26,
         "condition": "Heavy Drizzle",
         "condition_ur": "تیز بوندا باندی",
-        "precip": 30
+        "precip": 34
       }
     ]
   },
