@@ -1,162 +1,203 @@
 {
-  "generated": "2026-07-06T23:01:32Z",
+  "generated": "2026-07-07T01:15:01Z",
   "world": [
     {
-      "title": "Tough new rules to crackdown on foreign money in UK elections",
-      "desc": "New rules include a cap on donations from those who've lived overseas and tougher checks on company donations.",
-      "source": "Www.gov.uk",
-      "url": "https://www.gov.uk/government/news/tough-new-rules-to-crackdown-on-foreign-money-in-uk-elections",
-      "time": "2026-07-05T23:01:03",
-      "country": "UK",
-      "title_ur": "برطانیہ کے انتخابات میں غیر ملکی رقوم کے خلاف کریک ڈاؤن کے لیے سخت نئے قوانین",
-      "desc_ur": "نئے قوانین میں بیرون ملک مقیم افراد کے عطیات کی حد اور کمپنی کے عطیات پر سخت چیک شامل ہیں۔"
-    },
-    {
-      "title": "Worst TV Presidents, Ranked",
-      "desc": "As America celebrates its 250th birthday, TVLine ranks the small screen presidents who don't belong anywhere near the actual White House.",
-      "source": "TVLine",
-      "url": "https://www.tvline.com/2208113/worst-tv-presidents-ranked/",
-      "time": "2026-07-05T23:00:00",
-      "country": "US",
-      "title_ur": "ٹی وی کے بدترین صدور، درجہ بندی",
-      "desc_ur": "جیسا کہ امریکہ اپنی 250 ویں سالگرہ منا رہا ہے، TVLine چھوٹی اسکرین کے ان صدور کی درجہ بندی کرتا ہے جن کا اصل وائٹ ہاؤس کے قریب کہیں بھی تعلق نہیں ہے۔"
-    },
-    {
-      "title": "After a nearly 800% explosion, this AI supplier is about to make its U.S. debut and could signal if the market can still boom—or is headed for a bust",
-      "desc": "Shares of South Korea's SK Hynix will list on the Nasdaq and are expected to start trading on Friday.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/05/sk-hynix-stock-us-listing-nasdaq-ai-boom-bust-memory-chip-shortage/",
-      "time": "2026-07-05T22:59:43",
-      "country": "US",
-      "title_ur": "تقریباً 800% دھماکے کے بعد، یہ AI فراہم کنندہ اپنی پہلی امریکی شروعات کرنے والا ہے اور یہ اشارہ دے سکتا ہے کہ آیا مارکیٹ اب بھی تیزی سے بڑھ سکتی ہے — یا پھر تباہی کی طرف بڑھ رہی ہے۔",
-      "desc_ur": "جنوبی کوریا کے SK Hynix کے حصص نیس ڈیک پر درج ہوں گے اور توقع ہے کہ جمعہ کو تجارت شروع ہو جائے گی۔"
-    },
-    {
-      "title": "Queiroz leaves Ghana following World Cup exit",
-      "desc": "Carlos Queiroz steps down as Ghana head coach after three months in charge following their World Cup exit.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/sport/football/articles/clyxx288yr6o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "time": "2026-07-05T22:55:32",
-      "country": "International",
-      "title_ur": "کوئروز ورلڈ کپ سے باہر ہونے کے بعد گھانا چھوڑ رہے ہیں۔",
-      "desc_ur": "کارلوس کوئروز گھانا کے ہیڈ کوچ کے تین ماہ بعد ان کے ورلڈ کپ سے باہر ہونے کے بعد استعفی دے رہے ہیں۔"
-    },
-    {
-      "title": "Carlos Queiroz resigns as Ghana coach after World Cup exit",
-      "desc": "Carlos Queiroz has resigned as Ghana coach following the Black Stars’ exit from the World Cup. Learn more about his departure and Ghana’s future.\n\nRead More: https://punchng.com/carlos-queiroz-resigns-as-ghana-coach-after-world-cup-exit/",
-      "source": "The Punch",
-      "url": "https://punchng.com/carlos-queiroz-resigns-as-ghana-coach-after-world-cup-exit/",
-      "time": "2026-07-05T22:50:02",
-      "country": "International",
-      "title_ur": "کارلوس کوئروز ورلڈ کپ سے باہر ہونے کے بعد گھانا کے کوچ کے عہدے سے مستعفی ہو گئے۔",
-      "desc_ur": "بلیک اسٹارز کے ورلڈ کپ سے باہر ہونے کے بعد کارلوس کوئروز نے گھانا کے کوچ کے عہدے سے استعفیٰ دے دیا ہے۔ اس کی روانگی اور گھانا کے مستقبل کے بارے میں مزید جانیں۔\n\nمزید پڑھیں: https://punchng.com/carlos-queiroz-resigns-as-ghana-coach-after-world-cup-exit/"
-    },
-    {
-      "title": "Viatris (VTRS) Secures Loan Amid Positive Phase 3 Results",
-      "desc": "Viatris Inc. (NASDAQ:VTRS) is one of the Top 10 Extreme Value Stocks To Buy Now. On July 1, Viatris Inc. (NASDAQ:VTRS) entered into a loan agreement with a g...",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/healthcare/articles/viatris-vtrs-secures-loan-amid-224832627.html",
-      "time": "2026-07-05T22:48:32",
-      "country": "International",
-      "title_ur": "Viatris (VTRS) فیز 3 کے مثبت نتائج کے درمیان قرض کو محفوظ بناتا ہے۔",
-      "desc_ur": "Viatris Inc. (NASDAQ:VTRS) اب خریدنے کے لیے سرفہرست 10 انتہائی قدر والے اسٹاکس میں سے ایک ہے۔ یکم جولائی کو، Viatris Inc. (NASDAQ:VTRS) نے ایک جی کے ساتھ قرض کا معاہدہ کیا..."
-    },
-    {
-      "title": "Venezuelan leader marks Independence Day with message of ‘no social unrest’",
-      "desc": "Interim President Delcy Rodriguez once again defends her government's handling of the deadly earthquakes on June 24.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/7/5/venezuelan-leader-marks-independence-day-with-message-of-no-social-unrest",
-      "time": "2026-07-05T22:48:13",
-      "country": "International",
-      "title_ur": "وینزویلا کے رہنما نے 'معاشرتی بدامنی نہیں' کے پیغام کے ساتھ یوم آزادی منایا",
-      "desc_ur": "عبوری صدر ڈیلسی روڈریگز نے ایک بار پھر 24 جون کو آنے والے مہلک زلزلوں سے اپنی حکومت کے انتظام کا دفاع کیا۔"
-    },
-    {
-      "title": "Oil Drops as Flows in Hormuz Persist and OPEC+ Flags More Supply",
-      "desc": "Oil fell as energy flows through the Strait of Hormuz persisted and OPEC+ signaled higher supplies, fanning concerns about a potential glut.",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/oil-drops-as-flows-in-hormuz-persist-and-opec-flags-more-supply",
-      "time": "2026-07-05T22:47:22",
-      "country": "International",
-      "title_ur": "ہرمز میں بہاؤ کے طور پر تیل گرتا رہتا ہے اور OPEC+ مزید سپلائی کرتا ہے۔",
-      "desc_ur": "تیل گر گیا کیونکہ آبنائے ہرمز سے توانائی کا بہاؤ برقرار رہا اور OPEC+ نے زیادہ سپلائی کا اشارہ دیا، جس سے ممکنہ گندگی کے خدشات بڑھ گئے۔"
-    },
-    {
-      "title": "Oil Edges Lower on OPEC Increase, Dollar Steady: Markets Wrap",
-      "desc": "Oil opened lower as energy flows through the Strait of Hormuz persisted and OPEC+ signaled higher supplies. Traders were also focused on the Korean won’s first day of 24-hour trading.",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/oil-edges-lower-on-opec-increase-dollar-steady-markets-wrap",
-      "time": "2026-07-05T22:42:19",
-      "country": "US",
-      "title_ur": "اوپیک میں اضافے پر تیل کے کنارے نیچے، ڈالر مستحکم: مارکیٹس لپیٹ",
-      "desc_ur": "تیل کم ہوا کیونکہ آبنائے ہرمز سے توانائی کا بہاؤ برقرار رہا اور OPEC+ نے زیادہ سپلائی کا اشارہ دیا۔ تاجروں کی توجہ 24 گھنٹے کی تجارت کے پہلے دن کورین وون پر بھی تھی۔"
-    },
-    {
-      "title": "Iran's Kermanshah Province sets record in agricultural production",
-      "desc": "BAKU, Azerbaijan, July 6. Approximately 5.75 million tons of crops were produced in the Kermanshah Province, located in western Iran, during the past Iranian year (from March 21, 2025, through March…",
-      "source": "Trend.az",
-      "url": "https://www.trend.az/business/4204309.html",
-      "time": "2026-07-05T22:40:43",
-      "country": "Iran",
-      "title_ur": "ایران کے صوبہ کرمانشاہ نے زرعی پیداوار میں ریکارڈ قائم کیا۔",
-      "desc_ur": "باکو، آذربائیجان، 6 جولائی۔ گزشتہ ایرانی سال (21 مارچ 2025 سے لے کر مارچ تک…"
-    },
-    {
-      "title": "Tehran airspace closes Monday for Khamenei’s funeral as crypto markets brace for volatility",
-      "desc": "The geopolitical tensions following Khamenei's death could lead to increased market volatility, impacting global financial stability.\nThe post Tehran airspace closes Monday for Khamenei’s funeral as crypto markets brace for volatility appeared first on Crypto…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/tehran-airspace-khamenei-funeral-crypto/",
-      "time": "2026-07-05T22:39:58",
-      "country": "Iran",
-      "title_ur": "تہران کی فضائی حدود پیر کو خامنہ ای کے جنازے کے لیے بند کر دی گئی کیونکہ کرپٹو مارکیٹوں میں اتار چڑھاؤ کا سامنا ہے",
-      "desc_ur": "خامنہ ای کی موت کے بعد جغرافیائی سیاسی کشیدگی مارکیٹ میں اتار چڑھاؤ کا باعث بن سکتی ہے، جس سے عالمی مالیاتی استحکام متاثر ہو سکتا ہے۔\nThe post تہران کی فضائی حدود پیر کو خامنہ ای کی آخری رسومات کے لیے بند کردی گئی کیونکہ کرپٹو مارکیٹوں میں اتار چڑھاؤ کا سامنا ہے appeared first on Crypto…"
-    },
-    {
-      "title": "Michigan Rep. Mallory McMorrow, who trashed rural Americans, suspends Senate bid after polling collapse",
-      "desc": "Michigan state Sen. Mallory McMorrow dropped out of the Michigan Senate race, leaving the Democratic contest a two-way battle between Dr. Abdul El-Sayed and Rep. Haley Stevens for the critical seat.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/07/05/us-news/mallory-mcmorrow-suspends-michigan-senate-bid-after-polling-collapse/",
-      "time": "2026-07-05T22:36:43",
-      "country": "US",
-      "title_ur": "مشی گن کی نمائندہ میلوری میک مورو، جس نے دیہی امریکیوں کو کچرا ڈالا، پولنگ کے خاتمے کے بعد سینیٹ کی بولی کو معطل کر دیا۔",
-      "desc_ur": "مشی گن ریاست کے سینیٹر میلوری میک مورو مشی گن سینیٹ کی دوڑ سے باہر ہو گئے، ڈیموکریٹک مقابلے کو چھوڑ کر ڈاکٹر عبد السید اور نمائندہ ہیلی سٹیونز کے درمیان اہم نشست کے لیے دو طرفہ مقابلہ ہوا۔"
-    },
-    {
-      "title": "Netanyahu's government just declared the end of the rule of law in Israel",
-      "desc": "The cabinet adopted a formal resolution on Sunday that shows how dangerous it is to Israeli democracy. The executive branch announced it does not intend to hono",
-      "source": "Haaretz",
-      "url": "https://www.haaretz.com/opinion/editorial/2026-07-06/ty-article-opinion/.premium/netanyahus-government-just-declared-the-end-of-the-rule-of-law-in-israel/0000019f-33de-d746-adff-ffdf90260000",
-      "time": "2026-07-05T22:36:37",
+      "title": "The yellow blocks creating a 'game of cat and mouse' in Gaza",
+      "desc": "The \"Yellow Line\" that marks the boundary of Israeli-controlled territory in Gaza has been moved deeper into the enclave.",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-07-06/idf-controls-more-gaza-territory-as-israel-yellow-line-moves/106836640",
+      "time": "2026-07-06T01:13:21",
       "country": "Israel",
-      "title_ur": "نیتن یاہو کی حکومت نے ابھی اسرائیل میں قانون کی حکمرانی کے خاتمے کا اعلان کیا ہے۔",
-      "desc_ur": "کابینہ نے اتوار کو ایک باضابطہ قرارداد منظور کی جس سے ظاہر ہوتا ہے کہ یہ اسرائیلی جمہوریت کے لیے کتنا خطرناک ہے۔ ایگزیکٹو برانچ نے اعلان کیا کہ وہ اعزاز دینے کا ارادہ نہیں رکھتی ہے۔"
+      "title_ur": "پیلے رنگ کے بلاکس غزہ میں 'بلی اور چوہے کا کھیل' بنا رہے ہیں۔",
+      "desc_ur": "\"یلو لائن\" جو کہ غزہ میں اسرائیل کے زیر کنٹرول علاقے کی سرحد کو نشان زد کرتی ہے، کو مزید گہرائی میں منتقل کر دیا گیا ہے۔"
     },
     {
-      "title": "American Decline, Chinese Exposure | Sinification: June 2026",
-      "desc": "US-China & Taiwan | Middle East | Europe | Going Out | East Asia | Russia | Economy | Society & Local Governance | Tech & AI | Critical Minerals",
-      "source": "Sinocism.com",
-      "url": "https://sinocism.com/p/american-decline-chinese-exposure",
-      "time": "2026-07-05T22:31:12",
-      "country": "Russia",
-      "title_ur": "امریکی زوال، چینی نمائش | سینیفیکیشن: جون 2026",
-      "desc_ur": "امریکہ-چین اور تائیوان | مشرق وسطی | یورپ | باہر جانا | مشرقی ایشیا | روس | معیشت | سوسائٹی اور لوکل گورننس | ٹیک اور اے آئی | تنقیدی معدنیات"
+      "title": "Global Market Today: Shares edge higher in Asia as oil dips, earnings loom",
+      "desc": "Asian markets saw gains as Wall Street futures rose, buoyed by hopes of strong earnings and easing oil prices.  Reduced inflation fears have lessened the likelihood of a near-term Federal Reserve rate hike, allowing investors to anticipate a tech profit boom …",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-shares-edge-higher-in-asia-as-oil-dips-earnings-loom/articleshow/132205123.cms",
+      "time": "2026-07-06T01:07:34",
+      "country": "International",
+      "title_ur": "گلوبل مارکیٹ ٹوڈے: تیل میں کمی، آمدنی میں کمی کے باعث ایشیا میں حصص کی قیمتیں بلند ہیں۔",
+      "desc_ur": "ایشیائی منڈیوں میں اضافہ دیکھا گیا کیونکہ وال سٹریٹ فیوچر میں اضافہ ہوا، مضبوط آمدنی اور تیل کی قیمتوں میں نرمی کی امیدوں کے ساتھ۔  مہنگائی کے کم ہونے کے خدشات نے فیڈرل ریزرو کی شرح میں قریبی مدت میں اضافے کے امکانات کو کم کر دیا ہے، جس سے سرمایہ کاروں کو ٹیک پرافٹ بوم کا اندازہ ہو سکتا ہے…"
     },
     {
-      "title": "2026 World Cup: 5 things to know about Belgium ahead of Round of 16 matchup against the USMNT",
-      "desc": "On the verge of a quarterfinals appearance, the U.S. first has to get past a strong Belgium squad.",
-      "source": "Yahoo Entertainment",
-      "url": "https://sports.yahoo.com/soccer/article/2026-world-cup-5-things-to-know-about-belgium-ahead-of-round-of-16-matchup-against-the-usmnt-223001386.html",
-      "time": "2026-07-05T22:30:01",
+      "title": "Mbappe draws level with Messi as France beat Paraguay",
+      "desc": "France needed a second-half Kylian Mbappe penalty to break down a stubborn Paraguay side, winning a niggly World Cup last-16 clash 1-0 to set up a quarterfinal showdown with Morocco. Paraguay’s efforts to get under the skin of France’s superstars worked for t…",
+      "source": "Thechronicle.com.gh",
+      "url": "https://thechronicle.com.gh/mbappe-draws-level-with-messi-as-france-beat-paraguay/",
+      "time": "2026-07-06T01:05:53",
+      "country": "France",
+      "title_ur": "Mbappe نے میسی کے ساتھ برابری کی جب فرانس نے پیراگوئے کو شکست دی۔",
+      "desc_ur": "فرانس کو دوسرے ہاف میں Kylian Mbappe کی پنالٹی کی ضرورت تھی کہ وہ ایک ضدی پیراگوئے کی ٹیم کو توڑنے کے لیے، مراکش کے ساتھ کوارٹر فائنل مقابلہ قائم کرنے کے لیے ورلڈ کپ کے آخری 16 کے مقابلے 1-0 سے جیت کر۔ پیراگوئے کی فرانس کے سپر اسٹارز کی جلد کے نیچے آنے کی کوششوں نے کام کیا…"
+    },
+    {
+      "title": "Oil slips after OPEC+ agrees to raise output targets",
+      "desc": "Oil prices dipped as OPEC+ agreed to boost output from August, with key producers seeing recovering exports via the Strait of Hormuz.  Despite the planned increase, actual output may be capped due to ongoing geopolitical tensions.  Gulf oil exports are revivi…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-slips-after-opec-agrees-to-raise-output-targets/articleshow/132205113.cms",
+      "time": "2026-07-06T01:02:46",
       "country": "US",
-      "title_ur": "2026 ورلڈ کپ: USMNT کے خلاف راؤنڈ آف 16 میچ سے پہلے بیلجیم کے بارے میں جاننے کے لیے 5 چیزیں",
-      "desc_ur": "کوارٹر فائنل میں پہنچنے کے دہانے پر، امریکہ کو سب سے پہلے بیلجیم کے مضبوط اسکواڈ سے گزرنا ہوگا۔"
+      "title_ur": "OPEC+ کے پیداواری اہداف بڑھانے پر رضامندی کے بعد تیل کی قیمت میں کمی",
+      "desc_ur": "تیل کی قیمتیں کم ہوئیں کیونکہ OPEC+ نے اگست سے پیداوار بڑھانے پر رضامندی ظاہر کی، کلیدی پروڈیوسرز نے آبنائے ہرمز کے ذریعے برآمدات کی بحالی کو دیکھا۔  منصوبہ بند اضافہ کے باوجود، جاری جغرافیائی سیاسی تناؤ کی وجہ سے اصل پیداوار محدود ہو سکتی ہے۔  خلیجی تیل کی برآمدات بحال ہو رہی ہیں…"
+    },
+    {
+      "title": "ITR filing for NRIs: From miscounted days in India to missed NRO interest, these mistakes can trigger tax notices",
+      "desc": "Miscounted days in India, missed NRO interest and TDS mismatches can invite notices from a data-savvy tax department.",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/wealth/tax/itr-filing-for-nris-from-miscounted-days-in-india-to-missed-nro-interest-these-mistakes-can-trigger-tax-notices/articleshow/132173376.cms",
+      "time": "2026-07-06T01:00:00",
+      "country": "India",
+      "title_ur": "این آر آئیز کے لیے آئی ٹی آر فائلنگ: ہندوستان میں غلط شمار کیے گئے دنوں سے لے کر این آر او کی سود میں کمی تک، یہ غلطیاں ٹیکس نوٹس کو متحرک کرسکتی ہیں۔",
+      "desc_ur": "ہندوستان میں غلط گنتی والے دن، چھوٹی ہوئی NRO سود اور TDS کی مماثلتیں ڈیٹا سے متعلق ٹیکس ڈپارٹمنٹ سے نوٹسز طلب کر سکتی ہیں۔"
+    },
+    {
+      "title": "How Much Disinformation Can A Person Pack Into A Talk About Disinformation?",
+      "desc": "Why anybody would tap Naomi Oreskes to speak outside her ‘lane of climate disinformation expertise’ is a mystery, when she only erodes her own credibility by offering authoritative-sounding assertions which are really nothing more than items of disinformation…",
+      "source": "Wattsupwiththat.com",
+      "url": "https://wattsupwiththat.com/2026/07/05/how-much-disinformation-can-a-person-pack-into-a-talk-about-disinformation/",
+      "time": "2026-07-06T01:00:00",
+      "country": "International",
+      "title_ur": "ڈس انفارمیشن کے بارے میں بات کرنے میں ایک شخص کتنی غلط معلومات جمع کر سکتا ہے؟",
+      "desc_ur": "کیوں کوئی بھی ناومی اوریسکس کو اس کی 'آب و ہوا کی غلط معلومات کی مہارت کی لین' سے باہر بات کرنے کے لیے ٹیپ کرے گا، یہ ایک معمہ ہے، جب وہ صرف مستند آواز والے دعوے پیش کر کے اپنی ساکھ کو ختم کر دیتی ہے جو حقیقت میں غلط معلومات کی چیزوں سے زیادہ کچھ نہیں ہیں…"
+    },
+    {
+      "title": "Asian shares slip as earnings loom, oil weighed by supply",
+      "desc": "SYDNEY, July 6 : Asian share markets eased on Monday as caution took hold ahead of a crucial earnings season for the artificial intelligence sector, while the potential for increased supply weighed on oil prices and promised relief from inflationary pressures…",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/asian-shares-slip-earnings-loom-oil-weighed-supply-6233966",
+      "time": "2026-07-06T00:59:23",
+      "country": "International",
+      "title_ur": "ایشیائی حصص کی آمدنی میں کمی، تیل کی سپلائی سے وزن میں کمی",
+      "desc_ur": "سڈنی، 6 جولائی: ایشیائی حصص کی منڈیوں میں پیر کو نرمی آئی کیونکہ مصنوعی ذہانت کے شعبے کے لیے آمدنی کے اہم سیزن سے قبل احتیاط کا مظاہرہ کیا گیا، جبکہ سپلائی میں اضافے کے امکانات کا تیل کی قیمتوں پر اثر پڑا اور مہنگائی کے دباؤ سے ریلیف کا وعدہ کیا گیا۔"
+    },
+    {
+      "title": "Healthy credit cycle set to keep NBFCs on growth track in Q1",
+      "desc": "Non-banking finance companies are poised for a strong April-June quarter, with analysts predicting a 20% rise in assets under management. This growth is fueled by robust loan demand, particularly in affordable housing and microfinance, alongside steady commer…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/healthy-credit-cycle-set-to-keep-nbfcs-on-growth-track-in-q1/articleshow/132205105.cms",
+      "time": "2026-07-06T00:59:22",
+      "country": "US",
+      "title_ur": "Q1 میں NBFCs کو ترقی کی راہ پر رکھنے کے لیے صحت مند کریڈٹ سائیکل سیٹ",
+      "desc_ur": "نان بینکنگ فنانس کمپنیاں مضبوط اپریل-جون سہ ماہی کے لیے تیار ہیں، تجزیہ کار زیر انتظام اثاثوں میں 20% اضافے کی پیش گوئی کر رہے ہیں۔ اس نمو کو قرضے کی مضبوط طلب، خاص طور پر سستی رہائش اور مائیکرو فنانس میں، مستحکم کامرس کے ساتھ ساتھ…"
+    },
+    {
+      "title": "Oil supply wave, tumbling prices rekindle fears of global glut",
+      "desc": "The physical oil market is flashing signs of weakness more extreme than any time since the demand collapse of Covid. Read more at straitstimes.com. Read more at straitstimes.com.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/business/companies-markets/oil-supply-wave-tumbling-prices-rekindle-fears-of-global-glut",
+      "time": "2026-07-06T00:58:29",
+      "country": "International",
+      "title_ur": "تیل کی سپلائی کی لہر، گرتی ہوئی قیمتیں عالمی سطح پر گراوٹ کے خدشات کو پھر سے جگاتی ہیں۔",
+      "desc_ur": "کووڈ کی طلب میں کمی کے بعد سے فزیکل آئل مارکیٹ کسی بھی وقت سے کہیں زیادہ کمزوری کے آثار کو چمکا رہی ہے۔ straitstimes.com پر مزید پڑھیں۔ straitstimes.com پر مزید پڑھیں۔"
+    },
+    {
+      "title": "The man no-one wants to face - Haaland fires Norway to history",
+      "desc": "Erling Haaland has scored seven goals in four World Cup games and he is the striker that nobody wants to face as he fires Norway into an historic quarter-final.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/football/articles/cwy006zywj8o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "time": "2026-07-06T00:57:58",
+      "country": "International",
+      "title_ur": "وہ شخص جس کا سامنا کوئی نہیں کرنا چاہتا - ہالینڈ نے ناروے کو تاریخ میں برخاست کردیا۔",
+      "desc_ur": "ایرلنگ ہالینڈ نے ورلڈ کپ کے چار کھیلوں میں سات گول کیے ہیں اور وہ ایسا اسٹرائیکر ہے جس کا سامنا کوئی بھی نہیں کرنا چاہتا جب اس نے ناروے کو تاریخی کوارٹر فائنل میں شکست دی۔"
+    },
+    {
+      "title": "State Police: Separating facts from fictions",
+      "desc": "By OPEYEMI BAMIDELE Nigeria, the country of our collective heritage, is again at a point of inflection. This is a reality that viciously confronts this federation of six geo-political zones, 36 states and 774 local government areas with a population of 242.46…",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/07/state-police-separating-facts-from-fictions/",
+      "time": "2026-07-06T00:56:42",
+      "country": "US",
+      "title_ur": "ریاستی پولیس: حقائق کو افسانوں سے الگ کرنا",
+      "desc_ur": "OPEYEMI BAMIDELE کی طرف سے نائیجیریا، ہمارے اجتماعی ورثے کا ملک، ایک بار پھر ایک موڑ پر ہے۔ یہ ایک حقیقت ہے جو 242.46 کی آبادی کے ساتھ چھ جیو پولیٹیکل زونز، 36 ریاستوں اور 774 لوکل گورنمنٹ ایریاز پر مشتمل اس فیڈریشن کا بری طرح سے سامنا کرتی ہے۔"
+    },
+    {
+      "title": "Hegseth goes quiet on Iran as Trump pursues diplomacy",
+      "desc": "Defense Secretary Pete Hegseth was the Trump administration’s frontman for waging war on Iran during weeks of kinetic operations aimed at decimating its nuclear threat. Since President Trump signed a memorandum of understanding (MOU) with Iran to end the war,…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4386808/posts",
+      "time": "2026-07-06T00:56:28",
+      "country": "Iran",
+      "title_ur": "ہیگستھ ایران پر خاموشی اختیار کر لیتے ہیں کیونکہ ٹرمپ سفارت کاری پر عمل پیرا ہیں۔",
+      "desc_ur": "وزیر دفاع پیٹ ہیگستھ ٹرمپ انتظامیہ کے فرنٹ مین تھے جنہوں نے ہفتوں کی حرکیاتی کارروائیوں کے دوران ایران کے خلاف جنگ چھیڑ رکھی تھی جس کا مقصد اس کے جوہری خطرے کو ختم کرنا تھا۔ چونکہ صدر ٹرمپ نے ایران کے ساتھ جنگ ​​کے خاتمے کے لیے مفاہمت کی یادداشت (MOU) پر دستخط کیے ہیں،…"
+    },
+    {
+      "title": "Andy Reid reveals the special marriage advice Adam Sandler gave Taylor Swift, Travis Kelce while officiating their wedding - Page Six",
+      "desc": "Andy Reid reveals the special marriage advice Adam Sandler gave Taylor Swift, Travis Kelce while officiating their weddingPage Six Andy Reid Reveals 'Phenomenal' Officiant Adam Sandler’s Advice to Newlyweds Travis Kelce and Taylor SwiftPeople.com Chiefs head …",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184324470",
+      "time": "2026-07-06T00:52:33",
+      "country": "International",
+      "title_ur": "اینڈی ریڈ نے شادی کے خصوصی مشورے کا انکشاف کیا ایڈم سینڈلر نے ٹیلر سوئفٹ، ٹریوس کیلس کو ان کی شادی کے دوران دیا - صفحہ چھ",
+      "desc_ur": "اینڈی ریڈ نے شادی کے خصوصی مشورے کا انکشاف کیا جو ایڈم سینڈلر نے ٹیلر سوئفٹ، ٹریوس کیلس کو ان کی شادی کے صفحہ چھ کی انجام دہی کے دوران دیا تھا اینڈی ریڈ نے نوبیاہتا جوڑے ٹریوس کیلس اور ٹیلر سوئفٹ پیپل ڈاٹ کام کے سربراہ کو 'غیر معمولی' افسر ایڈم سینڈلر کے مشورے کا انکشاف کیا۔"
+    },
+    {
+      "title": "Overseas voters moving to UK could face £100,000 donations cap for year",
+      "desc": "The planned changes are part of the government's response to a review of political funding.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0jyyw59gpjo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "time": "2026-07-06T00:51:47",
+      "country": "UK",
+      "title_ur": "برطانیہ جانے والے بیرون ملک مقیم ووٹرز کو سال کے لیے £100,000 عطیات کی حد کا سامنا کرنا پڑ سکتا ہے۔",
+      "desc_ur": "منصوبہ بند تبدیلیاں سیاسی فنڈنگ ​​کے جائزے پر حکومت کے ردعمل کا حصہ ہیں۔"
+    },
+    {
+      "title": "Trump intervention sparks World Cup storm as FIFA clears Balogun to face Belgium",
+      "desc": "In an unprecedented move, FIFA has suspended Folarin Balogun's red-card ban for the US World Cup match against Belgium, following a personal appeal from President Donald Trump to FIFA President Gianni Infantino. This decision has ignited controversy, with Bel…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/sports/football/trump-intervention-sparks-world-cup-storm-as-fifa-clears-balogun-to-face-belgium/articleshow/132205062.cms",
+      "time": "2026-07-06T00:47:15",
+      "country": "US",
+      "title_ur": "ٹرمپ کی مداخلت نے ورلڈ کپ میں طوفان برپا کردیا کیونکہ فیفا نے بلوگون کو بیلجیئم کا سامنا کرنے کے لیے کلیئر کردیا۔",
+      "desc_ur": "ایک غیر معمولی اقدام میں، فیفا نے صدر ڈونلڈ ٹرمپ کی جانب سے فیفا کے صدر گیانی انفینٹینو سے ذاتی اپیل کے بعد، بیلجیم کے خلاف امریکی ورلڈ کپ میچ کے لیے فولرین بالوگن کے ریڈ کارڈ پر پابندی کو معطل کر دیا ہے۔ اس فیصلے نے بیل کے ساتھ تنازعہ کو جنم دیا ہے…"
     }
   ],
-  "pakistan": [],
+  "pakistan": [
+    {
+      "title": "FPIs double down on Indian debt, keep equity bets on hold",
+      "desc": "Foreign investors are pouring money into Indian debt, with record inflows in June, while simultaneously pulling out of local equities. This shift is driven by tax benefits, expanded investment options, and hopes for inclusion in global bond indices. Despite a…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/fpis-double-down-on-indian-debt-keep-equity-bets-on-hold/articleshow/132205053.cms",
+      "time": "2026-07-06T00:49:49",
+      "country": "Pakistan",
+      "title_ur": "FPIs ہندوستانی قرضوں میں دوگنا کمی، ایکویٹی بیٹس کو روکے رکھیں",
+      "desc_ur": "غیر ملکی سرمایہ کار ہندوستانی قرضوں میں پیسہ ڈال رہے ہیں، جون میں ریکارڈ آمد کے ساتھ، ساتھ ہی ساتھ مقامی ایکوئٹی سے باہر نکل رہے ہیں۔ یہ تبدیلی ٹیکس کے فوائد، توسیع شدہ سرمایہ کاری کے اختیارات، اور عالمی بانڈ انڈیکس میں شمولیت کی امیدوں سے کارفرما ہے۔ باوجود ایک…"
+    },
+    {
+      "title": "Fundamentally [book]",
+      "desc": "Loved it. Intelligent and genuinely made me laugh.\nThis book was recommended in our work Slack, and just pull quote for the book description, I found myself instantly buying it:\n\nBy normal, you mean like you? A slag with a saviour complex?\n\nThe story follows …",
+      "source": "Remysharp.com",
+      "url": "https://remysharp.com/books/2026/fundamentally",
+      "time": "2026-07-06T00:00:00",
+      "country": "Pakistan",
+      "title_ur": "بنیادی طور پر [کتاب]",
+      "desc_ur": "اسے پسند آیا۔ ذہین اور حقیقی طور پر مجھے ہنسایا۔\nیہ کتاب ہمارے کام سلیک میں تجویز کی گئی تھی، اور کتاب کی تفصیل کے لیے صرف اقتباس کھینچیں، میں نے خود کو فوری طور پر اسے خریدتے ہوئے پایا:\n\nعام طور پر، آپ کا مطلب آپ کی طرح ہے؟ ایک نجات دہندہ کمپلیکس کے ساتھ ایک سلیگ؟\n\nکہانی مندرجہ ذیل ہے…"
+    },
+    {
+      "title": "Trump Is Trying to Rig the World Cup",
+      "desc": "Society\n \n \n / \n July 6, 2026\n \r\n\n \nTrump Is Trying to Rig the World Cup\r\n\n\n\nFIFA has a long history of corruption, and now soccer’s governing body is again bending to the will of an autocrat.\r\n\n\n\r\n\n \n \n Dave Zirin \r\n\n \n \n Share\n \n \n Copy Link\r\n\n Facebook\r\n\n …",
+      "source": "Thenation.com",
+      "url": "https://www.thenation.com/article/society/trump-usmnt-belgium-balogun-fifa/",
+      "time": "2026-07-06T00:00:00",
+      "country": "Pakistan",
+      "title_ur": "ٹرمپ ورلڈ کپ میں دھاندلی کی کوشش کر رہے ہیں۔",
+      "desc_ur": "معاشرہ\n \n \n / \n 6 جولائی 2026\n \r\n\n \nٹرمپ ورلڈ کپ میں دھاندلی کی کوشش کر رہے ہیں۔\r\n\n\n\nفیفا کی بدعنوانی کی ایک طویل تاریخ ہے، اور اب فٹ بال کی گورننگ باڈی دوبارہ ایک آمر کی مرضی کے آگے جھک رہی ہے۔\r\n\n\n\r\n\n \n \n ڈیو زرین \r\n\n \n \n شیئر کریں۔\n \n \n لنک کاپی کریں۔\r\n\n فیس بک\r\n\n …"
+    },
+    {
+      "title": "State police: Fallacies of sceptics",
+      "desc": "Explore the compelling arguments for state police in Nigeria, examining the fallacies of sceptics and the urgent need for a decentralised police structure\n\nRead More: https://punchng.com/state-police-fallacies-of-sceptics/",
+      "source": "The Punch",
+      "url": "https://punchng.com/state-police-fallacies-of-sceptics/",
+      "time": "2026-07-05T23:39:08",
+      "country": "Pakistan",
+      "title_ur": "ریاستی پولیس: شک کرنے والوں کی غلطیاں",
+      "desc_ur": "نائیجیریا میں ریاستی پولیس کے لیے زبردست دلائل دریافت کریں، شکوک و شبہات کی غلط فہمیوں اور ایک وکندریقرت پولیس ڈھانچے کی فوری ضرورت کا جائزہ لیں۔\n\nمزید پڑھیں: https://punchng.com/state-police-fallacies-of-sceptics/"
+    }
+  ],
   "business": {
-    "quote": "The stock market is a device for transferring money from the impatient to the patient.",
-    "author": "Warren Buffett",
-    "quote_ur": "اسٹاک مارکیٹ بے صبروں سے صبر کرنے والوں کو رقم منتقل کرنے کا ایک آلہ ہے۔"
+    "quote": "An investment in knowledge pays the best interest.",
+    "author": "Benjamin Franklin",
+    "quote_ur": "علم میں سرمایہ کاری سب سے بہتر سود دیتی ہے۔"
   },
   "weather": {
     "city": "Lahore",
@@ -169,7 +210,7 @@
         "low": 30,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 57
+        "precip": 64
       },
       {
         "date": "2026-07-08",
@@ -178,7 +219,7 @@
         "low": 28,
         "condition": "Light Drizzle",
         "condition_ur": "ہلکی بوندا باندی",
-        "precip": 40
+        "precip": 35
       },
       {
         "date": "2026-07-09",
@@ -187,7 +228,7 @@
         "low": 29,
         "condition": "Mainly Clear",
         "condition_ur": "زیادہ تر صاف",
-        "precip": 29
+        "precip": 37
       },
       {
         "date": "2026-07-10",
@@ -205,16 +246,16 @@
         "low": 28,
         "condition": "Light Drizzle",
         "condition_ur": "ہلکی بوندا باندی",
-        "precip": 35
+        "precip": 33
       },
       {
         "date": "2026-07-12",
         "day": "اتوار",
         "high": 38,
         "low": 27,
-        "condition": "Thunderstorm",
-        "condition_ur": "گرج چمک",
-        "precip": 51
+        "condition": "Drizzle",
+        "condition_ur": "بوندا باندی",
+        "precip": 59
       },
       {
         "date": "2026-07-13",
@@ -223,7 +264,7 @@
         "low": 27,
         "condition": "Drizzle",
         "condition_ur": "بوندا باندی",
-        "precip": 38
+        "precip": 57
       }
     ]
   },
