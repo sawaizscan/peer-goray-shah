@@ -1,187 +1,167 @@
 {
-  "generated": "2026-07-08T14:54:45Z",
+  "generated": "2026-07-08T16:27:05Z",
   "world": [
     {
-      "title": "Netanyahu’s Christian comments ‘aimed at sowing strife’: Lebanese analysts",
-      "desc": "After Netanyahu's statements on Lebanese Christians were denounced in Lebanon, analysts call Israel's PM a liar.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/7/7/netanyahus-christian-comments-aimed-at-sowing-strife-lebanese-analysts",
-      "time": "2026-07-07T14:53:39",
+      "title": "Farage Quits as MP and Will Stand Again to Win Back His Seat",
+      "desc": "Reform UK leader Nigel Farage said he was standing down as a Member of Parliament and will stand in the resulting by-election in Clacton, citing the opportunity “to stick two fingers up to the entire establishment.” #uk #politics #worldnews \nThe shock announc…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/121d0b4a0d053d52",
+      "time": "2026-07-07T16:23:18",
+      "country": "UK",
+      "title_ur": "فاریج نے ایم پی کی حیثیت سے استعفیٰ دیا اور اپنی سیٹ جیتنے کے لیے دوبارہ کھڑے ہوں گے۔",
+      "desc_ur": "ریفارم یو کے رہنما نائجل فاریج نے کہا کہ وہ رکن پارلیمنٹ کی حیثیت سے دستبردار ہو رہے ہیں اور کلاکٹن کے نتیجے میں ہونے والے ضمنی انتخاب میں کھڑے ہوں گے، اس موقع کا حوالہ دیتے ہوئے \"پوری اسٹیبلشمنٹ پر دو انگلیاں اٹھانے کا\"۔ #uk #politics #worldnews \nصدمے کا اعلان…"
+    },
+    {
+      "title": "Gaza doctor held by Israel since 2024 told lawyer 'this is the last time you'll see me'",
+      "desc": "The paediatrician has been detained without charge or trial since 27 December 2024.",
+      "source": "TheJournal.ie",
+      "url": "https://www.thejournal.ie/gaza-amnesty-international-dr-hussam-abu-safiya-7094368-Jul2026/",
+      "time": "2026-07-07T16:22:39",
       "country": "Israel",
-      "title_ur": "لبنانی تجزیہ کار: نیتن یاہو کے عیسائی تبصروں کا مقصد 'جھگڑے بونا' ہے۔",
-      "desc_ur": "لبنانی عیسائیوں کے بارے میں نیتن یاہو کے بیانات کی لبنان میں مذمت کے بعد تجزیہ کاروں نے اسرائیل کے پی ایم کو جھوٹا قرار دیا۔"
+      "title_ur": "2024 سے اسرائیل کے زیر حراست غزہ کے ڈاکٹر نے وکیل سے کہا 'یہ آخری بار ہے جب آپ مجھے ملیں گے'",
+      "desc_ur": "اطفال کے ماہر کو 27 دسمبر 2024 سے بغیر کسی الزام یا مقدمے کے حراست میں لیا گیا ہے۔"
     },
     {
-      "title": "We're shocked, shocked I tell you that there is fascism going on in this place. Wait, you're not shocked? [Creepy]",
-      "desc": "We're shocked, shocked I tell you that there is fascism going on in this place. Wait, you're not shocked?",
-      "source": "Fark.com",
-      "url": "https://www.fark.com/comments/14122680/Were-shocked-shocked-I-tell-you-that-there-is-fascism-going-on-in-this-place-Wait-youre-not-shocked",
-      "time": "2026-07-07T14:51:18",
+      "title": "Graham Platner Must Step Aside. Maine Democrats Should Act Quickly to Replace Him",
+      "desc": "I strongly supported Graham Platner as the likeliest candidate to beat Senator Susan Collins in November. I was wrong, as were many others who took him at his word. I didn’t care about his tattoo. He told us that he had gone through PTSD after four tours of d…",
+      "source": "Dianeravitch.net",
+      "url": "https://dianeravitch.net/2026/07/07/graham-platner-must-step-aside/",
+      "time": "2026-07-07T16:20:00",
+      "country": "US",
+      "title_ur": "گراہم پلاٹنر کو ایک طرف ہونا چاہئے۔ مین ڈیموکریٹس کو اس کی جگہ لینے کے لیے جلدی سے کام کرنا چاہیے۔",
+      "desc_ur": "میں نے نومبر میں سینیٹر سوسن کولنز کو ہرانے کے لیے ممکنہ امیدوار کے طور پر گراہم پلیٹنر کی بھرپور حمایت کی۔ میں غلط تھا، جیسا کہ بہت سے دوسرے تھے جنہوں نے اسے اس کی بات پر لیا۔ مجھے اس کے ٹیٹو کی پرواہ نہیں تھی۔ اس نے ہمیں بتایا کہ وہ ڈی کے چار دوروں کے بعد پی ٹی ایس ڈی سے گزرا تھا…"
+    },
+    {
+      "title": "Iran’s supreme leader funeral draws millions as geopolitical tensions simmer, crypto markets watch for sanctions fallout",
+      "desc": "Khamenei's death creates a power vacuum, potentially altering Iran's geopolitical stance and impacting global crypto market regulations.\nThe post Iran’s supreme leader funeral draws millions as geopolitical tensions simmer, crypto markets watch for sanctions …",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-khamenei-funeral-crypto-sanctions-implications/",
+      "time": "2026-07-07T16:17:58",
+      "country": "Iran",
+      "title_ur": "ایران کے سپریم لیڈر کے جنازے میں لاکھوں افراد کی شرکت جغرافیائی سیاسی تناؤ بڑھنے کے ساتھ ہی، کرپٹو مارکیٹس پابندیوں کے نتائج پر نظر رکھتی ہیں",
+      "desc_ur": "خامنہ ای کی موت نے ایک طاقت کا خلا پیدا کیا، ممکنہ طور پر ایران کے جیو پولیٹیکل موقف کو تبدیل کر دیا اور عالمی کرپٹو مارکیٹ کے ضوابط کو متاثر کیا۔\nایران کے سپریم لیڈر کے جنازے کے بعد جیو پولیٹیکل تناؤ بڑھنے کے ساتھ ہی لاکھوں افراد نے شرکت کی، کرپٹو مارکیٹس پابندیوں کی طرف دیکھ رہی ہیں…"
+    },
+    {
+      "title": "DHL Group raises earnings forecast after pre-tax income jumps 29%",
+      "desc": "DHL has raised 2026 guidance behind strong logistics demand and second-quarter results. The post DHL Group raises earnings forecast after pre-tax income jump...",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dhl-group-raises-earnings-forecast-161700693.html",
+      "time": "2026-07-07T16:17:00",
       "country": "International",
-      "title_ur": "ہم حیران ہیں، حیران ہیں میں آپ کو بتاتا ہوں کہ اس جگہ فاشزم چل رہا ہے۔ انتظار کرو، تم حیران نہیں ہو؟ [ڈراونا]",
-      "desc_ur": "ہم حیران ہیں، حیران ہیں میں آپ کو بتاتا ہوں کہ اس جگہ فاشزم چل رہا ہے۔ انتظار کرو، تم حیران نہیں ہو؟"
+      "title_ur": "ڈی ایچ ایل گروپ نے قبل از ٹیکس آمدنی میں 29 فیصد اضافے کے بعد آمدنی کی پیشن گوئی میں اضافہ کیا",
+      "desc_ur": "DHL نے مضبوط لاجسٹکس کی طلب اور دوسری سہ ماہی کے نتائج کے پیچھے 2026 رہنمائی کی ہے۔ The post ڈی ایچ ایل گروپ نے ٹیکس سے پہلے کی آمدنی میں اضافے کے بعد آمدنی کی پیشن گوئی بڑھا دی..."
     },
     {
-      "title": "Trump's World Cup Intervention Shows His Sore Loser Philosophy",
-      "desc": "The Trump administration sees sports as an extension of its underhanded political approach to foreign friends and foes alike.",
-      "source": "Reason",
-      "url": "https://reason.com/2026/07/07/trumps-world-cup-intervention-shows-his-sore-loser-philosophy/",
-      "time": "2026-07-07T14:51:04",
+      "title": "ICE buys the cages, private prison company keeps the keys",
+      "desc": "CoreCivic just sold two of California's largest immigrant detention centers to the federal government for $1.5 billion, then apparently got hired to keep running the place.\nCalMatters reports that CoreCivic sold the Otay Mesa Detention Center in San Diego Cou…",
+      "source": "Boing Boing",
+      "url": "https://boingboing.net/2026/07/07/ice-buys-the-cages-private-prison-company-keeps-the-keys.html",
+      "time": "2026-07-07T16:16:29",
       "country": "US",
-      "title_ur": "ٹرمپ کی ورلڈ کپ میں مداخلت ان کے سوئر ہارے ہوئے فلسفے کو ظاہر کرتی ہے۔",
-      "desc_ur": "ٹرمپ انتظامیہ کھیلوں کو غیر ملکی دوستوں اور دشمنوں کے لیے اپنے زیرک سیاسی نقطہ نظر کی توسیع کے طور پر دیکھتی ہے۔"
+      "title_ur": "ICE پنجرے خریدتا ہے، نجی جیل کمپنی چابیاں رکھتی ہے۔",
+      "desc_ur": "CoreCivic نے ابھی ابھی کیلیفورنیا کے دو سب سے بڑے تارکین وطن حراستی مراکز کو 1.5 بلین ڈالر میں وفاقی حکومت کو فروخت کیا، پھر بظاہر اس جگہ کو چلانے کے لیے ان کی خدمات حاصل کی گئیں۔\nCalMatters نے اطلاع دی ہے کہ CoreCivic نے سان ڈیاگو Cou میں Otay Mesa Detention Center فروخت کیا…"
     },
     {
-      "title": "Trump posts photo of the Obamas and Air Force One with graffiti spray-painted on plane",
-      "desc": "President Trump on Sunday posted an image of former President Obama and his wife, Michelle Obama, waving before boarding an Air Force One that had been spray-painted with graffiti. It came months after another post by the president that showed the couple as p…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4387025/posts",
-      "time": "2026-07-07T14:50:39",
+      "title": "Today’s News in a Nutshell",
+      "desc": "KATHMANDU: Khabarhub brings you a glimpse of major developments of the day in Nepal, including politics, business/economy, sports, entertainment, and more. Court convicts Top Bahadur Rayamajhi and Bal Krishna Khand in fake Bhutanese refugee scam The Kathmandu…",
+      "source": "Khabarhub.com",
+      "url": "https://english.khabarhub.com/2026/07/557402/",
+      "time": "2026-07-07T16:15:09",
       "country": "US",
-      "title_ur": "ٹرمپ نے ہوائی جہاز پر گریفٹی سپرے پینٹ کے ساتھ اوباما اور ایئر فورس ون کی تصویر پوسٹ کی۔",
-      "desc_ur": "صدر ٹرمپ نے اتوار کے روز سابق صدر اوباما اور ان کی اہلیہ مشیل اوباما کی ایک تصویر پوسٹ کی، جو ائیر فورس ون میں سوار ہونے سے پہلے لہرا رہی تھی جس پر گرافٹی سے اسپرے پینٹ کیا گیا تھا۔ یہ صدر کی ایک اور پوسٹ کے مہینوں بعد آیا جس میں جوڑے کو بطور p…"
+      "title_ur": "آج کی خبریں مختصراً",
+      "desc_ur": "کھٹمنڈو: خبر ہب آپ کے لیے نیپال میں دن کی اہم پیشرفت کی ایک جھلک لاتا ہے، بشمول سیاست، کاروبار/معیشت، کھیل، تفریح، اور بہت کچھ۔ عدالت نے جعلی بھوٹانی پناہ گزین گھوٹالے میں ٹاپ بہادر رایاماجھی اور بال کرشنا کھنڈ کو مجرم ٹھہرایا۔"
     },
     {
-      "title": "Asia Cup 2027: Host country, ODI or T20I format, start date, schedule and venue details",
-      "desc": "Get everything you need to know about the Men's Asia Cup 2027 in Bangladesh, including the 50-over ODI format, reported June-July dates, teams, and venues.",
-      "source": "Cricketnews.com",
-      "url": "https://www.cricketnews.com/en/cricket/news/asia-cup-2027-host-odi-t20i-format-start-date-schedule-venue/0c52b95b2782cdac3d3fc949",
-      "time": "2026-07-07T14:49:51",
+      "title": "Progressive Dems' full-throated Platner endorsements come back to haunt them after rape allegations",
+      "desc": "Elizabeth Warren, Bernie Sanders, and \"Pod Save America\" hosts face scrutiny as their endorsements of Graham Platner resurface amid rape allegations.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/progressive-dems-full-throated-platner-endorsements-haunt-rape-allegations",
+      "time": "2026-07-07T16:15:02",
+      "country": "US",
+      "title_ur": "ریپ کے الزامات کے بعد پروگریسو ڈیمز کی مکمل گلے والی پلیٹنر کی توثیق ان کو پریشان کرنے کے لئے واپس آتی ہے۔",
+      "desc_ur": "الزبتھ وارن، برنی سینڈرز، اور \"پوڈ سیو امریکہ\" کے میزبانوں کو جانچ پڑتال کا سامنا کرنا پڑتا ہے کیونکہ ریپ کے الزامات کے درمیان گراہم پلیٹنر کی ان کی توثیق دوبارہ سامنے آتی ہے۔"
+    },
+    {
+      "title": "Mamdani Aide Slams ‘The View’ For Calling DSA Candidate An Antisemite: REPORT",
+      "desc": "One of NYC Mayor Zohran Mamdani's aide's unloaded on ABC executives after a host on \"The View\" called a socialist candidate and Mamdani ally an antisemite.",
+      "source": "The Daily Caller",
+      "url": "https://dailycaller.com/2026/07/07/zohran-mamdani-aide-the-view-sara-haines-dsa-antisemite-darializa-avila-chevalier/",
+      "time": "2026-07-07T16:14:57",
       "country": "International",
-      "title_ur": "ایشیا کپ 2027: میزبان ملک، ODI یا T20I فارمیٹ، آغاز کی تاریخ، شیڈول اور مقام کی تفصیلات",
-      "desc_ur": "بنگلہ دیش میں ہونے والے مینز ایشیا کپ 2027 کے بارے میں جاننے کے لیے درکار ہر چیز حاصل کریں، بشمول 50 اوور کے ODI فارمیٹ، جون-جولائی کی تاریخوں، ٹیموں اور مقامات کی اطلاع دی گئی ہے۔"
+      "title_ur": "مامدانی معاون نے ڈی ایس اے امیدوار کو سام دشمن کہنے پر ’دی ویو‘ پر تنقید کی: رپورٹ",
+      "desc_ur": "NYC کے میئر ظہران مامدانی کے ایک معاون نے \"دی ویو\" پر ایک میزبان کی طرف سے سوشلسٹ امیدوار اور مامدانی کے اتحادی کو سام دشمن قرار دینے کے بعد ABC کے ایگزیکٹوز پر اتارا۔"
     },
     {
-      "title": "The enduring lesson of the Altalena Affair",
-      "desc": "“Sinat hinam,\" baseless hatred, was the cause of the destruction of the Second Temple, and remains our great vulnerability and challenge.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/429801",
-      "time": "2026-07-07T14:47:00",
-      "country": "US",
-      "title_ur": "الٹالینا معاملہ کا پائیدار سبق",
-      "desc_ur": "\"سنت ہینم\"، بے بنیاد نفرت، دوسرے ہیکل کی تباہی کا سبب تھی، اور یہ ہماری بڑی کمزوری اور چیلنج بنی ہوئی ہے۔"
-    },
-    {
-      "title": "Israeli settler outposts now control nearly fifth of West Bank, report says",
-      "desc": "Over the past three years, Israel has provided extensive funding, particularly for unauthorized outposts, while retroactively legalizing them and displacing Palestinian communities in the West Bank, according to a report by the Peace Now and Kerem Navot human…",
-      "source": "Haaretz",
-      "url": "https://www.haaretz.com/west-bank/2026-07-07/ty-article-magazine/.premium/israeli-settler-outposts-now-control-nearly-fifth-of-west-bank-report-says/0000019f-3c51-d07c-af9f-fc5dd64c0000",
-      "time": "2026-07-07T14:45:44",
+      "title": "FAI EGM to vote on Israel fixtures at Aviva this evening",
+      "desc": "The Football Association of Ireland (FAI) will this evening host an Extraordinary General Meeting at Aviva Stadium to vote on a motion regarding the Republic of Ireland's upcoming Nations League fixtures with Israel.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/sport/soccer/2026/0707/1582262-fai-egm-to-vote-on-israel-fixtures-at-aviva-this-evening/",
+      "time": "2026-07-07T16:14:20",
       "country": "Israel",
-      "title_ur": "رپورٹ میں کہا گیا ہے کہ اسرائیلی آباد کاروں کی چوکیاں اب مغربی کنارے کے تقریباً پانچویں حصے پر قابض ہیں۔",
-      "desc_ur": "پیس ناؤ اور کریم ناووٹ ہیومن کی ایک رپورٹ کے مطابق، پچھلے تین سالوں کے دوران، اسرائیل نے خاص طور پر غیر مجاز چوکیوں کے لیے وسیع پیمانے پر فنڈنگ ​​فراہم کی ہے، جب کہ انہیں سابقہ ​​طور پر قانونی حیثیت دی گئی ہے اور مغربی کنارے میں فلسطینی کمیونٹیز کو بے گھر کیا جا رہا ہے۔"
+      "title_ur": "FAI EGM آج شام Aviva میں اسرائیل کے فکسچر پر ووٹ ڈالے گا۔",
+      "desc_ur": "آئرلینڈ کی فٹ بال ایسوسی ایشن (FAI) آج شام کو Aviva اسٹیڈیم میں ایک غیر معمولی جنرل میٹنگ کی میزبانی کرے گی تاکہ جمہوریہ آئرلینڈ کے اسرائیل کے ساتھ آئندہ نیشنز لیگ فکسچر کے حوالے سے ایک تحریک پر ووٹ دیا جا سکے۔"
     },
     {
-      "title": "How Did It Go For Sananda Fru In FIBA World Cup Qualifying?",
-      "desc": "Got to travel around Europe and turned in some quality minutes for the home country’s national team, nice little weekend.",
-      "source": "Anonymouseagle.com",
-      "url": "https://www.anonymouseagle.com/marquette-mens-basketball/38067/golden-eagles-sananda-fru-fiba-european-world-cup-qualifying-germany-israel-cyprus",
-      "time": "2026-07-07T14:45:00",
-      "country": "Europe",
-      "title_ur": "FIBA ورلڈ کپ کوالیفائنگ میں سانندا فرو کے لیے یہ کیسا رہا؟",
-      "desc_ur": "پورے یورپ کا سفر کرنا پڑا اور اپنے ملک کی قومی ٹیم کے لئے کچھ معیاری منٹوں میں تبدیل ہوا، ایک چھوٹا سا ویک اینڈ۔"
+      "title": "Trump Team Allegedly Gave Confidential Info on Asylum Seekers to Iran",
+      "desc": "A lawsuit filed Tuesday alleged that the Trump administration had shared confidential information about Iranian asylum seekers with Tehran, violating federal immigration regulations and endangering hundreds of people. In March 2025, the State Department start…",
+      "source": "The New Republic",
+      "url": "https://newrepublic.com/post/212776/donald-trump-ice-confidential-information-asylum-seekers-iran",
+      "time": "2026-07-07T16:12:43",
+      "country": "Iran",
+      "title_ur": "ٹرمپ ٹیم نے مبینہ طور پر ایران کو پناہ کے متلاشیوں کے بارے میں خفیہ معلومات فراہم کیں۔",
+      "desc_ur": "منگل کو دائر کیے گئے ایک مقدمے میں الزام لگایا گیا ہے کہ ٹرمپ انتظامیہ نے ایرانی پناہ گزینوں کے بارے میں خفیہ معلومات تہران کے ساتھ شیئر کی ہیں، وفاقی امیگریشن ضوابط کی خلاف ورزی کرتے ہوئے اور سینکڑوں لوگوں کو خطرے میں ڈال دیا ہے۔ مارچ 2025 میں، محکمہ خارجہ نے شروع کیا…"
     },
     {
-      "title": "In the heart of Jerusalem: This is how millions flow without supervision",
-      "desc": "Education Ministry reveals that 157 institutions in Jerusalem's northern neighborhood, Kafr 'Aqab, operate without supervision due to threats, yet continue receiving state funds.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/429792",
-      "time": "2026-07-07T14:44:54",
-      "country": "US",
-      "title_ur": "یروشلم کے قلب میں: اس طرح لاکھوں لوگ بغیر نگرانی کے بہہ رہے ہیں۔",
-      "desc_ur": "وزارت تعلیم نے انکشاف کیا ہے کہ یروشلم کے شمالی پڑوس، کفر عقب میں 157 ادارے خطرات کی وجہ سے بغیر نگرانی کے کام کر رہے ہیں، پھر بھی ریاستی فنڈز وصول کرنا جاری رکھے ہوئے ہیں۔"
-    },
-    {
-      "title": "Democratic odds jump in Maine as party leaders scramble to choose Graham Platner replacement as July deadline approaches",
-      "desc": "Democratic odds to hold the US Senate seat in Maine have risen significantly in the last day.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-15959229/Democratic-odds-jump-Maine-Graham-Platner-replacement.html",
-      "time": "2026-07-07T14:44:24",
-      "country": "US",
-      "title_ur": "مائن میں ڈیموکریٹک مشکلات بڑھ رہی ہیں کیونکہ پارٹی رہنما گراہم پلاٹنر کے متبادل کو منتخب کرنے کے لیے لڑ رہے ہیں جیسے ہی جولائی کی آخری تاریخ قریب آتی ہے۔",
-      "desc_ur": "مین میں امریکی سینیٹ کی نشست کے لیے ڈیموکریٹک مشکلات میں گزشتہ روز نمایاں اضافہ ہوا ہے۔"
-    },
-    {
-      "title": "The Sopranos Writer on HBO LSD Project, James Gandolfini: Karlovy Vary",
-      "desc": "The seven-time Emmy winner, speaking at a reporters' roundtable at the Czech fest, also addressed today's unusual unhappiness in the U.S., James Gandolfini, the actor he'd still love to work with and why Hollywood in the 1970s \"was like apartheid.\"",
-      "source": "Hollywood Reporter",
-      "url": "http://www.hollywoodreporter.com/tv/tv-news/the-sopranos-david-chase-change-hbo-lsd-series-karlovy-vary-1236639624/",
-      "time": "2026-07-07T14:40:31",
-      "country": "US",
-      "title_ur": "HBO LSD پروجیکٹ پر سوپرانوس رائٹر، جیمز گینڈولفینی: کارلووی ویری",
-      "desc_ur": "سات بار کے ایمی جیتنے والے نے، چیک فیسٹ میں نامہ نگاروں کی گول میز پر بات کرتے ہوئے، امریکہ میں آج کی غیر معمولی ناخوشی، جیمز گینڈولفینی، اداکار جس کے ساتھ وہ اب بھی کام کرنا پسند کریں گے اور 1970 کی دہائی میں ہالی ووڈ کیوں \"نسل پرستی جیسا تھا۔\""
-    },
-    {
-      "title": "Dollar higher after data as yen holds near 40-year low",
-      "desc": "NEW YORK, July 7 : The dollar advanced on Tuesday, following two straight sessions of slight declines, while the yen held near a four-decade low, as investors continued to watch for signs of possible intervention by Japanese authorities to support the currenc…",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/dollar-higher-after-data-yen-holds-near-40-year-low-6236656",
-      "time": "2026-07-07T14:40:31",
-      "country": "International",
-      "title_ur": "اعداد و شمار کے بعد ڈالر زیادہ ہے کیونکہ ین 40 سال کی کم ترین سطح پر ہے۔",
-      "desc_ur": "نیویارک، 7 جولائی: ڈالر کی قدر میں معمولی کمی کے دو براہ راست سیشنوں کے بعد منگل کو اضافہ ہوا، جبکہ ین چار دہائیوں کی کم ترین سطح کے قریب پہنچ گیا، کیونکہ سرمایہ کار کرنسی کو سپورٹ کرنے کے لیے جاپانی حکام کی جانب سے ممکنہ مداخلت کے اشارے پر نظر رکھے ہوئے تھے۔"
-    },
-    {
-      "title": "Dollar edges higher after data as yen holds near 40-year low",
-      "desc": "NEW YORK, July 7 : The dollar rose modestly on Tuesday following consecutive sessions of slight declines while the yen held near a four-decade low, as investors continued to watch for signs of possible intervention by Japanese authorities to support the curre…",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/dollar-edges-higher-after-data-yen-holds-near-40-year-low-6236656",
-      "time": "2026-07-07T14:40:31",
-      "country": "International",
-      "title_ur": "اعداد و شمار کے بعد ڈالر کے کنارے بلند ہوئے کیونکہ ین 40 سال کی کم ترین سطح پر ہے۔",
-      "desc_ur": "نیویارک، 7 جولائی: لگاتار معمولی گراوٹ کے سیشن کے بعد منگل کو ڈالر کی قدر میں معمولی اضافہ ہوا جبکہ ین چار دہائیوں کی کم ترین سطح کے قریب پہنچ گیا، کیونکہ سرمایہ کار جاپانی حکام کی جانب سے کرنسی کو سپورٹ کرنے کے لیے ممکنہ مداخلت کے اشارے پر نظر رکھے ہوئے تھے۔"
-    },
-    {
-      "title": "Argentina make a change to face Egypt in the Cup, see teams",
-      "desc": "The 2026 FIFA World Cup has a first-ever clash in store this Tuesday (7), with a place in the quarterfinals at stake.Starting at 1 p.m. (Brasília time), Argentina and Egypt face off at Atlanta Stadiu...",
-      "source": "Onefootball.com",
-      "url": "https://onefootball.com/en/news/argentina-make-a-change-to-face-egypt-in-the-cup-see-teams-43108865",
-      "time": "2026-07-07T14:40:00",
-      "country": "Egypt",
-      "title_ur": "کپ میں مصر کا مقابلہ کرنے کے لیے ارجنٹائن نے ایک تبدیلی کی، ٹیمیں دیکھیں",
-      "desc_ur": "2026 فیفا ورلڈ کپ کا اس منگل (7) کو پہلی بار مقابلہ ہے، جس میں کوارٹر فائنل میں جگہ داؤ پر لگی ہے۔ دوپہر 1 بجے شروع ہو رہا ہے۔ (برازیلی وقت)، اٹلانٹا سٹیڈیو میں ارجنٹائن اور مصر آمنے سامنے..."
-    },
-    {
-      "title": "Hasan Piker Slams House Dem Jared Moskowitz as ‘Fascist Collaborator’ for Siding With Trump on Israel: ‘That’s Not a Democrat’",
-      "desc": "Hasan Piker accused Rep. Jared Moskowitz (D-FL) of being a \"fascist collaborator\" for siding with President Donald Trump on issues related to Israel.\nThe post Hasan Piker Slams House Dem Jared Moskowitz as ‘Fascist Collaborator’ for Siding With Trump on Israe…",
+      "title": "Bombshell Lawsuit Claims Trump White House Sharing ‘Confidential’ Info About Iranian Asylum-Seekers With Regime",
+      "desc": "A startling new lawsuit charges the Trump administration with sharing the \"confidential\" information about Iranian asylum-seekers with the Iranian government.\nThe post Bombshell Lawsuit Claims Trump White House Sharing ‘Confidential’ Info About Iranian Asylum…",
       "source": "Mediaite",
-      "url": "https://www.mediaite.com/politics/hasan-piker-slams-house-dem-jared-moskowitz-as-fascist-collaborator-for-siding-with-trump-on-israel-thats-not-a-democrat/",
-      "time": "2026-07-07T14:38:41",
+      "url": "https://www.mediaite.com/media/news/bombshell-lawsuit-claims-trump-white-house-sharing-confidential-info-about-iranian-asylum-seekers-with-regime/",
+      "time": "2026-07-07T16:12:19",
+      "country": "Iran",
+      "title_ur": "بمشیل مقدمہ کا دعویٰ ہے کہ ٹرمپ وائٹ ہاؤس ایرانی پناہ گزینوں کے بارے میں 'خفیہ' معلومات حکومت کے ساتھ شیئر کررہے ہیں",
+      "desc_ur": "ایک چونکا دینے والا نیا مقدمہ ٹرمپ انتظامیہ پر ایرانی پناہ کے متلاشیوں کے بارے میں \"خفیہ\" معلومات ایرانی حکومت کے ساتھ شیئر کرنے کا الزام عائد کرتا ہے۔\nThe post Bombshell مقدمہ کا دعویٰ ہے کہ ٹرمپ وائٹ ہاؤس ایرانی پناہ کے بارے میں ’خفیہ‘ معلومات شیئر کررہے ہیں…"
+    },
+    {
+      "title": "Trump says will lift sanctions on Turkiye, ‘consider’ selling F-35s",
+      "desc": "Announcement during Ankara meeting suggests pivot in US policy, despite opposition from Israel.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/7/7/trump-says-will-lift-sanctions-on-turkiye-consider-selling-f-35s",
+      "time": "2026-07-07T16:11:34",
       "country": "Israel",
-      "title_ur": "حسن پیکر نے ہاؤس ڈیم جیرڈ ماسکووٹز کو اسرائیل پر ٹرمپ کا ساتھ دینے پر 'فاشسٹ ساتھی' کے طور پر تنقید کی: 'یہ ڈیموکریٹ نہیں ہے'",
-      "desc_ur": "حسن پیکر نے نمائندہ جیرڈ ماسکووٹز (D-FL) پر اسرائیل سے متعلق مسائل پر صدر ڈونلڈ ٹرمپ کا ساتھ دینے کے لیے \"فاشسٹ ساتھی\" ہونے کا الزام لگایا۔\nThe post حسن پیکر نے ہاؤس ڈیم جیرڈ ماسکووٹز کو اسرائیل پر ٹرمپ کا ساتھ دینے پر ’فاشسٹ ساتھی‘ قرار دیا…"
+      "title_ur": "ٹرمپ کا کہنا ہے کہ ترکی پر سے پابندیاں اٹھائیں گے، F-35 کی فروخت پر غور کریں گے۔",
+      "desc_ur": "انقرہ اجلاس کے دوران اعلان اسرائیل کی مخالفت کے باوجود امریکی پالیسی میں محور کی نشاندہی کرتا ہے۔"
+    },
+    {
+      "title": "While Trump Says the Economy is Booming, the Reality Points to a Black Recession",
+      "desc": "The Trump administration's war on DEI is hitting Black communities hardest, as a recent jobs report shows Black unemployment at over 6%.Read more...",
+      "source": "The Root",
+      "url": "https://www.theroot.com/while-trump-says-the-economy-is-booming-the-reality-po-2000114931",
+      "time": "2026-07-07T16:10:40",
+      "country": "US",
+      "title_ur": "جب کہ ٹرمپ کہتے ہیں کہ معیشت عروج پر ہے، حقیقت ایک سیاہ کساد بازاری کی طرف اشارہ کرتی ہے۔",
+      "desc_ur": "DEI کے خلاف ٹرمپ انتظامیہ کی جنگ سیاہ فام برادریوں کو سب سے زیادہ متاثر کر رہی ہے، جیسا کہ ملازمتوں کی ایک حالیہ رپورٹ میں سیاہ فاموں کی بے روزگاری 6% سے زیادہ ہے۔ مزید پڑھیں..."
+    },
+    {
+      "title": "Lawyer says detained Gaza doctor was severely beaten in Israeli jail",
+      "desc": "The lawyer for Dr Hussam Abu Safiya tells the BBC his client was so badly beaten he could not recognise him during a visit last week.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c07yy3pgrlmo",
+      "time": "2026-07-07T16:10:14",
+      "country": "Israel",
+      "title_ur": "وکیل کا کہنا ہے کہ غزہ کے زیر حراست ڈاکٹر کو اسرائیلی جیل میں شدید مارا پیٹا گیا۔",
+      "desc_ur": "ڈاکٹر حسام ابو صفیہ کے وکیل نے بی بی سی کو بتایا کہ ان کے موکل کو گزشتہ ہفتے دورے کے دوران اتنی بری طرح سے مارا پیٹا گیا کہ وہ انہیں پہچان نہیں سکے۔"
     }
   ],
   "pakistan": [
     {
-      "title": "How Argentina’s win, draw, or loss vs Egypt could impact the 2026 World Cup bracket",
-      "desc": "With Lionel Messi leading the defending champion and Mohamed Salah inspiring a historic Egyptian campaign, the outcome promises to have major implications. The 2026 World Cup Round of 16 continues with a blockbuster showdown between Argentina and Egypt. With …",
-      "source": "Worldsoccertalk.com",
-      "url": "https://worldsoccertalk.com/world-cup/how-argentinas-win-draw-or-loss-vs-egypt-could-impact-the-2026-world-cup-bracket/",
-      "time": "2026-07-07T14:48:25",
+      "title": "(VIDEO) How to Watch Argentina vs. Egypt Live: TV Channels, Streaming Options for Today's World Cup 2026 Match",
+      "desc": "Argentina and Egypt face off in a World Cup Round of 16 match in Atlanta, featuring star players Messi and Salah. The winner advances to the quarterfinals, with Argentina favoured to win.",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/argentina-vs-egypt-world-cup-round-16-atlanta-1871984",
+      "time": "2026-07-07T16:19:32",
       "country": "Pakistan",
-      "title_ur": "مصر بمقابلہ ارجنٹائن کی جیت، ڈرا، یا ہار 2026 ورلڈ کپ بریکٹ پر کیسے اثر انداز ہو سکتی ہے",
-      "desc_ur": "لیونل میسی دفاعی چیمپئن کی قیادت کر رہے ہیں اور محمد صلاح ایک تاریخی مصری مہم کو متاثر کر رہے ہیں، نتائج کے بڑے مضمرات کا وعدہ ہے۔ 2026 ورلڈ کپ راؤنڈ آف 16 ارجنٹائن اور مصر کے درمیان بلاک بسٹر شو ڈاون کے ساتھ جاری ہے۔ کے ساتھ…"
-    },
-    {
-      "title": "First Pakistani Presidential Visit to Kyrgyzstan in 20 Years Signals Regional Shift",
-      "desc": "Pakistani President Asif Ali Zardari made a historic visit to Bishkek on July 6 — the first presidential trip from Pakistan to Kyrgyzstan in two decades — signaling a renewed push for regional connectivity and energy cooperation.",
-      "source": "Sputnikglobe.com",
-      "url": "https://sputnikglobe.com/20260707/first-pakistani-presidential-visit-to-kyrgyzstan-in-20-years-signals-regional-shift-1124411558.html",
-      "time": "2026-07-07T14:45:16",
-      "country": "Pakistan",
-      "title_ur": "20 سالوں میں کرغزستان کا پہلا پاکستانی صدر کا دورہ علاقائی تبدیلی کا اشارہ دیتا ہے۔",
-      "desc_ur": "پاکستان کے صدر آصف علی زرداری نے 6 جولائی کو بشکیک کا تاریخی دورہ کیا – جو دو دہائیوں میں پاکستان سے کرغزستان کا پہلا صدارتی دورہ تھا – جو علاقائی رابطوں اور توانائی کے تعاون کے لیے نئے سرے سے زور دینے کا اشارہ ہے۔"
-    },
-    {
-      "title": "In Pakistan, not just living but dying too is getting more expensive",
-      "desc": "Funeral expenses in Rawalpindi are becoming unaffordable for many families.  Low-income households now borrow money for burial rites and services.  Inflation continues to impact daily costs, even with slower price increases.  Government budgets prioritize deb…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/in-pakistan-not-just-living-but-dying-too-is-getting-more-expensive/articleshow/132241825.cms",
-      "time": "2026-07-07T14:33:56",
-      "country": "Pakistan",
-      "title_ur": "پاکستان میں نہ صرف جینا بلکہ مرنا بھی مہنگا ہوتا جا رہا ہے۔",
-      "desc_ur": "راولپنڈی میں جنازے کے اخراجات کئی خاندانوں کے لیے ناقابل برداشت ہوتے جا رہے ہیں۔  کم آمدنی والے گھرانے اب تدفین کی رسومات اور خدمات کے لیے رقم ادھار لیتے ہیں۔  مہنگائی روزمرہ کی لاگت پر اثر انداز ہوتی رہتی ہے، یہاں تک کہ قیمتوں میں سست اضافہ ہوتا ہے۔  حکومتی بجٹ ڈیب کو ترجیح دیتے ہیں..."
+      "title_ur": "(ویڈیو) ارجنٹائن بمقابلہ مصر لائیو کیسے دیکھیں: آج کے ورلڈ کپ 2026 میچ کے لیے ٹی وی چینلز، اسٹریمنگ کے اختیارات",
+      "desc_ur": "اٹلانٹا میں ورلڈ کپ راؤنڈ آف 16 کے میچ میں ارجنٹائن اور مصر آمنے سامنے ہیں، جس میں اسٹار کھلاڑی میسی اور صلاح شامل ہیں۔ فاتح کوارٹر فائنل میں پہنچ جاتا ہے، ارجنٹائن نے جیت کے حق میں۔"
     }
   ],
   "business": {
