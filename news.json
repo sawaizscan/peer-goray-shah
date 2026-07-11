@@ -1,179 +1,158 @@
 {
-  "generated": "2026-07-11T10:40:08Z",
+  "generated": "2026-07-11T11:48:03Z",
   "world": [
     {
-      "title": "I dreaded meeting controversial MP Ann Widdecombe but Strictly's 'dancing granny' had me in hysterics with her tales of fearing Anton Du Beke, winning over Craig Revel Horwood and comparing the show to war - after pivoting from politics to reality TV icon",
-      "desc": "Sure, she had made me  laugh during her legendary stint on Strictly, but I'll admit that some of the comments she'd made in the past had raised a brow.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/tvshowbiz/article-15967595/Ann-Widdecombe-MP-Strictly-dancing-granny-reality-TV-icon.html",
-      "time": "2026-07-10T10:37:59",
-      "country": "International",
-      "title_ur": "مجھے متنازعہ ایم پی این وِڈکومبے سے ملنے کا خوف تھا لیکن اسٹریکٹلی کی 'ڈانسنگ گرینی' نے مجھے انٹون ڈو بیک سے ڈرنے، کریگ ریول ہور ووڈ کو جیتنے اور شو کا جنگ سے موازنہ کرنے کی کہانیوں کے ساتھ ہسٹریکس میں ڈال دیا - سیاست سے حقیقت ٹی وی آئیکون کی طرف جانے کے بعد۔",
-      "desc_ur": "یقینی طور پر، اس نے سختی پر اپنے افسانوی دور کے دوران مجھے ہنسایا تھا، لیکن میں تسلیم کروں گا کہ اس نے ماضی میں جو کچھ تبصرے کیے تھے، ان میں سے کچھ نے ایک دم کھڑا کیا تھا۔"
-    },
-    {
-      "title": "Iran Tensions Risk Fertilizer Flows to South American Farmers",
-      "desc": "Fertilizer supplies to Southern Hemisphere agricultural powerhouses like Brazil and Argentina are at risk as a fragile ceasefire between the US and Iran frays just as planting season nears.",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/iran-tensions-risk-fertilizer-flows-to-south-american-farmers",
-      "time": "2026-07-10T10:36:00",
-      "country": "Iran",
-      "title_ur": "ایران تناؤ خطرے کی کھاد جنوبی امریکی کسانوں کو بہہ رہی ہے۔",
-      "desc_ur": "برازیل اور ارجنٹائن جیسے جنوبی نصف کرہ کے زرعی پاور ہاؤسز کو کھاد کی سپلائی خطرے میں ہے کیونکہ امریکہ اور ایران کے درمیان ایک نازک جنگ بندی جیسے جیسے پودے لگانے کا موسم قریب آرہا ہے۔"
-    },
-    {
-      "title": "Romania’s population is projected to drop to 15.6 million by 2080",
-      "desc": "Romania’s resident population stood at 19.043 million as of January 1, 2025, according to data published by the National Institute of Statistics on World Population Day.",
-      "source": "Mediafax.ro",
-      "url": "https://www.mediafax.ro/english/romanias-population-is-projected-to-drop-to-15-6-million-by-2080-23770178",
-      "time": "2026-07-10T10:35:38",
-      "country": "International",
-      "title_ur": "رومانیہ کی آبادی 2080 تک کم ہو کر 15.6 ملین تک پہنچنے کا امکان ہے۔",
-      "desc_ur": "قومی ادارہ برائے شماریات کے عالمی یوم آبادی پر شائع کردہ اعداد و شمار کے مطابق، رومانیہ کی رہائشی آبادی یکم جنوری 2025 تک 19.043 ملین تھی۔"
-    },
-    {
-      "title": "Kneecap to headline charity gig in Belfast as part of Féile an Phobail",
-      "desc": "Uppa Falls gig to take place on August 6th with profits going to two Irish language projects",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/culture/music/2026/07/10/kneecap-to-headline-charity-gig-in-belfast-as-part-of-feile-an-phobail/",
-      "time": "2026-07-10T10:35:12",
-      "country": "US",
-      "title_ur": "Féile an Phobail کے حصے کے طور پر بیلفاسٹ میں چیریٹی گیگ کی سرخی کے لیے Kneecap",
-      "desc_ur": "Upa Falls گیگ 6 اگست کو ہوگا جس میں دو آئرش زبان کے پروجیکٹوں کے منافع کے ساتھ"
-    },
-    {
-      "title": "Fuel excise: You can’t continue writing a cheque every month, says Minister",
-      "desc": "Peter Burke plays down chances of continued fuel subsidies due to renewed conflict in the Gulf",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/politics/2026/07/10/fuel-excise-you-cant-continue-writing-a-cheque-every-month-says-minister/",
-      "time": "2026-07-10T10:35:10",
-      "country": "International",
-      "title_ur": "فیول ایکسائز: آپ ہر ماہ چیک لکھنا جاری نہیں رکھ سکتے، وزیر کہتے ہیں۔",
-      "desc_ur": "پیٹر برک خلیج میں نئے سرے سے تنازعات کی وجہ سے ایندھن کی سبسڈی جاری رکھنے کے امکانات کو کم کرتے ہیں۔"
-    },
-    {
-      "title": "Hamas dissolves government, transfers power to technocratic administration as crypto enforcement legacy lingers",
-      "desc": "The transition to technocratic governance in Gaza may lead to prolonged regulatory scrutiny on crypto markets, impacting compliance globally.\nThe post Hamas dissolves government, transfers power to technocratic administration as crypto enforcement legacy ling…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/hamas-dissolves-government-crypto-enforcement/",
-      "time": "2026-07-10T10:34:41",
-      "country": "Israel",
-      "title_ur": "حماس نے حکومت کو تحلیل کر دیا، اقتدار تکنیکی انتظامیہ کو منتقل کر دیا کیونکہ کرپٹو انفورسمنٹ کی میراث برقرار ہے",
-      "desc_ur": "غزہ میں ٹیکنوکریٹک گورننس کی منتقلی کرپٹو مارکیٹس پر طویل ریگولیٹری جانچ پڑتال کا باعث بن سکتی ہے، جس سے عالمی سطح پر تعمیل پر اثر پڑے گا۔\nThe post حماس نے حکومت کو تحلیل کر دیا، کرپٹو انفورسمنٹ لیگیسی لنگ کے طور پر اقتدار ٹیکنوکریٹک انتظامیہ کو منتقل کر دیا…"
-    },
-    {
-      "title": "Rupee slips on week as Iran flare-up spurs caution, merchant hedging",
-      "desc": "The Indian rupee ended nearly unchanged on Friday, but the week closed on a weaker note. Investor caution grew amid renewed hostilities in the Middle East, impacting oil-affiliated currencies. Meanwhile, global stock markets thrived, propelled by AI innovatio…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-slips-on-week-as-iran-flare-up-spurs-caution-merchant-hedging/articleshow/132309601.cms",
-      "time": "2026-07-10T10:34:26",
-      "country": "Iran",
-      "title_ur": "ایران میں بھڑک اٹھنے سے احتیاط، تاجروں کی ہیجنگ کی وجہ سے روپے کی قدر میں ہفتہ وار کمی",
-      "desc_ur": "ہندوستانی روپیہ جمعہ کو تقریباً بغیر کسی تبدیلی کے ختم ہوا، لیکن ہفتہ کمزور نوٹ پر بند ہوا۔ سرمایہ کاروں کی احتیاط مشرق وسطیٰ میں نئی ​​جنگوں کے درمیان بڑھی، جس سے تیل سے وابستہ کرنسیوں پر اثر پڑا۔ دریں اثنا، عالمی سٹاک مارکیٹیں ترقی کی منازل طے کر رہی ہیں، جو کہ AI جدت طرازی کی وجہ سے ہے…"
-    },
-    {
-      "title": "Delta Expects to Meet Original 2026 Outlook, Despite Fuel Price Uncertainty",
-      "desc": "Despite Delta’s fuel costs doubling this year, the carrier is still expecting to meet its original profit outlook for 2026.",
-      "source": "Skift",
-      "url": "https://skift.com/2026/07/10/delta-expects-to-meet-original-2026-profit-outlook/",
-      "time": "2026-07-10T10:33:40",
-      "country": "International",
-      "title_ur": "ڈیلٹا ایندھن کی قیمت کی غیر یقینی صورتحال کے باوجود اصل 2026 آؤٹ لک سے ملنے کی توقع رکھتا ہے",
-      "desc_ur": "ڈیلٹا کے ایندھن کی لاگت اس سال دوگنا ہونے کے باوجود، کیریئر اب بھی 2026 کے لیے اپنے اصل منافع کے نقطہ نظر کو پورا کرنے کی توقع کر رہا ہے۔"
-    },
-    {
-      "title": "Sensex today | Stock Market Highlights: Markets end in green; Sensex gains 827 pts, Nifty closes at 24,207",
-      "desc": "Sensex Today, Nifty 50 | Stock Market Highlights - Find here all the highlights related to Sensex, Nifty, BSE, NSE, share prices and Indian stock markets for 10 July 2026",
+      "title": "India among 4 countries with largest number of cities at-risk from extreme heat, analysis finds",
+      "desc": "India ranks among four nations with the most cities at risk from extreme heat, highlighting urgent climate challenges.",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-10th-july-2026/article71203430.ece",
-      "time": "2026-07-10T10:33:33",
+      "url": "https://www.thehindubusinessline.com/news/india-among-4-countries-with-largest-number-of-cities-at-risk-from-extreme-heat-analysis-finds/article71206345.ece",
+      "time": "2026-07-10T11:47:40",
       "country": "India",
-      "title_ur": "سینسیکس آج | اسٹاک مارکیٹ کی جھلکیاں: بازار سبز رنگ میں ختم ہوتے ہیں۔ سینسیکس نے 827 پوائنٹس کا اضافہ کیا، نفٹی 24،207 پر بند ہوا۔",
-      "desc_ur": "سینسیکس آج، نفٹی 50 | اسٹاک مارکیٹ کی جھلکیاں - یہاں 10 جولائی 2026 کے لیے سینسیکس، نفٹی، بی ایس ای، این ایس ای، حصص کی قیمتوں اور ہندوستانی اسٹاک مارکیٹوں سے متعلق تمام جھلکیاں تلاش کریں۔"
+      "title_ur": "تجزیہ سے پتہ چلتا ہے کہ بھارت ان 4 ممالک میں شامل ہے جہاں شدید گرمی سے سب سے زیادہ شہر خطرے میں ہیں۔",
+      "desc_ur": "بھارت کا شمار ان چار ممالک میں ہوتا ہے جہاں شدید گرمی سے سب سے زیادہ شہر خطرے میں ہیں، جو فوری طور پر موسمیاتی چیلنجوں کو اجاگر کرتے ہیں۔"
     },
     {
-      "title": "Live updates: Iran’s slain leader buried after days of strikes rock Middle East - CNN",
-      "desc": "Live updates: Iran’s slain leader buried after days of strikes rock Middle EastCNN US renews strikes on IRGC; Iran vows retaliation as peace, ceasefire stallFox News As U.S. Steps Up Attacks on Iran, Prospect of All-Out War RisesThe New York Times U.S. to con…",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184391470",
-      "time": "2026-07-10T10:32:51",
+      "title": "Friday: Hili dialogue",
+      "desc": "Welcome to Friday, July 10, 2026 and National Kitten Day.  Here’s a ten-minute video of kitten antics to brighten your day. My favorite bits are when kittens jump sideways. It’s also Don’t Step on a Bee Day, Martyrdom of the Bab Day, National Piña Colada Day,…",
+      "source": "Whyevolutionistrue.com",
+      "url": "https://whyevolutionistrue.com/2026/07/10/friday-hili-dialogue-585/",
+      "time": "2026-07-10T11:45:38",
+      "country": "International",
+      "title_ur": "جمعہ: ہلی ڈائیلاگ",
+      "desc_ur": "جمعہ 10 جولائی 2026 اور بلی کے قومی دن میں خوش آمدید۔  یہاں آپ کے دن کو روشن کرنے کے لیے بلی کے بچوں کی حرکات کی دس منٹ کی ویڈیو ہے۔ میرے پسندیدہ بٹس وہ ہوتے ہیں جب بلی کے بچے کنارے سے کودتے ہیں۔ یہ شہد کی مکھیوں کے دن، باب کی شہادت، قومی پینا کولاڈا ڈے، پر قدم نہ اٹھانا بھی ہے۔"
+    },
+    {
+      "title": "U.S.-Iran fighting appears to pause. And, life inside Gaza's expanding military zones",
+      "desc": "Fighting between the U.S. and Iran appears to have paused after two days of clashing amid a shaky ceasefire. And, a look at what life is like inside Israel's expanding zone of control in Gaza.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/10/g-s1-132943/up-first-newsletter-iran-us-tps-haitians-syrians-eac-gaza-israel-hamas",
+      "time": "2026-07-10T11:43:38",
       "country": "Iran",
-      "title_ur": "لائیو اپ ڈیٹس: ایران کے مقتول رہنما کو کئی دنوں کے حملوں کے بعد سپرد خاک کر دیا گیا مشرق وسطیٰ - CNN",
-      "desc_ur": "لائیو اپ ڈیٹس: ایران کے مقتول رہنما کو کئی دنوں کے حملوں کے بعد سپرد خاک کر دیا گیا مشرق وسطیٰ سی این این امریکہ نے IRGC پر حملوں کی تجدید کی۔ ایران نے امن کے طور پر جوابی کارروائی کرنے کا عزم کیا، جنگ بندی کا اسٹال فاکس نیوز جیسا کہ امریکہ نے ایران پر حملے تیز کر دیے ہیں، ہر طرف سے جنگ کا امکان بڑھ گیا ہے نیویارک ٹائمز یو ایس…"
+      "title_ur": "امریکہ ایران لڑائی تھمتی دکھائی دے رہی ہے۔ اور، غزہ کے بڑھتے ہوئے فوجی زون کے اندر زندگی",
+      "desc_ur": "ایسا لگتا ہے کہ امریکہ اور ایران کے درمیان دو دن تک جاری رہنے والی جھڑپوں کے بعد ایک متزلزل جنگ بندی کے درمیان لڑائی رک گئی ہے۔ اور، غزہ میں اسرائیل کے کنٹرول کے بڑھتے ہوئے زون کے اندر زندگی کیسی ہے اس پر ایک نظر۔"
     },
     {
-      "title": "Shiv Sena-BJP alliance in Ambernath faces fresh strain over civic office row",
-      "desc": "Fresh differences have surfaced between Shiv Sena and BJP partners in Ambernath Municipal Council. The dispute centers on the construction of the municipal council president's new office. Shiv Sena alleges the work violates norms and spends significant public…",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/thane/shiv-sena-bjp-alliance-in-ambernath-faces-fresh-strain-over-civic-office-row/articleshow/132309195.cms",
-      "time": "2026-07-10T10:31:23",
-      "country": "International",
-      "title_ur": "امبرناتھ میں شیوسینا-بی جے پی اتحاد کو شہری دفتر کے تنازع پر تازہ تناؤ کا سامنا ہے۔",
-      "desc_ur": "امبرناتھ میونسپل کونسل میں شیوسینا اور بی جے پی کے شراکت داروں کے درمیان تازہ اختلافات سامنے آئے ہیں۔ میونسپل کونسل کے صدر کے نئے دفتر کی تعمیر پر تنازعات کا مرکز۔ شیو سینا کا الزام ہے کہ کام اصولوں کی خلاف ورزی کرتا ہے اور اہم عوامی خرچ کرتا ہے…"
+      "title": "US-Iran war: Will peace talks resume, and when?",
+      "desc": "While Trump said the MoU with Iran is 'over', US officials have reaffirmed Washington's commitment to continue talks.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/7/10/us-iran-war-will-peace-talks-ever-resume-and-when",
+      "time": "2026-07-10T11:43:28",
+      "country": "Iran",
+      "title_ur": "امریکہ ایران جنگ: کیا امن مذاکرات دوبارہ شروع ہوں گے اور کب؟",
+      "desc_ur": "جبکہ ٹرمپ نے کہا کہ ایران کے ساتھ ایم او یو 'ختم' ہو گیا ہے، امریکی حکام نے بات چیت جاری رکھنے کے لیے واشنگٹن کے عزم کا اعادہ کیا ہے۔"
     },
     {
-      "title": "Trump’s FCC pressure on “The View” could backfire",
-      "desc": "Leaning on liberal media sets a precedent conservative media can’t abide",
-      "source": "Salon",
-      "url": "https://www.salon.com/2026/07/10/trumps-fcc-pressure-on-the-view-could-backfire/",
-      "time": "2026-07-10T10:30:42",
-      "country": "US",
-      "title_ur": "\"دی ویو\" پر ٹرمپ کا ایف سی سی دباؤ الٹا فائر کر سکتا ہے۔",
-      "desc_ur": "لبرل میڈیا پر جھکاؤ ایک ایسی مثال قائم کرتا ہے جو قدامت پسند میڈیا برقرار نہیں رہ سکتا"
+      "title": "Qatar said to try mediating US, Iran talks",
+      "desc": "Regional mediators are trying again on Friday to pull the United States and Iran back from the brink of renewed war following days of renewed strikes across the Middle East. Leading among them is Qata...",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/1a51351279e97c59",
+      "time": "2026-07-10T11:41:54",
+      "country": "Iran",
+      "title_ur": "قطر نے کہا کہ وہ امریکا اور ایران کے درمیان مذاکرات میں ثالثی کی کوشش کرے گا۔",
+      "desc_ur": "علاقائی ثالث جمعے کے روز دوبارہ کوشش کر رہے ہیں کہ مشرق وسطیٰ میں کئی دنوں سے جاری نئے حملوں کے بعد امریکہ اور ایران کو دوبارہ جنگ کے دہانے سے واپس کھینچ لیا جائے۔ ان میں قطر سرفہرست ہے..."
     },
     {
-      "title": "Fed officials weigh rate hikes as inflation runs hot at 4.1%",
-      "desc": "Persistent inflation pressures may force the Fed to prioritize rate hikes over labor market concerns, impacting risk assets and economic growth.\nThe post Fed officials weigh rate hikes as inflation runs hot at 4.1% appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/fed-rate-hike-inflation-bitcoin-fomc-2026/",
-      "time": "2026-07-10T10:30:03",
-      "country": "International",
-      "title_ur": "مہنگائی 4.1 فیصد پر گرم ہونے پر فیڈ حکام شرح میں اضافے کا وزن کرتے ہیں",
-      "desc_ur": "افراط زر کا مسلسل دباؤ فیڈ کو لیبر مارکیٹ کے خدشات پر شرح میں اضافے کو ترجیح دینے پر مجبور کر سکتا ہے، جو خطرے کے اثاثوں اور اقتصادی ترقی کو متاثر کر سکتا ہے۔\nThe post فیڈ حکام نے شرح میں اضافے کا وزن کیا کیونکہ افراط زر 4.1 فیصد پر گرم ہے appeared first on Crypto Briefing."
+      "title": "Israel says it killed another Hamas commander",
+      "desc": "The Israel Defense Forces (IDF) stated on Friday that it had eliminated Yahya Saeed Muhammad Hamdan, a high-ranking commander of a division of the Nukhba, a special forces unit of Hamas's military win...",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/8833ff0bf89e6b66",
+      "time": "2026-07-10T11:41:46",
+      "country": "Israel",
+      "title_ur": "اسرائیل کا کہنا ہے کہ اس نے حماس کے ایک اور کمانڈر کو ہلاک کر دیا ہے۔",
+      "desc_ur": "اسرائیل کی ڈیفنس فورسز (IDF) نے جمعہ کے روز کہا کہ اس نے حماس کی عسکری جیت کے خصوصی دستے، نخبہ کے ایک ڈویژن کے ایک اعلیٰ ترین کمانڈر یحییٰ سعید محمد حمدان کو ختم کر دیا ہے۔"
     },
     {
-      "title": "IEA Warns Renewed U.S.-Iran Conflict Could Upend Oil Surplus Forecast",
-      "desc": "Despite the tentative recovery of oil flows through the Strait of Hormuz and the first build-up in global stocks since the war began, this week’s re-escalation of the U.S.-Iran hostilities could flip the outlook for an oil market surplus for next year, the In…",
+      "title": "U.S.-Iran escalation could threaten 2027 oil market surplus, IEA says",
+      "desc": "An escalation of hostilities between the U.S. and Iran could upend the International Energy Agency’s forecast of a significant oil market surplus next year, it said on Friday, as global supply jumped in June when the Strait of Hormuz reopened but still lagged…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/d4a460f4471e1d7a",
+      "time": "2026-07-10T11:41:44",
+      "country": "Iran",
+      "title_ur": "IEA کا کہنا ہے کہ امریکہ-ایران میں اضافے سے 2027 کے تیل کی مارکیٹ کے سرپلس کو خطرہ ہو سکتا ہے۔",
+      "desc_ur": "امریکہ اور ایران کے درمیان مخاصمت میں اضافہ بین الاقوامی توانائی ایجنسی کی اگلے سال تیل کی اہم مارکیٹ سرپلس کی پیش گوئی کو ختم کر سکتا ہے، اس نے جمعہ کو کہا، جون میں جب آبنائے ہرمز کے دوبارہ کھلے تو عالمی سپلائی میں اضافہ ہوا لیکن پھر بھی اس میں تاخیر ہوئی…"
+    },
+    {
+      "title": "U.S.-Iran conflict puts food prices at growing risk",
+      "desc": "Cost pressures are mounting throughout the agricultural supply chain, laying the groundwork for higher food prices in the months ahead.\nFor American farmers, diesel prices have risen 46% since the war began, while urea prices have climbed 47%, the Farm Bureau…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/c32a6d9f5c134f57",
+      "time": "2026-07-10T11:41:40",
+      "country": "Iran",
+      "title_ur": "امریکہ ایران تنازعہ خوراک کی قیمتوں کو بڑھتے ہوئے خطرے میں ڈالتا ہے۔",
+      "desc_ur": "پوری زرعی سپلائی چین میں لاگت کا دباؤ بڑھ رہا ہے، جو آنے والے مہینوں میں خوراک کی بلند قیمتوں کی بنیاد رکھتا ہے۔\nامریکی کسانوں کے لیے، جنگ شروع ہونے کے بعد سے ڈیزل کی قیمتوں میں 46 فیصد اضافہ ہوا ہے، جبکہ یوریا کی قیمتوں میں 47 فیصد اضافہ ہوا ہے، فارم بیورو…"
+    },
+    {
+      "title": "Trump Torched His Own Iran Deal On The World Stage",
+      "desc": "On this episode of Amped Up, Cliff Schecter and David Shuster pull up their chairs—with Lawrence Winnerman along for the ride—and watch a president narrate his own unraveling on the world stage, one mangled acronym and invented country at a time. The Islamic …",
+      "source": "Crooksandliars.com",
+      "url": "https://crooksandliars.com/2026/07/trump-torched-his-own-iran-deal-world",
+      "time": "2026-07-10T11:35:07",
+      "country": "Iran",
+      "title_ur": "ٹرمپ نے عالمی اسٹیج پر اپنی ہی ایران ڈیل کو آگ لگا دی۔",
+      "desc_ur": "ایمپڈ اپ کے اس ایپی سوڈ پر، کلف شیکٹر اور ڈیوڈ شسٹر نے اپنی کرسیاں کھینچیں — لارنس ونرمین کے ساتھ سواری کے لیے — اور دیکھیں کہ ایک صدر عالمی سطح پر اپنے ہی حلیے کو بیان کرتے ہیں، ایک وقت میں ایک مخفف اور ایجاد کردہ ملک۔ اسلامی…"
+    },
+    {
+      "title": "The Pro-Palestine Movement Is Rewriting the Rules of US Politics",
+      "desc": "A major showdown on the House floor seemed imminent. An amendment, advanced by the Rules Committee, was poised to force a rare and telling record vote on stripping Israel of $3.3 billion in annual US military aid. Brought forward by Republican Rep. Thomas Mas…",
+      "source": "Common Dreams",
+      "url": "https://www.commondreams.org/opinion/palestine-us-politics",
+      "time": "2026-07-10T11:30:01",
+      "country": "Israel",
+      "title_ur": "فلسطین کی حامی تحریک امریکی سیاست کے اصولوں کو دوبارہ لکھ رہی ہے۔",
+      "desc_ur": "ہاؤس فلور پر ایک بڑا شو ڈاؤن آسنن دکھائی دے رہا تھا۔ رولز کمیٹی کی طرف سے پیش کی گئی ایک ترمیم، اسرائیل سے سالانہ امریکی فوجی امداد میں 3.3 بلین ڈالر کی رقم چھیننے کے لیے ایک نادر اور واضح ریکارڈ ووٹ ڈالنے کے لیے تیار تھی۔ ریپبلکن نمائندے تھامس ماس کی طرف سے پیش کیا گیا…"
+    },
+    {
+      "title": "U.S. Strikes Fail to Break Iran’s Grip on the Strait of Hormuz",
+      "desc": "The U.S. launched another major round of strikes across Iran this week, targeting roughly 90 military sites, including coastal radar installations, anti-ship missile batteries, drone launch positions, command networks and IRGC naval assets around Hormuz.  Teh…",
       "source": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/IEA-Warns-Renewed-US-Iran-Conflict-Could-Upend-Oil-Surplus-Forecast.html",
-      "time": "2026-07-10T10:30:00",
+      "url": "https://oilprice.com/Energy/Energy-General/US-Strikes-Fail-to-Break-Irans-Grip-on-the-Strait-of-Hormuz.html",
+      "time": "2026-07-10T11:30:00",
       "country": "Iran",
-      "title_ur": "آئی ای اے نے خبردار کیا ہے کہ امریکہ ایران تنازعہ تیل کی سرپلس کی پیشن گوئی کو بڑھا سکتا ہے",
-      "desc_ur": "آبنائے ہرمز سے تیل کے بہاؤ کی عارضی بحالی اور جنگ شروع ہونے کے بعد عالمی ذخیرے میں پہلی بار اضافے کے باوجود، اس ہفتے امریکہ-ایران دشمنی کے دوبارہ بڑھنے سے اگلے سال کے لیے تیل کی منڈی کے سرپلس کا منظر بدل سکتا ہے، ان…"
+      "title_ur": "امریکی حملے آبنائے ہرمز پر ایران کی گرفت کو توڑنے میں ناکام رہے۔",
+      "desc_ur": "امریکہ نے اس ہفتے ایران بھر میں حملوں کا ایک اور بڑا دور شروع کیا، جس میں تقریباً 90 فوجی مقامات کو نشانہ بنایا گیا، جس میں ساحلی راڈار تنصیبات، اینٹی شپ میزائل بیٹریاں، ڈرون لانچ پوزیشنز، کمانڈ نیٹ ورکس اور ہرمز کے ارد گرد آئی آر جی سی کے بحری اثاثے شامل ہیں۔  تہ…"
     },
     {
-      "title": "Heartfulness Institute is set to host the Heart of a Jain International Conclave",
-      "desc": "Heartfulness will host an international conclave on July 11-12, 2026. Over one hundred Jain scholars and leaders will attend the event. The conclave aims to establish the Bhagwan Rishabh Dev Chair at HARI University. Discussions will focus on Jain wisdom's re…",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/speaking-tree/conscious-circle/heartfulness-institute-is-set-to-host-the-heart-of-a-jain-international-conclave/articleshow/132309430.cms",
-      "time": "2026-07-10T10:29:55",
+      "title": "QTREX Establishes U.S. Subsidiary to Advance Federal Government Contracting",
+      "desc": "Ness Ziona, Israel, July 10, 2026 (GLOBE NEWSWIRE) -- QTREX Quantum Ltd. (Nasdaq: QTEX) (\"QTREX\" or the \"Company\") a company focused on advancing Additively Manufactured Electronics (“AME”) for quantum computing infrastructure today announced the formation of…",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/07/10/3325437/0/en/QTREX-Establishes-U-S-Subsidiary-to-Advance-Federal-Government-Contracting.html",
+      "time": "2026-07-10T11:30:00",
+      "country": "Israel",
+      "title_ur": "QTREX نے وفاقی حکومت کے معاہدے کو آگے بڑھانے کے لیے امریکی ذیلی ادارہ قائم کیا۔",
+      "desc_ur": "نیس زیونا، اسرائیل، 10 جولائی، 2026 (گلوبی نیوز وائر) -- QTREX Quantum Ltd. (Nasdaq: QTEX) (\"QTREX\" یا \"کمپنی\") ایک کمپنی جس نے کوانٹم کمپیوٹنگ کی شکل میں کوانٹم کمپیوٹنگ کے لیے Additively Manufactured Electronics (\"AME\") کو آگے بڑھانے پر توجہ مرکوز کی ہے، آج اعلان کیا…"
+    },
+    {
+      "title": "Nord Stream Loses Landmark Insurance Case as War Exclusion Prevails",
+      "desc": "Politics, Geopolitics & Conflict A UK High Court ruling has ended Nord Stream AG’s attempt to recover $662 million in insurance claims from the September 2022 sabotage of the Nord Stream 1 gas pipeline, with a judge ruling it a standard war-risk exclusion and…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Nord-Stream-Loses-Landmark-Insurance-Case-as-War-Exclusion-Prevails.html",
+      "time": "2026-07-10T11:30:00",
+      "country": "UK",
+      "title_ur": "Nord Stream نے تاریخی بیمہ کیس کو کھو دیا کیونکہ جنگ سے اخراج غالب ہے۔",
+      "desc_ur": "سیاست، جغرافیائی سیاست اور تنازعہ برطانیہ کی ہائی کورٹ کے فیصلے نے Nord Stream AG کی ستمبر 2022 میں Nord Stream 1 گیس پائپ لائن کی تخریب کاری سے 662 ملین ڈالر کی انشورنس کلیمز کی وصولی کی کوشش کو ختم کر دیا ہے، ایک جج نے اسے معیاری جنگ کے خطرے سے خارج کرنے اور…"
+    },
+    {
+      "title": "How Two Punk Icons Are Giving the Cramps a Second Life",
+      "desc": "One fall night in 1979, two best friends went to a small club in their hometown of Washington, DC, to see a band. The show was so extraordinary, the band so singular, that decades—and thousands of shows—later, even at “AARP age,” as one of them now puts it, t…",
+      "source": "Mother Jones",
+      "url": "https://www.motherjones.com/politics/2026/07/cramps-new-abum-vengeance-records-poison-ivy-lux-interior-henry-rollins-ian-mackaye-punk-psychobilly-revival/",
+      "time": "2026-07-10T11:30:00",
       "country": "US",
-      "title_ur": "ہارٹ فلنیس انسٹی ٹیوٹ ہارٹ آف اے جین انٹرنیشنل کانکلیو کی میزبانی کرنے کے لیے تیار ہے۔",
-      "desc_ur": "Heartfulness 11-12 جولائی 2026 کو ایک بین الاقوامی کانفرنس کی میزبانی کرے گا۔ اس تقریب میں ایک سو سے زیادہ جین علماء اور رہنما شرکت کریں گے۔ کنکلیو کا مقصد ہاری یونیورسٹی میں بھگوان رشبھ دیو چیئر قائم کرنا ہے۔ مباحثے جین کی حکمت پر توجہ مرکوز کریں گے…"
-    }
-  ],
-  "pakistan": [
-    {
-      "title": "IEA Sees Annual Drop In Global Oil Demand",
-      "desc": "Global oil demand is expected to decline for the first time since 2020, largely due to disruptions caused by the Iran war, according to the International Energy Agency (IEA).\n\nThe agency said demand will fall by about 1 million barrels per day in 2026 compa…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/4faac724decd070c",
-      "time": "2026-07-10T10:10:48",
-      "country": "Pakistan",
-      "title_ur": "آئی ای اے نے تیل کی عالمی مانگ میں سالانہ کمی دیکھی۔",
-      "desc_ur": "بین الاقوامی توانائی ایجنسی (IEA) کے مطابق، عالمی سطح پر تیل کی طلب میں 2020 کے بعد پہلی بار کمی متوقع ہے، جس کی بڑی وجہ ایران جنگ کی وجہ سے پیدا ہونے والی رکاوٹیں ہیں۔\n\nایجنسی نے کہا کہ 2026 compa میں طلب میں تقریباً 10 لاکھ بیرل یومیہ کمی آئے گی۔"
+      "title_ur": "کس طرح دو پنک شبیہیں درد کو دوسری زندگی دے رہے ہیں۔",
+      "desc_ur": "1979 میں ایک موسم خزاں کی رات، دو بہترین دوست اپنے آبائی شہر واشنگٹن ڈی سی کے ایک چھوٹے سے کلب میں ایک بینڈ دیکھنے گئے۔ یہ شو بہت غیر معمولی تھا، بینڈ اتنا واحد، کہ کئی دہائیوں اور ہزاروں شوز بعد میں، یہاں تک کہ \"AARP عمر\" میں، جیسا کہ اب ان میں سے ایک نے کہا ہے، t…"
     },
     {
-      "title": "Strait jacket: Wall Street is worried President Trump has no good options for ending the war with Iran",
-      "desc": "Good morning. On Fortune’s radar today:\nWall Street is worried that Trump has no way out of the Gulf. \nMarkets: No news is good news.\n Wars are good for stocks, top analyst says. \nUsers pick AI models on price, not performance, Amazon CTO says.\nReddit is ta…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/f5cc9b9962756c8b",
-      "time": "2026-07-10T10:10:47",
-      "country": "Pakistan",
-      "title_ur": "سٹریٹ جیکٹ: وال سٹریٹ پریشان ہے صدر ٹرمپ کے پاس ایران کے ساتھ جنگ ​​ختم کرنے کے لیے کوئی اچھا آپشن نہیں ہے۔",
-      "desc_ur": "صبح بخیر آج فارچیون کے ریڈار پر:\nوال سٹریٹ کو تشویش ہے کہ ٹرمپ کے پاس خلیج سے نکلنے کا کوئی راستہ نہیں ہے۔ \nمارکیٹس: کوئی خبر اچھی خبر نہیں ہے۔\n اعلی تجزیہ کار کا کہنا ہے کہ جنگیں اسٹاک کے لیے اچھی ہیں۔ \nایمیزون سی ٹی او کا کہنا ہے کہ صارفین قیمت پر AI ماڈل منتخب کرتے ہیں، کارکردگی نہیں۔\nReddit یہ ہے…"
+      "title": "Oil Prices Rally on Renewed Hormuz Supply Risks",
+      "desc": "August WTI crude oil traded higher during the week ending July 10, with prices last at $71.84 through Thursday evening, up $3.38, or 4.94%. The contract posted a wide weekly range, climbing from a low of $67.82 to a high of $76.08 before pulling back late Thu…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Rally-on-Renewed-Hormuz-Supply-Risks.html",
+      "time": "2026-07-10T11:30:00",
+      "country": "US",
+      "title_ur": "ہرمز کی سپلائی کے نئے خطرات پر تیل کی قیمتوں میں اضافہ",
+      "desc_ur": "اگست WTI خام تیل نے 10 جولائی کو ختم ہونے والے ہفتے کے دوران زیادہ تجارت کی، جس کی قیمتیں جمعرات کی شام سے لے کر $3.38، یا 4.94% بڑھ کر $71.84 پر رہیں۔ معاہدے نے ہفتہ وار ایک وسیع رینج پوسٹ کیا، جو جمعرات کے آخر میں واپس کھینچنے سے پہلے $67.82 کی کم سے بلندی سے $76.08 تک پہنچ گیا۔"
     }
   ],
+  "pakistan": [],
   "business": {
     "quote": "In the middle of difficulty lies opportunity.",
     "author": "Albert Einstein",
@@ -190,7 +169,7 @@
         "low": 26,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 43
+        "precip": 65
       },
       {
         "date": "2026-07-12",
@@ -199,7 +178,7 @@
         "low": 24,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 67
+        "precip": 75
       },
       {
         "date": "2026-07-13",
@@ -208,7 +187,7 @@
         "low": 27,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 41
+        "precip": 55
       },
       {
         "date": "2026-07-14",
@@ -217,7 +196,7 @@
         "low": 27,
         "condition": "Overcast",
         "condition_ur": "ابر آلود",
-        "precip": 33
+        "precip": 29
       },
       {
         "date": "2026-07-15",
@@ -226,7 +205,7 @@
         "low": 28,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 29
+        "precip": 35
       },
       {
         "date": "2026-07-16",
@@ -235,7 +214,7 @@
         "low": 28,
         "condition": "Mainly Clear",
         "condition_ur": "زیادہ تر صاف",
-        "precip": 33
+        "precip": 31
       },
       {
         "date": "2026-07-17",
@@ -244,7 +223,7 @@
         "low": 28,
         "condition": "Mainly Clear",
         "condition_ur": "زیادہ تر صاف",
-        "precip": 27
+        "precip": 20
       }
     ]
   },
