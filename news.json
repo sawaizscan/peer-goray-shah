@@ -1,177 +1,167 @@
 {
-  "generated": "2026-07-12T16:52:52Z",
+  "generated": "2026-07-12T17:55:14Z",
   "world": [
     {
-      "title": "'Just crying' for lower rates: Homebuying and selling have picked up this year — barely",
-      "desc": "Spiking mortgage rates upended the busy spring selling season, but signs of a healthier market than 2025 remain.",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/real-estate/article/just-crying-for-lower-rates-homebuying-and-selling-have-picked-up-this-year--barely-165136773.html",
-      "time": "2026-07-11T16:51:36",
-      "country": "US",
-      "title_ur": "کم شرحوں کے لیے 'صرف رونا': اس سال گھر کی خرید و فروخت میں اضافہ ہوا ہے - بمشکل",
-      "desc_ur": "رہن کے بڑھتے ہوئے نرخوں نے موسم بہار کی فروخت کے مصروف موسم کو بڑھاوا دیا، لیکن 2025 کے مقابلے میں صحت مند مارکیٹ کے آثار باقی ہیں۔"
-    },
-    {
-      "title": "Trump suggests a standing order to attack Iran if it assassinates him. But Vance would make the call",
-      "desc": "",
-      "source": "Yahoo Entertainment",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2031e55f-5b66-479d-aa63-2491c120904e",
-      "time": "2026-07-11T16:48:05",
+      "title": "Iran and US hold talks in Oman over Strait of Hormuz security, and crypto markets are watching closely",
+      "desc": "The talks could stabilize oil markets, reducing inflationary pressures and influencing risk asset strategies, including crypto investments.\nThe post Iran and US hold talks in Oman over Strait of Hormuz security, and crypto markets are watching closely appeare…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-us-oman-hormuz-talks-crypto/",
+      "time": "2026-07-11T17:54:20",
       "country": "Iran",
-      "title_ur": "ٹرمپ نے تجویز کیا کہ اگر ایران نے اسے قتل کر دیا تو اس پر حملہ کرنے کا ایک مستقل حکم۔ لیکن وینس کال کرے گا۔",
-      "desc_ur": ""
+      "title_ur": "ایران اور امریکہ کے درمیان آبنائے ہرمز کی سیکورٹی پر عمان میں بات چیت ہوئی، اور کرپٹو مارکیٹیں قریب سے دیکھ رہی ہیں",
+      "desc_ur": "یہ بات چیت تیل کی منڈیوں کو مستحکم کر سکتی ہے، افراط زر کے دباؤ کو کم کر سکتی ہے اور کرپٹو سرمایہ کاری سمیت خطرے کے اثاثوں کی حکمت عملیوں کو متاثر کر سکتی ہے۔\nThe post ایران اور امریکا کے درمیان آبنائے ہرمز کی سیکیورٹی پر عمان میں مذاکرات، کرپٹو مارکیٹیں قریب سے دیکھ رہی ہیں…"
     },
     {
-      "title": "Fox News Journalist Gives Chilling Warning About Trump's Latest Anti-Press Move",
-      "desc": "\"This action ... should alarm every American,\" Jennifer Griffin said.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/trump-subpoena-times-plane-jennifer-griffin_n_6a526270e4b01985a35e5855",
-      "time": "2026-07-11T16:41:35",
-      "country": "US",
-      "title_ur": "فاکس نیوز کے صحافی نے ٹرمپ کے تازہ ترین پریس مخالف اقدام کے بارے میں سخت وارننگ دی ہے۔",
-      "desc_ur": "جینیفر گریفن نے کہا، \"یہ کارروائی... ہر امریکی کو خطرے میں ڈال دینا چاہیے۔\""
-    },
-    {
-      "title": "Trump administration subpoenas New York Times journalists after Air Force One reporting",
-      "desc": "The Trump administration's move, which seeks to force the reporters to testify before a federal grand jury, should 'shock the conscience' of Americans, a New York Times lawyer says.",
-      "source": "CBC News",
-      "url": "https://www.cbc.ca/news/world/trump-new-york-times-subpoenas-air-force-one-9.7266938",
-      "time": "2026-07-11T16:39:40",
-      "country": "US",
-      "title_ur": "ٹرمپ انتظامیہ نے ایئر فورس ون کی رپورٹنگ کے بعد نیویارک ٹائمز کے صحافیوں کو طلب کیا۔",
-      "desc_ur": "نیویارک ٹائمز کے ایک وکیل کا کہنا ہے کہ ٹرمپ انتظامیہ کا اقدام، جو صحافیوں کو وفاقی گرینڈ جیوری کے سامنے گواہی دینے پر مجبور کرنا چاہتا ہے، امریکیوں کے 'ضمیر کو جھنجوڑنا' چاہیے۔"
-    },
-    {
-      "title": "F&O Tracker: Momentum fades but supports hold for Nifty and Nifty Bank futures",
-      "desc": "Nifty slips back into range; Nifty Bank retains a slight edge",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/fampo-tracker-momentum-fades-supports-holdfor-nifty-and-nifty-bank-futures/article71209674.ece",
-      "time": "2026-07-11T16:31:20",
-      "country": "International",
-      "title_ur": "F&O ٹریکر: مومنٹم ختم ہو جاتا ہے لیکن نفٹی اور نفٹی بینک فیوچر کے لیے ہولڈ کو سپورٹ کرتا ہے۔",
-      "desc_ur": "نفٹی رینج میں واپس پھسل گیا نفٹی بینک نے معمولی برتری برقرار رکھی ہے۔"
-    },
-    {
-      "title": "The volatile AI trade marched higher, but oil kept Wall Street on edge last week",
-      "desc": "Wall Street's record-setting start to the week ran into two familiar sources of volatility: the artificial intelligence trade and oil. The Dow Jones Industrial Average on Monday closed above 53,000 for the first time ever before renewed U.S.-Iran tensions era…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/3c7bed8815890421",
-      "time": "2026-07-11T16:30:42",
-      "country": "Iran",
-      "title_ur": "غیر مستحکم AI تجارت نے بلندی پر مارچ کیا، لیکن تیل نے پچھلے ہفتے وال اسٹریٹ کو کنارے پر رکھا",
-      "desc_ur": "وال سٹریٹ کا ہفتے میں ریکارڈ ترتیب دینے کا آغاز اتار چڑھاؤ کے دو مانوس ذرائع سے ہوا: مصنوعی ذہانت کی تجارت اور تیل۔ پیر کو ڈاؤ جونز انڈسٹریل ایوریج پہلی بار 53,000 سے اوپر بند ہوا، امریکہ ایران کشیدگی کے دور کی تجدید سے پہلے…"
-    },
-    {
-      "title": "【7月12日】看軍聞學英語",
-      "desc": "■泰戈爾 原文： US officials confirmed the successful rescue of an American Airman who had gone down in southern Iran and evaded capture for roughly two days. During a White House briefing, CIA Director John Ratcliffe stated that the pilot had remained \"invisible to…",
-      "source": "Yahoo Entertainment",
-      "url": "https://tw.news.yahoo.com/7%E6%9C%8812%E6%97%A5-%E7%9C%8B%E8%BB%8D%E8%81%9E%E5%AD%B8%E8%8B%B1%E8%AA%9E-163000881.html",
-      "time": "2026-07-11T16:30:00",
-      "country": "Iran",
-      "title_ur": "【7月12日】在軍聞學英語",
-      "desc_ur": "■泰戈爾 原文： امریکی حکام نے تصدیق کی ہے کہ ایک امریکی ایئر مین کو بچا لیا گیا ہے جو جنوبی ایران میں گر کر تقریباً دو دن تک گرفتاری سے بچ گیا تھا۔ وائٹ ہاؤس کی ایک بریفنگ کے دوران، سی آئی اے کے ڈائریکٹر جان ریٹکلف نے کہا کہ پائلٹ \"پوشیدہ تھا..."
-    },
-    {
-      "title": "US plans to build new generation of low-cost combat drones that can overwhelm enemy defenses",
-      "desc": "The proposed Massed Modular Aircraft would not necessarily replace every capability of the MQ-9 Reaper. The Pentagon wants these low-cost drones to feature modular designs. GA The U.S. Department of Defense is searching for a new generation of low-cost combat…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-chat/4387584/posts",
-      "time": "2026-07-11T16:27:46",
-      "country": "US",
-      "title_ur": "امریکہ کم لاگت والے جنگی ڈرونز کی نئی نسل بنانے کا ارادہ رکھتا ہے جو دشمن کے دفاع کو مغلوب کر سکتے ہیں۔",
-      "desc_ur": "مجوزہ ماسڈ ماڈیولر ہوائی جہاز ضروری طور پر MQ-9 ریپر کی ہر صلاحیت کو تبدیل نہیں کرے گا۔ پینٹاگون چاہتا ہے کہ یہ کم لاگت والے ڈرون ماڈیولر ڈیزائن کے حامل ہوں۔ GA امریکی محکمہ دفاع کم لاگت والے جنگی جنگ کی نئی نسل کی تلاش کر رہا ہے…"
-    },
-    {
-      "title": "Netanyahu's mouthpiece slams Shin Bet chief over alleged leak to Haaretz",
-      "desc": "Speaking on his radio show last month, far-right Channel 14 commentator Jacob Bardugo said he had met with Shin Bet chief Zini and demanded to know who within the agency had leaked to Haaretz that Netanyahu had instructed the agency to investigate an alleged …",
-      "source": "Haaretz",
-      "url": "https://www.haaretz.com/israel-news/israel-politics/2026-07-11/ty-article/.premium/netanyahus-mouthpiece-slams-shin-bet-chief-over-alleged-leak-to-haaretz/0000019f-51a6-d9b4-abdf-d9efc1f10000",
-      "time": "2026-07-11T16:21:07",
+      "title": "Gun-Toting Israeli Forces Detain Ro Khanna in Dramatic Video",
+      "desc": "Rep. Ro Khanna (D-CA) was detained during a visit to the West Bank and shared video of the dramatic moment he was detained by Israeli forces.\nThe post Gun-Toting Israeli Forces Detain Ro Khanna in Dramatic Video first appeared on Mediaite.",
+      "source": "Mediaite",
+      "url": "https://www.mediaite.com/media/news/gun-toting-israeli-forces-detain-ro-khanna-in-dramatic-video/",
+      "time": "2026-07-11T17:52:17",
       "country": "Israel",
-      "title_ur": "نیتن یاہو کے ماؤتھ پیس نے ہارٹز کو مبینہ طور پر لیک ہونے پر شن بیٹ کے سربراہ کو تنقید کا نشانہ بنایا",
-      "desc_ur": "پچھلے مہینے اپنے ریڈیو شو میں بات کرتے ہوئے، انتہائی دائیں چینل 14 کے مبصر جیکب بارڈوگو نے کہا کہ اس نے شن بیٹ کے سربراہ زینی سے ملاقات کی ہے اور یہ جاننے کا مطالبہ کیا ہے کہ ایجنسی کے اندر کس نے ہارٹز کو یہ خبر لیک کی تھی کہ نیتن یاہو نے ایجنسی کو ایک مبینہ تحقیقات کی ہدایت کی تھی۔"
+      "title_ur": "بندوق بردار اسرائیلی فورسز نے ڈرامائی ویڈیو میں رو کھنہ کو حراست میں لے لیا۔",
+      "desc_ur": "نمائندہ رو کھنہ (D-CA) کو مغربی کنارے کے دورے کے دوران حراست میں لیا گیا تھا اور اس ڈرامائی لمحے کی ویڈیو شیئر کی تھی جب اسے اسرائیلی فورسز نے حراست میں لیا تھا۔\nThe post بندوق بردار اسرائیلی فورسز نے ڈرامائی ویڈیو میں رو کھنہ کو حراست میں لے لیا appeared first on Mediaite"
     },
     {
-      "title": "Trump administration subpoenas NY Times journalists in grand jury leak probe tied to Air Force One report",
-      "desc": "Federal agents delivered subpoenas to New York Times reporters at their homes after a report on the new Air Force One Boeing 747-8 from Qatar.",
+      "title": "Iranians hold 'kill Trump' flags at Khamenei's funeral | Fox News Video",
+      "desc": "U.S. Ambassador to Israel Mike Huckabee discusses Iran's threats against President Donald Trump, including reported assassination plots, despite ongoing technical talks.",
       "source": "Fox News",
-      "url": "https://www.foxnews.com/media/trump-administration-subpoenas-ny-times-journalists-grand-jury-leak-probe-tied-air-force-one-report",
-      "time": "2026-07-11T16:16:08",
-      "country": "US",
-      "title_ur": "ٹرمپ انتظامیہ نے نیو یارک ٹائمز کے صحافیوں کو گرینڈ جیوری لیک کی تحقیقات میں ایئر فورس ون کی رپورٹ سے منسلک کیا",
-      "desc_ur": "قطر سے نئے ایئر فورس ون بوئنگ 747-8 کے بارے میں رپورٹ کے بعد وفاقی ایجنٹوں نے نیویارک ٹائمز کے نامہ نگاروں کو ان کے گھروں پر ذیلی خطوط پہنچائے۔"
-    },
-    {
-      "title": "Trump and Iran's supreme leader trade threats as mediators try to save their crumbling deal",
-      "desc": "President Donald Trump overnight made threats on social media of further missile attacks against Iran, after the funeral of Supreme Leader Ayatollah Ali Khamenei saw open calls for the U.S. leader's killing.",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/8235927658d53fb3",
-      "time": "2026-07-11T16:15:40",
+      "url": "https://www.foxnews.com/video/6400897155112",
+      "time": "2026-07-11T17:43:12",
       "country": "Iran",
-      "title_ur": "ٹرمپ اور ایران کے سپریم لیڈر تجارتی دھمکیاں دے رہے ہیں کیونکہ ثالث اپنے ٹوٹتے ہوئے معاہدے کو بچانے کی کوشش کرتے ہیں۔",
-      "desc_ur": "صدر ڈونلڈ ٹرمپ نے راتوں رات سوشل میڈیا پر ایران کے خلاف مزید میزائل حملوں کی دھمکیاں دیں، سپریم لیڈر آیت اللہ علی خامنہ ای کے جنازے کے بعد امریکی رہنما کے قتل کے لیے کھلے عام مطالبات سامنے آئے۔"
+      "title_ur": "ایرانیوں نے خامنہ ای کے جنازے پر 'ٹرمپ کو مار ڈالو' کے جھنڈے اٹھا رکھے ہیں۔ فاکس نیوز ویڈیو",
+      "desc_ur": "اسرائیل میں امریکی سفیر مائیک ہکابی جاری تکنیکی بات چیت کے باوجود صدر ڈونلڈ ٹرمپ کے خلاف ایران کی دھمکیوں بشمول مبینہ قتل کی سازشوں پر تبادلہ خیال کر رہے ہیں۔"
     },
     {
-      "title": "How Marco Rubio Is Running Venezuela From Afar",
-      "desc": "President Trump was sitting in the Oval Office earlier this year with Secretary of State Marco Rubio when an idea came to him. Maybe he should dispatch Mr. Rubio permanently to Caracas, the Venezuelan capital, where U.S. commandos had carried out the proudest…",
+      "title": "New York Times reporters who wrote about Air Force One hit with subpoenas",
+      "desc": "Report claimed Qatari-gifted jet failed to get advanced security measures",
+      "source": "Wnd.com",
+      "url": "https://www.wnd.com/2026/07/new-york-times-reporters-who-wrote-about-air/",
+      "time": "2026-07-11T17:41:25",
+      "country": "International",
+      "title_ur": "نیو یارک ٹائمز کے نامہ نگار جنہوں نے ایئر فورس ون کے بارے میں لکھا تھا وہ سبپوینس کے ساتھ ہٹ گئے۔",
+      "desc_ur": "رپورٹ میں دعویٰ کیا گیا کہ قطری تحفے میں دیا گیا طیارہ جدید حفاظتی اقدامات حاصل کرنے میں ناکام رہا۔"
+    },
+    {
+      "title": "[Catholic Caucus] Thee Sacred Page: The Seed of the Word: Readings for the 15th Sunday of Ordinary Time",
+      "desc": "By Dr. John BergsmaOrdinary Time focuses on the growth of the Church. I would prefer we called it “Extraordinary Time,” because there is nothing ordinary about the Second Person of the Divinity becoming en-fleshed in our presence through the Sacrament. Be tha…",
       "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4387582/posts",
-      "time": "2026-07-11T16:14:25",
+      "url": "https://freerepublic.com/focus/f-religion/4387590/posts",
+      "time": "2026-07-11T17:37:14",
       "country": "US",
-      "title_ur": "مارکو روبیو دور سے وینزویلا کیسے چلا رہا ہے۔",
-      "desc_ur": "صدر ٹرمپ اس سال کے شروع میں اوول آفس میں سکریٹری آف اسٹیٹ مارکو روبیو کے ساتھ بیٹھے تھے جب انہیں ایک خیال آیا۔ ہو سکتا ہے کہ وہ مسٹر روبیو کو مستقل طور پر وینزویلا کے دارالحکومت کراکس روانہ کر دے، جہاں امریکی کمانڈوز نے سب سے قابل فخر کارنامہ انجام دیا تھا۔"
+      "title_ur": "[کیتھولک کاکس] Thee Sacred Page: The Seed of the Word: عام وقت کے 15ویں اتوار کی پڑھائی",
+      "desc_ur": "ڈاکٹر جان برگسما کی طرف سے عام وقت چرچ کی ترقی پر توجہ مرکوز کرتا ہے۔ میں اسے \"غیر معمولی وقت\" کہنے کو ترجیح دوں گا، کیونکہ الوہیت کی دوسری ہستی کے ساکرامنٹ کے ذریعے ہماری موجودگی میں جوڑے بننے کے بارے میں کوئی معمولی بات نہیں ہے۔ ہو جائے…"
     },
     {
-      "title": "US officials in Lebanon for talks about on the withdrawal of Israel from the south of the country",
-      "desc": "As part of the agreement, the long-disempowered Lebanese military will take full control of two small areas dubbed pilot zones.",
-      "source": "TheJournal.ie",
-      "url": "https://www.thejournal.ie/pilot-zones-us-military-idf-israel-occupation-of-lebanon-7098746-Jul2026/",
-      "time": "2026-07-11T16:10:39",
+      "title": "Lefty California Dem drops veiled threat to IDF after claiming he was detained in West Bank",
+      "desc": "Democratic lawmaker Ro Khanna said he was detained by Israeli settlers armed with US-made rifles during a West Bank visit this week.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/07/11/us-news/california-rep-ro-khanna-claims-he-was-detained-by-israeli-settlers-in-west-bank/",
+      "time": "2026-07-11T17:34:03",
       "country": "Israel",
-      "title_ur": "امریکی حکام لبنان میں ملک کے جنوب سے اسرائیل کے انخلاء کے بارے میں بات چیت کے لیے",
-      "desc_ur": "معاہدے کے ایک حصے کے طور پر، طویل عرصے سے بے اختیار لبنانی فوج دو چھوٹے علاقوں کا مکمل کنٹرول سنبھالے گی جنہیں پائلٹ زون کہا جاتا ہے۔"
+      "title_ur": "لیفٹی کیلیفورنیا ڈیم نے یہ دعویٰ کرنے کے بعد کہ اسے مغربی کنارے میں حراست میں لیا گیا ہے IDF کو درپردہ خطرہ چھوڑ دیا",
+      "desc_ur": "ڈیموکریٹک قانون ساز رو کھنہ نے کہا کہ انہیں اس ہفتے مغربی کنارے کے دورے کے دوران امریکی ساختہ رائفلوں سے لیس اسرائیلی آباد کاروں نے حراست میں لیا تھا۔"
     },
     {
-      "title": "Hormuz shipping in focus as Iran-US rhetoric heats up",
-      "desc": "Analysts say door to diplomacy still open despite exchange of attacks and threats.",
+      "title": "Iran Rejects US Talks As Mojtaba Calls For 'Vengeance'; Trump Warns 1,000 Missiles Are 'Locked & Loaded'",
+      "desc": "Iran Rejects US Talks As Mojtaba Calls For 'Vengeance'; Trump Warns 1,000 Missiles Are 'Locked & Loaded'\n \nIran has thrown Trump's ultimatum and Saturday deadline right back at Washington, saying that instead it is the United States that must first meet the a…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/7841cef124b34116",
+      "time": "2026-07-11T17:31:31",
+      "country": "Iran",
+      "title_ur": "ایران نے امریکی مذاکرات کو مسترد کر دیا کیونکہ مجتبیٰ نے 'انتقام' کا مطالبہ کیا ہے۔ ٹرمپ نے خبردار کیا کہ 1000 میزائل 'لاک اینڈ لوڈ' ہیں",
+      "desc_ur": "ایران نے امریکی مذاکرات کو مسترد کر دیا کیونکہ مجتبیٰ نے 'انتقام' کا مطالبہ کیا ہے۔ ٹرمپ نے خبردار کیا کہ 1000 میزائل 'لاک اینڈ لوڈ' ہیں\n \nایران نے ٹرمپ کے الٹی میٹم اور ہفتہ کی ڈیڈ لائن کو یہ کہتے ہوئے واپس واشنگٹن پر پھینک دیا ہے کہ اس کے بجائے یہ امریکہ ہے جسے پہلے ایک…"
+    },
+    {
+      "title": "There’s no escape from inflation as a perfect storm of the ‘Godzilla’ El Niño, AI boom, Trump tariffs, fuel crunch, and Ukraine war keep prices high",
+      "desc": "Oil prices have retreated as the U.S.-Iran war recedes, despite occasional skirmishes, but inflationary trends will continue to apply pressure from all sides.\nThat will keep Wall Street on high alert for rate hikes from the Federal Reserve, with policymakers …",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/76a8441c5a522085",
+      "time": "2026-07-11T17:31:25",
+      "country": "Iran",
+      "title_ur": "'Godzilla' El Niño، AI بوم، ٹرمپ کے ٹیرف، ایندھن کی کمی، اور یوکرائن کی جنگ کے ایک بہترین طوفان کے طور پر مہنگائی سے کوئی بچ نہیں سکتا",
+      "desc_ur": "کبھی کبھار جھڑپوں کے باوجود، امریکہ-ایران جنگ کے خاتمے کے بعد تیل کی قیمتیں پسپائی اختیار کر چکی ہیں، لیکن افراط زر کے رجحانات ہر طرف سے دباؤ کا اطلاق جاری رکھیں گے۔\nیہ پالیسی سازوں کے ساتھ، فیڈرل ریزرو سے شرح میں اضافے کے لیے وال اسٹریٹ کو ہائی الرٹ پر رکھے گا…"
+    },
+    {
+      "title": "Video Norway soccer star Erling Haaland's diet goes viral",
+      "desc": "The diet and training regimen of the World Cup breakout star are generating buzz, as is his performance on the pitch.",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/video/134645865/",
+      "time": "2026-07-11T17:31:06",
+      "country": "International",
+      "title_ur": "ناروے کے فٹ بال اسٹار ایرلنگ ہالینڈ کی خوراک کی ویڈیو وائرل ہوگئی",
+      "desc_ur": "ورلڈ کپ کے بریک آؤٹ اسٹار کی خوراک اور تربیت کا طریقہ کار گونج رہا ہے، جیسا کہ پچ پر اس کی کارکردگی ہے۔"
+    },
+    {
+      "title": "With courage and conviction, you may yet conquer FOMO by sheer FOECTSTDU",
+      "desc": "'The Voice of Hind Rajab' is a docudrama that depicts the tragic events surrounding a young Palestinian girl. The film's screening saw a silent, moved audience in attendance. Choosing to watch certain films is presented as a political act. This conscious deci…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/opinion/et-commentary/with-courage-and-conviction-you-may-yet-conquer-fomo-by-sheer-foectstdu/articleshow/132335063.cms",
+      "time": "2026-07-11T17:29:09",
+      "country": "US",
+      "title_ur": "ہمت اور یقین کے ساتھ، آپ ابھی تک سراسر FOECTSTDU کے ذریعے FOMO کو فتح کر سکتے ہیں۔",
+      "desc_ur": "'دی وائس آف ہند رجب' ایک دستاویزی ڈرامہ ہے جس میں ایک نوجوان فلسطینی لڑکی کے گرد پیش آنے والے المناک واقعات کو دکھایا گیا ہے۔ فلم کی نمائش میں ایک خاموش، متحرک سامعین نے شرکت کی۔ کچھ فلمیں دیکھنے کے انتخاب کو سیاسی عمل کے طور پر پیش کیا جاتا ہے۔ یہ شعوری فیصلہ…"
+    },
+    {
+      "title": "US lawmaker slams Israeli army after settlers detain him on Palestine trip",
+      "desc": "Democrat Ro Khanna accuses soldiers of supporting the settlers, warning that Israeli forces made a 'huge mistake'.",
       "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/7/11/hormuz-shipping-in-focus-as-iran-us-rhetoric-heats-up",
-      "time": "2026-07-11T16:05:18",
-      "country": "Iran",
-      "title_ur": "ایران-امریکہ کی بیان بازی کے دوران ہرمز کی ترسیل توجہ میں ہے۔",
-      "desc_ur": "تجزیہ کاروں کا کہنا ہے کہ حملوں اور دھمکیوں کے تبادلے کے باوجود سفارت کاری کے دروازے کھلے ہیں۔"
+      "url": "https://www.aljazeera.com/news/2026/7/11/us-lawmaker-slams-israeli-army-after-settlers-detain-him-on-palestine-trip",
+      "time": "2026-07-11T17:28:08",
+      "country": "Israel",
+      "title_ur": "امریکی قانون ساز نے فلسطین کے دورے پر آبادکاروں کو حراست میں لینے کے بعد اسرائیلی فوج پر تنقید کی۔",
+      "desc_ur": "ڈیموکریٹ رو کھنہ نے فوجیوں پر آبادکاروں کی حمایت کرنے کا الزام لگاتے ہوئے خبردار کیا کہ اسرائیلی افواج نے 'بہت بڑی غلطی' کی ہے۔"
     },
     {
-      "title": "A sea of mourners buried the myth of a weak Iran",
-      "desc": "Millions mourning Ali Khamenei challenged predictions of collapse and demonstrated the durability of the political order he shaped Read Full Article at RT.com",
-      "source": "RT",
-      "url": "https://www.rt.com/news/642889-sea-of-mourners-ali-khamenei/",
-      "time": "2026-07-11T16:03:46",
+      "title": "Norway vs. England free live stream: How to watch World Cup quarterfinal online without cable",
+      "desc": "Norway and England face off in a World Cup quarterfinal. Here's how to watch the match for free and the latest on kickoff time.",
+      "source": "Sporting News",
+      "url": "https://www.sportingnews.com/us/soccer/news/norway-vs-england-free-live-stream-watch-world-cup/78f050cd5c26a66247155977",
+      "time": "2026-07-11T17:27:49",
+      "country": "International",
+      "title_ur": "ناروے بمقابلہ انگلینڈ مفت لائیو سلسلہ: کیبل کے بغیر ورلڈ کپ کوارٹر فائنل آن لائن کیسے دیکھیں",
+      "desc_ur": "ورلڈ کپ کے کوارٹر فائنل میں ناروے اور انگلینڈ آمنے سامنے۔ مفت میں میچ دیکھنے کا طریقہ یہاں ہے اور کِک آف ٹائم پر تازہ ترین۔"
+    },
+    {
+      "title": "Trump's Eerie Warning: Prez Declares '1000 Missiles' Are Aimed at Iran Should Rogue Nation Attempt to Assassinate Him",
+      "desc": "The president threatened that there are weapons already \"locked and loaded\" and targeted at Iran should anything happen to him.",
+      "source": "Radaronline.com",
+      "url": "https://radaronline.com/p/trump-eerie-warning-1000-missiles-aimed-iran-assassinate/",
+      "time": "2026-07-11T17:20:41",
       "country": "Iran",
-      "title_ur": "سوگواروں کے سمندر نے ایک کمزور ایران کے افسانے کو دفن کر دیا۔",
-      "desc_ur": "لاکھوں سوگوار علی خامنہ ای نے تباہی کی پیشین گوئیوں کو چیلنج کیا اور سیاسی ترتیب کی پائیداری کا مظاہرہ کیا جسے انہوں نے تشکیل دیا RT.com پر مکمل مضمون پڑھیں"
+      "title_ur": "ٹرمپ کا خوفناک انتباہ: صدر نے اعلان کیا '1000 میزائل' کا مقصد ایران پر ہے اگر بدمعاش قوم کو اسے قتل کرنے کی کوشش کرنی چاہئے",
+      "desc_ur": "صدر نے دھمکی دی کہ ہتھیار پہلے سے ہی \"لاک اینڈ لوڈ\" ہیں اور اگر انہیں کچھ ہوا تو ایران کو نشانہ بنایا جائے گا۔"
+    },
+    {
+      "title": "Lok Adalat settles Rs 8 lakh loan with payement of Rs 15,000",
+      "desc": "Mega Lok Adalat in Chikkamagaluru settles Canara Bank’s Rs 8 lakh loan recovery case for Rs 15,000 after judge intervenes for disabled borrower.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/mysuru/lok-adalat-settles-rs-8-lakh-loan-with-payement-of-rs-15000/articleshow/132335036.cms",
+      "time": "2026-07-11T17:19:17",
+      "country": "Yemen",
+      "title_ur": "لوک عدالت 15,000 روپے کی ادائیگی کے ساتھ 8 لاکھ روپے کے قرض کا تصفیہ کرتی ہے۔",
+      "desc_ur": "چکمگلورو میں میگا لوک عدالت نے کینرا بینک کے 8 لاکھ روپے کے قرض کی وصولی کا معاملہ 15,000 روپے میں طے کیا جب جج نے معذور قرض لینے والے کے لیے مداخلت کی۔"
+    },
+    {
+      "title": "Trump Admin Subpoenas New York Times Journalists for Reporting on Air Force One Security",
+      "desc": "Four journalists are being called to testify in front of a federal grand jury\nThe post Trump Admin Subpoenas New York Times Journalists for Reporting on Air Force One Security appeared first on TheWrap.",
+      "source": "TheWrap",
+      "url": "https://www.thewrap.com/media-platforms/politics/trump-admin-subpoenas-new-york-times-journalists-air-force-one-safety-concerns-report/",
+      "time": "2026-07-11T17:19:08",
+      "country": "US",
+      "title_ur": "ٹرمپ ایڈمن نے نیو یارک ٹائمز کے صحافیوں کو ایئر فورس ون سیکیورٹی پر رپورٹنگ کے لیے طلب کیا۔",
+      "desc_ur": "چار صحافیوں کو وفاقی گرینڈ جیوری کے سامنے گواہی دینے کے لیے بلایا جا رہا ہے۔\nThe post ٹرمپ ایڈمن نے نیو یارک ٹائمز کے صحافیوں کو ایئر فورس ون سیکیورٹی پر رپورٹنگ کے لیے طلب کر لیا appeared first on TheWrap."
     }
   ],
   "pakistan": [
     {
-      "title": "Buy ITC put option",
-      "desc": "Explore a bearish strategy on ITC by buying July 280 put options, targeting profits as the stock declines.",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/buy-itc-put-option/article71209405.ece",
-      "time": "2026-07-11T16:23:07",
+      "title": "Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns",
+      "desc": "Cybersecurity researchers have disclosed details of sustained cyber espionage activity against several Pakistani law enforcement organizations undertaken by suspected China- and India-aligned threat actors between February 2024 and April 2026.\n\n\"At Balochista…",
+      "source": "Internet",
+      "url": "https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html",
+      "time": "2026-07-11T17:49:31",
       "country": "Pakistan",
-      "title_ur": "آئی ٹی سی پٹ آپشن خریدیں۔",
-      "desc_ur": "اسٹاک میں کمی کے ساتھ منافع کو ہدف بناتے ہوئے جولائی 280 کے پوٹ آپشنز خرید کر ITC پر مندی والی حکمت عملی دریافت کریں۔"
-    },
-    {
-      "title": "Ex-senior official at Ukrainian energy giant faces money laundering charges",
-      "desc": "Anti-corruption investigators have served a former senior official at Ukraine’s graft-plagued state-run energy firm Energoatom with a suspicion notice over alleged money laundering",
-      "source": "RT",
-      "url": "https://www.rt.com/russia/642890-ex-senior-official-ukraine-energoatom-money-laundering/",
-      "time": "2026-07-11T15:20:21",
-      "country": "Pakistan",
-      "title_ur": "یوکرین کے توانائی کے بڑے ادارے کے سابق سینئر اہلکار کو منی لانڈرنگ کے الزامات کا سامنا ہے۔",
-      "desc_ur": "انسداد بدعنوانی کے تفتیش کاروں نے مبینہ طور پر منی لانڈرنگ کے الزام میں مشتبہ نوٹس کے ساتھ یوکرین کی بدعنوانی سے متاثرہ سرکاری توانائی فرم Energoatom کے ایک سابق سینئر اہلکار کی خدمت کی ہے۔"
+      "title_ur": "ہیکرز نے ملٹی گروپ جاسوسی مہموں میں بلوچستان پولیس پورٹل کو ہتھیار بنایا",
+      "desc_ur": "سائبرسیکیوریٹی کے محققین نے فروری 2024 اور اپریل 2026 کے درمیان چین اور بھارت سے منسلک مشتبہ دھمکی آمیز اداکاروں کے ذریعہ کئی پاکستانی قانون نافذ کرنے والی تنظیموں کے خلاف سائبر جاسوسی کی مسلسل سرگرمیوں کی تفصیلات کا انکشاف کیا ہے۔\n\nبلوچستان میں…"
     }
   ],
   "business": {
