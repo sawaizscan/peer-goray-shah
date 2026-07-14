@@ -1,167 +1,217 @@
 {
-  "generated": "2026-07-14T12:07:19Z",
+  "generated": "2026-07-14T14:22:55Z",
   "world": [
     {
-      "title": "Oil prices surge on US-Iran attacks",
-      "desc": "World oil prices surged Monday as a fresh flare-up between the United States and Iran rattled investors, while a selloff in chipmakers sent South Korea's stock market plunging.\nThe post Oil prices surge on US-Iran attacks appeared first on Vanguard News.",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/07/oil-prices-surge-on-us-iran-attacks/",
-      "time": "2026-07-13T12:06:47",
+      "title": "An evening with Clavicular in Tel Aviv: Livestreams, Israeli soldiers and misogyny",
+      "desc": "The 20-year-old who's big on 'looksmaxxing' helped market Israel to his followers, but kept mum on who funded his trip",
+      "source": "Haaretz",
+      "url": "https://www.haaretz.com/israel-news/2026-07-13/ty-article-magazine/.premium/an-evening-with-clavicular-in-tel-aviv-livestreams-soldiers-and-misogyny/0000019f-5b22-d6e8-a7df-5fb7f4f00000",
+      "time": "2026-07-13T14:21:24",
+      "country": "Israel",
+      "title_ur": "تل ابیب میں کلاویکولر کے ساتھ ایک شام: لائیو اسٹریمز، اسرائیلی فوجی اور بدتمیزی۔",
+      "desc_ur": "20 سالہ نوجوان جو 'looksmaxxing' میں بڑا ہے اسرائیل کو اپنے پیروکاروں تک پہنچانے میں مدد کرتا تھا، لیکن اس پر خاموش رہا کہ اس کے سفر کو کس نے فنڈ دیا"
+    },
+    {
+      "title": "Israeli Navy delegation and US Navy strengthen ties during independence anniversary events",
+      "desc": "Israeli Navy Deputy Commander RADM Guy Levy led a delegation to the US marking 250 years of US independence, meeting senior Navy officials and representatives from navies worldwide to deepen operational cooperation and strengthen maritime partnerships.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/430092",
+      "time": "2026-07-13T14:21:17",
+      "country": "Israel",
+      "title_ur": "اسرائیلی بحریہ کے وفد اور امریکی بحریہ نے آزادی کی سالگرہ کی تقریبات کے دوران تعلقات کو مضبوط کیا۔",
+      "desc_ur": "اسرائیلی بحریہ کے ڈپٹی کمانڈر RADM گائے لیوی نے امریکہ کی آزادی کے 250 سال کے موقع پر ایک وفد کی قیادت کی، جس میں بحریہ کے سینئر حکام اور دنیا بھر کی بحریہ کے نمائندوں سے آپریشنل تعاون کو گہرا کرنے اور بحری شراکت کو مضبوط بنانے کے لیے ملاقات کی۔"
+    },
+    {
+      "title": "Who Actually Rules Between Elections? The Crisis of Democracy",
+      "desc": "Most of us in the Western world agree with Winston Churchill’s famous quip that “democracy is the worst form of Government except for all those other forms that have been tried from time to time.” Contrary to what many people think who cite this as an argumen…",
+      "source": "Fair Observer",
+      "url": "https://www.fairobserver.com/politics/who-actually-rules-between-elections-the-crisis-of-democracy/",
+      "time": "2026-07-13T14:19:28",
+      "country": "US",
+      "title_ur": "انتخابات کے درمیان اصل میں کون حکمرانی کرتا ہے؟ جمہوریت کا بحران",
+      "desc_ur": "مغربی دنیا میں ہم میں سے زیادہ تر لوگ ونسٹن چرچل کے اس مشہور مقولے سے اتفاق کرتے ہیں کہ \"جمہوریت حکومت کی بدترین شکل ہے سوائے ان تمام دوسری شکلوں کے جن کو وقتاً فوقتاً آزمایا جاتا رہا ہے۔\" بہت سے لوگوں کے خیال کے برعکس جو اس کو دلیل کے طور پر پیش کرتے ہیں…"
+    },
+    {
+      "title": "SK Hynix's 12.8% Nasdaq Pop Turns Into Record 15.4% Seoul Crash, Triggering Kospi Circuit Breaker",
+      "desc": "SK Hynix's shares fell 15.4% in Seoul after a strong Nasdaq debut, triggering a market-wide halt and impacting South Korea's stock market. Analysts cite profit-taking and valuation confusion as factors.",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/sk-hynix-shares-plummet-after-nasdaq-debut-1872219",
+      "time": "2026-07-13T14:18:26",
+      "country": "US",
+      "title_ur": "SK Hynix کا 12.8% Nasdaq پاپ ریکارڈ 15.4% سیول کریش میں بدل گیا، کوسپی سرکٹ بریکر کو متحرک کر رہا ہے",
+      "desc_ur": "نیس ڈیک کے مضبوط آغاز کے بعد سیئول میں SK Hynix کے حصص میں 15.4% کی کمی واقع ہوئی، جس سے پورے بازار میں تعطل پیدا ہوا اور جنوبی کوریا کی اسٹاک مارکیٹ پر اثر پڑا۔ تجزیہ کار منافع لینے اور تشخیص کی الجھن کو عوامل کے طور پر بتاتے ہیں۔"
+    },
+    {
+      "title": "Trump: US to become ‘the guardian’ of the Strait of Hormuz",
+      "desc": "“We’ll become the guardian of the strait. Maybe we’ll become the guardian angel of the strait, and we should be reimbursed for that,” he said. “When we do that we’re going to be reimbursed because the other nations are very wealthy, they’re on our side, and w…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4387778/posts",
+      "time": "2026-07-13T14:18:23",
+      "country": "US",
+      "title_ur": "ٹرمپ: امریکہ آبنائے ہرمز کا 'سرپرست' بنے گا۔",
+      "desc_ur": "\"ہم آبنائے کے محافظ بن جائیں گے۔ شاید ہم آبنائے کے محافظ فرشتہ بن جائیں، اور ہمیں اس کے لیے معاوضہ ملنا چاہیے،\" انہوں نے کہا۔ \"جب ہم ایسا کرتے ہیں تو ہمیں معاوضہ دیا جائے گا کیونکہ دوسری قومیں بہت امیر ہیں، وہ ہمارے ساتھ ہیں، اور ..."
+    },
+    {
+      "title": "Trump agrees to Jake Tapper interview after call to discuss Lindsey Graham: ‘Trying to have CNN go on a normal path’",
+      "desc": "During an impromptu phone interview Sunday following the shocking death of Sen. Lindsey Graham, Tapper invited the president to come back on the show for an interview.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/07/13/media/trump-agrees-to-jake-tapper-interview-were-trying-to-have-cnn-go-on-a-normal-path/",
+      "time": "2026-07-13T14:18:03",
+      "country": "US",
+      "title_ur": "لنڈسے گراہم پر بات کرنے کے لئے کال کے بعد ٹرمپ جیک ٹیپر کے انٹرویو سے اتفاق کرتے ہیں: 'سی این این کو معمول کے راستے پر گامزن کرنے کی کوشش کر رہے ہیں'",
+      "desc_ur": "سین. لنڈسے گراہم کی چونکا دینے والی موت کے بعد اتوار کو ایک فوری فون انٹرویو کے دوران، ٹیپر نے صدر کو انٹرویو کے لیے شو میں واپس آنے کی دعوت دی۔"
+    },
+    {
+      "title": "Why Renewed Iran Tensions Could Keep Fuel Prices Elevated",
+      "desc": "The oil market has officially entered its mixed-signals era. Crude prices had erased most of their wartime gains as barrels returned to the market and fears of oversupply resurfaced. But renewed U.S.-Iran hostilities have sent prices climbing again, underscor…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Why-Renewed-Iran-Tensions-Could-Keep-Fuel-Prices-Elevated.html",
+      "time": "2026-07-13T14:17:48",
       "country": "Iran",
-      "title_ur": "امریکہ اور ایران کے حملوں سے تیل کی قیمتوں میں اضافہ",
-      "desc_ur": "پیر کو تیل کی عالمی قیمتوں میں اضافہ ہوا کیونکہ امریکہ اور ایران کے درمیان ایک تازہ جھڑپ نے سرمایہ کاروں کو جھنجھوڑ دیا، جب کہ چپ سازوں کی فروخت نے جنوبی کوریا کی اسٹاک مارکیٹ کو گرا دیا۔\nThe post امریکا ایران حملوں سے تیل کی قیمتوں میں اضافہ appeared first on Vanguard News."
+      "title_ur": "ایران میں تازہ کشیدگی کیوں ایندھن کی قیمتوں کو بلند رکھ سکتی ہے۔",
+      "desc_ur": "تیل کی منڈی باضابطہ طور پر اپنے مخلوط سگنل کے دور میں داخل ہو چکی ہے۔ خام تیل کی قیمتوں نے ان کے جنگ کے وقت کے زیادہ تر فوائد کو ختم کر دیا تھا کیونکہ بیرل مارکیٹ میں واپس آ گئے تھے اور زائد سپلائی کا خدشہ دوبارہ پیدا ہو گیا تھا۔ لیکن امریکہ ایران دشمنی کی تجدید نے قیمتیں ایک بار پھر چڑھنے کو بھیجی ہیں، انڈرسکور…"
     },
     {
-      "title": "When a congressman beat a senator unconscious, America confronted the limits of free speech",
-      "desc": "The beating of Sen. Charles Sumner in 1856 by Rep. Preston Brooks over a speech against slavery sparked a nationwide debate over free speech, political violence and the relationship between the two.",
-      "source": "The Conversation Africa",
-      "url": "https://theconversation.com/when-a-congressman-beat-a-senator-unconscious-america-confronted-the-limits-of-free-speech-284897",
-      "time": "2026-07-13T12:06:40",
-      "country": "US",
-      "title_ur": "جب ایک کانگریس مین نے ایک سینیٹر کو بے ہوش کر کے مارا تو امریکہ نے آزادی اظہار کی حدود کا مقابلہ کیا۔",
-      "desc_ur": "1856 میں سینیٹر چارلس سمنر کی غلامی کے خلاف تقریر پر نمائندہ پریسٹن بروکس کی پٹائی نے آزادی اظہار، سیاسی تشدد اور دونوں کے درمیان تعلقات پر ملک گیر بحث کو جنم دیا۔"
-    },
-    {
-      "title": "Mercedes-Benz responds to YouTuber blaming E20 for drastic fuel-efficiency loss",
-      "desc": "Mercedes-Benz India has clarified its BS VI petrol models are E20 compatible. This statement follows a YouTuber's claim of significantly reduced fuel efficiency. The automaker assures customers that vehicle reliability and performance remain top priorities. A…",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/auto/cars/mercedes-benz-responds-to-youtuber-blaming-e20-for-drastic-fuel-efficiency-loss/articleshow/132366318.cms",
-      "time": "2026-07-13T12:06:28",
-      "country": "India",
-      "title_ur": "مرسڈیز بینز نے YouTuber کو E20 پر ایندھن کی کارکردگی میں زبردست نقصان کا ذمہ دار ٹھہرانے کا جواب دیا",
-      "desc_ur": "مرسڈیز بینز انڈیا نے واضح کیا ہے کہ اس کے BS VI پیٹرول ماڈل E20 کے موافق ہیں۔ یہ بیان ایندھن کی کارکردگی میں نمایاں کمی کے YouTuber کے دعوے کی پیروی کرتا ہے۔ کار ساز کمپنی صارفین کو یقین دلاتی ہے کہ گاڑیوں کی بھروسے اور کارکردگی اولین ترجیحات رہیں۔ ایک…"
-    },
-    {
-      "title": "Rubio's Unofficial Title: 'Viceroy' of Venezuela",
-      "desc": "Marco Rubio may sit in Washington, but a New York Times investigation argues that he is effectively governing Venezuela from afar. Reporters Tyler Pager and Anatoly Kurmanaev make the case that Rubio \"has become the de facto viceroy of Venezuela, holding sway…",
-      "source": "Newser",
-      "url": "https://www.newser.com/story/392707/rubios-unofficial-title-viceroy-of-venezuela.html",
-      "time": "2026-07-13T12:06:00",
-      "country": "US",
-      "title_ur": "روبیو کا غیر سرکاری عنوان: وینزویلا کا 'وائسرائے'",
-      "desc_ur": "مارکو روبیو واشنگٹن میں بیٹھ سکتے ہیں، لیکن نیو یارک ٹائمز کی تحقیقات میں یہ دلیل دی گئی ہے کہ وہ دور دراز سے وینزویلا پر مؤثر طریقے سے حکومت کر رہے ہیں۔ رپورٹرز ٹائلر پیجر اور اناتولی کرمانائیف نے یہ معاملہ پیش کیا کہ روبیو \"وینزویلا کا ڈی فیکٹو وائسرائے بن گیا ہے، جس نے اپنا قبضہ جمایا ہوا ہے…"
-    },
-    {
-      "title": "World Cup: Balogun red and expansion keep FIFA in spotlight",
-      "desc": "The fallout from Folarin Balogun’s red card continues, as reports suggest the decision was made unilaterally by the chairman of FIFA’s disciplinary committee. Meanwhile, the tournament could be set to expand once more. Almost a week after the USA became the f…",
-      "source": "DW (English)",
-      "url": "https://www.dw.com/en/world-cup-balogun-red-and-expansion-keep-fifa-in-spotlight/a-77933944",
-      "time": "2026-07-13T12:03:00",
-      "country": "US",
-      "title_ur": "ورلڈ کپ: بالوگن ریڈ اور توسیع فیفا کو اسپاٹ لائٹ میں رکھتی ہے۔",
-      "desc_ur": "فولارین بالوگن کے ریڈ کارڈ کا نتیجہ بدستور جاری ہے، کیونکہ رپورٹس بتاتی ہیں کہ یہ فیصلہ فیفا کی تادیبی کمیٹی کے چیئرمین نے یکطرفہ طور پر کیا تھا۔ دریں اثنا، ٹورنامنٹ میں ایک بار پھر توسیع کی جا سکتی ہے۔ امریکہ کے بننے کے تقریباً ایک ہفتہ بعد…"
-    },
-    {
-      "title": "The U.S.-Iran ceasefire grows more distant. And, Congress faces a consequential week",
-      "desc": "The U.S. and Iran exchanged fire over the weekend amid tensions over the Strait of Hormuz. And, Congress returns from recess facing tight deadlines.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/07/13/g-s1-133269/up-first-newsletter-us-iran-war-congress-lindsey-graham-gaza-israel-hussam-abu-safiya",
-      "time": "2026-07-13T12:02:33",
+      "title": "Egypt condemns Iran’s attacks on Gulf states amid US-Iran ceasefire breakdown",
+      "desc": "Egypt's condemnation highlights escalating regional tensions, complicating diplomatic efforts and reducing prospects for US-Iran peace talks.\nThe post Egypt condemns Iran’s attacks on Gulf states amid US-Iran ceasefire breakdown appeared first on Crypto Brief…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/egypt-condemns-irans-attacks-on-gulf-states-amid-us-iran-ceasefire-breakdown/",
+      "time": "2026-07-13T14:17:19",
       "country": "Iran",
-      "title_ur": "امریکہ ایران جنگ بندی مزید دور ہوتی جا رہی ہے۔ اور، کانگریس کو نتیجہ خیز ہفتہ کا سامنا ہے۔",
-      "desc_ur": "آبنائے ہرمز پر کشیدگی کے درمیان ہفتے کے آخر میں امریکہ اور ایران کے درمیان فائرنگ کا تبادلہ ہوا۔ اور، کانگریس سخت ڈیڈ لائن کا سامنا کرتے ہوئے چھٹیوں سے واپس لوٹ رہی ہے۔"
+      "title_ur": "مصر نے خلیجی ریاستوں پر ایران کے حملوں کی امریکہ ایران جنگ بندی کی بریک ڈاؤن کے درمیان مذمت کی ہے۔",
+      "desc_ur": "مصر کی مذمت علاقائی کشیدگی میں اضافے، سفارتی کوششوں کو پیچیدہ بنانے اور امریکہ ایران امن مذاکرات کے امکانات کو کم کرنے پر روشنی ڈالتی ہے۔\nThe post مصر نے امریکا ایران جنگ بندی کی بریک ڈاؤن کے درمیان خلیجی ریاستوں پر ایران کے حملوں کی مذمت کی appeared first on Crypto Brief…"
     },
     {
-      "title": "Kenya: What impact will Dangote's new refinery have on the region?",
-      "desc": "Is Kenya Africa's next major energy hub? Dangote Industries' plan to build a massive refinery off the country's coast could reshape fuel supply, trade and economic growth across East Africa. Nigerian billionaire business tycoon Aliko Dangote last week confirm…",
-      "source": "DW (English)",
-      "url": "https://www.dw.com/en/kenya-what-impact-will-dangotes-new-refinery-have-on-the-region/a-77927159",
-      "time": "2026-07-13T12:02:00",
+      "title": "Trump praises Lindsey Graham as senator whose Kavanaugh fight changed Supreme Court history",
+      "desc": "Trump recalled Lindsey Graham's fiery defense of Brett Kavanaugh before the Senate Judiciary Committee as one of the greatest moments in Congress.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/media/trump-praises-lindsey-graham-senator-kavanaugh-fight-changed-supreme-court-history",
+      "time": "2026-07-13T14:16:40",
       "country": "US",
-      "title_ur": "کینیا: ڈینگوٹ کی نئی ریفائنری کا خطے پر کیا اثر پڑے گا؟",
-      "desc_ur": "کیا کینیا افریقہ کا اگلا بڑا توانائی کا مرکز ہے؟ ڈینگوٹ انڈسٹریز کا ملک کے ساحل پر ایک بڑے ریفائنری کی تعمیر کا منصوبہ پورے مشرقی افریقہ میں ایندھن کی فراہمی، تجارت اور اقتصادی ترقی کو نئی شکل دے سکتا ہے۔ نائیجیریا کے ارب پتی بزنس ٹائیکون علیکو ڈانگوٹ نے گزشتہ ہفتے تصدیق کی…"
+      "title_ur": "ٹرمپ نے سینیٹر کے طور پر لنڈسے گراہم کی تعریف کی جن کی کیوانوف کی لڑائی نے سپریم کورٹ کی تاریخ بدل دی۔",
+      "desc_ur": "ٹرمپ نے سینیٹ کی جوڈیشری کمیٹی کے سامنے لنڈسے گراہم کے بریٹ کیوانا کے شدید دفاع کو کانگریس کے عظیم ترین لمحات میں سے ایک کے طور پر یاد کیا۔"
     },
     {
-      "title": "Big banks poised to report booming revenue propelled by SpaceX IPO, Iran war volatility",
-      "desc": "Big banks are set to report booming Q2 revenue as the SpaceX IPO, Iran war volatility and a rebound in commercial lending fuel Wall Street's \"sweet spot.\"",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/13/bank-earnings-jpmorgan-chase-goldman-sachs-bank-of-america.html",
-      "time": "2026-07-13T12:00:40",
+      "title": "Oil prices march upward again as the U.S-Iran conflict intensifies—and it’s yet another headache for Warsh and the Fed - Fortune",
+      "desc": "Oil prices march upward again as the U.S-Iran conflict intensifies—and it’s yet another headache for Warsh and the FedFortune Oil Prices Surge After Iran and U.S. Trade StrikesThe New York Times Wall Street mixed and oil prices jump after Iran and the US trad…",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184441892",
+      "time": "2026-07-13T14:13:35",
       "country": "Iran",
-      "title_ur": "بڑے بینک اسپیس ایکس آئی پی او، ایران جنگ کے اتار چڑھاؤ کے ذریعہ بڑھتے ہوئے آمدنی کی اطلاع دینے کے لئے تیار ہیں",
-      "desc_ur": "بڑے بینک اسپیس ایکس آئی پی او، ایران جنگ میں اتار چڑھاؤ اور کمرشل قرض دینے والے ایندھن وال سٹریٹ کے \"سویٹ اسپاٹ\" کے طور پر تیزی سے بڑھتی ہوئی Q2 آمدنی کی اطلاع دینے کے لیے تیار ہیں۔"
+      "title_ur": "تیل کی قیمتیں ایک بار پھر اوپر کی طرف بڑھ رہی ہیں کیونکہ امریکہ-ایران تنازعہ شدت اختیار کر رہا ہے — اور یہ وارش اور فیڈ کے لیے ایک اور دردِ سر ہے - فارچیون",
+      "desc_ur": "تیل کی قیمتیں ایک بار پھر اوپر کی طرف بڑھ رہی ہیں جیسا کہ امریکہ-ایران تنازعہ شدت اختیار کر رہا ہے — اور یہ ایران اور امریکی تجارتی ہڑتالوں کے بعد وارش اور فیڈ فورچون کے لیے تیل کی قیمتوں میں اضافے کے لیے ایک اور دردِ سر ہے نیویارک ٹائمز وال اسٹریٹ ملا جلا اور تیل کی قیمتیں ایران اور امریکی تجارت کے بعد…"
     },
     {
-      "title": "McConnell Reveals Another Fall Landed Him in the Hospital",
-      "desc": "\"While receiving excellent care over the past several weeks, I’ve also had to deal with a mild case of pneumonia.\"\nThe post McConnell Reveals Another Fall Landed Him in the Hospital first appeared on Le·gal In·sur·rec·tion.",
-      "source": "Legalinsurrection.com",
-      "url": "https://legalinsurrection.com/2026/07/mcconnell-reveals-another-fall-landed-him-in-the-hospital/",
-      "time": "2026-07-13T12:00:25",
-      "country": "Europe",
-      "title_ur": "میک کونل نے انکشاف کیا کہ ایک اور زوال نے اسے اسپتال میں اتارا۔",
-      "desc_ur": "\"پچھلے کئی ہفتوں کے دوران بہترین دیکھ بھال کے دوران، مجھے نمونیا کے ہلکے کیس سے بھی نمٹنا پڑا۔\"\nThe post میک کونل نے انکشاف کیا کہ ایک اور زوال نے اسے اسپتال میں اتار دیا appeared first on قانونی بغاوت."
+      "title": "Iran meets Hezbollah, Hamas leaders amid leadership transition",
+      "desc": "Iran's strategic meetings amid leadership transition highlight its intent to reinforce regional influence, impacting geopolitical stability.\nThe post Iran meets Hezbollah, Hamas leaders amid leadership transition appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-meets-hezbollah-hamas-leaders-amid-leadership-transition/",
+      "time": "2026-07-13T14:10:08",
+      "country": "Iran",
+      "title_ur": "ایران کی قیادت کی منتقلی کے دوران حزب اللہ اور حماس کے رہنماؤں سے ملاقات",
+      "desc_ur": "قیادت کی منتقلی کے دوران ایران کی اسٹریٹجک ملاقاتیں علاقائی اثر و رسوخ کو تقویت دینے کے اس کے ارادے کو اجاگر کرتی ہیں، جس سے جیو پولیٹیکل استحکام متاثر ہوتا ہے۔\nThe post قیادت کی منتقلی کے درمیان ایران کی حزب اللہ، حماس کے رہنماؤں سے ملاقات appeared first on Crypto Briefing."
     },
     {
-      "title": "Kansas City Royals news: Benches clear in Baltimore after Erceg HBP",
-      "desc": "Nobody is happy with the Royals first half performance, so we look to the draft for future hope",
-      "source": "Royals Review",
-      "url": "https://www.royalsreview.com/kansas-city-royals-news/102150/kansas-city-royals-news-benches-clear-in-baltimore-after-erceg-hbp",
-      "time": "2026-07-13T12:00:00",
+      "title": "Oil prices march upward again as the U.S-Iran conflict intensifies—and it’s yet another headache for Warsh and the Fed",
+      "desc": "Wall Street is looking nervously at the Middle East this week, after the conflict between the U.S. and Iran escalated over the weekend. At the time of writing, Brent crude is back up to $78 a barrel, meaningfully above its pre-war level of a little under $70.…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/c33f1613638e8ce2",
+      "time": "2026-07-13T14:08:34",
+      "country": "Iran",
+      "title_ur": "تیل کی قیمتیں ایک بار پھر اوپر کی طرف بڑھ رہی ہیں کیونکہ امریکہ-ایران تنازعہ شدت اختیار کرتا ہے — اور یہ وارش اور فیڈ کے لیے ایک اور دردِ سر ہے",
+      "desc_ur": "ہفتے کے آخر میں امریکہ اور ایران کے درمیان تنازعہ بڑھنے کے بعد وال سٹریٹ اس ہفتے مشرق وسطیٰ میں گھبراہٹ سے دیکھ رہا ہے۔ لکھنے کے وقت، برینٹ کروڈ کی قیمت $78 فی بیرل تک واپس آ گئی ہے، معنی خیز طور پر اس کی جنگ سے پہلے کی سطح $70 سے کچھ کم ہے۔…"
+    },
+    {
+      "title": "Iran: US jeopardizing global oil, gas supplies",
+      "desc": "Iran's Islamic Revolutionary Guard Corps (IRGC) Spokesperson Hossein Mohebbi warned on Monday that the United States is jeopardizing global oil and gas supplies by interfering in the Strait of Hormuz....",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/c7719e3a0467e0cf",
+      "time": "2026-07-13T14:08:30",
+      "country": "Iran",
+      "title_ur": "ایران: امریکہ عالمی تیل اور گیس کی سپلائی کو خطرے میں ڈال رہا ہے۔",
+      "desc_ur": "ایران کی سپاہ پاسداران انقلاب اسلامی (IRGC) کے ترجمان حسین محبی نے پیر کے روز خبردار کیا ہے کہ امریکہ آبنائے ہرمز میں مداخلت کرکے تیل اور گیس کی عالمی سپلائی کو خطرے میں ڈال رہا ہے۔"
+    },
+    {
+      "title": "US could take over Strait of Hormuz, seek payment for security – Trump",
+      "desc": "Donald Trump suggests the US could take over the Strait of Hormuz and demand payment for its security amid escalating tensions with Iran. Read more.\n\nRead More: https://punchng.com/us-could-take-over-strait-of-hormuz-seek-payment-for-security-trump/",
+      "source": "The Punch",
+      "url": "https://punchng.com/us-could-take-over-strait-of-hormuz-seek-payment-for-security-trump/",
+      "time": "2026-07-13T14:06:35",
+      "country": "Iran",
+      "title_ur": "امریکہ آبنائے ہرمز پر قبضہ کر سکتا ہے، سیکیورٹی کے لیے ادائیگی مانگ سکتا ہے: ٹرمپ",
+      "desc_ur": "ڈونلڈ ٹرمپ نے مشورہ دیا ہے کہ امریکہ آبنائے ہرمز پر قبضہ کر سکتا ہے اور ایران کے ساتھ بڑھتی ہوئی کشیدگی کے درمیان اس کی سلامتی کے لیے ادائیگی کا مطالبہ کر سکتا ہے۔ مزید پڑھیں\n\nمزید پڑھیں: https://punchng.com/us-could-take-over-strait-of-hormuz-seek-payment-for-security-trump/"
+    },
+    {
+      "title": "WATCH: At least 27 people killed in Bangkok pub fire",
+      "desc": "ABC News' Tom Soufi Burridge reports on the latest in the investigation into the deadly fire.",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/video/134711576/",
+      "time": "2026-07-13T14:05:22",
       "country": "International",
-      "title_ur": "کنساس سٹی رائلز کی خبریں: بالٹیمور میں ایرسگ ایچ بی پی کے بعد بینچ صاف ہو گئے۔",
-      "desc_ur": "رائلز کے پہلے ہاف کی کارکردگی سے کوئی بھی خوش نہیں ہے، اس لیے ہم مستقبل کی امید کے لیے ڈرافٹ کی طرف دیکھتے ہیں۔"
-    },
-    {
-      "title": "The Human Cost",
-      "desc": "<ul>\n<li>South Carolina's New Senator</li>\n<li>DEI Bike Lanes</li>\n<li>The Missing 350-Foot Gash</li>\n</ul>",
-      "source": "Peoplefor.org",
-      "url": "https://www.peoplefor.org/rightwingwatch/human-cost",
-      "time": "2026-07-13T12:00:00",
-      "country": "International",
-      "title_ur": "انسانی لاگت",
-      "desc_ur": "<ul>\n<li>جنوبی کیرولینا کا نیا سینیٹر</li>\n<li>DEI بائیک لینز</li>\n<li>گمشدہ 350 فٹ گیش</li>\n</ul>"
-    },
-    {
-      "title": "Trump Says US Blockade Of Hormuz Strait Back After Fresh Round Of Attacks Rock The Gulf",
-      "desc": "President Donald Trump said he is reinstating a blockade of the straight of Hormuz after the United States and Iran traded a new wave of air strikes sparked by activity in the key waterway, rocked the Gulf region.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260713-rferl02.htm",
-      "time": "2026-07-13T12:00:00",
-      "country": "Iran",
-      "title_ur": "ٹرمپ کا کہنا ہے کہ امریکی حملوں کے تازہ دور کے بعد آبنائے ہرمز کی ناکہ بندی خلیج کو ہلا کر رکھ دی ہے",
-      "desc_ur": "صدر ڈونلڈ ٹرمپ نے کہا کہ وہ ہرمز کے سیدھے راستے کی ناکہ بندی کو بحال کر رہے ہیں جب امریکہ اور ایران نے اہم آبی گزرگاہ میں سرگرمی سے شروع ہونے والی فضائی حملوں کی ایک نئی لہر کا سودا کیا، جس نے خلیجی خطے کو ہلا کر رکھ دیا۔"
-    },
-    {
-      "title": "The Foreign Affairs Council in Brussels: Support for Ukraine, security in the Black Sea and the situation in the Middle East centre-stage",
-      "desc": "Foreign Minister Wadephul is travelling to Brussels today for the Foreign Affairs Council (FAC). The discussions held by the EU Foreign Ministers will focus on further support for Ukraine, security in the Black Sea and the situation in the Middle East.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/germany/2026/germany-260713-ffo01.htm",
-      "time": "2026-07-13T12:00:00",
-      "country": "UK",
-      "title_ur": "برسلز میں خارجہ امور کی کونسل: یوکرین کی حمایت، بحیرہ اسود میں سلامتی اور مشرق وسطیٰ کی صورتحال مرکز",
-      "desc_ur": "وزیر خارجہ ودیفول آج خارجہ امور کی کونسل (FAC) کے لیے برسلز کا سفر کر رہے ہیں۔ یورپی یونین کے وزرائے خارجہ کی طرف سے ہونے والی بات چیت میں یوکرین کی مزید حمایت، بحیرہ اسود میں سلامتی اور مشرق وسطیٰ کی صورتحال پر توجہ مرکوز کی جائے گی۔"
-    },
-    {
-      "title": "U.S. Forces to Resume Naval Blockade Against Iran",
-      "desc": "At the Commander in Chief's direction, U.S. Central Command (CENTCOM) forces will resume blockading maritime traffic entering and exiting Iranian ports on July 14 at 4 p.m. ET.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260713-centcom01.htm",
-      "time": "2026-07-13T12:00:00",
-      "country": "Iran",
-      "title_ur": "امریکی افواج ایران کے خلاف بحری ناکہ بندی دوبارہ شروع کر دیں گی۔",
-      "desc_ur": "کمانڈر ان چیف کی ہدایت پر، امریکی سینٹرل کمانڈ (CENTCOM) کی افواج 14 جولائی کو شام 4 بجے ایرانی بندرگاہوں میں داخل ہونے اور باہر جانے والی سمندری ٹریفک کو دوبارہ روکنا شروع کر دیں گی۔ ای ٹی"
-    },
-    {
-      "title": "Today's top news: El Niño, Venezuela, Occupied Palestinian Territory, Ukraine",
-      "desc": "UN calls for urgent funding as El Niño threatens communities already in crisis",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260713-unocha01.htm",
-      "time": "2026-07-13T12:00:00",
-      "country": "UK",
-      "title_ur": "آج کی اہم خبریں: ال نینو، وینزویلا، مقبوضہ فلسطینی علاقہ، یوکرین",
-      "desc_ur": "اقوام متحدہ نے فوری فنڈنگ ​​کا مطالبہ کیا ہے کیونکہ ال نینو پہلے سے ہی بحران کا شکار کمیونٹیز کو خطرہ ہے۔"
+      "title_ur": "بنکاک: پب میں آگ لگنے سے کم از کم 27 افراد ہلاک ہو گئے۔",
+      "desc_ur": "اے بی سی نیوز کے ٹام سوفی برج نے مہلک آگ کی تحقیقات میں تازہ ترین رپورٹ دی ہے۔"
     }
   ],
   "pakistan": [
     {
-      "title": "Afghans Under Pressure Again In New Pakistani Deportation Drive",
-      "desc": "Thousands of Afghan families, fearing an uncertain future, have begun pouring into Afghanistan amid a fresh push from Pakistan against what officials describe a \"crackdown\" on undocumented aliens.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260713-rferl01.htm",
-      "time": "2026-07-13T12:00:00",
+      "title": "Trump reinstates Iranian blockade, disrupting June 2026 US-Iran agreement",
+      "desc": "The reinstatement of the blockade could destabilize global oil markets and heighten geopolitical tensions, impacting international relations.\nThe post Trump reinstates Iranian blockade, disrupting June 2026 US-Iran agreement appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/trump-reinstates-iranian-blockade-disrupting-june-2026-us-iran-agreement/",
+      "time": "2026-07-13T14:21:41",
       "country": "Pakistan",
-      "title_ur": "نئی پاکستانی ڈی پورٹیشن مہم میں افغان دوبارہ دباؤ میں",
-      "desc_ur": "ہزاروں افغان خاندان، غیر یقینی مستقبل کے خوف سے، پاکستان کی جانب سے غیر دستاویزی غیر ملکیوں کے خلاف \"کریک ڈاؤن\" کے خلاف پاکستان کی جانب سے تازہ دباؤ کے درمیان افغانستان میں داخل ہونا شروع ہو گئے ہیں۔"
+      "title_ur": "ٹرمپ نے ایرانی ناکہ بندی کو بحال کرتے ہوئے جون 2026 کے امریکہ ایران معاہدے میں خلل ڈالا۔",
+      "desc_ur": "ناکہ بندی کی بحالی عالمی تیل کی منڈیوں کو غیر مستحکم کر سکتی ہے اور جغرافیائی سیاسی کشیدگی کو بڑھا سکتی ہے جس سے بین الاقوامی تعلقات متاثر ہو سکتے ہیں۔\nThe post ٹرمپ نے ایرانی ناکہ بندی بحال کردی، جون 2026 کے امریکا ایران معاہدے میں خلل ڈالا appeared first on Crypto Briefing."
+    },
+    {
+      "title": "IMO Honors Norwegian Rescue Diver with Posthumous Bravery Award for Fatal Attempt to Save Child",
+      "desc": "The International Maritime Organization has awarded its highest honor for bravery at sea posthumously to Norwegian rescue diver and chief mate Adrian Willyson Brask, who died while attempting to save...",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/imo-honors-norwegian-rescue-diver-with-posthumous-bravery-award-for-fatal-attempt-to-save-child/",
+      "time": "2026-07-13T14:02:12",
+      "country": "Pakistan",
+      "title_ur": "IMO نے بچے کو بچانے کی مہلک کوشش کے لیے بعد از مرگ بہادری ایوارڈ کے ساتھ ناروے کے ریسکیو غوطہ کا اعزاز دیا",
+      "desc_ur": "بین الاقوامی میری ٹائم آرگنائزیشن نے سمندر میں بہادری کا سب سے بڑا اعزاز ناروے کے ریسکیو غوطہ خور اور چیف ساتھی ایڈرین ولیسن براسک کو دیا ہے، جو بچانے کی کوشش کے دوران ہلاک ہو گئے۔"
+    },
+    {
+      "title": "Trump: US to seek compensation for guarding Strait of Hormuz",
+      "desc": "Increased U.S. military presence in the Strait of Hormuz may prolong disruptions, affecting geopolitical stability and market expectations.\nThe post Trump: US to seek compensation for guarding Strait of Hormuz appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/trump-us-to-seek-compensation-for-guarding-strait-of-hormuz/",
+      "time": "2026-07-13T14:00:43",
+      "country": "Pakistan",
+      "title_ur": "ٹرمپ: امریکہ آبنائے ہرمز کی حفاظت کا معاوضہ مانگے گا۔",
+      "desc_ur": "آبنائے ہرمز میں امریکی فوجی موجودگی میں اضافہ رکاوٹوں کو طول دے سکتا ہے، جس سے جیو پولیٹیکل استحکام اور مارکیٹ کی توقعات متاثر ہو سکتی ہیں۔\nThe post ٹرمپ: امریکا آبنائے ہرمز کی حفاظت کا معاوضہ مانگے گا appeared first on Crypto Briefing."
+    },
+    {
+      "title": "CPP2Vec: A representation learning approach for cell-penetrating peptides prediction",
+      "desc": "Author summary Cells are surrounded by a membrane that functions as a highly selective security system, guarding against harmful invaders while maintaining internal stability. However, this same protective barrier also blocks many beneficial therapeutic molec…",
+      "source": "Plos.org",
+      "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014118",
+      "time": "2026-07-13T14:00:00",
+      "country": "Pakistan",
+      "title_ur": "CPP2Vec: سیل میں گھسنے والے پیپٹائڈس کی پیشن گوئی کے لئے ایک نمائندگی سیکھنے کا طریقہ",
+      "desc_ur": "مصنف کا خلاصہ سیل ایک جھلی سے گھرا ہوا ہے جو ایک انتہائی منتخب حفاظتی نظام کے طور پر کام کرتا ہے، اندرونی استحکام کو برقرار رکھتے ہوئے نقصان دہ حملہ آوروں سے حفاظت کرتا ہے۔ تاہم، یہی حفاظتی رکاوٹ بہت سے فائدہ مند علاج کے مالیک کو بھی روکتی ہے…"
+    },
+    {
+      "title": "(VIDEO) Russian Glide Bombs Kill Five, Including 13-Year-Old Girl, in Strike on Northeastern Ukraine's Sumy",
+      "desc": "Russian forces launched a deadly airstrike on Sumy, Ukraine, killing five and injuring 43. The attack targeted civilian infrastructure, prompting a war crimes investigation by Ukrainian authorities.",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/russian-airstrike-sumy-civilian-casualties-1872215",
+      "time": "2026-07-13T13:59:02",
+      "country": "Pakistan",
+      "title_ur": "(ویڈیو) روس کے گلائیڈ بموں نے شمال مشرقی یوکرین کے سومی پر حملے میں 13 سالہ لڑکی سمیت پانچ افراد کو ہلاک کر دیا",
+      "desc_ur": "روسی افواج نے یوکرین کے شہر سمی پر ایک مہلک فضائی حملہ کیا، جس میں پانچ افراد ہلاک اور 43 زخمی ہوئے۔ حملے میں شہری بنیادی ڈھانچے کو نشانہ بنایا گیا، جس سے یوکرین کے حکام کی جانب سے جنگی جرائم کی تحقیقات کا آغاز ہوا۔"
+    },
+    {
+      "title": "Oil prices jump 4 per cent to Sh10,203 per barrel amid US-Iran tensions over Strait of Hormuz",
+      "desc": "The rebound came as renewed military exchanges between the US and Iran over the weekend heightened fears over disruptions to global energy supplies.",
+      "source": "Eastleighvoice.co.ke",
+      "url": "https://eastleighvoice.co.ke/business/378739/oil-prices-jump-4-per-cent-to-sh10203-per-barrel-amid-us-iran-tensions-over-strait-of-hormuz",
+      "time": "2026-07-13T13:53:33",
+      "country": "Pakistan",
+      "title_ur": "آبنائے ہرمز پر امریکہ ایران کشیدگی کے درمیان تیل کی قیمتیں 4 فیصد اضافے کے ساتھ 10,203 روپے فی بیرل ہو گئیں",
+      "desc_ur": "یہ بحالی اس وقت ہوئی جب ہفتے کے آخر میں امریکہ اور ایران کے درمیان نئے فوجی تبادلوں نے عالمی توانائی کی سپلائی میں رکاوٹوں کے خدشات کو بڑھا دیا۔"
     }
   ],
   "business": {
@@ -178,32 +228,32 @@
         "day": "منگل",
         "high": 36,
         "low": 28,
-        "condition": "Overcast",
-        "condition_ur": "ابر آلود",
+        "condition": "Drizzle",
+        "condition_ur": "بوندا باندی",
         "precip": 23
       },
       {
         "date": "2026-07-15",
         "day": "بدھ",
-        "high": 37,
-        "low": 29,
-        "condition": "Drizzle",
-        "condition_ur": "بوندا باندی",
+        "high": 36,
+        "low": 28,
+        "condition": "Light Drizzle",
+        "condition_ur": "ہلکی بوندا باندی",
         "precip": 25
       },
       {
         "date": "2026-07-16",
         "day": "جمعرات",
         "high": 38,
-        "low": 29,
-        "condition": "Light Drizzle",
-        "condition_ur": "ہلکی بوندا باندی",
+        "low": 30,
+        "condition": "Mainly Clear",
+        "condition_ur": "زیادہ تر صاف",
         "precip": 16
       },
       {
         "date": "2026-07-17",
         "day": "جمعہ",
-        "high": 39,
+        "high": 40,
         "low": 30,
         "condition": "Overcast",
         "condition_ur": "ابر آلود",
@@ -213,18 +263,18 @@
         "date": "2026-07-18",
         "day": "ہفتہ",
         "high": 40,
-        "low": 30,
-        "condition": "Light Drizzle",
-        "condition_ur": "ہلکی بوندا باندی",
+        "low": 31,
+        "condition": "Overcast",
+        "condition_ur": "ابر آلود",
         "precip": 35
       },
       {
         "date": "2026-07-19",
         "day": "اتوار",
         "high": 38,
-        "low": 28,
-        "condition": "Light Drizzle",
-        "condition_ur": "ہلکی بوندا باندی",
+        "low": 29,
+        "condition": "Thunderstorm",
+        "condition_ur": "گرج چمک",
         "precip": 37
       },
       {
@@ -232,8 +282,8 @@
         "day": "پیر",
         "high": 35,
         "low": 27,
-        "condition": "Thunderstorm",
-        "condition_ur": "گرج چمک",
+        "condition": "Light Drizzle",
+        "condition_ur": "ہلکی بوندا باندی",
         "precip": 61
       }
     ]
