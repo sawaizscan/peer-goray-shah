@@ -1,227 +1,187 @@
 {
-  "generated": "2026-07-15T12:50:15Z",
+  "generated": "2026-07-15T14:44:26Z",
   "world": [
     {
-      "title": "Americans finally get a break from high prices as inflation cools off",
-      "desc": "Consumer prices fell in the US in June for the first time in months, giving Americans a welcome break from the surging inflation that was making everything more expensive.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/yourmoney/article-15963541/june-cpi-inflation-prices-decline.html",
-      "time": "2026-07-14T12:49:40",
-      "country": "US",
-      "title_ur": "امریکیوں کو آخر کار اعلی قیمتوں سے وقفہ ملتا ہے کیونکہ افراط زر ٹھنڈا ہوتا ہے۔",
-      "desc_ur": "مہینوں میں پہلی بار جون میں امریکہ میں صارفین کی قیمتوں میں کمی ہوئی، جس سے امریکیوں کو بڑھتی ہوئی مہنگائی سے خوش آئند وقفہ ملا جو ہر چیز کو مزید مہنگا کر رہی تھی۔"
-    },
-    {
-      "title": "Inflation Fell At Fastest Rate In Years In June As Gas Prices Eased",
-      "desc": "Fuel costs boosted inflation to its highest rate in years the previous month.",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/tylerroush/2026/07/14/inflation-fell-at-fastest-rate-in-years-in-june-as-gas-prices-eased/",
-      "time": "2026-07-14T12:48:42",
-      "country": "US",
-      "title_ur": "گیس کی قیمتوں میں نرمی کے باعث جون میں مہنگائی سالوں کی تیز ترین شرح پر گری۔",
-      "desc_ur": "ایندھن کی قیمتوں نے مہنگائی کو پچھلے مہینے سالوں میں اپنی بلند ترین شرح تک بڑھا دیا۔"
-    },
-    {
-      "title": "Washington and Tehran exchange missile warnings amid rising tensions",
-      "desc": "Rising tensions between Washington and Tehran could undermine diplomatic efforts and complicate IAEA nuclear inspections, impacting regional stability.\nThe post Washington and Tehran exchange missile warnings amid rising tensions appeared first on Crypto Brie…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/washington-and-tehran-exchange-missile-warnings-amid-rising-tensions/",
-      "time": "2026-07-14T12:48:32",
-      "country": "Iran",
-      "title_ur": "واشنگٹن اور تہران نے بڑھتی ہوئی کشیدگی کے درمیان میزائل وارننگ کا تبادلہ کیا۔",
-      "desc_ur": "واشنگٹن اور تہران کے درمیان بڑھتی ہوئی کشیدگی سفارتی کوششوں کو نقصان پہنچا سکتی ہے اور IAEA کے جوہری معائنہ کو پیچیدہ بنا سکتی ہے، جس سے علاقائی استحکام متاثر ہو گا۔\nThe post بڑھتی ہوئی کشیدگی کے درمیان واشنگٹن اور تہران کے درمیان میزائل وارننگ کا تبادلہ appeared first on Crypto Brie…"
-    },
-    {
-      "title": "The weirdest story about Israel recruiting one of their greatest enemies in Iran as a Mossad asset that you will read all day [Strange]",
-      "desc": "The weirdest story about Israel recruiting one of their greatest enemies in Iran as a Mossad asset that you will read all day",
-      "source": "Fark.com",
-      "url": "https://www.fark.com/comments/14129982/The-weirdest-story-about-Israel-recruiting-one-of-their-greatest-enemies-in-Iran-as-a-Mossad-asset-that-you-will-read-all-day",
-      "time": "2026-07-14T12:47:55",
-      "country": "Iran",
-      "title_ur": "اسرائیل کی جانب سے ایران میں اپنے سب سے بڑے دشمنوں میں سے ایک کو موساد کے اثاثے کے طور پر بھرتی کرنے کے بارے میں عجیب و غریب کہانی جسے آپ سارا دن پڑھیں گے [عجیب]",
-      "desc_ur": "اسرائیل کی ایران میں اپنے سب سے بڑے دشمنوں میں سے ایک کو موساد کے اثاثے کے طور پر بھرتی کرنے کے بارے میں سب سے عجیب کہانی جسے آپ سارا دن پڑھیں گے۔"
-    },
-    {
-      "title": "Live updates: Latest inflation report kicks off pivotal day for Fed Chairman Warsh | CNN Business",
-      "desc": "Warsh faces lawmakers in his first appearance before Congress as head of the central bank. Follow for live updates.",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/07/14/business/live-news/cpi-inflation-kevin-warsh-capitol-hill-testimony",
-      "time": "2026-07-14T12:46:09",
-      "country": "US",
-      "title_ur": "لائیو اپ ڈیٹس: تازہ ترین افراط زر کی رپورٹ فیڈ چیئرمین وارش کے لیے اہم دن کا آغاز کرتی ہے۔ سی این این بزنس",
-      "desc_ur": "وارش کو مرکزی بینک کے سربراہ کی حیثیت سے کانگریس کے سامنے اپنی پہلی پیشی میں قانون سازوں کا سامنا ہے۔ لائیو اپ ڈیٹس کے لیے فالو کریں۔"
-    },
-    {
-      "title": "Inflation Slowed to 3.5% in June, as Americans Got a Break From Gasoline Prices",
-      "desc": "This was lower than the 3.8% expected by analysts polled by The Wall Street Journal.",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/economy/central-banking/cpi-inflation-report-june-2026-afb89992",
-      "time": "2026-07-14T12:46:00",
-      "country": "US",
-      "title_ur": "جون میں افراط زر کی شرح 3.5 فیصد پر آ گئی، کیونکہ امریکیوں کو پٹرول کی قیمتوں سے وقفہ ملا",
-      "desc_ur": "یہ وال سٹریٹ جرنل کے تجزیہ کاروں کی طرف سے متوقع 3.8 فیصد سے کم تھی۔"
-    },
-    {
-      "title": "Cotton Facing Early Tuesday Weakness",
-      "desc": "Cotton prices are down 50 to 64 points so far on Tuesday morning. Futures were mixed to start the week, with contracts down 9 to 10 points higher. Crude oil was up $6.54 on the day following increased tensions with the US and Iran. The US dollar index was up …",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/11793bcdb6d88a48",
-      "time": "2026-07-14T12:44:15",
-      "country": "Iran",
-      "title_ur": "کاٹن کو منگل کے اوائل میں کمزوری کا سامنا کرنا پڑتا ہے۔",
-      "desc_ur": "منگل کی صبح کپاس کی قیمتوں میں اب تک 50 سے 64 پوائنٹس کی کمی ہے۔ ہفتے کے آغاز کے لیے فیوچرز ملے جلے تھے، معاہدے میں 9 سے 10 پوائنٹس کی کمی تھی۔ امریکا اور ایران کے ساتھ بڑھتے ہوئے تناؤ کے بعد خام تیل کی قیمت اس دن 6.54 ڈالر تک پہنچ گئی۔ امریکی ڈالر انڈیکس میں اضافہ ہوا…"
-    },
-    {
-      "title": "The Lindsey Graham Timeline Does Not Work… He Died in Kyiv",
-      "desc": "Let’s follow the timeline. According to the official story: 911 call from his DC residence at 8:30pm ET on July 11 for suspected cardiac arrest. He “died at home.”\n\nTo read this article in the following languages, click the Translate …\nThe post The Lindsey Gr…",
+      "title": "The Globalization of War: How Much Longer Will We Continue to Live on the Brink of a Nuclear War?",
+      "desc": "Donald Trump planned to secure Russian support for an attack on Iran in exchange for “handing over” Ukrainian territories that, in opinion polls conducted before 2014, identified much more strongly with Russia than with the European Union.\n\nTo read this …\nThe…",
       "source": "Globalresearch.ca",
-      "url": "https://www.globalresearch.ca/lindsey-graham-timeline-does-not-work-died-kyiv/5933234",
-      "time": "2026-07-14T12:43:59",
-      "country": "US",
-      "title_ur": "لنڈسے گراہم کی ٹائم لائن کام نہیں کرتی… وہ کیف میں مر گیا۔",
-      "desc_ur": "آئیے ٹائم لائن پر عمل کریں۔ سرکاری کہانی کے مطابق: 11 جولائی کو رات 8:30 بجے ET پر ان کی ڈی سی کی رہائش گاہ سے 911 کال آئی جس میں دل کا دورہ پڑنے کا شبہ ہے۔ وہ \"گھر میں مر گیا\"\n\nاس مضمون کو درج ذیل زبانوں میں پڑھنے کے لیے، ترجمہ پر کلک کریں…\nThe post The Lindsey Gr…"
-    },
-    {
-      "title": "Consumer inflation cooled in June as gas prices fell",
-      "desc": "This story about the June 2026 CPI inflation report will be updated with further details.\nInflation pulled back in June after surging in prior months due to the Iran war's impact on energy prices throughout the economy.\nThe Bureau of Labor Statistics (BLS) sa…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/24cf1b7676226e45",
-      "time": "2026-07-14T12:43:46",
+      "url": "https://www.globalresearch.ca/how-much-longer-live-brink-nuclear-war/5933299",
+      "time": "2026-07-14T14:43:03",
       "country": "Iran",
-      "title_ur": "جون میں گیس کی قیمتوں میں کمی سے صارفین کی افراط زر ٹھنڈی پڑ گئی۔",
-      "desc_ur": "جون 2026 کی CPI افراط زر کی رپورٹ کے بارے میں اس کہانی کو مزید تفصیلات کے ساتھ اپ ڈیٹ کیا جائے گا۔\nایران جنگ کے توانائی کی قیمتوں پر پوری معیشت پر پڑنے والے اثرات کی وجہ سے مہنگائی پچھلے مہینوں میں اضافے کے بعد جون میں واپس کھینچ لی گئی۔\nبیورو آف لیبر شماریات (BLS) نے…"
+      "title_ur": "جنگ کی عالمگیریت: ہم کب تک جوہری جنگ کے دہانے پر رہتے رہیں گے؟",
+      "desc_ur": "ڈونلڈ ٹرمپ نے یوکرائنی علاقوں کو \"حوالے\" کرنے کے بدلے میں ایران پر حملے کے لیے روس کی حمایت حاصل کرنے کا منصوبہ بنایا تھا، جو کہ 2014 سے پہلے کیے گئے رائے عامہ کے جائزوں میں، یورپی یونین کے مقابلے میں روس کے ساتھ زیادہ مضبوطی سے شناخت کیے گئے تھے۔\n\nاس کو پڑھنے کے لیے…\nاس…"
     },
     {
-      "title": "Inflation eased in June as gas prices fell, but relief may not last",
-      "desc": "Inflation eased in June but economists say tariffs, AI-driven demand and renewed fighting between the U.S. and Iran could keep price pressures elevated for months to come.",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/85e8052f47c39d93",
-      "time": "2026-07-14T12:43:38",
+      "title": "Grandpa Dementia warns Iran to move its highly enriched uranium somewhere else before the airstrikes start [Dumbass]",
+      "desc": "Grandpa Dementia warns Iran to move its highly enriched uranium somewhere else before the airstrikes start",
+      "source": "Fark.com",
+      "url": "https://www.fark.com/comments/14130008/Grandpa-Dementia-warns-Iran-to-move-its-highly-enriched-uranium-somewhere-else-before-airstrikes-start",
+      "time": "2026-07-14T14:41:50",
       "country": "Iran",
-      "title_ur": "جون میں گیس کی قیمتوں میں کمی سے مہنگائی میں کمی آئی، لیکن ریلیف دیرپا نہیں رہ سکتا",
-      "desc_ur": "جون میں افراط زر میں کمی آئی لیکن ماہرین اقتصادیات کا کہنا ہے کہ ٹیرف، AI سے چلنے والی مانگ اور امریکہ اور ایران کے درمیان نئی لڑائی آنے والے مہینوں تک قیمتوں کے دباؤ کو بلند رکھ سکتی ہے۔"
+      "title_ur": "دادا ڈیمنشیا نے ایران کو خبردار کیا ہے کہ وہ فضائی حملے شروع ہونے سے پہلے اپنے انتہائی افزودہ یورینیم کو کہیں اور لے جائے [Dumbass]",
+      "desc_ur": "دادا ڈیمنشیا نے ایران کو خبردار کیا ہے کہ وہ فضائی حملے شروع ہونے سے پہلے اپنے انتہائی افزودہ یورینیم کو کہیں اور لے جائے"
     },
     {
-      "title": "Huckabee: Qatar Harms Israel in Public Relations, So Do China and Russia",
-      "desc": "On Monday’s broadcast of NewsNation’s “On Balance,” United States Ambassador to Israel Mike Huckabee said that while Israel could do a better job of messaging, their message can be “clouded because there’s so much money that’s pouring in from some\nThe post Hu…",
-      "source": "Breitbart News",
-      "url": "https://www.breitbart.com/clips/2026/07/14/huckabee-qatar-harms-israel-in-public-relations-so-do-china-and-russia/",
-      "time": "2026-07-14T12:43:04",
-      "country": "Israel",
-      "title_ur": "ہکابی: قطر نے تعلقات عامہ میں اسرائیل کو نقصان پہنچایا، اسی طرح چین اور روس بھی",
-      "desc_ur": "نیوز نیشن کے \"آن بیلنس\" کے پیر کو نشر ہونے والے اسرائیل میں ریاستہائے متحدہ کے سفیر مائیک ہکابی نے کہا کہ اگرچہ اسرائیل پیغام رسانی کا بہتر کام کر سکتا ہے، لیکن ان کے پیغام کو \"بادل\" کیا جا سکتا ہے کیونکہ وہاں بہت زیادہ پیسہ ہے جو کچھ لوگوں کی طرف سے بہایا جا رہا ہے۔\nThe post ہو…"
+      "title": "Nirav Modi's extradition to happen after ongoing legal proceedings end: MEA",
+      "desc": "Fugitive diamond merchant Nirav Modi will be extradited from the United Kingdom. Legal proceedings are currently ongoing in the United Kingdom regarding his extradition. Modi faces fraud and money laundering charges in India for a large bank scam. His appeal …",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/india/nirav-modis-extradition-to-happen-after-ongoing-legal-proceedings-end-mea/articleshow/132394480.cms",
+      "time": "2026-07-14T14:41:29",
+      "country": "India",
+      "title_ur": "نیرو مودی کی حوالگی جاری قانونی کارروائی ختم ہونے کے بعد ہوگی: MEA",
+      "desc_ur": "مفرور ہیروں کے سوداگر نیرو مودی کو برطانیہ سے حوالے کیا جائے گا۔ اس کی حوالگی کے حوالے سے برطانیہ میں اس وقت قانونی کارروائی جاری ہے۔ مودی کو بھارت میں ایک بڑے بینک گھوٹالے کے لیے دھوکہ دہی اور منی لانڈرنگ کے الزامات کا سامنا ہے۔ ان کی اپیل…"
     },
     {
-      "title": "Irish missionary groups helped one million last year",
-      "desc": "Irish missionary organisations helped over one million people across Africa, Asia and Latin America last year.",
-      "source": "RTE",
-      "url": "https://www.rte.ie/news/ireland/2026/0714/1583312-irish-missionary-funding/",
-      "time": "2026-07-14T12:42:20",
-      "country": "US",
-      "title_ur": "آئرش مشنری گروپوں نے پچھلے سال ایک ملین کی مدد کی۔",
-      "desc_ur": "آئرش مشنری تنظیموں نے پچھلے سال افریقہ، ایشیا اور لاطینی امریکہ میں دس لاکھ سے زیادہ لوگوں کی مدد کی۔"
-    },
-    {
-      "title": "US consumer inflation slows more than expected in June",
-      "desc": "WASHINGTON, July 14 (Reuters) - U. consumer inflation slowed more than expected in June, but that will probably offer little comfort to households or rule ou...",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/economy/policy/articles/us-consumer-inflation-slows-more-124053419.html",
-      "time": "2026-07-14T12:40:53",
-      "country": "US",
-      "title_ur": "امریکی صارفین کی افراط زر کی شرح جون میں توقع سے زیادہ کم ہے۔",
-      "desc_ur": "واشنگٹن، 14 جولائی (رائٹرز) – جون میں امریکی صارفین کی افراط زر کی شرح توقع سے زیادہ کم ہوئی، لیکن اس سے شاید گھرانوں کو بہت کم سکون ملے گا یا آپ پر حکمرانی..."
-    },
-    {
-      "title": "Silver prices surge over 3% to $59.52 amid US-Iran tensions",
-      "desc": "Geopolitical tensions boost silver as a safe-haven asset, potentially sustaining investor interest amid ongoing global uncertainties.\nThe post Silver prices surge over 3% to $59.52 amid US-Iran tensions appeared first on Crypto Briefing.",
+      "title": "US-Iran conflict raises financial stability risks: Bank of England governor",
+      "desc": "The US-Iran conflict heightens global economic uncertainty, potentially destabilizing markets and affecting international financial systems.\nThe post US-Iran conflict raises financial stability risks: Bank of England governor appeared first on Crypto Briefing.",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/silver-prices-surge-over-3-to-5952-amid-us-iran-tensions/",
-      "time": "2026-07-14T12:40:09",
+      "url": "https://cryptobriefing.com/us-iran-conflict-raises-financial-stability-risks-bank-of-england-governor/",
+      "time": "2026-07-14T14:41:22",
       "country": "Iran",
-      "title_ur": "امریکہ ایران کشیدگی کے درمیان چاندی کی قیمتیں 3 فیصد سے بڑھ کر 59.52 ڈالر تک پہنچ گئیں۔",
-      "desc_ur": "جغرافیائی سیاسی تناؤ چاندی کو ایک محفوظ پناہ گاہ کے طور پر فروغ دیتا ہے، جو جاری عالمی غیر یقینی صورتحال کے درمیان ممکنہ طور پر سرمایہ کاروں کی دلچسپی کو برقرار رکھتا ہے۔\nThe post امریکا ایران کشیدگی کے درمیان چاندی کی قیمتیں 3 فیصد اضافے سے 59.52 ڈالر تک پہنچ گئیں appeared first on Crypto Briefing."
+      "title_ur": "امریکہ ایران تنازعہ مالی استحکام کے خطرات کو بڑھاتا ہے: بینک آف انگلینڈ کے گورنر",
+      "desc_ur": "امریکہ ایران تنازعہ عالمی اقتصادی غیر یقینی صورتحال کو بڑھاتا ہے، ممکنہ طور پر منڈیوں کو غیر مستحکم کرتا ہے اور بین الاقوامی مالیاتی نظام کو متاثر کرتا ہے۔\nThe post امریکا ایران تنازعہ سے مالیاتی استحکام کو خطرات لاحق ہیں: بینک آف انگلینڈ کے گورنر appeared first on Crypto Briefing."
     },
     {
-      "title": "From the Haymarket 8 to the Michigan 8",
-      "desc": "On the morning of June 10, 2026, the FBI, together with an ensemble of local and state police departments, including the University of Michigan Police Department, conducted a series of simultaneous raids and arrests in Michigan, Illinois, and Wisconsin in spe…",
-      "source": "Common Dreams",
-      "url": "https://www.commondreams.org/opinion/conspiracy-from-haymarket-to-michigan",
-      "time": "2026-07-14T12:40:02",
+      "title": "No, Israel does not have ‘a right to exist.’ Quite the contrary, actually.",
+      "desc": "Unlike the Zionist claim that \"Israel has a right to exist,\" my assertion is rooted in international law. Of course, given Israel’s propensity for violating such laws, it’s no surprise they’re still claiming a right that has no basis in reality.",
+      "source": "Mondoweiss",
+      "url": "https://mondoweiss.net/2026/07/no-israel-does-not-have-a-right-to-exist-quite-the-contrary-actually/",
+      "time": "2026-07-14T14:40:13",
+      "country": "Israel",
+      "title_ur": "نہیں، اسرائیل کو ’وجود کا حق‘ حاصل نہیں ہے۔ بالکل اس کے برعکس، حقیقت میں۔",
+      "desc_ur": "صہیونی دعوے کے برعکس کہ \"اسرائیل کو وجود کا حق ہے\"، میرا دعویٰ بین الاقوامی قانون میں جڑا ہوا ہے۔ بلاشبہ، اس طرح کے قوانین کی خلاف ورزی کے لیے اسرائیل کے رجحان کو دیکھتے ہوئے، یہ کوئی تعجب کی بات نہیں ہے کہ وہ اب بھی ایسے حق کا دعویٰ کر رہے ہیں جس کی حقیقت میں کوئی بنیاد نہیں ہے۔"
+    },
+    {
+      "title": "The Genocide of South Lebanon",
+      "desc": "Ahmad Ibsais\n\n\n\nIsrael is carrying out its Gaza strategy in yet another war.\r\n\n\r\n\n\nThe post The Genocide of South Lebanon appeared first on The Nation.",
+      "source": "Thenation.com",
+      "url": "https://www.thenation.com/article/world/the-genocide-of-south-lebanon/",
+      "time": "2026-07-14T14:38:44",
+      "country": "Israel",
+      "title_ur": "جنوبی لبنان کی نسل کشی",
+      "desc_ur": "احمد اباسیس\n\n\n\nاسرائیل ایک اور جنگ میں غزہ کی حکمت عملی پر عمل پیرا ہے۔\r\n\n\r\n\n\nThe post جنوبی لبنان کی نسل کشی appeared first on The Nation."
+    },
+    {
+      "title": "Rabbi Paran’s solution to the draft crisis: Change will come when it affects their wallet",
+      "desc": "Rabbi Ya'ir Paran, great-grandson of Rabbi Ovadia Yosef, says that the Basic Law: Torah Study, 'disgraces the Torah' and calls for the state to draft haredim while preserving their way of life.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/430151",
+      "time": "2026-07-14T14:38:15",
+      "country": "International",
+      "title_ur": "ربی پران کا ڈرافٹ بحران کا حل: تبدیلی تب آئے گی جب اس کا اثر ان کے بٹوے پر پڑے گا۔",
+      "desc_ur": "ربی اووادیہ یوسف کے پڑپوتے ربی یایر پران کا کہنا ہے کہ بنیادی قانون: تورات کا مطالعہ، 'تورات کی توہین کرتا ہے' اور ریاست سے مطالبہ کرتا ہے کہ وہ اپنے طرز زندگی کو محفوظ رکھتے ہوئے حرمین کا مسودہ تیار کرے۔"
+    },
+    {
+      "title": "Israel to implement pilot zones in southern Lebanon under US-brokered deal",
+      "desc": "The pilot zones could pave the way for reduced tensions, but Hezbollah's disarmament remains a critical hurdle for lasting peace.\nThe post Israel to implement pilot zones in southern Lebanon under US-brokered deal appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/israel-to-implement-pilot-zones-in-southern-lebanon-under-us-brokered-deal/",
+      "time": "2026-07-14T14:34:21",
+      "country": "Israel",
+      "title_ur": "اسرائیل امریکہ کی ثالثی میں ہونے والے معاہدے کے تحت جنوبی لبنان میں پائلٹ زون نافذ کرے گا۔",
+      "desc_ur": "پائلٹ زون کشیدگی کو کم کرنے کی راہ ہموار کر سکتے ہیں، لیکن حزب اللہ کی تخفیف اسلحہ دیرپا امن کے لیے ایک اہم رکاوٹ ہے۔\nThe post اسرائیل امریکی دلالی معاہدے کے تحت جنوبی لبنان میں پائلٹ زونز نافذ کرے گا appeared first on Crypto Briefing."
+    },
+    {
+      "title": "Iran and US step up attacks, battle over control of Strait of Hormuz",
+      "desc": "By Enas Alashray, Elwely Elwelly, Tala Ramadan and Katharine Jackson\nCAIRO/DUBAI/WASHINGTON, July 14 (Reuters) - Iran fired missiles at Jordan and Bahrain on Tuesday after the United States launched a five-hour attack on Iranian targets, stepping up a battle …",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/c4f6ef8f7ad0dd91",
+      "time": "2026-07-14T14:33:44",
+      "country": "Iran",
+      "title_ur": "ایران اور امریکہ کے حملے تیز، آبنائے ہرمز کے کنٹرول کے لیے جنگ",
+      "desc_ur": "ایناس الاشرے، ایلویلی ایلویلی، طلا رمضان اور کیتھرین جیکسن\nقاہرہ/دبئی/واشنگٹن، 14 جولائی (رائٹرز) - امریکہ کی طرف سے ایرانی اہداف پر پانچ گھنٹے تک حملے کے بعد ایران نے منگل کو اردن اور بحرین پر میزائل داغے، جنگ کو تیز کرتے ہوئے…"
+    },
+    {
+      "title": "TAC Right Now: Iran War Restarts",
+      "desc": "TAC staffers talk to Amir Handjani.\nThe post TAC Right Now: Iran War Restarts appeared first on The American Conservative.",
+      "source": "The American Conservative",
+      "url": "https://www.theamericanconservative.com/tac-right-now-iran-war-restarts/",
+      "time": "2026-07-14T14:33:44",
+      "country": "Iran",
+      "title_ur": "TAC ابھی: ایران جنگ دوبارہ شروع ہو رہی ہے۔",
+      "desc_ur": "ٹی اے سی کے عملے نے عامر ہندجانی سے بات کی۔\nThe post TAC ابھی: ایران جنگ دوبارہ شروع appeared first on The American Conservative."
+    },
+    {
+      "title": "JP Morgan Just Upgraded The Stock It Thinks Is Most Shielded From Geopolitical Crises",
+      "desc": "Geopolitical crises often create winners and losers in the stock market, but for a certain set of investors, investing remains more about surviving the uncertainties. The conflict in Iran is one such crisis that has significantly disrupted global supply chain…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/5ec07c1c37f16d3d",
+      "time": "2026-07-14T14:33:26",
+      "country": "Iran",
+      "title_ur": "جے پی مورگن نے ابھی اس اسٹاک کو اپ گریڈ کیا ہے جو اس کے خیال میں جیو پولیٹیکل بحرانوں سے سب سے زیادہ محفوظ ہے۔",
+      "desc_ur": "جغرافیائی سیاسی بحران اکثر اسٹاک مارکیٹ میں جیتنے اور ہارنے والے پیدا کرتے ہیں، لیکن سرمایہ کاروں کے ایک مخصوص سیٹ کے لیے، غیر یقینی صورتحال سے بچنے کے لیے سرمایہ کاری زیادہ ہوتی ہے۔ ایران میں تنازع ایک ایسا ہی بحران ہے جس نے عالمی سپلائی چین کو نمایاں طور پر متاثر کیا ہے…"
+    },
+    {
+      "title": "Japanese Companies Step Up AI Security, Investment Products and Business Restructuring",
+      "desc": "Japanese companies announced new cybersecurity services, investment products and technology initiatives on July 14, while earnings releases highlighted sharply different conditions across the housing and food-import sectors. (News On Japan)",
+      "source": "Newsonjapan.com",
+      "url": "https://newsonjapan.com/article/149979.php",
+      "time": "2026-07-14T14:33:02",
       "country": "US",
-      "title_ur": "Haymarket 8 سے مشی گن 8 تک",
-      "desc_ur": "10 جون 2026 کی صبح، ایف بی آئی نے، مقامی اور ریاستی پولیس کے محکموں کے ایک گروپ کے ساتھ، بشمول مشی گن یونیورسٹی کے محکمہ پولیس نے، مشی گن، الینوائے، اور وسکونسن میں بیک وقت چھاپوں اور گرفتاریوں کا ایک سلسلہ چلایا۔"
+      "title_ur": "جاپانی کمپنیاں AI سیکیورٹی، سرمایہ کاری کی مصنوعات اور کاروباری تنظیم نو کو بڑھا رہی ہیں۔",
+      "desc_ur": "جاپانی کمپنیوں نے 14 جولائی کو سائبر سیکیورٹی کی نئی خدمات، سرمایہ کاری کی مصنوعات اور ٹیکنالوجی کے اقدامات کا اعلان کیا، جب کہ آمدنی کی ریلیز نے ہاؤسنگ اور خوراک کی درآمد کے شعبوں میں تیزی سے مختلف حالات کو نمایاں کیا۔ (نیوز آن جاپان)"
+    },
+    {
+      "title": "At Least The War Is Over",
+      "desc": "Whether or not it really has much to do with him, wouldn't you expect Trump to be angry at Whiskey Pete by now? Obviously this whole endeavor is doomed, but shouldn't Trump be mad that Mr. Warfighter isn't WINNING?\nTrain services have resumed along a critical…",
+      "source": "Eschatonblog.com",
+      "url": "https://www.eschatonblog.com/2026/07/at-least-war-is-over_02017358595.html",
+      "time": "2026-07-14T14:30:00",
+      "country": "US",
+      "title_ur": "کم از کم جنگ ختم ہو چکی ہے۔",
+      "desc_ur": "چاہے اس کا اس کے ساتھ بہت کچھ کرنا ہے یا نہیں، کیا آپ توقع نہیں کریں گے کہ ٹرمپ اب تک وہسکی پیٹ پر ناراض ہوں گے؟ ظاہر ہے کہ یہ ساری کوشش برباد ہے، لیکن کیا ٹرمپ کو پاگل نہیں ہونا چاہیے کہ مسٹر وار فائٹر جیت نہیں رہے؟\nٹرین سروس ایک نازک صورتحال کے ساتھ دوبارہ شروع ہوگئی ہے…"
+    },
+    {
+      "title": "Oil Jumps Above $87 as Russia-Ukraine Black Sea Attacks Escalate",
+      "desc": "A Russian drone strike on a commercial vessel in Ukraine's Odesa region has killed five seafarers and injured 12 others in one of the deadliest single strikes on commercial shipping since the start of the war. According to Odesa authorities, a Russian drone s…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Jumps-Above-87-as-Russia-Ukraine-Black-Sea-Attacks-Escalate.html",
+      "time": "2026-07-14T14:30:00",
+      "country": "Russia",
+      "title_ur": "روس اور یوکرین کے بحیرہ اسود کے حملوں میں اضافے کے بعد تیل کی قیمت $87 سے اوپر ہے۔",
+      "desc_ur": "یوکرین کے علاقے اوڈیسا میں ایک تجارتی جہاز پر روسی ڈرون حملے کے نتیجے میں پانچ بحری جہاز ہلاک اور 12 دیگر زخمی ہو گئے ہیں جو جنگ کے آغاز کے بعد سے تجارتی جہاز رانی پر ہونے والے سب سے مہلک ترین حملے میں سے ایک ہیں۔ اوڈیسا حکام کے مطابق ایک روسی ڈرون نے…"
+    },
+    {
+      "title": "EU blasts threats against ICC as US targets court",
+      "desc": "BRUSSELS: The European Union on Tuesday (Jul 14) slammed threats against the International Criminal Court, after the United States vowed a sweeping campaign against the tribunal.\"We are strongly committed to international criminal justice and the fight agains…",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/world/eu-blasts-threats-against-icc-us-targets-court-6253356",
+      "time": "2026-07-14T14:29:07",
+      "country": "US",
+      "title_ur": "یوروپی یونین نے آئی سی سی کے خلاف دھمکیوں کو امریکی اہداف کی عدالت کے طور پر دھماکے سے اڑا دیا۔",
+      "desc_ur": "برسلز: یوروپی یونین نے منگل (14 جولائی) کو بین الاقوامی فوجداری عدالت کے خلاف دھمکیوں کو تنقید کا نشانہ بنایا، جب امریکہ نے ٹریبونل کے خلاف وسیع مہم چلانے کے عزم کا اظہار کیا۔"
     }
   ],
   "pakistan": [
     {
-      "title": "Asian buyers cool on Gulf LNG",
-      "desc": "LNG demand in Asia — the most important market for Gulf producers — is on track to fall for the second year in a row, according to Wood Mackenzie. Around 83% of the Gulf’s LNG exports head to Asia, but the Iran war is changing the market dynamics, prompting i…",
+      "title": "Inflation slowed sharply -- but it may not last",
+      "desc": "Annual inflation hit 3.5% in June, down from May's more than three-year high — but the resumption of the conflict with Iran threaten to push up inflation as energy costs once again spike.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/14/nx-s1-5893379/inflation-economy-consumer-prices-federal-reserve",
+      "time": "2026-07-14T14:40:20",
+      "country": "Pakistan",
+      "title_ur": "افراط زر تیزی سے کم ہوا -- لیکن ہو سکتا ہے یہ قائم نہ رہے۔",
+      "desc_ur": "جون میں سالانہ افراط زر کی شرح 3.5 فیصد تک پہنچ گئی، جو مئی کی تین سال کی بلند ترین سطح سے کم ہے — لیکن ایران کے ساتھ تنازعہ کی بحالی سے مہنگائی میں اضافے کا خطرہ ہے کیونکہ توانائی کی قیمتوں میں ایک بار پھر اضافہ ہو گا۔"
+    },
+    {
+      "title": "Hostilities Between US and Iran Resumed. “The MoU is Over” Says Trump",
+      "desc": "Hostilities between the US and Iran have officially resumed. \nDuring the recent NATO summit in Ankara, US President Donald Trump announced that the Islamabad Memorandum of Understanding was “over” and stated that US armed forces would resume attacks on Iran ……",
+      "source": "Globalresearch.ca",
+      "url": "https://www.globalresearch.ca/hostilities-us-iran-resumed/5933269",
+      "time": "2026-07-14T14:23:03",
+      "country": "Pakistan",
+      "title_ur": "امریکہ اور ایران کے درمیان دشمنی دوبارہ شروع ہو گئی۔ \"ایم او یو ختم ہو گیا ہے\" ٹرمپ کہتے ہیں۔",
+      "desc_ur": "امریکہ اور ایران کے درمیان دشمنی باضابطہ طور پر دوبارہ شروع ہو گئی ہے۔ \nانقرہ میں نیٹو کے حالیہ سربراہی اجلاس کے دوران، امریکی صدر ڈونلڈ ٹرمپ نے اعلان کیا کہ اسلام آباد کی مفاہمت کی یادداشت \"ختم\" ہو گئی ہے اور کہا کہ امریکی مسلح افواج ایران پر حملے دوبارہ شروع کریں گی ……"
+    },
+    {
+      "title": "Donald Trump has no good options for reopening the Strait of Hormuz",
+      "desc": "Yet the stand-off has costs for cash-strapped Iran, too",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/b9da3dc6ef2a41e4",
-      "time": "2026-07-14T12:44:21",
+      "url": "https://biztoc.com/x/3c8a80c13d729fc5",
+      "time": "2026-07-14T14:14:26",
       "country": "Pakistan",
-      "title_ur": "خلیجی ایل این جی پر ایشیائی خریدار ٹھنڈے پڑ گئے۔",
-      "desc_ur": "ووڈ میکنزی کے مطابق، ایشیا میں ایل این جی کی طلب - خلیجی صنعت کاروں کے لیے سب سے اہم مارکیٹ - مسلسل دوسرے سال گرنے کے راستے پر ہے۔ خلیج کی ایل این جی کی برآمدات کا تقریباً 83 فیصد ایشیا کو جاتا ہے، لیکن ایران کی جنگ مارکیٹ کی حرکیات کو تبدیل کر رہی ہے، جس سے i…"
-    },
-    {
-      "title": "OPEC trims oil demand forecast",
-      "desc": "OPEC cut its growth forecast for world oil demand this year by 20% — its third straight downward revision. The producer group still sees the Iran war denting consumption less than the International Energy Agency does, and raised its 2027 growth forecast by 12…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/18f9f572a96307c2",
-      "time": "2026-07-14T12:44:01",
-      "country": "Pakistan",
-      "title_ur": "اوپیک نے تیل کی طلب کی پیش گوئی کو کم کردیا۔",
-      "desc_ur": "اوپیک نے اس سال عالمی تیل کی طلب کے لیے اپنی ترقی کی پیشن گوئی میں 20 فیصد کمی کی ہے - اس کی تیسری براہ راست نیچے کی طرف نظرثانی۔ پروڈیوسر گروپ اب بھی ایران کی جنگ کو بین الاقوامی توانائی ایجنسی کے مقابلے کم دیکھتا ہے، اور اس نے اپنی 2027 کی نمو کی پیشن گوئی کو 12 تک بڑھا دیا ہے۔"
-    },
-    {
-      "title": "US gas price relief remains elusive",
-      "desc": "Tim’s view\nThe resumption of tit-for-tat strikes between Iran and the US puts President Donald Trump’s goal to slash retail fuel prices ahead of the midterm elections further out of reach.\nUS crude prices ticked to a four-week high above $80 per barrel on Tue…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/7be67fbbab819f9e",
-      "time": "2026-07-14T12:43:37",
-      "country": "Pakistan",
-      "title_ur": "یو ایس گیس کی قیمتوں میں ریلیف اب بھی مبہم ہے۔",
-      "desc_ur": "ٹم کا نظریہ\nایران اور امریکہ کے درمیان ٹِٹ فار ٹاٹ سٹرائیکس کا دوبارہ آغاز صدر ڈونلڈ ٹرمپ کے وسط مدتی انتخابات سے قبل خوردہ ایندھن کی قیمتوں میں کمی کے ہدف کو مزید دسترس سے باہر کر دیتا ہے۔\nمنگل کو امریکی خام تیل کی قیمت 80 ڈالر فی بیرل سے اوپر چار ہفتوں کی بلند ترین سطح پر پہنچ گئی…"
-    },
-    {
-      "title": "Bitcoin surges as US CPI falls 0.4% in June, biggest drop since 2020",
-      "desc": "The softer-than-expected CPI report fuels crypto market optimism, potentially influencing future Fed policy towards easing measures.\nThe post Bitcoin surges as US CPI falls 0.4% in June, biggest drop since 2020 appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-cpi-rises-4-percent-bitcoin-crypto-rally/",
-      "time": "2026-07-14T12:43:09",
-      "country": "Pakistan",
-      "title_ur": "جون میں امریکی CPI میں 0.4 فیصد کمی کے بعد بٹ کوائن میں اضافہ، 2020 کے بعد سب سے بڑی کمی",
-      "desc_ur": "توقع سے زیادہ نرم سی پی آئی رپورٹ کرپٹو مارکیٹ کی امید کو ہوا دیتی ہے، ممکنہ طور پر اقدامات میں نرمی کی جانب مستقبل کی فیڈ پالیسی کو متاثر کرتی ہے۔\nجون میں یو ایس سی پی آئی میں 0.4 فیصد کمی کے بعد بٹ کوائن میں اضافہ، 2020 کے بعد سب سے بڑی کمی appeared first on Crypto Briefing."
-    },
-    {
-      "title": "Silver prices hit Dec. ’25 lows amid Iran tensions, Trump reinstates blockade",
-      "desc": "Geopolitical tensions and potential Fed rate hikes may shift market dynamics, impacting asset allocation and safe-haven perceptions.\nThe post Silver prices hit Dec. ’25 lows amid Iran tensions, Trump reinstates blockade appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/silver-prices-hit-dec-25-lows-amid-iran-tensions-trump-reinstates-blockade/",
-      "time": "2026-07-14T12:34:20",
-      "country": "Pakistan",
-      "title_ur": "ایرانی کشیدگی کے درمیان چاندی کی قیمتیں دسمبر ’25 کی کم ترین سطح پر پہنچ گئیں، ٹرمپ نے ناکہ بندی بحال کردی",
-      "desc_ur": "جغرافیائی سیاسی تناؤ اور ممکنہ Fed شرح میں اضافہ مارکیٹ کی حرکیات کو بدل سکتا ہے، جس سے اثاثوں کی تقسیم اور محفوظ پناہ گاہوں کے تصورات متاثر ہوتے ہیں۔\nThe post ایرانی کشیدگی کے درمیان چاندی کی قیمتیں دسمبر ’25 کی کم ترین سطح پر پہنچ گئیں، ٹرمپ نے ناکہ بندی بحال کردی appeared first on Crypto Briefing."
-    },
-    {
-      "title": "India expects international community to hold Pakistan accountable for 'egregious abuses' in PoJK",
-      "desc": "India states protests in Pakistan-occupied Jammu and Kashmir stem from exploitation. Islamabad's actions have led to systemic exploitation and administrative oppression there. New Delhi expects the international community to hold Pakistan accountable for abus…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/india/india-expects-international-community-to-hold-pakistan-accountable-for-egregious-abuses-in-pojk/articleshow/132391583.cms",
-      "time": "2026-07-14T12:34:00",
-      "country": "Pakistan",
-      "title_ur": "ہندوستان توقع کرتا ہے کہ عالمی برادری PoJK میں 'سنگین زیادتیوں' کے لیے پاکستان کو جوابدہ ٹھہرائے گی۔",
-      "desc_ur": "بھارت نے پاکستان کے زیر قبضہ جموں و کشمیر میں احتجاجی مظاہرے استحصال کی وجہ سے کیے ہیں۔ اسلام آباد کے اقدامات وہاں نظامی استحصال اور انتظامی جبر کا باعث بنے ہیں۔ نئی دہلی توقع کرتا ہے کہ عالمی برادری پاکستان کو بدسلوکی کے لیے جوابدہ ٹھہرائے گی۔"
-    },
-    {
-      "title": "Pakistan’s Ahmadiyya Community Is Being Persecuted in Plain Sight",
-      "desc": "Extremist-led mob violence in Pakistan often leads to further persecution – at the hands of the state.",
-      "source": "The Diplomat",
-      "url": "https://thediplomat.com/2026/07/pakistans-ahmadiyya-community-is-being-persecuted-in-plain-sight/",
-      "time": "2026-07-14T12:30:00",
-      "country": "Pakistan",
-      "title_ur": "پاکستان کی احمدیہ کمیونٹی کو صاف نظروں سے ستایا جا رہا ہے۔",
-      "desc_ur": "پاکستان میں انتہا پسندوں کی قیادت میں ہجوم کا تشدد اکثر ریاست کے ہاتھوں مزید ظلم و ستم کا باعث بنتا ہے۔"
+      "title_ur": "ڈونلڈ ٹرمپ کے پاس آبنائے ہرمز کو دوبارہ کھولنے کے لیے کوئی اچھا آپشن نہیں ہے۔",
+      "desc_ur": "اس کے باوجود اس تعطل کی وجہ سے نقدی کی تنگی والے ایران کے لیے بھی اخراجات ہیں۔"
     }
   ],
   "business": {
@@ -249,7 +209,7 @@
         "low": 28,
         "condition": "Light Drizzle",
         "condition_ur": "ہلکی بوندا باندی",
-        "precip": 29
+        "precip": 16
       },
       {
         "date": "2026-07-17",
@@ -258,7 +218,7 @@
         "low": 29,
         "condition": "Mainly Clear",
         "condition_ur": "زیادہ تر صاف",
-        "precip": 10
+        "precip": 2
       },
       {
         "date": "2026-07-18",
@@ -267,7 +227,7 @@
         "low": 30,
         "condition": "Overcast",
         "condition_ur": "ابر آلود",
-        "precip": 20
+        "precip": 29
       },
       {
         "date": "2026-07-19",
@@ -276,7 +236,7 @@
         "low": 30,
         "condition": "Light Drizzle",
         "condition_ur": "ہلکی بوندا باندی",
-        "precip": 41
+        "precip": 30
       },
       {
         "date": "2026-07-20",
@@ -294,7 +254,7 @@
         "low": 26,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 100
+        "precip": 96
       }
     ]
   },
