@@ -1,189 +1,158 @@
 {
-  "generated": "2026-07-15T22:53:50Z",
+  "generated": "2026-07-15T23:54:16Z",
   "world": [
     {
-      "title": "Mile posts: Items on Adam Fogg, Adva Cohen, Mallory Lindaman, Joe Langridge, Rowan Boulter, Tyler Schermerhorn, Will Lohr",
-      "desc": "McLear notched a 1:46.99 for the 800 while placing a close third at the British Milers Club Grand Prix",
-      "source": "Des Moines Register",
-      "url": "https://www.desmoinesregister.com/story/sports/2026/07/14/mile-posts-items-on-adam-fogg-adva-cohen-mallory-lindaman-joe-langridge-rowan-boulter-tyler-schermer/90923043007/",
-      "time": "2026-07-14T22:52:52",
-      "country": "UK",
-      "title_ur": "میل پوسٹس: ایڈم فوگ، ایڈوا کوہن، میلوری لنڈامین، جو لینگریج، روون بولٹر، ٹائلر شیرمر ہورن، ول لوہر پر آئٹمز",
-      "desc_ur": "McLear نے 800 کے لیے 1:46.99 حاصل کیا جبکہ برٹش میلرز کلب گراں پری میں قریب تیسرا مقام حاصل کیا۔"
-    },
-    {
-      "title": "Paramount Falsely Threatens To Leave California After State Challenges Merger",
-      "desc": "Paramount is now threatening California regulators that theyll be taking their ball and going home (to Texas? Israel?) after California and 11 other states filed an antitrust lawsuit against the companys unpopular $111 billion merger with Warner Brothers. Par…",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184462806",
-      "time": "2026-07-14T22:52:38",
-      "country": "Israel",
-      "title_ur": "پیراماؤنٹ نے ریاستی چیلنجز کے انضمام کے بعد کیلیفورنیا چھوڑنے کی جھوٹی دھمکی دی ہے۔",
-      "desc_ur": "کیلیفورنیا اور 11 دیگر ریاستوں کی جانب سے وارنر برادرز کے ساتھ غیر مقبول $111 بلین انضمام کے خلاف عدم اعتماد کا مقدمہ دائر کرنے کے بعد پیراماؤنٹ اب کیلیفورنیا کے ریگولیٹرز کو دھمکی دے رہا ہے کہ وہ اپنی گیند لے کر گھر (ٹیکساس؟ اسرائیل؟) جائیں گے۔ پار…"
-    },
-    {
-      "title": "Ryan Gandra's pie-in-the-sky dream fight after UFC 329: Israel Adesanya",
-      "desc": "After a big win at UFC 329, Ryan Gandra said he'd love a chance to fight a former champ.",
-      "source": "USA Today",
-      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/07/14/ufc-329-video-ryan-gandra-dream-fight-israel-adesanya-after-knockout/90911107007/",
-      "time": "2026-07-14T22:50:21",
-      "country": "Israel",
-      "title_ur": "یو ایف سی 329 کے بعد ریان گینڈرا کی پائی ان دی اسکائی خوابوں کی لڑائی: اسرائیل ایڈیسانیا",
-      "desc_ur": "UFC 329 میں ایک بڑی جیت کے بعد، Ryan Gandra نے کہا کہ وہ سابق چیمپئن سے لڑنے کا موقع پسند کریں گے۔"
-    },
-    {
-      "title": "Britons would face wartime-style rationing of meat, dairy, petrol and flights under new Green Party plans - and they could end up in coalition with Burnham's Labour",
-      "desc": "Britons would face wartime-style rationing of meat, dairy, petrol and flying under plans being drawn up by the Green Party, which could be drawn into a coalition agreement with Andy Burnham's Labour. The extreme policies, being drafted by officials working fo…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4387982/posts",
-      "time": "2026-07-14T22:50:19",
-      "country": "International",
-      "title_ur": "برطانویوں کو گرین پارٹی کے نئے منصوبوں کے تحت گوشت، ڈیری، پٹرول اور پروازوں کے جنگی طرز کے راشننگ کا سامنا کرنا پڑے گا - اور وہ برنہم کی لیبر کے ساتھ اتحاد میں ختم ہو سکتے ہیں۔",
-      "desc_ur": "برطانویوں کو گرین پارٹی کی طرف سے تیار کیے جانے والے منصوبوں کے تحت گوشت، ڈیری، پیٹرول اور فلائینگ کے جنگی طرز کے راشننگ کا سامنا کرنا پڑے گا، جسے اینڈی برنہم کی لیبر کے ساتھ اتحاد کے معاہدے میں تیار کیا جا سکتا ہے۔ انتہائی پالیسیاں، جو کام کرنے والے عہدیداروں کے ذریعہ تیار کی جارہی ہیں…"
-    },
-    {
-      "title": "U.S. launches more strikes, tightens naval blockade as Iran hits Gulf allies",
-      "desc": "The U.S. launched a fourth straight night of strikes and is reimposing its naval blockade of all Iranian ports, its most formal step toward resuming full-scale war with Iran. President Trump says the move is designed to starve Iran's regime of oil revenue. Ir…",
-      "source": "PBS",
-      "url": "https://www.pbs.org/newshour/show/u-s-launches-more-strikes-tightens-naval-blockade-as-iran-hits-gulf-allies",
-      "time": "2026-07-14T22:50:05",
-      "country": "Iran",
-      "title_ur": "امریکہ نے مزید حملے شروع کیے، بحری ناکہ بندی سخت کر دی کیونکہ ایران نے خلیجی اتحادیوں کو نشانہ بنایا",
-      "desc_ur": "امریکہ نے مسلسل چوتھی رات حملوں کا آغاز کیا اور تمام ایرانی بندرگاہوں پر اپنی بحری ناکہ بندی دوبارہ نافذ کر رہا ہے، جو کہ ایران کے ساتھ مکمل جنگ دوبارہ شروع کرنے کی طرف اس کا سب سے باضابطہ قدم ہے۔ صدر ٹرمپ کا کہنا ہے کہ یہ اقدام ایران کی حکومت کو تیل کی آمدنی سے محروم کرنے کے لیے ڈیزائن کیا گیا ہے۔ آئی آر…"
-    },
-    {
-      "title": "Middle East experts assess latest escalation in U.S.-Iran conflict",
-      "desc": "As the U.S. and Iran battle for control of the Strait of Hormuz, Nick Schifrin discusses the latest developments with Alan Eyre and Miad Maleki. Eyre was part of the Obama administration's negotiating team for the Iran nuclear deal and is now at the Middle Ea…",
-      "source": "PBS",
-      "url": "https://www.pbs.org/newshour/show/middle-east-experts-assess-latest-escalation-in-u-s-iran-conflict",
-      "time": "2026-07-14T22:47:08",
-      "country": "Iran",
-      "title_ur": "مشرق وسطیٰ کے ماہرین امریکہ ایران تنازعہ میں تازہ ترین اضافہ کا جائزہ لے رہے ہیں۔",
-      "desc_ur": "آبنائے ہرمز کے کنٹرول کے لیے امریکہ اور ایران کی جنگ کے دوران، نک شیفرین ایلن آئر اور میاد مالیکی کے ساتھ تازہ ترین پیش رفت پر تبادلہ خیال کر رہے ہیں۔ آئر ایران جوہری معاہدے کے لیے اوباما انتظامیہ کی مذاکراتی ٹیم کا حصہ تھے اور اب وہ مشرق وسطیٰ میں ہیں…"
-    },
-    {
-      "title": "Trump threatens infrastructure strikes on Iran unless Tehran negotiates deal",
-      "desc": "In an interview with Fox News, President Trump warns that US strikes will target Iran's power plants and bridges unless Iranian officials return to the table to negotiate a deal.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/430175",
-      "time": "2026-07-14T22:46:18",
-      "country": "Iran",
-      "title_ur": "ٹرمپ نے ایران پر انفراسٹرکچر حملوں کی دھمکی دی ہے اگر تہران معاہدے پر بات نہیں کرتا ہے۔",
-      "desc_ur": "فاکس نیوز کو انٹرویو دیتے ہوئے صدر ٹرمپ نے خبردار کیا ہے کہ امریکی حملے ایران کے پاور پلانٹس اور پلوں کو نشانہ بنائیں گے جب تک کہ ایرانی حکام مذاکرات کی میز پر واپس نہیں آتے۔"
-    },
-    {
-      "title": "The US-Iran Deal Collapsed—Is A Return To 'Full-Scale' War Next?",
-      "desc": "Last week, President Donald Trump reportedly notified Congress that \"military action\" against Iran commenced July 7.",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/forbestv/2026/07/14/the-us-iran-deal-collapsed-is-a-return-to-full-scale-war-next/",
-      "time": "2026-07-14T22:44:20",
-      "country": "Iran",
-      "title_ur": "امریکہ-ایران ڈیل ٹوٹ گئی — کیا اگلی 'مکمل پیمانے پر' جنگ کی طرف واپسی ہے؟",
-      "desc_ur": "پچھلے ہفتے، صدر ڈونلڈ ٹرمپ نے مبینہ طور پر کانگریس کو مطلع کیا کہ ایران کے خلاف \"فوجی کارروائی\" 7 جولائی کو شروع ہو گئی ہے۔"
-    },
-    {
-      "title": "Kuwait fire controlled after Iranian strikes as oil surges and crypto watches from the sidelines",
-      "desc": "Escalating regional tensions could drive sustained oil price volatility and bolster the case for Gulf states to diversify into digital assets.\nThe post Kuwait fire controlled after Iranian strikes as oil surges and crypto watches from the sidelines appeared f…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/kuwait-fire-iran-strikes-oil-bitcoin-hedge/",
-      "time": "2026-07-14T22:43:50",
-      "country": "Iran",
-      "title_ur": "کویت کی آگ پر ایرانی حملوں کے بعد قابو پالیا گیا کیونکہ تیل میں اضافے اور کریپٹو گھڑیوں کے کنارے سے",
-      "desc_ur": "بڑھتی ہوئی علاقائی کشیدگی تیل کی قیمتوں میں مسلسل اتار چڑھاؤ کو آگے بڑھا سکتی ہے اور خلیجی ریاستوں کے لیے ڈیجیٹل اثاثوں میں تنوع پیدا کرنے کے معاملے کو تقویت دے سکتی ہے۔\nThe post کویت میں ایرانی حملوں کے بعد لگنے والی آگ پر قابو پالیا گیا کیونکہ تیل میں اضافے اور سائڈ لائنز سے کرپٹو گھڑیاں سامنے آگئیں…"
-    },
-    {
-      "title": "Trump says US will ‘knock out’ Iran’s power plants and bridges next week — unless regime makes a deal",
-      "desc": "President Trump says he will continue airstrikes on Iran \"until I say it's enough\" and that \"energy targets\" are on the horizon.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/07/14/us-news/trump-says-us-will-knock-out-irans-power-plants-and-bridges-next-week-unless-regime-makes-a-deal/",
-      "time": "2026-07-14T22:43:47",
-      "country": "Iran",
-      "title_ur": "ٹرمپ کا کہنا ہے کہ امریکہ اگلے ہفتے ایران کے پاور پلانٹس اور پلوں کو 'ناک آؤٹ' کر دے گا - جب تک کہ حکومت کوئی معاہدہ نہیں کرتی",
-      "desc_ur": "صدر ٹرمپ کا کہنا ہے کہ وہ ایران پر اس وقت تک فضائی حملے جاری رکھیں گے جب تک میں یہ نہ کہوں کہ یہ کافی ہے اور یہ کہ \"توانائی کے اہداف\" افق پر ہیں۔"
-    },
-    {
-      "title": "Inflation eased in June, but Americans still feel pressure from high prices",
-      "desc": "A report shows inflation eased more than expected in June. It's welcome news for President Trump, who has made lowering prices a focus of his economic agenda. But months of higher-than-expected inflation have continued to squeeze many households and raised qu…",
-      "source": "PBS",
-      "url": "https://www.pbs.org/newshour/show/inflation-eased-in-june-but-americans-still-feel-pressure-from-high-prices",
-      "time": "2026-07-14T22:40:47",
-      "country": "US",
-      "title_ur": "جون میں افراط زر میں کمی آئی، لیکن امریکی اب بھی بلند قیمتوں سے دباؤ محسوس کر رہے ہیں۔",
-      "desc_ur": "ایک رپورٹ سے ظاہر ہوتا ہے کہ جون میں افراط زر کی شرح توقع سے زیادہ کم ہوئی۔ یہ صدر ٹرمپ کے لیے خوش آئند خبر ہے، جنہوں نے قیمتوں میں کمی کو اپنے معاشی ایجنڈے کا مرکز بنایا ہے۔ لیکن مہینوں کی توقع سے زیادہ مہنگائی نے بہت سے گھرانوں کو نچوڑنے کا سلسلہ جاری رکھا ہے اور اس کی قیمت بڑھا دی ہے…"
-    },
-    {
-      "title": "Louis Vuitton & Alex Israel Woody Wagon Colognes",
-      "desc": "Louis Vuitton has once again transformed everyday luxury into a collectible work of art. Together with Los Angeles artist Alex Israel, the fashion house has created the Woody Wagon Colognes…",
-      "source": "Beautifullife.info",
-      "url": "https://www.beautifullife.info/industrial-design/louis-vuitton-alex-israel-woody-wagon-colognes/",
-      "time": "2026-07-14T22:40:41",
-      "country": "Israel",
-      "title_ur": "لوئس ووٹن اور ایلکس اسرائیل ووڈی ویگن کولونز",
-      "desc_ur": "Louis Vuitton نے ایک بار پھر روزمرہ کی عیش و عشرت کو آرٹ کے جمع کرنے والے کام میں تبدیل کر دیا ہے۔ لاس اینجلس کے آرٹسٹ ایلکس اسرائیل کے ساتھ مل کر، فیشن ہاؤس نے ووڈی ویگن کولونز بنایا ہے…"
-    },
-    {
-      "title": "5 Top Reasons The Smithsonian American History Museum Is A National Disgrace",
-      "desc": "Warning! If you plan on visiting the nation’s capital this summer, skip the American History Museum. According to a new report by the Domestic Policy Council, the Smithsonian Institution’s National Museum of American History has failed in its fundamental miss…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4387981/posts",
-      "time": "2026-07-14T22:40:07",
-      "country": "US",
-      "title_ur": "5 اہم وجوہات سمتھسونین امریکن ہسٹری میوزیم ایک قومی بے عزتی ہے۔",
-      "desc_ur": "وارننگ! اگر آپ اس موسم گرما میں ملک کے دارالحکومت کا دورہ کرنے کا ارادہ رکھتے ہیں تو، امریکن ہسٹری میوزیم کو چھوڑ دیں۔ ڈومیسٹک پالیسی کونسل کی ایک نئی رپورٹ کے مطابق، سمتھسونین انسٹی ٹیوشن کا نیشنل میوزیم آف امریکن ہسٹری اپنی بنیادی غلطی میں ناکام رہا ہے…"
-    },
-    {
-      "title": "Oil Climbs to a 1-Month High as the U.S. and Iran Trade Attacks in the Strait of Hormuz. Here's What it Means for Energy Investors",
-      "desc": "Oil Climbs to a 1-Month High as the U.S. and Iran Trade Attacks in the Strait of Hormuz. Here's What it Means for Energy Investors.\nOil prices spiked on Tuesday to above $87/barrel: their highest levels in more than a month as the U.S. announced it would impo…",
+      "title": "Great Rewiring: US Supports Iraq-Syria Oil Pipeline To Erode Tehran's Hormuz Leverage",
+      "desc": "Great Rewiring: US Supports Iraq-Syria Oil Pipeline To Erode Tehran's Hormuz Leverage\n \nPresident Trump's naval blockade of the Strait of Hormuz is set to take effect Tuesday at around 1600 ET, after Iran attacked several commercial vessels, declared the wate…",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/5eecaa966f6bc925",
-      "time": "2026-07-14T22:39:30",
+      "url": "https://biztoc.com/x/3eca462e0433fa28",
+      "time": "2026-07-14T23:52:55",
       "country": "Iran",
-      "title_ur": "آبنائے ہرمز میں امریکہ اور ایران کے تجارتی حملوں کے بعد تیل کی قیمت 1 ماہ کی بلند ترین سطح پر پہنچ گئی۔ توانائی کے سرمایہ کاروں کے لیے اس کا کیا مطلب ہے۔",
-      "desc_ur": "آبنائے ہرمز میں امریکہ اور ایران کے تجارتی حملوں کے بعد تیل کی قیمت 1 ماہ کی بلند ترین سطح پر پہنچ گئی۔ توانائی کے سرمایہ کاروں کے لیے اس کا کیا مطلب ہے۔\nمنگل کو تیل کی قیمتیں 87 ڈالر فی بیرل سے اوپر تک پہنچ گئیں: ایک ماہ سے زیادہ عرصے میں ان کی بلند ترین سطح جب کہ امریکہ نے اعلان کیا کہ وہ تیل نافذ کرے گا…"
+      "title_ur": "زبردست ری وائرنگ: تہران کے ہرمز لیوریج کو ختم کرنے کے لیے امریکہ عراق-شام آئل پائپ لائن کی حمایت کرتا ہے",
+      "desc_ur": "زبردست ری وائرنگ: تہران کے ہرمز لیوریج کو ختم کرنے کے لیے امریکہ عراق-شام آئل پائپ لائن کی حمایت کرتا ہے\n \nصدر ٹرمپ کی آبنائے ہرمز کی بحری ناکہ بندی منگل کو تقریباً 1600 ET سے نافذ العمل ہونے والی ہے، جب ایران نے متعدد تجارتی جہازوں پر حملہ کیا، جس نے پانی کا اعلان کیا…"
     },
     {
-      "title": "Israeli guard Yam Madar signs three-year deal with Maccabi Tel Aviv after leaving rival Hapoel",
-      "desc": "The 25-year-old point guard (1. 90m), who grew up supporting Maccabi, joins the Israeli League and State Cup champion under head coach Oded Katash.",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-902527",
-      "time": "2026-07-14T22:38:20",
+      "title": "Mahmoud Khalil sues Trump Officials, Pro-Israel Groups Over 'conspiracy' to target him",
+      "desc": "Former Columbia University student activist has filed a lawsuit accusing senior U.S. officials – including Stephen Miller, Marco Rubio and Kristi Noem – of colluding with pro-Israel organizations to orchestrate his detention and attempted deportation",
+      "source": "Haaretz",
+      "url": "https://www.haaretz.com/us-news/2026-07-15/ty-article/.premium/mahmoud-khalil-sues-trump-officials-and-pro-israel-groups/0000019f-62e2-d158-a1df-7ef71b360000",
+      "time": "2026-07-14T23:51:40",
       "country": "Israel",
-      "title_ur": "اسرائیلی گارڈ یام مادر نے حریف ہاپول کو چھوڑنے کے بعد مکابی تل ابیب کے ساتھ تین سالہ معاہدے پر دستخط کیے",
-      "desc_ur": "25 سالہ پوائنٹ گارڈ (1. 90m)، جو میکابی کی حمایت کرتے ہوئے پروان چڑھا، ہیڈ کوچ اوڈڈ کٹاش کے تحت اسرائیلی لیگ اور اسٹیٹ کپ چیمپئن میں شامل ہوا۔"
-    }
-  ],
-  "pakistan": [
-    {
-      "title": "Modi’s government brought Bollywood to heel. Hollywood should pay attention.",
-      "desc": "In 2023, the Indian director Honey Trehan was on the verge of a breakthrough. His film Punjab ’95, which told the story of a human rights activist murdered for investigating mass killings of Sikhs in the state of Punjab, had been given a prominent slot at the…",
-      "source": "Vox",
-      "url": "https://www.vox.com/politics/495507/modi-india-censorship-cinema-satluj-hollywood",
-      "time": "2026-07-14T22:51:47",
-      "country": "Pakistan",
-      "title_ur": "مودی کی حکومت نے بالی ووڈ کو اپنی لپیٹ میں لے لیا۔ ہالی وڈ کو توجہ دینی چاہیے۔",
-      "desc_ur": "2023 میں، بھارتی ہدایت کار ہنی ٹریہن ایک پیش رفت کے راستے پر تھے۔ ان کی فلم 'پنجاب 95'، جس میں ایک انسانی حقوق کارکن کی کہانی بیان کی گئی ہے جو کہ ریاست پنجاب میں سکھوں کے اجتماعی قتل کی تحقیقات کے لیے قتل کیے گئے تھے، کو ایک نمایاں مقام دیا گیا تھا۔"
+      "title_ur": "محمود خلیل نے ٹرمپ حکام اور اسرائیل نواز گروپوں پر انہیں نشانہ بنانے کی 'سازش' پر مقدمہ دائر کیا",
+      "desc_ur": "کولمبیا یونیورسٹی کے سابق طالب علم کارکن نے ایک مقدمہ دائر کیا ہے جس میں اسٹیفن ملر، مارکو روبیو اور کرسٹی نوم سمیت سینئر امریکی حکام پر اسرائیل نواز تنظیموں کے ساتھ ملی بھگت کا الزام لگاتے ہوئے اسے حراست میں لینے اور ملک بدر کرنے کی کوشش کی گئی ہے۔"
     },
     {
-      "title": "Key Mamdani, Hochul fundraiser is advisor to two Medicaid cheats accused of ripping off $107M",
-      "desc": "Politically connnected Ijaz Ahmad, a Brooklyn cardiologist, advises fellow Pakistani-Americans on setting up Medicaid healthcare facilities, sources told The Post.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/07/14/us-news/key-mamdani-hochul-fundraiser-is-advisor-to-two-medicaid-cheats-accused-of-ripping-off-107m/",
-      "time": "2026-07-14T22:44:12",
-      "country": "Pakistan",
-      "title_ur": "کلیدی مامدانی، ہوچول فنڈ ریزر دو میڈیکیڈ دھوکے بازوں کے مشیر ہیں جن پر 107 ملین ڈالر کی چوری کا الزام ہے",
-      "desc_ur": "ذرائع نے دی پوسٹ کو بتایا کہ سیاسی طور پر منسلک اعجاز احمد، بروکلین کے ماہر امراض قلب، ساتھی پاکستانی نژاد امریکیوں کو میڈیکیڈ ہیلتھ کیئر سہولیات کے قیام کا مشورہ دیتے ہیں۔"
-    },
-    {
-      "title": "Trump retreats on Hormuz tolls, signaling potential US-Iran de-escalation",
-      "desc": "The retreat on tolls may foster diplomatic negotiations, reducing the likelihood of military conflict and stabilizing regional market perceptions.\nThe post Trump retreats on Hormuz tolls, signaling potential US-Iran de-escalation appeared first on Crypto Brie…",
+      "title": "US-Iran conflict escalates, disrupts Strait of Hormuz shipping operations",
+      "desc": "The conflict's escalation threatens global energy markets, heightening geopolitical tensions and economic instability due to disrupted trade routes.\nThe post US-Iran conflict escalates, disrupts Strait of Hormuz shipping operations appeared first on Crypto Br…",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/trump-retreats-on-hormuz-tolls-signaling-potential-us-iran-de-escalation/",
-      "time": "2026-07-14T22:16:09",
-      "country": "Pakistan",
-      "title_ur": "ٹرمپ نے ہرمز ٹول پر پیچھے ہٹنا، ممکنہ طور پر امریکہ ایران کشیدگی میں کمی کا اشارہ دیا۔",
-      "desc_ur": "ٹولز پر پسپائی سفارتی مذاکرات کو فروغ دے سکتی ہے، فوجی تصادم کے امکانات کو کم کر سکتی ہے اور علاقائی مارکیٹ کے تاثرات کو مستحکم کر سکتی ہے۔\nThe post ٹرمپ ہرمز ٹول پر پیچھے ہٹ گئے، ممکنہ طور پر امریکا ایران کشیدگی میں کمی کا اشارہ appeared first on Crypto Brie…"
+      "url": "https://cryptobriefing.com/us-iran-conflict-escalates-disrupts-strait-of-hormuz-shipping-operations/",
+      "time": "2026-07-14T23:51:40",
+      "country": "Iran",
+      "title_ur": "امریکہ ایران تنازعہ بڑھ گیا، آبنائے ہرمز میں جہاز رانی کی کارروائیوں میں خلل پڑ گیا۔",
+      "desc_ur": "تنازعات میں اضافے سے توانائی کی عالمی منڈیوں کو خطرہ لاحق ہے، تجارتی راستوں میں خلل کی وجہ سے جغرافیائی سیاسی تناؤ اور معاشی عدم استحکام بڑھ رہا ہے۔\nThe post امریکا ایران تنازعہ شدت اختیار کرگیا، آبنائے ہرمز کی شپنگ آپریشنز متاثر appeared first on Crypto Br…"
+    },
+    {
+      "title": "Trump threatens to expand strikes on Iran, says power plants are next to go: 'Hit them hard'",
+      "desc": "Trump warns Iran that power plants and bridges are next unless Tehran negotiates as U.S. strikes near the Strait of Hormuz continue nightly.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/media/trump-threatens-expand-strikes-iran-says-power-plants-next-go-hit-them-hard",
+      "time": "2026-07-14T23:51:18",
+      "country": "Iran",
+      "title_ur": "ٹرمپ نے ایران پر حملوں کو بڑھانے کی دھمکی دی، کہتے ہیں کہ پاور پلانٹس آنے والے ہیں: 'انہیں سخت مارو'",
+      "desc_ur": "ٹرمپ نے ایران کو خبردار کیا ہے کہ جب تک تہران مذاکرات نہیں کرتا، آبنائے ہرمز کے قریب امریکی حملے رات کے وقت جاری رہتے ہیں تو پاور پلانٹ اور پل اگلا ہے۔"
+    },
+    {
+      "title": "Speaker Johnson Swerves Question About ICE Killing With His Favorite Excuse",
+      "desc": "At what point is the top Republican supposed to be clued in?",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/speaker-johnson-dont-know-ice-shooting_n_6a5595e1e4b0107f0db7e9c0",
+      "time": "2026-07-14T23:47:44",
+      "country": "US",
+      "title_ur": "اسپیکر جانسن نے اپنے پسندیدہ عذر کے ساتھ ICE کے قتل کے بارے میں سوال اٹھایا",
+      "desc_ur": "سب سے اوپر ریپبلکن کو کس مقام پر شامل کیا جانا چاہئے؟"
+    },
+    {
+      "title": "How France lost World Cup to Spain: 'We lost against ourselves'",
+      "desc": "France and its high-powered offensive attack was a no-show against Spain in the World Cup semifinals July 14. Here's what they said about the match.",
+      "source": "USA Today",
+      "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/07/14/france-lost-world-cup-spain-mbappe/90923430007/",
+      "time": "2026-07-14T23:45:50",
+      "country": "France",
+      "title_ur": "فرانس ورلڈ کپ اسپین سے کیسے ہارا: 'ہم اپنے خلاف ہار گئے'",
+      "desc_ur": "14 جولائی کو ورلڈ کپ کے سیمی فائنل میں اسپین کے خلاف فرانس اور اس کے اعلیٰ طاقت والے جارحانہ حملے کا کوئی مظاہرہ نہیں ہوا۔ میچ کے بارے میں انہوں نے کیا کہا۔"
+    },
+    {
+      "title": "Dricus Du Plessis finds Strickland vs. Chimaev rematch talks 'ridiculous'",
+      "desc": "The fact that the UFC would even consider a Sean Strickland vs. Khamzat Chimaev rematch is \"crazy\" to Dricus Du Plessis.",
+      "source": "USA Today",
+      "url": "https://mmajunkie.usatoday.com/story/sports/ufc/2026/07/14/ufc-dricus-du-plessis-against-ridiculous-strickland-vs-chimaev-rematch/90911149007/",
+      "time": "2026-07-14T23:40:27",
+      "country": "US",
+      "title_ur": "ڈریکس ڈو پلیسس نے سٹرک لینڈ بمقابلہ چمائیو کے دوبارہ میچ کی باتوں کو 'مضحکہ خیز' قرار دیا۔",
+      "desc_ur": "حقیقت یہ ہے کہ UFC یہاں تک کہ شان سٹرک لینڈ بمقابلہ خمزت چیمائیو کے دوبارہ میچ پر غور کرے گا ڈریکس ڈو پلیسس کے لیے \"پاگل\" ہے۔"
+    },
+    {
+      "title": "The U.S. is Facing an Ammunition Shortage Due to the Iran War. Here’s What That Means",
+      "desc": "en. Mark Kelly, a retired Navy Captain and former astronaut, earned the ire of the Pentagon last week for raising concerns over U.S. weapons stockpiles that have been depleted by the Iran War. Citing a Department of Defense (DOD) briefing he had received, Kel…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4387987/posts",
+      "time": "2026-07-14T23:38:07",
+      "country": "Iran",
+      "title_ur": "ایران جنگ کی وجہ سے امریکہ کو گولہ بارود کی کمی کا سامنا ہے۔ یہاں اس کا کیا مطلب ہے۔",
+      "desc_ur": "en بحریہ کے ایک ریٹائرڈ کیپٹن اور سابق خلاباز مارک کیلی نے گزشتہ ہفتے پینٹاگون کا غصہ امریکی ہتھیاروں کے ذخیرے پر تشویش کا اظہار کیا جو ایران جنگ سے ختم ہو چکے ہیں۔ محکمہ دفاع (DOD) کی بریفنگ کا حوالہ دیتے ہوئے جو اسے موصول ہوئی تھی، کیل…"
+    },
+    {
+      "title": "Iran claims attack on Azraq base in Jordan",
+      "desc": "Iran's army said it carried out a wave of drone strikes on a United States base in Jordan, according to a statement released by state media. The announcement described the attack as part of the sevent...",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/c563ad4b58ce3cd6",
+      "time": "2026-07-14T23:38:05",
+      "country": "Iran",
+      "title_ur": "ایران نے اردن میں ازراق بیس پر حملے کا دعویٰ کیا ہے۔",
+      "desc_ur": "سرکاری میڈیا کی طرف سے جاری کردہ ایک بیان کے مطابق، ایران کی فوج نے کہا کہ اس نے اردن میں ایک امریکی اڈے پر ڈرون حملے کیے ہیں۔ اعلان میں اس حملے کو ساتویں حملے کا حصہ قرار دیا گیا ہے۔"
+    },
+    {
+      "title": "Trump Reverses 20% Strait of Hormuz Toll, as U.S. Restarts Blockade of Iran’s Ports",
+      "desc": "The decision comes a day after the president said the U.S. would charge a toll for shipping cargo through a waterway Iran has tried to control.",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/5135e6d3d10c8ed0",
+      "time": "2026-07-14T23:37:47",
+      "country": "Iran",
+      "title_ur": "ٹرمپ نے آبنائے ہرمز ٹول کے 20 فیصد کو واپس لے لیا، جیسا کہ امریکہ نے ایران کی بندرگاہوں کی دوبارہ ناکہ بندی شروع کردی",
+      "desc_ur": "یہ فیصلہ صدر کے اس بیان کے ایک دن بعد سامنے آیا ہے جب ایران نے کنٹرول کرنے کی کوشش کی ہے کہ آبی گزرگاہ کے ذریعے کارگو کی ترسیل کے لیے امریکہ ٹول وصول کرے گا۔"
+    },
+    {
+      "title": "Retired Army Gen. Jack Keane on the military buildup in the Middle East",
+      "desc": "“Today we’re facing the most significant security challenge since World War II,\" retired Gen. Jack Keane told The Post. \"China, Russia, North Korea and Iran collaborating together against the US.\"",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/07/14/opinion/retired-army-gen-jack-keane-on-the-military-buildup-in-the-middle-east/",
+      "time": "2026-07-14T23:37:11",
+      "country": "Iran",
+      "title_ur": "ریٹائرڈ آرمی جنرل جیک کین مشرق وسطیٰ میں عسکری تشکیل پر",
+      "desc_ur": "\"آج ہمیں دوسری جنگ عظیم کے بعد سب سے اہم سیکورٹی چیلنج کا سامنا ہے،\" ریٹائرڈ جنرل جیک کین نے دی پوسٹ کو بتایا۔ \"چین، روس، شمالی کوریا اور ایران امریکہ کے خلاف مل کر تعاون کر رہے ہیں۔\""
+    },
+    {
+      "title": "VA, HHS to increase psychedelic therapy research for PTSD, military-related mental health issues",
+      "desc": "The agreement could help accelerate research into the use of MDMA, magic mushrooms and other psychedelics to address PTSD and other mental conditions.",
+      "source": "Military Times",
+      "url": "https://www.militarytimes.com/veterans/2026/07/14/va-hhs-to-increase-psychedelic-therapy-research-for-ptsd-military-related-mental-health-issues/",
+      "time": "2026-07-14T23:36:30",
+      "country": "US",
+      "title_ur": "VA, HHS PTSD، فوجی سے متعلق دماغی صحت کے مسائل کے لیے سائیکیڈیلک تھراپی ریسرچ کو بڑھانے کے لیے",
+      "desc_ur": "یہ معاہدہ پی ٹی ایس ڈی اور دیگر دماغی حالات سے نمٹنے کے لیے ایم ڈی ایم اے، میجک مشروم اور دیگر سائیکیڈیلک کے استعمال کی تحقیق کو تیز کرنے میں مدد کر سکتا ہے۔"
+    },
+    {
+      "title": "Who Really Controls the Strait of Hormuz?",
+      "desc": "Since the war began, Iran has only expanded its power over the waterway.",
+      "source": "The Atlantic",
+      "url": "https://www.theatlantic.com/newsletters/2026/07/who-controls-strait-of-hormuz/687920/",
+      "time": "2026-07-14T23:32:00",
+      "country": "Iran",
+      "title_ur": "آبنائے ہرمز پر واقعی کون کنٹرول کرتا ہے؟",
+      "desc_ur": "جنگ شروع ہونے کے بعد سے، ایران نے صرف آبی گزرگاہ پر اپنی طاقت کو بڑھایا ہے۔"
+    },
+    {
+      "title": "The car industry bloodbath: How China crushed the world's biggest brands - and changed Australian roads forever",
+      "desc": "As more drivers go electric, esteemed brands and luxury carmakers have been forced to close factories and scrambled to stay relevant.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-15977901/china-electric-vehicles-byd-volkswagen-toyota-ev-manufacturing.html",
+      "time": "2026-07-14T23:30:20",
+      "country": "China",
+      "title_ur": "کار انڈسٹری کا خون خرابہ: کس طرح چین نے دنیا کے سب سے بڑے برانڈز کو کچل دیا - اور آسٹریلیائی سڑکوں کو ہمیشہ کے لیے بدل دیا",
+      "desc_ur": "جیسے جیسے زیادہ ڈرائیورز الیکٹرک جاتے ہیں، معزز برانڈز اور لگژری کار سازوں کو فیکٹریاں بند کرنے پر مجبور کیا گیا اور متعلقہ رہنے کے لیے جھڑپیں کی گئیں۔"
+    },
+    {
+      "title": "People are noricing that Trump's Iran policy changes, literally from day to day, just emphasising that he has no plan, and can't figure out how to get out of his debacle [Followup]",
+      "desc": "People are noricing that Trump's Iran policy changes, literally from day to day, just emphasising that he has no plan, and can't figure out how to get out of his debacle",
+      "source": "Fark.com",
+      "url": "https://www.fark.com/comments/14130994/People-are-noricing-that-Trumps-Iran-policy-changes-literally-from-day-to-day-just-emphasising-that-he-has-no-plan-cant-figure-out-how-to-get-out-of-his-debacle",
+      "time": "2026-07-14T23:29:44",
+      "country": "Iran",
+      "title_ur": "لوگ اس بات پر زور دے رہے ہیں کہ ٹرمپ کی ایران پالیسی بدل رہی ہے، لفظی طور پر روز بروز، صرف اس بات پر زور دے رہے ہیں کہ اس کے پاس کوئی منصوبہ نہیں ہے، اور وہ یہ نہیں جان سکتے کہ اپنی شکست سے کیسے نکلا جائے [فالو اپ]",
+      "desc_ur": "لوگ اس بات پر زور دے رہے ہیں کہ ٹرمپ کی ایران پالیسی بدل جاتی ہے، لفظی طور پر روز بروز، صرف اس بات پر زور دے رہے ہیں کہ ان کے پاس کوئی منصوبہ نہیں ہے، اور وہ یہ نہیں جان سکتے کہ اپنی شکست سے کیسے نکلیں۔"
     }
   ],
+  "pakistan": [],
   "business": {
     "quote": "If everyone is moving forward together, then success takes care of itself.",
     "author": "Henry Ford",
