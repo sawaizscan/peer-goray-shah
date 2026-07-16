@@ -1,167 +1,197 @@
 {
-  "generated": "2026-07-16T11:58:45Z",
+  "generated": "2026-07-16T13:59:01Z",
   "world": [
     {
-      "title": "US forces strike Iranian coastal defenses on Greater Tunb Island",
-      "desc": "Escalating tensions in the Strait of Hormuz could disrupt global oil supply, impacting energy markets and potentially increasing geopolitical instability.\nThe post US forces strike Iranian coastal defenses on Greater Tunb Island appeared first on Crypto Brief…",
+      "title": "House GOP Launches Reconciliation 3.0 to Advance SAVE Act, Fund Defense",
+      "desc": "House Republicans have released a budget resolution that aims to protect the nation and its elections. The nearly $100 billion budget resolution text dropped early Wednesday morning, acting as the launchpad for what’s been dubbed “Reconciliation 3.0.” The tex…",
+      "source": "Daily Signal",
+      "url": "https://www.dailysignal.com/2026/07/15/house-gop-launches-reconciliation-3-0-to-advance-save-act-fund-defense/",
+      "time": "2026-07-15T13:58:04",
+      "country": "US",
+      "title_ur": "ہاؤس جی او پی نے ایڈوانس سیو ایکٹ، فنڈ ڈیفنس کے لیے مصالحتی 3.0 کا آغاز کیا۔",
+      "desc_ur": "ہاؤس ریپبلکنز نے ایک بجٹ قرارداد جاری کی ہے جس کا مقصد قوم اور اس کے انتخابات کا تحفظ کرنا ہے۔ بدھ کی صبح تقریباً 100 بلین ڈالر کا بجٹ ریزولوشن ٹیکسٹ گرا دیا گیا، جس نے \"مفاہمت 3.0\" کے نام سے آنے والے لانچ پیڈ کے طور پر کام کیا۔ ٹیکس…"
+    },
+    {
+      "title": "Iraq’s prime minister carries the title, but not the power",
+      "desc": "Al-Zaidi’s Washington visit exposed the pressure reshaping Baghdad’s politics, security and economy.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/opinions/2026/7/15/iraqs-prime-minister-carries-the-title-but-not-the-power",
+      "time": "2026-07-15T13:57:10",
+      "country": "Iraq",
+      "title_ur": "عراق کے وزیر اعظم کا لقب ہے، لیکن طاقت نہیں۔",
+      "desc_ur": "الزیدی کے واشنگٹن کے دورے نے بغداد کی سیاست، سلامتی اور معیشت کو نئی شکل دینے والے دباؤ کو بے نقاب کیا۔"
+    },
+    {
+      "title": "School Assembly News Headlines Today, July 16, 2026: US attacks Iran, ICC revamps World Cup format, England face Argentina and more",
+      "desc": "School Assembly News Headlines July 16: India and the UK finalized a significant trade agreement, granting India zero-duty access for nearly all its exports. The United States conducted new airstrikes against Iranian coastal defense systems on Greater Tunb Is…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/school-assembly-news-headlines-today-july-16-2026-us-attacks-iran-icc-revamps-world-cup-format-england-face-argentina-and-more/articleshow/132417824.cms",
+      "time": "2026-07-15T13:56:55",
+      "country": "Iran",
+      "title_ur": "سکول اسمبلی کی نیوز ہیڈ لائنز آج، 16 جولائی 2026: امریکہ کا ایران پر حملہ، آئی سی سی نے ورلڈ کپ کے فارمیٹ میں تبدیلی کی، انگلینڈ کا ارجنٹائن سے مقابلہ اور بہت کچھ",
+      "desc_ur": "اسکول اسمبلی نیوز ہیڈ لائنز 16 جولائی: ہندوستان اور برطانیہ نے ایک اہم تجارتی معاہدے کو حتمی شکل دی، جس سے ہندوستان کو اس کی تقریباً تمام برآمدات پر صفر ڈیوٹی رسائی دی گئی۔ امریکہ نے ایرانی ساحلی دفاعی نظام کے خلاف گریٹر ٹنب پر نئے فضائی حملے کیے ہیں۔"
+    },
+    {
+      "title": "Hans Aarsleff, ‘towering’ scholar of the history of the study of language, dies at 100",
+      "desc": "For more than 40 years, he inspired generations of students to explore the beauty and power of language.",
+      "source": "Princeton University",
+      "url": "https://www.princeton.edu/news/2026/07/15/hans-aarsleff-towering-scholar-history-study-language-dies-100",
+      "time": "2026-07-15T13:56:55",
+      "country": "International",
+      "title_ur": "زبان کے مطالعہ کی تاریخ کے 'زبردست' اسکالر ہنس آرسلیف 100 سال کی عمر میں انتقال کر گئے",
+      "desc_ur": "40 سال سے زیادہ عرصے تک، اس نے طلباء کی نسلوں کو زبان کی خوبصورتی اور طاقت کو دریافت کرنے کی ترغیب دی۔"
+    },
+    {
+      "title": "IDF kills Hamas commander linked to October 7 massacre",
+      "desc": "The IDF's actions may exacerbate political instability in Israel, potentially leading to the dissolution of its parliament.\nThe post IDF kills Hamas commander linked to October 7 massacre appeared first on Crypto Briefing.",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-strikes-iran-greater-tunb-island-hormuz/",
-      "time": "2026-07-15T11:57:45",
-      "country": "Iran",
-      "title_ur": "امریکی افواج نے گریٹر تنب جزیرے پر ایرانی ساحلی دفاع پر حملہ کیا۔",
-      "desc_ur": "آبنائے ہرمز میں بڑھتی ہوئی کشیدگی سے عالمی سطح پر تیل کی سپلائی متاثر ہو سکتی ہے، توانائی کی منڈیوں پر اثر پڑ سکتا ہے اور ممکنہ طور پر جغرافیائی سیاسی عدم استحکام بڑھ سکتا ہے۔\nThe post امریکی افواج نے گریٹر تنب جزیرے پر ایرانی ساحلی دفاع پر حملہ کردیا appeared first on Crypto Brief…"
-    },
-    {
-      "title": "You Will Hear These 10 False Narratives About Abortion. Here’s All You’ll Need to Fight Back",
-      "desc": "Misinformation about abortion care is rampant and being weaponized at state and federal levels to justify wide-ranging restrictions across the United States.\nEnsuring awareness of these narratives, and combatting them with rigorous data and evidence, is criti…",
-      "source": "Ms. Magazine",
-      "url": "https://msmagazine.com/2026/07/15/abortion-misinformation-myths-pill-reversal-water/",
-      "time": "2026-07-15T11:57:27",
-      "country": "US",
-      "title_ur": "آپ اسقاط حمل کے بارے میں یہ 10 جھوٹی داستانیں سنیں گے۔ یہاں وہ سب کچھ ہے جس کی آپ کو واپس لڑنے کی ضرورت ہوگی۔",
-      "desc_ur": "اسقاط حمل کی دیکھ بھال کے بارے میں غلط معلومات پھیلی ہوئی ہیں اور ریاستی اور وفاقی سطحوں پر ریاستہائے متحدہ میں وسیع پیمانے پر پابندیوں کا جواز پیش کرنے کے لیے اسے ہتھیار بنایا جا رہا ہے۔\nان بیانیوں کے بارے میں آگاہی کو یقینی بنانا، اور ان کا سخت اعداد و شمار اور شواہد کے ساتھ مقابلہ کرنا، تنقیدی ہے…"
-    },
-    {
-      "title": "US CENTCOM strikes target Iran’s shipping threat in Strait of Hormuz",
-      "desc": "Escalating military actions in the Strait of Hormuz could destabilize global oil markets and heighten geopolitical tensions.\nThe post US CENTCOM strikes target Iran’s shipping threat in Strait of Hormuz appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-centcom-strikes-target-irans-shipping-threat-in-strait-of-hormuz/",
-      "time": "2026-07-15T11:56:07",
-      "country": "Iran",
-      "title_ur": "US CENTCOM نے آبنائے ہرمز میں ایران کے جہاز رانی کے خطرے کو نشانہ بنایا",
-      "desc_ur": "آبنائے ہرمز میں فوجی کارروائیوں میں اضافہ عالمی تیل کی منڈیوں کو غیر مستحکم کر سکتا ہے اور جغرافیائی سیاسی کشیدگی کو بڑھا سکتا ہے۔\nThe post آبنائے ہرمز میں امریکی سنٹکام نے ایران کے جہاز رانی کے خطرے کو نشانہ بنایا appeared first on Crypto Briefing."
-    },
-    {
-      "title": "US Centcom strikes target Iranian missile sites on Greater Tunb Island",
-      "desc": "The US strikes may stabilize shipping routes in the Strait of Hormuz, but risk escalating tensions with Iran, impacting regional security.\nThe post US Centcom strikes target Iranian missile sites on Greater Tunb Island appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-centcom-strikes-target-iranian-missile-sites-on-greater-tunb-island/",
-      "time": "2026-07-15T11:54:27",
-      "country": "Iran",
-      "title_ur": "امریکی سینٹ کام نے گریٹر تنب جزیرے پر ایرانی میزائل سائٹس کو نشانہ بنایا",
-      "desc_ur": "امریکی حملے آبنائے ہرمز میں جہاز رانی کے راستوں کو مستحکم کر سکتے ہیں لیکن ایران کے ساتھ کشیدگی میں اضافے کا خطرہ ہے جس سے علاقائی سلامتی متاثر ہو سکتی ہے۔\nThe post امریکی سینٹ کام نے گریٹر تنب جزیرے پر ایرانی میزائل سائٹس کو نشانہ بنایا appeared first on Crypto Briefing."
-    },
-    {
-      "title": "Pray For The Peace of Jerusalem (7/15/26)[Prayer]",
-      "desc": "Pray For The Peace of Jerusalem (7/15/26)[Prayer]Personalities1 Samuel 14:1-33 14 Now it came to pass upon a day, that Jonathan the son of Saul said unto the young man that bare his armour, Come, and let us go over to the Philistines' garrison, that i…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-religion/4388032/posts",
-      "time": "2026-07-15T11:51:44",
-      "country": "US",
-      "title_ur": "یروشلم کے امن کے لیے دعا کریں (7/15/26)[دعا]",
-      "desc_ur": "یروشلم کے امن کے لیے دعا کریں (7/15/26)[دعا]شخصیات1 سموئیل 14:1-33 14 اب ایک دن ایسا ہوا کہ ساؤل کے بیٹے جوناتھن نے اپنے بکتر اٹھائے ہوئے نوجوان سے کہا، آؤ، ہم فلستیوں کی چوکی پر چلتے ہیں، کہ..."
-    },
-    {
-      "title": "What’s up with… nLighten, ZTE, Ofcom",
-      "desc": "Europe’s sovereign trend fuels nLighten PoCZTE gets US approval to buy Nvidia AI chipsOfcom unveils new rules to tackle scam calls",
-      "source": "TelecomTV",
-      "url": "https://www.telecomtv.com/content/security/what-s-up-with-nlighten-zte-ofcom-55889/",
-      "time": "2026-07-15T11:51:36",
-      "country": "US",
-      "title_ur": "کیا ہو رہا ہے… nLighten, ZTE, Ofcom",
-      "desc_ur": "یورپ کا خودمختار رجحان ایندھن nLighten PoCZTE کو Nvidia AI chipsOfcom کو خریدنے کے لیے امریکی منظوری مل گئی، گھوٹالے کی کالوں سے نمٹنے کے لیے نئے قوانین کی نقاب کشائی کی"
-    },
-    {
-      "title": "Can NATO Be Saved?",
-      "desc": "By Shashi P.B.B. Malla U.S. President Donald Trump has again and again questioned the raison d’etre of the North Atlantic Treaty Organization, although he should very well know that the military organization is in the interests of all the member states. Thus,…",
-      "source": "Peoplesreview.com.np",
-      "url": "https://peoplesreview.com.np/2026/07/15/can-nato-be-saved/",
-      "time": "2026-07-15T11:51:00",
-      "country": "US",
-      "title_ur": "کیا نیٹو کو بچایا جا سکتا ہے؟",
-      "desc_ur": "ششی P.B.B کی طرف سے مالا امریکی صدر ڈونلڈ ٹرمپ نے بار بار شمالی بحر اوقیانوس کے معاہدے کی تنظیم پر سوال اٹھائے ہیں، حالانکہ انہیں اچھی طرح معلوم ہونا چاہیے کہ فوجی تنظیم تمام رکن ممالک کے مفاد میں ہے۔ اس طرح،…"
-    },
-    {
-      "title": "FIBA World Cup 2027 Asian Qualifiers: 12-Team Field Set for Second Round After China, Korea Advance Late",
-      "desc": "China and Korea secured the final spots in the FIBA Basketball World Cup 2027 Asian Qualifiers second round, joining ten other teams in the pursuit of a place at the tournament in Qatar.",
-      "source": "Ibtimes.com.au",
-      "url": "https://www.ibtimes.com.au/fiba-basketball-world-cup-2027-asian-qualifiers-second-round-1872331",
-      "time": "2026-07-15T11:48:17",
-      "country": "China",
-      "title_ur": "FIBA ورلڈ کپ 2027 ایشین کوالیفائرز: چین، کوریا کے بعد دوسرے راؤنڈ کے لیے 12 ٹیموں کا میدان مقرر",
-      "desc_ur": "چین اور کوریا نے FIBA ​​باسکٹ بال ورلڈ کپ 2027 ایشین کوالیفائرز کے دوسرے راؤنڈ میں فائنل جگہیں حاصل کیں، اور قطر میں ہونے والے ٹورنامنٹ میں جگہ کے حصول میں دس دیگر ٹیموں میں شمولیت اختیار کی۔"
-    },
-    {
-      "title": "Strait and narrowing: the Iran deal crumbles",
-      "desc": "Also on the daily podcast: why India’s government websites are so awful and the adults going back to summer camp",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/c828f45d89c0f650",
-      "time": "2026-07-15T11:47:38",
-      "country": "Iran",
-      "title_ur": "آبنائے اور تنگ کرنا: ایران معاہدہ ٹوٹ گیا۔",
-      "desc_ur": "روزانہ پوڈ کاسٹ پر بھی: ہندوستان کی سرکاری ویب سائٹس اتنی خوفناک کیوں ہیں اور بالغ افراد سمر کیمپ میں واپس جا رہے ہیں"
-    },
-    {
-      "title": "Watch: US Launches Fresh Strikes On Iran",
-      "desc": "In a significant escalation of military action, the United States has launched a fresh wave of airstrikes against Iran, coinciding with the formal reimposition of a strict blockade.\nAccording to a statement released on Wednesday by U.S. Central Command (CENTC…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/3bf48b702ea55bed",
-      "time": "2026-07-15T11:47:28",
-      "country": "Iran",
-      "title_ur": "دیکھو: امریکہ کا ایران پر تازہ حملہ",
-      "desc_ur": "فوجی کارروائی میں ایک اہم اضافہ میں، امریکہ نے ایران کے خلاف فضائی حملوں کی ایک تازہ لہر شروع کی ہے، جو کہ ایک سخت ناکہ بندی کے باقاعدہ دوبارہ نفاذ کے ساتھ ہی ہے۔\nبدھ کو امریکی سینٹرل کمانڈ (CENTC) کی جانب سے جاری کردہ ایک بیان کے مطابق…"
-    },
-    {
-      "title": "Iran threatens to block oil exports, target US military in Bahrain",
-      "desc": "Escalating tensions could disrupt global energy markets and complicate diplomatic efforts, increasing the risk of a broader regional conflict.\nThe post Iran threatens to block oil exports, target US military in Bahrain appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-threatens-to-block-oil-exports-target-us-military-in-bahrain/",
-      "time": "2026-07-15T11:47:14",
-      "country": "Iran",
-      "title_ur": "ایران نے تیل کی برآمدات روکنے اور بحرین میں امریکی فوج کو نشانہ بنانے کی دھمکی دے دی۔",
-      "desc_ur": "بڑھتی ہوئی کشیدگی عالمی توانائی کی منڈیوں میں خلل ڈال سکتی ہے اور سفارتی کوششوں کو پیچیدہ بنا سکتی ہے، جس سے وسیع تر علاقائی تنازعے کا خطرہ بڑھ سکتا ہے۔\nThe post ایران کی تیل کی برآمدات روکنے کی دھمکی، بحرین میں امریکی فوج کو نشانہ بنایا گیا appeared first on Crypto Briefing."
-    },
-    {
-      "title": "Wednesday: Hili dialogue",
-      "desc": "Welcome to a Hump Day (“Haftanın Ortası” in Turkish): Wednesday, July 15, 2026. It’s also National Hot Dog Day, celebrating the American snack whose epicenter for quality is Chicago.  The classic Chicago dog is a Vienna beef dog (in a natural casing) nested i…",
-      "source": "Whyevolutionistrue.com",
-      "url": "https://whyevolutionistrue.com/2026/07/15/wednesday-hili-dialogue-589/",
-      "time": "2026-07-15T11:45:01",
-      "country": "US",
-      "title_ur": "بدھ: ہلی ڈائیلاگ",
-      "desc_ur": "ہمپ ڈے میں خوش آمدید (ترکی میں \"Haftanın Ortası\"): بدھ، 15 جولائی، 2026۔ یہ قومی ہاٹ ڈاگ ڈے بھی ہے، جس میں امریکی اسنیک کا جشن منایا جا رہا ہے جس کے معیار کا مرکز شکاگو ہے۔  شکاگو کا کلاسک کتا ویانا کا بیف کتا ہے (قدرتی سانچے میں) نیسٹڈ i…"
-    },
-    {
-      "title": "‘Oil for everyone or no one,’ Iran warns",
-      "desc": "Iran’s IRGC has warned that regional oil and gas exports will be “for everyone or for no one” amid the escalating conflict with the US Read Full Article at RT.com",
-      "source": "RT",
-      "url": "https://www.rt.com/news/643087-iran-us-export-routes/",
-      "time": "2026-07-15T11:44:20",
-      "country": "Iran",
-      "title_ur": "’تیل سب کے لیے یا کسی کے لیے نہیں،‘ ایران نے خبردار کیا۔",
-      "desc_ur": "ایران کے IRGC نے خبردار کیا ہے کہ امریکہ کے ساتھ بڑھتے ہوئے تنازعہ کے درمیان علاقائی تیل اور گیس کی برآمدات \"سب کے لیے یا کسی کے لیے نہیں\" ہوں گی۔ RT.com پر مکمل مضمون پڑھیں"
-    },
-    {
-      "title": "The ICC never indicted Fidel Castro",
-      "desc": "Thumbs up to Secretary Rubio for going after the International Criminal Court (ICC). The ICC has specialized in calling out our friends, such as the PM of Israel, and giving a pass to our enemies, like the late Fidel Castro. Between the two, who do you think …",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-chat/4388031/posts",
-      "time": "2026-07-15T11:43:44",
+      "url": "https://cryptobriefing.com/idf-kills-hamas-commander-linked-to-october-7-massacre/",
+      "time": "2026-07-15T13:55:04",
       "country": "Israel",
-      "title_ur": "آئی سی سی نے کبھی بھی فیڈل کاسترو پر فرد جرم عائد نہیں کی۔",
-      "desc_ur": "بین الاقوامی فوجداری عدالت (ICC) کی پیروی کرنے پر سیکرٹری روبیو کو انگوٹھا۔ آئی سی سی نے ہمارے دوستوں کو بلانے میں مہارت حاصل کی ہے، جیسے کہ اسرائیل کے وزیر اعظم، اور مرحوم فیڈل کاسترو کی طرح ہمارے دشمنوں کو پاس دینے میں۔ دونوں کے درمیان، آپ کے خیال میں کون..."
+      "title_ur": "آئی ڈی ایف نے 7 اکتوبر کے قتل عام سے منسلک حماس کمانڈر کو ہلاک کر دیا۔",
+      "desc_ur": "IDF کے اقدامات اسرائیل میں سیاسی عدم استحکام کو بڑھا سکتے ہیں، جو ممکنہ طور پر اس کی پارلیمنٹ کو تحلیل کرنے کا باعث بن سکتے ہیں۔\nThe post آئی ڈی ایف نے 7 اکتوبر کے قتل عام سے منسلک حماس کمانڈر کو ہلاک کردیا appeared first on Crypto Briefing."
     },
     {
-      "title": "Ukraine to Receive 16 Rafales and License for SCALP and Aster-30 Production",
-      "desc": "Ukraine will procure 16 Rafales and receive the license to manufacture SCALP and Aster-30 missiles, whilst two SAMP/T batteries will be immediately delivered. Ukraine will receive four Rafale aircraft as soon as their pilots and mechanics finish training, whi…",
-      "source": "Theaviationist.com",
-      "url": "https://theaviationist.com/2026/07/15/ukraine-16-rafales-license-scalp-aster-30/",
-      "time": "2026-07-15T11:43:08",
-      "country": "UK",
-      "title_ur": "یوکرین SCALP اور Aster-30 پروڈکشن کے لیے 16 رافیل اور لائسنس حاصل کرے گا",
-      "desc_ur": "یوکرین 16 رافیل خریدے گا اور SCALP اور Aster-30 میزائلوں کی تیاری کا لائسنس حاصل کرے گا، جب کہ دو SAMP/T بیٹریاں فوری طور پر فراہم کی جائیں گی۔ یوکرین کو چار رافیل طیارے ملیں گے جیسے ہی ان کے پائلٹ اور مکینکس تربیت مکمل کریں گے، جہاں…"
+      "title": "US producer prices unexpectedly fall in June",
+      "desc": "US producer prices unexpectedly fell in June, showing inflation was retreating. Wholesale goods prices declined significantly, driven by lower energy product costs. Consumer prices also dropped, slowing the annual inflation rate considerably. Financial market…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-producer-prices-unexpectedly-fall-in-june/articleshow/132417781.cms",
+      "time": "2026-07-15T13:53:20",
+      "country": "US",
+      "title_ur": "امریکی پروڈیوسر کی قیمتیں جون میں غیر متوقع طور پر گرتی ہیں۔",
+      "desc_ur": "جون میں امریکی پروڈیوسر کی قیمتیں غیر متوقع طور پر گر گئیں، جس سے ظاہر ہوتا ہے کہ افراط زر پیچھے ہٹ رہا ہے۔ تھوک اشیا کی قیمتوں میں نمایاں کمی آئی، جس کی وجہ توانائی کی مصنوعات کی کم لاگت ہے۔ صارفین کی قیمتوں میں بھی کمی آئی، جس سے سالانہ افراط زر کی شرح کافی کم ہو گئی۔ مالیاتی منڈی…"
+    },
+    {
+      "title": "US ends 23-year military presence in Iraq, shifts focus to Iran tensions",
+      "desc": "The U.S. troop withdrawal from Iraq may signal a strategic pivot towards Iran, influencing market expectations of a potential diplomatic deal.\nThe post US ends 23-year military presence in Iraq, shifts focus to Iran tensions appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/us-ends-23-year-military-presence-in-iraq-shifts-focus-to-iran-tensions/",
+      "time": "2026-07-15T13:53:15",
+      "country": "Iran",
+      "title_ur": "امریکہ نے عراق میں 23 سالہ فوجی موجودگی ختم کر دی، توجہ ایران کشیدگی پر مرکوز کر دی۔",
+      "desc_ur": "عراق سے امریکی فوجیوں کا انخلا ایران کی طرف ایک اسٹریٹجک محور کا اشارہ دے سکتا ہے، جو ممکنہ سفارتی معاہدے کی مارکیٹ کی توقعات کو متاثر کرتا ہے۔\nThe post امریکا کا عراق میں 23 سالہ فوجی موجودگی ختم، توجہ ایران کشیدگی پر مرکوز appeared first on Crypto Briefing."
+    },
+    {
+      "title": "US launches ‘wave of strikes’ on Iran after Trump tells Iran that power plants, bridges will be targeted if no deal is made – Middle East cris",
+      "desc": "US launches ‘wave of strikes’ on Iran after Trump tells Iran that power plants, bridges will be targeted if no deal is made – Middle East crisis liveThe Guardian US resumes blockade on Iran, launches strikes after attacks in Strait of HormuzFox News Live upda…",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184469376",
+      "time": "2026-07-15T13:53:11",
+      "country": "Iran",
+      "title_ur": "ٹرمپ کے ایران کو بتانے کے بعد امریکہ نے ایران پر ’حملوں کی لہر‘ شروع کی کہ اگر کوئی معاہدہ نہ ہوا تو پاور پلانٹس، پلوں کو نشانہ بنایا جائے گا – مشرق وسطیٰ بحران",
+      "desc_ur": "ٹرمپ کے ایران سے کہنے کے بعد امریکہ نے ایران پر ’حملوں کی لہر‘ شروع کردی کہ اگر کوئی معاہدہ نہ کیا گیا تو پاور پلانٹس، پلوں کو نشانہ بنایا جائے گا – مشرق وسطیٰ کا بحران براہ راست گارڈین امریکا نے ایران پر دوبارہ ناکہ بندی شروع کردی، آبنائے ہرمز میں حملوں کے بعد حملے شروع کردیے"
+    },
+    {
+      "title": "Turkey’s F-35s Far From First Time Israel Opposed A U.S. Fighter Sale",
+      "desc": "While the move marks the first time Israel opposed a U.S. arms sale to a NATO country, it's certainly far from the first time it opposed a U.S. fighter export to the region.",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/pauliddon/2026/07/15/turkeys-f-35s-far-from-first-time-israel-opposed-a-us-fighter-sale/",
+      "time": "2026-07-15T13:52:18",
+      "country": "Israel",
+      "title_ur": "ترکی کے F-35 طیاروں نے پہلی بار اسرائیل کو امریکی لڑاکا طیاروں کی فروخت کی مخالفت کی۔",
+      "desc_ur": "اگرچہ یہ اقدام پہلی بار ہے جب اسرائیل نے نیٹو کے کسی ملک کو امریکی ہتھیاروں کی فروخت کی مخالفت کی ہے، لیکن یہ یقینی طور پر پہلی بار اس خطے میں امریکی لڑاکا طیاروں کی برآمد کی مخالفت سے بہت دور ہے۔"
+    },
+    {
+      "title": "TSX Edges Higher to 35,332 as Investors Await Bank of Canada Rate Decision Amid Iran War Tensions Today",
+      "desc": "The TSX Composite Index rose slightly as investors considered U.S. inflation data and oil market volatility, with attention focused on the Bank of Canada's upcoming interest rate decision.",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/tsx-higher-bank-canada-rate-decision-oil-volatility-1872354",
+      "time": "2026-07-15T13:51:20",
+      "country": "Iran",
+      "title_ur": "TSX 35,332 تک پہنچ گیا کیونکہ سرمایہ کار آج ایران جنگی کشیدگی کے درمیان بینک آف کینیڈا کی شرح کے فیصلے کے منتظر ہیں",
+      "desc_ur": "TSX کمپوزٹ انڈیکس میں قدرے اضافہ ہوا کیونکہ سرمایہ کاروں نے امریکی افراط زر کے اعداد و شمار اور تیل کی مارکیٹ کے اتار چڑھاؤ پر غور کیا، جس کی توجہ بینک آف کینیڈا کے آئندہ شرح سود کے فیصلے پر مرکوز تھی۔"
+    },
+    {
+      "title": "FULL LIST: Davido, Peller, Tems, Burna Boy, others nominated as AFRIMMA returns after two-year break",
+      "desc": "The African Muzik Magazine Awards (AFRIMMA) returns in 2026! See the full list of nominees, including Davido, Burna Boy, and Tems, for this year’s awards.\n\nRead More: https://punchng.com/full-list-davido-peller-tems-burna-boy-others-nominated-as-afrimma-retur…",
+      "source": "The Punch",
+      "url": "https://punchng.com/full-list-davido-peller-tems-burna-boy-others-nominated-as-afrimma-returns-after-two-year-break/",
+      "time": "2026-07-15T13:50:19",
+      "country": "International",
+      "title_ur": "مکمل فہرست: ڈیوڈو، پیلر، ٹیمز، برنا بوائے، دیگر نامزد کردہ AFRIMMA دو سال کے وقفے کے بعد واپسی",
+      "desc_ur": "افریقی میوزیک میگزین ایوارڈز (AFRIMMA) 2026 میں واپس آ رہے ہیں! اس سال کے ایوارڈز کے لیے ڈیوڈو، برنا بوائے اور ٹیمز سمیت نامزد افراد کی مکمل فہرست دیکھیں۔\n\nمزید پڑھیں: https://punchng.com/full-list-davido-peller-tems-burna-boy-others-nominated-as-afrimma-retur…"
+    },
+    {
+      "title": "Iran war ends 23-year US military presence in Iraq",
+      "desc": "US forces will leave Iraq by September 30 due to the Iran war, ending a military presence that began with the 2003 invasion Read Full Article at RT.com",
+      "source": "RT",
+      "url": "https://www.rt.com/news/643090-us-ends-iraq-presence/",
+      "time": "2026-07-15T13:50:08",
+      "country": "Iran",
+      "title_ur": "ایران جنگ نے عراق میں 23 سالہ امریکی فوجی موجودگی کا خاتمہ کر دیا۔",
+      "desc_ur": "امریکی افواج ایران کی جنگ کی وجہ سے 30 ستمبر تک عراق سے نکل جائیں گی، 2003 کے حملے سے شروع ہونے والی فوجی موجودگی کا خاتمہ ہو جائے گا، RT.com پر مکمل مضمون پڑھیں"
+    },
+    {
+      "title": "‘I’m Surprised You Even Had Me On!’: Bill Maher Rips NPR as ‘Far Extreme of the Left’ to Interviewer’s Face",
+      "desc": "Bill Maher was stunned NPR's Steve Inskeep wanted to interview him because he believes NPR's audience is so hyper-leftist at this point listeners would revolt\nThe post ‘I’m Surprised You Even Had Me On!’: Bill Maher Rips NPR as ‘Far Extreme of the Left’ to In…",
+      "source": "Mediaite",
+      "url": "https://www.mediaite.com/media/news/im-surprised-you-even-had-me-on-bill-maher-rips-npr-as-far-extreme-of-the-left-to-interviewers-face/",
+      "time": "2026-07-15T13:46:36",
+      "country": "US",
+      "title_ur": "'مجھے حیرت ہے کہ آپ نے مجھ پر بھی کیا تھا!': بل مہر نے انٹرویو لینے والے کے چہرے پر 'بائیں کی انتہائی حد' کے طور پر این پی آر کو چیر دیا",
+      "desc_ur": "بل مہر دنگ رہ گیا این پی آر کا اسٹیو انسکیپ اس کا انٹرویو کرنا چاہتا تھا کیونکہ اس کا خیال ہے کہ این پی آر کے سامعین اتنے زیادہ بائیں بازو کے ہیں اس وقت سننے والے بغاوت کر دیں گے۔\nپوسٹ 'میں حیران ہوں کہ آپ بھی مجھ پر تھے!': بل مہر نے این پی آر کو 'بائیں طرف کی انتہائی' کے طور پر رپ کیا…"
+    },
+    {
+      "title": "Will Todd Blanche Survive the Senate? Confirmation Hearing Live Updates",
+      "desc": "Trump attorney general pick Todd Blanche is facing the congressional music today before the before the Senate Judiciary Commitee. Here’s the latest on his confirmation hearing testimoy.",
+      "source": "New York Magazine",
+      "url": "http://nymag.com/intelligencer/article/todd-blanche-attorney-general-senate-confirmation-hearing-live-updates.html",
+      "time": "2026-07-15T13:46:00",
+      "country": "US",
+      "title_ur": "کیا ٹوڈ بلانچ سینیٹ میں زندہ رہے گا؟ تصدیقی سماعت لائیو اپڈیٹس",
+      "desc_ur": "ٹرمپ کے اٹارنی جنرل پک ٹوڈ بلانچ کو آج سینیٹ کی عدلیہ کمیٹی کے سامنے کانگریس کی موسیقی کا سامنا ہے۔ اس کی تصدیقی سماعت کی گواہی کے بارے میں تازہ ترین یہ ہے۔"
+    },
+    {
+      "title": "Mahmoud Khalil Sues Trump Admin For a ‘Politically Motivated Plan’ to Arrest Him for His Pro-Palestine Beliefs",
+      "desc": "“Nothing can restore the 104 days stolen from me,” Khalil wrote in an accompanying statement. “But let’s be clear, the same government that targeted me for speaking out is using taxpayer dollars to fund Israel’s ongoing genocide in Gaza.”",
+      "source": "Jezebel",
+      "url": "https://www.jezebel.com/mahmoud-khalil-sues-trump-admin-for-a-politically-motivated-plan-to-arrest-him-for-his-pro-palestine-beliefs",
+      "time": "2026-07-15T13:45:40",
+      "country": "Israel",
+      "title_ur": "محمود خلیل نے ٹرمپ ایڈمن پر ان کے فلسطین کے حامی عقائد کی وجہ سے اسے گرفتار کرنے کے لیے 'سیاسی طور پر متحرک منصوبے' کے لیے مقدمہ دائر کیا",
+      "desc_ur": "خلیل نے ایک ساتھ والے بیان میں لکھا، ’’کوئی چیز مجھ سے چوری شدہ 104 دنوں کو بحال نہیں کر سکتی۔ \"لیکن واضح ہو جائے، وہی حکومت جس نے مجھے بولنے کے لیے نشانہ بنایا، وہ غزہ میں اسرائیل کی جاری نسل کشی کے لیے ٹیکس دہندگان کے ڈالر استعمال کر رہی ہے۔\""
     }
   ],
   "pakistan": [
     {
-      "title": "US strikes target Iranian assets to secure Strait of Hormuz shipping",
-      "desc": "The U.S. strikes may temporarily deter Iran, but ongoing tensions keep the risk of disruptions in the Strait of Hormuz persistently high.\nThe post US strikes target Iranian assets to secure Strait of Hormuz shipping appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-strikes-target-iranian-assets-to-secure-strait-of-hormuz-shipping/",
-      "time": "2026-07-15T11:56:03",
+      "title": "How Pakistan Mediated an End to the US-Iran War",
+      "desc": "Mediation between great powers is not something a country stumbles into. It requires a specific combination of access, credibility and restraint that is delicate and takes years to build. Pakistan built that combination without anyone in the international com…",
+      "source": "Fair Observer",
+      "url": "https://www.fairobserver.com/united-states/how-pakistan-mediated-an-end-to-the-us-iran-war/",
+      "time": "2026-07-15T13:48:12",
       "country": "Pakistan",
-      "title_ur": "آبنائے ہرمز شپنگ کو محفوظ بنانے کے لیے امریکی حملوں نے ایرانی اثاثوں کو نشانہ بنایا",
-      "desc_ur": "امریکی حملے ایران کو عارضی طور پر روک سکتے ہیں، لیکن جاری کشیدگی آبنائے ہرمز میں رکاوٹوں کے خطرے کو مسلسل بلند رکھتی ہے۔\nThe post آبنائے ہرمز کی شپنگ کو محفوظ بنانے کے لیے امریکی حملوں نے ایرانی اثاثوں کو نشانہ بنایا appeared first on Crypto Briefing."
+      "title_ur": "پاکستان نے امریکہ ایران جنگ کے خاتمے کے لیے ثالثی کیسے کی۔",
+      "desc_ur": "عظیم طاقتوں کے درمیان ثالثی ایسی چیز نہیں ہے جس میں کوئی ملک ٹھوکر کھا جائے۔ اس کے لیے رسائی، اعتبار اور تحمل کا ایک خاص امتزاج درکار ہے جو نازک ہے اور اسے بنانے میں برسوں لگتے ہیں۔ پاکستان نے بین الاقوامی کام میں کسی کے بغیر یہ مجموعہ بنایا…"
+    },
+    {
+      "title": "Dow Climbs Above 52,700 as Cooling Inflation Data and ASML's Bullish Chip Forecast Lift Wall Street Higher",
+      "desc": "US stocks rose as the Dow Jones surpassed 52,700 points, driven by cooling inflation data and ASML's optimistic AI demand forecast, despite ongoing geopolitical tensions with Iran.",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/us-stocks-rise-cooling-inflation-asml-ai-demand-1872352",
+      "time": "2026-07-15T13:47:45",
+      "country": "Pakistan",
+      "title_ur": "ڈاؤن لوڈ، اتارنا افراط زر کے اعداد و شمار اور ASML کے بلش چپ کی پیشن گوئی لفٹ وال سٹریٹ ہائیر کے طور پر ڈاؤ 52,700 سے اوپر چڑھ گیا",
+      "desc_ur": "امریکی اسٹاک میں اضافہ ہوا کیونکہ ڈاؤ جونز 52,700 پوائنٹس کو عبور کر گیا، جو کہ مہنگائی کے اعداد و شمار کو ٹھنڈا کرنے اور ASML کی امید مند AI طلب کی پیشن گوئی کے باعث، ایران کے ساتھ جاری جغرافیائی سیاسی کشیدگی کے باوجود۔"
+    },
+    {
+      "title": "Donald Trump is running out of options in Iran",
+      "desc": "Trump has backed himself into a corner from which there is no apparent escape.",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/donald-trump-is-running-out-of-options-in-iran-287525",
+      "time": "2026-07-15T13:39:23",
+      "country": "Pakistan",
+      "title_ur": "ڈونلڈ ٹرمپ ایران میں آپشنز ختم کر رہے ہیں۔",
+      "desc_ur": "ٹرمپ نے خود کو ایک ایسے کونے میں گھیر لیا ہے جہاں سے بظاہر کوئی فرار نہیں ہے۔"
+    },
+    {
+      "title": "US: Two ships redirected since blockade renewal",
+      "desc": "The United States Central Command (CENTCOM) stated on Wednesday that it has redirected two vessels since the resumption of the naval blockade of Iran.\"The US military remains vigilant and prepared to ...",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/c9b2db91acefd7b9",
+      "time": "2026-07-15T13:34:50",
+      "country": "Pakistan",
+      "title_ur": "US: ناکہ بندی کی تجدید کے بعد دو جہازوں کو ری ڈائریکٹ کیا گیا۔",
+      "desc_ur": "ریاستہائے متحدہ کی مرکزی کمان (CENTCOM) نے بدھ کے روز کہا کہ اس نے ایران کی بحری ناکہ بندی دوبارہ شروع کرنے کے بعد سے دو جہازوں کو ری ڈائریکٹ کیا ہے۔\"امریکی فوج چوکس ہے اور تیار ہے ..."
     }
   ],
   "business": {
@@ -176,7 +206,7 @@
       {
         "date": "2026-07-16",
         "day": "جمعرات",
-        "high": 37,
+        "high": 36,
         "low": 28,
         "condition": "Light Drizzle",
         "condition_ur": "ہلکی بوندا باندی",
@@ -185,28 +215,28 @@
       {
         "date": "2026-07-17",
         "day": "جمعہ",
-        "high": 39,
+        "high": 38,
         "low": 29,
-        "condition": "Clear",
-        "condition_ur": "صاف",
+        "condition": "Mainly Clear",
+        "condition_ur": "زیادہ تر صاف",
         "precip": 2
       },
       {
         "date": "2026-07-18",
         "day": "ہفتہ",
         "high": 40,
-        "low": 32,
-        "condition": "Drizzle",
-        "condition_ur": "بوندا باندی",
+        "low": 31,
+        "condition": "Light Drizzle",
+        "condition_ur": "ہلکی بوندا باندی",
         "precip": 16
       },
       {
         "date": "2026-07-19",
         "day": "اتوار",
-        "high": 40,
+        "high": 39,
         "low": 30,
-        "condition": "Drizzle",
-        "condition_ur": "بوندا باندی",
+        "condition": "Thunderstorm",
+        "condition_ur": "گرج چمک",
         "precip": 35
       },
       {
@@ -221,7 +251,7 @@
       {
         "date": "2026-07-21",
         "day": "منگل",
-        "high": 32,
+        "high": 31,
         "low": 26,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
