@@ -1,167 +1,187 @@
 {
-  "generated": "2026-07-16T19:58:11Z",
+  "generated": "2026-07-16T21:00:35Z",
   "world": [
     {
-      "title": "Hunter Biden Was Asked What He'd Tell Trump — And His Answer Was Brutally Blunt",
-      "desc": "Though former President Joe Biden has recently kept a low profile, his son Hunter has ramped up his criticisms of the Trump administration.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/hunter-biden-donald-trump-expletive-laden-tirade_n_6a57c268e4b07a7875d1086b",
-      "time": "2026-07-15T19:57:21",
-      "country": "US",
-      "title_ur": "ہنٹر بائیڈن سے پوچھا گیا کہ وہ ٹرمپ کو کیا بتائے گا - اور اس کا جواب بے دردی سے دو ٹوک تھا۔",
-      "desc_ur": "اگرچہ سابق صدر جو بائیڈن نے حال ہی میں کم پروفائل رکھا ہے، ان کے بیٹے ہنٹر نے ٹرمپ انتظامیہ پر اپنی تنقیدوں کو بڑھاوا دیا ہے۔"
-    },
-    {
-      "title": "Trump Addresses a Defense Technology Gathering as the Iran War Has Reduced US Weapon Stocks",
-      "desc": "Trump has sought to correct the shortfall by seeking a historic $1.5 trillion defense budget proposal for 2027.",
-      "source": "Military.com",
-      "url": "https://military.com/trump-addresses-a-defense-technology-gathering-as-the-iran-war-has-reduced-us-weapon-stocks",
-      "time": "2026-07-15T19:56:53",
+      "title": "Intel Officials Predict the Pentagon’s Bill for the Iran War Will Exceed $100 Billion",
+      "desc": "The Trump administration has not disclosed its cost estimates for the Iran war.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/pentagons-bill-for-iran-war-exceed-100-billion/",
+      "time": "2026-07-15T21:00:00",
       "country": "Iran",
-      "title_ur": "ٹرمپ دفاعی ٹیکنالوجی کے ایک اجتماع سے خطاب کررہے ہیں کیونکہ ایران جنگ نے امریکی ہتھیاروں کے ذخیرے کو کم کردیا ہے۔",
-      "desc_ur": "ٹرمپ نے 2027 کے لیے 1.5 ٹریلین ڈالر کے تاریخی دفاعی بجٹ کی تجویز مانگ کر اس کمی کو دور کرنے کی کوشش کی ہے۔"
+      "title_ur": "انٹیل حکام نے پیش گوئی کی ہے کہ ایران جنگ کے لیے پینٹاگون کا بل 100 بلین ڈالر سے تجاوز کر جائے گا",
+      "desc_ur": "ٹرمپ انتظامیہ نے ایران جنگ کے لیے اپنی لاگت کا تخمینہ ظاہر نہیں کیا ہے۔"
     },
     {
-      "title": "Iran claims drone, missile attack on US base in Bahrain amid Gulf tensions",
-      "desc": "Escalating Gulf tensions may hinder US-Iran peace talks and disrupt Strait of Hormuz shipping, impacting regional stability and markets.\nThe post Iran claims drone, missile attack on US base in Bahrain amid Gulf tensions appeared first on Crypto Briefing.",
+      "title": "Boston Celtics (2-1) at Sacramento Kings (1-2) Las Vegas SL Game #4 7/15/26",
+      "desc": "The Celtics look to get back in the win column as they take on the Sacramento Kings in Summer League action.",
+      "source": "Celtics Blog",
+      "url": "https://www.celticsblog.com/boston-celtics-game-previews/143725/boston-celtics-2-1-at-sacramento-kings-1-2-las-vegas-sl-game-4-7-15-26",
+      "time": "2026-07-15T21:00:00",
+      "country": "International",
+      "title_ur": "بوسٹن سیلٹکس (2-1) ساکرامنٹو کنگز میں (1-2) لاس ویگاس ایس ایل گیم #4 7/15/26",
+      "desc_ur": "سیلٹکس جیت کے کالم میں واپس آنے کی امید کر رہے ہیں کیونکہ وہ سمر لیگ ایکشن میں سیکرامنٹو کنگز سے مقابلہ کرتے ہیں۔"
+    },
+    {
+      "title": "US stocks gain after reassuring inflation data, tech giants advance",
+      "desc": "“The market was comforted today by the market-friendly PPI report,” said analyst Patrick O’Hare.",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/world/stocks-us-market-wall-street-inflation-6256966",
+      "time": "2026-07-15T20:59:05",
+      "country": "US",
+      "title_ur": "مہنگائی کے اعداد و شمار کی یقین دہانی کے بعد امریکی اسٹاک میں اضافہ، ٹیک کمپنیاں آگے بڑھ رہی ہیں۔",
+      "desc_ur": "تجزیہ کار پیٹرک اوہیئر نے کہا، \"آج مارکیٹ کو مارکیٹ دوستانہ PPI رپورٹ سے تسلی ملی۔\""
+    },
+    {
+      "title": "The next Strait of Hormuz",
+      "desc": "This story appeared in Today, Explained, a daily newsletter that helps you understand the most compelling news and stories of the day. Subscribe here. If I had a nickel for every time President Donald Trump backtracked or changed course on Iran, I’d have…well…",
+      "source": "Vox",
+      "url": "https://www.vox.com/today-explained-newsletter/495624/iran-war-global-chokepoint-strait-of-hormuz",
+      "time": "2026-07-15T20:59:03",
+      "country": "Iran",
+      "title_ur": "اگلی آبنائے ہرمز",
+      "desc_ur": "یہ کہانی Today, Explained میں شائع ہوئی، ایک روزانہ نیوز لیٹر جو آپ کو دن کی سب سے زیادہ دلکش خبروں اور کہانیوں کو سمجھنے میں مدد کرتا ہے۔ یہاں سبسکرائب کریں۔ اگر میرے پاس ہر بار جب صدر ڈونلڈ ٹرمپ ایران کے بارے میں پیچھے ہٹتے یا اپنا راستہ بدلتے تو میرے پاس… اچھا ہوتا…"
+    },
+    {
+      "title": "In seismic shift, more than 100 House Democrats vote to end Israel aid",
+      "desc": "Nearly half of House Democrats voted to cut off aid to Israel Wednesday, underscoring a seismic shift in political support for the longtime U.S. ally. \nThe amendment to a State Department spending bill would have eliminated $3.3 billion in funding, and thanks…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/7210e01c46f2d104",
+      "time": "2026-07-15T20:56:31",
+      "country": "Israel",
+      "title_ur": "زلزلے کی تبدیلی میں، 100 سے زیادہ ہاؤس ڈیموکریٹس نے اسرائیل کی امداد ختم کرنے کے حق میں ووٹ دیا۔",
+      "desc_ur": "ایوان کے تقریباً نصف ڈیموکریٹس نے بدھ کے روز اسرائیل کی امداد بند کرنے کے حق میں ووٹ دیا، جس نے دیرینہ امریکی اتحادی کے لیے سیاسی حمایت میں زلزلے کی تبدیلی کی نشاندہی کی۔ \nمحکمہ خارجہ کے اخراجات کے بل میں ترمیم سے 3.3 بلین ڈالر کی فنڈنگ ​​ختم ہو جاتی، اور شکریہ…"
+    },
+    {
+      "title": "Measure to cut Israel aid fails in bipartisan House vote",
+      "desc": "A measure to prevent any State Department funding from going to Israel failed by a decisive margin in a House vote on Wednesday.\nWhy it matters: The vote exposed deep divisions among House Democrats, with even the party's top two leaders taking divergent posi…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/2dd4742d23def5c7",
+      "time": "2026-07-15T20:56:28",
+      "country": "Israel",
+      "title_ur": "دو طرفہ ایوان کے ووٹ میں اسرائیل کی امداد میں کمی کا اقدام ناکام ہو گیا۔",
+      "desc_ur": "اسٹیٹ ڈپارٹمنٹ کی فنڈنگ ​​کو اسرائیل جانے سے روکنے کا ایک اقدام بدھ کو ایوان کی ووٹنگ میں فیصلہ کن مارجن سے ناکام ہوگیا۔\nیہ کیوں اہمیت رکھتا ہے: ووٹ نے ہاؤس ڈیموکریٹس کے درمیان گہری تقسیم کو بے نقاب کر دیا، یہاں تک کہ پارٹی کے سرکردہ دو رہنما بھی مختلف پوزیشن لے رہے ہیں…"
+    },
+    {
+      "title": "JD Vance warns of mass migration risk amid US-Iran conflict on Joe Rogan show",
+      "desc": "The potential for regional destabilization could exacerbate global security challenges and complicate diplomatic efforts for peace.\nThe post JD Vance warns of mass migration risk amid US-Iran conflict on Joe Rogan show appeared first on Crypto Briefing.",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-claims-drone-missile-attack-on-us-base-in-bahrain-amid-gulf-tensions/",
-      "time": "2026-07-15T19:56:15",
+      "url": "https://cryptobriefing.com/jd-vance-warns-of-mass-migration-risk-amid-us-iran-conflict-on-joe-rogan-show/",
+      "time": "2026-07-15T20:53:33",
       "country": "Iran",
-      "title_ur": "خلیجی کشیدگی کے درمیان ایران نے بحرین میں امریکی اڈے پر ڈرون اور میزائل حملے کا دعویٰ کیا ہے۔",
-      "desc_ur": "خلیجی کشیدگی میں اضافہ امریکہ ایران امن مذاکرات میں رکاوٹ بن سکتا ہے اور آبنائے ہرمز کی ترسیل میں خلل ڈال سکتا ہے، جس سے علاقائی استحکام اور بازار متاثر ہو سکتے ہیں۔\nThe post خلیجی کشیدگی کے درمیان ایران کا بحرین میں امریکی اڈے پر ڈرون، میزائل حملے کا دعویٰ appeared first on Crypto Briefing."
+      "title_ur": "جے ڈی وینس نے جو روگن شو میں امریکہ ایران تنازعہ کے درمیان بڑے پیمانے پر نقل مکانی کے خطرے سے خبردار کیا۔",
+      "desc_ur": "علاقائی عدم استحکام کا امکان عالمی سلامتی کے چیلنجوں کو بڑھا سکتا ہے اور امن کے لیے سفارتی کوششوں کو پیچیدہ بنا سکتا ہے۔\nThe post جے ڈی وینس نے جو روگن شو میں امریکا ایران تنازع کے درمیان بڑے پیمانے پر نقل مکانی کے خطرے سے خبردار کردیا appeared first on Crypto Briefing."
     },
     {
-      "title": "Explosions reported near US military base in Bahrain amid Iran conflict",
-      "desc": "Rising tensions may disrupt Gulf stability, hinder U.S.-Iran peace prospects, and threaten maritime trade through the Strait of Hormuz.\nThe post Explosions reported near US military base in Bahrain amid Iran conflict appeared first on Crypto Briefing.",
+      "title": "House Republicans unveil $95B budget plan for Iran war and voting changes, but crypto gets nothing",
+      "desc": "The budget plan's focus on defense and voter rules, excluding crypto, may strain federal finances and delay crypto legislative progress.\nThe post House Republicans unveil $95B budget plan for Iran war and voting changes, but crypto gets nothing appeared first…",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/explosions-reported-near-us-military-base-in-bahrain-amid-iran-conflict/",
-      "time": "2026-07-15T19:56:10",
+      "url": "https://cryptobriefing.com/house-republicans-95b-budget-crypto-absent/",
+      "time": "2026-07-15T20:52:50",
       "country": "Iran",
-      "title_ur": "ایران تنازع کے درمیان بحرین میں امریکی فوجی اڈے کے قریب دھماکوں کی اطلاع ہے۔",
-      "desc_ur": "بڑھتی ہوئی کشیدگی خلیجی استحکام میں خلل ڈال سکتی ہے، امریکہ-ایران امن کے امکانات کو روک سکتی ہے، اور آبنائے ہرمز کے ذریعے سمندری تجارت کو خطرے میں ڈال سکتی ہے۔\nThe post ایران تنازع کے درمیان بحرین میں امریکی فوجی اڈے کے قریب دھماکوں کی اطلاع appeared first on Crypto Briefing."
+      "title_ur": "ہاؤس ریپبلکنز نے ایران جنگ اور ووٹنگ میں تبدیلیوں کے لیے $95B بجٹ کے منصوبے کی نقاب کشائی کی، لیکن کرپٹو کو کچھ نہیں ملا",
+      "desc_ur": "کرپٹو کو چھوڑ کر دفاعی اور ووٹر کے قواعد پر بجٹ پلان کی توجہ وفاقی مالیات کو دبا سکتی ہے اور کرپٹو قانون سازی کی پیش رفت میں تاخیر کر سکتی ہے۔\nThe post ہاؤس ریپبلکنز نے ایران جنگ اور ووٹنگ میں تبدیلیوں کے لیے 95 بلین ڈالر کے بجٹ کے منصوبے کی نقاب کشائی کی، لیکن کرپٹو کو کچھ نہیں ملا appeared first on…"
     },
     {
-      "title": "AI slop movies are the new direct-to-video cash grabs",
-      "desc": "This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey. It's on track to rake in anywhere between $80-$100 million in just a few days. People are clearly excited to…",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
-      "time": "2026-07-15T19:55:15",
-      "country": "US",
-      "title_ur": "AI سلوپ موویز نئی ڈائریکٹ ٹو ویڈیو کیش گریبس ہیں۔",
-      "desc_ur": "اس ہفتے کے آخر میں، دنیا بھر کے سینی فیلز کرسٹوفر نولان کے The Odyssey کے نئے موافقت پر اپنی نظریں دیکھنے کے لیے اپنے مقامی تھیٹروں کا رخ کریں گے۔ یہ صرف چند دنوں میں $80-$100 ملین کے درمیان کہیں بھی حاصل کرنے کے راستے پر ہے۔ لوگ واضح طور پر پرجوش ہیں…"
+      "title": "103 House Democrats vote to cut U.S. aid to Israel in landmark symbolic vote",
+      "desc": "The amendment sponsored by Rep. Thomas Massie (R-Ken.) failed to pass, but revealed the shift in the Democratic Party's consensus on U.S.-Israel relations.",
+      "source": "Haaretz",
+      "url": "https://www.haaretz.com/us-news/2026-07-15/ty-article/.premium/103-house-democrats-vote-to-cut-u-s-aid-to-israel-in-landmark-symbolic-vote/0000019f-6725-d0b9-ab9f-777d03090000",
+      "time": "2026-07-15T20:51:26",
+      "country": "Israel",
+      "title_ur": "103 ہاؤس ڈیموکریٹس نے تاریخی علامتی ووٹ میں اسرائیل کے لیے امریکی امداد میں کمی کے حق میں ووٹ دیا۔",
+      "desc_ur": "Rep. Thomas Massie (R-Ken.) کی طرف سے سپانسر کردہ ترمیم پاس ہونے میں ناکام رہی، لیکن اس نے امریکہ اسرائیل تعلقات پر ڈیموکریٹک پارٹی کے اتفاق رائے میں تبدیلی کا انکشاف کیا۔"
     },
     {
-      "title": "Where to board a Noida Airport bus and when to find one? It’s pure guesswork for commuters",
-      "desc": "Noida’s new e-bus service to Noida International Airport faces delays and confusion due to no designated stops, timetable or app, plus charging infrastructure issues.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/noida/where-to-board-a-noida-airport-bus-and-when-to-find-one-its-pure-guesswork-for-commuters/articleshow/132424740.cms",
-      "time": "2026-07-15T19:55:05",
-      "country": "US",
-      "title_ur": "نوئیڈا ہوائی اڈے کی بس میں کہاں سوار ہونا ہے اور کب تلاش کرنا ہے؟ یہ مسافروں کے لیے خالص اندازہ ہے۔",
-      "desc_ur": "نوئیڈا بین الاقوامی ہوائی اڈے کے لیے نوئیڈا کی نئی ای-بس سروس کو کسی مخصوص اسٹاپ، ٹائم ٹیبل یا ایپ کے علاوہ چارجنگ انفراسٹرکچر کے مسائل کی وجہ سے تاخیر اور الجھنوں کا سامنا ہے۔"
-    },
-    {
-      "title": "Trump: Iran eager to settle with US amid fragile ceasefire",
-      "desc": "Potential US-Iran diplomatic progress could stabilize regional tensions and influence global markets, despite mixed sentiment on a formal deal.\nThe post Trump: Iran eager to settle with US amid fragile ceasefire appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/trump-iran-eager-to-settle-with-us-amid-fragile-ceasefire/",
-      "time": "2026-07-15T19:54:23",
+      "title": "JD Vance warns Joe Rogan a full Iran war would flood West with refugees, terrorists",
+      "desc": "Vice President JD Vance told Joe Rogan that a Republican faction is trying to derail the Iran deal, warning of a refugee crisis if regime change occurs.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/media/jd-vance-warns-joe-rogan-full-iran-war-would-flood-west-refugees-terrorists",
+      "time": "2026-07-15T20:50:56",
       "country": "Iran",
-      "title_ur": "ٹرمپ: ایران نازک جنگ بندی کے درمیان امریکہ کے ساتھ تصفیہ کے لیے بے چین ہے۔",
-      "desc_ur": "باضابطہ معاہدے پر ملے جلے جذبات کے باوجود، ممکنہ امریکی ایران سفارتی پیش رفت علاقائی کشیدگی کو مستحکم کر سکتی ہے اور عالمی منڈیوں کو متاثر کر سکتی ہے۔\nThe post ٹرمپ: ایران نازک جنگ بندی کے درمیان امریکا کے ساتھ سمجھوتہ کرنے کا خواہشمند appeared first on Crypto Briefing."
+      "title_ur": "جے ڈی وینس نے جو روگن کو خبردار کیا کہ ایران کی مکمل جنگ مغرب کو پناہ گزینوں، دہشت گردوں سے بھر دے گی۔",
+      "desc_ur": "نائب صدر جے ڈی وینس نے جو روگن کو بتایا کہ ایک ریپبلکن دھڑا ایران معاہدے کو پٹڑی سے اتارنے کی کوشش کر رہا ہے، حکومت کی تبدیلی کی صورت میں مہاجرین کے بحران کا انتباہ۔"
     },
     {
-      "title": "Iran War Latest: U.S. carries out new wave of strikes in escalating battle over Strait of Hormuz - CBS News",
-      "desc": "Iran War Latest: U.S. carries out new wave of strikes in escalating battle over Strait of HormuzCBS News Trump Leans Toward Expanding U.S. Military Operations in IranWSJ U.S. Strikes Hit Tiny, Disputed Island in Strait of HormuzThe New York Times Iran war liv…",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184472270",
-      "time": "2026-07-15T19:53:28",
-      "country": "Iran",
-      "title_ur": "ایران کی تازہ ترین جنگ: امریکہ نے آبنائے ہرمز پر بڑھتی ہوئی لڑائی میں حملوں کی نئی لہر شروع کر دی - CBS News",
-      "desc_ur": "ایران جنگ تازہ ترین: امریکہ نے آبنائے ہرمز پر بڑھتی ہوئی جنگ میں حملوں کی نئی لہر کی سی بی ایس نیوز ٹرمپ ایران میں امریکی فوجی کارروائیوں کو بڑھانے کی طرف جھکاؤ ڈبلیو ایس جے یو ایس سٹرائیکس ہٹ ٹنی، متنازعہ جزیرہ آبنائے ہرمز نیویارک ٹائمز ایران جنگ زندہ باد…"
+      "title": "Space Force faces budget uncertainty as leader plans exit next month",
+      "desc": "Gen. Chance Saltzman sets his retirement as the service’s top budget priorities face cuts, scrutiny.",
+      "source": "Defense One",
+      "url": "https://www.defenseone.com/policy/2026/07/space-force-budget-retirement/414796/",
+      "time": "2026-07-15T20:50:38",
+      "country": "International",
+      "title_ur": "خلائی فورس کو بجٹ کی غیر یقینی صورتحال کا سامنا ہے کیونکہ لیڈر اگلے ماہ باہر نکلنے کا ارادہ رکھتا ہے۔",
+      "desc_ur": "جنرل چانس سالٹزمین اپنی ریٹائرمنٹ کا تعین کرتے ہیں کیونکہ سروس کی اولین بجٹ ترجیحات میں کٹوتیوں، جانچ پڑتال کا سامنا کرنا پڑتا ہے۔"
     },
     {
-      "title": "Two Supreme Court Justices Testified Before the Senate. Their Differing Views on Ethics Reform Were Telling.",
-      "desc": "On Tuesday, Justices Elena Kagan and Amy Coney Barrett testified before Congress, seeking a $14 million budget increase for security measures.",
-      "source": "Slate Magazine",
-      "url": "https://slate.com/news-and-politics/2026/07/supreme-court-justices-senate-barrett-kagan-ethics.html",
-      "time": "2026-07-15T19:52:31",
+      "title": "Wall St ends higher on cool inflation data, strong earnings",
+      "desc": "The Dow Jones Industrial Average rose 150.91 points, or 0.29 per cent, to 52,659.18. Read more at straitstimes.com. Read more at straitstimes.com.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/business/companies-markets/wall-st-ends-higher-on-cool-inflation-data-strong-earnings",
+      "time": "2026-07-15T20:48:56",
       "country": "US",
-      "title_ur": "سپریم کورٹ کے دو ججز نے سینیٹ کے سامنے گواہی دی۔ اخلاقی اصلاحات پر ان کے مختلف خیالات بتا رہے تھے۔",
-      "desc_ur": "منگل کو، جسٹس ایلینا کاگن اور ایمی کونی بیرٹ نے کانگریس کے سامنے گواہی دی، حفاظتی اقدامات کے لیے 14 ملین ڈالر کے بجٹ میں اضافے کا مطالبہ کیا۔"
+      "title_ur": "وال سینٹ ٹھنڈی افراط زر کے اعداد و شمار، مضبوط آمدنی پر زیادہ ختم ہوتا ہے۔",
+      "desc_ur": "ڈاؤ جونز انڈسٹریل ایوریج 150.91 پوائنٹس یا 0.29 فیصد اضافے کے ساتھ 52,659.18 پر پہنچ گئی۔ straitstimes.com پر مزید پڑھیں۔ straitstimes.com پر مزید پڑھیں۔"
     },
     {
-      "title": "ATM cash-out trail leads to arrest of cyber fraudsters in Balrampur",
-      "desc": "UP Police Operation Cy-Vajra: Balrampur cops arrest two for ₹4.78 lakh cyber loan fraud posing as bank officials; fake ID and forged Aadhaar recovered.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/lucknow/atm-cash-out-trail-leads-to-arrest-of-cyber-fraudsters-in-balrampur/articleshow/132424712.cms",
-      "time": "2026-07-15T19:51:02",
-      "country": "International",
-      "title_ur": "اے ٹی ایم کیش آؤٹ ٹریل بلرام پور میں سائبر فراڈ کرنے والوں کی گرفتاری کا باعث بنی۔",
-      "desc_ur": "یوپی پولیس آپریشن سائ-وجرا: بلرام پور پولیس نے ₹ 4.78 لاکھ سائبر لون فراڈ کے الزام میں دو کو گرفتار کیا جو بینک کے اہلکار ظاہر کرتے ہیں؛ جعلی آئی ڈی اور جعلی آدھار برآمد۔"
+      "title": "House Democrats fracture badly over Massie amendment to cut $3.3B in U.S. aid to Israel",
+      "desc": "House Democrats split sharply as Hakeem Jeffries and Katherine Clark took opposing sides on Thomas Massie's amendment to cut $3.3 billion in aid to Israel.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/house-democrats-fracture-massie-amendment-cut-3-3b-us-aid-israel",
+      "time": "2026-07-15T20:46:44",
+      "country": "Israel",
+      "title_ur": "اسرائیل کے لیے امریکی امداد میں 3.3 بلین ڈالر کی کٹوتی کے لیے میسی ترمیم پر ہاؤس ڈیموکریٹس بری طرح ٹوٹ گئے",
+      "desc_ur": "ہاؤس ڈیموکریٹس تیزی سے تقسیم ہو گئے جب حکیم جیفریز اور کیتھرین کلارک نے تھامس میسی کی طرف سے اسرائیل کی امداد میں 3.3 بلین ڈالر کی کٹوتی کے مخالف فریق بنائے۔"
     },
     {
-      "title": "Missing 18-year-old found dead; Police say friends abandoned him after accident",
-      "desc": "Lucknow teen’s disappearance turns murder probe: police arrest married woman and husband, allege he was abandoned after Barabanki bike crash over affair.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/lucknow/missing-18-year-old-found-dead-police-say-friends-abandoned-him-after-accident/articleshow/132424711.cms",
-      "time": "2026-07-15T19:50:59",
-      "country": "US",
-      "title_ur": "لاپتہ 18 سالہ نوجوان مردہ پایا گیا؛ پولیس کا کہنا ہے کہ دوستوں نے حادثے کے بعد اسے چھوڑ دیا۔",
-      "desc_ur": "لکھنؤ کے نوجوان کی گمشدگی نے قتل کی تحقیقات کا رخ موڑ دیا: پولیس نے شادی شدہ خاتون اور شوہر کو گرفتار کیا، الزام ہے کہ اسے بارہ بنکی بائک حادثے کے بعد چھوڑ دیا گیا تھا۔"
+      "title": "What are the obstacles to peace between Israel and Lebanon?",
+      "desc": "Another round of talks is under way between Israel and Lebanon to try to advance the ceasefire agreement.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/15/what-are-the-obstacles-to-peace-between-israel-and-lebanon",
+      "time": "2026-07-15T20:46:03",
+      "country": "Israel",
+      "title_ur": "اسرائیل اور لبنان کے درمیان امن کی راہ میں کیا رکاوٹیں ہیں؟",
+      "desc_ur": "اسرائیل اور لبنان کے درمیان جنگ بندی کے معاہدے کو آگے بڑھانے کی کوشش کے لیے مذاکرات کا ایک اور دور جاری ہے۔"
     },
     {
-      "title": "BBAU opens admissions; online registration till July 30",
-      "desc": "BBAU starts online registration for UG and diploma admissions 2026–27 after CUET-UG results. Apply by July 30; till Aug 5 with ₹1,000 late fee. Helpline: 1800-180-5789.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/lucknow/bbau-opens-admissions-online-registration-till-july-30/articleshow/132424709.cms",
-      "time": "2026-07-15T19:50:54",
-      "country": "International",
-      "title_ur": "BBAU داخلے کھولتا ہے؛ 30 جولائی تک آن لائن رجسٹریشن",
-      "desc_ur": "BBAU نے CUET-UG کے نتائج کے بعد UG اور ڈپلومہ داخلوں 2026-27 کے لیے آن لائن رجسٹریشن شروع کر دی ہے۔ 30 جولائی تک اپلائی کریں۔ 5 اگست تک 1,000 لیٹ فیس کے ساتھ۔ ہیلپ لائن: 1800-180-5789۔"
-    },
-    {
-      "title": "KMCLU to launch PG diploma in archives management",
-      "desc": "KMCLU to launch a one-year PG diploma in Archives and Records Management from 2026-27, offering 30 seats with practical training aligned with NEP 2020.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/lucknow/kmclu-to-launch-pg-diploma-in-archives-management/articleshow/132424708.cms",
-      "time": "2026-07-15T19:50:52",
-      "country": "International",
-      "title_ur": "کے ایم سی ایل یو آرکائیوز مینجمنٹ میں پی جی ڈپلومہ شروع کرے گا۔",
-      "desc_ur": "KMCLU 2026-27 سے آرکائیوز اور ریکارڈ مینجمنٹ میں ایک سالہ PG ڈپلومہ شروع کرے گا، جس میں NEP 2020 کے ساتھ منسلک عملی تربیت کے ساتھ 30 نشستیں پیش کی جائیں گی۔"
-    },
-    {
-      "title": "Young innovator’s death: Kin say he had a dispute with Noida man over drone project",
-      "desc": "Family of 22-year-old drone scientist Rahul Singh found dead in Lucknow hotel alleges death threats tied to ₹85 lakh project dispute; police await forensic results.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/lucknow/young-innovators-death-kin-say-he-had-a-dispute-with-noida-man-over-drone-project/articleshow/132424707.cms",
-      "time": "2026-07-15T19:50:49",
-      "country": "International",
-      "title_ur": "نوجوان اختراعی کی موت: رشتہ داروں کا کہنا ہے کہ اس کا نوئیڈا کے آدمی سے ڈرون پروجیکٹ پر تنازعہ تھا۔",
-      "desc_ur": "لکھنؤ کے ہوٹل میں مردہ پائے جانے والے 22 سالہ ڈرون سائنسدان راہول سنگھ کے اہل خانہ کا الزام ہے کہ 85 لاکھ روپے کے پروجیکٹ کے تنازع سے جان سے مارنے کی دھمکیاں مل رہی ہیں۔ پولیس فرانزک نتائج کا انتظار کر رہی ہے۔"
-    },
-    {
-      "title": "Maintain dignity & tradition of SGPGI convocation: Faculty forum to director",
-      "desc": "SGPGIMS Faculty Forum urges Director Prof Radha Krishan Dhiman to restore convocation traditions, set a fixed date, and keep focus on students.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/lucknow/maintain-dignity-tradition-of-sgpgi-convocation-faculty-forum-to-director/articleshow/132424705.cms",
-      "time": "2026-07-15T19:50:44",
-      "country": "US",
-      "title_ur": "ایس جی پی جی آئی کانووکیشن کے وقار اور روایت کو برقرار رکھیں: فیکلٹی فورم ٹو ڈائریکٹر",
-      "desc_ur": "ایس جی پی جی آئی ایم ایس فیکلٹی فورم نے ڈائریکٹر پروفیسر رادھا کرشن دھیمان پر زور دیا کہ وہ کانووکیشن کی روایات کو بحال کریں، ایک مقررہ تاریخ مقرر کریں، اور طلبہ پر توجہ مرکوز رکھیں۔"
+      "title": "Russia Shifts Its Focus to the Black Sea",
+      "desc": "Moscow is targeting trade routes and deepwater ports to strain Ukraine’s wartime economy.",
+      "source": "Foreign Policy",
+      "url": "http://foreignpolicy.com/2026/07/15/russia-ukraine-war-strikes-black-sea-ports-odesa-zelensky-koretskyi-fedorov/",
+      "time": "2026-07-15T20:45:20",
+      "country": "Russia",
+      "title_ur": "روس نے اپنی توجہ بحیرہ اسود کی طرف موڑ دی ہے۔",
+      "desc_ur": "ماسکو یوکرین کی جنگ کے وقت کی معیشت کو دبانے کے لیے تجارتی راستوں اور گہرے پانی کی بندرگاہوں کو نشانہ بنا رہا ہے۔"
     }
   ],
   "pakistan": [
     {
-      "title": "​Air India Express to ​launch ​direct Lucknow–Abu Dhabi flights from ​today",
-      "desc": "Air India Express launches daily direct Lucknow–Abu Dhabi flights from today, adding a second nonstop option alongside IndiGo and improving UAE connectivity.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/lucknow/air-india-express-to-launch-direct-lucknowabu-dhabi-flights-from-today/articleshow/132424706.cms",
-      "time": "2026-07-15T19:50:46",
+      "title": "China and Xi favored over US and Trump in many nations: Survey",
+      "desc": "The change is driven by improved perceptions of China and declining views of the United States.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/15/g-s1-133827/china-and-xi-favored-over-us-and-trump-in-many-nations-survey",
+      "time": "2026-07-15T20:34:30",
       "country": "Pakistan",
-      "title_ur": "ایئر انڈیا ایکسپریس آج سے لکھنؤ-ابوظہبی کے لیے براہ راست پروازیں شروع کرے گی",
-      "desc_ur": "ایئر انڈیا ایکسپریس نے آج سے روزانہ براہ راست لکھنؤ-ابوظہبی پروازیں شروع کیں، جس میں انڈیگو کے ساتھ دوسرا نان اسٹاپ آپشن شامل کیا گیا اور متحدہ عرب امارات کے رابطے کو بہتر بنایا گیا۔"
+      "title_ur": "چین اور شی نے کئی ممالک میں امریکہ اور ٹرمپ کی حمایت کی: سروے",
+      "desc_ur": "چین کے بارے میں بہتر تاثرات اور امریکہ کے بارے میں زوال پذیر نظریات کی وجہ سے یہ تبدیلی ہے۔"
+    },
+    {
+      "title": "Pakistani Strikes in Afghanistan Raise Civilian Casualty Concerns",
+      "desc": "Click to expand Image\n \n\n\n\n \n \n \n\n \n \n \n \n Residents walk through the rubble from Pakistani airstrikes that killed civilians in the village of Mandokhail, Chamkani district, Afghanistan, June 29, 2026.\n © 2026 Saifullah Zahir/AP Photo \n \n \n\n\n \nOn June 29, Pak…",
+      "source": "Human Rights Watch",
+      "url": "https://www.hrw.org/news/2026/07/15/pakistani-strikes-in-afghanistan-raise-civilian-casualty-concerns",
+      "time": "2026-07-15T20:18:02",
+      "country": "Pakistan",
+      "title_ur": "افغانستان میں پاکستانی حملوں سے شہری ہلاکتوں کے خدشات بڑھ گئے ہیں۔",
+      "desc_ur": "تصویر کو پھیلانے کے لیے کلک کریں۔\n \n\n\n\n \n \n \n\n \n \n \n \n 29 جون 2026 کو افغانستان کے چمکنی ضلع کے مندوخیل گاؤں میں شہری پاکستانی فضائی حملوں کے ملبے سے گزر رہے ہیں۔\n © 2026 سیف اللہ ظاہر/اے پی تصویر \n \n \n\n\n \n29 جون کو، پاک…"
+    },
+    {
+      "title": "Trump predicts $55 oil if Iran tensions ease",
+      "desc": "Easing Iran tensions could stabilize geopolitical landscapes, potentially lowering oil prices, but market skepticism suggests challenges ahead.\nThe post Trump predicts $55 oil if Iran tensions ease appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/trump-predicts-55-oil-if-iran-tensions-ease/",
+      "time": "2026-07-15T20:14:23",
+      "country": "Pakistan",
+      "title_ur": "ٹرمپ نے پیش گوئی کی ہے کہ اگر ایران کشیدگی کم ہوتی ہے تو تیل 55 ڈالر ہوگا۔",
+      "desc_ur": "ایران میں کشیدگی کو کم کرنے سے جغرافیائی سیاسی منظرنامے مستحکم ہو سکتے ہیں، ممکنہ طور پر تیل کی قیمتیں کم ہو سکتی ہیں، لیکن مارکیٹ میں شکوک و شبہات آگے بڑھنے والے چیلنجوں کی نشاندہی کرتے ہیں۔\nThe post ٹرمپ نے ایران میں کشیدگی کم ہونے پر 55 ڈالر تیل کی پیش گوئی کر دی appeared first on Crypto Briefing."
     }
   ],
   "business": {
