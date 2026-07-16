@@ -1,167 +1,197 @@
 {
-  "generated": "2026-07-16T02:01:44Z",
+  "generated": "2026-07-16T05:24:01Z",
   "world": [
     {
-      "title": "BigBasket’s profitability plan; UnifyApps eyes $100 million funding",
-      "desc": "Happy Wednesday! BigBasket is slashing its operational footprint to stay relevant in the quick commerce race. This and more in today’s ETech Morning Dispatch.",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/bigbaskets-profitability-plan-unifyapps-eyes-100-million-funding/articleshow/132403821.cms",
-      "time": "2026-07-15T01:58:08",
+      "title": "Bitcoin nears $65,000 as cooling U.S. inflation guts the Fed rate-hike trade",
+      "desc": "The June CPI print  pulled hike odds from 43% to 13%, with analysts now watching the September FOMC meeting for further cues on positioning.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/15/bitcoin-tops-usd64-000-as-cooling-u-s-inflation-guts-the-fed-rate-hike-trade",
+      "time": "2026-07-15T05:19:14",
       "country": "International",
-      "title_ur": "بگ باسکٹ کا منافع بخش منصوبہ؛ UnifyApps کی نظریں $100 ملین فنڈنگ ​​پر ہیں۔",
-      "desc_ur": "بدھ مبارک! بگ باسکٹ فوری کامرس کی دوڑ میں متعلقہ رہنے کے لیے اپنے آپریشنل فٹ پرنٹ کو کم کر رہا ہے۔ یہ اور مزید آج کے ETech مارننگ ڈسپیچ میں۔"
+      "title_ur": "Bitcoin $65,000 کے قریب ہے کیونکہ امریکی افراط زر کو ٹھنڈا کرنے سے Fed کی شرح میں اضافے کی تجارت کی حوصلہ افزائی ہوتی ہے",
+      "desc_ur": "جون سی پی آئی پرنٹ نے اضافے کی مشکلات کو 43٪ سے 13٪ تک کھینچ لیا، تجزیہ کار اب پوزیشننگ پر مزید اشارے کے لئے ستمبر FOMC میٹنگ کو دیکھ رہے ہیں۔"
     },
     {
-      "title": "Iran keeps Strait of Hormuz closed, impacting oil prices amid US tensions",
-      "desc": "The closure of the Strait of Hormuz could lead to sustained oil price volatility, affecting global energy markets and economic stability.\nThe post Iran keeps Strait of Hormuz closed, impacting oil prices amid US tensions appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-keeps-strait-of-hormuz-closed-impacting-oil-prices-amid-us-tensions/",
-      "time": "2026-07-15T01:56:49",
-      "country": "Iran",
-      "title_ur": "ایران نے آبنائے ہرمز کو بند کر رکھا ہے جس سے امریکی کشیدگی کے درمیان تیل کی قیمتوں پر اثر پڑا ہے۔",
-      "desc_ur": "آبنائے ہرمز کی بندش تیل کی قیمتوں میں مسلسل اتار چڑھاؤ کا باعث بن سکتی ہے، جس سے توانائی کی عالمی منڈیوں اور اقتصادی استحکام متاثر ہو سکتا ہے۔\nThe post ایران نے آبنائے ہرمز بند رکھا، امریکی کشیدگی کے درمیان تیل کی قیمتوں پر اثر appeared first on Crypto Briefing."
-    },
-    {
-      "title": "Dollar struggles as softer inflation dims Fed hike bets",
-      "desc": "The dollar weakened significantly after softer inflation data emerged on Wednesday. This data curbed expectations for an immediate Federal Reserve interest rate hike. However, elevated oil prices continue to pose potential inflation risks for the economy. Bon…",
+      "title": "Tehran threatens to halt all Mideast energy exports after US reimposes its blockade on Iran",
+      "desc": "The United States reimposed a blockade on Iranian ports over ship attacks. Iran retaliated with strikes on nations hosting American forces. This escalation threatens to push the region back toward full-scale war. Talks over Iran's nuclear program have stalled…",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-struggles-as-softer-inflation-dims-fed-hike-bets/articleshow/132403946.cms",
-      "time": "2026-07-15T01:56:18",
-      "country": "International",
-      "title_ur": "ڈالر جدوجہد کر رہا ہے کیونکہ نرم افراط زر نے فیڈ میں اضافے کی شرط کو مدھم کر دیا ہے۔",
-      "desc_ur": "بدھ کو مہنگائی کے نرم اعداد و شمار سامنے آنے کے بعد ڈالر نمایاں طور پر کمزور ہوا۔ اس ڈیٹا نے فیڈرل ریزرو کی شرح سود میں فوری اضافے کی توقعات کو روک دیا۔ تاہم، تیل کی بڑھتی ہوئی قیمتیں معیشت کے لیے ممکنہ افراط زر کے خطرات کو لاحق ہیں۔ بون…"
-    },
-    {
-      "title": "Trump Threatens Iran’s Bridges and Power Plants",
-      "desc": "“President Trump on Tuesday reassumed a belligerent posture toward Iran that echoed his stance at the war’s outset, threatening to destroy civilian infrastructure and refusing to rule out a ground invasion,” the New York Times reports. “In the latest sign tha…",
-      "source": "Politicalwire.com",
-      "url": "https://politicalwire.com/2026/07/14/trump-threatens-irans-bridges-and-power-plants/",
-      "time": "2026-07-15T01:56:04",
+      "url": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/tehran-threatens-to-halt-all-mideast-energy-exports-after-us-reimposes-its-blockade-on-iran/articleshow/132406957.cms",
+      "time": "2026-07-15T05:17:45",
       "country": "Iran",
-      "title_ur": "ٹرمپ کی ایران کے پلوں اور پاور پلانٹس کو دھمکی",
-      "desc_ur": "نیو یارک ٹائمز کی رپورٹ کے مطابق \"صدر ٹرمپ نے منگل کو ایران کے خلاف ایک جنگجوانہ انداز دوبارہ شروع کیا جو جنگ کے آغاز میں ان کے موقف کی بازگشت کرتا تھا، شہری انفراسٹرکچر کو تباہ کرنے کی دھمکی دیتا تھا اور زمینی حملے کو مسترد کرنے سے انکار کرتا تھا۔\" \"تازہ ترین نشانی میں ..."
+      "title_ur": "امریکا کی جانب سے ایران پر دوبارہ پابندیاں عائد کرنے کے بعد تہران نے مشرق وسطیٰ کی توانائی کی تمام برآمدات روکنے کی دھمکی دی ہے۔",
+      "desc_ur": "امریکہ نے بحری جہازوں پر حملوں پر ایرانی بندرگاہوں پر دوبارہ ناکہ بندی کر دی۔ ایران نے امریکی افواج کی میزبانی کرنے والے ممالک پر حملوں کا جواب دیا۔ اس کشیدگی سے خطے کو دوبارہ مکمل جنگ کی طرف دھکیلنے کا خطرہ ہے۔ ایران کے جوہری پروگرام پر مذاکرات تعطل کا شکار..."
     },
     {
-      "title": "Iran targets US Patriot system in Kuwait amid Gulf tensions",
-      "desc": "The escalating U.S.-Iran tensions risk prolonged Gulf instability, impacting global oil markets and complicating diplomatic resolutions.\nThe post Iran targets US Patriot system in Kuwait amid Gulf tensions appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-targets-us-patriot-system-in-kuwait-amid-gulf-tensions/",
-      "time": "2026-07-15T01:55:55",
-      "country": "Iran",
-      "title_ur": "خلیجی کشیدگی کے درمیان ایران نے کویت میں امریکی پیٹریاٹ سسٹم کو نشانہ بنایا",
-      "desc_ur": "بڑھتی ہوئی امریکہ ایران کشیدگی خلیجی عدم استحکام کو طویل عرصے تک خطرے میں ڈال رہی ہے، عالمی تیل کی منڈیوں کو متاثر کر رہی ہے اور سفارتی قراردادوں کو پیچیدہ بنا رہی ہے۔\nThe post خلیجی کشیدگی کے درمیان ایران نے کویت میں امریکی پیٹریاٹ سسٹم کو نشانہ بنایا appeared first on Crypto Briefing."
-    },
-    {
-      "title": "Bahrain activates sirens, Kuwait intercepts Iranian drones amid Gulf tensions",
-      "desc": "Escalating Gulf tensions risk destabilizing regional security and markets, potentially impacting global energy supplies and geopolitical alliances.\nThe post Bahrain activates sirens, Kuwait intercepts Iranian drones amid Gulf tensions appeared first on Crypto…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/bahrain-activates-sirens-kuwait-intercepts-iranian-drones-amid-gulf-tensions/",
-      "time": "2026-07-15T01:54:24",
-      "country": "Iran",
-      "title_ur": "خلیجی کشیدگی کے درمیان بحرین نے سائرن کو چالو کیا، کویت نے ایرانی ڈرون کو روکا",
-      "desc_ur": "خلیجی کشیدگی میں اضافے سے علاقائی سلامتی اور منڈیوں کو غیر مستحکم کرنے کا خطرہ ہے، ممکنہ طور پر عالمی توانائی کی فراہمی اور جغرافیائی سیاسی اتحاد پر اثر پڑے گا۔\nThe post بحرین نے سائرن کو چالو کردیا، خلیجی کشیدگی کے درمیان کویت نے ایرانی ڈرون کو روکا appeared first on Crypto…"
-    },
-    {
-      "title": "Iran destroys US-linked supply center in Kuwait amid rising tensions",
-      "desc": "Escalating military actions strain U.S.-Iran relations, diminishing prospects for a nuclear deal and complicating diplomatic negotiations.\nThe post Iran destroys US-linked supply center in Kuwait amid rising tensions appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-destroys-us-linked-supply-center-in-kuwait-amid-rising-tensions/",
-      "time": "2026-07-15T01:52:31",
-      "country": "Iran",
-      "title_ur": "ایران نے بڑھتی ہوئی کشیدگی کے درمیان کویت میں امریکہ سے منسلک سپلائی سینٹر تباہ کر دیا۔",
-      "desc_ur": "بڑھتی ہوئی فوجی کارروائیوں سے امریکہ اور ایران کے تعلقات کشیدہ ہو رہے ہیں، جوہری معاہدے کے امکانات کم ہو رہے ہیں اور سفارتی مذاکرات پیچیدہ ہو رہے ہیں۔\nThe post ایران نے بڑھتی کشیدگی کے درمیان کویت میں امریکا سے منسلک سپلائی سینٹر تباہ کردیا appeared first on Crypto Briefing."
-    },
-    {
-      "title": "US holds Iran 'accountable' for deaths of commercial vessel crew, says 7 ships targeted",
-      "desc": "United States Central Command has held Iran accountable for recent attacks on commercial vessels. Iranian forces deliberately targeted seven commercial ships, causing crew casualties over the past week. The US military has reinstated a naval blockade targetin…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-holds-iran-accountable-for-deaths-of-commercial-vessel-crew-says-7-ships-targeted/articleshow/132403881.cms",
-      "time": "2026-07-15T01:50:46",
-      "country": "Iran",
-      "title_ur": "تجارتی بحری جہاز کے عملے کی ہلاکتوں کے لیے امریکا نے ایران کو ذمہ دار ٹھہرایا، 7 جہازوں کو نشانہ بنایا",
-      "desc_ur": "امریکی سینٹرل کمانڈ نے تجارتی جہازوں پر حالیہ حملوں کے لیے ایران کو ذمہ دار ٹھہرایا ہے۔ ایرانی فورسز نے جان بوجھ کر سات تجارتی بحری جہازوں کو نشانہ بنایا جس سے عملے کی ہلاکتیں گزشتہ ہفتے کے دوران ہوئیں۔ امریکی فوج نے بحری ناکہ بندی کے ہدف کو بحال کر دیا ہے…"
-    },
-    {
-      "title": "Dirk Eddelbuettel: qlcal 0.1.2 on CRAN: Fresh Upstream Updates",
-      "desc": "The twentieth release of the qlcal package\narrivied at CRAN today, and has\nbeen built for r2u.\nThis version synchronises with QuantLib 1.43 released today as\nwell.\nqlcal\ndelivers the calendaring parts of QuantLib. It is provided (for the R\npackage) as a set o…",
-      "source": "Eddelbuettel.com",
-      "url": "http://dirk.eddelbuettel.com/blog/2026/07/14/",
-      "time": "2026-07-15T01:49:00",
-      "country": "International",
-      "title_ur": "Dirk Eddelbuettel: CRAN پر qlcal 0.1.2: تازہ اپ اسٹریم اپڈیٹس",
-      "desc_ur": "qlcal پیکیج کی بیسویں ریلیز\nآج CRAN پر پہنچا، اور ہے۔\nr2u کے لیے بنایا گیا ہے۔\nیہ ورژن QuantLib 1.43 کے ساتھ مطابقت پذیر ہے جیسا کہ آج جاری کیا گیا ہے۔\nٹھیک ہے\nqlcal\nQuantLib کے کیلنڈرنگ حصے فراہم کرتا ہے۔ یہ فراہم کیا جاتا ہے (آر کے لئے\nپیکیج) ایک سیٹ کے طور پر…"
-    },
-    {
-      "title": "Trump's 'nonsense' betrayed his late loyalist's last crusade: ex-GOP operative",
-      "desc": "A former Republican strategist blasted President Donald Trump and his \"vandals\" for betraying Sen. Lindsey Graham's (R-SC) last crusade with \"nonsense.\"During an episode of The Warning, Steve Schmidt talked about how Trump is \"putting a great deal of money\" i…",
-      "source": "Raw Story",
-      "url": "https://www.rawstory.com/lindsey-graham-trump-russia/",
-      "time": "2026-07-15T01:43:25",
+      "title": "Trump teases bombshell announcement in address to the nation that's expected to uncover definitive evidence of voter fraud",
+      "desc": "The address will reveal declassified intelligence from investigations into US elections and damning vulnerabilities in voting machines.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-15978135/Trump-teases-bombshell-announcement-address-voter-fraud.html",
+      "time": "2026-07-15T05:14:16",
       "country": "US",
-      "title_ur": "ٹرمپ کی 'بکواس' نے اپنے مرحوم وفادار کی آخری صلیبی جنگ کو دھوکہ دیا: سابق GOP آپریٹو",
-      "desc_ur": "ایک سابق ریپبلکن حکمت عملی ساز نے صدر ڈونلڈ ٹرمپ اور ان کے \"بدمعاشوں\" کو سینیٹر لنڈسے گراہم (R-SC) کے آخری صلیبی جنگ کو \"بکواس\" کے ساتھ دھوکہ دیا۔ وارننگ کے ایک ایپی سوڈ کے دوران، اسٹیو شمٹ نے اس بارے میں بات کی کہ ٹرمپ کس طرح \"بہت زیادہ پیسہ لگا رہے ہیں\" میں…"
+      "title_ur": "ٹرمپ نے قوم سے خطاب میں بم شیل کے اعلان کو چھیڑا جس سے ووٹروں کی دھوکہ دہی کے قطعی ثبوتوں سے پردہ اٹھانے کی امید ہے",
+      "desc_ur": "ایڈریس امریکی انتخابات کی تحقیقات اور ووٹنگ مشینوں میں نقصان دہ خطرات سے متعلق خفیہ معلومات کو ظاہر کرے گا۔"
     },
     {
-      "title": "One-way 'speedboats with explosives' launched by US for first time",
-      "desc": "The United States is using one-way drone boats in combat against Iran for the first time in its military history. A defence expert says America is catching on to this \"cheaper and more effective\" tactic employed by Iran and Ukraine.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-07-15/us-uses-explosive-drone-speedboats-against-iran-for-first-time/106912714",
-      "time": "2026-07-15T01:36:07",
+      "title": "US reimposes Iran blockade as Hormuz tensions rise",
+      "desc": "The U.S. military reimposed a blockade on Iranian ports on July 15 after attacks on ships passing through the Strait of Hormuz, as tensions between Washington and Tehran again escalated across the region.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/us-reimposes-iran-blockade-as-hormuz-tensions-rise-224385",
+      "time": "2026-07-15T05:13:20",
       "country": "Iran",
-      "title_ur": "امریکہ کی طرف سے پہلی بار ایک طرفہ 'دھماکہ خیز مواد کے ساتھ سپیڈ بوٹس' لانچ کی گئیں۔",
-      "desc_ur": "امریکہ اپنی فوجی تاریخ میں پہلی بار ایران کے خلاف جنگ میں یک طرفہ ڈرون کشتیوں کا استعمال کر رہا ہے۔ ایک دفاعی ماہر کا کہنا ہے کہ امریکہ ایران اور یوکرین کی جانب سے استعمال کیے جانے والے اس \"سستے اور زیادہ موثر\" حربے کو پکڑ رہا ہے۔"
+      "title_ur": "امریکہ نے ہرمز کشیدگی میں اضافے کے بعد ایران کی ناکہ بندی دوبارہ کر دی۔",
+      "desc_ur": "امریکی فوج نے آبنائے ہرمز سے گزرنے والے بحری جہازوں پر حملوں کے بعد 15 جولائی کو ایرانی بندرگاہوں پر دوبارہ ناکہ بندی کر دی تھی، جب پورے خطے میں واشنگٹن اور تہران کے درمیان کشیدگی ایک بار پھر بڑھ گئی تھی۔"
     },
     {
-      "title": "US Strikes Iran Again, Restores Blockade",
-      "desc": "The US military said Tuesday that it has reimposed its blockade of Iranian ports in response to Iran's attacks on commercial ships in the Strait of Hormuz, as the interim ceasefire deal unravels and concerns grow about a return to all-out war. The US carried …",
-      "source": "Newser",
-      "url": "https://www.newser.com/story/392843/us-strikes-iran-again-restores-blockade.html",
-      "time": "2026-07-15T01:34:59",
+      "title": "'Let's Not Negotiate': Trump Uses Bizarre Logic After Renewed Strikes On Iran",
+      "desc": "The president also said he hasn’t ruled out a ground invasion of Iran.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/donald-trump-iran-dont-want-to-negotiate_n_6a56d699e4b0540b8c7b6990",
+      "time": "2026-07-15T05:09:56",
       "country": "Iran",
-      "title_ur": "امریکہ نے ایران پر دوبارہ حملہ کر دیا، ناکہ بندی بحال کر دی۔",
-      "desc_ur": "امریکی فوج نے منگل کو کہا کہ اس نے آبنائے ہرمز میں تجارتی بحری جہازوں پر ایران کے حملوں کے جواب میں ایرانی بندرگاہوں کی ناکہ بندی دوبارہ کر دی ہے، کیونکہ عبوری جنگ بندی کے معاہدے سے پردہ اٹھ گیا ہے اور تمام جنگ کی واپسی کے بارے میں خدشات بڑھ رہے ہیں۔ امریکہ نے لے…"
+      "title_ur": "'آئیے گفت و شنید نہ کریں': ٹرمپ نے ایران پر نئے سرے سے حملوں کے بعد عجیب و غریب منطق کا استعمال کیا",
+      "desc_ur": "صدر نے یہ بھی کہا کہ انہوں نے ایران پر زمینی حملے کو مسترد نہیں کیا ہے۔"
     },
     {
-      "title": "Trump threatens Iran power plants as US resumes blockade, airstrikes",
-      "desc": "The escalation risks a humanitarian crisis and could lead to a formal U.S. war declaration, impacting global markets and regional stability.\nThe post Trump threatens Iran power plants as US resumes blockade, airstrikes appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/trump-threatens-iran-power-plants-as-us-resumes-blockade-airstrikes/",
-      "time": "2026-07-15T01:31:36",
+      "title": "Rupee rises 5 paise to 96.11 against US dollar in early trade",
+      "desc": "Higher crude oil prices and FII outflows prevented a sharper rise in the local unit while a positive opening in the domestic equity markets lent support, forex traders said.",
+      "source": "Dtnext.in",
+      "url": "https://www.dtnext.in/news/business/rupee-rises-5-paise-to-9611-against-us-dollar-in-early-trade",
+      "time": "2026-07-15T05:05:38",
+      "country": "US",
+      "title_ur": "ابتدائی تجارت میں امریکی ڈالر کے مقابلے روپیہ 5 پیسے بڑھ کر 96.11 ہو گیا۔",
+      "desc_ur": "غیر ملکی کرنسی کے تاجروں نے کہا کہ خام تیل کی اونچی قیمتوں اور FII کے اخراج نے مقامی یونٹ میں تیزی سے اضافے کو روکا جبکہ گھریلو ایکویٹی مارکیٹوں میں مثبت آغاز نے مدد فراہم کی۔"
+    },
+    {
+      "title": "Trump wants to make daylight saving time permanent – but some fear the move would be a nightmare",
+      "desc": "The controversial bill has passed the House of Representatives and now heads to the Senate, where it will face stiff opposition.",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/trump-wants-to-make-daylight-saving-time-permanent-but-some-fear-the-move-would-be-a-nightmare-287501",
+      "time": "2026-07-15T05:05:17",
+      "country": "US",
+      "title_ur": "ٹرمپ دن کی روشنی میں بچت کے وقت کو مستقل بنانا چاہتے ہیں - لیکن کچھ کو خدشہ ہے کہ یہ اقدام ایک ڈراؤنا خواب ہو گا۔",
+      "desc_ur": "متنازعہ بل ایوان نمائندگان سے منظور ہو چکا ہے اور اب اسے سینیٹ میں جانا پڑے گا جہاں اسے سخت مخالفت کا سامنا کرنا پڑے گا۔"
+    },
+    {
+      "title": "Briton's Iran jail sentence extended by two years, family says",
+      "desc": "Craig and Lindsay Foreman were arrested on spying charges last January while passing through Iran on a motorcycle journey.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4gygp4pk31o",
+      "time": "2026-07-15T05:02:33",
       "country": "Iran",
-      "title_ur": "ٹرمپ نے ایران کے پاور پلانٹس کو دھمکی دی ہے کیونکہ امریکہ نے ناکہ بندی اور فضائی حملے دوبارہ شروع کیے ہیں۔",
-      "desc_ur": "اس اضافے سے انسانی بحران کا خطرہ ہے اور یہ امریکی جنگ کے باضابطہ اعلان کا باعث بن سکتا ہے، جس سے عالمی منڈیوں اور علاقائی استحکام پر اثر پڑے گا۔\nThe post ٹرمپ کی ایران کے پاور پلانٹس کو دھمکی، امریکا کی جانب سے دوبارہ ناکہ بندی، فضائی حملے appeared first on Crypto Briefing."
+      "title_ur": "اہل خانہ کا کہنا ہے کہ برطانوی ایرانی جیل کی سزا میں دو سال کی توسیع کر دی گئی ہے۔",
+      "desc_ur": "کریگ اور لنڈسے فورمین کو گزشتہ جنوری میں موٹر سائیکل کے سفر پر ایران سے گزرتے ہوئے جاسوسی کے الزام میں گرفتار کیا گیا تھا۔"
     },
     {
-      "title": "Mint Quick Edit | Inflation is clearly on the rise and RBI may need to re-examine its policy stance",
-      "desc": "Wholesale inflation rose to 9.9% in June while India’s retail inflation at 4.4% marked a 17-month high. This wouldn’t have surprised the Reserve Bank, but uncertainty over energy and food supplies may call for a stance review.",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/opinion/online-views/mint-quick-edit-retail-wholesale-inflation-rbi-policy-stance-reserve-bank-of-india-food-prices-11784036057843.html",
-      "time": "2026-07-15T01:30:59",
-      "country": "India",
-      "title_ur": "ٹکسال فوری ترمیم | افراط زر واضح طور پر بڑھ رہا ہے اور آر بی آئی کو اپنے پالیسی موقف کا از سر نو جائزہ لینے کی ضرورت پڑ سکتی ہے۔",
-      "desc_ur": "تھوک مہنگائی جون میں بڑھ کر 9.9 فیصد ہوگئی جبکہ ہندوستان کی خوردہ افراط زر 4.4 فیصد پر 17 ماہ کی بلند ترین سطح پر پہنچ گئی۔ اس سے ریزرو بینک کو حیرانی نہیں ہوئی ہوگی، لیکن توانائی اور خوراک کی فراہمی پر غیر یقینی صورتحال موقف کا جائزہ لے سکتی ہے۔"
+      "title": "Israel Adesanya Plays Matchmaker for Conor McGregor’s Return",
+      "desc": "UFC Hall of Famer Israel Adesanya played matchmaker for Conor McGregor’s return fight when he recovers from his knee injury.McGregor’s comeback to the UFC after five years away from the Octagon lasted just 69 seconds when he lost via injury TKO due to a knee …",
+      "source": "Heavy.com",
+      "url": "https://heavy.com/sports/ufc/israel-adesanya-plays-matchmaker-conor-mcgregor/",
+      "time": "2026-07-15T05:01:45",
+      "country": "Israel",
+      "title_ur": "کونور میک گریگور کی واپسی کے لیے اسرائیل ایڈیسانیا میچ میکر کا کردار ادا کر رہے ہیں۔",
+      "desc_ur": "UFC Hall of Famer Israel Adesanya نے Conor McGregor کی واپسی کی لڑائی کے لیے میچ میکر کا کردار ادا کیا جب وہ اپنے گھٹنے کی انجری سے صحت یاب ہو گئے تھے۔ Octagon سے پانچ سال دور رہنے کے بعد McGregor کی UFC میں واپسی صرف 69 سیکنڈ تک جاری رہی جب وہ گھٹنے کی چوٹ کی وجہ سے TKO سے ہار گئے …"
     },
     {
-      "title": "US supporting efforts to revive Iraq-Syria crude oil pipeline, US official says",
-      "desc": "The United States backs Iraq and Syria's pipeline revival efforts. This project aims to bypass the Strait of Hormuz for oil transport. American companies are expected to assist in rebuilding the Kirkuk-Baniyas pipeline. This initiative seeks to lessen Middle …",
+      "title": "Quote of the day by Angela Davis: 'In a racist society it is not enough to be non-racist, we must be...' - Women, Race & Class author's thought-provoking message on standing up against injustice",
+      "desc": "Angela Davis, a prominent activist, advocates for actively opposing racism. She emphasizes that mere non-racism is insufficient in a discriminatory society. Her lifelong work addresses racial justice, gender equality, and prison reform. Davis's writings and s…",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-supporting-efforts-to-revive-iraq-syria-crude-oil-pipeline-us-official-says/articleshow/132403776.cms",
-      "time": "2026-07-15T01:30:58",
-      "country": "Iraq",
-      "title_ur": "امریکی اہلکار کا کہنا ہے کہ امریکہ عراق-شام خام تیل کی پائپ لائن کو بحال کرنے کی کوششوں کی حمایت کر رہا ہے۔",
-      "desc_ur": "امریکہ عراق اور شام کی پائپ لائن کی بحالی کی کوششوں کی حمایت کرتا ہے۔ اس منصوبے کا مقصد تیل کی نقل و حمل کے لیے آبنائے ہرمز کو بائی پاس کرنا ہے۔ امریکی کمپنیوں سے کرکوک بنیاس پائپ لائن کی تعمیر نو میں مدد کی توقع ہے۔ یہ اقدام مشرق کو کم کرنے کی کوشش کرتا ہے…"
+      "url": "https://economictimes.indiatimes.com/news/international/canada/quote-of-the-day-by-angela-davis-in-a-racist-society-it-is-not-enough-to-be-non-racist-we-must-be-women-race-class-authors-thought-provoking-message-on-standing-up-against-injustice/articleshow/132406734.cms",
+      "time": "2026-07-15T05:00:14",
+      "country": "US",
+      "title_ur": "انجیلا ڈیوس کی طرف سے اس دن کا اقتباس: 'نسل پرست معاشرے میں غیر نسل پرست ہونا کافی نہیں ہے، ہمیں ہونا چاہیے...' - خواتین، نسل اور طبقے کے مصنف کا ناانصافی کے خلاف کھڑے ہونے پر فکر انگیز پیغام",
+      "desc_ur": "انجیلا ڈیوس، ایک ممتاز کارکن، نسل پرستی کی فعال طور پر مخالفت کی وکالت کرتی ہیں۔ وہ اس بات پر زور دیتی ہیں کہ امتیازی معاشرے میں محض غیر نسل پرستی ناکافی ہے۔ اس کا تاحیات کام نسلی انصاف، صنفی مساوات اور جیل میں اصلاحات پر توجہ دیتا ہے۔ ڈیوس کی تحریریں اور…"
+    },
+    {
+      "title": "Sharing Christ's Dominion - Evangelical Caucus/Devotional",
+      "desc": "\"You are . . . a royal priesthood\" (1 Pet. 2:9). Christians serve the King and will someday reign with Him in His Kingdom. In Exodus 19:5-6 God says to Israel, \"If you will indeed obey My voice and keep My covenant, then you shall be My own possession among a…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-religion/4388015/posts",
+      "time": "2026-07-15T05:00:05",
+      "country": "Israel",
+      "title_ur": "مسیح کی حکمرانی کا اشتراک کرنا - ایوینجلیکل کاکس/عقیدت",
+      "desc_ur": "\"آپ ... ایک شاہی کاہن ہیں\" (1 پطرس 2:9)۔ عیسائی بادشاہ کی خدمت کرتے ہیں اور کسی دن اس کی بادشاہی میں اس کے ساتھ حکومت کریں گے۔ خروج 19: 5-6 میں خدا اسرائیل سے کہتا ہے، \"اگر تم واقعی میری آواز کو مانو گے اور میرے عہد کو مانو گے، تو تم میری اپنی ملکیت ہو گے۔"
+    },
+    {
+      "title": "Darline Graham Nordone: sister of late senator Lindsey Graham steps up to the plate",
+      "desc": "‘Lindsey has always been there for me. Now I will be there for him,’ says newly sworn-in senator (62)",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/world/us/2026/07/15/darline-graham-nordone-sister-of-late-senator-lindsey-graham-steps-up-to-the-plate/",
+      "time": "2026-07-15T05:00:01",
+      "country": "International",
+      "title_ur": "ڈارلین گراہم نورڈون: آنجہانی سینیٹر لنڈسے گراہم کی بہن پلیٹ کی طرف بڑھ رہی ہیں۔",
+      "desc_ur": "'لنڈسی ہمیشہ میرے لئے موجود ہے۔ اب میں اس کے لیے حاضر ہوں گا،‘‘ نئے حلف اٹھانے والے سینیٹر کا کہنا ہے کہ (62)"
+    },
+    {
+      "title": "What time is England vs. Argentina? Live stream, TV channel, kickoff schedule for World Cup 2026 semifinal match",
+      "desc": "Here's everything you need to know to watch the England vs. Argentina World Cup semifinal match, including where to watch on TV or live stream, what time the game starts and more.",
+      "source": "Sporting News",
+      "url": "https://www.sportingnews.com/us/soccer/news/england-vs-argentina-time-live-stream-channel-schedule-world-cup/4b1b4de62453c74c6c8fe833",
+      "time": "2026-07-15T05:00:01",
+      "country": "International",
+      "title_ur": "انگلینڈ بمقابلہ ارجنٹائن کب ہے؟ لائیو سٹریم، ٹی وی چینل، ورلڈ کپ 2026 کے سیمی فائنل میچ کا کِک آف شیڈول",
+      "desc_ur": "انگلینڈ بمقابلہ ارجنٹائن ورلڈ کپ کا سیمی فائنل میچ دیکھنے کے لیے آپ کو جو کچھ جاننے کی ضرورت ہے وہ یہاں ہے، بشمول TV یا لائیو سٹریم پر کہاں دیکھنا ہے، کھیل کب شروع ہوتا ہے اور بہت کچھ۔"
+    },
+    {
+      "title": "Iran and US strike sites that signal how each is willing to raise the stakes",
+      "desc": "Few believe that the tit-for-tat violence will force either into a significant change of heart",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/07/15/iran-and-us-strike-sites-that-signal-how-each-is-willing-to-raise-the-stakes/",
+      "time": "2026-07-15T05:00:01",
+      "country": "Iran",
+      "title_ur": "ایران اور امریکہ کی سٹرائیک سائٹس جو اس بات کی نشاندہی کرتی ہیں کہ ہر ایک کس طرح داؤ پر لگانے کے لیے تیار ہے۔",
+      "desc_ur": "بہت کم لوگوں کو یقین ہے کہ ٹِٹ فار ٹیٹ تشدد یا تو دل کی ایک اہم تبدیلی پر مجبور کر دے گا۔"
+    },
+    {
+      "title": "Deportation flight to South Africa cost more than €1m",
+      "desc": "Charter flight in June deported 42 people who were escorted by 84 gardaí and medical team",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/politics/2026/07/15/deportation-flight-to-south-africa-cost-more-than-1m/",
+      "time": "2026-07-15T05:00:01",
+      "country": "International",
+      "title_ur": "جنوبی افریقہ کے لیے ملک بدری کی پرواز کی لاگت €1m سے زیادہ ہے۔",
+      "desc_ur": "جون میں چارٹر فلائٹ نے 42 افراد کو ملک بدر کیا جن کو 84 گارڈی اور میڈیکل ٹیم لے کر گئے تھے"
     }
   ],
   "pakistan": [
     {
-      "title": "India's European trade deals revive hopes for textile exporters",
-      "desc": "BENGALURU -- India's textile exporters are seeing orders pick up after months of uncertainty as trade agreements with the U.K. and the European Union improve the country's competitiveness against rivals such as Bangladesh and Pakistan.\nStart of UK agreement b…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/c7654a38e6cdef49",
-      "time": "2026-07-15T01:54:33",
+      "title": "Indian bonds gain as soft US inflation cools Fed rate hike bets",
+      "desc": "Indian government bonds saw gains as US inflation eased, reducing immediate rate hike fears.  Treasury yields declined, prompting a similar trend in Indian overnight index swap rates.  Markets largely overlooked rising oil prices and their impact on domestic …",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-gain-as-soft-us-inflation-cools-fed-rate-hike-bets/articleshow/132406990.cms",
+      "time": "2026-07-15T05:20:08",
       "country": "Pakistan",
-      "title_ur": "ہندوستان کے یورپی تجارتی سودے ٹیکسٹائل کے برآمد کنندگان کی امیدوں کو زندہ کرتے ہیں۔",
-      "desc_ur": "بنگلورو -- ہندوستان کے ٹیکسٹائل برآمد کنندگان مہینوں کی غیر یقینی صورتحال کے بعد آرڈرز میں اضافہ دیکھ رہے ہیں کیونکہ یو کے اور یورپی یونین کے ساتھ تجارتی معاہدوں نے بنگلہ دیش اور پاکستان جیسے حریفوں کے خلاف ملک کی مسابقت کو بہتر بنایا ہے۔\nبرطانیہ کے معاہدے کا آغاز ب…"
+      "title_ur": "نرم امریکی افراط زر نے فیڈ کی شرح میں اضافے کی شرط کو ٹھنڈا کرنے سے ہندوستانی بانڈز کو فائدہ پہنچا",
+      "desc_ur": "بھارتی حکومت کے بانڈز میں اضافہ دیکھا گیا کیونکہ امریکی افراط زر میں نرمی ہوئی، جس سے شرح میں اضافے کے فوری خدشات کم ہوئے۔  ٹریژری کی پیداوار میں کمی آئی، جس سے ہندوستانی راتوں رات انڈیکس سویپ کی شرحوں میں اسی طرح کے رجحان کا سبب بنتا ہے۔  مارکیٹوں نے بڑی حد تک تیل کی بڑھتی ہوئی قیمتوں اور گھریلو سطح پر ان کے اثرات کو نظر انداز کیا…"
+    },
+    {
+      "title": "Iran threatens more seaway blockades as Trump renews Iran blockade",
+      "desc": "Escalating tensions risk prolonged disruptions in global oil supply and trade, with market skepticism about swift conflict resolution.\nThe post Iran threatens more seaway blockades as Trump renews Iran blockade appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-threatens-more-seaway-blockades-as-trump-renews-iran-blockade/",
+      "time": "2026-07-15T05:00:36",
+      "country": "Pakistan",
+      "title_ur": "ٹرمپ نے ایران کی ناکہ بندی کی تجدید کے ساتھ ہی ایران نے مزید سمندری ناکہ بندی کی دھمکی دی ہے۔",
+      "desc_ur": "بڑھتی ہوئی کشیدگی سے عالمی سطح پر تیل کی سپلائی اور تجارت میں طویل رکاوٹوں کا خطرہ ہے، تنازعات کے فوری حل کے بارے میں مارکیٹ کے شکوک و شبہات کے ساتھ۔\nThe post ٹرمپ کی جانب سے ایران کی ناکہ بندی کی تجدید کے بعد ایران نے مزید سمندری ناکہ بندی کی دھمکی دیدی appeared first on Crypto Briefing."
+    },
+    {
+      "title": "Classiq and ParityQC Partner to Optimize and Streamline Quantum Execution",
+      "desc": "Classiq and ParityQC announced a partnership to integrate ParityQC’s Parity Twine technology with Classiq’s quantum software engineering platform....",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/07/15/3327449/0/en/Classiq-and-ParityQC-Partner-to-Optimize-and-Streamline-Quantum-Execution.html",
+      "time": "2026-07-15T05:00:00",
+      "country": "Pakistan",
+      "title_ur": "کوانٹم ایگزیکیوشن کو بہتر اور ہموار کرنے کے لیے Classiq اور ParityQC پارٹنر",
+      "desc_ur": "Classiq اور ParityQC نے ParityQC کی Parity Twine ٹیکنالوجی کو Classiq کے کوانٹم سافٹ ویئر انجینئرنگ پلیٹ فارم کے ساتھ مربوط کرنے کے لیے شراکت کا اعلان کیا۔"
+    },
+    {
+      "title": "Live updates: US launches fourth night of strikes on Iran and restarts naval blockade - CNN",
+      "desc": "Live updates: US launches fourth night of strikes on Iran and restarts naval blockadeCNN US hits ‘dozens’ of military targets in additional round of strikesThe Hill 'Enough Is Enough': Lawmakers Criticize Trump Over Resumption of Iran WarTime Magazine US laun…",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184465428",
+      "time": "2026-07-15T04:53:19",
+      "country": "Pakistan",
+      "title_ur": "لائیو اپ ڈیٹس: امریکہ نے ایران پر چوتھی رات حملہ کیا اور بحری ناکہ بندی دوبارہ شروع کر دی - CNN",
+      "desc_ur": "لائیو اپ ڈیٹس: امریکا نے ایران پر چوتھی رات حملے کیے اور بحری ناکہ بندی دوبارہ شروع کردی۔CNN امریکا نے اضافی راؤنڈ حملوں میں 'درجنوں' فوجی اہداف کو نشانہ بنایا The Hill 'Enough Is Enough': قانون سازوں نے ایران وار ٹائم میگزین کی امریکی لانچ کی بحالی پر ٹرمپ پر تنقید کی۔"
     }
   ],
   "business": {
@@ -180,7 +210,7 @@
         "low": 28,
         "condition": "Light Drizzle",
         "condition_ur": "ہلکی بوندا باندی",
-        "precip": 45
+        "precip": 39
       },
       {
         "date": "2026-07-17",
@@ -198,7 +228,7 @@
         "low": 32,
         "condition": "Mainly Clear",
         "condition_ur": "زیادہ تر صاف",
-        "precip": 18
+        "precip": 8
       },
       {
         "date": "2026-07-19",
@@ -207,7 +237,7 @@
         "low": 30,
         "condition": "Light Drizzle",
         "condition_ur": "ہلکی بوندا باندی",
-        "precip": 33
+        "precip": 31
       },
       {
         "date": "2026-07-20",
@@ -216,7 +246,7 @@
         "low": 27,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 65
+        "precip": 68
       },
       {
         "date": "2026-07-21",
@@ -225,7 +255,7 @@
         "low": 26,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 99
+        "precip": 100
       },
       {
         "date": "2026-07-22",
