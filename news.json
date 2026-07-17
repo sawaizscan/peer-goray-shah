@@ -1,197 +1,187 @@
 {
-  "generated": "2026-07-17T00:58:03Z",
+  "generated": "2026-07-17T04:06:56Z",
   "world": [
     {
-      "title": "Strait of Hormuz oil shipments fall toward pre-peace deal levels as war reignites - Yahoo Finance",
-      "desc": "Strait of Hormuz oil shipments fall toward pre-peace deal levels as war reignitesYahoo Finance Oil traders warn market is close to running on empty as Hormuz shuts againFinancial Times Asia Stocks Set for Choppy Start, Oil Ticks Higher: Markets WrapBloomberg.…",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184473934",
-      "time": "2026-07-16T00:52:51",
+      "title": "Ten things a president can’t do: Trump has tried them anyway",
+      "desc": "you can bet they never imagined a devious, half-literate bully/lawbreaker/cheat could be elected president",
+      "source": "Juancole.com",
+      "url": "https://www.juancole.com/2026/07/things-president-anyway.html",
+      "time": "2026-07-16T04:04:50",
+      "country": "US",
+      "title_ur": "دس چیزیں جو ایک صدر نہیں کر سکتا: ٹرمپ نے انہیں بہرحال آزمایا ہے۔",
+      "desc_ur": "آپ شرط لگا سکتے ہیں کہ انہوں نے کبھی سوچا بھی نہیں تھا کہ ایک منحوس، آدھا پڑھا لکھا بدمعاش/قانون توڑنے والا/دھوکہ باز صدر منتخب ہو سکتا ہے"
+    },
+    {
+      "title": "Oil Steadies After Gains as Hormuz Ship Attacks Threaten Supply",
+      "desc": "Oil steadied after a three-day rally as the US carried out another round of airstrikes on Iran following a series of shipping attacks by the Islamic Republic this week.",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/oil-steadies-after-gains-as-hormuz-ship-attacks-threaten-supply",
+      "time": "2026-07-16T04:04:26",
+      "country": "Iran",
+      "title_ur": "ہرمز بحری جہاز کے حملے سے سپلائی کو خطرہ ہونے کے بعد تیل مستحکم ہو رہا ہے۔",
+      "desc_ur": "تین روزہ ریلی کے بعد تیل کی قیمت مستحکم رہی کیونکہ امریکہ نے اس ہفتے اسلامی جمہوریہ کی جانب سے جہاز رانی پر حملوں کے ایک سلسلے کے بعد ایران پر ایک اور فضائی حملہ کیا۔"
+    },
+    {
+      "title": "Sensex rises 200 points, Nifty above 24,100 amid Middle East jitters. What lies ahead?",
+      "desc": "Indian stock markets showed resilience on Thursday, with Sensex and Nifty gaining slightly. Geopolitical worries from the Middle East conflict did not significantly impact trading. IT stocks led the gains, while some banking shares experienced minor declines.…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-200-points-nifty-above-24100-amid-middle-east-jitters-what-lies-ahead/articleshow/132407090.cms",
+      "time": "2026-07-16T04:03:59",
+      "country": "India",
+      "title_ur": "مشرق وسطیٰ کی ہلچل کے درمیان سینسیکس 200 پوائنٹس، نفٹی 24,100 سے اوپر۔ آگے کیا ہے؟",
+      "desc_ur": "ہندوستانی اسٹاک مارکیٹوں نے جمعرات کو لچک کا مظاہرہ کیا، سینسیکس اور نفٹی میں قدرے اضافہ ہوا۔ مشرق وسطیٰ کے تنازعے سے جغرافیائی سیاسی خدشات نے تجارت پر کوئی خاص اثر نہیں کیا۔ آئی ٹی اسٹاکس نے فائدہ اٹھایا، جبکہ کچھ بینکنگ حصص میں معمولی کمی آئی۔…"
+    },
+    {
+      "title": "Iranian Attacks Need Not Change the Gulf’s AI Ambitions",
+      "desc": "Ukraine offers lessons in how to keep infrastructure alive in wartime.",
+      "source": "Foreign Policy",
+      "url": "http://foreignpolicy.com/2026/07/16/iranian-attacks-gulf-ai-ambitions/",
+      "time": "2026-07-16T04:01:55",
+      "country": "Iran",
+      "title_ur": "ایرانی حملوں کو خلیج کے AI عزائم کو تبدیل کرنے کی ضرورت نہیں ہے۔",
+      "desc_ur": "یوکرین اس بات کا سبق دیتا ہے کہ جنگ کے وقت میں انفراسٹرکچر کو کیسے زندہ رکھا جائے۔"
+    },
+    {
+      "title": "Iran No Longer Bound by MoU, Adjusts Tactics",
+      "desc": "Iran’s announcement declaring the MoU dead was quickly followed by a definitive change in Iran’s military tactics. On Tuesday, Iran’s Deputy Foreign Minister, Kazem Gharibabadi: ‘The U.S. has not merely ‘violated’ the Memorandum of Understanding. With tonight…",
+      "source": "Lewrockwell.com",
+      "url": "https://www.lewrockwell.com/2026/07/no_author/iran-no-longer-bound-by-mou-adjusts-tactics/",
+      "time": "2026-07-16T04:01:00",
+      "country": "Iran",
+      "title_ur": "ایران اب ایم او یو کا پابند نہیں، حکمت عملی کو ایڈجسٹ کرتا ہے۔",
+      "desc_ur": "ایران کی جانب سے ایم او یو کو مردہ قرار دینے کے اعلان کے بعد ایران کی فوجی حکمت عملی میں ایک واضح تبدیلی آئی۔ منگل کے روز، ایران کے نائب وزیر خارجہ، کاظم غریب آبادی: 'امریکہ نے مفاہمت کی یادداشت کی محض 'خلاف ورزی' نہیں کی ہے۔ آج رات کے ساتھ…"
+    },
+    {
+      "title": "Pooling Europe's compute",
+      "desc": "Frontier AI training has needed compute at one site, hard in Europe given power, chip and political limits. RAND Europe finds distributed training eases the power and political constraints and pools Europe's scattered chips, but adds no new chips.",
+      "source": "Rand.org",
+      "url": "https://www.rand.org/pubs/research_reports/RRA5013-1.html",
+      "time": "2026-07-16T04:00:00",
+      "country": "Europe",
+      "title_ur": "پولنگ یورپ کی کمپیوٹ",
+      "desc_ur": "فرنٹیئر AI ٹریننگ کو ایک سائٹ پر کمپیوٹ کی ضرورت ہے، یورپ میں طاقت، چپ اور سیاسی حدود کے پیش نظر مشکل ہے۔ RAND یورپ کو معلوم ہوا کہ تقسیم شدہ تربیت طاقت اور سیاسی رکاوٹوں کو کم کرتی ہے اور یورپ کے بکھرے ہوئے چپس کو پول کرتی ہے، لیکن کوئی نئی چپس شامل نہیں کرتی ہے۔"
+    },
+    {
+      "title": "Amoo Lindsey: The American lion who heard a voiceless nation",
+      "desc": "By Amil ImaniGenerations from now, when a free, democratic Iran reclaims its destiny, the public squares of a liberated Tehran will proudly bear the name of the Senator from South Carolina.",
+      "source": "Americanthinker.com",
+      "url": "https://www.americanthinker.com/blog/2026/07/amoo-lindsey-the-american-lion-who-heard-a-voiceless-nation/",
+      "time": "2026-07-16T04:00:00",
+      "country": "Iran",
+      "title_ur": "امو لنڈسے: امریکی شیر جس نے بے آواز قوم کو سنا",
+      "desc_ur": "امل ایمانی جنریشنز کی طرف سے اب سے، جب ایک آزاد، جمہوری ایران اپنی تقدیر کا دوبارہ دعویٰ کرے گا، آزاد تہران کے عوامی حلقے فخر کے ساتھ ساؤتھ کیرولینا کے سینیٹر کا نام اٹھائیں گے۔"
+    },
+    {
+      "title": "Today in stoopid ...",
+      "desc": "By Eric UtterYou can't fix stupid. But you can laugh at it.",
+      "source": "Americanthinker.com",
+      "url": "https://www.americanthinker.com/blog/2026/07/today-in-stoopid/",
+      "time": "2026-07-16T04:00:00",
       "country": "International",
-      "title_ur": "آبنائے ہرمز تیل کی ترسیل امن معاہدے سے پہلے کی سطح کی طرف گرتی ہے کیونکہ جنگ دوبارہ شروع ہوتی ہے - Yahoo Finance",
-      "desc_ur": "آبنائے ہرمز کے تیل کی ترسیل امن معاہدے سے پہلے کی سطح کی طرف گر رہی ہے کیونکہ جنگ دوبارہ شروع ہو گئی ہے یاہو فنانس آئل تاجروں نے خبردار کیا ہے کہ مارکیٹ خالی ہونے کے قریب ہے کیونکہ ہرمز دوبارہ بند ہو گیا ہے فنانشل ٹائمز ایشیا اسٹاکس سیٹ چپی اسٹارٹ، آئل ٹِکس ہائر: مارکیٹس ریپ بلومبرگ۔…"
+      "title_ur": "آج بے حسی میں...",
+      "desc_ur": "ایرک یوٹر کے ذریعہ آپ بیوقوف کو ٹھیک نہیں کرسکتے ہیں۔ لیکن آپ اس پر ہنس سکتے ہیں۔"
     },
     {
-      "title": "US sanctions 7 individuals, entities for supporting IRGC; reiterates stance for Tehran's denuclearisation",
-      "desc": "The United States imposed new sanctions on Iran for attacking commercial vessels. American forces conducted military strikes targeting Iranian capabilities near the Strait of Hormuz. These strikes aimed to degrade Iran's ability to threaten commercial shippin…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-sanctions-7-individuals-entities-for-supporting-irgc-reiterates-stance-for-tehrans-denuclearisation/articleshow/132427337.cms",
-      "time": "2026-07-16T00:47:53",
-      "country": "Iran",
-      "title_ur": "آئی آر جی سی کی حمایت کرنے والے 7 افراد، اداروں پر امریکی پابندیاں تہران کے جوہری تخفیف کے موقف کا اعادہ",
-      "desc_ur": "امریکہ نے ایران پر تجارتی جہازوں پر حملہ کرنے پر نئی پابندیاں عائد کر دیں۔ امریکی افواج نے آبنائے ہرمز کے قریب ایرانی صلاحیتوں کو نشانہ بناتے ہوئے فوجی حملے کیے۔ ان حملوں کا مقصد ایران کی تجارتی جہاز رانی کو دھمکی دینے کی صلاحیت کو کم کرنا تھا…"
-    },
-    {
-      "title": "Labour bungles response to Paul Henry bombshell; the embarrassing part of Indian PM’s visit – Audrey Young",
-      "desc": "OPINION: Much Naidoo about nothing – why the Opposition's crack fell flat.",
-      "source": "New Zealand Herald",
-      "url": "https://www.nzherald.co.nz/nz/politics/labour-bungles-response-to-paul-henry-bombshell-the-embarrassing-part-of-indian-pms-visit-audrey-young/premium/XXQTW7P2MRALRDLMYF5I54BDF4/",
-      "time": "2026-07-16T00:43:37",
-      "country": "India",
-      "title_ur": "پال ہنری بم شیل کے جواب میں لیبر کا جھٹکا بھارتی وزیر اعظم کے دورے کا شرمناک حصہ – آڈری ینگ",
-      "desc_ur": "رائے: بہت کچھ کے بارے میں نائیڈو - کیوں اپوزیشن کی شگاف پڑ گئی؟"
-    },
-    {
-      "title": "Iran has no plans for negotiations, remains focused on defense: Foreign Ministry spokesperson",
-      "desc": "Iranian Foreign Ministry spokesperson Esmaeil Baghaei on Wednesday stated that the Islamic Republic has no plans to resume negotiations with the United States amid escalation of military confrontation between the two sides in West Asia, according to Iranian s…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-has-no-plans-for-negotiations-remains-focused-on-defense-foreign-ministry-spokesperson/articleshow/132427320.cms",
-      "time": "2026-07-16T00:43:04",
-      "country": "Iran",
-      "title_ur": "ایران کا مذاکرات کا کوئی ارادہ نہیں، دفاع پر توجہ مرکوز ہے، ترجمان وزارت خارجہ",
-      "desc_ur": "ایرانی وزارت خارجہ کے ترجمان اسماعیل باغائی نے بدھ کے روز کہا کہ اسلامی جمہوریہ کا مغربی ایشیا میں دونوں فریقوں کے درمیان فوجی محاذ آرائی میں اضافے کے درمیان امریکہ کے ساتھ دوبارہ مذاکرات شروع کرنے کا کوئی منصوبہ نہیں ہے، ایرانی ذرائع کے مطابق…"
-    },
-    {
-      "title": "Oil prices surge as US-Iran tensions threaten Strait of Hormuz",
-      "desc": "Rising oil prices could strain global economies, increase geopolitical tensions, and prompt strategic shifts in energy policies worldwide.\nThe post Oil prices surge as US-Iran tensions threaten Strait of Hormuz appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/oil-prices-surge-as-us-iran-tensions-threaten-strait-of-hormuz/",
-      "time": "2026-07-16T00:42:12",
-      "country": "Iran",
-      "title_ur": "تیل کی قیمتوں میں اضافہ کیونکہ امریکہ اور ایران کشیدگی سے آبنائے ہرمز کو خطرہ ہے۔",
-      "desc_ur": "تیل کی بڑھتی ہوئی قیمتیں عالمی معیشتوں پر دباؤ ڈال سکتی ہیں، جغرافیائی سیاسی تناؤ کو بڑھا سکتی ہیں، اور دنیا بھر میں توانائی کی پالیسیوں میں فوری تزویراتی تبدیلیاں کر سکتی ہیں۔\nThe post تیل کی قیمتوں میں اضافہ، امریکا ایران کشیدگی سے آبنائے ہرمز کو خطرہ appeared first on Crypto Briefing."
-    },
-    {
-      "title": "Argentina Faces Punishment From FIFA Over Postgame Political Statement After Win Vs England",
-      "desc": "Argentina could face punishment from FIFA over postgame politcal statemen on the pitch following their game against England. Before their game, England was described as “invaders” and “usurping pirates” by Argentina’s vice president due to political tensions …",
-      "source": "BroBible",
-      "url": "https://brobible.com/sports/article/argentina-faces-punishment-from-fifa-over-postgame-political-statement-after-win-vs-england/",
-      "time": "2026-07-16T00:41:57",
+      "title": "Communism Hasn't Been Done Right. (Yeah, That’s The Ticket.)",
+      "desc": "Photo Credit:\n \n American ThinkerBy Milli SandsThe current crop of young Democrat/DSA politicians is testing the leftist theory that communism will work if you just put the right people in charge.",
+      "source": "Americanthinker.com",
+      "url": "https://www.americanthinker.com/articles/2026/07/communism-hasn-t-been-done-right-yeah-that-s-the-ticket/",
+      "time": "2026-07-16T04:00:00",
       "country": "US",
-      "title_ur": "ارجنٹائن کو انگلینڈ کے خلاف جیت کے بعد کھیل کے بعد کے سیاسی بیان پر فیفا کی جانب سے سزا کا سامنا ہے۔",
-      "desc_ur": "ارجنٹائن کو انگلینڈ کے خلاف کھیل کے بعد پچ پر کھیل کے بعد کے سیاسی بیانات پر فیفا کی طرف سے سزا کا سامنا کرنا پڑ سکتا ہے۔ ان کے کھیل سے پہلے، انگلستان کو سیاسی تناؤ کی وجہ سے ارجنٹائن کے نائب صدر نے \"حملہ آور\" اور \"قزاقوں پر قبضہ کرنے والا\" قرار دیا تھا…"
+      "title_ur": "کمیونزم ٹھیک نہیں ہوا ہے۔ (ہاں، یہ ٹکٹ ہے۔)",
+      "desc_ur": "تصویر کریڈٹ:\n \n امریکی تھنکر بائے ملی سینڈز نوجوان ڈیموکریٹ/ڈی ایس اے سیاست دانوں کی موجودہ فصل بائیں بازو کے نظریہ کی جانچ کر رہی ہے کہ کمیونزم کام کرے گا اگر آپ صرف صحیح لوگوں کو ذمہ دار بنائیں گے۔"
     },
     {
-      "title": "Kemi Badenoch is the first party leader to get a positive approval rating since 2024",
-      "desc": "More in Common found that the Tory leader's net approval rating stands at plus three, as more people now believe she is doing a good job than think she is performing badly.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-15980943/Kemi-Badenoch-party-leader-positive-approval-rating.html",
-      "time": "2026-07-16T00:41:12",
+      "title": "What will become of Benjamin Netanyahu?",
+      "desc": "By Joseph PuderElections are coming up in Israel, and all the usual suspects are predicting Bibi’s downfall.",
+      "source": "Americanthinker.com",
+      "url": "https://www.americanthinker.com/blog/2026/07/what-will-become-of-benjamin-netanyahu/",
+      "time": "2026-07-16T04:00:00",
+      "country": "Israel",
+      "title_ur": "بنجمن نیتن یاہو کا کیا بنے گا؟",
+      "desc_ur": "جوزف پوڈر کی طرف سے اسرائیل میں انتخابات ہونے والے ہیں، اور تمام عام مشتبہ افراد بی بی کے زوال کی پیشین گوئی کر رہے ہیں۔"
+    },
+    {
+      "title": "Jews are ‘the people of the book,’ but the publishing world is shutting them out",
+      "desc": "By Susan QuinnThe political left never runs out of boycotts against Israel.",
+      "source": "Americanthinker.com",
+      "url": "https://www.americanthinker.com/blog/2026/07/jews-are-the-people-of-the-book-but-the-publishing-world-is-shutting-them-out/",
+      "time": "2026-07-16T04:00:00",
+      "country": "Israel",
+      "title_ur": "یہودی 'اہل کتاب' ہیں، لیکن اشاعت کی دنیا انہیں بند کر رہی ہے۔",
+      "desc_ur": "سوسن کوئن کی طرف سے سیاسی بائیں بازو کبھی بھی اسرائیل کے خلاف بائیکاٹ سے باہر نہیں ہوتے۔"
+    },
+    {
+      "title": "'You’re fired!' (But you can continue working several more months.)",
+      "desc": "By Robin M. ItzlerIn too many states, the gap between primaries, elections, and new congressional terms is dangerously long and gives booted incumbents way too much power.",
+      "source": "Americanthinker.com",
+      "url": "https://www.americanthinker.com/blog/2026/07/you-re-fired-but-you-can-continue-working-several-more-months/",
+      "time": "2026-07-16T04:00:00",
       "country": "US",
-      "title_ur": "Kemi Badenoch 2024 کے بعد سے مثبت منظوری کی درجہ بندی حاصل کرنے والے پہلے پارٹی رہنما ہیں۔",
-      "desc_ur": "More in Common نے پایا کہ ٹوری لیڈر کی خالص منظوری کی درجہ بندی پلس تھری پر ہے، کیونکہ اب زیادہ سے زیادہ لوگوں کا خیال ہے کہ وہ یہ سوچنے کے بجائے اچھا کام کر رہی ہے کہ وہ بری کارکردگی کا مظاہرہ کر رہی ہے۔"
+      "title_ur": "'آپ کو نکال دیا گیا ہے!' (لیکن آپ مزید کئی ماہ کام جاری رکھ سکتے ہیں۔)",
+      "desc_ur": "بہت ساری ریاستوں میں، پرائمری، انتخابات، اور کانگریس کی نئی شرائط کے درمیان فرق خطرناک حد تک طویل ہے اور اس سے اقتدار میں آنے والوں کو بہت زیادہ طاقت ملتی ہے۔"
     },
     {
-      "title": "Reports in Iran: Air defense systems activated in Tehran",
-      "desc": "Official Iranian media reported that air defense systems were activated in the skies above the capital, Tehran, in order to intercept \"hostile threats\" in the city's airspace.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/flashes/689847",
-      "time": "2026-07-16T00:39:28",
-      "country": "Iran",
-      "title_ur": "ایران میں رپورٹس: تہران میں فضائی دفاعی نظام فعال ہو گیا۔",
-      "desc_ur": "سرکاری ایرانی میڈیا نے اطلاع دی ہے کہ شہر کی فضائی حدود میں \"دشمنانہ خطرات\" کو روکنے کے لیے دارالحکومت تہران کے اوپر کے آسمانوں میں فضائی دفاعی نظام کو فعال کر دیا گیا ہے۔"
-    },
-    {
-      "title": "US military disables Iran-bound tanker as oil blockade tightens, raising macro volatility risks for crypto markets",
-      "desc": "The US blockade's impact on oil supply heightens inflation risks, potentially tightening monetary policy and affecting crypto liquidity.\nThe post US military disables Iran-bound tanker as oil blockade tightens, raising macro volatility risks for crypto market…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-disables-iran-bound-tanker-crypto-impact/",
-      "time": "2026-07-16T00:39:07",
-      "country": "Iran",
-      "title_ur": "امریکی فوج نے ایران جانے والے ٹینکر کو غیر فعال کر دیا کیونکہ تیل کی ناکہ بندی سخت ہوتی ہے، کرپٹو مارکیٹوں کے لیے میکرو اتار چڑھاؤ کے خطرات بڑھ جاتے ہیں",
-      "desc_ur": "تیل کی فراہمی پر امریکی ناکہ بندی کا اثر افراط زر کے خطرات کو بڑھاتا ہے، ممکنہ طور پر مانیٹری پالیسی کو سخت کرتا ہے اور کرپٹو لیکویڈیٹی کو متاثر کرتا ہے۔\nThe post امریکی فوج نے تیل کی ناکہ بندی سخت ہونے پر ایران جانے والے ٹینکر کو غیر فعال کر دیا، کرپٹو مارکیٹ کے لیے میکرو اتار چڑھاؤ کے خطرات بڑھ گئے…"
-    },
-    {
-      "title": "China and Xi are seen more favourably than the US and Trump in many nations, Pew study suggests",
-      "desc": "In only six countries do people still see the US more positively than China, according to the findings released by Pew Research Center.",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/world/china-xi-united-states-trump-pew-study-favourable-6256736",
-      "time": "2026-07-16T00:34:00",
-      "country": "China",
-      "title_ur": "پیو اسٹڈی سے پتہ چلتا ہے کہ چین اور ژی کو کئی ممالک میں امریکہ اور ٹرمپ کے مقابلے میں زیادہ پسند کیا جاتا ہے۔",
-      "desc_ur": "پیو ریسرچ سینٹر کی طرف سے جاری کردہ نتائج کے مطابق، صرف چھ ممالک میں لوگ اب بھی امریکہ کو چین سے زیادہ مثبت انداز میں دیکھتے ہیں۔"
-    },
-    {
-      "title": "'They better behave': Trump rules out setting any deadline for Iran before bombing its bridges",
-      "desc": "US President Donald Trump on Wednesday (local time) said that he does not like setting deadlines when asked whether he had given Iran any ultimatum before ordering the bombing of its bridges, while warning that Tehran \"better behave\" amid a renewed exchange o…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/they-better-behave-trump-rules-out-setting-any-deadline-for-iran-before-bombing-its-bridges/articleshow/132427299.cms",
-      "time": "2026-07-16T00:33:11",
-      "country": "Iran",
-      "title_ur": "'وہ بہتر برتاؤ کرتے ہیں': ٹرمپ نے ایران کے پلوں پر بمباری کرنے سے پہلے کوئی ڈیڈ لائن مقرر کرنے سے انکار کیا۔",
-      "desc_ur": "امریکی صدر ڈونلڈ ٹرمپ نے بدھ کے روز (مقامی وقت کے مطابق) کہا کہ وہ آخری تاریخ طے کرنا پسند نہیں کرتے جب ان سے پوچھا گیا کہ کیا انہوں نے ایران کو اس کے پلوں پر بمباری کا حکم دینے سے پہلے کوئی الٹی میٹم دیا تھا، ساتھ ہی خبردار کیا کہ تہران ایک نئے تبادلے کے دوران \"بہتر برتاؤ\" کرے گا۔"
-    },
-    {
-      "title": "China’s economy grows 4.3% in Q2, slowest since late 2022 - NPR",
-      "desc": "China’s economy grows 4.3% in Q2, slowest since late 2022NPR China’s Economy Grows at Slowest Pace in YearsThe New York Times China misses growth target for first time since Covid as Iran turmoil roils global tradeCNN China economic growth falls sharply, miss…",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184473800",
-      "time": "2026-07-16T00:32:46",
-      "country": "Iran",
-      "title_ur": "چین کی معیشت دوسری سہ ماہی میں 4.3 فیصد بڑھی، جو 2022 کے آخر سے سب سے کم ہے - NPR",
-      "desc_ur": "چین کی معیشت کی دوسری سہ ماہی میں 4.3 فیصد ترقی ہوئی، 2022 کے آخر سے سب سے کم این پی آر چین کی معیشت سالوں میں سب سے سست رفتار سے ترقی کرتی ہے نیویارک ٹائمز چین کووڈ کے بعد پہلی بار ترقی کا ہدف کھو گیا کیونکہ ایران کے بحران نے عالمی تجارت کو روک دیاCNN چین کی اقتصادی ترقی تیزی سے گر گئی، یاد آیا…"
-    },
-    {
-      "title": "Oil Prices Tick Higher as U.S. Reinstates Iran Blockade - The New York Times",
-      "desc": "Oil Prices Tick Higher as U.S. Reinstates Iran BlockadeThe New York Times Oil traders warn market is close to running on empty as Hormuz shuts againFinancial Times Trump’s New Iran Blockade Could Hit Oil Prices HarderThe New York Times Oil little changed afte…",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184473798",
-      "time": "2026-07-16T00:32:36",
-      "country": "Iran",
-      "title_ur": "امریکہ کی جانب سے ایران کی ناکہ بندی کی بحالی کے بعد تیل کی قیمتوں میں اضافہ - نیویارک ٹائمز",
-      "desc_ur": "امریکہ کی جانب سے ایران کی ناکہ بندی کی بحالی کے ساتھ ہی تیل کی قیمتوں میں اضافہ ہوا نیویارک ٹائمز کے تیل کے تاجروں نے خبردار کیا ہے کہ مارکیٹ خالی ہونے کے قریب ہے کیونکہ ہرمز دوبارہ بند ہو رہا ہے فنانشل ٹائمز ٹرمپ کی نئی ایران ناکہ بندی تیل کی قیمتوں کو سخت متاثر کر سکتی ہے نیویارک ٹائمز تیل کی قیمتوں میں تھوڑا سا تبدیلی کے بعد…"
-    },
-    {
-      "title": "FCNR flows aren't rushing in, and RBI wants to know why",
-      "desc": "Bankers told the RBI that the slow pace was not unusual, and that FCNR deposits typically take time to gather momentum. So far, Indian banks have gathered FCNR deposits of around $7 billion through the scheme.",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/industry/banking/fcnr-flows-arent-rushing-in-and-rbi-wants-to-know-why-11784123559432.html",
-      "time": "2026-07-16T00:30:38",
-      "country": "India",
-      "title_ur": "ایف سی این آر کے بہاؤ میں تیزی نہیں آ رہی ہے، اور آر بی آئی جاننا چاہتا ہے کہ ایسا کیوں ہے۔",
-      "desc_ur": "بینکرز نے آر بی آئی کو بتایا کہ سست رفتار غیر معمولی نہیں تھی، اور یہ کہ FCNR ڈپازٹس کو رفتار جمع کرنے میں عام طور پر وقت لگتا ہے۔ اب تک، ہندوستانی بینکوں نے اسکیم کے ذریعے تقریباً 7 بلین ڈالر کے ایف سی این آر جمع کیے ہیں۔"
-    },
-    {
-      "title": "Scream Has Found Another Perfect Sidney Replacement (& Can’t Afford to Waste Them This Time)",
-      "desc": "Image courtesy of Paramount Pictures\n\nOne of the most shocking aspects of Scream 7 is that Sidney Prescott was back after her Scream VI absence, with Neve Campbell’s return being the franchise’s one olive branch after its bungling of the previous film’s story…",
-      "source": "ComicBook.com",
-      "url": "http://comicbook.com/movies/feature/scream-has-found-another-perfect-sidney-replacement-cant-afford-to-waste-them-this-time/",
-      "time": "2026-07-16T00:30:00",
+      "title": "A new generation of ambassadors for America’s ideals",
+      "desc": "By Rodney Mims Cook Jr. and Encouraging more knowledge of the civil rights era's legacy.",
+      "source": "Americanthinker.com",
+      "url": "https://www.americanthinker.com/blog/2026/07/a-new-generation-of-ambassadors-for-america-s-ideals/",
+      "time": "2026-07-16T04:00:00",
       "country": "US",
-      "title_ur": "چیخ کو ایک اور کامل سڈنی متبادل مل گیا ہے (اور اس بار انہیں ضائع کرنے کا متحمل نہیں ہوسکتا ہے)",
-      "desc_ur": "تصویر بشکریہ پیراماؤنٹ پکچرز\n\nاسکریم 7 کے سب سے زیادہ چونکا دینے والے پہلوؤں میں سے ایک یہ ہے کہ سڈنی پریسکاٹ اپنی اسکریم VI کی غیر موجودگی کے بعد واپس آگئی تھی، جس میں نیو کیمبل کی واپسی فرنچائز کی ایک زیتون کی شاخ تھی جب اس کی پچھلی فلم کی کہانی کو جھنجھوڑ دیا گیا تھا…"
+      "title_ur": "امریکہ کے نظریات کے لیے سفیروں کی ایک نئی نسل",
+      "desc_ur": "Rodney Mims Cook Jr. کی طرف سے اور شہری حقوق کے دور کی میراث کے بارے میں مزید معلومات کی حوصلہ افزائی کرنا۔"
+    },
+    {
+      "title": "Everyone thinks Iran fears American bombs. Tehran thinks otherwise.",
+      "desc": "By Hamid EnayatUnited States should not abandon military deterrence; but military power alone cannot solve a political problem.",
+      "source": "Americanthinker.com",
+      "url": "https://www.americanthinker.com/blog/2026/07/everyone-thinks-iran-fears-american-bombs-tehran-thinks-otherwise/",
+      "time": "2026-07-16T04:00:00",
+      "country": "Iran",
+      "title_ur": "ہر کوئی سمجھتا ہے کہ ایران امریکی بموں سے ڈرتا ہے۔ تہران اس کے برعکس سوچتا ہے۔",
+      "desc_ur": "حامد عنایت کی طرف سے امریکہ کو فوجی ڈیٹرنس ترک نہیں کرنا چاہیے۔ لیکن صرف فوجی طاقت سیاسی مسئلہ حل نہیں کر سکتی۔"
+    },
+    {
+      "title": "200 Years Ago, A Famous Sermon Honored Adams And Jefferson",
+      "desc": "Photo Credit:\n \n American ThinkerBy Craig SeibertIn 1826, Americans did not see the men's passing away 50 years after their Declaration of Independence as mere coincidence, but as deeply symbolic.",
+      "source": "Americanthinker.com",
+      "url": "https://www.americanthinker.com/articles/2026/07/200-years-ago-a-famous-sermon-honored-adams-and-jefferson/",
+      "time": "2026-07-16T04:00:00",
+      "country": "US",
+      "title_ur": "200 سال پہلے، ایک مشہور واعظ نے ایڈمز اور جیفرسن کو اعزاز بخشا۔",
+      "desc_ur": "تصویر کریڈٹ:\n \n امریکی تھنکر بذریعہ کریگ سیبرٹ 1826 میں، امریکیوں نے اعلانِ آزادی کے 50 سال بعد مردوں کے انتقال کو محض اتفاق کے طور پر نہیں دیکھا، بلکہ گہرا علامتی طور پر دیکھا۔"
     }
   ],
   "pakistan": [
     {
-      "title": "US considers targeting Iran’s fortified Pickaxe Mountain nuclear facility",
-      "desc": "Escalating U.S.-Iran tensions over nuclear sites could hinder diplomatic efforts, impacting regional stability and global market perceptions.\nThe post US considers targeting Iran’s fortified Pickaxe Mountain nuclear facility appeared first on Crypto Briefing.",
+      "title": "Donald Trump is running out of options in Iran",
+      "desc": "There’s just one problem: none of these things have worked before, and there is no reason to think they will work now",
+      "source": "Juancole.com",
+      "url": "https://www.juancole.com/2026/07/donald-running-options.html",
+      "time": "2026-07-16T04:06:18",
+      "country": "Pakistan",
+      "title_ur": "ڈونلڈ ٹرمپ ایران میں اختیارات ختم کر رہے ہیں۔",
+      "desc_ur": "صرف ایک مسئلہ ہے: ان چیزوں میں سے کسی نے پہلے کام نہیں کیا ہے، اور یہ سوچنے کی کوئی وجہ نہیں ہے کہ وہ اب کام کریں گی۔"
+    },
+    {
+      "title": "IEA boss warns global economy in peril if Hormuz crisis persists",
+      "desc": "The flare-up around Hormuz forced Pakistan in July to buy the priciest LNG since 2022. Read more at straitstimes.com. Read more at straitstimes.com.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/business/economy/iea-boss-warns-global-economy-in-peril-if-hormuz-crisis-persists",
+      "time": "2026-07-16T04:04:28",
+      "country": "Pakistan",
+      "title_ur": "IEA کے باس نے خبردار کیا ہے کہ اگر ہرمز کا بحران برقرار رہا تو عالمی معیشت خطرے میں ہے۔",
+      "desc_ur": "ہرمز کے ارد گرد بھڑک اٹھنے نے جولائی میں پاکستان کو 2022 کے بعد سب سے مہنگی ایل این جی خریدنے پر مجبور کیا۔ straitstimes.com پر مزید پڑھیں۔ straitstimes.com پر مزید پڑھیں۔"
+    },
+    {
+      "title": "Jordan intercepts eight Iranian missiles targeting US bases",
+      "desc": "The interception highlights escalating regional tensions, complicating diplomatic efforts and impacting international nuclear oversight dynamics.\nThe post Jordan intercepts eight Iranian missiles targeting US bases appeared first on Crypto Briefing.",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-considers-targeting-irans-fortified-pickaxe-mountain-nuclear-facility/",
-      "time": "2026-07-16T00:48:06",
+      "url": "https://cryptobriefing.com/jordan-intercepts-eight-iranian-missiles-targeting-us-bases/",
+      "time": "2026-07-16T03:38:52",
       "country": "Pakistan",
-      "title_ur": "امریکہ ایران کی مضبوط Pickaxe Mountain ایٹمی تنصیب کو نشانہ بنانے پر غور کر رہا ہے۔",
-      "desc_ur": "جوہری تنصیبات پر امریکہ ایران کشیدگی میں اضافہ سفارتی کوششوں میں رکاوٹ بن سکتا ہے، جس سے علاقائی استحکام اور عالمی منڈی کے تاثرات متاثر ہو سکتے ہیں۔\nThe post امریکا کا ایران کی مضبوط پکیکس ماؤنٹین جوہری تنصیب کو نشانہ بنانے پر غور appeared first on Crypto Briefing."
-    },
-    {
-      "title": "Report: Trump weighing ground force deployments in Iran",
-      "desc": "President Trump is weighing escalatory military options against Iran - including strikes on a deep nuclear facility and island seizures - as diplomacy stalls, reports The Wall Street Journal.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/430244",
-      "time": "2026-07-16T00:45:30",
-      "country": "Pakistan",
-      "title_ur": "رپورٹ: ٹرمپ ایران میں زمینی فوج کی تعیناتی کا وزن کر رہے ہیں۔",
-      "desc_ur": "وال سٹریٹ جرنل کی رپورٹ کے مطابق، صدر ٹرمپ ایران کے خلاف عسکری اختیارات پر غور کر رہے ہیں - جس میں گہری جوہری تنصیبات پر حملے اور جزیرے پر قبضے شامل ہیں، جیسا کہ سفارت کاری ٹھپ ہو گئی ہے۔"
-    },
-    {
-      "title": "Oil prices rise for 4th day as US strikes on Iran raise fears of wider conflict",
-      "desc": "TOKYO, July 16 : Oil prices rose for a fourth straight day on Thursday after a new wave of U.S. strikes on Iranian military installations fuelled fears of renewed full-scale conflict and supply disruptions in the Strait of Hormuz.The United States struck Iran…",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/oil-prices-rise-4th-day-us-strikes-iran-raise-fears-wider-conflict-6257256",
-      "time": "2026-07-16T00:42:46",
-      "country": "Pakistan",
-      "title_ur": "تیل کی قیمتوں میں چوتھے روز بھی اضافہ ہوا ہے کیونکہ ایران پر امریکی حملوں سے وسیع تر تنازعے کا خدشہ ہے۔",
-      "desc_ur": "ٹوکیو، 16 جولائی: ایرانی فوجی تنصیبات پر امریکی حملوں کی ایک نئی لہر کے بعد جمعرات کو تیل کی قیمتوں میں مسلسل چوتھے دن اضافہ ہوا، جس سے آبنائے ہرمز میں نئے سرے سے مکمل تنازعے اور سپلائی میں خلل پڑنے کا خدشہ پیدا ہوا۔ امریکہ نے ایران پر حملہ…"
-    },
-    {
-      "title": "US data surprise eases rate hike fears, also cheers D-Street",
-      "desc": "Indian equities closed higher, mirroring gains across Asian markets after US inflation data. Oil prices around $85 a barrel limited upside, raising supply disruption concerns. The NSE Nifty rose 26.5 points, while the BSE Sensex gained 130.5 points. Geopoliti…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/us-data-surprise-eases-rate-hike-fears-also-cheers-d-street/articleshow/132427270.cms",
-      "time": "2026-07-16T00:16:04",
-      "country": "Pakistan",
-      "title_ur": "امریکی ڈیٹا سرپرائز نے شرح میں اضافے کے خدشات کو کم کیا، ڈی اسٹریٹ کو بھی خوش کیا۔",
-      "desc_ur": "امریکی افراط زر کے اعداد و شمار کے بعد ایشیائی منڈیوں میں ہندوستانی ایکوئٹیز بلندی پر بند ہوئیں۔ تیل کی قیمتیں تقریباً 85 ڈالر فی بیرل تک محدود ہیں، جس سے سپلائی میں خلل کے خدشات بڑھ گئے ہیں۔ این ایس ای نفٹی میں 26.5 پوائنٹس کا اضافہ ہوا، جبکہ بی ایس ای سینسیکس میں 130.5 پوائنٹس کا اضافہ ہوا۔ جیو پولیٹی…"
+      "title_ur": "اردن نے امریکی اڈوں کو نشانہ بنانے والے آٹھ ایرانی میزائلوں کو روک دیا۔",
+      "desc_ur": "مداخلت بڑھتی ہوئی علاقائی کشیدگی، سفارتی کوششوں کو پیچیدہ بنانے اور بین الاقوامی جوہری نگرانی کی حرکیات کو متاثر کرنے پر روشنی ڈالتی ہے۔\nThe post اردن نے امریکی اڈوں کو نشانہ بنانے والے آٹھ ایرانی میزائلوں کو ناکارہ بنادیا appeared first on Crypto Briefing."
     }
   ],
   "business": {
@@ -210,7 +200,7 @@
         "low": 30,
         "condition": "Partly Cloudy",
         "condition_ur": "جزوی ابر آلود",
-        "precip": 2
+        "precip": 4
       },
       {
         "date": "2026-07-18",
@@ -219,7 +209,7 @@
         "low": 32,
         "condition": "Overcast",
         "condition_ur": "ابر آلود",
-        "precip": 20
+        "precip": 10
       },
       {
         "date": "2026-07-19",
@@ -228,7 +218,7 @@
         "low": 32,
         "condition": "Light Drizzle",
         "condition_ur": "ہلکی بوندا باندی",
-        "precip": 25
+        "precip": 33
       },
       {
         "date": "2026-07-20",
@@ -237,7 +227,7 @@
         "low": 28,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 72
+        "precip": 78
       },
       {
         "date": "2026-07-21",
@@ -246,7 +236,7 @@
         "low": 26,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 99
+        "precip": 96
       },
       {
         "date": "2026-07-22",
@@ -255,7 +245,7 @@
         "low": 26,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 99
+        "precip": 98
       },
       {
         "date": "2026-07-23",
