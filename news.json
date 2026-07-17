@@ -1,217 +1,167 @@
 {
-  "generated": "2026-07-17T15:56:12Z",
+  "generated": "2026-07-17T17:07:08Z",
   "world": [
     {
-      "title": "New Delhi asks ship owners not to send Indian sailors to Hormuz",
-      "desc": "New Delhi has advised ship owners to avoid deploying Indian seafarers on vessels transiting the Strait of Hormuz amid escalating security risks in the region",
-      "source": "RT",
-      "url": "https://www.rt.com/india/643136-india-sailors-hormuz-directive/",
-      "time": "2026-07-16T15:54:40",
+      "title": "Drugs Keep Winning in the Global War on Drugs",
+      "desc": "The United Nations’ latest 'World Drug Report' makes that very clear.",
+      "source": "Reason",
+      "url": "https://reason.com/2026/07/16/drugs-keep-winning-in-the-global-war-on-drugs/",
+      "time": "2026-07-16T17:03:39",
+      "country": "International",
+      "title_ur": "منشیات کے خلاف عالمی جنگ میں منشیات جیتتی رہیں",
+      "desc_ur": "اقوام متحدہ کی تازہ ترین 'ورلڈ ڈرگ رپورٹ' اس بات کو بالکل واضح کرتی ہے۔"
+    },
+    {
+      "title": "Woman hacked to death in Mangaluru",
+      "desc": "Unidentified attacker stabs young woman near KSRTC New bus stand at BC Road, Bantwal; she’s seriously injured and hospitalized as police investigate.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/mangaluru/woman-dies-after-being-attacked-with-sharp-weapon/articleshow/132441498.cms",
+      "time": "2026-07-16T17:03:13",
+      "country": "US",
+      "title_ur": "منگلورو میں خاتون کا گلا گھونٹ کر قتل",
+      "desc_ur": "بنٹوال کے بی سی روڈ پر کے ایس آر ٹی سی نیو بس اسٹینڈ کے قریب نامعلوم حملہ آور نے نوجوان خاتون کو چاقو مارا۔ وہ شدید زخمی ہے اور پولیس کی تفتیش کے دوران ہسپتال میں داخل ہے۔"
+    },
+    {
+      "title": "Political Inertia",
+      "desc": "Thirty-one years after the birth of its democracy, South Africa remains plagued by the ghosts of colonization and Apartheid and continues to reproduce the same violence it sought to overcome.",
+      "source": "Nplusonemag.com",
+      "url": "https://www.nplusonemag.com/online-only/gooooaaal/political-inertia/",
+      "time": "2026-07-16T17:02:20",
+      "country": "International",
+      "title_ur": "سیاسی جڑت",
+      "desc_ur": "اپنی جمہوریت کی پیدائش کے اکتیس سال بعد، جنوبی افریقہ کالونائزیشن اور نسل پرستی کے بھوتوں سے دوچار ہے اور اسی تشدد کو دوبارہ پیدا کر رہا ہے جس پر قابو پانے کی کوشش کی گئی تھی۔"
+    },
+    {
+      "title": "India Is Becoming the World's Refining Swing Producer",
+      "desc": "For years, the world's swing oil producer has been Saudi Arabia. Need more crude? Riyadh opens the taps. Too much oil? Riyadh closes them. But while everyone has been watching who controls crude production, another swing producer has quietly been taking shape…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/India-Is-Becoming-the-Worlds-Refining-Swing-Producer.html",
+      "time": "2026-07-16T17:00:00",
       "country": "India",
-      "title_ur": "نئی دہلی نے جہاز کے مالکان سے کہا ہے کہ وہ ہندوستانی ملاحوں کو ہرمز نہ بھیجیں۔",
-      "desc_ur": "نئی دہلی نے بحری جہاز کے مالکان کو مشورہ دیا ہے کہ وہ خطے میں بڑھتے ہوئے سکیورٹی خطرات کے درمیان آبنائے ہرمز سے گزرنے والے جہازوں پر ہندوستانی بحری جہازوں کی تعیناتی سے گریز کریں۔"
+      "title_ur": "ہندوستان دنیا کا ریفائننگ سوئنگ پروڈیوسر بن رہا ہے۔",
+      "desc_ur": "برسوں سے دنیا کا تیل پیدا کرنے والا ملک سعودی عرب رہا ہے۔ مزید خام تیل کی ضرورت ہے؟ ریاض نے نلکیاں کھولیں۔ بہت زیادہ تیل؟ ریاض نے انہیں بند کر دیا۔ لیکن جب ہر کوئی دیکھ رہا ہے کہ خام پیداوار کو کون کنٹرول کرتا ہے، ایک اور سوئنگ پروڈیوسر خاموشی سے شکل اختیار کر رہا ہے…"
     },
     {
-      "title": "Investment Environment",
-      "desc": "Before being appointed Finance Minister, Swornim Wagle had criticized Nepal’s taxation policy, stating that the government was collecting taxes like Norway but providing services to taxpayers like Somalia. His argument was that citizens and businesses were be…",
-      "source": "Peoplesreview.com.np",
-      "url": "https://peoplesreview.com.np/2026/07/16/investment-environment/",
-      "time": "2026-07-16T15:54:00",
+      "title": "Doctor Who Changed Its Canon Forever 9 Years Ago Today, & Viewers Are Still Divided On It",
+      "desc": "It’s been exactly nine years since Doctor Who regenerated itself in the most dramatic way. Regeneration has always been Doctor Who‘s secret sauce, because it means the show can effectively reinvent itself with remarkable ease. Looking back, the first ever reg…",
+      "source": "ComicBook.com",
+      "url": "http://comicbook.com/tv-shows/feature/doctor-who-changed-its-canon-forever-9-years-ago-today-viewers-are-still-divided-on-it/",
+      "time": "2026-07-16T17:00:00",
       "country": "US",
-      "title_ur": "سرمایہ کاری کا ماحول",
-      "desc_ur": "وزیر خزانہ مقرر ہونے سے پہلے، سوارنیم واگلے نے نیپال کی ٹیکس پالیسی پر تنقید کرتے ہوئے کہا تھا کہ حکومت ناروے کی طرح ٹیکس وصول کر رہی ہے لیکن صومالیہ جیسے ٹیکس دہندگان کو خدمات فراہم کر رہی ہے۔ ان کی دلیل یہ تھی کہ شہری اور کاروبار…"
+      "title_ur": "ڈاکٹر جس نے آج سے 9 سال پہلے اپنا کینن ہمیشہ کے لیے بدل دیا، اور ناظرین اب بھی اس پر تقسیم ہیں۔",
+      "desc_ur": "بالکل نو سال ہو چکے ہیں ڈاکٹر جس نے خود کو انتہائی ڈرامائی انداز میں دوبارہ تخلیق کیا۔ تخلیق نو ہمیشہ ڈاکٹر کی خفیہ چٹنی رہی ہے، کیونکہ اس کا مطلب یہ ہے کہ شو مؤثر طریقے سے اپنے آپ کو قابل ذکر آسانی کے ساتھ نئی شکل دے سکتا ہے۔ پیچھے مڑ کر دیکھا جائے تو پہلی بار…"
     },
     {
-      "title": "Israeli attacks kill at least five Palestinians in Gaza despite ‘ceasefire’",
-      "desc": "Attacks continue in violation of the October agreement with more than 1,100 Palestinians killed since then.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/7/16/israeli-attacks-kill-at-least-five-palestinians-in-gaza-despite-ceasefire",
-      "time": "2026-07-16T15:53:42",
+      "title": "Chevron and Iraq seek to bypass Strait of Hormuz with Syria pipeline",
+      "desc": "Consortium backing project also includes Syrian-Qatari group and LA venture firm with ties to Trump ally Tom Barrack",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/2a44c6919a5f62ae",
+      "time": "2026-07-16T16:59:32",
+      "country": "Iraq",
+      "title_ur": "شیورون اور عراق شامی پائپ لائن کے ذریعے آبنائے ہرمز کو نظرانداز کرنا چاہتے ہیں۔",
+      "desc_ur": "کنسورشیم کی پشت پناہی کے منصوبے میں شامی-قطری گروپ اور ایل اے وینچر فرم بھی شامل ہے جس کے ساتھ ٹرمپ کے اتحادی ٹام بیرک سے تعلقات ہیں۔"
+    },
+    {
+      "title": "House Defeats Bid To End Israel Aid While Senate Blocks US-Israel Intel Integration",
+      "desc": "House Defeats Bid To End Israel Aid While Senate Blocks US-Israel Intel Integration\n \nThe U.S. House on Wednesday rejected an amendment by Rep. Thomas Massie (R-Ky.) that would have eliminated $3.3 billion in annual U.S. military aid to Israel, voting 314–104…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/30af85e34cf7332d",
+      "time": "2026-07-16T16:59:14",
       "country": "Israel",
-      "title_ur": "’جنگ بندی‘ کے باوجود غزہ میں اسرائیلی حملوں میں کم از کم پانچ فلسطینی ہلاک",
-      "desc_ur": "اکتوبر کے معاہدے کی خلاف ورزی کرتے ہوئے حملے جاری ہیں جس کے بعد سے اب تک 1,100 سے زیادہ فلسطینی ہلاک ہو چکے ہیں۔"
+      "title_ur": "ہاؤس نے اسرائیل کی امداد کو ختم کرنے کی بولی کو شکست دی جبکہ سینیٹ نے امریکی-اسرائیل انٹیل انٹیگریشن کو روک دیا",
+      "desc_ur": "ہاؤس نے اسرائیل کی امداد کو ختم کرنے کی بولی کو شکست دی جبکہ سینیٹ نے امریکی-اسرائیل انٹیل انٹیگریشن کو روک دیا\n \nامریکی ایوان نے بدھ کے روز نمائندہ تھامس میسی (R-Ky.) کی ایک ترمیم کو مسترد کر دیا جس میں 314-104 ووٹ دیتے ہوئے، اسرائیل کو سالانہ 3.3 بلین امریکی فوجی امداد کو ختم کر دیا جائے گا۔"
     },
     {
-      "title": "Iran calls on Houthis to prepare to cut off Red Sea gateway — can the terror group do it?",
-      "desc": "Iran reportedly told Houthis to prepare to close the Bab el-Mandeb Strait with missiles, drones and sea mines if the U.S. strikes Iranian infrastructure.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/world/iran-calls-houthis-prepare-cut-off-red-sea-gateway-can-terror-group-do-it",
-      "time": "2026-07-16T15:53:39",
-      "country": "Iran",
-      "title_ur": "ایران نے حوثیوں سے بحیرہ احمر کے گیٹ وے کو منقطع کرنے کی تیاری کرنے کا مطالبہ کیا - کیا دہشت گرد گروپ ایسا کر سکتا ہے؟",
-      "desc_ur": "ایران نے مبینہ طور پر حوثیوں سے کہا تھا کہ اگر امریکہ ایرانی انفراسٹرکچر پر حملہ کرتا ہے تو وہ آبنائے باب المندب کو میزائلوں، ڈرونز اور سمندری بارودی سرنگوں سے بند کرنے کے لیے تیار رہیں۔"
-    },
-    {
-      "title": "Iran threatens to lash out at Arab neighbors as US ramps up strikes - Fox News",
-      "desc": "Iran threatens to lash out at Arab neighbors as US ramps up strikesFox News Iran War Live Updates: U.S. and Iran Escalate Attacks, While Hinting at DiplomacyThe New York Times US Strikes Iranian-Linked Oil Tanker Deep Within Persian GulfBloomberg.com US expan…",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184480894",
-      "time": "2026-07-16T15:53:27",
-      "country": "Iran",
-      "title_ur": "امریکی حملے میں اضافے پر ایران نے عرب پڑوسیوں پر حملہ کرنے کی دھمکی دے دی - فاکس نیوز",
-      "desc_ur": "ایران نے عرب پڑوسیوں پر حملہ کرنے کی دھمکی دی ہے جب امریکہ نے حملہ کیا ہے فاکس نیوز ایران جنگ لائیو اپ ڈیٹس: امریکہ اور ایران نے سفارت کاری کا اشارہ دیتے ہوئے حملے بڑھا دیے نیویارک ٹائمز امریکہ نے خلیج فارس کے اندر ایران سے منسلک آئل ٹینکر پر حملہ کیا۔"
-    },
-    {
-      "title": "US to negotiate with Iran, no ground forces in Operation Epic Fury: Vance",
-      "desc": "The U.S. strategy to avoid ground forces in Iran may stabilize markets by signaling a preference for diplomacy over military escalation.\nThe post US to negotiate with Iran, no ground forces in Operation Epic Fury: Vance appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-to-negotiate-with-iran-no-ground-forces-in-operation-epic-fury-vance/",
-      "time": "2026-07-16T15:52:56",
-      "country": "Iran",
-      "title_ur": "امریکہ ایران کے ساتھ مذاکرات کرے گا، آپریشن ایپک فیوری میں کوئی زمینی فوج نہیں: وینس",
-      "desc_ur": "ایران میں زمینی افواج سے بچنے کی امریکی حکمت عملی فوجی کشیدگی پر سفارت کاری کو ترجیح دینے کا اشارہ دے کر مارکیٹوں کو مستحکم کر سکتی ہے۔\nThe post امریکا ایران سے مذاکرات کرے گا، آپریشن ایپک فیوری میں کوئی زمینی فوج نہیں: وینس appeared first on Crypto Briefing."
-    },
-    {
-      "title": "Israeli government passes disputed laws to shore up support for Netanyahu before election",
-      "desc": "Former head of armed forces Gadi Eisenkot has emerged as PM’s main rival and has taken a lead in the polls",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/07/16/israeli-government-passes-disputed-laws-to-shore-up-support-for-netanyahu-before-election/",
-      "time": "2026-07-16T15:52:49",
-      "country": "Israel",
-      "title_ur": "اسرائیلی حکومت نے انتخابات سے قبل نیتن یاہو کی حمایت بڑھانے کے لیے متنازع قوانین منظور کر لیے ہیں۔",
-      "desc_ur": "مسلح افواج کے سابق سربراہ گڈی آئزن کوٹ وزیر اعظم کے اہم حریف کے طور پر ابھرے ہیں اور انہوں نے انتخابات میں برتری حاصل کی ہے"
-    },
-    {
-      "title": "Dricus du Plessis ready to show against Kamaru Usman he has fixed issues: 'It was a gameplan problem'",
-      "desc": "DDP is well aware of his shortcomings against Khamzat Chimaev in his last appearance",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/ufc/news/dricus-du-plessis-kamaru-usman-ufc-fight-night-oklahoma-city/",
-      "time": "2026-07-16T15:52:09",
+      "title": "Harry Enten Names 1 Figure ‘Far More Popular’ Than Trump Among Young Republicans",
+      "desc": "The CNN data analyst said the podcaster’s show is the “place you want to go” to appeal to the demographic.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/harry-enten-joe-rogan-popular-young-republicans-trump_n_6a58f1f6e4b071ebc1baa2f4",
+      "time": "2026-07-16T16:56:01",
       "country": "US",
-      "title_ur": "ڈریکس ڈو پلیسس کمارو عثمان کے خلاف دکھانے کے لیے تیار ہیں، انھوں نے مسائل حل کر لیے ہیں: 'یہ گیم پلان کا مسئلہ تھا'",
-      "desc_ur": "ڈی ڈی پی اپنی آخری پیشی میں خمزت چیمائیف کے خلاف اپنی کوتاہیوں سے بخوبی واقف ہے۔"
+      "title_ur": "ہیری اینٹن نے نوجوان ریپبلکنز میں ٹرمپ کے مقابلے میں 1 شخصیت کو 'بہت زیادہ مقبول' قرار دیا",
+      "desc_ur": "CNN ڈیٹا تجزیہ کار نے کہا کہ پوڈ کاسٹر کا شو وہ جگہ ہے جہاں آپ جانا چاہتے ہیں آبادیاتی کو اپیل کرنے کے لیے۔"
     },
     {
-      "title": "Iran tells Houthis to close Red Sea gateway if US hits power network, sources say",
-      "desc": "Iran has asked Yemen’s Houthi movement to stand ready to close the Red Sea oil route if the United States strikes Iranian power infrastructure, three sources said.",
+      "title": "Average 30-year mortgage rate climbs to 6.55%, highest in nearly a year",
+      "desc": "Average 30-year mortgage rate climbs to 6.55%, highest in nearly a yearbostonherald.com",
+      "source": "Medianewsgroup.com",
+      "url": "https://wirehub.medianewsgroup.com/2026/07/16/average-30-year-us-mortgage-rate-climbs-to-6-55-highest-level-in-nearly-a-year/",
+      "time": "2026-07-16T16:55:51",
+      "country": "Saudi Arabia",
+      "title_ur": "30 سالہ رہن کی اوسط شرح 6.55 فیصد تک پہنچ گئی، تقریباً ایک سال میں سب سے زیادہ",
+      "desc_ur": "30 سالہ رہن کی اوسط شرح 6.55 فیصد تک پہنچ گئی، جو تقریباً ایک سال میں سب سے زیادہ ہےbostonherald.com"
+    },
+    {
+      "title": "US bombardment of Iran is Trump’s warning to the mullahs he’s willing to destroy power plants, bridges: expert",
+      "desc": "The latest American strikes in Iran demonstrate that President Trump is willing to make good on his threat to hit Tehran's power plants and bridges, according to a new report.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/07/16/world-news/iran-tells-houthis-to-close-red-sea-gateway-if-us-hits-power-network-sources-say/",
-      "time": "2026-07-16T15:51:55",
+      "url": "https://nypost.com/2026/07/16/world-news/us-bombardment-of-iran-is-trumps-warning-to-the-mullahs-hes-willing-to-destroy-power-plants-bridges-expert/",
+      "time": "2026-07-16T16:55:19",
       "country": "Iran",
-      "title_ur": "ذرائع کا کہنا ہے کہ ایران نے حوثیوں سے کہا ہے کہ اگر امریکہ نے پاور نیٹ ورک کو نشانہ بنایا تو وہ بحیرہ احمر کا گیٹ وے بند کر دیں۔",
-      "desc_ur": "تین ذرائع نے بتایا کہ ایران نے یمن کی حوثی تحریک سے کہا ہے کہ وہ بحیرہ احمر کے تیل کا راستہ بند کرنے کے لیے تیار رہیں اگر امریکہ ایرانی پاور انفراسٹرکچر پر حملہ کرتا ہے۔"
+      "title_ur": "ایران پر امریکی بمباری ٹرمپ کی ملاؤں کو انتباہ ہے جو وہ پاور پلانٹس، پلوں کو تباہ کرنے کے لیے تیار ہیں: ماہر",
+      "desc_ur": "ایک نئی رپورٹ کے مطابق، ایران میں تازہ ترین امریکی حملے یہ ظاہر کرتے ہیں کہ صدر ٹرمپ تہران کے پاور پلانٹس اور پلوں کو نشانہ بنانے کی اپنی دھمکی کو پورا کرنے کے لیے تیار ہیں۔"
     },
     {
-      "title": "Editorial. Inflated worries",
-      "desc": "RBI can look through the spike in CPI in June",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/opinion/editorial/inflated-worries/article71230293.ece",
-      "time": "2026-07-16T15:51:48",
-      "country": "International",
-      "title_ur": "اداریہ۔ فلائی ہوئی پریشانیاں",
-      "desc_ur": "آر بی آئی جون میں سی پی آئی میں اضافے کو دیکھ سکتا ہے۔"
+      "title": "Letters to the Editor: Paul Henry adds to the entertainment of politics",
+      "desc": "OPINION: A reader says it is no surprise Chris Hipkins is for the generous MP super.",
+      "source": "New Zealand Herald",
+      "url": "https://www.nzherald.co.nz/nz/letters-to-the-editor-paul-henry-adds-to-the-entertainment-of-politics/premium/ML434LSC6BAOFPVWF6X56EVDUU/",
+      "time": "2026-07-16T16:55:00",
+      "country": "US",
+      "title_ur": "ایڈیٹر کو خطوط: پال ہنری نے سیاست کی تفریح ​​میں اضافہ کیا۔",
+      "desc_ur": "رائے: ایک قاری کا کہنا ہے کہ یہ کوئی تعجب کی بات نہیں ہے کہ کرس ہپکنز سخی ایم پی سپر کے لیے ہیں۔"
     },
     {
-      "title": "India’s Maruti to Fight Order to Replace Car Over Ethanol Damage",
-      "desc": "Maruti Suzuki India Ltd. said it will challenge a consumer court order asking the nation’s largest carmaker to replace a vehicle over alleged damage from ethanol-blended fuel, a case that assumes significance as the debate over the nation’s biofuel push inten…",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/indias-maruti-to-fight-order-to-replace-car-over-ethanol-damage",
-      "time": "2026-07-16T15:51:09",
-      "country": "India",
-      "title_ur": "بھارت کی ماروتی ایتھنول کے نقصان پر کار کو تبدیل کرنے کے آرڈر سے لڑے گی۔",
-      "desc_ur": "ماروتی سوزوکی انڈیا لمیٹڈ نے کہا کہ وہ صارف عدالت کے اس حکم کو چیلنج کرے گی جس میں ملک کی سب سے بڑی کار ساز کمپنی سے ایتھنول ملاوٹ والے ایندھن سے ہونے والے مبینہ نقصان پر گاڑی کو تبدیل کرنے کا کہا جائے گا، یہ ایک ایسا معاملہ ہے جو ملک کے بائیو فیول پش پر بحث کے طور پر اہمیت رکھتا ہے…"
+      "title": "Average 30-year US mortgage rate climbs to 6.55%, highest level in nearly a year",
+      "desc": "The average long-term U.S. mortgage rate climbed this week to its highest level in nearly a year, driving up borrowing costs for prospective homebuyers",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/Business/wireStory/average-30-year-us-mortgage-rate-climbs-655-134820338",
+      "time": "2026-07-16T16:53:40",
+      "country": "US",
+      "title_ur": "30 سالہ امریکی رہن کی اوسط شرح 6.55 فیصد تک پہنچ گئی، تقریباً ایک سال کی بلند ترین سطح",
+      "desc_ur": "اوسط طویل مدتی امریکی رہن کی شرح اس ہفتے تقریباً ایک سال میں اپنی بلند ترین سطح پر پہنچ گئی، جس سے ممکنہ گھریلو خریداروں کے لیے قرض لینے کے اخراجات بڑھ گئے"
     },
     {
-      "title": "Could Iran's 'sadistic' regime still collapse from within? NATALIE LISBONA shares haunting stories from those trapped inside the country as fury at the Ayatollahs nears 'boiling point'",
-      "desc": "Middle East Correspondent Natalie Lisbona and Chief Foreign Correspondent Andy Jehring have shared stories from inside a teetering Islamic Republic.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-15982779/iran-regime-collapse-protests-deep-dive-podcast-natalie-lisbona.html",
-      "time": "2026-07-16T15:51:04",
+      "title": "Smotrich warns: \"An Eisenkot government will establish a Palestinian terror state\"",
+      "desc": "Finance Minister warns that the upcoming elections will determine whether Israel is governed by a national government or a left-wing coalition.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/430291",
+      "time": "2026-07-16T16:53:11",
+      "country": "Israel",
+      "title_ur": "سموٹریچ نے خبردار کیا: \"ایک آئزن کوٹ حکومت ایک فلسطینی دہشت گرد ریاست قائم کرے گی\"",
+      "desc_ur": "وزیر خزانہ نے خبردار کیا کہ آئندہ انتخابات اس بات کا تعین کریں گے کہ اسرائیل پر قومی حکومت کی حکومت ہے یا بائیں بازو کے اتحاد کے ذریعے۔"
+    },
+    {
+      "title": "Israel Adesanya: McGregor could have hurt himself in warmup for UFC 329 - MMA Junkie",
+      "desc": "Israel Adesanya: McGregor could have hurt himself in warmup for UFC 329MMA Junkie Conor McGregor Gives Injury Update Ahead of Surgery, Wants Result Change in Holloway FightBleacher Report Between the Links: Conor McGregor’s disastrous return, UFC 329 fallout,…",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184481730",
+      "time": "2026-07-16T16:53:08",
+      "country": "Israel",
+      "title_ur": "اسرائیل اڈیسنیا: میک گریگر UFC 329 کے وارم اپ میں خود کو نقصان پہنچا سکتا تھا - MMA جنکی",
+      "desc_ur": "اسرائیل ایڈیسانیا: میک گریگور UFC 329MMA کے لیے وارم اپ میں خود کو نقصان پہنچا سکتا تھا جنکی کونر میک گریگور نے سرجری سے پہلے چوٹ کی تازہ کاری دی، ہولوے فائٹ بلیچر رپورٹ کے درمیان نتائج میں تبدیلی چاہتے ہیں: کونور میکگریگر کی تباہ کن واپسی، UFC 329 فال آؤٹ"
+    },
+    {
+      "title": "Ukraine will build 5M drones in 2026. NATO must learn how: deputy commander",
+      "desc": "The alliance must also take hard lessons from the U.S. war on Iran, said Air Chief Marshal Johnny Stringer.",
+      "source": "Defense One",
+      "url": "https://www.defenseone.com/threats/2026/07/ukraine-will-build-more-5-million-drones-year-nato-must-take-notes-deputy-chief-says/414819/",
+      "time": "2026-07-16T16:50:04",
       "country": "Iran",
-      "title_ur": "کیا ایران کی 'افسوس پرست' حکومت اب بھی اندر سے گر سکتی ہے؟ NATALIE LISBONA نے ملک کے اندر پھنسے ہوئے لوگوں کی خوفناک کہانیاں شیئر کیں کیونکہ آیت اللہ کا غصہ 'ابولنگ پوائنٹ' کے قریب پہنچ گیا ہے۔",
-      "desc_ur": "مشرق وسطیٰ کی نامہ نگار نیٹلی لزبونا اور چیف فارن نامہ نگار اینڈی جیہرنگ نے اسلامی جمہوریہ کے اندر کی کہانیاں شیئر کی ہیں۔"
-    },
-    {
-      "title": "From Crucifixion to Resurrection: Deconstructing Christianity’s Central Dogma",
-      "desc": "What did the earliest Christians actually claim about the Resurrection, and does it mean what we’ve always assumed? This forensic deconstruction traces the belief from Paul’s visionary letters to the Gospels’ physical legends, exposing how a spiritual vision …",
-      "source": "Skeptic.com",
-      "url": "https://www.skeptic.com/article/from-crucifixion-to-resurrection-deconstructing-christianitys-central-dogma/",
-      "time": "2026-07-16T15:49:53",
-      "country": "International",
-      "title_ur": "مصلوبیت سے قیامت تک: عیسائیت کا مرکزی عقیدہ ختم کرنا",
-      "desc_ur": "قدیم ترین عیسائیوں نے اصل میں قیامت کے بارے میں کیا دعویٰ کیا تھا، اور کیا اس کا مطلب وہی ہے جو ہم نے ہمیشہ فرض کیا ہے؟ یہ فرانزک ڈی کنسٹرکشن پولس کے بصیرت والے خطوط سے انجیل کے جسمانی افسانوں تک کے عقیدے کا پتہ لگاتا ہے، جس سے یہ ظاہر ہوتا ہے کہ کس طرح ایک روحانی وژن…"
-    },
-    {
-      "title": "Diesel Is Again Above $5, With a Long Ripple Effect",
-      "desc": "American diesel just crossed an unwelcome threshold again. The average price hit $5.01 a gallon on Thursday, AAA reports, a 33% jump since fighting between the US and Iran erupted in late February. Diesel, critical for trucking, industry, and power generation…",
-      "source": "Newser",
-      "url": "https://www.newser.com/story/392961/diesel-is-again-above-5-with-a-long-ripple-effect.html",
-      "time": "2026-07-16T15:49:00",
-      "country": "Iran",
-      "title_ur": "ڈیزل ایک بار پھر $5 سے اوپر ہے، ایک طویل لہر کے اثر کے ساتھ",
-      "desc_ur": "امریکی ڈیزل نے ایک بار پھر ناپسندیدہ حد کو عبور کیا۔ جمعرات کو اوسط قیمت $5.01 فی گیلن تک پہنچ گئی، AAA کی رپورٹ کے مطابق، فروری کے آخر میں امریکہ اور ایران کے درمیان لڑائی شروع ہونے کے بعد سے 33 فیصد اضافہ ہوا۔ ڈیزل، ٹرکنگ، صنعت اور بجلی کی پیداوار کے لیے اہم…"
-    },
-    {
-      "title": "Drones intercepted over Erbil amid rising Iran-US tensions",
-      "desc": "Escalating Iran-US tensions heighten risks of broader regional conflict, impacting Gulf states and causing market volatility amid uncertainty.\nThe post Drones intercepted over Erbil amid rising Iran-US tensions appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/drones-intercepted-over-erbil-amid-rising-iran-us-tensions/",
-      "time": "2026-07-16T15:48:33",
-      "country": "Iran",
-      "title_ur": "ایران اور امریکہ کے درمیان بڑھتی ہوئی کشیدگی کے درمیان اربیل پر ڈرون کو روکا گیا۔",
-      "desc_ur": "ایران امریکہ کشیدگی میں اضافہ وسیع تر علاقائی تنازعات کے خطرات کو بڑھاتا ہے، خلیجی ریاستوں کو متاثر کرتا ہے اور غیر یقینی صورتحال کے درمیان مارکیٹ میں اتار چڑھاؤ کا باعث بنتا ہے۔\nThe post ایران اور امریکا کے درمیان بڑھتی ہوئی کشیدگی کے درمیان اربیل پر ڈرونز کو روکا گیا appeared first on Crypto Briefing."
+      "title_ur": "یوکرین 2026 میں 5M ڈرون بنائے گا۔ نیٹو کو سیکھنا چاہیے کہ کیسے: ڈپٹی کمانڈر",
+      "desc_ur": "ائیر چیف مارشل جانی سٹرنگر نے کہا کہ اتحاد کو ایران کے خلاف امریکی جنگ سے بھی سخت سبق لینا چاہیے۔"
     }
   ],
   "pakistan": [
     {
-      "title": "Can Israel's new one-line law shield Haredim from IDF service?",
-      "desc": "Days before Israel heads into an election season, the coalition enshrined Torah study in a semi-constitutional Basic Law and froze enforcement against tens of thousands of draft evaders. Legal experts warn the move could pave the way for permanent exemptions",
-      "source": "Haaretz",
-      "url": "https://www.haaretz.com/haaretz-explains/2026-07-16/ty-article-magazine/.premium/can-israels-new-one-line-law-shield-haredim-from-idf-service/0000019f-6a62-de8e-afff-fbfaf62f0000",
-      "time": "2026-07-16T15:55:02",
-      "country": "Pakistan",
-      "title_ur": "کیا اسرائیل کا نیا ون لائن قانون حریم کو IDF سروس سے بچا سکتا ہے؟",
-      "desc_ur": "اسرائیل کے انتخابی موسم کی طرف جانے سے چند دن پہلے، اتحاد نے تورات کے مطالعہ کو ایک نیم آئینی بنیادی قانون میں شامل کیا اور دسیوں ہزار مسودہ چوری کرنے والوں کے خلاف نفاذ کو منجمد کر دیا۔ قانونی ماہرین نے خبردار کیا ہے کہ اس اقدام سے مستقل استثنیٰ کی راہ ہموار ہو سکتی ہے۔"
-    },
-    {
-      "title": "Warren Buffett pulls no punches on stock market for 2026",
-      "desc": "The S&P 500 has been hitting all-time highs this year. Retail traders are piling into Micron and the SpaceXIPO. One-day options trading is at record levels....",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/investing/stocks/warren-buffett-value-hard-to-find-stock-market-2026",
-      "time": "2026-07-16T15:47:29",
-      "country": "Pakistan",
-      "title_ur": "وارن بفیٹ نے 2026 کے لیے اسٹاک مارکیٹ پر کوئی مکا نہیں لگایا",
-      "desc_ur": "S&P 500 اس سال ہمہ وقتی بلندیوں کو چھو رہا ہے۔ خوردہ تاجر مائکرون اور اسپیس ایکس آئی پی او میں جمع ہو رہے ہیں۔ ایک روزہ آپشنز ٹریڈنگ ریکارڈ سطح پر ہے...."
-    },
-    {
-      "title": "Ahead of Market: 10 things that will decide stock market action on Friday",
-      "desc": "Indian equities ended subdued as geopolitical tensions capped gains despite optimism around Q1 earnings. Analysts expect stock-specific action, with financials, autos and digital firms in focus, while Nifty remains range-bound between key support and resistan…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/132443127.cms",
-      "time": "2026-07-16T15:46:50",
-      "country": "Pakistan",
-      "title_ur": "مارکیٹ سے آگے: 10 چیزیں جو جمعہ کو اسٹاک مارکیٹ کی کارروائی کا فیصلہ کریں گی۔",
-      "desc_ur": "Q1 کی آمدنی کے ارد گرد رجائیت کے باوجود جغرافیائی سیاسی تناؤ کی وجہ سے ہندوستانی ایکوئٹی دب گئی تھی۔ تجزیہ کار مالیات، آٹوز اور ڈیجیٹل فرموں پر توجہ کے ساتھ اسٹاک کے لیے مخصوص کارروائی کی توقع کرتے ہیں، جبکہ نفٹی کلیدی سپورٹ اور مزاحمت کے درمیان حد تک پابند رہتا ہے…"
-    },
-    {
-      "title": "Air defences intercept drones over Erbil, Iraq",
-      "desc": "Verified eyewitness video captures multiple aerial interceptions over Erbil, Iraq",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/air-defences-intercept-drones-over-erbil-iraq",
-      "time": "2026-07-16T15:38:48",
-      "country": "Pakistan",
-      "title_ur": "ایئر ڈیفنس نے عراق کے اربیل پر ڈرون کو روکا۔",
-      "desc_ur": "عینی شاہد کی تصدیق شدہ ویڈیو نے عراق کے اربیل میں متعدد فضائی مداخلت کی ہے۔"
-    },
-    {
-      "title": "US-Iran ceasefire collapse drives crude oil prices higher this week",
-      "desc": "The ceasefire collapse heightens geopolitical risks, potentially sustaining elevated oil prices, but market skepticism limits drastic hikes.\nThe post US-Iran ceasefire collapse drives crude oil prices higher this week appeared first on Crypto Briefing.",
+      "title": "US missile strikes near Bandar Abbas rattle crypto markets as Bitcoin slides below $73K",
+      "desc": "The missile strikes near Bandar Abbas highlight geopolitical tensions' impact on crypto markets, potentially prompting stricter regulations.\nThe post US missile strikes near Bandar Abbas rattle crypto markets as Bitcoin slides below $73K appeared first on Cry…",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-iran-ceasefire-collapse-drives-crude-oil-prices-higher-this-week/",
-      "time": "2026-07-16T15:25:42",
+      "url": "https://cryptobriefing.com/us-strikes-bandar-abbas-bitcoin-drops/",
+      "time": "2026-07-16T16:51:17",
       "country": "Pakistan",
-      "title_ur": "امریکہ-ایران جنگ بندی کے خاتمے نے اس ہفتے خام تیل کی قیمتوں میں اضافہ کیا۔",
-      "desc_ur": "جنگ بندی کا خاتمہ جغرافیائی سیاسی خطرات کو بڑھاتا ہے، ممکنہ طور پر تیل کی بلند قیمتوں کو برقرار رکھتا ہے، لیکن مارکیٹ کے شکوک و شبہات سخت اضافے کو محدود کرتے ہیں۔\nThe post امریکا ایران جنگ بندی کے خاتمے سے اس ہفتے خام تیل کی قیمتوں میں اضافہ appeared first on Crypto Briefing."
-    },
-    {
-      "title": "Iran accuses US of violating Islamabad MOU, escalating tensions",
-      "desc": "The U.S.-Iran tensions may lead to prolonged geopolitical instability, affecting global markets and diplomatic relations in the region.\nThe post Iran accuses US of violating Islamabad MOU, escalating tensions appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-accuses-us-of-violating-islamabad-mou-escalating-tensions/",
-      "time": "2026-07-16T15:25:24",
-      "country": "Pakistan",
-      "title_ur": "ایران نے امریکا پر اسلام آباد کے ایم او یو کی خلاف ورزی کا الزام لگایا، جس سے کشیدگی میں اضافہ ہوا۔",
-      "desc_ur": "امریکہ ایران کشیدگی طویل جغرافیائی سیاسی عدم استحکام کا باعث بن سکتی ہے جس سے عالمی منڈیوں اور خطے میں سفارتی تعلقات متاثر ہو سکتے ہیں۔\nThe post ایران کا امریکا پر اسلام آباد ایم او یو کی خلاف ورزی کا الزام، کشیدگی میں اضافہ appeared first on Crypto Briefing."
+      "title_ur": "بندر عباس کے قریب امریکی میزائل حملے نے کرپٹو مارکیٹوں کو ہلچل مچا دی کیونکہ بٹ کوائن $73K سے نیچے چلا گیا",
+      "desc_ur": "بندر عباس کے قریب میزائل حملے کرپٹو مارکیٹس پر جغرافیائی سیاسی تناؤ کے اثرات کو نمایاں کرتے ہیں، ممکنہ طور پر سخت ضوابط کا باعث بنتے ہیں۔\nThe post بندر عباس کے قریب امریکی میزائل حملے نے کرپٹو مارکیٹوں میں ہلچل مچادی، بٹ کوائن 73 ہزار ڈالر سے نیچے گر گیا appeared first on Cry…"
     }
   ],
   "business": {
