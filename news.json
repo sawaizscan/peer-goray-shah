@@ -1,167 +1,187 @@
 {
-  "generated": "2026-07-18T18:54:06Z",
+  "generated": "2026-07-18T20:01:34Z",
   "world": [
     {
-      "title": "Sixth Day of US, Iran Counterattacks Puts Ceasefire Out of Reach",
-      "desc": "The US and Iran traded attacks again on Friday, pressuring oil prices and making a quick return to the fragile ceasefire deal signed last month even less likely.",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/sixth-day-of-us-iran-counterattacks-puts-ceasefire-out-of-reach",
-      "time": "2026-07-17T18:53:21",
-      "country": "Iran",
-      "title_ur": "امریکہ کے چھٹے دن، ایران کے جوابی حملوں نے جنگ بندی کو پہنچ سے باہر کر دیا۔",
-      "desc_ur": "امریکہ اور ایران نے جمعہ کے روز دوبارہ حملے کیے، تیل کی قیمتوں پر دباؤ ڈالا اور گزشتہ ماہ ہونے والے اس نازک جنگ بندی کے معاہدے پر جلد واپسی کا امکان بھی کم ہے۔"
-    },
-    {
-      "title": "Why oil prices are about to surge",
-      "desc": "There is a rapidly escalating supply crunch that has yet to show up on oil markets. While the price of crude has risen in the past week, as the fragile ceasefire has crumbled, the remarkably restrained price moves have helped create a false sense of security.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-07-18/verrender-supply-crunch-oil-markets/106921650",
-      "time": "2026-07-17T18:52:23",
-      "country": "International",
-      "title_ur": "تیل کی قیمتیں کیوں بڑھ رہی ہیں؟",
-      "desc_ur": "تیزی سے بڑھتی ہوئی سپلائی کا بحران ہے جو ابھی تیل کی منڈیوں میں ظاہر ہونا باقی ہے۔ اگرچہ گزشتہ ہفتے خام تیل کی قیمت میں اضافہ ہوا ہے، جیسا کہ نازک سیز فائر ٹوٹ گیا ہے، قیمتوں میں غیر معمولی حد تک روکاوٹ نے تحفظ کا غلط احساس پیدا کرنے میں مدد کی ہے۔"
-    },
-    {
-      "title": "Iraq and Syria sign agreement to restore oil pipeline that would provide alternative to Strait of Hormuz",
-      "desc": "Iraq and Syria signed an agreement on Friday to rebuild an oil pipeline that would provide an alternative to the Strait of Hormuz.\nBaghdad and Syria inked the deal at a Chamber of Commerce summit in Washington D.C. on U.S. investment in Iraq. Energy Secretary…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/f0b51b585aadc408",
-      "time": "2026-07-17T18:52:21",
-      "country": "Iraq",
-      "title_ur": "عراق اور شام نے تیل کی پائپ لائن کی بحالی کے معاہدے پر دستخط کیے جو آبنائے ہرمز کا متبادل فراہم کرے گی۔",
-      "desc_ur": "عراق اور شام نے جمعے کو ایک معاہدے پر دستخط کیے ہیں جس سے تیل کی پائپ لائن کی تعمیر نو کی جائے گی جو آبنائے ہرمز کا متبادل فراہم کرے گی۔\nبغداد اور شام نے عراق میں امریکی سرمایہ کاری کے بارے میں واشنگٹن ڈی سی میں چیمبر آف کامرس کے اجلاس میں اس معاہدے پر دستخط کیے۔ سیکرٹری توانائی…"
-    },
-    {
-      "title": "Study Reveals How Brain Remodeling During Adolescence Shapes Memory",
-      "desc": "Mouse study sheds new light on how memory circuits mature BRONX, N.Y., July 17, 2026 /PRNewswire/ -- Scientists have long known that the human brain continues developing well beyond the teenage years, with important changes involving decision-making and emoti…",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/study-reveals-how-brain-remodeling-during-adolescence-shapes-memory-302828771.html",
-      "time": "2026-07-17T18:52:00",
-      "country": "US",
-      "title_ur": "مطالعہ سے پتہ چلتا ہے کہ کس طرح جوانی کے دوران دماغ کی دوبارہ تشکیل یادداشت کو شکل دیتی ہے۔",
-      "desc_ur": "ماؤس اسٹڈی اس بات پر نئی روشنی ڈالتی ہے کہ میموری سرکٹس کیسے پختہ ہوتے ہیں BRONX، NY.، 17 جولائی، 2026/PRNewswire/ -- سائنس دان طویل عرصے سے جانتے ہیں کہ انسانی دماغ نوعمری کے بعد بھی ترقی کرتا رہتا ہے، جس میں فیصلہ سازی اور جذباتیت میں اہم تبدیلیاں شامل ہوتی ہیں۔"
-    },
-    {
-      "title": "Megyn Kelly Claims ‘Israeli Representatives’ Tried to ‘Buy into’ Her Show",
-      "desc": "Megyn Kelly claimed Israeli \"representatives\" were the only foreign entities to ever try and buy into her show while issuing a stern warning to her critics.\nThe post Megyn Kelly Claims ‘Israeli Representatives’ Tried to ‘Buy into’ Her Show first appeared on M…",
-      "source": "Mediaite",
-      "url": "https://www.mediaite.com/media/podcasts/megyn-kelly-claims-israeli-representatives-tried-to-buy-into-her-show/",
-      "time": "2026-07-17T18:49:40",
-      "country": "Israel",
-      "title_ur": "میگین کیلی کا دعویٰ ہے کہ 'اسرائیلی نمائندوں' نے اس کے شو میں 'خریدنے' کی کوشش کی۔",
-      "desc_ur": "میگین کیلی نے دعویٰ کیا کہ اسرائیلی \"نمائندے\" واحد غیر ملکی ادارے تھے جنہوں نے اپنے ناقدین کو سخت انتباہ جاری کرتے ہوئے اس کے شو میں آنے کی کوشش کی۔\nThe post میگین کیلی کا دعویٰ ہے کہ ’اسرائیلی نمائندوں‘ نے اس کے شو میں ’خریدنے‘ کی کوشش کی appeared first on M…"
-    },
-    {
-      "title": "Garry Sobers, cricket's greatest all-rounder, dies at 89",
-      "desc": "Cricket icon Garry Sobers has died at the age of eighty-nine. He was widely regarded as the greatest all-round cricketer ever. Sobers achieved remarkable feats, including six sixes in one over. He also played cricket in apartheid Rhodesia, which caused contro…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/sports/cricket/garry-sobers-crickets-greatest-all-rounder-dies-at-89/articleshow/132468604.cms",
-      "time": "2026-07-17T18:46:28",
-      "country": "US",
-      "title_ur": "کرکٹ کے عظیم آل راؤنڈر گیری سوبرز 89 سال کی عمر میں انتقال کر گئے۔",
-      "desc_ur": "کرکٹ کے آئیکون گیری سوبرز ننانوے برس کی عمر میں انتقال کر گئے۔ انہیں بڑے پیمانے پر اب تک کا سب سے بڑا آل راؤنڈ کرکٹر سمجھا جاتا تھا۔ سوبرز نے ایک اوور میں چھ چھکے سمیت شاندار کارنامے انجام دیے۔ اس نے نسل پرست روڈیشیا میں کرکٹ بھی کھیلی، جس کی وجہ سے تنازعہ ہوا…"
-    },
-    {
-      "title": "As US and Iran battle for control over Hormuz, oil nations are building alternatives",
-      "desc": "Amid uncertainty around the Strait of Hormuz, for months Gulf countries and oil companies have been finding ways to bypass the choke point.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-07-18/gulf-nations-building-alternatives-to-strait-of-hormuz/106928846",
-      "time": "2026-07-17T18:46:21",
-      "country": "Iran",
-      "title_ur": "جیسا کہ امریکہ اور ایران ہرمز پر کنٹرول کے لیے لڑ رہے ہیں، تیل کے ممالک متبادل تیار کر رہے ہیں۔",
-      "desc_ur": "آبنائے ہرمز کے ارد گرد غیر یقینی صورتحال کے درمیان، کئی مہینوں سے خلیجی ممالک اور تیل کمپنیاں چوک پوائنٹ کو نظرانداز کرنے کے طریقے تلاش کر رہی ہیں۔"
-    },
-    {
-      "title": "New US Military Move May Be Ominous Sign",
-      "desc": "In a sign that doesn't bode well for a quick end to rising hostility with Iran, the US is about to beef up its ability to unleash a major air attack in the region. Axios reports that the US has informed Israel that it's sending dozens of military refueling pl…",
-      "source": "Newser",
-      "url": "https://www.newser.com/story/393059/new-us-military-move-may-be-ominous-sign.html",
-      "time": "2026-07-17T18:45:00",
-      "country": "Iran",
-      "title_ur": "نیا امریکی فوجی اقدام ایک خطرناک علامت ہو سکتا ہے۔",
-      "desc_ur": "اس علامت میں جو ایران کے ساتھ بڑھتی ہوئی دشمنی کے فوری خاتمے کے لیے اچھا نہیں لگتا، امریکہ خطے میں ایک بڑا فضائی حملہ کرنے کی اپنی صلاحیت کو بڑھانے والا ہے۔ Axios نے رپورٹ کیا ہے کہ امریکہ نے اسرائیل کو مطلع کیا ہے کہ وہ درجنوں فوجی ایندھن بھیج رہا ہے pl…"
-    },
-    {
-      "title": "All-time West Indies cricket great Garfield Sobers dies aged 89",
-      "desc": "Arguably the greatest all-rounder of the game, Sobers led the West Indies at his peak, breaking Test cricket records.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/sports/2026/7/17/all-time-west-indies-cricket-great-garfield-sobers-dies-aged-89",
-      "time": "2026-07-17T18:40:44",
-      "country": "International",
-      "title_ur": "ویسٹ انڈیز کے ہمہ وقت کرکٹ کے عظیم گارفیلڈ سوبرز 89 سال کی عمر میں انتقال کر گئے۔",
-      "desc_ur": "بلاشبہ کھیل کے سب سے بڑے آل راؤنڈر، سوبرز نے ٹیسٹ کرکٹ کے ریکارڈ توڑتے ہوئے ویسٹ انڈیز کی قیادت اپنے عروج پر کی۔"
-    },
-    {
-      "title": "Tour rescheduled without consent, agency told to pay Rs 2.42 lakh to Ahmedabad couple",
-      "desc": "Ahmedabad consumer commission orders travel firm to refund Rs 2.42 lakh plus interest for rescheduling Israel tour without consent; Rs 25,000 compensation awarded.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/ahmedabad/tour-rescheduled-without-consent-agency-told-to-pay-rs-2-42-lakh-to-ahmedabad-couple/articleshow/132468464.cms",
-      "time": "2026-07-17T18:39:55",
-      "country": "Israel",
-      "title_ur": "رضامندی کے بغیر ٹور کا شیڈول تبدیل، ایجنسی نے احمد آباد کے جوڑے کو 2.42 لاکھ روپے ادا کرنے کو کہا",
-      "desc_ur": "احمد آباد کنزیومر کمیشن نے ٹریول فرم کو 2.42 لاکھ روپے واپس کرنے کا حکم دیا اور بغیر رضامندی کے اسرائیل ٹور کو ری شیڈول کرنے پر سود 25000 روپے معاوضہ دیا گیا۔"
-    },
-    {
-      "title": "WATCH: What to expect from the World Cup halftime show",
-      "desc": "Lara Spencer details the star-studded schedule and festivities for the World Cup's first-ever halftime show.",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/video/134843905/",
-      "time": "2026-07-17T18:39:26",
-      "country": "International",
-      "title_ur": "دیکھو: ورلڈ کپ کے ہاف ٹائم شو سے کیا توقع کی جائے۔",
-      "desc_ur": "لارا اسپینسر نے ورلڈ کپ کے پہلے ہاف ٹائم شو کے لیے ستاروں سے بھرے شیڈول اور تہواروں کی تفصیلات بتائی ہیں۔"
-    },
-    {
-      "title": "Oil tankers face 'worst case scenario' in Hormuz as Iran steps up attacks on ships, maritime risk CEO says",
-      "desc": "The security situation in the Strait of Hormuz has returned to a \"worse-case scenario\" for oil tankers as Iran has repeatedly attacked ships over the past week, the CEO of a maritime risk services firm said.\n\"We see the reduction of the volume of transits thr…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/eccb4f37099875c4",
-      "time": "2026-07-17T18:36:54",
-      "country": "Iran",
-      "title_ur": "سمندری خطرے کے سی ای او کا کہنا ہے کہ ایران نے بحری جہازوں پر حملوں میں اضافہ کرتے ہوئے آئل ٹینکرز کو ہرمز میں 'بدترین صورت حال' کا سامنا کرنا پڑا",
-      "desc_ur": "ایک میری ٹائم رسک سروسز فرم کے سی ای او نے کہا کہ آبنائے ہرمز میں سکیورٹی کی صورتحال آئل ٹینکرز کے لیے \"بدتر صورت حال\" کی طرف لوٹ آئی ہے کیونکہ ایران نے گزشتہ ہفتے کے دوران کئی بار بحری جہازوں پر حملے کیے ہیں۔\n\"ہم ٹرانزٹ کے حجم میں کمی دیکھ رہے ہیں…"
-    },
-    {
-      "title": "US consumer sentiment improves in july; renewed Middle East conflict poses downside risk",
-      "desc": "US consumer sentiment improved in July amid rising Middle East tensions. US-Iran deal with reconstruction funding in 2026 at 25.5% YES.\nThe post US consumer sentiment improves in july; renewed Middle East conflict poses downside risk appeared first on Crypto …",
+      "title": "US naval blockade on Iran redirects commercial vessels, rattles crypto markets",
+      "desc": "US reimposed a naval blockade on Iran, redirecting 4 vessels and boarding 1. Over $131M in Iran-linked crypto assets frozen as Bitcoin dipped below $71K.\nThe post US naval blockade on Iran redirects commercial vessels, rattles crypto markets appeared first on…",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-consumer-sentiment-improves-in-july-renewed-middle-east-conflict-poses/",
-      "time": "2026-07-17T18:35:20",
+      "url": "https://cryptobriefing.com/us-iran-naval-blockade-crypto-impact/",
+      "time": "2026-07-17T19:58:32",
       "country": "Iran",
-      "title_ur": "جولائی میں امریکی صارفین کے جذبات میں بہتری۔ مشرق وسطیٰ کے نئے تنازعے سے منفی خطرہ لاحق ہے۔",
-      "desc_ur": "مشرق وسطیٰ میں بڑھتی ہوئی کشیدگی کے درمیان جولائی میں امریکی صارفین کے جذبات میں بہتری آئی۔ US-ایران نے 2026 میں 25.5% ہاں میں تعمیر نو کی فنڈنگ ​​کا معاہدہ کیا۔\nجولائی میں امریکی صارفین کے جذبات میں بہتری کے بعد۔ تجدید مشرق وسطی تنازعہ منفی پہلو کا خطرہ پیدا کر رہا ہے appeared first on Crypto…"
+      "title_ur": "ایران پر امریکی بحری ناکہ بندی تجارتی جہازوں کو ری ڈائریکٹ کرتی ہے، کرپٹو مارکیٹوں میں ہلچل مچ جاتی ہے۔",
+      "desc_ur": "امریکہ نے ایران پر بحری ناکہ بندی دوبارہ نافذ کر دی، 4 جہازوں اور 1 بورڈنگ کو ری ڈائریکٹ کیا۔ ایران سے منسلک کرپٹو اثاثہ جات میں $131M سے زیادہ منجمد کر دیے گئے کیونکہ بٹ کوائن $71K سے نیچے گر گیا۔\nThe post ایران پر امریکی بحری ناکہ بندی نے تجارتی جہازوں کو ری ڈائریکٹ کر دیا، کرپٹو مارکیٹوں میں ہلچل appeared first on…"
     },
     {
-      "title": "Three-quarters of ships in Strait of Hormuz go dark as missiles rain down - TradeWinds News",
-      "desc": "Three-quarters of ships in Strait of Hormuz go dark as missiles rain downTradeWinds News The U.S.-Iran battle over the Strait of Hormuz raises risks for global waterwaysNPR Some ships refusing US-military guided Hormuz transits after attacks, sources sayReute…",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184496144",
-      "time": "2026-07-17T18:33:23",
-      "country": "Iran",
-      "title_ur": "میزائلوں کی بارش سے آبنائے ہرمز میں تین چوتھائی بحری جہاز اندھیرے میں ڈوب گئے - TradeWinds News",
-      "desc_ur": "آبنائے ہرمز میں تین چوتھائی بحری جہاز اندھیرے میں چلے گئے جب میزائلوں کی بارش ہوئیTradeWinds News آبنائے ہرمز پر امریکہ اور ایران کی جنگ سے عالمی آبی گزرگاہوں کے لیے خطرات بڑھ گئےNPR کچھ بحری جہازوں نے حملوں کے بعد امریکی فوج کی رہنمائی والے ہرمز کی آمدورفت سے انکار کر دیا، ذرائع کا کہنا ہے کہ Reute…"
+      "title": "This Week in Women’s Representation: Hegseth Rolls Back Progress for Military Women; Darline Graham Nordone, Sister of Lindsey Graham, Heads to the Senate",
+      "desc": "Weekend Reading on Women’s Representation is a compilation of stories about women’s representation in politics, on boards, in sports and entertainment, in judicial offices and in the private sector in the U.S. and around the world—with a little gardening and …",
+      "source": "Ms. Magazine",
+      "url": "https://msmagazine.com/2026/07/17/politics-pete-hegseth-military-women-darline-graham-nordone-sister-lindsey-graham-senate/",
+      "time": "2026-07-17T19:58:11",
+      "country": "International",
+      "title_ur": "خواتین کی نمائندگی میں یہ ہفتہ: ہیگستھ نے فوجی خواتین کے لیے پیش رفت کو پیچھے چھوڑ دیا۔ ڈارلین گراہم نورڈون، لنڈسے گراہم کی بہن، سینیٹ کی سربراہ ہیں۔",
+      "desc_ur": "خواتین کی نمائندگی پر ویک اینڈ ریڈنگ سیاست، بورڈز، کھیلوں اور تفریح، عدالتی دفاتر میں اور امریکہ اور دنیا بھر میں نجی شعبے میں خواتین کی نمائندگی کے بارے میں کہانیوں کا ایک مجموعہ ہے۔"
     },
     {
-      "title": "The US welcomes cooperation between Iraq and Syria on the pipeline",
-      "desc": "US supports Iraq-Syria pipeline project for energy security. WTI reaching $110 by July 2026 at 5.3% YES.\nThe post The US welcomes cooperation between Iraq and Syria on the pipeline appeared first on Crypto Briefing.",
+      "title": "Farmer abducted, tortured for two days over land dispute; dumped in forest with hands tied",
+      "desc": "Madhya Pradesh’s Niwari district: farmer allegedly abducted at gunpoint, tortured for 2 days over land dispute, then dumped in forest; police probe underway.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/bhopal/farmer-abducted-tortured-for-two-days-over-land-dispute-dumped-in-forest-with-hands-tied/articleshow/132469559.cms",
+      "time": "2026-07-17T19:58:02",
+      "country": "International",
+      "title_ur": "زمین کے تنازع پر کسان کو اغوا کر کے دو دن تک تشدد کا نشانہ بنایا گیا۔ ہاتھ باندھ کر جنگل میں پھینک دیا۔",
+      "desc_ur": "مدھیہ پردیش کے نیواری ضلع: کسان کو مبینہ طور پر بندوق کی نوک پر اغوا کیا گیا، زمین کے تنازع پر 2 دن تک تشدد کیا گیا، پھر جنگل میں پھینک دیا گیا؛ پولیس کی تفتیش جاری ہے."
+    },
+    {
+      "title": "Gaza: Eight people attending funeral among at least 12 Palestinians killed by Israel on Friday",
+      "desc": "Residents of Deir al-Balah say Israeli forces used drones to broadcast audio messages ordering them to leave their ‌homes",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/07/17/gaza-eight-people-attending-funeral-among-at-least-12-palestinians-killed-by-israel-on-friday/",
+      "time": "2026-07-17T19:56:35",
+      "country": "Israel",
+      "title_ur": "غزہ: جمعہ کو اسرائیل کے ہاتھوں ہلاک ہونے والے کم از کم 12 فلسطینیوں میں سے آٹھ افراد جنازے میں شریک ہیں۔",
+      "desc_ur": "دیر البلاح کے رہائشیوں کا کہنا ہے کہ اسرائیلی فورسز نے آڈیو پیغامات نشر کرنے کے لیے ڈرون کا استعمال کیا اور انہیں گھروں سے نکل جانے کا حکم دیا"
+    },
+    {
+      "title": "Ken-Betwa project-hit families intensify stir; activist’s fast enters 12th day",
+      "desc": "Madhya Pradesh’s Ken-Betwa project-hit families intensify protest over compensation and rehab; women stage symbolic funeral pyres as activist fast hits day 12.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/bhopal/ken-betwa-project-hit-families-intensify-stir-activists-fast-enters-12th-day/articleshow/132469549.cms",
+      "time": "2026-07-17T19:55:51",
+      "country": "International",
+      "title_ur": "کین-بیٹوا پروجیکٹ سے متاثرہ خاندانوں میں ہلچل تیز کارکنوں کا روزہ 12ویں روز میں داخل",
+      "desc_ur": "مدھیہ پردیش کے کین-بیٹوا پروجیکٹ سے متاثرہ خاندانوں نے معاوضے اور بازآبادکاری کے خلاف احتجاج میں شدت پیدا کردی۔ خواتین علامتی جنازہ نکال رہی ہیں کیونکہ کارکن تیزی سے 12 ویں دن سے گزر رہا ہے۔"
+    },
+    {
+      "title": "Kuwait intercepts Iranian missiles, drones amid 2026 Iran war escalation",
+      "desc": "Kuwait intercepted Iranian missiles and drones, escalating tensions. Military action against a Gulf state on July 9 at 99.9% YES.\nThe post Kuwait intercepts Iranian missiles, drones amid 2026 Iran war escalation appeared first on Crypto Briefing.",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/the-us-welcomes-cooperation-between-iraq-and-syria-on-the-pipeline/",
-      "time": "2026-07-17T18:33:16",
+      "url": "https://cryptobriefing.com/kuwait-intercepts-iranian-missiles-drones-amid-2026-iran-war-escalation/",
+      "time": "2026-07-17T19:55:36",
+      "country": "Iran",
+      "title_ur": "کویت نے 2026 کی ایران جنگ میں اضافے کے درمیان ایرانی میزائلوں، ڈرونز کو روکا۔",
+      "desc_ur": "کویت نے ایرانی میزائلوں اور ڈرونز کو روک دیا جس سے کشیدگی میں اضافہ ہوا۔ 9 جولائی کو ایک خلیجی ریاست کے خلاف فوجی کارروائی 99.9% ہاں۔\nThe post کویت نے 2026 کی ایران جنگ میں اضافے کے درمیان ایرانی میزائلوں اور ڈرونز کو روک لیا appeared first on Crypto Briefing."
+    },
+    {
+      "title": "US oil firms sign deals with Iraq to develop alternative shipping routes",
+      "desc": "U.S. companies signed roughly $60 billion in agreements and partnerships with the Iraqi government Friday, including deals intended to create alternative routes for shipping oil out of the Persian Gulf.\nThe deals, signed at the U.S. Chamber of Commerce, also …",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/21ebf857e32dca2b",
+      "time": "2026-07-17T19:55:27",
       "country": "Iraq",
-      "title_ur": "امریکہ نے عراق اور شام کے درمیان پائپ لائن پر تعاون کا خیر مقدم کیا ہے۔",
-      "desc_ur": "امریکہ توانائی کی سلامتی کے لیے عراق شام پائپ لائن منصوبے کی حمایت کرتا ہے۔ WTI جولائی 2026 تک 5.3% ہاں $110 تک پہنچ رہا ہے۔\nThe post امریکا کا عراق اور شام کے درمیان پائپ لائن پر تعاون کا خیرمقدم appeared first on Crypto Briefing."
+      "title_ur": "امریکی تیل فرموں نے عراق کے ساتھ متبادل شپنگ روٹس تیار کرنے کے لیے معاہدے کیے ہیں۔",
+      "desc_ur": "امریکی کمپنیوں نے جمعے کو عراقی حکومت کے ساتھ تقریباً 60 بلین ڈالر کے معاہدوں اور شراکت داریوں پر دستخط کیے، جس میں وہ سودے بھی شامل ہیں جن کا مقصد خلیج فارس سے تیل کی ترسیل کے لیے متبادل راستے بنانا تھا۔\nیو ایس چیمبر آف کامرس میں دستخط کیے گئے معاہدے بھی…"
+    },
+    {
+      "title": "CENTCOM launches strikes against Iran for the seventh consecutive night",
+      "desc": "US Central Command (CENTCOM) announced on Friday that its forces launched a round of strikes against Iran for the seventh consecutive night.\"The strikes are designed to continue degrading Iranian military capabilities at the Commander in Chief's direction,\" i…",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/flashes/689991",
+      "time": "2026-07-17T19:55:00",
+      "country": "Iran",
+      "title_ur": "سینٹ کام نے مسلسل ساتویں رات ایران کے خلاف حملے شروع کر دیے۔",
+      "desc_ur": "امریکی سینٹرل کمانڈ (CENTCOM) نے جمعہ کو اعلان کیا کہ اس کی افواج نے مسلسل ساتویں رات ایران کے خلاف حملوں کا ایک دور شروع کیا ہے۔\"یہ حملے کمانڈر ان چیف کی سمت میں ایرانی فوجی صلاحیتوں کو کم کرنے کے لیے بنائے گئے ہیں،\" i…"
+    },
+    {
+      "title": "'No amount of money' sufficient to stem risk of alleged Bishnoi gang member's release: lawyer",
+      "desc": "An accused murderer with ties to senior Bishnoi gang members represents too great a risk for release, a lawyer for Canada's Minister of Public Safety told a Federal Court judge Friday.",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/bishnoi-release-karamveer-singh-9.7274361",
+      "time": "2026-07-17T19:54:10",
+      "country": "US",
+      "title_ur": "بشنوئی گینگ کے مبینہ رکن کی رہائی کے خطرے کو روکنے کے لیے کافی رقم نہیں: وکیل",
+      "desc_ur": "کینیڈا کے پبلک سیفٹی کے وزیر کے وکیل نے جمعہ کو وفاقی عدالت کے جج کو بتایا کہ بشنوئی گینگ کے سینئر ارکان سے تعلق رکھنے والا ملزم قاتل کی رہائی کے لیے بہت زیادہ خطرہ ہے۔"
+    },
+    {
+      "title": "US intensifies naval blockade enforcement against Iran in key maritime areas",
+      "desc": "US intensifies naval blockade enforcement against Iran. Traffic normalization in the Strait of Hormuz by August 31 at 11.5% YES.\nThe post US intensifies naval blockade enforcement against Iran in key maritime areas appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/us-intensifies-naval-blockade-enforcement-against-iran-in-key-maritime-areas/",
+      "time": "2026-07-17T19:53:44",
+      "country": "Iran",
+      "title_ur": "امریکہ نے اہم سمندری علاقوں میں ایران کے خلاف بحری ناکہ بندی کا نفاذ تیز کر دیا ہے۔",
+      "desc_ur": "امریکہ نے ایران کے خلاف بحری ناکہ بندی کا نفاذ تیز کر دیا۔ آبنائے ہرمز میں 31 اگست تک ٹریفک معمول پر 11.5% ہاں۔\nThe post امریکا نے اہم سمندری علاقوں میں ایران کے خلاف بحری ناکہ بندی کا نفاذ تیز کردیا appeared first on Crypto Briefing."
+    },
+    {
+      "title": "As U.S. strikes bridges in Iran, it targets a water desalination plant in Kuwait",
+      "desc": "The United States expanded its airstrike campaign against Iran early Friday by hitting more bridges, energy sites and collapsing a tower at a key Iranian port.",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/5104b1c2647a0fb3",
+      "time": "2026-07-17T19:53:00",
+      "country": "Iran",
+      "title_ur": "جیسا کہ امریکہ نے ایران میں پلوں پر حملہ کیا، اس نے کویت میں پانی صاف کرنے کے پلانٹ کو نشانہ بنایا",
+      "desc_ur": "امریکہ نے جمعہ کے اوائل میں ایران کے خلاف اپنی فضائی کارروائی کی مہم میں مزید پلوں، توانائی کے مقامات کو نشانہ بنا کر اور ایک اہم ایرانی بندرگاہ پر ایک ٹاور کو گرا دیا۔"
+    },
+    {
+      "title": "Sleemanabad tunnel to irrigate 2.5L ha across five MP districts, says CM Yadav",
+      "desc": "CM Mohan Yadav says MP’s 11.95-km Sleemanabad Tunnel, a Rs 1,600-crore project, will irrigate 2.5 lakh hectares across five districts.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/bhopal/sleemanabad-tunnel-to-irrigate-2-5l-ha-across-five-mp-districts-says-cm-yadav/articleshow/132469535.cms",
+      "time": "2026-07-17T19:52:42",
+      "country": "International",
+      "title_ur": "سلیمان آباد ٹنل پانچ ایم پی اضلاع میں 2.5L ہیکٹر کو سیراب کرے گی، سی ایم یادو نے کہا",
+      "desc_ur": "سی ایم موہن یادو کا کہنا ہے کہ ایم پی کی 11.95 کلومیٹر لمبی سلیمان آباد ٹنل، جو 1,600 کروڑ روپے کا پروجیکٹ ہے، پانچ اضلاع میں 2.5 لاکھ ہیکٹر کو سیراب کرے گی۔"
+    },
+    {
+      "title": "HC raps ‘tarikh pe tarikh’ in 25-yr old kidnap case",
+      "desc": "Allahabad HC slams “tarikh pe tarikh” in 25-year Bahraich kidnap case, cites Article 21 speedy trial, grants anticipatory bail to two accused.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/hc-raps-tarikh-pe-tarikh-in-25-yr-old-kidnap-case/articleshow/132469532.cms",
+      "time": "2026-07-17T19:52:38",
+      "country": "US",
+      "title_ur": "ہائی کورٹ نے 25 سال پرانے اغوا کیس میں ’تاریخ پر تاریخ‘ کا ریپ کیا۔",
+      "desc_ur": "الہ آباد ہائی کورٹ نے 25 سالہ بہرائچ اغوا کیس میں \"تاریخ پر تاریخ\" کی مذمت کی، آرٹیکل 21 کی تیز رفتار ٹرائل کا حوالہ دیتے ہوئے، دو ملزمان کو پیشگی ضمانت منظور کی۔"
+    },
+    {
+      "title": "UP Police selects 43 SIs, 427 constables under sports quota",
+      "desc": "UPPRPB declares 2023 sports quota recruitment results: 43 Sub-Inspectors and 427 Constables selected; 48 SI posts vacant; 27 candidates provisionally selected pending verification.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/up-police-selects-43-sis-427-constables-under-sports-quota/articleshow/132469531.cms",
+      "time": "2026-07-17T19:52:35",
+      "country": "International",
+      "title_ur": "یوپی پولیس نے کھیلوں کے کوٹے کے تحت 43 ایس آئی، 427 کانسٹیبل کا انتخاب کیا۔",
+      "desc_ur": "UPPRPB نے 2023 کھیلوں کے کوٹہ بھرتی کے نتائج کا اعلان کیا: 43 سب انسپکٹرز اور 427 کانسٹیبلز کا انتخاب؛ 48 ایس آئی اسامیاں خالی؛ 27 امیدواروں کا عارضی طور پر انتخاب زیر التواء تصدیق۔"
+    },
+    {
+      "title": "FOSTTA urges collector for swift relief to flood-hit traders",
+      "desc": "FOSTTA urges Surat Collector Tejas Parmar to speed flood relief for textile traders hit July 7-8, seeking clear scheme details, eligibility, docs and a helpdesk.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/surat/fostta-urges-collector-for-swift-relief-to-flood-hit-traders/articleshow/132469517.cms",
+      "time": "2026-07-17T19:51:06",
+      "country": "International",
+      "title_ur": "FOSTTA نے کلکٹر سے سیلاب سے متاثرہ تاجروں کو فوری ریلیف دینے کی اپیل کی ہے۔",
+      "desc_ur": "FOSTTA نے سورت کے کلکٹر تیجس پرمار پر زور دیا ہے کہ وہ 7-8 جولائی کو آنے والے ٹیکسٹائل تاجروں کے لیے سیلاب کی ریلیف میں تیزی لائیں، واضح اسکیم کی تفصیلات، اہلیت، دستاویزات اور ایک ہیلپ ڈیسک طلب کریں۔"
     }
   ],
   "pakistan": [
     {
-      "title": "'Hope you suffer another October 7': Unruly Israelis arrested on plane",
-      "desc": "Three men arrested on a Lufthansa flight at Ben Gurion Airport for disruptive behavior and assaulting officers, with one suspect invoking October 7 during the arrest.(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start…",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/flashes/689989",
-      "time": "2026-07-17T18:52:35",
+      "title": "Israel planning to use crocodiles to guard Palestinian inmates – media",
+      "desc": "Israel has reportedly removed a legal barrier to using Nile crocodiles in prisons by reclassifying the reptiles as “tended” animals Read Full Article at RT.com",
+      "source": "RT",
+      "url": "https://www.rt.com/news/643191-israel-crocodile-palestinian-prison/",
+      "time": "2026-07-17T19:56:27",
       "country": "Pakistan",
-      "title_ur": "'امید ہے کہ آپ 7 اکتوبر کو ایک اور تکلیف اٹھائیں گے': بے قابو اسرائیلی طیارے میں گرفتار",
-      "desc_ur": "بن گوریون ہوائی اڈے پر لفتھانسا کی فلائٹ پر افسروں پر حملہ کرنے کے الزام میں تین افراد کو گرفتار کیا گیا، گرفتاری کے دوران ایک مشتبہ شخص نے 7 اکتوبر کو کال کی تھی۔"
+      "title_ur": "اسرائیل فلسطینی قیدیوں کی حفاظت کے لیے مگرمچھوں کو استعمال کرنے کا منصوبہ بنا رہا ہے – میڈیا",
+      "desc_ur": "اسرائیل نے مبینہ طور پر جیلوں میں نیل کے مگرمچھوں کو استعمال کرنے کی قانونی رکاوٹ کو ہٹا دیا ہے رینگنے والے جانوروں کو دوبارہ درجہ بندی کر کے \"ٹینڈڈ\" جانوروں کے طور پر RT.com پر مکمل مضمون پڑھیں"
+    },
+    {
+      "title": "‘Halo Mix’ tech to boost crop yields in saline soils",
+      "desc": "ICAR-CSSRI’s Halo-Mix microbial technology, boosting yields 14–18% in salt-affected soils and cutting fertilizer use, transferred to two private firms for wider adoption.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/halo-mix-tech-to-boost-crop-yields-in-saline-soils/articleshow/132469508.cms",
+      "time": "2026-07-17T19:48:54",
+      "country": "Pakistan",
+      "title_ur": "نمکین مٹی میں فصل کی پیداوار کو بڑھانے کے لیے 'ہیلو مکس' ٹیکنالوجی",
+      "desc_ur": "ICAR-CSSRI کی ہیلو مکس مائکروبیل ٹیکنالوجی، نمک سے متاثرہ مٹی میں پیداوار میں 14-18 فیصد اضافہ کرتی ہے اور کھاد کے استعمال کو کم کرتی ہے، جسے وسیع تر اپنانے کے لیے دو نجی فرموں کو منتقل کیا گیا ہے۔"
+    },
+    {
+      "title": "AKTU to host SIDBI incubator session on startup funding",
+      "desc": "AKTU to host SIDBI Fund of Funds session on startup funding, guiding students and teachers on UP’s Rs 1,000 crore fund, AIF options and investable models.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/aktu-to-host-sidbi-incubator-session-on-startup-funding/articleshow/132469462.cms",
+      "time": "2026-07-17T19:43:37",
+      "country": "Pakistan",
+      "title_ur": "AKTU اسٹارٹ اپ فنڈنگ ​​پر SIDBI انکیوبیٹر سیشن کی میزبانی کرے گا۔",
+      "desc_ur": "AKTU اسٹارٹ اپ فنڈنگ ​​پر SIDBI فنڈ آف فنڈز سیشن کی میزبانی کرے گا، یو پی کے 1,000 کروڑ روپے کے فنڈ، AIF کے اختیارات اور سرمایہ کاری کے قابل ماڈلز پر طلباء اور اساتذہ کی رہنمائی کرے گا۔"
     }
   ],
   "business": {
@@ -173,15 +193,6 @@
     "city": "Lahore",
     "city_ur": "لاہور",
     "forecast": [
-      {
-        "date": "2026-07-18",
-        "day": "ہفتہ",
-        "high": 39,
-        "low": 31,
-        "condition": "Overcast",
-        "condition_ur": "ابر آلود",
-        "precip": 2
-      },
       {
         "date": "2026-07-19",
         "day": "اتوار",
@@ -203,7 +214,7 @@
       {
         "date": "2026-07-21",
         "day": "منگل",
-        "high": 32,
+        "high": 34,
         "low": 26,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
@@ -212,7 +223,7 @@
       {
         "date": "2026-07-22",
         "day": "بدھ",
-        "high": 31,
+        "high": 30,
         "low": 26,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
@@ -231,16 +242,25 @@
         "date": "2026-07-24",
         "day": "جمعہ",
         "high": 31,
-        "low": 26,
+        "low": 25,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
         "precip": 69
+      },
+      {
+        "date": "2026-07-25",
+        "day": "ہفتہ",
+        "high": 30,
+        "low": 26,
+        "condition": "Thunderstorm",
+        "condition_ur": "گرج چمک",
+        "precip": 66
       }
     ]
   },
   "date": {
-    "gregorian": "Saturday, 18 July 2026",
-    "hijri": "4 Ṣafar 1448",
-    "hijri_ur": "4 صَفَر 1448"
+    "gregorian": "Sunday, 19 July 2026",
+    "hijri": "5 Ṣafar 1448",
+    "hijri_ur": "5 صَفَر 1448"
   }
 }
