@@ -1,207 +1,237 @@
 {
-  "generated": "2026-07-18T08:02:21Z",
+  "generated": "2026-07-18T09:53:39Z",
   "world": [
     {
-      "title": "US, Iran trade attacks in return to full-blown war",
-      "desc": "The US and Iran have traded attacks, escalating to full-blown war after a brief truce. Iran targeted US assets across the Middle East.\n\nRead More: https://punchng.com/us-iran-trade-attacks-in-return-to-full-blown-war/",
-      "source": "The Punch",
-      "url": "https://punchng.com/us-iran-trade-attacks-in-return-to-full-blown-war/",
-      "time": "2026-07-17T08:01:34",
+      "title": "U.S. launches another round of strikes against Iran",
+      "desc": "The United States launched another round of strikes against Iran on Thursday, the U.S. Central Command said in a statement.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260717-pdo01.htm",
+      "time": "2026-07-17T09:53:14",
       "country": "Iran",
-      "title_ur": "امریکہ، ایران تجارتی حملے مکمل جنگ کے بدلے میں",
-      "desc_ur": "امریکہ اور ایران نے ایک مختصر جنگ بندی کے بعد مکمل طور پر جنگ کی طرف بڑھتے ہوئے حملوں کا سودا کیا ہے۔ ایران نے مشرق وسطیٰ میں امریکی اثاثوں کو نشانہ بنایا۔\n\nمزید پڑھیں: https://punchng.com/us-iran-trade-attacks-in-return-to-full-blown-war/"
+      "title_ur": "امریکہ نے ایران کے خلاف ایک اور حملے کا آغاز کر دیا۔",
+      "desc_ur": "امریکی سینٹرل کمانڈ نے ایک بیان میں کہا کہ امریکہ نے جمعرات کو ایران کے خلاف حملوں کا ایک اور دور شروع کیا۔"
     },
     {
-      "title": "BP, ConocoPhillips invest in Iraq to counter Iran’s energy influence: CNBC",
-      "desc": "BP and ConocoPhillips invest in Iraq to reduce Iran's energy influence. U.S.-Iran nuclear deal by August 13, 2026 at 1.6% YES.\nThe post BP, ConocoPhillips invest in Iraq to counter Iran’s energy influence: CNBC appeared first on Crypto Briefing.",
+      "title": "Kuwait, Bahrain, Qatar Respond To Apparent Iranian Attacks",
+      "desc": "Kuwait, Bahrain, and Qatar reported missile and drone strikes early on July 17 in apparent strikes by Tehran after the US launched its sixth straight night of military action against sites in southern Iran.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260717-rferl01.htm",
+      "time": "2026-07-17T09:53:14",
+      "country": "Iran",
+      "title_ur": "کویت، بحرین، قطر کا بظاہر ایرانی حملوں کا جواب",
+      "desc_ur": "کویت، بحرین اور قطر نے 17 جولائی کے اوائل میں میزائل اور ڈرون حملوں کی اطلاع تہران کے بظاہر حملوں کے بعد جب امریکہ نے جنوبی ایران میں سائٹس کے خلاف مسلسل چھٹی رات فوجی کارروائی شروع کی تھی۔"
+    },
+    {
+      "title": "Iran asks Yemen's Houthis to close Bab el-Mandeb if U.S. attacks power plants -- media",
+      "desc": "Iran has requested Yemen's Houthis to remain ready for the closure of the Bab el-Mandeb Strait in case the United States attacks Iranian power plants, Reuters reported on Thursday.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260717-pdo02.htm",
+      "time": "2026-07-17T09:53:14",
+      "country": "Iran",
+      "title_ur": "ایران نے یمن کے حوثیوں سے کہا کہ اگر امریکہ نے پاور پلانٹس پر حملہ کیا تو وہ باب المندب کو بند کر دیں – میڈیا",
+      "desc_ur": "ایران نے یمن کے حوثیوں سے درخواست کی ہے کہ اگر امریکہ ایرانی پاور پلانٹس پر حملہ کرتا ہے تو وہ آبنائے باب المندب کی بندش کے لیے تیار رہیں، رائٹرز نے جمعرات کو رپورٹ کیا۔"
+    },
+    {
+      "title": "Iran warns of retaliation as US-Iran tensions escalate",
+      "desc": "Iran warns of retaliation amid rising tensions with the US. Iran Reconstruction Funding in a US-Iran deal by 2026 at 26.5% YES.\nThe post Iran warns of retaliation as US-Iran tensions escalate appeared first on Crypto Briefing.",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/bp-conocophillips-invest-in-iraq-to-counter-irans-energy-influence-cnbc/",
-      "time": "2026-07-17T08:00:40",
+      "url": "https://cryptobriefing.com/iran-warns-of-retaliation-as-us-iran-tensions-escalate/",
+      "time": "2026-07-17T09:53:03",
       "country": "Iran",
-      "title_ur": "BP، ConocoPhillips نے ایران کے توانائی کے اثر و رسوخ کا مقابلہ کرنے کے لیے عراق میں سرمایہ کاری کی: CNBC",
-      "desc_ur": "BP اور ConocoPhillips ایران کے توانائی کے اثر کو کم کرنے کے لیے عراق میں سرمایہ کاری کر رہے ہیں۔ امریکہ ایران جوہری معاہدہ 13 اگست 2026 تک 1.6% ہاں۔\nThe post BP، ConocoPhillips نے ایران کے توانائی کے اثر و رسوخ کا مقابلہ کرنے کے لیے عراق میں سرمایہ کاری کی: CNBC appeared first on Crypto Briefing."
+      "title_ur": "امریکہ ایران کشیدگی بڑھنے پر ایران نے جوابی کارروائی کا انتباہ دیا ہے۔",
+      "desc_ur": "امریکا کے ساتھ بڑھتی ہوئی کشیدگی کے درمیان ایران نے جوابی کارروائی کا انتباہ دیا ہے۔ 2026 تک امریکہ-ایران معاہدے میں ایران کی تعمیر نو کی فنڈنگ ​​26.5% ہاں۔\nThe post امریکا ایران کشیدگی بڑھنے پر ایران نے جوابی کارروائی کی وارننگ دیدی appeared first on Crypto Briefing."
     },
     {
-      "title": "BP, ConocoPhillips invest $25B in Iraq to counter Iran’s energy influence",
-      "desc": "BP and ConocoPhillips invest $25B in Iraq to counter Iran's energy influence. U.S.-Iran nuclear deal by August 13, 2026 at 1.6% YES.\nThe post BP, ConocoPhillips invest $25B in Iraq to counter Iran’s energy influence appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/bp-conocophillips-invest-25b-in-iraq-to-counter-irans-energy-influence/",
-      "time": "2026-07-17T08:00:25",
+      "title": "Gulf exporters turn to pipelines as Hormuz risks grow",
+      "desc": "Oil and gas producers in the Gulf are seeking alternatives to the Strait of Hormuz as traffic again comes under fire. But is Iran also turning its attention to the pipelines meant to bypass the waterway?",
+      "source": "DW (English)",
+      "url": "https://www.dw.com/en/us-iran-crisis-puts-gulf-oil-and-gas-routes-beyond-the-strait-of-hormuz-at-risk/a-77980704",
+      "time": "2026-07-17T09:53:00",
       "country": "Iran",
-      "title_ur": "BP، ConocoPhillips نے ایران کے توانائی کے اثر کو روکنے کے لیے عراق میں $25B کی سرمایہ کاری کی۔",
-      "desc_ur": "BP اور ConocoPhillips نے ایران کے توانائی کے اثر کو روکنے کے لیے عراق میں $25B کی سرمایہ کاری کی۔ امریکہ ایران جوہری معاہدہ 13 اگست 2026 تک 1.6% ہاں۔\nThe post BP، ConocoPhillips نے ایران کے توانائی کے اثر و رسوخ کا مقابلہ کرنے کے لیے عراق میں $25B کی سرمایہ کاری کی appeared first on Crypto Briefing."
+      "title_ur": "ہرمز کے خطرات بڑھتے ہی خلیجی برآمد کنندگان پائپ لائنوں کا رخ کرتے ہیں۔",
+      "desc_ur": "خلیج میں تیل اور گیس پیدا کرنے والے آبنائے ہرمز کے متبادل تلاش کر رہے ہیں کیونکہ ٹریفک دوبارہ متاثر ہو رہی ہے۔ لیکن کیا ایران بھی آبی گزرگاہ کو نظرانداز کرنے والی پائپ لائنوں کی طرف توجہ دے رہا ہے؟"
     },
     {
-      "title": "The Blood Bank and the Logistics of Wartime Medicine",
-      "desc": "Before the twentieth century gave armies antibiotics, the leading killer of American soldiers in wartime was neither enemy fire nor shrapnel. Two-thirds of the roughly 620,000 deaths in the U.S. Civil War came from diseases like typhoid and dysentery. Spread …",
-      "source": "War on the Rocks",
-      "url": "https://warontherocks.com/cogs-of-war/the-blood-bank-and-the-logistics-of-wartime-medicine/",
-      "time": "2026-07-17T08:00:21",
-      "country": "US",
-      "title_ur": "بلڈ بینک اور جنگ کے وقت کی دوائیوں کی لاجسٹکس",
-      "desc_ur": "بیسویں صدی کی فوجوں کو اینٹی بائیوٹک دینے سے پہلے، جنگ کے وقت میں امریکی فوجیوں کا سرکردہ قاتل نہ تو دشمن کی آگ تھی اور نہ ہی چھری۔ امریکی خانہ جنگی میں ہونے والی تقریباً 620,000 اموات میں سے دو تہائی ٹائیفائیڈ اور پیچش جیسی بیماریوں سے ہوئیں۔ پھیلاؤ …"
-    },
-    {
-      "title": "At the World Cup, has 'VAR' gone too far? Some fans say it's ruining the tournament",
-      "desc": "In this World Cup, VAR, or video assistant referee, has become ubiquitous (and despised by many). But there was a time when fans and teams loved it. What went wrong?",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/07/17/nx-s1-5896544/2026-world-cup-fifa-var-video-assitant-referee",
-      "time": "2026-07-17T08:00:00",
-      "country": "US",
-      "title_ur": "ورلڈ کپ میں، کیا 'VAR' بہت آگے نکل گیا ہے؟ کچھ شائقین کا کہنا ہے کہ یہ ٹورنامنٹ کو برباد کر رہا ہے۔",
-      "desc_ur": "اس ورلڈ کپ میں، وی اے آر، یا ویڈیو اسسٹنٹ ریفری، ہر جگہ (اور بہت سے لوگوں کو حقیر) ہو گیا ہے۔ لیکن ایک وقت تھا جب شائقین اور ٹیمیں اسے پسند کرتی تھیں۔ کیا غلط ہوا؟"
-    },
-    {
-      "title": "The 9 at 9: Friday",
-      "desc": "Two killed in Louth crash, Andy Burnham to become Labour leader, and high temperatures continue.",
-      "source": "TheJournal.ie",
-      "url": "https://www.thejournal.ie/the-9-at-9-17-07-26-7105042-Jul2026/",
-      "time": "2026-07-17T07:59:16",
-      "country": "International",
-      "title_ur": "9 بجے 9: جمعہ",
-      "desc_ur": "لوتھ حادثے میں دو ہلاک، اینڈی برنہم لیبر لیڈر بن گئے، اور زیادہ درجہ حرارت جاری۔"
-    },
-    {
-      "title": "Netflix’s underwhelming forecast; U.S., Iran strikes - what’s moving markets",
-      "desc": "Stocks end lower as tech bleeds, Fed policymaker calls for ’modestly higher’ rates\nInvesting.com - U.S. stock futures edge lower ahead of the final trading day of the week, with investors fretting over the trajectory of the artificial intelligence boom. Netfl…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/e16583fb1182d4be",
-      "time": "2026-07-17T07:56:38",
-      "country": "Iran",
-      "title_ur": "Netflix کی ناقص پیشین گوئی؛ امریکہ، ایران کے حملے - مارکیٹیں کیا حرکت کر رہی ہیں۔",
-      "desc_ur": "ٹیک خون بہنے کے ساتھ ہی اسٹاک کم ہوتے ہیں، فیڈ پالیسی ساز نے 'معمولی طور پر زیادہ' شرحوں کا مطالبہ کیا\nInvesting.com - ہفتے کے آخری تجارتی دن سے پہلے یو ایس اسٹاک فیوچرز کی سطح کم ہوگئی، سرمایہ کار مصنوعی ذہانت کے عروج کے راستے پر پریشان ہیں۔ Netfl…"
-    },
-    {
-      "title": "US attacks southern Iran, as Tehran hits Gulf countries: What’s the latest?",
-      "desc": "Iran struck Bahrain, Qatar, Oman, Jordan and Syria in retaliation for US strikes.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/7/17/us-attacks-southern-iran-as-tehran-hits-gulf-countries-whats-the-latest",
-      "time": "2026-07-17T07:56:06",
-      "country": "Iran",
-      "title_ur": "امریکہ نے جنوبی ایران پر حملہ کیا، جیسا کہ تہران نے خلیجی ممالک کو نشانہ بنایا: تازہ ترین کیا ہے؟",
-      "desc_ur": "ایران نے امریکی حملوں کے جواب میں بحرین، قطر، عمان، اردن اور شام پر حملہ کیا۔"
-    },
-    {
-      "title": "WTO General Council July 2026: UK Statements",
-      "desc": "UK Statements at the World Trade Organization's General Council. Delivered by the UK's Permanent Representative to the WTO and the UN, Kumar Iyer.",
-      "source": "Www.gov.uk",
-      "url": "https://www.gov.uk/government/speeches/wto-general-council-july-2026-uk-statements",
-      "time": "2026-07-17T07:43:02",
-      "country": "UK",
-      "title_ur": "ڈبلیو ٹی او جنرل کونسل جولائی 2026: برطانیہ کے بیانات",
-      "desc_ur": "ورلڈ ٹریڈ آرگنائزیشن کی جنرل کونسل میں برطانیہ کے بیانات۔ ڈبلیو ٹی او اور اقوام متحدہ میں برطانیہ کے مستقل نمائندے کمار آئیر نے ڈیلیور کیا۔"
-    },
-    {
-      "title": "Volvo Cars sees declining sales in 'challenging' environment",
-      "desc": "Swedish carmaker Volvo Cars on Friday reported a drop in sales in the second quarter, noting a \"very challenging environment,\" but said it expected sales to pick up in the second half of the year. Coupled with growth in Europe, Samuelsson said they expected \"…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/business/volvo-cars-sees-declining-sales-in-challenging-environment/articleshow/132455741.cms",
-      "time": "2026-07-17T07:42:57",
-      "country": "Europe",
-      "title_ur": "وولوو کاریں 'چیلنجنگ' ماحول میں فروخت میں کمی دیکھ رہی ہیں۔",
-      "desc_ur": "سویڈش کار ساز کمپنی وولوو کارز نے جمعہ کو دوسری سہ ماہی میں فروخت میں کمی کی اطلاع دی ہے، جس نے \"انتہائی مشکل ماحول\" کو نوٹ کیا، لیکن کہا کہ اسے سال کے دوسرے نصف حصے میں فروخت میں اضافے کی توقع ہے۔ یورپ میں ترقی کے ساتھ مل کر، سیموئیلسن نے کہا کہ انہیں توقع ہے کہ \"…"
-    },
-    {
-      "title": "US-Iran conflict escalates with targeted strikes on bridges and vessels",
-      "desc": "US-Iran conflict escalates with targeted strikes on infrastructure. Strait of Hormuz traffic normal by August 31 at 11.5% YES.\nThe post US-Iran conflict escalates with targeted strikes on bridges and vessels appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-iran-conflict-escalates-with-targeted-strikes-on-bridges-and-vessels/",
-      "time": "2026-07-17T07:36:38",
-      "country": "Iran",
-      "title_ur": "امریکہ ایران تنازعہ پلوں اور جہازوں پر ٹارگٹ حملوں کے ساتھ بڑھتا جا رہا ہے۔",
-      "desc_ur": "بنیادی ڈھانچے پر ٹارگٹ حملوں کے ساتھ امریکہ ایران تنازعہ بڑھتا جا رہا ہے۔ آبنائے ہرمز ٹریفک 31 اگست تک 11.5% پر معمول پر ہے ہاں۔\nThe post امریکا ایران تنازعہ پلوں اور جہازوں پر ٹارگٹڈ حملوں سے بڑھ گیا appeared first on Crypto Briefing."
-    },
-    {
-      "title": "US conducts airstrikes near Iran’s Qeshm amid 2026 war escalation",
-      "desc": "US conducts airstrikes near Iran's Qeshm amid war escalation. Iranian military action against a Gulf state on July 9 at 99.9% YES.\nThe post US conducts airstrikes near Iran’s Qeshm amid 2026 war escalation appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-conducts-airstrikes-near-irans-qeshm-amid-2026-war-escalation/",
-      "time": "2026-07-17T07:35:02",
-      "country": "Iran",
-      "title_ur": "2026 کی جنگ میں اضافے کے درمیان امریکہ نے ایران کے قشم کے قریب فضائی حملے کیے ہیں۔",
-      "desc_ur": "امریکہ نے جنگ میں اضافے کے درمیان ایران کے علاقے قشم کے قریب فضائی حملہ کیا۔ 9 جولائی کو ایک خلیجی ریاست کے خلاف ایرانی فوجی کارروائی 99.9% ہاں۔\nThe post امریکا نے 2026 کی جنگ میں اضافے کے درمیان ایران کے قشم کے قریب فضائی حملے کیے appeared first on Crypto Briefing."
-    },
-    {
-      "title": "Thank G-d for those hilltop youth",
-      "desc": "Three young communities and what they contribute to Israel's longterm security. Feature.",
+      "title": "Attorney General sends warning letter to government ministers",
+      "desc": "Following the dissolution of the Knesset, Attorney Baharav-Miara informed ministers that Israel has officially entered the period of a caretaker government and instructed them to consult with her before making any significant decisions.",
       "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/430321",
-      "time": "2026-07-17T07:35:00",
+      "url": "https://www.israelnationalnews.com/news/430328",
+      "time": "2026-07-17T09:51:11",
       "country": "Israel",
-      "title_ur": "ان پہاڑی نوجوانوں کے لیے جی ڈی کا شکریہ",
-      "desc_ur": "تین نوجوان کمیونٹیز اور وہ اسرائیل کی طویل مدتی سلامتی میں کیا کردار ادا کرتے ہیں۔ فیچر"
+      "title_ur": "اٹارنی جنرل نے حکومتی وزراء کو وارننگ لیٹر بھیج دیا۔",
+      "desc_ur": "Knesset کی تحلیل کے بعد، اٹارنی بہارو-Miara نے وزراء کو مطلع کیا کہ اسرائیل باضابطہ طور پر نگراں حکومت کی مدت میں داخل ہو گیا ہے اور انہیں ہدایت کی ہے کہ کوئی بھی اہم فیصلہ کرنے سے پہلے اس سے مشورہ کریں۔"
     },
     {
-      "title": "Malaysian parliamentary group reviews Lynas Rare Earths’ US supply deal",
-      "desc": "Malaysia's parliament reviews Lynas Rare Earths' $96 million US DoD supply deal, raising questions about military end-uses and critical mineral supply\nThe post Malaysian parliamentary group reviews Lynas Rare Earths’ US supply deal appeared first on Crypto Br…",
+      "title": "Russia Rejects Accusations of Interference in Electoral Processes in US",
+      "desc": "MOSCOW (Sputnik) - Russia rejects the accusations of interference in the electoral processes in the United States, Kremlin spokesman Dmitry Peskov said on Friday.",
+      "source": "Sputnikglobe.com",
+      "url": "https://sputnikglobe.com/20260717/russia-rejects-accusations-of-interference-in-electoral-processes-in-us-1124458225.html",
+      "time": "2026-07-17T09:50:14",
+      "country": "Russia",
+      "title_ur": "روس نے امریکہ میں انتخابی عمل میں مداخلت کے الزامات کو مسترد کر دیا۔",
+      "desc_ur": "ماسکو (اسپوتنک) - روس نے امریکہ میں انتخابی عمل میں مداخلت کے الزامات کو مسترد کر دیا، کریملن کے ترجمان دمتری پیسکوف نے جمعہ کو کہا۔"
+    },
+    {
+      "title": "FIFA World Cup: 10 things to know before Spain-Argentina final in New York",
+      "desc": "From the viral photo of Lionel Messi with baby Lamine Yamal to Donald Trump’s presence and the NFL-style half-time show.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/sports/2026/7/17/spain-argentina-fifa-world-cup-2026-final-messi-yamal-photo-trump",
+      "time": "2026-07-17T09:47:55",
+      "country": "US",
+      "title_ur": "فیفا ورلڈ کپ: نیو یارک میں اسپین اور ارجنٹائن کے فائنل سے پہلے جاننے کے لیے 10 چیزیں",
+      "desc_ur": "لیونل میسی کی بے بی لامین یامل کے ساتھ وائرل تصویر سے لے کر ڈونلڈ ٹرمپ کی موجودگی اور NFL طرز کے ہاف ٹائم شو تک۔"
+    },
+    {
+      "title": "Iranian forces interact with merchant vessel amid Gulf tensions",
+      "desc": "Iranian forces interacted with a merchant vessel amid Gulf tensions. Traffic normalization in the Strait of Hormuz by August 31 at 11.5% YES.\nThe post Iranian forces interact with merchant vessel amid Gulf tensions appeared first on Crypto Briefing.",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/malaysia-reviews-lynas-rare-earths-us-deal/",
-      "time": "2026-07-17T07:32:00",
+      "url": "https://cryptobriefing.com/iranian-forces-interact-with-merchant-vessel-amid-gulf-tensions/",
+      "time": "2026-07-17T09:47:24",
       "country": "Iran",
-      "title_ur": "ملائیشیا کے پارلیمانی گروپ نے Lynas Rare Earths کے امریکی سپلائی معاہدے کا جائزہ لیا۔",
-      "desc_ur": "ملائیشیا کی پارلیمنٹ نے Lynas Rare Earths کے 96 ملین ڈالر کے امریکی DoD سپلائی معاہدے کا جائزہ لیا، جس سے فوجی استعمال اور اہم معدنی سپلائی کے بارے میں سوالات اٹھتے ہیں۔\nThe post ملائیشیا کے پارلیمانی گروپ نے Lynas Rare Earths کے امریکی سپلائی معاہدے کا جائزہ لیا appeared first on Crypto Br…"
+      "title_ur": "خلیجی کشیدگی کے درمیان ایرانی افواج نے تجارتی جہاز کے ساتھ بات چیت کی۔",
+      "desc_ur": "خلیجی کشیدگی کے درمیان ایرانی افواج نے ایک تجارتی جہاز کے ساتھ بات چیت کی۔ آبنائے ہرمز میں 31 اگست تک ٹریفک معمول پر 11.5% ہاں۔\nThe post خلیجی کشیدگی کے درمیان ایرانی فورسز کا تجارتی جہاز سے رابطہ appeared first on کرپٹو بریفنگ."
     },
     {
-      "title": "Japan's Nikkei slides into correction zone on tech selloff, Middle East conflict",
-      "desc": "TOKYO, July 17 : Japan's Nikkei tumbled into correction territory on Friday, as a global rout in chipmakers and an escalation in the Middle East conflict prompted investors to shun risk assets.The benchmark Nikkei 225 sank 4.03 per cent to close lower at 64,1…",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/japans-nikkei-slides-correction-zone-tech-selloff-middle-east-conflict-6260606",
-      "time": "2026-07-17T07:30:44",
+      "title": "The handshake is said to have begun as proof of an empty hand, no weapon and no immediate threat, and for thousands of years that simple clasp has carried a message spoken greetings still cannot: I come in peace",
+      "desc": "On the front panel of a limestone throne base excavated at Nimrud in 1962, two kings are shown gripping hands to seal a pact. The scene commemorates the Assyrian king Shalmaneser III backing the Babylonian king Marduk-zakir-shumi I against a rebellious brothe…",
+      "source": "Space Daily",
+      "url": "https://spacedaily.com/d-the-handshake-is-said-to-have-begun-as-proof-of-an-empty-hand-no-weapon-and-no-immediate-threat-and-for-thousands-of-years-that-simple-clasp-has-carried-a-message-spoken-greetings-still-cannot-i-co/",
+      "time": "2026-07-17T09:45:05",
+      "country": "UK",
+      "title_ur": "کہا جاتا ہے کہ مصافحہ ایک خالی ہاتھ، کوئی ہتھیار اور کوئی فوری خطرہ نہ ہونے کے ثبوت کے طور پر شروع ہوا تھا، اور ہزاروں سالوں سے اس سادہ ہک نے ایک پیغام دیا ہے جس میں سلام کہا جا سکتا ہے: میں امن سے آیا ہوں۔",
+      "desc_ur": "1962 میں نمرود میں کھدائی کی گئی چونے کے پتھر کے تخت کے سامنے والے پینل پر، دو بادشاہوں کو ایک معاہدہ کرنے کے لیے ہاتھ پکڑتے ہوئے دکھایا گیا ہے۔ یہ منظر اسوری بادشاہ شلمانسر III کی یاد دلاتا ہے جس نے ایک باغی بھائی کے خلاف بابلی بادشاہ مردوک ذاکر شومی اول کی حمایت کی تھی…"
+    },
+    {
+      "title": "JPMorgan outlines the biggest forces that will shape markets in the 2nd half of 2026",
+      "desc": "JPMorgan strategists laid out the forces they see driving the direction of markets through the rest of 2026 following a volatile first half.",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/stock-market-outlook-risks-jpmorgan-inflation-labor-ai-wealth-effect-2026-7#article",
+      "time": "2026-07-17T09:45:02",
       "country": "International",
-      "title_ur": "جاپان کا نکی ٹیک سیل آف، مشرق وسطیٰ کے تنازع پر اصلاحی زون میں پھسل گیا۔",
-      "desc_ur": "ٹوکیو، 17 جولائی: جاپان کا نکی جمعہ کو تصحیح کے علاقے میں گر گیا، جیسا کہ چپ سازوں کی عالمی شکست اور مشرق وسطیٰ کے تنازعات میں اضافے نے سرمایہ کاروں کو خطرے کے اثاثوں سے دور رہنے پر اکسایا۔ بینچ مارک نکی 225 4.03 فیصد گر کر 64,1 پر بند ہوا۔"
+      "title_ur": "JPMorgan ان سب سے بڑی قوتوں کا خاکہ پیش کرتا ہے جو 2026 کے دوسرے نصف حصے میں مارکیٹوں کو تشکیل دیں گی۔",
+      "desc_ur": "JPMorgan کے حکمت عملی سازوں نے ان قوتوں کا تعین کیا جو وہ 2026 کے بقیہ حصے میں پہلے نصف کے اتار چڑھاؤ کے بعد مارکیٹوں کی سمت چلاتے ہوئے دیکھتے ہیں۔"
+    },
+    {
+      "title": "Gold Below $4,000 as U.S.-Iran Conflict Fuels Rate-Hike Bets",
+      "desc": "Gold prices slipped below $4,000 a troy ounce and were on track for a weekly decline of more than 3%.",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/e5fccf7aa8a2d6cb",
+      "time": "2026-07-17T09:43:41",
+      "country": "Iran",
+      "title_ur": "امریکہ-ایران تنازعہ ایندھن کی شرح میں اضافے کے شرط کے طور پر سونا $4,000 سے نیچے",
+      "desc_ur": "سونے کی قیمتیں $4,000 فی ٹرائے اونس سے نیچے گر گئیں اور 3% سے زیادہ کی ہفتہ وار کمی کے راستے پر تھیں۔"
+    },
+    {
+      "title": "Colombia to withdraw from ICJ case against Israel",
+      "desc": "Colombia's incoming government will abandon its involvement in South Africa's case against Israel at the International Court of Justice, the office of President-elect Abelardo de la Espriella announce...",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/38c545bb40dfb23c",
+      "time": "2026-07-17T09:43:33",
+      "country": "Israel",
+      "title_ur": "کولمبیا کا اسرائیل کے خلاف آئی سی جے کیس سے دستبردار",
+      "desc_ur": "کولمبیا کی آنے والی حکومت اسرائیل کے خلاف بین الاقوامی عدالت انصاف میں جنوبی افریقہ کے مقدمے میں اپنی شمولیت ترک کر دے گی، نو منتخب صدر ابیلارڈو ڈی لا ایسپریلا کے دفتر نے اعلان کیا ہے کہ..."
+    },
+    {
+      "title": "Israel headed for October election as parliament dissolved",
+      "desc": "PM Netanyahu’s political survival at stake as Knesset dissolves before the vote.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/7/17/israel-headed-for-october-election-as-parliament-dissolved",
+      "time": "2026-07-17T09:42:05",
+      "country": "Israel",
+      "title_ur": "پارلیمنٹ تحلیل ہونے کے بعد اسرائیل اکتوبر میں انتخابات کے لیے روانہ ہو گیا۔",
+      "desc_ur": "PM نیتن یاہو کی سیاسی بقا داؤ پر لگ گئی کیونکہ Knesset ووٹ سے پہلے تحلیل ہو جاتی ہے۔"
+    },
+    {
+      "title": "IRGC targets US jets in Jordan as Bitcoin holds steady and oil spikes 4%",
+      "desc": "Iran's IRGC struck US aircraft at Jordan's Azraq Air Base in Operation Nasr 2 wave six. Oil jumped 4% while Bitcoin held $62,600-$64,700 rangebound.\nThe post IRGC targets US jets in Jordan as Bitcoin holds steady and oil spikes 4% appeared first on Crypto Bri…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/irgc-targets-us-jets-jordan-bitcoin-oil-markets/",
+      "time": "2026-07-17T09:41:21",
+      "country": "Iran",
+      "title_ur": "IRGC نے اردن میں امریکی جیٹ طیاروں کو نشانہ بنایا کیونکہ بٹ کوائن مستحکم ہے اور تیل میں 4 فیصد اضافہ ہوا ہے",
+      "desc_ur": "ایران کے IRGC نے آپریشن نصر 2 ویو سکس میں اردن کے ازرق ایئر بیس پر امریکی طیارے کو نشانہ بنایا۔ تیل میں 4 فیصد اضافہ ہوا جبکہ بٹ کوائن نے $62,600-$64,700 کی حد بندی کی۔\nThe post IRGC نے اردن میں امریکی جیٹ طیاروں کو نشانہ بنایا کیونکہ بٹ کوائن مستحکم ہے اور تیل میں 4 فیصد اضافہ appeared first on Crypto Bri…"
     }
   ],
   "pakistan": [
     {
-      "title": "BP, ConocoPhillips to back Iraq with major investment as U.S. seeks to cut Iran's energy hold",
-      "desc": "BP and ConocoPhillips are set to announce billions of dollars of new investments in Iraq on Friday as Washington seeks to bolster the country's energy sector and reduce the region's reliance on routes vulnerable to Iranian disruption, according to people fami…",
+      "title": "US Attacks, Iran Retaliates -- But White House Insists Diplomacy Still Possible",
+      "desc": "US forces stepped up attacks on Iranian sites, reportedly striking key bridges, railways, and an airport, prompting retaliatory action by Tehran, even while the White House said talks between the warring sides were still under way and that diplomacy remained …",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/07/mil-260717-rferl01.htm",
+      "time": "2026-07-17T09:53:14",
+      "country": "Pakistan",
+      "title_ur": "امریکی حملے، ایران جوابی کارروائی کرتا ہے -- لیکن وائٹ ہاؤس کا اصرار ہے کہ ڈپلومیسی اب بھی ممکن ہے۔",
+      "desc_ur": "امریکی افواج نے ایرانی مقامات پر حملے تیز کر دیے، مبینہ طور پر اہم پلوں، ریلوے اور ایک ہوائی اڈے کو نشانہ بنایا، تہران کی جانب سے جوابی کارروائی کا اشارہ دیا، یہاں تک کہ وائٹ ہاؤس نے کہا کہ متحارب فریقوں کے درمیان بات چیت ابھی جاری ہے اور سفارت کاری باقی ہے…"
+    },
+    {
+      "title": "Oil gains over 1.5% as US-Iran hostilities persist",
+      "desc": "The prices of oil futures rose over 1.5% on Friday, as the military conflict in the Middle East raged on, showing no signs of de-escalation and intensifying concerns over supply disruptions. Iran's Is...",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/ac70783d987f7430",
-      "time": "2026-07-17T07:56:27",
+      "url": "https://biztoc.com/x/0cce15a16746c395",
+      "time": "2026-07-17T09:43:41",
       "country": "Pakistan",
-      "title_ur": "BP، ConocoPhillips بڑی سرمایہ کاری کے ساتھ عراق کی حمایت کریں گے کیونکہ امریکہ ایران کی توانائی کی گرفت کو کم کرنے کی کوشش کر رہا ہے",
-      "desc_ur": "BP اور ConocoPhillips جمعے کو عراق میں اربوں ڈالر کی نئی سرمایہ کاری کا اعلان کرنے والے ہیں کیونکہ واشنگٹن ملک کے توانائی کے شعبے کو تقویت دینے اور ایرانی رکاوٹ کے خطرے سے دوچار راستوں پر خطے کے انحصار کو کم کرنے کی کوشش کر رہا ہے، لوگوں کے خاندان کے مطابق…"
+      "title_ur": "امریکہ ایران دشمنی جاری رہنے سے تیل کی قیمت میں 1.5 فیصد سے زیادہ کا اضافہ ہوا۔",
+      "desc_ur": "جمعہ کو تیل کے مستقبل کی قیمتوں میں 1.5 فیصد سے زیادہ کا اضافہ ہوا، کیونکہ مشرق وسطیٰ میں فوجی تنازعہ جاری تھا، جس میں کمی کے کوئی آثار نظر نہیں آرہے تھے اور سپلائی میں خلل پڑنے کے خدشات بڑھ رہے تھے۔ ایران کی..."
     },
     {
-      "title": "Minister encourages industry optimising trade agreements",
-      "desc": "Indonesia&#39;s Trade Minister Budi Santoso continues to encourage manufacturers, including companies investing in Indonesia, to utilise trade agreements with ...",
-      "source": "Antaranews.com",
-      "url": "https://en.antaranews.com/news/423047/minister-encourages-industry-optimising-trade-agreements",
-      "time": "2026-07-17T07:54:25",
+      "title": "Oil Headed for 10% Weekly Gain on Escalating U.S.-Iran Attacks",
+      "desc": "Oil prices were on track for a weekly gain of more than 10% as the U.S. and Iran stepped up attacks and raise fears of broader regional disruptions.",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/dbaf02ac16c41209",
+      "time": "2026-07-17T09:43:38",
       "country": "Pakistan",
-      "title_ur": "وزیر تجارت کے معاہدوں کو بہتر بنانے والی صنعت کی حوصلہ افزائی کرتے ہیں۔",
-      "desc_ur": "انڈونیشیا کے وزیر تجارت بوڈی سانتوسو مینوفیکچررز بشمول انڈونیشیا میں سرمایہ کاری کرنے والی کمپنیوں کی حوصلہ افزائی کر رہے ہیں کہ وہ تجارتی معاہدوں سے استفادہ کریں..."
+      "title_ur": "امریکی-ایران کے بڑھتے ہوئے حملوں پر تیل 10% ہفتہ وار فائدہ کی طرف بڑھ رہا ہے",
+      "desc_ur": "تیل کی قیمتیں 10 فیصد سے زیادہ کے ہفتہ وار اضافے کے راستے پر تھیں کیونکہ امریکہ اور ایران نے حملوں میں اضافہ کیا اور وسیع تر علاقائی خلل کا خدشہ بڑھا دیا۔"
     },
     {
-      "title": "Why is Pakistan’s Sindh province facing a major child HIV outbreak?",
-      "desc": "The latest outbreak linked to a Karachi hospital is the newest in a series that experts say reflects systemic failures.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/7/17/why-is-pakistans-sindh-province-facing-a-major-child-hiv-outbreak",
-      "time": "2026-07-17T07:33:16",
+      "title": "Peak of US-Iran conflict likely over; easing commodity prices to aid Indian manufacturers from H2FY27: Report",
+      "desc": "Easing commodity prices are expected to boost Indian manufacturers' operating margins. Global supply is improving and demand from China remains weak. US crude oil exports have risen, offsetting supply disruptions. OPEC+ agreed to increase output, further stab…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/india/easing-commodity-prices-to-boost-indian-manufacturers-as-us-iran-conflict-peaks-key-insights-for-fy27/articleshow/132457863.cms",
+      "time": "2026-07-17T09:40:44",
       "country": "Pakistan",
-      "title_ur": "پاکستان کا صوبہ سندھ کیوں بچوں میں ایچ آئی وی کی وبا کا شکار ہے؟",
-      "desc_ur": "کراچی کے ہسپتال سے منسلک تازہ ترین وباء اس سلسلے میں سب سے نیا ہے جس کے بارے میں ماہرین کا کہنا ہے کہ نظامی ناکامیوں کی عکاسی ہوتی ہے۔"
+      "title_ur": "امریکہ ایران تنازع کی انتہا ختم ہونے کا امکان H2FY27 سے ہندوستانی صنعت کاروں کی مدد کے لیے اشیاء کی قیمتوں میں نرمی: رپورٹ",
+      "desc_ur": "اجناس کی قیمتوں میں نرمی سے ہندوستانی مینوفیکچررز کے آپریٹنگ مارجن میں اضافہ متوقع ہے۔ عالمی سطح پر سپلائی بہتر ہو رہی ہے اور چین سے مانگ کمزور ہے۔ امریکی خام تیل کی برآمدات میں اضافہ ہوا ہے جس سے سپلائی میں خلل پڑا ہے۔ OPEC+ نے پیداوار بڑھانے پر اتفاق کیا، مزید وار…"
     },
     {
-      "title": "Pakistan Plans Fresh LNG Purchases Amid Strait of Hormuz Shutdown",
-      "desc": "Pakistan is looking to buy additional spot LNG cargoes for July and August delivery as the fresh halt to Strait of Hormuz traffic has disrupted shipments from its term supplier, Qatar. The Pakistani government is close to finalizing a plan to buy on the spot …",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-Plans-Fresh-LNG-Purchases-Amid-Strait-of-Hormuz-Shutdown.html",
-      "time": "2026-07-17T07:30:00",
+      "title": "Saudi Arabia rolls over $3 billion loan to Pakistan: Report",
+      "desc": "Saudi Arabia has rolled over its USD 3 billion debt to Pakistan. Pakistan's finance minister confirmed the debt rollover was completed. The country's foreign exchange reserves currently stand at USD 18.5 billion.",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/saudi-arabia-rolls-over-3-billion-loan-to-pakistan-report/articleshow/132457861.cms",
+      "time": "2026-07-17T09:37:40",
       "country": "Pakistan",
-      "title_ur": "پاکستان آبنائے ہرمز بند کے درمیان LNG کی تازہ خریداری کا منصوبہ بنا رہا ہے۔",
-      "desc_ur": "پاکستان جولائی اور اگست کی ڈیلیوری کے لیے اضافی اسپاٹ ایل این جی کارگوز خریدنے کے لیے کوشاں ہے کیونکہ آبنائے ہرمز کے ٹریفک کے لیے تازہ تعطل نے اس کے ٹرم سپلائر قطر سے ترسیل میں خلل ڈالا ہے۔ پاکستانی حکومت موقع پر خریدنے کے منصوبے کو حتمی شکل دینے کے قریب ہے…"
+      "title_ur": "سعودی عرب نے پاکستان کو 3 ارب ڈالر سے زائد کا قرضہ دیا: رپورٹ",
+      "desc_ur": "سعودی عرب نے پاکستان کو 3 ارب ڈالر کا قرضہ دے دیا ہے۔ پاکستان کے وزیر خزانہ نے تصدیق کی کہ قرضوں کی ادائیگی مکمل ہو گئی ہے۔ ملک کے زرمبادلہ کے ذخائر اس وقت 18.5 بلین امریکی ڈالر ہیں۔"
     },
     {
-      "title": "UBS, Deutsche Bank Turn More Bullish on Stoxx 600",
-      "desc": "Accelerating earnings growth and confidence the rally can withstand the latest geopolitical jitters means strategists are increasingly optimistic about European stocks, a Bloomberg survey shows.",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/ubs-deutsche-bank-turn-more-bullish-on-stoxx-600",
-      "time": "2026-07-17T07:07:09",
+      "title": "Pakistan all-rounder Nawaz sanctioned after cannabis-related positive test",
+      "desc": "July 17 : Mohammad Nawaz has been sanctioned by the International Cricket Council (ICC) after testing positive for a cannabis-related substance, the governing body said on Friday, with the Pakistan all-rounder being handed a three-month ban that can be reduce…",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/sport/pakistan-all-rounder-nawaz-sanctioned-after-cannabis-related-positive-test-6260861",
+      "time": "2026-07-17T09:21:14",
       "country": "Pakistan",
-      "title_ur": "UBS، ڈوئچے بینک نے Stoxx 600 پر مزید تیزی پیدا کی۔",
-      "desc_ur": "بلومبرگ کے سروے سے پتہ چلتا ہے کہ آمدنی میں اضافے اور اعتماد کو تیز کرنے سے ریلی تازہ ترین جیو پولیٹیکل جھٹکوں کا مقابلہ کر سکتی ہے اس کا مطلب ہے کہ حکمت عملی ساز یورپی اسٹاک کے بارے میں تیزی سے پر امید ہیں۔"
+      "title_ur": "پاکستان کے آل راؤنڈر نواز کو بھنگ سے متعلق مثبت ٹیسٹ کے بعد منظوری دے دی گئی۔",
+      "desc_ur": "17 جولائی: محمد نواز کو بین الاقوامی کرکٹ کونسل (آئی سی سی) نے بھنگ سے متعلق مادے کے ٹیسٹ مثبت آنے کے بعد منظوری دے دی ہے، گورننگ باڈی نے جمعہ کو کہا کہ پاکستانی آل راؤنڈر پر تین ماہ کی پابندی عائد کی گئی ہے جسے کم کیا جا سکتا ہے۔"
+    },
+    {
+      "title": "Kuwait says Iran attacked a power and water desalination plant, causing widespread damage",
+      "desc": "Kuwait said an Iranian attack damaged a power and water desalination plant, triggering a fire and widespread damage to electricity generation units.Authorities extinguished the blaze and are assessing the damage, as the disruption threatens water supplies in …",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/kuwait-says-iran-attacked-a-power-and-water-desalination-plant-causing-widespread-damage/articleshow/132457495.cms",
+      "time": "2026-07-17T09:16:04",
+      "country": "Pakistan",
+      "title_ur": "کویت کا کہنا ہے کہ ایران نے بجلی اور پانی کو صاف کرنے کے پلانٹ پر حملہ کیا جس سے بڑے پیمانے پر نقصان ہوا۔",
+      "desc_ur": "کویت نے کہا کہ ایرانی حملے سے بجلی اور پانی کو صاف کرنے والے پلانٹ کو نقصان پہنچا، آگ لگ گئی اور بجلی پیدا کرنے والے یونٹوں کو بڑے پیمانے پر نقصان پہنچا۔ حکام نے آگ پر قابو پالیا اور نقصان کا اندازہ لگا رہے ہیں، کیونکہ اس خلل سے پانی کی سپلائی کو خطرہ ہے…"
+    },
+    {
+      "title": "The Next Oil Shock Might Depend on China",
+      "desc": "Energy prices rose sharply this week as Iran moved to close the Strait of Hormuz with more ship attacks and the U.S. military resumed its daily strikes on Iranian targets.\nMonths of disruption to the most important waterway for crude oil trade should have sen…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/ad73f97af56490f2",
+      "time": "2026-07-17T09:13:21",
+      "country": "Pakistan",
+      "title_ur": "اگلا تیل کا جھٹکا چین پر منحصر ہوسکتا ہے۔",
+      "desc_ur": "اس ہفتے توانائی کی قیمتوں میں تیزی سے اضافہ ہوا کیونکہ ایران نے مزید جہازوں کے حملوں کے ساتھ آبنائے ہرمز کو بند کرنے کی کوشش کی اور امریکی فوج نے ایرانی اہداف پر اپنے روزانہ حملے دوبارہ شروع کر دیے۔\nخام تیل کی تجارت کے لیے سب سے اہم آبی گزرگاہ میں کئی مہینوں کی خلل ہونا چاہیے تھا…"
     }
   ],
   "business": {
