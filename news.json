@@ -1,197 +1,167 @@
 {
-  "generated": "2026-07-18T17:51:59Z",
+  "generated": "2026-07-18T18:54:06Z",
   "world": [
     {
-      "title": "Do Veterans Benefits Expire?",
-      "desc": "Did you know that many of your VA benefits have an expiration date? If not, you're not alone.",
-      "source": "Military.com",
-      "url": "https://military.com/benefits/veteran-benefits/veterans-benefit-expiration-dates.html",
-      "time": "2026-07-17T17:45:59",
-      "country": "International",
-      "title_ur": "کیا سابق فوجیوں کے فوائد ختم ہو جاتے ہیں؟",
-      "desc_ur": "کیا آپ جانتے ہیں کہ آپ کے بہت سے VA فوائد کی میعاد ختم ہونے کی تاریخ ہے؟ اگر نہیں، تو آپ اکیلے نہیں ہیں۔"
-    },
-    {
-      "title": "Forestry Q3 outlook: Supply constraints and stronger demand may lift log prices - Marcus Musson",
-      "desc": "OPINION: There's a flicker of light at the end of the tunnel. Let’s hope it's not a train.",
-      "source": "New Zealand Herald",
-      "url": "https://www.nzherald.co.nz/the-country/news/forestry-q3-outlook-supply-constraints-and-stronger-demand-may-lift-log-prices-marcus-musson/LTYC3ZEC3ZF6VCP6M4L6AQ5RXI/",
-      "time": "2026-07-17T17:45:00",
-      "country": "US",
-      "title_ur": "جنگلات کا Q3 آؤٹ لک: سپلائی کی رکاوٹیں اور مضبوط مانگ لاگت کی قیمتوں میں اضافہ کر سکتی ہے - مارکس موسن",
-      "desc_ur": "رائے: سرنگ کے آخر میں روشنی کی چمک ہے۔ آئیے امید کرتے ہیں کہ یہ ٹرین نہیں ہے۔"
-    },
-    {
-      "title": "DOUG SCHOEN: Trump put 2026 election officials on notice. Now he needs a clear agenda",
-      "desc": "Trump's White House address put election officials on notice about foreign interference, but failed to deliver a sustained argument on affordability.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/opinion/doug-schoen-trump-put-2026-election-officials-notice-needs-clear-agenda",
-      "time": "2026-07-17T17:44:59",
-      "country": "US",
-      "title_ur": "ڈوگ شون: ٹرمپ نے 2026 کے انتخابی عہدیداروں کو نوٹس پر رکھا۔ اب اسے ایک واضح ایجنڈے کی ضرورت ہے۔",
-      "desc_ur": "ٹرمپ کے وائٹ ہاؤس کے خطاب نے انتخابی حکام کو غیر ملکی مداخلت کے بارے میں نوٹس دیا، لیکن قابل استطاعت پر مستقل دلیل پیش کرنے میں ناکام رہے۔"
-    },
-    {
-      "title": "Indexes plunge as heavyweight chip stocks tumble",
-      "desc": "Investors reduce bets on artificial intelligence",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/business/2026/07/17/indexes-plunge-as-heavyweight-chip-stocks-tumble/",
-      "time": "2026-07-17T17:43:44",
-      "country": "International",
-      "title_ur": "ہیوی ویٹ چپ اسٹاک کے گرنے کے ساتھ ہی اشاریہ جات ڈوب گئے۔",
-      "desc_ur": "سرمایہ کار مصنوعی ذہانت پر شرطیں کم کرتے ہیں۔"
-    },
-    {
-      "title": "3,000-year-old earrings and one-of-a-kind couture: Inside Zendaya’s priceless press tour wardrobe for ‘The Odyssey’",
-      "desc": "An epic movie deserves epic outfits.",
-      "source": "Page Six",
-      "url": "https://pagesix.com/2026/07/17/style/inside-zendaya-priceless-press-tour-wardrobe-for-the-odyssey/",
-      "time": "2026-07-17T17:43:31",
-      "country": "International",
-      "title_ur": "3,000 سال پرانی بالیاں اور ایک قسم کا لباس: 'دی اوڈیسی' کے لیے Zendaya کی پریس ٹور الماری کے اندر",
-      "desc_ur": "ایک مہاکاوی فلم مہاکاوی تنظیموں کی مستحق ہے۔"
-    },
-    {
-      "title": "‘Sea of Red’ Hits Emerging Stocks as AI Concerns Jolts Markets",
-      "desc": "Emerging-market stocks slumped, with a key gauge headed for a technical correction on mounting concerns the outlook for artificial intelligence no longer justifies the industry’s elevated valuations.",
+      "title": "Sixth Day of US, Iran Counterattacks Puts Ceasefire Out of Reach",
+      "desc": "The US and Iran traded attacks again on Friday, pressuring oil prices and making a quick return to the fragile ceasefire deal signed last month even less likely.",
       "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/sea-of-red-hits-emerging-stocks-as-ai-concerns-jolts-markets",
-      "time": "2026-07-17T17:41:37",
-      "country": "US",
-      "title_ur": "'سی آف ریڈ' ابھرتے ہوئے اسٹاکس کو AI خدشات کے طور پر مارکیٹوں کو جھٹکا دیتا ہے۔",
-      "desc_ur": "ابھرتی ہوئی مارکیٹ کے سٹاک زوال پذیر ہوئے، بڑھتے ہوئے خدشات پر تکنیکی تصحیح کی طرف جانے والے کلیدی گیج کے ساتھ مصنوعی ذہانت کا نقطہ نظر اب صنعت کی بلند شدہ قیمتوں کا جواز نہیں بنتا۔"
-    },
-    {
-      "title": "Iran Revolutionary Guards fire on Thai-flagged ship in Strait of Hormuz, sparking oil surge and crypto toll demands",
-      "desc": "Iran's IRGC fired on a Thai-flagged ship in the Strait of Hormuz, killing three sailors. Brent crude hit $126 as Iran reportedly demands crypto transit\nThe post Iran Revolutionary Guards fire on Thai-flagged ship in Strait of Hormuz, sparking oil surge and cr…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-strait-hormuz-ship-attack-crypto-tolls/",
-      "time": "2026-07-17T17:41:21",
+      "url": "https://financialpost.com/pmn/business-pmn/sixth-day-of-us-iran-counterattacks-puts-ceasefire-out-of-reach",
+      "time": "2026-07-17T18:53:21",
       "country": "Iran",
-      "title_ur": "ایران کے پاسداران انقلاب نے آبنائے ہرمز میں تھائی پرچم والے بحری جہاز پر آگ لگا دی، تیل میں اضافے اور کرپٹو ٹول مطالبات کو ہوا دی",
-      "desc_ur": "ایران کے IRGC نے آبنائے ہرمز میں تھائی جھنڈے والے جہاز پر فائرنگ کی جس کے نتیجے میں تین ملاح ہلاک ہو گئے۔ برینٹ کروڈ کی قیمت $126 تک پہنچ گئی کیونکہ ایران نے مبینہ طور پر کرپٹو ٹرانزٹ کا مطالبہ کیا۔\nThe post ایران کے پاسداران انقلاب نے آبنائے ہرمز میں تھائی پرچم والے بحری جہاز پر فائرنگ کردی، تیل میں اضافے اور کرنٹ…"
+      "title_ur": "امریکہ کے چھٹے دن، ایران کے جوابی حملوں نے جنگ بندی کو پہنچ سے باہر کر دیا۔",
+      "desc_ur": "امریکہ اور ایران نے جمعہ کے روز دوبارہ حملے کیے، تیل کی قیمتوں پر دباؤ ڈالا اور گزشتہ ماہ ہونے والے اس نازک جنگ بندی کے معاہدے پر جلد واپسی کا امکان بھی کم ہے۔"
     },
     {
-      "title": "Walt Disney’s private airplane restored after 15 years of baking in the Florida sun",
-      "desc": "While ‘The Mouse’ won't take to the skies like Peter Pan, visitors can see it at the Palm Springs Air Museum.\nThe post Walt Disney’s private airplane restored after 15 years of baking in the Florida sun appeared first on Popular Science.",
-      "source": "Popular Science",
-      "url": "http://www.popsci.com/technology/walt-disney-private-airplane-restored/",
-      "time": "2026-07-17T17:40:11",
-      "country": "US",
-      "title_ur": "والٹ ڈزنی کا نجی ہوائی جہاز فلوریڈا کی دھوپ میں 15 سال تک پکنے کے بعد بحال ہو گیا۔",
-      "desc_ur": "اگرچہ 'دی ماؤس' پیٹر پین کی طرح آسمانوں پر نہیں جائے گا، زائرین اسے پام اسپرنگس ایئر میوزیم میں دیکھ سکتے ہیں۔\nThe post والٹ ڈزنی کا نجی ہوائی جہاز فلوریڈا کی دھوپ میں 15 سال تک بیکنگ کے بعد بحال appeared first on پاپولر سائنس."
+      "title": "Why oil prices are about to surge",
+      "desc": "There is a rapidly escalating supply crunch that has yet to show up on oil markets. While the price of crude has risen in the past week, as the fragile ceasefire has crumbled, the remarkably restrained price moves have helped create a false sense of security.",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-07-18/verrender-supply-crunch-oil-markets/106921650",
+      "time": "2026-07-17T18:52:23",
+      "country": "International",
+      "title_ur": "تیل کی قیمتیں کیوں بڑھ رہی ہیں؟",
+      "desc_ur": "تیزی سے بڑھتی ہوئی سپلائی کا بحران ہے جو ابھی تیل کی منڈیوں میں ظاہر ہونا باقی ہے۔ اگرچہ گزشتہ ہفتے خام تیل کی قیمت میں اضافہ ہوا ہے، جیسا کہ نازک سیز فائر ٹوٹ گیا ہے، قیمتوں میں غیر معمولی حد تک روکاوٹ نے تحفظ کا غلط احساس پیدا کرنے میں مدد کی ہے۔"
     },
     {
-      "title": "WATCH: Mickey Mouse Club reboot",
-      "desc": "ABC News' Will Ganss shares the buzziest stories of the day in \"GMA\" Pop News.",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/video/134855357/",
-      "time": "2026-07-17T17:39:11",
-      "country": "US",
-      "title_ur": "دیکھیں: مکی ماؤس کلب ریبوٹ",
-      "desc_ur": "ABC News' Will Ganss \"GMA\" پاپ نیوز میں دن کی سب سے دلچسپ کہانیاں شیئر کرتا ہے۔"
-    },
-    {
-      "title": "Celebrating the best of us, and 25 more thoughts on the 2026 World Cup",
-      "desc": "From the U.S. roller-coaster, the magic of Messi, the controversy of VAR and everything in between, SN takes stock of an unforgettable 39 days.",
-      "source": "Sporting News",
-      "url": "https://www.sportingnews.com/us/soccer/news/celebrating-best-us-and-25-more-thoughts-2026-world-cup/1eb95fc2a5e23d72ca35bb4f",
-      "time": "2026-07-17T17:38:55",
-      "country": "US",
-      "title_ur": "ہم میں سے بہترین کا جشن منانا، اور 2026 ورلڈ کپ کے بارے میں مزید 25 خیالات",
-      "desc_ur": "یو ایس رولر کوسٹر سے، میسی کا جادو، VAR کا تنازعہ اور اس کے درمیان سب کچھ، SN ناقابل فراموش 39 دنوں کا جائزہ لیتا ہے۔"
-    },
-    {
-      "title": "Oil Markets Ignore Mounting Risks at Their Own Peril",
-      "desc": "Escalating U.S.-Iran hostilities, attacks on critical infrastructure, and near-halted Hormuz tanker traffic are fueling expectations of higher oil prices.\nFriday, July 17, 2026\nUS forces striking civilian infrastructure in Iran, Tehran attacking a Kuwaiti pow…",
+      "title": "Iraq and Syria sign agreement to restore oil pipeline that would provide alternative to Strait of Hormuz",
+      "desc": "Iraq and Syria signed an agreement on Friday to rebuild an oil pipeline that would provide an alternative to the Strait of Hormuz.\nBaghdad and Syria inked the deal at a Chamber of Commerce summit in Washington D.C. on U.S. investment in Iraq. Energy Secretary…",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/a173ad7506424589",
-      "time": "2026-07-17T17:38:46",
-      "country": "Iran",
-      "title_ur": "تیل کی منڈیاں ان کے اپنے خطرے میں بڑھتے ہوئے خطرات کو نظر انداز کرتی ہیں۔",
-      "desc_ur": "امریکہ ایران دشمنی میں اضافہ، اہم بنیادی ڈھانچے پر حملے، اور قریب قریب رکے ہوئے ہرمز ٹینکر کی آمدورفت تیل کی قیمتوں میں اضافے کی توقعات کو بڑھا رہی ہے۔\nجمعہ 17 جولائی 2026\nامریکی افواج ایران میں سویلین انفراسٹرکچر پر حملہ کر رہی ہیں، تہران نے کویتی جنگی طیاروں پر حملہ کیا ہے…"
+      "url": "https://biztoc.com/x/f0b51b585aadc408",
+      "time": "2026-07-17T18:52:21",
+      "country": "Iraq",
+      "title_ur": "عراق اور شام نے تیل کی پائپ لائن کی بحالی کے معاہدے پر دستخط کیے جو آبنائے ہرمز کا متبادل فراہم کرے گی۔",
+      "desc_ur": "عراق اور شام نے جمعے کو ایک معاہدے پر دستخط کیے ہیں جس سے تیل کی پائپ لائن کی تعمیر نو کی جائے گی جو آبنائے ہرمز کا متبادل فراہم کرے گی۔\nبغداد اور شام نے عراق میں امریکی سرمایہ کاری کے بارے میں واشنگٹن ڈی سی میں چیمبر آف کامرس کے اجلاس میں اس معاہدے پر دستخط کیے۔ سیکرٹری توانائی…"
     },
     {
-      "title": "Trump is stuck between two straits, and Iran is in no hurry to save him",
-      "desc": "While the U.S. is having a hard time opening the Strait of Hormuz, the threat of the Houthis closing the Bab el-Mandeb Strait off Yemen is now in the mix. The risk to the world economy needs no explanation",
-      "source": "Haaretz",
-      "url": "https://www.haaretz.com/middle-east-news/iran/2026-07-17/ty-article/.premium/trump-is-stuck-between-two-straits-and-iran-is-in-no-hurry-to-save-him/0000019f-7010-d20e-a7df-7abe7f960000",
-      "time": "2026-07-17T17:38:26",
-      "country": "Iran",
-      "title_ur": "ٹرمپ دو آبنائے کے درمیان پھنس گئے ہیں اور ایران اسے بچانے کی کوئی جلدی نہیں کر رہا ہے۔",
-      "desc_ur": "جہاں امریکہ کو آبنائے ہرمز کو کھولنے میں مشکل پیش آ رہی ہے، وہیں حوثیوں کی جانب سے یمن سے دور آبنائے باب المندب کو بند کرنے کا خطرہ اب گھل مل گیا ہے۔ عالمی معیشت کو لاحق خطرے کی وضاحت کی ضرورت نہیں۔"
-    },
-    {
-      "title": "Sen. Darline Graham Considers Running for a Full-Term, Source Confirms",
-      "desc": "Sen. Darline Graham Nordone (R-SC) is considering running for a full-term in the United States Senate, as she was sworn in this week to finish the term of her late brother, Sen. Lindsey Graham, until January.",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-chat/4388338/posts",
-      "time": "2026-07-17T17:37:34",
+      "title": "Study Reveals How Brain Remodeling During Adolescence Shapes Memory",
+      "desc": "Mouse study sheds new light on how memory circuits mature BRONX, N.Y., July 17, 2026 /PRNewswire/ -- Scientists have long known that the human brain continues developing well beyond the teenage years, with important changes involving decision-making and emoti…",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/study-reveals-how-brain-remodeling-during-adolescence-shapes-memory-302828771.html",
+      "time": "2026-07-17T18:52:00",
       "country": "US",
-      "title_ur": "سین ڈارلین گراہم نے مکمل مدت کے لیے انتخاب لڑنے پر غور کیا، ماخذ نے تصدیق کی۔",
-      "desc_ur": "سینیٹر ڈارلین گراہم نورڈون (R-SC) ریاستہائے متحدہ کی سینیٹ میں مکمل مدت کے لیے انتخاب لڑنے پر غور کر رہی ہیں، کیونکہ اس نے اس ہفتے اپنے مرحوم بھائی، سین لنڈسے گراہم کی مدتِ جنوری تک مکمل کرنے کا حلف اٹھایا تھا۔"
+      "title_ur": "مطالعہ سے پتہ چلتا ہے کہ کس طرح جوانی کے دوران دماغ کی دوبارہ تشکیل یادداشت کو شکل دیتی ہے۔",
+      "desc_ur": "ماؤس اسٹڈی اس بات پر نئی روشنی ڈالتی ہے کہ میموری سرکٹس کیسے پختہ ہوتے ہیں BRONX، NY.، 17 جولائی، 2026/PRNewswire/ -- سائنس دان طویل عرصے سے جانتے ہیں کہ انسانی دماغ نوعمری کے بعد بھی ترقی کرتا رہتا ہے، جس میں فیصلہ سازی اور جذباتیت میں اہم تبدیلیاں شامل ہوتی ہیں۔"
     },
     {
-      "title": "Canadian Oil Refinery Shut Down Could Crimp Northeast US Supply",
-      "desc": "Canada’s largest oil refinery is planning to shut down for maintenance in the fall, potentially exacerbating fuel market tightness in northeastern US states that rely on the plant for gasoline and diesel imports.",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/canadian-oil-refinery-shut-down-could-crimp-northeast-us-supply",
-      "time": "2026-07-17T17:36:41",
+      "title": "Megyn Kelly Claims ‘Israeli Representatives’ Tried to ‘Buy into’ Her Show",
+      "desc": "Megyn Kelly claimed Israeli \"representatives\" were the only foreign entities to ever try and buy into her show while issuing a stern warning to her critics.\nThe post Megyn Kelly Claims ‘Israeli Representatives’ Tried to ‘Buy into’ Her Show first appeared on M…",
+      "source": "Mediaite",
+      "url": "https://www.mediaite.com/media/podcasts/megyn-kelly-claims-israeli-representatives-tried-to-buy-into-her-show/",
+      "time": "2026-07-17T18:49:40",
+      "country": "Israel",
+      "title_ur": "میگین کیلی کا دعویٰ ہے کہ 'اسرائیلی نمائندوں' نے اس کے شو میں 'خریدنے' کی کوشش کی۔",
+      "desc_ur": "میگین کیلی نے دعویٰ کیا کہ اسرائیلی \"نمائندے\" واحد غیر ملکی ادارے تھے جنہوں نے اپنے ناقدین کو سخت انتباہ جاری کرتے ہوئے اس کے شو میں آنے کی کوشش کی۔\nThe post میگین کیلی کا دعویٰ ہے کہ ’اسرائیلی نمائندوں‘ نے اس کے شو میں ’خریدنے‘ کی کوشش کی appeared first on M…"
+    },
+    {
+      "title": "Garry Sobers, cricket's greatest all-rounder, dies at 89",
+      "desc": "Cricket icon Garry Sobers has died at the age of eighty-nine. He was widely regarded as the greatest all-round cricketer ever. Sobers achieved remarkable feats, including six sixes in one over. He also played cricket in apartheid Rhodesia, which caused contro…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/sports/cricket/garry-sobers-crickets-greatest-all-rounder-dies-at-89/articleshow/132468604.cms",
+      "time": "2026-07-17T18:46:28",
       "country": "US",
-      "title_ur": "کینیڈین آئل ریفائنری کے بند ہونے سے شمال مشرقی امریکی سپلائی میں کمی آ سکتی ہے۔",
-      "desc_ur": "کینیڈا کی سب سے بڑی آئل ریفائنری موسم خزاں میں دیکھ بھال کے لیے بند کرنے کی منصوبہ بندی کر رہی ہے، جو ممکنہ طور پر شمال مشرقی امریکی ریاستوں میں ایندھن کی مارکیٹ کی تنگی کو بڑھا رہی ہے جو پٹرول اور ڈیزل کی درآمد کے لیے پلانٹ پر انحصار کرتی ہیں۔"
+      "title_ur": "کرکٹ کے عظیم آل راؤنڈر گیری سوبرز 89 سال کی عمر میں انتقال کر گئے۔",
+      "desc_ur": "کرکٹ کے آئیکون گیری سوبرز ننانوے برس کی عمر میں انتقال کر گئے۔ انہیں بڑے پیمانے پر اب تک کا سب سے بڑا آل راؤنڈ کرکٹر سمجھا جاتا تھا۔ سوبرز نے ایک اوور میں چھ چھکے سمیت شاندار کارنامے انجام دیے۔ اس نے نسل پرست روڈیشیا میں کرکٹ بھی کھیلی، جس کی وجہ سے تنازعہ ہوا…"
     },
     {
-      "title": "Canadian oil refinery shut down could crimp northeast U.S. supply",
-      "desc": "Canada’s largest oil refinery is planning to shut down for maintenance in the fall, potentially exacerbating fuel market tightness. Read on",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/commodities/energy/oil-gas/canadian-oil-refinery-shut-down-could-crimp-northeast-us-supply",
-      "time": "2026-07-17T17:36:41",
+      "title": "As US and Iran battle for control over Hormuz, oil nations are building alternatives",
+      "desc": "Amid uncertainty around the Strait of Hormuz, for months Gulf countries and oil companies have been finding ways to bypass the choke point.",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-07-18/gulf-nations-building-alternatives-to-strait-of-hormuz/106928846",
+      "time": "2026-07-17T18:46:21",
+      "country": "Iran",
+      "title_ur": "جیسا کہ امریکہ اور ایران ہرمز پر کنٹرول کے لیے لڑ رہے ہیں، تیل کے ممالک متبادل تیار کر رہے ہیں۔",
+      "desc_ur": "آبنائے ہرمز کے ارد گرد غیر یقینی صورتحال کے درمیان، کئی مہینوں سے خلیجی ممالک اور تیل کمپنیاں چوک پوائنٹ کو نظرانداز کرنے کے طریقے تلاش کر رہی ہیں۔"
+    },
+    {
+      "title": "New US Military Move May Be Ominous Sign",
+      "desc": "In a sign that doesn't bode well for a quick end to rising hostility with Iran, the US is about to beef up its ability to unleash a major air attack in the region. Axios reports that the US has informed Israel that it's sending dozens of military refueling pl…",
+      "source": "Newser",
+      "url": "https://www.newser.com/story/393059/new-us-military-move-may-be-ominous-sign.html",
+      "time": "2026-07-17T18:45:00",
+      "country": "Iran",
+      "title_ur": "نیا امریکی فوجی اقدام ایک خطرناک علامت ہو سکتا ہے۔",
+      "desc_ur": "اس علامت میں جو ایران کے ساتھ بڑھتی ہوئی دشمنی کے فوری خاتمے کے لیے اچھا نہیں لگتا، امریکہ خطے میں ایک بڑا فضائی حملہ کرنے کی اپنی صلاحیت کو بڑھانے والا ہے۔ Axios نے رپورٹ کیا ہے کہ امریکہ نے اسرائیل کو مطلع کیا ہے کہ وہ درجنوں فوجی ایندھن بھیج رہا ہے pl…"
+    },
+    {
+      "title": "All-time West Indies cricket great Garfield Sobers dies aged 89",
+      "desc": "Arguably the greatest all-rounder of the game, Sobers led the West Indies at his peak, breaking Test cricket records.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/sports/2026/7/17/all-time-west-indies-cricket-great-garfield-sobers-dies-aged-89",
+      "time": "2026-07-17T18:40:44",
       "country": "International",
-      "title_ur": "کینیڈین آئل ریفائنری بند ہونے سے شمال مشرقی امریکی سپلائی متاثر ہو سکتی ہے۔",
-      "desc_ur": "کینیڈا کی سب سے بڑی آئل ریفائنری موسم خزاں میں دیکھ بھال کے لیے بند کرنے کی منصوبہ بندی کر رہی ہے، ممکنہ طور پر ایندھن کی مارکیٹ کی تنگی کو بڑھا رہی ہے۔ پڑھیں"
+      "title_ur": "ویسٹ انڈیز کے ہمہ وقت کرکٹ کے عظیم گارفیلڈ سوبرز 89 سال کی عمر میں انتقال کر گئے۔",
+      "desc_ur": "بلاشبہ کھیل کے سب سے بڑے آل راؤنڈر، سوبرز نے ٹیسٹ کرکٹ کے ریکارڈ توڑتے ہوئے ویسٹ انڈیز کی قیادت اپنے عروج پر کی۔"
+    },
+    {
+      "title": "Tour rescheduled without consent, agency told to pay Rs 2.42 lakh to Ahmedabad couple",
+      "desc": "Ahmedabad consumer commission orders travel firm to refund Rs 2.42 lakh plus interest for rescheduling Israel tour without consent; Rs 25,000 compensation awarded.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/ahmedabad/tour-rescheduled-without-consent-agency-told-to-pay-rs-2-42-lakh-to-ahmedabad-couple/articleshow/132468464.cms",
+      "time": "2026-07-17T18:39:55",
+      "country": "Israel",
+      "title_ur": "رضامندی کے بغیر ٹور کا شیڈول تبدیل، ایجنسی نے احمد آباد کے جوڑے کو 2.42 لاکھ روپے ادا کرنے کو کہا",
+      "desc_ur": "احمد آباد کنزیومر کمیشن نے ٹریول فرم کو 2.42 لاکھ روپے واپس کرنے کا حکم دیا اور بغیر رضامندی کے اسرائیل ٹور کو ری شیڈول کرنے پر سود 25000 روپے معاوضہ دیا گیا۔"
+    },
+    {
+      "title": "WATCH: What to expect from the World Cup halftime show",
+      "desc": "Lara Spencer details the star-studded schedule and festivities for the World Cup's first-ever halftime show.",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/video/134843905/",
+      "time": "2026-07-17T18:39:26",
+      "country": "International",
+      "title_ur": "دیکھو: ورلڈ کپ کے ہاف ٹائم شو سے کیا توقع کی جائے۔",
+      "desc_ur": "لارا اسپینسر نے ورلڈ کپ کے پہلے ہاف ٹائم شو کے لیے ستاروں سے بھرے شیڈول اور تہواروں کی تفصیلات بتائی ہیں۔"
+    },
+    {
+      "title": "Oil tankers face 'worst case scenario' in Hormuz as Iran steps up attacks on ships, maritime risk CEO says",
+      "desc": "The security situation in the Strait of Hormuz has returned to a \"worse-case scenario\" for oil tankers as Iran has repeatedly attacked ships over the past week, the CEO of a maritime risk services firm said.\n\"We see the reduction of the volume of transits thr…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/eccb4f37099875c4",
+      "time": "2026-07-17T18:36:54",
+      "country": "Iran",
+      "title_ur": "سمندری خطرے کے سی ای او کا کہنا ہے کہ ایران نے بحری جہازوں پر حملوں میں اضافہ کرتے ہوئے آئل ٹینکرز کو ہرمز میں 'بدترین صورت حال' کا سامنا کرنا پڑا",
+      "desc_ur": "ایک میری ٹائم رسک سروسز فرم کے سی ای او نے کہا کہ آبنائے ہرمز میں سکیورٹی کی صورتحال آئل ٹینکرز کے لیے \"بدتر صورت حال\" کی طرف لوٹ آئی ہے کیونکہ ایران نے گزشتہ ہفتے کے دوران کئی بار بحری جہازوں پر حملے کیے ہیں۔\n\"ہم ٹرانزٹ کے حجم میں کمی دیکھ رہے ہیں…"
+    },
+    {
+      "title": "US consumer sentiment improves in july; renewed Middle East conflict poses downside risk",
+      "desc": "US consumer sentiment improved in July amid rising Middle East tensions. US-Iran deal with reconstruction funding in 2026 at 25.5% YES.\nThe post US consumer sentiment improves in july; renewed Middle East conflict poses downside risk appeared first on Crypto …",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/us-consumer-sentiment-improves-in-july-renewed-middle-east-conflict-poses/",
+      "time": "2026-07-17T18:35:20",
+      "country": "Iran",
+      "title_ur": "جولائی میں امریکی صارفین کے جذبات میں بہتری۔ مشرق وسطیٰ کے نئے تنازعے سے منفی خطرہ لاحق ہے۔",
+      "desc_ur": "مشرق وسطیٰ میں بڑھتی ہوئی کشیدگی کے درمیان جولائی میں امریکی صارفین کے جذبات میں بہتری آئی۔ US-ایران نے 2026 میں 25.5% ہاں میں تعمیر نو کی فنڈنگ ​​کا معاہدہ کیا۔\nجولائی میں امریکی صارفین کے جذبات میں بہتری کے بعد۔ تجدید مشرق وسطی تنازعہ منفی پہلو کا خطرہ پیدا کر رہا ہے appeared first on Crypto…"
+    },
+    {
+      "title": "Three-quarters of ships in Strait of Hormuz go dark as missiles rain down - TradeWinds News",
+      "desc": "Three-quarters of ships in Strait of Hormuz go dark as missiles rain downTradeWinds News The U.S.-Iran battle over the Strait of Hormuz raises risks for global waterwaysNPR Some ships refusing US-military guided Hormuz transits after attacks, sources sayReute…",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184496144",
+      "time": "2026-07-17T18:33:23",
+      "country": "Iran",
+      "title_ur": "میزائلوں کی بارش سے آبنائے ہرمز میں تین چوتھائی بحری جہاز اندھیرے میں ڈوب گئے - TradeWinds News",
+      "desc_ur": "آبنائے ہرمز میں تین چوتھائی بحری جہاز اندھیرے میں چلے گئے جب میزائلوں کی بارش ہوئیTradeWinds News آبنائے ہرمز پر امریکہ اور ایران کی جنگ سے عالمی آبی گزرگاہوں کے لیے خطرات بڑھ گئےNPR کچھ بحری جہازوں نے حملوں کے بعد امریکی فوج کی رہنمائی والے ہرمز کی آمدورفت سے انکار کر دیا، ذرائع کا کہنا ہے کہ Reute…"
+    },
+    {
+      "title": "The US welcomes cooperation between Iraq and Syria on the pipeline",
+      "desc": "US supports Iraq-Syria pipeline project for energy security. WTI reaching $110 by July 2026 at 5.3% YES.\nThe post The US welcomes cooperation between Iraq and Syria on the pipeline appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/the-us-welcomes-cooperation-between-iraq-and-syria-on-the-pipeline/",
+      "time": "2026-07-17T18:33:16",
+      "country": "Iraq",
+      "title_ur": "امریکہ نے عراق اور شام کے درمیان پائپ لائن پر تعاون کا خیر مقدم کیا ہے۔",
+      "desc_ur": "امریکہ توانائی کی سلامتی کے لیے عراق شام پائپ لائن منصوبے کی حمایت کرتا ہے۔ WTI جولائی 2026 تک 5.3% ہاں $110 تک پہنچ رہا ہے۔\nThe post امریکا کا عراق اور شام کے درمیان پائپ لائن پر تعاون کا خیرمقدم appeared first on Crypto Briefing."
     }
   ],
   "pakistan": [
     {
-      "title": "As Gas Prices Surge Back to $4 a Gallon, Poll Shows Americans Blame Trump for Worsening Economy",
-      "desc": "As the resumption of President Donald Trump's illegal war with Iran sends gas prices back to an average of $4 per gallon, a poll released by CNBC on Friday shows Americans' perceptions of the US economy growing increasingly negative.The latest CNBC All-Americ…",
-      "source": "Common Dreams",
-      "url": "https://www.commondreams.org/news/trump-economy-poll-cnbc",
-      "time": "2026-07-17T17:33:51",
+      "title": "'Hope you suffer another October 7': Unruly Israelis arrested on plane",
+      "desc": "Three men arrested on a Lufthansa flight at Ben Gurion Airport for disruptive behavior and assaulting officers, with one suspect invoking October 7 during the arrest.(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start…",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/flashes/689989",
+      "time": "2026-07-17T18:52:35",
       "country": "Pakistan",
-      "title_ur": "جیسا کہ گیس کی قیمتیں 4 ڈالر فی گیلن تک واپس پہنچ گئیں، پول سے پتہ چلتا ہے کہ امریکی بگڑتی ہوئی معیشت کا ٹرمپ کو ذمہ دار ٹھہراتے ہیں۔",
-      "desc_ur": "ایران کے ساتھ صدر ڈونلڈ ٹرمپ کی غیر قانونی جنگ کے دوبارہ شروع ہونے سے گیس کی قیمتیں اوسطاً 4 ڈالر فی گیلن پر واپس آتی ہیں، CNBC کی طرف سے جمعہ کو جاری کردہ ایک سروے سے ظاہر ہوتا ہے کہ امریکی معیشت کے بارے میں امریکیوں کے تاثرات تیزی سے منفی ہو رہے ہیں۔ تازہ ترین CNBC آل امریکن…"
-    },
-    {
-      "title": "ICE and DHS’s Growing Record of Deception",
-      "desc": "Earlier this month, ICE agents in Houston shot and killed Lorenzo Salgado Araujo, a 52-year-old Mexican man who had lived in the United States for 35 years. ICE claimed Salgado Araujo, who had been driving a van, attempted to run over an ICE agent and an offi…",
-      "source": "Mother Jones",
-      "url": "https://www.motherjones.com/politics/2026/07/ice-dhs-shootings-deception-lies-lorenzo-salgado-araujo-joan-seastian-guerrero/",
-      "time": "2026-07-17T17:30:49",
-      "country": "Pakistan",
-      "title_ur": "ICE اور DHS کا دھوکہ دہی کا بڑھتا ہوا ریکارڈ",
-      "desc_ur": "اس ماہ کے شروع میں، ہیوسٹن میں آئی سی ای کے ایجنٹوں نے میکسیکن کے 52 سالہ شخص لورینزو سالگاڈو اراؤجو کو گولی مار کر ہلاک کر دیا تھا، جو 35 سال سے امریکہ میں مقیم تھا۔ ICE نے دعویٰ کیا کہ سالگاڈو اراؤجو، جو ایک وین چلا رہا تھا، نے ایک ICE ایجنٹ اور ایک افسر پر چڑھ دوڑنے کی کوشش کی…"
-    },
-    {
-      "title": "BP, ConocoPhillips Partner In Iraq’s Giant Oilfield",
-      "desc": "ConocoPhillips (NYSE:COP) agreed to acquire a 42% stake in BP Plc’s (NYSE:BP) development subsidiary covering four major oilfields in the Kirkuk region of northern Iraq, with the partnership aiming to rehabilitate and optimize production at a cost of ~$25 bil…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/BP-ConocoPhillips-Partner-In-Iraqs-Giant-Oilfield.html",
-      "time": "2026-07-17T17:30:00",
-      "country": "Pakistan",
-      "title_ur": "بی پی، عراق کے وشال آئل فیلڈ میں کونوکو فلپس پارٹنر",
-      "desc_ur": "ConocoPhillips (NYSE:COP) نے BP Plc's (NYSE:BP) کے ترقیاتی ذیلی ادارے میں 42% حصص حاصل کرنے پر اتفاق کیا جس میں شمالی عراق کے کرکوک علاقے میں چار بڑے آئل فیلڈز کا احاطہ کیا گیا ہے، شراکت داری کا مقصد ~ 25 بلین ڈالر کی لاگت سے بحالی اور پیداوار کو بہتر بنانا ہے۔"
-    },
-    {
-      "title": "A hit movie and a cricket festival power profits at JioStar",
-      "desc": "JioStar reported a net profit increase of 14.5% to Rs. 665 crore driven by subscriptions and digital ads, supported by IPL engagement. Revenue rose 14% to Rs. 10,946 crore, and monthly users for JioHotstar grew 15% to 530 million, highlighting robust digital …",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/industry/a-hit-movie-and-a-cricket-jamboree-power-profits-at-jiostar-11784301317917.html",
-      "time": "2026-07-17T17:21:08",
-      "country": "Pakistan",
-      "title_ur": "JioStar پر ایک ہٹ فلم اور کرکٹ فیسٹیول کا پاور منافع",
-      "desc_ur": "JioStar نے خالص منافع میں 14.5 فیصد اضافے کی اطلاع دی ہے۔ 665 کروڑ سبسکرپشنز اور ڈیجیٹل اشتہارات کے ذریعے چلائے گئے، جس کی حمایت آئی پی ایل کی مصروفیت سے ہوتی ہے۔ آمدنی 14 فیصد بڑھ کر روپے ہوگئی۔ 10,946 کروڑ، اور JioHotstar کے ماہانہ صارفین 15% بڑھ کر 530 ملین ہو گئے، مضبوط ڈیجیٹل کو نمایاں کرتے ہوئے…"
+      "title_ur": "'امید ہے کہ آپ 7 اکتوبر کو ایک اور تکلیف اٹھائیں گے': بے قابو اسرائیلی طیارے میں گرفتار",
+      "desc_ur": "بن گوریون ہوائی اڈے پر لفتھانسا کی فلائٹ پر افسروں پر حملہ کرنے کے الزام میں تین افراد کو گرفتار کیا گیا، گرفتاری کے دوران ایک مشتبہ شخص نے 7 اکتوبر کو کال کی تھی۔"
     }
   ],
   "business": {
