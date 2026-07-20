@@ -1,167 +1,207 @@
 {
-  "generated": "2026-07-20T22:53:23Z",
+  "generated": "2026-07-20T23:52:22Z",
   "world": [
     {
-      "title": "Here’s the biggest news you missed this weekend",
-      "desc": "Spain defeated Messi and Argentina to win the World Cup. The Tate brothers are arrested. And the U.S. and Iran trade strikes after two U.S. service members killed in Jordan.",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/news/us-news/weekend-rundown-july-19-rcna588007",
-      "time": "2026-07-19T22:53:01",
-      "country": "Iran",
-      "title_ur": "اس ہفتے کے آخر میں آپ کی سب سے بڑی خبر یہ رہی",
-      "desc_ur": "اسپین نے میسی اور ارجنٹائن کو شکست دے کر ورلڈ کپ جیت لیا۔ ٹیٹ بھائی گرفتار ہیں۔ اور اردن میں دو امریکی فوجیوں کی ہلاکت کے بعد امریکہ اور ایران کے درمیان تجارتی حملے ہوئے۔"
-    },
-    {
-      "title": "IDF fires interceptors over Eilat as Iranian missiles target nearby Aqaba in Jordan - The Times of Israel",
-      "desc": "IDF fires interceptors over Eilat as Iranian missiles target nearby Aqaba in JordanThe Times of Israel US ally Jordan summons Iranian ambassador after missile strikesABC News & Headlines – Australian Broadcasting Corporation West Asia war LIVE: Iranian missil…",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184512762",
-      "time": "2026-07-19T22:52:36",
-      "country": "Iran",
-      "title_ur": "آئی ڈی ایف نے ایلات پر انٹرسیپٹرز فائر کیے جب ایرانی میزائل اردن میں عقبہ کے قریب کو نشانہ بناتے ہیں - ٹائمز آف اسرائیل",
-      "desc_ur": "اردن میں عقبہ کے قریب ایرانی میزائلوں کے حملے کے بعد IDF نے ایلات پر انٹرسیپٹرز فائر کیے دی ٹائمز آف اسرائیل امریکی اتحادی اردن نے میزائل حملوں کے بعد ایرانی سفیر کو طلب کیاABC News & Headlines – Australian Broadcasting Corporation West Asia War LIVE: ایرانی میزائل…"
-    },
-    {
-      "title": "Life in the peace lane",
-      "desc": "It’s good that the Peace President engineered a totally ironclad ceasefire agreement to conclude the war with Iran that started through some mysterious unknown mechanism, or things might get really bad over there: An American servicemember died in northern Ir…",
-      "source": "Lawyersgunsmoneyblog.com",
-      "url": "https://www.lawyersgunsmoneyblog.com/2026/07/life-in-the-peace-lane",
-      "time": "2026-07-19T22:51:39",
-      "country": "Iran",
-      "title_ur": "امن کی گلی میں زندگی",
-      "desc_ur": "یہ اچھی بات ہے کہ امن کے صدر نے ایران کے ساتھ جنگ ​​کو ختم کرنے کے لیے مکمل طور پر لوہے کے پوش جنگ بندی کا معاہدہ کیا جو کسی پراسرار نامعلوم طریقہ کار کے ذریعے شروع ہوا، یا وہاں حالات بہت خراب ہو سکتے ہیں: ایک امریکی فوجی اہلکار شمالی Ir میں مر گیا…"
-    },
-    {
-      "title": "Mbappe becomes first player to win World Cup Golden Boot twice",
-      "desc": "Kylian Mbappe becomes the first player to win the FIFA World Cup Golden Boot twice, leading the 2026 tournament with 10 goals. Read more about his historic\n\nRead More: https://punchng.com/mbappe-becomes-first-player-to-win-world-cup-golden-boot-twice/",
-      "source": "The Punch",
-      "url": "https://punchng.com/mbappe-becomes-first-player-to-win-world-cup-golden-boot-twice/",
-      "time": "2026-07-19T22:51:20",
-      "country": "International",
-      "title_ur": "Mbappe دو بار ورلڈ کپ گولڈن بوٹ جیتنے والے پہلے کھلاڑی بن گئے۔",
-      "desc_ur": "Kylian Mbappe دو بار فیفا ورلڈ کپ گولڈن بوٹ جیتنے والے پہلے کھلاڑی بن گئے، 2026 کے ٹورنامنٹ میں 10 گول کے ساتھ برتری حاصل کی۔ اس کے تاریخی بارے میں مزید پڑھیں\n\nمزید پڑھیں: https://punchng.com/mbappe-becomes-first-player-to-win-world-cup-golden-boot-twice/"
-    },
-    {
-      "title": "IRGC claims surprise strike on US base in Syria, raising geopolitical risk for crypto markets",
-      "desc": "Iran's IRGC claims a surprise strike on a US base in Syria's Al-Tanf area. Here's what crypto traders need to watch as geopolitical tensions rise.\nThe post IRGC claims surprise strike on US base in Syria, raising geopolitical risk for crypto markets appeared …",
+      "title": "US embassy warns Iran may target central Manama amid rising tensions",
+      "desc": "US embassy warns of potential Iranian targeting in central Manama. Military action against a Gulf state on July 22 at 58% YES.\nThe post US embassy warns Iran may target central Manama amid rising tensions appeared first on Crypto Briefing.",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/irgc-strike-syria-crypto-market-risk/",
-      "time": "2026-07-19T22:48:07",
+      "url": "https://cryptobriefing.com/us-embassy-warns-iran-may-target-central-manama-amid-rising-tensions/",
+      "time": "2026-07-19T23:50:56",
       "country": "Iran",
-      "title_ur": "IRGC کا شام میں امریکی اڈے پر اچانک حملے کا دعویٰ، کرپٹو مارکیٹوں کے لیے جغرافیائی سیاسی خطرہ بڑھ رہا ہے",
-      "desc_ur": "ایران کی IRGC نے شام کے علاقے التنف میں امریکی اڈے پر اچانک حملے کا دعویٰ کیا ہے۔ جیو پولیٹیکل تناؤ بڑھتے ہی کرپٹو تاجروں کو یہ دیکھنے کی ضرورت ہے۔\nThe post IRGC کا شام میں امریکی اڈے پر اچانک حملے کا دعویٰ، کرپٹو مارکیٹوں کے لیے جیو پولیٹیکل خطرہ میں اضافہ appeared first on …"
+      "title_ur": "امریکی سفارت خانے نے خبردار کیا ہے کہ بڑھتی ہوئی کشیدگی کے درمیان ایران وسطی منامہ کو نشانہ بنا سکتا ہے۔",
+      "desc_ur": "امریکی سفارتخانے نے مرکزی منامہ میں ممکنہ ایرانی حملوں سے خبردار کیا ہے۔ 22 جولائی کو ایک خلیجی ریاست کے خلاف فوجی کارروائی 58% ہاں۔\nThe post امریکی سفارت خانے نے خبردار کیا ہے کہ بڑھتی ہوئی کشیدگی کے درمیان ایران وسطی مناما کو نشانہ بنا سکتا ہے appeared first on Crypto Briefing."
     },
     {
-      "title": "Andrew Tate, Brother In 'Solitary Confinement' Amid Sex Trafficking Charges",
-      "desc": "Manosphere influencer Andrew Tate and his brother, Tristan Tate, are speaking out via their lawyer following their most recent arrest for alleged sex trafficking. “Days ago, Andrew and Tristan Tate exercised their constitutional rights by visiting the US Capi…",
-      "source": "Us Weekly",
-      "url": "https://www.usmagazine.com/celebrity-news/news/andrew-tate-brother-in-solitary-confinement-lawyer-claims/",
-      "time": "2026-07-19T22:41:26",
+      "title": "Spain-Argentina Wasn’t a Classic, But This World Cup Was",
+      "desc": "The World Cup final between Spain and Argentina on Sunday wasn’t a classic, but the World Cup writ large was — and one America desperately needed, Will Leitch writes.",
+      "source": "New York Magazine",
+      "url": "http://nymag.com/intelligencer/article/spain-argentina-final-fifa-world-cup-2026.html",
+      "time": "2026-07-19T23:50:23",
       "country": "US",
-      "title_ur": "اینڈریو ٹیٹ، بھائی جنسی اسمگلنگ کے الزامات کے درمیان 'تنہائی قید' میں",
-      "desc_ur": "Manosphere پر اثر انداز کرنے والے اینڈریو ٹیٹ اور اس کے بھائی، ٹرسٹن ٹیٹ، جنسی اسمگلنگ کے الزام میں اپنی حالیہ گرفتاری کے بعد اپنے وکیل کے ذریعے بات کر رہے ہیں۔ \"کچھ دن پہلے، اینڈریو اور ٹرسٹن ٹیٹ نے یو ایس کیپی کا دورہ کرکے اپنے آئینی حقوق کا استعمال کیا…"
+      "title_ur": "سپین-ارجنٹینا کلاسک نہیں تھا، لیکن یہ ورلڈ کپ تھا۔",
+      "desc_ur": "اتوار کو اسپین اور ارجنٹائن کے درمیان ورلڈ کپ کا فائنل کوئی کلاسک نہیں تھا، لیکن ورلڈ کپ کی رٹ بڑی تھی - اور ایک امریکہ کی اشد ضرورت تھی، ول لیچ لکھتے ہیں۔"
     },
     {
-      "title": "Service member killed in northern Iraq as U.S. recovers unidentified remains in Jordan",
-      "desc": "After the U.S. vowed to punish Iran for killing two U.S.forces in Jordan, another service member has been killed in action in northern Iraq. Officials say th...",
-      "source": "Yahoo Entertainment",
-      "url": "https://www.yahoo.com/news/videos/member-killed-northern-iraq-u-224109244.html",
-      "time": "2026-07-19T22:41:09",
+      "title": "US soldier killed in Iraq during ‘controlled detonation’ of Iranian drone",
+      "desc": "The death brings the number of US soldiers killed since the start of the US-Israel war on Iran to 17.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/7/19/us-soldier-killed-in-iraq-during-controlled-detonation-of-iranian-drone",
+      "time": "2026-07-19T23:49:30",
       "country": "Iran",
-      "title_ur": "شمالی عراق میں ایک فوجی اہلکار ہلاک جب امریکی نے اردن میں نامعلوم باقیات برآمد کیں۔",
-      "desc_ur": "امریکہ کی جانب سے اردن میں دو امریکی افواج کو ہلاک کرنے پر ایران کو سزا دینے کے عزم کے بعد، شمالی عراق میں کارروائی میں ایک اور فوجی مارا گیا ہے۔ حکام کا کہنا ہے کہ ..."
+      "title_ur": "عراق میں ایرانی ڈرون کے ’کنٹرولڈ دھماکے‘ کے دوران امریکی فوجی ہلاک",
+      "desc_ur": "اس ہلاکت سے ایران کے خلاف امریکہ اسرائیل جنگ کے آغاز سے اب تک ہلاک ہونے والے امریکی فوجیوں کی تعداد 17 ہو گئی ہے۔"
     },
     {
-      "title": "Pedestrian killed after being struck by vehicle in southern Israel",
-      "desc": "A pedestrian in his 40s was killed after being struck by a vehicle on Highway 25, near the HaNasi Junction in southern Israel.Magen David Adom teams rushed to the scene, where they were forced to pronounce him dead. They also evacuated a woman who was lightly…",
+      "title": "US launches new wave of attacks against Iran",
+      "desc": "The United States Central Command (CENTCOM) announced that it launched its ninth consecutive night of strikes against Iran, saying the attacks started at 7 pm ET.\"The strikes will continue degrading I...",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/d6d6123d4d9dd108",
+      "time": "2026-07-19T23:49:18",
+      "country": "Iran",
+      "title_ur": "امریکا نے ایران کے خلاف حملوں کی نئی لہر شروع کردی",
+      "desc_ur": "ریاستہائے متحدہ کی مرکزی کمان (CENTCOM) نے اعلان کیا کہ اس نے ایران کے خلاف مسلسل نویں رات کے حملے شروع کیے، یہ کہتے ہوئے کہ حملے شام 7 بجے شروع ہوئے۔"
+    },
+    {
+      "title": "Spain win second World Cup after beating Argentina in final",
+      "desc": "After a 16 year wait, Spain have claimed a second men's World Cup. Ferran Torres scored the winner in a deserved 1-0 victory over Argentina, which means Spain are now men’s and women’s world champions.",
+      "source": "DW (English)",
+      "url": "https://www.dw.com/en/spain-wins-second-world-cup-after-beating-argentina-in-final/a-78029285",
+      "time": "2026-07-19T23:49:00",
+      "country": "International",
+      "title_ur": "اسپین نے فائنل میں ارجنٹائن کو شکست دے کر دوسرا ورلڈ کپ جیت لیا۔",
+      "desc_ur": "16 سال کے انتظار کے بعد اسپین نے مردوں کا دوسرا ورلڈ کپ جیت لیا ہے۔ فیران ٹوریس نے ارجنٹائن کے خلاف 1-0 سے جیت کے حقدار میں گول کیا، جس کا مطلب ہے کہ سپین اب مردوں اور خواتین کے عالمی چیمپئن ہیں۔"
+    },
+    {
+      "title": "Trump tries to get in the way of Spain's World Cup title celebrations",
+      "desc": "United States President Donald Trump tried to get in the way of Spain's World Cup title celebrations, while FIFA boss Gianni Infantino seemed desperate to usher him away. It was a replay of the Club World Cup final last year, when Trump didn't leave the stage…",
+      "source": "Dpa-international.com",
+      "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260720-99-106534/",
+      "time": "2026-07-19T23:48:34",
+      "country": "US",
+      "title_ur": "ٹرمپ اسپین کے ورلڈ کپ ٹائٹل کی تقریبات میں رکاوٹ بننے کی کوشش کرتے ہیں۔",
+      "desc_ur": "ریاستہائے متحدہ کے صدر ڈونلڈ ٹرمپ نے اسپین کے ورلڈ کپ ٹائٹل کی تقریبات میں رکاوٹ ڈالنے کی کوشش کی، جب کہ فیفا کے باس گیانی انفینٹینو انہیں دور کرنے کے لیے بے چین نظر آئے۔ یہ گزشتہ سال کلب ورلڈ کپ کے فائنل کا ری پلے تھا، جب ٹرمپ نے اسٹیج نہیں چھوڑا…"
+    },
+    {
+      "title": "Hunter Biden calls Merrick Garland the 'greatest mistake' made under the Biden administration",
+      "desc": "Hunter Biden called Merrick Garland the \"greatest mistake\" of his father's administration, blaming the attorney general for failing to prosecute Trump.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/media/hunter-biden-calls-merrick-garland-greatest-mistake-biden-administration",
+      "time": "2026-07-19T23:46:52",
+      "country": "US",
+      "title_ur": "ہنٹر بائیڈن نے میرک گارلینڈ کو بائیڈن انتظامیہ کے تحت کی گئی 'سب سے بڑی غلطی' قرار دیا۔",
+      "desc_ur": "ہنٹر بائیڈن نے میرک گارلینڈ کو اپنے والد کی انتظامیہ کی \"سب سے بڑی غلطی\" قرار دیتے ہوئے اٹارنی جنرل کو ٹرمپ کے خلاف مقدمہ چلانے میں ناکامی کا ذمہ دار ٹھہرایا۔"
+    },
+    {
+      "title": "Chinese satellites are being 'used by Iran to hit American bases in the Middle East'",
+      "desc": "Beijing is orchestrating a proxy war by targeting deadly strikes on US bases throughout the Middle East, a former UK intelligence officer revealed.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-15989493/Chinese-satellites-used-Iran-American-bases-Middle-East.html",
+      "time": "2026-07-19T23:46:13",
+      "country": "Iran",
+      "title_ur": "چینی سیٹلائٹس 'ایران مشرق وسطیٰ میں امریکی اڈوں کو نشانہ بنانے کے لیے استعمال کر رہا ہے'",
+      "desc_ur": "برطانیہ کے ایک سابق انٹیلی جنس افسر نے انکشاف کیا کہ بیجنگ پورے مشرق وسطیٰ میں امریکی اڈوں پر مہلک حملوں کو نشانہ بنا کر ایک پراکسی جنگ کی منصوبہ بندی کر رہا ہے۔"
+    },
+    {
+      "title": "BREAKING: Another U.S. service member killed in Iraq",
+      "desc": "BREAKING: Another U.S. service member has been killed in Iraq and the remains of a U.S. service member have been found in ...",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/30030aa9cd3a1565",
+      "time": "2026-07-19T23:42:49",
+      "country": "Iraq",
+      "title_ur": "بریکنگ: عراق میں ایک اور امریکی فوجی مارا گیا۔",
+      "desc_ur": "بریکنگ: عراق میں ایک اور امریکی فوجی مارا گیا اور ایک امریکی فوجی کی باقیات عراق میں ملی ہیں۔"
+    },
+    {
+      "title": "Explosions in southwestern Iran rattle energy markets as US-Iran tensions escalate",
+      "desc": "Explosions in Iran's Bandar Mahshahr and Bandar Imam Khomeini near key petrochemical sites escalate US-Iran tensions with implications for oil and crypto\nThe post Explosions in southwestern Iran rattle energy markets as US-Iran tensions escalate appeared firs…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-explosions-bandar-mahshahr-crypto-markets/",
+      "time": "2026-07-19T23:41:58",
+      "country": "Iran",
+      "title_ur": "جنوب مغربی ایران میں ہونے والے دھماکوں نے توانائی کی منڈیوں کو ہلا کر رکھ دیا ہے کیونکہ امریکہ ایران کشیدگی بڑھ رہی ہے۔",
+      "desc_ur": "ایران کے بندر مہشہر اور بندر امام خمینی میں اہم پیٹرو کیمیکل سائٹس کے قریب دھماکوں نے تیل اور کرپٹو کے مضمرات کے ساتھ امریکہ ایران کشیدگی میں اضافہ کیا\nThe post جنوب مغربی ایران میں ہونے والے دھماکوں نے توانائی کی منڈیوں کو ہلا کر رکھ دیا جب کہ امریکا ایران کشیدگی میں اضافہ ہوا appeared first on…"
+    },
+    {
+      "title": "US strikes reach Tabriz as crypto sanctions and military pressure tighten on Iran",
+      "desc": "US strikes reach Tabriz as Treasury sanctions Iran's Nobitex exchange for IRGC ties, tightening both military and crypto financial pressure on Tehran.\nThe post US strikes reach Tabriz as crypto sanctions and military pressure tighten on Iran appeared first on…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/us-strikes-tabriz-iran-crypto-sanctions-nobitex/",
+      "time": "2026-07-19T23:41:54",
+      "country": "Iran",
+      "title_ur": "ایران پر کرپٹو پابندیوں اور فوجی دباؤ کی وجہ سے امریکی حملے تبریز تک پہنچ گئے۔",
+      "desc_ur": "امریکی حملے تبریز تک پہنچ گئے جب ٹریژری نے IRGC تعلقات کے لیے ایران کے Nobitex ایکسچینج پر پابندیاں عائد کیں، جس سے تہران پر عسکری اور کرپٹو مالیاتی دباؤ سخت ہو گیا۔\nThe post ایران پر کرپٹو پابندیوں اور فوجی دباؤ میں سختی کے باعث امریکی حملے تبریز تک پہنچ گئے appeared first on…"
+    },
+    {
+      "title": "IRGC claims strike on US hub in Syria amid 2026 Iran war tensions",
+      "desc": "IRGC claims a strike on a US hub in Syria amid rising tensions. Full airspace closure by July 31 at 38.5% YES, by August 31 at 53.5% YES.\nThe post IRGC claims strike on US hub in Syria amid 2026 Iran war tensions appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/irgc-claims-strike-on-us-hub-in-syria-amid-2026-iran-war-tensions/",
+      "time": "2026-07-19T23:40:01",
+      "country": "Iran",
+      "title_ur": "IRGC نے 2026 کی ایران جنگی کشیدگی کے درمیان شام میں امریکی مرکز پر حملے کا دعویٰ کیا۔",
+      "desc_ur": "آئی آر جی سی نے بڑھتی ہوئی کشیدگی کے درمیان شام میں امریکی مرکز پر حملے کا دعویٰ کیا ہے۔ 31 جولائی تک 38.5% ہاں پر مکمل فضائی حدود، 31 اگست تک 53.5% ہاں پر مکمل بندش۔\nThe post IRGC کا 2026 کے ایران جنگی تناؤ کے درمیان شام میں امریکی مرکز پر حملے کا دعویٰ appeared first on Crypto Briefing."
+    },
+    {
+      "title": "US unleashes ninth consecutive night of strikes on Iranian military assets",
+      "desc": "CENTCOM launches its ninth straight night of airstrikes against Iran, as Kuwait intercepts incoming drones from Iran.",
       "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/flashes/690089",
-      "time": "2026-07-19T22:34:03",
-      "country": "Israel",
-      "title_ur": "جنوبی اسرائیل میں گاڑی کی ٹکر سے راہگیر ہلاک",
-      "desc_ur": "جنوبی اسرائیل میں ہاناسی جنکشن کے قریب ہائی وے 25 پر ایک گاڑی کی زد میں آکر 40 سال کا ایک راہگیر ہلاک ہوگیا۔ میگن ڈیوڈ ایڈوم کی ٹیمیں جائے وقوعہ پر پہنچیں، جہاں انہیں اسے مردہ قرار دینے پر مجبور کیا گیا۔ انہوں نے ایک خاتون کو بھی باہر نکالا جو ہلکے سے…"
-    },
-    {
-      "title": "Oil Climbs as Middle East Conflict Escalates: Markets Wrap",
-      "desc": "Oil gained in early trading after US and Iran attacks escalated over the weekend, adding further pressure on Asian markets already rattled by a slump in chip stocks.",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/oil-climbs-as-middle-east-conflict-escalates-markets-wrap",
-      "time": "2026-07-19T22:33:06",
+      "url": "https://www.israelnationalnews.com/news/430423",
+      "time": "2026-07-19T23:36:00",
       "country": "Iran",
-      "title_ur": "مشرق وسطیٰ کے تنازعات کے بڑھتے ہی تیل میں اضافہ: مارکیٹس لپیٹ",
-      "desc_ur": "ہفتے کے آخر میں امریکہ اور ایران کے حملوں میں اضافے کے بعد ابتدائی تجارت میں تیل کی قیمت میں اضافہ ہوا، جس سے ایشیائی منڈیوں پر پہلے سے ہی چپ اسٹاکس میں مندی کی وجہ سے مزید دباؤ بڑھ گیا۔"
+      "title_ur": "امریکہ نے مسلسل نویں رات ایرانی فوجی اثاثوں پر حملے کیے ہیں۔",
+      "desc_ur": "CENTCOM نے ایران کے خلاف مسلسل نویں رات فضائی حملے شروع کیے، کیونکہ کویت نے ایران سے آنے والے ڈرون کو روکا۔"
     },
     {
-      "title": "US military expansion against Iran rattles crypto markets as sanctions hit Iranian exchanges",
-      "desc": "The Pentagon expands military operations against Iran as US Treasury sanctions hit Nobitex and Iranian crypto exchanges, rattling digital asset markets.\nThe post US military expansion against Iran rattles crypto markets as sanctions hit Iranian exchanges appe…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-iran-military-expansion-crypto-sanctions/",
-      "time": "2026-07-19T22:33:03",
+      "title": "US launches ninth night of strikes on Iran after death of third soldier confirmed",
+      "desc": "United States forces have launched strikes on Iran for a ninth consecutive night, hours after the military confirmed a third soldier was killed in the combat.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-15989479/US-airstrikes-Iran-death-soldier.html",
+      "time": "2026-07-19T23:35:19",
       "country": "Iran",
-      "title_ur": "ایران کے خلاف امریکی فوجی توسیع نے کرپٹو مارکیٹوں کو ہلا کر رکھ دیا کیونکہ پابندیوں نے ایرانی تبادلے کو متاثر کیا۔",
-      "desc_ur": "پینٹاگون نے ایران کے خلاف فوجی کارروائیوں کو وسعت دی ہے کیونکہ امریکی ٹریژری پابندیوں نے Nobitex اور ایرانی کرپٹو ایکسچینجز کو متاثر کیا ہے، جس سے ڈیجیٹل اثاثہ جات کی منڈیوں میں ہلچل مچ گئی ہے۔\nThe post ایران کے خلاف امریکی فوجی توسیع نے کرپٹو مارکیٹوں کو ہلا کر رکھ دیا کیونکہ پابندیوں کے باعث ایرانی ایکسچینج ایپ…"
+      "title_ur": "تیسرے فوجی کی ہلاکت کی تصدیق کے بعد امریکا نے ایران پر حملے کی نویں رات شروع کردی",
+      "desc_ur": "امریکی افواج نے ایران پر مسلسل نویں رات حملے کیے ہیں، فوج کی جانب سے لڑائی میں تیسرے فوجی کی ہلاکت کی تصدیق کے چند گھنٹے بعد۔"
     },
     {
-      "title": "17 US service members have died in the Iran war, reflecting a conflict fought largely in the air - AP News",
-      "desc": "17 US service members have died in the Iran war, reflecting a conflict fought largely in the airAP News Trump on 2 troops killed in Iran attack: ‘A very sad thing’NewsNation U.S. military recovers unidentified remains found in Jordan as another service member…",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184512622",
-      "time": "2026-07-19T22:33:03",
-      "country": "Iran",
-      "title_ur": "ایران کی جنگ میں 17 امریکی فوجی ہلاک ہو چکے ہیں، جو اس جنگ کی عکاسی کرتا ہے جو بڑے پیمانے پر ہوا میں لڑی گئی تھی – اے پی نیوز",
-      "desc_ur": "ایران کی جنگ میں 17 امریکی فوجیوں کی موت ہو گئی ہے، جو ایک تنازعہ کی عکاسی کرتی ہے جو بڑے پیمانے پر لڑی گئی ہے AirAP News ٹرمپ نے ایران کے حملے میں ہلاک ہونے والے 2 فوجیوں پر: 'انتہائی افسوسناک بات'NewsNation امریکی فوج نے اردن میں ایک اور سروس ممبر کے طور پر نامعلوم باقیات برآمد کی ہیں…"
-    },
-    {
-      "title": "Escalations in Iran and Ukraine compound global volatility",
-      "desc": "Two major global conflicts — in Iran and Ukraine — are both entering stages of serious escalation.\nIn the Middle East, the deterioration of the US-Iran ceasefire has reignited fears of a prolonged regional war; the American defense secretary said the Iranian …",
+      "title": "Oil up 3%, rises over $90 again as Iran war heats up",
+      "desc": "The price of oil increased 3% and rose above $90 per barrel again as the crisis in the Middle East worsened amid continued hostilities between the United States and Iran and the closure of the Strait ...",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/47b1a0dbc813efb4",
-      "time": "2026-07-19T22:32:50",
+      "url": "https://biztoc.com/x/a61a68bf2e8cf21d",
+      "time": "2026-07-19T23:34:02",
       "country": "Iran",
-      "title_ur": "ایران اور یوکرین میں بڑھتی ہوئی کشیدگی عالمی اتار چڑھاؤ کو بڑھا رہی ہے۔",
-      "desc_ur": "دو بڑے عالمی تنازعات - ایران اور یوکرین میں - دونوں سنگین کشیدگی کے مراحل میں داخل ہو رہے ہیں۔\nمشرق وسطیٰ میں، امریکہ-ایران جنگ بندی کی خرابی نے ایک طویل علاقائی جنگ کے خدشات کو پھر سے جنم دیا ہے۔ امریکی وزیر دفاع نے کہا کہ ایرانی…"
-    },
-    {
-      "title": "Oil Prices Cross $90 a Barrel as U.S.-Iran Conflict Widens",
-      "desc": "Brent crude, the global benchmark for oil, rose more than 3 percent as trading resumed on Sunday, while S&P 500 futures remained essentially unchanged.",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/a13e2ffe33be162a",
-      "time": "2026-07-19T22:32:44",
-      "country": "Iran",
-      "title_ur": "امریکہ اور ایران کے درمیان تنازع بڑھنے پر تیل کی قیمتیں 90 ڈالر فی بیرل سے تجاوز کر گئیں۔",
-      "desc_ur": "برینٹ کروڈ، تیل کا عالمی معیار، اتوار کو تجارت کے دوبارہ شروع ہونے پر 3 فیصد سے زیادہ کا اضافہ ہوا، جبکہ S&P 500 فیوچرز میں کوئی تبدیلی نہیں ہوئی۔"
-    },
-    {
-      "title": "Gulf bourses retreat as US–Iran hostilities intensify - Reuters",
-      "desc": "Gulf bourses retreat as US–Iran hostilities intensifyReuters Oil’s Battered Shock Absorbers Risk Price Spike as War ReturnsBloomberg.com How long can oil markets absorb the Hormuz shock?Financial Times IEA chief warns Strait of Hormuz crisis threatens global …",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184512616",
-      "time": "2026-07-19T22:32:43",
-      "country": "Iran",
-      "title_ur": "امریکہ اور ایران دشمنی میں شدت آنے پر خلیجی ممالک کی پسپائی - رائٹرز",
-      "desc_ur": "امریکی-ایران دشمنی میں شدت آنے کے ساتھ ہی خلیجی بازاروں نے پسپائی اختیار کی"
-    },
-    {
-      "title": "Kuwait activates air defenses amid Iranian drone threat",
-      "desc": "Kuwait activates air defenses amid Iranian drone threats. Iranian military action against a Gulf state by July 22 at 53% YES.\nThe post Kuwait activates air defenses amid Iranian drone threat appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/kuwait-activates-air-defenses-amid-iranian-drone-threat/",
-      "time": "2026-07-19T22:30:57",
-      "country": "Iran",
-      "title_ur": "کویت نے ایرانی ڈرون کے خطرے کے درمیان فضائی دفاع کو فعال کر دیا۔",
-      "desc_ur": "کویت نے ایرانی ڈرون کی دھمکیوں کے درمیان فضائی دفاع کو فعال کر دیا۔ 22 جولائی تک خلیجی ریاست کے خلاف ایرانی فوجی کارروائی 53% ہاں۔\nThe post کویت نے ایرانی ڈرون کے خطرے کے درمیان فضائی دفاع کو فعال کردیا appeared first on Crypto Briefing."
+      "title_ur": "تیل کی قیمت میں 3 فیصد اضافہ، ایران جنگ کے گرم ہونے پر ایک بار پھر 90 ڈالر سے بڑھ گیا۔",
+      "desc_ur": "تیل کی قیمت میں 3 فیصد اضافہ ہوا اور ایک بار پھر 90 ڈالر فی بیرل سے اوپر پہنچ گیا کیونکہ امریکہ اور ایران کے درمیان جاری دشمنی اور آبنائے کی بندش کے درمیان مشرق وسطیٰ میں بحران مزید بڑھ گیا..."
     }
   ],
   "pakistan": [
     {
-      "title": "Part-Time Graphic Design support",
-      "desc": "THIS JOB POST IS FOR PAKISTAN ONLY.\r\nWe are looking for a part-time graphic designer to assist us with some tasks. \r\n? Salary: 20,000 PKR per month\r\n ? TIme: 3 hours a day, 5 days a week\r\n ? Position: Part-time, remote\r\nResponsibilities:\r\n ? Social Media Grap…",
-      "source": "Behance.net",
-      "url": "https://www.behance.net/joblist/fulltime/357857/Part-Time%20Graphic%20Design%20support",
-      "time": "2026-07-19T22:37:24",
+      "title": "Why Middle East hostilities could spell trouble at home for Andy Burnham",
+      "desc": "Mortgage rates are creeping up as the resumption of hostilities between the US and Iran sends fresh shocks through the global economy just as Andy Burnham takes office.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-15989475/Middle-East-hostilities-trouble-Andy-Burnham.html",
+      "time": "2026-07-19T23:33:42",
       "country": "Pakistan",
-      "title_ur": "پارٹ ٹائم گرافک ڈیزائن سپورٹ",
-      "desc_ur": "یہ نوکری کی پوسٹ صرف پاکستان کے لیے ہے۔\r\nہم کچھ کاموں میں ہماری مدد کے لیے پارٹ ٹائم گرافک ڈیزائنر کی تلاش میں ہیں۔ \r\n? تنخواہ: 20,000 PKR ماہانہ\r\n ? وقت: دن میں 3 گھنٹے، ہفتے میں 5 دن\r\n ? پوزیشن: پارٹ ٹائم، ریموٹ\r\nذمہ داریاں:\r\n ? سوشل میڈیا گریپ…"
+      "title_ur": "اینڈی برنہم کے لیے مشرق وسطیٰ کی دشمنی کیوں گھر میں پریشانی کا باعث بن سکتی ہے۔",
+      "desc_ur": "رہن کی شرحیں بڑھ رہی ہیں کیونکہ امریکہ اور ایران کے درمیان دوبارہ شروع ہونے والی دشمنی عالمی معیشت کو نئے جھٹکے دے رہی ہے بالکل اسی طرح جیسے اینڈی برنہم نے عہدہ سنبھالا ہے۔"
+    },
+    {
+      "title": "Markets brace for return to all-out war in Iran amid rising U.S. death toll, while former NATO commander warns Suez Canal could be next",
+      "desc": "Retired Adm. James Stavridis told CNN on Sunday that Trump now has three options, and \"and none of them are good.\"",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/19/stock-market-today-dow-futures-oil-prices-us-iran-war-death-toll-suez-canal/",
+      "time": "2026-07-19T23:22:00",
+      "country": "Pakistan",
+      "title_ur": "امریکی ہلاکتوں کی بڑھتی ہوئی تعداد کے درمیان مارکیٹس ایران میں مکمل جنگ کی طرف واپسی کے لیے تیار ہیں، جبکہ نیٹو کے سابق کمانڈر نے خبردار کیا ہے کہ سوئز نہر اگلا ہو سکتا ہے",
+      "desc_ur": "ریٹائرڈ ایڈمرل جیمز سٹاوریڈس نے اتوار کو سی این این کو بتایا کہ ٹرمپ کے پاس اب تین آپشنز ہیں، اور \"ان میں سے کوئی بھی اچھا نہیں ہے۔\""
+    },
+    {
+      "title": "Brent Oil Tops $90 as Middle East Attacks Threaten Hormuz Flows",
+      "desc": "Brent crude jumped after the US and Iran escalated hostilities over the weekend, including the targeting of vessels attempting to transit the Strait of Hormuz and an attack on a key oil facility in Kuwait.",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/brent-oil-tops-90-as-middle-east-attacks-threaten-hormuz-flows",
+      "time": "2026-07-19T23:13:54",
+      "country": "Pakistan",
+      "title_ur": "مشرق وسطیٰ کے حملوں سے ہرمز کے بہاؤ کو خطرہ لاحق ہونے پر برینٹ آئل کی قیمت 90 ڈالر سے اوپر ہے۔",
+      "desc_ur": "ہفتے کے آخر میں امریکہ اور ایران کے درمیان دشمنی بڑھنے کے بعد برینٹ کروڈ کی قیمت میں اضافہ ہوا، جس میں آبنائے ہرمز کو منتقل کرنے کی کوشش کرنے والے جہازوں کو نشانہ بنانا اور کویت میں تیل کی ایک اہم تنصیب پر حملہ شامل ہے۔"
+    },
+    {
+      "title": "US military planes at Ben Gurion | Fears of disruptions to civilian flight schedule",
+      "desc": "The Minister of Transportation is scheduled to hold a situational assessment at Ben Gurion Airport following an official US request to deploy dozens of additional aerial refueling tankers to Israel.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/430422",
+      "time": "2026-07-19T23:12:14",
+      "country": "Pakistan",
+      "title_ur": "بین گوریون میں امریکی فوجی طیارے | شہری پروازوں کے شیڈول میں خلل کا خدشہ",
+      "desc_ur": "اسرائیل کے لیے درجنوں اضافی فضائی ایندھن بھرنے والے ٹینکروں کو تعینات کرنے کی امریکی درخواست کے بعد وزیر ٹرانسپورٹیشن بین گوریون ہوائی اڈے پر حالات کا جائزہ لینے والے ہیں۔"
+    },
+    {
+      "title": "UK chief financial officers turn more hopeful about AI",
+      "desc": "LONDON, July 20 : The finance bosses at many of Britain's biggest companies are more optimistic about the impact of artificial intelligence on their businesses and a bit less worried about risks from geopolitics, according to a report published on Monday.The …",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/uk-chief-financial-officers-turn-more-hopeful-about-ai-6264256",
+      "time": "2026-07-19T23:06:46",
+      "country": "Pakistan",
+      "title_ur": "برطانیہ کے چیف فنانشل آفیسرز AI کے بارے میں زیادہ پر امید ہیں۔",
+      "desc_ur": "لندن، 20 جولائی: پیر کو شائع ہونے والی ایک رپورٹ کے مطابق، برطانیہ کی بہت سی بڑی کمپنیوں کے فنانس باسز اپنے کاروبار پر مصنوعی ذہانت کے اثرات کے بارے میں زیادہ پر امید ہیں اور جغرافیائی سیاست کے خطرات کے بارے میں کچھ کم فکر مند ہیں۔"
     }
   ],
   "business": {
