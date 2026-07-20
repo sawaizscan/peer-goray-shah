@@ -1,187 +1,167 @@
 {
-  "generated": "2026-07-20T20:16:59Z",
+  "generated": "2026-07-20T21:39:53Z",
   "world": [
     {
-      "title": "US servicemember killed in Iranian missile strike amid Operation Epic Fury",
-      "desc": "A U.S. servicemember was killed in an Iranian missile strike amid ongoing hostilities. Full airspace closure by August 31 at 52.5% YES.\nThe post US servicemember killed in Iranian missile strike amid Operation Epic Fury appeared first on Crypto Briefing.",
+      "title": "17 US service members have died in the Iran war, reflecting a conflict fought largely in the air",
+      "desc": "BRIDGEWATER, N.J. (AP) — The U.S. military said Sunday that another American service member was killed as part of the war with Iran, bringing the total number of deaths to 17.",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/iran-war-us-deaths-59ecda1ccf1700bb6820b81ae7627bad",
+      "time": "2026-07-19T21:32:00",
+      "country": "Iran",
+      "title_ur": "ایران کی جنگ میں 17 امریکی فوجی ہلاک ہو چکے ہیں، جو اس جنگ کی عکاسی کرتا ہے جو بڑے پیمانے پر ہوا میں لڑی گئی تھی۔",
+      "desc_ur": "برج واٹر، این جے (اے پی) - امریکی فوج نے اتوار کو کہا کہ ایران کے ساتھ جنگ ​​میں ایک اور امریکی فوجی مارا گیا، جس سے ہلاکتوں کی کل تعداد 17 ہوگئی۔"
+    },
+    {
+      "title": "US Reports Another Death as Strikes Intensify",
+      "desc": "American and Iranian forces traded deadlier blows Sunday, and the US confirmed its 17th military death in the escalating confrontation. The latest fatality occurred Saturday in northern Iraq during an attempt to safely detonate unexploded ordnance from an Ira…",
+      "source": "Newser",
+      "url": "https://www.newser.com/story/393114/us-reports-another-death-as-strikes-intensify.html",
+      "time": "2026-07-19T21:31:00",
+      "country": "Iran",
+      "title_ur": "امریکی حملوں میں شدت کے ساتھ ایک اور ہلاکت کی اطلاع ہے۔",
+      "desc_ur": "اتوار کو امریکی اور ایرانی افواج کے درمیان شدید جھڑپیں ہوئیں اور امریکہ نے بڑھتے ہوئے تصادم میں اپنی 17ویں فوجی ہلاکت کی تصدیق کی۔ تازہ ترین ہلاکت ہفتے کے روز شمالی عراق میں ایک ایرا سے بغیر پھٹنے والے ہتھیار کو محفوظ طریقے سے دھماکہ کرنے کی کوشش کے دوران پیش آئی…"
+    },
+    {
+      "title": "A cavalcade of international stars headlined the World Cup's first-ever halftime final show",
+      "desc": "With President Trump in attendance, an all-superstar lineup that included Madonna, BTS, Justin Bieber and Burna Boy felt a little more political than it might have otherwise.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/19/nx-s1-5888626/world-cup-halftime-final-show-bts-madonna-shakira-burna-boy-chris-martin-muppets-bieber",
+      "time": "2026-07-19T21:29:52",
+      "country": "US",
+      "title_ur": "بین الاقوامی ستاروں کے ایک قافلے نے ورلڈ کپ کے پہلے ہاف ٹائم فائنل شو کی سرخی لگائی",
+      "desc_ur": "صدر ٹرمپ کی حاضری کے ساتھ، ایک آل سپر اسٹار لائن اپ جس میں میڈونا، بی ٹی ایس، جسٹن بیبر اور برنا بوائے شامل تھے، اس سے کچھ زیادہ سیاسی محسوس ہوا جو شاید دوسری صورت میں ہوتا۔"
+    },
+    {
+      "title": "2026 World Cup final: Argentina and Spain head to extra time",
+      "desc": "Real time news brief - 2026 World Cup final: Argentina and Spain head to extra time - Israel National News flashes around the clock are waiting for you on the site",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/flashes/690085",
+      "time": "2026-07-19T21:22:05",
+      "country": "Israel",
+      "title_ur": "2026 ورلڈ کپ فائنل: ارجنٹائن اور سپین اضافی وقت کی طرف روانہ ہوئے۔",
+      "desc_ur": "ریئل ٹائم نیوز بریف - 2026 ورلڈ کپ فائنل: ارجنٹائن اور اسپین اضافی وقت کی طرف بڑھیں گے - اسرائیل کی قومی خبریں چوبیس گھنٹے آپ کی سائٹ پر منتظر ہیں"
+    },
+    {
+      "title": "Three US soldiers killed as US-Iran conflict escalates with strikes in Jordan and Iraq",
+      "desc": "Three US soldiers killed in Iranian missile and drone strikes in Jordan and Iraq push the conflict death toll to 17, with retaliatory strikes targeting\nThe post Three US soldiers killed as US-Iran conflict escalates with strikes in Jordan and Iraq appeared fi…",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-servicemember-killed-in-iranian-missile-strike-amid-operation-epic-fury/",
-      "time": "2026-07-19T20:15:52",
+      "url": "https://cryptobriefing.com/us-iran-conflict-soldiers-killed-hormuz-escalation/",
+      "time": "2026-07-19T21:19:53",
       "country": "Iran",
-      "title_ur": "آپریشن ایپک فیوری کے دوران ایرانی میزائل حملے میں امریکی فوجی مارا گیا۔",
-      "desc_ur": "جاری دشمنی کے درمیان ایرانی میزائل حملے میں ایک امریکی فوجی مارا گیا۔ 31 اگست تک مکمل فضائی حدود 52.5% ہاں پر بند ہو جائے گی۔\nThe post آپریشن ایپک فیوری کے دوران ایرانی میزائل حملے میں امریکی فوجی ہلاک appeared first on Crypto Briefing."
+      "title_ur": "اردن اور عراق میں حملوں کے ساتھ امریکہ اور ایران تنازعہ میں شدت آنے کے نتیجے میں تین امریکی فوجی ہلاک ہو گئے۔",
+      "desc_ur": "اردن اور عراق میں ایرانی میزائل اور ڈرون حملوں میں تین امریکی فوجی مارے گئے، جوابی حملوں کو نشانہ بنانے کے ساتھ تنازعہ میں ہلاکتوں کی تعداد 17 ہو گئی۔\nThe post اردن اور عراق میں حملوں کے بعد امریکا ایران تنازعہ میں شدت آنے کے بعد تین امریکی فوجی ہلاک appeared first on..."
     },
     {
-      "title": "Nigerian children pay the price for the Iran war as malnutrition and poverty surge",
-      "desc": "Children relapsing into malnutrition has become an increasingly common occurrence in the state and across northern Nigeria, according to local health and aid workers, who cite knock-on effects from the Iran war.",
+      "title": "US could expand Iran war, as casualties grow",
+      "desc": "The United States could expand military operations against Iran, amid growing casualties among its military personnel in the Middle East, following Iranian attacks, the Washington Post reported, citin...",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/a97500ee26718c71",
-      "time": "2026-07-19T20:15:37",
+      "url": "https://biztoc.com/x/b45f438767409f99",
+      "time": "2026-07-19T21:16:49",
       "country": "Iran",
-      "title_ur": "نائجیریا کے بچے غذائی قلت اور غربت میں اضافے کے طور پر ایران جنگ کی قیمت چکاتے ہیں۔",
-      "desc_ur": "مقامی صحت اور امدادی کارکنوں کے مطابق، جو کہ ایران جنگ کے اثرات کا حوالہ دیتے ہیں، بچے غذائی قلت کا دوبارہ شکار ہونا ریاست اور پورے شمالی نائیجیریا میں ایک عام واقعہ بن گیا ہے۔"
+      "title_ur": "امریکہ ایران جنگ کو بڑھا سکتا ہے، کیونکہ ہلاکتوں میں اضافہ ہو گا۔",
+      "desc_ur": "واشنگٹن پوسٹ کی رپورٹ کے مطابق، ایرانی حملوں کے بعد مشرق وسطیٰ میں اپنے فوجی اہلکاروں کی بڑھتی ہوئی ہلاکتوں کے درمیان، امریکہ ایران کے خلاف فوجی کارروائیوں کو بڑھا سکتا ہے۔"
     },
     {
-      "title": "Auschwitz survivor, 96, in NYC forced to hide Star of David as he gives Dems history lesson on antisemitism",
-      "desc": "He's seen the evil of antisemitism before -- and he's seeing it again! Jerry Wartski, a 96-year-old Holocaust survivor, said he now hides his Star of David chain when he walks New York City's streets because of Jew hatred.",
+      "title": "Iran launches missiles at US bases in Bahrain, Jordan, and Kuwait as regional conflict escalates",
+      "desc": "Iran launched missiles at US bases in Bahrain, Jordan, and Kuwait. Here is what the escalation means for crypto markets and IRGC-linked digital assets.\nThe post Iran launches missiles at US bases in Bahrain, Jordan, and Kuwait as regional conflict escalates a…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-missiles-us-bases-crypto-sanctions-escalation/",
+      "time": "2026-07-19T21:16:21",
+      "country": "Iran",
+      "title_ur": "ایران نے بحرین، اردن اور کویت میں امریکی اڈوں پر میزائل داغے کیونکہ علاقائی تنازعہ بڑھ گیا",
+      "desc_ur": "ایران نے بحرین، اردن اور کویت میں امریکی اڈوں پر میزائل داغے۔ یہ ہے کرپٹو مارکیٹوں اور IRGC سے منسلک ڈیجیٹل اثاثوں کے لیے اضافہ کا کیا مطلب ہے۔\nThe post ایران نے بحرین، اردن اور کویت میں امریکی اڈوں پر میزائل داغے، علاقائی تنازعہ بڑھنے پر…"
+    },
+    {
+      "title": "America Is Finally Remembering the Merchant Mariners Who Carry Its Power",
+      "desc": "The Ugly Ducklings of American Power By Bruce Kimbrell (Policy Op-Ed)   On July 17, history quietly turned on the waterfront. Admiral Karl Thomas, Commander of U.S. Fleet Forces Command,...",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/america-is-finally-remembering-the-merchant-mariners-who-carry-its-power/",
+      "time": "2026-07-19T21:15:25",
+      "country": "US",
+      "title_ur": "امریکہ آخر کار ان مرچنٹ میرینرز کو یاد کر رہا ہے جو اس کی طاقت رکھتے ہیں۔",
+      "desc_ur": "The Ugly Ducklings of American Power By Bruce Kimbrell (Policy Op-Ed)   17 جولائی کو، تاریخ خاموشی سے واٹر فرنٹ پر چلی گئی۔ امریکی فلیٹ فورسز کمانڈ کے کمانڈر ایڈمرل کارل تھامس،..."
+    },
+    {
+      "title": "Iran launches missiles at US targets, escalating regional tensions",
+      "desc": "Iran launches missiles at US targets, escalating tensions. Full airspace closure by August 31 at 57% YES.\nThe post Iran launches missiles at US targets, escalating regional tensions appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-launches-missiles-at-us-targets-escalating-regional-tensions/",
+      "time": "2026-07-19T21:14:36",
+      "country": "Iran",
+      "title_ur": "ایران نے امریکی اہداف پر میزائل داغے جس سے علاقائی کشیدگی میں اضافہ ہو گیا۔",
+      "desc_ur": "ایران نے امریکی اہداف پر میزائل داغے جس سے کشیدگی بڑھ گئی۔ 31 اگست تک فضائی حدود کی مکمل بندش 57% ہاں۔\nThe post ایران نے امریکی اہداف پر میزائل داغے، علاقائی کشیدگی میں اضافہ appeared first on Crypto Briefing."
+    },
+    {
+      "title": "Trump Official Says Trump’s ‘Mission Will Go On’ After 2 U.S. Troops Killed In Iranian Strikes",
+      "desc": "Energy Secretary Chris Wright told ABC’s Jonathan Karl that Trump’s plans are “unchanged.”",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/trump-chris-wright-iran-retaliation-plans-dead-troops_n_6a5d221de4b0252a18dd7a56",
+      "time": "2026-07-19T21:14:12",
+      "country": "Iran",
+      "title_ur": "ٹرمپ آفیشل کا کہنا ہے کہ ایرانی حملوں میں 2 امریکی فوجیوں کی ہلاکت کے بعد ٹرمپ کا 'مشن جاری رہے گا'",
+      "desc_ur": "توانائی کے سکریٹری کرس رائٹ نے اے بی سی کے جوناتھن کارل کو بتایا کہ ٹرمپ کے منصوبے \"بغیر تبدیل شدہ\" ہیں۔"
+    },
+    {
+      "title": "Hateful vandal hurls feces and motor oil at two NYC synagogues",
+      "desc": "\"They're obviously disturbed. To take excrement and throw a bag and empty stuff like that out, you're attacking the people who are coming there, who are praying.\"",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/07/19/us-news/auschwitz-survivor-in-nyc-forced-to-hide-star-of-david-as-he-gives-dems-history-lesson-on-antisemitism/",
-      "time": "2026-07-19T20:14:38",
+      "url": "https://nypost.com/2026/07/19/us-news/hateful-vandal-hurls-feces-and-motor-oil-at-two-nyc-synagogues/",
+      "time": "2026-07-19T21:13:05",
       "country": "US",
-      "title_ur": "آشوٹز زندہ بچ جانے والا، 96، NYC میں، اسٹار آف ڈیوڈ کو چھپانے پر مجبور ہوا کیونکہ وہ ڈیمز کو سام دشمنی پر تاریخ کا سبق دیتا ہے۔",
-      "desc_ur": "اس نے پہلے بھی سام دشمنی کی برائی دیکھی ہے -- اور وہ اسے دوبارہ دیکھ رہا ہے! ہولوکاسٹ سے بچ جانے والے 96 سالہ جیری وارٹسکی نے کہا کہ جب وہ یہودی نفرت کی وجہ سے نیویارک شہر کی سڑکوں پر چلتے ہیں تو اب وہ اپنے اسٹار آف ڈیوڈ کی زنجیر کو چھپاتے ہیں۔"
+      "title_ur": "نفرت انگیز توڑ پھوڑ NYC کی دو عبادت گاہوں میں ملبہ اور موٹر آئل پھینک رہی ہے۔",
+      "desc_ur": "\"ظاہر ہے کہ وہ پریشان ہیں۔ پاخانہ لینے اور ایک بیگ اور اس طرح کی خالی چیزیں پھینکنے کے لیے، آپ وہاں آنے والے لوگوں پر حملہ کر رہے ہیں، جو نماز پڑھ رہے ہیں۔\""
     },
     {
-      "title": "Andy Burnham’s in-tray: The challenges facing the new UK PM",
-      "desc": "Andy Burnham will become Britain's next prime minister on Monday, with huge challenges and opportunities.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/economy/2026/7/19/andy-burnhams-in-tray-the-challenges-facing-the-new-uk-pm",
-      "time": "2026-07-19T20:12:26",
-      "country": "UK",
-      "title_ur": "اینڈی برنہم کی ان ٹرے: نئے یوکے پی ایم کو درپیش چیلنجز",
-      "desc_ur": "اینڈی برنہم پیر کو برطانیہ کے اگلے وزیر اعظم بنیں گے، جن میں بڑے چیلنجز اور مواقع ہیں۔"
-    },
-    {
-      "title": "US deploys additional F-16 and F-35 jets to Middle East as Iran tensions threaten macro stability",
-      "desc": "The US is deploying additional F-16 and F-35 jets to Jordan amid escalating Iran tensions. Here's why crypto markets should be watching closely.\nThe post US deploys additional F-16 and F-35 jets to Middle East as Iran tensions threaten macro stability appeare…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-deploys-f16-f35-middle-east-iran/",
-      "time": "2026-07-19T20:07:50",
+      "title": "The world is looking ahead toward a post-Iran oil market that offsets most Hormuz volumes - Fortune",
+      "desc": "The world is looking ahead toward a post-Iran oil market that offsets most Hormuz volumesFortune The U.S.-Iran battle over the Strait of Hormuz raises risks for global waterwaysNPR Iran war driving up costs and putting seafarers at risk, UN maritime chief war…",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184512278",
+      "time": "2026-07-19T21:12:54",
       "country": "Iran",
-      "title_ur": "امریکہ نے مشرق وسطیٰ میں اضافی F-16 اور F-35 طیارے تعینات کیے ہیں کیونکہ ایران کشیدگی سے میکرو استحکام کو خطرہ ہے",
-      "desc_ur": "ایران میں بڑھتی ہوئی کشیدگی کے درمیان امریکا اردن میں اضافی F-16 اور F-35 طیارے تعینات کر رہا ہے۔ یہاں ہے کیوں کرپٹو مارکیٹوں کو قریب سے دیکھنا چاہئے۔\nThe post امریکا نے مشرق وسطیٰ میں اضافی F-16 اور F-35 جیٹ طیارے تعینات کر دیے ہیں کیونکہ ایران کشیدگی سے میکرو استحکام کو خطرہ ہے appeared first on..."
+      "title_ur": "دنیا ایران کے بعد تیل کی مارکیٹ کی طرف دیکھ رہی ہے جو ہرمز کے زیادہ تر حجم کو پورا کرتی ہے - فارچیون",
+      "desc_ur": "دنیا ایران کے بعد تیل کی منڈی کی طرف دیکھ رہی ہے جو ہرمز کے سب سے زیادہ حجم کو پورا کرتی ہے فارچیون آبنائے ہرمز پر امریکہ اور ایران کی جنگ نے عالمی آبی گزرگاہوں کے لیے خطرات بڑھا دیے ہیںNPR ایران جنگ کے اخراجات بڑھ رہے ہیں اور بحری جہازوں کو خطرے میں ڈال رہے ہیں، اقوام متحدہ کے میری ٹائم چیف وار…"
     },
     {
-      "title": "The UK gets its seventh prime minister in 10 years",
-      "desc": "Incoming PM Andy Burnham will immediately face foreign policy challenges, including the conflicts in Ukraine and Iran.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/7/19/the-uk-gets-its-seventh-prime-minister-in-10-years",
-      "time": "2026-07-19T20:05:31",
+      "title": "US Announces Another Troop Death as Israel Warns Tehran's Attacks Are Coming Close",
+      "desc": "The service member was killed in Iraq during the “controlled detonation” of a downed Iranian drone.",
+      "source": "Military.com",
+      "url": "https://military.com/us-announces-another-troop-death-as-israel-warns-tehrans-attacks-are-coming-close",
+      "time": "2026-07-19T21:12:14",
       "country": "Iran",
-      "title_ur": "برطانیہ کو 10 سالوں میں ساتویں وزیر اعظم مل گئے۔",
-      "desc_ur": "آنے والے وزیر اعظم اینڈی برنہم کو فوری طور پر خارجہ پالیسی کے چیلنجوں کا سامنا کرنا پڑے گا، بشمول یوکرین اور ایران کے تنازعات۔"
+      "title_ur": "امریکہ نے ایک اور فوجی کی ہلاکت کا اعلان کرتے ہوئے اسرائیل کو خبردار کیا ہے کہ تہران کے حملے قریب آ رہے ہیں۔",
+      "desc_ur": "یہ سروس رکن عراق میں گرائے گئے ایرانی ڈرون کے \"کنٹرولڈ دھماکہ\" کے دوران مارا گیا۔"
     },
     {
-      "title": "World Cup fans reveal the VERY specific reason they can't enjoy blockbuster final showdown between Spain and Argentina",
-      "desc": "Furious soccer fans rushed to social media to reveal the reason they couldn't fully enjoy Sunday's World Cup final showdown between Spain and Argentina at MetLife Stadium.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/sport/football/article-15989091/spain-argentina-world-cup-final-metlife.html",
-      "time": "2026-07-19T20:05:15",
+      "title": "RILEY GAINES: World Cup visitors are reminding Americans what makes this country great",
+      "desc": "A German soccer fan named Sebastian fought back tears describing the kindness he experienced from a stranger named Bob during the World Cup in America.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/opinion/riley-gaines-world-cup-visitors-reminding-americans-what-makes-country-great",
+      "time": "2026-07-19T21:12:00",
       "country": "US",
-      "title_ur": "ورلڈ کپ کے شائقین نے اس خاص وجہ کا انکشاف کیا کہ وہ اسپین اور ارجنٹائن کے درمیان بلاک بسٹر فائنل شو ڈاون سے لطف اندوز نہیں ہو سکتے",
-      "desc_ur": "میٹ لائف اسٹیڈیم میں اسپین اور ارجنٹائن کے درمیان اتوار کو ہونے والے ورلڈ کپ کے فائنل میچ سے پوری طرح لطف اندوز نہ ہونے کی وجہ بتانے کے لیے مشتعل فٹ بال کے شائقین سوشل میڈیا پر پہنچ گئے۔"
+      "title_ur": "رائلی گینز: ورلڈ کپ کے مہمان امریکیوں کو یاد دلا رہے ہیں کہ اس ملک کو کیا چیز عظیم بناتی ہے۔",
+      "desc_ur": "سیباسٹین نامی ایک جرمن فٹ بال کے پرستار نے امریکہ میں ورلڈ کپ کے دوران باب نامی ایک اجنبی کی طرف سے جو مہربانی کا تجربہ کیا اس کو بیان کرتے ہوئے آنسوؤں کا مقابلہ کیا۔"
     },
     {
-      "title": "Burnham’s Britain: what kind of country has the UK’s new prime minister inherited?",
-      "desc": "The ‘king of the North’ faces multiple challenges in a fragmented UK when he becomes the next prime minister.",
-      "source": "The Conversation Africa",
-      "url": "https://theconversation.com/burnhams-britain-what-kind-of-country-has-the-uks-new-prime-minister-inherited-285925",
-      "time": "2026-07-19T20:04:58",
-      "country": "UK",
-      "title_ur": "برنہم کا برطانیہ: برطانیہ کے نئے وزیراعظم کو کس قسم کا ملک وراثت میں ملا ہے؟",
-      "desc_ur": "'شمال کے بادشاہ' کو جب وہ اگلا وزیر اعظم بنتا ہے تو اسے بکھرے ہوئے برطانیہ میں متعدد چیلنجوں کا سامنا کرنا پڑتا ہے۔"
-    },
-    {
-      "title": "U.S. service member killed in Northern Iraq, says U.S. Central Command",
-      "desc": "The U.S. military announced it recovered unidentified human remains while searching for an American service member reported missing after an Iranian missile...",
-      "source": "Yahoo Entertainment",
-      "url": "https://www.yahoo.com/news/videos/u-member-killed-northern-iraq-200414463.html",
-      "time": "2026-07-19T20:04:14",
+      "title": "Trump Suggests Republicans 'Add Iran to the Russian Sanctions Bill'",
+      "desc": "President Donald Trump suggested that Republicans \"add Iran to the Russian Sanctions Bill,\" noting that it is what the late Sen. Lindsey Graham (R-SC) \"wanted to do.\"\nThe post Trump Suggests Republicans ‘Add Iran to the Russian Sanctions Bill’ appeared first …",
+      "source": "Breitbart News",
+      "url": "https://www.breitbart.com/politics/2026/07/19/trump-suggests-republicans-add-iran-to-the-russian-sanctions-bill/",
+      "time": "2026-07-19T21:11:54",
       "country": "Iran",
-      "title_ur": "امریکی سینٹرل کمانڈ کا کہنا ہے کہ شمالی عراق میں امریکی فوجی ہلاک ہو گیا۔",
-      "desc_ur": "امریکی فوج نے اعلان کیا ہے کہ اس نے ایرانی میزائل کے بعد لاپتہ ہونے والے امریکی سروس ممبر کی تلاش کے دوران نامعلوم انسانی باقیات برآمد کی ہیں۔"
-    },
-    {
-      "title": "'Spare me': Senator's bold threat backfires as 'tiresome performance' has worn out",
-      "desc": "A sitting senator's bold threat to leave his party if it crosses his proverbial \"red line\" drew sharp criticism on Sunday as an analyst argued that the lawmaker's \"tiresome performance\" has worn out. Sen. John Fetterman (D-PA) has threatened to leave the Demo…",
-      "source": "Raw Story",
-      "url": "https://www.rawstory.com/john-fetterman-2677244959/",
-      "time": "2026-07-19T20:03:55",
-      "country": "International",
-      "title_ur": "'مجھے چھوڑ دو': سینیٹر کی جرات مندانہ دھمکی نے 'تھکا دینے والی کارکردگی' ختم ہونے پر جواب دیا۔",
-      "desc_ur": "ایک موجودہ سینیٹر کی اپنی پارٹی چھوڑنے کی جرات مندانہ دھمکی اگر اس کی کہاوت \"ریڈ لائن\" کو عبور کرتی ہے تو اتوار کو اس پر شدید تنقید کی گئی کیونکہ ایک تجزیہ کار نے دلیل دی کہ قانون ساز کی \"تھکا دینے والی کارکردگی\" ختم ہو گئی ہے۔ سین جان فیٹرمین (D-PA) نے ڈیمو چھوڑنے کی دھمکی دی ہے…"
-    },
-    {
-      "title": "A new agriculture bill just dropped in the House of Representatives. It features: Granting amnesty to illegal aliens present in the United States....",
-      "desc": "A new agriculture bill just dropped in the House of Representatives. It features: Granting amnesty to illegal aliens present in the United States as of May 31, 2026, who meet minimal agricultural work history requirements. How many illegal aliens will claim t…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4388592/posts",
-      "time": "2026-07-19T20:01:14",
-      "country": "US",
-      "title_ur": "ایک نیا زرعی بل ایوان نمائندگان میں ابھی گرا دیا گیا۔ اس کی خصوصیات: ریاستہائے متحدہ میں موجود غیر قانونی غیر ملکیوں کو عام معافی دینا۔",
-      "desc_ur": "ایک نیا زرعی بل ایوان نمائندگان میں ابھی گرا دیا گیا۔ اس کی خصوصیات: 31 مئی 2026 تک ریاستہائے متحدہ میں موجود غیر قانونی غیر ملکیوں کو عام معافی دینا، جو زرعی کام کی تاریخ کے کم سے کم تقاضوں کو پورا کرتے ہیں۔ کتنے غیر قانونی اجنبی اس کا دعویٰ کریں گے…"
-    },
-    {
-      "title": "Russia urges IAEA action over Iran site attack",
-      "desc": "Russian Foreign Ministry spokesperson Maria Zakharova urged the International Atomic Energy Agency (IAEA) on Sunday to take \"immediate and concrete steps\" following reports of a United States strike o...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/078aa07a8b67e892",
-      "time": "2026-07-19T20:00:33",
-      "country": "Iran",
-      "title_ur": "روس نے ایران کی سائٹ پر حملے پر آئی اے ای اے کی کارروائی پر زور دیا۔",
-      "desc_ur": "روسی وزارت خارجہ کی ترجمان ماریا زاخارووا نے اتوار کے روز بین الاقوامی ایٹمی توانائی ایجنسی (IAEA) پر زور دیا کہ وہ امریکی حملے کی اطلاعات کے بعد \"فوری اور ٹھوس اقدامات\" کرے۔"
-    },
-    {
-      "title": "U.S. military finds unidentified service member's remains after Iran attack in Jordan",
-      "desc": "U.S. forces said Sunday they found the remains of an unidentified service member near the Jordan air base where two American troops were killed in an Iranian missile attack.\nThe big picture: The disclosures bring the number of U.S. service members killed in t…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/5dc4d7e675574d1a",
-      "time": "2026-07-19T20:00:25",
-      "country": "Iran",
-      "title_ur": "امریکی فوج کو اردن میں ایران کے حملے کے بعد نامعلوم فوجی اہلکار کی باقیات ملی ہیں۔",
-      "desc_ur": "امریکی افواج نے اتوار کو کہا کہ انہیں اردن کے فضائی اڈے کے قریب ایک نامعلوم سروس ممبر کی باقیات ملی ہیں جہاں ایرانی میزائل حملے میں دو امریکی فوجی مارے گئے تھے۔\nبڑی تصویر: انکشافات میں ہلاک ہونے والے امریکی فوجیوں کی تعداد سامنے آئی ہے…"
-    },
-    {
-      "title": "DAVID MARCUS: Socialism and El-Sayed run into harsh reality in blue-collar Michigan",
-      "desc": "By now, we have all seen the evidence that the socialist uprising happening in the Democratic Party is fueled mainly by highly educated White voters, and on Saturday, I saw even more evidence of it at a Detroit rally for Senate candidate Abdul El-Sayed. It wa…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-chat/4388591/posts",
-      "time": "2026-07-19T20:00:24",
-      "country": "US",
-      "title_ur": "ڈیوڈ مارکس: سوشلزم اور السید بلیو کالر مشی گن میں تلخ حقیقت کی طرف بھاگ رہے ہیں",
-      "desc_ur": "اب تک، ہم سب نے یہ شواہد دیکھے ہیں کہ ڈیموکریٹک پارٹی میں سوشلسٹ بغاوت کو بنیادی طور پر اعلیٰ تعلیم یافتہ سفید فام ووٹروں نے تقویت دی ہے، اور ہفتے کے روز، میں نے سینیٹ کے امیدوار عبد السید کے لیے ڈیٹرائٹ کی ایک ریلی میں اس کے مزید ثبوت دیکھے۔ یہ وا…"
-    },
-    {
-      "title": "US reveals THIRD service member killed in Middle East by Iranian drone",
-      "desc": "The US military has announced a third service member has been killed in the Middle East by an Iranian drone and tensions between the two countries continue to hit a peak.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-15989097/centcom-service-member-killed-iran-drone.html",
-      "time": "2026-07-19T19:59:09",
-      "country": "Iran",
-      "title_ur": "امریکا نے مشرق وسطیٰ میں ایرانی ڈرون سے ہلاک ہونے والے تیسرے فوجی اہلکار کا انکشاف کیا ہے۔",
-      "desc_ur": "امریکی فوج نے اعلان کیا ہے کہ مشرق وسطیٰ میں ایک ایرانی ڈرون کے ذریعے تیسرا فوجی اہلکار مارا گیا ہے اور دونوں ممالک کے درمیان کشیدگی عروج پر ہے۔"
+      "title_ur": "ٹرمپ نے ریپبلکنز کو تجویز دی کہ 'روسی پابندیوں کے بل میں ایران کو شامل کریں'",
+      "desc_ur": "صدر ڈونلڈ ٹرمپ نے تجویز پیش کی کہ ریپبلکنز \"ایران کو روسی پابندیوں کے بل میں شامل کریں\"، یہ نوٹ کرتے ہوئے کہ آنجہانی سینی لنڈسے گراہم (R-SC) \"یہ کرنا چاہتے تھے۔\"\nThe post ٹرمپ نے ریپبلکنز کو تجویز دی کہ ’ایران کو روسی پابندیوں کے بل میں شامل کریں‘ appeared first on …"
     }
   ],
   "pakistan": [
     {
-      "title": "Donald Trump’s blind alley",
-      "desc": "America’s president looks bereft of good options for solving the stand-off in the Gulf.",
-      "source": "Www.nrc.nl",
-      "url": "https://www.nrc.nl/nieuws/2026/07/19/donald-trumps-blind-alley-a4932664",
-      "time": "2026-07-19T20:00:00",
+      "title": "Israel vows strong retaliation after intercepting Iranian missile near Aqaba",
+      "desc": "Israel vows strong retaliation after intercepting an Iranian missile. Houthi military action against Israel by July 31, 2026 at 11.5% YES.\nThe post Israel vows strong retaliation after intercepting Iranian missile near Aqaba appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/israel-vows-strong-retaliation-after-intercepting-iranian-missile-near-aqaba/",
+      "time": "2026-07-19T20:47:13",
       "country": "Pakistan",
-      "title_ur": "ڈونلڈ ٹرمپ کی اندھی گلی",
-      "desc_ur": "امریکی صدر خلیج میں تعطل کو حل کرنے کے لیے اچھے آپشنز سے محروم نظر آتے ہیں۔"
-    },
-    {
-      "title": "Ethanol could soon make its way to Indian kitchens",
-      "desc": "India's petroleum ministry is developing a policy for ethanol as a mainstream cooking fuel. This initiative aims to reduce dependence on imported liquefied petroleum gas. The government may introduce subsidies to encourage ethanol adoption and build necessary…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/ethanol-could-soon-make-its-way-to-indian-kitchens/articleshow/132500993.cms",
-      "time": "2026-07-19T19:24:20",
-      "country": "Pakistan",
-      "title_ur": "ایتھنول جلد ہی ہندوستانی کچن تک جا سکتا ہے۔",
-      "desc_ur": "ہندوستان کی وزارت پٹرولیم ایتھنول کے لیے ایک مرکزی دھارے میں کھانا پکانے کے ایندھن کے طور پر ایک پالیسی تیار کر رہی ہے۔ اس اقدام کا مقصد درآمد شدہ مائع پٹرولیم گیس پر انحصار کم کرنا ہے۔ حکومت ایتھنول کو اپنانے اور ضروری تعمیرات کی حوصلہ افزائی کے لیے سبسڈی متعارف کروا سکتی ہے…"
-    },
-    {
-      "title": "Ladakh sanctuary revamp hits security hurdle; review on",
-      "desc": "Ladakh's plans to redraw sanctuary boundaries face national security and local development challenges. A new committee will define core wildlife areas, addressing strategic concerns near China and Pakistan.  Existing protected areas already cover a significan…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/india/ladakh-sanctuary-revamp-hits-security-hurdle-review-on/articleshow/132500793.cms",
-      "time": "2026-07-19T19:06:34",
-      "country": "Pakistan",
-      "title_ur": "لداخ سینکچری کی بحالی سے حفاظتی رکاوٹ پر جائزہ لیں",
-      "desc_ur": "لداخ کے پناہ گاہوں کی حدود کو دوبارہ بنانے کے منصوبوں کو قومی سلامتی اور مقامی ترقی کے چیلنجوں کا سامنا ہے۔ ایک نئی کمیٹی چین اور پاکستان کے قریب تزویراتی خدشات کو دور کرتے ہوئے جنگلی حیات کے بنیادی علاقوں کی وضاحت کرے گی۔  موجودہ محفوظ علاقوں میں پہلے سے ہی ایک اہم…"
+      "title_ur": "عقبہ کے قریب ایرانی میزائل کو روکنے کے بعد اسرائیل نے سخت جوابی کارروائی کا عزم کیا۔",
+      "desc_ur": "اسرائیل نے ایرانی میزائل کو مار گرانے کے بعد سخت جوابی کارروائی کا عزم کیا۔ 31 جولائی 2026 تک اسرائیل کے خلاف حوثی فوجی کارروائی 11.5% ہاں۔\nThe post اسرائیل کا عقبہ کے قریب ایرانی میزائل کو مار گرانے پر سخت جوابی کارروائی کا عزم appeared first on Crypto Briefing."
     }
   ],
   "business": {
