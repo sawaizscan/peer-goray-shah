@@ -1,173 +1,183 @@
 {
-  "generated": "2026-07-19T23:26:40Z",
+  "generated": "2026-07-20T01:03:50Z",
   "world": [
     {
-      "title": "Mamdani says NYC is exploring whether it can arrest Netanyahu if Israeli leader visits for UN General Assembly",
-      "desc": "Mayor Zohran Mamdani says his administration is exploring whether New York City can arrest Benjamin Netanyahu over the ICC warrant during United Nations General Assembly.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/mamdani-says-nyc-exploring-whether-arrest-netanyahu-israeli-leader-visits-un-general-assembly",
-      "time": "2026-07-18T23:14:15",
+      "title": "Netanyahu could be arrested during New York visit – mayor",
+      "desc": "New York Mayor Zohran Mamdani has said he is exploring the legal possibility of arresting Israeli Prime Minister Benjamin Netanyahu during the UN General Assembly in September.",
+      "source": "RT",
+      "url": "https://www.rt.com/news/643220-netanyahu-arrest-nyc-mamdani/",
+      "time": "2026-07-19T01:01:53",
       "country": "Israel",
-      "title_ur": "مامدانی کا کہنا ہے کہ NYC اس بات کی کھوج کر رہا ہے کہ آیا وہ نیتن یاہو کو گرفتار کر سکتا ہے اگر اسرائیلی رہنما اقوام متحدہ کی جنرل اسمبلی کے لیے جاتے ہیں",
-      "desc_ur": "میئر ظہران ممدانی کا کہنا ہے کہ ان کی انتظامیہ اس بات کی کھوج کر رہی ہے کہ آیا نیویارک سٹی اقوام متحدہ کی جنرل اسمبلی کے دوران آئی سی سی کے وارنٹ پر بینجمن نیتن یاہو کو گرفتار کر سکتا ہے۔"
+      "title_ur": "نیتن یاہو کو نیویارک کے دورے کے دوران گرفتار کیا جا سکتا ہے – میئر",
+      "desc_ur": "نیویارک کے میئر ظہران مامدانی نے کہا ہے کہ وہ ستمبر میں اقوام متحدہ کی جنرل اسمبلی کے دوران اسرائیلی وزیر اعظم بنجمن نیتن یاہو کی گرفتاری کے قانونی امکان کا جائزہ لے رہے ہیں۔"
     },
     {
-      "title": "Gaza flotilla operated by Hamas and Muslim Brotherhood via shell companies: Israeli FM",
-      "desc": "Israel's foreign minister says Hamas financed the Gaza Aid flotilla and that one of the organization's own activists was an agent of the terrorist group.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/07/18/world-news/gaza-flotilla-operated-by-hamas-and-muslim-brotherhood-via-shell-companies-israeli-fm/",
-      "time": "2026-07-18T23:12:11",
-      "country": "Israel",
-      "title_ur": "غزہ کا فلوٹیلا حماس اور اخوان المسلمین شیل کمپنیوں کے ذریعے چلاتا ہے: اسرائیلی ایف ایم",
-      "desc_ur": "اسرائیل کے وزیر خارجہ کا کہنا ہے کہ حماس نے غزہ ایڈ فلوٹیلا کی مالی امداد کی اور تنظیم کا اپنا ایک کارکن دہشت گرد گروپ کا ایجنٹ تھا۔"
-    },
-    {
-      "title": "US forces strike near Hajiabad amid Iran conflict escalation",
-      "desc": "US forces struck near Hajiabad amid rising tensions with Iran. Military action by Iran against a Gulf state on July 22 at 61.5% YES.\nThe post US forces strike near Hajiabad amid Iran conflict escalation appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-forces-strike-near-hajiabad-amid-iran-conflict-escalation/",
-      "time": "2026-07-18T23:09:16",
-      "country": "Iran",
-      "title_ur": "ایرانی تنازعہ میں اضافے کے درمیان امریکی فورسز نے حاجی آباد کے قریب حملہ کیا۔",
-      "desc_ur": "ایران کے ساتھ بڑھتی ہوئی کشیدگی کے درمیان امریکی افواج نے حاجی آباد کے قریب حملہ کیا۔ 22 جولائی کو ایک خلیجی ریاست کے خلاف ایران کی طرف سے فوجی کارروائی 61.5% ہاں۔\nThe post ایران تنازعہ میں اضافے کے درمیان حاجی آباد کے قریب امریکی فورسز کا حملہ appeared first on Crypto Briefing."
-    },
-    {
-      "title": "Flutter those eyelashes all you like, Andy... we want an election now! On eve of becoming PM, 'Messiah without a mandate' Burnham gets blunt message from voters",
-      "desc": "Andy Burnham will walk into Downing Street on Monday pledging to drag Britain back to the pre-Thatcher era with 'distinctively Labour ' policies.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-15987769/Flutter-eyelashes-you-like-Andy-want-election-eve-PM-Messiah-without-mandate-Burnham-gets-blunt-message-voters.html",
-      "time": "2026-07-18T23:07:37",
-      "country": "UK",
-      "title_ur": "ان پلکوں کو پھڑپھڑاو جو آپ پسند کرتے ہیں، اینڈی... ہم ابھی الیکشن چاہتے ہیں! وزیر اعظم بننے کے موقع پر، 'مینڈیٹ کے بغیر مسیحا' برنہم کو ووٹرز کا دو ٹوک پیغام ملا",
-      "desc_ur": "اینڈی برنہم پیر کو ڈاوننگ اسٹریٹ پر جائیں گے اور 'مخصوص لیبر' پالیسیوں کے ساتھ برطانیہ کو تھیچر سے پہلے کے دور میں واپس لے جانے کا عہد کریں گے۔"
-    },
-    {
-      "title": "House GOP panics as Mamdani mulls arresting Trump ally",
-      "desc": "House Republicans lashed out at New York City Mayor Zohran Mamdani Saturday after reports revealed that the rising star in the Democratic Party was actively considering arresting a key ally to President Donald Trump.Speaking with The New York Times\r\n, Mamdani…",
-      "source": "Raw Story",
-      "url": "https://www.rawstory.com/zohran-mamdani-2677243725/",
-      "time": "2026-07-18T23:05:52",
+      "title": "WATCH: Parasitic outbreak spreading across parts of the US",
+      "desc": "Taylor Farms is now expanding a recall of iceberg lettuce to 27 states.",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/video/134884700/",
+      "time": "2026-07-19T01:01:16",
       "country": "US",
-      "title_ur": "ہاؤس جی او پی خوفزدہ ہے کیونکہ مامدانی ٹرمپ کے اتحادی کو گرفتار کرنے پر غور کر رہے ہیں۔",
-      "desc_ur": "ہاؤس ریپبلکنز نے ہفتے کے روز نیو یارک سٹی کے میئر ظہران ممدانی پر تنقید کی جب ان اطلاعات کے انکشاف کے بعد کہ ڈیموکریٹک پارٹی میں ابھرتا ہوا ستارہ صدر ڈونلڈ ٹرمپ کے ایک اہم اتحادی کو گرفتار کرنے پر غور کر رہا ہے۔ نیویارک ٹائمز سے بات کرتے ہوئے\r\n، مامدانی…"
+      "title_ur": "دیکھو: پرجیوی پھیلاؤ امریکہ کے مختلف حصوں میں پھیل رہا ہے۔",
+      "desc_ur": "ٹیلر فارمز اب آئس برگ لیٹش کی واپسی کو 27 ریاستوں تک پھیلا رہا ہے۔"
     },
     {
-      "title": "Zini's dangerous bid to unleash the Shin Bet on journalists",
-      "desc": "The request by the Shin Bet security service director, David Zini, confirms the concerns that preceded his appointment: Last week, Haaretz learned that Zini had",
+      "title": "State Dept issues worldwide alert to all Americans overseas...",
+      "desc": "The State Department issued a global travel warning for Americans as U.S.-Iran fighting continues after a deadly strike in Jordan.",
+      "source": "Newsweek",
+      "url": "https://www.newsweek.com/state-department-worldwide-travel-warning-iran-conflict-12214848",
+      "time": "2026-07-19T01:00:21",
+      "country": "Iran",
+      "title_ur": "اسٹیٹ ڈپارٹمنٹ نے دنیا بھر میں بیرون ملک مقیم تمام امریکیوں کے لیے الرٹ جاری کیا...",
+      "desc_ur": "محکمہ خارجہ نے امریکیوں کے لیے عالمی سفری انتباہ جاری کیا کیونکہ اردن میں ایک مہلک حملے کے بعد امریکہ اور ایران کی لڑائی جاری ہے۔"
+    },
+    {
+      "title": "Fetterman: Can't Support 'Pro-Hamas' El-Sayed",
+      "desc": "On Saturday’s broadcast of the Fox News Channel’s “Saturday in America,” Sen. John Fetterman (D-PA) said Democratic Michigan U.S. Senate candidate Abdul El-Sayed is “essentially, a pro-Hamas candidate” and is “not someone I could ever support.” Fetterman said…",
+      "source": "Breitbart News",
+      "url": "https://www.breitbart.com/clips/2026/07/18/fetterman-cant-support-pro-hamas-el-sayed/",
+      "time": "2026-07-19T00:55:01",
+      "country": "US",
+      "title_ur": "فیٹرمین: حماس کے حامی السید کی حمایت نہیں کر سکتے",
+      "desc_ur": "فاکس نیوز چینل کے ہفتہ کے روز \"امریکہ میں ہفتہ\" کی نشریات پر سینیٹر جان فیٹرمین (D-PA) نے کہا کہ ڈیموکریٹک مشی گن یو ایس سینیٹ کے امیدوار عبد السید \"بنیادی طور پر حماس کے حامی امیدوار\" ہیں اور \"ایسا نہیں جس کی میں کبھی حمایت کر سکتا ہوں۔\" فیٹرمین نے کہا…"
+    },
+    {
+      "title": "Kudlow: Vance Needs 'Reset' of His Statements",
+      "desc": "On Friday’s broadcast of the Fox Business Network’s “Kudlow,” host Larry Kudlow said Vice President JD Vance “needs to step back for a moment” and have “a great reset of his policy priorities, his statements, and his own actions.” After\nThe post Kudlow: Vance…",
+      "source": "Breitbart News",
+      "url": "https://www.breitbart.com/clips/2026/07/18/kudlow-vance-needs-reset-of-his-statements/",
+      "time": "2026-07-19T00:54:59",
+      "country": "US",
+      "title_ur": "کڈلو: وینس کو اپنے بیانات کی 'ری سیٹ' کی ضرورت ہے۔",
+      "desc_ur": "جمعہ کے روز فاکس بزنس نیٹ ورک کے \"کڈلو\" کی نشریات پر میزبان لیری کڈلو نے کہا کہ نائب صدر جے ڈی وینس کو \"ایک لمحے کے لیے پیچھے ہٹنے کی ضرورت ہے\" اور \"اپنی پالیسی کی ترجیحات، اپنے بیانات، اور اپنے اعمال کا زبردست ری سیٹ\" ہونا چاہیے۔ کے بعد\nپوسٹ کڈلو: وینس…"
+    },
+    {
+      "title": "FNC's Kilmeade: Vance's Israel Comments Sound Like the Squad",
+      "desc": "On Friday’s broadcast of Fox News Radio’s “Brian Kilmeade Show,” host Brian Kilmeade criticized Vice President JD Vance’s comments on Israel by saying, “That’s stuff that you would expect extremists, extreme Squad members to say” and maybe “he wants to\nThe po…",
+      "source": "Breitbart News",
+      "url": "https://www.breitbart.com/clips/2026/07/18/fncs-kilmeade-vances-israel-comments-sound-like-the-squad/",
+      "time": "2026-07-19T00:54:57",
+      "country": "Israel",
+      "title_ur": "FNC کی Kilmeade: Vance's Israel Comments Sound like the Squad",
+      "desc_ur": "فاکس نیوز ریڈیو کے \"برائن کلیمیڈ شو\" کے جمعہ کو نشر ہونے والے میزبان برائن کلیمیڈ نے اسرائیل کے بارے میں نائب صدر جے ڈی وینس کے تبصروں کو یہ کہتے ہوئے تنقید کا نشانہ بنایا، \"یہ وہ چیز ہے جس کی آپ شدت پسندوں، انتہائی اسکواڈ کے ارکان سے توقع کریں گے\" اور شاید \"وہ چاہتے ہیں\nپو…"
+    },
+    {
+      "title": "Iran threatens Gulf airports, ports amid escalating 2026 war tensions",
+      "desc": "Iran threatens Gulf airports and ports amid rising tensions. Strait of Hormuz traffic normal by August 31 at 9.5% YES.\nThe post Iran threatens Gulf airports, ports amid escalating 2026 war tensions appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-threatens-gulf-airports-ports-amid-escalating-2026-war-tensions/",
+      "time": "2026-07-19T00:54:13",
+      "country": "Iran",
+      "title_ur": "ایران نے خلیجی ہوائی اڈوں اور بندرگاہوں کو 2026 کی جنگی کشیدگی میں اضافے کی دھمکی دی ہے۔",
+      "desc_ur": "ایران نے بڑھتی ہوئی کشیدگی کے درمیان خلیجی ہوائی اڈوں اور بندرگاہوں کو دھمکی دی ہے۔ آبنائے ہرمز ٹریفک 31 اگست تک معمول کے مطابق 9.5% ہاں۔\nThe post ایران کی 2026 کی جنگی کشیدگی میں اضافے کے درمیان خلیجی ہوائی اڈوں، بندرگاہوں کو دھمکی appeared first on Crypto Briefing."
+    },
+    {
+      "title": "U.S. strikes Iran after 2 service members killed, 1 missing in attack on Jordan base - The Washington Post",
+      "desc": "U.S. strikes Iran after 2 service members killed, 1 missing in attack on Jordan baseThe Washington Post US bombs Iran again as Trump mourns two soldiers killed in JordanAl Jazeera US renews strikes on Iran after two military personnel were killed by Iranian a…",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184505992",
+      "time": "2026-07-19T00:52:31",
+      "country": "Iran",
+      "title_ur": "اردن کے اڈے پر حملے میں 2 فوجی ہلاک، ایک لاپتہ ہونے کے بعد امریکہ کا ایران پر حملہ - The Washington Post",
+      "desc_ur": "اردن کے اڈے پر حملے میں 2 فوجیوں کی ہلاکت کے بعد امریکہ نے ایران پر حملہ کیا، ایک لاپتہ واشنگٹن پوسٹ امریکہ نے ایران پر دوبارہ بمباری کی جب ٹرمپ نے اردن میں دو فوجیوں کی ہلاکت پر سوگ منایا الجزیرہ میں ایران کے ہاتھوں دو فوجی اہلکاروں کی ہلاکت کے بعد امریکہ نے ایران پر حملے کی تجدید کی…"
+    },
+    {
+      "title": "AIPAC spending, Gaza war define Michigan Democratic Senate primary rally as Sanders, AOC back El-Sayed",
+      "desc": "Candidate Abdul El-Sayed declared that 'it's time to decide that we are no longer going to send unconditional foreign military aid to foreign governments,' while Sanders railed against AIPAC and what he described as an 'election between Abdul and the billiona…",
       "source": "Haaretz",
-      "url": "https://www.haaretz.com/opinion/editorial/2026-07-19/ty-article-opinion/zinis-dangerous-bid-to-unleash-the-shin-bet-on-journalists/0000019f-76c6-d476-a9df-f6ef9eab0000",
-      "time": "2026-07-18T23:01:23",
-      "country": "US",
-      "title_ur": "صحافیوں پر شن بیٹ اتارنے کے لیے زینی کی خطرناک بولی۔",
-      "desc_ur": "شن بیٹ سیکیورٹی سروس کے ڈائریکٹر ڈیوڈ زینی کی درخواست ان خدشات کی تصدیق کرتی ہے جو ان کی تقرری سے پہلے تھے: پچھلے ہفتے ہارٹز کو معلوم ہوا کہ زینی نے"
+      "url": "https://www.haaretz.com/us-news/2026-07-19/ty-article/.premium/aipac-gaza-war-define-michigan-dem-senate-primary-sanders-aoc-back-el-sayed/0000019f-7794-d4cc-abbf-77beb7960000",
+      "time": "2026-07-19T00:52:15",
+      "country": "Israel",
+      "title_ur": "AIPAC کے اخراجات، غزہ جنگ نے مشی گن ڈیموکریٹک سینیٹ کی پرائمری ریلی کو سینڈرز، اے او سی کی حمایت السید سے تعبیر کیا",
+      "desc_ur": "امیدوار عبد السید نے اعلان کیا کہ 'یہ فیصلہ کرنے کا وقت آگیا ہے کہ ہم اب غیر ملکی حکومتوں کو غیر مشروط غیر ملکی فوجی امداد نہیں بھیجیں گے'، جبکہ سینڈرز نے AIPAC کے خلاف احتجاج کیا اور جسے انہوں نے 'عبد اور اربوں کے درمیان انتخاب' قرار دیا۔"
     },
     {
-      "title": "“Whoever Attacks You, Attack Them In The Same Manner”: Iran’s Revolutionary Guard Warns Gulf States to Expect More Strikes",
-      "desc": "Iran hit Kuwait, Jordan, Bahrain and Saudi Arabia on Saturday, one week after the ceasefire with the U.S. fell apart. A desalination plant went down, Kuwait’s main airport shut, and firefighters were among the wounded.",
-      "source": "Thoughtcatalog.com",
-      "url": "https://thoughtcatalog.com/jeremy-london/2026/07/whoever-attacks-you-attack-them-in-the-same-manner-irans-revolutionary-guard-warns-gulf-states-to-expect-more-strikes/",
-      "time": "2026-07-18T23:01:16",
-      "country": "Iran",
-      "title_ur": "\"جو بھی آپ پر حملہ کرے، ان پر اسی انداز میں حملہ کریں\": ایران کے پاسداران انقلاب نے خلیجی ریاستوں کو مزید حملوں کی توقع کرنے کی تنبیہ کی ہے",
-      "desc_ur": "امریکہ کے ساتھ جنگ ​​بندی ٹوٹنے کے ایک ہفتے بعد ایران نے ہفتے کے روز کویت، اردن، بحرین اور سعودی عرب کو نشانہ بنایا۔ ڈی سیلینیشن پلانٹ گر گیا، کویت کا مرکزی ہوائی اڈہ بند ہو گیا، اور زخمیوں میں فائر فائٹرز بھی شامل تھے۔"
-    },
-    {
-      "title": "BRYONY GORDON: This World Cup has been a total blast - thanks to those geniuses OFF the pitch",
-      "desc": "BRYONY GORDON: I realised that the memefication of this World Cup is partly what has made it one of the most enjoyable in recent memory.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/debate/article-15987895/BRYONY-GORDON-World-Cup-blast-geniuses.html",
-      "time": "2026-07-18T22:58:47",
-      "country": "US",
-      "title_ur": "BRYONY GORDON: یہ ورلڈ کپ مکمل طور پر دھماکا خیز رہا ہے - پچ سے دور ان باصلاحیت افراد کی بدولت",
-      "desc_ur": "BRYONY GORDON: میں نے محسوس کیا کہ اس ورلڈ کپ کی یادداشت جزوی طور پر ہے جس نے اسے حالیہ یادوں میں سب سے زیادہ خوشگوار بنا دیا ہے۔"
-    },
-    {
-      "title": "Live: US launches fresh strikes to 'swiftly punish' Iran after deadly attack on troops",
-      "desc": "The US has resumed new strikes on Iran after two of its service members were killed in Jordan. Follow live.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-07-19/blog-us-warns-of-middle-east-travel/106932620",
-      "time": "2026-07-18T22:50:07",
-      "country": "Iran",
-      "title_ur": "لائیو: امریکی فوجیوں پر مہلک حملے کے بعد ایران کو 'تیزی سے سزا دینے' کے لیے تازہ حملے",
-      "desc_ur": "امریکا نے اردن میں اپنے دو فوجیوں کی ہلاکت کے بعد ایران پر نئے حملے دوبارہ شروع کر دیے ہیں۔ لائیو فالو کریں۔"
-    },
-    {
-      "title": "U.S. military launches new airstrikes to ‘swiftly punish’ Iran for attack on Jordan that killed American troops",
-      "desc": "U.S. Central Command said the strikes were designed to further degrade Iran’s ability to restrict the traffic of oil tankers through the Strait of Hormuz.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/18/us-military-airstrikes-punish-iran-attack-jordan-american-troops-deaths/",
-      "time": "2026-07-18T22:46:47",
-      "country": "Iran",
-      "title_ur": "امریکی فوج نے اردن پر حملے کے لیے ایران کو 'تیزی سے سزا دینے' کے لیے نئے فضائی حملے شروع کیے جس میں امریکی فوجی ہلاک ہوئے",
-      "desc_ur": "امریکی سینٹرل کمانڈ نے کہا کہ یہ حملے آبنائے ہرمز کے ذریعے آئل ٹینکروں کی آمدورفت کو محدود کرنے کی ایران کی صلاحیت کو مزید کم کرنے کے لیے کیے گئے تھے۔"
-    },
-    {
-      "title": "US Universities Got Over $300M From Sanctioned China Entities",
-      "desc": "Spooked by a decades-long outflow of top Amerian science and technology to adversaries, the Department of Education has disclosed new data on donations to American universities by foreign companies and universities that today are sanctioned by the U.S., inclu…",
+      "title": "AMERICA PRAYER VIGIL - JULY 18, 2026 - (PRAYER)",
+      "desc": "“Ye have not, because ye ask not.”- James 4:2 (KJV) Join with fellow FREEPERS to pray for AMERICA: For those in Authority in Government, Family, Military, Business, Healthcare, Education, Churches, and the Media. I urge, then, first of all, that requests, pra…",
       "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4388500/posts",
-      "time": "2026-07-18T22:44:28",
-      "country": "China",
-      "title_ur": "امریکی یونیورسٹیوں کو چین کے منظور شدہ اداروں سے 300 ملین ڈالر سے زیادہ کی رقم ملی",
-      "desc_ur": "مخالفین کے لیے اعلیٰ امریکی سائنس اور ٹکنالوجی کے کئی دہائیوں تک جاری رہنے والے بہاؤ کی وجہ سے، محکمہ تعلیم نے امریکی یونیورسٹیوں کو غیر ملکی کمپنیوں اور یونیورسٹیوں کے عطیات سے متعلق نئے اعداد و شمار کا انکشاف کیا ہے جن کی آج امریکہ نے منظوری دی ہے، بشمول…"
+      "url": "https://freerepublic.com/focus/f-religion/4388510/posts",
+      "time": "2026-07-19T00:49:48",
+      "country": "US",
+      "title_ur": "امریکہ کی نماز کی نگرانی - 18 جولائی 2026 - (دعا)",
+      "desc_ur": "\"آپ کے پاس نہیں ہے، کیونکہ آپ نہیں مانگتے۔\"- جیمز 4:2 (KJV) امریکہ کے لیے دعا کرنے کے لیے ساتھی فریپرز کے ساتھ شامل ہوں: حکومت، خاندان، فوجی، کاروبار، صحت کی دیکھ بھال، تعلیم، گرجا گھروں اور میڈیا میں اتھارٹی والوں کے لیے۔ میں، پھر، سب سے پہلے، درخواست کرتا ہوں کہ، پرا…"
     },
     {
-      "title": "US forces embark on new round of Iran airstrikes",
-      "desc": "United States Central Command (CENTCOM) began a new wave of airstrikes against Iran at 6 pm ET on Saturday, aiming to \"further degrade\" the Middle Eastern country's ability to \"threaten\" traffic in th...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/fe2c779b0e287802",
-      "time": "2026-07-18T22:43:49",
-      "country": "Iran",
-      "title_ur": "امریکی افواج نے ایران پر فضائی حملوں کے نئے دور کا آغاز کر دیا ہے۔",
-      "desc_ur": "یونائیٹڈ سٹیٹس سنٹرل کمانڈ (CENTCOM) نے ہفتے کی شام 6 بجے ET پر ایران کے خلاف فضائی حملوں کی ایک نئی لہر شروع کی، جس کا مقصد مشرق وسطیٰ کے ملک کی ٹریفک کو \"خطرہ\" کرنے کی صلاحیت کو \"مزید نیچا\" کرنا ہے۔"
-    },
-    {
-      "title": "3.7-magnitude tremor shakes southern Iran",
-      "desc": "An earthquake with a magnitude of 3.7 shook Hormozgan province in southern Iran, according to the country's seismological agency.The tremor had its epicenter in Sargaz, at a depth of 22 kilometers. Th...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/63c86e790cf41f91",
-      "time": "2026-07-18T22:43:46",
-      "country": "Iran",
-      "title_ur": "3.7 شدت کے زلزلے نے جنوبی ایران کو ہلا کر رکھ دیا۔",
-      "desc_ur": "ملک کی سیسمولوجیکل ایجنسی کے مطابق، 3.7 کی شدت کے زلزلے نے جنوبی ایران کے صوبہ ہرمزگان کو ہلا کر رکھ دیا۔ زلزلے کا مرکز سرگز میں 22 کلومیٹر کی گہرائی میں تھا۔ و..."
-    },
-    {
-      "title": "Iranian drone strikes graveyard in Erbil amid escalating conflict",
-      "desc": "Iranian drone strikes a graveyard in Erbil amid rising tensions. Military action against a Gulf state by July 22 at 59.5% YES.\nThe post Iranian drone strikes graveyard in Erbil amid escalating conflict appeared first on Crypto Briefing.",
+      "title": "US combat deaths in Jordan trigger crypto selloff as Iran conflict escalates",
+      "desc": "Two US service members killed in Iranian strikes in Jordan triggered a Bitcoin drop to $62K and $350M in crypto liquidations as the Iran conflict escalates.\nThe post US combat deaths in Jordan trigger crypto selloff as Iran conflict escalates appeared first o…",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iranian-drone-strikes-graveyard-in-erbil-amid-escalating-conflict/",
-      "time": "2026-07-18T22:41:07",
+      "url": "https://cryptobriefing.com/us-combat-deaths-jordan-crypto-selloff/",
+      "time": "2026-07-19T00:48:44",
       "country": "Iran",
-      "title_ur": "ایرانی ڈرون نے بڑھتے ہوئے تنازع کے درمیان اربیل میں قبرستان پر حملہ کیا۔",
-      "desc_ur": "بڑھتی ہوئی کشیدگی کے درمیان ایرانی ڈرون نے اربیل میں ایک قبرستان پر حملہ کیا۔ 59.5% ہاں 22 جولائی تک خلیجی ریاست کے خلاف فوجی کارروائی۔\nThe post بڑھتے ہوئے تنازعے کے درمیان ایرانی ڈرون کا اربیل میں قبرستان پر حملہ appeared first on Crypto Briefing."
+      "title_ur": "اردن میں امریکی جنگی اموات نے کرپٹو فروخت کو شروع کیا کیونکہ ایران تنازعہ بڑھتا جا رہا ہے۔",
+      "desc_ur": "اردن میں ایرانی حملوں میں ہلاک ہونے والے دو امریکی فوجیوں نے بٹ کوائن کی قیمت میں $62K اور $350M کرپٹو لیکویڈیشن کو متحرک کیا کیونکہ ایران تنازعہ بڑھتا جا رہا ہے۔\nThe post اردن میں امریکی جنگی اموات نے کرپٹو سیل آف کو متحرک کردیا کیونکہ ایران تنازعہ بڑھتا جارہا ہے appeared first on…"
     },
     {
-      "title": "Explosive-laden drone shot down near US consulate in Erbil as crypto markets shrug off escalation",
-      "desc": "An explosive-laden drone was shot down near the US consulate in Erbil, Iraq, but crypto markets priced in less Iranian conflict risk after the incident.\nThe post Explosive-laden drone shot down near US consulate in Erbil as crypto markets shrug off escalation…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/drone-shot-down-erbil-us-consulate-crypto/",
-      "time": "2026-07-18T22:40:21",
+      "title": "US renews strikes on Iran after military personnel killed",
+      "desc": "The United States launched new strikes against Iran, Central Command has said, after it earlier announced that two US military personnel were killed in Jordan and another was missing following an Iranian attack.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/middle-east/2026/0719/1584035-middle-east-iran/",
+      "time": "2026-07-19T00:46:14",
       "country": "Iran",
-      "title_ur": "اربیل میں امریکی قونصل خانے کے قریب دھماکہ خیز مواد سے لدے ڈرون کو مار گرایا گیا کیونکہ کرپٹو مارکیٹوں میں اضافہ ہوا",
-      "desc_ur": "عراق کے اربیل میں امریکی قونصل خانے کے قریب دھماکہ خیز مواد سے لدے ڈرون کو مار گرایا گیا، لیکن اس واقعے کے بعد کرپٹو مارکیٹوں میں ایرانی تنازعے کا خطرہ کم تھا۔\nThe post اربیل میں امریکی قونصل خانے کے قریب دھماکہ خیز مواد سے لدے ڈرون کو مار گرایا گیا کیونکہ کرپٹو مارکیٹوں میں اضافہ ہوا…"
+      "title_ur": "امریکی فوجی اہلکاروں کی ہلاکت کے بعد ایران پر حملے کی تجدید",
+      "desc_ur": "امریکہ نے ایران کے خلاف نئے حملے شروع کیے، سنٹرل کمانڈ نے کہا ہے کہ اس نے پہلے اعلان کیا تھا کہ دو امریکی فوجی اہلکار اردن میں مارے گئے ہیں اور ایک ایرانی حملے کے بعد لاپتہ ہے۔"
+    },
+    {
+      "title": "US-Iran War LIVE: US launches new airstrikes on Iran to 'swiftly punish' Revolutionary Guard after deadly attack on US troops",
+      "desc": "US-Iran War News Live Updates: US forces on Saturday (local time) launched \"new airstrikes\" against Iran, targeting Iran's Islamic Revolutionary Guard Corps (IRGC) in a move aimed at reducing Tehran's ability to threaten commercial shipping in the Strait of H…",
+      "source": "Economictimes.com",
+      "url": "https://m.economictimes.com/news/newsblogs/us-iran-war-live-updates-us-airstrikes-iran-tehran-donald-trump-strait-of-hormuz-ceasefire-middle-east-tension-kuwait-latest-news-updates-oil-prices-crude-oil/liveblog/132488826.cms",
+      "time": "2026-07-19T00:39:05",
+      "country": "Iran",
+      "title_ur": "US-Iran War LIVE: امریکہ نے امریکی فوجیوں پر مہلک حملے کے بعد پاسداران انقلاب کو 'تیزی سے سزا دینے' کے لیے ایران پر نئے فضائی حملے شروع کیے",
+      "desc_ur": "US-Iran War News Live Updates: امریکی افواج نے ہفتے کے روز (مقامی وقت کے مطابق) ایران کے خلاف \"نئے فضائی حملے\" شروع کیے، جس میں ایران کے اسلامی انقلابی گارڈ کور (IRGC) کو نشانہ بنایا گیا، جس کا مقصد تہران کی آبنائے H میں تجارتی جہاز رانی کو خطرے میں ڈالنے کی صلاحیت کو کم کرنا ہے۔"
+    },
+    {
+      "title": "FIFA toasts World Cup triumph as tournament draws to close",
+      "desc": "It was supposed to be the World Cup weighed down by problems: sky-high prices, geopolitical tension, the shadow of conflict and the threat of brutal summer heat across the three host nations.The three host nations -- Canada, Mexico and the United States -- al…",
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/articles/fifa-toasts-world-cup-triumph-003834290.html",
+      "time": "2026-07-19T00:38:34",
+      "country": "US",
+      "title_ur": "فیفا نے ورلڈ کپ جیتنے کا اعلان کیا کیونکہ ٹورنامنٹ ختم ہونے کو ہے۔",
+      "desc_ur": "سمجھا جاتا تھا کہ یہ ورلڈ کپ مسائل کی زد میں ہے: آسمانی قیمتیں، جغرافیائی سیاسی تناؤ، تنازعات کے سائے اور تین میزبان ممالک میں گرمی کی شدید گرمی کا خطرہ۔ تین میزبان ممالک کینیڈا، میکسیکو اور ریاستہائے متحدہ…"
+    },
+    {
+      "title": "Two U.S. Service Members Killed, One Missing in Iran Strike on Jordan",
+      "desc": "Two U.S. service members were killed and one remains missing after Iran struck American forces in Jordan, U.S. Central Command said Saturday.\nThe post Two U.S. Service Members Killed, One Missing in Iran Strike on Jordan appeared first on Breitbart.",
+      "source": "Breitbart News",
+      "url": "https://www.breitbart.com/middle-east/2026/07/18/us-service-members-killed-iran-strike-jordan-centcom/",
+      "time": "2026-07-19T00:33:32",
+      "country": "Iran",
+      "title_ur": "اردن پر ایران کے حملے میں دو امریکی فوجی ہلاک، ایک لاپتہ",
+      "desc_ur": "امریکی سینٹرل کمانڈ نے ہفتے کے روز کہا کہ اردن میں ایران کی طرف سے امریکی افواج پر حملے کے بعد دو امریکی فوجی ہلاک اور ایک لاپتہ ہے۔\nThe post اردن پر ایرانی حملے میں دو امریکی سروس ارکان ہلاک، ایک لاپتہ appeared first on Breitbart."
     }
   ],
   "pakistan": [
     {
-      "title": "Europe's Heatwave Is Becoming an Energy Crisis",
-      "desc": "The intense early summer heatwave in Europe is warming the biggest rivers and drying up their water levels, disrupting energy deliveries, power generation, and key supply chain routes. The heatwaves in Europe started as early as June, with record-breaking tem…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Europes-Heatwave-Is-Becoming-an-Energy-Crisis.html",
-      "time": "2026-07-18T23:00:00",
+      "title": "US forces redirect 5 commercial vessels, disable 1 after resumption of naval blockade on Iran",
+      "desc": "American forces have resumed naval blockade measures against Iran.  US naval forces redirected five commercial vessels and disabled one tanker.  The USS Donald Cook conducted operations enforcing the ongoing blockade.  This action follows the collapse of a re…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-forces-redirect-5-commercial-vessels-disable-1-after-resumption-of-naval-blockade-on-iran/articleshow/132488868.cms",
+      "time": "2026-07-19T00:56:06",
       "country": "Pakistan",
-      "title_ur": "یورپ کی ہیٹ ویو توانائی کا بحران بن رہی ہے۔",
-      "desc_ur": "یورپ میں گرمی کی ابتدائی شدید لہر سب سے بڑے دریاؤں کو گرم کر رہی ہے اور ان کے پانی کی سطح کو خشک کر رہی ہے، توانائی کی ترسیل، بجلی کی پیداوار اور سپلائی چین کے کلیدی راستوں میں خلل ڈال رہی ہے۔ یورپ میں ہیٹ ویو جون کے اوائل میں شروع ہوئی، ریکارڈ توڑ درجہ حرارت کے ساتھ…"
+      "title_ur": "امریکی افواج نے ایران پر بحری ناکہ بندی دوبارہ شروع کرنے کے بعد 5 تجارتی جہازوں کو ری ڈائریکٹ کیا، ایک کو ناکارہ بنا دیا",
+      "desc_ur": "امریکی افواج نے ایران کے خلاف بحری ناکہ بندی کے اقدامات دوبارہ شروع کر دیے ہیں۔  امریکی بحری افواج نے پانچ تجارتی جہازوں کو ری ڈائریکٹ کیا اور ایک ٹینکر کو ناکارہ کردیا۔  یو ایس ایس ڈونلڈ کک نے جاری ناکہ بندی کو نافذ کرنے کے لیے آپریشن کیا۔  یہ کارروائی دوبارہ کے خاتمے کے بعد ہے…"
+    },
+    {
+      "title": "Nigerians yet to benefit from higher crude prices — Olatide",
+      "desc": "Jeremiah Olatide discusses how global conflicts and disruptions to the Strait of Hormuz affected crude oil prices and Nigeria’s petroleum industry.\n\nRead More: https://punchng.com/nigerians-yet-to-benefit-from-higher-crude-prices-olatide/",
+      "source": "The Punch",
+      "url": "https://punchng.com/nigerians-yet-to-benefit-from-higher-crude-prices-olatide/",
+      "time": "2026-07-19T00:09:10",
+      "country": "Pakistan",
+      "title_ur": "نائجیریا کے باشندوں کو ابھی تک خام تیل کی اونچی قیمتوں سے فائدہ نہیں ہونا ہے۔",
+      "desc_ur": "Jeremiah Olatide نے اس بات پر تبادلہ خیال کیا کہ کس طرح عالمی تنازعات اور آبنائے ہرمز میں رکاوٹوں نے خام تیل کی قیمتوں اور نائیجیریا کی پٹرولیم صنعت کو متاثر کیا۔\n\nمزید پڑھیں: https://punchng.com/nigerians-yet-to-benefit-from-higher-crude-prices-olatide/"
     }
   ],
   "business": {
-    "quote": "Your most unhappy customers are your greatest source of learning.",
-    "author": "Bill Gates",
-    "quote_ur": "آپ کے سب سے ناخوش گاہک سیکھنے کا سب سے بڑا ذریعہ ہوتے ہیں۔"
+    "quote": "Time is more valuable than money. You can get more money, but you cannot get more time.",
+    "author": "Jim Rohn",
+    "quote_ur": "وقت پیسے سے زیادہ قیمتی ہے۔ آپ مزید پیسے حاصل کر سکتے ہیں، لیکن مزید وقت نہیں۔"
   },
   "weather": {
     "city": "Lahore",
@@ -177,7 +187,7 @@
         "date": "2026-07-20",
         "day": "پیر",
         "high": 36,
-        "low": 29,
+        "low": 30,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
         "precip": 88
@@ -204,7 +214,7 @@
         "date": "2026-07-23",
         "day": "جمعرات",
         "high": 31,
-        "low": 24,
+        "low": 25,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
         "precip": 86
@@ -221,8 +231,8 @@
       {
         "date": "2026-07-25",
         "day": "ہفتہ",
-        "high": 30,
-        "low": 26,
+        "high": 32,
+        "low": 25,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
         "precip": 70
