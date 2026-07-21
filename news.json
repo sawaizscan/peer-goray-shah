@@ -1,207 +1,167 @@
 {
-  "generated": "2026-07-21T12:21:12Z",
+  "generated": "2026-07-21T14:32:32Z",
   "world": [
     {
-      "title": "How the World Cup has affected Everton",
-      "desc": "Iliman Ndiaye is one of Everton's biggest assets and was at the centre of transfer talk before the World Cup. It remains to be seen whether the World Cup reignites speculation, but Everton will hope it stays quiet as Ndiaye is arguably their most creative pla…",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/sport/football/articles/c151417pxpgo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "time": "2026-07-20T12:17:50",
-      "country": "International",
-      "title_ur": "ورلڈ کپ نے ایورٹن کو کس طرح متاثر کیا ہے۔",
-      "desc_ur": "Iliman Ndiaye Everton کے سب سے بڑے اثاثوں میں سے ایک ہیں اور ورلڈ کپ سے قبل ٹرانسفر ٹاک کے مرکز میں تھے۔ یہ دیکھنا باقی ہے کہ آیا ورلڈ کپ قیاس آرائیوں کو پھر سے متحرک کرتا ہے، لیکن ایورٹن امید کرے گا کہ یہ خاموش رہے گا کیونکہ Ndiaye ان کا سب سے تخلیقی پلا ہے…"
-    },
-    {
-      "title": "The 10 best moments from a cursed World Cup",
-      "desc": "From Enzo Fernández’s red card to the Haaland-Bellingham bromance, here are our favourite moments from what has been a particularly cursed World Cup",
-      "source": "Dazed",
-      "url": "https://www.dazeddigital.com/life-culture/article/70670/1/10-best-moments-from-fifa-2026-world-cup-cursed-lamine-yamal-haalingham?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-10-best-moments-from-a-cursed-world-cup",
-      "time": "2026-07-20T12:17:00",
-      "country": "International",
-      "title_ur": "ملعون ورلڈ کپ کے 10 بہترین لمحات",
-      "desc_ur": "Enzo Fernández کے ریڈ کارڈ سے Haaland-Bellingham bromance تک، یہاں ہمارے پسندیدہ لمحات ہیں جو خاص طور پر ملعون ورلڈ کپ رہا ہے۔"
-    },
-    {
-      "title": "The 10 best moments from the 2026 World Cup",
-      "desc": "From Enzo Fernández’s red card to the Haaland-Bellingham bromance, here are our favourite moments from what has been a particularly cursed World Cup",
-      "source": "Dazed",
-      "url": "https://www.dazeddigital.com/life-culture/article/70670/1/10-best-moments-from-fifa-2026-world-cup-cursed-lamine-yamal-haalingham?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=the-10-best-moments-from-the-2026-world-cup",
-      "time": "2026-07-20T12:17:00",
-      "country": "International",
-      "title_ur": "2026 ورلڈ کپ کے 10 بہترین لمحات",
-      "desc_ur": "Enzo Fernández کے ریڈ کارڈ سے Haaland-Bellingham bromance تک، یہاں ہمارے پسندیدہ لمحات ہیں جو خاص طور پر ملعون ورلڈ کپ رہا ہے۔"
-    },
-    {
-      "title": "James Hardie Industries plc (JHX) Recovered Following Easing Middle East Conflict and Strong Outlook",
-      "desc": "L1 Capital, an investment management firm, released its “L1 Long Short Fund” second-quarter 2026 investor letter. A copy of the letter can be downloaded here...",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/james-hardie-industries-plc-jhx-121542725.html",
-      "time": "2026-07-20T12:15:42",
-      "country": "US",
-      "title_ur": "جیمز ہارڈی انڈسٹریز پی ایل سی (جے ایچ ایکس) مشرق وسطیٰ کے تنازعات اور مضبوط آؤٹ لک میں نرمی کے بعد بحال",
-      "desc_ur": "L1 Capital، ایک سرمایہ کاری کے انتظامی ادارے نے اپنا \"L1 Long Short Fund\" دوسری سہ ماہی 2026 سرمایہ کار خط جاری کیا۔ خط کی ایک کاپی یہاں سے ڈاؤن لوڈ کی جا سکتی ہے..."
-    },
-    {
-      "title": "Haskel urges Israel to ban Zohran Mamdani from entering country",
-      "desc": "MK Sharren Haskel calls on Israeli government to declare New York City mayoral candidate Zohran Mamdani persona non grata, citing his calls to arrest Prime Minister Benjamin Netanyahu, support for boycotts against Israel.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/430458",
-      "time": "2026-07-20T12:15:07",
-      "country": "Israel",
-      "title_ur": "ہاسکل نے اسرائیل پر زور دیا کہ وہ ظہران ممدانی کے ملک میں داخلے پر پابندی لگائے",
-      "desc_ur": "ایم کے شیرین ہاسکل نے اسرائیلی حکومت سے مطالبہ کیا ہے کہ وہ نیو یارک سٹی کے میئر کے امیدوار ظہران ممدانی کو نان گراٹا قرار دے، اس نے وزیر اعظم بنجمن نیتن یاہو کو گرفتار کرنے کے مطالبات، اسرائیل کے خلاف بائیکاٹ کی حمایت کا حوالہ دیا۔"
-    },
-    {
-      "title": "Don’t believe Andy Burnham’s PR machine",
-      "desc": "As his empty Gaza apology clearly demonstrates, he will not bring the radical change Labour really needs.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/opinions/2026/7/20/dont-believe-andy-burnhams-pr-machine",
-      "time": "2026-07-20T12:15:05",
-      "country": "Israel",
-      "title_ur": "اینڈی برنہم کی پی آر مشین پر یقین نہ کریں۔",
-      "desc_ur": "جیسا کہ اس کی خالی غزہ معافی واضح طور پر ظاہر کرتی ہے، وہ اس بنیادی تبدیلی کو نہیں لائے گا جس کی لیبر کو واقعی ضرورت ہے۔"
-    },
-    {
-      "title": "Gas Tops $4 Again, Oil Hits $82. Here’s Why the Fed Has a Big Problem",
-      "desc": "The post Gas Tops $4 Again, Oil Hits $82. Here’s Why the Fed Has a Big Problem appeared first on 24/7 Wall St..\nInflation looked as though it was finally settling into a more manageable pattern, but energy markets have a habit of rewriting the script. Renewed…",
+      "title": "Newmont Stock Suddenly Offers a Double-Sided Debit Trade on U.S.-Iran Tensions and Upcoming Earnings",
+      "desc": "As the Iran war enters another volatile phase, Newmont (NEM) seemingly makes for a great contrarian trade. Sure, NEM stock is currently sitting on an 88% Strong Sell rating by the Barchart Technical Opinion indicator. However, it’s possible that the escalatio…",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/4a0f62eaf1f5a98c",
-      "time": "2026-07-20T12:13:10",
-      "country": "International",
-      "title_ur": "گیس ایک بار پھر $4 سے اوپر، تیل $82 تک پہنچ گیا۔ یہاں یہ ہے کہ فیڈ کو ایک بڑا مسئلہ کیوں ہے۔",
-      "desc_ur": "The post گیس ایک بار پھر $4 سے اوپر، تیل $82 تک پہنچ گیا۔ یہاں یہ ہے کہ فیڈ کو ایک بڑا مسئلہ کیوں ہے سب سے پہلے 24/7 وال سینٹ پر شائع ہوا\nافراط زر ایسا لگ رہا تھا جیسے یہ آخر کار ایک زیادہ قابل انتظام پیٹرن میں آباد ہو رہا ہے، لیکن توانائی کی منڈیوں کو اسکرپٹ کو دوبارہ لکھنے کی عادت ہے۔ تجدید شدہ…"
-    },
-    {
-      "title": "U.S. Escalates War on Iran, Targeting Civilian Infrastructure as 3 U.S. Soldiers Are Killed",
-      "desc": "The United States is expanding its attacks on Iran after three U.S. soldiers were killed over the weekend, the first U.S. fatalities in the conflict since March. Two U.S. service members were killed in an Iranian attack on a base in Jordan, and a third soldie…",
-      "source": "Democracy Now!",
-      "url": "https://www.democracynow.org/2026/7/20/iran_update",
-      "time": "2026-07-20T12:12:32",
+      "url": "https://biztoc.com/x/ae14671b6f37961a",
+      "time": "2026-07-20T14:31:56",
       "country": "Iran",
-      "title_ur": "امریکہ نے ایران کے خلاف جنگ کو بڑھایا، 3 امریکی فوجیوں کی ہلاکت کے بعد شہری انفراسٹرکچر کو نشانہ بنایا",
-      "desc_ur": "ہفتے کے آخر میں تین امریکی فوجیوں کی ہلاکت کے بعد امریکہ ایران پر اپنے حملوں کو بڑھا رہا ہے، مارچ کے بعد سے اس تنازعے میں پہلی امریکی ہلاکت ہے۔ اردن میں ایک اڈے پر ایرانی حملے میں دو امریکی فوجی ہلاک اور تیسرا فوجی…"
+      "title_ur": "نیومونٹ اسٹاک نے اچانک یو ایس-ایران تناؤ اور آنے والی آمدنیوں پر دو طرفہ ڈیبٹ تجارت کی پیشکش کی",
+      "desc_ur": "جیسے ہی ایران کی جنگ ایک اور غیر مستحکم مرحلے میں داخل ہو رہی ہے، نیومونٹ (NEM) بظاہر ایک زبردست متضاد تجارت کے لیے تیار ہے۔ یقینی طور پر، NEM اسٹاک فی الحال بارچارٹ ٹیکنیکل اوپینین انڈیکیٹر کے ذریعہ 88% مضبوط فروخت کی درجہ بندی پر بیٹھا ہے۔ تاہم، یہ ممکن ہے کہ اضافہ…"
     },
     {
-      "title": "Iran to restore 100M cubic metres of lost gas output in coming months",
-      "desc": "Iran plans to restore 100M cubic metres of gas output soon. WTI crude reaching $130 in July 2026 at 0.4% YES.\nThe post Iran to restore 100M cubic metres of lost gas output in coming months appeared first on Crypto Briefing.",
+      "title": "US gasoline costs back at $4 a gallon as Mideast war reignites",
+      "desc": "US gasoline prices jumped back to an average of $4 per gallon Monday, according to the AAA motor club, as Iran said it was fighting a \"full-scale war\" with the U.S.\nThe post US gasoline costs back at $4 a gallon as Mideast war reignites appeared first on Digi…",
+      "source": "Digital Journal",
+      "url": "https://www.digitaljournal.com/article/us-gasoline-costs-back-at-4-a-gallon-as-mideast-war-reignites/",
+      "time": "2026-07-20T14:30:36",
+      "country": "Iran",
+      "title_ur": "مشرق وسطیٰ کی جنگ کے دوبارہ شروع ہونے پر امریکی پٹرول کی قیمت $4 فی گیلن ہے۔",
+      "desc_ur": "اے اے اے موٹر کلب کے مطابق، پیر کو امریکی پٹرول کی قیمتیں اوسطاً 4 ڈالر فی گیلن تک واپس آگئیں، کیونکہ ایران نے کہا کہ وہ امریکہ کے ساتھ \"مکمل پیمانے پر جنگ\" لڑ رہا ہے۔\nThe post امریکی پٹرول کی قیمت 4 ڈالر فی گیلن پر واپس آگئی جب مشرق وسطیٰ کی جنگ دوبارہ شروع ہوگئی appeared first on Digi…"
+    },
+    {
+      "title": "The Iran War Is Spreading To Drinking Water",
+      "desc": "Iran attacked desalination sites in Kuwait twice in two days over the weekend, authorities in the arid Gulf state said, while Iran reported strikes on one of its plants that supplies drinking water to thousands of people.\nThe second Iranian attack on a desali…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/859e58c03d85b1a5",
+      "time": "2026-07-20T14:30:25",
+      "country": "Iran",
+      "title_ur": "ایران کی جنگ پینے کے پانی تک پھیل رہی ہے۔",
+      "desc_ur": "ایران نے ہفتے کے آخر میں دو دنوں میں دو بار کویت میں ڈی سیلینیشن سائٹس پر حملہ کیا، بنجر خلیجی ریاست کے حکام نے بتایا، جب کہ ایران نے اپنے ایک پلانٹ پر حملے کی اطلاع دی ہے جو ہزاروں لوگوں کو پینے کا پانی فراہم کرتا ہے۔\nدیسالی پر دوسرا ایرانی حملہ..."
+    },
+    {
+      "title": "Mexico economy to grow less than previously expected on trade concerns",
+      "desc": "Oil prices ease after Brent crosses $90 amid escalating U.S.-Iran conflict\nBy Gabriel Burin\nBUENOS AIRES, July 20 (Reuters) - Mexico’s economy will grow more slowly this year and next than previously forecast as concerns over trade rules with the United State…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/6efb82330455820f",
+      "time": "2026-07-20T14:30:18",
+      "country": "Iran",
+      "title_ur": "میکسیکو کی معیشت تجارتی خدشات پر پہلے کی توقع سے کم ترقی کرے گی۔",
+      "desc_ur": "امریکہ ایران تنازعات کے درمیان برینٹ 90 ڈالر سے تجاوز کرنے کے بعد تیل کی قیمتوں میں نرمی\nبذریعہ جبریل برن\nبیونس آئرس، 20 جولائی (رائٹرز) – میکسیکو کی معیشت اس سال اور اگلے سال پہلے کی پیش گوئی کے مقابلے میں زیادہ آہستہ آہستہ ترقی کرے گی کیونکہ ریاستہائے متحدہ کے ساتھ تجارتی قوانین پر خدشات کے باعث…"
+    },
+    {
+      "title": "Iran in ‘full-scale war’ with US, economy hit hardest",
+      "desc": "Iran is in a full-scale war with the US, impacting its economy. Strait of Hormuz traffic normal by August 31 at 14.5% YES.\nThe post Iran in ‘full-scale war’ with US, economy hit hardest appeared first on Crypto Briefing.",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-to-restore-100m-cubic-metres-of-lost-gas-output-in-coming-months/",
-      "time": "2026-07-20T12:11:47",
+      "url": "https://cryptobriefing.com/iran-in-full-scale-war-with-us-economy-hit-hardest/",
+      "time": "2026-07-20T14:29:26",
       "country": "Iran",
-      "title_ur": "ایران آنے والے مہینوں میں 100 ملین کیوبک میٹر گیس کی کھوئی ہوئی پیداوار بحال کرے گا۔",
-      "desc_ur": "ایران جلد ہی 100 ملین کیوبک میٹر گیس کی پیداوار بحال کرنے کا ارادہ رکھتا ہے۔ WTI کروڈ جولائی 2026 میں 0.4% ہاں $130 تک پہنچ گیا۔\nThe post ایران آنے والے مہینوں میں 100 ملین کیوبک میٹر کھوئی ہوئی گیس کی پیداوار بحال کرے گا appeared first on Crypto Briefing."
+      "title_ur": "ایران امریکہ کے ساتھ 'مکمل جنگ' میں، معیشت سب سے زیادہ متاثر",
+      "desc_ur": "ایران امریکہ کے ساتھ مکمل جنگ میں ہے جس سے اس کی معیشت متاثر ہو رہی ہے۔ آبنائے ہرمز ٹریفک 31 اگست تک 14.5% پر معمول پر ہے ہاں۔\nThe post ایران امریکا کے ساتھ ’مکمل جنگ‘ میں، معیشت کو سب سے زیادہ نقصان پہنچا appeared first on Crypto Briefing."
     },
     {
-      "title": "Andy Burnham takes over as UK prime minister, calls for 'new political model'",
-      "desc": "Andy Burnham enters Downing Street vowing to shift power away from London, but his past criticism of Trump could create early friction with Washington.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/world/andy-burnham-takes-over-uk-prime-minister-calls-new-political-model",
-      "time": "2026-07-20T12:11:07",
-      "country": "UK",
-      "title_ur": "اینڈی برنہم نے برطانیہ کے وزیر اعظم کا عہدہ سنبھال لیا، 'نئے سیاسی ماڈل' کا مطالبہ",
-      "desc_ur": "اینڈی برنہم ڈاوننگ اسٹریٹ میں داخل ہوئے اور اقتدار کو لندن سے دور منتقل کرنے کا عزم کرتے ہوئے، لیکن ٹرمپ پر ان کی ماضی کی تنقید واشنگٹن کے ساتھ ابتدائی رگڑ پیدا کر سکتی ہے۔"
-    },
-    {
-      "title": "Iran warns US allies of consequences in Strait of Hormuz amid ongoing conflict",
-      "desc": "Iran warns US allies of consequences in the Strait of Hormuz amid ongoing conflict. Traffic normalization by August 31 at 14.5% YES.\nThe post Iran warns US allies of consequences in Strait of Hormuz amid ongoing conflict appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-warns-us-allies-of-consequences-in-strait-of-hormuz-amid-ongoing-conflict/",
-      "time": "2026-07-20T12:09:34",
+      "title": "Yemen’s Houthis declare naval blockade on Saudi Arabia, widening threat to global oil supplies",
+      "desc": "Iran had pressed the Houthis to close the Bab el-Mandeb gateway to the Red Sea if the US continued to attack Iranian power infrastructure.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/07/20/world-news/yemens-houthis-declare-naval-blockade-on-saudi-arabia-widening-threat-to-global-oil-supplies/",
+      "time": "2026-07-20T14:29:10",
       "country": "Iran",
-      "title_ur": "ایران نے امریکی اتحادیوں کو آبنائے ہرمز میں جاری تنازع کے دوران نتائج سے خبردار کیا ہے۔",
-      "desc_ur": "ایران نے امریکی اتحادیوں کو آبنائے ہرمز میں جاری تنازع کے دوران نتائج سے خبردار کیا ہے۔ 31 اگست تک ٹریفک معمول پر 14.5% ہاں۔\nThe post ایران نے امریکی اتحادیوں کو آبنائے ہرمز میں جاری تنازع کے درمیان نتائج سے خبردار کردیا appeared first on Crypto Briefing."
+      "title_ur": "یمن کے حوثیوں کا سعودی عرب پر بحری ناکہ بندی کا اعلان، عالمی تیل کی سپلائی کو خطرہ بڑھ گیا",
+      "desc_ur": "ایران نے حوثیوں پر بحیرہ احمر کے باب المندب گیٹ وے کو بند کرنے کے لیے دباؤ ڈالا تھا اگر امریکہ ایرانی پاور انفراسٹرکچر پر حملے جاری رکھے۔"
     },
     {
-      "title": "German energy crisis caused by ‘lack of Russian gas’ – Merz",
-      "desc": "Chancellor Friedrich Merz says Germany’s prolonged energy crisis was caused by the loss of Russian gas supplies as factories close and energy costs soar",
-      "source": "RT",
-      "url": "https://www.rt.com/news/643254-germany-crisis-russian-gas/",
-      "time": "2026-07-20T12:09:14",
-      "country": "Russia",
-      "title_ur": "جرمن توانائی کا بحران 'روسی گیس کی کمی' کی وجہ سے ہوا - مرز",
-      "desc_ur": "چانسلر فریڈرک مرز کا کہنا ہے کہ جرمنی کا توانائی کا طویل بحران روسی گیس کی سپلائی کے نقصان کی وجہ سے ہوا کیونکہ فیکٹریاں بند ہو گئیں اور توانائی کی قیمتیں بڑھ گئیں۔"
+      "title": "How is \"Our Great Negotiators\" doing? Nobody negotiates like him. Let's check in on all the progress since Netanyahu hoodwinked him into attacking Iran. Wow, not really impressed TBH [Facepalm]",
+      "desc": "How is \"Our Great Negotiators\" doing? Nobody negotiates like him. Let's check in on all the progress since Netanyahu hoodwinked him into attacking Iran. Wow, not really impressed TBH",
+      "source": "Fark.com",
+      "url": "https://www.fark.com/comments/14136466/How-is-Our-Great-Negotiators-doing-Nobody-negotiates-like-him-Lets-check-in-on-all-progress-since-Netanyahu-hoodwinked-him-into-attacking-Iran-Wow-not-really-impressed-TBH",
+      "time": "2026-07-20T14:27:45",
+      "country": "Iran",
+      "title_ur": "\"ہمارے عظیم مذاکرات کار\" کیسے کر رہے ہیں؟ کوئی بھی اس کی طرح مذاکرات نہیں کرتا۔ آئیے تمام پیشرفت کا جائزہ لیتے ہیں جب سے نیتن یاہو نے اسے ایران پر حملہ کرنے کا جھانسہ دیا۔ واہ، واقعی متاثر نہیں TBH [Facepalm]",
+      "desc_ur": "\"ہمارے عظیم مذاکرات کار\" کیسے کر رہے ہیں؟ کوئی بھی اس کی طرح مذاکرات نہیں کرتا۔ آئیے تمام پیشرفت کا جائزہ لیتے ہیں جب سے نیتن یاہو نے اسے ایران پر حملہ کرنے کا جھانسہ دیا۔ واہ، واقعی متاثر نہیں TBH"
     },
     {
-      "title": "Current geopolitical crises reinforce need to strengthen India’s agricultural resilience, says top official of leading farm solution firm",
-      "desc": "India must enhance agricultural resilience amid geopolitical crises, emphasizing reduced dependence on imported fertilizers, says SML Ltd’s ED.",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/agri-business/current-geopolitical-crises-reinforce-need-to-strengthen-indias-agricultural-resilience-says-top-official-of-leading-farm-solution-firm/article71245066.ece",
-      "time": "2026-07-20T12:09:09",
-      "country": "India",
-      "title_ur": "سرکردہ فارم حل فرم کے اعلیٰ عہدیدار کا کہنا ہے کہ موجودہ جغرافیائی سیاسی بحران ہندوستان کی زرعی لچک کو مضبوط کرنے کی ضرورت کو تقویت دیتے ہیں",
-      "desc_ur": "ایس ایم ایل لمیٹڈ کے ای ڈی کا کہنا ہے کہ ہندوستان کو جغرافیائی سیاسی بحرانوں کے درمیان زرعی لچک کو بڑھانا چاہیے، درآمدی کھادوں پر انحصار کم کرنے پر زور دینا چاہیے۔"
-    },
-    {
-      "title": "Trump Makes Eye-Opening Declaration About When He Wants World Cup Back In U.S.",
-      "desc": "What exactly did the president mean?",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/donald-trump-world-cup-host-while-im-still-around_n_6a5dd80de4b0ab756517aebf",
-      "time": "2026-07-20T12:08:59",
+      "title": "Letting Fraudsters Run Wild, Trump Justice Department Abandons Corporate Crime Enforcement",
+      "desc": "US President Donald Trump's Justice Department is systematically taking a softer approach to corporate crime, letting companies and executives that have admitted to wrongdoing off the hook with no charges.The Wall Street Journal reported over the weekend that…",
+      "source": "Common Dreams",
+      "url": "https://www.commondreams.org/news/trump-corporate-crime-enforcement",
+      "time": "2026-07-20T14:26:28",
       "country": "US",
-      "title_ur": "ٹرمپ نے آنکھیں کھولنے والا اعلان کیا جب وہ امریکہ میں ورلڈ کپ واپس کرنا چاہتے ہیں۔",
-      "desc_ur": "صدر کا اصل مطلب کیا تھا؟"
+      "title_ur": "فراڈ کرنے والوں کو جنگل میں بھاگنے دیتے ہوئے، ٹرمپ کے محکمہ انصاف نے کارپوریٹ کرائم انفورسمنٹ کو ترک کر دیا۔",
+      "desc_ur": "امریکی صدر ڈونلڈ ٹرمپ کا محکمہ انصاف منظم طریقے سے کارپوریٹ جرائم کے لیے نرم رویہ اختیار کر رہا ہے، جس سے کمپنیوں اور ایگزیکٹوز کو بغیر کسی الزام کے غلط کام کرنے کا اعتراف کرنے کی اجازت دی جا رہی ہے۔ وال سٹریٹ جرنل نے ہفتے کے آخر میں رپورٹ کیا کہ…"
     },
     {
-      "title": "Hamas names Khalil Al-Hayya as new leader, statement says",
-      "desc": "Khalil Al-Hayya has been named Hamas's overall leader by the militant group.  He replaces Yahya Sinwar, who died in combat with Israeli forces.  Al-Hayya, the exiled Gaza chief, became a central figure after Sinwar's death.  Ismail Haniyeh was also killed in …",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/hamas-appoints-khalil-al-hayya-as-new-leader-following-yahya-sinwars-death-in-israel-conflict/articleshow/132515148.cms",
-      "time": "2026-07-20T12:08:40",
+      "title": "Despite pledging nearly $100 million, Israel's standing abroad continued to decline",
+      "desc": "Government documents and U.S. filings reveal an unprecedented investment in public diplomacy and influence campaigns since October 7",
+      "source": "Haaretz",
+      "url": "https://www.haaretz.com/israel-news/security-aviation/2026-07-20/ty-article/.premium/despite-pledging-nearly-100m-israels-standing-abroad-continued-to-decline/0000019f-7a42-de20-addf-7a4a69760000",
+      "time": "2026-07-20T14:26:14",
       "country": "Israel",
-      "title_ur": "بیان میں کہا گیا ہے کہ حماس نے خلیل الحیا کو نیا سربراہ نامزد کیا ہے۔",
-      "desc_ur": "خلیل الحیا کو عسکریت پسند گروپ نے حماس کا مجموعی سربراہ نامزد کیا ہے۔  انہوں نے یحییٰ سنوار کی جگہ لی، جو اسرائیلی افواج کے ساتھ لڑائی میں مارے گئے۔  غزہ کے جلاوطن سربراہ الحیا سنوار کی موت کے بعد مرکزی شخصیت بن گئے۔  اسماعیل ہانیہ بھی اس حملے میں مارے گئے..."
+      "title_ur": "تقریباً 100 ملین ڈالر کا وعدہ کرنے کے باوجود، اسرائیل کی بیرون ملک حیثیت میں مسلسل کمی آتی رہی",
+      "desc_ur": "سرکاری دستاویزات اور امریکی فائلنگ سے پتہ چلتا ہے کہ 7 اکتوبر سے عوامی سفارت کاری اور اثر و رسوخ کی مہموں میں بے مثال سرمایہ کاری ہوئی ہے۔"
+    },
+    {
+      "title": "Ukraine hitting civilians because it’s all it can do – former US officer",
+      "desc": "Kiev is hitting civilian targets in Russia because it can’t reach reinforced military sites, ex-US Army officer tells RT Read Full Article at RT.com",
+      "source": "RT",
+      "url": "https://www.rt.com/russia/643248-ukraine-hitting-civilians-only-thing-it-can-do/",
+      "time": "2026-07-20T14:25:25",
+      "country": "Russia",
+      "title_ur": "یوکرین شہریوں کو مار رہا ہے کیونکہ یہ سب کچھ کر سکتا ہے - سابق امریکی افسر",
+      "desc_ur": "کیف روس میں شہری اہداف کو نشانہ بنا رہا ہے کیونکہ وہ مضبوط فوجی مقامات تک نہیں پہنچ سکتا، سابق امریکی فوجی افسر نے RT کو بتایا RT.com پر مکمل مضمون پڑھیں"
+    },
+    {
+      "title": "Following Rabbi Lando's remarks: The advice Smotrich received from Rabbi Ariel",
+      "desc": "Finance Minister Bezalel Smotrich addressed comments made by Rabbi Dov Lando, shared advice he received from Rabbi Yaakov Ariel, and praised the Religious Zionist approach.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/430464",
+      "time": "2026-07-20T14:23:59",
+      "country": "US",
+      "title_ur": "ربی لینڈو کے تبصروں کے بعد: سموٹریچ کو ربی ایریل سے ملنے والا مشورہ",
+      "desc_ur": "وزیر خزانہ Bezalel Smotrich نے Rabbi Dov Lando کے تبصروں سے خطاب کیا، ربی Yaakov Ariel سے موصول ہونے والے مشورے کا اشتراک کیا، اور مذہبی صہیونی نقطہ نظر کی تعریف کی۔"
+    },
+    {
+      "title": "Iran is turning into the sort of ‘forever war’ that Donald Trump promised to avoid",
+      "desc": "There is no end in sight to the conflict between the US and Iran.",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/iran-is-turning-into-the-sort-of-forever-war-that-donald-trump-promised-to-avoid-287899",
+      "time": "2026-07-20T14:22:33",
+      "country": "Iran",
+      "title_ur": "ایران اس طرح کی ’ہمیشہ کی جنگ‘ میں بدل رہا ہے جس سے بچنے کا ڈونلڈ ٹرمپ نے وعدہ کیا تھا۔",
+      "desc_ur": "امریکہ اور ایران کے درمیان تنازع کا کوئی خاتمہ نظر نہیں آتا۔"
+    },
+    {
+      "title": "Trump Is Ready for All-Out War in Iran. There’s Just One Catch.",
+      "desc": "Forget writing a check you can’t cash; President Donald Trump is escalating a war that the U.S. military can’t wage.Trump has made it more than clear that he’s done negotiating with Tehran, after the U.S. military launched yet another wave of strikes against …",
+      "source": "The New Republic",
+      "url": "https://newrepublic.com/post/213240/donald-trump-war-iran-weapons-stockpile",
+      "time": "2026-07-20T14:21:54",
+      "country": "Iran",
+      "title_ur": "ٹرمپ ایران میں آل آؤٹ جنگ کے لیے تیار ہیں۔ بس ایک کیچ ہے۔",
+      "desc_ur": "ایک چیک لکھنا بھول جائیں جسے آپ نقد نہیں کر سکتے۔ صدر ڈونلڈ ٹرمپ ایک ایسی جنگ کو بڑھا رہے ہیں جسے امریکی فوج نہیں چھیڑ سکتی۔ ٹرمپ نے یہ بات زیادہ واضح کر دی ہے کہ انہوں نے تہران کے ساتھ مذاکرات کیے ہیں، امریکی فوج کی جانب سے اس کے خلاف حملوں کی ایک اور لہر شروع کرنے کے بعد…"
+    },
+    {
+      "title": "Iranian attack sets Kavomaleas tanker ablaze in Strait of Hormuz crisis",
+      "desc": "Iranian attack sets Kavomaleas tanker ablaze in the Strait of Hormuz. Traffic normal by August 31 at 14.5% YES.\nThe post Iranian attack sets Kavomaleas tanker ablaze in Strait of Hormuz crisis appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iranian-attack-sets-kavomaleas-tanker-ablaze-in-strait-of-hormuz-crisis/",
+      "time": "2026-07-20T14:21:50",
+      "country": "Iran",
+      "title_ur": "ایرانی حملے نے آبنائے ہرمز بحران میں Kavomaleas ٹینکر کو آگ لگا دی۔",
+      "desc_ur": "ایرانی حملے نے آبنائے ہرمز میں Kavomaleas ٹینکر کو آگ لگا دی۔ 31 اگست تک ٹریفک معمول پر 14.5% ہاں۔\nThe post ایرانی حملے نے آبنائے ہرمز بحران میں Kavomaleas ٹینکر کو آگ لگا دی appeared first on Crypto Briefing."
+    },
+    {
+      "title": "Canada's annual inflation rate cools below forecast",
+      "desc": "Canada's annual inflation rate cooled more than expected to 2.8% in June, data showed today, as gasoline costs fell sharply after the US and Iran signed their memorandum of understanding to end the war.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/business/2026/0720/1584243-canada-inflation-rate/",
+      "time": "2026-07-20T14:21:14",
+      "country": "Iran",
+      "title_ur": "کینیڈا کی سالانہ افراط زر کی شرح پیش گوئی سے کم ہے۔",
+      "desc_ur": "کینیڈا کی سالانہ افراط زر کی شرح جون میں توقع سے زیادہ 2.8 فیصد تک ٹھنڈی ہو گئی، آج کے اعداد و شمار سے ظاہر ہوتا ہے کہ امریکہ اور ایران کی جانب سے جنگ کے خاتمے کے لیے مفاہمت کی یادداشت پر دستخط کرنے کے بعد پٹرول کی قیمتوں میں تیزی سے کمی واقع ہوئی۔"
     }
   ],
   "pakistan": [
     {
-      "title": "India bonds steady after swinging with oil",
-      "desc": "On Monday, Indian government bonds remained stable as crude oil prices dipped, driven by renewed optimism surrounding U.S.-Iran negotiations. The benchmark 2036 bond yield held steady, mirroring previous trading patterns. Foreign investors returned to the Ind…",
+      "title": "How a Houthi blockade in the Red Sea tightens Iran's grip on global energy supplies",
+      "desc": "Yemen's Houthis declared a maritime blockade against Saudi Arabia on Monday. This action escalates regional conflict and impacts global energy markets significantly. The Red Sea has become a critical alternative oil export route for the Gulf. Disruptions here…",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-steady-after-swinging-with-oil/articleshow/132515342.cms",
-      "time": "2026-07-20T12:17:13",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/how-a-houthi-blockade-in-the-red-sea-tightens-irans-grip-on-global-energy-supplies/articleshow/132517509.cms",
+      "time": "2026-07-20T14:05:41",
       "country": "Pakistan",
-      "title_ur": "تیل کے ساتھ جھولنے کے بعد ہندوستان کے تعلقات مستحکم ہیں۔",
-      "desc_ur": "پیر کو، ہندوستانی حکومت کے بانڈز مستحکم رہے کیونکہ خام تیل کی قیمتوں میں کمی واقع ہوئی، جس کی وجہ سے امریکہ-ایران مذاکرات کے ارد گرد نئی امید پیدا ہوئی۔ بینچ مارک 2036 بانڈ کی پیداوار مستحکم رہی، جو پچھلے تجارتی نمونوں کی عکاسی کرتی ہے۔ غیر ملکی سرمایہ کار بھارت میں واپس آئے…"
-    },
-    {
-      "title": "Mediators said to propose reset in US-Iran relations",
-      "desc": "Mediators from Pakistan and Qatar issued a joint proposal on Monday to resolve the renewed conflict between the United States and Iran, Iran's ISNA reported. The proposal would see the two countries r...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/541bcaf163913f49",
-      "time": "2026-07-20T12:13:47",
-      "country": "Pakistan",
-      "title_ur": "ثالثوں نے کہا کہ وہ امریکہ اور ایران تعلقات میں بحالی کی تجویز پیش کریں۔",
-      "desc_ur": "ایران کے ISNA کی خبر کے مطابق، پاکستان اور قطر کے ثالثوں نے پیر کو امریکہ اور ایران کے درمیان نئے سرے سے تنازع کو حل کرنے کے لیے ایک مشترکہ تجویز جاری کی۔ اس تجویز سے دونوں ممالک کے درمیان..."
-    },
-    {
-      "title": "Pakistan seeks Canada's support for restoration of Indus Waters Treaty",
-      "desc": "Pakistan's Deputy Prime Minister Ishaq Dar requested Canadian assistance for the Indus Water Treaty.  He urged Canada to support India's immediate restoration of the treaty agreement.  Dar stated India added a new dynamic to the volatile security situation.  …",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/pakistan-seeks-canadas-support-for-restoration-of-indus-waters-treaty/articleshow/132515244.cms",
-      "time": "2026-07-20T12:09:38",
-      "country": "Pakistan",
-      "title_ur": "پاکستان انڈس واٹر ٹریٹی کی بحالی کے لیے کینیڈا کی حمایت چاہتا ہے۔",
-      "desc_ur": "پاکستان کے نائب وزیر اعظم اسحاق ڈار نے سندھ طاس معاہدے کے لیے کینیڈا سے مدد کی درخواست کی۔  انہوں نے کینیڈا پر زور دیا کہ وہ بھارت کی جانب سے معاہدوں کی فوری بحالی کی حمایت کرے۔  ڈار نے کہا کہ ہندوستان نے سلامتی کی غیر مستحکم صورتحال میں ایک نئی حرکت کا اضافہ کیا ہے۔  …"
-    },
-    {
-      "title": "Oil Tanker Appears to Halt in Hormuz After Iran Targets Vessels",
-      "desc": "An oil tanker appears to have halted in the Strait of Hormuz off Oman after the Iranian Navy again targeted vessels in the waterway, raising concerns about deepening disruptions as Middle East hostilities escalate.",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/oil-tanker-appears-to-halt-in-hormuz-after-iran-targets-vessels/",
-      "time": "2026-07-20T12:04:58",
-      "country": "Pakistan",
-      "title_ur": "ایران کی جانب سے بحری جہازوں کو نشانہ بنانے کے بعد آئل ٹینکر ہرمز میں رکا ہوا دکھائی دیتا ہے۔",
-      "desc_ur": "ایسا لگتا ہے کہ ایک آئل ٹینکر عمان کے قریب آبنائے ہرمز میں رکا ہوا ہے جب ایرانی بحریہ نے آبی گزرگاہ میں ایک بار پھر بحری جہازوں کو نشانہ بنایا، جس سے مشرق وسطیٰ کی دشمنیوں میں اضافے کے باعث رکاوٹوں کو مزید گہرا کرنے کے خدشات بڑھ گئے ہیں۔"
-    },
-    {
-      "title": "Pakistan-Canada Joint Statement: Strengthening Bilateral and Trade Relations",
-      "desc": "At the invitation of Deputy Prime Minister /Minister of Foreign Affairs of the Islamic Republic of Pakistan, Senator Mohammad Ishaq Dar, the Honourable Anita Anand, Minister for Foreign Affairs of Canada paid an official visit to the Islamic Republic of Pakis…",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/pakistan/2026/pakistan-260720-pakistan-mfa01.htm",
-      "time": "2026-07-20T12:00:00",
-      "country": "Pakistan",
-      "title_ur": "پاکستان اور کینیڈا کا مشترکہ بیان: دوطرفہ اور تجارتی تعلقات کو مضبوط بنانا",
-      "desc_ur": "اسلامی جمہوریہ پاکستان کے نائب وزیراعظم/وزیر خارجہ امور سینیٹر محمد اسحاق ڈار کی دعوت پر کینیڈا کی وزیر خارجہ عزت مآب انیتا آنند نے اسلامی جمہوریہ پاکستان کا سرکاری دورہ کیا۔"
+      "title_ur": "بحیرہ احمر میں حوثیوں کی ناکہ بندی کس طرح عالمی توانائی کی فراہمی پر ایران کی گرفت کو سخت کرتی ہے۔",
+      "desc_ur": "یمن کے حوثی باغیوں نے پیر کو سعودی عرب کے خلاف سمندری ناکہ بندی کا اعلان کر دیا۔ یہ عمل علاقائی تنازعات کو بڑھاتا ہے اور عالمی توانائی کی منڈیوں کو نمایاں طور پر متاثر کرتا ہے۔ بحیرہ احمر خلیج کے لیے تیل کی برآمد کا ایک اہم متبادل راستہ بن گیا ہے۔ یہاں رکاوٹیں…"
     }
   ],
   "business": {
