@@ -1,179 +1,158 @@
 {
-  "generated": "2026-07-22T06:24:54Z",
+  "generated": "2026-07-22T09:07:14Z",
   "world": [
     {
-      "title": "Iran attacks Amazon’s data infrastructure in Bahrain, claims retaliation",
-      "desc": "Iran's Islamic Revolutionary Guards reportedly attacked Amazon's data infrastructure in Bahrain. Military action against a Gulf state by July 22 at 51% YES.\nThe post Iran attacks Amazon’s data infrastructure in Bahrain, claims retaliation appeared first on Cr…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-attacks-amazons-data-infrastructure-in-bahrain-claims-retaliation/",
-      "time": "2026-07-21T06:22:38",
-      "country": "Iran",
-      "title_ur": "ایران کا بحرین میں ایمیزون کے ڈیٹا انفراسٹرکچر پر حملہ، جوابی کارروائی کا دعویٰ",
-      "desc_ur": "ایران کے اسلامی انقلابی گارڈز نے مبینہ طور پر بحرین میں ایمیزون کے ڈیٹا انفراسٹرکچر پر حملہ کیا۔ 22 جولائی تک ایک خلیجی ریاست کے خلاف فوجی کارروائی 51% ہاں۔\nThe post ایران کا بحرین میں ایمیزون کے ڈیٹا انفراسٹرکچر پر حملہ، جوابی کارروائی کا دعویٰ appeared first on Cr…"
-    },
-    {
-      "title": "Iran releases currency exchange rates for July 21",
-      "desc": "BAKU, Azerbaijan, July 21. The Central Bank of Iran (CBI) has released the official exchange rates for foreign currencies as of July 21. According to the CBI's announced rates, the value of 39…",
-      "source": "Trend.az",
-      "url": "https://www.trend.az/business/4208532.html",
-      "time": "2026-07-21T06:22:31",
-      "country": "Iran",
-      "title_ur": "ایران نے 21 جولائی کے لیے کرنسی کی شرح تبادلہ جاری کر دی۔",
-      "desc_ur": "باکو، آذربائیجان، 21 جولائی۔ ایران کے مرکزی بینک (سی بی آئی) نے 21 جولائی تک غیر ملکی کرنسیوں کے لیے باضابطہ شرح مبادلہ جاری کر دیا ہے۔ سی بی آئی کے اعلان کردہ نرخوں کے مطابق، 39…"
-    },
-    {
-      "title": "Iran claims attack on US commercial target in Bahrain amid rising tensions",
-      "desc": "Iran's IRGC claims an attack on a US target in Bahrain. Military action against a Gulf state on July 22 at 51% YES.\nThe post Iran claims attack on US commercial target in Bahrain amid rising tensions appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-claims-attack-on-us-commercial-target-in-bahrain-amid-rising-tensions/",
-      "time": "2026-07-21T06:22:09",
-      "country": "Iran",
-      "title_ur": "بڑھتی ہوئی کشیدگی کے درمیان ایران نے بحرین میں امریکی تجارتی ہدف پر حملے کا دعویٰ کیا ہے۔",
-      "desc_ur": "ایران کی IRGC نے بحرین میں امریکی اہداف پر حملے کا دعویٰ کیا ہے۔ 22 جولائی کو ایک خلیجی ریاست کے خلاف فوجی کارروائی 51% ہاں۔\nThe post بڑھتی ہوئی کشیدگی کے درمیان ایران کا بحرین میں امریکی تجارتی ہدف پر حملے کا دعویٰ appeared first on Crypto Briefing."
-    },
-    {
-      "title": "Why integrity matters: Lessons from William Wilberforce",
-      "desc": "Christian Today spoke with Holy Trinity Clapham Rector, Rev Jago Wynne, to hear his thoughts on what integrity looks like from a biblical perspective and why he looks to William Wilberforce for inspiration.",
-      "source": "Christiantoday.com",
-      "url": "https://www.christiantoday.com/news/why-integrity-matters-lessons-from-william-wilberforce",
-      "time": "2026-07-21T06:22:00",
-      "country": "International",
-      "title_ur": "سالمیت کیوں اہمیت رکھتی ہے: ولیم ولبرفورس سے اسباق",
-      "desc_ur": "کرسچن ٹوڈے نے ہولی ٹرنٹی کلیفم کے ریکٹر، ریو جاگو وائن کے ساتھ بات کی تاکہ ان کے خیالات سنیں کہ دیانتداری بائبل کے نقطہ نظر سے کیسی نظر آتی ہے اور وہ ولیم ولبرفورس کی طرف الہام کے لیے کیوں نظر آتے ہیں۔"
-    },
-    {
-      "title": "Man (28) due in court this morning over murder of former UK minister Ann Widdecombe",
-      "desc": "The man was charged last night.",
-      "source": "TheJournal.ie",
-      "url": "https://www.thejournal.ie/man-charged-court-murder-uk-minister-ann-widdecombe-7108717-Jul2026/",
-      "time": "2026-07-21T06:21:59",
+      "title": "FTSE 100 Steadies Near 10,528 as Global Tech Rebound Offsets Weak UK Jobs Data and Burnhams New Agenda",
+      "desc": "The FTSE 100 index remained stable as global tech stocks rebounded, offsetting weak UK employment data. New PM Andy Burnham's cost-of-living measures and geopolitical tensions also influenced market sentiment.",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/ftse-100-steady-global-tech-rebound-uk-economic-uncertainty-1872695",
+      "time": "2026-07-21T09:06:03",
       "country": "UK",
-      "title_ur": "برطانیہ کی سابق وزیر این وِڈکومبے کے قتل کے الزام میں آج صبح آدمی (28) عدالت میں پیش ہو گا۔",
-      "desc_ur": "اس شخص پر کل رات الزام عائد کیا گیا تھا۔"
+      "title_ur": "FTSE 100 سٹیڈیز 10,528 کے قریب گلوبل ٹیک ریباؤنڈ کے طور پر کمزور یوکے جابز ڈیٹا اور برنہمس کے نئے ایجنڈے کو آفسیٹ کرتا ہے",
+      "desc_ur": "ایف ٹی ایس ای 100 انڈیکس مستحکم رہا کیونکہ عالمی ٹیک اسٹاک نے یوکے کے کمزور روزگار کے اعداد و شمار کو پورا کیا۔ نئے وزیر اعظم اینڈی برنہم کے زندگی گزارنے کے اخراجات کے اقدامات اور جغرافیائی سیاسی تناؤ نے بھی مارکیٹ کے جذبات کو متاثر کیا۔"
     },
     {
-      "title": "European banks set for profit boost from lending, trading",
-      "desc": "After a surge in revenue at US banks, European lenders are expected to follow suit this week and next when they report second-quarter earnings, powered by gains from higher interest rates and in some cases from trading and investment banking.",
-      "source": "RTE",
-      "url": "https://www.rte.ie/news/business/2026/0721/1584327-european-banks-set-for-profit-boost-from-lending-trading/",
-      "time": "2026-07-21T06:19:53",
-      "country": "US",
-      "title_ur": "یورپی بینک قرض دینے، تجارت سے منافع میں اضافے کے لیے تیار ہیں۔",
-      "desc_ur": "امریکی بینکوں میں آمدنی میں اضافے کے بعد، یورپی قرض دہندگان سے توقع کی جاتی ہے کہ وہ اس ہفتے اور اگلے ہفتے اس کی پیروی کریں گے جب وہ دوسری سہ ماہی کی آمدنی کی اطلاع دیں گے، جو کہ زیادہ شرح سود سے حاصل ہونے والے فوائد اور کچھ معاملات میں تجارت اور سرمایہ کاری بینکنگ سے حاصل ہے۔"
-    },
-    {
-      "title": "‘We just want to live’: Palestinians in Gaza react to Hamas election",
-      "desc": "There are mixed reactions in Gaza after Khalil al-Hayya is elected Hamas leader.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/7/21/we-just-want-to-live-palestinians-in-gaza-react-to-hamas-election",
-      "time": "2026-07-21T06:18:42",
-      "country": "Israel",
-      "title_ur": "'ہم صرف جینا چاہتے ہیں': غزہ میں فلسطینیوں کا حماس کے انتخابات پر ردعمل",
-      "desc_ur": "خلیل الحیا کے حماس کے سربراہ منتخب ہونے کے بعد غزہ میں ملے جلے ردعمل کا اظہار کیا جا رہا ہے۔"
-    },
-    {
-      "title": "Iran claims strike on Amazon infrastructure in Bahrain",
-      "desc": "The Revolutionary Guards say they targeted Amazon-linked infrastructure, though Bahrain has not confirmed the claim.",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/companies/iran-claims-strike-on-amazon-infrastructure-in-bahrain/article71248201.ece",
-      "time": "2026-07-21T06:16:58",
-      "country": "Iran",
-      "title_ur": "ایران نے بحرین میں ایمیزون کے بنیادی ڈھانچے پر حملے کا دعویٰ کیا ہے۔",
-      "desc_ur": "پاسداران انقلاب کا کہنا ہے کہ انہوں نے ایمیزون سے منسلک انفراسٹرکچر کو نشانہ بنایا، حالانکہ بحرین نے اس دعوے کی تصدیق نہیں کی ہے۔"
-    },
-    {
-      "title": "DOJ opens probe into Harvard's financial aid for alleged discrimination against American students",
-      "desc": "The DOJ is investigating whether Harvard allowed Chinese donors to create scholarships excluding American students, potentially violating the Civil Rights Act.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/harvard-china-financial-aid-probe",
-      "time": "2026-07-21T06:16:10",
-      "country": "US",
-      "title_ur": "DOJ نے امریکی طلباء کے خلاف مبینہ امتیازی سلوک کے لیے ہارورڈ کی مالی امداد کی تحقیقات شروع کر دیں۔",
-      "desc_ur": "DOJ اس بات کی تحقیقات کر رہا ہے کہ آیا ہارورڈ نے چینی عطیہ دہندگان کو امریکی طلباء کو چھوڑ کر اسکالرشپ بنانے کی اجازت دی، جو ممکنہ طور پر شہری حقوق کے قانون کی خلاف ورزی کر رہی ہے۔"
-    },
-    {
-      "title": "Iran claims strike on Amazon's data center in Bahrain",
-      "desc": "Iran's Islamic Revolutionary Guard Corps (IRGC) claimed on Tuesday that it targeted Amazon's data center infrastructure in Bahrain in overnight attacks.The IRGC stressed that the strike was conducted ...",
+      "title": "Bahrain intercepts Iranian air attack",
+      "desc": "The Bahraini Defense Ministry said on Tuesday that the country's air defense systems intercepted several aerial attacks coming from Iran earlier in the day. It condemned the strikes as \"heinous\" and s...",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/6d9600eafd588183",
-      "time": "2026-07-21T06:13:19",
+      "url": "https://biztoc.com/x/dde50a7cc64b9575",
+      "time": "2026-07-21T09:06:00",
       "country": "Iran",
-      "title_ur": "ایران نے بحرین میں ایمیزون کے ڈیٹا سینٹر پر حملے کا دعویٰ کیا ہے۔",
-      "desc_ur": "ایران کے اسلامی انقلابی گارڈ کور (IRGC) نے منگل کے روز دعویٰ کیا کہ اس نے بحرین میں ایمیزون کے ڈیٹا سینٹر کے بنیادی ڈھانچے کو راتوں رات ہونے والے حملوں میں نشانہ بنایا۔ IRGC نے زور دے کر کہا کہ یہ حملہ..."
+      "title_ur": "بحرین نے ایرانی فضائی حملے کو روک دیا۔",
+      "desc_ur": "بحرین کی وزارت دفاع نے منگل کے روز کہا کہ ملک کے فضائی دفاعی نظام نے دن کے اوائل میں ایران سے آنے والے کئی فضائی حملوں کو روک دیا۔ اس نے ہڑتالوں کو \"گھناؤنا\" قرار دیتے ہوئے مذمت کی اور..."
     },
     {
-      "title": "Oil Reverses Gains on Renewed Hope of Peace in Iran",
-      "desc": "Crude oil prices reversed their climb this morning, retreating on reports that efforts are being made to negotiate another ceasefire between the United States and Iran. Brent crude was trading at $88.77 per barrel at the time of writing, down from over $90 pe…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Reverses-Gains-on-Renewed-Hope-of-Peace-in-Iran.html",
-      "time": "2026-07-21T06:09:31",
-      "country": "Iran",
-      "title_ur": "ایران میں امن کی تجدید امید پر تیل نے منافع کو پلٹا دیا۔",
-      "desc_ur": "خام تیل کی قیمتوں نے آج صبح اپنی چڑھائی کو تبدیل کر دیا، ان اطلاعات پر پسپائی اختیار کی کہ امریکہ اور ایران کے درمیان ایک اور جنگ بندی پر بات چیت کی کوششیں کی جا رہی ہیں۔ لکھنے کے وقت برینٹ کروڈ 88.77 ڈالر فی بیرل پر ٹریڈ کر رہا تھا، جو کہ 90 ڈالر فی بیرل سے نیچے…"
+      "title": "Lebanon’s president asks Trump to do what he rarely does: cross Netanyahu",
+      "desc": "Lebanese President Joseph Aoun arrives at the White House on Tuesday with a single delicate mission: to convince President Donald Trump to press Israel into honoring a U.S.-brokered agreement that would pull Israeli troops out of Lebanon and disarm Hezbollah.…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/30117789c8742ff0",
+      "time": "2026-07-21T09:04:56",
+      "country": "Israel",
+      "title_ur": "لبنان کے صدر نے ٹرمپ سے وہ کام کرنے کو کہا جو وہ شاذ و نادر ہی کرتے ہیں: نیتن یاہو کو عبور کریں۔",
+      "desc_ur": "لبنانی صدر جوزف عون منگل کو ایک نازک مشن کے ساتھ وائٹ ہاؤس پہنچے: صدر ڈونلڈ ٹرمپ کو قائل کرنے کے لیے کہ وہ اسرائیل پر دباؤ ڈالے کہ وہ امریکی ثالثی میں کیے گئے معاہدے کا احترام کرے جو لبنان سے اسرائیلی فوجیوں کو نکالے گا اور حزب اللہ کو غیر مسلح کرے گا۔"
     },
     {
-      "title": "Iran’s Nuclear Facilities Have Been Obliterated — and Suggestions Otherwise are Fake News",
-      "desc": "The world is far safer after President Donald J. Trump’s highly successful, decisive precision strikes against the Iranian regime’s key nuclear facilities. Take it from those who actually know: President Trump: “Monumental Damage was done to all Nuclear sites…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4388745/posts",
-      "time": "2026-07-21T06:09:20",
+      "title": "Hormuz tankers on fire, as US, Iran continue attacks: What’s the latest?",
+      "desc": "The White House told Al Jazeera that the US would continue its attacks unless Trump decides otherwise.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/7/21/hormuz-tankers-on-fire-as-us-iran-continue-attacks-whats-the-latest",
+      "time": "2026-07-21T09:04:50",
       "country": "Iran",
-      "title_ur": "ایران کی جوہری تنصیبات کو ختم کر دیا گیا ہے - اور تجاویز دوسری صورت میں جعلی خبریں ہیں",
-      "desc_ur": "ایرانی حکومت کی اہم جوہری تنصیبات کے خلاف صدر ڈونلڈ جے ٹرمپ کے انتہائی کامیاب، فیصلہ کن درست حملوں کے بعد دنیا کہیں زیادہ محفوظ ہے۔ اسے ان لوگوں سے لیں جو حقیقت میں جانتے ہیں: صدر ٹرمپ: \"تمام جوہری سائٹوں کو یادگار نقصان پہنچا تھا…"
+      "title_ur": "ہرمز ٹینکرز میں آگ لگ گئی، امریکہ، ایران کے حملے جاری: تازہ ترین کیا ہے؟",
+      "desc_ur": "وائٹ ہاؤس نے الجزیرہ کو بتایا کہ امریکہ اپنے حملے جاری رکھے گا جب تک کہ ٹرمپ کوئی اور فیصلہ نہیں کرتے۔"
     },
     {
-      "title": "Tantalizers’ shareholders laud return to profitability",
-      "desc": "By Peter Egwuatu The shareholders of Tantalizers Plc have commended its Board of Directors and Management for the company’s return to profitability. The board also assured the shareholders that the company’s emerging growth trajectory was founded on strong op…",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/07/tantalizers-shareholders-laud-return-to-profitability/",
-      "time": "2026-07-21T06:01:23",
+      "title": "U.S. strikes Iran and Houthis threaten Saudi Arabia shipping as mediators push 10-day ceasefire",
+      "desc": "The U.S. completed a fresh round of strikes against Iran on Monday evening as Yemen's Iran-backed Houthis threatened to impose a naval blockade on Saudi Arabia, potentially opening a new front in the Middle East conflict.\nThe latest cycle of tit-for-tat strik…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/36e6da433e1d25e5",
+      "time": "2026-07-21T09:04:48",
+      "country": "Iran",
+      "title_ur": "امریکہ نے ایران پر حملہ کیا اور حوثیوں نے سعودی عرب کو بحری جہاز کو دھمکی دی کیونکہ ثالثوں نے 10 روزہ جنگ بندی کو آگے بڑھایا",
+      "desc_ur": "امریکہ نے پیر کی شام ایران کے خلاف حملوں کا ایک تازہ دور مکمل کیا جب یمن کے ایران کے حمایت یافتہ حوثی باغیوں نے سعودی عرب پر بحری ناکہ بندی کرنے کی دھمکی دی تھی، جس سے مشرق وسطیٰ کے تنازع میں ممکنہ طور پر ایک نیا محاذ کھل سکتا ہے۔\ntit-for-tat سٹرک کا تازہ ترین سائیکل…"
+    },
+    {
+      "title": "IRGC Hit US Base in Jordan, Destroyed Anti-Missile Defense Radar, F-15 Jet - Reports",
+      "desc": "MOSCOW (Sputnik) - Iran's Islamic Revolutionary Guard Corps (IRGC) announced a strike on a US base in Jordan, the destruction of a missile defense radar system and an F-15 fighter jet, Press TV reported on Tuesday.",
+      "source": "Sputnikglobe.com",
+      "url": "https://sputnikglobe.com/20260721/irgc-hit-us-base-in-jordan-destroyed-anti-missile-defense-radar-f-15-jet---reports-1124472054.html",
+      "time": "2026-07-21T09:01:44",
+      "country": "Iran",
+      "title_ur": "IRGC نے اردن میں امریکی اڈے کو نشانہ بنایا، اینٹی میزائل ڈیفنس ریڈار، F-15 جیٹ تباہ کر دیا - رپورٹس",
+      "desc_ur": "ماسکو (اسپوتنک) - ایران کے اسلامی انقلابی گارڈ کور (IRGC) نے اردن میں امریکی اڈے پر حملے، میزائل ڈیفنس ریڈار سسٹم اور ایک F-15 لڑاکا طیارہ تباہ کرنے کا اعلان کیا، پریس ٹی وی نے منگل کو رپورٹ کیا۔"
+    },
+    {
+      "title": "Air Force Guardsman Allegedly Fired by Employer Due to Being Deployed: Lawsuit",
+      "desc": "Christopher Jones, a cybersecurity engineer, claims that his former employer terminated him weeks before deployment, skirting federal USERRA laws.",
+      "source": "Military.com",
+      "url": "https://military.com/air-force-guardsman-allegedly-fired-by-employer-due-to-being-deployed",
+      "time": "2026-07-21T09:01:12",
+      "country": "US",
+      "title_ur": "ایئر فورس گارڈز مین کو تعینات ہونے کی وجہ سے ملازم کے ذریعہ مبینہ طور پر برطرف کردیا گیا: مقدمہ",
+      "desc_ur": "کرسٹوفر جونز، ایک سائبرسیکیوریٹی انجینئر، دعویٰ کرتا ہے کہ اس کے سابق آجر نے وفاقی USERRA قوانین کی خلاف ورزی کرتے ہوئے، تعیناتی سے ہفتے پہلے اسے برطرف کر دیا تھا۔"
+    },
+    {
+      "title": "MORNING GLORY: America is winning its battle with Iran. It’s only a matter of time",
+      "desc": "Iran's nuclear program lies in ruins and its economy collapses, but the question remains when IRGC leader Ahmad Vahidi will accept the reality of defeat.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/opinion/morning-glory-america-winning-battle-iran-matter-time",
+      "time": "2026-07-21T09:00:49",
+      "country": "Iran",
+      "title_ur": "مارننگ گلوری: امریکہ ایران کے ساتھ اپنی جنگ جیت رہا ہے۔ یہ صرف وقت کی بات ہے۔",
+      "desc_ur": "ایران کا جوہری پروگرام کھنڈرات میں پڑا ہوا ہے اور اس کی معیشت تباہ ہو گئی ہے، لیکن یہ سوال باقی ہے کہ IRGC کے رہنما احمد واحدی شکست کی حقیقت کب قبول کریں گے۔"
+    },
+    {
+      "title": "The New York Young Republican Club Has an Antisemitism Problem",
+      "desc": "After a report last fall exposed a racist group chat, Young Republican organizations across the country came under scrutiny. Now, a burner account that appears to have belonged to the NYYRC’s treasurer reveals the extent of the club’s far-right turn.",
+      "source": "New York Magazine",
+      "url": "http://nymag.com/intelligencer/article/new-york-young-republican-club-antisemitism-racism.html",
+      "time": "2026-07-21T09:00:22",
       "country": "International",
-      "title_ur": "ٹینٹلائزرز کے شیئر ہولڈرز منافع میں واپسی کی تعریف کرتے ہیں۔",
-      "desc_ur": "بذریعہ Peter Egwuatu Tantalizers Plc کے شیئر ہولڈرز نے کمپنی کے منافع میں واپسی کے لیے اس کے بورڈ آف ڈائریکٹرز اور مینجمنٹ کی تعریف کی ہے۔ بورڈ نے حصص یافتگان کو یہ بھی یقین دہانی کرائی کہ کمپنی کی ابھرتی ہوئی ترقی کی رفتار مضبوط آپشن پر قائم ہے…"
+      "title_ur": "نیویارک ینگ ریپبلکن کلب میں سام دشمنی کا مسئلہ ہے۔",
+      "desc_ur": "آخری موسم خزاں میں ایک نسل پرست گروپ چیٹ کو بے نقاب کرنے کی ایک رپورٹ کے بعد، ملک بھر میں ینگ ریپبلکن تنظیموں کی جانچ پڑتال کی گئی۔ اب، ایک برنر اکاؤنٹ جو ایسا لگتا ہے کہ NYYRC کے خزانچی کا ہے کلب کے انتہائی دائیں موڑ کی حد کو ظاہر کرتا ہے۔"
     },
     {
-      "title": "U.S. Strikes in Iran Disrupt Water Supply for 10,000 Residents",
-      "desc": "U.S. airstrikes on a desalination facility in the coastal village of Bunji, Hormozgan province, have disrupted drinking water supplies for about 10,000 residents, according to Iranian officials. The strike, part of the seventh consecutive night of U.S. attack…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-07-21-us-strikes-iran-disrupt-water-supply-for-10000.html",
-      "time": "2026-07-21T06:00:00",
+      "title": "America’s Iran Failure Is Bigger Than Trump",
+      "desc": "Sina Toossi, Nancy Okail\n\n\n\nTrump’s personalization of foreign policy is ultimately a symptom of a deeper institutional problem rather than its source.\r\n\n\r\n\n\nThe post America’s Iran Failure Is Bigger Than Trump appeared first on The Nation.",
+      "source": "Thenation.com",
+      "url": "https://www.thenation.com/?post_type=article&p=604523",
+      "time": "2026-07-21T09:00:00",
       "country": "Iran",
-      "title_ur": "ایران میں امریکی حملوں سے 10,000 باشندوں کے لیے پانی کی فراہمی متاثر ہوئی ہے۔",
-      "desc_ur": "ایرانی حکام کے مطابق، ہرمزگان صوبے کے ساحلی گاؤں بونجی میں پانی صاف کرنے کی ایک تنصیب پر امریکی فضائی حملوں سے تقریباً 10,000 رہائشیوں کے لیے پینے کے پانی کی فراہمی میں خلل پڑا ہے۔ یہ ہڑتال، امریکی حملے کی مسلسل ساتویں رات کا حصہ ہے…"
+      "title_ur": "امریکہ کی ایران کی ناکامی ٹرمپ سے بڑی ہے۔",
+      "desc_ur": "سینا توسی، نینسی اوکیل\n\n\n\nٹرمپ کی خارجہ پالیسی کو ذاتی بنانا بالآخر اس کے ماخذ کی بجائے ایک گہرے ادارہ جاتی مسئلے کی علامت ہے۔\r\n\n\r\n\n\nThe post امریکا کی ایران کی ناکامی ٹرمپ سے بڑی appeared first on The Nation"
     },
     {
-      "title": "U.S. Air Defenses Face Challenges Against Iranian Missiles, Officials Say",
-      "desc": "Two U.S. service members were killed and one remains missing following an Iranian missile and drone strike on a military base in Jordan on July 17, the Department of War reported on Saturday, July 18. Anonymous officials cited by multiple media outlets said t…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-07-21-us-air-defenses-face-challenges-iranian-missiles.html",
-      "time": "2026-07-21T06:00:00",
-      "country": "Iran",
-      "title_ur": "حکام کا کہنا ہے کہ امریکی فضائی دفاع کو ایرانی میزائلوں کے خلاف چیلنجز کا سامنا ہے۔",
-      "desc_ur": "17 جولائی کو اردن میں ایک فوجی اڈے پر ایرانی میزائل اور ڈرون حملے کے نتیجے میں دو امریکی فوجی ہلاک اور ایک لاپتہ ہے، محکمہ جنگ نے ہفتہ 18 جولائی کو رپورٹ کیا۔ متعدد ذرائع ابلاغ کے حوالے سے گمنام حکام نے بتایا کہ…"
+      "title": "Crypto, AI, and AIPAC Super PACs Are Spending in Lockstep Against Progressives",
+      "desc": "David Moore\n\n\n\nUnprecedented sums are being spent on Democratic primaries, reshaping races while keeping their policy agendas largely out of public view.\r\n\n\r\n\n\nThe post Crypto, AI, and AIPAC Super PACs Are Spending in Lockstep Against Progressives appeared fi…",
+      "source": "Thenation.com",
+      "url": "https://www.thenation.com/?post_type=article&p=604532",
+      "time": "2026-07-21T09:00:00",
+      "country": "International",
+      "title_ur": "کرپٹو، اے آئی، اور اے آئی پی اے سی سپر پی اے سی ترقی پسندوں کے خلاف لاک سٹیپ میں خرچ کر رہے ہیں",
+      "desc_ur": "ڈیوڈ مور\n\n\n\nڈیموکریٹک پرائمریز پر بے مثال رقوم خرچ کی جا رہی ہیں، نسلوں کو نئی شکل دینے کے ساتھ ساتھ ان کے پالیسی ایجنڈوں کو بڑی حد تک عوام کی نظروں سے دور رکھا جا رہا ہے۔\r\n\n\r\n\n\nThe post کرپٹو، اے آئی، اور اے آئی پی اے سی سپر پی اے سی ترقی پسندوں کے خلاف لاک اسٹپ میں خرچ کر رہے ہیں…"
+    },
+    {
+      "title": "This Is How We Close the Camps",
+      "desc": "John Washington\n\n\n\nUntil we, as a society, reject the camp and its logic, it will remain a threat—and the linchpin in the entire immigration enforcement regime.\r\n\n\r\n\n\nThe post This Is How We Close the Camps appeared first on The Nation.",
+      "source": "Thenation.com",
+      "url": "https://www.thenation.com/?post_type=article&p=604605",
+      "time": "2026-07-21T09:00:00",
+      "country": "US",
+      "title_ur": "اس طرح ہم کیمپوں کو بند کرتے ہیں۔",
+      "desc_ur": "جان واشنگٹن\n\n\n\nجب تک ہم بحیثیت معاشرہ کیمپ اور اس کی منطق کو مسترد نہیں کرتے، یہ ایک خطرہ رہے گا — اور امیگریشن نافذ کرنے والے پورے نظام میں لنچ پن۔\r\n\n\r\n\n\nThe post ہم کیمپوں کو اس طرح بند کرتے ہیں appeared first on The Nation"
+    },
+    {
+      "title": "Arizona primaries set the stage for contested fall races in a swing state",
+      "desc": "Arizona Democrats choose who can try to flip a Republican-held House seat and Republicans pick their nominee to try to unseat a Democratic governor.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/21/nx-s1-5901065/midterms-primaries-arizona-elections",
+      "time": "2026-07-21T09:00:00",
+      "country": "US",
+      "title_ur": "ایریزونا کی پرائمریز نے جھولے والی حالت میں مقابلہ شدہ موسم خزاں کی دوڑ کے لیے مرحلہ طے کیا۔",
+      "desc_ur": "ایریزونا کے ڈیموکریٹس انتخاب کرتے ہیں کہ کون ریپبلکن کے زیر قبضہ ایوان کی نشست کو پلٹانے کی کوشش کرسکتا ہے اور ریپبلکن اپنے نامزد امیدوار کو ڈیموکریٹک گورنر کو ہٹانے کی کوشش کرتے ہیں۔"
+    },
+    {
+      "title": "Skeptoid #1050: Does Torture Work?",
+      "desc": "The question of whether torture is ever justified must take a back seat to the more important question: Is it effective at producing useful intelligence?\n\nLearn about your ad choices: dovetail.prx.org/ad-choices",
+      "source": "Skeptoid.com",
+      "url": "https://skeptoid.com/episodes/1050",
+      "time": "2026-07-21T09:00:00",
+      "country": "US",
+      "title_ur": "Skeptoid #1050: کیا ٹارچر کام کرتا ہے؟",
+      "desc_ur": "یہ سوال کہ آیا تشدد کو کبھی بھی جائز قرار دیا جاتا ہے اس سے زیادہ اہم سوال کی طرف پیچھے ہٹنا ضروری ہے: کیا یہ مفید ذہانت پیدا کرنے میں موثر ہے؟\n\nاپنے اشتہار کے انتخاب کے بارے میں جانیں: dovetail.prx.org/ad-choices"
+    },
+    {
+      "title": "What’s So Scary About the Frankfurt School?",
+      "desc": "Michael Shorris\n\n\n\nIn “The Cultural Marxism Conspiracy,” A.J.A. Woods looks at how the Frankfurt scholars became the latest bogeymen for the contemporary right.\r\n\n\r\n\n\nThe post What’s So Scary About the Frankfurt School? appeared first on The Nation.",
+      "source": "Thenation.com",
+      "url": "https://www.thenation.com/article/culture/cultural-marxism-frankfurt-school-woods/",
+      "time": "2026-07-21T09:00:00",
+      "country": "International",
+      "title_ur": "فرینکفرٹ اسکول کے بارے میں کیا خوفناک ہے؟",
+      "desc_ur": "مائیکل شوریس\n\n\n\n\"ثقافتی مارکسزم کی سازش\" میں A.J.A. ووڈس دیکھتا ہے کہ کس طرح فرینکفرٹ کے اسکالرز عصری حق کے لیے تازہ ترین بوجی مین بن گئے۔\r\n\n\r\n\n\nThe post فرینکفرٹ اسکول کے بارے میں کیا خوفناک ہے؟ The Nation appeared first on"
     }
   ],
-  "pakistan": [
-    {
-      "title": "IDF kills Hamas commander who led Gaza Brigade into Israel",
-      "desc": "The Hamas operations chief who led the October 7 infiltration and held Israeli hostages captive was killed in a Gaza City strike, the IDF and Shin Bet said.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/430502",
-      "time": "2026-07-21T06:21:00",
-      "country": "Pakistan",
-      "title_ur": "غزہ بریگیڈ کی اسرائیل میں قیادت کرنے والے حماس کے کمانڈر کو آئی ڈی ایف نے ہلاک کر دیا۔",
-      "desc_ur": "آئی ڈی ایف اور شن بیٹ نے کہا کہ حماس کے آپریشنز کے سربراہ جس نے 7 اکتوبر کو دراندازی کی قیادت کی اور اسرائیلیوں کو یرغمال بنا رکھا تھا، غزہ سٹی حملے میں مارا گیا۔"
-    },
-    {
-      "title": "Iran attacks another tanker in Strait of Hormuz as US strikes for 10th night",
-      "desc": "Tehran’s interior minister heads to Pakistan for talks as two sides inch closer to all-out war again",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/07/21/iran-attacks-another-tanker-in-strait-of-hormuz-as-us-strikes-for-10th-night/",
-      "time": "2026-07-21T05:34:43",
-      "country": "Pakistan",
-      "title_ur": "ایران نے آبنائے ہرمز میں ایک اور تیل بردار بحری جہاز پر حملہ کیا جب امریکہ نے 10ویں رات کو حملہ کیا۔",
-      "desc_ur": "تہران کے وزیر داخلہ مذاکرات کے لیے پاکستان روانہ ہو گئے، دونوں فریق ایک بار پھر جنگ کے قریب پہنچ گئے"
-    }
-  ],
+  "pakistan": [],
   "business": {
     "quote": "Risk comes from not knowing what you're doing.",
     "author": "Warren Buffett",
@@ -186,8 +165,8 @@
       {
         "date": "2026-07-22",
         "day": "بدھ",
-        "high": 30,
-        "low": 25,
+        "high": 31,
+        "low": 24,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
         "precip": 98
@@ -204,8 +183,8 @@
       {
         "date": "2026-07-24",
         "day": "جمعہ",
-        "high": 30,
-        "low": 26,
+        "high": 31,
+        "low": 25,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
         "precip": 88
@@ -213,7 +192,7 @@
       {
         "date": "2026-07-25",
         "day": "ہفتہ",
-        "high": 33,
+        "high": 32,
         "low": 26,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
@@ -222,7 +201,7 @@
       {
         "date": "2026-07-26",
         "day": "اتوار",
-        "high": 31,
+        "high": 33,
         "low": 26,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
@@ -233,14 +212,14 @@
         "day": "پیر",
         "high": 33,
         "low": 27,
-        "condition": "Thunderstorm",
-        "condition_ur": "گرج چمک",
+        "condition": "Light Drizzle",
+        "condition_ur": "ہلکی بوندا باندی",
         "precip": 59
       },
       {
         "date": "2026-07-28",
         "day": "منگل",
-        "high": 31,
+        "high": 33,
         "low": 26,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
