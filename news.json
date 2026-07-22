@@ -1,158 +1,199 @@
 {
-  "generated": "2026-07-22T15:00:01Z",
+  "generated": "2026-07-22T16:25:02Z",
   "world": [
     {
-      "title": "Burnham takes over as UK prime minister",
-      "desc": "The former Manchester mayor becomes the country’s seventh prime minister in 10 years",
-      "source": "The Week Magazine",
-      "url": "https://theweek.com/world-news/andy-burnham-new-uk-prime-minister",
-      "time": "2026-07-21T14:59:03",
-      "country": "UK",
-      "title_ur": "برنہم نے برطانیہ کے وزیر اعظم کا عہدہ سنبھال لیا۔",
-      "desc_ur": "مانچسٹر کے سابق میئر 10 سالوں میں ملک کے ساتویں وزیر اعظم بن گئے۔"
-    },
-    {
-      "title": "UK PM Burnham unveils energy tax cut, tells ministers to cut living costs",
-      "desc": "Andy Burnham became Britain's new prime minister and announced an energy tax cut. This policy aims to reduce the cost of living for households across the nation. Burnham also reshuffled his cabinet, appointing his own allies to key positions. He pledged to re…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/uk-pm-burnham-unveils-energy-tax-cut-tells-ministers-to-cut-living-costs/articleshow/132539808.cms",
-      "time": "2026-07-21T14:57:52",
-      "country": "UK",
-      "title_ur": "برطانیہ کے وزیر اعظم برنہم نے انرجی ٹیکس میں کٹوتی کی نقاب کشائی کی، وزراء سے کہا کہ زندگی کے اخراجات کم کریں۔",
-      "desc_ur": "اینڈی برنہم برطانیہ کے نئے وزیراعظم بن گئے اور انرجی ٹیکس میں کمی کا اعلان کیا۔ اس پالیسی کا مقصد ملک بھر میں گھرانوں کے لیے زندگی گزارنے کی لاگت کو کم کرنا ہے۔ برنہم نے اپنی کابینہ میں بھی ردوبدل کرتے ہوئے اپنے اتحادیوں کو اہم عہدوں پر تعینات کیا۔ اس نے دوبارہ وعدہ کیا…"
-    },
-    {
-      "title": "Republicans Panic Trump Has “Zero” Interest in Helping With Midterms",
-      "desc": "Donald Trump is distancing himself from Capitol Hill at a time when his Congressional allies need him most.The president seemingly does not care that Congress’s long August recess is mere days away, or that the break will force Republicans to head into midter…",
-      "source": "The New Republic",
-      "url": "https://newrepublic.com/post/213312/republicans-donald-trump-zero-interest-helping-midterms",
-      "time": "2026-07-21T14:56:58",
-      "country": "US",
-      "title_ur": "ریپبلکن گھبراہٹ میں ٹرمپ کو وسط مدت کے ساتھ مدد کرنے میں \"زیرو\" دلچسپی ہے۔",
-      "desc_ur": "ڈونلڈ ٹرمپ ایک ایسے وقت میں خود کو کیپیٹل ہل سے دور کر رہے ہیں جب ان کے کانگریسی اتحادیوں کو ان کی سب سے زیادہ ضرورت ہے۔ صدر بظاہر اس بات کی پرواہ نہیں کرتے کہ کانگریس کی اگست کی طویل چھٹی محض چند دن کی دوری پر ہے، یا یہ وقفہ ریپبلکنز کو مڈٹر میں جانے پر مجبور کر دے گا…"
-    },
-    {
-      "title": "Iran strikes US radar installation in Kuwait as Gulf tensions rattle energy and crypto markets",
-      "desc": "Iran's IRGC struck US military bases in Kuwait and Bahrain, escalating Gulf tensions that threaten oil prices and crypto market liquidity\nThe post Iran strikes US radar installation in Kuwait as Gulf tensions rattle energy and crypto markets appeared first on…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-irgc-strikes-kuwait-crypto-markets/",
-      "time": "2026-07-21T14:56:43",
+      "title": "Smotrich says US fighting Iran is ‘best for us’ and Israel will not join",
+      "desc": "Israel’s finance minister, Bezalel Smotrich, has described the renewed US war on Iran as the ideal outcome for Israel, provided Israelis do not have to fight it themselves. \"Israel has no interest in joining the campaign - the current situation is the best fo…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4388797/posts",
+      "time": "2026-07-21T16:23:59",
       "country": "Iran",
-      "title_ur": "ایران نے کویت میں امریکی ریڈار کی تنصیب پر حملہ کیا کیونکہ خلیجی کشیدگی نے توانائی اور کرپٹو مارکیٹوں کو ہلا کر رکھ دیا ہے۔",
-      "desc_ur": "ایران کے IRGC نے کویت اور بحرین میں امریکی فوجی اڈوں پر حملہ کیا، جس سے خلیجی کشیدگی میں اضافہ ہوا جس سے تیل کی قیمتوں اور کرپٹو مارکیٹ کی لیکویڈیٹی کو خطرہ ہے۔\nThe post ایران نے کویت میں امریکی ریڈار کی تنصیب پر حملہ کردیا کیونکہ خلیجی کشیدگی نے توانائی اور کرپٹو مارکیٹوں کو ہلچل مچا دی appeared first on…"
+      "title_ur": "سموٹریچ کا کہنا ہے کہ ایران کے خلاف امریکی جنگ ہمارے لیے بہترین ہے اور اسرائیل اس میں شامل نہیں ہوگا۔",
+      "desc_ur": "اسرائیل کے وزیر خزانہ Bezalel Smotrich نے ایران کے خلاف امریکہ کی نئی جنگ کو اسرائیل کے لیے مثالی نتیجہ قرار دیا ہے، بشرطیکہ اسرائیلیوں کو خود اس سے لڑنا نہ پڑے۔ \"اسرائیل کو مہم میں شامل ہونے میں کوئی دلچسپی نہیں ہے - موجودہ صورتحال اس کے لیے بہترین ہے…"
     },
     {
-      "title": "Iran claims strike on US radar at Kuwait base amid rising tensions",
-      "desc": "Iran claims a strike on a U.S. radar in Kuwait. Military action against a Gulf state on July 22 at 61.5% YES.\nThe post Iran claims strike on US radar at Kuwait base amid rising tensions appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-claims-strike-on-us-radar-at-kuwait-base-amid-rising-tensions/",
-      "time": "2026-07-21T14:56:28",
-      "country": "Iran",
-      "title_ur": "بڑھتی ہوئی کشیدگی کے درمیان ایران نے کویت کے اڈے پر امریکی ریڈار پر حملے کا دعویٰ کیا ہے۔",
-      "desc_ur": "ایران نے کویت میں امریکی ریڈار پر حملے کا دعویٰ کیا ہے۔ 22 جولائی کو ایک خلیجی ریاست کے خلاف فوجی کارروائی 61.5% ہاں۔\nThe post بڑھتی ہوئی کشیدگی کے درمیان ایران کا کویت کے اڈے پر امریکی ریڈار پر حملے کا دعویٰ appeared first on Crypto Briefing."
-    },
-    {
-      "title": "Dealing with war stress",
-      "desc": "‘Start-stop’ Iran war is testing India’s policy agility",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/opinion/dealing-with-war-stress/article71246201.ece",
-      "time": "2026-07-21T14:52:42",
-      "country": "Iran",
-      "title_ur": "جنگی تناؤ سے نمٹنا",
-      "desc_ur": "’اسٹارٹ اسٹاپ‘ ایران جنگ بھارت کی پالیسی کی چستی کا امتحان لے رہی ہے۔"
-    },
-    {
-      "title": "Treasury Yields Hit Two-Month High as Oil Sparks Inflation Risk",
-      "desc": "The US Treasury market fell, pushing 10- and 30-year yields to the highest levels in about two months, as a surge in crude oil prices stoked concern that inflationary pressures will prompt the Federal Reserve to raise interest rates.",
+      "title": "Trump’s Latest Tariffs Cast Doubt on Canada Investment Revival",
+      "desc": "President Donald Trump’s latest trade threat against Canada carries a stark reminder for businesses weighing expansion in the northern nation — tariff-free access to the US is far from guaranteed.",
       "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/treasury-yields-hit-two-month-high-as-oil-sparks-inflation-risk",
-      "time": "2026-07-21T14:52:37",
+      "url": "https://financialpost.com/pmn/business-pmn/trumps-latest-tariffs-cast-doubt-on-canada-investment-revival",
+      "time": "2026-07-21T16:20:32",
       "country": "US",
-      "title_ur": "ٹریژری کی پیداوار دو ماہ کی بلند ترین سطح پر پہنچ گئی کیونکہ تیل نے افراط زر کے خطرے کو جنم دیا۔",
-      "desc_ur": "یو ایس ٹریژری مارکیٹ گر گئی، 10- اور 30 ​​سال کی پیداوار کو تقریباً دو ماہ میں بلند ترین سطح پر دھکیل دیا، کیونکہ خام تیل کی قیمتوں میں اضافے نے اس تشویش کو جنم دیا کہ افراط زر کا دباؤ فیڈرل ریزرو کو شرح سود بڑھانے پر مجبور کرے گا۔"
+      "title_ur": "ٹرمپ کے تازہ ترین محصولات نے کینیڈا کی سرمایہ کاری کے احیاء پر شک کا اظہار کیا۔",
+      "desc_ur": "صدر ڈونلڈ ٹرمپ کی کینیڈا کے خلاف تازہ ترین تجارتی دھمکی شمالی ملک میں توسیع کے وزن والے کاروباروں کے لیے ایک واضح یاد دہانی کراتی ہے - امریکہ تک ٹیرف سے پاک رسائی کی ضمانت نہیں ہے۔"
     },
     {
-      "title": "‘Right champions, but 2026 World Cup lost credibility’ — Ex-FIFA president Blatter",
-      "desc": "\"The longest World Cup has come to an end – with the right champions. But on the way to the final whistle, the tournament had lost its credibility,\" Blatter wrote.\nThe post ‘Right champions, but 2026 World Cup lost credibility’ — Ex-FIFA president Blatter app…",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/07/right-champions-but-2026-world-cup-lost-credibility-ex-fifa-president-blatter/",
-      "time": "2026-07-21T14:52:34",
-      "country": "International",
-      "title_ur": "'صحیح چیمپئن، لیکن 2026 ورلڈ کپ نے ساکھ کھو دی' - سابق فیفا صدر بلیٹر",
-      "desc_ur": "بلیٹر نے لکھا، \"سب سے لمبا ورلڈ کپ ختم ہو گیا ہے - صحیح چیمپئنز کے ساتھ۔ لیکن فائنل سیٹی کے راستے میں، ٹورنامنٹ اپنی ساکھ کھو چکا تھا،\" بلاٹر نے لکھا۔\nThe post 'صحیح چیمپئن، لیکن 2026 ورلڈ کپ نے ساکھ کھو دی' - سابق فیفا صدر بلاٹر ایپ…"
-    },
-    {
-      "title": "CNN legal analyst calls out 'utterly ridiculous' claim by Mamdani about Netanyahu arrest",
-      "desc": "CNN legal analyst Elie Honig called Zohran Mamdani's suggestion that he could arrest Benjamin Netanyahu \"utterly ridiculous\" and lacking any legal basis.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/media/cnn-legal-analyst-calls-out-utterly-ridiculous-claim-mamdani-netanyahu-arrest",
-      "time": "2026-07-21T14:52:27",
-      "country": "Israel",
-      "title_ur": "سی این این کے قانونی تجزیہ کار نے نیتن یاہو کی گرفتاری کے بارے میں ممدانی کے دعوے کو 'بالکل مضحکہ خیز' قرار دیا",
-      "desc_ur": "سی این این کے قانونی تجزیہ کار ایلی ہونیگ نے ظہران مامدانی کے اس تجویز کو قرار دیا کہ وہ بنجمن نیتن یاہو کو \"بالکل مضحکہ خیز\" اور کسی قانونی بنیاد سے محروم کر سکتے ہیں۔"
-    },
-    {
-      "title": "Kuwait summons Iran’s ambassador after tanker Kaifan attacked near Strait of Hormuz",
-      "desc": "Kuwait summoned Iran's ambassador after the tanker Kaifan was struck near the Strait of Hormuz, pushing oil above $90 and Bitcoin into risk-off\nThe post Kuwait summons Iran’s ambassador after tanker Kaifan attacked near Strait of Hormuz appeared first on Cryp…",
+      "title": "US service member killed in Iranian drone detonation at Erbil Air Base",
+      "desc": "US service member killed in Iranian drone detonation at Erbil Air Base. Iranian military action against a Gulf state on July 22 at 62% YES.\nThe post US service member killed in Iranian drone detonation at Erbil Air Base appeared first on Crypto Briefing.",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/kuwait-iran-tanker-kaifan-hormuz-attack/",
-      "time": "2026-07-21T14:52:10",
+      "url": "https://cryptobriefing.com/us-service-member-killed-in-iranian-drone-detonation-at-erbil-air-base/",
+      "time": "2026-07-21T16:20:30",
       "country": "Iran",
-      "title_ur": "آبنائے ہرمز کے قریب ٹینکر کیفان کے حملے کے بعد کویت نے ایرانی سفیر کو طلب کر لیا",
-      "desc_ur": "آبنائے ہرمز کے قریب ٹینکر کیفان کے ٹکرانے کے بعد کویت نے ایرانی سفیر کو طلب کیا، جس سے تیل $90 اور بٹ کوائن کو خطرے سے دوچار کر دیا گیا۔\nThe post آبنائے ہرمز کے قریب ٹینکر کیفان کے حملے کے بعد کویت نے ایرانی سفیر کو طلب کرلیا appeared first on Cryp…"
+      "title_ur": "اربیل ایئر بیس پر ایرانی ڈرون حملے میں امریکی فوجی ہلاک",
+      "desc_ur": "اربیل ایئر بیس پر ایرانی ڈرون حملے میں امریکی فوجی ہلاک۔ 22 جولائی کو ایک خلیجی ریاست کے خلاف ایرانی فوجی کارروائی 62% ہاں۔\nThe post اربیل ایئر بیس پر ایرانی ڈرون حملے میں امریکی سروس رکن ہلاک appeared first on Crypto Briefing."
     },
     {
-      "title": "Plestia Alaqad selects: What to read, listen to and watch",
-      "desc": "The Palestinian journalist and author shares the culture that moves her most powerfully, giving hope for the future in bleak times",
-      "source": "Dazed",
-      "url": "https://www.dazeddigital.com/life-culture/article/70677/1/plestia-alaqad-dazed-syllabus-palestine?utm_source=Link&utm_medium=Link&utm_campaign=RSSFeed&utm_term=plestia-alaqad-selects-what-to-read-listen-to-and-watch",
-      "time": "2026-07-21T14:48:00",
+      "title": "Jamie Dimon says market risks are 'bigger than other people think' – and he's not buying stocks right now",
+      "desc": "Geopolitical factors are increasing the chances of a major shock, says the JPMorgan Chase CEO.",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jamie-dimon-says-market-risks-162000170.html",
+      "time": "2026-07-21T16:20:00",
       "country": "International",
-      "title_ur": "Plestia Alqad منتخب کرتا ہے: کیا پڑھنا، سننا اور دیکھنا ہے۔",
-      "desc_ur": "فلسطینی صحافی اور مصنف نے اس ثقافت کا اشتراک کیا ہے جو اسے سب سے زیادہ طاقتور طریقے سے منتقل کرتا ہے، تاریک وقت میں مستقبل کی امید دیتا ہے"
+      "title_ur": "جیمی ڈیمن کا کہنا ہے کہ مارکیٹ کے خطرات 'دوسرے لوگوں کے خیال سے زیادہ ہیں' - اور وہ ابھی اسٹاک نہیں خرید رہے ہیں۔",
+      "desc_ur": "جے پی مورگن چیس کے سی ای او کا کہنا ہے کہ جیو پولیٹیکل عوامل بڑے جھٹکے کے امکانات کو بڑھا رہے ہیں۔"
     },
     {
-      "title": "Israeli air strike in Gaza City kills family of six, medics say",
-      "desc": "Firas al-Masri, his wife and their four children died in the attack, which the Israeli military says targeted a Hamas operative.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0qv0pdj18go",
-      "time": "2026-07-21T14:47:41",
-      "country": "Israel",
-      "title_ur": "طبی ماہرین کا کہنا ہے کہ غزہ شہر میں اسرائیلی فضائی حملے میں ایک ہی خاندان کے چھ افراد ہلاک ہو گئے۔",
-      "desc_ur": "اس حملے میں فراس المصری، ان کی اہلیہ اور ان کے چار بچے ہلاک ہوئے، جس کے بارے میں اسرائیلی فوج کا کہنا ہے کہ حماس کے ایک کارکن کو نشانہ بنایا گیا۔"
-    },
-    {
-      "title": "Iran pounds Kuwait with fresh wave of missile launches after US strikes",
-      "desc": "WASHINGTON — Iran launched a fresh round of attacks on Kuwait Tuesday, escalating its campaign against US allies and partners in the Persian Gulf hours after American forces carried out a 10th consecutive night of strikes inside Iran. Air raid sirens sounded …",
+      "title": "Pentagon set to face budget shortfall in weeks if Congress fails to cough up $67B: report",
+      "desc": "The Pentagon is quickly burning through cash and faces an impending budget shortfall within weeks amid the war in Iran if Congress fails to act, as officials have requested at least $67 billion, according to a report.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/07/21/world-news/iran-pounds-kuwait-with-fresh-wave-of-missile-launches-after-us-strikes/",
-      "time": "2026-07-21T14:46:32",
+      "url": "https://nypost.com/2026/07/21/us-news/pentagon-set-to-face-budget-shortfall-in-weeks-if-congress-fails-to-cough-up-67b-report/",
+      "time": "2026-07-21T16:18:48",
       "country": "Iran",
-      "title_ur": "امریکی حملے کے بعد ایران نے کویت پر میزائل داغے ہیں۔",
-      "desc_ur": "واشنگٹن — ایران نے منگل کو کویت پر حملوں کا ایک تازہ دور شروع کیا، جس سے خلیج فارس میں امریکی اتحادیوں اور شراکت داروں کے خلاف اپنی مہم کو تیز کرتے ہوئے امریکی افواج کی جانب سے مسلسل 10ویں رات ایران کے اندر حملے کیے گئے۔ فضائی حملے کے سائرن بج رہے تھے..."
+      "title_ur": "پینٹاگون کو ہفتوں میں بجٹ کی کمی کا سامنا کرنا پڑے گا اگر کانگریس $ 67 بلین کھانسی کرنے میں ناکام رہی: رپورٹ",
+      "desc_ur": "پینٹاگون تیزی سے نقد رقم کے ذریعے جل رہا ہے اور ایران میں جنگ کے دوران اگر کانگریس کام کرنے میں ناکام رہتی ہے تو اسے ہفتوں کے اندر بجٹ کی کمی کا سامنا کرنا پڑے گا، جیسا کہ ایک رپورٹ کے مطابق، حکام نے کم از کم $67 بلین کی درخواست کی ہے۔"
     },
     {
-      "title": "Updated FIFA world rankings after 2026 World Cup",
-      "desc": "Here's a look at the updated top 20 of the FIFA world rankings after the 2026 World Cup.",
-      "source": "The Big Lead",
-      "url": "https://www.thebiglead.com/updated-fifa-world-rankings-2026-world-cup/",
-      "time": "2026-07-21T14:45:13",
-      "country": "International",
-      "title_ur": "2026 ورلڈ کپ کے بعد فیفا کی عالمی درجہ بندی کو اپ ڈیٹ کیا گیا۔",
-      "desc_ur": "2026 ورلڈ کپ کے بعد فیفا عالمی درجہ بندی کے تازہ ترین ٹاپ 20 پر ایک نظر یہ ہے۔"
+      "title": "Democrat Melat Kiros: U.S. Must Elect More Immigrants from 'Global South' to Challenge Global World Order",
+      "desc": "Socialist Melat Kiros (D), who unseated 15-term Rep. Diana DeGette (D) in Colorado’s first congressional district Democrat primary last month, says the United States must elect more immigrants specifically from the \"Global South\" to usher in a \"reckoning\" wit…",
+      "source": "Breitbart News",
+      "url": "https://www.breitbart.com/politics/2026/07/21/democrat-melat-kiros-u-s-must-elect-more-immigrants-from-global-south-to-challenge-global-world-order/",
+      "time": "2026-07-21T16:17:01",
+      "country": "US",
+      "title_ur": "ڈیموکریٹ میلٹ کیروس: امریکہ کو گلوبل ورلڈ آرڈر کو چیلنج کرنے کے لیے 'گلوبل ساؤتھ' سے مزید تارکین وطن کا انتخاب کرنا چاہیے۔",
+      "desc_ur": "سوشلسٹ میلاٹ کیروس (ڈی)، جنہوں نے گزشتہ ماہ کولوراڈو کے پہلے کانگریشنل ڈسٹرکٹ ڈیموکریٹ پرائمری میں 15 مدت کے لیے نمائندہ ڈیانا ڈیگیٹ (ڈی) کو ہٹا دیا تھا، کا کہنا ہے کہ ریاست ہائے متحدہ امریکہ کو خاص طور پر \"گلوبل ساؤتھ\" سے مزید تارکین وطن کا انتخاب کرنا چاہیے تاکہ وہ ایک \"حساب\" کا آغاز کر سکیں…"
     },
     {
-      "title": "Dollar Supported by Higher Crude Prices",
-      "desc": "is up by +0.06% today. The dollar is slightly higher today as the escalation of hostilities between the US and Iran is boosting crude oil prices, which raises inflation expectations that could prompt the Fed to tighten monetary policy, a supportive factor for…",
+      "title": "Formula E 2025-26 title race explained: Who is still in contention with four races left?",
+      "desc": "Porsche Formula E Team driver Pascal Wehrlein currently leads the drivers' standings with 141 points, but several rivals remain within striking distance. Jaguar TCS Racing driver Mitch Evans is a close second. With two races in Tokyo and two in London still t…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/sports/formula-e/formula-e-2025-26-title-race-explained-who-is-still-in-contention-with-four-races-left/articleshow/132541310.cms",
+      "time": "2026-07-21T16:17:00",
+      "country": "UK",
+      "title_ur": "فارمولہ ای 2025-26 ٹائٹل ریس کی وضاحت کی گئی: چار ریس باقی رہنے کے ساتھ اب بھی کون تنازع میں ہے؟",
+      "desc_ur": "پورش فارمولا ای ٹیم کے ڈرائیور پاسکل ویہرلین فی الحال 141 پوائنٹس کے ساتھ ڈرائیوروں کی اسٹینڈنگ میں سرفہرست ہیں، لیکن کئی حریف نمایاں فاصلے کے اندر رہتے ہیں۔ Jaguar TCS ریسنگ ڈرائیور مچ ایونز دوسرے نمبر پر ہیں۔ ٹوکیو میں دو اور لندن میں دو ریسوں کے ساتھ ابھی تک…"
+    },
+    {
+      "title": "Big jump in benchmark diesel price is 2nd largest since war began",
+      "desc": "The benchmark price used for most fuel surcharges rose by the second-largest amount since the war’s start. The post Big jump in benchmark diesel price is 2nd...",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/energy/articles/big-jump-benchmark-diesel-price-161648094.html",
+      "time": "2026-07-21T16:16:48",
+      "country": "US",
+      "title_ur": "بینچ مارک ڈیزل کی قیمت میں بڑی چھلانگ جنگ شروع ہونے کے بعد سے دوسری سب سے بڑی ہے۔",
+      "desc_ur": "زیادہ تر ایندھن کے سرچارجز کے لیے استعمال ہونے والی بینچ مارک قیمت جنگ کے آغاز کے بعد سے دوسری سب سے بڑی رقم سے بڑھ گئی۔ The post بینچ مارک ڈیزل کی قیمت میں بڑی چھلانگ دوسرے نمبر پر..."
+    },
+    {
+      "title": "Appeals court overturns ruling releasing ex-Columbia student activist from ICE detention",
+      "desc": "Columbia University graduate and Palestinian activist Mohsen Mahdawi, who has been targeted for deportation by the Trump administration.\n \n\nThe 2nd Circuit Court of Appeals ruled the lower court lacked jurisdiction in the case. [ more › ]",
+      "source": "Gothamist",
+      "url": "https://gothamist.com/news/appeals-court-overturns-ruling-releasing-ex-columbia-student-activist-from-ice-detention",
+      "time": "2026-07-21T16:15:56",
+      "country": "US",
+      "title_ur": "اپیل کورٹ نے کولمبیا کے سابق طالب علم کارکن کو ICE حراست سے رہا کرنے کے فیصلے کو کالعدم قرار دے دیا",
+      "desc_ur": "کولمبیا یونیورسٹی کے گریجویٹ اور فلسطینی کارکن محسن مہدوی، جنہیں ٹرمپ انتظامیہ نے ملک بدری کا نشانہ بنایا ہے۔\n \n\nاپیل کی دوسری سرکٹ کورٹ نے فیصلہ دیا کہ نچلی عدالت کے پاس اس کیس میں دائرہ اختیار کی کمی ہے۔ [مزید ›]"
+    },
+    {
+      "title": "Mace snubs Trump's preferred Senate candidate, backs Ralph Norman instead",
+      "desc": "Rep. Nancy Mace breaks from Trump to endorse Ralph Norman in South Carolina's special Senate election to replace the late Sen. Lindsey Graham.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/mace-snubs-trumps-preferred-senate-candidate-backs-ralph-norman-instead",
+      "time": "2026-07-21T16:15:52",
+      "country": "US",
+      "title_ur": "میس نے ٹرمپ کے پسندیدہ سینیٹ امیدوار کو چھین لیا، اس کے بجائے رالف نارمن کی حمایت کی۔",
+      "desc_ur": "نمائندہ نینسی میس نے آنجہانی سینیٹر لنڈسے گراہم کی جگہ لینے کے لیے جنوبی کیرولائنا کے خصوصی سینیٹ انتخابات میں رالف نارمن کی حمایت کے لیے ٹرمپ سے علیحدگی اختیار کر لی ہے۔"
+    },
+    {
+      "title": "Tyranny expert warns Trump's people may be eying fake terror attack in US",
+      "desc": "With the war with Iran spiraling and public opinion about the military excursion at an all-time low, a leading scholar on tyranny warned on Tuesday that Donald Trump’s people may do the unthinkable.Late Monday, Fox News host Laura Ingraham warned the presiden…",
+      "source": "Raw Story",
+      "url": "https://www.rawstory.com/trump-fake/",
+      "time": "2026-07-21T16:15:51",
+      "country": "Iran",
+      "title_ur": "ظالم ماہر نے خبردار کیا ہے کہ ٹرمپ کے لوگ امریکہ میں جعلی دہشت گردانہ حملے پر نظر رکھے ہوئے ہیں۔",
+      "desc_ur": "ایران کے ساتھ جنگ ​​کے بڑھتے ہوئے اور فوجی سیر کے بارے میں رائے عامہ کی ہر وقت کم ترین سطح کے ساتھ، ظلم پر ایک سرکردہ اسکالر نے منگل کو متنبہ کیا کہ ڈونلڈ ٹرمپ کے لوگ ایسا کر سکتے ہیں جس کا تصور بھی نہیں کیا جا سکتا۔ پیر کے آخر میں، فاکس نیوز کی میزبان لورا انگراہم نے صدر کو خبردار کیا…"
+    },
+    {
+      "title": "Today’s News in a Nutshell",
+      "desc": "KATHMANDU: Khabarhub brings you a glimpse of major developments of the day in Nepal, including politics, business/economy, sports, entertainment, and more. Oli, Dahal discuss possible provincial cooperation and current political developments CPN-UML Chair KP …",
+      "source": "Khabarhub.com",
+      "url": "https://english.khabarhub.com/2026/21/559671/",
+      "time": "2026-07-21T16:15:04",
+      "country": "US",
+      "title_ur": "آج کی خبریں مختصراً",
+      "desc_ur": "کھٹمنڈو: خبر ہب آپ کے لیے نیپال میں دن کی اہم پیشرفت کی ایک جھلک لاتا ہے، بشمول سیاست، کاروبار/معیشت، کھیل، تفریح، اور بہت کچھ۔ اولی، دہل نے ممکنہ صوبائی تعاون اور موجودہ سیاسی پیش رفت پر تبادلہ خیال کیا CPN-UML چیئر KP…"
+    },
+    {
+      "title": "Trump: US will respond immediately if Houthis threaten Red Sea shipping",
+      "desc": "US President Donald Trump has pledged that Washington will act without delay if Iran-backed Houthi rebels attempt to disrupt commercial shipping through the Red Sea, though he stressed no such incident has yet occurred\nThe post Trump: US will respond immediat…",
+      "source": "Protothema.gr",
+      "url": "https://en.protothema.gr/2026/07/21/trump-us-will-respond-immediately-if-houthis-threaten-red-sea-shipping/",
+      "time": "2026-07-21T16:14:34",
+      "country": "Iran",
+      "title_ur": "ٹرمپ: حوثیوں نے بحیرہ احمر کی جہاز رانی کو دھمکی دی تو امریکہ فوری جواب دے گا۔",
+      "desc_ur": "امریکی صدر ڈونلڈ ٹرمپ نے وعدہ کیا ہے کہ اگر ایران کے حمایت یافتہ حوثی باغی بحیرہ احمر کے راستے تجارتی جہاز رانی میں رکاوٹ ڈالنے کی کوشش کرتے ہیں تو واشنگٹن بلاتاخیر کارروائی کرے گا، حالانکہ انہوں نے زور دیا کہ ابھی تک ایسا کوئی واقعہ پیش نہیں آیا۔\nThe post ٹرمپ: امریکا فوری جواب دے گا…"
+    },
+    {
+      "title": "Trump Welcomes Lebanese President to White House",
+      "desc": "President Trump welcomed Lebanese President Joseph Aoun to the White House Tuesday for the first meeting between leaders of the two countries in almost 20 years. #trump #lebanon #israel #iran #politics #usa #news \nThe US and Lebanon are seeking to rein in Hez…",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/da9d4b720debbe6b",
-      "time": "2026-07-21T14:44:47",
+      "url": "https://biztoc.com/x/14e47ec4bed079cc",
+      "time": "2026-07-21T16:13:54",
       "country": "Iran",
-      "title_ur": "خام تیل کی اونچی قیمتوں سے ڈالر کی حمایت",
-      "desc_ur": "آج +0.06% زیادہ ہے۔ ڈالر آج قدرے بلند ہے کیونکہ امریکہ اور ایران کے درمیان دشمنی میں اضافے سے خام تیل کی قیمتوں میں اضافہ ہو رہا ہے، جس سے افراط زر کی توقعات بڑھ رہی ہیں جو کہ فیڈ کو مانیٹری پالیسی کو سخت کرنے پر آمادہ کر سکتی ہے، جس کے لیے ایک معاون عنصر…"
+      "title_ur": "ٹرمپ نے لبنانی صدر کو وائٹ ہاؤس میں خوش آمدید کہا",
+      "desc_ur": "صدر ٹرمپ نے لبنان کے صدر جوزف عون کا منگل کو وائٹ ہاؤس میں خیرمقدم کیا جس میں دونوں ممالک کے رہنماؤں کے درمیان تقریباً 20 سالوں میں پہلی ملاقات ہوئی۔ #trump #lebanon #israel #iran #politics #usa #news \nامریکہ اور لبنان ہیز پر لگام لگانے کی کوشش کر رہے ہیں…"
+    },
+    {
+      "title": "Johnson and Vought pitch House Republicans on latest reconciliation effort - Politico",
+      "desc": "Johnson and Vought pitch House Republicans on latest reconciliation effortPolitico Opinion | The GOP’s last-minute bill makes their priorities horribly clearMS NOW G.O.P. Rifts Deepen Over $95 Billion Budget Plan for Iran War and SAVE ActThe New York Times Tr…",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184562584",
+      "time": "2026-07-21T16:13:10",
+      "country": "Iran",
+      "title_ur": "جانسن اور ووٹ نے تازہ ترین مفاہمت کی کوششوں - پولیٹیکو پر ہاؤس ریپبلکنز کو پیش کیا۔",
+      "desc_ur": "جانسن اور ووٹ نے تازہ ترین مفاہمت کی کوششوں پر ہاؤس ریپبلکنز پولیٹیکو رائے | GOP کا آخری منٹ کا بل ان کی ترجیحات کو خوفناک طور پر واضح کرتا ہےMS NOW G.O.P. ایران جنگ اور بچت ایکٹ کے لیے 95 بلین ڈالر سے زیادہ کے بجٹ کے منصوبے میں دراڑیں مزید گہرا ہوگئیں نیویارک ٹائمز Tr…"
     }
   ],
-  "pakistan": [],
+  "pakistan": [
+    {
+      "title": "After Hormuz, Gate of Tears may make the world cry. What about India?",
+      "desc": "The Bab el-Mandeb Strait, a key shipping route connecting the Red Sea and the Gulf of Aden, faces growing risks of disruption after Yemen’s Houthi movement warned of a maritime blockade targeting Saudi shipping. With US-Iran tensions escalating, the possibili…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/bab-el-mandeb-red-sea-and-houthis-after-hormuz-gate-of-tears-may-make-the-world-cry-what-about-india/articleshow/132541288.cms",
+      "time": "2026-07-21T16:13:42",
+      "country": "Pakistan",
+      "title_ur": "ہرمز کے بعد آنسوؤں کا دروازہ دنیا کو رلا سکتا ہے۔ بھارت کا کیا ہوگا؟",
+      "desc_ur": "آبنائے باب المندب، جو بحیرہ احمر اور خلیج عدن کو ملانے والا ایک اہم جہاز رانی کا راستہ ہے، یمن کی حوثی تحریک کی جانب سے سعودی جہاز رانی کو نشانہ بنانے والی سمندری ناکہ بندی کے انتباہ کے بعد رکاوٹ کے بڑھتے ہوئے خطرات کا سامنا ہے۔ امریکہ اور ایران کے درمیان کشیدگی بڑھنے کے بعد، امکان…"
+    },
+    {
+      "title": "Attacks between US and Iran across Mideast overshadow efforts to keep diplomacy alive",
+      "desc": "Diplomats are seeking to salvage the collapsed interim deal between Iran and the United States even as both countries continued to launch attacks in a 10th day of renewed fighting. Iranian Interior Minister Eskandar Momeni’s visit to Pakistan, a key…",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/iran-us-hormuz-strait-war-july-20-2026-1664f6a4dad005a99771b2ad15213585",
+      "time": "2026-07-21T16:00:51",
+      "country": "Pakistan",
+      "title_ur": "مشرق وسطیٰ میں امریکہ اور ایران کے درمیان حملوں نے سفارت کاری کو زندہ رکھنے کی کوششوں کو زیر کیا ہے۔",
+      "desc_ur": "سفارت کار ایران اور امریکہ کے درمیان ٹوٹے ہوئے عبوری معاہدے کو بچانے کے لیے کوشاں ہیں جب کہ دونوں ممالک نے نئے سرے سے لڑائی کے 10ویں دن حملے جاری رکھے۔ ایرانی وزیر داخلہ اسکندر مومنی کا دورہ پاکستان، اہم…"
+    },
+    {
+      "title": "US, Iran intensify attacks as diplomacy struggles to revive truce",
+      "desc": "Diplomatic efforts to revive the collapsed US-Iran interim agreement are gathering pace.  Shipping disruptions are deepening as the Strait of Hormuz remains largely blocked.  The United States carried out fresh airstrikes on Iranian military targets.  Iran at…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/us-iran-intensify-attacks-as-diplomacy-struggles-to-revive-truce/articleshow/132540759.cms",
+      "time": "2026-07-21T15:55:34",
+      "country": "Pakistan",
+      "title_ur": "جنگ بندی کی بحالی کے لیے سفارت کاری کی جدوجہد کے دوران امریکہ، ایران حملے تیز کر رہے ہیں۔",
+      "desc_ur": "امریکہ اور ایران کے ٹوٹے ہوئے عبوری معاہدے کو بحال کرنے کے لیے سفارتی کوششیں تیز ہو رہی ہیں۔  آبنائے ہرمز بڑی حد تک بند رہنے کی وجہ سے جہاز رانی میں رکاوٹیں گہرے ہو رہی ہیں۔  امریکہ نے ایرانی فوجی اہداف پر تازہ فضائی حملے کیے ہیں۔  ایران پر…"
+    },
+    {
+      "title": "MS NOW Host Rips Megyn Kelly For Convenient Pivot Against Trump’s ‘Brazen Corruption’",
+      "desc": "“Deadline: White House” host Nicolle Wallace said MAGA pundits like Kelly simply “cannot launder any more” of the president’s self-dealings.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/nicolle-wallace-calls-out-megyn-kelly-dont-fall-for-sad-megyn-trump-brazen-corruption_n_6a5f43f0e4b06bbe43f3d86e",
+      "time": "2026-07-21T15:53:44",
+      "country": "Pakistan",
+      "title_ur": "MS NOW کی میزبانی میگین کیلی کو ٹرمپ کی 'بے ڈھنگی بدعنوانی' کے خلاف آسان محور کے لیے رِپس کرتی ہے۔",
+      "desc_ur": "\"ڈیڈ لائن: وائٹ ہاؤس\" کے میزبان نکول والیس نے کہا کہ کیلی جیسے MAGA پنڈت صدر کے خود سے متعلق معاملات کو \"مزید لانڈرنگ نہیں کر سکتے\"۔"
+    }
+  ],
   "business": {
     "quote": "Risk comes from not knowing what you're doing.",
     "author": "Warren Buffett",
