@@ -1,187 +1,197 @@
 {
-  "generated": "2026-07-23T15:51:15Z",
+  "generated": "2026-07-23T17:13:53Z",
   "world": [
     {
-      "title": "WATCH: Women go online to share post-divorce glow-ups",
-      "desc": "A growing social media trend has women sharing how they've transformed emotionally and physically after divorce.",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/video/134979351/",
-      "time": "2026-07-22T15:50:32",
-      "country": "International",
-      "title_ur": "دیکھو: خواتین طلاق کے بعد کے گلو اپس کو شیئر کرنے کے لیے آن لائن جاتی ہیں۔",
-      "desc_ur": "سوشل میڈیا کے بڑھتے ہوئے رجحان میں خواتین یہ بتا رہی ہیں کہ طلاق کے بعد وہ جذباتی اور جسمانی طور پر کیسے تبدیل ہوئیں۔"
-    },
-    {
-      "title": "Nolan Wells update: NAACP acknowledges possible accident as independent autopsy raises troubling unanswered questions",
-      "desc": "An independent autopsy could not determine how 18-year-old Nolan Wells died, leaving both the cause and manner of death listed as undetermined. NAACP President Derrick Johnson said the death may have been an accident if the evidence supports it. However, Well…",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/sports/international-sports/nolan-wells-update-naacp-acknowledges-possible-accident-as-independent-autopsy-raises-troubling-unanswered-questions/articleshow/132562688.cms",
-      "time": "2026-07-22T15:49:03",
-      "country": "US",
-      "title_ur": "نولان ویلز کی تازہ کاری: این اے اے سی پی نے ممکنہ حادثے کو تسلیم کیا کیونکہ آزاد پوسٹ مارٹم نے پریشان کن سوالات اٹھائے ہیں جن کا جواب نہیں دیا گیا",
-      "desc_ur": "ایک آزاد پوسٹ مارٹم اس بات کا تعین نہیں کر سکا کہ 18 سالہ نولان ویلز کی موت کیسے ہوئی، موت کی وجہ اور طریقہ دونوں کو غیر متعین کے طور پر درج کیا گیا۔ NAACP کے صدر ڈیرک جانسن نے کہا کہ اگر شواہد اس کی تائید کرتے ہیں تو موت ایک حادثہ ہو سکتی ہے۔ تاہم، ٹھیک ہے…"
-    },
-    {
-      "title": "Proposed US-Saudi nuclear energy deal: What we know so far",
-      "desc": "Reports suggest ‌the Trump administration backs a pact with Saudi Arabia allowing it to enrich uranium.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/7/22/proposed-us-saudi-nuclear-energy-deal-what-we-know-so-far",
-      "time": "2026-07-22T15:46:56",
-      "country": "US",
-      "title_ur": "امریکہ سعودی جوہری توانائی کا مجوزہ معاہدہ: ہم اب تک کیا جانتے ہیں۔",
-      "desc_ur": "رپورٹس بتاتی ہیں کہ ٹرمپ انتظامیہ سعودی عرب کے ساتھ ایک معاہدے کی حمایت کرتی ہے جس میں اسے یورینیم افزودہ کرنے کی اجازت دی جاتی ہے۔"
-    },
-    {
-      "title": "Why some Dems are standing by Israel",
-      "desc": "Last week, House Democrats voted on an amendment that would have cut $3.3 billion in annual US military aid to Israel from a State Department funding bill. The amendment was brought to the floor by Rep. Thomas Massie, an outgoing Republican from Kentucky. It …",
-      "source": "Vox",
-      "url": "https://www.vox.com/podcasts/496385/israel-democrat-support-massie-dsa",
-      "time": "2026-07-22T15:46:13",
-      "country": "Israel",
-      "title_ur": "کچھ ڈیم اسرائیل کے ساتھ کیوں کھڑے ہیں؟",
-      "desc_ur": "پچھلے ہفتے ہاؤس ڈیموکریٹس نے ایک ترمیم پر ووٹ دیا جس کے تحت اسٹیٹ ڈپارٹمنٹ کے فنڈنگ ​​بل سے اسرائیل کے لیے سالانہ امریکی فوجی امداد میں 3.3 بلین ڈالر کی کٹوتی ہوگی۔ یہ ترمیم کینٹکی سے سبکدوش ہونے والے ریپبلکن ریپبلکن تھامس میسی نے پیش کی۔ یہ…"
-    },
-    {
-      "title": "Bihar Police, SBI launch cyber safety campaign",
-      "desc": "Bihar Police and SBI launch ‘Cyber Secure Bihar’ in Patna to boost cyber awareness, safe digital habits, and fraud prevention via trainings and outreach.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/patna/bihar-police-sbi-launch-cyber-safety-campaign/articleshow/132562622.cms",
-      "time": "2026-07-22T15:45:41",
-      "country": "International",
-      "title_ur": "بہار پولیس، ایس بی آئی نے سائبر سیفٹی مہم شروع کی۔",
-      "desc_ur": "بہار پولیس اور SBI نے پٹنہ میں سائبر بیداری، محفوظ ڈیجیٹل عادات، اور تربیت اور آؤٹ ریچ کے ذریعے دھوکہ دہی کی روک تھام کو فروغ دینے کے لیے ’سائبر سیکیور بہار‘ کا آغاز کیا۔"
-    },
-    {
-      "title": "Can Andy Burnham save Britain? Wait, what would that even mean?",
-      "desc": "Ever since Brexit, the UK has been on a downward economic and political slide. Can improved vibes really fix that?",
-      "source": "Salon",
-      "url": "https://www.salon.com/2026/07/22/can-andy-burnham-save-britain-wait-what-would-that-even-mean/",
-      "time": "2026-07-22T15:45:36",
-      "country": "UK",
-      "title_ur": "کیا اینڈی برنہم برطانیہ کو بچا سکتے ہیں؟ رکو، اس کا کیا مطلب ہوگا؟",
-      "desc_ur": "بریکسٹ کے بعد سے، برطانیہ اقتصادی اور سیاسی طور پر نیچے کی طرف جا رہا ہے۔ کیا بہتر وائبز واقعی اسے ٹھیک کر سکتے ہیں؟"
-    },
-    {
-      "title": "FBI Director Kash Patel to Make Rare Trip to Russia: Report",
-      "desc": "A new report says that FBI Director Kash Patel is planning a trip to Russia later this year.\nThe post FBI Director Kash Patel to Make Rare Trip to Russia: Report appeared first on The Gateway Pundit.",
-      "source": "Thegatewaypundit.com",
-      "url": "https://www.thegatewaypundit.com/2026/07/fbi-director-kash-patel-make-rare-trip-russia/",
-      "time": "2026-07-22T15:45:27",
-      "country": "Russia",
-      "title_ur": "ایف بی آئی کے ڈائریکٹر کاش پٹیل روس کا نایاب دورہ کریں گے: رپورٹ",
-      "desc_ur": "ایک نئی رپورٹ میں کہا گیا ہے کہ ایف بی آئی کے ڈائریکٹر کاش پٹیل اس سال کے آخر میں روس کے دورے کا منصوبہ بنا رہے ہیں۔\nThe post ایف بی آئی کے ڈائریکٹر کاش پٹیل روس کا نایاب دورہ کریں گے: رپورٹ appeared first on The Gateway Pundit."
-    },
-    {
-      "title": "Trump Puts Words in the Mouths of Dead Soldiers to Defend His War",
-      "desc": "President Trump tried to claim Wednesday that U.S. soldiers killed in the Iran war all agreed with his stated mission.Trump made the remarks as he was about to board Air Force One and head to Dover Air Force Base for a dignified transfer ceremony to honor the…",
+      "title": "Trump BBC Defamation Lawsuit Backfires Big-Time—With Subpoenas Coming",
+      "desc": "President Trump’s $10 billion defamation lawsuit against the British Broadcasting Company is backfiring in his face, as a judge has greenlit the subpoenaing of his inner circle.Trump last year filed a lawsuit against the BBC over a 2024 episode of Panorama ti…",
       "source": "The New Republic",
-      "url": "https://newrepublic.com/post/213366/trump-speaks-for-dead-soldiers-iran-war",
-      "time": "2026-07-22T15:44:51",
-      "country": "Iran",
-      "title_ur": "ٹرمپ اپنی جنگ کے دفاع کے لیے مردہ فوجیوں کے منہ میں الفاظ ڈالتے ہیں۔",
-      "desc_ur": "صدر ٹرمپ نے بدھ کو یہ دعویٰ کرنے کی کوشش کی کہ ایران کی جنگ میں ہلاک ہونے والے امریکی فوجیوں نے ان کے بیان کردہ مشن سے اتفاق کیا ہے۔ ٹرمپ نے یہ ریمارکس اس وقت کیے جب وہ ایئر فورس ون میں سوار ہونے والے تھے اور ڈوور ایئر فورس بیس کے اعزاز میں ایک باوقار منتقلی کی تقریب کے لیے روانہ ہو رہے تھے۔"
-    },
-    {
-      "title": "Trump threatens Iranian power plants and bridges if ships attacked in Hormuz",
-      "desc": "US strikes have already widened from the south to western and central areas of Iran in recent days.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-07-23/trump-iran-war-bridges-power-plants-hormuz/106947132",
-      "time": "2026-07-22T15:44:49",
-      "country": "Iran",
-      "title_ur": "ٹرمپ نے دھمکی دی ہے کہ اگر ہرمز میں بحری جہازوں پر حملہ کیا گیا تو ایرانی پاور پلانٹس اور پل تباہ ہو جائیں گے۔",
-      "desc_ur": "حالیہ دنوں میں امریکی حملے پہلے ہی جنوب سے ایران کے مغربی اور وسطی علاقوں تک پھیل چکے ہیں۔"
-    },
-    {
-      "title": "New York City Investment Sales Exceeding 2025 Pace: Report",
-      "desc": "New York City investment sales dipped 10 percent over the second quarter of 2026, according to Avison Young’s latest property sales report. Under the hood, however, the city’s commercial real estate market is barreling past its 2025 pace. Overall investment s…",
-      "source": "Commercial Observer",
-      "url": "http://commercialobserver.com/2026/07/new-york-city-investment-sales-q2-2026-report/",
-      "time": "2026-07-22T15:44:02",
-      "country": "International",
-      "title_ur": "نیو یارک سٹی سرمایہ کاری کی فروخت 2025 کی رفتار سے زیادہ: رپورٹ",
-      "desc_ur": "ایوسن ینگ کی پراپرٹی سیلز کی تازہ ترین رپورٹ کے مطابق، نیویارک سٹی سرمایہ کاری کی فروخت 2026 کی دوسری سہ ماہی کے دوران 10 فیصد کم ہوئی۔ تاہم، شہر کی کمرشل رئیل اسٹیٹ مارکیٹ اپنی 2025 کی رفتار سے آگے بڑھ رہی ہے۔ مجموعی سرمایہ کاری…"
-    },
-    {
-      "title": "GOP erupts over 6,600 noncitizen voters found in blue state as scandal deepens: ‘Worse than anyone expected’",
-      "desc": "Republicans demand a halt to automatic voter registration through New Jersey's MVC after a software error registered 6,600 non-citizens to vote.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/gop-erupts-6600-noncitizen-voters-found-blue-state-scandal-deepens-worse-than-anyone-expected",
-      "time": "2026-07-22T15:43:32",
-      "country": "International",
-      "title_ur": "اسکینڈل گہرا ہونے پر جی او پی نے 6,600 سے زیادہ غیر شہری ووٹرز کو بلیو اسٹیٹ میں پایا: 'کسی کی توقع سے بھی بدتر'",
-      "desc_ur": "ریپبلکنز نے نیو جرسی کے MVC کے ذریعے ووٹر کے خودکار رجسٹریشن کو روکنے کا مطالبہ کیا جب ایک سافٹ ویئر کی خرابی کے بعد 6,600 غیر شہریوں کو ووٹ دینے کے لیے رجسٹر کیا گیا۔"
-    },
-    {
-      "title": "Mumbai Cement Mixer Truck Hits Delivery Boy, Driver Flees After Fatal Crash",
-      "desc": "Mumbai: Delivery boy Mohammad Azim Zulfukar, 21, dies after cement mixer truck hits his e-bike on Andheri Kurla Road; driver abandons vehicle and flees.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/mumbai-cement-mixer-truck-hits-delivery-boy-driver-flees-after-fatal-crash/articleshow/132562607.cms",
-      "time": "2026-07-22T15:43:02",
+      "url": "https://newrepublic.com/post/213372/trump-bbc-defamation-lawsuit-backfires-subpoenas-financial-info",
+      "time": "2026-07-22T17:13:10",
       "country": "UK",
-      "title_ur": "ممبئی سیمنٹ مکسر ٹرک نے ڈیلیوری بوائے کو ٹکر مار دی، ڈرائیور مہلک حادثے کے بعد فرار",
-      "desc_ur": "ممبئی: ڈیلیوری بوائے محمد عظیم ذوالفقار، 21، اندھیری کرلا روڈ پر سیمنٹ مکسر ٹرک کی ای بائک سے ٹکرانے کے بعد مر گیا۔ ڈرائیور گاڑی چھوڑ کر فرار ہو گیا۔"
+      "title_ur": "ٹرمپ کے بی بی سی کے ہتک عزت کے مقدمے نے بڑے وقت کو پیچھے چھوڑ دیا — سبپوینز آنے کے ساتھ",
+      "desc_ur": "صدر ٹرمپ کا برطانوی نشریاتی ادارے کے خلاف 10 بلین ڈالر کا ہتک عزت کا مقدمہ ان کے چہرے پر الٹا جواب دے رہا ہے، کیونکہ ایک جج نے اپنے اندرونی دائرے کی ذیلی کارروائی کو سبز رنگ دیا ہے۔ ٹرمپ نے گزشتہ سال پینوراما ٹائی کی 2024 کی ایک قسط پر بی بی سی کے خلاف مقدمہ دائر کیا تھا۔"
     },
     {
-      "title": "Terror in the guise of sport | Gazan soccer players exposed as terrorists",
-      "desc": "The IDF identified Gaza soccer players, coaches and a FIFA referee as Hamas and Islamic Jihad operatives, rejecting claims they were targeted solely as athletes.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/430589",
-      "time": "2026-07-22T15:43:00",
-      "country": "Israel",
-      "title_ur": "کھیل کی آڑ میں دہشت | غزان کے فٹ بال کھلاڑی دہشت گردوں کے طور پر بے نقاب",
-      "desc_ur": "آئی ڈی ایف نے غزہ کے فٹ بال کھلاڑیوں، کوچز اور فیفا کے ریفری کی شناخت حماس اور اسلامی جہاد کے کارندوں کے طور پر کی، ان دعووں کو مسترد کرتے ہوئے کہ انہیں صرف بطور کھلاڑی نشانہ بنایا گیا۔"
-    },
-    {
-      "title": "Houthi Threats Give Oil Markets a ‘Two Chokepoint Problem’",
-      "desc": "Ships continue to turn away from the southern end of the Red Sea, after Yemen’s Iran-backed Houthi rebels announced an embargo on Saudi exports through the Bab el-Mandeb Strait, a narrow channel that has become a lifeline for oil exports since the beginning o…",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/houthi-threats-give-oil-markets-a-two-chokepoint-problem/",
-      "time": "2026-07-22T15:42:39",
+      "title": "Latest combat deaths show risk has shifted to troops far from Iran’s borders - The Washington Post",
+      "desc": "Latest combat deaths show risk has shifted to troops far from Iran’s bordersThe Washington Post Who were the 4 US soldiers killed in Iranian attacks over the weekend?ABC News - Breaking News, Latest News and Videos US soldier believed to be killed in Jordan a…",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184586338",
+      "time": "2026-07-22T17:12:55",
       "country": "Iran",
-      "title_ur": "حوثی دھمکیوں نے تیل کی منڈیوں کو 'دو چوکی پوائنٹ کا مسئلہ' دے دیا",
-      "desc_ur": "یمن کے ایران کے حمایت یافتہ حوثی باغیوں کی جانب سے آبنائے باب المندب کے ذریعے سعودی برآمدات پر پابندی کے اعلان کے بعد بحیرہ احمر کے جنوبی سرے سے بحری جہازوں کا رخ موڑنا جاری ہے، یہ ایک تنگ چینل ہے جو شروع سے ہی تیل کی برآمدات کے لیے لائف لائن بن گیا ہے۔"
+      "title_ur": "تازہ ترین جنگی اموات سے ظاہر ہوتا ہے کہ خطرہ ایران کی سرحدوں سے دور فوجیوں تک منتقل ہو گیا ہے - واشنگٹن پوسٹ",
+      "desc_ur": "تازہ ترین جنگی اموات سے پتہ چلتا ہے کہ خطرہ ایران کی سرحدوں سے بہت دور فوجیوں تک منتقل ہو گیا ہے واشنگٹن پوسٹ ہفتے کے آخر میں ایرانی حملوں میں ہلاک ہونے والے 4 امریکی فوجی کون تھے؟"
     },
     {
-      "title": "Man chops off patner’s hands in broad daylight attack in Thiruvananthapuram",
-      "desc": "Live-in partner arrested after machete attack in Kadakkavoor severs woman’s hands; victim critical in Thiruvananthapuram hospital; case filed for attempted murder.",
+      "title": "Trump Honors Soldiers Killed In Iranian Attacks",
+      "desc": "President Donald Trump and Defense Secretary Pete Hegseth attended a dignified transfer at Dover Air Force Base on Wednesday to honor four U.S. Army soldiers killed during recent attacks linked to the ongoing conflict with Iran, according to CBS News.\n\nThe …",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/b5a274df6233ba58",
+      "time": "2026-07-22T17:12:47",
+      "country": "Iran",
+      "title_ur": "ٹرمپ نے ایرانی حملوں میں ہلاک ہونے والے فوجیوں کو خراج عقیدت پیش کیا۔",
+      "desc_ur": "سی بی ایس نیوز کے مطابق، صدر ڈونلڈ ٹرمپ اور وزیر دفاع پیٹ ہیگستھ نے بدھ کے روز ڈوور ایئر فورس بیس میں ایران کے ساتھ جاری تنازعے سے منسلک حالیہ حملوں کے دوران ہلاک ہونے والے چار امریکی فوجیوں کو خراج عقیدت پیش کرنے کے لیے ایک باوقار منتقلی میں شرکت کی۔\n\nاس…"
+    },
+    {
+      "title": "Israel, the Only Middle East Nuclear Weapons Power, Fears US-Saudi Deal",
+      "desc": "Reports of a new deal that would see the United States invest in Saudi Arabia's civilian nuclear capabilities have sparked concerns within Israel that the Kingdom could ultimately weaponize its program amid deepening unrest in the Middle East.\nIsrael has neve…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/0472f57386da27d5",
+      "time": "2026-07-22T17:12:34",
+      "country": "Israel",
+      "title_ur": "مشرق وسطیٰ میں ایٹمی ہتھیاروں کی واحد طاقت اسرائیل کو امریکہ سعودی ڈیل سے خوف ہے۔",
+      "desc_ur": "ایک نئے معاہدے کی رپورٹس جس میں دیکھا جائے گا کہ امریکہ سعودی عرب کی سویلین جوہری صلاحیتوں میں سرمایہ کاری کرے گا، اسرائیل کے اندر یہ خدشات جنم لے رہے ہیں کہ مشرق وسطیٰ میں بڑھتی ہوئی بدامنی کے درمیان مملکت بالآخر اپنے پروگرام کو ہتھیار بنا سکتی ہے۔\nاسرائیل نے کبھی…"
+    },
+    {
+      "title": "Vijay, Stalin call for abolition of NEET; CM slams Rahul’s arrest",
+      "desc": "CHENNAI: Tamil Nadu chief minister C Joseph Vijay and former CM M K Stalin on Wednesday renewed their demand for the abolition of NEET as protests aga.",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/thiruvananthapuram/man-chops-off-patners-hands-in-broad-daylight-attack-in-thiruvananthapuram/articleshow/132562553.cms",
-      "time": "2026-07-22T15:41:36",
+      "url": "https://timesofindia.indiatimes.com/city/chennai/vijay-stalin-call-for-abolition-of-neet-cm-slams-rahuls-arrest/articleshow/132564368.cms",
+      "time": "2026-07-22T17:11:39",
       "country": "International",
-      "title_ur": "ترواننت پورم میں دن دیہاڑے حملہ میں آدمی نے ساتھی کے ہاتھ کاٹ ڈالے۔",
-      "desc_ur": "کدکاؤور میں خاتون کے ہاتھ کاٹنے کے بعد لائیو ان پارٹنر گرفتار؛ ترواننت پورم کے اسپتال میں متاثرہ کی حالت نازک؛ اقدام قتل کا مقدمہ درج۔"
+      "title_ur": "وجے، اسٹالن کا NEET کو ختم کرنے کا مطالبہ؛ سی ایم نے راہل کی گرفتاری پر تنقید کی۔",
+      "desc_ur": "چنئی: تمل ناڈو کے وزیر اعلی سی جوزف وجے اور سابق وزیر اعلی ایم کے اسٹالن نے بدھ کو احتجاج کے طور پر NEET کو ختم کرنے کے اپنے مطالبے کی تجدید کی۔"
+    },
+    {
+      "title": "Keep students focused on studies, away from protest calls: AIU to varsities",
+      "desc": "The Association of Indian Universities asked institutions to counsel students against missing classes for protests. Prolonged agitations come at a considerable cost to students' own academic studies. The AIU acknowledged student concerns but stressed the disr…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/keep-students-focused-on-studies-away-from-protest-calls-aiu-to-varsities/articleshow/132564246.cms",
+      "time": "2026-07-22T17:11:13",
+      "country": "India",
+      "title_ur": "طلباء کو احتجاجی کالوں سے دور، مطالعہ پر توجہ مرکوز رکھیں: AIU سے یونیورسٹیز",
+      "desc_ur": "ایسوسی ایشن آف انڈین یونیورسٹیز نے اداروں سے کہا کہ وہ طلباء کو احتجاج کے لیے لاپتہ کلاسوں کے خلاف مشورے دیں۔ طویل ایجی ٹیشنز طلباء کی اپنی تعلیمی تعلیم پر کافی لاگت آتی ہیں۔ اے آئی یو نے طلباء کے خدشات کو تسلیم کیا لیکن اس پر زور دیا…"
+    },
+    {
+      "title": "United Spirits Q1 profit rises 11%, buoyed by RCB business",
+      "desc": "United Spirits Q1 net profit rose 11% to Rs 463 crore on higher RCB sports earnings; revenue up 5% to Rs 6,122 crore as liquor volumes fell 3.4%.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/united-spirits-q1-profit-rises-11-buoyed-by-rcb-business/articleshow/132564367.cms",
+      "time": "2026-07-22T17:10:48",
+      "country": "US",
+      "title_ur": "یونائیٹڈ اسپرٹس کا Q1 منافع 11% بڑھ گیا، جو RCB کے کاروبار سے خوش ہے۔",
+      "desc_ur": "یونائیٹڈ اسپرٹس کا Q1 کا خالص منافع 11% بڑھ کر 463 کروڑ روپے تک RCB کھیلوں کی زیادہ آمدنی پر؛ شراب کے حجم میں 3.4 فیصد کمی کے ساتھ آمدنی 5 فیصد بڑھ کر 6,122 کروڑ روپے ہوگئی۔"
+    },
+    {
+      "title": "Desang river breaks 1998 record, flows above highest flood level in Sivasagar",
+      "desc": "Desang River in Assam’s Sivasagar tops 1998 flood record at 96.52m; several rivers stay above danger/warning levels, Kushiyara rising in Karimganj.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/guwahati/desang-river-breaks-1998-record-flows-above-highest-flood-level-in-sivasagar/articleshow/132564360.cms",
+      "time": "2026-07-22T17:10:16",
+      "country": "US",
+      "title_ur": "دیسانگ ندی نے 1998 کا ریکارڈ توڑ دیا، شیو ساگر میں سیلاب کی بلند ترین سطح سے اوپر بہہ رہا ہے۔",
+      "desc_ur": "آسام کے شیو ساگر میں دریائے دیسانگ 96.52 میٹر پر 1998 کے سیلاب کے ریکارڈ میں سب سے اوپر ہے۔ کئی دریا خطرے/انتباہی کی سطح سے اوپر ہیں، کریم گنج میں کشیارا بڑھ رہا ہے۔"
+    },
+    {
+      "title": "Custodial death probe of inmate in Nagercoil jail transferred to CB-CID",
+      "desc": "Tamil Nadu DGP transfers Nagercoil sub-jail custodial death probe of Sabari Varman to CB-CID amid assault claims, arrests and protests.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/madurai/custodial-death-probe-of-inmate-in-nagercoil-jail-transferred-to-cb-cid/articleshow/132564357.cms",
+      "time": "2026-07-22T17:09:31",
+      "country": "US",
+      "title_ur": "ناگرکوئل جیل میں قیدی کی حراستی موت کی تحقیقات CB-CID کو منتقل کر دی گئی۔",
+      "desc_ur": "تمل ناڈو کے ڈی جی پی نے حملہ کے دعووں، گرفتاریوں اور مظاہروں کے درمیان سبری ورمن کی ناگرکوئل سب جیل حراستی موت کی تحقیقات CB-CID کو منتقل کر دی۔"
+    },
+    {
+      "title": "The Army Is Burning Through Its AI Tokens",
+      "desc": "A little over a month after the Department of Defense (DOD) bragged that nearly half of its 3.5 million employees were using AI at work, members of the Army’s Combat Capabilities Development Command (DEVCOM) received an email informing them that they were bur…",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/submission/17349202/the-army-is-burning-through-its-ai-tokens",
+      "time": "2026-07-22T17:09:05",
+      "country": "US",
+      "title_ur": "فوج اپنے AI ٹوکنز کے ذریعے جل رہی ہے۔",
+      "desc_ur": "محکمہ دفاع (DOD) کی جانب سے ڈینگ مارنے کے ایک ماہ بعد کہ اس کے 3.5 ملین ملازمین میں سے تقریباً نصف کام پر AI استعمال کر رہے ہیں، فوج کی جنگی صلاحیتوں کی ترقی کی کمان (DEVCOM) کے ارکان کو ایک ای میل موصول ہوئی جس میں انہیں بتایا گیا کہ وہ دبے ہوئے ہیں…"
+    },
+    {
+      "title": "Iran’s August crude price cut for Asia signals market shift",
+      "desc": "Iran's oil price cut for Asia in August reflects strategic shifts amid US-Iran tensions, affecting global market stability.\nThe post Iran’s August crude price cut for Asia signals market shift appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-august-crude-price-cut-asia/",
+      "time": "2026-07-22T17:05:25",
+      "country": "Iran",
+      "title_ur": "ایشیا کے لیے ایران کی اگست میں خام تیل کی قیمت میں کمی مارکیٹ میں تبدیلی کا اشارہ دیتی ہے۔",
+      "desc_ur": "اگست میں ایشیا کے لیے ایران کی تیل کی قیمتوں میں کمی، امریکہ ایران کشیدگی کے درمیان تزویراتی تبدیلیوں کی عکاسی کرتی ہے، جس سے عالمی منڈی کے استحکام پر اثر پڑ رہا ہے۔\nThe post ایشیا کے لیے ایران کی اگست میں خام تیل کی قیمت میں کمی نے مارکیٹ میں تبدیلی کا اشارہ دے دیا appeared first on Crypto Briefing."
+    },
+    {
+      "title": "15 injured in fireworks blast during church festival in Dindigul",
+      "desc": "15 injured in cracker explosion during St Mary Magdalene Church festival in Vakkampatti, Dindigul; police probe after stacked fireworks ignited.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/madurai/15-injured-in-fireworks-blast-during-church-festival-in-dindigul/articleshow/132564219.cms",
+      "time": "2026-07-22T17:04:31",
+      "country": "International",
+      "title_ur": "ڈنڈیگل میں چرچ کے تہوار کے دوران آتشبازی کے دھماکے میں 15 زخمی",
+      "desc_ur": "ڈنڈیگل کے واکم پٹی میں سینٹ میری مگدالین چرچ کے تہوار کے دوران کریکر دھماکے میں 15 زخمی؛ پٹاخے کے ڈھیر لگنے کے بعد پولیس کی تحقیقات۔"
+    },
+    {
+      "title": "Alumnus’ gifted shares to fetch ₹112 cr for IIT Madras",
+      "desc": "IIT Madras may earn up to Rs 112 crore from Indo MIM’s IPO by selling 23.07 lakh donated shares; IPO priced Rs 461-485, opens Thursday.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/chennai/alumnus-gifted-shares-to-fetch-112-cr-for-iit-madras/articleshow/132564082.cms",
+      "time": "2026-07-22T17:04:23",
+      "country": "US",
+      "title_ur": "IIT مدراس کے لیے ₹112 کروڑ حاصل کرنے کے لیے سابق طلباء کے تحفے میں دیے گئے حصص",
+      "desc_ur": "آئی آئی ٹی مدراس 23.07 لاکھ عطیہ کردہ حصص فروخت کرکے انڈو ایم آئی ایم کے آئی پی او سے 112 کروڑ روپے تک کما سکتا ہے۔ IPO کی قیمت 461-485 روپے، جمعرات کو کھلتا ہے۔"
+    },
+    {
+      "title": "More eateries inspected in city",
+      "desc": "Joint health and food safety inspection in Kochi checks 7 shops; water samples taken, Rs 6,000 fines issued, hygiene drive after food poisoning and Shigella cases.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/kochi/more-eateries-inspected-in-city/articleshow/132564174.cms",
+      "time": "2026-07-22T17:03:39",
+      "country": "International",
+      "title_ur": "شہر میں مزید کھانے پینے کی اشیاء کا معائنہ کیا گیا۔",
+      "desc_ur": "کوچی میں صحت اور فوڈ سیفٹی کے مشترکہ معائنہ نے 7 دکانوں کی جانچ کی۔ پانی کے نمونے لیے گئے، 6000 روپے جرمانے جاری، فوڈ پوائزننگ اور شگیلا کیسز کے بعد حفظان صحت کی مہم۔"
+    },
+    {
+      "title": "Zetwerk, Ayr lock horns in US over trade-secret theft claims",
+      "desc": "Zetwerk and Ayr Energy trade trade-secret theft claims in US ITC and Texas court; Ayr seeks import ban and $1B damages as Zetwerk nears IPO.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/zetwerk-ayr-lock-horns-in-us-over-trade-secret-theft-claims/articleshow/132564173.cms",
+      "time": "2026-07-22T17:03:24",
+      "country": "US",
+      "title_ur": "Zetwerk، Ayr تجارتی خفیہ چوری کے دعووں پر امریکہ میں سینگ بند کر رہا ہے۔",
+      "desc_ur": "Zetwerk اور Ayr Energy تجارتی تجارتی خفیہ چوری کے دعوے US ITC اور ٹیکساس کی عدالت میں؛ Ayr درآمدی پابندی اور $1B ہرجانے کا مطالبہ کرتا ہے کیونکہ Zetwerk IPO کے قریب ہے۔"
     }
   ],
   "pakistan": [
     {
-      "title": "Bridge collapses in rain",
-      "desc": "Banchha bridge in Hatadihi block, Keonjhar, Odisha collapsed after heavy low-pressure rain, disrupting traffic and cutting vehicle access to nearby villages.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/bridge-collapses-in-rain/articleshow/132562683.cms",
-      "time": "2026-07-22T15:48:40",
+      "title": "‘Squad’ member Summer Lee mixes up two Jewish Dems — then Ilhan Omar tries to defend her and gets reminded of her own vote",
+      "desc": "WASHINGTON — What’s in a name? “Squad” Rep. Summer Lee (D-Pa.) mixed up two Jewish Democrats named “Josh” Tuesday while attempting to dunk on Rep. Josh Gottheimer (D-NJ) after he warned about the rise of socialism in the party. “What about Dems who sign bombs…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-chat/4388951/posts",
+      "time": "2026-07-22T17:08:27",
       "country": "Pakistan",
-      "title_ur": "بارش میں پل گر گیا۔",
-      "desc_ur": "اوڈیشہ کے کیونجھر کے ہتاڈیہی بلاک میں بنچھا پل شدید کم دباؤ کی بارش کے بعد منہدم ہوگیا، جس سے ٹریفک میں خلل پڑا اور قریبی دیہاتوں تک گاڑیوں کی رسائی منقطع ہوگئی۔"
+      "title_ur": "'اسکواڈ' کے رکن سمر لی نے دو یہودی ڈیموں کو ملایا - پھر الہان ​​عمر نے اس کا دفاع کرنے کی کوشش کی اور اسے اپنا ووٹ یاد دلایا",
+      "desc_ur": "واشنگٹن — نام میں کیا ہے؟ \"اسکواڈ\" کے نمائندے سمر لی (D-Pa.) نے منگل کو \"جوش\" نام کے دو یہودی ڈیموکریٹس کو ملایا جب کہ اس نے پارٹی میں سوشلزم کے عروج کے بارے میں خبردار کرنے کے بعد ریپ. جوش گوٹیمر (D-NJ) کو ڈنک مارنے کی کوشش کی۔ \"ڈیمز کا کیا ہوگا جو بم پر دستخط کرتے ہیں…"
     },
     {
-      "title": "Pakistan seeks $10 billion fund from US after mediating Iran talks",
-      "desc": "Pakistan has requested a ten billion dollar exchange stabilization facility from the United States. This loan aims to boost foreign reserves and ease pressure on the Pakistani rupee. The request follows Pakistan's diplomatic efforts in brokering talks over th…",
+      "title": "TVS Motor considers carving out financial services business",
+      "desc": "TVS Motor CMD Sudarshan Venu says firm is evaluating options including a carve-out of its profitable, fast-growing financial services arm (TVS Credit, Home Credit).",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/pakistan-seeks-10-billion-fund-from-us-after-mediating-iran-talks/articleshow/132562530.cms",
-      "time": "2026-07-22T15:43:20",
+      "url": "https://timesofindia.indiatimes.com/city/chennai/tvs-motor-considers-carving-out-financial-services-business/articleshow/132564144.cms",
+      "time": "2026-07-22T17:01:34",
       "country": "Pakistan",
-      "title_ur": "ایران مذاکرات میں ثالثی کے بعد پاکستان نے امریکا سے 10 ارب ڈالر کا فنڈ مانگ لیا۔",
-      "desc_ur": "پاکستان نے امریکہ سے دس ارب ڈالر کے زر مبادلہ کی استحکام کی سہولت کی درخواست کی ہے۔ اس قرض کا مقصد غیر ملکی ذخائر کو بڑھانا اور پاکستانی روپے پر دباؤ کم کرنا ہے۔ یہ درخواست ثالثی مذاکرات میں پاکستان کی سفارتی کوششوں کے بعد…"
+      "title_ur": "TVS موٹر مالیاتی خدمات کے کاروبار کو تیار کرنے پر غور کرتی ہے۔",
+      "desc_ur": "TVS موٹر کے سی ایم ڈی سدرشن وینو کا کہنا ہے کہ فرم اپنے منافع بخش، تیزی سے بڑھتے ہوئے مالیاتی خدمات کے بازو (TVS کریڈٹ، ہوم کریڈٹ) کے انتخاب سمیت اختیارات کا جائزہ لے رہی ہے۔"
     },
     {
-      "title": "Trimco initiates compulsory redemption and Nilörngruppen resolves to apply for delisting and to convene an extraordinary general meeting",
-      "desc": "On 4 May 2026, Trimco Group (UK) Limited (\"Trimco\"), launched a public offer to the shareholders of Nilörngruppen AB (publ) (\"Nilörngruppen\") (the \"Offer\"). Trimco declared the Offer unconditional on 13 July 2026 and that the Offer has been accepted to such a…",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/07/22/3331563/0/en/Trimco-initiates-compulsory-redemption-and-Nil%C3%B6rngruppen-resolves-to-apply-for-delisting-and-to-convene-an-extraordinary-general-meeting.html",
-      "time": "2026-07-22T15:30:00",
+      "title": "Brazil’s Oil Boom Is Accelerating as Asian Buyers Flee the Middle East",
+      "desc": "Since Middle East hostilities reignited, oil prices have soared higher, although they remain below the highs witnessed during April 2026. This can be blamed on U.S. strikes against Iran, with Tehran and Washington disrupting traffic in the Strait of Hormuz, t…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Brazils-Oil-Boom-Is-Accelerating-as-Asian-Buyers-Flee-the-Middle-East.html",
+      "time": "2026-07-22T17:00:00",
       "country": "Pakistan",
-      "title_ur": "Trimco نے لازمی چھٹکارا شروع کیا اور Nilörngruppen نے ڈی لسٹنگ کے لیے درخواست دینے اور ایک غیر معمولی جنرل میٹنگ بلانے کا فیصلہ کیا",
-      "desc_ur": "4 مئی 2026 کو، Trimco Group (UK) Limited (\"Trimco\") نے Nilörngruppen AB (publ) (\"Nilörngruppen\") (\"پیشکش\") کے شیئر ہولڈرز کے لیے ایک عوامی پیشکش شروع کی۔ Trimco نے 13 جولائی 2026 کو پیشکش کو غیر مشروط قرار دیا اور یہ کہ پیشکش کو قبول کر لیا گیا ہے ایسے…"
+      "title_ur": "ایشیائی خریداروں کے مشرق وسطیٰ سے فرار ہونے کے بعد برازیل میں تیل کی تیزی بڑھ رہی ہے۔",
+      "desc_ur": "جب سے مشرق وسطیٰ کی دشمنی دوبارہ شروع ہوئی ہے، تیل کی قیمتیں بہت زیادہ بڑھ گئی ہیں، حالانکہ وہ اپریل 2026 کے دوران دیکھی گئی بلندیوں سے نیچے ہیں۔ اس کا الزام ایران کے خلاف امریکی حملوں پر لگایا جا سکتا ہے، تہران اور واشنگٹن نے آبنائے ہرمز میں ٹریفک میں خلل ڈالنے کے ساتھ،…"
+    },
+    {
+      "title": "Reciting Shema with tefillin: Bar Kupershtein returns to where Hamas kidnapped him",
+      "desc": "Nine months after returning from Hamas captivity, Bar Kupershtein prayed, laid tefillin and recited Shema at the Nova site where he was abducted.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/430596",
+      "time": "2026-07-22T16:57:00",
+      "country": "Pakistan",
+      "title_ur": "تیفلن کے ساتھ شیما کی تلاوت کرتے ہوئے: بار کوپرشٹین واپس اس جگہ پہنچ گئے جہاں حماس نے اسے اغوا کیا تھا۔",
+      "desc_ur": "حماس کی قید سے واپسی کے نو ماہ بعد، بار کوپرشٹین نے نووا کے مقام پر جہاں سے اسے اغوا کیا گیا تھا، نماز پڑھی، تسبیح لی اور شیما کی تلاوت کی۔"
     }
   ],
   "business": {
