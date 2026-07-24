@@ -1,177 +1,167 @@
 {
-  "generated": "2026-07-24T02:05:45Z",
+  "generated": "2026-07-24T05:34:29Z",
   "world": [
     {
-      "title": "Thousands of Australians get their news from this site. Its editor doesn't exist",
-      "desc": "A \"right of centre\" website claiming to be news, with more than 42,000 Facebook followers, may not be as independent as it says. An ABC NEWS Verify investigation has found the site uses AI and a fake news editor.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-07-23/one-news-australia-site-linked-to-pro-one-nation-content/106948008",
-      "time": "2026-07-23T02:00:56",
-      "country": "US",
-      "title_ur": "اس سائٹ سے ہزاروں آسٹریلوی اپنی خبریں حاصل کرتے ہیں۔ اس کا ایڈیٹر موجود نہیں ہے۔",
-      "desc_ur": "42,000 سے زیادہ فیس بک کے پیروکاروں کے ساتھ خبر ہونے کا دعویٰ کرنے والی ایک \"مرکز کا حق\" ویب سائٹ شاید اتنی آزاد نہ ہو جتنا کہ اس کا کہنا ہے۔ ABC NEWS کی تصدیق کی تحقیقات سے پتہ چلا ہے کہ سائٹ AI اور جعلی نیوز ایڈیٹر کا استعمال کرتی ہے۔"
-    },
-    {
-      "title": "Gateway to Opportunities: Where Innovation Serves People -- Hangzhou's Journey from Countryside to Robotics Labs",
-      "desc": "Gateway to Opportunities: Where Innovation Serves People -- Hangzhou's Journey from Countryside to Robotics Labs",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/brandhub/pr-release/gateway-to-opportunities-where-innovation-serves-people-hangzhous-journey-from-countryside-to-robotics-labs/article71256210.ece",
-      "time": "2026-07-23T02:00:46",
+      "title": "Singapore Core Inflation Accelerates to 1.6% As Oil Risks Linger",
+      "desc": "Singapore’s core inflation accelerated last month as higher global energy costs are beginning to filter through to consumer prices.",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/singapore-core-inflation-accelerates-to-1-6-as-oil-risks-linger",
+      "time": "2026-07-23T05:32:12",
       "country": "International",
-      "title_ur": "مواقع کا گیٹ وے: جہاں انوویشن لوگوں کی خدمت کرتی ہے -- دیہی علاقوں سے روبوٹکس لیبز تک ہانگزو کا سفر",
-      "desc_ur": "مواقع کا گیٹ وے: جہاں انوویشن لوگوں کی خدمت کرتی ہے -- دیہی علاقوں سے روبوٹکس لیبز تک ہانگزو کا سفر"
+      "title_ur": "سنگاپور کی بنیادی افراط زر 1.6% تک تیز ہو گئی کیونکہ تیل کے خطرات برقرار ہیں۔",
+      "desc_ur": "سنگاپور کی بنیادی افراط زر میں پچھلے مہینے تیزی آئی کیونکہ توانائی کی عالمی قیمتیں صارفین کی قیمتوں میں شامل ہونے لگی ہیں۔"
     },
     {
-      "title": "US military carries out strikes on Iran as both sides threaten civilian infrastructure",
-      "desc": "US Central Command said the attacks were designed to “further degrade Iran's ability to threaten civilian mariners and commercial vessels transiting regional waters,” as the Americans push to regain control over the Strait of Hormuz",
+      "title": "Why is a US-Saudi nuclear pact causing alarm in Washington and the West Asia?",
+      "desc": "The US-Saudi nuclear pact raises alarms in Washington due to concerns over weapons proliferation and regional security dynamics.",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/world/us-military-carries-out-strikes-on-iran-as-both-sides-threaten-civilian-infrastructure/article71256176.ece",
-      "time": "2026-07-23T01:57:11",
-      "country": "Iran",
-      "title_ur": "امریکی فوج ایران پر حملے کرتی ہے کیونکہ دونوں طرف سے شہری بنیادی ڈھانچے کو خطرہ ہے۔",
-      "desc_ur": "امریکی سینٹرل کمانڈ نے کہا کہ یہ حملے \"ایران کی شہری بحری جہازوں اور علاقائی پانیوں سے گزرنے والے تجارتی بحری جہازوں کو دھمکی دینے کی صلاحیت کو مزید کم کرنے\" کے لیے کیے گئے تھے، کیونکہ امریکی آبنائے ہرمز پر دوبارہ کنٹرول حاصل کرنے کے لیے دباؤ ڈال رہے ہیں۔"
+      "url": "https://www.thehindubusinessline.com/news/world/why-is-a-us-saudi-nuclear-pact-causing-alarm-in-washington-and-the-west-asia/article71256468.ece",
+      "time": "2026-07-23T05:32:11",
+      "country": "US",
+      "title_ur": "امریکہ سعودی جوہری معاہدہ واشنگٹن اور مغربی ایشیا میں خطرے کا باعث کیوں ہے؟",
+      "desc_ur": "امریکہ-سعودی جوہری معاہدہ ہتھیاروں کے پھیلاؤ اور علاقائی سلامتی کی حرکیات پر تشویش کی وجہ سے واشنگٹن میں خطرے کی گھنٹی بجاتا ہے۔"
     },
     {
-      "title": "Herzog reads Book of Lamentations with soldiers of haredi brigade",
-      "desc": "President Herzog visits the Maccabim training base on the eve of Tisha B'Av and speaks with soldiers of the Hasmonean Brigade. \"What we are doing here is unconditional love, love for the land, and love for our people.\"",
+      "title": "Global Oil Prices Rise as Conflict With Iran Deepens",
+      "desc": "The Houthis claimed to have attacked two ships in the Red Sea, and Iran said a third caught fire near the Strait of Hormuz.",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/f6a4e7b6fd60cf28",
+      "time": "2026-07-23T05:31:45",
+      "country": "Iran",
+      "title_ur": "ایران کے ساتھ تنازعہ گہرا ہونے پر تیل کی عالمی قیمتوں میں اضافہ",
+      "desc_ur": "حوثیوں نے بحیرہ احمر میں دو بحری جہازوں پر حملہ کرنے کا دعویٰ کیا اور ایران نے کہا کہ تیسرے جہاز میں آبنائے ہرمز کے قریب آگ لگ گئی۔"
+    },
+    {
+      "title": "Saudi Arabia and US agree to landmark nuclear deal for civilian purposes",
+      "desc": "The US and Saudi Arabia have agreed to a civilian nuclear deal allowing Riyadh to build nuclear reactors.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/saudi-arabia-and-us-agree-to-landmark-nuclear-deal-for-civilian-purposes",
+      "time": "2026-07-23T05:31:11",
+      "country": "US",
+      "title_ur": "سعودی عرب اور امریکا نے سویلین مقاصد کے لیے تاریخی جوہری معاہدے پر اتفاق کیا ہے۔",
+      "desc_ur": "امریکہ اور سعودی عرب نے ایک سویلین جوہری معاہدے پر اتفاق کیا ہے جس کے تحت ریاض کو جوہری ری ایکٹر بنانے کی اجازت دی جائے گی۔"
+    },
+    {
+      "title": "Zakharova: Russia Calls for Diplomacy as Middle East Tensions Mount",
+      "desc": "Russia regrets to note that tensions in the Persian Gulf are escalating as the opposing sides continue to exchange strikes, causing extensive damage to civilian infrastructure in Iran and the Arab states, Russian Foreign Ministry spokeswoman Maria Zakharova s…",
+      "source": "Sputnikglobe.com",
+      "url": "https://sputnikglobe.com/20260723/zakharova-russia-calls-for-diplomacy-as-middle-east-tensions-mount-1124479355.html",
+      "time": "2026-07-23T05:29:14",
+      "country": "Iran",
+      "title_ur": "زخارووا: روس نے مشرق وسطیٰ میں کشیدگی بڑھنے پر سفارت کاری کا مطالبہ کیا۔",
+      "desc_ur": "روس نے اس بات پر افسوس کا اظہار کیا کہ خلیج فارس میں کشیدگی بڑھ رہی ہے کیونکہ مخالف فریقوں کی جانب سے حملوں کا تبادلہ جاری ہے، جس سے ایران اور عرب ریاستوں میں شہری انفراسٹرکچر کو بڑے پیمانے پر نقصان پہنچا ہے، روسی وزارت خارجہ کی ترجمان ماریا زاخارووا نے کہا ہے کہ…"
+    },
+    {
+      "title": "Brent oil tops $100 per barrel, as Tesla and Alphabet drag Wall Street lower",
+      "desc": "Brent oil shot to its highest price since May after increased fighting in the Middle East threatened to slow the global flow of crude. Sharp drops for Alphabet and Tesla, meanwhile, yanked the U.S. stock market on Thursday to its worst loss in a month. The S&…",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/stocks-markets-iran-trump-ai-inflation-45b9165d6c518f5bea668b6ba7a89838",
+      "time": "2026-07-23T05:25:38",
+      "country": "International",
+      "title_ur": "برینٹ آئل 100 ڈالر فی بیرل سے اوپر ہے، کیونکہ ٹیسلا اور الفابیٹ وال اسٹریٹ کو نیچے لے گئے",
+      "desc_ur": "مشرق وسطیٰ میں بڑھتی ہوئی لڑائی کے بعد عالمی سطح پر خام تیل کے بہاؤ کو سست کرنے کے خطرے کے بعد برینٹ تیل کی قیمت مئی کے بعد سے بلند ترین سطح پر پہنچ گئی۔ الفابیٹ اور ٹیسلا کے لیے تیزی سے گراوٹ، اس دوران، جمعرات کو امریکی سٹاک مارکیٹ کو ایک ماہ میں اس کے بدترین نقصان کی طرف لے گئی۔ ایس اینڈ…"
+    },
+    {
+      "title": "Rupee likely shielded by RBI intervention as oil surges",
+      "desc": "The Indian rupee remained largely unchanged on Thursday.  Higher oil prices and central bank actions influenced its movement.  Global tensions in the Red Sea and strikes on Iran escalated oil prices.  These rising energy costs pose a significant risk to India…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-likely-shielded-by-rbi-intervention-as-oil-surges/articleshow/132572568.cms",
+      "time": "2026-07-23T05:25:30",
+      "country": "Iran",
+      "title_ur": "روپیہ ممکنہ طور پر تیل میں اضافے کے ساتھ RBI کی مداخلت سے بچ گیا۔",
+      "desc_ur": "جمعرات کو ہندوستانی روپیہ کی قدر میں کوئی تبدیلی نہیں ہوئی۔  تیل کی بلند قیمتوں اور مرکزی بینک کے اقدامات نے اس کی نقل و حرکت کو متاثر کیا۔  بحیرہ احمر میں عالمی کشیدگی اور ایران پر حملوں سے تیل کی قیمتوں میں اضافہ ہوا۔  توانائی کی یہ بڑھتی ہوئی قیمتیں ہندوستان کے لیے ایک اہم خطرہ ہیں…"
+    },
+    {
+      "title": "Albo under pressure to take tougher stance against Israel's treatment of Palestinians - as Labor MP makes move against PM",
+      "desc": "A Labor MP is set to urge Anthony Albanese and the party to adopt a tougher stance on Israel.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-15998583/labor-israel-palestine-anthony-albanese.html",
+      "time": "2026-07-23T05:24:51",
+      "country": "Israel",
+      "title_ur": "البو پر فلسطینیوں کے ساتھ اسرائیل کے سلوک کے خلاف سخت مؤقف اختیار کرنے کے لیے دباؤ ہے - جیسا کہ لیبر ایم پی نے وزیر اعظم کے خلاف اقدام اٹھایا",
+      "desc_ur": "ایک لیبر ایم پی اینتھونی البانی اور پارٹی پر زور دینے کے لیے تیار ہے کہ وہ اسرائیل کے بارے میں سخت موقف اپنائے۔"
+    },
+    {
+      "title": "Tisha B'Av heat wave: Temperatures to soar across Israel",
+      "desc": "Scorching temperatures. heavy humidity, expected across much of Israel on Tisha B'Av, with relief forecast to arrive on Friday.",
       "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/430613",
-      "time": "2026-07-23T01:53:15",
+      "url": "https://www.israelnationalnews.com/news/430620",
+      "time": "2026-07-23T05:23:54",
+      "country": "Israel",
+      "title_ur": "Tisha B'Av گرمی کی لہر: پورے اسرائیل میں درجہ حرارت بڑھنے والا ہے۔",
+      "desc_ur": "جھلسا دینے والا درجہ حرارت۔ بھاری نمی، جس کی توقع زیادہ تر اسرائیل میں Tisha B'Av پر، ریلیف کی پیش گوئی کے ساتھ جمعے کو ہوگی۔"
+    },
+    {
+      "title": "'Kill Jackie': Catherine Zeta-Jones to headline thriller series",
+      "desc": "Catherine Zeta-Jones will headline the thriller series \"Kill Jackie\" on AMC+. The show features her as a former cocaine dealer targeted by assassins. Daniel Ings also stars in this gender-swapped adaptation of a novel. \"Kill Jackie\" will stream internationall…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/web-series/news/english/kill-jackie-catherine-zeta-jones-to-headline-thriller-series/articleshow/132572469.cms",
+      "time": "2026-07-23T05:21:40",
       "country": "International",
-      "title_ur": "ہرزوگ ہردی بریگیڈ کے سپاہیوں کے ساتھ نوحہ کی کتاب پڑھ رہا ہے۔",
-      "desc_ur": "صدر ہرزوگ نے ​​تیشا باو کے موقع پر میکابیم ٹریننگ بیس کا دورہ کیا اور ہاسمونین بریگیڈ کے سپاہیوں سے بات کی۔ \"ہم یہاں جو کچھ کر رہے ہیں وہ غیر مشروط محبت، زمین سے محبت اور اپنے لوگوں سے محبت ہے۔\""
+      "title_ur": "'کل جیکی': کیتھرین زیٹا جونز سنسنی خیز سیریز کی سرخی کے لیے",
+      "desc_ur": "Catherine Zeta-Jones AMC+ پر تھرلر سیریز \"Kill Jackie\" کی سرخی لگائیں گی۔ شو میں اسے ایک سابق کوکین ڈیلر کے طور پر دکھایا گیا ہے جسے قاتلوں نے نشانہ بنایا تھا۔ ڈینیئل انگز نے بھی ایک ناول کے اس صنف کی تبدیلی کے موافقت میں اداکاری کی ہے۔ \"کل جیکی\" بین الاقوامی سطح پر سٹریم کرے گا…"
     },
     {
-      "title": "Iran disables US radar, satellite systems, escalating conflict",
-      "desc": "Iran disables U.S. radar and satellite systems, escalating conflict. Nuclear deal by August 13, 2026 at 3.5% YES.\nThe post Iran disables US radar, satellite systems, escalating conflict appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-disables-us-radar-satellite-systems-escalating-conflict/",
-      "time": "2026-07-23T01:53:03",
-      "country": "Iran",
-      "title_ur": "ایران نے امریکی راڈار، سیٹلائٹ سسٹم کو غیر فعال کر دیا، تنازعات میں اضافہ",
-      "desc_ur": "ایران نے امریکی ریڈار اور سیٹلائٹ سسٹم کو ناکارہ کر دیا، تنازعات میں اضافہ۔ 13 اگست 2026 تک جوہری معاہدہ 3.5% ہاں۔\nThe post ایران نے امریکی ریڈار، سیٹلائٹ سسٹم کو ناکارہ بنا دیا، تنازعات میں اضافہ appeared first on Crypto Briefing."
-    },
-    {
-      "title": "Oil prices rise to six-week high as US-Iran tensions escalate",
-      "desc": "Oil prices climbed to a six-week high on Thursday. This surge followed new United States strikes on Iran and Houthi attacks. Iran's Revolutionary Guards reported an oil tanker caught fire near the Strait of Hormuz. The Houthis also threatened vessels carrying…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-rise-to-six-week-high-as-us-iran-tensions-escalate/articleshow/132570469.cms",
-      "time": "2026-07-23T01:51:07",
-      "country": "Iran",
-      "title_ur": "امریکا ایران کشیدگی بڑھنے کے بعد تیل کی قیمتیں چھ ہفتے کی بلند ترین سطح پر پہنچ گئیں۔",
-      "desc_ur": "جمعرات کو تیل کی قیمتیں چھ ہفتے کی بلند ترین سطح پر پہنچ گئیں۔ یہ اضافہ ایران اور حوثی حملوں پر امریکہ کے نئے حملوں کے بعد ہوا۔ ایران کے پاسداران انقلاب نے بتایا کہ آبنائے ہرمز کے قریب ایک آئل ٹینکر میں آگ لگ گئی۔ حوثیوں نے ان جہازوں کو بھی دھمکی دی جو لے جانے والے…"
-    },
-    {
-      "title": "Gift Nifty indicates a gap down opening for Indian stocks",
-      "desc": "Indian stock markets are likely to open on flat-to-negative note on Thursday amid mixed global cues. The escalation in Iran-US war, falling rupee, rising crude oil prices and FPI selling continue to hurt market sentiment.",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/gift-nifty-indicates-a-gap-down-opening-for-indian-stocks/article71256185.ece",
-      "time": "2026-07-23T01:49:14",
-      "country": "Iran",
-      "title_ur": "گفٹ نفٹی ہندوستانی اسٹاکس کے لیے نیچے کھلنے کے فرق کی نشاندہی کرتا ہے۔",
-      "desc_ur": "ملے جلے عالمی اشارے کے درمیان جمعرات کو ہندوستانی اسٹاک مارکیٹس فلیٹ سے منفی نوٹ پر کھلنے کا امکان ہے۔ ایران امریکہ جنگ میں اضافہ، روپے کی گرتی ہوئی قیمت، خام تیل کی قیمتوں میں اضافہ اور ایف پی آئی کی فروخت نے مارکیٹ کے جذبات کو نقصان پہنچانا جاری رکھا۔"
-    },
-    {
-      "title": "US-Iran tensions underpin dollar as yen nears 40-year low",
-      "desc": "The dollar stabilized on Thursday as U.S.-Iran tensions increased investor caution.  Rising oil prices fueled inflation fears and supported the safe-haven dollar.  The Japanese yen languished near a forty-year low with little recovery in sight.  European Cent…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/us-iran-tensions-underpin-dollar-as-yen-nears-40-year-low/articleshow/132570439.cms",
-      "time": "2026-07-23T01:46:31",
-      "country": "Iran",
-      "title_ur": "امریکی ایران کشیدگی ڈالر کو کم کرتی ہے کیونکہ ین 40 سال کی کم ترین سطح کے قریب ہے۔",
-      "desc_ur": "جمعرات کو ڈالر مستحکم ہوا کیونکہ امریکی ایران کشیدگی نے سرمایہ کاروں کی احتیاط میں اضافہ کیا۔  تیل کی بڑھتی ہوئی قیمتوں نے مہنگائی کے خدشات کو ہوا دی اور محفوظ پناہ گاہ ڈالر کو سہارا دیا۔  جاپانی ین چالیس سال کی کم ترین سطح کے قریب پہنچ گیا جس میں بہت کم بحالی نظر آئی۔  یورپی سینٹ…"
-    },
-    {
-      "title": "US State Department issues global travel caution amid Middle East tensions",
-      "desc": "US State Department issues global travel caution amid Middle East tensions. Iran reconstruction funding in a US-Iran deal by 2026 at 28.5% YES.\nThe post US State Department issues global travel caution amid Middle East tensions appeared first on Crypto Briefi…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-state-department-issues-global-travel-caution-amid-middle-east-tensions/",
-      "time": "2026-07-23T01:45:42",
-      "country": "Iran",
-      "title_ur": "امریکی محکمہ خارجہ نے مشرق وسطیٰ میں کشیدگی کے درمیان عالمی سفری احتیاط جاری کی ہے۔",
-      "desc_ur": "امریکی محکمہ خارجہ نے مشرق وسطیٰ میں کشیدگی کے درمیان عالمی سفری احتیاط جاری کردی۔ 2026 تک امریکہ-ایران معاہدے میں ایران کی تعمیر نو کی فنڈنگ ​​28.5% ہاں۔\nThe post امریکی محکمہ خارجہ نے مشرق وسطیٰ کشیدگی کے درمیان عالمی سفری احتیاط جاری کردی appeared first on Crypto Briefi…"
-    },
-    {
-      "title": "U.S. Casualties Underscore Toll of Unpopular War",
-      "desc": "“The stakes of the Iran war are becoming increasingly stark, and President Donald Trump was confronted with the latest evidence today when he traveled to the Dover Air Force Base in Delaware to pay his respects to four American soldiers killed in the line of …",
-      "source": "Politicalwire.com",
-      "url": "https://politicalwire.com/2026/07/22/u-s-casualties-underscore-toll-of-unpopular-war/",
-      "time": "2026-07-23T01:45:00",
-      "country": "Iran",
-      "title_ur": "امریکی ہلاکتیں غیر مقبول جنگ کے انڈر سکور ٹول",
-      "desc_ur": "\"ایران جنگ کے داؤ تیزی سے سنگین ہوتے جا رہے ہیں، اور صدر ڈونلڈ ٹرمپ کو آج اس وقت تازہ ترین شواہد کا سامنا کرنا پڑا جب انہوں نے ڈیلاویئر میں ڈوور ایئر فورس بیس کا سفر کیا تاکہ ان چار امریکی فوجیوں کو خراج تحسین پیش کیا جا سکے۔"
-    },
-    {
-      "title": "Gold off two-week peak as oil advances, Fed meeting eyed",
-      "desc": "Gold prices softened on Thursday after reaching recent highs. Escalating Middle East tensions boosted oil prices and the dollar's safe-haven appeal. Traders now await the Federal Reserve meeting for interest rate clues. Rising oil prices also fueled inflation…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-off-two-week-peak-as-oil-advances-fed-meeting-eyed/articleshow/132570419.cms",
-      "time": "2026-07-23T01:41:13",
-      "country": "International",
-      "title_ur": "تیل کی ترقی کے طور پر سونے کی دو ہفتے کی چوٹی سے دور، فیڈ میٹنگ کی نظر",
-      "desc_ur": "سونے کی قیمتیں حالیہ بلند ترین سطح پر پہنچنے کے بعد جمعرات کو نرم ہوئیں۔ مشرق وسطیٰ میں بڑھتی ہوئی کشیدگی نے تیل کی قیمتوں میں اضافہ کیا اور ڈالر کی محفوظ پناہ گاہ کی اپیل کی۔ تاجر اب شرح سود کے اشارے کے لیے فیڈرل ریزرو میٹنگ کا انتظار کر رہے ہیں۔ تیل کی بڑھتی ہوئی قیمتوں نے بھی مہنگائی کو ہوا دی..."
-    },
-    {
-      "title": "Saudi vessel Encelia attacked in Red Sea, fire contained; crew unharmed",
-      "desc": "Saudi vessel Encelia attacked in the Red Sea, with crew unharmed. Bab el-Mandeb Strait effectively closed by September 30 at 26% YES.\nThe post Saudi vessel Encelia attacked in Red Sea, fire contained; crew unharmed appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/saudi-vessel-encelia-attacked-in-red-sea-fire-contained-crew-unharmed/",
-      "time": "2026-07-23T01:40:38",
-      "country": "Saudi Arabia",
-      "title_ur": "بحیرہ احمر میں سعودی بحری جہاز Encelia پر حملہ، آگ پر قابو عملہ غیر محفوظ",
-      "desc_ur": "سعودی بحری جہاز اینسیلیا پر بحیرہ احمر میں حملہ، عملے کو کوئی نقصان نہیں پہنچا۔ آبنائے باب المندب 30 ستمبر تک مؤثر طریقے سے 26% ہاں پر بند ہو گیا۔\nThe post بحیرہ احمر میں سعودی بحری جہاز اینسیلیا پر حملہ، آگ پر قابو پالیا؛ عملہ غیر محفوظ appeared first on کرپٹو بریفنگ."
-    },
-    {
-      "title": "More women are going to sea, changing shipping",
-      "desc": "Times Special News: Paanch Saab.\\\" That's what they call her aboard the LPG tanker, BW Kizoku. Hindi for \\\"Fifth Sir\\\", it is a respectful nickname usually reserved for a yo.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/times-special/more-women-are-going-to-sea-changing-shipping/articleshow/132570350.cms",
-      "time": "2026-07-23T01:38:24",
+      "title": "[Catholic Caucus Devotional] My Catholic Life! Catholic Daily Reflections: Lifting the Sacred Veil — Thursday, July 23, 2026",
+      "desc": "Daily Readings from the USCCBThe disciples approached Jesus and said, “Why do you speak to the crowd in parables?” He said to them in reply, “Because knowledge of the mysteries of the Kingdom of heaven has been granted to you, but to them it has not been gran…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-religion/4389030/posts",
+      "time": "2026-07-23T05:19:49",
       "country": "US",
-      "title_ur": "مزید خواتین سمندر میں جا رہی ہیں، شپنگ تبدیل کر رہی ہیں۔",
-      "desc_ur": "ٹائمز اسپیشل نیوز: پنج صاب۔\" اسی کو وہ ایل پی جی ٹینکر، بی ڈبلیو کیزوکو میں سوار کہتے ہیں۔ ہندی میں \"ففتھ سر\" کے لیے، یہ عام طور پر یو کے لیے مختص ایک قابل احترام عرفی نام ہے۔"
+      "title_ur": "[کیتھولک کاکس ڈیوشنل] میری کیتھولک زندگی! کیتھولک ڈیلی ریفلیکشنز: مقدس پردہ اٹھانا — جمعرات، 23 جولائی، 2026",
+      "desc_ur": "یو ایس سی سی بی سے روزانہ پڑھنا شاگردوں نے یسوع کے پاس جا کر کہا، \"تم لوگوں سے تمثیلوں میں کیوں بات کرتے ہو؟\" اُس نے جواب میں اُن سے کہا، ”کیونکہ آسمان کی بادشاہی کے بھیدوں کا علم تمہیں دیا گیا ہے، لیکن اُن کو یہ علم نہیں دیا گیا…"
     },
     {
-      "title": "US dollar surges past 100 index amid Iran tensions, oil price concerns",
-      "desc": "US dollar index surpasses 100 amid Iran tensions and oil price concerns. Crude oil reaching a new all-time high by September 30 at 6.5% YES.\nThe post US dollar surges past 100 index amid Iran tensions, oil price concerns appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-dollar-surges-past-100-index-amid-iran-tensions-oil-price-concerns/",
-      "time": "2026-07-23T01:37:58",
+      "title": "Global Oil Prices Rise as Conflict with Iran Deepens",
+      "desc": "The Houthis claimed to have attacked two ships in the Red Sea, and Iran said a third caught fire near the Strait of Hormuz.",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/566f105419177a97",
+      "time": "2026-07-23T05:16:26",
       "country": "Iran",
-      "title_ur": "ایران کشیدگی، تیل کی قیمتوں کے خدشات کے درمیان امریکی ڈالر نے 100 انڈیکس کو پار کر دیا۔",
-      "desc_ur": "ایران کشیدگی اور تیل کی قیمتوں کے خدشات کے درمیان امریکی ڈالر انڈیکس 100 سے تجاوز کر گیا۔ خام تیل 30 ستمبر تک 6.5% کی نئی بلند ترین سطح پر پہنچ رہا ہے ہاں۔\nThe post ایران کشیدگی، تیل کی قیمتوں کے خدشات کے درمیان امریکی ڈالر نے 100 انڈیکس کو عبور کر لیا appeared first on Crypto Briefing."
+      "title_ur": "ایران کے ساتھ تنازعہ گہرا ہونے پر تیل کی عالمی قیمتوں میں اضافہ",
+      "desc_ur": "حوثیوں نے بحیرہ احمر میں دو بحری جہازوں پر حملہ کرنے کا دعویٰ کیا اور ایران نے کہا کہ تیسرے جہاز میں آبنائے ہرمز کے قریب آگ لگ گئی۔"
     },
     {
-      "title": "Petrol, diesel prices today, 23 July: Fuel rates in Delhi, Mumbai, Bengaluru, Kolkata amid rising oil prices",
-      "desc": "Petrol, diesel prices today, 23 July: Petrol and diesel prices across India remained unchanged even as Brent crude climbed to $95.5 per barrel, its highest level in more than six weeks, amid mounting concerns that the escalating conflict in the Middle East co…",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/petrol-diesel-prices-today-23-july-fuel-rates-in-delhi-mumbai-bengaluru-kolkata-amid-rising-oil-prices-11784768060068.html",
-      "time": "2026-07-23T01:32:46",
-      "country": "India",
-      "title_ur": "پٹرول، ڈیزل کی قیمتیں آج، 23 جولائی: تیل کی بڑھتی ہوئی قیمتوں کے درمیان دہلی، ممبئی، بنگلورو، کولکتہ میں ایندھن کی قیمتیں",
-      "desc_ur": "پیٹرول، ڈیزل کی قیمتیں آج، 23 جولائی: ہندوستان بھر میں پیٹرول اور ڈیزل کی قیمتوں میں کوئی تبدیلی نہیں ہوئی یہاں تک کہ برینٹ کروڈ کی قیمت 95.5 ڈالر فی بیرل تک پہنچ گئی، جو کہ چھ ہفتوں سے زائد عرصے میں اس کی بلند ترین سطح ہے، مشرق وسطیٰ میں بڑھتے ہوئے تنازعات کے درمیان بڑھتے ہوئے خدشات کے درمیان…"
+      "title": "Israel building earthen barrier in Gaza to entrench division of the enclave",
+      "desc": "The construction of the barrier has fuelled Palestinian fears that most of Gaza will never be relinquished by Israel.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/7/23/israel-building-earthen-barrier-in-gaza-to-entrench-division-of-the-enclave",
+      "time": "2026-07-23T05:15:27",
+      "country": "Israel",
+      "title_ur": "اسرائیل غزہ میں انکلیو کی تقسیم کے لیے مٹی کی رکاوٹ بنا رہا ہے۔",
+      "desc_ur": "رکاوٹ کی تعمیر نے فلسطینیوں کے خوف کو ہوا دی ہے کہ غزہ کا زیادہ تر حصہ اسرائیل کبھی نہیں چھوڑے گا۔"
+    },
+    {
+      "title": "US air strike hits Iran’s Kiar county, no casualties reported",
+      "desc": "US air strike hits Iran's Kiar county with no casualties reported. Full airspace closure by July 31 at 42.5% YES.\nThe post US air strike hits Iran’s Kiar county, no casualties reported appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/us-air-strike-hits-irans-kiar-county-no-casualties-reported/",
+      "time": "2026-07-23T05:14:33",
+      "country": "Iran",
+      "title_ur": "امریکی فضائی حملہ ایران کی کیار کاؤنٹی پر ہوا، کوئی جانی نقصان نہیں ہوا۔",
+      "desc_ur": "امریکی فضائی حملہ ایران کی کیار کاؤنٹی پر کیا گیا جس میں کوئی جانی نقصان نہیں ہوا۔ 31 جولائی تک مکمل فضائی حدود 42.5% ہاں بند ہو جائے گی۔\nThe post ایران کی کیار کاؤنٹی پر امریکی فضائی حملہ، کوئی جانی نقصان نہیں ہوا appeared first on Crypto Briefing."
+    },
+    {
+      "title": "Gujarat launches Samras Vidya Setu campaign to bring 80,000 school dropouts back to classrooms",
+      "desc": "The Gujarat government has launched the ‘Samras Vidya Setu’ Mega Campaign to bring more than 80,000 school dropout children back into classrooms and achieve the goal of zero dropout. Chief Minister Bhupendra Patel said identified students will be re-enrolled …",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/education/news/gujarat-launches-samras-vidya-setu-campaign-to-bring-80000-school-dropouts-back-to-classrooms/articleshow/132572253.cms",
+      "time": "2026-07-23T05:10:14",
+      "country": "International",
+      "title_ur": "گجرات نے 80,000 اسکول چھوڑنے والوں کو کلاس رومز میں واپس لانے کے لیے سمرس ودیا سیٹو مہم کا آغاز کیا",
+      "desc_ur": "گجرات حکومت نے 80,000 سے زیادہ اسکول چھوڑنے والے بچوں کو کلاس رومز میں واپس لانے اور زیرو ڈراپ آؤٹ کے ہدف کو حاصل کرنے کے لیے 'سمرس ودیا سیتو' میگا مہم شروع کی ہے۔ وزیر اعلی بھوپیندر پٹیل نے کہا کہ شناخت شدہ طلباء کو دوبارہ داخلہ دیا جائے گا…"
     }
   ],
   "pakistan": [
     {
-      "title": "Crow: Trump Attempting to Weaponize Nat’l Security Infrastructure to Suppress Voting",
-      "desc": "Wednesday on MS NOW's \"Deadline,\" Rep. Jason Crow (D-CO) said President Donald Trump wants to weaponize our \"entire national security infrastructure\" to suppress elections.\nThe post Crow: Trump Attempting to Weaponize Nat’l Security Infrastructure to Suppress…",
-      "source": "Breitbart News",
-      "url": "https://www.breitbart.com/clips/2026/07/22/crow-trump-attempting-to-weaponize-natl-security-infrastructure-to-suppress-voting/",
-      "time": "2026-07-23T02:03:23",
+      "title": "Skeptical Science New Research for Week #30 2026",
+      "desc": "Open access notables\n\nRecord-low 2025 and 2026 ice extents restore Arctic winter sea-ice decline, Chan et al., Proceedings of the National Academy of Sciences\n\nRecent analyses have suggested that the decadal rate of Arctic winter sea-ice extent decline weaken…",
+      "source": "Skepticalscience.com",
+      "url": "https://skepticalscience.com/new_research_2026_30.html",
+      "time": "2026-07-23T05:23:51",
       "country": "Pakistan",
-      "title_ur": "کرو: ٹرمپ ووٹنگ کو دبانے کے لیے قومی سلامتی کے بنیادی ڈھانچے کو ہتھیار بنانے کی کوشش کر رہے ہیں۔",
-      "desc_ur": "بدھ کو MS NOW کی \"ڈیڈ لائن\" پر نمائندہ جیسن کرو (D-CO) نے کہا کہ صدر ڈونلڈ ٹرمپ انتخابات کو دبانے کے لیے ہمارے \"مکمل قومی سلامتی کے بنیادی ڈھانچے\" کو ہتھیار بنانا چاہتے ہیں۔\nThe post کرو: ٹرمپ قومی سلامتی کے بنیادی ڈھانچے کو دبانے کے لیے ہتھیار بنانے کی کوشش کر رہے ہیں…"
-    },
-    {
-      "title": "China's copper mine in Pakistan targeted by militant 'blockade'",
-      "desc": "MaterialsChina's copper mine in Pakistan targeted by militant 'blockade'\nAttacks in Balochistan disrupt supplies, threatening Beijing's top import item\n The Saindak copper and gold mine is one of China's oldest mining investments in Pakistan. (Screenshot from…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/68b396a14c950782",
-      "time": "2026-07-23T02:00:28",
-      "country": "Pakistan",
-      "title_ur": "پاکستان میں چین کی تانبے کی کان کو عسکریت پسندوں کی ناکہ بندی کا نشانہ بنایا گیا",
-      "desc_ur": "مواد پاکستان میں چین کی تانبے کی کان کو عسکریت پسندوں کی ناکہ بندی کا نشانہ بنایا گیا\nبلوچستان میں حملوں سے سپلائی میں خلل پڑتا ہے، بیجنگ کی اعلیٰ درآمدی اشیاء کو خطرہ\n سیندک تانبے اور سونے کی کان پاکستان میں چین کی قدیم ترین کان کنی سرمایہ کاری میں سے ایک ہے۔ (اسکرین شاٹ منجانب…"
+      "title_ur": "شکی سائنس کی نئی تحقیق برائے ہفتہ #30 2026",
+      "desc_ur": "قابل رسائی افراد کو کھولیں۔\n\nریکارڈ کم 2025 اور 2026 برف کی حد آرکٹک موسم سرما میں سمندری برف کی کمی کو بحال کرتی ہے، چان وغیرہ، نیشنل اکیڈمی آف سائنسز کی کارروائی\n\nحالیہ تجزیوں نے تجویز کیا ہے کہ آرکٹک موسم سرما میں سمندری برف کی حد تک کمی کی دہائی کی شرح کمزور ہوتی ہے…"
     }
   ],
   "business": {
@@ -190,7 +180,7 @@
         "low": 25,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 99
+        "precip": 88
       },
       {
         "date": "2026-07-25",
@@ -199,7 +189,7 @@
         "low": 25,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 100
+        "precip": 99
       },
       {
         "date": "2026-07-26",
@@ -208,7 +198,7 @@
         "low": 27,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 82
+        "precip": 79
       },
       {
         "date": "2026-07-27",
@@ -217,7 +207,7 @@
         "low": 26,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 65
+        "precip": 69
       },
       {
         "date": "2026-07-28",
@@ -226,7 +216,7 @@
         "low": 26,
         "condition": "Light Showers",
         "condition_ur": "ہلکی بارش",
-        "precip": 77
+        "precip": 83
       },
       {
         "date": "2026-07-29",
@@ -235,7 +225,7 @@
         "low": 27,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 75
+        "precip": 63
       },
       {
         "date": "2026-07-30",
