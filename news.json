@@ -1,169 +1,158 @@
 {
-  "generated": "2026-07-24T20:15:17Z",
+  "generated": "2026-07-24T21:35:22Z",
   "world": [
     {
-      "title": "WATCH: Jimothy the raccoon becomes a viral star",
-      "desc": "The raccoon has gone viral after being spotted in Seattle and shared on social media.",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/video/135025499/",
-      "time": "2026-07-23T20:14:50",
-      "country": "International",
-      "title_ur": "دیکھو: جیموتھی ایک قسم کا جانور ایک وائرل اسٹار بن گیا۔",
-      "desc_ur": "ایک قسم کا جانور سیٹل میں دیکھے جانے اور سوشل میڈیا پر شیئر کرنے کے بعد وائرل ہو گیا ہے۔"
-    },
-    {
-      "title": "Oil tankers attacked as Iran threatens to turn second trade route into a ‘Gate of Tears’ - NBC News",
-      "desc": "Oil tankers attacked as Iran threatens to turn second trade route into a ‘Gate of Tears’NBC News Tensions over Yemen chokepoint threaten to ignite another theater of US-Iran warABC News - Breaking News, Latest News and Videos Two Chinese supertankers with Sau…",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184617476",
-      "time": "2026-07-23T20:12:55",
-      "country": "Iran",
-      "title_ur": "تیل کے ٹینکروں پر حملہ کیا گیا کیونکہ ایران نے دوسرے تجارتی راستے کو 'آنسوؤں کے دروازے' میں تبدیل کرنے کی دھمکی دی ہے - NBC نیوز",
-      "desc_ur": "تیل کے ٹینکروں پر حملہ کیا گیا کیونکہ ایران نے دوسرے تجارتی راستے کو 'آنسوؤں کے دروازے' میں تبدیل کرنے کی دھمکی دی ہے NBC نیوز یمن چوکی پوائنٹ پر تناؤ امریکہ-ایران جنگ کے ایک اور تھیٹر کو بھڑکانے کی دھمکی اے بی سی نیوز - بریکنگ نیوز، تازہ ترین خبریں اور ویڈیوز دو چینی سپر ٹینکر ساؤ کے ساتھ…"
-    },
-    {
-      "title": "Southwest Airlines put Texas jet fuel on a boat to LA for the first time amid supply worries",
-      "desc": "Southwest hired a ship this spring to send fuel from Houston to Los Angeles in case of supply shortages.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/23/southwest-shipped-jet-fuel-from-texas-to-california-amid-supply-crunch.html",
-      "time": "2026-07-23T20:12:42",
-      "country": "US",
-      "title_ur": "ساؤتھ ویسٹ ایئر لائنز نے سپلائی کے خدشات کے درمیان پہلی بار ٹیکساس جیٹ ایندھن کو کشتی پر لایا",
-      "desc_ur": "ساؤتھ ویسٹ نے اس موسم بہار میں سپلائی کی کمی کی صورت میں ہیوسٹن سے لاس اینجلس تک ایندھن بھیجنے کے لیے ایک جہاز کرائے پر لیا۔"
-    },
-    {
-      "title": "Palestinian economy on ‘cliff edge’ as Israeli banks cut ties - Financial Times",
-      "desc": "Palestinian economy on ‘cliff edge’ as Israeli banks cut tiesFinancial Times Israeli Banks Threaten to Cut Off Palestinian Economy, Deepening CrisisThe New York Times Israel acts to ease Palestinian banking crisis it helped create, but is it moving too late?T…",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184617420",
-      "time": "2026-07-23T20:12:34",
-      "country": "Israel",
-      "title_ur": "اسرائیلی بینکوں کے تعلقات منقطع کرنے پر فلسطینی معیشت 'کلف ایج' پر ہے - فنانشل ٹائمز",
-      "desc_ur": "فلسطینی معیشت 'کلف کنارے' پر ہے کیونکہ اسرائیلی بینکوں نے تعلقات میں کٹوتی کی ہے فنانشل ٹائمز اسرائیلی بینکوں نے فلسطینی معیشت کو منقطع کرنے کی دھمکی دی ہے، بحران کو گہرا کرنے کے لیے نیویارک ٹائمز اسرائیل نے فلسطینی بینکنگ کے بحران کو کم کرنے کے لیے اقدامات کیے ہیں جو اس نے پیدا کرنے میں مدد کی، لیکن کیا یہ بہت دیر سے آگے بڑھ رہا ہے؟"
-    },
-    {
-      "title": "Loomer meets with Zelensky in Ukraine after major U-turn...",
-      "desc": "Laura Loomer, President Donald Trump's ally with a reputation for incendiary social media comments, has sat down with Ukrainian President Volodymyr Zelenskyy after a dramatic about-face regarding the war. Loomer had spent years minimizing Russia’s invasion of…",
-      "source": "Associated Press",
-      "url": "https://apnews.com/article/laura-loomer-ukraine-russia-zelenskyy-trump-8ae91d7f5bfb3940388de800301b34ce",
-      "time": "2026-07-23T20:10:37",
-      "country": "Russia",
-      "title_ur": "لومر نے یوکرین میں زیلنسکی سے بڑے یو ٹرن کے بعد ملاقات کی۔",
-      "desc_ur": "اشتعال انگیز سوشل میڈیا تبصروں کے لیے شہرت رکھنے والی صدر ڈونلڈ ٹرمپ کی اتحادی لورا لومر، جنگ کے حوالے سے ڈرامائی انداز میں سامنے آنے کے بعد یوکرین کے صدر ولادیمیر زیلنسکی کے ساتھ بیٹھ گئی ہیں۔ لومر نے روس کے حملے کو کم کرنے میں برسوں گزارے تھے…"
-    },
-    {
-      "title": "Top House Democrat says anti-Israel activists’ threats kept him from town halls for a year",
-      "desc": "Rep. Adam Smith said he hasn't held a town hall in over a year after anti-Israel activists screamed death threats at him and threatened his wife.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/top-house-democrat-says-anti-israel-activists-threats-kept-him-from-town-halls-year",
-      "time": "2026-07-23T20:09:10",
-      "country": "Israel",
-      "title_ur": "ٹاپ ہاؤس ڈیموکریٹ کا کہنا ہے کہ اسرائیل مخالف کارکنوں کی دھمکیوں نے انہیں ایک سال تک ٹاؤن ہالز سے دور رکھا",
-      "desc_ur": "نمائندہ ایڈم اسمتھ نے کہا کہ اسرائیل مخالف کارکنوں کی جانب سے انہیں جان سے مارنے کی دھمکیاں دینے اور ان کی اہلیہ کو دھمکیاں دینے کے بعد انہوں نے ایک سال سے زائد عرصے میں ٹاؤن ہال منعقد نہیں کیا۔"
-    },
-    {
-      "title": "Iran sanctions backfire as oil prices hit triple digits, says Ghalibaf",
-      "desc": "Iran's Ghalibaf claims sanctions led to soaring oil prices. Crude oil reaches a new all-time high by December 31 at 19.5% YES.\nThe post Iran sanctions backfire as oil prices hit triple digits, says Ghalibaf appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-sanctions-backfire-as-oil-prices-hit-triple-digits-says-ghalibaf/",
-      "time": "2026-07-23T20:07:20",
-      "country": "Iran",
-      "title_ur": "غالب کا کہنا ہے کہ تیل کی قیمتوں کے تین ہندسوں پر پہنچنے کے بعد ایران کی پابندیاں الٹا اثر کرتی ہیں۔",
-      "desc_ur": "ایران کے غالباف کا دعویٰ ہے کہ پابندیوں کی وجہ سے تیل کی قیمتوں میں اضافہ ہوا۔ خام تیل 31 دسمبر تک 19.5% جی ہاں نئی ​​بلند ترین سطح پر پہنچ گیا۔\nThe post تیل کی قیمتیں تین ہندسوں پر پہنچنے کے بعد ایران کی پابندیاں الٹا پھوٹ پڑیں، غالباف appeared first on Crypto Briefing."
-    },
-    {
-      "title": "Trump administration drops New York Times subpoenas over Air Force One reporting",
-      "desc": "The White House had targeted journalists from The New York Times for their reporting on security concerns with a Qatari-donated Air Force One plane. US President Donald Trump's Justice Department will withdraw subpoenas issued to reporters from The New York T…",
-      "source": "DW (English)",
-      "url": "https://www.dw.com/en/trump-administration-drops-new-york-times-subpoenas-over-air-force-one-reporting/a-78091966",
-      "time": "2026-07-23T20:07:00",
-      "country": "US",
-      "title_ur": "ٹرمپ انتظامیہ نے ایئر فورس ون کی رپورٹنگ پر نیو یارک ٹائمز کے ذیلی خطوط کو چھوڑ دیا۔",
-      "desc_ur": "وائٹ ہاؤس نے نیویارک ٹائمز کے صحافیوں کو قطر کے عطیہ کردہ ایئر فورس ون طیارے کے ساتھ سیکیورٹی خدشات پر رپورٹ کرنے پر نشانہ بنایا تھا۔ امریکی صدر ڈونلڈ ٹرمپ کا محکمہ انصاف نیویارک ٹی وی کے نامہ نگاروں کو جاری کردہ ذیلی بیانات واپس لے گا…"
-    },
-    {
-      "title": "US sinks at close on worries of 'massive' strike on Iran",
-      "desc": "Major stock indexes on Wall Street tumbled at the close on Thursday as United States President Donald Trump suggested a \"massive\" strike could come Iran's way. The unstable situation in the Middle Eas...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/390a2bc221f51a6a",
-      "time": "2026-07-23T20:06:16",
-      "country": "Iran",
-      "title_ur": "ایران پر 'بڑے پیمانے پر' حملے کے خدشات پر امریکہ ڈوب گیا۔",
-      "desc_ur": "وال سٹریٹ پر بڑے اسٹاک انڈیکس جمعرات کو بند ہو گئے کیونکہ امریکی صدر ڈونلڈ ٹرمپ نے مشورہ دیا کہ ایران کے راستے میں \"بڑے پیمانے پر\" حملہ آ سکتا ہے۔ مشرق وسطیٰ کی غیر مستحکم صورتحال..."
-    },
-    {
-      "title": "Lawmakers warn Trump over possible Mali strikes",
-      "desc": "The News\nIran might not be the only military operation about which the Trump administration has shared limited information with Congress.\nNew reports that US President Donald Trump is considering military intervention in Mali caught senators from both parties…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/3086bc10066565f6",
-      "time": "2026-07-23T20:05:55",
-      "country": "Iran",
-      "title_ur": "قانون سازوں نے مالی میں ممکنہ حملوں پر ٹرمپ کو خبردار کیا۔",
-      "desc_ur": "دی نیوز\nایران شاید واحد فوجی آپریشن نہیں ہے جس کے بارے میں ٹرمپ انتظامیہ نے کانگریس کے ساتھ محدود معلومات شیئر کی ہیں۔\nنئی رپورٹس کہ امریکی صدر ڈونلڈ ٹرمپ مالی میں فوجی مداخلت پر غور کر رہے ہیں دونوں جماعتوں کے سینیٹرز پکڑے گئے…"
-    },
-    {
-      "title": "Oil prices just hit $100 a barrel again. Here’s what that could mean for consumers",
-      "desc": "Brent crude oil prices hit $100 a barrel on Thursday for the first time since May, after reports that Yemen’s Iran-backed Houthis struck two Saudi oil tankers in the Red Sea located near the Strait of Hormuz, per CNN. West Texas Intermediate futures, a benchm…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/917a0f752755048a",
-      "time": "2026-07-23T20:05:55",
-      "country": "Iran",
-      "title_ur": "تیل کی قیمتیں ایک بار پھر 100 ڈالر فی بیرل تک پہنچ گئیں۔ صارفین کے لیے اس کا کیا مطلب ہو سکتا ہے۔",
-      "desc_ur": "برنٹ خام تیل کی قیمتیں مئی کے بعد پہلی بار جمعرات کو 100 ڈالر فی بیرل تک پہنچ گئیں، اس رپورٹ کے بعد کہ یمن کے ایران کے حمایت یافتہ حوثی باغیوں نے آبنائے ہرمز کے قریب واقع بحیرہ احمر میں سعودی تیل کے دو ٹینکروں کو نشانہ بنایا، CNN کے مطابق۔ ویسٹ ٹیکساس انٹرمیڈیٹ فیوچر، ایک بینچ…"
-    },
-    {
-      "title": "Odysseus at the End of Civilization",
-      "desc": "Nolan’s film confronts the betrayal of the West’s own values.",
-      "source": "Foreign Policy",
-      "url": "http://foreignpolicy.com/2026/07/23/odyssey-civilization-collapse-history/",
-      "time": "2026-07-23T20:05:45",
-      "country": "US",
-      "title_ur": "تہذیب کے اختتام پر اوڈیسیئس",
-      "desc_ur": "نولان کی فلم مغرب کی اپنی اقدار کے ساتھ غداری کا مقابلہ کرتی ہے۔"
-    },
-    {
-      "title": "US stocks today: Nasdaq plunges 2% as tech earnings spark AI spending worries",
-      "desc": "Wall Street closed sharply lower with Nasdaq down over 2% as weak Big Tech earnings and rising AI spending concerns hit sentiment. Surging oil prices above $100, driven by Middle East tensions, reignited inflation fears and pushed bond yields higher, overshad…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-fall-as-tech-earnings-spark-ai-spending-worries-and-oil-hits-100/articleshow/132591456.cms",
-      "time": "2026-07-23T20:03:25",
-      "country": "US",
-      "title_ur": "آج امریکی اسٹاک: نیس ڈیک 2 فیصد گر گیا کیونکہ ٹیک کی آمدنی نے AI اخراجات کی تشویش کو جنم دیا",
-      "desc_ur": "Wall Street Nasdaq میں 2% سے زیادہ کمی کے ساتھ تیزی سے نیچے بند ہوئی کیونکہ بگ ٹیک کی کمزور آمدنی اور بڑھتی ہوئی AI اخراجات کے خدشات نے جذبات کو متاثر کیا۔ تیل کی قیمتوں میں 100 ڈالر سے زیادہ اضافہ، مشرق وسطیٰ کے تناؤ کی وجہ سے، مہنگائی کے خدشات کو پھر سے بڑھایا اور بانڈ کی پیداوار میں اضافہ، اوورشاڈ…"
-    },
-    {
-      "title": "Oil prices surge amid US-Iran tensions; tech stocks decline",
-      "desc": "Oil prices surged due to US-Iran tensions while tech stocks fell. Crude oil at a new all-time high by December 31 at 19.5% YES.\nThe post Oil prices surge amid US-Iran tensions; tech stocks decline appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/oil-prices-surge-amid-us-iran-tensions-tech-stocks-decline/",
-      "time": "2026-07-23T20:02:47",
-      "country": "Iran",
-      "title_ur": "امریکہ ایران کشیدگی کے درمیان تیل کی قیمتوں میں اضافہ؛ ٹیک اسٹاک میں کمی",
-      "desc_ur": "امریکہ ایران کشیدگی کی وجہ سے تیل کی قیمتوں میں اضافہ ہوا جبکہ ٹیک اسٹاک گر گئے۔ خام تیل 31 دسمبر تک 19.5% پر نئی ہمہ وقتی بلندی پر ہے۔\nThe post امریکا ایران کشیدگی کے درمیان تیل کی قیمتوں میں اضافہ؛ ٹیک اسٹاک میں کمی پہلی بار کرپٹو بریفنگ پر ظاہر ہوئی۔"
-    },
-    {
-      "title": "LIVE: Pahlavi Prepares FINAL Iran Uprising - UK Joining Trump In Fighting IRGC",
-      "desc": "YouTube video - no text for body of thread. Hopefully not an over exaggeration, but there definitely seems to be activity on the ground and Tousi *claims* Pahlavi is getting ready to call for an uprising. Hopefully it's not just wishful.",
+      "title": "US Is Ready to Help End the ‘Senseless War’ in Ukraine but No Quick Deal Ahead, Rubio Says",
+      "desc": "Rubio, who held talks with his Russian counterpart Sergey Lavrov in the Philippine capital, alluded to how U.S.-mediated talks have stalled. MANILA, Philippines (AP) — U.S. Secretary of State Marco Rubio said Thursday that the Trump administration is poised t…",
       "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4389117/posts",
-      "time": "2026-07-23T20:01:48",
-      "country": "Iran",
-      "title_ur": "لائیو: پہلوی نے ایران میں حتمی بغاوت کی تیاری کی - برطانیہ آئی آر جی سی کے خلاف جنگ میں ٹرمپ کا ساتھ دے رہا ہے",
-      "desc_ur": "YouTube ویڈیو - دھاگے کے باڈی کے لیے کوئی متن نہیں ہے۔ امید ہے کہ حد سے زیادہ مبالغہ آرائی نہیں، لیکن یقینی طور پر زمین پر سرگرمی نظر آتی ہے اور طوسی *دعویٰ* پہلوی بغاوت کا مطالبہ کرنے کے لیے تیار ہو رہا ہے۔ امید ہے کہ یہ صرف خواہش مند نہیں ہے۔"
-    }
-  ],
-  "pakistan": [
+      "url": "https://freerepublic.com/focus/f-chat/4389126/posts",
+      "time": "2026-07-23T21:33:38",
+      "country": "Russia",
+      "title_ur": "روبیو کا کہنا ہے کہ امریکہ یوکرین میں 'بے ہوش جنگ' کو ختم کرنے میں مدد کرنے کے لئے تیار ہے لیکن کوئی فوری ڈیل نہیں ہے",
+      "desc_ur": "روبیو، جنہوں نے فلپائن کے دارالحکومت میں اپنے روسی ہم منصب سرگئی لاوروف کے ساتھ بات چیت کی، اس بات کی طرف اشارہ کیا کہ کس طرح امریکہ کی ثالثی میں ہونے والے مذاکرات تعطل کا شکار ہیں۔ منیلا، فلپائن (اے پی) - امریکی وزیر خارجہ مارکو روبیو نے جمعرات کو کہا کہ ٹرمپ انتظامیہ اس کے لیے تیار ہے…"
+    },
     {
-      "title": "Oil Surges Above $100",
-      "desc": "Oil climbed above $100 a barrel after Houthi attacks on Saudi tankers heightened fears of broader supply disruptions.",
-      "source": "Rigzone",
-      "url": "https://www.rigzone.com/news/wire/oil_surges_above_100-23-jul-2026-184203-article/",
-      "time": "2026-07-23T20:12:59",
-      "country": "Pakistan",
-      "title_ur": "تیل $100 سے اوپر بڑھ گیا۔",
-      "desc_ur": "سعودی ٹینکروں پر حوثی باغیوں کے حملوں کے بعد تیل کی قیمت 100 ڈالر فی بیرل سے اوپر پہنچ گئی، جس سے سپلائی میں مزید خلل پڑنے کے خدشات بڑھ گئے۔"
+      "title": "'Not Trump's kind of guy': White House insider leaks President's private thoughts about 'dorky' new UK Prime Minister, by MARK HALPERIN",
+      "desc": "'He has a clean slate,' the person said of Trump world's view of Burnham, 'but he's going to run into the same problems. People are unhappy.'",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/debate/article-16000225/Trump-British-Prime-Minister-Burnham-dorky-mark-halperin.html",
+      "time": "2026-07-23T21:33:24",
+      "country": "UK",
+      "title_ur": "'ٹرمپ کی طرح کا آدمی نہیں': وائٹ ہاؤس کے اندرونی نے 'ڈورکی' برطانیہ کے نئے وزیر اعظم کے بارے میں صدر کے نجی خیالات کو لیک کیا، بذریعہ مارک ہالپرین",
+      "desc_ur": "'اس کے پاس صاف ستھرا ہے،' اس شخص نے برنہم کے بارے میں ٹرمپ کی دنیا کے نظریے کے بارے میں کہا، 'لیکن وہ انہی مسائل سے دوچار ہوگا۔ لوگ ناخوش ہیں۔'"
+    },
+    {
+      "title": "House votes to end Iran war, but Senate Republicans vote to let Trump continue waging it - NBC News",
+      "desc": "House votes to end Iran war, but Senate Republicans vote to let Trump continue waging itNBC News US House passes war powers resolution directing Trump to end Iran conflictThe Guardian The Republicans Who Have Voted to Limit Trump’s Iran War PowersTime Magazin…",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184619570",
+      "time": "2026-07-23T21:33:11",
+      "country": "Iran",
+      "title_ur": "ایوان نے ایران جنگ کے خاتمے کے لیے ووٹ دیا، لیکن سینیٹ کے ریپبلکنز نے ٹرمپ کو جنگ جاری رکھنے کے لیے ووٹ دیا - NBC News",
+      "desc_ur": "ایوان نے ایران جنگ کے خاتمے کے لیے ووٹ دیا، لیکن سینیٹ کے ریپبلکنز نے ٹرمپ کو یہ جنگ جاری رکھنے کے لیے ووٹ دیا این بی سی نیوز امریکی ایوان نے جنگی اختیارات کی قرارداد منظور کی جس میں ٹرمپ کو ایران تنازع ختم کرنے کی ہدایت دی گئی گارڈین دی ریپبلکن جنہوں نے ٹرمپ کے ایران وار پاورز ٹائم میگزین کو محدود کرنے کے لیے ووٹ دیا ہے…"
+    },
+    {
+      "title": "Trump says Iran will be held responsible for future Houthi attacks - Politico",
+      "desc": "Trump says Iran will be held responsible for future Houthi attacksPolitico Iran War Latest: Trump threatens Iran, Houthis with \"major military punishment\" as war spreads to Red SeaCBS News Houthi attacks create tinderbox in Red Sea: What to knowThe Hill US th…",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184619568",
+      "time": "2026-07-23T21:33:01",
+      "country": "Iran",
+      "title_ur": "ٹرمپ کا کہنا ہے کہ ایران کو مستقبل میں حوثیوں کے حملوں کا ذمہ دار ٹھہرایا جائے گا - Politico",
+      "desc_ur": "ٹرمپ کا کہنا ہے کہ ایران کو مستقبل میں حوثی حملوں کا ذمہ دار ٹھہرایا جائے گا پولیٹیکو ایران جنگ تازہ ترین: ٹرمپ نے ایران، حوثیوں کو \"بڑی فوجی سزا\" کی دھمکی دی ہے کیونکہ جنگ بحیرہ احمر تک پھیل گئی ہے سی بی ایس نیوز حوثی حملوں نے بحیرہ احمر میں ٹینڈر باکس بنایا: کیا جاننا ہے The Hill US th…"
+    },
+    {
+      "title": "Trump admin announces between 10% and 12.5% tariffs on 60 countries over forced labor imports",
+      "desc": "\"It encourages stronger labor rights enforcement abroad,\" an official said of the so-called Section 301 levies.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/07/23/us-news/trump-admin-announces-10-to-12-5-tariffs-on-60-nations-over-forced-labor-imports/",
+      "time": "2026-07-23T21:32:05",
+      "country": "US",
+      "title_ur": "ٹرمپ ایڈمن نے جبری لیبر کی درآمد پر 60 ممالک پر 10% سے 12.5% ​​کے درمیان ٹیرف کا اعلان کیا",
+      "desc_ur": "\"یہ بیرون ملک مزدوروں کے حقوق کے مضبوط نفاذ کی حوصلہ افزائی کرتا ہے،\" ایک اہلکار نے نام نہاد دفعہ 301 لیویز کے بارے میں کہا۔"
+    },
+    {
+      "title": "What's going on with the US-Saudi nuclear deal?",
+      "desc": "Less than 24 hours after the agreement was signed, President Trump posted on social media that the deal required Saudi Arabia to sign up to the Abraham Accords.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cd7ldlwlny8o",
+      "time": "2026-07-23T21:30:29",
+      "country": "US",
+      "title_ur": "امریکہ سعودی ایٹمی معاہدے کے ساتھ کیا ہو رہا ہے؟",
+      "desc_ur": "معاہدے پر دستخط ہونے کے 24 گھنٹے سے بھی کم وقت کے بعد صدر ٹرمپ نے سوشل میڈیا پر پوسٹ کیا کہ معاہدے کے لیے سعودی عرب کو ابراہیم معاہدے پر دستخط کرنے کی ضرورت ہے۔"
+    },
+    {
+      "title": "Is the Red Sea the New Hormuz Crisis?",
+      "desc": "Houthi attacks on Saudi shipping risk adding a new front to the Iran war.",
+      "source": "Foreign Policy",
+      "url": "http://foreignpolicy.com/2026/07/23/houthi-rebels-saudi-arabia-shipping-red-sea-iran-war/",
+      "time": "2026-07-23T21:30:04",
+      "country": "Iran",
+      "title_ur": "کیا بحیرہ احمر نیا ہرمز بحران ہے؟",
+      "desc_ur": "سعودی جہاز رانی پر حوثیوں کے حملے ایران کی جنگ میں ایک نئے محاذ کا اضافہ کر رہے ہیں۔"
+    },
+    {
+      "title": "Gas, groceries and back-to-school items inflated as shoppers now see higher oil prices surface",
+      "desc": "With oil prices surging past $100 a barrel, Americans are facing higher costs for groceries and gas, which hit a national average of $4.09.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/07/23/business/gas-groceries-and-back-to-school-items-inflated-as-shoppers-now-see-higher-oil-prices-surface/",
+      "time": "2026-07-23T21:26:05",
+      "country": "US",
+      "title_ur": "گیس، گروسری اور بیک ٹو اسکول آئٹمز مہنگے ہو گئے کیونکہ خریدار اب تیل کی قیمتوں میں اضافہ دیکھ رہے ہیں",
+      "desc_ur": "تیل کی قیمتوں میں 100 ڈالر فی بیرل سے زیادہ اضافے کے ساتھ، امریکیوں کو گروسری اور گیس کی زیادہ قیمتوں کا سامنا کرنا پڑ رہا ہے، جو کہ قومی اوسط $4.09 تک پہنچ گئی ہے۔"
+    },
+    {
+      "title": "Ancient geology could insulate Iran's nuclear centrifuges under Pickaxe Mountain from bombing",
+      "desc": "Iran’s Pickaxe Mountain, or Kuh-e Kolang Gaz La in Persian, is part of a volcanic arc that formed tens of millions of years ago and is made of a tough-to-penetrate rock",
+      "source": "Scientific American",
+      "url": "https://www.scientificamerican.com/article/ancient-geology-could-insulate-irans-nuclear-centrifuges-under-pickaxe-mountain-from-bombing/",
+      "time": "2026-07-23T21:25:00",
+      "country": "Iran",
+      "title_ur": "قدیم ارضیات پکیکس ماؤنٹین کے نیچے ایران کے جوہری سینٹری فیوجز کو بمباری سے محفوظ رکھ سکتی ہے",
+      "desc_ur": "ایران کا پکیکس ماؤنٹین، یا فارسی میں کوہ کولنگ گاز لا، آتش فشاں قوس کا حصہ ہے جو دسیوں ملین سال پہلے بنی تھی اور ایک سخت سے گھسنے والی چٹان سے بنی ہے۔"
+    },
+    {
+      "title": "North Carolina’s Threat to Legal Assistance for the Poor",
+      "desc": "Republicans in the state legislature abruptly slashed funding for civil legal aid for low-income clients this month.",
+      "source": "The Atlantic",
+      "url": "https://www.theatlantic.com/newsletters/2026/07/iolta-north-carolina-legislature-funding-cut/688044/",
+      "time": "2026-07-23T21:24:00",
+      "country": "International",
+      "title_ur": "نارتھ کیرولائنا کا غریبوں کے لیے قانونی مدد کا خطرہ",
+      "desc_ur": "ریاستی مقننہ میں ریپبلکنز نے اس ماہ کم آمدنی والے کلائنٹس کے لیے سول قانونی امداد کے لیے فنڈنگ ​​میں اچانک کمی کردی۔"
+    },
+    {
+      "title": "Germany paying five times more for gas after ditching Russian imports – media",
+      "desc": "Import gas prices for Germany have gone up by five times since 2020 as it abandoned long-term Russian contracts, Berliner Zeitung has said Read Full Article at RT.com",
+      "source": "RT",
+      "url": "https://www.rt.com/news/643402-germany-gas-russian-imports/",
+      "time": "2026-07-23T21:23:32",
+      "country": "Russia",
+      "title_ur": "جرمنی روسی درآمدات کو ختم کرنے کے بعد گیس کے لیے پانچ گنا زیادہ ادائیگی کر رہا ہے – میڈیا",
+      "desc_ur": "جرمنی کے لیے درآمدی گیس کی قیمتوں میں 2020 کے بعد سے پانچ گنا اضافہ ہوا ہے کیونکہ اس نے طویل مدتی روسی معاہدوں کو ترک کر دیا ہے، برلنر زیتونگ نے کہا ہے کہ RT.com پر مکمل مضمون پڑھیں"
+    },
+    {
+      "title": "Carville tells Democrats to 'just quit fighting' against voter ID requirements, warns it polls at 75%",
+      "desc": "James Carville warns Democrats that fighting voter ID laws polling at 75% approval is a losing battle and urges the party to concede and move on.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/media/carville-tells-democrats-quit-fighting-voter-id-requirements-warns-polls-75-percent",
+      "time": "2026-07-23T21:23:06",
+      "country": "US",
+      "title_ur": "کارویل نے ڈیموکریٹس کو ووٹر آئی ڈی کی ضروریات کے خلاف 'صرف لڑائی چھوڑنے' کو کہا، اس نے 75٪ پر پولنگ کو متنبہ کیا۔",
+      "desc_ur": "جیمز کارویل نے ڈیموکریٹس کو متنبہ کیا ہے کہ 75% کی منظوری پر ووٹر آئی ڈی قوانین کی پولنگ سے لڑنا ایک ہاری ہوئی جنگ ہے اور پارٹی پر زور دیتا ہے کہ وہ تسلیم کرے اور آگے بڑھے۔"
+    },
+    {
+      "title": "Three Levers China Is Pulling To Weather Gulf Energy Shock; How Long Can Beijing Hold Out?",
+      "desc": "Three Levers China Is Pulling To Weather Gulf Energy Shock; How Long Can Beijing Hold Out?\n \nThe new troubling development is that maritime chokepoint chaos spread overnight from the Strait of Hormuz to the Bab el-Mandeb Strait, where Iran-backed Houthis targ…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/00146373b95510d5",
+      "time": "2026-07-23T21:21:21",
+      "country": "Iran",
+      "title_ur": "تھری لیورز چین خلیجی توانائی کے جھٹکے سے موسم کی طرف کھینچ رہا ہے۔ بیجنگ کب تک برقرار رہ سکتا ہے؟",
+      "desc_ur": "تھری لیورز چین خلیجی توانائی کے جھٹکے سے موسم کی طرف کھینچ رہا ہے۔ بیجنگ کب تک برقرار رہ سکتا ہے؟\n \nنئی پریشان کن پیشرفت یہ ہے کہ آبنائے ہرمز سے لے کر آبنائے باب المندب تک سمندری چوکی پوائنٹ افراتفری راتوں رات پھیل گئی، جہاں ایران کے حمایت یافتہ حوثیوں نے نشانہ بنایا…"
+    },
+    {
+      "title": "How Israel lost the Dems",
+      "desc": "A demonstrator holds US and Israeli flags while participating in a rally near the White House on February 28, 2026. | Probal Rashid/LightRocket via Getty Images \nThis story appeared in Today, Explained, a daily newsletter that helps you understand the most co…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/3d7a53597e9d3002",
+      "time": "2026-07-23T21:21:14",
+      "country": "Israel",
+      "title_ur": "اسرائیل نے ڈیمز کو کیسے کھو دیا۔",
+      "desc_ur": "28 فروری 2026 کو وائٹ ہاؤس کے قریب ایک ریلی میں شرکت کے دوران ایک مظاہرین نے امریکی اور اسرائیلی پرچم اٹھا رکھے ہیں۔ Probal Rashid/LightRocket بذریعہ گیٹی امیجز \nیہ کہانی ٹوڈے، ایکسپلائنڈ میں شائع ہوئی، ایک روزانہ نیوز لیٹر جو آپ کو سب سے زیادہ تعاون کو سمجھنے میں مدد کرتا ہے…"
+    },
+    {
+      "title": "Insults can’t replace transparency over Tinubu records, Atiku tells presidency",
+      "desc": "Atiku Abubakar insists on transparency regarding President Tinubu’s records, rejecting the Presidency’s personal attacks and demanding factual explanations\n\nRead More: https://punchng.com/insults-cant-replace-transparency-over-tinubu-records-atiku-tells-presi…",
+      "source": "The Punch",
+      "url": "https://punchng.com/insults-cant-replace-transparency-over-tinubu-records-atiku-tells-presidency/",
+      "time": "2026-07-23T21:20:42",
+      "country": "International",
+      "title_ur": "اٹیکو نے صدارت کو بتایا کہ توہین ٹینوبو ریکارڈز پر شفافیت کی جگہ نہیں لے سکتی",
+      "desc_ur": "اتیکو ابوبکر صدر ٹینوبو کے ریکارڈ کے حوالے سے شفافیت پر اصرار کرتے ہیں، ایوان صدر کے ذاتی حملوں کو مسترد کرتے ہیں اور حقائق پر مبنی وضاحت کا مطالبہ کرتے ہیں۔\n\nمزید پڑھیں: https://punchng.com/insults-cant-replace-transparency-over-tinubu-records-atiku-tells-presi…"
     }
   ],
+  "pakistan": [],
   "business": {
     "quote": "The stock market is a device for transferring money from the impatient to the patient.",
     "author": "Warren Buffett",
