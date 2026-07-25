@@ -1,187 +1,167 @@
 {
-  "generated": "2026-07-25T10:07:58Z",
+  "generated": "2026-07-25T11:41:10Z",
   "world": [
     {
-      "title": "U.S. launches new strikes and Trump threatens ‘massive attack’ as Iran widens war",
-      "desc": "The United States launched a fresh barrage of strikes on Iran overnight as President Donald Trump threatened a major new escalation after Tehran opened a second front in its pressure campaign on the world economy.",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/world/iran/us-iran-strikes-trump-massive-attack-war-hormuz-red-sea-oil-rcna589016",
-      "time": "2026-07-24T10:05:48",
+      "title": "TikTok’s protection of minors should not be opt-in, warns EU",
+      "desc": "TikTok has attracted the ire of the European Union over its protection of children who use the video sharing platform. The European Commission announced preliminary findings today under the Digital Services Act (DSA) that offer specific issues to address. The…",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/970519/tiktok-eu-dsa-child-safety-age-account-privacy",
+      "time": "2026-07-24T11:40:03",
+      "country": "US",
+      "title_ur": "ٹِک ٹِک کے نابالغوں کے تحفظ کو آپٹ اِن نہیں کرنا چاہیے، یورپی یونین نے خبردار کیا۔",
+      "desc_ur": "TikTok نے ویڈیو شیئرنگ پلیٹ فارم استعمال کرنے والے بچوں کے تحفظ پر یورپی یونین کے غصے کو اپنی طرف متوجہ کیا ہے۔ یوروپی کمیشن نے آج ڈیجیٹل سروسز ایکٹ (DSA) کے تحت ابتدائی نتائج کا اعلان کیا جو حل کرنے کے لئے مخصوص مسائل پیش کرتے ہیں۔ اس…"
+    },
+    {
+      "title": "Dubai pays residents to bring visitors amid tourism slump",
+      "desc": "Dubai has launched a new initiative encouraging the United Arab Emirates residents to invite friends and family to visit the emirate, as authorities seek to revive tourism following a sharp drop in visitor numbers linked to the regional conflict involving the…",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/dubai-pays-residents-to-bring-visitors-amid-tourism-slump-224760",
+      "time": "2026-07-24T11:38:21",
+      "country": "International",
+      "title_ur": "دبئی سیاحت کی کمی کے دوران سیاحوں کو لانے کے لیے رہائشیوں کو ادائیگی کرتا ہے۔",
+      "desc_ur": "دبئی نے متحدہ عرب امارات کے رہائشیوں کی حوصلہ افزائی کرتے ہوئے ایک نیا اقدام شروع کیا ہے کہ وہ دوستوں اور اہل خانہ کو امارات کا دورہ کرنے کی دعوت دیں، کیونکہ حکام علاقائی تنازعات سے منسلک زائرین کی تعداد میں تیزی سے کمی کے بعد سیاحت کو بحال کرنا چاہتے ہیں۔"
+    },
+    {
+      "title": "Oil surges to $100 per barrel. And, Trump imposes a new round of tariffs",
+      "desc": "Oil surged to $100 per barrel after Iran-backed Houthi rebels attacked two Saudi tankers in the Red Sea. And, President Trump overnight replaced expiring tariffs with a slew of new ones.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/24/g-s1-135418/up-first-newsletter-iran-war-oil-prices-tariffs-wisconsin-corey-ruiz",
+      "time": "2026-07-24T11:37:58",
       "country": "Iran",
-      "title_ur": "امریکہ نے نئے حملے شروع کیے اور ٹرمپ نے 'بڑے حملے' کی دھمکی دی کیونکہ ایران جنگ کو وسیع کرتا ہے۔",
-      "desc_ur": "امریکہ نے راتوں رات ایران پر حملوں کا ایک تازہ سلسلہ شروع کیا جب صدر ڈونلڈ ٹرمپ نے تہران کی جانب سے عالمی معیشت پر دباؤ کی مہم میں دوسرا محاذ کھولنے کے بعد ایک بڑی نئی کشیدگی کی دھمکی دی تھی۔"
+      "title_ur": "تیل کی قیمت 100 ڈالر فی بیرل تک پہنچ گئی۔ اور، ٹرمپ نے ٹیرف کا ایک نیا دور نافذ کیا۔",
+      "desc_ur": "بحیرہ احمر میں ایران کے حمایت یافتہ حوثی باغیوں کے دو سعودی ٹینکروں پر حملے کے بعد تیل 100 ڈالر فی بیرل تک پہنچ گیا۔ اور، صدر ٹرمپ نے راتوں رات معیاد ختم ہونے والے ٹیرف کو کئی نئے ٹیرف سے بدل دیا۔"
     },
     {
-      "title": "Andy Burnham’s Number 10 North changes the postcode, but not the politics",
-      "desc": "As Andy Burnham moves part of Downing Street to Manchester, Scotland and Wales are asking what it means for devolution.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/economy/2026/7/24/andy-burnhams-number-10-north-changes-the-postcode-but-not-the-politics",
-      "time": "2026-07-24T10:03:10",
-      "country": "International",
-      "title_ur": "اینڈی برنہم کا نمبر 10 نارتھ پوسٹ کوڈ کو تبدیل کرتا ہے، لیکن سیاست نہیں۔",
-      "desc_ur": "جیسا کہ اینڈی برنہم ڈاؤننگ سٹریٹ کا ایک حصہ مانچسٹر منتقل کر رہے ہیں، سکاٹ لینڈ اور ویلز پوچھ رہے ہیں کہ اس کی منتقلی کا کیا مطلب ہے۔"
-    },
-    {
-      "title": "Today in Boston Celtics history: M.L. Carr signs; Fox, Boykoff born; Disney bubble scrimmage",
-      "desc": "Today in Boston Celtics history, M.L. Carr rejoined the Boston Celtics as a free agent in 1979",
-      "source": "USA Today",
-      "url": "https://celticswire.usatoday.com/story/sports/nba/celtics/2026/07/24/celtics-history-carr-deal-fox-boykoff-eliason-born-disney-bubble-scrimmage/90971888007/",
-      "time": "2026-07-24T10:00:58",
-      "country": "International",
-      "title_ur": "بوسٹن سیلٹکس کی تاریخ میں آج: M.L. کار کی علامات؛ فاکس، Boykoff پیدا ہوا؛ ڈزنی کا بلبلا جھگڑا۔",
-      "desc_ur": "بوسٹن سیلٹکس کی تاریخ میں آج، M.L. کار نے 1979 میں بوسٹن سیلٹکس میں بطور فری ایجنٹ دوبارہ شمولیت اختیار کی۔"
-    },
-    {
-      "title": "Trump turns to 'zombie' court after Boasberg pointed to it in deportation fight",
-      "desc": "The Justice Department filed its first-ever case with the Alien Terrorist Removal Court, invoking a 1996 law never used to deport a terrorism suspect.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/trump-turns-zombie-court-boasberg-pointed-deportation-fight",
-      "time": "2026-07-24T10:00:48",
-      "country": "US",
-      "title_ur": "بواسبرگ نے ملک بدری کی لڑائی میں اس کی طرف اشارہ کرنے کے بعد ٹرمپ 'زومبی' عدالت کا رخ کیا۔",
-      "desc_ur": "محکمہ انصاف نے اپنا پہلا مقدمہ ایلین ٹیررسٹ ریموول کورٹ میں دائر کیا، جس میں 1996 کے قانون کو استعمال کیا گیا جو کبھی بھی دہشت گردی کے مشتبہ شخص کو ملک بدر کرنے کے لیے استعمال نہیں ہوتا تھا۔"
-    },
-    {
-      "title": "Is Israel really isolated? Polls and diplomacy point in opposite directions",
-      "desc": "Trump says the Saudi Arabia nuclear deal hinges on joining the Abraham Accords, as experts debate whether Israel faces isolation or expanding ties.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/world/israel-really-isolated-polls-diplomacy-point-opposite-directions",
-      "time": "2026-07-24T10:00:33",
-      "country": "Israel",
-      "title_ur": "کیا اسرائیل واقعی تنہا ہے؟ رائے شماری اور سفارت کاری مخالف سمتوں میں اشارہ کرتی ہے۔",
-      "desc_ur": "ٹرمپ کا کہنا ہے کہ سعودی عرب جوہری معاہدہ ابراہیم معاہدے میں شامل ہونے پر منحصر ہے، کیونکہ ماہرین اس بات پر بحث کر رہے ہیں کہ آیا اسرائیل کو تنہائی کا سامنا ہے یا تعلقات میں توسیع۔"
-    },
-    {
-      "title": "Trump heads back to correspondents’ dinner months after gunfire forced evacuation",
-      "desc": "Trump returns to the White House Correspondents' Dinner stage as the WHCA honors Secret Service Officer Gonzales for stopping the armed suspect.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/trump-heads-back-correspondents-dinner-months-after-gunfire-forced-evacuation",
-      "time": "2026-07-24T10:00:11",
-      "country": "US",
-      "title_ur": "بندوق کی فائرنگ کے بعد جبری انخلاء کے مہینوں بعد ٹرمپ نامہ نگاروں کے عشائیہ پر واپس آئے",
-      "desc_ur": "ٹرمپ وائٹ ہاؤس کے نامہ نگاروں کے عشائیہ کے مرحلے پر واپس آئے جب WHCA نے مسلح مشتبہ شخص کو روکنے پر سیکرٹ سروس آفیسر گونزالز کا اعزاز دیا۔"
-    },
-    {
-      "title": "The Complications of Graham Platner’s Veteran Identity",
-      "desc": "Jasper Craven considers how much of former Senate candidate Graham Platner’s behavior should be read through the lens of what combat did to him, and how much of it is simply who he is, independent of war?",
-      "source": "The New Yorker",
-      "url": "https://www.newyorker.com/news/the-political-scene/the-complications-of-graham-platners-veteran-identity",
-      "time": "2026-07-24T10:00:00",
-      "country": "International",
-      "title_ur": "گراہم پلیٹنر کی تجربہ کار شناخت کی پیچیدگیاں",
-      "desc_ur": "جیسپر کریون اس بات پر غور کرتے ہیں کہ سینیٹ کے سابق امیدوار گراہم پلاٹنر کے طرز عمل کو اس کی عینک سے پڑھنا چاہیے کہ لڑائی نے اس کے ساتھ کیا کیا، اور اس کا کتنا حصہ یہ ہے کہ وہ کون ہے، جنگ سے آزاد؟"
-    },
-    {
-      "title": "So You Want To Put Boots On The Ground In Iran",
-      "desc": "As the war in Ukraine continues to reshape European security, tensions surrounding Iran and the Middle East intensify, and NATO members accelerate defence spending, the alliance is entering a more openly militarised phase. Behind the familiar language of dete…",
-      "source": "Activistpost.com",
-      "url": "https://www.activistpost.com/so-you-want-to-put-boots-on-the-ground-in-iran/",
-      "time": "2026-07-24T10:00:00",
+      "title": "Pahlavi Prepares FINAL Iran Uprising - UK Joining Trump In Fighting IRGC",
+      "desc": "IRGC and Ayatoilets threaten Israel, attack Kuwait, threaten that if regime falls, they'll use their stockpile of missiles on Iranian cities, so nyah. Pahlavi is calling on people to rise. Iranian citizen got video out asking the US to attack the power plants…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4389188/posts",
+      "time": "2026-07-24T11:36:14",
       "country": "Iran",
-      "title_ur": "تو آپ ایران میں جوتے زمین پر رکھنا چاہتے ہیں۔",
-      "desc_ur": "جیسا کہ یوکرین میں جنگ یورپی سلامتی کو نئی شکل دے رہی ہے، ایران اور مشرق وسطیٰ کے ارد گرد تناؤ شدت اختیار کرتا جا رہا ہے، اور نیٹو کے ارکان دفاعی اخراجات میں تیزی لاتے ہیں، یہ اتحاد مزید کھلے عام عسکری مرحلے میں داخل ہو رہا ہے۔ dete کی مانوس زبان کے پیچھے…"
+      "title_ur": "پہلوی آخری ایران بغاوت کی تیاری کر رہے ہیں - برطانیہ IRGC کے خلاف جنگ میں ٹرمپ کا ساتھ دے رہا ہے",
+      "desc_ur": "IRGC اور Ayatoilets اسرائیل کو دھمکی دیتے ہیں، کویت پر حملہ کرتے ہیں، دھمکی دیتے ہیں کہ اگر حکومت گرتی ہے، تو وہ اپنے میزائلوں کے ذخیرے کو ایرانی شہروں پر استعمال کریں گے، لہذا ایسا نہیں۔ پہلوی لوگوں کو اٹھنے کی دعوت دے رہے ہیں۔ ایرانی شہری کی امریکہ سے پاور پلانٹس پر حملہ کرنے کی ویڈیو سامنے آگئی۔"
     },
     {
-      "title": "Trump’s National Killer Police Force",
-      "desc": "ICE and Border Patrol’s purviews have transformed from immigration enforcement to being a political tool of the White House — all under the pretext of public safety.\nThe post Trump’s National Killer Police Force appeared first on The Intercept.",
-      "source": "The Intercept",
-      "url": "https://theintercept.com/2026/07/24/trump-ice-deaths-mass-deportation/",
-      "time": "2026-07-24T10:00:00",
-      "country": "US",
-      "title_ur": "ٹرمپ کی قومی قاتل پولیس فورس",
-      "desc_ur": "ICE اور بارڈر پٹرول کے دائرہ کار امیگریشن کے نفاذ سے وائٹ ہاؤس کے سیاسی ٹول میں تبدیل ہو گئے ہیں - یہ سب کچھ عوامی تحفظ کے بہانے۔\nThe post ٹرمپ کی قومی قاتل پولیس فورس appeared first on The Intercept."
-    },
-    {
-      "title": "Ismaili Muslims ‘joyful’ as new Aga Khan makes first official visit to Calgary",
-      "desc": "The Aga Khan, Prince Rahim al-Hussaini, is marking his first official visit to Calgary since becoming the 50th hereditary imam of the Shia Ismaili Muslims.",
-      "source": "CBC News",
-      "url": "https://www.cbc.ca/news/canada/calgary/aga-khan-visit-calgary-ismaili-muslim-9.7281780",
-      "time": "2026-07-24T10:00:00",
-      "country": "US",
-      "title_ur": "نئے آغا خان کے کیلگری کے پہلے سرکاری دورے پر اسماعیلی مسلمان ’خوش‘ ہیں۔",
-      "desc_ur": "آغا خان، شہزادہ رحیم الحسینی، شیعہ اسماعیلی مسلمانوں کے 50ویں موروثی امام بننے کے بعد کیلگری کا اپنا پہلا سرکاری دورہ کر رہے ہیں۔"
-    },
-    {
-      "title": "Comptroller Mark Levine’s truth telling could make him the real anti-Mamdani",
-      "desc": "“We just have a shortage of supply of homes,” argued the comptroller. Yet “in rent-stabilized buildings, we have tens of thousands of apartments” sitting vacant because the laws make it too difficult for landlords to rent these units.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/07/24/opinion/comptroller-mark-levines-truth-telling-could-make-him-the-real-anti-mamdani/",
-      "time": "2026-07-24T10:00:00",
-      "country": "US",
-      "title_ur": "کمپٹرولر مارک لیوائن کا سچ بولنا اسے حقیقی مخالف ممدانی بنا سکتا ہے۔",
-      "desc_ur": "\"ہمارے پاس صرف گھروں کی فراہمی کی کمی ہے،\" کمپٹرولر نے دلیل دی۔ اس کے باوجود \"کرائے پر مستحکم عمارتوں میں، ہمارے پاس دسیوں ہزار اپارٹمنٹس\" خالی پڑے ہوئے ہیں کیونکہ قوانین مکان مالکان کے لیے ان یونٹوں کو کرائے پر دینا بہت مشکل بنا دیتے ہیں۔"
-    },
-    {
-      "title": "Mamdani’s Demagoguery Will Have Ugly Consequences",
-      "desc": "Unfortunately, Mamdani-style political theater has ugly consequences.",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/steveforbes/2026/07/24/mamdanis-demagoguery-will-have-ugly-consequences/",
-      "time": "2026-07-24T10:00:00",
+      "title": "Malaysia investigating F1 2026 round as Bahrain plan fades",
+      "desc": "With a Bahrain return in October all but impossible, Formula 1 is investigating other alternatives, including Malaysia",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/f1/news/malaysia-investigating-f1-2026-round-as-bahrain-plan-fades/10841332/",
+      "time": "2026-07-24T11:34:51",
       "country": "International",
-      "title_ur": "ممدانی کی بدتمیزی کے بھیانک نتائج ہوں گے۔",
-      "desc_ur": "بدقسمتی سے، مامدانی طرز کے سیاسی تھیٹر کے بدصورت نتائج ہیں۔"
+      "title_ur": "ملائیشیا F1 2026 راؤنڈ کی تحقیقات کر رہا ہے کیونکہ بحرین کا منصوبہ ختم ہو رہا ہے۔",
+      "desc_ur": "اکتوبر میں بحرین کی واپسی کے ساتھ ہی ناممکن ہے، فارمولا 1 ملائیشیا سمیت دیگر متبادلات کی تحقیقات کر رہا ہے۔"
     },
     {
-      "title": "Israel’s illegal settlements are Europe’s credibility test",
-      "desc": "The EU has documented accelerating annexation. It must now use its collective power to confront it.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/opinions/2026/7/24/israels-illegal-settlements-are-europes-credibility-test",
-      "time": "2026-07-24T09:59:37",
+      "title": "Malaysia weighs up F1 2026 round as rescheduled Bahrain GP plan fades",
+      "desc": "The Malaysian government is conducting a feasibility study into organising a last-minute Formula 1 grand prix as the Middle Eastern conflict continues to throw plans into disarray.The US-Israeli war on Iran prevented F1 from running its early-season rounds in…",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/f1/news/malaysia-weighs-up-f1-2026-round-as-rescheduled-bahrain-gp-plan-fades/10841345/",
+      "time": "2026-07-24T11:34:16",
+      "country": "Iran",
+      "title_ur": "ملائیشیا کا وزن F1 2026 راؤنڈ میں بڑھ گیا کیونکہ بحرین جی پی کا منصوبہ ختم ہو گیا",
+      "desc_ur": "ملائیشیا کی حکومت آخری لمحات کے فارمولہ 1 گرینڈ پرکس کے انعقاد کے لیے ایک فزیبلٹی اسٹڈی کر رہی ہے کیونکہ مشرق وسطیٰ کا تنازعہ مسلسل منصوبوں کو درہم برہم کرتا جا رہا ہے۔ ایران پر امریکی اسرائیل جنگ نے F1 کو اپنے ابتدائی سیزن راؤنڈ چلانے سے روک دیا…"
+    },
+    {
+      "title": "US imports Iraqi fuel oil via Syria for first time",
+      "desc": "US imports Iraqi fuel oil via Syria for the first time. WTI reaching $110 in July 2026 at 5.7% YES.\nThe post US imports Iraqi fuel oil via Syria for first time appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/us-imports-iraqi-fuel-oil-via-syria-for-first-time/",
+      "time": "2026-07-24T11:33:08",
+      "country": "Iraq",
+      "title_ur": "امریکہ پہلی بار شام کے راستے عراقی ایندھن کا تیل درآمد کر رہا ہے۔",
+      "desc_ur": "امریکہ پہلی بار شام کے راستے عراقی ایندھن کا تیل درآمد کر رہا ہے۔ WTI جولائی 2026 میں 5.7% ہاں $110 تک پہنچ رہا ہے۔\nThe post امریکا پہلی بار شام کے راستے عراقی ایندھن کا تیل درآمد کرے گا appeared first on Crypto Briefing."
+    },
+    {
+      "title": "Trump’s 10% tariff blow that could work in India’s favour",
+      "desc": "The US Section 301 tariff has escalated cost challenges for Indian exporters, but it simultaneously provides a unique advantage. Competing nations are subjected to higher tariffs, allowing Indian goods to be more attractive. This favorable situation highlight…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/trump-10-percent-us-section-301-tariff-on-india-indian-exporters-fieo-trade-opportunity/articleshow/132603895.cms",
+      "time": "2026-07-24T11:32:20",
+      "country": "India",
+      "title_ur": "ٹرمپ کا 10% ٹیرف دھچکا جو ہندوستان کے حق میں کام کر سکتا ہے۔",
+      "desc_ur": "امریکی سیکشن 301 ٹیرف نے ہندوستانی برآمد کنندگان کے لیے لاگت کے چیلنجز کو بڑھا دیا ہے، لیکن یہ بیک وقت ایک منفرد فائدہ فراہم کرتا ہے۔ مسابقتی ممالک کو زیادہ ٹیرف کا نشانہ بنایا جاتا ہے، جس سے ہندوستانی سامان زیادہ پرکشش ہوتا ہے۔ اس سازگار صورتحال کو اجاگر…"
+    },
+    {
+      "title": "Trump threatens Iran escalation as tit-for-tat airstrikes continue",
+      "desc": "The U.S. continued airstrikes in Iran while Tehran launched retaliatory attacks on U.S. targets in the Gulf as the region braced itself after President Trump said he was close to deciding whether to launch \"a massive attack\".",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/24/g-s1-135417/us-iran-war-updates",
+      "time": "2026-07-24T11:30:08",
+      "country": "Iran",
+      "title_ur": "ٹرمپ نے ایران کو دھمکی دی ہے کہ جیسے جیسے فضائی حملے جاری ہیں۔",
+      "desc_ur": "امریکہ نے ایران میں فضائی حملے جاری رکھے جبکہ تہران نے خلیج میں امریکی اہداف پر جوابی حملے شروع کیے کیونکہ صدر ٹرمپ کے کہنے کے بعد کہ وہ فیصلہ کرنے کے قریب ہیں کہ \"بڑے پیمانے پر حملہ\" کیا جائے۔"
+    },
+    {
+      "title": "Iran accelerates missile base reconstruction after US, Israel strikes: WSJ",
+      "desc": "Iran accelerates missile base reconstruction after US and Israel strikes. US-Iran nuclear deal by August 13, 2026 at 2.6% YES.\nThe post Iran accelerates missile base reconstruction after US, Israel strikes: WSJ appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-accelerates-missile-base-reconstruction-after-us-israel-strikes-wsj/",
+      "time": "2026-07-24T11:30:02",
+      "country": "Iran",
+      "title_ur": "امریکہ، اسرائیل کے حملے کے بعد ایران نے میزائل بیس کی تعمیر نو میں تیزی لائی: ڈبلیو ایس جے",
+      "desc_ur": "امریکہ اور اسرائیل کے حملے کے بعد ایران نے میزائل بیس کی تعمیر نو کا کام تیز کر دیا ہے۔ امریکہ ایران جوہری معاہدہ 13 اگست 2026 تک 2.6% ہاں۔\nThe post امریکا، اسرائیل کے حملے کے بعد ایران نے میزائل بیس کی تعمیر نو میں تیزی لائی: ڈبلیو ایس جے appeared first on Crypto Briefing."
+    },
+    {
+      "title": "Saudi Crude Tanker Goes Dark to Slip Through Bab el-Mandeb",
+      "desc": "At least one oil tanker carrying Saudi crude oil has transited the Bab al-Mandeb Strait with its transponder switched off as risks to vessels in the Red Sea spiked this week after the Houthis announced a blockade on Saudi shipments and targeted vessels offsho…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Crude-Tanker-Goes-Dark-to-Slip-Through-Bab-el-Mandeb.html",
+      "time": "2026-07-24T11:30:00",
+      "country": "Saudi Arabia",
+      "title_ur": "سعودی خام تیل کا ٹینکر باب المندب سے پھسلنے کے لیے اندھیرے میں چلا گیا۔",
+      "desc_ur": "کم از کم ایک آئل ٹینکر جو سعودی خام تیل لے کر جا رہا ہے آبنائے باب المندب سے اس کے ٹرانسپونڈر کو بند کر دیا ہے کیونکہ اس ہفتے حوثیوں کی جانب سے سعودی کھیپوں اور جہازوں کو نشانہ بنانے کے اعلان کے بعد بحیرہ احمر میں جہازوں کے لیے خطرات بڑھ گئے ہیں۔"
+    },
+    {
+      "title": "Bahrain intercepts Iranian aerial attacks amid ongoing 2026 Iran war",
+      "desc": "Bahrain intercepts Iranian aerial attacks amid ongoing conflict. Military action against a Gulf state on July 30 at 45% YES.\nThe post Bahrain intercepts Iranian aerial attacks amid ongoing 2026 Iran war appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/bahrain-intercepts-iranian-aerial-attacks-amid-ongoing-2026-iran-war/",
+      "time": "2026-07-24T11:27:31",
+      "country": "Iran",
+      "title_ur": "بحرین نے 2026 کی جاری ایران جنگ کے دوران ایرانی فضائی حملوں کو روک دیا۔",
+      "desc_ur": "بحرین نے جاری تنازع کے درمیان ایرانی فضائی حملوں کو روک دیا۔ 30 جولائی کو ایک خلیجی ریاست کے خلاف فوجی کارروائی 45% ہاں۔\nThe post بحرین نے 2026 کی جاری ایران جنگ کے دوران ایرانی فضائی حملوں کو روک دیا appeared first on Crypto Briefing."
+    },
+    {
+      "title": "Bangladesh President Mohammed Shahabuddin resigns",
+      "desc": "Bangladesh President Mohammed Shahabuddin has resigned from his position two years early. He cited various health complications as the primary reason for his unexpected departure.  His resignation letter was submitted to the parliamentary Speaker for official…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/bangladesh-president-mohammed-shahabuddin-resigns/articleshow/132604001.cms",
+      "time": "2026-07-24T11:27:11",
+      "country": "US",
+      "title_ur": "بنگلہ دیش کے صدر محمد شہاب الدین نے استعفیٰ دے دیا۔",
+      "desc_ur": "بنگلہ دیش کے صدر محمد شہاب الدین نے دو سال قبل اپنے عہدے سے استعفیٰ دے دیا ہے۔ انہوں نے اپنی غیر متوقع رخصتی کی بنیادی وجہ صحت کی مختلف پیچیدگیوں کو بتایا۔  ان کا استعفیٰ پارلیمانی سپیکر کو سرکاری طور پر پیش کر دیا گیا…"
+    },
+    {
+      "title": "IDF to conduct 'extensive' operation in West Bank",
+      "desc": "The Israel Defense Forces (IDF) said on Friday that they are preparing an \"extensive operational activity\" in the West Bank, following clashes in which one Israeli and four Palestinians were killed. I...",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/5c74c00fd67acf22",
+      "time": "2026-07-24T11:25:17",
       "country": "Israel",
-      "title_ur": "اسرائیل کی غیر قانونی بستیاں یورپ کی ساکھ کا امتحان ہیں۔",
-      "desc_ur": "یورپی یونین نے الحاق کو تیز کرنے کی دستاویز کی ہے۔ اسے اب اس کا مقابلہ کرنے کے لیے اپنی اجتماعی طاقت کا استعمال کرنا چاہیے۔"
+      "title_ur": "IDF مغربی کنارے میں 'وسیع' آپریشن کرے گا۔",
+      "desc_ur": "اسرائیلی ڈیفنس فورسز (IDF) نے جمعہ کو کہا کہ وہ مغربی کنارے میں ایک \"وسیع آپریشنل سرگرمی\" کی تیاری کر رہے ہیں، ان جھڑپوں کے بعد جس میں ایک اسرائیلی اور چار فلسطینی مارے گئے تھے۔ میں..."
     },
     {
-      "title": "Four injured in rock attack in Samaria",
-      "desc": "Real time news brief - Four injured in rock attack in Samaria - Israel National News flashes around the clock are waiting for you on the site",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/flashes/690473",
-      "time": "2026-07-24T09:55:32",
-      "country": "Israel",
-      "title_ur": "سامریہ میں راکٹ حملے میں چار زخمی",
-      "desc_ur": "ریئل ٹائم نیوز بریف - سامریہ میں راکٹ حملے میں چار زخمی - اسرائیل کی قومی خبریں سائٹ پر چوبیس گھنٹے آپ کا انتظار کر رہی ہیں"
-    },
-    {
-      "title": "UK Food Prices to Peak Lower Than Thought, BOE Survey Finds",
-      "desc": "Britain’s supermarkets plan to increase food prices by less than previously thought as rising fuel costs caused by the Middle East conflict dent household demand, according to the Bank of England’s survey of regional business contacts.",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/uk-food-prices-to-peak-lower-than-thought-boe-survey-finds",
-      "time": "2026-07-24T09:55:17",
-      "country": "UK",
-      "title_ur": "یو کے کھانے کی قیمتیں سوچ سے کم ہو جائیں گی، BOE سروے کے مطابق",
-      "desc_ur": "بینک آف انگلینڈ کے علاقائی کاروباری رابطوں کے سروے کے مطابق، برطانیہ کی سپر مارکیٹیں کھانے کی قیمتوں میں پہلے کے خیال سے کم اضافہ کرنے کا ارادہ رکھتی ہیں کیونکہ مشرق وسطیٰ کے تنازعات کی وجہ سے ایندھن کی بڑھتی ہوئی قیمتوں کی وجہ سے گھریلو طلب میں کمی واقع ہوئی ہے۔"
+      "title": "Fed will likely hold rates at July meeting and through 2026, but Iran and tariffs pose upside risks – Natixis",
+      "desc": "– The Federal Reserve will likely keep rates unchanged, at next week’s meeting and through 2026, as recent data has bought the FOMC some breathing room, according to economists at Natixis.\nEconomists Christopher Hodge and Selin Aker wrote in Natixis’ FOMC pre…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/b075feba20606885",
+      "time": "2026-07-24T11:24:46",
+      "country": "Iran",
+      "title_ur": "Fed ممکنہ طور پر جولائی کے اجلاس میں اور 2026 تک شرحیں برقرار رکھے گا، لیکن ایران اور محصولات الٹا خطرات لاحق ہیں - Natixis",
+      "desc_ur": "- فیڈرل ریزرو ممکنہ طور پر اگلے ہفتے کی میٹنگ میں اور 2026 تک نرخوں میں کوئی تبدیلی نہیں کرے گا، کیونکہ نیٹیکسس کے ماہرین اقتصادیات کے مطابق، حالیہ اعداد و شمار نے FOMC کو کچھ سانس لینے کا کمرہ خریدا ہے۔\nماہر معاشیات کرسٹوفر ہوج اور سیلن ایکر نے ناٹیکس کے FOMC میں لکھا ہے پہلے…"
     }
   ],
   "pakistan": [
     {
-      "title": "Meet the Glasgow curry shop boss representing Pakistan at bowls",
-      "desc": "Mohammed 'Chico' Qureshi has called Glasgow home for more than 50 years, but he will represent Pakistan against Scotland at the Commonwealth Games on Friday.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/sport/articles/c0m71jvk2lwo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "time": "2026-07-24T10:05:27",
+      "title": "Only way India and Pakistan can meet at 2026 Asian Games cricket: Potential route to final, gold medal match in Aichi-Nagoya",
+      "desc": "With this year's Asian Games about to include cricket, fans across the subcontinent are excited to take a look at the India vs. Pakistan match in Japan, but there is only one way for them to meet.",
+      "source": "Cricketnews.com",
+      "url": "https://www.cricketnews.com/en/cricket/news/india-pakistan-meet-2026-asian-games-cricket-route-final-gold-medal/f100f9244c13dc31e2d904c1",
+      "time": "2026-07-24T11:30:24",
       "country": "Pakistan",
-      "title_ur": "پیالوں میں پاکستان کی نمائندگی کرنے والے گلاسگو کری شاپ کے مالک سے ملیں۔",
-      "desc_ur": "محمد 'چیکو' قریشی 50 سال سے زائد عرصے سے گلاسگو کو گھر بلا چکے ہیں، لیکن وہ جمعے کو کامن ویلتھ گیمز میں اسکاٹ لینڈ کے خلاف پاکستان کی نمائندگی کریں گے۔"
-    },
-    {
-      "title": "Inside the unconventional FDA panel that could reshape the peptide industry",
-      "desc": "An unconventional FDA panel is assessing the safety and efficacy of previously-banned peptides. It could open up a multibillion-dollar market.",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/rfk-convenes-unusual-fda-panel-to-assess-peptide-safety-issues-2026-7#article",
-      "time": "2026-07-24T10:05:01",
-      "country": "Pakistan",
-      "title_ur": "غیر روایتی ایف ڈی اے پینل کے اندر جو پیپٹائڈ انڈسٹری کو نئی شکل دے سکتا ہے۔",
-      "desc_ur": "ایک غیر روایتی FDA پینل پہلے سے ممنوعہ پیپٹائڈس کی حفاظت اور افادیت کا جائزہ لے رہا ہے۔ اس سے اربوں ڈالر کی مارکیٹ کھل سکتی ہے۔"
-    },
-    {
-      "title": "Aphrodite Group Secures MOU for Sale of Cypriot Gas to Egypt",
-      "desc": "The Chevron-led Aphrodite consortium, Cyprus Hydrocarbons and Egyptian Natural Gas signed a memorandum of understanding to enable the piped export of 100 percent of production from the Aphrodite field to Egypt.",
-      "source": "Rigzone",
-      "url": "https://www.rigzone.com/news/aphrodite_group_secures_mou_for_sale_of_cypriot_gas_to_egypt-24-jul-2026-184206-article/",
-      "time": "2026-07-24T09:38:47",
-      "country": "Pakistan",
-      "title_ur": "ایفروڈائٹ گروپ نے مصر کو قبرصی گیس کی فروخت کے لیے ایم او یو حاصل کیا۔",
-      "desc_ur": "شیوران کی قیادت میں ایفروڈائٹ کنسورشیم، سائپرس ہائیڈرو کاربن اور مصری قدرتی گیس نے ایفروڈائٹ فیلڈ سے مصر کو 100 فیصد پیداوار کی پائپ کے ذریعے برآمد کرنے کے لیے مفاہمت کی ایک یادداشت پر دستخط کیے ہیں۔"
+      "title_ur": "2026 ایشین گیمز کرکٹ میں ہندوستان اور پاکستان کے ملنے کا واحد راستہ: فائنل کا ممکنہ راستہ، ایچی ناگویا میں گولڈ میڈل میچ",
+      "desc_ur": "اس سال ہونے والے ایشین گیمز میں کرکٹ شامل ہونے کے ساتھ، برصغیر بھر کے شائقین جاپان میں بھارت بمقابلہ پاکستان کے میچ کو دیکھنے کے لیے پرجوش ہیں، لیکن ان کے لیے ملنے کا ایک ہی راستہ ہے۔"
     }
   ],
   "business": {
@@ -209,7 +189,7 @@
         "low": 27,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 78
+        "precip": 73
       },
       {
         "date": "2026-07-27",
@@ -218,7 +198,7 @@
         "low": 27,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 75
+        "precip": 73
       },
       {
         "date": "2026-07-28",
@@ -227,7 +207,7 @@
         "low": 26,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 67
+        "precip": 88
       },
       {
         "date": "2026-07-29",
@@ -236,7 +216,7 @@
         "low": 26,
         "condition": "Drizzle",
         "condition_ur": "بوندا باندی",
-        "precip": 69
+        "precip": 76
       },
       {
         "date": "2026-07-30",
@@ -245,7 +225,7 @@
         "low": 25,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 75
+        "precip": 76
       },
       {
         "date": "2026-07-31",
@@ -254,7 +234,7 @@
         "low": 25,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 87
+        "precip": 91
       }
     ]
   },
