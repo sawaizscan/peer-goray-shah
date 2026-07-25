@@ -1,187 +1,177 @@
 {
-  "generated": "2026-07-25T13:11:09Z",
+  "generated": "2026-07-25T14:45:26Z",
   "world": [
     {
-      "title": "Braggawatts, Cheap Chinese Compute, & Simple ROI",
-      "desc": "Braggawatts, Cheap Chinese Compute, & Simple ROI\n \nAuthored by Peter Tchir via Academy Securities,\nWith weakness in chips and AI the prior week, that was a major topic of conversation, as was the escalation in Iran (please see Academy’s Geopolitical Analysis …",
+      "title": "Why a chief economist thinks a surprise rate hike could be coming at next week's Fed meeting",
+      "desc": "There's an argument to be made for the Fed to move now rather than in September, with conditions supporting higher inflation remaining largely intact.",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/surprise-rate-hike-july-fed-meeting-kevin-warsh-neil-dutta-2026-7#article",
+      "time": "2026-07-24T14:43:25",
+      "country": "International",
+      "title_ur": "کیوں ایک چیف اکانومسٹ کا خیال ہے کہ اگلے ہفتے کی فیڈ میٹنگ میں ایک حیرت انگیز شرح میں اضافہ ہو سکتا ہے۔",
+      "desc_ur": "فیڈ کے لیے ستمبر کے بجائے اب منتقل ہونے کے لیے ایک دلیل پیش کی جائے گی، جس میں زیادہ افراط زر کی حمایت کرنے والے حالات بڑی حد تک برقرار ہیں۔"
+    },
+    {
+      "title": "Iran FM: Tehran will not 'succumb to US bullying'",
+      "desc": "Iranian Foreign Minister Abbas Araghchi stated on Friday that Iran will not \"succumb\" to the \"bullying\" of the United States and will not respond to threats, pressure, or intimidation tactics.\"We are ...",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/796854836b083f71",
-      "time": "2026-07-24T13:10:40",
+      "url": "https://biztoc.com/x/8c331341121eacec",
+      "time": "2026-07-24T14:41:38",
       "country": "Iran",
-      "title_ur": "Braggawatts، سستا چینی کمپیوٹ، اور سادہ ROI",
-      "desc_ur": "Braggawatts، سستا چینی کمپیوٹ، اور سادہ ROI\n \nاکیڈمی سیکیورٹیز کے توسط سے پیٹر ٹیچر کے ذریعہ تحریر کردہ،\nپچھلے ہفتے چپس اور AI میں کمزوری کے ساتھ، یہ بات چیت کا ایک بڑا موضوع تھا، جیسا کہ ایران میں بڑھتا ہوا تھا (براہ کرم اکیڈمی کا جیو پولیٹیکل تجزیہ دیکھیں …"
+      "title_ur": "تہران امریکی غنڈہ گردی کے سامنے نہیں جھکے گا: ایرانی وزیر خارجہ",
+      "desc_ur": "ایرانی وزیر خارجہ عباس عراقچی نے جمعے کے روز کہا کہ ایران امریکہ کی \"غنڈہ گردی\" کے سامنے نہیں جھکے گا اور دھمکیوں، دباؤ یا دھمکیوں کے ہتھکنڈوں کا جواب نہیں دے گا۔"
     },
     {
-      "title": "Gilts Caught Between Twin Risks From Burnham Debut and Oil Shock",
-      "desc": "Britain’s bond traders have spent Andy Burnham’s first week in office trying to price two different forces: the spending ambitions of his new government and the impact of oil prices hovering near $100 a barrel.",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/gilts-caught-between-twin-risks-from-burnham-debut-and-oil-shock",
-      "time": "2026-07-24T13:09:49",
-      "country": "UK",
-      "title_ur": "برنہم ڈیبیو اور آئل شاک سے جڑواں خطرات کے درمیان گلٹس پکڑے گئے۔",
-      "desc_ur": "برطانیہ کے بانڈ کے تاجروں نے اینڈی برنہم کے دفتر میں پہلا ہفتہ دو مختلف قوتوں کی قیمت لگانے کی کوشش میں گزارا: اس کی نئی حکومت کے اخراجات کے عزائم اور تیل کی قیمتوں کا اثر $100 فی بیرل کے قریب۔"
-    },
-    {
-      "title": "Overseas Buyers In Hot Pursuit of USA Crude",
-      "desc": "U.S. crude is drawing overseas interest from Asian and European refiners.",
-      "source": "Rigzone",
-      "url": "https://www.rigzone.com/news/wire/overseas_buyers_in_hot_pursuit_of_usa_crude-24-jul-2026-184210-article/",
-      "time": "2026-07-24T13:09:47",
-      "country": "US",
-      "title_ur": "یو ایس اے کروڈ کے گرم تعاقب میں بیرون ملک خریدار",
-      "desc_ur": "امریکی خام تیل ایشیائی اور یورپی ریفائنرز سے بیرون ملک دلچسپی لے رہا ہے۔"
-    },
-    {
-      "title": "Dorman Products (DORM) Rallied as Market Views Tariff Compression as Temporary",
-      "desc": "SouthernSun Asset Management, LLC, an investment management firm, released its “SouthernSun Small Cap Strategy” second-quarter 2026 investor letter. A copy o...",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dorman-products-dorm-rallied-market-130715516.html",
-      "time": "2026-07-24T13:07:15",
-      "country": "International",
-      "title_ur": "Dorman پروڈکٹس (DORM) کی ریلی مارکیٹ ویوز ٹیرف کمپریشن کو عارضی طور پر",
-      "desc_ur": "سدرن سن اثاثہ جات مینجمنٹ، ایل ایل سی، ایک سرمایہ کاری کے انتظامی فرم نے اپنی \"سدرن سن سمال کیپ حکمت عملی\" دوسری سہ ماہی 2026 کے سرمایہ کاروں کا خط جاری کیا۔ ایک کاپی اے..."
-    },
-    {
-      "title": "UN Secretary-General Candidates on Iran War, Keeping the Peace",
-      "desc": "Candidates to become the next United Nations Secretary-General talk about how they might keep the peace in the Middle East ...",
+      "title": "Drones target Iraqi city where U.S. forces are based",
+      "desc": "IRBIL, Iraq — Drones carrying explosives targeted a city in northern Iraq where U.S. forces are stationed, and sirens rang out in Bahrain on Friday, hours after the American military said it finished its 13th night of strikes against Iran.\nThe conflict has fl…",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/1d531127d75eb649",
-      "time": "2026-07-24T13:06:08",
+      "url": "https://biztoc.com/x/232e1e0d320bf0e6",
+      "time": "2026-07-24T14:41:30",
       "country": "Iran",
-      "title_ur": "اقوام متحدہ کے سیکرٹری جنرل ایران جنگ، امن برقرار رکھنے کے بارے میں امیدوار",
-      "desc_ur": "اقوام متحدہ کا اگلا سیکرٹری جنرل بننے کے امیدوار اس بارے میں بات کرتے ہیں کہ وہ مشرق وسطیٰ میں امن کیسے برقرار رکھ سکتے ہیں..."
+      "title_ur": "ڈرونز نے عراقی شہر کو نشانہ بنایا جہاں امریکی افواج موجود ہیں۔",
+      "desc_ur": "IRBIL، عراق - دھماکہ خیز مواد سے لدے ڈرونز نے شمالی عراق کے ایک شہر کو نشانہ بنایا جہاں امریکی افواج تعینات ہیں، اور جمعہ کو بحرین میں سائرن بجنے کے بعد، امریکی فوج کے کہنے کے بعد کہ اس نے ایران کے خلاف اپنی 13ویں رات کی کارروائی مکمل کر لی ہے۔\nتنازعہ ہوا ہے…"
     },
     {
-      "title": "IndiGo assessing West Asia situation, Air India Express cancels Bahrain, Kuwait flights",
-      "desc": "IndiGo operated around 160 flights daily to West Asia prior to March and that dropped to 20-30 flights a day during the peak of the crisis",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/logistics/indigo-assessing-west-asia-situation-air-india-express-cancels-bahrain-kuwait-flights/article71262241.ece",
-      "time": "2026-07-24T13:01:56",
-      "country": "India",
-      "title_ur": "IndiGo مغربی ایشیا کی صورتحال کا جائزہ لے رہا ہے، ایئر انڈیا ایکسپریس نے بحرین، کویت کی پروازیں منسوخ کر دیں۔",
-      "desc_ur": "IndiGo نے مارچ سے پہلے مغربی ایشیا کے لیے روزانہ تقریباً 160 پروازیں چلائی تھیں اور بحران کے عروج کے دوران یہ 20-30 پروازوں تک گر گئی تھی۔"
-    },
-    {
-      "title": "Tanker switches Asia voyage via Suez amid Houthi warnings, owner says",
-      "desc": "The Torm Innovation tanker will navigate the Suez Canal to Asia. This decision follows Houthi threats impacting shipping in the southern Red Sea. Crew safety remains the company's highest priority amid security concerns. Red Sea traffic has seen significant d…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/tanker-switches-asia-voyage-via-suez-amid-houthi-warnings-owner-says/articleshow/132606513.cms",
-      "time": "2026-07-24T13:01:18",
-      "country": "Yemen",
-      "title_ur": "مالک کا کہنا ہے کہ ٹینکر نے حوثیوں کے انتباہات کے درمیان سویز کے راستے ایشیا کا سفر تبدیل کیا۔",
-      "desc_ur": "ٹورم انوویشن ٹینکر سویز کینال سے ایشیا تک جائے گا۔ یہ فیصلہ حوثیوں کی دھمکیوں کے بعد کیا گیا ہے جو جنوبی بحیرہ احمر میں جہاز رانی کو متاثر کر رہے ہیں۔ حفاظتی خدشات کے درمیان عملے کی حفاظت کمپنی کی اولین ترجیح ہے۔ بحیرہ احمر کی ٹریفک میں نمایاں اضافہ دیکھا گیا ہے…"
-    },
-    {
-      "title": "Number of U.S. Troop Deaths Suddenly Appears Lower on Pentagon Website",
-      "desc": "On Wednesday, the Pentagon reported on its casualties website that a total of 18 American service members had been killed during the war in Iran.By Thursday, the Defense Department had lowered that number, reporting that 14 American troops had been killed in …",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4389203/posts",
-      "time": "2026-07-24T13:01:16",
-      "country": "Iran",
-      "title_ur": "پینٹاگون کی ویب سائٹ پر امریکی فوجیوں کی ہلاکتوں کی تعداد اچانک کم دکھائی دیتی ہے۔",
-      "desc_ur": "بدھ کے روز، پینٹاگون نے اپنی ہلاکتوں کی ویب سائٹ پر اطلاع دی کہ ایران میں جنگ کے دوران کل 18 امریکی فوجی مارے گئے ہیں۔ جمعرات تک، محکمہ دفاع نے اس تعداد کو کم کر دیا تھا، یہ اطلاع دیتے ہوئے کہ 14 امریکی فوجی مارے گئے تھے۔"
-    },
-    {
-      "title": "The Power Behind Japan’s Takaichi Government",
-      "desc": "Nippon Ishin has, through its alliance with Takaichi, exerted an influence on the Japanese government that far exceeds its parliamentary strength.",
-      "source": "The Diplomat",
-      "url": "https://thediplomat.com/2026/07/the-power-behind-japans-takaichi-government/",
-      "time": "2026-07-24T13:01:00",
-      "country": "International",
-      "title_ur": "جاپان کی تاکائیچی حکومت کے پیچھے طاقت",
-      "desc_ur": "نیپون ایشین نے تاکائیچی کے ساتھ اپنے اتحاد کے ذریعے جاپانی حکومت پر ایسا اثر ڈالا ہے جو اس کی پارلیمانی طاقت سے کہیں زیادہ ہے۔"
-    },
-    {
-      "title": "Secret Service offers glimpse into WHCA Dinner security after alleged Trump assassination attempt",
-      "desc": "The Secret Service reveals enhanced security for the rescheduled WHCA Dinner at the Waldorf Astoria, including magnetometer screening and closures.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/secret-service-glimpse-whca-dinner-security-alleged-trump-assassination-attempt",
-      "time": "2026-07-24T13:00:33",
-      "country": "US",
-      "title_ur": "سیکرٹ سروس ٹرمپ کے قتل کی مبینہ کوشش کے بعد ڈبلیو ایچ سی اے ڈنر سیکیورٹی کی جھلک پیش کرتی ہے۔",
-      "desc_ur": "سیکرٹ سروس نے والڈورف آسٹوریا میں دوبارہ شیڈول WHCA ڈنر کے لیے بہتر سیکورٹی کا انکشاف کیا ہے، بشمول میگنیٹومیٹر اسکریننگ اور بندش۔"
-    },
-    {
-      "title": "The Venice Art Biennale: Quietly criticising Israel",
-      "desc": "Fortunately for anyone who abhors artwashing, the curating of the art biennial has made it impossible to ignore the crimes committed by Israel in Palestine and beyond",
-      "source": "We-make-money-not-art.com",
-      "url": "https://we-make-money-not-art.com/the-venice-art-biennale-quietly-criticising-israel/",
-      "time": "2026-07-24T13:00:22",
-      "country": "Israel",
-      "title_ur": "The Venice Art Biennale: خاموشی سے اسرائیل پر تنقید",
-      "desc_ur": "خوش قسمتی سے ہر اس شخص کے لیے جو آرٹ واشنگ سے نفرت کرتا ہے، آرٹ کی دو سالہ کیوریٹنگ نے فلسطین اور اس سے باہر اسرائیل کے جرائم کو نظر انداز کرنا ناممکن بنا دیا ہے۔"
-    },
-    {
-      "title": "Trump Weighs Wider Iranian Attacks With New Truce Still Elusive...",
-      "desc": "(Bloomberg) -- President Donald Trump said he’s considering a “massive attack” on Iran to push the nation to negotiate a peace deal, raising the prospect of...",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/energy/articles/trump-weighs-wider-iranian-attacks-052349735.html",
-      "time": "2026-07-24T13:00:15",
-      "country": "Iran",
-      "title_ur": "ٹرمپ نے نئے جنگ بندی کے ساتھ وسیع تر ایرانی حملوں کا وزن کیا ہے جو ابھی تک مبہم ہے...",
-      "desc_ur": "(بلومبرگ) -- صدر ڈونلڈ ٹرمپ نے کہا کہ وہ ایران پر \"بڑے پیمانے پر حملے\" پر غور کر رہے ہیں تاکہ قوم کو امن معاہدے پر بات چیت کرنے کے لیے دباؤ ڈالا جا سکے، جس کے امکانات کو بڑھاتے ہوئے..."
-    },
-    {
-      "title": "House passed defense bill. Will it make US, Israeli militaries merge?",
-      "desc": "\"The meshing of our two great countries of talent would strengthen America's competitive position,\" Israeli Prime Minister Benjamin Netanyahu said.",
-      "source": "Snopes.com",
-      "url": "https://www.snopes.com//news/2026/07/26/us-israeli-militaries-merging/",
-      "time": "2026-07-24T13:00:00",
-      "country": "Israel",
-      "title_ur": "ایوان نے دفاعی بل منظور کر لیا۔ کیا اس سے امریکی اور اسرائیلی فوجیں ضم ہو جائیں گی؟",
-      "desc_ur": "اسرائیلی وزیر اعظم بنجمن نیتن یاہو نے کہا کہ \"ہمارے دو عظیم ٹیلنٹ کے ممالک کو ملانا امریکہ کی مسابقتی پوزیشن کو مضبوط کرے گا۔\""
-    },
-    {
-      "title": "This New Denim Brand Caters to True Tall Proportions",
-      "desc": "A Tall Box aims to fill a long-standing gap that many standard size brands have tried to fill but failed.",
-      "source": "WWD",
-      "url": "http://wwd.com/sourcing-journal/sj-denim/a-tall-box-launches-tall-womens-jeans-1239081187/",
-      "time": "2026-07-24T13:00:00",
-      "country": "International",
-      "title_ur": "یہ نیا ڈینم برانڈ حقیقی لمبے تناسب کو پورا کرتا ہے۔",
-      "desc_ur": "A Tall Box کا مقصد ایک دیرینہ خلا کو پُر کرنا ہے جسے بہت سے معیاری سائز کے برانڈز نے پُر کرنے کی کوشش کی لیکن ناکام رہے۔"
-    },
-    {
-      "title": "Jordanian army intercepts Iranian drones and missiles amid regional tensions",
-      "desc": "Jordanian army intercepts Iranian drones and missiles. Houthi military action against Israel by July 31, 2026 at 12.5% YES.\nThe post Jordanian army intercepts Iranian drones and missiles amid regional tensions appeared first on Crypto Briefing.",
+      "title": "Physical oil prices near $110 as Iran, Ukraine conflicts hit supply",
+      "desc": "Physical oil prices near $110 as conflicts disrupt supply. New all-time high by December 31 at 19% YES.\nThe post Physical oil prices near $110 as Iran, Ukraine conflicts hit supply appeared first on Crypto Briefing.",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/jordanian-army-intercepts-iranian-drones-and-missiles-amid-regional-tensions/",
-      "time": "2026-07-24T12:58:19",
+      "url": "https://cryptobriefing.com/physical-oil-prices-near-110-as-iran-ukraine-conflicts-hit-supply/",
+      "time": "2026-07-24T14:40:47",
       "country": "Iran",
-      "title_ur": "اردنی فوج نے علاقائی کشیدگی کے درمیان ایرانی ڈرون اور میزائلوں کو روک لیا۔",
-      "desc_ur": "اردنی فوج نے ایرانی ڈرونز اور میزائلوں کو روک لیا۔ 31 جولائی 2026 تک اسرائیل کے خلاف حوثی فوجی کارروائی 12.5% ​​ہاں۔\nThe post علاقائی کشیدگی کے درمیان اردنی فوج نے ایرانی ڈرونز اور میزائلوں کو روک لیا appeared first on Crypto Briefing."
+      "title_ur": "ایران اور یوکرین کے تنازعات کی وجہ سے تیل کی قیمتیں 110 ڈالر کے قریب پہنچ گئیں۔",
+      "desc_ur": "تیل کی قیمتیں $110 کے قریب ہیں کیونکہ تنازعات سپلائی میں خلل ڈالتے ہیں۔ 31 دسمبر تک نئی ہمہ وقتی بلندی پر 19% ہاں۔\nThe post ایران، یوکرین تنازعات کی وجہ سے تیل کی قیمتیں 110 ڈالر کے قریب پہنچ گئیں appeared first on Crypto Briefing."
+    },
+    {
+      "title": "Israel's Netanyahu to meet Trump at White House on Tuesday: PM office",
+      "desc": "Israeli Prime Minister Benjamin Netanyahu will meet US President Donald Trump at the White House on July 28, the Israeli leader's office said.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/israels-netanyahu-to-meet-trump-at-white-house-on-tuesday-pm-office-224772",
+      "time": "2026-07-24T14:36:45",
+      "country": "Israel",
+      "title_ur": "اسرائیل کے نیتن یاہو منگل کو وائٹ ہاؤس میں ٹرمپ سے ملاقات کریں گے: وزیر اعظم آفس",
+      "desc_ur": "اسرائیلی رہنما کے دفتر نے بتایا کہ اسرائیلی وزیر اعظم بینجمن نیتن یاہو 28 جولائی کو وائٹ ہاؤس میں امریکی صدر ڈونلڈ ٹرمپ سے ملاقات کریں گے۔"
+    },
+    {
+      "title": "Southern California’s used EV market sizzles as gas prices soar",
+      "desc": "Drivers who want to cut out expensive fill-ups are seeing a flood of leased EV vehicles coming available.",
+      "source": "Medianewsgroup.com",
+      "url": "https://wpdash.medianewsgroup.com/?p=9641606",
+      "time": "2026-07-24T14:33:01",
+      "country": "US",
+      "title_ur": "گیس کی قیمتوں میں اضافے کے ساتھ ہی جنوبی کیلی فورنیا کی استعمال شدہ EV مارکیٹ میں ہلچل مچ گئی۔",
+      "desc_ur": "وہ ڈرائیور جو مہنگے فل اپس کو کم کرنا چاہتے ہیں وہ لیز پر لی گئی ای وی گاڑیوں کا سیلاب دیکھ رہے ہیں۔"
+    },
+    {
+      "title": "Kuwait air defenses counter hostile drone threats amid Iran-Gulf tensions",
+      "desc": "Kuwait's air defenses respond to drone threats amid Iran-Gulf tensions. Iranian military action against a Gulf state on July 30 at 45% YES.\nThe post Kuwait air defenses counter hostile drone threats amid Iran-Gulf tensions appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/kuwait-air-defenses-counter-hostile-drone-threats-amid-iran-gulf-tensions/",
+      "time": "2026-07-24T14:32:36",
+      "country": "Iran",
+      "title_ur": "کویت کے فضائی دفاع نے ایران اور خلیجی کشیدگی کے درمیان دشمن ڈرون کے خطرات کا مقابلہ کیا۔",
+      "desc_ur": "کویت کے فضائی دفاع نے ایران اور خلیجی کشیدگی کے درمیان ڈرون کی دھمکیوں کا جواب دیا۔ 30 جولائی کو ایک خلیجی ریاست کے خلاف ایرانی فوجی کارروائی 45% ہاں۔\nThe post کویت کے فضائی دفاع نے ایران اور خلیجی کشیدگی کے درمیان دشمن ڈرون کے خطرات کا مقابلہ کیا appeared first on Crypto Briefing."
+    },
+    {
+      "title": "Mamdani Can’t Arrest Netanyahu. But He Can Still Hold Israel Accountable.",
+      "desc": "Tariq Kenney-Shawa\n\n\n\nNew York City’s ties with Israel go far deeper than one man, and there are concrete things Mamdani can do to break those ties.\r\n\n\r\n\n\nThe post Mamdani Can’t Arrest Netanyahu. But He Can Still Hold Israel Accountable. appeared first on The…",
+      "source": "Thenation.com",
+      "url": "https://www.thenation.com/article/politics/mamdani-netanyahu-video-next-steps/",
+      "time": "2026-07-24T14:32:05",
+      "country": "Israel",
+      "title_ur": "مامدانی نیتن یاہو کو گرفتار نہیں کر سکتے۔ لیکن وہ پھر بھی اسرائیل کو جوابدہ رکھ سکتا ہے۔",
+      "desc_ur": "طارق کینی-شاوا\n\n\n\nنیو یارک سٹی کے اسرائیل کے ساتھ تعلقات ایک آدمی سے کہیں زیادہ گہرے ہیں، اور مامدانی ان تعلقات کو توڑنے کے لیے ٹھوس چیزیں کر سکتے ہیں۔\r\n\n\r\n\n\nThe post مامدانی نیتن یاہو کو گرفتار نہیں کر سکتے۔ لیکن وہ پھر بھی اسرائیل کو جوابدہ رکھ سکتا ہے۔ appeared first on The…"
+    },
+    {
+      "title": "Trump set to unleash 'unimaginable' suffering — with crippling backlash: expert",
+      "desc": "President Donald Trump's recent remarks could signal an upcoming move with \"almost unimaginable humanitarian consequences,\" political scientist Robert Pape warned Friday. Amid the ongoing and deeply unpopular U.S. war against Iran, Trump told\r\n Axios on Thurs…",
+      "source": "Raw Story",
+      "url": "https://www.rawstory.com/trump-iran-2677267315/",
+      "time": "2026-07-24T14:30:27",
+      "country": "Iran",
+      "title_ur": "ٹرمپ 'ناقابل تصور' مصائب کو دور کرنے کے لئے تیار ہیں - اپاہج ردعمل کے ساتھ: ماہر",
+      "desc_ur": "سیاسی سائنسدان رابرٹ پیپ نے جمعہ کو خبردار کیا کہ صدر ڈونلڈ ٹرمپ کے حالیہ ریمارکس \"تقریبا ناقابل تصور انسانی نتائج\" کے ساتھ آنے والے اقدام کا اشارہ دے سکتے ہیں۔ ایران کے خلاف جاری اور انتہائی غیر مقبول امریکی جنگ کے درمیان، ٹرمپ نے کہا\r\n Axios on جمعرات…"
+    },
+    {
+      "title": "Bitcoin declines below $65,000 as Trump threatens Iran after tanker attacks send Oil above $100",
+      "desc": "Bitcoin fell below $65,000 as surging oil prices and higher Treasury yields triggered a broader retreat from risk assets. Data from CryptoSlate shows the largest cryptocurrency traded near $64,980 as Brent crude remained on track for a weekly gain of almost 1…",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/bitcoin-declines-below-65000-as-trump-threatens-iran-after-tanker-attacks-send-oil-above-100/",
+      "time": "2026-07-24T14:30:26",
+      "country": "Iran",
+      "title_ur": "بٹ کوائن 65,000 ڈالر سے نیچے گر گیا کیونکہ ٹینکر حملوں کے بعد ٹرمپ نے ایران کو دھمکی دی کہ تیل 100 ڈالر سے اوپر بھیج دیا",
+      "desc_ur": "بٹ کوائن $65,000 سے نیچے گر گیا کیونکہ تیل کی بڑھتی ہوئی قیمتوں اور خزانے کی اعلی پیداوار نے خطرے کے اثاثوں سے وسیع تر پسپائی کو متحرک کیا۔ CryptoSlate کے ڈیٹا سے پتہ چلتا ہے کہ $64,980 کے قریب تجارت کی گئی سب سے بڑی کریپٹو کرنسی کو ظاہر کرتا ہے کیونکہ برینٹ کروڈ تقریباً 1 کے ہفتہ وار فائدہ کے لیے ٹریک پر رہا…"
+    },
+    {
+      "title": "Vance Faces 'Never Vance' Movement Within GOP",
+      "desc": "JD Vance isn't on the 2028 ballot yet, but critics within his own party are already acting like he is. The Washington Post reports that the vice president is the target of a sustained online campaign from conservatives rallying under a \"Never Vance\" banner. T…",
+      "source": "Newser",
+      "url": "https://www.newser.com/story/393440/vance-faces-never-vance-movement-within-gop.html",
+      "time": "2026-07-24T14:30:00",
+      "country": "US",
+      "title_ur": "Vance کو GOP کے اندر 'کبھی نہیں Vance' تحریک کا سامنا ہے۔",
+      "desc_ur": "جے ڈی وینس ابھی 2028 کے بیلٹ پر نہیں ہیں، لیکن ان کی اپنی پارٹی کے ناقدین پہلے ہی ان کی طرح کام کر رہے ہیں۔ واشنگٹن پوسٹ نے رپورٹ کیا ہے کہ نائب صدر قدامت پسندوں کی طرف سے \"نیور وینس\" کے بینر تلے ریلی نکالنے والی مسلسل آن لائن مہم کا ہدف ہیں۔ ٹی…"
+    },
+    {
+      "title": "ADNOC Issues Seventh Crude Tender Since June Despite Hormuz, Red Sea Risks",
+      "desc": "Abu Dhabi National Oil Company ADNOC has issued its seventh tender offering crude from the United Arab Emirates since the beginning of June, expecting to sell millions of barrels of oil between August and October, both from within and outside the Persian Gulf…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Issues-Seventh-Crude-Tender-Since-June-Despite-Hormuz-Red-Sea-Risks.html",
+      "time": "2026-07-24T14:30:00",
+      "country": "US",
+      "title_ur": "ADNOC نے ہرمز، بحیرہ احمر کے خطرات کے باوجود جون سے ساتواں کروڈ ٹینڈر جاری کیا۔",
+      "desc_ur": "ابوظہبی کی نیشنل آئل کمپنی ADNOC نے جون کے آغاز سے متحدہ عرب امارات سے خام تیل کی پیشکش کا اپنا ساتواں ٹینڈر جاری کیا ہے، جس سے اگست اور اکتوبر کے درمیان خلیج فارس کے اندر اور باہر سے لاکھوں بیرل تیل فروخت ہونے کی توقع ہے…"
+    },
+    {
+      "title": "IRGC Says Hit US Camp Buehring Base in Kuwait in 27th Round of Strikes",
+      "desc": "TEHRAN, (Sputnik) - Iran's Islamic Revolutionary Guard Corps (IRGC) said on Friday that it had destroyed three ammunition and equipment hangars at US military base Camp Buehring (formerly Camp Udairi) in Kuwait in the 27th round of strikes.",
+      "source": "Sputnikglobe.com",
+      "url": "https://sputnikglobe.com/20260724/irgc-says-hit-us-camp-buehring-base-in-kuwait-in-27th-round-of-strikes-1124492420.html",
+      "time": "2026-07-24T14:29:46",
+      "country": "Iran",
+      "title_ur": "IRGC کا کہنا ہے کہ کویت میں امریکی کیمپ بوہرنگ اڈے کو 27 ویں راؤنڈ کے حملوں میں نشانہ بنایا گیا",
+      "desc_ur": "تہران، (اسپوتنک) - ایران کے اسلامی انقلابی گارڈ کور (IRGC) نے جمعہ کو کہا کہ اس نے 27 ویں دور کے حملوں میں کویت میں امریکی فوجی اڈے کیمپ بوہرنگ (سابقہ ​​کیمپ اڈیری) میں گولہ بارود اور آلات کے تین ہینگرز کو تباہ کر دیا ہے۔"
+    },
+    {
+      "title": "IDF Says Preparing for Major Counterterrorist Operation in West Bank",
+      "desc": "TEL AVIV, (Sputnik) - The Israel Defense Forces (IDF) said on Friday that it is preparing for a large-scale counterterrorist operation in the West Bank, citing an increase in attacks on civilians in the area.",
+      "source": "Sputnikglobe.com",
+      "url": "https://sputnikglobe.com/20260724/idf-says-preparing-for-major-counterterrorist-operation-in-west-bank-1124492314.html",
+      "time": "2026-07-24T14:27:47",
+      "country": "Israel",
+      "title_ur": "IDF کا کہنا ہے کہ مغربی کنارے میں دہشت گردی کے خلاف بڑے آپریشن کی تیاری کر رہے ہیں۔",
+      "desc_ur": "تل ابیب، (اسپوتنک) - اسرائیل ڈیفنس فورسز (IDF) نے جمعہ کے روز کہا کہ وہ مغربی کنارے میں بڑے پیمانے پر انسداد دہشت گردی آپریشن کی تیاری کر رہی ہے، اس علاقے میں شہریوں پر حملوں میں اضافے کا حوالہ دیتے ہوئے"
+    },
+    {
+      "title": "Saudi Arabia’s nuclear deal with the US hits turbulence as Trump ties it to Abraham Accords",
+      "desc": "The US-Saudi 30-year nuclear deal faces uncertainty as Trump ties it to Abraham Accords participation, reshaping energy and geopolitical\nThe post Saudi Arabia’s nuclear deal with the US hits turbulence as Trump ties it to Abraham Accords appeared first on Cry…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/saudi-nuclear-deal-trump-abraham-accords/",
+      "time": "2026-07-24T14:27:13",
+      "country": "US",
+      "title_ur": "امریکہ کے ساتھ سعودی عرب کا جوہری معاہدہ ہنگامہ خیز ہے کیونکہ ٹرمپ نے اسے ابراہیم معاہدے سے جوڑ دیا",
+      "desc_ur": "امریکہ-سعودی 30 سالہ جوہری معاہدے کو غیر یقینی صورتحال کا سامنا ہے کیونکہ ٹرمپ نے اسے ابراہم معاہدے کی شراکت سے جوڑ دیا ہے، توانائی کی تشکیل نو اور جغرافیائی سیاسی\nThe post امریکا کے ساتھ سعودی عرب کا جوہری معاہدہ ہنگامہ خیزی کا شکار ہے کیونکہ ٹرمپ نے اسے ابراہیم معاہدے سے جوڑ دیا appeared first on Cry…"
     }
   ],
   "pakistan": [
     {
-      "title": "Sri Lanka vs. Pakistan women prediction, lineups and betting tips for 2nd ODI as Chamari Athapaththu's side eye comeback",
-      "desc": "SL-W vs PAK-W 2nd ODI preview: prediction, head-to-head, pitch report, betting tips, odds, lineups and how to watch Saturday's Hambantota clash.",
-      "source": "Sporting News",
-      "url": "https://www.sportingnews.com/in/cricket/news/sri-lanka-vs-pakistan-women-prediction-lineups-betting-tips-2nd-odi-chamari-athapaththus/ca000def73c7032dcd575740",
-      "time": "2026-07-24T13:00:01",
+      "title": "Trump Extends 10% Tariff Baseline in Broad Use of Trade Powers",
+      "desc": "The US extended a 10% tariff baseline hitting most major trading partners, prompting pushback from countries around the world while shoring up a protectionist wall that’s been a top priority for President Donald Trump despite its unpopularity at home.",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/trump-extends-10-tariff-baseline-in-broad-use-of-trade-powers",
+      "time": "2026-07-24T14:41:48",
       "country": "Pakistan",
-      "title_ur": "سری لنکا بمقابلہ پاکستان خواتین کی پیشین گوئی، لائن اپ اور دوسرے ون ڈے کے لیے بیٹنگ کے نکات بطور چماری اتھاپتھو کی سائیڈ آئی واپسی",
-      "desc_ur": "SL-W بمقابلہ PAK-W 2nd ODI کا پیش نظارہ: پیشین گوئی، سر سے سر، پچ رپورٹ، شرط لگانے کے نکات، مشکلات، لائن اپس اور ہفتہ کا ہمبنٹوٹا تصادم دیکھنے کا طریقہ۔"
+      "title_ur": "ٹرمپ نے تجارتی طاقتوں کے وسیع استعمال میں 10% ٹیرف بیس لائن میں توسیع کی۔",
+      "desc_ur": "امریکہ نے سب سے بڑے تجارتی شراکت داروں کو نشانہ بناتے ہوئے 10% ٹیرف کی بیس لائن میں توسیع کی، جس سے دنیا بھر کے ممالک کی طرف سے پش بیک کا سبب بنتا ہے جبکہ تحفظ پسند دیوار کو کنارے لگاتے ہوئے صدر ڈونلڈ ٹرمپ کی اندرون ملک غیر مقبولیت کے باوجود اولین ترجیح ہے۔"
     },
     {
-      "title": "Can Pakistan-administered Kashmir elections calm tensions?",
-      "desc": "Pakistan-administered Kashmir heads to the polls after weeks of deadly protests over seats reserved for displaced people from India-administered Kashmir. One local group has called for the election to be boycotted.",
-      "source": "DW (English)",
-      "url": "https://www.dw.com/en/can-pakistan-administered-kashmir-elections-calm-tensions/a-78101422",
-      "time": "2026-07-24T12:46:00",
+      "title": "England's new Test captain and head coach for Pakistan series: Likely candidates to take over after Ben Stokes and Brendon McCullum",
+      "desc": "With Ben Stokes and Brendon McCullum both out of the England dressing room, here's a look at the likely candidates ahead of the upcoming series against Pakistan.",
+      "source": "Cricketnews.com",
+      "url": "https://www.cricketnews.com/en/cricket/news/englands-test-captain-head-coach-pakistan-series/2106ec337adc465fab4f3af5",
+      "time": "2026-07-24T14:36:41",
       "country": "Pakistan",
-      "title_ur": "کیا پاکستان کے زیر انتظام کشمیر کے انتخابات کشیدگی کو کم کر سکتے ہیں؟",
-      "desc_ur": "پاکستان کے زیرِ انتظام کشمیر میں بھارت کے زیرِ انتظام کشمیر سے بے گھر ہونے والے افراد کے لیے مخصوص نشستوں پر ہفتوں کے مہلک مظاہروں کے بعد انتخابات ہو رہے ہیں۔ ایک مقامی گروپ نے الیکشن کے بائیکاٹ کا مطالبہ کیا ہے۔"
-    },
-    {
-      "title": "Can Pakistan-administered Kashmir election calm tensions?",
-      "desc": "Pakistan-administered Kashmir heads to the polls after weeks of deadly protests over seats reserved for displaced people from India-administered Kashmir. One local group has called for the election to be boycotted. The first phase of local elections in Pakist…",
-      "source": "DW (English)",
-      "url": "https://www.dw.com/en/can-pakistan-administered-kashmir-election-calm-tensions/a-78101422",
-      "time": "2026-07-24T12:46:00",
-      "country": "Pakistan",
-      "title_ur": "کیا پاکستان کے زیر انتظام کشمیر کے انتخابات کشیدگی کو کم کر سکتے ہیں؟",
-      "desc_ur": "پاکستان کے زیرِ انتظام کشمیر میں بھارت کے زیرِ انتظام کشمیر سے بے گھر ہونے والے افراد کے لیے مخصوص نشستوں پر ہفتوں کے مہلک مظاہروں کے بعد انتخابات ہو رہے ہیں۔ ایک مقامی گروپ نے الیکشن کے بائیکاٹ کا مطالبہ کیا ہے۔ پاکستان میں بلدیاتی انتخابات کا پہلا مرحلہ..."
+      "title_ur": "پاکستان سیریز کے لیے انگلینڈ کے نئے ٹیسٹ کپتان اور ہیڈ کوچ: بین اسٹوکس اور برینڈن میک کولم کے بعد ممکنہ طور پر امیدواروں کا عہدہ سنبھالنے کا امکان",
+      "desc_ur": "بین اسٹوکس اور برینڈن میک کولم دونوں انگلینڈ کے ڈریسنگ روم سے باہر ہیں، یہاں پاکستان کے خلاف آئندہ سیریز سے قبل ممکنہ امیدواروں پر ایک نظر ہے۔"
     }
   ],
   "business": {
@@ -209,7 +199,7 @@
         "low": 25,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 73
+        "precip": 77
       },
       {
         "date": "2026-07-27",
@@ -218,7 +208,7 @@
         "low": 28,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 73
+        "precip": 59
       },
       {
         "date": "2026-07-28",
@@ -245,7 +235,7 @@
         "low": 24,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 76
+        "precip": 78
       },
       {
         "date": "2026-07-31",
@@ -254,7 +244,7 @@
         "low": 26,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 91
+        "precip": 92
       }
     ]
   },
