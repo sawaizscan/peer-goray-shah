@@ -1,158 +1,188 @@
 {
-  "generated": "2026-07-26T15:57:17Z",
+  "generated": "2026-07-26T16:59:31Z",
   "world": [
     {
-      "title": "Live updates: Strikes between Saudi Arabia and Houthi rebels open a new front in Middle East conflict - CNN",
-      "desc": "Live updates: Strikes between Saudi Arabia and Houthi rebels open a new front in Middle East conflictCNN U.S. military goes silent on Iran airstrikes while Houthi rebels and Saudi Arabia exchange attacksFortune Iran war live: Saudi Arabia, Houthis trade attac…",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184682864",
-      "time": "2026-07-25T15:52:46",
-      "country": "Iran",
-      "title_ur": "لائیو اپ ڈیٹس: سعودی عرب اور حوثی باغیوں کے درمیان حملوں نے مشرق وسطیٰ کے تنازع میں ایک نیا محاذ کھول دیا – CNN",
-      "desc_ur": "لائیو اپ ڈیٹس: سعودی عرب اور حوثی باغیوں کے درمیان حملوں نے مشرق وسطیٰ کے تنازع میں ایک نیا محاذ کھول دیاCNN امریکی فوج ایران کے فضائی حملوں پر خاموش ہے جبکہ حوثی باغیوں اور سعودی عرب کے درمیان حملوں کا تبادلہ فارچیون ایران جنگ لائیو: سعودی عرب، حوثی تجارتی حملہ…"
-    },
-    {
-      "title": "Syrian FM calls for Israeli withdrawal in meeting with UN chief",
-      "desc": "Syrian Foreign Minister Asaad al-Shaibani called for Israel to withdraw immediately and unconditionally from Syria",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/syrian-fm-calls-for-israeli-withdrawal-in-meeting-with-un-chief",
-      "time": "2026-07-25T15:52:19",
-      "country": "Israel",
-      "title_ur": "شام کے وزیر خارجہ نے اقوام متحدہ کے سربراہ سے ملاقات میں اسرائیل سے انخلا کا مطالبہ کیا۔",
-      "desc_ur": "شام کے وزیر خارجہ اسد الشیبانی نے اسرائیل سے فوری اور غیر مشروط طور پر شام سے انخلا کا مطالبہ کیا ہے۔"
-    },
-    {
-      "title": "Trump considers escalating war; Iran says it's ready for ground troops",
-      "desc": "President Donald Trump said Friday that he's ready to continue talks with Iran or escalate fighting, but an Iranian general said it's ready to fight.\nTrump met with top advisors and cabinet members on Friday to make a decision on whether to escalate attacks o…",
+      "title": "Houthis attack Saudi Arabia in retaliation for Saudi hits",
+      "desc": "The Iran-backed Houthi rebels in Yemen announced Saturday that they had attacked Saudi Arabia with missiles and drones in retaliation for Saudi attacks on Hodeida, Yemen.\nHouthi Brig. Gen. Yahya Saree, the group's spokesperson, posted on X that the Houthis la…",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/37e9ad3fd66011c3",
-      "time": "2026-07-25T15:51:08",
+      "url": "https://biztoc.com/x/47505ae71ecd9002",
+      "time": "2026-07-25T16:51:09",
       "country": "Iran",
-      "title_ur": "ٹرمپ جنگ کو بڑھانے پر غور کر رہے ہیں۔ ایران کا کہنا ہے کہ وہ زمینی فوج کے لیے تیار ہے۔",
-      "desc_ur": "صدر ڈونلڈ ٹرمپ نے جمعے کو کہا کہ وہ ایران کے ساتھ بات چیت جاری رکھنے یا لڑائی کو بڑھانے کے لیے تیار ہیں، لیکن ایک ایرانی جنرل نے کہا کہ وہ لڑنے کے لیے تیار ہے۔\nٹرمپ نے جمعہ کو اعلیٰ مشیروں اور کابینہ کے ارکان سے ملاقات کی تاکہ یہ فیصلہ کیا جا سکے کہ آیا حملوں کو بڑھانا ہے یا نہیں…"
+      "title_ur": "سعودی حملوں کے جواب میں حوثیوں نے سعودی عرب پر حملہ کیا۔",
+      "desc_ur": "یمن میں ایران کے حمایت یافتہ حوثی باغیوں نے ہفتے کے روز اعلان کیا کہ انہوں نے یمن کے شہر حدیدہ پر سعودی حملوں کے جواب میں سعودی عرب پر میزائلوں اور ڈرونز سے حملہ کیا ہے۔\nحوثی بریگیڈیئر گروپ کے ترجمان جنرل یحییٰ ساری نے ایکس پر پوسٹ کیا کہ حوثیوں نے…"
     },
     {
-      "title": "U.S. military suddenly goes silent on Iran airstrikes while Houthi rebels and Saudi Arabia exchange attacks in battle over Red Sea shipping",
-      "desc": "Yemen’s Iran-backed Houthi rebels said Saturday that they fired missiles and drones at Saudi Arabia in response to Saudi airstrikes on the strategic Red Sea city of Hodeida, in another escalation over vital shipping routes in the Middle East while the United …",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/51c5366cc22cb9c7",
-      "time": "2026-07-25T15:49:14",
-      "country": "Iran",
-      "title_ur": "امریکی فوج نے ایران کے فضائی حملوں پر اچانک خاموشی اختیار کر لی جب کہ حوثی باغیوں اور سعودی عرب کے درمیان بحیرہ احمر کی جہاز رانی پر جنگ میں حملوں کا تبادلہ",
-      "desc_ur": "یمن کے ایران کے حمایت یافتہ حوثی باغیوں نے ہفتے کے روز کہا کہ انہوں نے بحیرہ احمر کے اسٹریٹجک شہر حدیدہ پر سعودی فضائی حملوں کے جواب میں سعودی عرب پر میزائل اور ڈرون داغے، مشرق وسطیٰ میں اہم جہاز رانی کے راستوں پر ایک اور کشیدگی میں جبکہ متحدہ…"
-    },
-    {
-      "title": "Maine Democrats nominate Troy Jackson as Graham Platner's replacement in key Senate race",
-      "desc": "Like Platner, Jackson will run on a progressive platform with fundamentally altering the U.S.-Israel relationship serving as a key tentpole. 'Anybody with eyes and a heart knows the Israeli government is committing genocide in Gaza,' he said earlier this year",
-      "source": "Haaretz",
-      "url": "https://www.haaretz.com/us-news/2026-07-25/ty-article/.premium/maine-democrats-pick-troy-jackson-as-graham-platners-senate-race-replacement/0000019f-99eb-d1a3-adff-fbfbb4420000",
-      "time": "2026-07-25T15:41:05",
-      "country": "Israel",
-      "title_ur": "مین ڈیموکریٹس نے ٹرائے جیکسن کو سینیٹ کی کلیدی دوڑ میں گراہم پلاٹنر کے متبادل کے طور پر نامزد کیا",
-      "desc_ur": "پلاٹنر کی طرح، جیکسن ایک ترقی پسند پلیٹ فارم پر چلیں گے جس میں بنیادی طور پر امریکی اسرائیل تعلقات کو ایک کلیدی خیمہ کے طور پر کام کرتے ہوئے تبدیل کیا جائے گا۔ انہوں نے اس سال کے اوائل میں کہا تھا کہ ’ہر آنکھ اور دل والا جانتا ہے کہ اسرائیلی حکومت غزہ میں نسل کشی کر رہی ہے۔"
-    },
-    {
-      "title": "Trump Once Again Berates Kaitlan Collins at WHCD In Latest Tirade Against Female Reporter",
-      "desc": "“Smile, you have a nice position, you’re at CNN fake news, you should be a happy person,” Trump said.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/donald-trump-kaitlan-collins-whcd-rant_n_6a6444dce4b0bd608d2b8d40",
-      "time": "2026-07-25T15:33:55",
+      "title": "Cecilia Vega: CBS Attempted to Spin 60 Minutes Stories",
+      "desc": "A longtime 60 Minutes fixture, who was fired this spring along with two other correspondents, is accusing CBS brass of trying to tilt her stories politically. Cecilia Vega told an audience at a National Association of Hispanic Journalists conference on Thursd…",
+      "source": "Newser",
+      "url": "https://www.newser.com/story/393498/cecilia-vega-cbs-attempted-to-spin-60-minutes-stories.html",
+      "time": "2026-07-25T16:50:00",
       "country": "US",
-      "title_ur": "ٹرمپ نے ایک بار پھر WHCD میں خاتون رپورٹر کے خلاف تازہ ترین ٹائریڈ میں کیٹلن کولنز کو شکست دی۔",
-      "desc_ur": "\"مسکراہٹ، آپ کی پوزیشن اچھی ہے، آپ CNN کی جعلی خبروں پر ہیں، آپ کو ایک خوش انسان ہونا چاہیے،\" ٹرمپ نے کہا۔"
+      "title_ur": "سیسیلیا ویگا: سی بی ایس نے 60 منٹ کی کہانیاں اسپن کرنے کی کوشش کی۔",
+      "desc_ur": "ایک طویل عرصے سے 60 منٹس فکسچر، جسے اس موسم بہار میں دو دیگر نامہ نگاروں کے ساتھ برطرف کیا گیا تھا، سی بی ایس پر الزام لگا رہا ہے کہ وہ اپنی کہانیوں کو سیاسی طور پر جھکانے کی کوشش کر رہا ہے۔ سیسیلیا ویگا نے جمعرات کو نیشنل ایسوسی ایشن آف ہسپانوی صحافیوں کی کانفرنس میں سامعین کو بتایا…"
     },
     {
-      "title": "Stalled vessels near Strait of Hormuz could trigger invasive species catastrophe",
-      "desc": "A possible ecological catastrophe could be fueled by stalled ships as conflict over the Strait of Hormuz continues to block traffic on the passageway, scientists say.",
+      "title": "Trump ties Saudi nuclear deal to Abraham Accords, adding new wildcard to Middle East diplomacy",
+      "desc": "Trump says US-Saudi nuclear deal won't proceed unless Saudi Arabia joins the Abraham Accords, adding geopolitical complexity with macro market\nThe post Trump ties Saudi nuclear deal to Abraham Accords, adding new wildcard to Middle East diplomacy appeared fir…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/trump-saudi-nuclear-deal-abraham-accords/",
+      "time": "2026-07-25T16:44:07",
+      "country": "US",
+      "title_ur": "ٹرمپ نے سعودی جوہری معاہدے کو ابراہیم معاہدے سے جوڑ دیا، مشرق وسطیٰ کی سفارت کاری میں نیا وائلڈ کارڈ شامل کیا",
+      "desc_ur": "ٹرمپ کا کہنا ہے کہ امریکہ سعودی جوہری معاہدہ اس وقت تک آگے نہیں بڑھے گا جب تک سعودی عرب ابراہیم معاہدے میں شامل نہیں ہوتا، میکرو مارکیٹ کے ساتھ جیو پولیٹیکل پیچیدگی کا اضافہ\nThe post ٹرمپ نے سعودی جوہری معاہدے کو ابراہیم معاہدے سے جوڑ دیا، مشرق وسطیٰ کی سفارت کاری میں نیا وائلڈ کارڈ شامل کردیا appeared first on…"
+    },
+    {
+      "title": "WATCH: New baby penguin",
+      "desc": "The Tennessee Aquarium is showing off its newest addition to the penguin exhibit. The chick was born a month ago to Nipper and Pebbles.",
       "source": "Abcnews.com",
-      "url": "https://abcnews.com/International/scientists-warn-invasive-species-superspreader-event-due-stalling/story?id=135051186",
-      "time": "2026-07-25T15:31:49",
+      "url": "https://abcnews.com/video/135080871/",
+      "time": "2026-07-25T16:40:56",
       "country": "International",
-      "title_ur": "آبنائے ہرمز کے قریب رکے ہوئے جہاز ناگوار پرجاتیوں کی تباہی کا باعث بن سکتے ہیں",
-      "desc_ur": "سائنسدانوں کا کہنا ہے کہ آبنائے ہرمز کے تنازعے کی وجہ سے گزرنے والے راستے پر ٹریفک کی آمدورفت بند ہونے کی وجہ سے رکے ہوئے جہازوں سے ممکنہ ماحولیاتی تباہی کو ہوا دی جا سکتی ہے۔"
+      "title_ur": "دیکھو: نیا بچہ پینگوئن",
+      "desc_ur": "ٹینیسی ایکویریم پینگوئن کی نمائش میں اپنا تازہ ترین اضافہ دکھا رہا ہے۔ چوزہ ایک ماہ قبل نیپر اور پیبلز کے ہاں پیدا ہوا تھا۔"
     },
     {
-      "title": "Maine Democrats crown Troy Jackson as Platner replacement as fresh scrutiny clouds Senate reset",
-      "desc": "Troy Jackson, a fifth-generation logger and former state Senate president, now faces Susan Collins in Maine's Senate race ranked a toss-up.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/maine-democrats-crown-troy-jackson-platner-replacement-fresh-scrutiny-clouds-senate-reset",
-      "time": "2026-07-25T15:31:10",
-      "country": "US",
-      "title_ur": "مین ڈیموکریٹس نے ٹرائے جیکسن کو پلاٹنر کے متبادل کے طور پر نئے سکروٹنی کے بادلوں کے طور پر سینیٹ کی بحالی کا تاج پہنایا",
-      "desc_ur": "ٹرائے جیکسن، پانچویں نسل کے لاگر اور ریاستی سینیٹ کے سابق صدر، اب مین کی سینیٹ کی دوڑ میں ٹاس اپ رینک میں سوسن کولنز کا سامنا کر رہے ہیں۔"
+      "title": "Iran’s government spars with state TV as mediators push talks with US",
+      "desc": "Gov't accuses IRIB of 'censorship' after parts of president's speech not aired; station rejects 'improper attributions'.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/7/25/irans-government-spars-with-state-tv-as-mediators-push-talks-with-us",
+      "time": "2026-07-25T16:39:16",
+      "country": "Iran",
+      "title_ur": "ایران کی حکومت سرکاری ٹی وی کے ساتھ جھگڑا کرتی ہے کیونکہ ثالث امریکہ کے ساتھ مذاکرات کو آگے بڑھاتے ہیں۔",
+      "desc_ur": "صدر کی تقریر کے کچھ حصے نشر نہ ہونے کے بعد حکومت نے IRIB پر 'سنسرشپ' کا الزام لگایا۔ اسٹیشن 'غیر مناسب انتساب' کو مسترد کرتا ہے۔"
     },
     {
-      "title": "UK's National Crime Agency Launches Investigation Into Itself over Leaked Financials of Farage's Reform Party",
-      "desc": "Britain's equivalent of the FBI has launched an investigation into itself after financial details of members of Nigel Farage's Reform UK party were leaked to the press.\nThe post UK’s National Crime Agency Launches Investigation Into Itself over Leaked Financi…",
-      "source": "Breitbart News",
-      "url": "https://www.breitbart.com/europe/2026/07/25/uks-national-crime-agency-launches-investigation-into-itself-over-leaked-financials-of-farages-reform-party/",
-      "time": "2026-07-25T15:24:34",
+      "title": "Trump's 'dumbest' reasoning set to embroil him in fresh military strike: Dem",
+      "desc": "An alarmed House Democrat said Saturday that President Donald Trump may consider sending the military into yet another country — and for the \"dumbest\" reason. Rep. Mark Pocan (D-WI) delivered a scathing rebuke of a new Trump administration report that takes a…",
+      "source": "Raw Story",
+      "url": "https://www.rawstory.com/trump-cuba-report/",
+      "time": "2026-07-25T16:36:42",
       "country": "UK",
-      "title_ur": "برطانیہ کی نیشنل کرائم ایجنسی نے فاریج کی ریفارم پارٹی کے لیک ہونے والے مالی معاملات پر خود تحقیقات کا آغاز کیا",
-      "desc_ur": "نائجل فاریج کی ریفارم یو کے پارٹی کے ممبران کی مالی تفصیلات پریس کو منظر عام پر آنے کے بعد ایف بی آئی کے مساوی برطانیہ نے اپنے بارے میں تحقیقات شروع کر دی ہیں۔\nThe post برطانیہ کی نیشنل کرائم ایجنسی نے لیک ہونے والے مالیاتی ادارے کے حوالے سے خود تحقیقات کا آغاز کر دیا…"
+      "title_ur": "ٹرمپ کا 'بے وقوف' استدلال اسے تازہ فوجی حملے میں الجھائے گا: ڈیم",
+      "desc_ur": "ایک خوف زدہ ہاؤس ڈیموکریٹ نے ہفتے کے روز کہا کہ صدر ڈونلڈ ٹرمپ فوج کو کسی اور ملک میں بھیجنے پر غور کر سکتے ہیں - اور \"بے وقوف\" وجہ سے۔ نمائندہ مارک پوکن (D-WI) نے ٹرمپ انتظامیہ کی ایک نئی رپورٹ کی سخت سرزنش کی جس میں…"
     },
     {
-      "title": "Trump gives rambling, insult-filled remarks at correspondents’ dinner and even turns against his own speechwriters. ‘Am I supposed to be a comedian?’",
-      "desc": "“That was going to be a doozy,” Trump said about the speech he’d been prepared to give in April, before a gunman upended the original dinner and forced its postponement.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/25/trump-rambling-insult-filled-speech-white-house-correspondents-dinner/",
-      "time": "2026-07-25T15:23:55",
+      "title": "Nick Fuentes, Hunter Biden Try To Save Face In Interview",
+      "desc": "Hunter Biden and Nick Fuentes, who appear at opposite ends of the political spectrum, found during a Friday interview unexpected areas of agreement.",
+      "source": "The Daily Caller",
+      "url": "https://dailycaller.com/2026/07/25/nick-fuentes-hunter-biden-attempt-save-face-andrew-callaghan-channel-5-interview",
+      "time": "2026-07-25T16:33:28",
       "country": "US",
-      "title_ur": "ٹرمپ نامہ نگاروں کے عشائیہ میں بے ہودہ، توہین آمیز ریمارکس دیتے ہیں اور یہاں تک کہ اپنے ہی تقریر کرنے والوں کے خلاف بھی ہو جاتے ہیں۔ 'کیا مجھے کامیڈین بننا ہے؟'",
-      "desc_ur": "ٹرمپ نے اس تقریر کے بارے میں کہا جو وہ اپریل میں دینے کے لیے تیار تھے، اس سے پہلے کہ ایک بندوق بردار نے اصل ڈنر کو ختم کر دیا اور اسے ملتوی کرنے پر مجبور کر دیا۔"
+      "title_ur": "نک فوینٹس، ہنٹر بائیڈن انٹرویو میں چہرہ بچانے کی کوشش کریں۔",
+      "desc_ur": "ہنٹر بائیڈن اور نک فیوینٹس، جو سیاسی سپیکٹرم کے مخالف سروں پر نظر آتے ہیں، جمعہ کے انٹرویو کے دوران معاہدے کے غیر متوقع علاقے پائے گئے۔"
     },
     {
-      "title": "Silver, Shanghai Composite and the technicals of it",
-      "desc": "Silver's price may face a prolonged sideways trend, mirroring the Shanghai Composite index's historical movements and influenced by the strong dollar.",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/portfolio/personal-finance/silver-shanghai-composite-and-the-technicals-of-it/article71265394.ece",
-      "time": "2026-07-25T15:18:52",
-      "country": "International",
-      "title_ur": "سلور، شنگھائی کمپوزٹ اور اس کی تکنیکی",
-      "desc_ur": "چاندی کی قیمت کو شنگھائی کمپوزٹ انڈیکس کی تاریخی حرکت کی عکاسی کرتے ہوئے اور مضبوط ڈالر سے متاثر ہونے والے طویل العمری کے رجحان کا سامنا کرنا پڑ سکتا ہے۔"
+      "title": "Ukrainian Drones Spark Fires At Russian Oil Refinery And Platform",
+      "desc": "By Bloomberg News Jul 25, 2026 (Bloomberg) –Fire broke out at the Tyumen oil refinery in Russia’s Ural region after a drone attack as Ukraine and Russia press intensifying strikes on...",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/ukrainian-drones-spark-fires-at-russian-oil-refinery-and-platform/",
+      "time": "2026-07-25T16:31:31",
+      "country": "Russia",
+      "title_ur": "یوکرائنی ڈرونز نے روسی آئل ریفائنری اور پلیٹ فارم پر آگ بھڑکائی",
+      "desc_ur": "بلومبرگ نیوز کی طرف سے جولائی 25، 2026 (بلومبرگ) -روس کے یورال علاقے میں ٹیومین آئل ریفائنری میں ڈرون حملے کے بعد آگ بھڑک اٹھی جب یوکرین اور روس کی جانب سے حملوں میں شدت پیدا ہو گئی..."
     },
     {
-      "title": "FBN's Varney: 'Seems Like' Iran 'Proving to Be More Resilient Than We Thought'",
-      "desc": "On Friday’s broadcast of the Fox Business Network’s “Varney & Co.,” host Stuart Varney responded to satellite imagery from Iran and Israeli intelligence reports on their movements by saying that it appears “the Iranians are proving to be more resilient\nThe po…",
-      "source": "Breitbart News",
-      "url": "https://www.breitbart.com/clips/2026/07/25/fbns-varney-seems-like-iran-proving-to-be-more-resilient-than-we-thought/",
-      "time": "2026-07-25T15:17:50",
+      "title": "Iran’s leaders at war with each other as hardliners push for wider conflict",
+      "desc": "Iran's leaders are fighting each other almost as much as they're fighting the West, with some senior politicians scrambling to save US talks while the powerful Islamic Revolutionary Guard Corps leans into the renewed war, regional sources told The Post.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/07/25/world-news/irans-leaders-at-war-with-each-other-as-hardliners-push-for-wider-conflict/",
+      "time": "2026-07-25T16:20:35",
       "country": "Iran",
-      "title_ur": "ایف بی این کے ورنی: 'ایسا لگتا ہے' ایران 'ہمارے خیال سے زیادہ لچکدار ثابت ہو رہا ہے'",
-      "desc_ur": "فاکس بزنس نیٹ ورک کے \"وارنی اینڈ کمپنی\" کے جمعہ کو نشر ہونے والے میزبان سٹورٹ ورنی نے ایران اور اسرائیلی انٹیلی جنس رپورٹس کی سیٹلائٹ تصویروں کا جواب دیتے ہوئے کہا کہ ایسا لگتا ہے کہ \"ایرانی زیادہ لچکدار ثابت ہو رہے ہیں۔\nپو…"
+      "title_ur": "ایران کے رہنما ایک دوسرے کے ساتھ جنگ ​​میں ہیں کیونکہ سخت گیر جنگجو وسیع تر تنازعے کو آگے بڑھا رہے ہیں۔",
+      "desc_ur": "علاقائی ذرائع نے دی پوسٹ کو بتایا کہ ایران کے رہنما ایک دوسرے سے تقریباً اتنے ہی لڑ رہے ہیں جتنا کہ وہ مغرب سے لڑ رہے ہیں، کچھ سینئر سیاست دان امریکی مذاکرات کو بچانے کے لیے ہاتھا پائی کر رہے ہیں جب کہ طاقتور اسلامی انقلابی گارڈ کور نئے جنگ کی طرف جھکاؤ رکھتا ہے۔"
     },
     {
-      "title": "FNC's Keane: Iran Used Whatever Funds They Got from Deal to Replenish, Move Nuclear Materials 'Likely Beyond' Our Capability",
-      "desc": "On Friday’s broadcast of the Fox Business Network’s “Varney & Co.,” Fox News Senior Strategic Analyst Gen. Jack Keane (Ret.) stated that Iran used “whatever money they got back from the deal” to things like replenishing their weapons and “moving\nThe post FNC’…",
-      "source": "Breitbart News",
-      "url": "https://www.breitbart.com/clips/2026/07/25/fncs-keane-iran-used-whatever-funds-they-got-from-deal-to-replenish-move-nuclear-materials-likely-beyond-our-capability/",
-      "time": "2026-07-25T15:15:53",
-      "country": "Iran",
-      "title_ur": "ایف این سی کا کین: ایران نے ڈیل سے جو بھی فنڈز حاصل کیے اسے دوبارہ بھرنے کے لیے استعمال کیا، جوہری مواد کو 'ممکنہ طور پر ہماری صلاحیت سے باہر' منتقل کیا",
-      "desc_ur": "فاکس بزنس نیٹ ورک کے \"وارنی اینڈ کمپنی\" کے جمعہ کو نشر ہونے والے فوکس نیوز کے سینئر اسٹریٹجک تجزیہ کار جنرل جیک کین (ریٹائرڈ) نے کہا کہ ایران نے \"جو بھی رقم اس معاہدے سے واپس ملی ہے\" اپنے ہتھیاروں کو بھرنے اور \"منتقل کرنے\" جیسے کاموں میں استعمال کیا۔\nThe post FNC’…"
+      "title": "Israel detains more than 70 suspects after deadly violence in West Bank",
+      "desc": "Israel's military says it detained more than 70 suspects across the occupied West Bank overnight and on Saturday, a day after troops deployed across the territory following violence that left two Israeli soldiers and four Palestinian villagers dead.",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/news/world/israel-detains-suspects-west-bank-violence-9.7283911",
+      "time": "2026-07-25T16:18:49",
+      "country": "Israel",
+      "title_ur": "اسرائیل نے مغربی کنارے میں ہلاکت خیز تشدد کے بعد 70 سے زائد مشتبہ افراد کو حراست میں لے لیا۔",
+      "desc_ur": "اسرائیلی فوج کا کہنا ہے کہ اس نے مقبوضہ مغربی کنارے میں رات بھر اور ہفتے کے روز 70 سے زائد مشتبہ افراد کو حراست میں لیا، تشدد کے بعد پورے علاقے میں فوجیوں کی تعیناتی کے ایک دن بعد جس میں دو اسرائیلی فوجی اور چار فلسطینی دیہاتی ہلاک ہو گئے تھے۔"
     },
     {
-      "title": "Trump delays planned US strike on Iran, and crypto markets are feeling the aftershocks",
-      "desc": "Trump postponed a US military strike on Iran after Gulf leaders requested more time for diplomacy, while $500M in crypto assets tied to Iran were\nThe post Trump delays planned US strike on Iran, and crypto markets are feeling the aftershocks appeared first on…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/trump-delays-iran-strike-crypto-impact/",
-      "time": "2026-07-25T15:14:52",
-      "country": "Iran",
-      "title_ur": "ٹرمپ نے ایران پر امریکی حملے کی منصوبہ بندی میں تاخیر کی، اور کرپٹو مارکیٹ آفٹر شاکس محسوس کر رہی ہیں۔",
-      "desc_ur": "خلیجی رہنماؤں کی جانب سے سفارت کاری کے لیے مزید وقت کی درخواست کے بعد ٹرمپ نے ایران پر امریکی فوجی حملہ موخر کیا، جب کہ ایران سے منسلک $500 ملین کرپٹو اثاثے تھے۔\nThe post ٹرمپ نے ایران پر امریکی حملے کا منصوبہ موخر کر دیا، کرپٹو مارکیٹ آفٹر شاکس محسوس کر رہی ہے appeared first on…"
+      "title": "Today’s News in a Nutshell",
+      "desc": "KATHMANDU: Khabarhub brings you a glimpse of major developments of the day in Nepal, including politics, business/economy, sports, entertainment, and more. Harishayani Ekadashi being observed today Harishayani Ekadashi, one of the most significant festivals i…",
+      "source": "Khabarhub.com",
+      "url": "https://english.khabarhub.com/2026/25/560257/",
+      "time": "2026-07-25T16:15:18",
+      "country": "US",
+      "title_ur": "آج کی خبریں مختصراً",
+      "desc_ur": "کھٹمنڈو: خبر ہب آپ کے لیے نیپال میں دن کی اہم پیشرفت کی ایک جھلک لاتا ہے، بشمول سیاست، کاروبار/معیشت، کھیل، تفریح، اور بہت کچھ۔ ہریشانی اکادشی آج منائی جا رہی ہے ہریشانی ایکادشی، جو کہ سب سے اہم تہواروں میں سے ایک ہے…"
     },
     {
-      "title": "Trump delays US attack on Iran to allow more negotiation time: Ynet",
-      "desc": "Trump delays US attack on Iran for negotiations. US-Iran deal with reconstruction funding in 2026 at 29% YES.\nThe post Trump delays US attack on Iran to allow more negotiation time: Ynet appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/trump-delays-us-attack-on-iran-to-allow-more-negotiation-time-ynet/",
-      "time": "2026-07-25T15:14:38",
-      "country": "Iran",
-      "title_ur": "ٹرمپ نے مزید مذاکرات کا وقت دینے کے لیے ایران پر امریکی حملے میں تاخیر کی: Ynet",
-      "desc_ur": "ٹرمپ نے مذاکرات کے لیے ایران پر امریکی حملہ موخر کر دیا۔ US-ایران نے 2026 میں تعمیر نو کی فنڈنگ ​​کے ساتھ 29% ہاں معاہدہ کیا۔\nThe post ٹرمپ نے مزید مذاکرات کا وقت دینے کے لیے ایران پر امریکی حملے میں تاخیر کی: Ynet appeared first on Crypto Briefing."
+      "title": "Katy Perry Slams Trump Administration for Using Song ‘Firework’ in Military Strikes Video: ‘I Absolutely Do Not Condone It’",
+      "desc": "Katy Perry has blasted the White House for using her 2010 hit song “Firework” in a TikTok post depicting footage of military strikes. The video, posted to the official White House TikTok account on Thursday, times the song’s lyrics — “boom, boom, boom” — to c…",
+      "source": "Variety",
+      "url": "https://variety.com/2026/music/news/katy-perry-slams-trump-military-strikes-firework-video-1236820976/",
+      "time": "2026-07-25T16:13:48",
+      "country": "US",
+      "title_ur": "کیٹی پیری نے ملٹری سٹرائیکس ویڈیو میں گانا 'فائر ورک' استعمال کرنے پر ٹرمپ انتظامیہ کو تنقید کا نشانہ بنایا: 'میں اسے بالکل معاف نہیں کرتا'",
+      "desc_ur": "کیٹی پیری نے فوجی حملوں کی فوٹیج کی تصویر کشی کرنے والی TikTok پوسٹ میں اپنا 2010 کا ہٹ گانا \"Firework\" استعمال کرنے پر وائٹ ہاؤس پر تنقید کی ہے۔ جمعرات کو سرکاری وائٹ ہاؤس ٹِک ٹِک اکاؤنٹ پر پوسٹ کی گئی یہ ویڈیو، گانے کے بول — “بوم، بوم، بوم” — سے…"
+    },
+    {
+      "title": "Trump Torches Press at Correspondents Dinner Over Full Blown Trump Derangement Syndrome [WATCH]",
+      "desc": "President Donald Trump walked into the White House Correspondents Dinner on Friday night and did what the political press corps always fears most. He made",
+      "source": "Lifezette.com",
+      "url": "https://www.lifezette.com/2026/07/trump-torches-press-at-correspondents-dinner-over-full-blown-trump-derangement-syndrome-watch/",
+      "time": "2026-07-25T16:13:36",
+      "country": "US",
+      "title_ur": "ٹرمپ نے نامہ نگاروں کے عشائیہ میں پریس کو ٹارچس مکمل طور پر اڑا ہوا ٹرمپ ڈیرینجمنٹ سنڈروم پر [دیکھیں]",
+      "desc_ur": "صدر ڈونلڈ ٹرمپ جمعہ کی رات وائٹ ہاؤس کے نامہ نگاروں کے عشائیے میں گئے اور وہ کیا جس سے سیاسی پریس کور ہمیشہ خوفزدہ ہوتے ہیں۔ اس نے بنایا"
+    },
+    {
+      "title": "PETER HITCHENS: The Tories should be careful saying that Andy Burnham will drag us back to the 1970s. I was there - and it was a far BETTER time",
+      "desc": "A lot of people would be very happy to go back to the 1970s. The Tories should be careful about saying that Andrew Burnham will return us to those years.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/columnists/article-16004721/PETER-HITCHENS-careful-Andy-Burnham-drag-1970s.html",
+      "time": "2026-07-25T16:00:39",
+      "country": "US",
+      "title_ur": "پیٹر ہٹچینز: ٹوریز کو یہ کہتے ہوئے محتاط رہنا چاہیے کہ اینڈی برنہم ہمیں 1970 کی دہائی میں واپس لے جائیں گے۔ میں وہاں تھا - اور یہ بہت بہتر وقت تھا۔",
+      "desc_ur": "بہت سارے لوگ 1970 کی دہائی میں واپس جانے پر بہت خوش ہوں گے۔ ٹوریز کو یہ کہتے ہوئے محتاط رہنا چاہیے کہ اینڈریو برنہم ہمیں ان سالوں میں واپس کر دیں گے۔"
+    },
+    {
+      "title": "Mamdani’s pledge to arrest Netanyahu was meant to satisfy Third Worldists — and delegitimize the West",
+      "desc": "New York's mild doctrinaire mayor's now convinced he's a king.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/07/25/opinion/third-worldism-motivated-mamdanis-threat-against-netanyahu/",
+      "time": "2026-07-25T16:00:00",
+      "country": "Israel",
+      "title_ur": "نیتن یاہو کو گرفتار کرنے کے مامدانی کے عہد کا مقصد تیسری دنیا والوں کو مطمئن کرنا اور مغرب کو غیر قانونی قرار دینا تھا۔",
+      "desc_ur": "نیو یارک کے ہلکے نظریے والے میئر کو اب یقین ہو گیا ہے کہ وہ ایک بادشاہ ہے۔"
     }
   ],
   "pakistan": [
+    {
+      "title": "Ships continue Red Sea transit despite attacks and Houthi blockade: Report",
+      "desc": "Dozens of vessels navigate the Bab el-Mandeb Strait despite Houthi rebel threats.  Growing uncertainty forces ships to alter courses and execute U-turns.  Recent attacks on oil tankers threaten global commerce and already strained supply lines.  Disruptions i…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/ships-continue-red-sea-transit-despite-attacks-and-houthi-blockade-report/articleshow/132630195.cms",
+      "time": "2026-07-25T16:42:35",
+      "country": "Pakistan",
+      "title_ur": "حملوں اور حوثیوں کی ناکہ بندی کے باوجود جہاز بحیرہ احمر کی آمدورفت جاری رکھے ہوئے ہیں: رپورٹ",
+      "desc_ur": "حوثی باغیوں کی دھمکیوں کے باوجود درجنوں بحری جہاز آبنائے باب المندب سے گزر رہے ہیں۔  بڑھتی ہوئی غیر یقینی صورتحال بحری جہازوں کو کورسز کو تبدیل کرنے اور یو ٹرن لینے پر مجبور کرتی ہے۔  آئل ٹینکرز پر حالیہ حملوں سے عالمی تجارت اور پہلے سے کشیدہ سپلائی لائنوں کو خطرہ ہے۔  رکاوٹیں میں…"
+    },
+    {
+      "title": "Chef Qureshi's Unique Journey From Kitchen To Commonwealth Green",
+      "desc": "Mohammed Ayub Qureshi, a 67-year-old Pakistani chef from Glasgow, represented his country in lawn bowls at the Commonwealth Games, showcasing a unique blend of his culinary passion and sporting dedication. Known as \"Chico\" in the bowls community and running t…",
+      "source": "Rediff.com",
+      "url": "https://www.rediff.com/sports/report/glasgow-restaurateur-serves-up-sporting-spirit-at-cwg/20260725.htm",
+      "time": "2026-07-25T16:07:37",
+      "country": "Pakistan",
+      "title_ur": "شیف قریشی کا کچن سے کامن ویلتھ گرین تک کا انوکھا سفر",
+      "desc_ur": "گلاسگو سے تعلق رکھنے والے 67 سالہ پاکستانی شیف محمد ایوب قریشی نے کامن ویلتھ گیمز میں لان باؤلز میں اپنے ملک کی نمائندگی کرتے ہوئے اپنے کھانے کے شوق اور کھیل کی لگن کا ایک انوکھا امتزاج دکھایا۔ باؤلز کمیونٹی میں \"چیکو\" کے نام سے جانا جاتا ہے اور ٹی…"
+    },
+    {
+      "title": "The cockroach who won't leave: The making of Abhijeet Dipke",
+      "desc": "Abhijeet Dipke led a youth movement which achieved a minister's resignation. This movement transformed into a political youth movement after its inception. Dipke insists the movement focuses on issues like unemployment and education. He believes issue-based p…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/india/the-cockroach-who-wont-leave-the-making-of-abhijeet-dipke/articleshow/132629148.cms",
+      "time": "2026-07-25T16:01:37",
+      "country": "Pakistan",
+      "title_ur": "وہ کاکروچ جو نہیں چھوڑے گا: ابھیجیت ڈپکے کی تیاری",
+      "desc_ur": "ابھیجیت ڈپکے نے نوجوانوں کی ایک تحریک کی قیادت کی جس نے ایک وزیر کا استعفیٰ حاصل کیا۔ یہ تحریک اپنے قیام کے بعد سیاسی نوجوانوں کی تحریک میں تبدیل ہو گئی۔ ڈپکے کا اصرار ہے کہ تحریک بے روزگاری اور تعلیم جیسے مسائل پر مرکوز ہے۔ ان کا خیال ہے کہ ایشو پر مبنی پی…"
+    },
     {
       "title": "Mass protests in India: Here’s a timeline of agitations over the last two decades",
       "desc": "Explore two decades of mass protests in India, highlighting youth activism, anti-corruption efforts, and social justice movements.",
@@ -162,16 +192,6 @@
       "country": "Pakistan",
       "title_ur": "بھارت میں بڑے پیمانے پر مظاہرے: یہاں پچھلی دو دہائیوں کے دوران ہونے والے ایجی ٹیشنز کی ٹائم لائن ہے۔",
       "desc_ur": "نوجوانوں کی فعالیت، انسداد بدعنوانی کی کوششوں، اور سماجی انصاف کی تحریکوں کو اجاگر کرتے ہوئے، ہندوستان میں دو دہائیوں سے جاری بڑے پیمانے پر مظاہروں کا جائزہ لیں۔"
-    },
-    {
-      "title": "1st Test Day 1, Live Score: West Indies opt to bat against Pakistan",
-      "desc": "",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/west-indies-vs-pakistan-wi-vs-pak-1st-test-live-score-commentary-trinidad/liveblog/132628605.cms",
-      "time": "2026-07-25T14:29:18",
-      "country": "Pakistan",
-      "title_ur": "پہلا ٹیسٹ دن 1، لائیو اسکور: ویسٹ انڈیز نے پاکستان کے خلاف بیٹنگ کا انتخاب کیا۔",
-      "desc_ur": ""
     }
   ],
   "business": {
