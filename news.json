@@ -1,187 +1,177 @@
 {
-  "generated": "2026-07-26T13:06:25Z",
+  "generated": "2026-07-26T14:47:23Z",
   "world": [
     {
-      "title": "NASA helped me uncover proof that God exists... here's the simple formula that shows the Bible was right all along",
-      "desc": "A scientist claims to have solved one of humanity's oldest mysteries with an equation he says provides mathematical proof that God is real.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/sciencetech/article-15930367/nathanael-israel-nasa-data-god-formula.html",
-      "time": "2026-07-25T13:04:40",
+      "title": "Attack on holiday camp in Russian-held Ukraine kills 11",
+      "desc": "Moscow-installed officials say Ukrainian forces attacked holiday camps in the partly Russian-occupied Zaporizhzhia region overnight, killing 11 people and wounding 14.",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-07-26/russian-held-ukrainian-holiday-camp-attacked/106958586",
+      "time": "2026-07-25T14:46:19",
+      "country": "Russia",
+      "title_ur": "روس کے زیر قبضہ یوکرین میں تعطیلاتی کیمپ پر حملہ، 11 ہلاک",
+      "desc_ur": "ماسکو میں نصب حکام کا کہنا ہے کہ یوکرین کی افواج نے جزوی طور پر روس کے زیر قبضہ Zaporizhzhia علاقے میں رات بھر چھٹیوں کے کیمپوں پر حملہ کیا، جس میں 11 افراد ہلاک اور 14 زخمی ہوئے۔"
+    },
+    {
+      "title": "Stand for the anthem and more: Letters to the Editor — July 26, 2026",
+      "desc": "Kudos to Bob Chavez, a Vietnam veteran who slapped a young man at a Chicago Cubs game for not standing for the national anthem.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/07/25/opinion/stand-for-the-anthem-and-more-letters/",
+      "time": "2026-07-25T14:44:18",
       "country": "International",
-      "title_ur": "NASA نے مجھے اس بات کا ثبوت دینے میں مدد کی کہ خدا موجود ہے...",
-      "desc_ur": "ایک سائنسدان کا دعویٰ ہے کہ اس نے انسانیت کے قدیم ترین رازوں میں سے ایک کو ایک مساوات کے ساتھ حل کیا ہے جس کے بارے میں وہ کہتے ہیں کہ یہ ریاضیاتی ثبوت فراہم کرتا ہے کہ خدا حقیقی ہے۔"
+      "title_ur": "ترانے کے لیے کھڑے ہوں اور مزید: ایڈیٹر کو خط - 26 جولائی 2026",
+      "desc_ur": "ویتنام کے ایک تجربہ کار، باب شاویز کو خراج تحسین، جس نے شکاگو کیبز گیم میں ایک نوجوان کو قومی ترانے کے لیے کھڑے نہ ہونے پر تھپڑ مارا۔"
     },
     {
-      "title": "Oil back at $100: Time to worry?",
-      "desc": "The renewed surge in oil prices toward $100 amid this week’s Middle East escalation paints a worrying picture as global inventories shrink Read Full Article at RT.com",
-      "source": "RT",
-      "url": "https://www.rt.com/business/643428-oil-spike-prospects-analysis/",
-      "time": "2026-07-25T13:02:17",
-      "country": "International",
-      "title_ur": "تیل $100 پر واپس: فکر کرنے کا وقت؟",
-      "desc_ur": "اس ہفتے کے مشرق وسطی میں اضافے کے درمیان تیل کی قیمتوں میں 100 ڈالر کی طرف تجدید اضافہ ایک تشویشناک تصویر پینٹ کرتا ہے کیونکہ عالمی انوینٹری سکڑ رہی ہے RT.com پر مکمل مضمون پڑھیں"
-    },
-    {
-      "title": "The farce of Trump’s nuclear deal with Saudi Arabia",
-      "desc": "The White House announced an agreement to supply nuclear material to Saudi Arabia, and then killed its own deal by linking it to normalization with Israel under Israeli pressure. But even if the deal fails, it will significantly impact Gulf politics.",
-      "source": "Mondoweiss",
-      "url": "https://mondoweiss.net/2026/07/the-farce-of-trumps-nuclear-deal-with-saudi-arabia/",
-      "time": "2026-07-25T13:00:00",
-      "country": "Israel",
-      "title_ur": "ٹرمپ کے سعودی عرب کے ساتھ جوہری معاہدے کا مذاق",
-      "desc_ur": "وائٹ ہاؤس نے سعودی عرب کو جوہری مواد فراہم کرنے کے معاہدے کا اعلان کیا اور پھر اسرائیلی دباؤ پر اسے اسرائیل کے ساتھ معمول پر لانے سے منسلک کرکے اپنے ہی معاہدے کو ختم کردیا۔ لیکن اگر یہ معاہدہ ناکام بھی ہوتا ہے تو اس سے خلیجی سیاست پر نمایاں اثر پڑے گا۔"
-    },
-    {
-      "title": "In Michigan, the price of energy is on the ballot and both parties know it",
-      "desc": "The GOP spent years circling the state as a key 2026 pickup opportunity. But after a lopsided election loss, doubts are creeping in.",
-      "source": "Grist",
-      "url": "https://grist.org/energy/in-michigan-the-price-of-energy-is-on-the-ballot-and-both-parties-know-it/",
-      "time": "2026-07-25T13:00:00",
-      "country": "International",
-      "title_ur": "مشی گن میں، توانائی کی قیمت بیلٹ پر ہے اور دونوں جماعتیں اسے جانتی ہیں۔",
-      "desc_ur": "GOP نے 2026 کے اہم موقع کے طور پر ریاست کا چکر لگاتے ہوئے سال گزارے۔ لیکن یکطرفہ انتخابی شکست کے بعد شکوک و شبہات جنم لے رہے ہیں۔"
-    },
-    {
-      "title": "A trip to the 'boy aquarium': Discovering Israel's thriving hockey scene",
-      "desc": "I’ll admit, this was the first time I’ve ever watched a sports game of any kind in my adult life, and I could not believe how much fun it was. Several months ago, I, like many others, bought into the hockey show hype, and since then, my social media feed slow…",
-      "source": "The Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/sports/article-903489",
-      "time": "2026-07-25T12:53:40",
-      "country": "Israel",
-      "title_ur": "'بوائے ایکویریم' کا سفر: اسرائیل کے فروغ پزیر ہاکی کے منظر کو دریافت کرنا",
-      "desc_ur": "میں تسلیم کروں گا، یہ پہلا موقع تھا جب میں نے اپنی بالغ زندگی میں کسی بھی قسم کا کھیل دیکھا تھا، اور میں یقین نہیں کر سکتا تھا کہ یہ کتنا مزہ تھا۔ کئی مہینے پہلے، میں نے، بہت سے دوسرے لوگوں کی طرح، ہاکی شو ہائپ میں خریدا، اور تب سے، میرا سوشل میڈیا سست روی کا شکار ہے…"
-    },
-    {
-      "title": "Houthis attack Saudi Aramco oil facilities, escalating conflict",
-      "desc": "Houthis attacked Saudi Aramco oil facilities, escalating conflict. WTI reaching $120 in July 2026 at 1.4% YES.\nThe post Houthis attack Saudi Aramco oil facilities, escalating conflict appeared first on Crypto Briefing.",
+      "title": "US halts strikes on Iran for first time in two weeks amid fragile ceasefire",
+      "desc": "US halts strikes on Iran for the first time in two weeks. Iranian regime's fall by end of 2026 at 9.5% YES.\nThe post US halts strikes on Iran for first time in two weeks amid fragile ceasefire appeared first on Crypto Briefing.",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/houthis-attack-saudi-aramco-oil-facilities-escalating-conflict/",
-      "time": "2026-07-25T12:52:29",
-      "country": "Saudi Arabia",
-      "title_ur": "حوثی باغیوں کا سعودی آرامکو کی تیل تنصیبات پر حملہ، تنازعہ بڑھتا جا رہا ہے۔",
-      "desc_ur": "حوثیوں نے سعودی آرامکو کی تیل تنصیبات پر حملہ کیا جس سے تنازعہ بڑھ گیا۔ WTI جولائی 2026 میں 1.4% ہاں $120 تک پہنچ رہا ہے۔\nThe post حوثیوں کا سعودی آرامکو کی تیل تنصیبات پر حملہ، تنازع بڑھتا appeared first on Crypto Briefing."
-    },
-    {
-      "title": "Yemen's Houthis fire missiles, drones at Saudi Arabia",
-      "desc": "Yemen's Houthi rebels said on Saturday they fired missiles and drones on Saudi Arabia in response to Saudi airstrikes on the strategic Red Sea city of Hodeida.",
-      "source": "CBC News",
-      "url": "https://www.cbc.ca/news/world/houthis-missiles-saudi-arabia-hodeida-9.7283754",
-      "time": "2026-07-25T12:50:40",
-      "country": "Saudi Arabia",
-      "title_ur": "یمن کے حوثی باغیوں نے سعودی عرب پر میزائل اور ڈرون برسائے",
-      "desc_ur": "یمن کے حوثی باغیوں نے ہفتے کے روز کہا کہ انہوں نے بحیرہ احمر کے اسٹریٹجک شہر حدیدہ پر سعودی فضائی حملوں کے جواب میں سعودی عرب پر میزائل اور ڈرون داغے۔"
-    },
-    {
-      "title": "Iran blames US for Hormuz dispute as both sides confirm ongoing talks",
-      "desc": "Iran reports no new US strikes overnight into Saturday for the first time in two weeks.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/7/25/iran-blames-us-for-hormuz-dispute-as-both-sides-confirm-ongoing-talks",
-      "time": "2026-07-25T12:49:06",
+      "url": "https://cryptobriefing.com/us-halts-strikes-on-iran-for-first-time-in-two-weeks-amid-fragile-ceasefire/",
+      "time": "2026-07-25T14:40:08",
       "country": "Iran",
-      "title_ur": "ایران نے امریکہ کو ہرمز تنازعہ کا ذمہ دار ٹھہرایا کیونکہ دونوں فریقین نے جاری مذاکرات کی تصدیق کی ہے۔",
-      "desc_ur": "ایران نے دو ہفتوں میں پہلی بار ہفتے کے روز راتوں رات کسی نئے امریکی حملے کی اطلاع نہیں دی۔"
+      "title_ur": "امریکہ نے دو ہفتوں میں پہلی بار ایران پر حملے روک دیے ہیں جب کہ جنگ بندی نازک ہے۔",
+      "desc_ur": "امریکہ نے دو ہفتوں میں پہلی بار ایران پر حملے روک دیے۔ 2026 کے آخر تک ایرانی حکومت کا زوال 9.5% ہاں۔\nThe post نازک جنگ بندی کے درمیان امریکا نے دو ہفتوں میں پہلی بار ایران پر حملے روک دیے appeared first on Crypto Briefing."
     },
     {
-      "title": "US Pauses Iran Bombing Campaign As Saudi-Houthi Red Sea Front Erupts",
-      "desc": "US Pauses Iran Bombing Campaign As Saudi-Houthi Red Sea Front Erupts \n \nBrent crude surged 27% over two weeks to settle at $96.78 a barrel on Friday, briefly breaching $100 this past week as traders priced in a higher war-risk premium into energy markets amid…",
+      "title": "Analyst urges US to focus on Iran’s political system over nuclear issues",
+      "desc": "Analyst urges U.S. to address Iran's political system over nuclear issues. Reconstruction funding in a U.S.-Iran deal by 2026 at 29% YES.\nThe post Analyst urges US to focus on Iran’s political system over nuclear issues appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/analyst-urges-us-to-focus-on-irans-political-system-over-nuclear-issues/",
+      "time": "2026-07-25T14:36:48",
+      "country": "Iran",
+      "title_ur": "تجزیہ کار نے امریکہ پر زور دیا کہ وہ جوہری مسائل پر ایران کے سیاسی نظام پر توجہ دے۔",
+      "desc_ur": "تجزیہ کار نے امریکہ پر زور دیا کہ وہ جوہری مسائل پر ایران کے سیاسی نظام کو حل کرے۔ 2026 تک امریکہ-ایران معاہدے میں تعمیر نو کی فنڈنگ ​​29% ہاں۔\nThe post تجزیہ کار کا امریکا سے جوہری مسائل پر ایران کے سیاسی نظام پر توجہ دینے کا مطالبہ appeared first on Crypto Briefing."
+    },
+    {
+      "title": "A Groundbreaking U.N. Resolution Calls Forced Pregnancy What It Is: Reproductive Violence",
+      "desc": "It took until July 7, 2026, for the world's leading human rights body to call forcing someone to be pregnant—or forcing them not to be—what it is: reproductive violence. In a landmark resolution adopted unanimously, the U.N. Human Rights Council formally reco…",
+      "source": "Ms. Magazine",
+      "url": "https://msmagazine.com/2026/07/25/united-nations-abortion-bans-usa-reproductive-violence-forced-birth-pregnancy/",
+      "time": "2026-07-25T14:35:00",
+      "country": "US",
+      "title_ur": "اقوام متحدہ کی ایک اہم قرارداد جبری حمل کو کہتے ہیں کہ یہ کیا ہے: تولیدی تشدد",
+      "desc_ur": "7 جولائی، 2026 تک، انسانی حقوق کی دنیا کے سرکردہ ادارے کو کسی کو حاملہ ہونے پر مجبور کرنے — یا انھیں زبردستی نہ ہونے کے لیے کہا جاتا ہے— یہ کیا ہے: تولیدی تشدد۔ متفقہ طور پر منظور کی گئی ایک تاریخی قرارداد میں، اقوام متحدہ کی انسانی حقوق کونسل نے باضابطہ طور پر..."
+    },
+    {
+      "title": "Israel arrests over 70 Palestinians in West Bank",
+      "desc": "The Israel Defense Forces (IDF) said on Saturday that it, along with Shin Bet and Israeli border police, arrested over 70 Palestinians in the West Bank in overnight raids.The IDF claimed to have condu...",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/28fa63a2a9202c5a",
-      "time": "2026-07-25T12:47:44",
-      "country": "Iran",
-      "title_ur": "سعودی حوثی ریڈ سی فرنٹ پھوٹ پڑتے ہی امریکہ نے ایران پر بمباری کی مہم روک دی۔",
-      "desc_ur": "سعودی حوثی ریڈ سی فرنٹ پھوٹ پڑتے ہی امریکہ نے ایران پر بمباری کی مہم روک دی۔ \n \nبرینٹ کروڈ کی قیمت دو ہفتوں کے دوران 27 فیصد اضافے کے ساتھ جمعہ کے روز 96.78 ڈالر فی بیرل پر طے ہوئی، جس نے گزشتہ ہفتے مختصر طور پر 100 ڈالر کی خلاف ورزی کی کیونکہ تاجروں نے توانائی کی منڈیوں میں جنگی خطرے کے اعلیٰ پریمیم کی قیمت…"
+      "url": "https://biztoc.com/x/ec3dc1921e7b9e80",
+      "time": "2026-07-25T14:34:00",
+      "country": "Israel",
+      "title_ur": "اسرائیل نے مغربی کنارے سے 70 سے زائد فلسطینیوں کو گرفتار کر لیا۔",
+      "desc_ur": "اسرائیلی ڈیفنس فورسز (IDF) نے ہفتے کے روز کہا کہ اس نے شن بیٹ اور اسرائیلی سرحدی پولیس کے ساتھ مل کر مغربی کنارے میں راتوں رات چھاپوں میں 70 سے زائد فلسطینیوں کو گرفتار کیا۔"
     },
     {
-      "title": "Trump: US pressure on Iran persists despite pause in military strikes",
-      "desc": "Trump affirms ongoing U.S. pressure on Iran despite military pause. End of Iranian blockade by July 31, 2026 at 14% YES.\nThe post Trump: US pressure on Iran persists despite pause in military strikes appeared first on Crypto Briefing.",
+      "title": "War, Over There, Over Here",
+      "desc": "“The left’s goal is always to break human reason. . . .” —Elizabeth Nickson. Iran. . . message received. You ask: Why did Achilles drag Hector around the city of Troy three times?Answer: He was just that pissed. So it goes with President DJ Trump and the intr…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-chat/4389312/posts",
+      "time": "2026-07-25T14:33:47",
+      "country": "Iran",
+      "title_ur": "جنگ، وہاں پر، یہاں پر",
+      "desc_ur": "\"بائیں بازو کا مقصد ہمیشہ انسانی عقل کو توڑنا ہوتا ہے...\" - الزبتھ نکسن۔ ایران . . پیغام موصول ہوا. آپ پوچھتے ہیں: اچیلز نے ہیکٹر کو تین بار ٹرائے شہر کے گرد کیوں گھسیٹ لیا؟ جواب: وہ اتنا ہی غصے میں تھا۔ تو یہ صدر ڈی جے ٹرمپ اور انٹر کے ساتھ جاتا ہے…"
+    },
+    {
+      "title": "Can data collectives help strengthen vulnerable cultures in the face of AI?",
+      "desc": "\"Data collectives and cooperatives, which let creators control the collection and distribution of their data, are emerging as preferred alternatives to big tech companies.\"",
+      "source": "Werd.io",
+      "url": "https://werd.io/can-data-collectives-help-strengthen-vulnerable-cultures-in-the-face-of-ai/",
+      "time": "2026-07-25T14:23:05",
+      "country": "International",
+      "title_ur": "کیا ڈیٹا اکٹھا کرنے سے AI کے مقابلے میں کمزور ثقافتوں کو مضبوط بنانے میں مدد مل سکتی ہے؟",
+      "desc_ur": "\"ڈیٹا اکٹھا کرنے والے اور کوآپریٹیو، جو تخلیق کاروں کو اپنے ڈیٹا کی جمع اور تقسیم کو کنٹرول کرنے دیتے ہیں، بڑی ٹیک کمپنیوں کے ترجیحی متبادل کے طور پر ابھر رہے ہیں۔\""
+    },
+    {
+      "title": "WATCH: Missing hiker rescued in Grand Canyon",
+      "desc": "An 83-year-old hiker was rescued after being missing for more than 24 hours. He became separated from a friend during a hike before a helicopter spotted him and rescuers led him to safety.",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/video/135080243/",
+      "time": "2026-07-25T14:21:14",
+      "country": "International",
+      "title_ur": "دیکھو: لاپتہ ہائیکر کو گرینڈ کینین میں بچایا گیا۔",
+      "desc_ur": "ایک 83 سالہ ہائیکر کو 24 گھنٹے سے زائد لاپتہ رہنے کے بعد بچا لیا گیا۔ ایک ہیلی کاپٹر نے اسے دیکھا اور ریسکیورز اسے حفاظت کی طرف لے گئے اس سے پہلے کہ وہ ہائیک کے دوران ایک دوست سے الگ ہو گیا۔"
+    },
+    {
+      "title": "Russia extends gasoline export ban through year-end as crypto fills the sanctions gap",
+      "desc": "Russia extends its gasoline export ban through year-end as energy traders increasingly use Bitcoin, Ether, and USDT to settle deals amid Western\nThe post Russia extends gasoline export ban through year-end as crypto fills the sanctions gap appeared first on C…",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/trump-us-pressure-on-iran-persists-despite-pause-in-military-strikes/",
-      "time": "2026-07-25T12:46:54",
-      "country": "Iran",
-      "title_ur": "ٹرمپ: فوجی حملے روکنے کے باوجود ایران پر امریکی دباؤ برقرار ہے۔",
-      "desc_ur": "ٹرمپ نے فوجی توقف کے باوجود ایران پر جاری امریکی دباؤ کی تصدیق کی۔ 31 جولائی 2026 تک 14% ہاں پر ایرانی ناکہ بندی کا خاتمہ۔\nThe post ٹرمپ: فوجی حملوں میں توقف کے باوجود ایران پر امریکی دباؤ برقرار appeared first on Crypto Briefing."
+      "url": "https://cryptobriefing.com/russia-gasoline-export-ban-crypto-sanctions/",
+      "time": "2026-07-25T14:19:31",
+      "country": "Russia",
+      "title_ur": "روس نے پٹرول کی برآمد پر پابندی کو سال کے آخر تک بڑھایا کیونکہ کرپٹو پابندیوں کے خلا کو پُر کرتا ہے۔",
+      "desc_ur": "روس نے گیسولین کی برآمد پر پابندی کو سال کے آخر تک بڑھا دیا کیونکہ توانائی کے تاجر مغربی ممالک کے درمیان سودے طے کرنے کے لیے بٹ کوائن، ایتھر اور USDT کا تیزی سے استعمال کرتے ہیں۔\nThe post روس نے پٹرول کی برآمد پر پابندی کو سال کے آخر تک بڑھا دیا کیونکہ کرپٹو پابندیوں کے خلا کو پُر کرتا ہے appeared first on C…"
     },
     {
-      "title": "Trump's on course to crash and burn — and his actions show he knows it",
-      "desc": "Trump, his billionaire buddies, and his Republican lickspittles appear to be setting up a possible massive fraud with regard to this fall’s election. It could signal the end of American democracy.We democracy-loving Americans have fought oligarchy three times…",
-      "source": "Raw Story",
-      "url": "https://www.rawstory.com/raw-investigates/trump-history-oligarchy/",
-      "time": "2026-07-25T12:45:16",
+      "title": "US considers special operations mission to seize uranium from Iran as Treasury freezes hundreds of millions in crypto",
+      "desc": "The US is planning special operations to seize Iranian uranium while Treasury freezes up to $500M in Iranian-linked crypto assets in Operation\nThe post US considers special operations mission to seize uranium from Iran as Treasury freezes hundreds of millions…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/us-iran-uranium-mission-crypto-seizures/",
+      "time": "2026-07-25T14:17:43",
+      "country": "Iran",
+      "title_ur": "امریکہ ایران سے یورینیم ضبط کرنے کے لیے خصوصی آپریشن مشن پر غور کر رہا ہے کیونکہ ٹریژری نے کروڑوں کی کرپٹو منجمد کر دی ہے۔",
+      "desc_ur": "امریکہ ایرانی یورینیم کو ضبط کرنے کے لیے خصوصی کارروائیوں کی منصوبہ بندی کر رہا ہے جبکہ ٹریژری آپریشن میں ایران سے منسلک کرپٹو اثاثوں میں 500 ملین ڈالر تک منجمد کر رہا ہے۔\nThe post امریکا نے ایران سے یورینیم قبضے میں لینے کے لیے خصوصی آپریشن مشن پر غور کیا کیونکہ ٹریژری نے کروڑوں ڈالر منجمد کردیے…"
+    },
+    {
+      "title": "The Saddest Roast",
+      "desc": "Donald Trump returned to the White House Correspondents’ Dinner for the first time since taking office, delivering a 65-minute speech that played more like a one-sided Comedy Central roast than the event’s traditional mix of self-deprecation and political jab…",
+      "source": "Consequence.net",
+      "url": "https://consequence.net/2026/07/trump-white-house-correspondents-dinner/",
+      "time": "2026-07-25T14:12:12",
       "country": "US",
-      "title_ur": "ٹرمپ کریش اور جلنے کے راستے پر ہے - اور اس کے اقدامات سے ظاہر ہوتا ہے کہ وہ اسے جانتا ہے۔",
-      "desc_ur": "ٹرمپ، ان کے ارب پتی دوست، اور ان کے ریپبلکن لِکس اسپٹلس اس موسم خزاں کے انتخابات کے حوالے سے ایک ممکنہ بڑے پیمانے پر دھوکہ دہی کا منصوبہ بنا رہے ہیں۔ یہ امریکی جمہوریت کے خاتمے کا اشارہ دے سکتا ہے۔ ہم جمہوریت سے محبت کرنے والے امریکیوں نے تین بار اشرافیہ کا مقابلہ کیا ہے…"
+      "title_ur": "سب سے افسوسناک روسٹ",
+      "desc_ur": "ڈونلڈ ٹرمپ عہدہ سنبھالنے کے بعد پہلی بار وائٹ ہاؤس کے نامہ نگاروں کے عشائیے میں واپس آئے، انہوں نے 65 منٹ کی تقریر کی جو تقریب میں خود فرسودگی اور سیاسی جبر کے روایتی مرکب سے زیادہ یک طرفہ کامیڈی سنٹرل روسٹ کی طرح کھیلی گئی…"
     },
     {
-      "title": "U.S. Strikes Deeper Inside Iran, Targeting Bridges and Infrastructure",
-      "desc": "The United States has gradually expanded the scope of its attacks against Iran over the course of two weeks of punishing airstrikes that increasingly resemble the war's opening salvos.\nThe post U.S. Strikes Deeper Inside Iran, Targeting Bridges and Infrastruc…",
-      "source": "Breitbart News",
-      "url": "https://www.breitbart.com/europe/2026/07/25/u-s-strikes-deeper-inside-iran-targeting-bridges-and-infrastructure/",
-      "time": "2026-07-25T12:42:16",
-      "country": "Iran",
-      "title_ur": "امریکہ نے ایران کے اندر مزید گہرے حملے کیے، پلوں اور انفراسٹرکچر کو نشانہ بنایا",
-      "desc_ur": "امریکہ نے بتدریج ایران کے خلاف اپنے حملوں کے دائرہ کار کو دو ہفتوں تک سزا دینے والے فضائی حملوں کے دوران وسیع کر دیا ہے جو جنگ کے ابتدائی سالواس سے زیادہ مشابہت رکھتے ہیں۔\nThe post امریکا نے ایران کے اندر مزید گہرے حملے کیے، پلوں اور انفراسٹرکچر کو نشانہ بنایا…"
-    },
-    {
-      "title": "Trainee barrister 'caught driving car bomb across Northern Ireland border' previously spent time in Syria, her lawyer says",
-      "desc": "Isobella Perrie Sullivan, 25, was arrested after Irish police said they made an 'extremely significant seizure' of a device on Wednesday.",
+      "title": "Gold prices are PLUMMETING... and if you're smart, it could net you a fortune. Here's what you must know",
+      "desc": "Even gold is not the safe haven that it once was, with staggering falls in value catching many investors off guard. Our must-read guide explains how to protect your finances.",
       "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16004657/Trainee-barrister-car-bomb-Northern-Ireland-border-Syria-lawyer.html",
-      "time": "2026-07-25T12:35:38",
+      "url": "https://www.dailymail.com/yourmoney/article-15993931/gold-prices-plummeting-fortune-know.html",
+      "time": "2026-07-25T14:10:51",
       "country": "US",
-      "title_ur": "اس کے وکیل کا کہنا ہے کہ ٹرینی بیرسٹر 'شمالی آئرلینڈ کی سرحد کے پار کار بم چلاتے ہوئے پکڑی گئی' اس نے پہلے شام میں وقت گزارا تھا",
-      "desc_ur": "25 سالہ اسوبیلا پیری سلیوان کو اس وقت گرفتار کیا گیا جب آئرش پولیس نے کہا کہ انہوں نے بدھ کے روز ایک آلہ کو 'انتہائی اہم ضبطی' کیا۔"
+      "title_ur": "سونے کی قیمتیں گر رہی ہیں... اور اگر آپ ہوشیار ہیں، تو یہ آپ کو خوش قسمتی سے نواز سکتا ہے۔ یہ ہے جو آپ کو معلوم ہونا چاہیے۔",
+      "desc_ur": "یہاں تک کہ سونا بھی وہ محفوظ ٹھکانہ نہیں ہے جو کبھی تھا، قیمت میں حیرت انگیز گراوٹ کے ساتھ بہت سے سرمایہ کاروں کو چوکس کر دیا گیا۔ ہماری ضرور پڑھیں گائیڈ بتاتی ہے کہ آپ کے مالیات کی حفاظت کیسے کی جائے۔"
     },
     {
-      "title": "Letters written by young Morrissey expected to fetch £22k",
-      "desc": "Letters written by a young Morrissey before he formed The Smiths are to go to auction in London, where they are expected to sell for £22,000 (€25,814).",
-      "source": "RTE",
-      "url": "https://www.rte.ie/entertainment/2026/0725/1585066-letters-written-by-young-morrissey-expected-to-fetch-l22k/",
-      "time": "2026-07-25T12:33:36",
-      "country": "UK",
-      "title_ur": "نوجوان موریسی کے لکھے گئے خطوط سے £22k ملنے کی امید ہے۔",
-      "desc_ur": "دی سمتھز کی تشکیل سے پہلے ایک نوجوان موریسی کے لکھے گئے خطوط لندن میں نیلامی کے لیے جانے والے ہیں، جہاں ان کی £22,000 (€25,814) میں فروخت ہونے کی توقع ہے۔"
+      "title": "New 40% Off Disney World Resort Hotels Flash Sale Starts Soon for Summer 2026 & Beyond!",
+      "desc": "A new flash sale on Walt Disney World resort hotels starts very soon. This exclusive limited-time discount offers up to 40% off room rates for trips in summer and beyond, and appears to be a repeat of last year’s ‘Christmas in July’ deal that was frustrating …",
+      "source": "Disneytouristblog.com",
+      "url": "https://www.disneytouristblog.com/new-40-off-disney-world-resort-hotels-flash-sale-starts-soon-for-summer-2026-beyond/",
+      "time": "2026-07-25T14:06:20",
+      "country": "US",
+      "title_ur": "موسم گرما 2026 اور اس سے آگے کے لیے ڈزنی ورلڈ ریزورٹ ہوٹلوں کی فلیش سیل کی نئی 40% رعایت جلد شروع ہوگی!",
+      "desc_ur": "والٹ ڈزنی ورلڈ ریزورٹ ہوٹلوں پر ایک نئی فلیش سیل بہت جلد شروع ہو رہی ہے۔ یہ خصوصی محدود وقتی رعایت موسم گرما اور اس سے آگے کے دوروں کے لیے کمرے کے نرخوں میں 40% تک کی رعایت کی پیشکش کرتی ہے، اور ایسا لگتا ہے کہ گزشتہ سال کے 'کرسمس ان جولائی' کے معاہدے کا اعادہ ہوتا ہے جو مایوس کن تھا…"
     },
     {
-      "title": "Middle East escalation: Bahrain and Kuwait carried out first Iran strikes with UAE help",
-      "desc": "Bahrain and Kuwait secretly executed airstrikes against Iran this month. The United Arab Emirates provided intelligence and defensive air cover for the operation. These nations retaliated after sustained strikes from Iranian forces amid rising regional hostil…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/defence/middle-east-escalation-bahrain-and-kuwait-carried-out-first-iran-strikes-with-uae-help/articleshow/132625919.cms",
-      "time": "2026-07-25T12:31:38",
+      "title": "The Hegemon’s Escape: Why America is blowing up its own world order",
+      "desc": "h1, h2, h3 {\n line-height: 33px;\n }\n \n \n\nEdited by iEpikaira\n I. Introduction\n\nThe mainstream analytical establishment—think tanks, foreign policy journals, the broadsheet commentariat—continues to narrate the American confrontation with Iran through the tire…",
+      "source": "Blogspot.com",
+      "url": "https://i-epikaira.blogspot.com/2026/07/the-hegemons-escape-why-america-is.html",
+      "time": "2026-07-25T14:04:12",
       "country": "Iran",
-      "title_ur": "مشرق وسطیٰ میں کشیدگی: بحرین اور کویت نے متحدہ عرب امارات کی مدد سے ایران پر پہلا حملہ کیا۔",
-      "desc_ur": "بحرین اور کویت نے اس ماہ خفیہ طور پر ایران کے خلاف فضائی حملے کیے تھے۔ متحدہ عرب امارات نے آپریشن کے لیے انٹیلی جنس اور دفاعی فضائی کور فراہم کیا۔ ان ممالک نے بڑھتے ہوئے علاقائی دشمنی کے درمیان ایرانی افواج کے مسلسل حملوں کے بعد جوابی کارروائی کی…"
+      "title_ur": "The Hegemon's Escape: امریکہ اپنے ہی عالمی نظام کو کیوں اڑا رہا ہے۔",
+      "desc_ur": "h1, h2, h3 {\n لائن کی اونچائی: 33px؛\n }\n \n \n\niEpikaira کے ذریعہ ترمیم شدہ\n I. تعارف\n\nمرکزی دھارے کی تجزیاتی اسٹیبلشمنٹ — تھنک ٹینکس، خارجہ پالیسی کے جرائد، براڈ شیٹ کمنٹریٹ — ایران کے ساتھ امریکی تصادم کو مسلسل بیان کرتا ہے…"
     }
   ],
   "pakistan": [
     {
-      "title": "Tarouba, Trinidad weather forecast: Day-by-Day rain chances for West Indies vs Pakistan 1st Test 2026",
-      "desc": "Get the day-by-day Tarouba, Trinidad weather forecast and hourly rain probability for the West Indies vs Pakistan 1st Test at Brian Lara Cricket Academy.",
-      "source": "Cricketnews.com",
-      "url": "https://www.cricketnews.com/en/cricket/news/tarouba-trinidad-weather-day-rain-chances-wi-vs-pak-1st-test-2026/c0c03fca2c4070682db8cb26",
-      "time": "2026-07-25T12:26:43",
+      "title": "1st Test Day 1, Live Score: West Indies opt to bat against Pakistan",
+      "desc": "",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/west-indies-vs-pakistan-wi-vs-pak-1st-test-live-score-commentary-trinidad/liveblog/132628605.cms",
+      "time": "2026-07-25T14:29:18",
       "country": "Pakistan",
-      "title_ur": "تروبا، ٹرینیڈاڈ موسم کی پیشن گوئی: ویسٹ انڈیز بمقابلہ پاکستان پہلا ٹیسٹ 2026 میں دن بہ دن بارش کے امکانات",
-      "desc_ur": "برائن لارا کرکٹ اکیڈمی میں ویسٹ انڈیز بمقابلہ پاکستان پہلے ٹیسٹ کے لیے روزانہ تاروبا، ٹرینیڈاڈ کے موسم کی پیشن گوئی اور فی گھنٹہ بارش کا امکان حاصل کریں۔"
+      "title_ur": "پہلا ٹیسٹ دن 1، لائیو اسکور: ویسٹ انڈیز نے پاکستان کے خلاف بیٹنگ کا انتخاب کیا۔",
+      "desc_ur": ""
     },
     {
-      "title": "WI vs PAK 1st Test session timings: Start times, lunch and tea breaks for West Indies vs Pakistan 2026 at Tarouba",
-      "desc": "Pakistan begin their 2026 Test series against West Indies at Tarouba. Here's the full daily schedule, including match start times and the lunch and tea intervals for the opening Test.",
-      "source": "Cricketnews.com",
-      "url": "https://www.cricketnews.com/en/cricket/news/wi-vs-pak-1st-test-session-timings-start-times-lunch-tea-break/fd75e38d0fa41faaeba76748",
-      "time": "2026-07-25T12:25:14",
+      "title": "As signals of a ‘massive’ US attack mount, experts skeptical it will break Iran",
+      "desc": "As President Trump threatens a major escalation in Iran, signs are mounting that the U.S. military is preparing for a potential return to major military operations. But experts are skeptical that an intensified air strike campaign — even if it takes out bridg…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4389311/posts",
+      "time": "2026-07-25T14:18:48",
       "country": "Pakistan",
-      "title_ur": "WI بمقابلہ PAK پہلے ٹیسٹ سیشن کے اوقات: تروبا میں ویسٹ انڈیز بمقابلہ پاکستان 2026 کے لیے شروع کے اوقات، لنچ اور چائے کے وقفے",
-      "desc_ur": "پاکستان اپنی 2026 کی ٹیسٹ سیریز کا آغاز ویسٹ انڈیز کے خلاف تروبہ میں کرے گا۔ یہاں میچ شروع ہونے کے اوقات اور ابتدائی ٹیسٹ کے لنچ اور چائے کے وقفوں سمیت روزانہ کا پورا شیڈول ہے۔"
-    },
-    {
-      "title": "How to watch West Indies vs Pakistan Test series 2026 live: Start time, TV channels and streaming details for WI vs PAK Tests",
-      "desc": "With the West Indies vs Pakistan series about to happen in full glory, here's how you can watch the game live without missing a single over.",
-      "source": "Cricketnews.com",
-      "url": "https://www.cricketnews.com/en/cricket/news/watch-west-indies-vs-pakistan-test-series-2026-live-start-time-tv-streaming/c7992f7440f28c88dac48dd5",
-      "time": "2026-07-25T12:24:22",
-      "country": "Pakistan",
-      "title_ur": "ویسٹ انڈیز بمقابلہ پاکستان ٹیسٹ سیریز 2026 لائیو کیسے دیکھیں: آغاز کا وقت، ٹی وی چینلز اور WI بمقابلہ PAK ٹیسٹ کے لیے اسٹریمنگ کی تفصیلات",
-      "desc_ur": "ویسٹ انڈیز بمقابلہ پاکستان سیریز پوری شان و شوکت کے ساتھ ہونے والی ہے، یہاں یہ ہے کہ آپ ایک بھی اوور کھوئے بغیر کھیل کو براہ راست کیسے دیکھ سکتے ہیں۔"
+      "title_ur": "جیسا کہ 'بڑے پیمانے پر' امریکی حملے کے اشارے بڑھ رہے ہیں، ماہرین کو شبہ ہے کہ یہ ایران کو توڑ دے گا۔",
+      "desc_ur": "جیسا کہ صدر ٹرمپ نے ایران میں ایک بڑی کشیدگی کی دھمکی دی ہے، ایسے اشارے بڑھ رہے ہیں کہ امریکی فوج بڑی فوجی کارروائیوں میں ممکنہ واپسی کی تیاری کر رہی ہے۔ لیکن ماہرین کو شبہ ہے کہ فضائی حملے کی مہم تیز کر دی گئی ہے - چاہے اس سے پُل نکل جائے…"
     }
   ],
   "business": {
@@ -209,7 +199,7 @@
         "low": 28,
         "condition": "Light Drizzle",
         "condition_ur": "ہلکی بوندا باندی",
-        "precip": 45
+        "precip": 23
       },
       {
         "date": "2026-07-28",
@@ -218,7 +208,7 @@
         "low": 26,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 78
+        "precip": 61
       },
       {
         "date": "2026-07-29",
@@ -227,7 +217,7 @@
         "low": 25,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 80
+        "precip": 76
       },
       {
         "date": "2026-07-30",
@@ -236,7 +226,7 @@
         "low": 25,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 76
+        "precip": 78
       },
       {
         "date": "2026-07-31",
@@ -245,7 +235,7 @@
         "low": 25,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 85
+        "precip": 92
       },
       {
         "date": "2026-08-01",
