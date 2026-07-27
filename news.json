@@ -1,187 +1,207 @@
 {
-  "generated": "2026-07-27T17:42:13Z",
+  "generated": "2026-07-27T19:18:17Z",
   "world": [
     {
-      "title": "Israel launches military incursion into Syria amid UN condemnation",
-      "desc": "The UN’s Guterres condemned violations of Syria’s sovereignty as he visited and called for sanctions to be lifted.",
+      "title": "Hamas: Israeli mosque attacks in West Bank 'fascist crimes'",
+      "desc": "Hamas condemned on Sunday the burning of two mosques in the northern West Bank as \"fascist crimes,\" calling the attacks a targeted assault by Israeli settlers with support of the Israel Defense Forces...",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/1fb90e575f0e2de9",
+      "time": "2026-07-26T19:14:51",
+      "country": "Israel",
+      "title_ur": "حماس: مغربی کنارے میں اسرائیلی مسجد پر حملے 'فسطائی جرائم'",
+      "desc_ur": "حماس نے اتوار کے روز شمالی مغربی کنارے میں دو مساجد کو نذر آتش کرنے کی مذمت کرتے ہوئے \"فسطائی جرائم\" کے طور پر ان حملوں کو اسرائیلی ڈیفنس فورسز کے تعاون سے اسرائیلی آباد کاروں کی طرف سے نشانہ بنایا گیا حملہ قرار دیا۔"
+    },
+    {
+      "title": "Netanyahu vows to go to New York City despite ICC arrest warrant, Mamdani",
+      "desc": "Israeli prime minister slams New York Mayor Zohran Mamdani, accusing him of 'fomenting hate' with criticism of Israel.",
       "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/7/26/israel-launches-military-incursion-into-syria-amid-un-condemnation",
-      "time": "2026-07-26T17:40:15",
+      "url": "https://www.aljazeera.com/news/2026/7/26/netanyahu-vows-to-go-to-new-york-city-despite-icc-arrest-warrant-mamdani",
+      "time": "2026-07-26T19:13:02",
       "country": "Israel",
-      "title_ur": "اسرائیل نے اقوام متحدہ کی مذمت کے درمیان شام میں فوجی حملہ شروع کر دیا۔",
-      "desc_ur": "اقوام متحدہ کے گوتریس نے دورہ شام کی خودمختاری کی خلاف ورزیوں کی مذمت کی اور پابندیاں ہٹانے کا مطالبہ کیا۔"
+      "title_ur": "نیتن یاہو نے آئی سی سی کے وارنٹ گرفتاری کے باوجود نیویارک شہر جانے کا عزم کیا، مامدانی۔",
+      "desc_ur": "اسرائیلی وزیراعظم نے نیویارک کے میئر ظہران ممدانی پر تنقید کرتے ہوئے ان پر اسرائیل پر تنقید کے ساتھ 'نفرت کو ہوا دینے' کا الزام لگایا۔"
     },
     {
-      "title": "Netanyahu accuses Mamdani of 'fomenting hate' and calls ICC war-crimes charges 'bogus'",
-      "desc": "Israel’s Benjamin Netanyahu says New York Mayor Zohran Mamdani is “fomenting hate” by calling the prime minister a war criminal who should be arrested if he visits the city",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/Politics/wireStory/netanyahu-accuses-mamdani-fomenting-hate-calls-icc-war-135103107",
-      "time": "2026-07-26T17:39:50",
-      "country": "Israel",
-      "title_ur": "نیتن یاہو نے مامدانی پر 'نفرت کو ہوا دینے' کا الزام لگایا اور آئی سی سی کے جنگی جرائم کے الزامات کو 'بوگس' قرار دیا",
-      "desc_ur": "اسرائیل کے بینجمن نیتن یاہو کا کہنا ہے کہ نیویارک کے میئر ظہران مامدانی وزیر اعظم کو جنگی مجرم قرار دے کر \"نفرت کو ہوا دے رہے ہیں\" جسے اگر وہ شہر کا دورہ کریں تو گرفتار کر لیا جائے۔"
-    },
-    {
-      "title": "Mamdani's politics linked to Muslim Brotherhood ideology as New York violence escalates: report",
-      "desc": "ISGAP research traces Zohran Mamdani's ties to Muslim Brotherhood-linked organizations as antisemitic violence escalates on Manhattan streets.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/opinion/mamdanis-politics-linked-muslim-brotherhood-ideology-new-york-violence-escalates-report",
-      "time": "2026-07-26T17:36:20",
-      "country": "US",
-      "title_ur": "مامدانی کی سیاست کا تعلق اخوان المسلمون کے نظریے سے ہے کیونکہ نیویارک میں تشدد بڑھ رہا ہے: رپورٹ",
-      "desc_ur": "ISGAP کی تحقیق میں اخوان المسلمون سے منسلک تنظیموں سے ظہران مامدانی کے تعلقات کا پتہ چلتا ہے کیونکہ مین ہٹن کی سڑکوں پر سام دشمن تشدد بڑھ رہا ہے۔"
-    },
-    {
-      "title": "Trump weighs military escalation against Iran while seeking diplomatic space, and crypto markets are feeling every tremor",
-      "desc": "Heightened US-Iran tensions amplify crypto market volatility, reflecting broader geopolitical uncertainties impacting global financial stability.\nThe post Trump weighs military escalation against Iran while seeking diplomatic space, and crypto markets are fee…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/trump-iran-escalation-crypto-market-impact/",
-      "time": "2026-07-26T17:34:02",
-      "country": "Iran",
-      "title_ur": "ٹرمپ سفارتی جگہ کی تلاش میں ایران کے خلاف فوجی کشیدگی کو تول رہے ہیں، اور کرپٹو مارکیٹیں ہر زلزلہ محسوس کر رہی ہیں",
-      "desc_ur": "امریکہ ایران کشیدگی میں اضافہ کرپٹو مارکیٹ کے اتار چڑھاؤ کو بڑھاتا ہے، جو عالمی مالیاتی استحکام کو متاثر کرنے والی وسیع تر جغرافیائی سیاسی غیر یقینی صورتحال کی عکاسی کرتا ہے۔\nThe post ٹرمپ سفارتی جگہ کی تلاش میں ایران کے خلاف فوجی کشیدگی کو تولتے ہیں، اور کرپٹو مارکیٹیں فیس ہیں…"
-    },
-    {
-      "title": "Iran will halt attacks as long as US maintains pause, Iranian source says after Trump calls off strikes - Reuters",
-      "desc": "Iran will halt attacks as long as US maintains pause, Iranian source says after Trump calls off strikesReuters Vance, Caine raised concerns about escalating war in Iran, sources say as US pauses consecutive nights of strikesCNN U.S. pauses attacks on Iran for…",
+      "title": "Why are Israeli settlers on a rampage in the occupied West Bank? - Al Jazeera",
+      "desc": "Why are Israeli settlers on a rampage in the occupied West Bank?Al Jazeera Israeli settlers set fire to West Bank mosques after deadly clashReuters Israeli settlers burn two mosques in occupied West BankAl Jazeera Israel detains over 70 suspects following dea…",
       "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184706034",
-      "time": "2026-07-26T17:32:36",
-      "country": "Iran",
-      "title_ur": "ایران حملے اس وقت تک روکے گا جب تک کہ امریکہ توقف برقرار رکھے گا، ایرانی ذرائع کا کہنا ہے کہ ٹرمپ کے حملے منسوخ کرنے کے بعد – رائٹرز",
-      "desc_ur": "ایران حملے اس وقت تک روک دے گا جب تک کہ امریکہ توقف برقرار رکھے گا، ایرانی ذرائع کا کہنا ہے کہ ٹرمپ کے حملوں کو منسوخ کرنے کے بعد رائٹرز وینس، کین نے ایران میں جنگ میں اضافے کے بارے میں تشویش کا اظہار کیا، ذرائع کا کہنا ہے کہ امریکہ نے مسلسل راتوں کے حملوں کو روک دیا ہے CNN امریکہ نے ایران پر حملوں کو روک دیا ہے…"
-    },
-    {
-      "title": "Berlin Terror Suspect Shot and Killed",
-      "desc": "German media are reporting that a suspect wanted after a vehicle was driven into a crowd gathered at a Pride event in Berlin has been shot and killed. One person has been confirmed dead in the incident and at least 29 injured.",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4389437/posts",
-      "time": "2026-07-26T17:30:30",
-      "country": "US",
-      "title_ur": "برلن دہشت گردی کے مشتبہ شخص کو گولی مار کر ہلاک کر دیا گیا۔",
-      "desc_ur": "جرمن میڈیا رپورٹ کر رہا ہے کہ برلن میں پرائڈ ایونٹ میں جمع ہونے والے ہجوم پر گاڑی چڑھانے کے بعد مطلوب ایک مشتبہ شخص کو گولی مار کر ہلاک کر دیا گیا ہے۔ واقعے میں ایک شخص کی ہلاکت اور کم از کم 29 افراد کے زخمی ہونے کی تصدیق کی گئی ہے۔"
-    },
-    {
-      "title": "The US Pause in Iran War Escalation Probably Won’t Last",
-      "desc": "The Trump administration has paused its latest, 13-night bombing campaign on Iran, reportedly following concerns within the administration over the past few days about American military resources and casualties. The dwindling amount of US air defense munition…",
-      "source": "Mother Jones",
-      "url": "https://www.motherjones.com/politics/2026/07/the-us-pause-in-iran-war-escalation-probably-wont-last/",
-      "time": "2026-07-26T17:29:53",
-      "country": "Iran",
-      "title_ur": "ایران کی جنگ میں امریکی توقف شاید دیر تک نہیں چلے گا۔",
-      "desc_ur": "ٹرمپ انتظامیہ نے ایران پر اپنی تازہ ترین، 13 رات کی بمباری کی مہم کو روک دیا ہے، مبینہ طور پر امریکی فوجی وسائل اور ہلاکتوں کے بارے میں انتظامیہ کے اندر گزشتہ چند دنوں کے خدشات کے بعد۔ امریکی فضائی دفاعی جنگی سازوسامان کی کم ہوتی ہوئی مقدار…"
-    },
-    {
-      "title": "In D.C., Netanyahu will bid farewell both to Lindsey Graham and unconditional U.S. support",
-      "desc": "It is only fitting that the Israeli PM should be there to send off Lindsey Graham, a politician who represented the special U.S.-Israel relationship that Netanyahu is, more than most, responsible for killing",
-      "source": "Haaretz",
-      "url": "https://www.haaretz.com/israel-news/haaretz-today/2026-07-26/ty-article/.highlight/in-d-c-netanyahu-will-send-off-both-graham-and-unconditional-u-s-support/0000019f-9eb9-dcf3-a9df-9fbbfb060000",
-      "time": "2026-07-26T17:25:46",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184707486",
+      "time": "2026-07-26T19:12:48",
       "country": "Israel",
-      "title_ur": "ڈی سی میں، نیتن یاہو لنڈسے گراہم اور غیر مشروط امریکی حمایت دونوں کو الوداع کریں گے۔",
-      "desc_ur": "یہ صرف مناسب ہے کہ اسرائیلی وزیر اعظم لنڈسے گراہم کو رخصت کرنے کے لیے موجود ہوں، جو ایک ایسے سیاست دان ہیں جنہوں نے امریکہ اور اسرائیل کے خصوصی تعلقات کی نمائندگی کی تھی کہ نیتن یاہو، سب سے زیادہ، قتل کے ذمہ دار ہیں۔"
+      "title_ur": "مقبوضہ مغربی کنارے میں اسرائیلی آباد کاروں کا قتل عام کیوں؟ - الجزیرہ",
+      "desc_ur": "مقبوضہ مغربی کنارے میں اسرائیلی آباد کاروں نے ہنگامہ آرائی کیوں کی؟الجزیرہ اسرائیلی آباد کاروں نے ہلاکت خیز جھڑپ کے بعد مغربی کنارے کی مساجد کو آگ لگا دی"
     },
     {
-      "title": "Judea and Samaria: IDF launches massive crackdown to stop escalation",
-      "desc": "Following last week's terror attacks, the IDF arrested more than 130 wanted suspects and tightened security measures across Judea and Samaria.",
+      "title": "Fugitive from Panama and architect of \"Fraud of the Century\" extradited",
+      "desc": "One fled at the last minute to Panama, the other escaped to Israel after the \"Fraud of the Century\": A dramatic weekend at Ben-Gurion Airport concluded with two massive extraditions.",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/business-and-innovation/all-news/article-903728",
+      "time": "2026-07-26T19:08:18",
+      "country": "Israel",
+      "title_ur": "پانامہ سے مفرور اور ’’فراڈ آف دی سنچری‘‘ کے معمار کو حوالگی",
+      "desc_ur": "ایک آخری لمحات میں پانامہ فرار ہو گیا، دوسرا \"صدی کے فراڈ\" کے بعد اسرائیل فرار ہو گیا: بین گوریون ہوائی اڈے پر ایک ڈرامائی ویک اینڈ کا اختتام دو بڑے پیمانے پر حوالگی کے ساتھ ہوا۔"
+    },
+    {
+      "title": "Iran and US continue indirect talks with mediator involvement",
+      "desc": "The ongoing indirect talks highlight the importance of maintaining diplomatic channels to prevent escalation and manage regional tensions.\nThe post Iran and US continue indirect talks with mediator involvement appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-and-us-continue-indirect-talks-with-mediator-involvement/",
+      "time": "2026-07-26T19:06:34",
+      "country": "Iran",
+      "title_ur": "ایران اور امریکہ ثالث کی شمولیت کے ساتھ بالواسطہ بات چیت جاری رکھے ہوئے ہیں۔",
+      "desc_ur": "جاری بالواسطہ بات چیت میں کشیدگی کو روکنے اور علاقائی کشیدگی پر قابو پانے کے لیے سفارتی ذرائع کو برقرار رکھنے کی اہمیت کو اجاگر کیا گیا ہے۔\nThe post ایران اور امریکا کے درمیان ثالث کی شمولیت سے بالواسطہ مذاکرات جاری appeared first on Crypto Briefing."
+    },
+    {
+      "title": "Airstrikes have paused and talks are pressing forward. But can the US and Iran take the off-ramp?",
+      "desc": "WASHINGTON (AP) — The U.S. military has paused its airstrikes on Iran after nearly two weeks of intensifying bombing, while diplomatic efforts have pushed forward to try to avert a return to all-out war. But it remains to be seen whether the U.S. and Iran are…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-chat/4389446/posts",
+      "time": "2026-07-26T19:02:29",
+      "country": "Iran",
+      "title_ur": "فضائی حملے رک گئے ہیں اور بات چیت آگے بڑھ رہی ہے۔ لیکن کیا امریکہ اور ایران آف ریمپ لے سکتے ہیں؟",
+      "desc_ur": "واشنگٹن (اے پی پی) - امریکی فوج نے تقریباً دو ہفتوں کی شدید بمباری کے بعد ایران پر اپنے فضائی حملے روک دیے ہیں، جب کہ سفارتی کوششیں تمام تر جنگ کی واپسی کو روکنے کے لیے آگے بڑھی ہیں۔ لیکن یہ دیکھنا باقی ہے کہ آیا امریکہ اور ایران…"
+    },
+    {
+      "title": "‘We are committed to ensuring financial stability’",
+      "desc": "RBI Governor Sanjay Malhotra emphasizes commitment to financial stability, prioritizing price stability while supporting economic growth amidst inflation risks.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/money-and-banking/we-are-committed-to-ensuring-financial-stability/article71270328.ece",
+      "time": "2026-07-26T19:02:00",
+      "country": "International",
+      "title_ur": "'ہم مالیاتی استحکام کو یقینی بنانے کے لیے پرعزم ہیں'",
+      "desc_ur": "آر بی آئی کے گورنر سنجے ملہوترا مالی استحکام کے عزم پر زور دیتے ہیں، قیمتوں کے استحکام کو ترجیح دیتے ہوئے افراط زر کے خطرات کے درمیان اقتصادی ترقی کی حمایت کرتے ہیں۔"
+    },
+    {
+      "title": "For the first time since its founding: United Arab List to hold primaries",
+      "desc": "For the first time since its founding, United Arab List (Ra'am) will hold party primaries on August 22, according to a report by Channel 12.According to the report, the party's candidate list will be chosen in a vote held separately from the conference of the…",
       "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/430785",
-      "time": "2026-07-26T17:18:59",
+      "url": "https://www.israelnationalnews.com/flashes/690593",
+      "time": "2026-07-26T19:01:17",
       "country": "US",
-      "title_ur": "یہودیہ اور سامریہ: آئی ڈی ایف نے کشیدگی کو روکنے کے لیے بڑے پیمانے پر کریک ڈاؤن شروع کیا۔",
-      "desc_ur": "گزشتہ ہفتے کے دہشت گردانہ حملوں کے بعد، آئی ڈی ایف نے 130 سے ​​زیادہ مطلوب مشتبہ افراد کو گرفتار کیا اور یہودیہ اور سامریہ میں حفاظتی اقدامات کو سخت کر دیا۔"
+      "title_ur": "اپنے قیام کے بعد پہلی بار: پرائمری منعقد کرنے کے لیے متحدہ عرب فہرست",
+      "desc_ur": "چینل 12 کی ایک رپورٹ کے مطابق متحدہ عرب لسٹ (Raam) اپنے قیام کے بعد پہلی بار 22 اگست کو پارٹی پرائمری منعقد کرے گی۔ رپورٹ کے مطابق، پارٹی کے امیدواروں کی فہرست کا انتخاب کانفرنس سے الگ ہونے والی ووٹنگ میں کیا جائے گا۔"
     },
     {
-      "title": "Trump and Zelensky to Meet in Washington this Week",
-      "desc": "U.S. President Donald Trump will meet Ukrainian President Volodymyr Zelensky in Washington, DC, on Tuesday, a White House official confirmed, as diplomatic efforts to end the war with Russia pick up speed. “President Zelensky is slated to meet with President …",
+      "title": "Fed Faces Growing Pressure to Hike Rates as Price Risks Rebound",
+      "desc": "(Bloomberg) -- Federal Reserve officials will head into their policy meeting this week confronting a resurgence in price pressures that could make their deci...",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/economy/policy/articles/fed-faces-growing-pressure-to-hike-rates-as-price-risks-rebound-190000450.html",
+      "time": "2026-07-26T19:00:00",
+      "country": "International",
+      "title_ur": "فیڈ کو قیمتوں میں اضافے کے بڑھتے ہوئے دباؤ کا سامنا ہے کیونکہ قیمت کے خطرات میں اضافہ",
+      "desc_ur": "(بلومبرگ) -- فیڈرل ریزرو کے اہلکار اس ہفتے اپنی پالیسی میٹنگ میں قیمتوں کے دباؤ میں بحالی کا مقابلہ کریں گے جو ان کا فیصلہ کر سکتے ہیں..."
+    },
+    {
+      "title": "Religious Zionist Party unveils Knesset slate following primaries",
+      "desc": "The Religious Zionist Party on Sunday evening announced the results of its primaries for the next Knesset elections, with party chairman Bezalel Smotrich retaining the top spot on the party's list.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/430790",
+      "time": "2026-07-26T18:57:16",
+      "country": "US",
+      "title_ur": "مذہبی صیہونی پارٹی نے پرائمری کے بعد کنیسٹ سلیٹ کی نقاب کشائی کی۔",
+      "desc_ur": "مذہبی صیہونی پارٹی نے اتوار کی شام کو اگلے Knesset انتخابات کے لیے اپنی پرائمری کے نتائج کا اعلان کیا، پارٹی کے چیئرمین Bezalel Smotrich پارٹی کی فہرست میں سرفہرست مقام پر برقرار ہیں۔"
+    },
+    {
+      "title": "Ukraine strikes Iranian vessels in Caspian Sea, Tehran accuses Kyiv of ‘hostile and criminal act’",
+      "desc": "Iran summoned a Ukrainian diplomat in Tehran on Sunday to protest an attack on an Iranian commercial vessel in the Caspian Sea, as the war in the Middle East threatened to overlap with the Ukraine conflict. Iran said the attack left one sailor dead and injure…",
       "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4389436/posts",
-      "time": "2026-07-26T17:18:40",
-      "country": "Russia",
-      "title_ur": "ٹرمپ اور زیلنسکی اس ہفتے واشنگٹن میں ملاقات کریں گے۔",
-      "desc_ur": "امریکی صدر ڈونلڈ ٹرمپ منگل کو واشنگٹن ڈی سی میں یوکرین کے صدر ولادیمیر زیلنسکی سے ملاقات کریں گے، وائٹ ہاؤس کے ایک اہلکار نے تصدیق کی، کیونکہ روس کے ساتھ جنگ ​​کے خاتمے کے لیے سفارتی کوششیں تیز ہو رہی ہیں۔ \"صدر زیلنسکی صدر سے ملاقات کرنے والے ہیں…"
-    },
-    {
-      "title": "Chris Christie: The Trump 'Show Is Over,' No One Is Paying Attention Anymore",
-      "desc": "Former New Jersey Gov. Chris Christie, during an appearance Sunday on ABC's \"This Week,\" claimed no one was paying attention to President Donald Trump.\nThe post Chris Christie: The Trump ‘Show Is Over,’ No One Is Paying Attention Anymore appeared first on Bre…",
-      "source": "Breitbart News",
-      "url": "https://www.breitbart.com/clips/2026/07/26/chris-christie-the-trump-show-is-over-no-one-is-paying-attention-anymore/",
-      "time": "2026-07-26T17:16:13",
-      "country": "US",
-      "title_ur": "کرس کرسٹی: ٹرمپ کا شو ختم ہو گیا، اب کوئی بھی توجہ نہیں دے رہا ہے۔",
-      "desc_ur": "نیو جرسی کے سابق گورنر کرس کرسٹی نے اتوار کو اے بی سی کے \"اس ہفتے\" میں ایک پیشی کے دوران دعویٰ کیا کہ کوئی بھی صدر ڈونلڈ ٹرمپ پر توجہ نہیں دے رہا ہے۔\nThe post کرس کرسٹی: ٹرمپ کا شو ختم، اب کوئی بھی توجہ نہیں دے رہا appeared first on Bre…"
-    },
-    {
-      "title": "U.S. pauses attacks on Iran for a second straight day and Tehran does too",
-      "desc": "The United States paused attacks on Iran for a second straight day Sunday and Tehran said it had done so too, as efforts continued to bring the countries back to negotiations on an interim ceasefire.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/07/26/g-s1-135593/us-pauses-attacks-iran-second-day-tehran",
-      "time": "2026-07-26T17:16:06",
+      "url": "https://freerepublic.com/focus/f-news/4389445/posts",
+      "time": "2026-07-26T18:57:15",
       "country": "Iran",
-      "title_ur": "امریکہ نے مسلسل دوسرے دن ایران پر حملے روکے اور تہران بھی",
-      "desc_ur": "امریکہ نے اتوار کو مسلسل دوسرے دن ایران پر حملوں کو روک دیا اور تہران نے کہا کہ اس نے بھی ایسا کیا ہے، کیونکہ ان ممالک کو عبوری جنگ بندی پر مذاکرات کی طرف واپس لانے کی کوششیں جاری ہیں۔"
+      "title_ur": "یوکرین نے بحیرہ کیسپین میں ایرانی بحری جہازوں پر حملہ کیا، تہران نے کیف پر 'دشمنانہ اور مجرمانہ اقدام' کا الزام لگایا",
+      "desc_ur": "ایران نے اتوار کے روز تہران میں یوکرین کے ایک سفارت کار کو بحیرہ کیسپین میں ایرانی تجارتی بحری جہاز پر حملے پر احتجاج کرنے کے لیے طلب کیا، کیونکہ مشرق وسطیٰ میں جنگ یوکرین کے تنازعے سے دوچار ہونے کا خطرہ ہے۔ ایران نے کہا کہ اس حملے میں ایک ملاح ہلاک اور زخمی ہوا ہے…"
     },
     {
-      "title": "Oil Market's Glut Narrative Just Blew Up",
-      "desc": "Less than a month ago, analysts were warning of a looming glut of crude oil as tanker traffic via the Strait of Hormuz began to recover amid a U.S.-Iran ceasefire. Within days of these warnings, the ceasefire was a painful memory, missiles were flying again, …",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/d14bf1536e75d033",
-      "time": "2026-07-26T17:15:47",
-      "country": "Iran",
-      "title_ur": "آئل مارکیٹ کی گلوٹ بیانیہ نے ابھی اڑا دیا۔",
-      "desc_ur": "ایک ماہ سے بھی کم عرصہ قبل، تجزیہ کاروں نے خام تیل کی بڑھتی ہوئی کمی کے بارے میں انتباہ کیا تھا کیونکہ آبنائے ہرمز کے راستے ٹینکر کی آمدورفت امریکہ اور ایران کے درمیان جنگ بندی کے درمیان بحال ہونا شروع ہوئی تھی۔ ان انتباہات کے چند دنوں کے اندر، جنگ بندی ایک دردناک یاد تھی، میزائل دوبارہ اڑ رہے تھے،…"
-    },
-    {
-      "title": "Map Shows Where Gas Prices Are Over $4 Only 100 Days Before Midterms",
-      "desc": "The price of gasoline has soared past $4 per gallon in 28 states, amid renewed hostilities between the U.S. and Iran, posing a problem for President Donald Trump ahead of the midterm elections taking place 100 days from Sunday.\nStudies by AAA found that 60 pe…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/8918381fd703e17e",
-      "time": "2026-07-26T17:13:43",
-      "country": "Iran",
-      "title_ur": "نقشہ دکھاتا ہے کہ وسط مدتی سے صرف 100 دن پہلے کہاں گیس کی قیمتیں $4 سے زیادہ ہیں۔",
-      "desc_ur": "امریکہ اور ایران کے درمیان نئی دشمنی کے درمیان 28 ریاستوں میں پٹرول کی قیمت 4 ڈالر فی گیلن سے تجاوز کر گئی ہے، جو اتوار سے 100 دن بعد ہونے والے وسط مدتی انتخابات سے قبل صدر ڈونلڈ ٹرمپ کے لیے پریشانی کا باعث ہے۔\nAAA کے مطالعے سے پتا چلا ہے کہ 60 پی…"
-    },
-    {
-      "title": "Netanyahu claims Mamdani ‘celebrated’ Oct. 7 and supported ‘Hamas murderers’ as he pushes back on arrest fiasco",
-      "desc": "Israeli Prime Minister Benjamin Netanyahu gave a stern rebuke of Mayor Zohran Mamdani, accusing Hizzoner — without evidence — of celebrating the Oct. 7, 2023 Hamas attack.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/07/26/us-news/netanyahu-claims-mamdani-celebrated-oct-7-and-supported-hamas-murderers-as-he-pushes-back-on-arrest-fiasco/",
-      "time": "2026-07-26T17:11:30",
+      "title": "Double Lotto NIS 10M winner: \"Waiting to share the news with my combat soldier son\"",
+      "desc": "Central Israel resident checked an old ticket and discovered he became a millionaire: \"My first call was to my wife, I told her: I won the lottery.\"",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/business-and-innovation/all-news/article-903727",
+      "time": "2026-07-26T18:55:28",
       "country": "Israel",
-      "title_ur": "نیتن یاہو کا دعویٰ ہے کہ ممدانی نے 7 اکتوبر کو 'منایا' اور 'حماس کے قاتلوں' کی حمایت کی کیونکہ وہ گرفتاری کی ناکامی پر پیچھے ہٹ گئے",
-      "desc_ur": "اسرائیلی وزیر اعظم بنجمن نیتن یاہو نے میئر ظہران ممدانی کی سخت سرزنش کی، جس میں ہزونر پر - بغیر ثبوت کے - 7 اکتوبر 2023 کو حماس کے حملے کا جشن منانے کا الزام لگایا۔"
+      "title_ur": "ڈبل لوٹو NIS 10M فاتح: \"اپنے لڑاکا سپاہی بیٹے کے ساتھ خبریں شیئر کرنے کا انتظار کر رہا ہوں\"",
+      "desc_ur": "وسطی اسرائیل کے رہائشی نے ایک پرانا ٹکٹ چیک کیا اور پتہ چلا کہ وہ کروڑ پتی بن گیا ہے: \"میری پہلی کال میری بیوی کو تھی، میں نے اسے بتایا: میں نے لاٹری جیت لی ہے۔\""
+    },
+    {
+      "title": "UNESCO adds France's D-Day landing beaches, Greece's Mount Olympus to World Heritage List",
+      "desc": "The UNESCO committee, which meets in Busan through Wednesday, also inscribed the ancient Japanese capitals of Asuka and Fujiwara and South Sudan’s Boma-Badingilo Migratory Landscape, host to one of the world’s largest land mammal migrations and the country’s …",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/unesco-adds-frances-d-day-landing-beaches-greeces-mount-olympus-to-world-heritage-list/articleshow/132647190.cms",
+      "time": "2026-07-26T18:53:45",
+      "country": "UK",
+      "title_ur": "یونیسکو نے فرانس کے ڈی ڈے لینڈنگ ساحلوں، یونان کے ماؤنٹ اولمپس کو عالمی ثقافتی ورثے کی فہرست میں شامل کیا",
+      "desc_ur": "یونیسکو کی کمیٹی، جس کا اجلاس بدھ کے روز بوسان میں ہوتا ہے، اس نے قدیم جاپانی دارالحکومتوں آسوکا اور فوجیواڑہ اور جنوبی سوڈان کے بوما-بڈنگیلو مائیگریٹری لینڈ سکیپ کو بھی لکھا، جو دنیا کے سب سے بڑے زمینی ممالیہ کی ہجرت کا میزبان ہے اور ملک کے…"
+    },
+    {
+      "title": "Lindsey Graham Called Iran War Effort His Greatest Work",
+      "desc": "“Never-before-seen documentary footage released Sunday shows the late Sen. Lindsey Graham calling his multipronged campaign for war with Iran ‘the best thing I’ve ever done’ and comparing President Donald Trump and Israeli Prime Minister Benjamin Netanyahu to…",
+      "source": "Politicalwire.com",
+      "url": "https://politicalwire.com/2026/07/26/lindsey-graham-called-iran-war-effort-his-greatest-work/",
+      "time": "2026-07-26T18:51:30",
+      "country": "Iran",
+      "title_ur": "لنڈسے گراہم نے ایران جنگ کو اپنا سب سے بڑا کام قرار دیا۔",
+      "desc_ur": "اتوار کو جاری ہونے والی اس دستاویزی فلم میں پہلے کبھی نہیں دیکھی گئی فوٹیج میں آنجہانی سینیٹر لنڈسے گراہم نے ایران کے ساتھ جنگ ​​کے لیے اپنی کثیر جہتی مہم کو 'میں نے اب تک کی سب سے بہترین چیز' قرار دیا اور صدر ڈونلڈ ٹرمپ اور اسرائیلی وزیر اعظم بنجمن نیتن یاہو کا موازنہ…"
+    },
+    {
+      "title": "Labor's command and control culture may come with a cost",
+      "desc": "Anthony Albanese's tightly managed Labor conference showcased discipline over dissent. But could shutting down public debate carry risks beyond the party room?",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-07-27/labor-conference-albanese-debate-dissent-unity-cost/106959946",
+      "time": "2026-07-26T18:50:21",
+      "country": "International",
+      "title_ur": "لیبر کا کمانڈ اینڈ کنٹرول کلچر لاگت کے ساتھ آ سکتا ہے۔",
+      "desc_ur": "انتھونی البانی کی سختی سے زیر انتظام لیبر کانفرنس نے اختلاف رائے پر نظم و ضبط کا مظاہرہ کیا۔ لیکن کیا عوامی بحث کو بند کرنے سے پارٹی کے کمرے سے باہر خطرات لاحق ہوسکتے ہیں؟"
     }
   ],
   "pakistan": [
     {
-      "title": "US Central Command recommends halting strikes near Strait of Hormuz: Axios",
-      "desc": "The recommendation to halt strikes may signal a strategic pivot towards de-escalation, impacting market perceptions and diplomatic dynamics.\nThe post US Central Command recommends halting strikes near Strait of Hormuz: Axios appeared first on Crypto Briefing.",
+      "title": "CWG Boxing: Preeti, Jadumani One Win Away From Medals",
+      "desc": "Indian boxers Preeti Pawar and Jadumani Singh have advanced to the quarterfinals of the Commonwealth Games. Preeti, an Asian Games bronze medallist, secured a dominant win in the women's 54kg category, while Jadumani defeated his Pakistani opponent in the men…",
+      "source": "Rediff.com",
+      "url": "https://www.rediff.com/sports/report/preeti-pawar-jadumani-singh-storm-into-commonwealth-games-quarterfinals/20260727.htm",
+      "time": "2026-07-26T19:10:31",
+      "country": "Pakistan",
+      "title_ur": "CWG باکسنگ: پریتی، جادومنی نے تمغوں سے ایک کی جیت",
+      "desc_ur": "ہندوستانی باکسر پریتی پوار اور جادومنی سنگھ کامن ویلتھ گیمز کے کوارٹر فائنل میں پہنچ گئے ہیں۔ ایشین گیمز کی کانسی کا تمغہ جیتنے والی پریتی نے خواتین کے 54 کلوگرام زمرے میں غالب جیت حاصل کی، جبکہ جادومنی نے مردوں میں اپنے پاکستانی حریف کو شکست دی…"
+    },
+    {
+      "title": "India has abandoned restraint, will hit Pak anywhere, says ex-Army chief",
+      "desc": "Former Army chief Gen VP Malik says India has dropped “restraint,” citing Operation Sindoor and readiness to strike Pakistan deep; ceasefire sought as navy neared Karachi.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/goa/india-has-abandoned-restraint-will-hit-pak-anywhere-says-ex-army-chief/articleshow/132647195.cms",
+      "time": "2026-07-26T18:53:55",
+      "country": "Pakistan",
+      "title_ur": "بھارت نے تحمل کا دامن چھوڑ دیا، پاکستان کو کہیں بھی ماریں گے، سابق آرمی چیف",
+      "desc_ur": "سابق آرمی چیف جنرل وی پی ملک کا کہنا ہے کہ بھارت نے آپریشن سندھ اور پاکستان پر گہرے حملے کرنے کی تیاری کا حوالہ دیتے ہوئے \"تحمل\" سے گریز کیا ہے۔ کراچی کے قریب بحریہ کی جانب سے جنگ بندی کی کوشش کی گئی۔"
+    },
+    {
+      "title": "Insurers halt coverage for Saudi-linked ships in Red Sea amid Houthi blockade: FT",
+      "desc": "The halt in coverage signals escalating regional tensions, potentially disrupting global trade and energy routes, impacting market stability.\nThe post Insurers halt coverage for Saudi-linked ships in Red Sea amid Houthi blockade: FT appeared first on Crypto B…",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-central-command-recommends-halting-strikes-near-strait-of-hormuz-axios/",
-      "time": "2026-07-26T17:06:49",
+      "url": "https://cryptobriefing.com/insurers-halt-coverage-for-saudi-linked-ships-in-red-sea-amid-houthi-blockade-ft/",
+      "time": "2026-07-26T18:37:01",
       "country": "Pakistan",
-      "title_ur": "امریکی سینٹرل کمانڈ نے آبنائے ہرمز کے قریب حملوں کو روکنے کی سفارش کی ہے: Axios",
-      "desc_ur": "ہڑتالوں کو روکنے کی سفارش ڈی ایسکلیشن کی طرف ایک اسٹریٹجک محور کا اشارہ دے سکتی ہے، جو مارکیٹ کے تاثرات اور سفارتی حرکیات کو متاثر کرتی ہے۔\nThe post امریکی سینٹرل کمانڈ نے آبنائے ہرمز کے قریب حملے روکنے کی سفارش کردی: ایکسیوس appeared first on Crypto Briefing."
+      "title_ur": "بیمہ کنندگان نے حوثیوں کی ناکہ بندی کے درمیان بحیرہ احمر میں سعودی سے منسلک بحری جہازوں کی کوریج روک دی: ایف ٹی",
+      "desc_ur": "کوریج میں رکاؤ علاقائی کشیدگی کو بڑھاتا ہے، ممکنہ طور پر عالمی تجارت اور توانائی کے راستوں میں خلل ڈالتا ہے، مارکیٹ کے استحکام کو متاثر کرتا ہے۔\nThe post بیمہ کنندگان نے حوثیوں کی ناکہ بندی کے درمیان بحیرہ احمر میں سعودی سے منسلک بحری جہازوں کی کوریج روک دی: FT appeared first on Crypto B…"
     },
     {
-      "title": "Hope carries West Indies to 303-7 at lunch against Pakistan in first test",
-      "desc": "Shai Hope neared a century and led West Indies to 303-7 against Pakistan at lunch on the second day of the first test on Sunday. Pakistan's seamers took four wickets in an extended session as play began half an hour before its scheduled 10 a.m. start to make …",
-      "source": "Yahoo Entertainment",
-      "url": "https://sports.yahoo.com/articles/hope-carries-west-indies-303-170005362.html",
-      "time": "2026-07-26T17:00:05",
+      "title": "PoJK protest group urges UN, OIC to act on Pakistan's human rights abuses",
+      "desc": "The Jammu Kashmir Joint Awami Action Committee has appealed to international bodies. They are highlighting human rights concerns and seeking global attention for their region. The organization emerged from public discontent over economic hardship and governan…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/pojk-protest-group-urges-un-oic-to-act-on-pakistans-human-rights-abuses/articleshow/132646459.cms",
+      "time": "2026-07-26T18:29:43",
       "country": "Pakistan",
-      "title_ur": "ہوپ نے پہلے ٹیسٹ میں پاکستان کے خلاف لنچ تک ویسٹ انڈیز کو 303-7 تک پہنچا دیا۔",
-      "desc_ur": "شائی ہوپ نے سنچری کے قریب پہنچ کر اتوار کو پہلے ٹیسٹ کے دوسرے دن لنچ پر ویسٹ انڈیز کو پاکستان کے خلاف 303-7 تک پہنچا دیا۔ پاکستان کے سیمرز نے ایک توسیعی سیشن میں چار وکٹیں حاصل کیں جب کھیل اس کے مقررہ وقت سے آدھا گھنٹہ قبل شروع ہوا ..."
+      "title_ur": "PoJK کے احتجاجی گروپ نے اقوام متحدہ، OIC سے پاکستان میں انسانی حقوق کی خلاف ورزیوں پر کارروائی کرنے کی اپیل کی ہے۔",
+      "desc_ur": "جموں کشمیر جوائنٹ عوامی ایکشن کمیٹی نے عالمی اداروں سے اپیل کی ہے۔ وہ انسانی حقوق کے تحفظات کو اجاگر کر رہے ہیں اور اپنے خطے کے لیے عالمی توجہ چاہتے ہیں۔ یہ تنظیم معاشی مشکلات اور حکمرانی پر عوامی عدم اطمینان سے ابھری ہے…"
     },
     {
-      "title": "Morgan Stanley sees shift coming for Big Tech investors",
-      "desc": "If your portfolio has been riding the same cluster of mega-cap technology stocks since 2023, Morgan Stanley has a timely warning.\nThe S&P 500climbed about 20% from its April low to a record high near 7,620 on June 2, fueled by optimism over the U.S.–Iran ceas…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/c89e065c2367e324",
-      "time": "2026-07-26T16:45:29",
+      "title": "27th Kargil Vijay Diwas: Any dialogue with Pakistan would solely focus on PoK, says Rajnath Singh",
+      "desc": "Defence Minister Rajnath Singh stated no talks with Pakistan beyond Pakistan-occupied Kashmir.  He emphasized India's capability to counter any Pakistani misadventure severely.  Singh noted Pakistan's state policy of nurturing terrorism and its close ties wit…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/27th-kargil-vijay-diwas-any-dialogue-with-pakistan-would-solely-focus-on-pok-says-rajnath-singh/articleshow/132646467.cms",
+      "time": "2026-07-26T18:22:07",
       "country": "Pakistan",
-      "title_ur": "مورگن اسٹینلے بگ ٹیک کے سرمایہ کاروں کے لیے آنے والی تبدیلی کو دیکھ رہے ہیں۔",
-      "desc_ur": "اگر آپ کا پورٹ فولیو 2023 سے میگا کیپ ٹیکنالوجی اسٹاکس کے اسی کلسٹر پر سوار ہے تو، مورگن اسٹینلے کو بروقت وارننگ ہے۔\nS&P 500 اپریل کی کم ترین سطح سے تقریباً 20% چڑھ کر 2 جون کو 7,620 کے قریب ریکارڈ کی بلند ترین سطح پر پہنچ گیا، جو کہ امریکہ-ایران کی بندش پر پرامید ہے…"
+      "title_ur": "27 واں کارگل وجے دیوس: پاکستان کے ساتھ کوئی بھی بات چیت صرف پی او کے پر مرکوز ہوگی، راج ناتھ سنگھ",
+      "desc_ur": "وزیر دفاع راج ناتھ سنگھ نے کہا کہ پاکستان کے ساتھ مقبوضہ کشمیر سے آگے کوئی بات چیت نہیں ہوگی۔  انہوں نے کسی بھی پاکستانی مہم جوئی کا سختی سے مقابلہ کرنے کی ہندوستان کی صلاحیت پر زور دیا۔  سنگھ نے دہشت گردی کو پروان چڑھانے کی پاکستان کی ریاستی پالیسی اور اس کے قریبی تعلقات کو نوٹ کیا۔"
     }
   ],
   "business": {
@@ -194,19 +214,10 @@
     "city_ur": "لاہور",
     "forecast": [
       {
-        "date": "2026-07-27",
-        "day": "پیر",
-        "high": 35,
-        "low": 28,
-        "condition": "Light Drizzle",
-        "condition_ur": "ہلکی بوندا باندی",
-        "precip": 33
-      },
-      {
         "date": "2026-07-28",
         "day": "منگل",
-        "high": 34,
-        "low": 26,
+        "high": 33,
+        "low": 27,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
         "precip": 82
@@ -224,7 +235,7 @@
         "date": "2026-07-30",
         "day": "جمعرات",
         "high": 33,
-        "low": 24,
+        "low": 26,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
         "precip": 75
@@ -232,8 +243,8 @@
       {
         "date": "2026-07-31",
         "day": "جمعہ",
-        "high": 33,
-        "low": 26,
+        "high": 32,
+        "low": 25,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
         "precip": 90
@@ -241,8 +252,8 @@
       {
         "date": "2026-08-01",
         "day": "ہفتہ",
-        "high": 31,
-        "low": 26,
+        "high": 32,
+        "low": 25,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
         "precip": 69
@@ -251,16 +262,25 @@
         "date": "2026-08-02",
         "day": "اتوار",
         "high": 32,
-        "low": 27,
+        "low": 26,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
         "precip": 65
+      },
+      {
+        "date": "2026-08-03",
+        "day": "پیر",
+        "high": 30,
+        "low": 26,
+        "condition": "Thunderstorm",
+        "condition_ur": "گرج چمک",
+        "precip": 76
       }
     ]
   },
   "date": {
-    "gregorian": "Monday, 27 July 2026",
-    "hijri": "13 Ṣafar 1448",
-    "hijri_ur": "13 صَفَر 1448"
+    "gregorian": "Tuesday, 28 July 2026",
+    "hijri": "14 Ṣafar 1448",
+    "hijri_ur": "14 صَفَر 1448"
   }
 }
