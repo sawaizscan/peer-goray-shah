@@ -1,167 +1,187 @@
 {
-  "generated": "2026-07-29T17:45:53Z",
+  "generated": "2026-07-29T19:04:30Z",
   "world": [
     {
-      "title": "Beed cops arrest Noida software engineer for alleged National Informatics Centre database breach in pan-India vehicle fitness certificate scam",
-      "desc": "Delhi Police SIT arrested Noida engineer Ashish Kadiyan for allegedly breaching NIC database to issue fake vehicle fitness certificates; 15 held, IT Act invoked.",
+      "title": "Heavy rains headed for Ahmedabad this weekend",
+      "desc": "IMD warns Ahmedabad may see heavy rain Fri-Sat as deep depression moves west; very heavy to extremely heavy showers likely across parts of Gujarat.",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/aurangabad/beed-cops-arrest-noida-software-engineer-for-alleged-national-informatics-centre-database-breach-in-pan-india-vehicle-fitness-certificate-scam/articleshow/132691450.cms",
-      "time": "2026-07-28T17:43:56",
-      "country": "India",
-      "title_ur": "بیڈ پولیس نے پین انڈیا گاڑی فٹنس سرٹیفکیٹ گھوٹالے میں نیشنل انفارمیٹکس سینٹر ڈیٹا بیس کی خلاف ورزی کے الزام میں نوئیڈا کے سافٹ ویئر انجینئر کو گرفتار کیا",
-      "desc_ur": "دہلی پولیس ایس آئی ٹی نے نوئیڈا کے انجینئر آشیش کدیان کو جعلی گاڑی فٹنس سرٹیفکیٹ جاری کرنے کے لیے این آئی سی ڈیٹا بیس کی خلاف ورزی کرنے کے الزام میں گرفتار کیا۔ 15 پکڑے گئے، آئی ٹی ایکٹ کی درخواست کی گئی۔"
-    },
-    {
-      "title": "Fadnavis positive on Pune-Thane style redevelopment boost for Nashik city, say developers",
-      "desc": "CM Devendra Fadnavis signals Pune-Thane style redevelopment incentives for Nashik, including FSI/height relief and possible TDR reforms to spur projects.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/nashik/fadnavis-positive-on-pune-thane-style-redevelopment-boost-for-nashik-city-say-developers/articleshow/132691507.cms",
-      "time": "2026-07-28T17:43:34",
+      "url": "https://timesofindia.indiatimes.com/city/ahmedabad/heavy-rains-headed-for-ahmedabad-this-weekend/articleshow/132693727.cms",
+      "time": "2026-07-28T19:03:16",
       "country": "International",
-      "title_ur": "ڈیولپرز کا کہنا ہے کہ ناسک شہر کے لیے پونے-تھانے طرز کی تعمیر نو کو فروغ دینے پر فڈنویس مثبت ہیں",
-      "desc_ur": "سی ایم دیویندر فڈنویس نے ناسک کے لیے پونے-تھانے طرز کی تعمیر نو کی ترغیبات کا اشارہ کیا، بشمول ایف ایس آئی/اونچائی میں ریلیف اور پروجیکٹوں کی حوصلہ افزائی کے لیے ممکنہ ٹی ڈی آر اصلاحات۔"
+      "title_ur": "اس ہفتے کے آخر میں احمد آباد کی طرف موسلادھار بارش ہوئی۔",
+      "desc_ur": "آئی ایم ڈی نے خبردار کیا کہ احمد آباد میں جمعہ سے ہفتہ کو شدید بارش ہو سکتی ہے کیونکہ گہرا ڈپریشن مغرب کی طرف جاتا ہے۔ گجرات کے مختلف حصوں میں بہت بھاری سے انتہائی موسلادھار بارش کا امکان ہے۔"
     },
     {
-      "title": "KMC appoints 16 borough-level officials as registrars to issue death certificates",
-      "desc": "Kolkata Municipal Corporation appoints 16 borough registrars to resume birth/death certificates after crematorium sub-registrars were barred, leaving 1,300+ families waiting.",
+      "title": "Principal suspended, PT teacher fired",
+      "desc": "Surat Municipal School No. 16 principal suspended and PT teacher removed after Class IX student death; inquiry ordered into negligence and safety maintenance lapses.",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/kolkata/kmc-appoints-16-borough-level-officials-as-registrars-to-issue-death-certificates/articleshow/132691496.cms",
-      "time": "2026-07-28T17:43:19",
-      "country": "International",
-      "title_ur": "کے ایم سی نے ڈیتھ سرٹیفکیٹ جاری کرنے کے لیے بارو سطح کے 16 افسران کو رجسٹرار کے طور پر مقرر کیا۔",
-      "desc_ur": "کولکتہ میونسپل کارپوریشن نے شمشان کے سب رجسٹراروں کو روکے جانے کے بعد پیدائش/موت کے سرٹیفکیٹس کو دوبارہ شروع کرنے کے لیے 16 بورو رجسٹراروں کا تقرر کیا، جس سے 1,300+ خاندان انتظار کر رہے ہیں۔"
-    },
-    {
-      "title": "alchemy-filterset added to PyPI",
-      "desc": "A dynamic, Django-like filterset architecture for SQLAlchemy & Advanced Alchemy.",
-      "source": "Pypi.org",
-      "url": "https://pypi.org/project/alchemy-filterset/",
-      "time": "2026-07-28T17:43:19",
-      "country": "International",
-      "title_ur": "pyPI میں alchemy-filterset شامل کیا گیا۔",
-      "desc_ur": "SQLAlchemy اور Advanced Alchemy کے لیے ایک متحرک، Django جیسا فلٹر سیٹ فن تعمیر۔"
-    },
-    {
-      "title": "No delimitation draft yet, KMC misses July 27 deadline",
-      "desc": "Kolkata Municipal Corporation’s delimitation report missed the July 27 draft deadline, delaying plans to expand wards from 144 to 200 and balance voter counts.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/kolkata/no-delimitation-draft-yet-kmc-misses-july-27-deadline/articleshow/132691476.cms",
-      "time": "2026-07-28T17:43:08",
-      "country": "International",
-      "title_ur": "ابھی تک کوئی حد بندی کا مسودہ نہیں، KMC 27 جولائی کی آخری تاریخ سے محروم ہے۔",
-      "desc_ur": "کولکتہ میونسپل کارپوریشن کی حد بندی رپورٹ 27 جولائی کے مسودے کی آخری تاریخ سے محروم رہی، جس سے وارڈوں کو 144 سے 200 تک بڑھانے اور ووٹروں کی تعداد کو متوازن کرنے کے منصوبوں میں تاخیر ہوئی۔"
-    },
-    {
-      "title": "Grievance cells to take load off ‘Mukho Mukhi’",
-      "desc": "West Bengal to launch daily civic grievance cells (10am–6pm) with nodal officers in all municipal bodies; masterplan planned to fix Howrah waterlogging and drainage.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/kolkata/grievance-cells-to-take-load-off-mukho-mukhi/articleshow/132691472.cms",
-      "time": "2026-07-28T17:42:53",
-      "country": "UK",
-      "title_ur": "شکایات سیل 'مکھو مکھی' سے بوجھ اتاریں گے",
-      "desc_ur": "مغربی بنگال تمام میونسپل اداروں میں نوڈل افسروں کے ساتھ روزانہ شہری شکایت سیل (صبح 10 تا 6 شام) شروع کرے گا۔ ہاوڑہ میں پانی جمع ہونے اور نکاسی آب کو ٹھیک کرنے کے لیے ماسٹر پلان بنایا گیا۔"
-    },
-    {
-      "title": "Sub-inspector arrested for demanding Rs 50,000 bribe from retired cop in Sambhajinagar",
-      "desc": "ACB arrests EOW PSI Chandrakant Kamthe in Chhatrapati Sambhajinagar for allegedly demanding Rs 50,000 bribe from a retired PSI to register cheating case.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/aurangabad/sub-inspector-arrested-for-demanding-rs-50000-bribe-from-retired-cop-in-sambhajinagar/articleshow/132691461.cms",
-      "time": "2026-07-28T17:42:32",
-      "country": "International",
-      "title_ur": "سمبھاجی نگر میں ریٹائرڈ پولیس اہلکار سے 50 ہزار روپے رشوت مانگنے پر سب انسپکٹر گرفتار",
-      "desc_ur": "ACB نے EOW PSI چندرکانت کامتھے کو چھترپتی سمبھاجی نگر میں دھوکہ دہی کا مقدمہ درج کرنے کے لیے ایک ریٹائرڈ PSI سے 50,000 روپے رشوت مانگنے کے الزام میں گرفتار کیا۔"
-    },
-    {
-      "title": "Badrinath donation theft: Police get 4-day custody of prime accused",
-      "desc": "Police in the Badrinath donation theft case got 4-day custody of prime accused Pramod Nautiyal to question him and recover missing offering money and evidence.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/dehradun/badrinath-donation-theft-police-get-4-day-custody-of-prime-accused/articleshow/132691454.cms",
-      "time": "2026-07-28T17:42:09",
+      "url": "https://timesofindia.indiatimes.com/city/surat/principal-suspended-pt-teacher-fired/articleshow/132693713.cms",
+      "time": "2026-07-28T19:02:29",
       "country": "US",
-      "title_ur": "بدری ناتھ عطیہ چوری: پولیس نے مرکزی ملزم کو 4 دن کی تحویل میں لے لیا۔",
-      "desc_ur": "بدری ناتھ عطیہ چوری کیس میں پولیس نے مرکزی ملزم پرمود نوتیال کی 4 دن کی تحویل میں حاصل کیا تاکہ اس سے پوچھ گچھ کی جا سکے اور گمشدہ رقم اور ثبوت برآمد کر سکیں۔"
+      "title_ur": "پرنسپل معطل، پی ٹی ٹیچر برطرف",
+      "desc_ur": "سورت میونسپل اسکول نمبر 16 کے پرنسپل کو معطل کر دیا گیا اور نویں جماعت کے طالب علم کی موت کے بعد پی ٹی ٹیچر کو ہٹا دیا گیا۔ لاپرواہی اور حفاظتی دیکھ بھال کی خامیوں کی انکوائری کا حکم دیا۔"
     },
     {
-      "title": "Woman held for strangling 3-year-old son to death",
-      "desc": "Mathura woman arrested for allegedly strangling her 3-year-old son while disciplining him; FIR filed under Section 105 after confession surfaced.",
+      "title": "Farmer proposes fruit tree planting initiatives to feed birds, animals",
+      "desc": "Peraiyur farmer urges Tamil Nadu to plant native fruit trees in forests and public spaces to feed birds and wildlife, reduce human-animal conflict, and ease water scarcity.",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/agra/woman-held-for-strangling-3-year-old-son-to-death/articleshow/132691444.cms",
-      "time": "2026-07-28T17:41:48",
+      "url": "https://timesofindia.indiatimes.com/city/madurai/farmer-proposes-fruit-tree-planting-initiatives-to-feed-birds-animals/articleshow/132693709.cms",
+      "time": "2026-07-28T19:02:08",
       "country": "International",
-      "title_ur": "3 سالہ بیٹے کو گلا دبا کر قتل کرنے والی خاتون گرفتار",
-      "desc_ur": "متھرا کی خاتون اپنے 3 سالہ بیٹے کو تادیب کرتے ہوئے گلا گھونٹنے کے الزام میں گرفتار اعتراف جرم منظر عام پر آنے کے بعد دفعہ 105 کے تحت ایف آئی آر درج کی گئی۔"
+      "title_ur": "کسان پرندوں، جانوروں کو کھانا کھلانے کے لیے پھل دار درخت لگانے کے اقدامات کی تجویز پیش کرتا ہے۔",
+      "desc_ur": "پیرائیور کے کسان نے تمل ناڈو پر زور دیا کہ وہ جنگلات اور عوامی مقامات پر پرندوں اور جنگلی حیات کو کھانا کھلانے، انسانوں اور جانوروں کے تنازعہ کو کم کرنے اور پانی کی کمی کو کم کرنے کے لیے مقامی پھلوں کے درخت لگائے۔"
     },
     {
-      "title": "Delhi man held, Rs 25 lakh recovered in Mathura theft case",
-      "desc": "Delhi man Akshay arrested in Mathura for Rs 25 lakh theft using fake vehicle fault trick; cash and motorcycle recovered; BNS sections added, accomplice sought.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/agra/delhi-man-held-rs-25-lakh-recovered-in-mathura-theft-case/articleshow/132691439.cms",
-      "time": "2026-07-28T17:41:28",
-      "country": "India",
-      "title_ur": "متھرا چوری کیس میں دہلی کا شخص گرفتار، 25 لاکھ روپے برآمد",
-      "desc_ur": "دہلی کا شخص اکشے متھرا میں 25 لاکھ روپے کی چوری کے الزام میں گرفتار نقدی اور موٹر سائیکل برآمد بی این ایس کے حصے شامل کیے گئے، ساتھی کی تلاش کی گئی۔"
+      "title": "Zelenskyy and Netanyahu meet with Trump as wars on Russia and Iran converge",
+      "desc": "Zelenskyy’s case for increased American support has been boosted by a series of deep drone-strike successes inside Russia and one on an Iranian ship in Caspian Sea",
+      "source": "National Post",
+      "url": "https://nationalpost.com/news/world/zelenskyy-and-netanyahu-meet-with-trump-as-wars-on-russia-and-iran-converge",
+      "time": "2026-07-28T19:02:04",
+      "country": "Iran",
+      "title_ur": "زیلنسکی اور نیتن یاہو نے ٹرمپ سے ملاقات کی جب روس اور ایران پر جنگیں آپس میں مل گئیں۔",
+      "desc_ur": "زیلنسکی کے بڑھتے ہوئے امریکی حمایت کے معاملے کو روس کے اندر ڈرون حملے کی کامیابیوں اور بحیرہ کیسپین میں ایک ایرانی بحری جہاز پر کامیابیوں کے ایک سلسلے سے تقویت ملی ہے۔"
     },
     {
-      "title": "Congress questions Maharashtra CET results of BJP corporator’s twins; father denies irregularities",
-      "desc": "Congress alleges irregularities in MH-CET after BJP corporator’s twins scored ~99 percentile despite lower Class XII and JEE results; father denies, welcomes probe.",
+      "title": "Piyush Mordia — an IPS officer with Harvard degree and Red Corridor experience",
+      "desc": "Piyush Mordia, 1998-batch IPS with Harvard Kennedy School MPA and Red Corridor anti-Naxal experience, appointed new Prayagraj police commissioner.",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/aurangabad/congress-questions-maharashtra-cet-results-of-bjp-corporators-twins-father-denies-irregularities/articleshow/132691436.cms",
-      "time": "2026-07-28T17:41:25",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/piyush-mordia-an-ips-officer-with-harvard-degree-and-red-corridor-experience/articleshow/132693703.cms",
+      "time": "2026-07-28T19:01:39",
+      "country": "US",
+      "title_ur": "پیوش موردیا — ہارورڈ ڈگری اور ریڈ کوریڈور کا تجربہ رکھنے والے ایک IPS افسر",
+      "desc_ur": "پیوش موردیا، ہارورڈ کینیڈی اسکول کے ایم پی اے اور ریڈ کوریڈور مخالف نکسل تجربہ کے ساتھ 1998 بیچ کے آئی پی ایس، پریاگ راج کے نئے پولیس کمشنر مقرر ہوئے۔"
+    },
+    {
+      "title": "Commissionerate system is about greater responsibility: Mordia",
+      "desc": "Prayagraj Police Commissioner Piyush Mordia says commissionerate system boosts accountability, faster decisions and preventive policing with magisterial powers.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/commissionerate-system-is-about-greater-responsibility-mordia/articleshow/132693702.cms",
+      "time": "2026-07-28T19:01:27",
+      "country": "US",
+      "title_ur": "کمشنریٹ نظام زیادہ ذمہ داری کے بارے میں ہے: موردیا",
+      "desc_ur": "پریاگ راج کے پولیس کمشنر پیوش موردیا کا کہنا ہے کہ کمشنریٹ نظام احتساب، تیز فیصلوں اور مجسٹریٹ کے اختیارات کے ساتھ انسدادی پولیسنگ کو فروغ دیتا ہے۔"
+    },
+    {
+      "title": "Make model guidelines for elephant upkeep in 4 weeks: MP HC",
+      "desc": "MP High Court gave the state 4 weeks to draft SC-mandated model guidelines for upkeep and rehabilitation of captured wild elephants straying from Chhattisgarh.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/bhopal/make-model-guidelines-for-elephant-upkeep-in-4-weeks-mp-hc/articleshow/132693695.cms",
+      "time": "2026-07-28T19:01:17",
       "country": "International",
-      "title_ur": "کانگریس نے مہاراشٹر میں بی جے پی کارپوریٹر کے جڑواں بچوں کے سی ای ٹی کے نتائج پر سوال اٹھایا۔ والد بے ضابطگیوں سے انکار کرتے ہیں۔",
-      "desc_ur": "کانگریس نے ایم ایچ-سی ای ٹی میں بے ضابطگیوں کا الزام لگایا جب بی جے پی کارپوریٹر کے جڑواں بچوں نے بارہویں جماعت اور جے ای ای کے کم نتائج کے باوجود ~ 99 پرسنٹائل حاصل کیا۔ والد نے تردید کی، تحقیقات کا خیرمقدم کیا۔"
+      "title_ur": "ہاتھیوں کی دیکھ بھال کے لیے 4 ہفتوں میں ماڈل گائیڈ لائنز بنائیں: ایم پی ہائی کورٹ",
+      "desc_ur": "ایم پی ہائی کورٹ نے ریاست کو چھتیس گڑھ سے بھٹک کر پکڑے گئے جنگلی ہاتھیوں کی دیکھ بھال اور باز آبادکاری کے لیے ایس سی کے لازمی ماڈل رہنما خطوط کا مسودہ تیار کرنے کے لیے 4 ہفتوں کا وقت دیا۔"
     },
     {
-      "title": "Christianity in China: Testing Religious Freedom",
-      "desc": "Insights from Paul H. B. Chang.",
-      "source": "The Diplomat",
-      "url": "https://thediplomat.com/2026/07/christianity-in-china-testing-religious-freedom/",
-      "time": "2026-07-28T17:41:00",
-      "country": "China",
-      "title_ur": "چین میں عیسائیت: مذہبی آزادی کی جانچ",
-      "desc_ur": "پال ایچ بی چانگ کی بصیرتیں۔"
-    },
-    {
-      "title": "New legal hurdle to further delay reconstruction of historic Tripunithura Iron Bridge",
-      "desc": "High Court petition over alleged land acquisition rule violations delays reconstruction of Tripunithura’s 128-year-old Iron Bridge; land, compensation stalled.",
+      "title": "HC seeks interim report on paid menstrual leave policy",
+      "desc": "Madras HC directs Tamil Nadu to file an interim report on forming a committee and framing rules for a paid menstrual leave policy for women in govt and private sectors.",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/kochi/new-legal-hurdle-to-further-delay-reconstruction-of-historic-tripunithura-iron-bridge/articleshow/132691401.cms",
-      "time": "2026-07-28T17:40:29",
+      "url": "https://timesofindia.indiatimes.com/city/madurai/hc-seeks-interim-report-on-paid-menstrual-leave-policy/articleshow/132693692.cms",
+      "time": "2026-07-28T19:00:59",
       "country": "International",
-      "title_ur": "تاریخی تریپونیتھورا آئرن برج کی تعمیر نو میں مزید تاخیر کے لیے نئی قانونی رکاوٹ",
-      "desc_ur": "حصول اراضی کے اصول کی مبینہ خلاف ورزیوں پر ہائی کورٹ کی عرضی تریپونیتھورا کے 128 سال پرانے لوہے کے پل کی تعمیر نو میں تاخیر کرتی ہے۔ زمین، معاوضہ رک گیا۔"
+      "title_ur": "ہائی کورٹ نے ماہواری کی تنخواہ کی چھٹی کی پالیسی پر عبوری رپورٹ طلب کر لی",
+      "desc_ur": "مدراس ہائی کورٹ نے تمل ناڈو کو ہدایت کی ہے کہ وہ ایک کمیٹی کی تشکیل اور سرکاری اور نجی شعبوں میں خواتین کے لیے ماہواری کی تنخواہ کی چھٹی کی پالیسی کے لیے قواعد وضع کرنے کے بارے میں ایک عبوری رپورٹ داخل کرے۔"
     },
     {
-      "title": "Bombay high court’s Kolhapur bench denies bail to 2 directors of investment firm linked to Rs 2,000cr Ponzi scam",
-      "desc": "HC investment fraud case: A S Traders’ alleged Ponzi scheme drew 1.17 lakh IDs, moved Rs 2,030 crore via 26 accounts; FIRs filed across Maharashtra.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/kolhapur/bombay-high-courts-kolhapur-bench-denies-bail-to-2-directors-of-investment-firm-linked-to-rs-2000cr-ponzi-scam/articleshow/132691391.cms",
-      "time": "2026-07-28T17:39:44",
-      "country": "International",
-      "title_ur": "بمبئی ہائی کورٹ کی کولہاپور بنچ نے 2,000 کروڑ روپے کے پونزی گھوٹالے سے منسلک سرمایہ کاری فرم کے 2 ڈائریکٹروں کی ضمانت مسترد کردی",
-      "desc_ur": "HC سرمایہ کاری دھوکہ دہی کیس: A S Traders کی مبینہ Ponzi اسکیم نے 1.17 لاکھ IDs نکالے، 26 اکاؤنٹس کے ذریعے 2,030 کروڑ روپے منتقل کیے؛ پورے مہاراشٹر میں ایف آئی آر درج۔"
+      "title": "FIFA could sell private equity stake in World Cup in pure money grab",
+      "desc": "There are no more perfect bedfellows on planet earth than FIFA and private equity. So while this story will send a shiver down your spine, it’s not in the least bit shocking. After an incredibly successful North American World Cup that saw record ratings and …",
+      "source": "Awful Announcing",
+      "url": "https://awfulannouncing.com/soccer/fifa-private-equity-stake-world-cup-money-grab.html",
+      "time": "2026-07-28T19:00:53",
+      "country": "US",
+      "title_ur": "فیفا ورلڈ کپ میں پرائیویٹ ایکویٹی حصص خالص رقم کے حصول میں بیچ سکتا ہے۔",
+      "desc_ur": "سیارے کی زمین پر فیفا اور نجی ایکویٹی سے زیادہ کامل بیڈ فیلو کوئی نہیں ہے۔ لہذا جب کہ یہ کہانی آپ کی ریڑھ کی ہڈی کو ہلا کر رکھ دے گی، یہ کم از کم چونکانے والی بات نہیں ہے۔ ناقابل یقین حد تک کامیاب نارتھ امریکن ورلڈ کپ کے بعد جس نے ریکارڈ ریٹنگ دیکھی اور…"
     },
     {
-      "title": "Sangli man sentenced to death for killing wife by setting her ablaze & slitting throat",
-      "desc": "Sangli court sentences man to death for 2021 murder of wife, citing extreme brutality; petrol burning and throat slitting. Verdict awaits Bombay HC confirmation.",
+      "title": "Fintan Drury: Israel’s forthcoming election offers little hope for Palestine",
+      "desc": "As Benjamin Netanyahu faces an uncertain political future, those seeking to replace him may compete by offering equally hardline policies, or worse.",
+      "source": "TheJournal.ie",
+      "url": "https://www.thejournal.ie/readme/netanyahu-and-trump-7115497-Jul2026/",
+      "time": "2026-07-28T19:00:36",
+      "country": "Israel",
+      "title_ur": "فنٹن ڈریری: اسرائیل کے آئندہ انتخابات سے فلسطین کے لیے بہت کم امید ہے۔",
+      "desc_ur": "چونکہ بینجمن نیتن یاہو کو ایک غیر یقینی سیاسی مستقبل کا سامنا ہے، اس لیے ان کی جگہ لینے کی کوشش کرنے والے یکساں طور پر سخت گیر پالیسیاں پیش کر کے مقابلہ کر سکتے ہیں، یا اس سے بھی بدتر۔"
+    },
+    {
+      "title": "Power bills to get costlier as fuel surcharge rises to 3.77%",
+      "desc": "Madhya Pradesh power bills rise as monthly fuel surcharge (FPPAS) increases to 3.77% for July 24–Aug 23 bills, up from 1.11%; 2026-27 tariff hike remains 4.8%.",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/kolhapur/sangli-man-sentenced-to-death-for-killing-wife-by-setting-her-ablaze-slitting-throat/articleshow/132691382.cms",
-      "time": "2026-07-28T17:39:07",
+      "url": "https://timesofindia.indiatimes.com/city/bhopal/power-bills-to-get-costlier-as-fuel-surcharge-rises-to-3-77/articleshow/132693684.cms",
+      "time": "2026-07-28T19:00:32",
       "country": "International",
-      "title_ur": "سانگلی: بیوی کو جلا کر گلا کاٹ کر قتل کرنے والے شخص کو سزائے موت",
-      "desc_ur": "سانگلی کی عدالت نے انتہائی سفاکیت کا حوالہ دیتے ہوئے 2021 میں بیوی کے قتل کے الزام میں ایک شخص کو سزائے موت سنائی۔ پٹرول جلانا اور گلا کاٹنا۔ فیصلہ بمبئی ہائی کورٹ کی تصدیق کا منتظر ہے۔"
+      "title_ur": "فیول سرچارج 3.77 فیصد بڑھنے سے بجلی کے بل مہنگے",
+      "desc_ur": "مدھیہ پردیش کے بجلی کے بل 24 جولائی تا 23 اگست کے لیے ماہانہ فیول سرچارج (FPPAS) کے بڑھ کر 3.77% ہو گئے، جو کہ 1.11% سے زیادہ ہے۔ 2026-27 ٹیرف میں اضافہ 4.8 فیصد برقرار ہے۔"
+    },
+    {
+      "title": "Two schoolchildren die in Surat, Dhrangadhra",
+      "desc": "Two Gujarat schoolchildren died: a Surat Class IX student electrocuted during PT on a school terrace, and a Dhrangadhra KG boy fell through a bus floor.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/surat/two-schoolchildren-die-in-surat-dhrangadhra/articleshow/132693680.cms",
+      "time": "2026-07-28T19:00:05",
+      "country": "US",
+      "title_ur": "سورت، دھرنگدھرا میں دو اسکولی بچوں کی موت",
+      "desc_ur": "گجرات کے دو اسکولی بچوں کی موت: سورت کا نویں جماعت کا ایک طالب علم اسکول کی چھت پر پی ٹی کے دوران بجلی کا کرنٹ لگ گیا، اور ایک دھرانگدھرا KG لڑکا بس کے فرش سے گر گیا۔"
+    },
+    {
+      "title": "'I realise now I got overtures': It took Taylor a minute to figure politics out",
+      "desc": "In an interview for Kitchen Cabinet, the opposition leader recalls feeling a sense of overwhelm and reverence for the parliament when first he took his seat there.",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-07-29/angus-taylor-kitchen-cabinet-rhodes-scholarship-infrastructure/106965384",
+      "time": "2026-07-28T19:00:00",
+      "country": "International",
+      "title_ur": "'مجھے اب احساس ہے کہ مجھے اوورچرز مل گئے ہیں': ٹیلر کو سیاست کا پتہ لگانے میں ایک منٹ لگا",
+      "desc_ur": "کچن کیبنٹ کے لیے دیے گئے ایک انٹرویو میں، اپوزیشن لیڈر نے یاد کیا کہ جب انہوں نے پہلی بار وہاں اپنی نشست سنبھالی تو وہ پارلیمنٹ کے لیے زبردست اور احترام کا احساس رکھتے تھے۔"
+    },
+    {
+      "title": "OPEC+ Prepares to Stop Raising Oil Output Targets",
+      "desc": "OPEC+ is preparing to approve one more production increase for September and then put the monthly quota parade on hold through the end of the year. Saudi Arabia, Russia, Iraq, Kuwait, Algeria, Kazakhstan, and Oman are expected to raise their combined Septembe…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/OPEC-Prepares-to-Stop-Raising-Oil-Output-Targets.html",
+      "time": "2026-07-28T19:00:00",
+      "country": "Iran",
+      "title_ur": "OPEC+ تیل کی پیداوار کے اہداف میں اضافہ روکنے کی تیاری کر رہا ہے۔",
+      "desc_ur": "OPEC+ ستمبر کے لیے پیداوار میں ایک اور اضافے کی منظوری دینے کی تیاری کر رہا ہے اور پھر ماہانہ کوٹہ پریڈ کو سال کے آخر تک روک دے گا۔ توقع ہے کہ سعودی عرب، روس، عراق، کویت، الجزائر، قازقستان اور عمان اپنے مشترکہ ستمبر میں اضافہ کریں گے…"
+    },
+    {
+      "title": "U.S. Sale Of Venezuela’s Oil Hits $13 Billion Since Trump’s Takeover",
+      "desc": "President Donald Trump revealed on Monday that sales of Venezuela’s oil by his administration have generated more than $13 billion since the capture of former President Nicolás Maduro on January 3, claiming that the revenue has effectively “paid for that war …",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/US-Sale-Of-Venezuelas-Oil-Hits-13-Billion-Since-Trumps-Takeover.html",
+      "time": "2026-07-28T19:00:00",
+      "country": "US",
+      "title_ur": "ٹرمپ کے اقتدار سنبھالنے کے بعد وینزویلا کے تیل کی امریکی فروخت 13 بلین ڈالر تک پہنچ گئی",
+      "desc_ur": "صدر ڈونلڈ ٹرمپ نے پیر کے روز انکشاف کیا کہ 3 جنوری کو سابق صدر نکولس مادورو کی گرفتاری کے بعد سے ان کی انتظامیہ کی طرف سے وینزویلا کے تیل کی فروخت سے 13 بلین ڈالر سے زیادہ کی آمدنی ہوئی ہے، اور یہ دعویٰ کیا کہ آمدنی نے مؤثر طریقے سے \"اس جنگ کے لیے ادائیگی کی ہے …"
     }
   ],
   "pakistan": [
     {
-      "title": "Pakistan warns of potential US ground assault on Iran’s coast",
-      "desc": "A potential U.S. ground assault on Iran's coast could heighten geopolitical tensions, complicate diplomacy, and impact market dynamics.\nThe post Pakistan warns of potential US ground assault on Iran’s coast appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/pakistan-warns-of-potential-us-ground-assault-on-irans-coast/",
-      "time": "2026-07-28T17:36:38",
+      "title": "PoK violence: 20 dead in clashes over rigged elections, JAAC says",
+      "desc": "Violence has escalated in Pakistan-occupied Kashmir with clashes reported between protesters and authorities.  Activists are protesting against alleged rigged elections and undue interference from Islamabad.  The Joint Awami Action Committee claims at least t…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/pakistan-occupied-kashmir-violence-20-dead-in-clashes-over-rigged-elections-jaac-says/articleshow/132693381.cms",
+      "time": "2026-07-28T18:56:44",
       "country": "Pakistan",
-      "title_ur": "پاکستان نے ایران کے ساحل پر ممکنہ امریکی زمینی حملے سے خبردار کیا ہے۔",
-      "desc_ur": "ایران کے ساحل پر ممکنہ امریکی زمینی حملہ جغرافیائی سیاسی کشیدگی کو بڑھا سکتا ہے، سفارت کاری کو پیچیدہ بنا سکتا ہے اور مارکیٹ کی حرکیات کو متاثر کر سکتا ہے۔\nThe post پاکستان نے ایران کے ساحل پر ممکنہ امریکی زمینی حملے سے خبردار کردیا appeared first on Crypto Briefing."
+      "title_ur": "PoK تشدد: دھاندلی زدہ انتخابات پر جھڑپوں میں 20 ہلاک، JAAC کا کہنا ہے۔",
+      "desc_ur": "پاکستانی مقبوضہ کشمیر میں مظاہرین اور حکام کے درمیان جھڑپوں کی اطلاع کے ساتھ تشدد میں اضافہ ہوا ہے۔  کارکنان مبینہ دھاندلی زدہ انتخابات اور اسلام آباد کی بے جا مداخلت کے خلاف احتجاج کر رہے ہیں۔  مشترکہ عوامی ایکشن کمیٹی کا دعویٰ ہے کہ کم از کم..."
+    },
+    {
+      "title": "PM SHRI data shows Sanskrit dominance over regional languages: Madurai MP",
+      "desc": "Parliament data on PM SHRI schools shows 41 Sanskrit teachers vs 12 regional-language teachers in Tamil Nadu, prompting CPM MP S Venkatesan to question priorities.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/madurai/pm-shri-data-shows-sanskrit-dominance-over-regional-languages-madurai-mp/articleshow/132693590.cms",
+      "time": "2026-07-28T18:55:32",
+      "country": "Pakistan",
+      "title_ur": "PM SHRI ڈیٹا علاقائی زبانوں پر سنسکرت کا غلبہ ظاہر کرتا ہے: مدورائی ایم پی",
+      "desc_ur": "PM SHRI اسکولوں کے بارے میں پارلیمنٹ کے اعداد و شمار سے پتہ چلتا ہے کہ تمل ناڈو میں 41 سنسکرت اساتذہ بمقابلہ 12 علاقائی زبان کے اساتذہ ہیں، جو CPM ایم پی ایس وینکٹیشن کو ترجیحات پر سوال کرنے پر اکساتے ہیں۔"
+    },
+    {
+      "title": "Oil prices are cratering on renewed optimism for a US-Iran peace deal",
+      "desc": "Oil prices have plunged this week, tumbling on fresh hopes that the US and Iran could soon renew talks to end the war.",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/oil-prices-falling-us-iran-peace-deal-trump-inflation-econpmy-2026-7#article",
+      "time": "2026-07-28T18:54:22",
+      "country": "Pakistan",
+      "title_ur": "تیل کی قیمتیں امریکہ اور ایران کے امن معاہدے کے لیے نئی امیدوں پر زور دے رہی ہیں۔",
+      "desc_ur": "اس ہفتے تیل کی قیمتوں میں کمی آئی ہے، جس سے نئی امیدوں پر پانی پھر گیا ہے کہ امریکہ اور ایران جلد ہی جنگ کے خاتمے کے لیے مذاکرات کی تجدید کر سکتے ہیں۔"
     }
   ],
   "business": {
@@ -174,28 +194,19 @@
     "city_ur": "لاہور",
     "forecast": [
       {
-        "date": "2026-07-29",
-        "day": "بدھ",
-        "high": 32,
-        "low": 27,
-        "condition": "Light Drizzle",
-        "condition_ur": "ہلکی بوندا باندی",
-        "precip": 54
-      },
-      {
         "date": "2026-07-30",
         "day": "جمعرات",
         "high": 34,
-        "low": 25,
-        "condition": "Drizzle",
-        "condition_ur": "بوندا باندی",
+        "low": 27,
+        "condition": "Thunderstorm",
+        "condition_ur": "گرج چمک",
         "precip": 66
       },
       {
         "date": "2026-07-31",
         "day": "جمعہ",
         "high": 32,
-        "low": 25,
+        "low": 26,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
         "precip": 92
@@ -203,7 +214,7 @@
       {
         "date": "2026-08-01",
         "day": "ہفتہ",
-        "high": 32,
+        "high": 33,
         "low": 26,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
@@ -213,7 +224,7 @@
         "date": "2026-08-02",
         "day": "اتوار",
         "high": 32,
-        "low": 25,
+        "low": 26,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
         "precip": 59
@@ -221,8 +232,8 @@
       {
         "date": "2026-08-03",
         "day": "پیر",
-        "high": 33,
-        "low": 27,
+        "high": 32,
+        "low": 25,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
         "precip": 69
@@ -230,17 +241,26 @@
       {
         "date": "2026-08-04",
         "day": "منگل",
-        "high": 30,
-        "low": 26,
+        "high": 31,
+        "low": 25,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
         "precip": 78
+      },
+      {
+        "date": "2026-08-05",
+        "day": "بدھ",
+        "high": 33,
+        "low": 25,
+        "condition": "Thunderstorm",
+        "condition_ur": "گرج چمک",
+        "precip": 69
       }
     ]
   },
   "date": {
-    "gregorian": "Wednesday, 29 July 2026",
-    "hijri": "15 Ṣafar 1448",
-    "hijri_ur": "15 صَفَر 1448"
+    "gregorian": "Thursday, 30 July 2026",
+    "hijri": "16 Ṣafar 1448",
+    "hijri_ur": "16 صَفَر 1448"
   }
 }
