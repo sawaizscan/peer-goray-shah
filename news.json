@@ -1,177 +1,167 @@
 {
-  "generated": "2026-07-29T07:15:33Z",
+  "generated": "2026-07-29T10:04:44Z",
   "world": [
     {
-      "title": "IDF shifts strategy, targets traffickers behind infiltrations",
-      "desc": "The Efraim Brigade arrested about 30 suspects in a large-scale operation targeting the trafficking networks that facilitate illegal entry into Israel.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/430868",
-      "time": "2026-07-28T07:14:43",
-      "country": "Israel",
-      "title_ur": "IDF نے حکمت عملی تبدیل کی، دراندازی کے پیچھے اسمگلروں کو نشانہ بنایا",
-      "desc_ur": "ایفرایم بریگیڈ نے اسرائیل میں غیر قانونی داخلے کی سہولت فراہم کرنے والے اسمگلنگ نیٹ ورکس کو نشانہ بنانے والے ایک بڑے پیمانے پر آپریشن میں تقریباً 30 مشتبہ افراد کو گرفتار کیا۔"
-    },
-    {
-      "title": "Four decades after Chernobyl, Italy embraces nuclear again",
-      "desc": "Four decades after abandoning nuclear power in the wake of the Chernobyl disaster, Italy is preparing to revive the sector as Prime Minister Giorgia Meloni's government pushes legislation to create a legal framework for next-generation reactors. The move is d…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/four-decades-after-chernobyl-italy-embraces-nuclear-again/articleshow/132677735.cms",
-      "time": "2026-07-28T07:10:28",
-      "country": "US",
-      "title_ur": "چرنوبل کے چار دہائیوں بعد اٹلی نے ایک بار پھر نیوکلیئر کو گلے لگا لیا۔",
-      "desc_ur": "چرنوبل کی تباہی کے بعد جوہری توانائی کو ترک کرنے کے چار دہائیوں بعد، اٹلی اس شعبے کو بحال کرنے کی تیاری کر رہا ہے کیونکہ وزیر اعظم جارجیا میلونی کی حکومت اگلی نسل کے ری ایکٹرز کے لیے قانونی ڈھانچہ بنانے کے لیے قانون سازی پر زور دے رہی ہے۔ اقدام ڈی ہے…"
-    },
-    {
-      "title": "Himachal reports rise in government school admissions as 24,000 students leave private institutions",
-      "desc": "The Himachal Pradesh government has said nearly 24,000 students shifted from private to government schools this academic year following the rollout of the CBSE curriculum in public schools. Alongside education reforms, the state announced plans to add 330 pos…",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/education/news/24000-students-move-from-private-to-government-schools-in-himachal-pradesh-this-academic-year/articleshow/132677443.cms",
-      "time": "2026-07-28T07:08:42",
-      "country": "International",
-      "title_ur": "ہماچل کی رپورٹوں کے مطابق سرکاری اسکولوں میں داخلوں میں اضافہ ہوا ہے کیونکہ 24,000 طلباء نجی اداروں کو چھوڑ رہے ہیں۔",
-      "desc_ur": "ہماچل پردیش کی حکومت نے کہا ہے کہ سرکاری اسکولوں میں CBSE نصاب کے رول آؤٹ کے بعد تقریباً 24,000 طلباء اس تعلیمی سال پرائیویٹ سے سرکاری اسکولوں میں منتقل ہوئے ہیں۔ تعلیمی اصلاحات کے ساتھ ساتھ، ریاست نے 330 پوزیشنوں کو شامل کرنے کے منصوبوں کا اعلان کیا…"
-    },
-    {
-      "title": "An investigation into Fifa president Gianni Infantino: but how will the FA respond?",
-      "desc": "What happened next, after the last time Arsenal won the title Arsenal are always the victims in transfer deals. If only they’d take journalists’ advice!!!   By Tony Attwood There are multiple issues with football that I think quite a few of us would like to s…",
-      "source": "Untold-arsenal.com",
-      "url": "https://untold-arsenal.com/archives/122023",
-      "time": "2026-07-28T07:06:04",
-      "country": "US",
-      "title_ur": "فیفا کے صدر گیانی انفینٹینو کی تحقیقات: لیکن ایف اے کیا جواب دے گا؟",
-      "desc_ur": "اس کے بعد کیا ہوا، آخری بار آرسنل کے ٹائٹل جیتنے کے بعد آرسنل منتقلی کے سودوں میں ہمیشہ شکار ہوتے ہیں۔ کاش وہ صحافیوں کا مشورہ لیتے!!!   ٹونی ایٹ ووڈ کے ذریعہ فٹ بال کے ساتھ متعدد مسائل ہیں جن کے بارے میں میرے خیال میں ہم میں سے بہت سے لوگ چاہیں گے کہ…"
-    },
-    {
-      "title": "Singapore PR to be charged with terrorism financing over Gaza donation",
-      "desc": "The 23-year-old Myanmar national is accused of transferring US$72.28 to someone he believed was raising money to buy military equipment for an attack in Gaza City.",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/singapore/man-charged-terrorism-financing-gaza-6282546",
-      "time": "2026-07-28T07:06:00",
-      "country": "Iran",
-      "title_ur": "سنگاپور PR پر غزہ کے عطیہ پر دہشت گردی کی مالی معاونت کا الزام عائد کیا جائے گا۔",
-      "desc_ur": "23 سالہ میانمار کے شہری پر الزام ہے کہ اس نے 72.28 امریکی ڈالر کسی ایسے شخص کو منتقل کیے جو اس کے خیال میں غزہ شہر میں حملے کے لیے فوجی سازوسامان خریدنے کے لیے رقم اکٹھا کر رہا تھا۔"
-    },
-    {
-      "title": "Record heat gives way to winter gas fears in Europe, Asia as Iran war rages on",
-      "desc": "Natural gas prices are spiking and the cutthroat competition for cargoes is escalating.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/28/record-heat-gives-way-winter-gas-fears-in-europe-asia-iran-war-rages/",
-      "time": "2026-07-28T07:06:00",
-      "country": "Iran",
-      "title_ur": "ریکارڈ گرمی یورپ، ایشیا میں موسم سرما میں گیس کے خدشات کو جنم دیتی ہے کیونکہ ایران جنگ جاری ہے۔",
-      "desc_ur": "قدرتی گیس کی قیمتیں بڑھ رہی ہیں اور کارگو کے لیے کٹ تھروٹ مقابلہ بڑھ رہا ہے۔"
-    },
-    {
-      "title": "Greece Approves $3.4 Billion ‘Achilles’ Shield’ Israeli Air Defense System",
-      "desc": "Greece approved a $3.4 billion Israeli air defense system to counter missiles, aircraft and drones while expanding military ties.",
-      "source": "Military.com",
-      "url": "https://military.com/greece-buys-israeli-achilles-shield-in-34-billion-deal",
-      "time": "2026-07-28T07:01:12",
-      "country": "Israel",
-      "title_ur": "یونان نے 3.4 بلین ڈالر کی 'ایکلز شیلڈ' اسرائیلی ایئر ڈیفنس سسٹم کی منظوری دے دی۔",
-      "desc_ur": "یونان نے فوجی تعلقات کو وسعت دیتے ہوئے میزائلوں، طیاروں اور ڈرونز کا مقابلہ کرنے کے لیے 3.4 بلین ڈالر کے اسرائیلی فضائی دفاعی نظام کی منظوری دی۔"
-    },
-    {
-      "title": "Meet the ‘AI Centurions’—6 formerly sleepy stocks that now have market caps over $100 billion",
-      "desc": "How the AI boom has transformed six spectacular stocks.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/07/28/meet-the-ai-centurions-vertiv-seagate-sandisk-western-digital-ge-vernova-applovin/",
-      "time": "2026-07-28T07:00:00",
-      "country": "International",
-      "title_ur": "'AI Centurions' سے ملیں—6 پہلے نیند میں آنے والے اسٹاک جن کی مارکیٹ کیپ اب $100 بلین سے زیادہ ہے۔",
-      "desc_ur": "کس طرح AI بوم نے چھ شاندار اسٹاک کو تبدیل کر دیا ہے۔"
-    },
-    {
-      "title": "Iran hosts Hormuz calls with Saudi Arabia, Oman as Trump hails ‘good talks’",
-      "desc": "Talks over the Strait of Hormuz continue as Iran's foreign ministry discussed the strategically vital maritime passage with Saudi and Omani counterparts.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/28/us-iran-war-trump-hormuz.html",
-      "time": "2026-07-28T06:59:36",
-      "country": "Iran",
-      "title_ur": "ایران نے سعودی عرب اور عمان کے ساتھ ہرمز کال کی میزبانی کی کیونکہ ٹرمپ نے 'اچھی بات چیت' کی تعریف کی",
-      "desc_ur": "آبنائے ہرمز پر بات چیت جاری ہے کیونکہ ایران کی وزارت خارجہ نے سعودی اور عمانی ہم منصبوں کے ساتھ تزویراتی طور پر اہم سمندری گزرگاہ پر تبادلہ خیال کیا۔"
-    },
-    {
-      "title": "Tankers Divert to Egypt as Houthi Threat Upends Red Sea Trade",
-      "desc": "Empty supertankers are heading to Egypt’s Mediterranean port of Sidi Kerir to collect Saudi crude as observable traffic at the kingdom’s key Red Sea export hub dwindles following threats from Houthi militants.",
+      "title": "Israel was Canada’s first free-trade partner outside North America. It’s time to rekindle that relationship",
+      "desc": "When it comes to defence and AI, Israel has the technical capabilities that Canada needs now, writes Howard Fremeth. Read more.",
       "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/tankers-divert-to-egypt-as-houthi-threat-upends-red-sea-trade",
-      "time": "2026-07-28T06:54:57",
-      "country": "Saudi Arabia",
-      "title_ur": "حوثیوں کے خطرے نے بحیرہ احمر کی تجارت کو متاثر کرتے ہوئے ٹینکروں کا رخ مصر کی طرف موڑ دیا۔",
-      "desc_ur": "خالی سپر ٹینکر مصر کی بحیرہ روم کی بندرگاہ سیدی کیر کی طرف جا رہے ہیں تاکہ حوثی عسکریت پسندوں کی دھمکیوں کے بعد مملکت کے اہم بحیرہ احمر کے برآمدی مرکز پر سعودی کروڈ کو قابل مشاہدہ ٹریفک کے طور پر جمع کیا جا سکے۔"
-    },
-    {
-      "title": "India's IPO market to stay resilient with over 70 firms awaiting SEBI clearance: Report",
-      "desc": "Mainboard issuance hit a three-year high in both deal count and capital mobilised, driven by large-cap supply as corporates utilised favourable market windows during FY26",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/indias-ipo-market-to-stay-resilient-with-over-70-firms-awaiting-sebi-clearance-report/article71275814.ece",
-      "time": "2026-07-28T06:53:24",
-      "country": "India",
-      "title_ur": "ہندوستان کی آئی پی او مارکیٹ 70 سے زیادہ فرموں کے ساتھ لچکدار رہے گی جو SEBI کی منظوری کے منتظر ہیں: رپورٹ",
-      "desc_ur": "مین بورڈ کا اجراء ڈیل کی گنتی اور سرمائے کو متحرک کرنے دونوں میں تین سال کی بلند ترین سطح پر پہنچ گیا، جو کہ بڑے کیپ کی سپلائی سے کارفرما ہے کیونکہ کارپوریٹس نے FY26 کے دوران سازگار مارکیٹ ونڈوز کا استعمال کیا۔"
-    },
-    {
-      "title": "US diplomats walk out as France addresses UN Security Council - Al Jazeera",
-      "desc": "US diplomats walk out as France addresses UN Security CouncilAl Jazeera Waltz slams France after stunning social media attack on US after UN voteFox News UN human rights chief wins second term despite opposition from US, Israel and RussiaAP News US Envoy Quit…",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184731208",
-      "time": "2026-07-28T06:52:26",
+      "url": "https://financialpost.com/news/economy/time-rekindle-canada-economic-relationship-israel-trade",
+      "time": "2026-07-28T10:00:58",
       "country": "Israel",
-      "title_ur": "فرانس کے اقوام متحدہ کی سلامتی کونسل سے خطاب کے دوران امریکی سفارت کار واک آؤٹ کر رہے ہیں - الجزیرہ",
-      "desc_ur": "امریکی سفارتکار واک آؤٹ کرتے ہوئے فرانس نے اقوام متحدہ کی سلامتی کونسل سے خطاب کرتے ہوئے الجزیرہ والٹز نے امریکہ پر شاندار سوشل میڈیا حملے کے بعد فرانس کو تنقید کا نشانہ بنایا فاکس نیوز اقوام متحدہ کے انسانی حقوق کے سربراہ نے امریکہ، اسرائیل اور روس اے پی نیوز کی مخالفت کے باوجود دوسری بار جیتنے کے بعد امریکی سفیر کو چھوڑ دیا…"
+      "title_ur": "اسرائیل شمالی امریکہ سے باہر کینیڈا کا پہلا آزاد تجارتی شراکت دار تھا۔ اس رشتے کو دوبارہ زندہ کرنے کا وقت ہے۔",
+      "desc_ur": "ہاورڈ فریمتھ لکھتے ہیں کہ جب دفاع اور اے آئی کی بات آتی ہے تو اسرائیل میں وہ تکنیکی صلاحیتیں موجود ہیں جن کی کینیڈا کو اب ضرورت ہے۔ مزید پڑھیں"
     },
     {
-      "title": "Netanyahu to present Iran nuclear evidence to Trump at White House meeting",
-      "desc": "The meeting may escalate regional tensions, hinder US-Iran diplomacy, and impact market stability amid concerns over Iran's nuclear activities.\nThe post Netanyahu to present Iran nuclear evidence to Trump at White House meeting appeared first on Crypto Briefi…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/netanyahu-to-present-iran-nuclear-evidence-to-trump-at-white-house-meeting/",
-      "time": "2026-07-28T06:47:28",
+      "title": "Far-left Senate hopeful explains ‘ogre on a pike’ remark after getting torched by his own party",
+      "desc": "Abdul El-Sayed refused to apologize for his \"ogre on a pike\" remark, revealing he was targeting John Fetterman, not primary rival Haley Stevens.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/dem-senate-contender-explains-ogre-pike-remark-torched-own-party",
+      "time": "2026-07-28T10:00:45",
+      "country": "US",
+      "title_ur": "انتہائی بائیں بازو سے تعلق رکھنے والے سینیٹ کے امیدوار اپنی ہی پارٹی کی طرف سے نذر آتش کیے جانے کے بعد 'اوگری آن اے پائیک' کے تبصرہ کی وضاحت کرتے ہیں",
+      "desc_ur": "عبد السید نے اپنے \"پائیک پر اوگرے\" کے تبصرے پر معذرت کرنے سے انکار کر دیا، یہ انکشاف کرتے ہوئے کہ وہ جان فیٹرمین کو نشانہ بنا رہے تھے، نہ کہ بنیادی حریف ہیلی سٹیونز کو۔"
+    },
+    {
+      "title": "Prominent Holocaust museum challenges Mamdani with offer in response to claims about 'genocide' in Gaza",
+      "desc": "Holocaust Museum chairman Jeff Miller invited Zohran Mamdani to visit and learn what genocide actually means after the NYC mayor's repeated use of the term",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/holocaust-museum-challenges-mamdani-offer-response-claims-genocide-gaza",
+      "time": "2026-07-28T10:00:36",
+      "country": "Israel",
+      "title_ur": "ممتاز ہولوکاسٹ میوزیم نے غزہ میں 'نسل کشی' کے دعووں کے جواب میں مامدانی کو پیشکش کے ساتھ چیلنج کیا",
+      "desc_ur": "ہولوکاسٹ میوزیم کے چیئرمین جیف ملر نے ظہران مامدانی کو دعوت دی کہ وہ تشریف لائیں اور یہ سیکھیں کہ نیویارک شہر کے میئر کے بار بار اس اصطلاح کے استعمال کے بعد نسل کشی کا اصل مطلب کیا ہے۔"
+    },
+    {
+      "title": "Freed American reveals brutal Iran prison ordeal, warns hostages face greater danger",
+      "desc": "Morad Tahbaz describes harsh Islamic Revolutionary Guard Corps detention in Evin Prison and warns that the U.S.-Iran war could make Americans still held in Tehran more vulnerable.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/world/freed-american-reveals-brutal-iran-prison-ordeal-warns-hostages-face-greater-danger",
+      "time": "2026-07-28T10:00:22",
       "country": "Iran",
-      "title_ur": "نیتن یاہو وائٹ ہاؤس اجلاس میں ٹرمپ کو ایران کے جوہری ثبوت پیش کریں گے۔",
-      "desc_ur": "یہ ملاقات علاقائی کشیدگی کو بڑھا سکتی ہے، امریکہ-ایران سفارت کاری میں رکاوٹ بن سکتی ہے اور ایران کی جوہری سرگرمیوں پر خدشات کے درمیان مارکیٹ کے استحکام کو متاثر کر سکتی ہے۔\nThe post نیتن یاہو وائٹ ہاؤس اجلاس میں ٹرمپ کو ایران کے جوہری ثبوت پیش کریں گے appeared first on Crypto Briefi…"
+      "title_ur": "رہائی پانے والے امریکی نے ایرانی جیل کی وحشیانہ آزمائش کا انکشاف کرتے ہوئے خبردار کیا ہے کہ یرغمالیوں کو زیادہ خطرے کا سامنا ہے۔",
+      "desc_ur": "مراد تہباز نے ایون جیل میں اسلامی انقلابی گارڈ کور کی سخت حراست کو بیان کیا اور خبردار کیا کہ امریکہ ایران جنگ تہران میں قید امریکیوں کو مزید کمزور بنا سکتی ہے۔"
     },
     {
-      "title": "Breaking: Former Melbourne organised crime kingpin sentenced to life in Iraq prison",
-      "desc": "Kazem Hamad, a former Melbourne organised crime kingpin who was deported to Iraq in 2023, has been sentenced to life in jail by an Iraqi court after being convicted of drug trafficking.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-07-28/kazem-hamad-sentenced-to-life-in-iraq-jail/106968276",
-      "time": "2026-07-28T06:40:49",
-      "country": "Iraq",
-      "title_ur": "بریکنگ: میلبورن کے سابق منظم جرائم کے سرغنہ کو عراق کی جیل میں عمر قید کی سزا سنادی گئی۔",
-      "desc_ur": "میلبورن کے ایک سابق منظم جرائم کے سرغنہ کاظم حماد کو 2023 میں عراق ڈی پورٹ کر دیا گیا تھا، کو ایک عراقی عدالت نے منشیات کی سمگلنگ کا جرم ثابت ہونے کے بعد عمر قید کی سزا سنائی ہے۔"
+      "title": "The Iran War Exposed Africa’s Biggest Energy Weakness",
+      "desc": "The conflict will eventually subside. But without action, the vulnerabilities it has exposed will not, write Michael Adu Okyere, Brian Mukhaya, and David W. Yellen.",
+      "source": "Time",
+      "url": "https://time.com/article/2026/07/28/the-iran-war-exposed-africa-s-biggest-energy-weakness/",
+      "time": "2026-07-28T10:00:03",
+      "country": "Iran",
+      "title_ur": "ایران جنگ نے افریقہ کی توانائی کی سب سے بڑی کمزوری کو بے نقاب کیا۔",
+      "desc_ur": "تنازعہ بالآخر ختم ہو جائے گا۔ لیکن عمل کے بغیر، مائیکل اڈو اوکیرے، برائن مکھایا، اور ڈیوڈ ڈبلیو ییلن لکھتے ہیں کہ اس نے جن کمزوریوں کو بے نقاب کیا ہے وہ نہیں ہوگا۔"
     },
     {
-      "title": "Big ship to be lifted onto even bigger ship in 'complex' operation",
-      "desc": "One of the world's largest heavy-lift ships has made anchor in Hobart's River Derwent, as it awaits its role in \"one of the most complex maritime events\" in Tasmania's history.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-07-28/mv-black-marlin-arrives-hobart-china-zorrilla-incat-transport/106966808",
-      "time": "2026-07-28T06:38:21",
-      "country": "International",
-      "title_ur": "'پیچیدہ' آپریشن میں بڑے جہاز کو اس سے بھی بڑے جہاز پر اٹھایا جائے گا۔",
-      "desc_ur": "دنیا کے سب سے بڑے ہیوی لفٹ بحری جہازوں میں سے ایک نے ہوبارٹ کے دریائے ڈیروینٹ میں لنگر انداز کیا ہے، کیونکہ یہ تسمانیہ کی تاریخ کے \"سب سے پیچیدہ سمندری واقعات میں سے ایک\" میں اپنے کردار کا انتظار کر رہا ہے۔"
+      "title": "Ceragon Receives Approximately $120 Million in Orders from Operators in India Year-to-Date",
+      "desc": "Approximately $120 million in bookings achieved in just over six months reflect continued momentum in a strategic growth market ROSH HA'AIN, Israel, July 28, 2026 /PRNewswire/ -- Ceragon (NASDAQ: CRNT), a leading solutions provider of end-to-end wireless conn…",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/ceragon-receives-approximately-120-million-in-orders-from-operators-in-india-year-to-date-302836239.html",
+      "time": "2026-07-28T10:00:00",
+      "country": "Israel",
+      "title_ur": "سیراگون کو ہندوستان میں آپریٹرز سے سال بہ تاریخ تقریباً 120 ملین ڈالر کے آرڈر موصول ہوئے",
+      "desc_ur": "تقریباً $120 ملین کی بکنگ صرف چھ ماہ سے زائد عرصے میں حاصل کی گئی اسٹریٹجک ترقی کی مارکیٹ میں مسلسل رفتار کی عکاسی کرتی ہے ROSH HA'AIN، اسرائیل، 28 جولائی 2026/PRNewswire/ -- Ceragon (NASDAQ: CRNT)، جو آخر سے آخر تک وائرلیس کنکشن فراہم کرنے والا ایک سرکردہ حل فراہم کرنے والا ہے۔"
+    },
+    {
+      "title": "Mortgage and refinance interest rates today, Tuesday, July 28, 2026: Rates lower as fighting in Iran on pause",
+      "desc": "Mortgage rates are lower today, Tuesday, July 28, 2026, compared to the day before. The average 30-year fixed rate is 6.62%, down 8 basis points since yester...",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-tuesday-july-28-2026-rates-lower-as-fighting-in-iran-on-pause-100000181.html",
+      "time": "2026-07-28T10:00:00",
+      "country": "Iran",
+      "title_ur": "رہن اور ری فنانس سود کی شرح آج، منگل، 28 جولائی، 2026: ایران میں وقفے پر لڑائی کی وجہ سے شرحیں کم",
+      "desc_ur": "آج، منگل، 28 جولائی، 2026 کو رہن کی شرحیں پہلے دن کے مقابلے کم ہیں۔ اوسطاً 30 سالہ مقررہ شرح 6.62% ہے، جو گزشتہ سال سے 8 بنیادی پوائنٹس نیچے ہے..."
+    },
+    {
+      "title": "Why Elena Kagan is Defending the Roberts Court",
+      "desc": "Justice Elena Kagan offered a notable defense of her colleagues on the Supreme Court last week by rejecting claims that the justices were simply doing Trump’s bidding. “I don’t see this as a court that is just like, ‘We’re just going to rubber-stamp what the …",
+      "source": "The New Republic",
+      "url": "https://newrepublic.com/article/213583/elena-kagan-supreme-court-trump",
+      "time": "2026-07-28T10:00:00",
+      "country": "US",
+      "title_ur": "ایلینا کاگن رابرٹس کورٹ کا دفاع کیوں کر رہی ہیں۔",
+      "desc_ur": "جسٹس ایلینا کاگن نے گزشتہ ہفتے سپریم کورٹ میں اپنے ساتھیوں کے قابل ذکر دفاع کی پیشکش کی اور ان دعووں کو مسترد کر دیا کہ جج صرف ٹرمپ کی بولی کر رہے تھے۔ \"میں اسے عدالت کے طور پر نہیں دیکھ رہا ہوں جو بالکل ایسا ہی ہے، 'ہم صرف ربڑ اسٹیمپ کرنے جا رہے ہیں کیا…"
+    },
+    {
+      "title": "Trump’s Isolationism Is Losing the Great E.V. Race",
+      "desc": "Bill McKibben writes that, under President Donald Trump, the U.S. is forfeiting a role in advancing electric-vehicle technology, while China produces and exports them en masse to countries such as Australia.",
+      "source": "The New Yorker",
+      "url": "https://www.newyorker.com/news/the-lede/trumps-isolationism-is-losing-the-great-ev-race",
+      "time": "2026-07-28T10:00:00",
+      "country": "China",
+      "title_ur": "ٹرمپ کی تنہائی پسندی عظیم ای وی کو کھو رہی ہے۔ ریس",
+      "desc_ur": "بل میک کیبن لکھتے ہیں کہ، صدر ڈونلڈ ٹرمپ کے دور میں، امریکہ الیکٹرک وہیکل ٹیکنالوجی کو آگے بڑھانے میں اپنا کردار کھو رہا ہے، جب کہ چین انہیں بڑے پیمانے پر تیار کرتا ہے اور آسٹریلیا جیسے ممالک کو برآمد کرتا ہے۔"
+    },
+    {
+      "title": "A 'Super El Niño' is expected to squeeze commodities even further this year",
+      "desc": "Scientists are expecting a \"Super El Niño\" to emerge this fall, threatening supply for a range of commodities.",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/markets/article/a-super-el-nino-is-expected-to-squeeze-commodities-even-further-this-year-100000389.html",
+      "time": "2026-07-28T10:00:00",
+      "country": "India",
+      "title_ur": "توقع ہے کہ 'سپر ال نینو' اس سال اشیاء کو مزید نچوڑ دے گا۔",
+      "desc_ur": "سائنس دان توقع کر رہے ہیں کہ اس موسم خزاں میں ایک \"سپر ال نینو\" ابھرے گا، جس سے مختلف اشیاء کی سپلائی کو خطرہ ہے۔"
+    },
+    {
+      "title": "Hush Security Raises $30M to Close the AI Agent Governance Gap, with Akamai Joining as Strategic Investor",
+      "desc": "Less than a year out of stealth, the company extends its proven identity-based approach to securely control enterprise AI agents and the infrastructure they run on – as Battery Ventures and YL Ventures double down and more Fortune 500 customers sign on TEL AV…",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/hush-security-raises-30m-to-close-the-ai-agent-governance-gap-with-akamai-joining-as-strategic-investor-302836307.html",
+      "time": "2026-07-28T10:00:00",
+      "country": "US",
+      "title_ur": "ہش سیکیورٹی نے AI ایجنٹ گورننس گیپ کو ختم کرنے کے لیے $30M اکٹھا کیا، Akamai کی بطور اسٹریٹجک سرمایہ کار شمولیت",
+      "desc_ur": "اسٹیلتھ سے ایک سال سے بھی کم وقت میں، کمپنی نے انٹرپرائز AI ایجنٹوں اور ان کے چلنے والے انفراسٹرکچر کو محفوظ طریقے سے کنٹرول کرنے کے لیے شناخت پر مبنی اپنے ثابت شدہ نقطہ نظر کو بڑھایا ہے - کیونکہ بیٹری وینچرز اور YL وینچرز دوگنا ہو گئے ہیں اور فارچیون 500 کے زیادہ صارفین TEL AV پر دستخط کر رہے ہیں۔"
+    },
+    {
+      "title": "Politicians Should Stop Hiding Behind the ‘Two-State Solution’ Fantasy",
+      "desc": "Creation of a Palestinian state next to Israel seemed feasible when President Bill Clinton hosted the signing of the Oslo accords at the White House in September 1993. The goal was reaffirmed in 2011 when 90 percent of the Senate co-sponsored a resolution sup…",
+      "source": "Activistpost.com",
+      "url": "https://www.activistpost.com/politicians-should-stop-hiding-behind-the-two-state-solution-fantasy/",
+      "time": "2026-07-28T10:00:00",
+      "country": "Israel",
+      "title_ur": "سیاست دانوں کو ’دو ریاستی حل‘ تصور کے پیچھے چھپنا بند کرنا چاہیے۔",
+      "desc_ur": "اسرائیل کے ساتھ ایک فلسطینی ریاست کا قیام اس وقت ممکن نظر آیا جب صدر بل کلنٹن نے ستمبر 1993 میں وائٹ ہاؤس میں اوسلو معاہدے پر دستخط کی میزبانی کی۔ 2011 میں اس مقصد کی توثیق کی گئی جب 90 فیصد سینیٹ نے ایک قرارداد کی حمایت کی مشترکہ سرپرستی کی۔"
+    },
+    {
+      "title": "Spectrum Business Named Radware U.S. Managed Security Services Partner of the Year for Expanding Managed DDoS Protection Services",
+      "desc": "Spectrum Business Named Radware U.S. Managed Security Services Partner of the Year for Expanding Managed DDoS Protection Services...",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/07/28/3334060/8980/en/Spectrum-Business-Named-Radware-U-S-Managed-Security-Services-Partner-of-the-Year-for-Expanding-Managed-DDoS-Protection-Services.html",
+      "time": "2026-07-28T10:00:00",
+      "country": "US",
+      "title_ur": "سپیکٹرم بزنس کا نام Radware U.S. Managed Security Services Partner of the Year Managed DDoS پروٹیکشن سروسز کو بڑھانے کے لیے",
+      "desc_ur": "سپیکٹرم بزنس کا نام Radware U.S. Managed Security Services Partner of the Year Managed DDoS پروٹیکشن سروسز کی توسیع کے لیے..."
+    },
+    {
+      "title": "Oil touches over one-week low after pause in attacks",
+      "desc": "Oil prices extended losses today, hitting their lowest levels in more than a week as hopes for a resolution to the US-Iran conflict grew and traders continued to assess developments in the Middle East.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/business/2026/0728/1585437-world-oil-prices/",
+      "time": "2026-07-28T09:56:41",
+      "country": "Iran",
+      "title_ur": "حملوں میں توقف کے بعد تیل ایک ہفتے کی کم ترین سطح کو چھو رہا ہے۔",
+      "desc_ur": "تیل کی قیمتوں نے آج خسارے کو بڑھایا، جو ایک ہفتے سے زائد عرصے میں اپنی کم ترین سطح پر پہنچ گیا کیونکہ امریکہ-ایران تنازعہ کے حل کی امیدیں بڑھیں اور تاجر مشرق وسطیٰ میں پیش رفت کا جائزہ لیتے رہے۔"
+    },
+    {
+      "title": "The Stock Market Sounds an Alarm Triggered Just Once Before. History Says This Will Happen Next",
+      "desc": "The U.S. stock market has delivered decent returns in 2026 despite persistent economic uncertainty created by tariffs and, more recently, elevated oil prices tied to the Iran war. This year, the S&P 500 (SNPINDEX: ^GSPC) has added 8% and the Nasdaq Composite …",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/b5af8f3432ad29c4",
+      "time": "2026-07-28T09:54:03",
+      "country": "Iran",
+      "title_ur": "اسٹاک مارکیٹ ایک خطرے کی گھنٹی بجاتی ہے جس سے پہلے صرف ایک بار متحرک ہوا تھا۔ تاریخ کہتی ہے کہ آگے ایسا ہی ہوگا۔",
+      "desc_ur": "امریکی سٹاک مارکیٹ نے 2026 میں ٹیرف کی وجہ سے پیدا ہونے والی مسلسل اقتصادی غیر یقینی صورتحال اور، حال ہی میں، ایران کی جنگ سے منسلک تیل کی قیمتوں میں اضافے کے باوجود معقول منافع دیا ہے۔ اس سال، S&P 500 (SNPINDEX: ^GSPC) نے 8% کا اضافہ کیا ہے اور Nasdaq Composite…"
     }
   ],
   "pakistan": [
     {
-      "title": "Saudi Aramco considers new crude pricing for Asia as shipping costs rise",
-      "desc": "Rising freight expenses from longer export routes are prompting the world’s biggest oil exporter to reassess how additional logistics costs are shared with Asian crude buyers",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/commodities/saudi-aramco-considers-new-crude-pricing-for-asia-as-shipping-costs-rise/article71275550.ece",
-      "time": "2026-07-28T07:09:42",
+      "title": "Trump Has Only Humiliating Options Left in Iran",
+      "desc": "Speaking with Iran analyst Danny Citrinowicz about President Trump’s unappealing options in Iran as a mini-ceasefire takes hold.",
+      "source": "New York Magazine",
+      "url": "http://nymag.com/intelligencer/article/trump-has-only-humiliating-options-left-in-iran.html",
+      "time": "2026-07-28T10:00:49",
       "country": "Pakistan",
-      "title_ur": "سعودی آرامکو ایشیا کے لیے خام تیل کی نئی قیمتوں پر غور کر رہا ہے کیونکہ شپنگ لاگت بڑھ رہی ہے۔",
-      "desc_ur": "طویل برآمدی راستوں سے مال برداری کے بڑھتے ہوئے اخراجات دنیا کے سب سے بڑے تیل برآمد کنندہ کو اس بات کا دوبارہ جائزہ لینے پر مجبور کر رہے ہیں کہ ایشیائی خام خریداروں کے ساتھ لاجسٹک کے اضافی اخراجات کس طرح شیئر کیے جاتے ہیں۔"
-    },
-    {
-      "title": "Pauline Hanson's $2million legal bill after 'go back to Pakistan' comment: 'Not happy'",
-      "desc": "The Full Federal Court unanimously dismissed Pauline Hanson's appeal this week.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16009391/Pauline-Hanson-pakistan-mehreen-faruqi.html",
-      "time": "2026-07-28T06:28:37",
-      "country": "Pakistan",
-      "title_ur": "پولین ہینسن کا 2 ملین ڈالر کا قانونی بل 'پاکستان واپس جائیں' کے تبصرے کے بعد: 'خوش نہیں'",
-      "desc_ur": "فل فیڈرل کورٹ نے اس ہفتے متفقہ طور پر پولین ہینسن کی اپیل کو مسترد کر دیا۔"
+      "title_ur": "ٹرمپ کے پاس ایران میں صرف ذلت آمیز آپشنز رہ گئے ہیں۔",
+      "desc_ur": "ایران کے تجزیہ کار ڈینی سیٹرینووِچ کے ساتھ بات کرتے ہوئے ایران میں صدر ٹرمپ کے ناخوشگوار آپشنز کے بارے میں جب کہ ایک چھوٹی سی جنگ بندی ہو جاتی ہے۔"
     }
   ],
   "business": {
@@ -186,7 +176,7 @@
       {
         "date": "2026-07-29",
         "day": "بدھ",
-        "high": 33,
+        "high": 34,
         "low": 27,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
@@ -196,7 +186,7 @@
         "date": "2026-07-30",
         "day": "جمعرات",
         "high": 33,
-        "low": 25,
+        "low": 24,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
         "precip": 96
@@ -214,7 +204,7 @@
         "date": "2026-08-01",
         "day": "ہفتہ",
         "high": 32,
-        "low": 25,
+        "low": 26,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
         "precip": 82
@@ -223,7 +213,7 @@
         "date": "2026-08-02",
         "day": "اتوار",
         "high": 32,
-        "low": 25,
+        "low": 26,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
         "precip": 58
@@ -231,7 +221,7 @@
       {
         "date": "2026-08-03",
         "day": "پیر",
-        "high": 33,
+        "high": 32,
         "low": 26,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
