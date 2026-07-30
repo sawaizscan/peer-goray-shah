@@ -1,197 +1,177 @@
 {
-  "generated": "2026-07-30T20:40:29Z",
+  "generated": "2026-07-30T22:08:01Z",
   "world": [
     {
-      "title": "Trump Announces Another Renovation Project in the Middle of a War",
-      "desc": "President Trump has announced yet another renovation project that will cost billions, while in the midst of a failing, unpopular war with Iran. The president revealed plans for a $22.5 billion renovation of Dulles International Airport at a press conference o…",
-      "source": "The New Republic",
-      "url": "https://newrepublic.com/post/213703/trump-renovation-dulles-airport",
-      "time": "2026-07-29T20:39:19",
+      "title": "From bad to worse for Trump and his base",
+      "desc": "Republicans are starting to fret about their base’s lack of enthusiasm ahead of the 2026 midterm elections.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/07/29/politics/maga-trump-midterms",
+      "time": "2026-07-29T22:04:31",
+      "country": "US",
+      "title_ur": "ٹرمپ اور اس کے اڈے کے لیے بد سے بدتر",
+      "desc_ur": "ریپبلکن 2026 کے وسط مدتی انتخابات سے پہلے اپنے اڈے کے جوش و خروش کی کمی کے بارے میں پریشان ہونے لگے ہیں۔"
+    },
+    {
+      "title": "Low Gas Storage and Diesel Shortages Threaten Europe’s Winter Supply",
+      "desc": "Tightening global supply of oil and gas is putting Europe on course for a difficult winter this year due to the continent’s significant dependence on energy imports, despite energy transition ambitions. Gas in storage is much lower than it should be, and a di…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Natural-Gas/Low-Gas-Storage-and-Diesel-Shortages-Threaten-Europes-Winter-Supply.html",
+      "time": "2026-07-29T22:00:00",
+      "country": "Europe",
+      "title_ur": "کم گیس ذخیرہ اور ڈیزل کی قلت یورپ کی موسم سرما کی سپلائی کو خطرہ ہے۔",
+      "desc_ur": "توانائی کی منتقلی کے عزائم کے باوجود توانائی کی درآمدات پر براعظم کے نمایاں انحصار کی وجہ سے تیل اور گیس کی عالمی سطح پر فراہمی میں سختی یورپ کو اس سال ایک مشکل موسم سرما میں ڈال رہی ہے۔ سٹوریج میں گیس اس سے بہت کم ہے جو ہونی چاہیے، اور ایک…"
+    },
+    {
+      "title": "Trump's four-word response after China defied him with secret smuggling of weapons to Iran",
+      "desc": "Donald Trump was shocked to hear that China is reportedly supplying weapons to Iran with some consternation.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16014877/Trumps-four-word-response-China-defied-secret-smuggling-weapons-Iran.html",
+      "time": "2026-07-29T21:56:09",
       "country": "Iran",
-      "title_ur": "ٹرمپ نے جنگ کے وسط میں ایک اور تزئین و آرائش کے منصوبے کا اعلان کیا۔",
-      "desc_ur": "صدر ٹرمپ نے ایک اور تزئین و آرائش کے منصوبے کا اعلان کیا ہے جس پر اربوں لاگت آئے گی، جبکہ ایران کے ساتھ ایک ناکام، غیر مقبول جنگ کے درمیان۔ صدر نے ایک پریس کانفرنس میں ڈلس انٹرنیشنل ایئرپورٹ کی 22.5 بلین ڈالر کی تزئین و آرائش کے منصوبوں کا انکشاف کیا۔"
+      "title_ur": "چین کی جانب سے ایران کو ہتھیاروں کی خفیہ اسمگلنگ سے انکار کے بعد ٹرمپ کا چار لفظی ردعمل",
+      "desc_ur": "ڈونلڈ ٹرمپ یہ سن کر حیران رہ گئے کہ چین مبینہ طور پر ایران کو ہتھیار فراہم کر رہا ہے۔"
     },
     {
-      "title": "US issues new iran-related sanctions targeting insurers, more tankers",
-      "desc": "The new sanctions may exacerbate regional tensions, hinder Strait of Hormuz traffic normalization, and complicate US-Iran diplomatic efforts.\nThe post US issues new iran-related sanctions targeting insurers, more tankers appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-issues-new-iran-related-sanctions-targeting-insurers-more-tankers/",
-      "time": "2026-07-29T20:38:59",
-      "country": "Iran",
-      "title_ur": "امریکہ نے ایران سے متعلق نئی پابندیاں جاری کیں جس میں بیمہ کنندگان، مزید ٹینکرز کو نشانہ بنایا گیا۔",
-      "desc_ur": "نئی پابندیاں علاقائی کشیدگی کو بڑھا سکتی ہیں، آبنائے ہرمز ٹریفک کو معمول پر لانے میں رکاوٹ بن سکتی ہیں اور امریکہ ایران سفارتی کوششوں کو پیچیدہ بنا سکتی ہیں۔\nThe post امریکا نے ایران سے متعلق نئی پابندیاں جاری کر دیں جس میں بیمہ کنندگان، مزید ٹینکرز کو نشانہ بنایا گیا appeared first on Crypto Briefing."
-    },
-    {
-      "title": "Encore AI Lands $30M to Turn Customer Conversations Into Revenue",
-      "desc": "The Israeli startup, formerly Insait IO, will scale an agentic platform that turns customer interactions into sales for banks and insurers.\nContinue reading...",
-      "source": "CMSWire",
-      "url": "https://www.cmswire.com/customer-experience/encore-ai-lands-30m-series-a-for-revenue-agents/",
-      "time": "2026-07-29T20:38:45",
-      "country": "Israel",
-      "title_ur": "Encore AI گاہک کی بات چیت کو آمدنی میں بدلنے کے لیے $30M پر لینڈ کرتا ہے۔",
-      "desc_ur": "اسرائیلی سٹارٹ اپ، جو پہلے Insait IO تھا، ایک ایجنٹی پلیٹ فارم کی پیمائش کرے گا جو صارفین کے تعاملات کو بینکوں اور بیمہ کنندگان کے لیے فروخت میں بدل دے گا۔\nپڑھنا جاری رکھیں..."
-    },
-    {
-      "title": "The Parsha and Current Events: Betrayal",
-      "desc": "Breaking a contract is an act of non-confidence, but breaking an emotional tie is an act of betrayal.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/430970",
-      "time": "2026-07-29T20:38:09",
+      "title": "Robinhood posts record quarter as crypto revenue slides 38%",
+      "desc": "Robinhood reported record second-quarter revenue and earnings, while cryptocurrency transaction revenue fell 38% despite continued expansion through Bitstamp, Robinhood Chain and tokenized stocks.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/robinhood-record-quarter-crypto-revenue-slides",
+      "time": "2026-07-29T21:53:35",
       "country": "International",
-      "title_ur": "پارشا اور موجودہ واقعات: دھوکہ",
-      "desc_ur": "معاہدہ توڑنا عدم اعتماد کا عمل ہے، لیکن جذباتی بندھن توڑنا غداری کا عمل ہے۔"
+      "title_ur": "کرپٹو ریونیو میں 38 فیصد کمی کے ساتھ رابن ہڈ نے ریکارڈ سہ ماہی پوسٹ کی",
+      "desc_ur": "رابن ہڈ نے دوسری سہ ماہی کی ریکارڈ آمدنی اور کمائی کی اطلاع دی، جب کہ بٹ اسٹیمپ، رابن ہڈ چین اور ٹوکنائزڈ اسٹاکس کے ذریعے مسلسل توسیع کے باوجود کرپٹو کرنسی ٹرانزیکشن ریونیو میں 38 فیصد کمی ہوئی۔"
     },
     {
-      "title": "How Mamdani’s pied-à-terre tax is pushing NYC business leaders to the brink — and may spark a war",
-      "desc": "The city's largest business advocacy group, the Partnership for New York City, is putting together a plan for action.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/07/29/business/how-mamdanis-pied-a-terre-tax-is-pushing-nyc-business-leaders-to-the-brink-and-may-spark-a-war/",
-      "time": "2026-07-29T20:37:53",
+      "title": "Robinhood posts record quarter, but crypto revenue slides 38%",
+      "desc": "Robinhood reported record second-quarter revenue and earnings, while cryptocurrency transaction revenue fell 38% despite continued expansion through Bitstamp, Robinhood Chain and tokenized stocks.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/news/robinhood-record-quarter-crypto-revenue-slides",
+      "time": "2026-07-29T21:53:35",
+      "country": "International",
+      "title_ur": "رابن ہڈ پوسٹس ریکارڈ سہ ماہی، لیکن کرپٹو ریونیو میں 38 فیصد کمی",
+      "desc_ur": "رابن ہڈ نے دوسری سہ ماہی کی ریکارڈ آمدنی اور کمائی کی اطلاع دی، جب کہ بٹ اسٹیمپ، رابن ہڈ چین اور ٹوکنائزڈ اسٹاکس کے ذریعے مسلسل توسیع کے باوجود کرپٹو کرنسی ٹرانزیکشن ریونیو میں 38 فیصد کمی ہوئی۔"
+    },
+    {
+      "title": "MAGA Socialism: The Feds Just Handed Public Land to a Texas Hedge Fund for Datacenters in a Desert!",
+      "desc": "MAGA Socialism: The Feds Just Handed Public Land to a Texas Hedge Fund for Datacenters in a Desert!\nA solar project became a massive AI data center almost overnight. Now Nevada’s land, water and power grid are being handed to Big Tech by MAGA Socialism!\nThis …",
+      "source": "Offgridsurvival.com",
+      "url": "https://offgridsurvival.com/maga-socialism-the-feds-just-handed-public-land-to-a-texas-hedge-fund-for-datacenters-in-a-desert/",
+      "time": "2026-07-29T21:50:21",
       "country": "US",
-      "title_ur": "کس طرح مامدانی کا پائیڈ-ا-ٹیر ٹیکس NYC کے کاروباری رہنماؤں کو دہانے پر دھکیل رہا ہے - اور جنگ کو جنم دے سکتا ہے",
-      "desc_ur": "شہر کا سب سے بڑا کاروباری وکالت گروپ، پارٹنرشپ فار نیو یارک سٹی، ایک ساتھ ایکشن کے لیے ایک منصوبہ بنا رہا ہے۔"
+      "title_ur": "MAGA سوشلزم: فیڈز نے صرف ایک صحرا میں ڈیٹا سینٹرز کے لیے ٹیکساس کے ہیج فنڈ کو پبلک لینڈ سونپ دی!",
+      "desc_ur": "MAGA سوشلزم: فیڈز نے صرف ایک صحرا میں ڈیٹا سینٹرز کے لیے ٹیکساس کے ہیج فنڈ کو پبلک لینڈ سونپ دی!\nایک شمسی منصوبہ تقریباً راتوں رات ایک بڑے AI ڈیٹا سینٹر بن گیا۔ اب نیواڈا کی زمین، پانی اور پاور گرڈ کو MAGA سوشلزم کے ذریعے بگ ٹیک کے حوالے کیا جا رہا ہے!\nیہ…"
     },
     {
-      "title": "Trump Says He’d Be ‘Disappointed’ If China Sends Weapons to Iran",
-      "desc": "President Donald Trump said he would be “disappointed” in China if they provided weapons to Iran, repeating assurances he said Xi Jinping had made to him that Beijing would not sell arms to Tehran.",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/trump-says-hed-be-disappointed-if-china-sends-weapons-to-iran",
-      "time": "2026-07-29T20:36:53",
-      "country": "Iran",
-      "title_ur": "ٹرمپ کا کہنا ہے کہ اگر چین ایران کو ہتھیار بھیجتا ہے تو وہ 'مایوس' ہوں گے۔",
-      "desc_ur": "صدر ڈونلڈ ٹرمپ نے کہا کہ اگر چین ایران کو ہتھیار فراہم کرتا ہے تو وہ \"مایوس\" ہوں گے، اس یقین دہانی کو دہراتے ہوئے انہوں نے کہا کہ شی جن پنگ نے ان سے کہا تھا کہ بیجنگ تہران کو ہتھیار فروخت نہیں کرے گا۔"
-    },
-    {
-      "title": "Right-Wing UFC Star Compares MAGA Rally Vibes To Hitler: ‘I’m Not Even F**king Joking’",
-      "desc": "“When you go to a Trump rally, it makes you question the sanity of everybody,” Sean Strickland said.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/sean-strickland-ufc-maga-rally-trump-hitler_n_6a6a52bce4b0fddbd712c633",
-      "time": "2026-07-29T20:32:16",
+      "title": "WATCH: Older Americans over 60 lost nearly $8 billion to scammers in 2025",
+      "desc": "Scammers are after considerable assets built over a retiree's lifetime.",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/video/135203911/",
+      "time": "2026-07-29T21:49:19",
       "country": "US",
-      "title_ur": "دائیں بازو کے UFC اسٹار نے MAGA ریلی وائبس کا ہٹلر سے موازنہ کیا: 'میں F** کنگ مذاق بھی نہیں کر رہا ہوں'",
-      "desc_ur": "شان سٹرک لینڈ نے کہا، ’’جب آپ ٹرمپ کی ریلی میں جاتے ہیں، تو یہ آپ کو ہر ایک کی عقل پر سوالیہ نشان بنا دیتا ہے۔"
+      "title_ur": "دیکھو: 60 سال سے زیادہ عمر کے امریکیوں نے 2025 میں دھوکہ بازوں کے ہاتھوں تقریباً 8 بلین ڈالر کا نقصان کیا",
+      "desc_ur": "اسکیمرز ریٹائر ہونے والے کی زندگی بھر میں بنائے گئے کافی اثاثوں کے بعد ہوتے ہیں۔"
     },
     {
-      "title": "Real Madrid confident of Rodri deal - Thursday's gossip",
-      "desc": "Real Madrid confident in securing a deal for Manchester City's Rodri, Inter Milan could rekindle move for Liverpool's Curtis Jones, Aston Villa have bid for Palmeiras forward Allan rejected, plus more.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/sport/football/articles/cvgj861zn59o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "time": "2026-07-29T20:31:10",
-      "country": "US",
-      "title_ur": "ریئل میڈرڈ کو روڈری ڈیل پر یقین ہے - جمعرات کی گپ شپ",
-      "desc_ur": "ریئل میڈرڈ مانچسٹر سٹی کے روڈری کے لئے ایک معاہدے کو حاصل کرنے میں پراعتماد ہے، انٹر میلان لیورپول کے کرٹس جونز کے لئے دوبارہ پیش قدمی کر سکتا ہے، آسٹن ولا نے پالمیراس فارورڈ ایلن کے لئے بولی کو مسترد کر دیا ہے، اور مزید کچھ۔"
+      "title": "Inside The Final Days Of Nicolae Ceaușescu, The Romanian Dictator Executed On Christmas Day",
+      "desc": "On Christmas Day 1989, Nicolae Ceauşescu and his wife were executed after the people of Romania overthrew the dictator's communist government.\nThe post Inside The Final Days Of Nicolae Ceaușescu, The Romanian Dictator Executed On Christmas Day appeared first …",
+      "source": "Allthatsinteresting.com",
+      "url": "https://allthatsinteresting.com/nicolae-ceausescu",
+      "time": "2026-07-29T21:45:47",
+      "country": "International",
+      "title_ur": "نیکولائی سیوسکو کے آخری دنوں کے اندر، رومانیہ کے ڈکٹیٹر کو کرسمس کے دن پھانسی دے دی گئی۔",
+      "desc_ur": "کرسمس کے دن 1989 میں، نیکولائی سیوشیسکو اور ان کی اہلیہ کو رومانیہ کے لوگوں کی جانب سے آمر کی کمیونسٹ حکومت کا تختہ الٹنے کے بعد پھانسی دے دی گئی۔\nThe post کرسمس کے دن رومانیہ کے ڈکٹیٹر کو پھانسی دی گئی نکولائی سیوسکو کے آخری دنوں کے اندر"
     },
     {
-      "title": "Videos show aftermath of US-Saudi strikes on Iraq PMF bases",
-      "desc": "US and Saudi forces launched coordinated airstrikes targeting Iran-backed Popular Mobilisation Forces (PMF) bases",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/videos-show-aftermath-of-us-saudi-strikes-on-iraq-pmf-bases",
-      "time": "2026-07-29T20:31:10",
-      "country": "Iran",
-      "title_ur": "ویڈیوز میں عراق میں PMF کے اڈوں پر امریکی-سعودی حملوں کے بعد دکھایا گیا ہے۔",
-      "desc_ur": "امریکی اور سعودی افواج نے ایران کی حمایت یافتہ پاپولر موبلائزیشن فورسز (PMF) کے ٹھکانوں کو نشانہ بنانے کے لیے مربوط فضائی حملے کیے"
-    },
-    {
-      "title": "Saudi defense minister holds urgent meeting with Vance after Iraq strikes",
-      "desc": "Saudi Defense Minister Prince Khalid bin Salman told Vice President Vance at the White House Wednesday that despite the joint U.S.-Saudi strike on pro-Iranian militias in Iraq, Saudi Arabia still favors de-escalation with Iran, a source familiar with the meet…",
+      "title": "Trump Pledges Retaliatory Strikes on Iran",
+      "desc": "Plus, Meta and Microsoft report earnings, and a WSJ reporter attends a secluded getaway for burned out executives",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/f4e2e07641948e8c",
-      "time": "2026-07-29T20:30:36",
+      "url": "https://biztoc.com/x/5f66ffbe3e4fea5a",
+      "time": "2026-07-29T21:45:45",
       "country": "Iran",
-      "title_ur": "سعودی وزیر دفاع نے عراق پر حملے کے بعد وینس سے فوری ملاقات کی۔",
-      "desc_ur": "سعودی وزیر دفاع شہزادہ خالد بن سلمان نے بدھ کے روز وائٹ ہاؤس میں نائب صدر وینس کو بتایا کہ عراق میں ایران نواز ملیشیاؤں پر امریکی-سعودی مشترکہ حملے کے باوجود، سعودی عرب اب بھی ایران کے ساتھ کشیدگی میں کمی کا حامی ہے، ملاقات سے واقف ایک ذریعہ…"
+      "title_ur": "ٹرمپ نے ایران پر جوابی حملہ کرنے کا وعدہ کیا۔",
+      "desc_ur": "پلس، میٹا اور مائیکروسافٹ کی آمدنی کی رپورٹ، اور ایک WSJ رپورٹر جلائے گئے ایگزیکٹوز کے لیے ایک الگ تھلگ جگہ پر جا رہا ہے"
     },
     {
-      "title": "US military could require troops to surrender phones",
-      "desc": "The top U.S. commander for the Middle East has warned troops that cellphone videos shared online can help Iran target American bases, and sources said some personnel could soon be ordered to surrender their phones.",
-      "source": "Richmond.com",
-      "url": "https://richmond.com/news/nation-world/article_62ea5502-73e9-5b46-9ba0-168a8f3561f4.html",
-      "time": "2026-07-29T20:30:00",
-      "country": "Iran",
-      "title_ur": "امریکی فوج فوجیوں سے فون کے حوالے کرنے کی ضرورت کر سکتی ہے۔",
-      "desc_ur": "مشرق وسطیٰ کے لیے اعلیٰ امریکی کمانڈر نے فوجیوں کو متنبہ کیا ہے کہ آن لائن شیئر کی جانے والی سیل فون ویڈیوز سے ایران کو امریکی اڈوں کو نشانہ بنانے میں مدد مل سکتی ہے، اور ذرائع کا کہنا ہے کہ کچھ اہلکاروں کو جلد ہی اپنے فون حوالے کرنے کا حکم دیا جا سکتا ہے۔"
+      "title": "When Did Normal Become \"Far-Right\"?",
+      "desc": "While talking to a British reporter, Elon Musk made what I thought was an extremely important point about the “far-right”: Rupert Lowe MP @RupertLowe10 This 'journalist' tries to paint me as 'far-right' and racist. Elon shuts her, and the entire mainstream me…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-chat/4389850/posts",
+      "time": "2026-07-29T21:45:08",
+      "country": "UK",
+      "title_ur": "نارمل \"بہت دائیں\" کب ہوا؟",
+      "desc_ur": "ایک برطانوی رپورٹر سے بات کرتے ہوئے، ایلون مسک نے جو میرے خیال میں \"دور دائیں\" کے بارے میں ایک انتہائی اہم نکتہ تھا: روپرٹ لو ایم پی @ RupertLowe10 یہ 'صحافی' مجھے 'دور دائیں' اور نسل پرست کے طور پر پینٹ کرنے کی کوشش کرتا ہے۔ ایلون نے اسے بند کر دیا، اور پورا مین اسٹریم مجھے…"
     },
     {
-      "title": "Alerus Financial Corporation Reports Second Quarter 2026 Net Income of $20.9 Million",
-      "desc": "MINNEAPOLIS, July 29, 2026 (GLOBE NEWSWIRE) -- Alerus Financial Corporation (Nasdaq: ALRS), or the Company, reported net income of $20.9 million for the second quarter of 2026, or $0.81 per diluted common share, compared to net income of $23.0 million, or $0.…",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/07/29/3335622/0/en/Alerus-Financial-Corporation-Reports-Second-Quarter-2026-Net-Income-of-20-9-Million.html",
-      "time": "2026-07-29T20:30:00",
-      "country": "US",
-      "title_ur": "Alerus Financial Corporation کی دوسری سہ ماہی 2026 کی 20.9 ملین ڈالر کی خالص آمدنی کی رپورٹ",
-      "desc_ur": "منیپولس، 29 جولائی، 2026 (گلوبی نیوز وائر) -- ایلرس فائنانشل کارپوریشن (نیس ڈیک: اے ایل آر ایس)، یا کمپنی نے 2026 کی دوسری سہ ماہی کے لیے $20.9 ملین کی خالص آمدنی، یا $0.81 فی گھٹا ہوا مشترکہ شیئر، $23.0 ملین کی خالص آمدنی کے مقابلے میں رپورٹ کی۔"
-    },
-    {
-      "title": "How to End the Iran War",
-      "desc": "Trump needs to learn the diplomatic art of losing well.",
-      "source": "Foreign Policy",
-      "url": "http://foreignpolicy.com/2026/07/29/trump-iran-hormuz-mou-cease-fire-energy-peace/",
-      "time": "2026-07-29T20:28:47",
-      "country": "Iran",
-      "title_ur": "ایران جنگ کو کیسے ختم کیا جائے۔",
-      "desc_ur": "ٹرمپ کو اچھی طرح سے ہارنے کا سفارتی فن سیکھنے کی ضرورت ہے۔"
-    },
-    {
-      "title": "Iran mines US troops' social media as military considers seizing cellphones",
-      "desc": "Adm. Brad Cooper warned that photos and videos posted online give Iran near-real-time battle-damage assessments that could cost American lives.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/iran-mines-us-troops-social-media-military-considers-seizing-cellphones",
-      "time": "2026-07-29T20:27:51",
-      "country": "Iran",
-      "title_ur": "ایران امریکی فوجیوں کے سوشل میڈیا پر بارودی سرنگیں لگا رہا ہے کیونکہ فوج موبائل فون ضبط کرنے پر غور کر رہی ہے۔",
-      "desc_ur": "ایڈمرل بریڈ کوپر نے خبردار کیا کہ آن لائن پوسٹ کی جانے والی تصاویر اور ویڈیوز سے ایران کو قریب قریب حقیقی جنگ میں ہونے والے نقصانات کا اندازہ ہوتا ہے جس سے امریکی جانیں ضائع ہو سکتی ہیں۔"
-    },
-    {
-      "title": "Progressives Try for a Purple State",
-      "desc": "Michigan could give them their biggest prize yet.",
-      "source": "The Atlantic",
-      "url": "https://www.theatlantic.com/politics/2026/07/michigan-primary-abdul-elsayed-progressives-stevens/688096/",
-      "time": "2026-07-29T20:26:52",
+      "title": "Here are the last times the Dow dropped by 1,000 points and what happened next",
+      "desc": "After the Dow falls by 1,000 points, the index typically is weak in the week that follows. The average then posts gains in the next month and three months.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/29/the-last-times-the-dow-fell-1000-points-and-what-happened-next.html",
+      "time": "2026-07-29T21:43:50",
       "country": "International",
-      "title_ur": "ترقی پسند جامنی ریاست کے لیے کوشش کرتے ہیں۔",
-      "desc_ur": "مشی گن انہیں اب تک کا سب سے بڑا انعام دے سکتا ہے۔"
+      "title_ur": "یہ ہیں آخری بار ڈاؤ میں 1,000 پوائنٹس کی کمی اور اس کے بعد کیا ہوا۔",
+      "desc_ur": "ڈاؤ میں 1,000 پوائنٹس کی کمی کے بعد، انڈیکس عام طور پر اگلے ہفتے میں کمزور ہوتا ہے۔ اس کے بعد اوسط اگلے مہینے اور تین مہینوں میں اضافہ پوسٹ کرتا ہے۔"
+    },
+    {
+      "title": "US-Iran conflict enters new phase as Saudi Arabia helps hit proxies and diplomacy stalls again",
+      "desc": "The stop-start fighting between the United States and Iran appears to have entered a new phase as Saudi Arabia has publicly joined military escalations against Tehran-backed proxies",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/US/wireStory/us-iran-conflict-enters-new-phase-saudi-arabia-135207119",
+      "time": "2026-07-29T21:42:26",
+      "country": "Iran",
+      "title_ur": "امریکہ ایران تنازعہ نئے مرحلے میں داخل ہوا کیونکہ سعودی عرب نے پراکسیوں اور سفارت کاری کے اسٹالوں کو دوبارہ نشانہ بنانے میں مدد کی",
+      "desc_ur": "ایسا لگتا ہے کہ امریکہ اور ایران کے درمیان اسٹاپ اسٹارٹ لڑائی ایک نئے مرحلے میں داخل ہو گئی ہے کیونکہ سعودی عرب نے تہران کے حمایت یافتہ پراکسیوں کے خلاف فوجی کارروائیوں میں عوامی طور پر شمولیت اختیار کر لی ہے۔"
+    },
+    {
+      "title": "Trump Is ‘Exasperated’ on Iran",
+      "desc": "“As President Donald Trump weighs his next move on Iran, his top aides and allies can’t agree on a path forward,” NBC News reports. Said one U.S. official: “After all this time, there is no unity.” “Two others familiar with the White House discussions on the …",
+      "source": "Politicalwire.com",
+      "url": "https://politicalwire.com/2026/07/29/trump-exasperated-on-iran/",
+      "time": "2026-07-29T21:41:49",
+      "country": "Iran",
+      "title_ur": "ٹرمپ ایران پر ’پریشان‘ ہیں۔",
+      "desc_ur": "\"جیسا کہ صدر ڈونلڈ ٹرمپ ایران کے بارے میں اپنے اگلے اقدام پر غور کر رہے ہیں، ان کے اعلیٰ معاونین اور اتحادی آگے کی راہ پر متفق نہیں ہو سکتے،\" این بی سی نیوز کی رپورٹ۔ ایک امریکی اہلکار نے کہا: \"اس تمام عرصے کے بعد، کوئی اتحاد نہیں ہے۔\" \"وائٹ ہاؤس میں ہونے والی بات چیت سے واقف دو دیگر…"
+    },
+    {
+      "title": "Green mayor is blasted after giving twinned Israeli city an October 7 deadline to respond to plans to cut off all ties",
+      "desc": "Hackney mayor Zoe Garbett formally wrote to Mayor Yona Yahav of Haifa, Israel, on Wednesday to inform him of Hackney Council's decision to end its twinning agreement.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16014915/Green-mayor-Zoe-Garbett-twinned-Haifa-October-7.html",
+      "time": "2026-07-29T21:40:59",
+      "country": "Israel",
+      "title_ur": "جڑواں اسرائیلی شہر کو تمام تعلقات منقطع کرنے کے منصوبوں کا جواب دینے کے لیے 7 اکتوبر کی ڈیڈ لائن دینے کے بعد گرین میئر کو دھچکا لگا",
+      "desc_ur": "ہیکنی کے میئر زوے گاربیٹ نے بدھ کے روز ہیفہ، اسرائیل کے میئر یونا یاہو کو باضابطہ طور پر خط لکھا تاکہ انہیں ہیکنی کونسل کے اپنے جڑواں معاہدے کو ختم کرنے کے فیصلے سے آگاہ کیا جائے۔"
+    },
+    {
+      "title": "Trump Faces 'Immediate' Impeachment Calls From Ex-Ally Alex Jones as Prez's Iran War Rages On",
+      "desc": "In a video shared to X, Alex Jones called for President Donald Trump to be removed from office amid the ongoing conflict with Iran.",
+      "source": "Radaronline.com",
+      "url": "https://radaronline.com/p/donald-trump-immediate-impeachment-alex-jones-iran-war/",
+      "time": "2026-07-29T21:40:08",
+      "country": "Iran",
+      "title_ur": "ٹرمپ کو سابق اتحادی ایلکس جونز کی جانب سے 'فوری' مواخذے کی کالوں کا سامنا ہے کیونکہ صدر کی ایران جنگ جاری ہے۔",
+      "desc_ur": "ایکس کو شیئر کی گئی ایک ویڈیو میں، ایلکس جونز نے ایران کے ساتھ جاری تنازع کے درمیان صدر ڈونلڈ ٹرمپ کو عہدے سے ہٹانے کا مطالبہ کیا۔"
     }
   ],
   "pakistan": [
     {
-      "title": "Haftarah of Redemption",
-      "desc": "It is worthwhile to study this Haftarah because it describes what is destined to take place amongst the People of Israel, and indeed we are witnessing it with our own eyes.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/430967",
-      "time": "2026-07-29T20:13:06",
+      "title": "Will Pakistan intervene amid Houthi attacks on Saudi ships? - DW.com",
+      "desc": "Will Pakistan intervene amid Houthi attacks on Saudi ships?DW.com Houthis Claim Strike on Another Saudi Oil TankerThe New York Times EXCLUSIVE: Yemen's Houthis considering fees for ships sailing through Red Sea, sources sayReuters A Truce in Yemen Unravels, T…",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184755898",
+      "time": "2026-07-29T21:53:06",
       "country": "Pakistan",
-      "title_ur": "فدیہ کا حفترہ",
-      "desc_ur": "اس حفترہ کا مطالعہ کرنا فائدہ مند ہے کیونکہ اس میں بیان کیا گیا ہے کہ بنی اسرائیل کے درمیان کیا ہونے والا ہے اور ہم اپنی آنکھوں سے اس کا مشاہدہ کر رہے ہیں۔"
+      "title_ur": "کیا پاکستان سعودی جہازوں پر حوثیوں کے حملوں کے درمیان مداخلت کرے گا؟ - DW.com",
+      "desc_ur": "کیا پاکستان سعودی بحری جہازوں پر حوثیوں کے حملوں کے دوران مداخلت کرے گا؟ DW.com حوثیوں کا ایک اور سعودی آئل ٹینکر پر حملے کا دعویٰ نیویارک ٹائمز خصوصی: یمن کے حوثی بحیرہ احمر سے گزرنے والے بحری جہازوں کی فیسوں پر غور کر رہے ہیں، ذرائع کا کہنا ہے کہ یمن میں رائٹرز اے ٹروس کھولتا ہے، ٹی…"
     },
     {
-      "title": "Robinhood beats quarterly profit estimates as trading activity remains robust",
-      "desc": "July 29 : Robinhood Markets beat Wall Street estimates for second-quarter profit on Wednesday, as robust trading in equities, options and prediction markets helped offset weakness in cryptocurrency trading.Retail trading remained robust during the quarter as …",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/robinhood-beats-quarterly-profit-estimates-trading-activity-remains-robust-6286801",
-      "time": "2026-07-29T20:12:41",
+      "title": "Bloomberg investigates manipulation risks in prediction markets as $200M in suspicious trades surface",
+      "desc": "Manipulation in prediction markets could undermine trust, prompting regulatory scrutiny and potential reforms to safeguard market integrity.\nThe post Bloomberg investigates manipulation risks in prediction markets as $200M in suspicious trades surface appeare…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/bloomberg-prediction-markets-manipulation-risks/",
+      "time": "2026-07-29T21:14:04",
       "country": "Pakistan",
-      "title_ur": "رابن ہڈ سہ ماہی منافع کے تخمینے کو پیچھے چھوڑ دیتا ہے کیونکہ تجارتی سرگرمی مضبوط رہتی ہے۔",
-      "desc_ur": "29 جولائی: رابن ہڈ مارکیٹس نے بدھ کو دوسری سہ ماہی کے منافع کے لیے وال اسٹریٹ کے تخمینوں کو مات دے دی، کیونکہ ایکوئٹی، آپشنز اور پیشین گوئی کی مارکیٹوں میں مضبوط تجارت نے کرپٹو کرنسی ٹریڈنگ میں کمزوری کو دور کرنے میں مدد کی۔"
-    },
-    {
-      "title": "Trump and Netanyahu discussed ‘big three’ options to snuff out Iran in Oval Office meeting",
-      "desc": "President Trump and Israeli Prime Minister Benjamin Netanyahu on Tuesday focused on \"big three\" options for ending the war with Iran on Wednesday, coming up with new ideas — such as cutting off Iran's trade by ground — in a \"clinical\" conversation, senior Isr…",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/07/29/us-news/trump-and-netanyahu-discussed-big-three-options-to-snuff-out-iran-in-oval-office-meeting/",
-      "time": "2026-07-29T20:10:38",
-      "country": "Pakistan",
-      "title_ur": "ٹرمپ اور نیتن یاہو نے اوول آفس میٹنگ میں ایران کو ختم کرنے کے لیے 'بڑے تین' آپشنز پر تبادلہ خیال کیا۔",
-      "desc_ur": "صدر ٹرمپ اور اسرائیلی وزیر اعظم بنجمن نیتن یاہو نے منگل کو بدھ کو ایران کے ساتھ جنگ ​​ختم کرنے کے لیے \"بڑے تین\" آپشنز پر توجہ مرکوز کی، نئے آئیڈیاز کے ساتھ آ رہے ہیں - جیسے کہ ایران کی زمینی تجارت کو منقطع کرنا - ایک \"طبی\" گفتگو میں، سینئر اسر..."
-    },
-    {
-      "title": "How is Islamabad handling crisis in Pakistan-administered Kashmir?",
-      "desc": "Fatal confrontations between security forces and protesters have marred local elections.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/7/29/how-is-islamabad-handling-crisis-in-pakistan-administered-kashmir",
-      "time": "2026-07-29T20:08:09",
-      "country": "Pakistan",
-      "title_ur": "اسلام آباد پاکستان کے زیر انتظام کشمیر کے بحران سے کیسے نمٹ رہا ہے؟",
-      "desc_ur": "سیکورٹی فورسز اور مظاہرین کے درمیان مہلک تصادم نے بلدیاتی انتخابات کو متاثر کیا ہے۔"
+      "title_ur": "بلومبرگ پیشین گوئی کی منڈیوں میں ہیرا پھیری کے خطرات کی تحقیقات کرتا ہے کیونکہ مشکوک تجارت کی سطح پر $200M",
+      "desc_ur": "پیشن گوئی کی منڈیوں میں ہیرا پھیری سے اعتماد کو نقصان پہنچ سکتا ہے، جس سے ریگولیٹری جانچ پڑتال اور مارکیٹ کی سالمیت کے تحفظ کے لیے ممکنہ اصلاحات ہو سکتی ہیں۔\nThe post بلومبرگ نے پیشن گوئی کی منڈیوں میں ہیرا پھیری کے خطرات کی چھان بین کی ہے کیونکہ مشکوک تجارت میں $200M کی سطح ظاہر ہوتی ہے…"
     }
   ],
   "business": {
