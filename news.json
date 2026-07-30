@@ -1,193 +1,183 @@
 {
-  "generated": "2026-07-29T23:31:10Z",
+  "generated": "2026-07-30T01:51:41Z",
   "world": [
     {
-      "title": "US Says It Intercepted Iran Attack, Sending Oil Prices Surging",
-      "desc": "The US military said it had intercepted an Iranian attack on bases in the region, in what would be the first such attempted strike in days, sending crude oil prices soaring and raising fears of a return to war.",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/us-says-it-intercepted-iran-attack-sending-oil-prices-surging",
-      "time": "2026-07-28T23:28:18",
-      "country": "Iran",
-      "title_ur": "امریکہ کا کہنا ہے کہ اس نے ایران کے حملے کو روکا، تیل کی قیمتوں میں اضافہ ہوا۔",
-      "desc_ur": "امریکی فوج نے کہا کہ اس نے خطے میں اڈوں پر ایرانی حملے کو روک دیا ہے، جس میں دنوں میں اس طرح کی پہلی کوشش کی جائے گی، جس سے خام تیل کی قیمتوں میں اضافہ ہوا اور جنگ کی طرف واپسی کے خدشات بڑھ گئے۔"
-    },
-    {
-      "title": "Oil Jumps After Iran Attack, US Stock Futures Dip: Markets Wrap",
-      "desc": "Crude oil jumped and US equity-index futures fell after fighting erupted in the Middle East, reigniting tensions after several days of calm and reviving concerns over energy supplies.",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/oil-jumps-after-iran-attack-us-stock-futures-dip-markets-wrap",
-      "time": "2026-07-28T23:28:09",
-      "country": "Iran",
-      "title_ur": "ایران کے حملے کے بعد تیل کی چھلانگ، امریکی اسٹاک فیوچر گرا: مارکیٹس لپیٹ",
-      "desc_ur": "مشرق وسطیٰ میں لڑائی شروع ہونے کے بعد خام تیل کی قیمتوں میں اضافہ ہوا اور امریکی ایکویٹی انڈیکس فیوچر گرا، کئی دنوں کے پرسکون رہنے کے بعد تناؤ کو دوبارہ بحال کیا اور توانائی کی فراہمی پر خدشات کو بحال کیا۔"
-    },
-    {
-      "title": "Jay Clayton confirmed as Trump's new spymaster in party-line vote",
-      "desc": "The Senate confirmed Jay Clayton as President Donald Trump's new Director of National Intelligence, in a 51-47 vote following party lines, reported CBS News.The vote gives Trump his pick in an office responsible for coordinating all of America's intelligence …",
-      "source": "Raw Story",
-      "url": "https://www.rawstory.com/jay-clayton-2677284186/",
-      "time": "2026-07-28T23:28:07",
+      "title": "Oil prices rebound by more than $2 a barrel on prospect of tightening US crude supplies",
+      "desc": "Oil prices increased significantly on Wednesday due to declining U.S. crude inventories.  OPEC+ is expected to halt output increases starting in October, supporting prices.  Shrinking U.S. crude inventories contributed to the price surge in early trade.  Gaso…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-rebound-by-more-than-2-a-barrel-on-prospect-of-tightening-us-crude-supplies/articleshow/132697532.cms",
+      "time": "2026-07-29T01:50:20",
       "country": "US",
-      "title_ur": "جے کلیٹن نے پارٹی لائن ووٹ میں ٹرمپ کے نئے جاسوس کے طور پر تصدیق کی۔",
-      "desc_ur": "سی بی ایس نیوز کی خبر کے مطابق، سینیٹ نے جے کلیٹن کو صدر ڈونلڈ ٹرمپ کے نیشنل انٹیلی جنس کے نئے ڈائریکٹر کے طور پر، پارٹی لائنوں کے بعد 51-47 ووٹوں میں تصدیق کر دی۔"
+      "title_ur": "امریکی خام سپلائی کو سخت کرنے کے امکان پر تیل کی قیمتوں میں 2 ڈالر فی بیرل سے زیادہ کا اضافہ",
+      "desc_ur": "امریکی خام تیل کی انوینٹری میں کمی کی وجہ سے بدھ کو تیل کی قیمتوں میں نمایاں اضافہ ہوا۔  توقع ہے کہ OPEC+ اکتوبر سے پیداوار میں اضافے کو روک دے گا، قیمتوں کو سپورٹ کر رہا ہے۔  امریکی خام تیل کی انوینٹریوں کے سکڑنے سے ابتدائی تجارت میں قیمتوں میں اضافہ ہوا۔  گیسو…"
     },
     {
-      "title": "Mike Waltz: \"We're not backing down in Iran because our ammunition stockpile is depleted, it was depleted because of Biden, it's not depleted, and anyone saying that it is should be arrested.\" Well that makes perfect sense [Facepalm]",
-      "desc": "Mike Waltz: \"We're not backing down in Iran because our ammunition stockpile is depleted, it was depleted because of Biden, it's not depleted, and anyone saying that it is should be arrested.\" Well that makes perfect sense",
-      "source": "Fark.com",
-      "url": "https://www.fark.com/comments/14145762/Mike-Waltz-Were-not-backing-down-in-Iran-because-our-ammunition-stockpile-is-depleted-it-was-depleted-because-of-Biden-its-not-depleted-anyone-saying-that-it-is-should-be-arrested-Well-that-makes-perfect-sense",
-      "time": "2026-07-28T23:26:31",
+      "title": "US-Saudi joint strike targets Iran-backed groups in Iraq",
+      "desc": "The joint strike may escalate regional tensions, altering U.S.-Iran dynamics and impacting Gulf state security and market stability.\nThe post US-Saudi joint strike targets Iran-backed groups in Iraq appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/us-saudi-joint-strike-targets-iran-backed-groups-in-iraq/",
+      "time": "2026-07-29T01:48:03",
       "country": "Iran",
-      "title_ur": "مائیک والٹز: \"ہم ایران میں پیچھے نہیں ہٹ رہے ہیں کیونکہ ہمارا گولہ بارود کا ذخیرہ ختم ہو گیا ہے، یہ بائیڈن کی وجہ سے ختم ہوا، یہ ختم نہیں ہوا، اور جو بھی یہ کہے کہ اسے گرفتار کیا جانا چاہیے۔\" ٹھیک ہے یہ کامل معنی رکھتا ہے [فیس پالم]",
-      "desc_ur": "مائیک والٹز: \"ہم ایران میں پیچھے نہیں ہٹ رہے ہیں کیونکہ ہمارا گولہ بارود کا ذخیرہ ختم ہو گیا ہے، یہ بائیڈن کی وجہ سے ختم ہوا، یہ ختم نہیں ہوا، اور جو بھی یہ کہے کہ اسے گرفتار کیا جانا چاہیے۔\" ٹھیک ہے یہ کامل معنی رکھتا ہے۔"
+      "title_ur": "امریکہ سعودی مشترکہ حملہ عراق میں ایران کے حمایت یافتہ گروہوں کو نشانہ بناتا ہے۔",
+      "desc_ur": "مشترکہ ہڑتال علاقائی کشیدگی کو بڑھا سکتی ہے، امریکہ-ایران کی حرکیات کو تبدیل کر سکتی ہے اور خلیجی ریاستوں کی سلامتی اور مارکیٹ کے استحکام کو متاثر کر سکتی ہے۔\nThe post امریکا سعودی مشترکہ حملے میں عراق میں ایران کے حمایت یافتہ گروپوں کو نشانہ بنایا گیا appeared first on Crypto Briefing."
     },
     {
-      "title": "US military says intercepted missiles launched by Iran",
-      "desc": "WASHINGTON: The US military said Tuesday (Jul 28) it had intercepted multiple missiles launched by Iran, ending a days-long respite in attacks between the foes.\"At 5.45pm ET today, Islamic Revolutionary Guard Corps forces launched multiple ballistic missiles …",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/world/us-military-says-intercepted-missiles-launched-iran-6284471",
-      "time": "2026-07-28T23:25:00",
-      "country": "Iran",
-      "title_ur": "امریکی فوج کا کہنا ہے کہ ایران کی جانب سے داغے گئے میزائلوں کو روکا گیا۔",
-      "desc_ur": "واشنگٹن: امریکی فوج نے منگل (28 جولائی) کو کہا کہ اس نے ایران کی طرف سے داغے گئے متعدد میزائلوں کو روک دیا ہے، جس سے دشمنوں کے درمیان حملوں میں ایک دن کی مہلت ختم ہوئی۔\" آج شام 5.45 بجے ET پر، اسلامی انقلابی گارڈ کور فورسز نے متعدد بیلسٹک میزائل داغے…"
+      "title": "Gift Nifty signals positive opening; markets await US Fed decision despite West Asia tensions",
+      "desc": "Strong industrial growth and healthy earnings support market sentiment, but investors remain focused on the US Fed policy outcome, crude oil prices and geopolitical developments before taking fresh positions",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/gift-nifty-signals-positive-opening-markets-await-us-fed-decision-despite-west-asia-tensions/article71279590.ece",
+      "time": "2026-07-29T01:42:30",
+      "country": "US",
+      "title_ur": "گفٹ نفٹی مثبت آغاز کا اشارہ دیتا ہے۔ مغربی ایشیا میں کشیدگی کے باوجود مارکیٹیں امریکی فیڈ کے فیصلے کا انتظار کر رہی ہیں۔",
+      "desc_ur": "مضبوط صنعتی نمو اور صحت مند آمدنی مارکیٹ کے جذبات کو سہارا دیتی ہے، لیکن سرمایہ کار نئی پوزیشن لینے سے پہلے امریکی فیڈ پالیسی کے نتائج، خام تیل کی قیمتوں اور جغرافیائی سیاسی پیش رفت پر مرکوز رہتے ہیں۔"
     },
     {
-      "title": "Iran’s Revolutionary Guards fire missiles at US forces in Jordan",
-      "desc": "The US military says it intercepted multiple missiles launched by Iran, marking the first reported Iranian attack on an American target since President Donald Trump declared over the weekend that he would halt strikes following two weeks of fighting. “Islamic…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4389725/posts",
-      "time": "2026-07-28T23:23:31",
-      "country": "Iran",
-      "title_ur": "ایران کے پاسداران انقلاب نے اردن میں امریکی افواج پر میزائل داغے۔",
-      "desc_ur": "امریکی فوج کا کہنا ہے کہ اس نے ایران کی طرف سے داغے گئے متعدد میزائلوں کو روکا، جو کہ صدر ڈونلڈ ٹرمپ کی طرف سے ہفتے کے آخر میں دو ہفتوں کی لڑائی کے بعد حملے روکنے کے اعلان کے بعد سے کسی امریکی ہدف پر ایرانی حملے کی پہلی اطلاع ہے۔ \"اسلامی…"
-    },
-    {
-      "title": "After days of calm, U.S. says it intercepted Iranian missile attack on American troops",
-      "desc": "Iran launched multiple ballistic missiles at American forces in the Middle East on Tuesday, shattering a brief pause in fighting as mediators tried to get both sides back to negotiations and toward a ceasefire, the U.S. military said.",
-      "source": "CBC News",
-      "url": "https://www.cbc.ca/news/world/us-iran-attack-9.7288259",
-      "time": "2026-07-28T23:21:59",
-      "country": "Iran",
-      "title_ur": "کئی دنوں کے سکون کے بعد، امریکہ کا کہنا ہے کہ اس نے امریکی فوجیوں پر ایرانی میزائل حملے کو روک دیا۔",
-      "desc_ur": "امریکی فوج نے کہا کہ ایران نے منگل کو مشرق وسطیٰ میں امریکی افواج پر متعدد بیلسٹک میزائل داغے، جس سے لڑائی میں ایک مختصر وقفہ ٹوٹ گیا کیونکہ ثالثوں نے دونوں فریقوں کو مذاکرات اور جنگ بندی کی طرف واپس لانے کی کوشش کی۔"
-    },
-    {
-      "title": "Lindsey Graham Funeral Draws Trump, Netanyahu, Zelenskyy",
-      "desc": "President Donald Trump and US lawmakers remembered the late Republican Senator Lindsey Graham at a memorial in the US Capitol and later a funeral at Washington National Cathedral. #trump #usa #news #politics #israel #ukraine \nThe memorial came at a critical t…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/896338674492e568",
-      "time": "2026-07-28T23:17:02",
+      "title": "Trump on meeting with Netanyahu: Many important subjects were discussed",
+      "desc": "President Trump says his meeting with Netanyahu was very good: Obviously, many important subjects were discussed.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/430915",
+      "time": "2026-07-29T01:40:17",
       "country": "Israel",
-      "title_ur": "لنڈسے گراہم کی آخری رسومات ٹرمپ، نیتن یاہو، زیلنسکی کو کھینچتی ہیں۔",
-      "desc_ur": "صدر ڈونلڈ ٹرمپ اور امریکی قانون سازوں نے آنجہانی ریپبلکن سینیٹر لنڈسے گراہم کو یو ایس کیپیٹل میں ایک یادگار اور بعد میں واشنگٹن نیشنل کیتھیڈرل میں جنازے میں یاد کیا۔ #trump #usa #news #politics #israel #ukraine \nیادگار ایک نازک وقت پر آیا…"
+      "title_ur": "نیتن یاہو سے ملاقات پر ٹرمپ: کئی اہم موضوعات پر بات چیت ہوئی۔",
+      "desc_ur": "صدر ٹرمپ کا کہنا ہے کہ نیتن یاہو سے ان کی ملاقات بہت اچھی رہی: ظاہر ہے کہ بہت سے اہم موضوعات پر بات ہوئی۔"
     },
     {
-      "title": "Trump Crashes Into Reality",
-      "desc": "The president is learning that limits to his power—and, soon, his relevancy—do exist.",
-      "source": "The Atlantic",
-      "url": "https://www.theatlantic.com/politics/2026/07/trump-iran-midterms/688089/",
-      "time": "2026-07-28T23:17:00",
-      "country": "US",
-      "title_ur": "ٹرمپ حقیقت میں گر کر تباہ",
-      "desc_ur": "صدر یہ سیکھ رہے ہیں کہ ان کی طاقت تک محدود ہے اور جلد ہی اس کی مطابقت بھی موجود ہے۔"
-    },
-    {
-      "title": "UK faces ‘very difficult trade-offs’ in budget because of Iran war, say analysts",
-      "desc": "Leading thinktank says higher oil prices and inflation will give Andy Burnham a ‘challenging inheritance’\nAndy Burnham has been warned by a leading thinktank of “very difficult trade-offs in the next autumn budget” if the Iran war keeps oil prices and inflati…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/a49aa28b637eb307",
-      "time": "2026-07-28T23:17:00",
-      "country": "Iran",
-      "title_ur": "تجزیہ کاروں کا کہنا ہے کہ ایران جنگ کی وجہ سے برطانیہ کو بجٹ میں 'بہت مشکل تجارت' کا سامنا ہے۔",
-      "desc_ur": "معروف تھنک ٹینک کا کہنا ہے کہ تیل کی اونچی قیمتیں اور افراط زر اینڈی برنہم کو 'مشکل میراث' دے گا۔\nاینڈی برنہم کو ایک سرکردہ تھنک ٹینک نے خبردار کیا ہے کہ اگر ایران جنگ تیل کی قیمتوں کو برقرار رکھتی ہے اور افراط زر کو برقرار رکھتی ہے تو \"اگلے موسم خزاں کے بجٹ میں بہت مشکل تجارت\" ہوگی۔"
-    },
-    {
-      "title": "Yemen’s Houthis claim missile attack on Saudi Arabia oil tanker",
-      "desc": "The Houthis recently declared a naval blockade on Saudi Arabia in the Red Sea, targeting several tankers.",
+      "title": "Saudi Arabia, US carry out strikes on Iran-backed groups in Iraq",
+      "desc": "Riyadh says its targeted attacks were done in coordination with the US military.",
       "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/7/28/yemens-houthis-claim-missile-attack-on-saudi-arabia-oil-tanker",
-      "time": "2026-07-28T23:16:44",
-      "country": "Saudi Arabia",
-      "title_ur": "یمن کے حوثی باغیوں نے سعودی عرب کے آئل ٹینکر پر میزائل حملے کا دعویٰ کیا ہے۔",
-      "desc_ur": "حوثیوں نے حال ہی میں بحیرہ احمر میں سعودی عرب پر بحری ناکہ بندی کا اعلان کیا تھا، جس میں کئی ٹینکروں کو نشانہ بنایا گیا تھا۔"
-    },
-    {
-      "title": "3 women stabbed in Paris; suspect arrested, says, ‘Allah commanded me’",
-      "desc": "French police detained a man on Monday after he attacked three women with knives near Porte de Clichy in Paris, Interior Minister Laurent Nunez told reporters. The man attacked the three women, who were aged 19, 24 and 36, with two kitchen knives, severely wo…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4389723/posts",
-      "time": "2026-07-28T23:16:07",
-      "country": "US",
-      "title_ur": "پیرس میں 3 خواتین پر چاقو کے وار; ملزم گرفتار، کہتا ہے اللہ نے مجھے حکم دیا تھا",
-      "desc_ur": "فرانسیسی پولیس نے پیر کو پیرس میں پورٹ ڈی کلیچی کے قریب تین خواتین پر چاقو سے حملہ کرنے کے بعد ایک شخص کو حراست میں لے لیا، وزیر داخلہ لارینٹ نونیز نے صحافیوں کو بتایا۔ اس شخص نے تین خواتین پر، جن کی عمریں 19، 24 اور 36 سال تھیں، پر کچن کے دو چاقوؤں سے حملہ کیا، شدید زخمی…"
-    },
-    {
-      "title": "Saudi Arabia says it shot down more drones as Houthis claim to have turned back tanker - AP News",
-      "desc": "Saudi Arabia says it shot down more drones as Houthis claim to have turned back tankerAP News Saudi Arabia says it intercepted drones launched from Iraq targeting oil facilitiesReuters Satellite Shots of Smoke at Saudi Oil Sites Keep Traders on EdgeBloomberg.…",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184741856",
-      "time": "2026-07-28T23:13:42",
-      "country": "Iraq",
-      "title_ur": "سعودی عرب کا کہنا ہے کہ اس نے مزید ڈرون مار گرائے ہیں کیونکہ حوثیوں نے ٹینکر واپس کرنے کا دعویٰ کیا ہے – اے پی نیوز",
-      "desc_ur": "سعودی عرب کا کہنا ہے کہ اس نے مزید ڈرون مار گرائے ہیں کیونکہ حوثیوں نے ٹینکر واپس کرنے کا دعویٰ کیا ہے اے پی نیوز سعودی عرب کا کہنا ہے کہ اس نے عراق سے تیل کی تنصیبات کو نشانہ بنانے والے ڈرونز کو روکا ہے۔"
-    },
-    {
-      "title": "CENTCOM Announces Iran Targeted U.S. Forces in ‘Attempted Surprise Attack’ As Trump’s Strikes Pause Crumbles",
-      "desc": "U.S. military forces were targeted by multiple ballistic missiles from the Islamic Revolutionary Guard Corps, ending a momentary pause in the war.\nThe post CENTCOM Announces Iran Targeted U.S. Forces in ‘Attempted Surprise Attack’ As Trump’s Strikes Pause Cru…",
-      "source": "Mediaite",
-      "url": "https://www.mediaite.com/media/news/centcom-announces-iran-targeted-u-s-forces-in-attempted-surprise-attack-as-trumps-strikes-pause-crumbles/",
-      "time": "2026-07-28T23:12:47",
+      "url": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-us-carry-out-strikes-on-iran-backed-groups-in-iraq",
+      "time": "2026-07-29T01:37:23",
       "country": "Iran",
-      "title_ur": "CENTCOM نے اعلان کیا کہ ٹرمپ کی ہڑتالوں کے توقف کے ساتھ ہی ایران نے امریکی افواج کو 'حیرت انگیز حملے کی کوشش' میں نشانہ بنایا",
-      "desc_ur": "امریکی فوجی دستوں کو اسلامی انقلابی گارڈ کور کے متعدد بیلسٹک میزائلوں سے نشانہ بنایا گیا، جس سے جنگ میں ایک لمحاتی وقفہ ختم ہوا۔\nThe post CENTCOM نے اعلان کیا کہ ایران نے امریکی افواج کو 'حیرت انگیز حملے کی کوشش' میں نشانہ بنایا جیسا کہ ٹرمپ کے حملوں کو روک دیا گیا ہے..."
+      "title_ur": "سعودی عرب، امریکہ عراق میں ایران کے حمایت یافتہ گروہوں پر حملے کر رہے ہیں۔",
+      "desc_ur": "ریاض کا کہنا ہے کہ اس کے ٹارگٹڈ حملے امریکی فوج کے ساتھ مل کر کیے گئے۔"
     },
     {
-      "title": "Fox News Has Mentioned Fauci 343 Times Since Monday. CNN and MS NOW Combined? 11",
-      "desc": "Depending on which network you've been watching — Dr. Anthony Fauci's newly-released diaries are either the biggest story in America, or a total nothingburger.\nThe post Fox News Has Mentioned Fauci 343 Times Since Monday. CNN and MS NOW Combined? 11 first app…",
-      "source": "Mediaite",
-      "url": "https://www.mediaite.com/media/news/fox-news-has-mentioned-fauci-343-times-since-monday-cnn-and-ms-now-combined-11/",
-      "time": "2026-07-28T23:12:07",
+      "title": "Israel says it asked Canada for permission for Netanyahu to use Canadian airspace",
+      "desc": "The Israeli government has told CBC News that it requested permission for wanted Israeli Prime Minister Benjamin Netanyahu to overfly Newfoundland and Nova Scotia on Monday en route to a meeting with U.S. President Donald Trump. Canadian officials are again r…",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/news/politics/netanyahu-flight-canadian-airspace-9.7288211",
+      "time": "2026-07-29T01:35:12",
+      "country": "Israel",
+      "title_ur": "اسرائیل کا کہنا ہے کہ اس نے کینیڈا سے نیتن یاہو سے کینیڈا کی فضائی حدود استعمال کرنے کی اجازت مانگی تھی۔",
+      "desc_ur": "اسرائیلی حکومت نے سی بی سی نیوز کو بتایا ہے کہ اس نے امریکی صدر ڈونلڈ ٹرمپ کے ساتھ ملاقات کے لیے پیر کو نیو فاؤنڈ لینڈ اور نووا اسکاٹیا کو اوور فلائی کرنے کے لیے مطلوب اسرائیلی وزیر اعظم بنجمن نیتن یاہو کے لیے اجازت کی درخواست کی تھی۔ کینیڈین حکام نے ایک بار پھر…"
+    },
+    {
+      "title": "Iran Launches Surprise Missile Attack on U.S. Forces",
+      "desc": "The strikes came before the U.S. military confirmed joint attacks with Saudi forces on Iran-backed groups in Iraq.",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/89fca2a86e9aaad3",
+      "time": "2026-07-29T01:33:47",
+      "country": "Iran",
+      "title_ur": "ایران نے امریکی افواج پر حیران کن میزائل حملہ کر دیا۔",
+      "desc_ur": "یہ حملے اس سے پہلے ہوئے جب امریکی فوج نے عراق میں ایران کے حمایت یافتہ گروپوں پر سعودی افواج کے ساتھ مشترکہ حملوں کی تصدیق کی۔"
+    },
+    {
+      "title": "Netanyahu Finds Diminished Welcome From Trump as Iran War Drags On",
+      "desc": "Before the two leaders met, the Trump administration pressed the Israeli prime minister to show he was serious about advancing peace talks in Lebanon and Gaza.",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/98d0049362655d85",
+      "time": "2026-07-29T01:33:47",
+      "country": "Iran",
+      "title_ur": "نیتن یاہو کو ٹرمپ کی جانب سے ایران کی جنگ میں کمی کا خیرمقدم ملا",
+      "desc_ur": "دونوں رہنماؤں کی ملاقات سے قبل ٹرمپ انتظامیہ نے اسرائیلی وزیراعظم پر دباؤ ڈالا کہ وہ یہ ظاہر کریں کہ وہ لبنان اور غزہ میں امن مذاکرات کو آگے بڑھانے میں سنجیدہ ہیں۔"
+    },
+    {
+      "title": "Iran Rejects Omani Proposal to Share Strait of Hormuz, Demands More Control",
+      "desc": "Mediators see Iran’s position on the critical waterway as a setback to efforts to revive U.S.-Iran peace deal.",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/346185da70dbf6bd",
+      "time": "2026-07-29T01:33:45",
+      "country": "Iran",
+      "title_ur": "ایران نے آبنائے ہرمز کو بانٹنے کی عمانی تجویز کو مسترد کرتے ہوئے مزید کنٹرول کا مطالبہ کر دیا۔",
+      "desc_ur": "ثالث اہم آبی گزرگاہ پر ایران کی پوزیشن کو امریکہ-ایران امن معاہدے کو بحال کرنے کی کوششوں کو ایک دھچکے کے طور پر دیکھتے ہیں۔"
+    },
+    {
+      "title": "'Doctor Jihad' claimed he never meant to join ISIS in resurfaced interview",
+      "desc": "An Australian man dubbed \"Dr Jihad\" claims he never intended to join Islamic State and never pledged allegiance to the extremist organisation, in a recently resurfaced interview.",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-07-29/dr-jihad-tareq-kamleh-interviewed-on-islamic-state-syria-prison/106969094",
+      "time": "2026-07-29T01:26:14",
       "country": "US",
-      "title_ur": "فاکس نیوز نے پیر سے اب تک 343 بار فوکی کا تذکرہ کیا ہے۔ CNN اور MS NOW مشترکہ؟ 11",
-      "desc_ur": "اس بات پر منحصر ہے کہ آپ کس نیٹ ورک کو دیکھ رہے ہیں — ڈاکٹر انتھونی فوکی کی نئی جاری کردہ ڈائریاں یا تو امریکہ کی سب سے بڑی کہانی ہیں، یا کل کچھ برگر۔\nThe post فاکس نیوز نے پیر سے اب تک 343 بار فوکی کا ذکر کیا ہے۔ CNN اور MS NOW مشترکہ؟ 11 پہلی ایپ…"
+      "title_ur": "'ڈاکٹر جہاد' نے دعویٰ کیا کہ اس کا مقصد کبھی بھی ISIS میں شامل ہونا نہیں تھا۔",
+      "desc_ur": "\"ڈاکٹر جہاد\" کہلانے والے ایک آسٹریلوی شخص نے حال ہی میں سامنے آنے والے ایک انٹرویو میں دعویٰ کیا ہے کہ اس نے کبھی بھی اسلامک اسٹیٹ میں شامل ہونے کا ارادہ نہیں کیا اور نہ ہی شدت پسند تنظیم سے وفاداری کا عہد کیا۔"
+    },
+    {
+      "title": "Saudi Defense Ministry spokesman: Not seeking escalation, but reserve the right to self-defense",
+      "desc": "The spokesperson for the Saudi Ministry of Defense, Major General Turki al-Malki, confirmed that the Saudi military executed targeted precision strikes in cooperation and coordination with the United States military against pro-Iranian militia targets in Iraq…",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/flashes/690757",
+      "time": "2026-07-29T01:25:07",
+      "country": "Iran",
+      "title_ur": "سعودی وزارت دفاع کے ترجمان: اضافہ نہیں چاہتے لیکن اپنے دفاع کا حق محفوظ رکھتے ہیں۔",
+      "desc_ur": "سعودی وزارت دفاع کے ترجمان میجر جنرل ترکی المالکی نے تصدیق کی ہے کہ سعودی فوج نے عراق میں ایران نواز ملیشیا کے اہداف کے خلاف امریکی فوج کے تعاون اور ہم آہنگی سے ٹارگٹڈ درست حملے کیے ہیں۔"
+    },
+    {
+      "title": "China's singing sailors could be latest weapon in fight for South China Sea",
+      "desc": "China's state media releases an English version of a love ballad about lovesick sailors in the South China Sea.",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-07-29/beijing-releases-south-china-sea-propaganda-love-song/106963804",
+      "time": "2026-07-29T01:20:45",
+      "country": "China",
+      "title_ur": "چین کے گانے والے ملاح جنوبی بحیرہ چین کی لڑائی میں جدید ترین ہتھیار ہو سکتے ہیں۔",
+      "desc_ur": "چین کے سرکاری میڈیا نے بحیرہ جنوبی چین میں محبت کے شکار ملاحوں کے بارے میں ایک محبت کے گیت کا انگریزی ورژن جاری کیا۔"
+    },
+    {
+      "title": "Media not invited as Trump, Netanyahu hold talks at the White House",
+      "desc": "US President Donald Trump has held talks at the White House with Israeli Prime Minister Benjamin Netanyahu.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/media-not-invited-as-trump-netanyahu-hold-talks-at-the-white-house",
+      "time": "2026-07-29T01:19:55",
+      "country": "Israel",
+      "title_ur": "میڈیا کو مدعو نہیں کیا گیا کیونکہ ٹرمپ، نیتن یاہو نے وائٹ ہاؤس میں بات چیت کی۔",
+      "desc_ur": "امریکی صدر ڈونلڈ ٹرمپ نے وائٹ ہاؤس میں اسرائیلی وزیراعظم بنجمن نیتن یاہو سے بات چیت کی ہے۔"
+    },
+    {
+      "title": "Saudi Arabia confirms attack on militias in Iraq",
+      "desc": "Saudi Arabia's defense ministry confirmed that its forces, \"in coordination with the US Central Command,\" attacked \"Iran-aligned\" militias in Iraq.Saudi forces \"conducted precise and targeted strikes ...",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/942a71ab18c2498f",
+      "time": "2026-07-29T01:18:34",
+      "country": "Iran",
+      "title_ur": "سعودی عرب نے عراق میں ملیشیا پر حملے کی تصدیق کر دی ہے۔",
+      "desc_ur": "سعودی عرب کی وزارت دفاع نے تصدیق کی ہے کہ اس کی افواج نے \"امریکی سینٹرل کمانڈ کے ساتھ مل کر\" عراق میں \"ایران سے منسلک\" ملیشیا پر حملہ کیا۔"
+    },
+    {
+      "title": "CNBC Daily Open: Renewed fire from Iran, a big quarter for SK Hynix and a quake in Japan",
+      "desc": "Hello, this is Anniek Bao writing to you from Singapore. Welcome to another edition of CNBC's Daily Open.\nA few nerves got tested overnight.\nIran launched a surprise missile attack on U.S. forces in the Middle East — and though the salvo was intercepted, it's…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/f1db231acf7cb303",
+      "time": "2026-07-29T01:18:05",
+      "country": "Iran",
+      "title_ur": "CNBC ڈیلی اوپن: ایران سے نئی آگ، SK Hynix کے لیے ایک بڑا چوتھائی اور جاپان میں زلزلہ",
+      "desc_ur": "ہیلو، یہ Anniek Bao آپ کو سنگاپور سے لکھ رہا ہے۔ CNBC کے ڈیلی اوپن کے ایک اور ایڈیشن میں خوش آمدید۔\nراتوں رات چند اعصاب کے ٹیسٹ ہوئے۔\nایران نے مشرق وسطیٰ میں امریکی افواج پر ایک حیرت انگیز میزائل حملہ کیا - اور اگرچہ سیلو کو روک دیا گیا تھا، یہ…"
     }
   ],
   "pakistan": [
     {
-      "title": "US, Saudi Arabia strike 'Iran-aligned terrorists' in Iraq after US reports intercepting Iranian missiles. Follow live",
-      "desc": "The US military said it thwarted an \"attempted surprise attack\" by Iran that came after a days-long lull in fighting. Meanwhile, Israel's Netanyahu hailed an \"excellent\" meeting with Trump. Follow DW. US military says Iranian ballistic missiles intercepted\nTh…",
-      "source": "DW (English)",
-      "url": "https://www.dw.com/en/iran-war-us-saudi-arabia-strike-iran-backed-iraqi-militias/live-78152241",
-      "time": "2026-07-28T23:04:00",
+      "title": "India slams POK elections, Pakistan's claims over Indus Valley legacy",
+      "desc": "India has condemned Pakistan's legislative assembly elections in Pakistan-occupied Kashmir. The Ministry of External Affairs called the polls a cosmetic exercise to hide illegal occupation. India reiterated its firm stance that the entire Union Territories of…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/india-slams-pok-elections-pakistans-claims-over-indus-valley-legacy/articleshow/132697250.cms",
+      "time": "2026-07-29T01:19:49",
       "country": "Pakistan",
-      "title_ur": "امریکہ کی جانب سے ایرانی میزائلوں کو روکنے کے بعد امریکہ اور سعودی عرب نے عراق میں 'ایران سے منسلک دہشت گردوں' پر حملہ کیا۔ لائیو فالو کریں۔",
-      "desc_ur": "امریکی فوج نے کہا کہ اس نے ایران کی طرف سے ایک \"سرپرائز حملے کی کوشش\" کو ناکام بنا دیا جو کئی دنوں تک جاری رہنے والی لڑائی کے بعد سامنے آیا۔ دریں اثنا، اسرائیل کے نیتن یاہو نے ٹرمپ کے ساتھ \"شاندار\" ملاقات کو سراہا۔ ڈی ڈبلیو کو فالو کریں۔ امریکی فوج کا کہنا ہے کہ ایرانی بیلسٹک میزائل کو روک دیا گیا ہے۔\nویں…"
+      "title_ur": "بھارت نے پی او کے انتخابات پر تنقید کی، وادی سندھ کی میراث پر پاکستان کے دعوے",
+      "desc_ur": "بھارت نے پاکستان کے زیر قبضہ کشمیر میں پاکستان کی قانون ساز اسمبلی کے انتخابات کی مذمت کی ہے۔ وزارت خارجہ نے انتخابات کو غیر قانونی قبضوں کو چھپانے کے لیے کاسمیٹک مشق قرار دیا۔ ہندوستان نے اپنے مضبوط موقف کا اعادہ کیا کہ پورے مرکز کے زیر انتظام علاقے…"
     },
     {
-      "title": "Oil Prices Ignore the Warning Signs in Physical Markets",
-      "desc": "Oil price movements since the start of March this year have become the topic of dozens of discussions. Many have been puzzled by futures prices and why they haven’t gone through the roof given the severe disruption in Middle Eastern supply. It appears the rea…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Ignore-the-Warning-Signs-in-Physical-Markets.html",
-      "time": "2026-07-28T23:00:00",
+      "title": "Oil falls below $84 amid renewed US-Iran diplomacy efforts",
+      "desc": "Global oil prices fall below $84 as renewed US-Iran diplomacy efforts ease fears of supply disruptions and potential Strait of Hormuz reopening.\n\nRead More: https://punchng.com/oil-falls-below-84-amid-renewed-us-iran-diplomacy-efforts/",
+      "source": "The Punch",
+      "url": "https://punchng.com/oil-falls-below-84-amid-renewed-us-iran-diplomacy-efforts/",
+      "time": "2026-07-29T01:06:11",
       "country": "Pakistan",
-      "title_ur": "تیل کی قیمتیں جسمانی بازاروں میں انتباہی علامات کو نظر انداز کرتی ہیں۔",
-      "desc_ur": "اس سال مارچ کے آغاز سے تیل کی قیمتوں میں اضافہ درجنوں بحثوں کا موضوع بن چکا ہے۔ بہت سے لوگ مستقبل کی قیمتوں سے پریشان ہیں اور مشرق وسطی کی سپلائی میں شدید رکاوٹ کے پیش نظر وہ چھت سے کیوں نہیں گزرے۔ ایسا لگتا ہے کہ…"
-    },
-    {
-      "title": "Abdul El-Sayed’s Fundraising on Private Charter Yachts for Islamic Charity Linked to Muslim Brotherhood Surfaces",
-      "desc": "The Washington Free Beacon has done some exceptional reporting on Michigan Senate candidate Abdul El-Sayed’s past connections with the Muslim Brotherhood. Between March 23 and April 6, 2019, he headlined four private luxury yacht fundraisers for an Islamic no…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4389718/posts",
-      "time": "2026-07-28T22:53:14",
-      "country": "Pakistan",
-      "title_ur": "اخوان المسلمین کی سطحوں سے منسلک اسلامی چیریٹی کے لیے پرائیویٹ چارٹر یاٹ پر عبد السید کا فنڈ ریزنگ",
-      "desc_ur": "واشنگٹن فری بیکن نے مشی گن سینیٹ کے امیدوار عبد السید کے اخوان المسلمین کے ساتھ ماضی کے روابط کے بارے میں کچھ غیر معمولی رپورٹنگ کی ہے۔ 23 مارچ اور 6 اپریل 2019 کے درمیان، اس نے ایک اسلامی نمبر کے لیے چار نجی لگژری یاٹ فنڈ ریزرز کو سرخی دی۔"
+      "title_ur": "امریکہ ایران سفارت کاری کی نئی کوششوں کے درمیان تیل کی قیمت $84 سے نیچے آ گئی۔",
+      "desc_ur": "عالمی سطح پر تیل کی قیمتیں 84 ڈالر سے نیچے آ گئی ہیں کیونکہ امریکہ اور ایران کی نئی سفارت کاری کی کوششوں نے سپلائی میں رکاوٹ اور آبنائے ہرمز کے دوبارہ کھلنے کے خدشات کو کم کیا ہے۔\n\nمزید پڑھیں: https://punchng.com/oil-falls-below-84-amid-renewed-us-iran-diplomacy-efforts/"
     }
   ],
   "business": {
-    "quote": "In the middle of difficulty lies opportunity.",
-    "author": "Albert Einstein",
-    "quote_ur": "مشکل کے بیچ میں موقع چھپا ہوتا ہے۔"
+    "quote": "Success usually comes to those who are too busy to be looking for it.",
+    "author": "Henry David Thoreau",
+    "quote_ur": "کامیابی عام طور پر ان لوگوں کو ملتی ہے جو اس کی تلاش میں مصروف رہنے سے زیادہ مصروف ہوتے ہیں۔"
   },
   "weather": {
     "city": "Lahore",
@@ -214,8 +204,8 @@
       {
         "date": "2026-08-01",
         "day": "ہفتہ",
-        "high": 33,
-        "low": 26,
+        "high": 32,
+        "low": 25,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
         "precip": 71
@@ -224,7 +214,7 @@
         "date": "2026-08-02",
         "day": "اتوار",
         "high": 32,
-        "low": 26,
+        "low": 25,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
         "precip": 65
@@ -241,8 +231,8 @@
       {
         "date": "2026-08-04",
         "day": "منگل",
-        "high": 31,
-        "low": 25,
+        "high": 32,
+        "low": 26,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
         "precip": 88
