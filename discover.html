@@ -147,7 +147,7 @@
   <script src="app.js"></script>
   <script>
     (function() {
-      var DATA = null;
+      var ALL = [];
 
       function showEmpty(prefix, label) {
         document.getElementById(prefix + 'Grid').innerHTML = '';
@@ -157,36 +157,37 @@
       }
 
       function render() {
-        if (!DATA) return;
+        if (!ALL.length) return;
 
-        var items = Array.isArray(DATA) ? DATA : [];
-        var facts = items.filter(function(d) { return d.type === 'fact'; });
-        var wit = items.filter(function(d) { return d.type === 'wit'; });
+        var facts = ALL.filter(function(d) { return d.subtype === 'fact'; });
+        var wit = ALL.filter(function(d) { return d.subtype === 'wit'; });
 
-        // Facts
         if (facts.length) {
           document.getElementById('factsEmpty').style.display = 'none';
           document.getElementById('factsCount').textContent = facts.length + ' amazing facts';
           document.getElementById('factsGrid').innerHTML = facts.map(function(f) {
+            var metaLabel = { 'A': '\u0634\u06cc\u0639\u06c1', 'B': '\u0627\u06c1\u0644\u0633\u0646\u062a', 'C': '\u0635\u0648\u0641\u06cc\u06c1', '2': '\u0627\u062f\u0639\u06cc\u06c1' }[f.meta_category] || '';
             return '<div class="discover-card">' +
-              (f.category ? '<div class="dc-badge">' + f.category + '</div>' : '') +
-              (f.urdu ? '<div class="dc-text rtl">' + f.urdu + '</div>' : '<div class="dc-text en">' + f.text + '</div>') +
-              '<div class="dc-source"><span><i class="fas fa-book"></i> ' + f.source + '</span></div>' +
+              (f.topic_category ? '<div class="dc-badge">' + f.topic_category + '</div>' : '') +
+              (metaLabel ? '<div class="dc-badge" style="background:rgba(212,168,67,0.1);color:var(--gold);">' + metaLabel + '</div>' : '') +
+              '<div class="dc-text rtl">' + (f.urdu_translation || f.original_text) + '</div>' +
+              '<div class="dc-source"><span><i class="fas fa-book"></i> ' + (f.source || f.author || 'Islamic Tradition') + '</span></div>' +
             '</div>';
           }).join('');
         } else {
           showEmpty('facts', 'facts');
         }
 
-        // Wit
         if (wit.length) {
           document.getElementById('witEmpty').style.display = 'none';
           document.getElementById('witCount').textContent = wit.length + ' literary wit entries';
           document.getElementById('witGrid').innerHTML = wit.map(function(w) {
+            var metaLabel = { 'A': '\u0634\u06cc\u0639\u06c1', 'B': '\u0627\u06c1\u0644\u0633\u0646\u062a', 'C': '\u0635\u0648\u0641\u06cc\u06c1', '2': '\u0627\u062f\u0639\u06cc\u06c1' }[w.meta_category] || '';
             return '<div class="discover-card">' +
-              (w.type ? '<div class="dc-badge">' + w.type + '</div>' : '') +
-              (w.urdu ? '<div class="dc-text rtl">' + w.urdu + '</div>' : '<div class="dc-text en">' + w.text + '</div>') +
-              '<div class="dc-source"><span><i class="fas fa-book"></i> ' + w.source + '</span></div>' +
+              (w.subtype ? '<div class="dc-badge">' + w.subtype + '</div>' : '') +
+              (metaLabel ? '<div class="dc-badge" style="background:rgba(212,168,67,0.1);color:var(--gold);">' + metaLabel + '</div>' : '') +
+              '<div class="dc-text rtl">' + (w.urdu_translation || w.original_text) + '</div>' +
+              '<div class="dc-source"><span><i class="fas fa-book"></i> ' + (w.source || w.author || 'Hikmah') + '</span></div>' +
             '</div>';
           }).join('');
         } else {
@@ -195,19 +196,22 @@
       }
 
       function renderPoetry(poems) {
+        if (!poems.length) return;
         document.getElementById('poetryEmpty').style.display = 'none';
         document.getElementById('poetryCount').textContent = poems.length + ' couplets';
         document.getElementById('poetryGrid').innerHTML = poems.map(function(p) {
+          var metaLabel = { 'A': '\u0634\u06cc\u0639\u06c1', 'B': '\u0627\u06c1\u0644\u0633\u0646\u062a', 'C': '\u0635\u0648\u0641\u06cc\u06c1', '2': '\u0627\u062f\u0639\u06cc\u06c1' }[p.meta_category] || '';
+          var lines = p.original_text ? p.original_text.split('\n') : [];
           return '<div class="discover-card poetry">' +
-            (p.theme || p.category ? '<div class="dc-badge">' + (p.theme || p.category) + '</div>' : '') +
+            (p.topic_category ? '<div class="dc-badge">' + p.topic_category + '</div>' : '') +
+            (metaLabel ? '<div class="dc-badge" style="background:rgba(212,168,67,0.1);color:var(--gold);">' + metaLabel + '</div>' : '') +
             '<div class="poem-misra-wrapper">' +
-            '<div class="poem-misra">' + (p.misra1 || (p.text && p.text.split('\n')[0]) || '') + '</div>' +
-            '<div class="poem-misra">' + (p.misra2 || (p.text && p.text.split('\n')[1]) || '') + '</div>' +
+            '<div class="poem-misra">' + (lines[0] || '') + '</div>' +
+            '<div class="poem-misra">' + (lines[1] || '') + '</div>' +
             '</div>' +
-            (p.urdu ? '<div class="poem-urdu" style="margin-top:0.6rem;direction:rtl;font-family:\'Noto Nastaliq Urdu\',serif;color:var(--text-light);font-size:0.8rem;line-height:1.6;text-align:center;">' + p.urdu + '</div>' : '') +
-            '<div class="dc-source"><span><i class="fas fa-user"></i> ' + p.poet + '</span><span><i class="fas fa-book"></i> ' + (p.source || '') + '</span></div>' +
-            (p.essence ? '<div class="poem-essence-foot">' + p.essence + '</div>' : '') +
-            (p.urdu_essence ? '<div class="poem-essence-foot" style="margin-top:0.25rem;direction:rtl;font-family:\'Noto Nastaliq Urdu\',serif;background:rgba(139,37,37,0.05);">' + p.urdu_essence + '</div>' : '') +
+            (p.urdu_translation ? '<div class="poem-urdu" style="margin-top:0.6rem;direction:rtl;font-family:\'Noto Nastaliq Urdu\',serif;color:var(--text-light);font-size:0.8rem;line-height:1.6;text-align:center;">' + p.urdu_translation + '</div>' : '') +
+            '<div class="dc-source"><span><i class="fas fa-user"></i> ' + p.author + '</span><span><i class="fas fa-book"></i> ' + (p.source || '') + '</span></div>' +
+            (p.ishraq ? '<div class="poem-essence-foot">' + p.ishraq + '</div>' : '') +
           '</div>';
         }).join('');
       }
@@ -222,44 +226,33 @@
         document.getElementById('panel-' + btn.dataset.tab).classList.add('active');
       });
 
-      // Fresh fetch every time — no localStorage cache
+      // Fetch unified database.json
       document.getElementById('factsEmpty').style.display = 'block';
       document.getElementById('witEmpty').style.display = 'block';
       document.getElementById('poetryEmpty').style.display = 'block';
 
-      // Fetch discover.json (facts + wit)
       var xhr = new XMLHttpRequest();
-      xhr.open('GET', 'discover.json?_=' + Date.now(), true);
+      xhr.open('GET', 'database.json?_=' + Date.now(), true);
       xhr.onload = function() {
         try {
-          DATA = JSON.parse(xhr.responseText);
-          render();
+          var data = JSON.parse(xhr.responseText);
+          if (data && data.items) {
+            ALL = data.items;
+            render();
+            renderPoetry(ALL.filter(function(d) { return d.subtype === 'poetry'; }));
+          }
         } catch(e) {
           document.getElementById('factsEmpty').innerHTML = '<p>Could not load content. Please refresh.</p>';
           document.getElementById('witEmpty').innerHTML = '<p>Could not load content. Please refresh.</p>';
+          document.getElementById('poetryEmpty').innerHTML = '<p>Could not load content. Please refresh.</p>';
         }
       };
       xhr.onerror = function() {
         document.getElementById('factsEmpty').innerHTML = '<p>Network error. Please refresh.</p>';
         document.getElementById('witEmpty').innerHTML = '<p>Network error. Please refresh.</p>';
+        document.getElementById('poetryEmpty').innerHTML = '<p>Network error. Please refresh.</p>';
       };
       xhr.send();
-
-      // Fetch poetry.json
-      var poetryXhr = new XMLHttpRequest();
-      poetryXhr.open('GET', 'poetry.json?_=' + Date.now(), true);
-      poetryXhr.onload = function() {
-        try {
-          var pData = JSON.parse(poetryXhr.responseText);
-          if (pData && pData.poems && pData.poems.length) { renderPoetry(pData.poems); }
-        } catch(e) {
-          document.getElementById('poetryEmpty').innerHTML = '<p>Could not load poetry.</p>';
-        }
-      };
-      poetryXhr.onerror = function() {
-        document.getElementById('poetryEmpty').innerHTML = '<p>Network error.</p>';
-      };
-      poetryXhr.send();
     })();
   </script>
 </body>

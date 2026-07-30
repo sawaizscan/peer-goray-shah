@@ -238,113 +238,38 @@
       var INTERVAL = 6000;
 
       function loadAll() {
-        var loaded = 0, total = 4;
-        function done() { loaded++; if (loaded >= total) initCarousel(); }
-
-        // Load sayings
-        var sxhr = new XMLHttpRequest();
-        sxhr.open('GET', 'data.json?_=' + Date.now(), true);
-        sxhr.onload = function() {
+        var xhr = new XMLHttpRequest();
+        xhr.open('GET', 'database.json?_=' + Date.now(), true);
+        xhr.onload = function() {
           try {
-            var d = JSON.parse(sxhr.responseText);
-            if (d && d.length) {
-              for (var i = 0; i < Math.min(10, d.length); i++) {
-                var item = d[i];
-                CAROUSEL.push({
-                  type: 'saying',
-                  icon: 'fa-quote-left',
-                  cat: item.category,
-                  source: item.source_person,
-                  arabic: item.original,
-                  urdu: item.urdu,
-                  ref: item.makhaz
-                });
-              }
-            }
-          } catch(e) {}
-          done();
-        };
-        sxhr.onerror = done;
-        sxhr.send();
+            var data = JSON.parse(xhr.responseText);
+            var items = data && data.items ? data.items : [];
+            var taken = items.slice(0, 30);
 
-        // Load poetry
-        var pxhr = new XMLHttpRequest();
-        pxhr.open('GET', 'poetry.json?_=' + Date.now(), true);
-        pxhr.onload = function() {
-          try {
-            var p = JSON.parse(pxhr.responseText);
-            var poems = p.poems || p;
-            if (poems && poems.length) {
-              for (var i = 0; i < Math.min(10, poems.length); i++) {
-                var po = poems[i];
-                CAROUSEL.push({
-                  type: 'poetry',
-                  icon: 'fa-feather',
-                  cat: po.category || po.theme || 'Poetry',
-                  source: po.poet,
-                  arabic: (po.misra1 || (po.text && po.text.split('\n')[0]) || '') + ' // ' + (po.misra2 || (po.text && po.text.split('\n')[1]) || ''),
-                  urdu: po.urdu || '',
-                  ref: po.source || ''
-                });
-              }
-            }
+            taken.forEach(function(item) {
+              var lines = item.original_text ? item.original_text.split('\n') : [];
+              var typeMap = {
+                'saying': { icon: 'fa-quote-left', label: 'Saying' },
+                'poetry': { icon: 'fa-feather', label: 'Poetry' },
+                'fact': { icon: 'fa-lightbulb', label: 'Fact' },
+                'wit': { icon: 'fa-grin-wink', label: 'Wit' },
+              };
+              var info = typeMap[item.subtype] || { icon: 'fa-star', label: 'Wisdom' };
+              CAROUSEL.push({
+                type: item.subtype === 'poetry' ? 'poetry' : 'saying',
+                icon: info.icon,
+                cat: item.topic_category || '',
+                source: item.author || '',
+                arabic: item.subtype === 'poetry' ? (lines[0] || '') + ' // ' + (lines[1] || '') : item.original_text,
+                urdu: item.urdu_translation || '',
+                ref: item.source || ''
+              });
+            });
           } catch(e) {}
-          done();
+          initCarousel();
         };
-        pxhr.onerror = done;
-        pxhr.send();
-
-        // Load amal
-        var axhr = new XMLHttpRequest();
-        axhr.open('GET', 'amal.json?_=' + Date.now(), true);
-        axhr.onload = function() {
-          try {
-            var a = JSON.parse(axhr.responseText);
-            if (a && a.length) {
-              for (var i = 0; i < Math.min(10, a.length); i++) {
-                var am = a[i];
-                CAROUSEL.push({
-                  type: 'amal',
-                  icon: 'fa-hands-praying',
-                  cat: am.category + (am.subcategory ? ' / ' + am.subcategory : ''),
-                  source: am.title,
-                  arabic: am.original || '',
-                  urdu: am.urdu,
-                  ref: am.source_book + ' — ' + am.source_ref
-                });
-              }
-            }
-          } catch(e) {}
-          done();
-        };
-        axhr.onerror = done;
-        axhr.send();
-
-        // Load daily duas
-        var dxhr = new XMLHttpRequest();
-        dxhr.open('GET', 'duas_daily.json?_=' + Date.now(), true);
-        dxhr.onload = function() {
-          try {
-            var dd = JSON.parse(dxhr.responseText);
-            if (dd && dd.length) {
-              for (var i = 0; i < Math.min(10, dd.length); i++) {
-                var du = dd[i];
-                CAROUSEL.push({
-                  type: 'dua',
-                  icon: 'fa-hand-sparkles',
-                  cat: du.category + (du.subcategory ? ' / ' + du.subcategory : ''),
-                  source: du.title,
-                  arabic: du.arabic && du.arabic.length ? du.arabic.slice(0, 2).join(' · ') : '',
-                  urdu: du.text ? du.text.slice(0, 300) : '',
-                  ref: ''
-                });
-              }
-            }
-          } catch(e) {}
-          done();
-        };
-        dxhr.onerror = done;
-        dxhr.send();
+        xhr.onerror = initCarousel;
+        xhr.send();
       }
 
       function initCarousel() {

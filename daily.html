@@ -178,76 +178,104 @@
   </footer>
 
   <script src="app.js"></script>
+  <meta name="cat-A" content="\u0634\u06cc\u0639\u06c1">
+  <meta name="cat-B" content="\u0627\u06c1\u0644\u0633\u0646\u062a">
+  <meta name="cat-C" content="\u0635\u0648\u0641\u06cc\u06c1">
+  <meta name="cat-2" content="\u0627\u062f\u0639\u06cc\u06c1">
   <script>
     (function() {
-      var DAILY_DATA = null;
+      var ALL_ITEMS = [];
 
-      function loadDaily() {
-        // Try PHP backend first, fall back to static JSON
-        var today = new Date().toISOString().split('T')[0];
-        var phpUrl = 'daily.php?_=' + Date.now();
-        var staticUrl = 'data_v2/daily_wisdom_' + today + '.json?_=' + Date.now();
-        var staticFallback = 'data_v2/daily_content_2026-06-02.json?_=' + Date.now();
+      // Simple seeded pseudo-random for deterministic daily picks
+      function seededRandom(seed) {
+        var s = seed % 2147483647;
+        if (s <= 0) s += 2147483646;
+        return function() {
+          s = (s * 16807) % 2147483647;
+          return (s - 1) / 2147483646;
+        };
+      }
 
-        function tryPHP() {
-          var xhr = new XMLHttpRequest();
-          xhr.open('GET', phpUrl, true);
-          xhr.onload = function() {
-            try {
-              var data = JSON.parse(xhr.responseText);
-              if (data && data.wisdom_section) {
-                DAILY_DATA = data;
-                document.getElementById('dailyLoading').style.display = 'none';
-                document.getElementById('dailyDate').innerHTML = '<i class="fas fa-calendar-day"></i> ' + (data.date || today);
-                renderDailySections(data);
-                return;
-              }
-            } catch(e) {}
-            tryStatic();
-          };
-          xhr.onerror = tryStatic;
-          xhr.send();
+      function pickDaily(items, count) {
+        var date = new Date();
+        var seed = date.getFullYear() * 10000 + (date.getMonth() + 1) * 100 + date.getDate();
+        var rng = seededRandom(seed);
+        var copy = items.slice();
+        // Fisher-Yates shuffle with seeded RNG
+        for (var i = copy.length - 1; i > 0; i--) {
+          var j = Math.floor(rng() * (i + 1));
+          var tmp = copy[i]; copy[i] = copy[j]; copy[j] = tmp;
         }
+        return copy.slice(0, count);
+      }
 
-        function tryStatic() {
-          var xhr = new XMLHttpRequest();
-          xhr.open('GET', staticUrl, true);
-          xhr.onload = function() {
-            try {
-              var data = JSON.parse(xhr.responseText);
-              if (data && data.wisdom_section) {
-                DAILY_DATA = data;
-                document.getElementById('dailyLoading').style.display = 'none';
-                document.getElementById('dailyDate').innerHTML = '<i class="fas fa-calendar-day"></i> ' + (data.date || today);
-                renderDailySections(data);
-                return;
-              }
-            } catch(e) {}
-            tryLegacy();
-          };
-          xhr.onerror = tryLegacy;
-          xhr.send();
-        }
+      function renderDaily() {
+        if (!ALL_ITEMS.length) { showError(); return; }
 
-        function tryLegacy() {
-          var xhr = new XMLHttpRequest();
-          xhr.open('GET', staticFallback, true);
-          xhr.onload = function() {
-            try {
-              DAILY_DATA = JSON.parse(xhr.responseText);
-              document.getElementById('dailyLoading').style.display = 'none';
-              document.getElementById('dailyDate').innerHTML = '<i class="fas fa-calendar-day"></i> ' + (DAILY_DATA.date || 'Today');
-              renderCouplets();
-              renderWazaif();
-            } catch(e) {
-              showError();
-            }
-          };
-          xhr.onerror = showError;
-          xhr.send();
-        }
+        document.getElementById('dailyLoading').style.display = 'none';
+        var today = new Date();
+        var dateStr = today.toLocaleDateString('en-GB', { weekday:'long', year:'numeric', month:'long', day:'numeric' });
+        document.getElementById('dailyDate').innerHTML = '<i class="fas fa-calendar-day"></i> ' + dateStr;
 
-        tryPHP();
+        var sayings = ALL_ITEMS.filter(function(d) { return d.subtype === 'saying'; });
+        var poetries = ALL_ITEMS.filter(function(d) { return d.subtype === 'poetry'; });
+        var facts = ALL_ITEMS.filter(function(d) { return d.subtype === 'fact' || d.subtype === 'wit'; });
+
+        var dailyPoetry = pickDaily(poetries, 15);
+        var dailySayings = pickDaily(sayings, 10);
+        var dailyFacts = pickDaily(facts, 5);
+
+        var couplets = dailyPoetry.concat(dailySayings);
+        var wazaif = dailyFacts;
+
+        // Render Couplets tab
+        var panel1 = document.getElementById('panel-couplets');
+        var html = '';
+        couplets.forEach(function(item, idx) {
+          var metaLabel = { 'A': '\u0634\u06cc\u0639\u06c1', 'B': '\u0627\u06c1\u0644\u0633\u0646\u062a', 'C': '\u0635\u0648\u0641\u06cc\u06c1', '2': '\u0627\u062f\u0639\u06cc\u06c1' }[item.meta_category] || '';
+          var lines = item.original_text ? item.original_text.split('\n') : [];
+          var verse = item.subtype === 'poetry'
+            ? (lines[0] || '') + '<br>' + (lines[1] || '')
+            : item.original_text;
+          html +=
+            '<div class="couplet-card">' +
+              '<div class="couplet-num">' + String(idx + 1).padStart(2, '0') + '</div>' +
+              '<div class="couplet-meta">' +
+                '<span class="couplet-poet"><i class="fas fa-user-pen"></i> ' + item.author + '</span>' +
+                '<span class="couplet-sep">\u00b7</span>' +
+                '<span class="couplet-book">' + (item.source || item.topic_category || '') + '</span>' +
+                (metaLabel ? '<span class="couplet-sep">\u00b7</span><span style="font-size:0.55rem;background:rgba(212,168,67,0.1);color:var(--gold);padding:1px 6px;border-radius:8px;">' + metaLabel + '</span>' : '') +
+              '</div>' +
+              '<div class="couplet-verse">' + verse + '</div>' +
+              (item.urdu_translation ?
+                '<div class="couplet-trans-label">\u0627\u0631\u062f\u0648 \u062a\u0631\u062c\u0645\u06c1</div>' +
+                '<div class="couplet-trans">' + item.urdu_translation + '</div>' : '') +
+            '</div>';
+        });
+        panel1.innerHTML = html;
+
+        // Render Wazaif tab
+        var panel2 = document.getElementById('panel-wazaif');
+        var html2 = '';
+        wazaif.forEach(function(item, idx) {
+          var metaLabel = { 'A': '\u0634\u06cc\u0639\u06c1', 'B': '\u0627\u06c1\u0644\u0633\u0646\u062a', 'C': '\u0635\u0648\u0641\u06cc\u06c1', '2': '\u0627\u062f\u0639\u06cc\u06c1' }[item.meta_category] || '';
+          html2 +=
+            '<div class="wazifa-card">' +
+              '<div class="wazifa-num">' + String(idx + 1).padStart(2, '0') + '</div>' +
+              '<div class="wazifa-header">' +
+                '<span class="wazifa-cat">' + (item.topic_category || (item.subtype === 'wit' ? '\u06a9\u0634\u062a \u0632\u0639\u0641\u0631\u0627\u0653\u06ba' : '\u062d\u0642\u06cc\u0642\u062a')) + '</span>' +
+                (metaLabel ? '<span class="wazifa-cat" style="background:rgba(212,168,67,0.1);color:var(--gold);">' + metaLabel + '</span>' : '') +
+                '<span class="wazifa-book">' + (item.author || item.source || '') + '</span>' +
+              '</div>' +
+              '<div class="wazifa-title">' + (item.urdu_translation || item.original_text).slice(0, 80) + '...</div>' +
+              '<div class="wazifa-instruction">' + (item.urdu_translation || item.original_text) + '</div>' +
+            '</div>';
+        });
+        panel2.innerHTML = html2;
+
+        // Update tab counts
+        document.querySelector('.daily-tab[data-panel="couplets"] .count').textContent = couplets.length;
+        document.querySelector('.daily-tab[data-panel="wazaif"] .count').textContent = wazaif.length;
       }
 
       function showError() {
@@ -255,174 +283,18 @@
         document.getElementById('dailyError').style.display = 'block';
       }
 
-      function renderCouplets() {
-        var panel = document.getElementById('panel-couplets');
-        if (!DAILY_DATA || !DAILY_DATA.poetry_section || !DAILY_DATA.poetry_section.length) {
-          panel.innerHTML = '<div class="daily-empty">No couplets available today.</div>';
-          return;
-        }
-        var html = '';
-        DAILY_DATA.poetry_section.forEach(function(item) {
-          html +=
-            '<div class="couplet-card">' +
-              '<div class="couplet-num">' + String(item.id).padStart(2, '0') + '</div>' +
-              '<div class="couplet-meta">' +
-                '<span class="couplet-poet"><i class="fas fa-user-pen"></i> ' + item.poet + '</span>' +
-                '<span class="couplet-sep">·</span>' +
-                '<span class="couplet-book">' + item.book + '</span>' +
-              '</div>' +
-              '<div class="couplet-verse">' + item.verse + '</div>' +
-              (item.translation ?
-                '<div class="couplet-trans-label">Urdu Translation</div>' +
-                '<div class="couplet-trans">' + item.translation + '</div>' : '') +
-            '</div>';
-        });
-        panel.innerHTML = html;
-      }
-
-      function renderWazaif() {
-        var panel = document.getElementById('panel-wazaif');
-        if (!DAILY_DATA || !DAILY_DATA.wazaif_section || !DAILY_DATA.wazaif_section.length) {
-          panel.innerHTML = '<div class="daily-empty">No wazaif available today.</div>';
-          return;
-        }
-        var html = '';
-        DAILY_DATA.wazaif_section.forEach(function(item) {
-          html +=
-            '<div class="wazifa-card">' +
-              '<div class="wazifa-num">' + String(item.id).padStart(2, '0') + '</div>' +
-              '<div class="wazifa-header">' +
-                '<span class="wazifa-cat">' + item.category + '</span>' +
-                '<span class="wazifa-book">' + item.source_book + '</span>' +
-              '</div>' +
-              '<div class="wazifa-title">' + item.title + '</div>' +
-              '<div class="wazifa-arabic">' + item.arabic_text + '</div>' +
-              '<div class="wazifa-instruction">' + item.urdu_instruction + '</div>' +
-            '</div>';
-        });
-        panel.innerHTML = html;
-      }
-
-      function renderDailySections(data) {
-        // Update tabs to show all sections
-        var tabsContainer = document.getElementById('dailyTabs');
-        var wisdomCount = data.wisdom_section ? data.wisdom_section.length : 0;
-        var quranCount = data.quran_section ? data.quran_section.length : 0;
-        var hadithCount = data.hadith_section ? data.hadith_section.length : 0;
-        tabsContainer.innerHTML =
-          '<button class="daily-tab active" data-panel="wisdom"><i class="fas fa-quote-left"></i> Wisdom <span class="count">' + wisdomCount + '</span></button>' +
-          (quranCount ? '<button class="daily-tab" data-panel="quran"><i class="fas fa-book"></i> Quran <span class="count">' + quranCount + '</span></button>' : '') +
-          (hadithCount ? '<button class="daily-tab" data-panel="hadith"><i class="fas fa-hadith"></i> Hadith <span class="count">' + hadithCount + '</span></button>' : '') +
-          '<button class="daily-tab" data-panel="wazaif"><i class="fas fa-hands-praying"></i> Wazaif <span class="count">30</span></button>';
-
-        // Create panels
-        renderWisdomSection(data.wisdom_section || []);
-        renderQuranSection(data.quran_section || []);
-        renderHadithSection(data.hadith_section || []);
-        renderWazaif();
-
-        // Re-attach tab listeners
-        document.querySelectorAll('.daily-tab').forEach(function(tab) {
-          tab.addEventListener('click', function() {
-            document.querySelectorAll('.daily-tab').forEach(function(t) { t.classList.remove('active'); });
-            tab.classList.add('active');
-            document.querySelectorAll('.daily-panel').forEach(function(p) { p.classList.remove('active'); });
-            var panel = document.getElementById('panel-' + tab.dataset.panel);
-            if (panel) panel.classList.add('active');
-          });
-        });
-      }
-
-      function renderWisdomSection(entries) {
-        var panel = document.getElementById('panel-wisdom');
-        if (!panel) {
-          panel = document.createElement('div');
-          panel.className = 'daily-panel';
-          panel.id = 'panel-wisdom';
-          document.querySelector('.section .section-inner').appendChild(panel);
-        }
-        if (!entries.length) {
-          panel.innerHTML = '<div class="daily-empty">No wisdom entries today.</div>';
-          return;
-        }
-        var html = '';
-        entries.forEach(function(w) {
-          html +=
-            '<div class="couplet-card">' +
-              '<div class="couplet-num">' + String(w.id).padStart(2, '0') + '</div>' +
-              '<div class="couplet-meta">' +
-                '<span class="couplet-poet"><i class="fas fa-user-pen"></i> ' + (w.source_person || '') + '</span>' +
-                '<span class="couplet-sep">·</span>' +
-                '<span class="couplet-book">[' + (w.category || '') + '] ' + (w.source_book || '') + '</span>' +
-                (w.practical ? '<span class="couplet-sep">·</span><span style="color:var(--primary);font-size:11px;font-weight:600;"><i class="fas fa-check-circle"></i> Practical</span>' : '') +
-              '</div>' +
-              '<div class="couplet-verse">' + w.text + '</div>' +
-              (w.urdu ? '<div class="couplet-trans-label">Urdu Translation</div><div class="couplet-trans">' + w.urdu + '</div>' : '') +
-              (w.ishraqat ? '<div class="wazifa-instruction" style="margin-top:12px;border-top:1px solid var(--border);padding-top:12px;"><span style="font-family:var(--font-body);font-size:10px;text-transform:uppercase;letter-spacing:1px;color:var(--gold);display:block;margin-bottom:4px;direction:ltr;text-align:left;">Ishraqat</span>' + w.ishraqat + '</div>' : '') +
-              (w.tanaquz ? '<div class="wazifa-instruction" style="margin-top:8px;"><span style="font-family:var(--font-body);font-size:10px;text-transform:uppercase;letter-spacing:1px;color:var(--text-secondary);display:block;margin-bottom:4px;direction:ltr;text-align:left;">Tanaquz</span>' + w.tanaquz + '</div>' : '') +
-            '</div>';
-        });
-        panel.innerHTML = html;
-        panel.classList.add('active');
-      }
-
-      function renderQuranSection(entries) {
-        var panel = document.getElementById('panel-quran');
-        if (!panel) {
-          panel = document.createElement('div');
-          panel.className = 'daily-panel';
-          panel.id = 'panel-quran';
-          document.querySelector('.section .section-inner').appendChild(panel);
-        }
-        if (!entries.length) {
-          panel.innerHTML = '<div class="daily-empty">No Quran verses today.</div>';
-          return;
-        }
-        var html = '';
-        entries.forEach(function(q) {
-          html +=
-            '<div class="couplet-card">' +
-              '<div class="couplet-num">' + String(q.id).padStart(2, '0') + '</div>' +
-              '<div class="couplet-meta">' +
-                '<span class="couplet-poet"><i class="fas fa-book"></i> ' + (q.surah || '') + ' · ' + (q.surah_num || '') + ':' + (q.ayah || '') + '</span>' +
-              '</div>' +
-              '<div class="couplet-verse">' + q.text + '</div>' +
-              (q.urdu ? '<div class="couplet-trans-label">Urdu Translation</div><div class="couplet-trans">' + q.urdu + '</div>' : '') +
-              (q.tafsir_shia ? '<div class="wazifa-instruction" style="margin-top:10px;border-top:1px solid var(--border);padding-top:10px;"><span style="font-family:var(--font-body);font-size:10px;text-transform:uppercase;letter-spacing:1px;color:var(--gold);display:block;margin-bottom:4px;direction:ltr;text-align:left;">شیعہ — تفسیر المیزان</span>' + q.tafsir_shia + '</div>' : '') +
-              (q.tafsir_sunni ? '<div class="wazifa-instruction" style="margin-top:6px;"><span style="font-family:var(--font-body);font-size:10px;text-transform:uppercase;letter-spacing:1px;color:var(--text-secondary);display:block;margin-bottom:4px;direction:ltr;text-align:left;">سنی — تفسیر ابن کثیر / قرطبی</span>' + q.tafsir_sunni + '</div>' : '') +
-              (q.tafsir_ahl ? '<div class="wazifa-instruction" style="margin-top:6px;"><span style="font-family:var(--font-body);font-size:10px;text-transform:uppercase;letter-spacing:1px;color:var(--text-secondary);display:block;margin-bottom:4px;direction:ltr;text-align:left;">اہلحدیث — تفسیر سعدی / عثیمین</span>' + q.tafsir_ahl + '</div>' : '') +
-            '</div>';
-        });
-        panel.innerHTML = html;
-      }
-
-      function renderHadithSection(entries) {
-        var panel = document.getElementById('panel-hadith');
-        if (!panel) {
-          panel = document.createElement('div');
-          panel.className = 'daily-panel';
-          panel.id = 'panel-hadith';
-          document.querySelector('.section .section-inner').appendChild(panel);
-        }
-        if (!entries.length) {
-          panel.innerHTML = '<div class="daily-empty">No hadith entries today.</div>';
-          return;
-        }
-        var html = '';
-        entries.forEach(function(h) {
-          html +=
-            '<div class="wazifa-card">' +
-              '<div class="wazifa-num">' + String(h.id).padStart(2, '0') + '</div>' +
-              '<div class="wazifa-header">' +
-                '<span class="wazifa-cat">' + (h.source_book || 'Hadith') + '</span>' +
-                (h.practical ? '<span class="wazifa-cat" style="background:rgba(29,185,84,0.1);color:var(--primary);">Practical</span>' : '') +
-              '</div>' +
-              '<div class="wazifa-arabic">' + h.text + '</div>' +
-              (h.urdu ? '<div class="wazifa-instruction">' + h.urdu + '</div>' : '') +
-              (h.source_page ? '<div style="margin-top:10px;font-size:11px;color:var(--text-secondary);">' + h.source_page + ' · <a href="https://' + (h.source_library || 'lib.eshia.ir') + '" target="_blank">' + (h.source_library || '') + '</a></div>' : '') +
-            '</div>';
-        });
-        panel.innerHTML = html;
+      function loadDaily() {
+        var xhr = new XMLHttpRequest();
+        xhr.open('GET', 'database.json?_=' + Date.now(), true);
+        xhr.onload = function() {
+          try {
+            var data = JSON.parse(xhr.responseText);
+            if (data && data.items) { ALL_ITEMS = data.items; }
+          } catch(e) {}
+          renderDaily();
+        };
+        xhr.onerror = showError;
+        xhr.send();
       }
 
       // Tab switching

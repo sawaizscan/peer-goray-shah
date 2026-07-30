@@ -171,36 +171,7 @@
   <script src="app.js"></script>
   <script>
     (function() {
-      var POEMS = [
-        { misra1: 'تُو خود آئینہ ہو اپنا، تجھے کیا ڈھونڈتا ہے', misra2: 'وہی جلوہ ہے تیرا جو تجھے چاہیے ہو کر رہ گیا', poet: 'Syed Saleem Raza Kazmi', theme: 'Self-Knowledge', essence: 'The seeker is the sought — the mirror and the reflection are one.' },
-        { misra1: 'دل سے نکلا ہے جو دم، وہ دم پلٹ کر آتا ہے', misra2: 'آئینہ خانہ میں جو دیکھے، وہیں سماتا ہے', poet: 'Mawlana Rumi', theme: 'Love', essence: 'Every breath born of the heart returns to it — the heart is both origin and destination.' },
-        { misra1: 'موت کا منظر نہ دیکھو، زندگی میں جھانکیے', misra2: 'جو بھی ہے اسی پل میں، اس سے آگے جانکیے', poet: 'Mirza Ghalib', theme: 'Philosophy', essence: 'Death is not a separate event — it is the depth of the present moment itself.' },
-        { misra1: 'ہر اک ذرہ تجھے پکار رہا ہے', misra2: 'مگر تُو اپنے شور میں گم ہے', poet: 'Iqbal', theme: 'Tawhid', essence: 'The universe is a ceaseless dhikr — only the veils of the self drown it out.' },
-        { misra1: 'عشق میں کافر و مومن کا کوئی فرق نہیں', misra2: 'وہ تو اس کو بھی جلاتا ہے جس نے آگ کو بجھایا تھا', poet: 'Ayn al-Qudat Hamadani', theme: 'Love', essence: 'Divine love burns equally the one who believes and the one who denies.' },
-        { misra1: 'نور سے پوچھا کبھی ظلمت نے کہ تُو کیا ہے', misra2: 'نور نے کہا: میرا ہونا ہی تیری پہچان ہے', poet: 'Syed Saleem Raza Kazmi', theme: 'Philosophy', essence: 'Darkness and light define each other — opposites are the doorways to unity.' },
-        { misra1: 'گوہر نایاب ہے دل، اس کو نہ بیچنا سستی میں', misra2: 'خاک کی قیمت تب ہے جب وہ گِل ہو مصطفیٰ کی', poet: 'Bulleh Shah', theme: 'Spiritual', essence: 'The heart is a priceless gem — gains value only when kneaded into the clay of the Beloved.' },
-        { misra1: 'فنا سے ڈر نہیں لگتا، بقا کا یقین ہے مجھ کو', misra2: 'سمندر ڈوب کر پایا جاتا ہے، بوند بھر نہیں', poet: 'Mansur Hallaj', theme: 'Fana', essence: 'Annihilation is not loss but the only way to true subsistence — the drop dies to become the ocean.' }
-      ];
-
-      var FACTS = [
-        { text: 'The word "heart" (qalb) in Arabic comes from the root q-l-b, meaning "to turn" — because the heart is constantly turning between states. Imam al-Sadiq (AS) said: "The heart is called qalb because it turns over in every state." (al-Kafi, vol. 2, p. 422)', source: 'al-Kafi, Bab al-Qalb' },
-        { text: 'Mulla Sadra\'s Asfar (The Four Journeys) was so revolutionary that contemporary scholars declared it heresy. He was exiled from Shiraz and took refuge in the village of Kahak near Qom — where he wrote his most profound works.', source: 'Mulla Sadra, Asfar, Vol. 1 Introduction' },
-        { text: 'Shaykh Bahai (Shaykh Baha\'i) was both a grand Shi\'a jurist and a master of mathematics, astronomy, and esoteric sciences. He wrote on astrology and the secrets of letters — and saw no contradiction.', source: 'Kashkul, Shaykh Bahai' },
-        { text: 'Ibn Arabi wrote over 500 works. When asked about the shortest path to knowledge of God, he replied: "Know yourself." When asked for something shorter, he said: "Be silent." (Futuhat al-Makkiyya, vol. 2, p. 189)', source: 'Futuhat al-Makkiyya' },
-        { text: 'Imam Khomeini\'s commentary on Surah al-Fatiha is a treatise on the stages of tawhid. He said "al-Hamdu lillahi Rabb il-\'Alamin" contains the entire spiritual path from beginning to end.', source: 'Imam Khomeini, Adab al-Salat' },
-        { text: 'Mirza Jawad Maliki Tabrizi spent the entire month of Ramadan in the shrine of Fatima al-Masumah (AS) in Qom, giving lessons on tazkiyah. He said: "The time is short, and the journey is long."', source: 'Malfuzat, Maliki Tabrizi' },
-        { text: 'The phrase "Allahu Akbar" contains the secret of the universe: Allah (the Absolute), Hu (the Unseen Essence), and Akbar (the Greater) — pointing to a Reality always beyond every conception, yet closer than the jugular vein.', source: 'Ayn al-Qudat, Tamhidat' },
-        { text: 'Shaykh al-Ra\'is Ibn Sina read Aristotle\'s Metaphysics 40 times without understanding it — until al-Farabi\'s commentary made it click. He wrote a note of thanks in the margin.', source: 'Ibn Sina, al-Shifa' }
-      ];
-
-      var HUMORS = [
-        { text: 'ایک مرید نے پیر سے پوچھا: "استاد، مجھے کتنا عرصہ ہوا ہے آپ کی صحبت میں آئے؟" پیر نے فرمایا: "بیٹا، ابھی تک تو نے پوچھا ہی نہیں کہ کب آئے تھے۔ سوال ہی نہیں اٹھا تو جواب کہاں سے آئے گا۔"', source: 'مشہور لطیفہ' },
-        { text: 'A man asked Ibn Arabi: "How do I know God?" Ibn Arabi said: "Do you know who is asking?" The man said: "I am." Ibn Arabi said: "Then you already know."', source: 'Futuhat, Adapted' },
-        { text: 'ملا نصرالدین سے کسی نے پوچھا: "موت کے بعد کیا ہوتا ہے؟" ملا نے کہا: "موت کے بعد کی فکر چھوڑو، پہلے موت سے پہلے کی زندگی تو دیکھ لو کہ وہ کیا ہے۔"', source: 'ملا نصرالدین' },
-        { text: 'ایک طالب علم نے علامہ طباطبائی سے پوچھا: "آپ نے المیزان میں اتنی تفسیر کیسے لکھ دی؟" علامہ مسکرائے اور بولے: "تم نے ایک ایک آیت پڑھی ہے، میں نے ایک ایک آیت سے پوچھا ہے۔"', source: 'مشہور لطیفہ' },
-        { text: 'Shaykh Ansari was asked: "What is the most difficult ruling in fiqh?" He thought and said: "To stop yourself from giving your own opinion when the truth has already been spoken."', source: 'Shaykh Ansari, Taqrirat' },
-        { text: 'امام غزالی سے پوچھا گیا: "آپ نے علوم ظاہر میں دسترس حاصل کی، پھر باطن کا راستہ کیوں اختیار کیا؟" غزالی نے کہا: "ظاہر علم بتاتا تھا کہ دروازہ کہاں ہے، باطن نے اندر جانے دیا۔"', source: 'احیاء العلوم' }
-      ];
+      // Data loaded from database.json
 
       var SOURCE_GROUPS = {
         'Ahl al-Bayt (ع)': ['Imam Ali (AS)', 'Imam Ali ibn al-Husayn (AS)', 'Imam al-Baqir (AS)', 'Imam Muhammad al-Baqir (AS)', 'Imam Ja\'far al-Sadiq (AS)', 'Imam Zayn al-Abidin (AS)', 'Imam Musa al-Kadhim (AS)'],
@@ -266,19 +237,22 @@
         document.getElementById('panel-' + btn.dataset.panel).classList.add('active');
       });
 
-      // ─── LOAD DATA ───
+      // ─── LOAD DATA (unified database.json) ───
       var ALL = [];
 
-      var stored = localStorage.getItem('peer_wisdom_data');
-      var storedDate = localStorage.getItem('peer_wisdom_date');
-      var today = new Date().toDateString();
-      if (stored && storedDate === today) {
-        try { ALL = JSON.parse(stored); } catch(e) {}
+      function fetchDB(callback) {
+        var xhr = new XMLHttpRequest();
+        xhr.open('GET', 'database.json?_=' + Date.now(), true);
+        xhr.onload = function() {
+          try {
+            var data = JSON.parse(xhr.responseText);
+            if (data && data.items) { ALL = data.items; }
+          } catch(e) {}
+          callback();
+        };
+        xhr.onerror = callback;
+        xhr.send();
       }
-
-      if (!ALL.length) {
-        ALL = [
-          {"id":1,"source_person":"Imam Ali (AS)","category":"Mawt","original":"فإن الموت غائب لا بد أن يرديك، وإن كان مسكنه في غيب غير منقطع","urdu":"موت ایک غائب حقیقت ہے جو تجھ پر ضرور وارد ہوگی، خواہ اس کا ٹھکانا غیب کے پردے میں ہی کیوں نہ ہو۔","ishraqat":"موت کا خوف دراصل ناآشنائی کا خوف ہے۔ جب روح اپنے اصلی وطن سے آشنا ہو جائے تو موت اس کے لیے پردہ چاک کرنے کا نام بن جاتی ہے۔","tanaquz":"موت جسے سب سے بڑی وحشت سمجھا جاتا ہے، وہی عارف کے لیے سب سے بڑی راحت بن جاتی ہے — یہ تضاد معرفت کے درجے پر منحصر ہے۔","makhaz":"Bihar al-Anwar, vol. 73, p. 31","related":"﴿كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ﴾ — ہر نفس موت کا مزہ چکھنے والا ہے۔ (آل عمران: 185)","rarity":"Nadir"},
           {"id":2,"source_person":"Imam al-Baqir (AS)","category":"Barzakh","original":"إنما مثل المؤمن عند الموت مثل الظمآن الذي انتهى إلى الماء البارد","urdu":"مومن کی موت کے وقت کیفیت اس پیاسے کی سی ہے جو ٹھنڈے پانی تک پہنچ گیا ہو۔","ishraqat":"موت ایک آئینہ ہے جو بندے کے باطن کی اصل کیفیت ظاہر کر دیتی ہے۔ مومن کی روح اپنی اصلی منزل کو پہنچان کر مشتاق ہو جاتی ہے۔","tanaquz":"موت ایک ہی حقیقت ہے مگر اس کا ذائقہ مومن اور کافر کے لیے بالکل مختلف ہے۔","makhaz":"Basair al-Darajat, p. 186","related":"امیر المؤمنین (ع): الموت قنطرة — موت ایک پل ہے۔","rarity":"Khas"},
           {"id":3,"source_person":"Imam Ja'far al-Sadiq (AS)","category":"Mawt","original":"إذا مات المؤمن دخل معه في قبره ست صور، فيهن صورة أحسن من الباقين","urdu":"جب مومن مرتا ہے تو اس کے ساتھ قبر میں چھ صورتیں داخل ہوتی ہیں، ان میں ایک سب سے خوبصورت ہوتی ہے۔","ishraqat":"اعمال صالحہ قبر میں نورانی صورتوں کے روپ میں جلوہ گر ہوتے ہیں، مگر ان سب پر ولایت کا نور غالب ہے۔","tanaquz":"قبر میں صرف اعمال داخل ہوتے ہیں، مگر یہاں اعمال صورت بن کر داخل ہوتے ہیں — جسم اور عمل کا تضاد۔","makhaz":"Al-Khisal, p. 311, hadith 84","related":"النبي (ص): حب علي بن أبي طالب يأكل الذنوب","rarity":"Nadir-tareen"},
           {"id":4,"source_person":"Imam Zayn al-Abidin (AS)","category":"Qabr","original":"واجعل قبري روضة من رياض الجنة، ولا تجعله حفرة من حفر النار","urdu":"میری قبر کو جنت کے باغیچوں میں سے ایک باغیچہ بنا، اور جہنم کے گڑھوں میں سے ایک گڑھا نہ بنا۔","ishraqat":"قبر جنت کا باغیچہ یا جہنم کا گڑھا — یہ دنیا میں کی گئی شخصیت کی تعمیر کا نتیجہ ہے۔","tanaquz":"قبر ظاہری طور پر ایک تنگ اور تاریک گڑھا ہے، مکنہ طور پر وہی جنت کا باغیچہ بن سکتی ہے۔","makhaz":"al-Sahifa al-Sajjadiyya, Du'a 53","related":"النبي (ص): القبر إما روضة من رياض الجنة أو حفرة من حفر النار","rarity":"Khas"},
@@ -290,44 +264,30 @@
           {"id":10,"source_person":"Bahr al-Ulum","category":"Ilm","original":"السیر إلی الله من البداية إلی النهایة عبارة عن خروج العبد من نفسه","urdu":"اللہ کی طرف سفر، شروع سے آخر تک، بندے کا اپنے نفس سے نکل جانے کا نام ہے۔","ishraqat":"سیر الی اللہ کا آغاز بندے کی اپنی ذات سے نکلنے سے ہوتا ہے۔","tanaquz":"اللہ کی طرف سفر کا مطلب اپنے نفس سے نکلنا ہے، مگر یہ سفر بھی اسی نفس کے ذریعے ہی ممکن ہے۔","makhaz":"Risalat al-Sayr wa al-Suluk, Bahr al-Ulum, p. 23","related":"ملا حسینقلی ہمدانی: سیر إلی الله سیر في نفسك","rarity":"Khas"}
         ];
 
-        var xhr = new XMLHttpRequest();
-        xhr.open('GET', 'data.json?_=' + Date.now(), true);
-        xhr.onload = function() {
-          try {
-            var fresh = JSON.parse(xhr.responseText);
-            if (fresh && fresh.length) {
-              ALL = fresh;
-              localStorage.setItem('peer_wisdom_data', xhr.responseText);
-              localStorage.setItem('peer_wisdom_date', today);
-              renderAll();
-            }
-          } catch(e) {}
-        };
-        xhr.send();
-      }
-
       // ─── RENDER ALL ───
       function renderAll() {
         if (!ALL.length) return;
 
-        var rarestPool = ALL.filter(function(d) { return d.rarity === 'Nadir-tareen'; });
+        var sayings = ALL.filter(function(d) { return d.subtype === 'saying'; });
+        if (!sayings.length) return;
+
+        var rarestPool = sayings.filter(function(d) { return d.rarity === 'Nadir-tareen'; });
         if (rarestPool.length) {
           var dayIndex = new Date().getDate() % rarestPool.length;
           var r = rarestPool[dayIndex];
           document.getElementById('rarestContainer').innerHTML =
             '<div class="rarest-section"><div class="badge"><i class="fas fa-gem"></i> نادر ترین · Today\'s Rarest</div>' +
-            '<div class="ra">' + r.original + '</div><div class="ru">' + r.urdu + '</div>' +
-            '<div class="r-meta"><span><i class="fas fa-user"></i> ' + r.source_person + '</span>' +
-            '<span><i class="fas fa-tag"></i> ' + r.category + '</span>' +
-            '<span><i class="fas fa-book"></i> ' + r.makhaz + '</span></div></div>';
+            '<div class="ra">' + r.original_text + '</div><div class="ru">' + r.urdu_translation + '</div>' +
+            '<div class="r-meta"><span><i class="fas fa-user"></i> ' + r.author + '</span>' +
+            '<span><i class="fas fa-tag"></i> ' + r.topic_category + '</span>' +
+            '<span><i class="fas fa-book"></i> ' + r.source + '</span></div></div>';
         }
 
         var cats = [];
-        ALL.forEach(function(d) { if (cats.indexOf(d.category) === -1) cats.push(d.category); });
+        sayings.forEach(function(d) { if (cats.indexOf(d.topic_category) === -1) cats.push(d.topic_category); });
 
-        var activeCat = '', activeSource = '', activeRarity = '', searchQ = '';
+        var activeCat = '', activeAuthor = '', activeRarity = '', searchQ = '';
 
-        // ─── Category sub-tabs ───
         var catContainer = document.getElementById('categoryTabs');
         var catHtml = '<button class="subtab active" data-cat="">All</button>';
         cats.forEach(function(c) {
@@ -344,16 +304,15 @@
           render();
         });
 
-        // ─── Source groups (collapsible) ───
-        var allSources = [];
-        ALL.forEach(function(d) { if (allSources.indexOf(d.source_person) === -1) allSources.push(d.source_person); });
+        var allAuthors = [];
+        sayings.forEach(function(d) { if (allAuthors.indexOf(d.author) === -1) allAuthors.push(d.author); });
 
         var groupsEl = document.getElementById('sourceGroups');
         var groupsHtml = '';
         var groupNames = Object.keys(SOURCE_GROUPS);
         groupNames.forEach(function(gName) {
           var members = SOURCE_GROUPS[gName];
-          var available = members.filter(function(m) { return allSources.indexOf(m) !== -1; });
+          var available = members.filter(function(m) { return allAuthors.indexOf(m) !== -1; });
           if (!available.length) return;
           groupsHtml += '<div class="source-group">';
           groupsHtml += '<div class="source-group-title">' + gName + '</div>';
@@ -365,10 +324,9 @@
           groupsHtml += '</div></div>';
         });
 
-        // Catch-all: sources not in any group
         var grouped = [];
         groupNames.forEach(function(gName) { SOURCE_GROUPS[gName].forEach(function(s) { grouped.push(s); }); });
-        var ungrouped = allSources.filter(function(s) { return grouped.indexOf(s) === -1; });
+        var ungrouped = allAuthors.filter(function(s) { return grouped.indexOf(s) === -1; });
         if (ungrouped.length) {
           groupsHtml += '<div class="source-group">';
           groupsHtml += '<div class="source-group-title">\u0627\u0648\u0631 Other</div>';
@@ -381,20 +339,18 @@
         }
 
         groupsEl.innerHTML = groupsHtml;
-        document.getElementById('sourceCount').textContent = allSources.length + ' \u0634\u062e\u0635\u06cc\u0627\u062a';
+        document.getElementById('sourceCount').textContent = allAuthors.length + ' \u0634\u062e\u0635\u06cc\u0627\u062a';
 
         groupsEl.addEventListener('click', function(e) {
           var chip = e.target.closest('.source-chip');
           if (!chip) return;
           var group = chip.dataset.group;
-          // Deactivate all in same group
           groupsEl.querySelectorAll('.source-chip[data-group="' + group + '"]').forEach(function(c) { c.classList.remove('active'); });
           chip.classList.add('active');
-          activeSource = chip.dataset.source;
+          activeAuthor = chip.dataset.source;
           render();
         });
 
-        // ─── Rarity row ───
         var rarRow = document.getElementById('rarityRow');
         var rarHtml = '';
         RARITY_CONFIG.forEach(function(rc) {
@@ -410,28 +366,26 @@
           render();
         });
 
-        // ─── Search ───
         document.getElementById('wisdomSearch').addEventListener('input', function(e) {
           searchQ = e.target.value.toLowerCase();
           render();
         });
 
-        // ─── Render cards ───
         function render() {
-          var filtered = ALL;
-          if (activeCat) filtered = filtered.filter(function(d) { return d.category === activeCat; });
-          if (activeSource) filtered = filtered.filter(function(d) { return d.source_person === activeSource; });
+          var filtered = sayings;
+          if (activeCat) filtered = filtered.filter(function(d) { return d.topic_category === activeCat; });
+          if (activeAuthor) filtered = filtered.filter(function(d) { return d.author === activeAuthor; });
           if (activeRarity) filtered = filtered.filter(function(d) { return d.rarity === activeRarity; });
           if (searchQ) {
             filtered = filtered.filter(function(d) {
-              return (d.original && d.original.toLowerCase().includes(searchQ)) ||
-                     (d.urdu && d.urdu.includes(searchQ)) ||
-                     (d.source_person && d.source_person.toLowerCase().includes(searchQ)) ||
-                     (d.makhaz && d.makhaz.toLowerCase().includes(searchQ));
+              return (d.original_text && d.original_text.toLowerCase().includes(searchQ)) ||
+                     (d.urdu_translation && d.urdu_translation.includes(searchQ)) ||
+                     (d.author && d.author.toLowerCase().includes(searchQ)) ||
+                     (d.source && d.source.toLowerCase().includes(searchQ));
             });
           }
 
-          document.getElementById('resultCount').textContent = filtered.length + ' of ' + ALL.length + ' entries';
+          document.getElementById('resultCount').textContent = filtered.length + ' of ' + sayings.length + ' entries';
           var grid = document.getElementById('wisdomGrid');
           var empty = document.getElementById('emptyState');
 
@@ -446,59 +400,74 @@
 
           grid.innerHTML = filtered.map(function(d) {
             var rarityClass = d.rarity === 'Nadir-tareen' ? 'Nadir-tareen' : (d.rarity === 'Khas' ? 'Khas' : 'Nadir');
-            return '<div class="card"><div class="card-header"><span class="cat">' + d.category + '</span><span class="rarity ' + rarityClass + '">' + (rarityLabels[d.rarity] || d.rarity) + '</span></div>' +
-              '<div class="source-person"><i class="fas fa-user"></i> ' + d.source_person + '</div>' +
-              '<div class="original">' + d.original + '</div><div class="urdu">' + d.urdu + '</div>' +
-              '<div class="ishraq-section"><div class="label"><i class="fas fa-sun"></i> اشراق</div><div class="content">' + d.ishraqat + '</div></div>' +
-              '<div class="tanaquz-section"><div class="label"><i class="fas fa-balance-scale"></i> تناقض</div><div class="content">' + d.tanaquz + '</div></div>' +
-              '<div class="related-section"><div class="label">متعلقہ قول</div><div class="content">' + d.related + '</div></div>' +
-              '<div class="meta"><span><i class="fas fa-book"></i> ' + d.makhaz + '</span></div></div>';
+            var metaLabel = { 'A': '\u0634\u06cc\u0639\u06c1', 'B': '\u0627\u06c1\u0644\u0633\u0646\u062a', 'C': '\u0635\u0648\u0641\u06cc\u06c1', '2': '\u0627\u062f\u0639\u06cc\u06c1' }[d.meta_category] || '';
+            var metaBadge = metaLabel ? '<span class="meta-cat" style="font-size:0.6rem;background:rgba(212,168,67,0.1);color:var(--gold);padding:2px 8px;border-radius:10px;margin-left:4px;">' + metaLabel + '</span>' : '';
+            return '<div class="card"><div class="card-header"><span class="cat">' + d.topic_category + '</span>' + metaBadge +
+              '<span class="rarity ' + rarityClass + '">' + (rarityLabels[d.rarity] || d.rarity) + '</span></div>' +
+              '<div class="source-person"><i class="fas fa-user"></i> ' + d.author + '</div>' +
+              '<div class="original">' + d.original_text + '</div><div class="urdu">' + d.urdu_translation + '</div>' +
+              (d.ishraq ? '<div class="ishraq-section"><div class="label"><i class="fas fa-sun"></i> \u0627\u0634\u0631\u0627\u0642</div><div class="content">' + d.ishraq + '</div></div>' : '') +
+              (d.related_ayah ? '<div class="related-section"><div class="label">\u0645\u062a\u0639\u0644\u0642\u06c1</div><div class="content">' + d.related_ayah + '</div></div>' : '') +
+              '<div class="meta"><span><i class="fas fa-book"></i> ' + d.source + '</span></div></div>';
           }).join('');
         }
 
         render();
       }
 
-      renderAll();
+      fetchDB(renderAll);
 
-      // ─── POETRY ───
+      // ─── POETRY (from database.json) ───
       function renderPoetry(poems) {
         if (!poems || !poems.length) return;
         document.getElementById('poetryEmpty').style.display = 'none';
         document.getElementById('poetryGrid').innerHTML = poems.map(function(p) {
-          return '<div class="poem-card"><div class="poem-theme">' + (p.theme || p.category || 'Poetry') + '</div>' +
-            '<div class="poem-couplet">' +
-            '<div class="misra">' + (p.misra1 || (p.text && p.text.split('\n')[0]) || '') + '</div>' +
-            '<div class="misra">' + (p.misra2 || (p.text && p.text.split('\n')[1]) || '') + '</div>' +
+          var metaLabel = { 'A': '\u0634\u06cc\u0639\u06c1', 'B': '\u0627\u06c1\u0644\u0633\u0646\u062a', 'C': '\u0635\u0648\u0641\u06cc\u06c1', '2': '\u0627\u062f\u0639\u06cc\u06c1' }[p.meta_category] || '';
+          var lines = p.original_text ? p.original_text.split('\n') : [];
+          return '<div class="poem-card"><div class="poem-theme">' + (p.topic_category || 'Poetry') +
+            (metaLabel ? ' <span style="font-size:0.55rem;background:rgba(212,168,67,0.1);color:var(--gold);padding:1px 6px;border-radius:8px;">' + metaLabel + '</span>' : '') +
             '</div>' +
-            (p.urdu ? '<div style="margin-top:0.6rem;direction:rtl;font-family:\'Noto Nastaliq Urdu\',serif;color:var(--text-light);font-size:0.8rem;line-height:1.6;text-align:center;padding:0 0.5rem;">' + p.urdu + '</div>' : '') +
-            '<div class="poem-poet">— ' + p.poet + (p.source ? ' (' + p.source + ')' : '') + '</div>' +
-            (p.essence ? '<div class="poem-essence"><span class="label"><i class="fas fa-water"></i> Deep Essence</span>' + p.essence + '</div>' : '') +
-            (p.urdu_essence ? '<div class="poem-essence-urdu"><span class="label"><i class="fas fa-language"></i> شرح</span>' + p.urdu_essence + '</div>' : '') +
+            '<div class="poem-couplet">' +
+            '<div class="misra">' + (lines[0] || '') + '</div>' +
+            '<div class="misra">' + (lines[1] || '') + '</div>' +
+            '</div>' +
+            (p.urdu_translation ? '<div style="margin-top:0.6rem;direction:rtl;font-family:\'Noto Nastaliq Urdu\',serif;color:var(--text-light);font-size:0.8rem;line-height:1.6;text-align:center;padding:0 0.5rem;">' + p.urdu_translation + '</div>' : '') +
+            '<div class="poem-poet">\u2014 ' + p.author + (p.source ? ' (' + p.source + ')' : '') + '</div>' +
+            (p.ishraq ? '<div class="poem-essence"><span class="label"><i class="fas fa-water"></i> \u0627\u0634\u0631\u0627\u0642</span>' + p.ishraq + '</div>' : '') +
             '</div>';
         }).join('');
       }
 
       document.getElementById('poetryEmpty').style.display = 'block';
 
-      var poetryXhr = new XMLHttpRequest();
-      poetryXhr.open('GET', 'poetry.json?_=' + Date.now(), true);
-      poetryXhr.onload = function() {
-        try {
-          var pData = JSON.parse(poetryXhr.responseText);
-          if (pData && pData.poems) { renderPoetry(pData.poems); return; }
-        } catch(e) {}
-        renderPoetry(POEMS);
-      };
-      poetryXhr.onerror = function() { renderPoetry(POEMS); };
-      poetryXhr.send();
+      // Poetry already loaded via fetchDB — pick poetry items
+      var poetryInterval = setInterval(function() {
+        if (ALL.length) {
+          clearInterval(poetryInterval);
+          var poems = ALL.filter(function(d) { return d.subtype === 'poetry'; });
+          renderPoetry(poems);
+        }
+      }, 100);
 
-      // ─── DAILY FUN ───
+      // ─── DAILY FUN (from database.json) ───
       var dayN = new Date().getDate();
-      document.getElementById('factText').textContent = FACTS[dayN % FACTS.length].text;
-      document.getElementById('factSource').textContent = '— ' + FACTS[dayN % FACTS.length].source;
-      document.getElementById('humorText').textContent = HUMORS[dayN % HUMORS.length].text;
-      document.getElementById('humorSource').textContent = '— ' + HUMORS[dayN % HUMORS.length].source;
+      var funInterval = setInterval(function() {
+        if (ALL.length) {
+          clearInterval(funInterval);
+          var facts = ALL.filter(function(d) { return d.subtype === 'fact'; });
+          var wits = ALL.filter(function(d) { return d.subtype === 'wit'; });
+          if (facts.length) {
+            var f = facts[dayN % facts.length];
+            document.getElementById('factText').textContent = f.urdu_translation || f.original_text;
+            document.getElementById('factSource').textContent = '\u2014 ' + (f.author || f.source || 'Islamic Tradition');
+          }
+          if (wits.length) {
+            var w = wits[dayN % wits.length];
+            document.getElementById('humorText').textContent = w.urdu_translation || w.original_text;
+            document.getElementById('humorSource').textContent = '\u2014 ' + (w.author || w.source || 'Hikmah');
+          }
+        }
+      }, 200);
     })();
   </script>
 </body>
