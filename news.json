@@ -1,187 +1,177 @@
 {
-  "generated": "2026-08-01T17:56:48Z",
+  "generated": "2026-08-01T19:04:32Z",
   "world": [
     {
-      "title": "Izo Capital Lends $26M on Wyoming Apartments Near Jackson Hole",
-      "desc": "Sundance Properties has sealed $25.6 million of construction financing to bring a multifamily development in Alpine, Wyo., across the finish line, Commercial Observer has learned. Izo Capital supplied the 24-month senior construction loan to fund the completi…",
-      "source": "Commercial Observer",
-      "url": "http://commercialobserver.com/2026/07/izo-capita-wyoming-apartments-jackson-hole/",
-      "time": "2026-07-31T17:55:09",
-      "country": "International",
-      "title_ur": "آئیزو کیپٹل جیکسن ہول کے قریب وومنگ اپارٹمنٹس پر 26 ملین ڈالر کا قرض دیتا ہے۔",
-      "desc_ur": "کمرشل آبزرور نے سیکھا ہے کہ سنڈینس پراپرٹیز نے الپائن، وائیو میں ایک کثیر خاندانی ترقی لانے کے لیے $25.6 ملین تعمیراتی فنانسنگ پر مہر لگا دی ہے۔ Izo Capital نے مکمل فنڈ کے لیے 24 ماہ کا سینئر کنسٹرکشن لون فراہم کیا…"
-    },
-    {
-      "title": "The good and the bad of perps, according to crypto traders",
-      "desc": "Both retail and institutional traders worry about the funding rate.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/business/2026/07/31/the-good-and-the-bad-of-perps-according-to-crypto-traders",
-      "time": "2026-07-31T17:53:59",
-      "country": "International",
-      "title_ur": "کرپٹو ٹریڈرز کے مطابق پرپس کی اچھی اور بری چیزیں",
-      "desc_ur": "خوردہ اور ادارہ جاتی تاجر دونوں فنڈنگ ​​کی شرح کے بارے میں فکر مند ہیں۔"
-    },
-    {
-      "title": "U.S. GDP growth slowed to 1.5% in Q2 2026 amid Iran war",
-      "desc": "The U.S. economy grew at an annualized rate of 1.5% in the second quarter of 2026, according to the Bureau of Economic Analysis, slowing from 2.1% growth in the first quarter and coming in below what economists had forecast. The Reuters poll of economists had…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/a79f4d9a921f3de8",
-      "time": "2026-07-31T17:52:37",
-      "country": "Iran",
-      "title_ur": "ایران جنگ کے دوران 2026 کی دوسری سہ ماہی میں امریکی جی ڈی پی کی شرح نمو 1.5 فیصد پر آ گئی۔",
-      "desc_ur": "بیورو آف اکنامک اینالیسس کے مطابق، امریکی معیشت نے 2026 کی دوسری سہ ماہی میں 1.5 فیصد کی سالانہ شرح سے ترقی کی، جو پہلی سہ ماہی میں 2.1 فیصد کی شرح نمو سے کم ہوئی اور ماہرین اقتصادیات کی پیش گوئی سے نیچے آ گئی۔ رائٹرز کے اقتصادی ماہرین کے سروے میں…"
-    },
-    {
-      "title": "Boy George Departs Jesus Christ Superstar After AI-Generated Pro-Israel Song - Vulture",
-      "desc": "Boy George Departs Jesus Christ Superstar After AI-Generated Pro-Israel SongVulture Boy George Pulled From ‘Jesus Christ Superstar’ Days After Posting Pro-Israel Reggae SongThe New York Times Boy George Leaves 'Jesus Christ Superstar' After AI Pro-Israel Song…",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184792318",
-      "time": "2026-07-31T17:52:26",
-      "country": "Israel",
-      "title_ur": "لڑکا جارج AI سے تیار کردہ پرو-اسرائیل گانے کے بعد جیسس کرائسٹ سپر اسٹار سے رخصت ہوا - گدھ",
-      "desc_ur": "لڑکا جارج جیسس کرائسٹ سپر سٹار کو AI-جنریٹڈ پرو-اسرائیل سونگ کے بعد چھوڑ گیا وولچر بوائے جارج نے اسرائیل نواز ریگی گانا پوسٹ کرنے کے دنوں بعد 'جیسس کرائسٹ سپر اسٹار' سے نکالا نیویارک ٹائمز کے لڑکے جارج نے AI پرو اسرائیل گانے کے بعد 'جیسس کرائسٹ سپر اسٹار' چھوڑ دیا…"
-    },
-    {
-      "title": "Feds Suspect Iran in Minnesota Water Cyberattack",
-      "desc": "Minnesota's taps are still running, but what's happening behind the scenes has Washington on alert. US intelligence agencies believe Iran was probably behind cyberattacks on more than 30 municipal water systems in the state this week, the New York Times repor…",
-      "source": "Newser",
-      "url": "https://www.newser.com/story/393883/feds-suspect-iran-in-minnesota-water-cyberattack.html",
-      "time": "2026-07-31T17:50:00",
-      "country": "Iran",
-      "title_ur": "فیڈز کو مینیسوٹا واٹر سائبر حملے میں ایران پر شبہ ہے۔",
-      "desc_ur": "مینیسوٹا کے نلکے ابھی بھی چل رہے ہیں، لیکن پردے کے پیچھے جو کچھ ہو رہا ہے اس سے واشنگٹن چوکس ہے۔ امریکی انٹیلی جنس ایجنسیوں کا خیال ہے کہ اس ہفتے ریاست میں 30 سے ​​زائد میونسپل واٹر سسٹمز پر سائبر حملوں کے پیچھے ایران کا ہاتھ تھا، نیویارک ٹائمز کی رپورٹ…"
-    },
-    {
-      "title": "Limerick man accused of human trafficking in the Mediterranean avoids extradition to Greece",
-      "desc": "The objection to the application for extradition was due to the conditions in Greek prisons, his barrister said.",
-      "source": "TheJournal.ie",
-      "url": "https://www.thejournal.ie/limerick-man-human-trafficking-greece-7119231-Jul2026/",
-      "time": "2026-07-31T17:49:27",
-      "country": "US",
-      "title_ur": "بحیرہ روم میں انسانی اسمگلنگ کا الزام لگانے والا لیمرک شخص یونان کے حوالے کرنے سے گریز کرتا ہے۔",
-      "desc_ur": "ان کے بیرسٹر نے کہا کہ حوالگی کی درخواست پر اعتراض یونانی جیلوں کے حالات کی وجہ سے تھا۔"
-    },
-    {
-      "title": "Feds Warn Water Systems of Rising Cyber Threats Following Minnesota Attacks",
-      "desc": "The federal government issued a cybersecurity alert Thursday after 30 water utilities in Minnesota were targeted in cyberattacks that officials suspect may be linked to Iran.\nThe post Feds Warn Water Systems of Rising Cyber Threats Following Minnesota Attacks…",
+      "title": "Shaheen: Trump Is Taking 'Side of a Sworn Enemy of the United States over a State'",
+      "desc": "Friday on MS NOW's \"On the Line,\" Sen. Jeanne Shaheen (D-NH) claimed President Donald Trump was taking the side of a sworn enemy over a state while discussing the recent alleged coordinated cyberattack on the water supplies of 30 Minnesota communities.\nThe po…",
       "source": "Breitbart News",
-      "url": "https://www.breitbart.com/tech/2026/07/31/feds-warn-water-systems-of-rising-cyber-threats-following-minnesota-attacks/",
-      "time": "2026-07-31T17:49:07",
+      "url": "https://www.breitbart.com/clips/2026/07/31/shaheen-trump-is-taking-side-of-a-sworn-enemy-of-the-united-states-over-a-state/",
+      "time": "2026-07-31T19:03:53",
+      "country": "US",
+      "title_ur": "شاہین: ٹرمپ 'ایک ریاست پر امریکہ کے حلیف دشمن کا ساتھ دے رہے ہیں'",
+      "desc_ur": "جمعہ کو MS NOW کے \"آن دی لائن\" پر، سین جین شاہین (D-NH) نے دعویٰ کیا کہ صدر ڈونلڈ ٹرمپ 30 مینیسوٹا کمیونٹیز کے پانی کی فراہمی پر حالیہ مبینہ مربوط سائبر حملے پر گفتگو کرتے ہوئے ایک ریاست کے بارے میں حلف لینے والے دشمن کا ساتھ دے رہے ہیں۔\nپو…"
+    },
+    {
+      "title": "Chevron posts largest quarterly profit ever and Exxon income surges as Iran war squeezes oil supply",
+      "desc": "The Big Oil giants are taking home near-record profits from high oil and fuel prices worldwide.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/31/chevron-posts-largest-quarterly-profit-ever-exxon-income-surges-iran-war-squeezes-oil-supply/",
+      "time": "2026-07-31T19:03:47",
       "country": "Iran",
-      "title_ur": "Feds مینیسوٹا حملوں کے بعد بڑھتے ہوئے سائبر خطرات سے پانی کے نظام کو خبردار کرتا ہے۔",
-      "desc_ur": "وفاقی حکومت نے جمعرات کو سائبر سیکیورٹی الرٹ جاری کیا جب مینیسوٹا میں پانی کی 30 یوٹیلیٹیز کو سائبر حملوں میں نشانہ بنایا گیا جس کے بارے میں حکام کو شبہ ہے کہ ان کا ایران سے تعلق ہوسکتا ہے۔\nThe post Feds نے واٹر سسٹمز کو مینیسوٹا حملوں کے بعد سائبر کے بڑھتے ہوئے خطرات سے خبردار کیا…"
+      "title_ur": "شیورون نے اب تک کا سب سے بڑا سہ ماہی منافع پوسٹ کیا اور ایکسن کی آمدنی میں اضافہ ہوا کیونکہ ایران جنگ نے تیل کی سپلائی کو نچوڑ دیا",
+      "desc_ur": "تیل کی بڑی کمپنیاں دنیا بھر میں تیل اور ایندھن کی بلند قیمتوں سے قریب قریب ریکارڈ منافع کما رہی ہیں۔"
     },
     {
-      "title": "At Least 88 Profitable U.S. Corporations Paid Zero Federal Income Tax in 2025",
-      "desc": "At least 88 of the largest corporations in America paid no federal corporate income taxes in their most recent fiscal year despite enjoying substantial pretax profits in the U.S. While the biggest U.S. corporations have avoided taxes in this way for decades, …",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4390077/posts",
-      "time": "2026-07-31T17:48:47",
-      "country": "US",
-      "title_ur": "کم از کم 88 منافع بخش امریکی کارپوریشنز نے 2025 میں زیرو فیڈرل انکم ٹیکس ادا کیا",
-      "desc_ur": "امریکہ میں کم از کم 88 سب سے بڑی کارپوریشنوں نے اپنے حالیہ مالی سال میں کوئی وفاقی کارپوریٹ انکم ٹیکس ادا نہیں کیا حالانکہ امریکہ میں کافی پہلے ٹیکس منافع سے لطف اندوز ہوئے ہیں جبکہ سب سے بڑی امریکی کارپوریشنوں نے دہائیوں سے اس طرح ٹیکسوں سے گریز کیا ہے، …"
-    },
-    {
-      "title": "Google adds AI to satellite images, raising fears of deepfakes in the sky",
-      "desc": "Journalists, human rights advocates and open source analysts recoiled in horror at the move: \"The opportunities for abuse and disinfo are literally boundless,\" said one.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/07/31/nx-s1-5914652/google-adds-ai-to-satellite-images-raising-fears-of-deepfakes-in-the-sky",
-      "time": "2026-07-31T17:48:26",
+      "title": "Walz Accuses Trump of Hiding Full Scope of Cyberattack Linked to Iran",
+      "desc": "Minnesota Governor Tim Walz says President Donald Trump is lying about who committed the cyberattack on his state—and purposefully hiding how many states were affected.Trump on Friday dismissed concerns that Iran was likely responsible for a cyberattack again…",
+      "source": "The New Republic",
+      "url": "https://newrepublic.com/post/213844/walz-accuses-trump-hiding-full-scope-cyberattack-iran",
+      "time": "2026-07-31T19:03:11",
       "country": "Iran",
-      "title_ur": "گوگل نے مصنوعی سیارہ کی تصاویر میں اے آئی کو شامل کیا، آسمان میں گہرے نقائص کا خدشہ پیدا کیا",
-      "desc_ur": "صحافی، انسانی حقوق کے حامی اور اوپن سورس تجزیہ کار اس اقدام پر خوفزدہ ہو کر پیچھے ہٹ گئے: \"بدسلوکی اور غلط معلومات کے مواقع لفظی طور پر بے حد ہیں،\" ایک نے کہا۔"
+      "title_ur": "والز نے ٹرمپ پر ایران سے منسلک سائبر حملے کے مکمل دائرہ کار کو چھپانے کا الزام لگایا",
+      "desc_ur": "مینیسوٹا کے گورنر ٹم والز کا کہنا ہے کہ صدر ڈونلڈ ٹرمپ جھوٹ بول رہے ہیں کہ ان کی ریاست پر سائبر حملہ کس نے کیا — اور جان بوجھ کر چھپا رہے ہیں کہ کتنی ریاستیں متاثر ہوئیں۔ ٹرمپ نے جمعہ کے روز ان خدشات کو مسترد کر دیا کہ ممکنہ طور پر ایران دوبارہ سائبر حملے کا ذمہ دار ہے…"
     },
     {
-      "title": "Pope Leo XIV meets pro-abortion singer Patti Smith as Vatican official hails ‘shared mission’",
-      "desc": "Pope Leo XIV meets pro-abortion singer Patti Smith as Vatican official hails ‘shared mission’One of Patti Smith's best known lyrics is, 'Jesus died for somebody's sins, but not mine.'Pope Leo XIV met with the pro-abortion, pro-LGBT punk rock star Patti Smith …",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-religion/4390076/posts",
-      "time": "2026-07-31T17:47:28",
-      "country": "US",
-      "title_ur": "پوپ لیو XIV نے اسقاط حمل کے حامی گلوکار پیٹی اسمتھ سے ملاقات کی کیونکہ ویٹیکن کے عہدیدار نے 'مشترکہ مشن' کا خیرمقدم کیا",
-      "desc_ur": "پوپ لیو XIV نے اسقاط حمل کی حامی گلوکارہ پیٹی اسمتھ سے ملاقات کی جیسا کہ ویٹیکن کے عہدیدار نے 'مشترکہ مشن' کی تعریف کی' پیٹی اسمتھ کی مشہور غزلوں میں سے ایک یہ ہے کہ 'جیسس کسی کے گناہوں کے لیے مرے، لیکن میرے نہیں۔' پوپ لیو XIV نے اسقاط حمل کے حامی، LGBT پنک سٹار پتی اسمتھ سے ملاقات کی۔"
-    },
-    {
-      "title": "Gold slips as US. dollar regains footing; heads for first monthly gain in five",
-      "desc": "Gold slid 2% on Friday as the U.S. dollar rebounded from a ​more than one-month low reached on Thursday.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/31/gold-slips-but-on-track-to-end-four-month-losing-streak.html",
-      "time": "2026-07-31T17:45:46",
-      "country": "US",
-      "title_ur": "امریکہ کے طور پر سونا پھسل گیا۔ ڈالر کی واپسی پانچ میں پہلے ماہانہ فائدے کی طرف بڑھ رہے ہیں۔",
-      "desc_ur": "جمعہ کو سونے کی قیمت میں 2% کی کمی واقع ہوئی کیونکہ امریکی ڈالر جمعرات کو ایک ماہ سے زیادہ کی کم ترین سطح پر پہنچ گیا۔"
-    },
-    {
-      "title": "Raskin Launches Probe of Scheme to Sell Insider Access to Trump Truth Social Posts",
-      "desc": "\"Are you helping the president sell people advance access to market-moving information?\"That's the opening line of a Thursday letter that US House Judiciary Committee Ranking Member Jamie Raskin (D-Md.) sent to Kevin McGurn, interim CEO of President Donald Tr…",
-      "source": "Common Dreams",
-      "url": "https://www.commondreams.org/news/truth-social-wall-street",
-      "time": "2026-07-31T17:45:18",
-      "country": "US",
-      "title_ur": "راسکن نے ٹرمپ ٹروتھ سوشل پوسٹس تک اندرونی رسائی فروخت کرنے کے لیے اسکیم کی تحقیقات کا آغاز کیا۔",
-      "desc_ur": "\"کیا آپ صدر کی مدد کر رہے ہیں کہ وہ لوگوں کو مارکیٹ میں منتقل ہونے والی معلومات تک پیشگی رسائی فراہم کریں؟\" یہ جمعرات کے خط کی ابتدائی لائن ہے جو امریکی ہاؤس جوڈیشری کمیٹی رینکنگ ممبر جیمی راسکن (D-Md.) نے صدر ڈونلڈ ٹرمپ کے عبوری سی ای او کیون میک گرن کو بھیجا تھا۔"
-    },
-    {
-      "title": "Oil spill from shadow fleet tanker spreads off Oman, threatens Strait of Hormuz",
-      "desc": "The spill highlights vulnerabilities in global oil supply chains and underscores geopolitical tensions affecting maritime security and logistics.\nThe post Oil spill from shadow fleet tanker spreads off Oman, threatens Strait of Hormuz appeared first on Crypto…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/oil-spill-from-shadow-fleet-tanker-spreads-off-oman-threatens-strait-of-hormuz/",
-      "time": "2026-07-31T17:43:43",
+      "title": "The Red Menace: They (communists) are baaack!",
+      "desc": "'The canard that democratic socialism is not Marxism is wearing thin'",
+      "source": "Wnd.com",
+      "url": "https://www.wnd.com/2026/07/red-menace-they-communists-are-baaack/",
+      "time": "2026-07-31T19:01:22",
       "country": "International",
-      "title_ur": "شیڈو فلیٹ ٹینکر سے تیل کا اخراج عمان تک پھیل گیا، آبنائے ہرمز کو خطرہ",
-      "desc_ur": "یہ پھیلاؤ عالمی سطح پر تیل کی سپلائی چینز کی کمزوریوں کو نمایاں کرتا ہے اور بحری سلامتی اور لاجسٹکس کو متاثر کرنے والے جغرافیائی سیاسی تناؤ کی نشاندہی کرتا ہے۔\nThe post شیڈو فلیٹ ٹینکر سے تیل کا اخراج عمان تک پھیل گیا، آبنائے ہرمز کو خطرہ appeared first on Crypto…"
+      "title_ur": "سرخ خطرہ: وہ (کمیونسٹ) باک ہیں!",
+      "desc_ur": "'جمہوری سوشلزم جو مارکسزم نہیں ہے وہ پتلا پہنا ہوا ہے'"
     },
     {
-      "title": "Trump administration rules out mass ICE enforcement at the polls in midterms",
-      "desc": "WASHINGTON — U.S. Immigration and Customs Enforcement is not planning an aggressive campaign at voting sites during the upcoming midterm elections, the Department of Homeland Security said Thursday in response to a States Newsroom inquiry about a letter from …",
+      "title": "Trump Offers Word-Salad Gibberish To Explain His Position On Patriots For Ukraine",
+      "desc": "The president publicly said three weeks ago that he would let Ukraine build its own anti-missile interceptors. Now he says maybe not.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/trump-ukraine-patriots-reversal_n_6a6cd0c4e4b07f39e66789bb",
+      "time": "2026-07-31T19:01:06",
+      "country": "UK",
+      "title_ur": "ٹرمپ نے یوکرین کے محب وطنوں کے بارے میں اپنے موقف کی وضاحت کے لیے ورڈ سلاد گبریش کی پیشکش کی",
+      "desc_ur": "صدر نے تین ہفتے پہلے عوامی طور پر کہا تھا کہ وہ یوکرین کو اپنے میزائل شکن انٹرسیپٹرز بنانے دیں گے۔ اب وہ کہتا ہے کہ شاید نہیں۔"
+    },
+    {
+      "title": "Mamdani’s judicial panel has zero Jewish members – but includes lawyer for domestic terrorist, Luigi Mangione apologist",
+      "desc": "Mayor Zohran Mamdani didn’t pick one Jewish person to serve on his judicial screening panel, but he did appoint a lawyer for a domestic terrorist, a Luigi Mangione apologist – and even a former male prostitute. The social media-loving socialist, a staunch cri…",
       "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4390074/posts",
-      "time": "2026-07-31T17:43:12",
-      "country": "US",
-      "title_ur": "ٹرمپ انتظامیہ وسط مدتی انتخابات میں بڑے پیمانے پر ICE کے نفاذ کو مسترد کرتی ہے۔",
-      "desc_ur": "واشنگٹن — یو ایس امیگریشن اینڈ کسٹمز انفورسمنٹ آئندہ وسط مدتی انتخابات کے دوران ووٹنگ سائٹس پر جارحانہ مہم کا منصوبہ نہیں بنا رہا ہے، ہوم لینڈ سیکیورٹی کے محکمے نے جمعرات کو اسٹیٹس نیوز روم کی جانب سے ایک خط کے بارے میں پوچھ گچھ کے جواب میں کہا۔"
+      "url": "https://freerepublic.com/focus/f-news/4390086/posts",
+      "time": "2026-07-31T19:01:06",
+      "country": "International",
+      "title_ur": "مامدانی کے عدالتی پینل میں صفر یہودی ارکان ہیں - لیکن اس میں گھریلو دہشت گرد کے وکیل، لوئیگی منگیون معافی کے ماہر شامل ہیں",
+      "desc_ur": "میئر ظہران مامدانی نے اپنے عدالتی اسکریننگ پینل میں خدمات انجام دینے کے لیے ایک یہودی شخص کو منتخب نہیں کیا، لیکن اس نے ایک گھریلو دہشت گرد، ایک Luigi Mangione معذرت خواہ - اور یہاں تک کہ ایک سابق مرد طوائف کے لیے ایک وکیل مقرر کیا۔ سوشل میڈیا سے محبت کرنے والے سوشلسٹ، ایک سخت گیر…"
     },
     {
-      "title": "Trump Reaping Whirlwind From His Senate Purges",
-      "desc": "Trump’s agenda is jammed in the Senate due to Republican senators he purged or alienated by purge threats. Intraparty strife is also a bad look for the midterms. He only has himself to blame, Ed Kilgore writes.",
-      "source": "New York Magazine",
-      "url": "http://nymag.com/intelligencer/article/trump-reaping-whirlwind-from-his-senate-gop-purges-tillis-cornyn.html",
-      "time": "2026-07-31T17:42:35",
+      "title": "Boy George breaks his silence after pulling out of Jesus Christ Superstar in the West End amid controversy following the release of pro-Israel song",
+      "desc": "Boy George has broken his silence after pulling out of Jesus Christ Superstar in the West End just days before his stint was about to start amid controversy following the release of his pro-Israel song.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/tvshowbiz/article-16020629/Boy-George-breaks-silence-Jesus-Christ-Superstar.html",
+      "time": "2026-07-31T19:00:41",
+      "country": "Israel",
+      "title_ur": "بوائے جارج نے اسرائیل کے حامی گانے کی ریلیز کے بعد تنازعہ کے درمیان ویسٹ اینڈ میں جیسس کرائسٹ سپر اسٹار سے باہر نکلنے کے بعد اپنی خاموشی توڑ دی",
+      "desc_ur": "بوائے جارج نے ویسٹ اینڈ میں جیسس کرائسٹ سپر سٹار سے کنارہ کشی کے بعد اپنی خاموشی توڑ دی ہے اس سے کچھ دن پہلے کہ اس کا دور اسرائیل نواز گانا ریلیز ہونے کے بعد تنازعات کے درمیان شروع ہونے والا تھا۔"
+    },
+    {
+      "title": "Ahmedabad: Employee dies after fall from office building in Makarba",
+      "desc": "Private firm employee Balaji Subramaniam, 38, died after falling from a 5th-floor office building in Makarba; police probe if accident or foul play.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/ahmedabad/ahmedabad-employee-dies-after-fall-from-office-building-in-makarba/articleshow/132776038.cms",
+      "time": "2026-07-31T19:00:36",
+      "country": "International",
+      "title_ur": "احمد آباد: مکربہ میں دفتر کی عمارت سے گر کر ملازم کی موت",
+      "desc_ur": "پرائیویٹ فرم کا ملازم بالاجی سبرامنیم، 38، مکربہ میں دفتر کی 5ویں منزل کی عمارت سے گرنے کے بعد مر گیا۔ پولیس تحقیقات کرے گا کہ حادثہ یا بدتمیزی۔"
+    },
+    {
+      "title": "Balaghat police earn World Book of Records recognition for anti-drug campaign",
+      "desc": "Balaghat Police receive World Book of Records London Certificate of Excellence as 1.25 lakh students in 1,204 schools took an anti-drug pledge in 1 minute.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/bhopal/balaghat-police-earn-world-book-of-records-recognition-for-anti-drug-campaign/articleshow/132776037.cms",
+      "time": "2026-07-31T19:00:32",
+      "country": "UK",
+      "title_ur": "بالاگھاٹ پولیس نے انسداد منشیات کی مہم کے لیے ورلڈ بک آف ریکارڈ کی پہچان حاصل کی۔",
+      "desc_ur": "بالاگھاٹ پولیس کو ورلڈ بک آف ریکارڈ لندن سرٹیفکیٹ آف ایکسیلنس حاصل ہوا کیونکہ 1,204 اسکولوں میں 1.25 لاکھ طلباء نے 1 منٹ میں انسداد منشیات کا عہد لیا۔"
+    },
+    {
+      "title": "CM pushes to expand scope of farmers’ scholarship scheme, revamp of mandis",
+      "desc": "UP CM Yogi Adityanath seeks expansion of Mukhyamantri Krishak Chhatravritti Yojana, approves Rs 3,025.49 crore mandi budget, pushes e-NAM and PPP units.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/cm-pushes-to-expand-scope-of-farmers-scholarship-scheme-revamp-of-mandis/articleshow/132776033.cms",
+      "time": "2026-07-31T19:00:26",
+      "country": "UK",
+      "title_ur": "وزیراعلیٰ نے کسانوں کی اسکالرشپ اسکیم کے دائرہ کار کو بڑھانے، منڈیوں کی اصلاح پر زور دیا۔",
+      "desc_ur": "یوپی کے سی ایم یوگی آدتیہ ناتھ نے مکھیا منتری کرشک چھتروریتی یوجنا کی توسیع کی کوشش کی، 3,025.49 کروڑ روپے کے منڈی بجٹ کو منظور کیا، ای-نیم اور پی پی پی یونٹوں کو آگے بڑھایا۔"
+    },
+    {
+      "title": "The Book That Predicted Pete Hegseth’s Failures",
+      "desc": "‘On the Psychology of Military Incompetence’ examines the narrow minds of petty men.",
+      "source": "Foreign Policy",
+      "url": "http://foreignpolicy.com/2026/07/31/hegseth-norman-dixon-iran-war/",
+      "time": "2026-07-31T19:00:20",
+      "country": "International",
+      "title_ur": "وہ کتاب جس نے پیٹ ہیگستھ کی ناکامیوں کی پیش گوئی کی۔",
+      "desc_ur": "'فوجی نااہلی کی نفسیات پر' چھوٹے مردوں کے تنگ ذہنوں کا جائزہ لیتا ہے۔"
+    },
+    {
+      "title": "Why Trump’s Trade Threat Puts Spain’s Energy Security on the Line",
+      "desc": "Donald Trump’s July 8 order to halt trade with Spain has yet to become an energy embargo, but Madrid can no longer dismiss it as political theatre. It was the second such threat since March 2026, this time delivered directly to Treasury Secretary Scott Bessen…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Why-Trumps-Trade-Threat-Puts-Spains-Energy-Security-on-the-Line.html",
+      "time": "2026-07-31T19:00:00",
       "country": "US",
-      "title_ur": "ٹرمپ اپنی سینیٹ کی صفائی سے بھنور کاٹ رہے ہیں۔",
-      "desc_ur": "ٹرمپ کا ایجنڈا سینیٹ میں ریپبلکن سینیٹرز کی وجہ سے جام ہو گیا ہے جنہیں اس نے صاف کرنے کی دھمکیوں سے پاک یا الگ کر دیا تھا۔ انٹراپارٹی جھگڑا بھی وسط مدتی انتخابات کے لیے بری نظر ہے۔ ایڈ کِلگور لکھتے ہیں کہ وہ صرف خود کو قصوروار ٹھہراتا ہے۔"
+      "title_ur": "کیوں ٹرمپ کا تجارتی خطرہ اسپین کی توانائی کی حفاظت کو لائن پر رکھتا ہے۔",
+      "desc_ur": "ڈونلڈ ٹرمپ کا 8 جولائی کو اسپین کے ساتھ تجارت روکنے کا حکم ابھی تک توانائی کی پابندی نہیں بن سکا ہے، لیکن میڈرڈ اسے سیاسی تھیٹر کے طور پر مزید مسترد نہیں کر سکتا۔ مارچ 2026 کے بعد سے یہ اس طرح کا دوسرا خطرہ تھا، اس بار براہ راست وزیر خزانہ سکاٹ بیسن کو پہنچایا گیا…"
+    },
+    {
+      "title": "The great powers are no longer calling all the shots",
+      "desc": "It's not just that some of the strongmen don't seem so strong anymore. It's that there is a new conflation of factors proving to be just as important, if not more so, in driving world events in increasingly disturbing directions.",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-08-01/global-politics-driven-strongmen-disturbing-directions/106982606",
+      "time": "2026-07-31T19:00:00",
+      "country": "US",
+      "title_ur": "بڑی طاقتیں اب تمام شاٹس کو کال نہیں کر رہی ہیں۔",
+      "desc_ur": "یہ صرف اتنا نہیں ہے کہ کچھ طاقتور اب اتنے مضبوط نظر نہیں آتے۔ یہ ہے کہ دنیا کے واقعات کو تیزی سے پریشان کن سمتوں میں چلانے کے لیے عوامل کا ایک نیا مجموعہ ہے جو اتنا ہی اہم ثابت ہو رہا ہے، اگر زیادہ نہیں تو۔"
+    },
+    {
+      "title": "Cowboys 2026 roster rundown: OLB Malachi Lawrence",
+      "desc": "Cowboys other first-rounder is trying to claim his role",
+      "source": "Blogging The Boys",
+      "url": "https://www.bloggingtheboys.com/dallas-cowboys-roster/211057/2026-roster-rundown-outside-linebacker-malachi-lawrence",
+      "time": "2026-07-31T19:00:00",
+      "country": "International",
+      "title_ur": "کاؤبای 2026 روسٹر رن ڈاون: OLB ملاچی لارنس",
+      "desc_ur": "کاؤبای کے دوسرے فرسٹ راؤنڈر اپنے کردار کا دعویٰ کرنے کی کوشش کر رہے ہیں۔"
+    },
+    {
+      "title": "New Google Earth AI Tool Could Fuel Misinformation, Experts Say",
+      "desc": "Google has integrated its Nano Banana 2 image generator into Google Earth, allowing users to place AI-generated events and objects onto real satellite imagery. The company says its AI-generated images contain invisible watermarks detectable through Gemini or …",
+      "source": "Slashdot.org",
+      "url": "https://tech.slashdot.org/story/26/07/31/1841253/new-google-earth-ai-tool-could-fuel-misinformation-experts-say",
+      "time": "2026-07-31T19:00:00",
+      "country": "US",
+      "title_ur": "ماہرین کا کہنا ہے کہ نیا گوگل ارتھ اے آئی ٹول غلط معلومات کو ہوا دے سکتا ہے۔",
+      "desc_ur": "گوگل نے اپنے نینو کیلے 2 امیج جنریٹر کو گوگل ارتھ میں ضم کر دیا ہے، جس سے صارفین AI سے تیار کردہ واقعات اور اشیاء کو حقیقی سیٹلائٹ امیجری پر رکھ سکتے ہیں۔ کمپنی کا کہنا ہے کہ اس کی AI سے تیار کردہ تصاویر میں غیر مرئی واٹر مارکس ہیں جن کا جیمنی یا…"
     }
   ],
   "pakistan": [
     {
-      "title": "Stopped India, Pakistan war with tariff threats, claims Trump again",
-      "desc": "President Trump proclaimed that tariffs played a crucial role in bringing an end to last year’s conflict between India and Pakistan. He suggested that the threat of these tariffs fueled resentment in both countries. However, India insists that the ceasefire w…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/india/stopped-india-pakistan-war-with-tariff-threats-claims-trump-again/articleshow/132774384.cms",
-      "time": "2026-07-31T17:47:39",
-      "country": "Pakistan",
-      "title_ur": "ٹیرف دھمکیوں کے ساتھ بھارت اور پاکستان کی جنگ روک دی، ٹرمپ کا پھر دعویٰ",
-      "desc_ur": "صدر ٹرمپ نے اعلان کیا کہ ٹیرف نے بھارت اور پاکستان کے درمیان گزشتہ سال کے تنازع کو ختم کرنے میں اہم کردار ادا کیا۔ انہوں نے تجویز پیش کی کہ ان محصولات کے خطرے نے دونوں ممالک میں ناراضگی کو ہوا دی۔ تاہم، بھارت کا اصرار ہے کہ جنگ بندی ..."
-    },
-    {
-      "title": "Security forces recovered suspected drone along LoC in Akhnoor sector",
-      "desc": "Security forces recovered a suspected drone near the Line of Control in Jammu's Akhnoor sector.  The drone, believed to be from Pakistan, was found in the Chakla hamlet area.  Following this discovery, security forces immediately initiated a comprehensive sea…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/india/security-forces-recovered-suspected-drone-along-loc-in-akhnoor-sector/articleshow/132774001.cms",
-      "time": "2026-07-31T17:33:20",
-      "country": "Pakistan",
-      "title_ur": "سیکورٹی فورسز نے اکھنور سیکٹر میں ایل او سی کے ساتھ مشتبہ ڈرون برآمد کیا۔",
-      "desc_ur": "جموں کے اکھنور سیکٹر میں لائن آف کنٹرول کے قریب سیکورٹی فورسز نے ایک مشتبہ ڈرون برآمد کیا۔  ڈرون، جس کے بارے میں خیال کیا جاتا ہے کہ پاکستان سے تھا، چکلہ کے علاقے سے ملا۔  اس دریافت کے بعد سیکیورٹی فورسز نے فوری طور پر ایک جامع سمندری…"
-    },
-    {
-      "title": "Trump cites missile attack on US base as trust in Iran wanes",
-      "desc": "Heightened tensions and skepticism may hinder diplomatic progress, reducing the likelihood of a US-Iran agreement by 2026.\nThe post Trump cites missile attack on US base as trust in Iran wanes appeared first on Crypto Briefing.",
+      "title": "67 ships attacked, 17 seafarers killed in Iran war maritime conflict",
+      "desc": "The maritime conflict threatens global energy supply chains and could lead to significant geopolitical and economic disruptions.\nThe post 67 ships attacked, 17 seafarers killed in Iran war maritime conflict appeared first on Crypto Briefing.",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/trump-cites-missile-attack-on-us-base-as-trust-in-iran-wanes/",
-      "time": "2026-07-31T17:13:00",
+      "url": "https://cryptobriefing.com/67-ships-attacked-17-seafarers-killed-in-iran-war-maritime-conflict/",
+      "time": "2026-07-31T19:04:14",
       "country": "Pakistan",
-      "title_ur": "ٹرمپ نے امریکی اڈے پر میزائل حملے کا حوالہ دیتے ہوئے کہا کہ ایران پر اعتماد ختم ہو رہا ہے۔",
-      "desc_ur": "بڑھتی ہوئی کشیدگی اور شکوک و شبہات سفارتی پیش رفت میں رکاوٹ بن سکتے ہیں، جس سے 2026 تک امریکہ ایران معاہدے کے امکانات کم ہو سکتے ہیں۔\nThe post ٹرمپ نے امریکی اڈے پر میزائل حملے کا ایران پر اعتماد ختم ہونے کا حوالہ دیا appeared first on Crypto Briefing."
+      "title_ur": "67 بحری جہازوں پر حملہ، 17 بحری جہاز ایران کے جنگی بحری تنازع میں مارے گئے۔",
+      "desc_ur": "سمندری تنازعہ عالمی توانائی کی سپلائی چینز کو خطرہ بناتا ہے اور اہم جغرافیائی سیاسی اور اقتصادی رکاوٹوں کا باعث بن سکتا ہے۔\nThe post ایران کے جنگی بحری تنازع میں 67 جہازوں پر حملہ، 17 بحری جہاز ہلاک appeared first on Crypto Briefing."
+    },
+    {
+      "title": "Trump Blames Minnesota Cyberattack on Governor, Not Iran",
+      "desc": "President Donald Trump blamed Minnesota state officials with whom he has feuded for cyberattacks on multiple water systems there, despite reports that officials suspected Iranian involvement in the disruptions. The New York Times, citing U.S. and state offici…",
+      "source": "Insurance Journal",
+      "url": "https://www.insurancejournal.com/news/midwest/2026/07/31/879871.htm",
+      "time": "2026-07-31T19:03:38",
+      "country": "Pakistan",
+      "title_ur": "ٹرمپ نے منیسوٹا سائبر حملے کا الزام ایران پر نہیں گورنر پر لگایا",
+      "desc_ur": "صدر ڈونلڈ ٹرمپ نے مینیسوٹا کے ریاستی حکام کو مورد الزام ٹھہرایا جن کے ساتھ انہوں نے وہاں کے پانی کے متعدد نظاموں پر سائبر حملوں کے لیے جھگڑا کیا، ان اطلاعات کے باوجود کہ حکام نے رکاوٹوں میں ایرانی ملوث ہونے کا شبہ ظاہر کیا ہے۔ نیویارک ٹائمز نے امریکی اور ریاستی عہدیداروں کا حوالہ دیتے ہوئے…"
     }
   ],
   "business": {
@@ -194,19 +184,10 @@
     "city_ur": "لاہور",
     "forecast": [
       {
-        "date": "2026-08-01",
-        "day": "ہفتہ",
-        "high": 33,
-        "low": 28,
-        "condition": "Light Drizzle",
-        "condition_ur": "ہلکی بوندا باندی",
-        "precip": 63
-      },
-      {
         "date": "2026-08-02",
         "day": "اتوار",
-        "high": 33,
-        "low": 26,
+        "high": 34,
+        "low": 28,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
         "precip": 59
@@ -214,7 +195,7 @@
       {
         "date": "2026-08-03",
         "day": "پیر",
-        "high": 33,
+        "high": 32,
         "low": 26,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
@@ -232,10 +213,10 @@
       {
         "date": "2026-08-05",
         "day": "بدھ",
-        "high": 34,
-        "low": 25,
-        "condition": "Thunderstorm",
-        "condition_ur": "گرج چمک",
+        "high": 33,
+        "low": 26,
+        "condition": "Light Drizzle",
+        "condition_ur": "ہلکی بوندا باندی",
         "precip": 76
       },
       {
@@ -243,24 +224,33 @@
         "day": "جمعرات",
         "high": 34,
         "low": 25,
-        "condition": "Light Drizzle",
-        "condition_ur": "ہلکی بوندا باندی",
+        "condition": "Heavy Drizzle",
+        "condition_ur": "تیز بوندا باندی",
         "precip": 73
       },
       {
         "date": "2026-08-07",
         "day": "جمعہ",
-        "high": 34,
+        "high": 33,
         "low": 26,
-        "condition": "Thunderstorm",
-        "condition_ur": "گرج چمک",
+        "condition": "Overcast",
+        "condition_ur": "ابر آلود",
         "precip": 63
+      },
+      {
+        "date": "2026-08-08",
+        "day": "ہفتہ",
+        "high": 33,
+        "low": 27,
+        "condition": "Light Drizzle",
+        "condition_ur": "ہلکی بوندا باندی",
+        "precip": 41
       }
     ]
   },
   "date": {
-    "gregorian": "Saturday, 1 August 2026",
-    "hijri": "18 Ṣafar 1448",
-    "hijri_ur": "18 صَفَر 1448"
+    "gregorian": "Sunday, 2 August 2026",
+    "hijri": "19 Ṣafar 1448",
+    "hijri_ur": "19 صَفَر 1448"
   }
 }
