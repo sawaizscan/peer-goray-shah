@@ -1,187 +1,207 @@
 {
-  "generated": "2026-08-01T13:05:11Z",
+  "generated": "2026-08-01T14:44:03Z",
   "world": [
     {
-      "title": "‘Was this heatwave caused by climate change?’ – we’re asking the wrong question",
-      "desc": "Instead of asking whether climate change caused a heatwave, we should ask how much hotter it became because of fossil fuel emissions.",
+      "title": "Investigators believe Iranian hackers are likely behind cyberattack on Minnesota water systems: report",
+      "desc": "More than 30 Minnesota water systems were hit by a coordinated cyberattack that officials say was likely orchestrated by Iranian hackers, a report said.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/investigators-believe-iranian-hackers-likely-behind-cyberattack-minnesota-water-systems-report",
+      "time": "2026-07-31T14:43:38",
+      "country": "Iran",
+      "title_ur": "تفتیش کاروں کا خیال ہے کہ مینیسوٹا کے پانی کے نظام پر سائبر حملے کے پیچھے ایرانی ہیکرز کا ہاتھ ہے: رپورٹ",
+      "desc_ur": "ایک رپورٹ میں کہا گیا ہے کہ مینیسوٹا کے 30 سے ​​زائد پانی کے نظام کو مربوط سائبر حملے کا نشانہ بنایا گیا جس کے بارے میں حکام کا کہنا ہے کہ ممکنہ طور پر ایرانی ہیکرز نے یہ حملہ کیا تھا۔"
+    },
+    {
+      "title": "Israel destroys terror tunnels in Lebanon that Hezbollah planned to use",
+      "desc": "The Israel Defense Forces destroyed terror tunnels in the Beaufort area of southeastern Lebanon, which Hezbollah planned to use to invade communities in the Galilee, Prime Minister Benjamin Netanyahu said on Thursday.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/07/31/world-news/israel-destroys-terror-tunnels-in-lebanon-that-hezbollah-planned-to-use/",
+      "time": "2026-07-31T14:42:32",
+      "country": "Israel",
+      "title_ur": "اسرائیل نے لبنان میں دہشت گردی کی ان سرنگوں کو تباہ کر دیا جنہیں حزب اللہ نے استعمال کرنے کا منصوبہ بنایا تھا۔",
+      "desc_ur": "اسرائیلی دفاعی افواج نے جنوب مشرقی لبنان کے علاقے بیفورٹ میں دہشت گردی کی سرنگوں کو تباہ کر دیا، جنہیں حزب اللہ نے گلیل میں کمیونٹیز پر حملہ کرنے کے لیے استعمال کرنے کا منصوبہ بنایا تھا، وزیر اعظم بنجمن نیتن یاہو نے جمعرات کو کہا۔"
+    },
+    {
+      "title": "Age Verification Rollout Hurt Roblox Corporation (RBLX) in Q2",
+      "desc": "Spyglass Capital Management LLC, an investment management firm, released its second-quarter investor letter for “Spyglass Growth Strategy”. A copy of the let...",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/age-verification-rollout-hurt-roblox-144217067.html",
+      "time": "2026-07-31T14:42:17",
+      "country": "International",
+      "title_ur": "Q2 میں عمر کی تصدیق رول آؤٹ Hurt Roblox Corporation (RBLX)",
+      "desc_ur": "Spyglass Capital Management LLC، ایک انوسٹمنٹ مینجمنٹ فرم نے \"Spyglass Growth Strategy\" کے لیے اپنی دوسری سہ ماہی کے سرمایہ کاروں کا خط جاری کیا۔ اجازت نامے کی ایک کاپی..."
+    },
+    {
+      "title": "A high-stakes test for Trump’s Gaza ceasefire board as Hamas disarmament looms",
+      "desc": "U.S. President Donald Trump has announced an agreement for disarmament of Hamas in Gaza and Israel's withdrawal from the area. This could end the Israel-Hamas conflict that began on October 7, 2023. The Board of Peace, established by Trump, will…",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/israel-hamas-gaza-trump-disarmament-palestinians-board-of-peace-mladenov-19bc6cfd488059602e43d00df113dd6e",
+      "time": "2026-07-31T14:42:00",
+      "country": "Israel",
+      "title_ur": "ٹرمپ کے غزہ جنگ بندی بورڈ کے لئے ایک اعلی داؤ کا امتحان کیونکہ حماس کے تخفیف اسلحہ کی امید ہے",
+      "desc_ur": "امریکی صدر ڈونلڈ ٹرمپ نے غزہ میں حماس کو غیر مسلح کرنے اور اس علاقے سے اسرائیل کے انخلاء کے معاہدے کا اعلان کیا ہے۔ اس سے 7 اکتوبر 2023 کو شروع ہونے والا اسرائیل حماس تنازع ختم ہو سکتا ہے۔ ٹرمپ کی طرف سے قائم کردہ بورڈ آف پیس،…"
+    },
+    {
+      "title": "Britain’s quarter century: wealth and widening inequality",
+      "desc": "How finances and the economy have changed over 25 years.",
       "source": "The Conversation Africa",
-      "url": "https://theconversation.com/was-this-heatwave-caused-by-climate-change-were-asking-the-wrong-question-288637",
-      "time": "2026-07-31T13:04:49",
-      "country": "US",
-      "title_ur": "'کیا یہ گرمی کی لہر موسمیاتی تبدیلی کی وجہ سے تھی؟' - ہم غلط سوال پوچھ رہے ہیں۔",
-      "desc_ur": "یہ پوچھنے کے بجائے کہ کیا موسمیاتی تبدیلی ہیٹ ویو کا باعث بنی، ہمیں یہ پوچھنا چاہیے کہ فوسل فیول کے اخراج کی وجہ سے یہ کتنی زیادہ گرم ہو گئی ہے۔"
+      "url": "https://theconversation.com/britains-quarter-century-wealth-and-widening-inequality-287410",
+      "time": "2026-07-31T14:40:59",
+      "country": "UK",
+      "title_ur": "برطانیہ کی چوتھائی صدی: دولت اور بڑھتی ہوئی عدم مساوات",
+      "desc_ur": "25 سالوں میں مالیات اور معیشت کیسے بدلی ہے۔"
     },
     {
-      "title": "QTREX Proprietary Quantum Interconnect Platform Exceeds Performance Requirements Established by Strategic Partners",
-      "desc": "QTREX’s proprietary coaxial quantum interconnect platform exceeded partner-defined RF performance requirements across key parameters....",
+      "title": "T3 Defense Inc. Subsidiaries Rimon and Tiltan Deliver Strong Year-to-Date Operating Performance",
+      "desc": "Both subsidiaries report record year-to-date revenue, new order intake, and backlog levels Both subsidiaries report record year-to-date revenue, new order intake, and backlog levels",
       "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/07/31/3336830/0/en/QTREX-Proprietary-Quantum-Interconnect-Platform-Exceeds-Performance-Requirements-Established-by-Strategic-Partners.html",
-      "time": "2026-07-31T13:03:00",
+      "url": "https://www.globenewswire.com/news-release/2026/07/31/3336893/0/en/T3-Defense-Inc-Subsidiaries-Rimon-and-Tiltan-Deliver-Strong-Year-to-Date-Operating-Performance.html",
+      "time": "2026-07-31T14:39:00",
       "country": "International",
-      "title_ur": "QTREX ملکیتی کوانٹم انٹر کنیکٹ پلیٹ فارم اسٹریٹجک شراکت داروں کے ذریعہ قائم کردہ کارکردگی کے تقاضوں سے تجاوز کرتا ہے۔",
-      "desc_ur": "QTREX کے ملکیتی کواکسیئل کوانٹم انٹر کنیکٹ پلیٹ فارم نے کلیدی پیرامیٹرز میں پارٹنر کی طرف سے طے شدہ RF کارکردگی کے تقاضوں سے تجاوز کیا۔"
+      "title_ur": "T3 ڈیفنس انکارپوریٹڈ کے ذیلی ادارے ریمون اور ٹلٹن سال بہ تاریخ مضبوط آپریٹنگ کارکردگی فراہم کرتے ہیں",
+      "desc_ur": "دونوں ماتحت ادارے ریکارڈ سال بہ تاریخ آمدنی، نئے آرڈر کی مقدار، اور بیک لاگ لیولز رپورٹ کرتے ہیں دونوں ماتحت ادارے سال بہ تاریخ ریونیو، نئے آرڈر کی مقدار، اور بیک لاگ لیولز کی رپورٹ کرتے ہیں۔"
     },
     {
-      "title": "Trump's empty threats show he's out of ammo",
-      "desc": "Trump's turns to empty threats as he runs out of real ammo in his five-month war on Iran.The latest from Raw Story's Nick Anderson, a Pulitzer Prize-winning editorial cartoonist.",
-      "source": "Raw Story",
-      "url": "https://www.rawstory.com/trump-iran-threat-2677354947/",
-      "time": "2026-07-31T13:02:09",
-      "country": "Iran",
-      "title_ur": "ٹرمپ کی خالی دھمکیوں سے ظاہر ہوتا ہے کہ ان کے پاس بارود ختم ہو گیا ہے۔",
-      "desc_ur": "ٹرمپ نے خالی دھمکیوں کی طرف موڑ دیا کیونکہ ان کے پاس ایران کے خلاف پانچ ماہ کی جنگ میں اصلی گولہ بارود ختم ہو گیا ہے۔ را اسٹوری کے نک اینڈرسن کی تازہ ترین خبر، پلٹزر انعام یافتہ ادارتی کارٹونسٹ۔"
-    },
-    {
-      "title": "Chevron’s profit nearly quadrupled. Drivers are paying for it at $4 a gallon",
-      "desc": "American oil and gas giants raked in massive spring profits while fighting between Iran and the U.S. impeded petroleum shipments and consumers around the world paid more for fuel and confronted shortages.\nThe conflict, now in its sixth month, halted most ship…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/653d686a3f3a1c3b",
-      "time": "2026-07-31T13:02:02",
-      "country": "Iran",
-      "title_ur": "شیورون کا منافع تقریباً چار گنا ہو گیا۔ ڈرائیور اس کے لیے $4 فی گیلن کے حساب سے ادائیگی کر رہے ہیں۔",
-      "desc_ur": "ایران اور امریکہ کے درمیان لڑائی کے دوران امریکی تیل اور گیس کمپنیوں نے موسم بہار میں بڑے پیمانے پر منافع کمایا اور پیٹرولیم کی ترسیل میں رکاوٹ ڈالی اور دنیا بھر کے صارفین کو ایندھن اور قلت کا سامنا کرنا پڑا۔\nتنازعہ، اب اس کے چھٹے مہینے میں، زیادہ تر جہاز کو روک دیا گیا ہے…"
-    },
-    {
-      "title": "Notable links: July 31, 2026",
-      "desc": "Change is fractal; data ownership can be collective.",
-      "source": "Werd.io",
-      "url": "https://werd.io/notable-links-july-31-2026/",
-      "time": "2026-07-31T13:01:57",
+      "title": "Spyglass Exited nCino (NCNO) as Confidence Weakens",
+      "desc": "Spyglass Capital Management LLC, an investment management firm, released its second-quarter investor letter for “Spyglass Growth Strategy”. A copy of the let...",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spyglass-exited-ncino-ncno-confidence-143845397.html",
+      "time": "2026-07-31T14:38:45",
       "country": "International",
-      "title_ur": "قابل ذکر لنکس: 31 جولائی 2026",
-      "desc_ur": "تبدیلی فریکٹل ہے؛ ڈیٹا کی ملکیت اجتماعی ہو سکتی ہے۔"
+      "title_ur": "اسپائی گلاس نے nCino (NCNO) سے باہر نکلا کیونکہ اعتماد کمزور ہوتا ہے۔",
+      "desc_ur": "Spyglass Capital Management LLC، ایک انوسٹمنٹ مینجمنٹ فرم نے \"Spyglass Growth Strategy\" کے لیے اپنی دوسری سہ ماہی کے سرمایہ کاروں کا خط جاری کیا۔ اجازت نامے کی ایک کاپی..."
     },
     {
-      "title": "Israel, Hamas to cease military ops under new deal",
-      "desc": "The Gaza Board of Peace released a statement on Friday with details on its proposed roadmap for the enclave, which called for both sides to cease armed operations.\"Israel shall fully complete, without...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/37a90b1c31521ead",
-      "time": "2026-07-31T13:01:45",
-      "country": "Israel",
-      "title_ur": "اسرائیل اور حماس نئے معاہدے کے تحت فوجی آپریشن بند کریں گے۔",
-      "desc_ur": "غزہ بورڈ آف پیس نے جمعے کے روز ایک بیان جاری کیا جس میں انکلیو کے لیے اپنے مجوزہ روڈ میپ کی تفصیلات ہیں، جس میں دونوں فریقوں سے مسلح کارروائیاں بند کرنے کا مطالبہ کیا گیا ہے۔\"اسرائیل مکمل طور پر مکمل کرے گا، بغیر..."
+      "title": "Oman's plan to end Strait of Hormuz impasse faces stiff opposition",
+      "desc": "The plan centers on a key section of international maritime law, whose application is opposed by both Iran and the West.",
+      "source": "Semafor.com",
+      "url": "https://www.semafor.com/article/07/31/2026/omans-plan-to-end-strait-of-hormuz-impasse-faces-stiff-opposition",
+      "time": "2026-07-31T14:38:10",
+      "country": "Iran",
+      "title_ur": "آبنائے ہرمز تعطل کو ختم کرنے کے عمان کے منصوبے کو سخت مخالفت کا سامنا ہے۔",
+      "desc_ur": "یہ منصوبہ بین الاقوامی سمندری قانون کے ایک اہم حصے پر مرکوز ہے، جس کے اطلاق کی ایران اور مغرب دونوں نے مخالفت کی ہے۔"
     },
     {
-      "title": "Pray For The Peace of Jerusalem (7/31/26)[Prayer]",
-      "desc": "Pray For The Peace of Jerusalem (7/31/26)[Prayer]Personalities1 Samuel 25:1-44 David, Nabal and Abigail 25 Now Samuel died, and all Israel assembled and mourned for him; and they buried him at his home in Ramah. Then David moved down into the Desert o…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-religion/4390031/posts",
-      "time": "2026-07-31T13:00:37",
-      "country": "Israel",
-      "title_ur": "یروشلم کے امن کے لیے دعا کریں (7/31/26)[دعا]",
-      "desc_ur": "یروشلم کے امن کے لیے دعا کریں (7/31/26)[دعا]شخصیات1 سموئیل 25:1-44 ڈیوڈ، نابال اور ابیگیل 25 اب سموئیل مر گیا، اور تمام اسرائیل اس کے لیے جمع ہوئے اور ماتم کیا۔ اور انہوں نے اسے رامہ میں اس کے گھر میں دفن کیا۔ پھر داؤد صحرا میں چلا گیا۔"
+      "title": "MKS (MKSI): A Mission Critical Semiconductor Supplier Behind Next Gen Chip Making",
+      "desc": "Spyglass Capital Management LLC, an investment management firm, released its second-quarter investor letter for “Spyglass Growth Strategy”. A copy of the let...",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/technology/articles/mks-mksi-mission-critical-semiconductor-143523748.html",
+      "time": "2026-07-31T14:35:23",
+      "country": "International",
+      "title_ur": "MKS (MKSI): نیکسٹ جنرل چپ بنانے کے پیچھے ایک مشن کریٹیکل سیمی کنڈکٹر سپلائر",
+      "desc_ur": "Spyglass Capital Management LLC، ایک انوسٹمنٹ مینجمنٹ فرم نے \"Spyglass Growth Strategy\" کے لیے اپنی دوسری سہ ماہی کے سرمایہ کاروں کا خط جاری کیا۔ اجازت نامے کی ایک کاپی..."
     },
     {
-      "title": "What Comic Con cosplay taught me about America’s divided politics",
-      "desc": "The White House correspondents' dinner was phony and ugly. Comic Con was joyful, colorful and way more real",
-      "source": "Salon",
-      "url": "https://www.salon.com/2026/07/31/what-comic-con-cosplay-taught-me-about-americas-divided-politics/",
-      "time": "2026-07-31T13:00:33",
+      "title": "Andy Burnham appoints former pop band star and heartthrob to be his top economic adviser after causing a stir in the Treasury",
+      "desc": "Before his successful political career began in 2019, Amin-Smith, 36, was a violinist in the Grammy Award-winning band.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/tvshowbiz/article-16019881/Andy-Burnham-appoints-former-pop-band-star-heartthrob-economic-adviser-causing-stir-Treasury.html",
+      "time": "2026-07-31T14:33:51",
       "country": "US",
-      "title_ur": "Comic Con cosplay نے مجھے امریکہ کی منقسم سیاست کے بارے میں کیا سکھایا",
-      "desc_ur": "وائٹ ہاؤس کے نامہ نگاروں کا عشائیہ جعلی اور بدصورت تھا۔ کامک کون خوشگوار، رنگین اور زیادہ حقیقی تھا۔"
+      "title_ur": "اینڈی برنہم نے سابق پاپ بینڈ اسٹار اور ہارٹ تھروب کو ٹریژری میں ہلچل مچا دینے کے بعد اپنا اعلیٰ اقتصادی مشیر مقرر کیا",
+      "desc_ur": "2019 میں اپنے کامیاب سیاسی کیریئر کے آغاز سے پہلے، 36 سالہ امین اسمتھ گریمی ایوارڈ یافتہ بینڈ میں وائلن بجانے والے تھے۔"
     },
     {
-      "title": "US Treasury sanctions Iran’s Bitcoin-backed shipping insurance scheme",
-      "desc": "The sanctions could strain Iran's maritime economy, disrupt global shipping routes, and escalate geopolitical tensions in the region.\nThe post US Treasury sanctions Iran’s Bitcoin-backed shipping insurance scheme appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-treasury-sanctions-irans-bitcoin-backed-shipping-insurance-scheme/",
-      "time": "2026-07-31T13:00:30",
-      "country": "Iran",
-      "title_ur": "امریکی ٹریژری نے ایران کی بٹ کوائن کی حمایت یافتہ شپنگ انشورنس اسکیم پر پابندی عائد کردی",
-      "desc_ur": "پابندیاں ایران کی بحری معیشت کو دبا سکتی ہیں، عالمی جہاز رانی کے راستوں میں خلل ڈال سکتی ہیں اور خطے میں جغرافیائی سیاسی کشیدگی کو بڑھا سکتی ہیں۔\nThe post امریکی ٹریژری نے ایران کی بٹ کوائن کی حمایت یافتہ شپنگ انشورنس اسکیم پر پابندی عائد کردی appeared first on Crypto Briefing."
+      "title": "Ben-Gvir: Killings in Gaza 'must continue'",
+      "desc": "Israel's National Security Minister Itamar Ben Gvir said on Friday that a deal involving Hamas' disarmament and the Israel Defense Forces' (IDF) gradual withdrawal from Gaza is \"unacceptable\" and insi...",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/5accbd0f02c70ad9",
+      "time": "2026-07-31T14:33:13",
+      "country": "Israel",
+      "title_ur": "غزہ میں قتل عام جاری رہنا چاہیے: بین گویر",
+      "desc_ur": "اسرائیل کے قومی سلامتی کے وزیر Itamar Ben Gvir نے جمعہ کے روز کہا کہ حماس کی تخفیف اسلحہ اور اسرائیلی ڈیفنس فورسز (IDF) کے غزہ سے بتدریج انخلاء پر مشتمل ایک معاہدہ \"ناقابل قبول\" ہے اور اندرون ملک..."
     },
     {
-      "title": "Bajaj Finance’s surge sends Nifty 50 soaring, D-street shines",
-      "desc": "Nifty 50 closes at 24,383, up 0.27% or 66 points, extending its winning streak to a third consecutive session, Sensex settles at 78,094, up 0.21%",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/stock-markets/bajaj-finances-surge-sends-nifty-50-soaring-d-street-shines/article71290444.ece",
-      "time": "2026-07-31T13:00:03",
+      "title": "Boy George Departs Jesus Christ Superstar After AI-Generated Pro-Israel Song",
+      "desc": "Boy George will no longer appear in ‘Jesus Christ Superstar’ in London after releasing a pro-Israel song, ‘We Will Dance Again,’ which he wrote with AI.",
+      "source": "Vulture",
+      "url": "http://www.vulture.com/article/boy-george-jesus-christ-superstar-ai-israel-song.html",
+      "time": "2026-07-31T14:33:06",
+      "country": "Israel",
+      "title_ur": "لڑکا جارج AI سے تیار کردہ پرو-اسرائیل گانے کے بعد جیسس کرائسٹ سپر اسٹار سے رخصت ہو گیا۔",
+      "desc_ur": "بوائے جارج اب لندن میں 'جیسس کرائسٹ سپر اسٹار' میں اسرائیل نواز گانا 'وی ول ڈانس اگین' ریلیز کرنے کے بعد نظر نہیں آئے گا، جو اس نے اے آئی کے ساتھ لکھا تھا۔"
+    },
+    {
+      "title": "What Makes Forgent Power Solutions (FPS) a Bullish Bet?",
+      "desc": "Spyglass Capital Management LLC, an investment management firm, released its second-quarter investor letter for “Spyglass Growth Strategy”. A copy of the let...",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/makes-forgent-power-solutions-fps-143242394.html",
+      "time": "2026-07-31T14:32:42",
       "country": "International",
-      "title_ur": "بجاج فائنانس کے اضافے سے نفٹی 50 میں اضافہ، ڈی اسٹریٹ چمکتا ہے",
-      "desc_ur": "نفٹی 50 0.27 فیصد یا 66 پوائنٹس کے اضافے سے 24,383 پر بند ہوا، اپنی جیت کے سلسلے کو مسلسل تیسرے سیشن تک بڑھاتے ہوئے، سینسیکس 0.21 فیصد اضافے کے ساتھ 78،094 پر بند ہوا۔"
+      "title_ur": "کیا چیز فورجینٹ پاور سلوشنز (FPS) کو تیزی کی شرط بناتی ہے؟",
+      "desc_ur": "Spyglass Capital Management LLC، ایک انوسٹمنٹ مینجمنٹ فرم نے \"Spyglass Growth Strategy\" کے لیے اپنی دوسری سہ ماہی کے سرمایہ کاروں کا خط جاری کیا۔ اجازت نامے کی ایک کاپی..."
     },
     {
-      "title": "Gold sculptures, Rose Garden statues, and paintings of Trump: All of the new artwork Trump has added to the White House",
-      "desc": "Donald Trump has added new paintings and sculptures to the White House — some from the White House Collection, and others from contemporary artists.",
+      "title": "Why Is The US Investigating Iran Over Water System Cyberattacks",
+      "desc": "Federal authorities are investigating whether Iranian hackers were behind a cyberattack that disrupted water utility systems in at least seven states, including Minnesota, according to CBS News.\nThe report said the attacks targeted internet-connected industri…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/45ba0b0ce6f76d47",
+      "time": "2026-07-31T14:32:37",
+      "country": "Iran",
+      "title_ur": "واٹر سسٹم سائبر حملوں کے بارے میں امریکہ ایران کی تحقیقات کیوں کر رہا ہے؟",
+      "desc_ur": "سی بی ایس نیوز کے مطابق، وفاقی حکام اس بات کی تحقیقات کر رہے ہیں کہ آیا ایرانی ہیکرز سائبر حملے کے پیچھے تھے جس نے کم از کم سات ریاستوں بشمول مینیسوٹا میں پانی کی افادیت کے نظام میں خلل ڈالا۔\nرپورٹ میں کہا گیا ہے کہ حملوں میں انٹرنیٹ سے منسلک صنعتوں کو نشانہ بنایا گیا…"
+    },
+    {
+      "title": "7 investments to hold as markets grapple with the latest inflation scare",
+      "desc": "SocGen laid out a 7-part playbook for investors to hedge against inflation, recommending bonds, commodities, and private credit assets.",
       "source": "Business Insider",
-      "url": "https://www.businessinsider.com/trump-white-house-changes-art-paintings-sculptures#article",
-      "time": "2026-07-31T13:00:01",
-      "country": "US",
-      "title_ur": "سونے کے مجسمے، روز گارڈن کے مجسمے، اور ٹرمپ کی پینٹنگز: ٹرمپ کے تمام نئے فن پارے وائٹ ہاؤس میں شامل کیے گئے ہیں۔",
-      "desc_ur": "ڈونلڈ ٹرمپ نے وائٹ ہاؤس میں نئی ​​پینٹنگز اور مجسمے شامل کیے ہیں — کچھ وائٹ ہاؤس کلیکشن سے، اور کچھ ہم عصر فنکاروں کے۔"
-    },
-    {
-      "title": "August stargazing: A planet parade, two eclipses, and one scary star",
-      "desc": "Trust us, August 12 is a really big day.\nThe post August stargazing: A planet parade, two eclipses, and one scary star appeared first on Popular Science.",
-      "source": "Popular Science",
-      "url": "https://www.popsci.com/science/stargazing-guide-august-2026/",
-      "time": "2026-07-31T13:00:00",
-      "country": "US",
-      "title_ur": "اگست کا ستارہ دیکھنا: ایک سیارے کی پریڈ، دو چاند گرہن، اور ایک خوفناک ستارہ",
-      "desc_ur": "ہم پر بھروسہ کریں، 12 اگست واقعی ایک بڑا دن ہے۔\nThe post اگست اسٹارگیزنگ: ایک سیارے کی پریڈ، دو چاند گرہن اور ایک خوفناک ستارہ appeared first on پاپولر سائنس."
-    },
-    {
-      "title": "RWA perps will outpace tokenization",
-      "desc": "Tokenization was crypto's first big export to TradFi. Perps are next, says Martin Lee, markets insight lead at DWF labs.",
-      "source": "CoinDesk",
-      "url": "https://www.coindesk.com/opinion/2026/07/31/rwa-perps-will-outpace-tokenization",
-      "time": "2026-07-31T13:00:00",
-      "country": "International",
-      "title_ur": "RWA perps ٹوکنائزیشن کو پیچھے چھوڑ دے گا۔",
-      "desc_ur": "ٹوکنائزیشن کرپٹو کی TradFi کو پہلی بڑی برآمد تھی۔ ڈی ڈبلیو ایف لیبز میں مارکیٹ کی بصیرت لیڈ مارٹن لی کا کہنا ہے کہ پرپس اگلے ہیں۔"
-    },
-    {
-      "title": "Is image of Natalie Harp carrying 'diaper bag' for Trump real? Don't be fooled",
-      "desc": "The original photo from 2024 showed Margo Martin, another Trump aide, carrying a handbag that contained unidentified white items.",
-      "source": "Snopes.com",
-      "url": "https://www.snopes.com//fact-check/natalie-harp-diaper-bag-photo/",
-      "time": "2026-07-31T13:00:00",
-      "country": "US",
-      "title_ur": "کیا ٹرمپ کے لیے 'ڈائیپر بیگ' لے جانے والی نٹالی ہارپ کی تصویر حقیقی ہے؟ بیوقوف نہ بنو",
-      "desc_ur": "2024 کی اصل تصویر میں ٹرمپ کے ایک اور ساتھی مارگو مارٹن کو دکھایا گیا تھا، جس میں ایک ہینڈ بیگ تھا جس میں سفید رنگ کی نامعلوم اشیاء موجود تھیں۔"
-    },
-    {
-      "title": "Delhi airport shines as Mumbai, Bengaluru, Hyderabad and Chennai report lower June traffic",
-      "desc": "Delhi Airport leads in June passenger traffic growth, contrasting with declines at Mumbai, Bengaluru, Hyderabad, and Chennai.",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/delhi-airport-shines-as-mumbai-bengaluru-hyderabad-and-chennai-report-lower-june-traffic/article71290046.ece",
-      "time": "2026-07-31T12:58:29",
+      "url": "https://www.businessinsider.com/where-to-invest-hot-us-inflation-safe-havens-2026-7#article",
+      "time": "2026-07-31T14:30:44",
       "country": "India",
-      "title_ur": "دہلی ہوائی اڈہ چمک رہا ہے کیونکہ ممبئی، بنگلورو، حیدرآباد اور چنئی میں جون کی ٹریفک کم ہے۔",
-      "desc_ur": "ممبئی، بنگلورو، حیدرآباد، اور چنئی میں کمی کے برعکس، دہلی ہوائی اڈہ جون میں مسافروں کی آمدورفت میں اضافے میں سب سے آگے ہے۔"
+      "title_ur": "مہنگائی کے تازہ ترین خوف کے ساتھ مارکیٹوں کی لپیٹ میں آنے کے لیے 7 سرمایہ کاری",
+      "desc_ur": "SocGen نے سرمایہ کاروں کے لیے مہنگائی سے بچاؤ کے لیے ایک 7 حصوں کی پلے بک ترتیب دی، بانڈز، کموڈٹیز، اور نجی کریڈٹ اثاثوں کی سفارش کی۔"
     }
   ],
   "pakistan": [
     {
-      "title": "Iran Claims Kuwait Airbase Attack, Strikes Pair Of Tankers In Hormuz, Despite No New US Operations Overnight",
-      "desc": "Iran Claims Kuwait Airbase Attack, Strikes Pair Of Tankers In Hormuz, Despite No New US Operations Overnight\n \n\"We note with concern that the security situation remains precarious,\" said Pakistani Foreign Ministry spokesperson Tahir Andrabi on his country's m…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/4c09e54bd709c25e",
-      "time": "2026-07-31T13:01:25",
+      "title": "Heatwave burning Europe triggers nuclear powerdown",
+      "desc": "A severe heatwave in Europe has driven Rhine and Danube to record lows, cutting power output and disrupting key supply routes Read Full Article at RT.com",
+      "source": "RT",
+      "url": "https://www.rt.com/news/643719-heatwave-europe-nuclear-powerdown/",
+      "time": "2026-07-31T14:40:04",
       "country": "Pakistan",
-      "title_ur": "راتوں رات کوئی نئی امریکی کارروائی نہ ہونے کے باوجود ایران نے کویت ایئربیس پر حملے کا دعویٰ کیا، ہرمز میں ٹینکروں کے جوڑے پر حملہ کیا",
-      "desc_ur": "راتوں رات کوئی نئی امریکی کارروائی نہ ہونے کے باوجود ایران نے کویت ایئربیس پر حملے کا دعویٰ کیا، ہرمز میں ٹینکروں کے جوڑے پر حملہ کیا\n \nپاکستانی وزارت خارجہ کے ترجمان طاہر اندرابی نے اپنے ملک کے ایم…"
+      "title_ur": "یورپ کو جلانے والی ہیٹ ویو نیوکلیئر پاور ڈاؤن کو متحرک کر رہی ہے۔",
+      "desc_ur": "یورپ میں شدید گرمی کی لہر نے رائن اور ڈینیوب کو ریکارڈ کم کرنے پر مجبور کر دیا ہے، بجلی کی پیداوار میں کمی اور سپلائی کے اہم راستوں میں خلل پڑا ہے RT.com پر مکمل مضمون پڑھیں"
     },
     {
-      "title": "Trump Announces Hamas Disarmament Agreement as Iran Strikes Kuwait Air Base and US Attacks Pause Overnight",
-      "desc": "President Trump announced a historic agreement for Hamas to disarm in Gaza, contingent on Israel meeting specific obligations, amid ongoing regional tensions and international cautious optimism.",
-      "source": "Ibtimes.com.au",
-      "url": "https://www.ibtimes.com.au/trump-historic-hamas-disarmament-agreement-1873293",
-      "time": "2026-07-31T12:58:14",
+      "title": "Netflix star Nirmal Purja among six feared dead after avalanche hits Pakistan's Broad Peak mountain",
+      "desc": "A renowned Nepali mountaineer who starred on a Netflix series is feared dead after an avalanche swept through Pakistan's Broad Peak mountain, killing at least four climbers.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/tvshowbiz/article-16019981/Netflix-Nirmal-Purja-avalanche-pakistan-broad-peak-mountain.html",
+      "time": "2026-07-31T14:38:25",
       "country": "Pakistan",
-      "title_ur": "ٹرمپ نے حماس سے تخفیف اسلحہ کے معاہدے کا اعلان کیا کیونکہ ایران نے کویت کے ایئر بیس پر حملہ کیا اور امریکی حملے راتوں رات رک گئے",
-      "desc_ur": "صدر ٹرمپ نے غزہ میں حماس کو غیر مسلح کرنے کے لیے ایک تاریخی معاہدے کا اعلان کیا، اسرائیل کے دستے مخصوص ذمہ داریوں کو پورا کرتے ہوئے، جاری علاقائی کشیدگی اور بین الاقوامی محتاط امید کے درمیان۔"
+      "title_ur": "پاکستان کے براڈ پیک پہاڑ سے برفانی تودہ گرنے سے نیٹ فلکس اسٹار نرمل پرجا سمیت چھ افراد کی ہلاکت کا خدشہ",
+      "desc_ur": "ایک مشہور نیپالی کوہ پیما جس نے نیٹ فلکس سیریز میں اداکاری کی تھی، پاکستان کے براڈ پیک پہاڑ پر برفانی تودہ گرنے کے بعد ہلاک ہونے کا خدشہ ہے، جس میں کم از کم چار کوہ پیما ہلاک ہو گئے ہیں۔"
     },
     {
-      "title": "Renowned Nepalese climber Purja among 6 still missing after Pakistan avalanche; 4 bodies recovered",
-      "desc": "An avalanche struck Broad Peak, trapping six climbers including Nirmal Purja. Rescuers have recovered four bodies from the challenging mountain. Search operations continue despite adverse weather conditions affecting helicopters. The incident occurred during …",
+      "title": "Making Amends",
+      "desc": "For some reason the only path to redemption for our genocide enabling ruling class is to claim they were bumbling idiots stumbling around with frowny faces, and put then themselves forward as the only possible options for the next leadership team.Adam: Well, …",
+      "source": "Eschatonblog.com",
+      "url": "https://www.eschatonblog.com/2026/07/making-amends.html",
+      "time": "2026-07-31T14:30:00",
+      "country": "Pakistan",
+      "title_ur": "ترمیم کرنا",
+      "desc_ur": "کسی وجہ سے ہمارے حکمران طبقے کو نسل کشی کے قابل بنانے کے لیے نجات کا واحد راستہ یہ دعویٰ کرنا ہے کہ وہ بے وقوفوں کی ٹھوکریں کھا رہے تھے، اور پھر خود کو اگلی قیادت کی ٹیم کے لیے واحد ممکنہ آپشن کے طور پر آگے بڑھاتے ہیں۔ آدم: ٹھیک ہے، …"
+    },
+    {
+      "title": "Board of Peace unveils roadmap for Trump's Gaza peace plan",
+      "desc": "Hamas issued a statement formally accepting the framework, while conditioning the dismantling of its heavy weapons on the establishment of a 'credible pathway toward achieving Palestinian self-determination and statehood' • Israel had yet to officially respond",
+      "source": "Haaretz",
+      "url": "https://www.haaretz.com/gaza/2026-07-31/ty-article/.premium/board-of-peace-unveils-roadmap-for-trumps-gaza-peace-plan/0000019f-b853-d3fa-a19f-b9d3fc210000",
+      "time": "2026-07-31T14:28:06",
+      "country": "Pakistan",
+      "title_ur": "بورڈ آف پیس نے ٹرمپ کے غزہ امن منصوبے کے روڈ میپ کی نقاب کشائی کی۔",
+      "desc_ur": "حماس نے فریم ورک کو باضابطہ طور پر قبول کرتے ہوئے ایک بیان جاری کیا، جبکہ 'فلسطینی خود ارادیت اور ریاست کے حصول کے لیے ایک قابل اعتبار راستے' کے قیام پر اپنے بھاری ہتھیاروں کو ختم کرنے کی شرط رکھی۔ • اسرائیل نے ابھی تک سرکاری طور پر کوئی جواب نہیں دیا"
+    },
+    {
+      "title": "Israel must approve Trump agreement before Hamas will implement, says Hamas official",
+      "desc": "Hamas stated Israel must first meet its prior commitments for any Gaza peace deal.  Donald Trump announced a major milestone toward ending the Gaza war.  Gazans remain skeptical, saying little has changed on the ground.  Hamas wants Israel to stop killing and…",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/india/renowned-nepalese-climber-purja-among-6-still-missing-after-pakistan-avalanche-4-bodies-recovered/articleshow/132768205.cms",
-      "time": "2026-07-31T12:48:54",
+      "url": "https://economictimes.indiatimes.com/news/defence/israel-must-approve-trump-agreement-before-hamas-will-implement-says-hamas-official/articleshow/132770253.cms",
+      "time": "2026-07-31T14:23:21",
       "country": "Pakistan",
-      "title_ur": "معروف نیپالی کوہ پیما پرجا سمیت 6 پاکستان میں برفانی تودہ گرنے سے تاحال لاپتہ ہیں۔ 4 لاشیں برآمد",
-      "desc_ur": "ایک برفانی تودہ براڈ چوٹی سے ٹکرا گیا، جس میں نرمل پرجا سمیت چھ کوہ پیما پھنس گئے۔ امدادی کارکنوں نے چیلنجنگ پہاڑ سے چار لاشیں نکال لی ہیں۔ ہیلی کاپٹروں کو خراب موسمی حالات کی وجہ سے متاثر ہونے کے باوجود سرچ آپریشن جاری ہے۔ واقعہ اس دوران پیش آیا…"
+      "title_ur": "حماس کے عہدیدار کا کہنا ہے کہ حماس کے نفاذ سے پہلے اسرائیل کو ٹرمپ معاہدے کی منظوری دینی ہوگی۔",
+      "desc_ur": "حماس نے کہا کہ اسرائیل کو غزہ امن معاہدے کے لیے پہلے اپنے وعدوں کو پورا کرنا چاہیے۔  ڈونلڈ ٹرمپ نے غزہ جنگ کے خاتمے کی جانب ایک اہم سنگ میل کا اعلان کیا۔  غزہ کے باشندے شکوک و شبہات کا شکار ہیں، کہتے ہیں کہ زمین پر بہت کم تبدیلی آئی ہے۔  حماس چاہتی ہے کہ اسرائیل قتل و غارت بند کرے اور…"
     }
   ],
   "business": {
@@ -200,7 +220,7 @@
         "low": 28,
         "condition": "Light Drizzle",
         "condition_ur": "ہلکی بوندا باندی",
-        "precip": 61
+        "precip": 63
       },
       {
         "date": "2026-08-02",
@@ -209,7 +229,7 @@
         "low": 26,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 49
+        "precip": 59
       },
       {
         "date": "2026-08-03",
@@ -218,7 +238,7 @@
         "low": 26,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 67
+        "precip": 75
       },
       {
         "date": "2026-08-04",
@@ -227,7 +247,7 @@
         "low": 25,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 89
+        "precip": 95
       },
       {
         "date": "2026-08-05",
@@ -236,7 +256,7 @@
         "low": 25,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 78
+        "precip": 76
       },
       {
         "date": "2026-08-06",
