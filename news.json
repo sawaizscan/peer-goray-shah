@@ -1,167 +1,177 @@
 {
-  "generated": "2026-08-01T15:56:28Z",
+  "generated": "2026-08-01T16:55:48Z",
   "world": [
     {
-      "title": "Defence production licence approvals in one month: Defence secretary (production)",
-      "desc": "India streamlines defence production licensing, cutting approval time from 3–6 months to under a month by reducing consultations from 19 stakeholders to three.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/pune/defence-production-licence-approvals-in-one-month-defence-secretary-production/articleshow/132771866.cms",
-      "time": "2026-07-31T15:55:35",
-      "country": "India",
-      "title_ur": "دفاعی پیداوار کے لائسنس کی منظوری ایک ماہ میں: سیکرٹری دفاع (پیداوار)",
-      "desc_ur": "ہندوستان دفاعی پیداوار کے لائسنسنگ کو ہموار کرتا ہے، منظوری کے وقت کو 3-6 ماہ سے کم کرکے 19 اسٹیک ہولڈرز کی مشاورت کو کم کرکے تین ماہ سے کم کرتا ہے۔"
-    },
-    {
-      "title": "BJYM to protest across state, demand CBI probe into recruitment exams",
-      "desc": "BJP’s youth wing BJYM to protest across Jharkhand, seeking CBI probe and cancellation of recruitment exams amid JPSC and JSSC irregularity claims.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/ranchi/bjym-to-protest-across-state-demand-cbi-probe-into-recruitment-exams/articleshow/132771862.cms",
-      "time": "2026-07-31T15:55:11",
+      "title": "‘Very depressing': Retiree turned to credit cards for groceries and racked up $10,000 in debt — and she’s not alone",
+      "desc": "As families face higher prices for groceries, some are turning to credit and other strategies to pay for them. Here are tips to help you shop well and dig ou...",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/economy/articles/very-depressing-retiree-turned-credit-165500960.html",
+      "time": "2026-07-31T16:55:00",
       "country": "International",
-      "title_ur": "بی جے وائی ایم ریاست بھر میں احتجاج کرے گی، بھرتی امتحانات کی سی بی آئی جانچ کا مطالبہ کرے گی۔",
-      "desc_ur": "بی جے پی کی یوتھ ونگ بی جے وائی ایم جھارکھنڈ بھر میں احتجاج کرے گی، جے پی ایس سی اور جے ایس ایس سی بے ضابطگیوں کے دعووں کے درمیان سی بی آئی جانچ اور بھرتی امتحانات کو منسوخ کرنے کا مطالبہ کرے گی۔"
+      "title_ur": "'بہت افسردہ کن': ریٹائر نے گروسری کے لیے کریڈٹ کارڈز کا رخ کیا اور 10,000 ڈالر کا قرض جمع کر لیا - اور وہ اکیلی نہیں ہے۔",
+      "desc_ur": "چونکہ خاندانوں کو گروسری کی زیادہ قیمتوں کا سامنا کرنا پڑتا ہے، کچھ لوگ ان کی ادائیگی کے لیے کریڈٹ اور دیگر حکمت عملیوں کی طرف رجوع کر رہے ہیں۔ یہاں آپ کو اچھی طرح سے خریداری کرنے اور کھودنے میں مدد کرنے کے لئے تجاویز ہیں..."
     },
     {
-      "title": "Why did nearly 60,000 migrants suddenly storm the border into Spain?",
-      "desc": "Around 60,000 migrants breached Spain’s Ceuta enclave in one day, sparking competing theories over a court ruling, traffickers, Moroccan pressure,  Algeria and tensions with Washington",
-      "source": "RT",
-      "url": "https://www.rt.com/news/643727-spain-ceuta-crisis-explainer/",
-      "time": "2026-07-31T15:53:40",
-      "country": "US",
-      "title_ur": "60,000 کے قریب تارکین وطن نے اچانک اسپین کی سرحد پر دھاوا کیوں کیا؟",
-      "desc_ur": "ایک دن میں تقریباً 60,000 تارکین وطن نے اسپین کے سیوٹا انکلیو کی خلاف ورزی کی، جس نے عدالتی فیصلے، اسمگلروں، مراکش کے دباؤ، الجزائر اور واشنگٹن کے ساتھ تناؤ پر مسابقتی نظریات کو جنم دیا۔"
-    },
-    {
-      "title": "India could face 100% tariffs under proposed US Russia sanctions bill",
-      "desc": "Many Democrats, some Republicans, and industry trade groups are unhappy about a provision in the long-stalled bill that would let Trump impose steep ​tariffs on countries that purchase large amounts of Russian oil and gas, or countries that his administration…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-could-face-100-tariffs-under-proposed-us-russia-sanctions-bill/articleshow/132771277.cms",
-      "time": "2026-07-31T15:53:37",
-      "country": "India",
-      "title_ur": "امریکہ کے مجوزہ روس پابندیوں کے بل کے تحت ہندوستان کو 100 فیصد محصولات کا سامنا کرنا پڑ سکتا ہے۔",
-      "desc_ur": "بہت سے ڈیموکریٹس، کچھ ریپبلکن، اور صنعتی تجارتی گروپ طویل عرصے سے تعطل کا شکار بل میں ایک ایسی شق سے ناخوش ہیں جو ٹرمپ کو ان ممالک پر بھاری محصولات عائد کرنے کی اجازت دے گا جو روسی تیل اور گیس کی بڑی مقدار خریدتے ہیں، یا ان کی انتظامیہ…"
-    },
-    {
-      "title": "Trump announced a deal for Hamas to disarm. And, the U.S. economy slowed a bit - NPR",
-      "desc": "Trump announced a deal for Hamas to disarm. And, the U.S. economy slowed a bitNPR U.S. Says Hamas Has Agreed to Broad Plan to DisarmWSJ Trump announces a breakthrough in Gaza - but there are major caveats. Here’s what we knowCNN Trump brokers Hamas disarmamen…",
+      "title": "Hamas agrees to Trump's disarmament deal to enable Israeli withdrawal - Euronews.com",
+      "desc": "Hamas agrees to Trump's disarmament deal to enable Israeli withdrawalEuronews.com What's in the Gaza peace deal roadmap?BBC U.S. Says Hamas Has Agreed to Broad Plan to DisarmWSJ Live updates: Trump holds Cabinet meeting at Camp DavidNBC News Concerns Remain A…",
       "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184791294",
-      "time": "2026-07-31T15:53:27",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184791914",
+      "time": "2026-07-31T16:53:01",
       "country": "Israel",
-      "title_ur": "ٹرمپ نے حماس کو غیر مسلح کرنے کے معاہدے کا اعلان کیا۔ اور، امریکی معیشت قدرے سست ہوئی - NPR",
-      "desc_ur": "ٹرمپ نے حماس کو غیر مسلح کرنے کے معاہدے کا اعلان کیا۔ اور، امریکی معیشت نے تھوڑا سا سست کردیا NPR US کا کہنا ہے کہ حماس نے WSJ کو غیر مسلح کرنے کے وسیع منصوبے پر اتفاق کیا ہے ٹرمپ نے غزہ میں ایک پیش رفت کا اعلان کیا - لیکن اس میں بڑے انتباہات ہیں۔ یہ وہ ہے جو ہم جانتے ہیں سی این این ٹرمپ نے حماس کو غیر مسلح کرنے کے دلال…"
+      "title_ur": "حماس نے اسرائیل کے انخلاء کو ممکن بنانے کے لیے ٹرمپ کے تخفیف اسلحہ کے معاہدے سے اتفاق کیا ہے - Euronews.com",
+      "desc_ur": "حماس نے اسرائیل کے انخلاء کے قابل بنانے کے لیے ٹرمپ کے تخفیف اسلحہ کے معاہدے سے اتفاق کیاEuronews.com غزہ امن معاہدے کے روڈ میپ میں کیا ہے؟ بی بی سی یو ایس کا کہنا ہے کہ حماس نے ڈبلیو ایس جے کو غیر مسلح کرنے کے وسیع منصوبے پر اتفاق کیا ہے لائیو اپ ڈیٹس: ٹرمپ نے کیمپ ڈیوڈ میں کابینہ کا اجلاس منعقد کیا این بی سی نیوز تشویشات برقرار ہیں…"
     },
     {
-      "title": "Contractor bursts crackers on busy flyover in Bengaluru to celebrate B-day, booked after clip goes viral",
-      "desc": "Bengaluru contractor Raghavendra S booked after viral reel showed him stopping a car on Shivanahalli Flyover to burst firecrackers; case filed under BNS 285.",
+      "title": "Trump gets conflicting messages as he seeks an exit ramp from the Iran war",
+      "desc": "",
+      "source": "Yahoo Entertainment",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0828cf2e-f1fe-4235-955b-6ad285ce42b9",
+      "time": "2026-07-31T16:52:45",
+      "country": "Iran",
+      "title_ur": "ٹرمپ کو متضاد پیغامات موصول ہوتے ہیں جب وہ ایران جنگ سے باہر نکلنے کا راستہ تلاش کرتے ہیں۔",
+      "desc_ur": ""
+    },
+    {
+      "title": "Trump blames governor, not Iran, for Minnesota cyberattack",
+      "desc": "WASHINGTON — President Donald Trump said he does not believe Iran is responsible for a recent cyberattack on water systems in Minnesota, putting him at odds with U.S. officials who reportedly suspect Iranian hackers probably orchestrated the attack.\n\"They bla…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/0eca4496e5403835",
+      "time": "2026-07-31T16:52:27",
+      "country": "Iran",
+      "title_ur": "ٹرمپ نے مینیسوٹا سائبر حملے کے لیے ایران کو نہیں، گورنر کو مورد الزام ٹھہرایا",
+      "desc_ur": "واشنگٹن — صدر ڈونلڈ ٹرمپ نے کہا کہ وہ نہیں مانتے کہ مینیسوٹا میں پانی کے نظام پر کیے گئے حالیہ سائبر حملے کے لیے ایران ذمہ دار ہے، جس کی وجہ سے وہ امریکی حکام سے اختلاف رکھتے ہیں جن کے بارے میں شبہ ہے کہ ایرانی ہیکرز نے ممکنہ طور پر اس حملے کی منصوبہ بندی کی۔\n\"وہ بلا…"
+    },
+    {
+      "title": "Delhi Premier League 2026 schedule: Fixtures, score, format, squads and live streaming for DPL season 3 matches",
+      "desc": "Here's everything you need to know about the DPL 2026 schedule, squads, format, scores and live streaming.",
+      "source": "Cricketnews.com",
+      "url": "https://www.cricketnews.com/en/cricket/news/delhi-premier-league-2026-schedule-score-format-live-streaming-dpl-matches/a135480ae7c1e6a454ea1d53",
+      "time": "2026-07-31T16:50:52",
+      "country": "India",
+      "title_ur": "دہلی پریمیئر لیگ 2026 کا شیڈول: ڈی پی ایل سیزن 3 کے میچوں کے لیے فکسچر، اسکور، فارمیٹ، اسکواڈز اور لائیو اسٹریمنگ",
+      "desc_ur": "یہاں وہ سب کچھ ہے جو آپ کو DPL 2026 کے شیڈول، اسکواڈز، فارمیٹ، اسکورز اور لائیو اسٹریمنگ کے بارے میں جاننے کی ضرورت ہے۔"
+    },
+    {
+      "title": "‘No Evidence’: CNN’s Daniel Dale Shreds Trump Blaming Tim Walz For Attack on Water Systems",
+      "desc": "Daniel Dale shredded Donald Trump's statements blaming Gov. Tim Walz for a cyberattack that temporarily took down Minnesota's water system.\nThe post ‘No Evidence’: CNN’s Daniel Dale Shreds Trump Blaming Tim Walz For Attack on Water Systems first appeared on M…",
+      "source": "Mediaite",
+      "url": "https://www.mediaite.com/media/news/no-evidence-cnns-daniel-dale-shreds-trump-blaming-tim-walz-for-attack-on-water-systems/",
+      "time": "2026-07-31T16:50:50",
+      "country": "US",
+      "title_ur": "'کوئی ثبوت نہیں': سی این این کے ڈینیئل ڈیل نے ٹرمپ کو ٹم والز کو پانی کے نظام پر حملے کا ذمہ دار ٹھہرایا۔",
+      "desc_ur": "ڈینیئل ڈیل نے ڈونالڈ ٹرمپ کے بیانات کو توڑ دیا جس نے گورنمنٹ ٹم والز کو سائبر حملے کا ذمہ دار ٹھہرایا جس نے مینیسوٹا کے پانی کے نظام کو عارضی طور پر تباہ کر دیا۔\nThe post ’کوئی ثبوت نہیں‘: CNN کے ڈینیئل ڈیل نے ٹرمپ کو ٹم والز کو پانی کے نظام پر حملے کا ذمہ دار ٹھہرایا appeared first on M…"
+    },
+    {
+      "title": "Where Trump, Israel and Hamas stand on Gaza roadmap",
+      "desc": "President Donald Trump announced a Gaza war breakthrough agreement for Hamas disarmament.  Major gaps persist regarding the implementation of this proposed deal.  Hamas insists Israel must end attacks and withdraw forces first.  Israel demands genuine disarma…",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/bengaluru/contractor-bursts-crackers-on-busy-flyover-in-bengaluru-to-celebrate-b-day-booked-after-clip-goes-viral/articleshow/132771796.cms",
-      "time": "2026-07-31T15:52:11",
-      "country": "US",
-      "title_ur": "بنگلورو میں بی ڈے منانے کے لیے ٹھیکیدار نے مصروف فلائی اوور پر پٹاخے پھوڑے، کلپ وائرل ہونے کے بعد مقدمہ درج",
-      "desc_ur": "بنگلورو کے ٹھیکیدار راگھویندر ایس کے خلاف مقدمہ درج کیا گیا جب وائرل ریل نے اسے شیوناہلی فلائی اوور پر پٹاخے پھوڑنے کے لیے ایک کار کو روکتے ہوئے دکھایا۔ بی این ایس 285 کے تحت مقدمہ درج۔"
+      "url": "https://economictimes.indiatimes.com/news/defence/where-trump-israel-and-hamas-stand-on-gaza-roadmap/articleshow/132772966.cms",
+      "time": "2026-07-31T16:50:35",
+      "country": "Israel",
+      "title_ur": "جہاں ٹرمپ، اسرائیل اور حماس غزہ کے روڈ میپ پر کھڑے ہیں۔",
+      "desc_ur": "صدر ڈونلڈ ٹرمپ نے حماس کو غیر مسلح کرنے کے لیے غزہ جنگ میں پیش رفت کے معاہدے کا اعلان کیا۔  اس مجوزہ معاہدے کے نفاذ کے حوالے سے بڑے خلاء برقرار ہیں۔  حماس کا اصرار ہے کہ اسرائیل کو پہلے حملے بند کر کے اپنی فوجیں واپس بلانی چاہئیں۔  اسرائیل کا حقیقی تخفیف اسلحہ کا مطالبہ..."
     },
     {
-      "title": "Actor John Abraham joins Meghalaya’s fight against drugs",
-      "desc": "Meghalaya hosts ‘Pulse of the Hills’ anti-drug programme in Shillong under CM Conrad Sangma, with DREAM Mission, youth focus, and rehab van launch for Tura.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/guwahati/actor-john-abraham-joins-meghalayas-fight-against-drugs/articleshow/132771789.cms",
-      "time": "2026-07-31T15:51:42",
-      "country": "US",
-      "title_ur": "اداکار جان ابراہم میگھالیہ کی منشیات کے خلاف جنگ میں شامل ہو گئے۔",
-      "desc_ur": "میگھالیہ شیلانگ میں سی ایم کونراڈ سنگما کی قیادت میں ’پلس آف دی ہلز‘ انسداد منشیات پروگرام کی میزبانی کرتا ہے، جس میں ڈریم مشن، نوجوانوں کی توجہ، اور تورا کے لیے بحالی وین لانچ کی گئی ہے۔"
+      "title": "Exxon and Chevron are having a ‘very good crisis’ reaping massive profits during the Iran war",
+      "desc": "American oil and gas giants raked in massive spring profits while fighting between Iran and the U.S. impeded petroleum shipments and consumers around the world paid more for fuel and confronted shortages.The conflict, now in its sixth month, halted most shipp…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/0278b0673ee2f800",
+      "time": "2026-07-31T16:49:20",
+      "country": "Iran",
+      "title_ur": "ایگزون اور شیورون کو ایران جنگ کے دوران بڑے پیمانے پر منافع حاصل کرنے کے لیے 'بہت اچھا بحران' کا سامنا ہے",
+      "desc_ur": "امریکی تیل اور گیس کے جنات نے موسم بہار میں بڑے پیمانے پر منافع کمایا جب کہ ایران اور امریکہ کے درمیان لڑائی نے پیٹرولیم کی ترسیل میں رکاوٹ ڈالی اور دنیا بھر کے صارفین نے ایندھن کے لیے زیادہ ادائیگی کی اور قلت کا سامنا کرنا پڑا۔ تنازعہ، جو اب اپنے چھٹے مہینے میں ہے، نے بیشتر جہازوں کو روک دیا…"
     },
     {
-      "title": "Mumbai’s Tata Institute of Social Sciences postpones convocation at the 11th hour citing ‘unforeseen circumstances’; CJI Surya Kant was to attend",
-      "desc": "TISS postpones its 86th convocation scheduled for Aug 2, citing unforeseen circumstances; students say last-minute email caused travel and accommodation losses.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/mumbais-tata-institute-of-social-sciences-postpones-convocation-at-the-11th-hour-citing-unforeseen-circumstances-cji-surya-kant-was-to-attend/articleshow/132771785.cms",
-      "time": "2026-07-31T15:51:12",
+      "title": "Economic Sentiment Stabilizes",
+      "desc": "Michigan final sentiment and Conference Board confidence near pre War levels. But still 2.2 to 2.4 standard deviations below pre Trump. Gallup confidence 1.1 standard deviations below. Figure 1: U.Michigan Economic Sentiment (blue), Conference Board Confidenc…",
+      "source": "Econbrowser.com",
+      "url": "https://econbrowser.com/archives/2026/07/economic-sentiment-stabilizes",
+      "time": "2026-07-31T16:45:22",
       "country": "US",
-      "title_ur": "ممبئی کے ٹاٹا انسٹی ٹیوٹ آف سوشل سائنسز نے 'غیر متوقع حالات' کا حوالہ دیتے ہوئے کانووکیشن 11 ویں گھنٹے میں ملتوی کر دیا۔ سی جے آئی سوریہ کانت نے شرکت کرنی تھی۔",
-      "desc_ur": "TISS نے غیر متوقع حالات کا حوالہ دیتے ہوئے 2 اگست کو ہونے والا اپنا 86 واں کانووکیشن ملتوی کر دیا۔ طلباء کا کہنا ہے کہ آخری منٹ کی ای میل نے سفر اور رہائش کو نقصان پہنچایا۔"
+      "title_ur": "معاشی جذبات مستحکم ہوتے ہیں۔",
+      "desc_ur": "جنگ سے پہلے کی سطح کے قریب مشی گن کا حتمی جذبہ اور کانفرنس بورڈ کا اعتماد۔ لیکن پھر بھی ٹرمپ سے پہلے کے نیچے 2.2 سے 2.4 معیاری انحراف۔ ذیل میں گیلپ اعتماد 1.1 معیاری انحراف۔ شکل 1: U.Michigan اقتصادی جذبات (نیلا)، کانفرنس بورڈ کا اعتماد…"
     },
     {
-      "title": "Why Arbaeen – the Shiite Muslim pilgrimage of mourning – has a deep significance that brings millions to Iraq each year",
-      "desc": "Each year, millions of Shiite Muslims walk to Karbala to honor Husayn, the prophet’s grandson, whose death continues to shape their faith.",
-      "source": "The Conversation Africa",
-      "url": "https://theconversation.com/why-arbaeen-the-shiite-muslim-pilgrimage-of-mourning-has-a-deep-significance-that-brings-millions-to-iraq-each-year-288582",
-      "time": "2026-07-31T15:47:42",
-      "country": "Iraq",
-      "title_ur": "کیوں اربعین - شیعہ مسلمانوں کی سوگ کی زیارت - کی ایک گہری اہمیت ہے جو ہر سال لاکھوں افراد کو عراق لاتا ہے",
-      "desc_ur": "ہر سال، لاکھوں شیعہ مسلمان پیغمبر کے نواسے حسین کی تعظیم کے لیے کربلا جاتے ہیں، جن کی موت ان کے عقیدے کو تشکیل دیتی ہے۔"
+      "title": "IndieWire Names Brent Lang Editor-in-Chief, as Longtime Leader Dana Harris-Bridson Departs",
+      "desc": "Harris-Bridson will exit in early August, with Lang, the current Executive Editor of Variety, stepping into the role later that month.",
+      "source": "IndieWire",
+      "url": "https://www.indiewire.com/news/breaking-news/indiewire-editor-in-chief-brent-lang-1235207906/",
+      "time": "2026-07-31T16:35:29",
+      "country": "US",
+      "title_ur": "انڈی وائر نے برینٹ لینگ ایڈیٹر ان چیف کا نام دیا، بطور دیرینہ لیڈر ڈانا ہیرس برڈسن روانہ",
+      "desc_ur": "ہیرس-بریڈسن اگست کے شروع میں، ورائٹی کے موجودہ ایگزیکٹو ایڈیٹر لینگ کے ساتھ، اس مہینے کے آخر میں اس کردار میں قدم رکھیں گے۔"
     },
     {
-      "title": "Corporate bond awareness programme held in Coimbatore",
-      "desc": "SEBI, BSE and ICCI held a corporate bond awareness meet in Coimbatore, urging firms to use bonds for faster, flexible funding and locked-in rates vs bank loans.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/coimbatore/corporate-bond-awareness-programme-held-in-coimbatore/articleshow/132771711.cms",
-      "time": "2026-07-31T15:46:54",
-      "country": "US",
-      "title_ur": "کوئمبٹور میں کارپوریٹ بانڈ بیداری پروگرام کا انعقاد",
-      "desc_ur": "SEBI، BSE اور ICCI نے کوئمبٹور میں ایک کارپوریٹ بانڈ آگاہی میٹنگ کا انعقاد کیا، جس میں فرموں پر زور دیا گیا کہ وہ بانڈز کو تیز، لچکدار فنڈنگ ​​اور لاک ان ریٹ بمقابلہ بینک قرضوں کے لیے استعمال کریں۔"
+      "title": "Three-year roadmap proposed for Hamas disarmament in Gaza",
+      "desc": "Under a US-backed proposal, Hamas and Israel would have 14 days to finalise Gaza's political transition",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/three-year-roadmap-proposed-for-hamas-disarmament-in-gaza",
+      "time": "2026-07-31T16:35:17",
+      "country": "Israel",
+      "title_ur": "غزہ میں حماس کے تخفیف اسلحہ کے لیے تین سالہ روڈ میپ تجویز کیا گیا۔",
+      "desc_ur": "امریکی حمایت یافتہ تجویز کے تحت حماس اور اسرائیل کے پاس غزہ کی سیاسی منتقلی کو حتمی شکل دینے کے لیے 14 دن ہوں گے۔"
     },
     {
-      "title": "Bengal govt to launch unified digital parking system in Kolkata",
-      "desc": "Kolkata to roll out a unified digital parking system with one-side parking, a real-time app for booking and payments, 15,000 KMC spots first, plus crackdowns and penalties.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/kolkata/bengal-govt-to-launch-unified-digital-parking-system-in-kolkata/articleshow/132771698.cms",
-      "time": "2026-07-31T15:45:51",
+      "title": "Brent Lang Named Editor-in-Chief of IndieWire",
+      "desc": "Variety‘s Brent Lang has been named the new editor-in-chief of IndieWire, effective August 17. Based in New York City, Lang will report to Jerry Ruiz, senior vice president, operations & finance, PMC. A widely respected journalist and editor, Lang brings a di…",
+      "source": "Variety",
+      "url": "https://variety.com/2026/film/news/brent-lang-indiewire-editor-in-chief-1236825176/",
+      "time": "2026-07-31T16:35:00",
       "country": "US",
-      "title_ur": "بنگال حکومت کولکتہ میں متحد ڈیجیٹل پارکنگ سسٹم شروع کرے گی۔",
-      "desc_ur": "کولکتہ یک طرفہ پارکنگ کے ساتھ ایک متحد ڈیجیٹل پارکنگ سسٹم، بکنگ اور ادائیگیوں کے لیے ایک ریئل ٹائم ایپ، پہلے 15,000 KMC اسپاٹس، نیز کریک ڈاؤن اور جرمانے کے ساتھ متعارف کرائے گا۔"
+      "title_ur": "برینٹ لینگ کو IndieWire کا ایڈیٹر انچیف نامزد کیا گیا۔",
+      "desc_ur": "Variety's Brent Lang کو IndieWire کا نیا ایڈیٹر انچیف نامزد کیا گیا ہے، جو 17 اگست سے لاگو ہوگا۔ نیویارک شہر میں مقیم، لینگ PMC کے سینئر نائب صدر، آپریشنز اینڈ فنانس، جیری روئیز کو رپورٹ کریں گے۔ ایک وسیع پیمانے پر قابل احترام صحافی اور ایڈیٹر، لینگ ایک دی..."
     },
     {
-      "title": "Clickgate: what cricket cheating scandal reveals about the nebulous ‘spirit’ of the game",
-      "desc": "Cricket prides itself on being a model of fair play and sportsmanship, but is it really that different from other sports?",
-      "source": "The Conversation Africa",
-      "url": "https://theconversation.com/clickgate-what-cricket-cheating-scandal-reveals-about-the-nebulous-spirit-of-the-game-288828",
-      "time": "2026-07-31T15:45:11",
-      "country": "US",
-      "title_ur": "کلک گیٹ: کرکٹ کی دھوکہ دہی کا اسکینڈل کھیل کے مضحکہ خیز 'روح' کے بارے میں کیا ظاہر کرتا ہے۔",
-      "desc_ur": "کرکٹ اپنے آپ کو منصفانہ کھیل اور اسپورٹس مین شپ کا نمونہ ہونے پر فخر محسوس کرتی ہے، لیکن کیا یہ واقعی دیگر کھیلوں سے مختلف ہے؟"
+      "title": "Trump on Iran: All they do is make me angry",
+      "desc": "United States President Donald Trump expressed dissatisfaction with how Iran conducts negotiations on Friday, saying that \"all they do is make [him] angry.\"\"As an example, we will talk about nuclear. ...",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/c1dd1bcf2a907d56",
+      "time": "2026-07-31T16:34:29",
+      "country": "Iran",
+      "title_ur": "ٹرمپ ایران پر: وہ صرف مجھے ناراض کرتے ہیں۔",
+      "desc_ur": "امریکی صدر ڈونلڈ ٹرمپ نے جمعہ کو ایران کے مذاکرات کے طریقہ کار پر عدم اطمینان کا اظہار کرتے ہوئے کہا کہ \"وہ جو کچھ کرتے ہیں وہ [اسے] ناراض کرتے ہیں۔\" \"مثال کے طور پر، ہم جوہری کے بارے میں بات کریں گے۔"
     },
     {
-      "title": "Master Meter Expands North American Distribution Network Through Exclusive Partnership with ETNA Supply",
-      "desc": "Partnership strengthens local support and expands access to smart water solutions across the Upper Midwest MANSFIELD, Texas, July 31, 2026 /PRNewswire/ -- Master Meter, a leading provider of advanced water measurement technologies and smart water solutions, t…",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/master-meter-expands-north-american-distribution-network-through-exclusive-partnership-with-etna-supply-302840146.html",
-      "time": "2026-07-31T15:45:00",
-      "country": "US",
-      "title_ur": "ماسٹر میٹر ETNA سپلائی کے ساتھ خصوصی شراکت کے ذریعے شمالی امریکہ کے تقسیمی نیٹ ورک کو وسعت دیتا ہے۔",
-      "desc_ur": "پارٹنرشپ مقامی سپورٹ کو مضبوط کرتی ہے اور اپر مڈ ویسٹ مینسفیلڈ، ٹیکساس میں سمارٹ واٹر سلوشنز تک رسائی کو بڑھاتی ہے، 31 جولائی 2026/PRNewswire/ -- ماسٹر میٹر، پانی کی پیمائش کی جدید ٹیکنالوجیز اور سمارٹ واٹر سلوشنز کا ایک معروف فراہم کنندہ، t…"
+      "title": "Far-left streamer Hasan Piker guarantees Democratic nominee in 2028 will be anti-Israel",
+      "desc": "Hasan Piker said in a new interview there is a \"0% chance\" the 2028 Democratic nominee will be pro-Israel, expressing confidence the party will shift.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/media/far-left-streamer-hasan-piker-guarantees-democratic-nominee-2028-anti-israel",
+      "time": "2026-07-31T16:34:06",
+      "country": "Israel",
+      "title_ur": "انتہائی بائیں بازو کے اسٹریمر حسن پیکر نے ضمانت دی ہے کہ 2028 میں ڈیموکریٹک امیدوار اسرائیل مخالف ہوں گے",
+      "desc_ur": "حسن پیکر نے ایک نئے انٹرویو میں کہا کہ اس بات کا \"0% امکان\" ہے کہ 2028 کے ڈیموکریٹک نامزد امیدوار اسرائیل کے حامی ہوں گے، اس اعتماد کا اظہار کرتے ہوئے کہ پارٹی بدل جائے گی۔"
     },
     {
-      "title": "Apple and Google are hosting hundreds of dangerous VPN links — here is why your device is at risk",
-      "desc": "TechRadar data has uncovered how VPN listings on the Google Play Store and Apple App Store are, in some cases, hiding links that could put users at risk.",
-      "source": "TechRadar",
-      "url": "https://www.techradar.com/vpn/vpn-privacy-security/apple-and-google-are-hosting-hundreds-of-dangerous-vpn-links-here-is-why-your-device-is-at-risk",
-      "time": "2026-07-31T15:44:37",
+      "title": "Trump Offers Rare Praise of Media During Cabinet Meeting: ‘Many of You … Have Been Very Fair’",
+      "desc": "The man who created the term \"fake news media\" lavished praise on the press Friday during a Cabinet meeting at Camp David.\nThe post Trump Offers Rare Praise of Media During Cabinet Meeting: ‘Many of You … Have Been Very Fair’ first appeared on Mediaite.",
+      "source": "Mediaite",
+      "url": "https://www.mediaite.com/media/news/trump-offers-rare-praise-of-media-during-cabinet-meeting-many-of-you-have-been-very-fair/",
+      "time": "2026-07-31T16:34:03",
       "country": "US",
-      "title_ur": "Apple اور Google سینکڑوں خطرناک VPN لنکس کی میزبانی کر رہے ہیں — یہاں آپ کے آلے کو خطرہ کیوں ہے۔",
-      "desc_ur": "TechRadar ڈیٹا نے انکشاف کیا ہے کہ گوگل پلے سٹور اور ایپل ایپ سٹور پر VPN کی فہرستیں کس طرح کچھ معاملات میں ایسے لنکس کو چھپا رہی ہیں جو صارفین کو خطرے میں ڈال سکتی ہیں۔"
-    },
-    {
-      "title": "Rs 47 cr deposited in cloud kitchen owner’s a/c",
-      "desc": "Kolkata Police, bank and Income Tax probe unexplained ₹47 crore deposit in Beleghata cloud kitchen owner Nupur Gupta’s account; possible cyber fraud suspected.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/kolkata/rs-47-cr-deposited-in-cloud-kitchen-owners-a/c/articleshow/132771679.cms",
-      "time": "2026-07-31T15:44:31",
-      "country": "US",
-      "title_ur": "کلاؤڈ کچن کے مالک کے A/c میں 47 کروڑ روپے جمع کرائے گئے۔",
-      "desc_ur": "کولکتہ پولس، بینک اور انکم ٹیکس کی تحقیقات نے بیلگھاٹہ کلاؤڈ کچن کے مالک نوپور گپتا کے اکاؤنٹ میں 47 کروڑ روپے جمع کرائے؛ ممکنہ سائبر فراڈ کا شبہ ہے۔"
+      "title_ur": "ٹرمپ نے کابینہ کی میٹنگ کے دوران میڈیا کی نایاب تعریف کی پیشکش کی: 'آپ میں سے بہت سے لوگ... بہت منصفانہ رہے ہیں'",
+      "desc_ur": "\"جعلی نیوز میڈیا\" کی اصطلاح تخلیق کرنے والے شخص نے جمعہ کو کیمپ ڈیوڈ میں کابینہ کے اجلاس کے دوران پریس پر خوب تعریف کی۔\nThe post ٹرمپ نے کابینہ کے اجلاس کے دوران میڈیا کی نایاب تعریفیں کیں: ‘آپ میں سے بہت سے لوگ… بہت منصفانہ رہے ہیں’ appeared first on Mediaite."
     }
   ],
   "pakistan": [
     {
-      "title": "Oil price rises after Iran says it stops ships in Hormuz",
-      "desc": "CAIRO/DUBAI, July 31 : Oil prices rose on Friday after Iran said it had stopped two vessels seeking to exit the Strait of Hormuz, underscoring concerns over global energy supplies following a drone attack on ships in a Mediterranean Egyptian port this week.Ir…",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/oil-price-rises-after-iran-says-it-stops-ships-in-hormuz-6291691",
-      "time": "2026-07-31T15:51:09",
+      "title": "Oil prices set to spike again after more Strait of Hormuz disruptions, Red Sea attacks",
+      "desc": "US crude is projected to average $80.14 a barrel, compared with June's ​estimate of $79.49.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/07/31/world-news/oil-prices-set-to-spike-again-as-middle-east-supply-disruptions-continue/",
+      "time": "2026-07-31T16:54:37",
       "country": "Pakistan",
-      "title_ur": "ایران کی جانب سے ہرمز میں بحری جہاز روکنے کے بعد تیل کی قیمتوں میں اضافہ ہوا ہے۔",
-      "desc_ur": "قاہرہ/دبئی، 31 جولائی: جمعہ کو تیل کی قیمتوں میں اس وقت اضافہ ہوا جب ایران نے کہا کہ اس نے آبنائے ہرمز سے باہر نکلنے کی کوشش کرنے والے دو بحری جہازوں کو روک دیا ہے، اس ہفتے بحیرہ روم کی مصری بندرگاہ میں بحری جہازوں پر ڈرون حملے کے بعد عالمی توانائی کی سپلائی پر تشویش کا اظہار کیا ہے۔"
+      "title_ur": "آبنائے ہرمز میں مزید رکاوٹوں، بحیرہ احمر کے حملوں کے بعد تیل کی قیمتیں دوبارہ بڑھنے لگیں۔",
+      "desc_ur": "امریکی خام تیل کی اوسطاً $80.14 فی بیرل متوقع ہے، جون کے تخمینہ $79.49 کے مقابلے میں۔"
+    },
+    {
+      "title": "Reporter’s notebook: In Dubai’s sun and sand, AI, server farms, and optimism bloom",
+      "desc": "Walking around Dubai, it’s hard to believe a war is still going on in neighboring countries.\r\n\n\n\n\nNo missiles have struck the city, and it was clear during a recent visit that local residents are keeping to their routines. The biggest public worry, as it has …",
+      "source": "Computerworld",
+      "url": "https://www.computerworld.com/article/4204008/reporters-notebook-in-dubais-sun-and-sand-ai-server-farms-and-optimism-bloom.html",
+      "time": "2026-07-31T16:30:30",
+      "country": "Pakistan",
+      "title_ur": "رپورٹر کی نوٹ بک: دبئی کی دھوپ اور ریت میں، AI، سرور فارمز، اور امید پرستی کھل رہی ہے",
+      "desc_ur": "دبئی کے ارد گرد چلتے ہوئے، یہ یقین کرنا مشکل ہے کہ پڑوسی ممالک میں جنگ ابھی بھی جاری ہے۔\r\n\n\n\n\nشہر پر کوئی میزائل نہیں گرا، اور ایک حالیہ دورے کے دوران یہ واضح ہوا کہ مقامی باشندے اپنے معمولات پر قائم ہیں۔ سب سے بڑی عوامی پریشانی، جیسا کہ اس نے…"
     }
   ],
   "business": {
