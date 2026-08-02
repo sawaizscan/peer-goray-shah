@@ -1,203 +1,193 @@
 {
-  "generated": "2026-08-01T23:27:57Z",
+  "generated": "2026-08-02T01:06:36Z",
   "world": [
     {
-      "title": "Israeli minister calls disarmament agreement 'tantamount to agreeing to Hamas organising for the next massacre' - after Trump declared deal a 'major milestone'",
-      "desc": "Israel's National Security Minister Itamar Ben Gvir has denounced a deal agreed by Hamas to hand over its weapons in return for the withdrawal of Israeli troops from Gaza as 'unacceptable'.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16021027/Israeli-minister-Hamas-disarmament-Trump-massacre-Hamas.html",
-      "time": "2026-07-31T23:27:16",
-      "country": "Israel",
-      "title_ur": "اسرائیلی وزیر نے تخفیف اسلحہ کے معاہدے کو 'اگلے قتل عام کے لیے حماس سے اتفاق کرنے کے مترادف' قرار دیا - ٹرمپ کی جانب سے معاہدے کو 'اہم سنگ میل' قرار دینے کے بعد",
-      "desc_ur": "اسرائیل کے قومی سلامتی کے وزیر Itamar Ben Gvir نے حماس کی طرف سے غزہ سے اسرائیلی فوجیوں کے انخلاء کے بدلے اپنے ہتھیار دینے کے معاہدے کو 'ناقابل قبول' قرار دیتے ہوئے اس کی مذمت کی ہے۔"
-    },
-    {
-      "title": "Columbia student workers union drops Israel divestment demand",
-      "desc": "The Student Workers of Columbia union drops its contract demand for Columbia to divest from Israel and entities violating international law.(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. T…",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/flashes/690967",
-      "time": "2026-07-31T23:26:08",
-      "country": "Israel",
-      "title_ur": "کولمبیا کی اسٹوڈنٹ ورکرز یونین نے اسرائیل سے علیحدگی کا مطالبہ مسترد کردیا۔",
-      "desc_ur": "کولمبیا یونین کے اسٹوڈنٹ ورکرز نے کولمبیا کے لیے اسرائیل اور بین الاقوامی قانون کی خلاف ورزی کرنے والے اداروں سے علیحدگی کے لیے اپنے معاہدے کے مطالبے کو ترک کر دیا ہے۔"
-    },
-    {
-      "title": "APC opens applications for policy fellowship",
-      "desc": "The APC National Youth Wing has opened applications for the 2026 Zacch Adedeji Taxation and Fiscal Policy Fellowship, grooming young Nigerians in fiscal po\n\nRead More: https://punchng.com/apc-opens-applications-for-policy-fellowship/",
-      "source": "The Punch",
-      "url": "https://punchng.com/apc-opens-applications-for-policy-fellowship/",
-      "time": "2026-07-31T23:24:11",
-      "country": "International",
-      "title_ur": "اے پی سی پالیسی فیلوشپ کے لیے درخواستیں کھولتی ہے۔",
-      "desc_ur": "اے پی سی نیشنل یوتھ ونگ نے 2026 زیک ایڈیجی ٹیکسیشن اور مالیاتی پالیسی فیلوشپ کے لیے درخواستیں کھول دی ہیں، جو کہ مالیاتی شعبے میں نوجوان نائیجیرین کو تیار کر رہے ہیں۔\n\nمزید پڑھیں: https://punchng.com/apc-opens-applications-for-policy-fellowship/"
-    },
-    {
-      "title": "Iran said to have US, Israel response plan ready",
-      "desc": "Iran regarded the potential United States and Israeli attacks targeting national infrastructure as \"a form of recklessness\", the country's semi-official Tasnim News Agency reported, citing a senior se...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/2d5a1dbc40b91dde",
-      "time": "2026-07-31T23:22:58",
-      "country": "Iran",
-      "title_ur": "ایران نے کہا کہ امریکہ اور اسرائیل کا جوابی منصوبہ تیار ہے۔",
-      "desc_ur": "ایران نے قومی انفراسٹرکچر کو نشانہ بنانے والے امریکہ اور اسرائیل کے ممکنہ حملوں کو \"لاپرواہی کی ایک شکل\" کے طور پر دیکھا، ملک کی نیم سرکاری تسنیم نیوز ایجنسی نے ایک سینئر سی ای او کے حوالے سے رپورٹ کیا۔"
-    },
-    {
-      "title": "Google Plans to Exempt Sanctioned Nations From Android Developer Verification",
-      "desc": "We are a month away from the initial rollout of Google’s Android developer verification system, and the company contends this policy does not impinge on the platform’s open nature. Still, the restrictions will be a big change, and there are still some unanswe…",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/submission/17349494/google-plans-to-exempt-sanctioned-nations-from-android-developer-verification",
-      "time": "2026-07-31T23:15:12",
-      "country": "International",
-      "title_ur": "گوگل منظور شدہ ممالک کو اینڈرائیڈ ڈویلپر کی تصدیق سے مستثنیٰ کرنے کا منصوبہ رکھتا ہے۔",
-      "desc_ur": "ہم گوگل کے اینڈرائیڈ ڈویلپر تصدیقی نظام کے ابتدائی رول آؤٹ سے ایک ماہ دور ہیں، اور کمپنی کا دعویٰ ہے کہ یہ پالیسی پلیٹ فارم کی کھلی نوعیت پر اثر انداز نہیں ہے۔ پھر بھی، پابندیاں ایک بڑی تبدیلی ہوں گی، اور ابھی بھی کچھ ناگوار ہیں…"
-    },
-    {
-      "title": "The strange alliance between Islam and Socialism",
-      "desc": "'Capitalism is the main enemy of Zohran Mamdani and others who feel it’s unfair, it doesn’t share the wealth'",
-      "source": "Wnd.com",
-      "url": "https://www.wnd.com/2026/07/strange-alliance-between-islam-socialism/",
-      "time": "2026-07-31T23:10:21",
-      "country": "International",
-      "title_ur": "اسلام اور سوشلزم کے درمیان عجیب اتحاد",
-      "desc_ur": "'سرمایہ داری ظہران ممدانی اور دیگر لوگوں کی سب سے بڑی دشمن ہے جو اسے غیر منصفانہ سمجھتے ہیں، یہ دولت میں حصہ نہیں لیتی'"
-    },
-    {
-      "title": "Trump approves new Iran strikes that could begin this weekend - WSJ",
-      "desc": "Nasdaq falls 3% in July, driven by worst month for chips since financial crisis\nInvesting.com -- President Donald Trump has ordered the U.S. military to launch a fresh attack against Iran that could begin as soon as this weekend and continue for several days,…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/86f3535540d0e78c",
-      "time": "2026-07-31T23:07:35",
-      "country": "Iran",
-      "title_ur": "ٹرمپ نے ایران کے نئے حملوں کی منظوری دی جو اس ہفتے کے آخر میں شروع ہو سکتے ہیں - WSJ",
-      "desc_ur": "نیس ڈیک جولائی میں 3 فیصد گر گیا، جو مالیاتی بحران کے بعد سے چپس کے لیے بدترین مہینہ ہے۔\nInvesting.com -- صدر ڈونلڈ ٹرمپ نے امریکی فوج کو حکم دیا ہے کہ وہ ایران کے خلاف ایک نیا حملہ کرے جو اس ہفتے کے آخر میں شروع ہو سکتا ہے اور کئی دنوں تک جاری رہ سکتا ہے،…"
-    },
-    {
-      "title": "Trump's Board of Peace announced a new Gaza deal: What's in it, what's missing, and what will Netanyahu do next?",
-      "desc": "The deal has not been signed, and it's unclear when the parties will do so. Trump hailed the deal as if it were already finalized, while an 'Israeli political source' hinted Israel was not prepared to implement its parts of the deal",
-      "source": "Haaretz",
-      "url": "https://www.haaretz.com/gaza/2026-08-01/ty-article-magazine/.premium/trumps-gaza-deal-whats-in-it-whats-missing-and-what-will-netanyahu-do-next/0000019f-b9b7-d993-af9f-b9f7bbe50000",
-      "time": "2026-07-31T23:02:26",
-      "country": "Israel",
-      "title_ur": "ٹرمپ کے بورڈ آف پیس نے غزہ کے نئے معاہدے کا اعلان کیا: اس میں کیا ہے، کیا غائب ہے، اور نیتن یاہو آگے کیا کریں گے؟",
-      "desc_ur": "معاہدے پر دستخط نہیں ہوئے ہیں، اور یہ واضح نہیں ہے کہ فریقین کب ایسا کریں گے۔ ٹرمپ نے اس معاہدے کو اس طرح سراہا کہ جیسے اسے پہلے ہی حتمی شکل دی گئی ہو، جبکہ ایک 'اسرائیلی سیاسی ذریعے' نے اشارہ کیا کہ اسرائیل معاہدے کے اپنے حصوں پر عمل درآمد کے لیے تیار نہیں ہے۔"
-    },
-    {
-      "title": "FBI warns of cyberattacks on water systems in 7 states",
-      "desc": "The FBI issued a warning about cyberattacks on municipal water systems in seven states. In Minnesota alone, more than 30 water systems have been attacked and...",
-      "source": "Yahoo Entertainment",
-      "url": "https://www.yahoo.com/news/videos/fbi-warns-cyberattacks-water-systems-225808972.html",
-      "time": "2026-07-31T22:58:08",
-      "country": "International",
-      "title_ur": "ایف بی آئی نے 7 ریاستوں میں پانی کے نظام پر سائبر حملوں سے خبردار کیا ہے۔",
-      "desc_ur": "ایف بی آئی نے سات ریاستوں میں میونسپل پانی کے نظام پر سائبر حملوں کے بارے میں ایک انتباہ جاری کیا۔ صرف مینیسوٹا میں، 30 سے ​​زیادہ پانی کے نظام پر حملہ کیا گیا ہے اور..."
-    },
-    {
-      "title": "What's in the proposed deal to disarm Hamas and withdraw Israeli forces from Gaza",
-      "desc": "There is a major development in the effort to bring lasting peace to Gaza. Hamas says it has agreed to a U.S.-backed framework that would ultimately see the militant group give up its weapons and control of Gaza, while Israeli forces withdraw from the territo…",
-      "source": "PBS",
-      "url": "https://www.pbs.org/newshour/show/whats-in-the-proposed-deal-to-disarm-hamas-and-withdraw-israeli-forces-from-gaza",
-      "time": "2026-07-31T22:55:35",
-      "country": "Israel",
-      "title_ur": "حماس کو غیر مسلح کرنے اور غزہ سے اسرائیلی افواج کو نکالنے کے مجوزہ معاہدے میں کیا ہے؟",
-      "desc_ur": "غزہ میں دیرپا امن کے قیام کی کوششوں میں ایک بڑی پیش رفت ہوئی ہے۔ حماس کا کہنا ہے کہ اس نے امریکی حمایت یافتہ فریم ورک پر اتفاق کیا ہے جو بالآخر عسکریت پسند گروپ کو اپنے ہتھیاروں اور غزہ کا کنٹرول چھوڑ دیتا ہے، جب کہ اسرائیلی افواج علاقے سے انخلاء کرتی ہیں…"
-    },
-    {
-      "title": "Prediction: Chevron's Bold Moves in Iraq Will Reshape the Oil Stock Over the Next Decade",
-      "desc": "Chevron (NYSE: CVX) is an integrated energy company. That's important for investors to remember, since it not only produces oil and natural gas, but it also transports the vital fuels and processes them. The power of the integrated business model was on full …",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/cc51e9b5700547f8",
-      "time": "2026-07-31T22:54:00",
-      "country": "Iraq",
-      "title_ur": "پیشن گوئی: عراق میں شیورون کی جرات مندانہ حرکتیں اگلی دہائی میں تیل کے ذخیرے کو نئی شکل دے گی",
-      "desc_ur": "شیورون (NYSE: CVX) ایک مربوط توانائی کمپنی ہے۔ سرمایہ کاروں کے لیے یہ یاد رکھنا ضروری ہے، کیونکہ یہ نہ صرف تیل اور قدرتی گیس پیدا کرتا ہے، بلکہ یہ اہم ایندھن کی نقل و حمل اور ان پر کارروائی بھی کرتا ہے۔ مربوط کاروباری ماڈل کی طاقت مکمل تھی…"
-    },
-    {
-      "title": "Trump says Iran not to blame for Minnesota cyberattack - Reuters",
-      "desc": "Trump says Iran not to blame for Minnesota cyberattackReuters Trump blames governor, not Iran, for Minnesota cyberattackUSA Today Trump Rejects Iran As Possible Perpetrator Of Minnesota Water System CyberattackForbes FACT FOCUS: Trump blames Minnesota governo…",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184795054",
-      "time": "2026-07-31T22:53:09",
-      "country": "Iran",
-      "title_ur": "ٹرمپ کا کہنا ہے کہ ایران مینیسوٹا سائبر حملے کا ذمہ دار نہیں ہے - رائٹرز",
-      "desc_ur": "ٹرمپ کا کہنا ہے کہ مینیسوٹا سائبر حملے کے لیے ایران کو مورد الزام نہیں ٹھہرایا جائے رائٹرز ٹرمپ نے مینیسوٹا سائبر حملے کے لیے ایران کو نہیں بلکہ گورنر کو مورد الزام ٹھہرایا USA Today ٹرمپ نے ایران کو منیسوٹا کے پانی کے نظام کے ممکنہ مجرم کے طور پر مسترد کر دیا CyberattackForbes FACT FOCUS: ٹرمپ نے مینیسوٹا کے گورنر پر الزام لگایا…"
-    },
-    {
-      "title": "Tens of thousands of migrants enter Spanish territory, then return to Morocco",
-      "desc": "Spain is rushing troops and resources to one of its territories in North Africa, after tens of thousands of migrants crossed the border from Morocco into the small city of Ceuta. Geoff Bennett reports. PBS News is supported by - https://www.pbs.org/newshour/a…",
-      "source": "PBS",
-      "url": "https://www.pbs.org/newshour/show/tens-of-thousands-of-migrants-enter-spanish-territory-then-return-to-morocco",
-      "time": "2026-07-31T22:50:28",
+      "title": "Missile waves hit Kiev, targeting industrial and military sites",
+      "desc": "The escalation in missile attacks on Kiev underscores heightened military tensions, potentially destabilizing regional security dynamics further.\nThe post Missile waves hit Kiev, targeting industrial and military sites appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/missile-waves-hit-kiev-targeting-industrial-and-military-sites/",
+      "time": "2026-08-01T01:05:09",
       "country": "US",
-      "title_ur": "دسیوں ہزار تارکین وطن ہسپانوی سرزمین میں داخل ہوتے ہیں، پھر مراکش واپس آتے ہیں۔",
-      "desc_ur": "مراکش سے دسیوں ہزار تارکین وطن کے چھوٹے سے شہر سیوٹا میں داخل ہونے کے بعد اسپین شمالی افریقہ میں اپنے ایک علاقے میں فوج اور وسائل بھیج رہا ہے۔ جیف بینیٹ کی رپورٹ۔ پی بی ایس نیوز کو معاونت حاصل ہے - https://www.pbs.org/newshour/a…"
+      "title_ur": "میزائل لہروں نے کیف کو نشانہ بنایا، صنعتی اور فوجی مقامات کو نشانہ بنایا",
+      "desc_ur": "کیف پر میزائل حملوں میں اضافہ فوجی کشیدگی میں اضافے کی نشاندہی کرتا ہے، ممکنہ طور پر علاقائی سلامتی کی حرکیات کو مزید غیر مستحکم کر رہا ہے۔\nThe post میزائل کی لہریں کیف سے ٹکرا گئیں، صنعتی اور فوجی مقامات کو نشانہ بنایا گیا appeared first on Crypto Briefing."
     },
     {
-      "title": "'We are ready': Iran vows retaliation for any US-Israeli strikes",
-      "desc": "Iran warns it has prepared plans to strike US and Israeli energy targets and potentially close the Strait of Hormuz following reports of imminent joint US-Israeli airstrikes.(Arutz Sheva-Israel National News' North American desk is keeping you updated until t…",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/flashes/690966",
-      "time": "2026-07-31T22:49:36",
+      "title": "Spanish Minister Fuels Blame Toward Israel for Ceuta Crisis After Israeli U.N. Ambassador Criticizes Madrid",
+      "desc": "Spanish Transport Minister Óscar Puente fueled online claims blaming Israel for Spain's migrant crisis in the North African enclave of Ceuta on Friday after Israeli U.N. Ambassador Danny Danon criticized Madrid's handling of the border emergency, escalating a…",
+      "source": "Breitbart News",
+      "url": "https://www.breitbart.com/politics/2026/07/31/spanish-minister-fuels-blame-toward-israel-ceuta-crisis-israeli-u-n-ambassador-criticizes-madrid/",
+      "time": "2026-08-01T01:03:13",
+      "country": "Israel",
+      "title_ur": "اسرائیلی اقوام متحدہ کے سفیر کی میڈرڈ پر تنقید کے بعد ہسپانوی وزیر نے سیوٹا بحران کے لیے اسرائیل کو مورد الزام ٹھہرایا",
+      "desc_ur": "ہسپانوی وزیر ٹرانسپورٹ آسکر پیونٹے نے جمعہ کے روز شمالی افریقی انکلیو سیوٹا میں اسپین کے تارکین وطن کے بحران کے لئے اسرائیل کو مورد الزام ٹھہرانے کے آن لائن دعووں کو ہوا دی جب اسرائیلی اقوام متحدہ کے سفیر ڈینی ڈینن نے میڈرڈ کی طرف سے سرحدی ہنگامی صورتحال سے نمٹنے پر تنقید کی، جس سے ایک…"
+    },
+    {
+      "title": "Gwyneth Paltrow, 53, makes shocking TikTok debut as she posts clip of herself TOPLESS in bed",
+      "desc": "For her first-ever TikTok video, the Oscar-winner stripped off while lounging in a bed with luxurious white sheets, seemingly wearing nothing but aviator eyeglasses and coordinating gold earrings.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/tvshowbiz/article-16021093/gwyneth-paltrow-topless-joins-tiktok.html",
+      "time": "2026-08-01T01:02:54",
+      "country": "US",
+      "title_ur": "53 سالہ گیوینتھ پیلٹرو نے چونکا دینے والا ٹِک ٹِک ڈیبیو کیا جب اس نے بستر پر اپنے آپ کو ٹاپ لیس کا کلپ پوسٹ کیا۔",
+      "desc_ur": "اپنی پہلی TikTok ویڈیو کے لیے، آسکر جیتنے والی خاتون نے پرتعیش سفید چادروں کے ساتھ بستر پر لیٹتے ہوئے اتار لیا، بظاہر ہوا باز کے چشمے اور سونے کی بالیوں کے علاوہ کچھ نہیں پہنے ہوئے تھے۔"
+    },
+    {
+      "title": "How hip-hop ended up as the soundtrack of the Israeli far right",
+      "desc": "A new TV series documents the colorful and controversial history of Israeli hip-hop – but leaves out its most important Palestinian rapper",
+      "source": "Haaretz",
+      "url": "https://www.haaretz.com/life/2026-08-01/ty-article-magazine/.premium/how-hip-hop-ended-up-as-the-soundtrack-of-the-israeli-far-right/0000019f-ad16-d332-afdf-bd57a3bf0000",
+      "time": "2026-08-01T00:59:04",
+      "country": "Israel",
+      "title_ur": "ہپ ہاپ اسرائیل کے انتہائی دائیں بازو کے ساؤنڈ ٹریک کے طور پر کیسے ختم ہوا۔",
+      "desc_ur": "ایک نئی ٹی وی سیریز اسرائیلی ہپ ہاپ کی رنگین اور متنازعہ تاریخ کو دستاویز کرتی ہے - لیکن اس نے اپنے سب سے اہم فلسطینی ریپر کو چھوڑ دیا ہے۔"
+    },
+    {
+      "title": "White House signals Trump is weighing new strikes on Iran, and other developments in the Middle East",
+      "desc": "President Trump considers new strikes on Iran as tensions escalate in the region. Iran fired drones at Kuwait and struck oil tankers in the Strait of Hormuz. Hamas confirmed disarming as part of a potential Gaza war-ending deal. Saudi Arabia announced a 14-co…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/white-house-signals-trump-is-weighing-new-strikes-on-iran-and-other-developments-in-the-middle-east/articleshow/132779337.cms",
+      "time": "2026-08-01T00:49:19",
       "country": "Iran",
-      "title_ur": "'ہم تیار ہیں': ایران نے کسی بھی امریکی-اسرائیلی حملے کا بدلہ لینے کا عہد کیا۔",
-      "desc_ur": "ایران نے خبردار کیا ہے کہ اس نے امریکہ اور اسرائیل کے توانائی کے اہداف پر حملہ کرنے اور ممکنہ طور پر آبنائے ہرمز کو بند کرنے کا منصوبہ تیار کر لیا ہے جس میں امریکہ اسرائیل کے مشترکہ فضائی حملوں کی اطلاعات ہیں۔"
+      "title_ur": "وائٹ ہاؤس کا اشارہ ہے کہ ٹرمپ ایران پر نئے حملوں اور مشرق وسطیٰ میں ہونے والی دیگر پیش رفت پر غور کر رہے ہیں۔",
+      "desc_ur": "صدر ٹرمپ ایران پر نئے حملوں کو خطے میں کشیدگی کے بڑھنے پر غور کرتے ہیں۔ ایران نے کویت پر ڈرون فائر کیے اور آبنائے ہرمز میں آئل ٹینکرز کو نشانہ بنایا۔ حماس نے غزہ جنگ کے خاتمے کے ممکنہ معاہدے کے حصے کے طور پر غیر مسلح کرنے کی تصدیق کی ہے۔ سعودی عرب نے 14-کو کا اعلان کیا..."
     },
     {
-      "title": "What my friends’ support for Mamdani revealed about Jewish identity - comment",
-      "desc": "Why my Jewish New Yorker friends support Zohran Mamdani What my friends’ support for Mamdani revealed about Jewish identity – comment “Maybe you can never see the bubble you’re in until it bursts.” Reflecting on friendship, Jewish identity, and the widening d…",
+      "title": "Israel launches attacks across Gaza one day after Hamas agrees to disarm",
+      "desc": "Israeli attacks across Gaza have killed at least two Palestinians, hours after Hamas agreed to a draft peace deal.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/israel-launches-attacks-across-gaza-one-day-after-hamas-agrees-to-disarm",
+      "time": "2026-08-01T00:48:37",
+      "country": "Israel",
+      "title_ur": "حماس کی جانب سے غیر مسلح کرنے پر رضامندی کے ایک دن بعد اسرائیل نے غزہ پر حملے شروع کر دیے۔",
+      "desc_ur": "حماس کے امن معاہدے کے مسودے پر رضامندی کے چند گھنٹے بعد غزہ بھر میں اسرائیلی حملوں میں کم از کم دو فلسطینی ہلاک ہو گئے ہیں۔"
+    },
+    {
+      "title": "Indian Firms Plan Fresh Price Hikes, Testing Inflation Outlook",
+      "desc": "India’s largest consumer companies are gearing to raise prices on products from toothpaste to tires and paint ahead of the festival season and for the second straight quarter, as the prolonged Middle East conflict drives up commodity costs and threatens to ke…",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/indian-firms-plan-fresh-price-hikes-testing-inflation-outlook",
+      "time": "2026-08-01T00:42:27",
+      "country": "India",
+      "title_ur": "ہندوستانی فرمیں نئی ​​قیمتوں میں اضافے کی منصوبہ بندی کرتی ہیں، افراط زر کے آؤٹ لک کی جانچ کر رہی ہیں۔",
+      "desc_ur": "ہندوستان کی سب سے بڑی صارف کمپنیاں تہوار کے سیزن سے پہلے اور براہ راست دوسری سہ ماہی کے لیے ٹوتھ پیسٹ سے لے کر ٹائروں اور پینٹ تک مصنوعات کی قیمتوں میں اضافہ کرنے کی تیاری کر رہی ہیں، کیونکہ مشرق وسطیٰ کے طویل تنازعات نے اجناس کی قیمتوں میں اضافہ کر دیا ہے اور اسے خطرے میں ڈال دیا ہے…"
+    },
+    {
+      "title": "Weapons stockpile shortages impacting military strategy in the Mideast",
+      "desc": "The Pentagon is confronting a growing reality after months of fighting Iran: America's stockpile of missile defense interceptors. It is shrinking so much, military planners are weighing whether they can continue the current cycle of limited retaliatory strike…",
       "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-bloggers/4390109/posts",
-      "time": "2026-07-31T22:46:51",
+      "url": "https://freerepublic.com/focus/f-news/4390122/posts",
+      "time": "2026-08-01T00:42:04",
+      "country": "Iran",
+      "title_ur": "ہتھیاروں کے ذخیرے کی کمی مشرق وسطیٰ میں فوجی حکمت عملی کو متاثر کر رہی ہے۔",
+      "desc_ur": "پینٹاگون ایران سے کئی مہینوں کی لڑائی کے بعد ایک بڑھتی ہوئی حقیقت کا سامنا کر رہا ہے: امریکہ کا میزائل ڈیفنس انٹرسیپٹرز کا ذخیرہ۔ یہ بہت سکڑ رہا ہے، فوجی منصوبہ ساز اس بات پر وزن کر رہے ہیں کہ کیا وہ محدود جوابی ہڑتال کے موجودہ چکر کو جاری رکھ سکتے ہیں…"
+    },
+    {
+      "title": "From alcohol to diet and exercise: The best and worst habits for your liver",
+      "desc": "Liver disease is on the rise worldwide. Your diet, workout routine and other health conditions can affect your risk.",
+      "source": "CNA",
+      "url": "https://cnalifestyle.channelnewsasia.com/wellness/liver-health-tips-586566",
+      "time": "2026-08-01T00:40:47",
       "country": "International",
-      "title_ur": "مامدانی کے لیے میرے دوستوں کی حمایت نے یہودی شناخت کے بارے میں کیا انکشاف کیا - تبصرہ",
-      "desc_ur": "میرے یہودی نیویارک کے دوست ظہران مامدانی کی حمایت کیوں کرتے ہیں مامدانی کے لیے میرے دوستوں کی حمایت نے یہودی شناخت کے بارے میں کیا انکشاف کیا - تبصرہ \"شاید آپ اس بلبلے کو کبھی نہیں دیکھ سکتے جب تک کہ وہ پھٹ نہ جائے۔\" دوستی، یہودی شناخت، اور وسیع ہونے کی عکاسی کرتے ہوئے…"
+      "title_ur": "شراب سے لے کر خوراک اور ورزش تک: آپ کے جگر کے لیے بہترین اور بدترین عادات",
+      "desc_ur": "دنیا بھر میں جگر کی بیماریاں بڑھ رہی ہیں۔ آپ کی خوراک، ورزش کا معمول اور دیگر صحت کے حالات آپ کے خطرے کو متاثر کر سکتے ہیں۔"
+    },
+    {
+      "title": "Reports: New wave of U.S. strikes could target Iran's energy resources",
+      "desc": "The United States military is preparing to launch a fresh wave of airstrikes on Iran as early as this weekend, unnamed sources told several news outlets Friday.\nSources told CBS News the attacks are likely to target energy infrastructure, but President Donald…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/79e973085c8613de",
+      "time": "2026-08-01T00:39:47",
+      "country": "Iran",
+      "title_ur": "رپورٹس: امریکی حملوں کی نئی لہر ایران کے توانائی کے وسائل کو نشانہ بنا سکتی ہے۔",
+      "desc_ur": "نامعلوم ذرائع نے جمعہ کو کئی خبر رساں اداروں کو بتایا کہ امریکی فوج اس ہفتے کے آخر میں ایران پر فضائی حملوں کی ایک نئی لہر شروع کرنے کی تیاری کر رہی ہے۔\nذرائع نے سی بی ایس نیوز کو بتایا کہ حملوں میں توانائی کے بنیادی ڈھانچے کو نشانہ بنانے کا امکان ہے، لیکن صدر ڈونلڈ…"
+    },
+    {
+      "title": "US Withdraws Troops, Patriot Batteries From Northern Iraq Amid Iranian Attacks",
+      "desc": "US Withdraws Troops, Patriot Batteries From Northern Iraq Amid Iranian Attacks\n \nThere are new reports Friday of more US troop pullback initiatives in the wake of the last couple weeks of US-Iran fighting, and Iranian ballistic missile and drone strikes which…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/74020c487cf3ad7c",
+      "time": "2026-08-01T00:38:02",
+      "country": "Iran",
+      "title_ur": "امریکہ نے ایرانی حملوں کے درمیان شمالی عراق سے فوجیوں، پیٹریاٹ بیٹریوں کو واپس بلا لیا۔",
+      "desc_ur": "امریکہ نے ایرانی حملوں کے درمیان شمالی عراق سے فوجیوں، پیٹریاٹ بیٹریوں کو واپس بلا لیا۔\n \nامریکہ اور ایران کی لڑائی کے آخری دو ہفتوں اور ایرانی بیلسٹک میزائل اور ڈرون حملوں کے تناظر میں جمعہ کو مزید امریکی فوجیوں کی واپسی کے اقدامات کی نئی اطلاعات ہیں جو…"
+    },
+    {
+      "title": "Google pulls new Earth AI tool after people use it to put fake nuclear power plants in Iran and refugees near the Mexican border",
+      "desc": "The tech giant announced on Thursday it had integrated its Nano Banana 2 image-generation model into Google Earth, which allowed users to 'type whatever you want to see'.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16021007/Google-Earth-AI-fake-nuclear-Iran-refugees-Mexican.html",
+      "time": "2026-08-01T00:30:48",
+      "country": "Iran",
+      "title_ur": "گوگل نے نیا ارتھ AI ٹول کھینچ لیا جب لوگوں نے اسے ایران میں جعلی جوہری پاور پلانٹس اور میکسیکو کی سرحد کے قریب پناہ گزینوں کے لئے استعمال کیا۔",
+      "desc_ur": "ٹیک دیو نے جمعرات کو اعلان کیا کہ اس نے اپنے نینو کیلے 2 امیج جنریشن ماڈل کو گوگل ارتھ میں ضم کر دیا ہے، جس سے صارفین 'جو بھی دیکھنا چاہتے ہیں اسے ٹائپ کر سکتے ہیں'۔"
+    },
+    {
+      "title": "WATCH: Connecticut man speaks out after shark attack in the Bahamas",
+      "desc": "A husband and father describes the moment he was bitten by a Caribbean reef shark while snorkeling in the Bahamas.",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/video/135276720/",
+      "time": "2026-08-01T00:24:54",
+      "country": "US",
+      "title_ur": "دیکھو: کنیکٹیکٹ کا آدمی بہاماس میں شارک کے حملے کے بعد بول رہا ہے۔",
+      "desc_ur": "ایک شوہر اور والد اس لمحے کو بیان کرتے ہیں جب اسے بہاماس میں سنورکلنگ کے دوران کیریبین ریف شارک نے کاٹا تھا۔"
+    },
+    {
+      "title": "Trump blames Minnesota water hacks on Walz, while evidence points to Iran - Politico",
+      "desc": "Trump blames Minnesota water hacks on Walz, while evidence points to IranPolitico Fact check: Trump baselessly claims Walz is ‘behind’ cyberattack, repeats debunked claims at Cabinet meetingCNN Cybersecurity expert: ‘Moderate confidence’ Iran attacked Minneso…",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184795596",
+      "time": "2026-08-01T00:12:57",
+      "country": "Iran",
+      "title_ur": "ٹرمپ نے والز پر مینیسوٹا واٹر ہیکس کا الزام لگایا، جبکہ شواہد ایران - پولیٹیکو کی طرف اشارہ کرتے ہیں۔",
+      "desc_ur": "ٹرمپ نے والز پر مینیسوٹا واٹر ہیکس کا الزام لگایا، جبکہ شواہد ایران پولیٹیکو فیکٹ چیک کی طرف اشارہ کرتے ہیں: ٹرمپ نے بے بنیاد دعویٰ کیا کہ والز سائبر اٹیک کے 'پیچھے' ہے، کابینہ کے اجلاس میں جھوٹے دعووں کو دہرایا گیا CNN سائبرسیکیوریٹی ماہر: 'اعتدال پسند اعتماد' ایران نے منیسو پر حملہ کیا…"
+    },
+    {
+      "title": "U.S., Israel preparing to bombard energy-related targets in Iran, sources say - CBS News",
+      "desc": "U.S., Israel preparing to bombard energy-related targets in Iran, sources sayCBS News Trump considering strikes on Iranian energy targets within daysAxios Report: US and Israel weighing attacks on Iran infrastructureNewsNation US and Israel said planning join…",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184795590",
+      "time": "2026-08-01T00:12:47",
+      "country": "Iran",
+      "title_ur": "ذرائع کا کہنا ہے کہ امریکہ، اسرائیل ایران میں توانائی سے متعلقہ اہداف پر بمباری کرنے کی تیاری کر رہے ہیں - CBS News",
+      "desc_ur": "امریکہ، اسرائیل ایران میں توانائی سے متعلقہ اہداف پر بمباری کرنے کی تیاری کر رہے ہیں، ذرائع کا کہنا ہے کہ سی بی ایس نیوز ٹرمپ دنوں میں ایرانی توانائی کے اہداف پر حملوں پر غور کر رہے ہیں Axios رپورٹ: امریکہ اور اسرائیل ایران کے انفراسٹرکچر پر حملوں کا وزن کر رہے ہیں۔"
     }
   ],
   "pakistan": [
     {
-      "title": "What we know about the Pakistan avalanche and missing climbers",
-      "desc": "Three bodies have been recovered so far, with the search continuing for the remaining seven.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c8rny08xnpyo",
-      "time": "2026-07-31T23:20:35",
+      "title": "Broad Peak avalanche: Search to resume as weather improves",
+      "desc": "KATHMANDU/ISLAMABAD: Search and rescue operations for climbers missing after the Broad Peak avalanche in Pakistan are expected to resume today after being suspended late Friday because of worsening weather conditions in the Karakoram region. Pakistan Army hel…",
+      "source": "Khabarhub.com",
+      "url": "https://english.khabarhub.com/2026/01/561308/",
+      "time": "2026-08-01T00:08:21",
       "country": "Pakistan",
-      "title_ur": "ہم پاکستانی برفانی تودے اور لاپتہ کوہ پیماؤں کے بارے میں کیا جانتے ہیں۔",
-      "desc_ur": "اب تک تین لاشیں نکالی جا چکی ہیں، باقی سات کی تلاش جاری ہے۔"
+      "title_ur": "چوٹی کا برفانی تودہ: موسم بہتر ہونے پر دوبارہ شروع کرنے کے لیے تلاش کریں۔",
+      "desc_ur": "کھٹمنڈو/اسلام آباد: پاکستان میں چوٹی کی چوٹی کے برفانی تودے کے بعد لاپتہ ہونے والے کوہ پیماؤں کی تلاش اور بچاؤ کی کارروائیاں قراقرم کے علاقے میں موسم کی خرابی کی وجہ سے جمعہ کو دیر گئے معطل ہونے کے بعد آج دوبارہ شروع ہونے کی توقع ہے۔ پاک فوج کی مدد…"
     },
     {
-      "title": "Trump and Netanyahu discuss expanding Iran blockade to land borders",
-      "desc": "For months, President Donald Trump has weighed options for next steps in the war with Iran, with no clear frontrunner for how to resolve the five months-long conflict.\nPossible military actions have included mounting a large-scale bombing campaign to further …",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/1d73a0513abe1bb8",
-      "time": "2026-07-31T22:52:35",
+      "title": "Optimizing the radiolytic degradation of aspirin and acetaminophen in aqueous solutions using a Rhodotron electron-beam accelerator and central composite design",
+      "desc": "Scientific Reports - Optimizing the radiolytic degradation of aspirin and acetaminophen in aqueous solutions using a Rhodotron electron-beam accelerator and central composite design",
+      "source": "Nature.com",
+      "url": "https://www.nature.com/articles/s41598-026-64668-5.pdf",
+      "time": "2026-08-01T00:00:00",
       "country": "Pakistan",
-      "title_ur": "ٹرمپ اور نیتن یاہو نے ایران کی ناکہ بندی کو زمینی سرحدوں تک بڑھانے پر تبادلہ خیال کیا۔",
-      "desc_ur": "کئی مہینوں سے، صدر ڈونلڈ ٹرمپ نے ایران کے ساتھ جنگ ​​میں اگلے اقدامات کے لیے آپشنز پر غور کیا ہے، جس میں پانچ ماہ سے جاری تنازعہ کو کیسے حل کیا جائے اس کے لیے کوئی واضح محاذ نہیں ہے۔\nممکنہ فوجی کارروائیوں میں بڑے پیمانے پر بمباری کی مہم کو آگے بڑھانا شامل ہے…"
+      "title_ur": "روڈوٹرون الیکٹران بیم ایکسلریٹر اور مرکزی جامع ڈیزائن کا استعمال کرتے ہوئے پانی کے محلول میں اسپرین اور ایسیٹامنفین کے ریڈیولائٹک انحطاط کو بہتر بنانا",
+      "desc_ur": "سائنسی رپورٹس - روڈوٹرون الیکٹران بیم ایکسلریٹر اور مرکزی جامع ڈیزائن کا استعمال کرتے ہوئے پانی کے محلول میں اسپرین اور ایسیٹامنفین کے ریڈیولائٹک انحطاط کو بہتر بنانا"
     },
     {
-      "title": "How Iranians are living through months of war and government crackdowns",
-      "desc": "As the Iran war enters its sixth month, the toll continues to grow. The UN says more than 2,500 children have been killed or injured in Iran alone. Amna Nawaz discussed more with New York Times reporter Yeganeh Torbati, whose reporting has focused on the live…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/f6f558f520a07043",
-      "time": "2026-07-31T22:52:12",
+      "title": "Israel’s UN ambassador rules out Palestinian state post-October 7 events",
+      "desc": "Israel's stance against Palestinian statehood may hinder international recognition efforts, affecting geopolitical dynamics and market perceptions.\nThe post Israel’s UN ambassador rules out Palestinian state post-October 7 events appeared first on Crypto Brie…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/israels-un-ambassador-rules-out-palestinian-state-post-october-7-events/",
+      "time": "2026-07-31T23:48:29",
       "country": "Pakistan",
-      "title_ur": "ایرانی کس طرح مہینوں کی جنگ اور حکومتی کریک ڈاؤن سے گزر رہے ہیں۔",
-      "desc_ur": "جیسے جیسے ایران کی جنگ چھٹے مہینے میں داخل ہو رہی ہے، ہلاکتوں میں اضافہ ہوتا جا رہا ہے۔ اقوام متحدہ کا کہنا ہے کہ صرف ایران میں 2500 سے زائد بچے ہلاک یا زخمی ہوئے ہیں۔ آمنہ نواز نے نیویارک ٹائمز کی رپورٹر یگناہ توربتی کے ساتھ مزید بات چیت کی، جس کی رپورٹنگ لائیو پر مرکوز ہے…"
-    },
-    {
-      "title": "Trump says Israel ‘happy’ with Hamas deal, despite ‘skepticism’ - The Hill",
-      "desc": "Trump says Israel ‘happy’ with Hamas deal, despite ‘skepticism’The Hill Trump brokers Hamas disarmament deal as Saudi Arabia plans Houthi offensiveFox News Israeli official says troops won't pull back in Gaza without 'genuine' Hamas disarmamentBBC Trump’s Gaz…",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184794440",
-      "time": "2026-07-31T22:12:46",
-      "country": "Pakistan",
-      "title_ur": "ٹرمپ کا کہنا ہے کہ 'شکوک و شبہات' کے باوجود اسرائیل حماس کے معاہدے سے 'خوش' ہے۔",
-      "desc_ur": "ٹرمپ کا کہنا ہے کہ 'شکوک و شبہات' کے باوجود اسرائیل حماس کے معاہدے سے 'خوش' ہے، ہل ٹرمپ نے حماس کے تخفیف اسلحے کے معاہدے کی دلالی کی ہے کیونکہ سعودی عرب حوثیوں پر حملے کا منصوبہ بنا رہا ہے فاکس نیوز اسرائیلی اہلکار کا کہنا ہے کہ 'حقیقی' حماس کے تخفیف کے بغیر غزہ میں فوجی دستے واپس نہیں جائیں گے۔"
+      "title_ur": "اسرائیل کے اقوام متحدہ کے سفیر نے 7 اکتوبر کے بعد کے واقعات کو فلسطینی ریاست سے خارج کردیا۔",
+      "desc_ur": "فلسطینی ریاست کے خلاف اسرائیل کا موقف بین الاقوامی شناخت کی کوششوں میں رکاوٹ بن سکتا ہے، جس سے جغرافیائی سیاسی حرکیات اور مارکیٹ کے تاثرات متاثر ہو سکتے ہیں۔\nThe post اقوام متحدہ میں اسرائیل کے سفیر نے فلسطینی ریاست کو 7 اکتوبر کے بعد کے واقعات کو مسترد کردیا appeared first on Crypto Brie…"
     }
   ],
   "business": {
-    "quote": "A business that makes nothing but money is a poor business.",
+    "quote": "If everyone is moving forward together, then success takes care of itself.",
     "author": "Henry Ford",
-    "quote_ur": "وہ کاروبار جو پیسے کے سوا کچھ نہیں بناتا، ایک غریب کاروبار ہے۔"
+    "quote_ur": "اگر سب ایک ساتھ آگے بڑھ رہے ہیں تو کامیابی خود بخود آ جاتی ہے۔"
   },
   "weather": {
     "city": "Lahore",
@@ -207,7 +197,7 @@
         "date": "2026-08-02",
         "day": "اتوار",
         "high": 34,
-        "low": 28,
+        "low": 26,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
         "precip": 59
@@ -215,7 +205,7 @@
       {
         "date": "2026-08-03",
         "day": "پیر",
-        "high": 32,
+        "high": 33,
         "low": 26,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
@@ -224,7 +214,7 @@
       {
         "date": "2026-08-04",
         "day": "منگل",
-        "high": 32,
+        "high": 31,
         "low": 25,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
@@ -234,27 +224,27 @@
         "date": "2026-08-05",
         "day": "بدھ",
         "high": 33,
-        "low": 26,
-        "condition": "Light Drizzle",
-        "condition_ur": "ہلکی بوندا باندی",
+        "low": 25,
+        "condition": "Drizzle",
+        "condition_ur": "بوندا باندی",
         "precip": 71
       },
       {
         "date": "2026-08-06",
         "day": "جمعرات",
         "high": 34,
-        "low": 25,
-        "condition": "Heavy Drizzle",
-        "condition_ur": "تیز بوندا باندی",
+        "low": 26,
+        "condition": "Light Drizzle",
+        "condition_ur": "ہلکی بوندا باندی",
         "precip": 71
       },
       {
         "date": "2026-08-07",
         "day": "جمعہ",
-        "high": 33,
+        "high": 34,
         "low": 26,
-        "condition": "Overcast",
-        "condition_ur": "ابر آلود",
+        "condition": "Thunderstorm",
+        "condition_ur": "گرج چمک",
         "precip": 61
       },
       {
