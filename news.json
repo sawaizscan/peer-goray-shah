@@ -1,197 +1,227 @@
 {
-  "generated": "2026-08-02T20:27:10Z",
+  "generated": "2026-08-02T21:24:46Z",
   "world": [
     {
-      "title": "U.S. general warns Pentagon he lacks sufficient forces to protect Israel",
-      "desc": "Gen. Alexus Grynkewich, the head of U.S. European Command, sent written notification to senior Pentagon officials saying that without another Navy destroyer he will be forced to choose defense of the United States “homeland” over that of Israel, said the offi…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-chat/4390212/posts",
-      "time": "2026-08-01T20:26:31",
-      "country": "Israel",
-      "title_ur": "امریکی جنرل نے پینٹاگون کو خبردار کیا ہے کہ اس کے پاس اسرائیل کی حفاظت کے لیے کافی افواج کی کمی ہے۔",
-      "desc_ur": "امریکی یورپی کمان کے سربراہ جنرل الیکسس گرینکیوچ نے پینٹاگون کے سینیئر حکام کو تحریری اطلاع بھیجی ہے جس میں کہا گیا ہے کہ بحریہ کے ایک اور ڈسٹرائر کے بغیر وہ اسرائیل کے مقابلے میں امریکہ کے \"وطن\" کے دفاع کا انتخاب کرنے پر مجبور ہو جائیں گے۔"
-    },
-    {
-      "title": "Prince William says he was 'truly saddened' to hear of the death of Netflix climbing star and former British Army soldier Nirmal Purja in avalanche",
-      "desc": "Prince William has said he was 'truly saddened to hear of the tragic death' of British special forces climber and Netflix star, Nirmal Purja.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16022191/Prince-William-saddened-death-Netflix-British-Army-Nirmal-Purja.html",
-      "time": "2026-08-01T20:23:38",
-      "country": "UK",
-      "title_ur": "پرنس ولیم کا کہنا ہے کہ وہ نیٹ فلکس کوہ پیمائی کرنے والے اسٹار اور برطانوی فوج کے سابق سپاہی نرمل پرجا کی برفانی تودہ گرنے سے موت کا سن کر 'واقعی غمزدہ' ہوئے",
-      "desc_ur": "شہزادہ ولیم نے کہا ہے کہ وہ برطانوی اسپیشل فورسز کے کوہ پیما اور نیٹ فلکس اسٹار نرمل پرجا کی 'المناک موت کا سن کر واقعی افسردہ ہوئے ہیں'۔"
-    },
-    {
-      "title": "Watch: Sabbath café protest erupts as Liberman visits",
-      "desc": "Dozens of haredi demonstrators protest outside Jerusalem café open on Sabbath during visit by Yisrael Beytenu leader MK Avigdor Liberman.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/431085",
-      "time": "2026-08-01T20:23:08",
-      "country": "Israel",
-      "title_ur": "دیکھیں: سبت کے دن کیفے میں لائبرمین کے دورے کے ساتھ ہی احتجاج شروع ہوا۔",
-      "desc_ur": "اسرائیل بیتینو کے رہنما ایم کے ایویگڈور لیبرمین کے دورے کے دوران یروشلم کے کیفے کے باہر درجنوں حریدی مظاہرین نے سبت کے روز کھلے ہوئے احتجاج کیا۔"
-    },
-    {
-      "title": "Michigan Reports Cyberattacks on Water Systems After FBI Warning",
-      "desc": "Michigan joined Minnesota in announcing cyberattacks on its state water supply, saying nine systems were the target of attacks that intelligence officials have blamed on Iran.",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/michigan-reports-cyberattacks-on-water-systems-after-fbi-warning",
-      "time": "2026-08-01T20:16:47",
+      "title": "IDF on high alert ahead of possible major U.S. strikes on Iran",
+      "desc": "CBS reported that Israel and the U.S. are preparing possible strikes on Iranian energy infrastructure, though Trump has not yet given the final order, while Washington urged Americans to reconsider travel across the Middle East",
+      "source": "Haaretz",
+      "url": "https://www.haaretz.com/middle-east-news/iran/2026-08-02/ty-article/idf-on-high-alert-ahead-of-possible-major-u-s-strikes-on-iran/0000019f-be8a-d3b5-a99f-bfee05de0000",
+      "time": "2026-08-01T21:21:36",
       "country": "Iran",
-      "title_ur": "مشی گن نے ایف بی آئی کی وارننگ کے بعد پانی کے نظام پر سائبر حملوں کی اطلاع دی۔",
-      "desc_ur": "مشی گن نے اپنی ریاستی پانی کی فراہمی پر سائبر حملوں کا اعلان کرتے ہوئے مینیسوٹا میں شمولیت اختیار کی، اور کہا کہ ان حملوں کا نشانہ نو سسٹم تھے جن کا الزام انٹیلی جنس حکام نے ایران پر لگایا ہے۔"
+      "title_ur": "ایران پر ممکنہ بڑے امریکی حملے سے قبل آئی ڈی ایف ہائی الرٹ پر ہے۔",
+      "desc_ur": "سی بی ایس نے رپورٹ کیا کہ اسرائیل اور امریکہ ایرانی توانائی کے بنیادی ڈھانچے پر ممکنہ حملوں کی تیاری کر رہے ہیں، حالانکہ ٹرمپ نے ابھی تک حتمی حکم نہیں دیا ہے، جبکہ واشنگٹن نے امریکیوں پر زور دیا ہے کہ وہ مشرق وسطیٰ میں سفر پر نظر ثانی کریں۔"
     },
     {
-      "title": "Analyst Confirms Bitcoin’s Golden Cross as BTC Holds Above $62,000 Support; Is a Breakout Coming?",
-      "desc": "Bitcoin appears to be entering a long-term uptrend, a move set to provide traders with opportunities to capitalize on surges for strategic returns. According to data shared today on the X platform, market analyst CryptoGoos confirmed that Bitcoin has built a …",
-      "source": "ZyCrypto",
-      "url": "https://zycrypto.com/analyst-confirms-bitcoins-golden-cross-as-btc-holds-above-62000-support-is-a-breakout-coming/",
-      "time": "2026-08-01T20:15:53",
-      "country": "International",
-      "title_ur": "تجزیہ کار نے بٹ کوائن کے گولڈن کراس کی تصدیق کی کیونکہ BTC $62,000 سے اوپر کی حمایت رکھتا ہے۔ کیا بریک آؤٹ آ رہا ہے؟",
-      "desc_ur": "ایسا لگتا ہے کہ بٹ کوائن ایک طویل مدتی اپ ٹرینڈ میں داخل ہو رہا ہے، یہ اقدام تاجروں کو سٹریٹجک ریٹرن کے اضافے سے فائدہ اٹھانے کے مواقع فراہم کرنے کے لیے مقرر کیا گیا ہے۔ ایکس پلیٹ فارم پر آج شیئر کیے گئے ڈیٹا کے مطابق، مارکیٹ تجزیہ کار کرپٹو گوس نے تصدیق کی ہے کہ بٹ کوائن نے ایک…"
-    },
-    {
-      "title": "There Have Been More Than A Dozen F-35 Lightning II Crashes To Date",
-      "desc": "Although another F-35 Lightning II crashed during a training flight on Friday, the fifth-generation aircraft is noted for having fewer mishaps than many other warplanes",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/petersuciu/2026/08/01/there-have-been-more-than-a-dozen-f-35-lightning-ii-crashes-to-date/",
-      "time": "2026-08-01T20:15:52",
-      "country": "International",
-      "title_ur": "آج تک ایک درجن سے زیادہ F-35 لائٹننگ II کریش ہو چکے ہیں۔",
-      "desc_ur": "اگرچہ جمعہ کو ایک اور F-35 لائٹننگ II ایک تربیتی پرواز کے دوران گر کر تباہ ہو گیا، لیکن پانچویں نسل کے طیارے کو بہت سے دوسرے جنگی طیاروں کے مقابلے میں کم حادثات ہونے کے لیے جانا جاتا ہے۔"
-    },
-    {
-      "title": "Why Western Europe needs a Russian threat",
-      "desc": "As the US steps back from Europe, the Russian threat offers Brussels a unifying cause – and Ukraine the army needed to sustain confrontation Read Full Article at RT.com",
-      "source": "RT",
-      "url": "https://www.rt.com/news/643747-western-europe-needs-russian-threat/",
-      "time": "2026-08-01T20:15:13",
-      "country": "Russia",
-      "title_ur": "مغربی یورپ کو روسی دھمکی کی ضرورت کیوں؟",
-      "desc_ur": "جیسے ہی امریکہ یورپ سے پیچھے ہٹ رہا ہے، روسی خطرہ برسلز کو متحد کرنے کا ایک سبب پیش کرتا ہے - اور یوکرین کو تصادم کو برقرار رکھنے کے لیے فوج کی ضرورت ہے RT.com پر مکمل مضمون پڑھیں"
-    },
-    {
-      "title": "UN says Israeli demolitions in Lebanon 'deeply concerning'",
-      "desc": "GENEVA: The United Nations on Saturday (Aug 1) expressed concern over Israel's ongoing demolitionsin southern Lebanon despite a ceasefire in its war with Iran-backed Hezbolla",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/world/un-says-israeli-demolitions-in-lebanon-deeply-concerning-6293141",
-      "time": "2026-08-01T20:12:02",
-      "country": "Iran",
-      "title_ur": "اقوام متحدہ کا کہنا ہے کہ لبنان میں اسرائیلی مسماری 'گہری تشویش'",
-      "desc_ur": "جنیوا: اقوام متحدہ نے ہفتہ (یکم اگست) کو ایران کی حمایت یافتہ حزب اللہ کے ساتھ جنگ ​​بندی کے باوجود جنوبی لبنان میں اسرائیل کی جانب سے جاری مسماری پر تشویش کا اظہار کیا۔"
-    },
-    {
-      "title": "Iran mobilizes proxies to disrupt shipping, pressure US in 2026 conflict",
-      "desc": "Iran's proxy strategy heightens regional instability, disrupts global oil supply, and complicates diplomatic resolutions, impacting markets.\nThe post Iran mobilizes proxies to disrupt shipping, pressure US in 2026 conflict appeared first on Crypto Briefing.",
+      "title": "Iran-linked exchange sent $676M to Binance in sanctions-evasion scheme: Reuters",
+      "desc": "The alleged sanctions-evasion scheme complicates U.S.-Iran nuclear talks, potentially reducing the likelihood of reaching a deal.\nThe post Iran-linked exchange sent $676M to Binance in sanctions-evasion scheme: Reuters appeared first on Crypto Briefing.",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-mobilizes-proxies-to-disrupt-shipping-pressure-us-in-2026-conflict/",
-      "time": "2026-08-01T20:07:06",
+      "url": "https://cryptobriefing.com/iran-linked-exchange-sent-676m-to-binance-in-sanctions-evasion-scheme-reuters/",
+      "time": "2026-08-01T21:21:17",
       "country": "Iran",
-      "title_ur": "ایران جہاز رانی میں خلل ڈالنے کے لیے پراکسیوں کو متحرک کرتا ہے، 2026 کے تنازع میں امریکہ پر دباؤ ڈالتا ہے۔",
-      "desc_ur": "ایران کی پراکسی حکمت عملی علاقائی عدم استحکام کو بڑھاتی ہے، عالمی سطح پر تیل کی سپلائی میں خلل ڈالتی ہے، اور سفارتی قراردادوں کو پیچیدہ بناتی ہے، جس سے بازار متاثر ہوتے ہیں۔\nThe post ایران نے جہاز رانی میں خلل ڈالنے کے لیے پراکسیز کو متحرک کردیا، 2026 کے تنازع میں امریکا پر دباؤ appeared first on Crypto Briefing."
+      "title_ur": "ایران سے منسلک ایکسچینج نے پابندیوں سے بچنے کی اسکیم میں بائنانس کو 676 ملین ڈالر بھیجے: رائٹرز",
+      "desc_ur": "مبینہ پابندیوں سے بچنے کی اسکیم امریکہ اور ایران کے جوہری مذاکرات کو پیچیدہ بناتی ہے، جس سے ممکنہ طور پر معاہدے تک پہنچنے کے امکانات کم ہوتے ہیں۔\nThe post ایران سے منسلک ایکسچینج نے پابندیوں سے بچنے کی اسکیم میں بائنانس کو 676 ملین ڈالر بھیجے: رائٹرز appeared first on Crypto Briefing."
     },
     {
-      "title": "Responsible Citizenship at Core of CCF Anniversary Event",
-      "desc": "Chandigarh Citizens Foundation marks 1st anniversary; Governor Kataria lauds civic work as CCF expands SAATHI, SEWA, mentorship and first-aid training.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/responsible-citizenship-at-core-of-ccf-anniversary-event/articleshow/132796648.cms",
-      "time": "2026-08-01T20:07:05",
-      "country": "International",
-      "title_ur": "CCF کی سالگرہ کی تقریب کے مرکز میں ذمہ دار شہریت",
-      "desc_ur": "چندی گڑھ سٹیزن فاؤنڈیشن کی پہلی سالگرہ گورنر کٹاریا نے شہری کام کی تعریف کی کیونکہ CCF نے ساتھی، خدمت، رہنمائی اور ابتدائی طبی امداد کی تربیت کو بڑھایا ہے۔"
-    },
-    {
-      "title": "Does ESPN Unlimited Offer a Free Trial? SummerSlam on ESPN Free Live Stream Info",
-      "desc": "CM Punk and Cody Rhodes collide in the Night 1 main event of SummerSlam!",
-      "source": "Decider",
-      "url": "https://decider.com/2026/08/01/espn-unlimited-free-trial-how-to-watch-summerslam-free-live-stream-youtube-tv/",
-      "time": "2026-08-01T20:05:00",
-      "country": "International",
-      "title_ur": "کیا ESPN لا محدود مفت ٹرائل پیش کرتا ہے؟ ESPN مفت لائیو سٹریم کی معلومات پر سمر سلیم",
-      "desc_ur": "سمر سلیم کے نائٹ 1 مین ایونٹ میں سی ایم پنک اور کوڈی رہوڈس کا ٹکراؤ!"
-    },
-    {
-      "title": "UAE Seeks To Ease Tensions With Iran While Deepening Military Ties With US, Israel",
-      "desc": "The United Arab Emirates is trying to keep channels open with Tehran while strengthening its military ties with Washington and Israel, a delicate balancing act shaped by security concerns and deep economic links with Iran.",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "url": "https://www.rferl.org/a/iran-uae-war-usa-israel-sheikh-mohamed-bin-zayed-al-nahyan/33819782.html",
-      "time": "2026-08-01T20:01:28",
+      "title": "Iran Strikes Kuwait After Trump Warning",
+      "desc": "Iran took another step Saturday toward widening the Gulf fighting, sending a wave of drones toward Kuwait in an attack that the US ally said it intercepted. The strike added tension to the region, the Wall Street Journal reports, after President Trump's pledg…",
+      "source": "Newser",
+      "url": "https://www.newser.com/story/393926/iran-strikes-kuwait-after-trump-warning.html",
+      "time": "2026-08-01T21:18:21",
       "country": "Iran",
-      "title_ur": "متحدہ عرب امارات امریکہ، اسرائیل کے ساتھ فوجی تعلقات کو گہرا کرتے ہوئے ایران کے ساتھ کشیدگی کو کم کرنے کی کوشش کر رہا ہے۔",
-      "desc_ur": "متحدہ عرب امارات واشنگٹن اور اسرائیل کے ساتھ اپنے فوجی تعلقات کو مضبوط بناتے ہوئے تہران کے ساتھ راستے کھلے رکھنے کی کوشش کر رہا ہے، یہ ایک نازک توازن عمل ہے جس کی تشکیل سیکورٹی خدشات اور ایران کے ساتھ گہرے اقتصادی روابط سے ہوتی ہے۔"
+      "title_ur": "ٹرمپ کی وارننگ کے بعد ایران نے کویت پر حملہ کر دیا۔",
+      "desc_ur": "ایران نے خلیجی لڑائی کو وسیع کرنے کی طرف ہفتے کے روز ایک اور قدم اٹھایا، ایک حملے میں کویت کی طرف ڈرون کی ایک لہر بھیجی جسے امریکی اتحادی نے کہا کہ اس نے روک دیا۔ وال سٹریٹ جرنل کی رپورٹ کے مطابق، صدر ٹرمپ کے وعدے کے بعد، ہڑتال نے خطے میں کشیدگی میں اضافہ کیا…"
     },
     {
-      "title": "Rs 50 lakh bank transfer cracks Vasai MD shooting case",
-      "desc": "Vasai MD shooting: Police crack case via Rs 50 lakh bank transfer; director-CA Sagar Bhanushali named mastermind. Seven arrested; plot planned months earlier.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/rs-50-lakh-bank-transfer-cracks-vasai-md-shooting-case/articleshow/132796606.cms",
-      "time": "2026-08-01T19:53:43",
+      "title": "No spontaneous combustion? Regarding the causes of the Ceuta migrant surge, look who’s gloating",
+      "desc": "The Ceuta migrant surge was sold as a border panic. The harder question is who benefited from lighting the fuse. Read Full Article at RT.com",
+      "source": "RT",
+      "url": "https://www.rt.com/news/643757-no-spontaneous-combustion-regarding-causes/",
+      "time": "2026-08-01T21:17:44",
       "country": "US",
-      "title_ur": "50 لاکھ روپے کی بینک ٹرانسفر واسئی ایم ڈی شوٹنگ کیس میں دراڑیں",
-      "desc_ur": "وسائی ایم ڈی شوٹنگ: پولیس نے 50 لاکھ روپے کی بینک ٹرانسفر کے ذریعے کیس کریک کیا۔ ڈائریکٹر-سی اے ساگر بھانوشالی کو ماسٹر مائنڈ قرار دیا گیا۔ سات گرفتار؛ مہینوں پہلے منصوبہ بنایا گیا تھا۔"
+      "title_ur": "کوئی اچانک دہن؟ سیوٹا مہاجرین میں اضافے کی وجوہات کے بارے میں، دیکھیں کہ کون خوش ہے۔",
+      "desc_ur": "سیوٹا مہاجرین کے اضافے کو سرحدی گھبراہٹ کے طور پر فروخت کیا گیا تھا۔ مشکل سوال یہ ہے کہ فیوز روشن کرنے سے کس کو فائدہ ہوا۔ RT.com پر مکمل مضمون پڑھیں"
     },
     {
-      "title": "PM Modi should stop abuses heaped by BJP’s trolls: Raj",
-      "desc": "Raj Thackeray urges PM Modi to rein in BJP trolls after NEET protests, while Uddhav Thackeray demands Modi and Amit Shah apologize for police violence.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/pm-modi-should-stop-abuses-heaped-by-bjps-trolls-raj/articleshow/132796583.cms",
-      "time": "2026-08-01T19:45:19",
-      "country": "India",
-      "title_ur": "پی ایم مودی کو بی جے پی کے ٹرولوں کے ذریعہ ڈھیروں گالیوں کو روکنا چاہئے: راج",
-      "desc_ur": "راج ٹھاکرے نے پی ایم مودی پر زور دیا کہ وہ NEET کے احتجاج کے بعد بی جے پی کے ٹرولوں پر لگام لگائیں، جبکہ ادھو ٹھاکرے نے مودی اور امیت شاہ سے پولیس تشدد کے لیے معافی مانگنے کا مطالبہ کیا۔"
+      "title": "WEEKLY RECAP: Central banks, earnings and Iran",
+      "desc": "There was no sign of a holiday slowdown in the news cycle in the last week of July, with major headlines in business, economy and geopolitics streaming in. The United States Federal Reserve and the Ba...",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/b511e7e7eaa66a75",
+      "time": "2026-08-01T21:16:00",
+      "country": "Iran",
+      "title_ur": "ہفتہ وار ریکاپ: مرکزی بینک، آمدنی اور ایران",
+      "desc_ur": "جولائی کے آخری ہفتے میں خبروں کے چکر میں تعطیلات کی سست روی کا کوئی نشان نہیں تھا، جس میں کاروبار، معیشت اور جغرافیائی سیاست کی بڑی سرخیاں چل رہی تھیں۔"
     },
     {
-      "title": "When the voice becomes louder than the message",
-      "desc": "Chandra Shekhar Varma warns Gen Z’s loud online activism can overshadow substance, urging nuance, reflection and respectful dialogue for lasting change.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/lucknow/when-the-voice-becomes-louder-than-the-message/articleshow/132796573.cms",
-      "time": "2026-08-01T19:43:03",
+      "title": "Firefighters in Greece struggle to save coastal resort as winds rage - The Times of Israel",
+      "desc": "Firefighters in Greece struggle to save coastal resort as winds rageThe Times of Israel Europe’s wildfire crisis eases in west as danger shifts east to GreeceAP News Greece battles raging wildfires as flames appear to ease in FranceAl Jazeera Hundreds escape …",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184804870",
+      "time": "2026-08-01T21:13:17",
+      "country": "Israel",
+      "title_ur": "یونان میں فائر فائٹرز ساحلی ریزورٹ کو بچانے کے لیے جدوجہد کر رہے ہیں کیونکہ ہواؤں کے غصے میں - ٹائمز آف اسرائیل",
+      "desc_ur": "یونان میں فائر فائٹرز ہواؤں کے غیظ و غضب کے ساتھ ساحلی ریزورٹ کو بچانے کے لیے جدوجہد کر رہے ہیں ٹائمز آف اسرائیل یورپ کے جنگلات کی آگ کا بحران مغرب میں کم ہو گیا ہے کیونکہ خطرہ مشرق کی طرف بڑھتا ہے یونان اے پی نیوز"
+    },
+    {
+      "title": "US embassies urge citizens to 'consider departing' Middle East - euractiv.com",
+      "desc": "US embassies urge citizens to 'consider departing' Middle Easteuractiv.com Live updates: US warns citizens across the Middle East as Trump and Iran issue new threatsCNN State Department urges Americans to consider leaving Middle East as regional conflict esca…",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184804866",
+      "time": "2026-08-01T21:13:07",
+      "country": "Iran",
+      "title_ur": "امریکی سفارتخانوں نے شہریوں پر زور دیا کہ وہ مشرقِ وسطیٰ کو چھوڑنے پر غور کریں - euractiv.com",
+      "desc_ur": "امریکی سفارتخانوں نے شہریوں پر زور دیا کہ وہ مشرق وسطیٰ کو چھوڑنے پر غور کریں."
+    },
+    {
+      "title": "Iran threatens infrastructure retaliation as geopolitical risk clouds crypto markets",
+      "desc": "Iran's infrastructure threats could destabilize regional crypto markets, impacting global Bitcoin hash rates and highlighting geopolitical risks.\nThe post Iran threatens infrastructure retaliation as geopolitical risk clouds crypto markets appeared first on C…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-infrastructure-threat-bitcoin-crypto-markets/",
+      "time": "2026-08-01T21:11:25",
+      "country": "Iran",
+      "title_ur": "ایران نے بنیادی ڈھانچے کو جوابی کارروائی کی دھمکی دی ہے کیونکہ جیو پولیٹیکل خطرے کے بادل کرپٹو مارکیٹس پر ہیں۔",
+      "desc_ur": "ایران کے بنیادی ڈھانچے کے خطرات علاقائی کرپٹو مارکیٹوں کو غیر مستحکم کر سکتے ہیں، عالمی بٹ کوائن ہیش ریٹ کو متاثر کر سکتے ہیں اور جغرافیائی سیاسی خطرات کو نمایاں کر سکتے ہیں۔\nThe post ایران نے بنیادی ڈھانچے کو جوابی کارروائی کی دھمکی دی ہے کیونکہ جیو پولیٹیکل خطرے کے بادل کرپٹو مارکیٹوں پر appeared first on C…"
+    },
+    {
+      "title": "US urges its citizens in Middle East to be ready to leave in case of escalation in region",
+      "desc": "US urges its citizens in Middle East to be ready to leave in case of escalation in regionbbc.com",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cgk4nyr0j73o",
+      "time": "2026-08-01T21:10:43",
+      "country": "US",
+      "title_ur": "امریکہ نے مشرق وسطیٰ میں اپنے شہریوں پر زور دیا ہے کہ وہ خطے میں کشیدگی کی صورت میں نکلنے کے لیے تیار رہیں",
+      "desc_ur": "امریکہ نے مشرق وسطیٰ میں اپنے شہریوں پر زور دیا ہے کہ خطے میں کشیدگی بڑھنے کی صورت میں نکلنے کے لیے تیار رہیں"
+    },
+    {
+      "title": "The Genocide Election and the Kshama Calculation",
+      "desc": "State has top two primary, no party commitment required.  If the top two winners of the open field are from the same political party, that’s who’s slugging it out en noviembre.  My congressional district has several people vying for Adam Smith’s seat, Adam Sm…",
+      "source": "Freethoughtblogs.com",
+      "url": "https://freethoughtblogs.com/gas/2026/08/01/the-genocide-election-and-the-kshama-calculation/",
+      "time": "2026-08-01T21:09:59",
       "country": "International",
-      "title_ur": "جب آواز پیغام سے زیادہ بلند ہو جاتی ہے۔",
-      "desc_ur": "چندر شیکھر ورما نے خبردار کیا ہے کہ جنرل Z کی بلند آن لائن سرگرمی مادے کو چھا سکتی ہے، دیرپا تبدیلی کے لیے باریک بینی، عکاسی اور باعزت مکالمے پر زور دیتی ہے۔"
+      "title_ur": "نسل کشی کے انتخابات اور کشمہ کا حساب کتاب",
+      "desc_ur": "ریاست میں سرفہرست دو پرائمری ہیں، پارٹی وابستگی کی ضرورت نہیں ہے۔  اگر کھلے میدان کے سرفہرست دو فاتح ایک ہی سیاسی جماعت سے ہیں، تو یہ وہی ہے جو اسے نئے سرے سے باہر کر رہا ہے۔  میرے کانگریسی ضلع میں کئی لوگ ایڈم سمتھ کی سیٹ، ایڈم سمتھ کے لیے انتخاب لڑ رہے ہیں…"
+    },
+    {
+      "title": "Fury of heroes' families as Army crushes hundreds of war graves into gravel for drainage ditch",
+      "desc": "Defence chiefs have been accused of showing 'shocking disregard' for Britain's war dead after destroying almost 800 First and Second World War gravestones of Commonwealth soldiers.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16022257/Fury-heroes-families-Army-crushes-hundreds-war-graves.html",
+      "time": "2026-08-01T21:09:08",
+      "country": "UK",
+      "title_ur": "ہیروز کے خاندانوں کا غصہ جب فوج نے نکاسی آب کے لیے سیکڑوں جنگی قبروں کو بجری میں کچل دیا",
+      "desc_ur": "دفاعی سربراہان پر پہلی اور دوسری جنگ عظیم کے تقریباً 800 دولت مشترکہ فوجیوں کے قبروں کے پتھروں کو تباہ کرنے کے بعد برطانیہ کی جنگ میں ہلاک ہونے والوں کو 'حیران کن نظر انداز' کرنے کا الزام لگایا گیا ہے۔"
+    },
+    {
+      "title": "Victoria's tobacco kingpin is in jail, but violence still grips the state",
+      "desc": "Kazem Hamad, once dubbed one of the most dangerous wanted men in the world, is now behind bars. But the violence on Victorian streets has continued unabated.",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-08-02/victoria-crime-underworld-kazem-hamad-tobacco-wars/106983918",
+      "time": "2026-08-01T21:08:04",
+      "country": "US",
+      "title_ur": "وکٹوریہ کا تمباکو کا بادشاہ جیل میں ہے، لیکن تشدد اب بھی ریاست کو اپنی لپیٹ میں لے رہا ہے۔",
+      "desc_ur": "کاظم حماد جسے کبھی دنیا کے خطرناک ترین مطلوب افراد میں سے ایک کہا جاتا تھا، اب جیل کی سلاخوں کے پیچھے ہے۔ لیکن وکٹورین کی سڑکوں پر تشدد بلا روک ٹوک جاری ہے۔"
+    },
+    {
+      "title": "Binance linked to Iranian money-moving operation tied to illegal gambling and sanctions evasion",
+      "desc": "The incident underscores the vulnerabilities in global crypto regulations, highlighting the need for stricter oversight to prevent illicit activities.\nThe post Binance linked to Iranian money-moving operation tied to illegal gambling and sanctions evasion app…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/binance-iran-shelbit-sanctions-evasion-gambling/",
+      "time": "2026-08-01T21:06:09",
+      "country": "Iran",
+      "title_ur": "بائننس غیر قانونی جوئے اور پابندیوں کی چوری سے منسلک ایرانی پیسہ منتقل کرنے والے آپریشن سے منسلک ہے۔",
+      "desc_ur": "یہ واقعہ غیر قانونی سرگرمیوں کو روکنے کے لیے سخت نگرانی کی ضرورت پر روشنی ڈالتے ہوئے عالمی کرپٹو ضوابط میں موجود کمزوریوں کی نشاندہی کرتا ہے۔\nپوسٹ بائننس غیر قانونی جوئے اور پابندیوں کی چوری ایپ سے منسلک ایرانی پیسہ منتقل کرنے والے آپریشن سے منسلک ہے…"
+    },
+    {
+      "title": "Rubio Protecting Israel PM Netanyahu From ICC as Questions Abound Over Alleged Crimes",
+      "desc": "Trump admits Rubio’s ICC campaign protects Netanyahu, exposing selective U.S. objections to international law and accountability.",
+      "source": "Military.com",
+      "url": "https://military.com/trump-says-marco-rubios-icc-campaign-is-protecting-israel-benajmin-netanyahu-alleged-crimes",
+      "time": "2026-08-01T21:02:43",
+      "country": "Israel",
+      "title_ur": "روبیو اسرائیل کے وزیر اعظم نیتن یاہو کو آئی سی سی سے تحفظ دے رہے ہیں کیونکہ مبینہ جرائم پر سوالات کی بھرمار ہے",
+      "desc_ur": "ٹرمپ نے تسلیم کیا کہ روبیو کی آئی سی سی مہم نیتن یاہو کی حفاظت کرتی ہے، جس سے بین الاقوامی قانون اور احتساب پر امریکی انتخابی اعتراضات سامنے آتے ہیں۔"
+    },
+    {
+      "title": "Trump social network offers $100,000 access to early posts",
+      "desc": "Trump Media has launched a premium Truth Social service allowing subscribers to view President Trump’s posts before the public, drawing criticism from Democratic senators who are calling for an SEC investigation.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/431088",
+      "time": "2026-08-01T21:00:52",
+      "country": "US",
+      "title_ur": "ٹرمپ سوشل نیٹ ورک ابتدائی پوسٹس تک $100,000 رسائی فراہم کرتا ہے۔",
+      "desc_ur": "ٹرمپ میڈیا نے ایک پریمیم ٹروتھ سوشل سروس کا آغاز کیا ہے جس کے ذریعے صارفین کو صدر ٹرمپ کی پوسٹس عوام کے سامنے دیکھنے کی اجازت دی گئی ہے، ڈیموکریٹک سینیٹرز کی جانب سے تنقید کی جا رہی ہے جو SEC کی تحقیقات کا مطالبہ کر رہے ہیں۔"
     }
   ],
   "pakistan": [
     {
-      "title": "Record-breaking climber Nirmal Purja among those killed in avalanche",
-      "desc": "14 Peaks star Nirmal Purja has died in an avalanche while leading 10 climbers up Broad Peak mountain in Pakistan.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/record-record-breaking-climber-nirmal-purja-among-those-killed-in-avalanche",
-      "time": "2026-08-01T20:10:01",
+      "title": "Famed climber Nirmal Purja among 10 climbers killed after Pakistan avalanche, officials say - CBS News",
+      "desc": "Famed climber Nirmal Purja among 10 climbers killed after Pakistan avalanche, officials sayCBS News Top mountaineer Nirmal Purja confirmed dead after 11 hit by avalanche in PakistanThe Guardian Prince William left 'truly saddened' following outing with his ch…",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184804872",
+      "time": "2026-08-01T21:13:28",
       "country": "Pakistan",
-      "title_ur": "برفانی تودہ گرنے سے ہلاک ہونے والوں میں ریکارڈ ساز کوہ پیما نرمل پرجا بھی شامل ہیں۔",
-      "desc_ur": "14 چوٹیوں کے ستارے نرمل پرجا پاکستان میں براڈ پیک پہاڑ پر 10 کوہ پیماؤں کی قیادت کرتے ہوئے برفانی تودے کی زد میں آکر ہلاک ہو گئے۔"
+      "title_ur": "پاکستان میں برفانی تودہ گرنے سے مشہور کوہ پیما نرمل پرجا سمیت 10 کوہ پیما ہلاک، حکام کا کہنا ہے – CBS News",
+      "desc_ur": "پاکستان میں برفانی تودہ گرنے سے مشہور کوہ پیما نرمل پرجا سمیت 10 کوہ پیما ہلاک، حکام کا کہنا ہے کہ سی بی ایس نیوز ٹاپ کوہ پیما نرمل پرجا نے پاکستان میں برفانی تودے کی زد میں آنے کے بعد 11 افراد کی ہلاکت کی تصدیق کی ہے گارڈین شہزادہ ولیم اپنے چوہدری کے ساتھ باہر نکلنے کے بعد 'واقعی غمزدہ' رہ گئے…"
     },
     {
-      "title": "Pharmacy exam controversy: Student groups seek retest, recruitment transparency",
-      "desc": "Student groups in Chandigarh demand Punjab pharmacy recruitment exam retest over alleged paper leak, seek white paper on recruitments and more transparency.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/pharmacy-exam-controversy-student-groups-seek-retest-recruitment-transparency/articleshow/132796504.cms",
-      "time": "2026-08-01T19:30:54",
+      "title": "AOC says MAHA advocates' fight 'isn't partisan' as she blasts healthcare system for fueling 'a ton of anxiety'",
+      "desc": "Alexandria Ocasio-Cortez says she works with MAHA advocates, pointing to extraordinary corruption in the agricultural and corporate systems.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/media/aoc-says-maha-advocates-fight-isnt-partisan-blasts-healthcare-system-fueling-ton-anxiety",
+      "time": "2026-08-01T21:00:56",
       "country": "Pakistan",
-      "title_ur": "فارمیسی امتحان کا تنازعہ: طلباء کے گروپ دوبارہ ٹیسٹ، بھرتی کی شفافیت کے خواہاں ہیں۔",
-      "desc_ur": "چندی گڑھ میں طلباء گروپ پنجاب فارمیسی بھرتی امتحان کے مبینہ پیپر لیک ہونے پر دوبارہ ٹیسٹ کرانے، بھرتیوں پر وائٹ پیپر اور مزید شفافیت کا مطالبہ کرتے ہیں۔"
+      "title_ur": "AOC کا کہنا ہے کہ MAHA کی وکالت کی لڑائی 'متعصبانہ نہیں ہے' کیونکہ وہ 'ایک ٹن بے چینی' کو ہوا دینے کے لیے صحت کی دیکھ بھال کے نظام کو دھماکے سے اڑا دیتی ہے۔",
+      "desc_ur": "الیگزینڈریا اوکاسیو کورٹیز کا کہنا ہے کہ وہ MAHA ایڈوکیٹس کے ساتھ کام کرتی ہیں، جو زرعی اور کارپوریٹ نظام میں غیر معمولی بدعنوانی کی طرف اشارہ کرتی ہیں۔"
     },
     {
-      "title": "The Momentum Crash: Is It Over?",
-      "desc": "At a Glance\n\n\n<ul><!-- wp:list-item -->\r\n\n<li>Is The Momentum Crash Over? </li>\n\r\n\n\r\n\n<li>Market Brief & Technical Review</li>\n\r\n\n\r\n\n<li>From Lance's Desk: AI Bear Case: What Skeptics Get Right And Wrong - RIA</li>\n\r\n\n\r\n\n<li>Market stats, screens, and risk…",
-      "source": "Realinvestmentadvice.com",
-      "url": "https://realinvestmentadvice.com/resources/blog/the-momentum-crash-is-it-over/",
-      "time": "2026-08-01T19:27:54",
+      "title": "US urges Americans to leave Middle East amid Iran fears",
+      "desc": "US State Department warns Americans in Middle East to consider leaving, citing risk of sudden airspace closures, flight disruptions, and attacks on US interests.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/431087",
+      "time": "2026-08-01T20:58:00",
       "country": "Pakistan",
-      "title_ur": "مومنٹم کریش: کیا یہ ختم ہو گیا ہے؟",
-      "desc_ur": "ایک نظر میں\n\n\n<ul><!-- wp:list-item -->\r\n\n<li>کیا مومینٹم کریش ختم ہو گیا ہے؟ </li>\n\r\n\n\r\n\n<li>مارکیٹ کا مختصر اور تکنیکی جائزہ</li>\n\r\n\n\r\n\n<li>Lance's Desk سے: AI Bear Case: شک کرنے والوں کو کیا صحیح اور غلط ملتا ہے - RIA</li>\n\r\n\n\r\n\n<li>مارکیٹ کے اعدادوشمار، اسکرینز، اور خطرہ…"
+      "title_ur": "امریکہ نے امریکیوں پر زور دیا کہ وہ ایران کے خوف کے درمیان مشرق وسطیٰ چھوڑ دیں۔",
+      "desc_ur": "امریکی محکمہ خارجہ نے مشرق وسطیٰ میں امریکیوں کو خبردار کیا ہے کہ وہ اچانک فضائی حدود کی بندش، پروازوں میں رکاوٹ اور امریکی مفادات پر حملوں کے خطرے کا حوالہ دیتے ہوئے وہاں سے نکلنے پر غور کریں۔"
     },
     {
-      "title": "Gharial rescued in Jaisalmer, returned to Punjab for rehabilitation",
-      "desc": "12-foot critically endangered gharial rescued from Indira Gandhi Canal in Jaisalmer after drifting from Punjab; sent to Chhatbir Zoo for rehab and release to Beas.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/jaipur/gharial-rescued-in-jaisalmer-returned-to-punjab-for-rehabilitation/articleshow/132796464.cms",
-      "time": "2026-08-01T19:24:25",
+      "title": "All 10 climbers swept away in avalanche in Pakistan are confirmed dead - apnews.com",
+      "desc": "All 10 climbers swept away in avalanche in Pakistan are confirmed deadapnews.com World-renowned mountaineer Nirmal Purja confirmed dead after Pakistan avalancheCNN How Nims Purja’s Broad Peak climb ended in deadly disasterNational Geographic Mountaineer Nirma…",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184804696",
+      "time": "2026-08-01T20:52:44",
       "country": "Pakistan",
-      "title_ur": "گھڑیال کو جیسلمیر میں بچایا گیا، بحالی کے لیے پنجاب واپس آیا",
-      "desc_ur": "پنجاب سے بہنے کے بعد جیسلمیر میں اندرا گاندھی نہر سے 12 فٹ کے خطرے سے دوچار گھڑیال کو بچایا گیا۔ چھٹبیر چڑیا گھر کو بحالی اور بیاس میں رہائی کے لیے بھیجا گیا۔"
+      "title_ur": "پاکستان میں برفانی تودے میں بہہ جانے والے تمام 10 کوہ پیماؤں کی ہلاکت کی تصدیق - apnews.com",
+      "desc_ur": "پاکستان میں برفانی تودے میں بہہ جانے والے تمام 10 کوہ پیماؤں کی تصدیق ہوگئی deadapnews.com پاکستان میں برفانی تودہ گرنے کے بعد عالمی شہرت یافتہ کوہ پیما نرمل پرجا کی ہلاکت کی تصدیق"
+    },
+    {
+      "title": "State Department urges Americans to consider leaving Middle East as regional conflict escalates",
+      "desc": "The State Department on Saturday urged Americans across the Middle East to consider leaving the region or be prepared to depart on short notice, warning of flight disruptions and security risks as the conflict with Iran escalates.",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/middle-east/state-department-urges-americans-consider-leaving-middle-east-region-rcna590396",
+      "time": "2026-08-01T20:37:54",
+      "country": "Pakistan",
+      "title_ur": "محکمہ خارجہ نے امریکیوں پر زور دیا ہے کہ وہ مشرق وسطیٰ چھوڑنے پر غور کریں کیونکہ علاقائی تنازعہ بڑھ رہا ہے۔",
+      "desc_ur": "محکمہ خارجہ نے ہفتے کے روز مشرق وسطیٰ میں امریکیوں پر زور دیا کہ وہ خطہ چھوڑنے پر غور کریں یا مختصر نوٹس پر روانگی کے لیے تیار رہیں، ایران کے ساتھ تنازعہ بڑھنے پر پروازوں میں خلل اور سلامتی کے خطرات کا انتباہ۔"
+    },
+    {
+      "title": "All 10 Climbers, Led By Netflix Doc Star, Swept Away In Avalanche In Pakistan Are Confirmed Dead",
+      "desc": "Renowned climber Nirmal Purja and nine others have died in an avalanche in Pakistan, according to Purja's expedition company.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/pakistan-mountaineers-avalanche_n_6a6e56c5e4b09c1d814b4412",
+      "time": "2026-08-01T20:33:19",
+      "country": "Pakistan",
+      "title_ur": "Netflix Doc Star کی قیادت میں تمام 10 کوہ پیما، پاکستان میں برفانی تودے میں بہہ گئے، ہلاک ہونے کی تصدیق",
+      "desc_ur": "نامور کوہ پیما نرمل پرجا اور نو دیگر پاکستان میں برفانی تودہ گرنے سے ہلاک ہو گئے ہیں، پرجا کی مہم کمپنی کے مطابق۔"
+    },
+    {
+      "title": "Gulf nations brace for ‘disruptions’ as Trump warns of fresh strikes on Iran",
+      "desc": "Gulf nations were on high alert this weekend bracing for increased military action amid fresh threats from President Donald Trump, a senior Gulf government official and a foreign diplomat based in the Gulf region told MS NOW.\nOne of the two officials — both o…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/75f97dbc96642c5e",
+      "time": "2026-08-01T20:30:47",
+      "country": "Pakistan",
+      "title_ur": "خلیجی ممالک 'خلل' کے لیے تیار ہیں کیونکہ ٹرمپ نے ایران پر تازہ حملوں کی تنبیہ کی ہے۔",
+      "desc_ur": "خلیجی ممالک اس ہفتے کے آخر میں صدر ڈونلڈ ٹرمپ کی تازہ دھمکیوں کے درمیان فوجی کارروائی میں اضافے کے لیے ہائی الرٹ پر تھے، خلیجی حکومت کے ایک سینئر اہلکار اور خلیجی خطے میں مقیم ایک غیر ملکی سفارت کار نے ایم ایس ناؤ کو بتایا۔\nدو عہدیداروں میں سے ایک - دونوں او…"
     }
   ],
   "business": {
