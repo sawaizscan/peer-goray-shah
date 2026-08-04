@@ -1,197 +1,177 @@
 {
-  "generated": "2026-08-04T07:59:15Z",
+  "generated": "2026-08-04T10:43:19Z",
   "world": [
     {
-      "title": "Iran says no current talks with US; in talks with Oman",
-      "desc": "Iran confirms no talks with the US, while discussing a temporary safe route through the Strait of Hormuz with Oman.",
+      "title": "Indian rupee ends flat as robust importer hedging blunts oil price relief",
+      "desc": "The Indian rupee finished slightly lower at the close on Monday, pulling back from an early surge. Demand for dollars from importers and state banks intensified, countering the fall in oil prices. Meanwhile, global equities gained ground ahead of the schedule…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/indian-rupee-ends-flat-as-robust-importer-hedging-blunts-oil-price-relief/articleshow/132828582.cms",
+      "time": "2026-08-03T10:42:37",
+      "country": "India",
+      "title_ur": "مضبوط درآمد کنندگان ہیجنگ نے تیل کی قیمتوں میں ریلیف کو ختم کر کے ہندوستانی روپیہ فلیٹ ختم کر دیا۔",
+      "desc_ur": "ہندوستانی روپیہ پیر کو بند ہونے پر قدرے نیچے ختم ہوا، ابتدائی اضافے سے پیچھے ہٹ گیا۔ تیل کی قیمتوں میں کمی کا مقابلہ کرتے ہوئے درآمد کنندگان اور اسٹیٹ بینکوں سے ڈالر کی مانگ میں شدت آگئی۔ دریں اثنا، عالمی ایکوئٹی نے شیڈول سے پہلے زمین حاصل کی…"
+    },
+    {
+      "title": "Inside SuperShe Island, the Private Finnish Retreat Where Women Went to Disappear",
+      "desc": "Somewhere in the Baltic Sea, a small, self-selected group of women retreat to eat flowers and learn about their \"inner mammal.\" SuperShe Island promised reinvention without distraction.",
+      "source": "Observer",
+      "url": "https://observer.com/2026/08/no-men-allowed-on-kristina-roths-exclusive-supershe-island-in-finland/",
+      "time": "2026-08-03T10:42:08",
+      "country": "International",
+      "title_ur": "SuperShe جزیرے کے اندر، پرائیویٹ فینیش اعتکاف جہاں خواتین غائب ہو گئی تھیں۔",
+      "desc_ur": "بالٹک سمندر میں کہیں، خواتین کا ایک چھوٹا، خود منتخب کردہ گروپ پھول کھانے اور اپنے \"اندرونی ممالیہ\" کے بارے میں جاننے کے لیے پیچھے ہٹتا ہے۔ سپر شی جزیرہ نے بغیر کسی خلفشار کے دوبارہ ایجاد کا وعدہ کیا۔"
+    },
+    {
+      "title": "Stocks Set to Open Higher as Oil Sinks on U.S.-Iran Deal Hopes, Jobs Data and Earnings Awaited",
+      "desc": "September S&P 500 E-Mini futures (ESU26) are up +0.53%, and September Nasdaq 100 E-Mini futures (NQU26) are up +0.46% this morning, pointing to a higher open on Wall Street as oil prices sank amid growing hopes for a peace deal in the Middle East.\nThe price o…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/3017a49300f80b8b",
+      "time": "2026-08-03T10:42:06",
+      "country": "Iran",
+      "title_ur": "امریکی-ایران ڈیل کی امیدوں، ملازمتوں کے ڈیٹا اور آمدنی کا انتظار کرنے پر تیل کے ڈوبنے کے ساتھ ہی اسٹاک اونچی سطح پر کھلنے کے لیے تیار ہیں",
+      "desc_ur": "ستمبر S&P 500 E-Mini فیوچرز (ESU26) میں +0.53% اضافہ ہوا ہے، اور ستمبر Nasdaq 100 E-Mini فیوچرز (NQU26) آج صبح +0.46% بڑھے ہیں، جو وال سٹریٹ پر زیادہ کھلنے کی طرف اشارہ کرتے ہیں کیونکہ مشرق وسطیٰ میں امن معاہدے کی بڑھتی ہوئی امیدوں کے درمیان تیل کی قیمتیں ڈوب گئی ہیں۔\nقیمت اے…"
+    },
+    {
+      "title": "Wall St futures edge up on Mideast deal hopes; healthcare in focus",
+      "desc": "Oil falls over 4% as Trump calls off Iran strike, announces fresh talks\nAug 3 (Reuters) - U.S. stock index futures edged higher on Monday as signs of de-escalating tensions in the Middle East weighed on crude prices, while investors prepared for another week …",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/6d4a5da685b55dac",
+      "time": "2026-08-03T10:42:03",
+      "country": "Iran",
+      "title_ur": "وال سینٹ فیوچرز مشرق وسطیٰ کے معاہدے کی امیدوں پر برتری توجہ میں صحت کی دیکھ بھال",
+      "desc_ur": "تیل کی قیمت 4 فیصد سے زیادہ گر گئی کیونکہ ٹرمپ نے ایران پر حملہ منسوخ کر دیا، تازہ مذاکرات کا اعلان کیا۔\nاگست 3 (رائٹرز) – امریکی اسٹاک انڈیکس فیوچر پیر کو بلند ہوا کیونکہ مشرق وسطی میں تناؤ میں کمی کے اشارے خام تیل کی قیمتوں پر پڑ گئے، جبکہ سرمایہ کاروں نے مزید ایک ہفتے کے لیے تیاری کی…"
+    },
+    {
+      "title": "Fed’s Williams says rate hikes possible if inflation persists",
+      "desc": "Oil falls over 4% as Trump calls off Iran strike, announces fresh talks\nInvesting.com -- Federal Reserve Bank of New York President John Williams said the central bank will raise interest rates if needed to bring inflation back to its 2% target, according to …",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/8b32253479d35585",
+      "time": "2026-08-03T10:41:57",
+      "country": "Iran",
+      "title_ur": "فیڈ کے ولیمز کا کہنا ہے کہ اگر افراط زر برقرار رہتا ہے تو شرح میں اضافہ ممکن ہے۔",
+      "desc_ur": "تیل کی قیمت 4 فیصد سے زیادہ گر گئی کیونکہ ٹرمپ نے ایران پر حملہ منسوخ کر دیا، تازہ مذاکرات کا اعلان کیا۔\nInvesting.com -- فیڈرل ریزرو بینک آف نیویارک کے صدر جان ولیمز نے کہا کہ اگر ضرورت پڑی تو مرکزی بینک سود کی شرح میں اضافہ کرے گا تاکہ افراط زر کو اس کے 2 فیصد ہدف پر واپس لایا جا سکے، بقول…"
+    },
+    {
+      "title": "Factbox-Which midterm candidates is the crypto industry backing?",
+      "desc": "Oil falls over 4% as Trump calls off Iran strike, announces fresh talks\nBy Hannah Lang\nAugust 3 (Reuters) - The crypto industry has poured close to $200 million into the November midterm elections, underscoring the sector’s muscle in Congress, where it is pus…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/471998aa06057eca",
+      "time": "2026-08-03T10:41:56",
+      "country": "Iran",
+      "title_ur": "فیکٹ باکس- کون سے وسط مدتی امیدواروں کو کرپٹو انڈسٹری کی حمایت حاصل ہے؟",
+      "desc_ur": "تیل کی قیمت 4 فیصد سے زیادہ گر گئی کیونکہ ٹرمپ نے ایران پر حملہ منسوخ کر دیا، تازہ مذاکرات کا اعلان کیا۔\nہننا لینگ کے ذریعہ\nاگست 3 (رائٹرز) – کرپٹو انڈسٹری نے نومبر کے وسط مدتی انتخابات میں تقریباً 200 ملین ڈالر ڈالے ہیں، جس سے کانگریس میں اس شعبے کے پٹھوں کو نمایاں کیا گیا ہے، جہاں یہ پیپ ہے…"
+    },
+    {
+      "title": "UK manufacturing growth picks up as Trump tariff chaos eases",
+      "desc": "Factories in upbeat mood despite fears over economic impact of US war on Iran, poll finds\nBusiness live – latest updates\nUK manufacturers ramped up production last month for the fourth consecutive month and at the fastest pace in almost two years, according t…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/47bc731fb40443b7",
+      "time": "2026-08-03T10:41:55",
+      "country": "Iran",
+      "title_ur": "ٹرمپ کے ٹیرف افراتفری میں نرمی کے ساتھ ہی یوکے مینوفیکچرنگ کی ترقی میں اضافہ ہوا۔",
+      "desc_ur": "ایران پر امریکی جنگ کے معاشی اثرات کے خدشے کے باوجود فیکٹریاں خوش مزاج ہیں۔\nبزنس لائیو - تازہ ترین اپ ڈیٹس\nبرطانیہ کے مینوفیکچررز نے پچھلے مہینے مسلسل چوتھے مہینے پیداوار میں اضافہ کیا اور تقریباً دو سالوں میں سب سے تیز رفتاری سے، ٹی کے مطابق…"
+    },
+    {
+      "title": "BofA expects Mexico central bank to hold rates at 6.50% in August",
+      "desc": "Oil falls over 4% as Trump calls off Iran strike, announces fresh talks\nInvesting.com - Bank of America forecasts Mexico’s central bank will keep its monetary policy rate unchanged at 6.50% when it meets on August 6. The market is pricing in no change for the…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/e9a255e63bcdbae1",
+      "time": "2026-08-03T10:41:46",
+      "country": "Iran",
+      "title_ur": "BofA کو توقع ہے کہ میکسیکو کا مرکزی بینک اگست میں 6.50 فیصد پر شرحیں برقرار رکھے گا۔",
+      "desc_ur": "تیل کی قیمت 4 فیصد سے زیادہ گر گئی کیونکہ ٹرمپ نے ایران پر حملہ منسوخ کر دیا، تازہ مذاکرات کا اعلان کیا۔\nInvesting.com - بینک آف امریکہ نے پیشن گوئی کی ہے کہ میکسیکو کا مرکزی بینک اپنی مانیٹری پالیسی کی شرح کو 6.50% پر برقرار رکھے گا جب یہ 6 اگست کو ملاقات کرے گا۔ مارکیٹ قیمتوں میں کوئی تبدیلی نہیں کر رہی ہے…"
+    },
+    {
+      "title": "Fed's Williams expects inflation to ease, says Fed will act if it doesn't",
+      "desc": "Williams ⁠reiterated the current stance of interest rate policy is “well positioned” to bring inflation back to target",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/world/iran-says-no-current-talks-with-us-in-talks-with-oman/article71300238.ece",
-      "time": "2026-08-03T07:55:55",
-      "country": "Iran",
-      "title_ur": "ایران کا کہنا ہے کہ امریکہ کے ساتھ موجودہ مذاکرات نہیں عمان کے ساتھ بات چیت میں",
-      "desc_ur": "ایران نے عمان کے ساتھ آبنائے ہرمز کے ذریعے عارضی محفوظ راستے پر بات کرتے ہوئے امریکا کے ساتھ کوئی بات چیت نہ کرنے کی تصدیق کی۔"
-    },
-    {
-      "title": "Yen climbs for third straight session with traders on alert for intervention",
-      "desc": "By Stefano Rebaudo and Rae Wee Aug 3 (Reuters) - The yen rose for a third straight session on Monday, keeping traders on alert for further intervention after...",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/markets/currencies/articles/yen-leaps-intervention-leaving-dollar-010808551.html",
-      "time": "2026-08-03T07:50:02",
-      "country": "Saudi Arabia",
-      "title_ur": "مداخلت کے لیے الرٹ پر تاجروں کے ساتھ ین مسلسل تیسرے سیشن کے لیے چڑھ گیا۔",
-      "desc_ur": "Stefano Rebaudo اور Rae Wee اگست 3 (رائٹرز) - پیر کو ین کی قیمت میں مسلسل تیسرے سیشن کے لیے اضافہ ہوا، جس نے تاجروں کو مزید مداخلت کے لیے چوکنا رکھا۔"
-    },
-    {
-      "title": "Middle East holidays are back - and with UAE prices down 25%, there's never been a cheaper time to go. But which destinations are chic... and which scream 'new money'?",
-      "desc": "Dubai is back but where does the glitzy Emirati city - and other Middle East destinations - sit on the barometer of holiday taste?",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/travel/article-15598131/middle-east-holiday-cheaper-dubai-saudi-arabia-oman-jordan-tacky.html",
-      "time": "2026-08-03T07:46:13",
+      "url": "https://www.thehindubusinessline.com/money-and-banking/feds-williams-expects-inflation-to-ease-says-fed-will-act-if-it-doesnt/article71300637.ece",
+      "time": "2026-08-03T10:40:38",
       "country": "International",
-      "title_ur": "مشرق وسطیٰ کی تعطیلات واپس آگئی ہیں - اور متحدہ عرب امارات کی قیمتوں میں 25 فیصد کمی کے ساتھ، جانے کا اتنا سستا وقت کبھی نہیں رہا۔ لیکن کون سی منزلیں وضع دار ہیں... اور کون سی چیخ 'نیا پیسہ'؟",
-      "desc_ur": "دبئی واپس آ گیا ہے لیکن چمکدار اماراتی شہر - اور مشرق وسطی کے دیگر مقامات - چھٹیوں کے ذائقے کے بیرومیٹر پر کہاں بیٹھتے ہیں؟"
+      "title_ur": "فیڈ کے ولیمز کو توقع ہے کہ افراط زر کم ہوجائے گا، کہتے ہیں کہ اگر ایسا نہیں ہوتا ہے تو فیڈ کارروائی کرے گا۔",
+      "desc_ur": "ولیمز نے اس بات کا اعادہ کیا کہ شرح سود کی پالیسی کا موجودہ مؤقف افراط زر کو ہدف پر واپس لانے کے لیے \"اچھی پوزیشن\" میں ہے"
     },
     {
-      "title": "Iran executes two men convicted of spying for Israel",
-      "desc": "The number of executions in Iran has risen since the start of the war, which broke out on February 28 with massive US-Israeli strikes that killed Iran's supreme leader.\nThe post Iran executes two men convicted of spying for Israel appeared first on Vanguard N…",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/08/iran-executes-two-men-convicted-of-spying-for-israel/",
-      "time": "2026-08-03T07:45:22",
-      "country": "Iran",
-      "title_ur": "ایران نے اسرائیل کے لیے جاسوسی کے الزام میں دو افراد کو پھانسی دے دی۔",
-      "desc_ur": "جنگ کے آغاز کے بعد سے ایران میں پھانسیوں کی تعداد میں اضافہ ہوا ہے، جو 28 فروری کو بڑے پیمانے پر امریکی-اسرائیلی حملوں کے ساتھ شروع ہوئی تھی جس میں ایران کے سپریم لیڈر مارے گئے تھے۔\nThe post ایران نے اسرائیل کے لیے جاسوسی کے الزام میں دو افراد کو پھانسی دے دی appeared first on Vanguard N…"
+      "title": "Jewish Democratic Council of America Backs Candidates Accusing Israel of Genocide",
+      "desc": "In 2025, Rep. Maxine Dexter gave a speech comparing Israel’s campaign against Hamas terrorists to the Holocaust, falsely calling it “ethnic cleansing” and “genocide”. “After the Holocaust, the international community made a commitment that such evil can never…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4390390/posts",
+      "time": "2026-08-03T10:38:42",
+      "country": "Israel",
+      "title_ur": "امریکہ کی یہودی ڈیموکریٹک کونسل نے اسرائیل پر نسل کشی کا الزام لگانے والے امیدواروں کی حمایت کی۔",
+      "desc_ur": "2025 میں، Rep. Maxine Dexter نے حماس کے دہشت گردوں کے خلاف اسرائیل کی مہم کا ہولوکاسٹ سے موازنہ کرتے ہوئے ایک تقریر کی اور اسے \"نسلی صفائی\" اور \"نسل کشی\" قرار دیا۔ \"ہولوکاسٹ کے بعد، بین الاقوامی برادری نے یہ عہد کیا کہ ایسی برائی کبھی نہیں ہو سکتی…"
     },
     {
-      "title": "Iran: Currently no talks with US",
-      "desc": "Iranian Foreign Ministry spokesperson Esmail Baghaei said on Monday that Tehran is not currently holding any talks with the United States.Speaking at a daily press briefing, Baghaei noted that Iran is...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/3d2b7ea5b7ef95a3",
-      "time": "2026-08-03T07:40:45",
-      "country": "Iran",
-      "title_ur": "ایران: فی الحال امریکہ کے ساتھ کوئی بات چیت نہیں ہوئی۔",
-      "desc_ur": "ایرانی وزارت خارجہ کے ترجمان اسماعیل باغائی نے پیر کے روز کہا کہ تہران فی الحال امریکہ کے ساتھ کوئی بات چیت نہیں کر رہا ہے۔ روزانہ کی پریس بریفنگ میں بات کرتے ہوئے بغائی نے نوٹ کیا کہ ایران..."
-    },
-    {
-      "title": "Iran confirms no current talks with US amid heightened tensions",
-      "desc": "The lack of talks may hinder diplomatic progress, increasing the risk of military escalation and impacting global market confidence.\nThe post Iran confirms no current talks with US amid heightened tensions appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-confirms-no-current-talks-with-us-amid-heightened-tensions/",
-      "time": "2026-08-03T07:36:57",
-      "country": "Iran",
-      "title_ur": "ایران نے سخت کشیدگی کے درمیان امریکہ کے ساتھ موجودہ بات چیت کی تصدیق نہیں کی۔",
-      "desc_ur": "بات چیت کا فقدان سفارتی پیش رفت میں رکاوٹ بن سکتا ہے، فوجی کشیدگی کا خطرہ بڑھ سکتا ہے اور عالمی منڈی کے اعتماد کو متاثر کر سکتا ہے۔\nThe post ایران نے کشیدگی میں اضافے کے درمیان امریکا کے ساتھ موجودہ مذاکرات نہ ہونے کی تصدیق کردی appeared first on Crypto Briefing."
-    },
-    {
-      "title": "Oil tumbles as Trump cancels attack on Iran to reach nuclear deal - Reuters",
-      "desc": "Oil tumbles as Trump cancels attack on Iran to reach nuclear dealReuters CNBC Daily Open: Markets exhale as Trump steps back, OPEC+ steps upCNBC Oil Prices Plummet as Investors Digest Pause in Fighting in Iran WarThe New York Times Oil prices drop after Trump…",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184826698",
-      "time": "2026-08-03T07:32:51",
-      "country": "Iran",
-      "title_ur": "تیل گر گیا کیونکہ ٹرمپ نے جوہری معاہدے تک پہنچنے کے لیے ایران پر حملہ منسوخ کر دیا - رائٹرز",
-      "desc_ur": "تیل گر گیا کیونکہ ٹرمپ نے جوہری معاہدے تک پہنچنے کے لئے ایران پر حملہ منسوخ کردیا رائٹرز CNBC ڈیلی اوپن: ٹرمپ کے پیچھے ہٹتے ہی مارکیٹوں نے سانس چھوڑی، اوپیک + نے سی این بی سی تیل کی قیمتوں میں اضافہ کیا کیونکہ سرمایہ کاروں نے ایران جنگ میں لڑائی میں روک دیا نیویارک ٹائمز تیل کی قیمتوں میں کمی کے بعد…"
-    },
-    {
-      "title": "Jacob Rees-Mogg and the appeasement of Islamism",
-      "desc": "Rees-Mogg is right to argue that we should not have the kind of crippling fear that stops us from acting, but neither should we be blind to what is happening in our culture and society.",
-      "source": "Christiantoday.com",
-      "url": "https://www.christiantoday.com/news/jacob-rees-mogg-and-the-appeasement-of-islamism",
-      "time": "2026-08-03T07:31:00",
+      "title": "Much 'to do' about yen intervention",
+      "desc": "August 3 : What matters in U.S. and global markets todayBy Mike Dolan, Editor-at-Large, Finance and MarketsJapan's yen strengthened further on Monday as the U.S. and Japanese governments confirmed their first joint intervention since 2011 to prop up the ailin…",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/much-do-about-yen-intervention-6295251",
+      "time": "2026-08-03T10:35:29",
       "country": "US",
-      "title_ur": "جیکب ریس موگ اور اسلام ازم کی تسکین",
-      "desc_ur": "Rees-Mogg یہ دلیل دینے میں حق بجانب ہیں کہ ہمیں اس قسم کا اپاہج خوف نہیں ہونا چاہیے جو ہمیں کام کرنے سے روکتا ہے، لیکن نہ ہی ہمیں اس سے اندھا ہونا چاہیے جو ہماری ثقافت اور معاشرے میں ہو رہا ہے۔"
+      "title_ur": "ین مداخلت کے بارے میں بہت کچھ کرنا ہے۔",
+      "desc_ur": "3 اگست: امریکی اور عالمی منڈیوں میں آج کیا اہمیت رکھتا ہے مائیک ڈولن، ایڈیٹر-ایٹ-لارج، فنانس اور مارکیٹس جاپان کی ین پیر کو مزید مضبوط ہوئی کیونکہ امریکی اور جاپانی حکومتوں نے 2011 کے بعد سے اپنی پہلی مشترکہ مداخلت کی تصدیق کی ہے تاکہ آئیلین کو آگے بڑھایا جا سکے۔"
     },
     {
-      "title": "Possible Is Not Plausible: How Nightmare Scenarios Hijack Unconventional Weapons Policy",
-      "desc": "Current conversations surrounding unconventional weapons — chemical, biological, radiological, and nuclear — have become so fantastical as to be unserious. As the Chinese military fundamentally rethinks biological warfare and Russia continues to use chloropic…",
-      "source": "War on the Rocks",
-      "url": "https://warontherocks.com/possible-is-not-plausible-how-nightmare-scenarios-hijack-unconventional-weapons-policy/",
-      "time": "2026-08-03T07:30:16",
+      "title": "Slovakia’s Fico mocks EU’s Russian fur dependency",
+      "desc": "Slovak PM Robert Fico has accused the European Commission of hypocrisy after it quietly exempted Russian sable pelts from its latest sanctions package",
+      "source": "RT",
+      "url": "https://www.rt.com/news/643790-fico-russian-fur-eu-hypocricy/",
+      "time": "2026-08-03T10:35:18",
       "country": "Russia",
-      "title_ur": "ممکن نہیں قابل فہم ہے: ڈراؤنے خواب کے منظرنامے کیسے ہائی جیک کرتے ہیں غیر روایتی ہتھیاروں کی پالیسی",
-      "desc_ur": "غیر روایتی ہتھیاروں - کیمیائی، حیاتیاتی، ریڈیولاجیکل، اور جوہری - کے ارد گرد موجودہ بات چیت اس قدر شاندار ہو گئی ہے کہ غیر سنجیدہ ہے۔ جیسا کہ چینی فوج بنیادی طور پر حیاتیاتی جنگ پر نظر ثانی کر رہی ہے اور روس کلوروپک کا استعمال جاری رکھے ہوئے ہے…"
+      "title_ur": "سلوواکیہ کی فیکو نے یورپی یونین کی روسی کھال پر انحصار کا مذاق اڑایا",
+      "desc_ur": "سلوواک کے وزیر اعظم رابرٹ فیکو نے یورپی کمیشن پر منافقت کا الزام لگایا ہے جب اس نے خاموشی سے روسی سیبل پیلٹس کو اپنے تازہ ترین پابندیوں کے پیکج سے مستثنیٰ قرار دیا ہے۔"
     },
     {
-      "title": "Study: 80% of soldiers improve with experimental PTSD therapy",
-      "desc": "Early results from a clinical trial at HaEmek Medical Center suggest MDMA-assisted psychotherapy could help combat veterans recover from PTSD, with most participants no longer meeting the criteria for the disorder.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/431152",
-      "time": "2026-08-03T07:27:06",
-      "country": "International",
-      "title_ur": "مطالعہ: 80% فوجی تجرباتی PTSD تھراپی سے بہتر ہوتے ہیں۔",
-      "desc_ur": "HaEmek میڈیکل سینٹر میں کلینکل ٹرائل کے ابتدائی نتائج بتاتے ہیں کہ MDMA کی مدد سے سائیکو تھراپی جنگجو سابق فوجیوں کو PTSD سے صحت یاب ہونے میں مدد دے سکتی ہے، زیادہ تر شرکاء اب اس عارضے کے معیار پر پورا نہیں اترتے۔"
-    },
-    {
-      "title": "Turkish Inflation Eases But Energy Costs Test Cenbank Outlook",
-      "desc": "Turkey’s annual inflation eased for a second straight month, though persistently high energy prices driven by the Iran war still loom large over the central bank’s year-end inflation forecast.",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/turkish-inflation-eases-but-energy-costs-test-cenbank-outlook",
-      "time": "2026-08-03T07:27:02",
+      "title": "Trump says he canceled Iran strikes at request of Gulf allies, is pursuing talks - The Washington Post",
+      "desc": "Trump says he canceled Iran strikes at request of Gulf allies, is pursuing talksThe Washington Post Iran war live: Iranian foreign ministry says no current talks with USAl Jazeera Iran live updates: Trump says deal imminent, Iran-Oman Strait of Hormuz talks o…",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184828122",
+      "time": "2026-08-03T10:32:36",
       "country": "Iran",
-      "title_ur": "ترکی کی افراط زر میں آسانی ہے لیکن توانائی کی لاگت کا امتحان Cenbank Outlook",
-      "desc_ur": "ترکی کی سالانہ افراط زر میں مسلسل دوسرے مہینے کے لیے نرمی ہوئی، حالانکہ ایران کی جنگ کی وجہ سے توانائی کی مسلسل بلند قیمتیں مرکزی بینک کی سال کے آخر میں مہنگائی کی پیشن گوئی سے کہیں زیادہ ہیں۔"
+      "title_ur": "ٹرمپ کا کہنا ہے کہ انہوں نے خلیجی اتحادیوں کی درخواست پر ایران کے حملے منسوخ کر دیے، بات چیت جاری ہے – واشنگٹن پوسٹ",
+      "desc_ur": "ٹرمپ کا کہنا ہے کہ انہوں نے خلیجی اتحادیوں کی درخواست پر ایرانی حملے منسوخ کیے، مذاکرات جاری ہیں واشنگٹن پوسٹ ایران جنگ لائیو: ایرانی وزارت خارجہ کا کہنا ہے کہ امریکا کے ساتھ کوئی موجودہ بات چیت نہیں ہے الجزیرہ ایران لائیو اپ ڈیٹس: ٹرمپ کا کہنا ہے کہ معاہدہ قریب ہے، ایران-اومان آبنائے ہرمز مذاکرات پر…"
     },
     {
-      "title": "IS32FL3761: Configurable 33×12 Matrix LED Driver for High Pixel Count Automotive Intelligent Signaling Displays",
-      "desc": "Up to 16 devices on one I2C bus for over 6,300 individually addressable LEDs Up to 16 devices on one I2C bus for over 6,300 individually addressable LEDs",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/08/03/3337245/0/en/IS32FL3761-Configurable-33-12-Matrix-LED-Driver-for-High-Pixel-Count-Automotive-Intelligent-Signaling-Displays.html",
-      "time": "2026-08-03T07:27:00",
-      "country": "US",
-      "title_ur": "IS32FL3761: ہائی پکسل کاؤنٹ آٹوموٹیو انٹیلجنٹ سگنلنگ ڈسپلے کے لیے قابل ترتیب 33×12 میٹرکس ایل ای ڈی ڈرائیور",
-      "desc_ur": "ایک I2C بس پر 16 ڈیوائسز تک 6,300 سے زیادہ انفرادی طور پر ایڈریس ایبل LEDs کے لیے ایک I2C بس پر 6,300 سے زیادہ انفرادی طور پر ایڈریس ایبل LEDs کے لیے 16 ڈیوائسز تک"
-    },
-    {
-      "title": "Body of mountaineer Nirmal Purja recovered from devastating avalanche as update issued",
-      "desc": "The body of Nirmal Purja is among those recovered from an avalanche that swept away 10 people",
-      "source": "LADbible",
-      "url": "https://www.ladbible.com/news/world-news/nirmal-purja-body-recovered-avalanche-559763-20260803",
-      "time": "2026-08-03T07:26:17",
-      "country": "International",
-      "title_ur": "کوہ پیما نرمل پرجا کی لاش تباہ کن برفانی تودے سے نکالی گئی جیسا کہ تازہ کاری جاری کی گئی ہے۔",
-      "desc_ur": "نرمل پرجا کی لاش ان لوگوں میں شامل ہے جو برفانی تودے سے 10 لوگوں کو بہا لے گئے تھے۔"
-    },
-    {
-      "title": "History of Japan’s intervention in currency markets",
-      "desc": "Oil slumps over 6% as Trump calls off Iran strike, announces fresh talks\nSINGAPORE, Aug 3 (Reuters) - The yen leapt on Monday, keeping traders on alert for further intervention from authorities to shore up Japan’s historically weak currency, days after Tokyo …",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/13bc92bb3fa607ac",
-      "time": "2026-08-03T07:25:47",
+      "title": "Iran Denies It’s in Talks with US — Hours After Trump Teased ‘Imminent’ Deal",
+      "desc": "The statement came hours after Trump said negotiations would start Monday \"afternoon\" and focus on reopening the Strait of Hormuz.\nThe post Iran Denies It’s in Talks with US — Hours After Trump Teased ‘Imminent’ Deal first appeared on Mediaite.",
+      "source": "Mediaite",
+      "url": "https://www.mediaite.com/media/news/iran-denies-its-in-talks-with-us-hours-after-trump-teased-imminent-deal/",
+      "time": "2026-08-03T10:31:59",
       "country": "Iran",
-      "title_ur": "کرنسی منڈیوں میں جاپان کی مداخلت کی تاریخ",
-      "desc_ur": "تیل کی قیمت 6 فیصد سے زیادہ گر گئی کیونکہ ٹرمپ نے ایران پر حملہ منسوخ کر دیا، تازہ مذاکرات کا اعلان کیا۔\nسنگاپور، 3 اگست (رائٹرز) – ٹوکیو کے کچھ دن بعد جاپان کی تاریخی طور پر کمزور کرنسی کو آگے بڑھانے کے لیے حکام کی جانب سے مزید مداخلت کے لیے تاجروں کو چوکس رکھتے ہوئے، پیر کے روز ین نے چھلانگ لگائی…"
+      "title_ur": "ایران نے امریکہ کے ساتھ بات چیت کی تردید کی ہے - ٹرمپ کے 'آسان' ڈیل کو چھیڑنے کے چند گھنٹے بعد",
+      "desc_ur": "یہ بیان ٹرمپ کے اس بیان کے چند گھنٹے بعد سامنے آیا ہے جس میں کہا گیا تھا کہ مذاکرات پیر کو \"دوپہر\" شروع ہوں گے اور آبنائے ہرمز کو دوبارہ کھولنے پر توجہ مرکوز کریں گے۔\nThe post ایران نے امریکا کے ساتھ بات چیت کی تردید کر دی – ٹرمپ کے ’آسان‘ ڈیل کو چھیڑنے کے چند گھنٹے بعد appeared first on Mediaite."
     },
     {
-      "title": "World Bank maintains 2026 Philippine growth forecast at 3.7%",
-      "desc": "Oil slumps over 6% as Trump calls off Iran strike, announces fresh talks\nMANILA, Aug 3 (Reuters) - The World Bank on Monday maintained its 2026 growth forecast for the Philippines at 3.7% and said the economy’s recovery next year was likely to be slower than …",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/5605181ec9341f75",
-      "time": "2026-08-03T07:25:45",
+      "title": "Oil prices drop after Trump cancels attack on Iran to seek nuclear deal",
+      "desc": "LONDON, Aug 3 : Oil prices fell more than $4 a barrel on Monday after U.S. President Donald Trump held off a fresh attack on Iran as he sought a quick deal that would halt Tehran's nuclear ambitions and reopen the Strait of Hormuz.Brent crude futures fell $4.…",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/oil-prices-drop-after-trump-cancels-attack-iran-seek-nuclear-deal-6294191",
+      "time": "2026-08-03T10:30:54",
       "country": "Iran",
-      "title_ur": "ورلڈ بینک نے 2026 میں فلپائن کی شرح نمو 3.7 فیصد پر برقرار رکھی",
-      "desc_ur": "تیل کی قیمت 6 فیصد سے زیادہ گر گئی کیونکہ ٹرمپ نے ایران پر حملہ منسوخ کر دیا، تازہ مذاکرات کا اعلان کیا۔\nمنیلا، 3 اگست (رائٹرز) – عالمی بینک نے پیر کے روز فلپائن کے لیے 2026 کی شرح نمو کی پیش گوئی کو 3.7 فیصد پر برقرار رکھا اور کہا کہ اگلے سال معیشت کی بحالی کا امکان اس سے کم ہے…"
+      "title_ur": "ٹرمپ کے جوہری معاہدے کے لیے ایران پر حملہ منسوخ کرنے کے بعد تیل کی قیمتوں میں کمی",
+      "desc_ur": "لندن، 3 اگست: امریکی صدر ڈونلڈ ٹرمپ کی جانب سے ایران پر تازہ حملہ روکنے کے بعد پیر کو تیل کی قیمتیں 4 ڈالر فی بیرل سے زیادہ گر گئیں کیونکہ انہوں نے فوری معاہدہ کرنے کی کوشش کی تھی جس سے تہران کے جوہری عزائم کو روکا جائے گا اور آبنائے ہرمز کو دوبارہ کھول دیا جائے گا۔ برینٹ کروڈ فیوچر 4 ڈالر گر گیا۔"
     }
   ],
   "pakistan": [
     {
-      "title": "Trump calls off planned attack on Iran, expects deals on Strait of Hormuz and nuclear program",
-      "desc": "Trump's repeated military cancellations signal a shift towards diplomacy, impacting global oil markets and investor risk perceptions.\nThe post Trump calls off planned attack on Iran, expects deals on Strait of Hormuz and nuclear program appeared first on Cryp…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/trump-cancels-iran-attack-market-implications/",
-      "time": "2026-08-03T07:34:15",
+      "title": "JeM operative's terror trail: A girlfriend for honey-trap, a gamer for surveillance",
+      "desc": "In a significant development, the West Bengal STF is delving into a terror recruitment ring that is tied to Pakistan and is targeting youth via online channels. Allegedly, Hamim Mondal exploited social media and gaming sites to scout and assign roles to recru…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/kolkata/jem-operative-hamim-mondals-terror-trail-a-girlfriend-for-honey-trap-a-gamer-for-surveillance/articleshow/132828131.cms",
+      "time": "2026-08-03T10:29:09",
       "country": "Pakistan",
-      "title_ur": "ٹرمپ نے ایران پر حملے کا منصوبہ بند کر دیا، آبنائے ہرمز اور جوہری پروگرام پر سودے کی توقع ہے۔",
-      "desc_ur": "ٹرمپ کی بار بار فوجی منسوخیاں سفارت کاری کی طرف ایک تبدیلی کا اشارہ دیتی ہیں، جس سے تیل کی عالمی منڈیوں اور سرمایہ کاروں کے خطرے کے تاثرات متاثر ہوتے ہیں۔\nThe post ٹرمپ نے ایران پر منصوبہ بند حملہ واپس لے لیا، آبنائے ہرمز اور جوہری پروگرام پر معاہدے کی توقع appeared first on Cryp…"
+      "title_ur": "جی ای ایم کے کارندوں کا دہشت گردی کا پتہ: ہنی ٹریپ کے لیے ایک گرل فرینڈ، نگرانی کے لیے ایک گیمر",
+      "desc_ur": "ایک اہم پیشرفت میں، مغربی بنگال STF دہشت گردی کی بھرتی کے ایک حلقے کی تلاش میں ہے جو پاکستان سے منسلک ہے اور آن لائن چینلز کے ذریعے نوجوانوں کو نشانہ بنا رہا ہے۔ مبینہ طور پر، حمیم مونڈل نے سوشل میڈیا اور گیمنگ سائٹس کا اسکاؤٹ کرنے اور بھرتی کے لیے کردار تفویض کرنے کے لیے استعمال کیا…"
     },
     {
-      "title": "Controversy Grows Over Boy George's Pro-Israel Song",
-      "desc": "Boy George says he's done with the executive running his record label after a clash over his latest song, a pro-Israel track titled \"We Will Dance Again.\" The singer wrote on X that label manager Tony Pontius wanted \"nothing to do\" with the song, prompting Ge…",
-      "source": "Newser",
-      "url": "https://www.newser.com/story/393950/controversy-grows-over-boy-georges-pro-israel-song.html",
-      "time": "2026-08-03T07:30:00",
-      "country": "Pakistan",
-      "title_ur": "بوائے جارج کے اسرائیل نواز گانے پر تنازعہ بڑھ گیا۔",
-      "desc_ur": "بوائے جارج کا کہنا ہے کہ اس نے اپنے تازہ ترین گانے، \"وی ول ڈانس اگین\" کے عنوان سے اسرائیل نواز ٹریک پر جھگڑے کے بعد اپنے ریکارڈ لیبل کو چلانے والے ایگزیکٹو کے ساتھ کیا ہے۔ گلوکار نے X پر لکھا کہ لیبل مینیجر ٹونی پونٹیئس گانے کے ساتھ \"کچھ نہیں کرنا\" چاہتے تھے، جس سے جی…"
-    },
-    {
-      "title": "Indonesia’s growth likely slowed in Q2 as consumption, exports weakened",
-      "desc": "Oil slumps over 6% as Trump calls off Iran strike, announces fresh talks\nBy Rahul Trivedi\nBENGALURU, Aug 3 (Reuters) - Indonesia’s economy likely lost some momentum in the second quarter as consumer demand slowed after the festive season and net exports provi…",
+      "title": "Exclusive-Fed’s Williams expects inflation to ease, says Fed will act if it doesn’t",
+      "desc": "Oil falls over 4% as Trump calls off Iran strike, announces fresh talks\nBy Michael S. Derby\nNEW YORK, Aug 3 (Reuters) - Federal Reserve Bank of New York President John Williams said he remained optimistic that inflation pressures are on track to ease graduall…",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/c6905d57d490920a",
-      "time": "2026-08-03T07:25:19",
+      "url": "https://biztoc.com/x/1db2ab42870be5a9",
+      "time": "2026-08-03T10:11:37",
       "country": "Pakistan",
-      "title_ur": "کھپت، برآمدات کمزور ہونے کی وجہ سے Q2 میں انڈونیشیا کی ترقی میں کمی کا امکان ہے۔",
-      "desc_ur": "تیل کی قیمت 6 فیصد سے زیادہ گر گئی کیونکہ ٹرمپ نے ایران پر حملہ منسوخ کر دیا، تازہ مذاکرات کا اعلان کیا۔\nراہول ترویدی کے ذریعہ\nبنگلورو، 3 اگست (رائٹرز) – انڈونیشیا کی معیشت دوسری سہ ماہی میں کچھ رفتار کھونے کا امکان ہے کیونکہ تہواروں کے موسم کے بعد صارفین کی طلب میں کمی واقع ہوئی ہے اور خالص برآمدات…"
-    },
-    {
-      "title": "Wall Street Journal Delivers Damning Take On Donald Trump’s Latest Iran ‘DEAL’",
-      "desc": "Like this article? Keep independent journalism alive. Support HuffPost.\nThe Wall Street Journal's conservative editorial board greeted Donald Trump's latest pivot on the Iran war with skepticism, questioning the president's abrupt shift from threatening annih…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/b20ee78698518257",
-      "time": "2026-08-03T06:55:24",
-      "country": "Pakistan",
-      "title_ur": "وال سٹریٹ جرنل نے ڈونلڈ ٹرمپ کی تازہ ترین ایران ڈیل پر تہمت لگا دی",
-      "desc_ur": "یہ مضمون پسند ہے؟ آزاد صحافت کو زندہ رکھیں۔ ہف پوسٹ کو سپورٹ کریں۔\nوال سٹریٹ جرنل کے قدامت پسند ادارتی بورڈ نے ایران جنگ کے بارے میں ڈونلڈ ٹرمپ کے تازہ ترین محور کو شکوک و شبہات کے ساتھ خوش آمدید کہا، صدر کی جانب سے تباہی کی دھمکی دینے سے اچانک تبدیلی پر سوال اٹھایا۔"
+      "title_ur": "خصوصی-فیڈ کے ولیمز کو افراط زر میں آسانی کی توقع ہے، کہتے ہیں کہ اگر ایسا نہیں ہوتا ہے تو فیڈ کام کرے گا",
+      "desc_ur": "تیل کی قیمت 4 فیصد سے زیادہ گر گئی کیونکہ ٹرمپ نے ایران پر حملہ منسوخ کر دیا، تازہ مذاکرات کا اعلان کیا۔\nبذریعہ مائیکل ایس ڈربی\nنیویارک، 3 اگست (رائٹرز) – فیڈرل ریزرو بینک آف نیویارک کے صدر جان ولیمز نے کہا کہ وہ پر امید ہیں کہ افراط زر کے دباؤ کو بتدریج کم کرنے کی راہ پر گامزن ہیں…"
     }
   ],
   "business": {
