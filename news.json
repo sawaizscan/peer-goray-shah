@@ -1,189 +1,158 @@
 {
-  "generated": "2026-08-04T20:49:15Z",
+  "generated": "2026-08-04T22:06:43Z",
   "world": [
     {
-      "title": "How long can Iran weaponise Hormuz?",
-      "desc": "Longer than the world hopes, according to our Hormuz dependency dashboard",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/a9bedd59f1177cf0",
-      "time": "2026-08-03T20:45:41",
-      "country": "Iran",
-      "title_ur": "ایران کب تک ہرمز کو ہتھیار بنا سکتا ہے؟",
-      "desc_ur": "ہمارے ہرمز انحصار ڈیش بورڈ کے مطابق، دنیا کی امیدوں سے زیادہ طویل"
-    },
-    {
-      "title": "This Is How Some Of You Are Planning For A Gas Shortage",
-      "desc": "Denial is just a river in Egypt.",
-      "source": "Jalopnik",
-      "url": "https://www.jalopnik.com/2228947/readers-plan-for-gas-shortages/",
-      "time": "2026-08-03T20:45:00",
-      "country": "US",
-      "title_ur": "اس طرح آپ میں سے کچھ گیس کی کمی کے لیے منصوبہ بندی کر رہے ہیں۔",
-      "desc_ur": "انکار مصر میں صرف ایک دریا ہے۔"
-    },
-    {
-      "title": "Qatar, Egypt, and Turkey scold Israel for strikes on Gaza terrorists",
-      "desc": "Mediating nations accuse Israel of violating the ceasefire following IDF strikes targeting Hamas terrorists, hours after the Board of Peace clarified key terms.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/431187",
-      "time": "2026-08-03T20:43:12",
-      "country": "Israel",
-      "title_ur": "قطر، مصر اور ترکی نے غزہ کے دہشت گردوں پر حملوں کے لیے اسرائیل کو ڈانٹا۔",
-      "desc_ur": "ثالثی کرنے والے ممالک نے اسرائیل پر حماس کے دہشت گردوں کو نشانہ بنانے والے IDF حملوں کے بعد جنگ بندی کی خلاف ورزی کا الزام لگایا، بورڈ آف پیس کی جانب سے کلیدی شرائط کی وضاحت کے چند گھنٹے بعد۔"
-    },
-    {
-      "title": "Supreme Court won't halt $656M judgment against the PLO and Palestinian Authority",
-      "desc": "Supreme Court Justice Sonia Sotomayor refused Monday to halt a $656 million judgment against Palestinian authorities in a long-running lawsuit filed by Ameri...",
-      "source": "Yahoo Entertainment",
-      "url": "https://www.yahoo.com/news/politics/articles/supreme-court-wont-halt-656m-204212876.html",
-      "time": "2026-08-03T20:42:12",
-      "country": "US",
-      "title_ur": "سپریم کورٹ PLO اور فلسطینی اتھارٹی کے خلاف 656 ملین ڈالر کے فیصلے کو نہیں روکے گی",
-      "desc_ur": "سپریم کورٹ کی جسٹس سونیا سوتومائر نے پیر کو فلسطینی حکام کے خلاف امریکیوں کی جانب سے دائر کیے گئے طویل عرصے سے چل رہے مقدمے میں 656 ملین ڈالر کے فیصلے کو روکنے سے انکار کر دیا۔"
-    },
-    {
-      "title": "Trump’s Team Is Selling Early Access to His Truth Social Posts. It’s Every Bit As Corrupt As It Sounds.",
-      "desc": "We couldn’t believe this was real when it was announced. Now it’s official.",
-      "source": "Slate Magazine",
-      "url": "https://slate.com/news-and-politics/2026/08/trump-truth-social-early-access-corruption.html",
-      "time": "2026-08-03T20:40:28",
-      "country": "US",
-      "title_ur": "ٹرمپ کی ٹیم ان کی سچائی کی سماجی پوسٹس تک ابتدائی رسائی فروخت کر رہی ہے۔ یہ اتنا ہی کرپٹ ہے جتنا یہ لگتا ہے۔",
-      "desc_ur": "جب اس کا اعلان کیا گیا تو ہم یقین نہیں کر سکتے تھے کہ یہ حقیقی ہے۔ اب یہ سرکاری ہے۔"
-    },
-    {
-      "title": "Beyond Michigan's Senate race: Four more primaries to watch Tuesday",
-      "desc": "As the El-Sayed-Stevens Senate primary draws the spotlight, Tuesday's races in Michigan and Missouri could find four more candidates who believe Israel's actions in Gaza were a genocide and call for an end to US aid to Israel",
-      "source": "Haaretz",
-      "url": "https://www.haaretz.com/us-news/2026-08-03/ty-article/.premium/beyond-michigans-senate-race-four-more-primaries-to-watch-tuesday/0000019f-c8fd-ddc4-adbf-deff0d070000",
-      "time": "2026-08-03T20:37:38",
-      "country": "Israel",
-      "title_ur": "مشی گن کی سینیٹ کی دوڑ سے آگے: منگل کو دیکھنے کے لیے مزید چار پرائمریز",
-      "desc_ur": "جیسا کہ السید-اسٹیونز سینیٹ کے پرائمری نے توجہ مرکوز کی، مشی گن اور میسوری میں منگل کی دوڑ میں مزید چار امیدوار مل سکتے ہیں جو غزہ میں اسرائیل کے اقدامات کو نسل کشی سمجھتے ہیں اور اسرائیل کے لیے امریکی امداد کو بند کرنے کا مطالبہ کرتے ہیں۔"
-    },
-    {
-      "title": "Even if Hamas disarms, the challenge in Gaza will be accountability",
-      "desc": "History suggests that without legal and moral accountability, reconciliation and durable peace will remain elusive.",
-      "source": "The Conversation Africa",
-      "url": "https://theconversation.com/even-if-hamas-disarms-the-challenge-in-gaza-will-be-accountability-288821",
-      "time": "2026-08-03T20:35:51",
-      "country": "Israel",
-      "title_ur": "حماس اگر غیر مسلح بھی ہو جاتی ہے تو غزہ میں چیلنج احتساب ہو گا۔",
-      "desc_ur": "تاریخ بتاتی ہے کہ قانونی اور اخلاقی جوابدہی کے بغیر مفاہمت اور پائیدار امن نا ممکن رہے گا۔"
-    },
-    {
-      "title": "Defense minister refuses to answer vast majority of parliamentary questions on settler violence",
-      "desc": "Katz responded to only four parliamentary questions on IDF policy in Gaza and the West Bank and violence against Palestinians. Since taking office in November 2024, he has received 135 questions from Knesset members and answered 44 of them",
-      "source": "Haaretz",
-      "url": "https://www.haaretz.com/israel-news/israel-security/2026-08-03/ty-article/.premium/defense-minister-refuses-to-answer-most-parliamentary-queries-on-jewish-violence/0000019f-c839-d058-a39f-ec3dc4de0000",
-      "time": "2026-08-03T20:35:10",
-      "country": "Israel",
-      "title_ur": "وزیر دفاع نے آبادکاروں کے تشدد سے متعلق پارلیمانی سوالات کے اکثریتی جواب دینے سے انکار کر دیا۔",
-      "desc_ur": "کاٹز نے غزہ اور مغربی کنارے میں IDF پالیسی اور فلسطینیوں کے خلاف تشدد کے بارے میں صرف چار پارلیمانی سوالات کے جوابات دیے۔ نومبر 2024 میں عہدہ سنبھالنے کے بعد سے، انہوں نے کنیسٹ کے اراکین سے 135 سوالات حاصل کیے ہیں اور ان میں سے 44 کے جوابات دیے ہیں۔"
-    },
-    {
-      "title": "Advantage Does Not Equal Victory | Sinification: July 2026",
-      "desc": "US-China & Global Order | Europe | Chinese Economy & Going Out | Middle East | South China Sea | Neighbourhood Diplomacy | Regional Relations | AI & Tech | Society",
-      "source": "Sinocism.com",
-      "url": "https://sinocism.com/p/advantage-does-not-equal-victory",
-      "time": "2026-08-03T20:33:05",
-      "country": "China",
-      "title_ur": "فائدہ فتح کے برابر نہیں ہے | سینیفیکیشن: جولائی 2026",
-      "desc_ur": "امریکہ-چین اور عالمی آرڈر | یورپ | چینی معیشت اور باہر جانا | مشرق وسطی | بحیرہ جنوبی چین | ہمسایہ سفارت کاری | علاقائی تعلقات | AI & Tech | معاشرہ"
-    },
-    {
-      "title": "U.S. Stocks Rally, While Oil Slides on Middle East Diplomacy Hopes",
-      "desc": "U.S. stocks jumped and oil prices fell sharply as President Trump signaled a return to diplomacy with Iran.",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/11a72e5961b6b9bb",
-      "time": "2026-08-03T20:30:49",
-      "country": "Iran",
-      "title_ur": "امریکی اسٹاک کی ریلی، جب کہ تیل مشرق وسطیٰ کی سفارت کاری کی امیدوں پر گرتا ہے۔",
-      "desc_ur": "صدر ٹرمپ کی جانب سے ایران کے ساتھ سفارت کاری کی طرف واپسی کا اشارہ دیتے ہی امریکی اسٹاک میں اضافہ ہوا اور تیل کی قیمتیں تیزی سے گر گئیں۔"
-    },
-    {
-      "title": "Danaos Corporation Reports Second Quarter and Half Year Results for the Period Ended June 30, 2026",
-      "desc": "ATHENS, Greece, Aug. 3, 2026 /PRNewswire/ -- Danaos Corporation (\"Danaos\") (NYSE: DAC), one of the world's largest independent owners of container vessels, today reported unaudited results for the three and six month periods ended June 30, 2026. Financial Sum…",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/danaos-corporation-reports-second-quarter-and-half-year-results-for-the-period-ended-june-30-2026-302841542.html",
-      "time": "2026-08-03T20:30:00",
+      "title": "The Chatbot Felt Like AI's Debut — It Was Actually the Simplest Part",
+      "desc": "Insulin pumps and diagnostic scanners carried far more engineering weight. Here's what that means for CX strategy now.\nContinue reading...",
+      "source": "CMSWire",
+      "url": "https://www.cmswire.com/customer-experience/the-chatbot-felt-like-ais-debut-it-was-actually-the-simplest-part/",
+      "time": "2026-08-03T22:06:08",
       "country": "International",
-      "title_ur": "ڈاناؤس کارپوریشن نے 30 جون 2026 کو ختم ہونے والی مدت کے لیے دوسری سہ ماہی اور ششماہی کے نتائج کی اطلاع دی",
-      "desc_ur": "ایتھنز، یونان، 3 اگست، 2026/PRNewswire/ -- Danaos Corporation (\"Danaos\") (NYSE: DAC)، کنٹینر جہازوں کے دنیا کے سب سے بڑے خود مختار مالکان میں سے ایک، نے آج 30 جون 2026 کو ختم ہونے والی تین اور چھ ماہ کی مدت کے لیے غیر آڈیٹ شدہ نتائج کی اطلاع دی۔ مالیاتی…"
+      "title_ur": "چیٹ بوٹ کو AI کی پہلی فلم کی طرح محسوس ہوا - یہ دراصل سب سے آسان حصہ تھا۔",
+      "desc_ur": "انسولین پمپ اور تشخیصی اسکینرز انجینئرنگ کا زیادہ وزن رکھتے ہیں۔ CX حکمت عملی کے لیے اب اس کا کیا مطلب ہے۔\nپڑھنا جاری رکھیں..."
     },
     {
-      "title": "'Get this right': Top US Jewish leader's stark warning for Australia",
-      "desc": "The leader of one of the world's most high-profile Jewish organisations says Australia faces a crucial test on how it tackles the rise of antisemitism.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-08-04/jonathan-greenblatt-warning-australia-antisemitism/106990830",
-      "time": "2026-08-03T20:28:37",
+      "title": "2024 Was Not What It Seemed",
+      "desc": "Donald Trump’s big gains with Black, Hispanic, and young voters&nbsp; suggested a major shift. Less than two years later, the president has lost those new supporters.",
+      "source": "The Atlantic",
+      "url": "https://www.theatlantic.com/newsletters/2026/08/trump-loosing-black-hispanic-young-republican-voters/688164/",
+      "time": "2026-08-03T22:05:00",
       "country": "US",
-      "title_ur": "'یہ حق حاصل کریں': اعلیٰ امریکی یہودی رہنما کی آسٹریلیا کے لیے سخت انتباہ",
-      "desc_ur": "دنیا کی اعلیٰ ترین یہودی تنظیموں میں سے ایک کے رہنما کا کہنا ہے کہ آسٹریلیا کو ایک اہم امتحان کا سامنا ہے کہ وہ سام دشمنی کے عروج سے کیسے نمٹتا ہے۔"
+      "title_ur": "2024 ایسا نہیں تھا جو لگتا تھا۔",
+      "desc_ur": "سیاہ فام، ہسپانوی اور نوجوان ووٹروں کے ساتھ ڈونلڈ ٹرمپ کی بڑی کامیابیوں نے ایک بڑی تبدیلی کا مشورہ دیا۔ دو سال سے بھی کم عرصے بعد صدر نے ان نئے حامیوں کو کھو دیا ہے۔"
     },
     {
-      "title": "The Real Story Behind the Human Wave That Entered Ceuta",
-      "desc": "Stephen Zunes\n\n\n\nDid the Israeli and US hostility toward Spain embolden Morocco to think it could get away with creating a border control crisis?\r\n\n\r\n\n\nThe post The Real Story Behind the Human Wave That Entered Ceuta appeared first on The Nation.",
-      "source": "Thenation.com",
-      "url": "https://www.thenation.com/article/world/ceuta-spain-morocco-border-crisis-western-sahara-geopolitics/",
-      "time": "2026-08-03T20:24:05",
-      "country": "Israel",
-      "title_ur": "سیوٹا میں داخل ہونے والی انسانی لہر کے پیچھے کی حقیقی کہانی",
-      "desc_ur": "اسٹیفن زونز\n\n\n\nکیا اسپین کے خلاف اسرائیل اور امریکہ کی دشمنی نے مراکش کو یہ سوچنے کی حوصلہ افزائی کی کہ وہ سرحدی کنٹرول کا بحران پیدا کرنے سے بچ سکتا ہے؟\r\n\n\r\n\n\nThe post سیوٹا میں داخل ہونے والی انسانی لہر کے پیچھے کی اصل کہانی appeared first on The Nation."
+      "title": "Stock market today: Live updates",
+      "desc": "The major stock averages surged Monday, with the Dow closing at a record high, as Amazon eclipsed $3 trillion in market cap for the first time.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/03/stock-market-today-live-updates.html",
+      "time": "2026-08-03T22:04:23",
+      "country": "International",
+      "title_ur": "اسٹاک مارکیٹ آج: لائیو اپ ڈیٹس",
+      "desc_ur": "پیر کو بڑے اسٹاک اوسط میں اضافہ ہوا، ڈاؤ ریکارڈ بلندی پر بند ہونے کے ساتھ، کیونکہ ایمیزون نے پہلی بار مارکیٹ کیپ میں $3 ٹریلین کو گرہن کیا۔"
     },
     {
-      "title": "“Last chance before decapitation”: Trump threatens Iran over stalled peace talks",
-      "desc": "The president raged on Monday after Iranian officials denied any active peace talks with the U.S.",
-      "source": "Salon",
-      "url": "https://www.salon.com/2026/08/03/last-chance-before-decapitation-trump-threatens-iran-over-stalled-peace-talks/",
-      "time": "2026-08-03T20:23:50",
+      "title": "Trump's Former Chief of Staff Warns He's Losing Credibility on Iran",
+      "desc": "President Donald Trump is facing new questions over his Iran strategy as his administration continues to push for a diplomatic solution nearly six months into a military campaign that officials initially said would be resolved in weeks.\nTrump has repeatedly m…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/15f980e3f54b4215",
+      "time": "2026-08-03T22:01:38",
       "country": "Iran",
-      "title_ur": "\"سرخندے سے پہلے آخری موقع\": ٹرمپ نے امن مذاکرات میں تعطل پر ایران کو دھمکی دی۔",
-      "desc_ur": "صدر پیر کو ایرانی حکام کی طرف سے امریکہ کے ساتھ کسی بھی فعال امن مذاکرات سے انکار کے بعد مشتعل ہو گئے۔"
+      "title_ur": "ٹرمپ کے سابق چیف آف اسٹاف نے خبردار کیا ہے کہ وہ ایران پر اپنی ساکھ کھو رہے ہیں۔",
+      "desc_ur": "صدر ڈونلڈ ٹرمپ کو اپنی ایران کی حکمت عملی پر نئے سوالات کا سامنا ہے کیونکہ ان کی انتظامیہ تقریباً چھ ماہ سے ایک فوجی مہم میں سفارتی حل کے لیے زور دے رہی ہے جسے حکام نے ابتدائی طور پر کہا تھا کہ ہفتوں میں حل ہو جائے گا۔\nٹرمپ نے بارہا ایم…"
     },
     {
-      "title": "Trump DOJ unleashes largest denaturalization effort in department history — and says it’s ‘only the beginning’",
-      "desc": "The DOJ filed complaints against 24 naturalized citizens from 17 countries, alleging crimes from attempted murder to marriage fraud in a record surge.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/trump-doj-unleashes-largest-denaturalization-effort-department-history-says-its-only-beginning",
-      "time": "2026-08-03T20:20:39",
+      "title": "Petrodollar in Peril",
+      "desc": "This post Petrodollar in Peril appeared first on Daily Reckoning.\nWalking the tightrope...\nThe post Petrodollar in Peril appeared first on Daily Reckoning.",
+      "source": "Dailyreckoning.com",
+      "url": "https://dailyreckoning.com/petrodollar-in-peril/",
+      "time": "2026-08-03T22:00:29",
+      "country": "International",
+      "title_ur": "پیٹرو ڈالر خطرے میں",
+      "desc_ur": "یہ پوسٹ پیٹرو ڈالر خطرے میں پہلی بار ڈیلی ریکننگ پر شائع ہوا۔\nتنگ راستے پر چلنا...\nThe post پیٹرو ڈالر خطرے میں appeared first on ڈیلی حساب۔"
+    },
+    {
+      "title": "Trump Is NOT A Reluctant War President",
+      "desc": "One of the dumbest popular narratives you see today is the idea that Zionists persuaded a reluctant Trump to start a war with Iran after he was re-elected, like they were chasing him around going “Would you like to bomb Iran?” like the guy from Green Eggs and…",
+      "source": "Activistpost.com",
+      "url": "https://www.activistpost.com/trump-is-not-a-reluctant-war-president/",
+      "time": "2026-08-03T22:00:00",
+      "country": "Iran",
+      "title_ur": "ٹرمپ ایک ہچکچاہٹ والا جنگ کا صدر نہیں ہے۔",
+      "desc_ur": "آج آپ جو بے وقوف ترین مشہور بیانیہ دیکھ رہے ہیں ان میں سے ایک یہ خیال ہے کہ صیہونیوں نے ایک ہچکچاتے ہوئے ٹرمپ کو دوبارہ منتخب ہونے کے بعد ایران کے ساتھ جنگ ​​شروع کرنے پر آمادہ کیا، جیسے وہ اس کا پیچھا کر رہے تھے \"کیا آپ ایران پر بمباری کرنا چاہیں گے؟\" جیسے سبز انڈے کا آدمی اور…"
+    },
+    {
+      "title": "Is Democratic Socialism Going National?",
+      "desc": "The Reason editors discuss whether democratic socialism is gaining ground beyond the coasts, and what it means for the Democratic party.",
+      "source": "Reason",
+      "url": "https://reason.com/podcast/2026/08/03/is-democratic-socialism-going-national/",
+      "time": "2026-08-03T21:56:01",
       "country": "US",
-      "title_ur": "ٹرمپ ڈی او جے نے محکمہ کی تاریخ میں سب سے بڑی ڈینیچرلائزیشن کی کوشش کا آغاز کیا - اور کہا کہ یہ 'صرف آغاز' ہے۔",
-      "desc_ur": "DOJ نے 17 ممالک کے 24 قدرتی شہریوں کے خلاف شکایات درج کیں، جن میں قتل کی کوشش سے لے کر شادی کے دھوکہ دہی تک کے جرائم کا الزام لگایا گیا ہے۔"
-    }
-  ],
-  "pakistan": [
-    {
-      "title": "US stocks: Dow closes at record high on Iran talks optimism",
-      "desc": "US stocks opened August with strong gains, pushing the Dow Industrials to a record closing high. Easing oil prices and Treasury yields supported the market's upward movement. Communication services sector led gains, while energy experienced a decline. Amazon'…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-dow-closes-at-record-high-on-iran-talks-optimism/articleshow/132841035.cms",
-      "time": "2026-08-03T20:02:38",
-      "country": "Pakistan",
-      "title_ur": "امریکی اسٹاک: ڈاؤ ایران کی بات چیت کی امید پر ریکارڈ بلندی پر بند ہوا۔",
-      "desc_ur": "امریکی اسٹاکس اگست میں مضبوط فوائد کے ساتھ کھلے، جس نے ڈاؤ انڈسٹریز کو ریکارڈ بلندی پر دھکیل دیا۔ تیل کی قیمتوں میں نرمی اور خزانے کی پیداوار نے مارکیٹ کی اوپر کی حرکت کو سہارا دیا۔ مواصلاتی خدمات کے شعبے نے فائدہ اٹھایا، جبکہ توانائی میں کمی واقع ہوئی۔ ایمیزون…"
+      "title_ur": "کیا ڈیموکریٹک سوشلزم قومی جا رہا ہے؟",
+      "desc_ur": "ریزن ایڈیٹرز اس بات پر بحث کرتے ہیں کہ آیا ڈیموکریٹک سوشلزم ساحلوں سے آگے بڑھ رہا ہے، اور ڈیموکریٹک پارٹی کے لیے اس کا کیا مطلب ہے۔"
     },
     {
-      "title": "US closes higher as Iran tensions subside",
-      "desc": "Major stock markets on Wall Street traded higher at the end of Monday's trading session, apparently benefiting from renewed optimism about a potential diplomatic solution to the crisis in the Middle E...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/949eb9eadf2e129d",
-      "time": "2026-08-03T20:00:37",
-      "country": "Pakistan",
-      "title_ur": "ایران کشیدگی میں کمی کے ساتھ ہی امریکہ اونچا بند ہو گیا۔",
-      "desc_ur": "پیر کے تجارتی سیشن کے اختتام پر وال سٹریٹ کی بڑی اسٹاک مارکیٹوں نے اونچی تجارت کی، بظاہر مشرق وسطیٰ میں بحران کے ممکنہ سفارتی حل کے بارے میں نئی ​​امید سے فائدہ اٹھایا۔"
+      "title": "MLS investigating alleged antisemitic comments directed at Revolution's Dor Turgeman",
+      "desc": "Major League Soccer is investigating “reported antisemitic and discriminatory language” from fans directed at New England Revolution striker Dor Turgeman during their game against CF Montreal, the league said Monday. The Revolution said in a statement that th…",
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/articles/mls-investigating-alleged-antisemitic-comments-215314547.html",
+      "time": "2026-08-03T21:53:14",
+      "country": "International",
+      "title_ur": "MLS مبینہ سام دشمن تبصروں کی تحقیقات کر رہا ہے جو انقلاب کے Dor Turgeman پر ہدایت کی گئی ہے۔",
+      "desc_ur": "لیگ نے پیر کو کہا کہ میجر لیگ سوکر سی ایف مونٹریال کے خلاف اپنے کھیل کے دوران نیو انگلینڈ کے انقلاب کے اسٹرائیکر ڈور ٹورجمین کے شائقین کی طرف سے \"اطلاع شدہ سام دشمنی اور امتیازی زبان\" کی تحقیقات کر رہا ہے۔ انقلاب نے ایک بیان میں کہا ہے کہ…"
     },
     {
-      "title": "Trump Criticizes Exxon, Chevron Over Iran War Profits",
-      "desc": "President Donald Trump criticized ExxonMobil and Chevron for earning substantial profits from higher oil prices during the conflict involving Iran, saying the companies had made \"too much money\" from supply disruptions. \nHe urged both firms to lower retail fu…",
+      "title": "Trump lashes out at Big Oil for ‘making too much money’ during Iran war: ‘They ought to give some of that back’",
+      "desc": "“I don’t like it,” Trump said in the Oval Office, when asked about the eye-popping earnings reported by ExxonMobil and Chevron last week.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/03/us-news/trump-lashes-out-at-big-oil-for-making-too-much-money-during-iran-war-they-ought-to-give-some-of-that-back/",
+      "time": "2026-08-03T21:52:19",
+      "country": "Iran",
+      "title_ur": "ٹرمپ نے ایران جنگ کے دوران 'بہت زیادہ پیسہ کمانے' کے لئے بگ آئل پر تنقید کی: 'انہیں اس میں سے کچھ واپس دینا چاہئے'",
+      "desc_ur": "\"مجھے یہ پسند نہیں ہے،\" ٹرمپ نے اوول آفس میں کہا، جب گزشتہ ہفتے ExxonMobil اور Chevron کی طرف سے رپورٹ کی گئی آنکھوں کو چھونے والی کمائی کے بارے میں پوچھا گیا۔"
+    },
+    {
+      "title": "Iran in Port Sudan? The Next Threat to Asian Markets",
+      "desc": "The Red Sea corridor Asian trade depends on has another volatile shore, and almost nobody is watching it.",
+      "source": "The Diplomat",
+      "url": "https://thediplomat.com/2026/08/iran-in-port-sudan-the-next-threat-to-asian-markets/",
+      "time": "2026-08-03T21:49:00",
+      "country": "Iran",
+      "title_ur": "پورٹ سوڈان میں ایران؟ ایشیائی منڈیوں کے لیے اگلا خطرہ",
+      "desc_ur": "بحیرہ احمر کی راہداری پر ایشیائی تجارت کا انحصار ایک اور غیر مستحکم ساحل ہے، اور تقریباً کوئی بھی اسے نہیں دیکھ رہا ہے۔"
+    },
+    {
+      "title": "Reform and Restore at odds over a deal: Parties' leaders swap insults as Farage says he won't agree to call to ditch Tory defectors",
+      "desc": "The prospect of negotiations between the two Right-wing parties was sparked after Restore's Rupert Lowe posted a video outlining his requests of Nigel Farage in return for a deal.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16026057/Reform-Restore-Farage-Tory-defectors.html",
+      "time": "2026-08-03T21:47:32",
+      "country": "International",
+      "title_ur": "ایک معاہدے پر اختلافات میں اصلاحات اور بحالی: پارٹیوں کے رہنماؤں نے توہین کا تبادلہ کیا کیونکہ فاریج کا کہنا ہے کہ وہ ٹوری ڈیفیکٹرز کو کھودنے کے لئے کال کرنے پر راضی نہیں ہوں گے۔",
+      "desc_ur": "دونوں دائیں بازو کی جماعتوں کے درمیان مذاکرات کا امکان اس وقت پیدا ہوا جب ریسٹور کے روپرٹ لو نے ایک ویڈیو پوسٹ کی جس میں ڈیل کے بدلے نائجل فاریج کی اپنی درخواستوں کا خاکہ پیش کیا گیا۔"
+    },
+    {
+      "title": "Fact-checking Abdul El-Sayed and Haley Stevens' claims ahead of the Michigan Democratic Senate primary",
+      "desc": "Michigan Democrats will pick their nominee for the U.S. Senate on Aug. 4 in a battle dominated by views on U.S.-Israel relations and the Democratic Party's future.",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/4a1360544b26c0f2",
-      "time": "2026-08-03T20:00:33",
-      "country": "Pakistan",
-      "title_ur": "ٹرمپ نے ایران جنگ کے منافع پر ایگزون، شیورون پر تنقید کی۔",
-      "desc_ur": "صدر ڈونلڈ ٹرمپ نے ایگزون موبل اور شیورون کو ایران کے تنازعہ کے دوران تیل کی بلند قیمتوں سے خاطر خواہ منافع کمانے پر تنقید کا نشانہ بناتے ہوئے کہا کہ کمپنیوں نے سپلائی میں رکاوٹ سے \"بہت زیادہ پیسہ\" کمایا ہے۔ \nانہوں نے دونوں فرموں پر زور دیا کہ وہ ریٹیل فو کو کم کریں…"
+      "url": "https://biztoc.com/x/c3133f862926cf10",
+      "time": "2026-08-03T21:46:24",
+      "country": "Israel",
+      "title_ur": "مشی گن ڈیموکریٹک سینیٹ کے پرائمری سے قبل عبد السید اور ہیلی سٹیونز کے دعووں کی حقائق کی جانچ",
+      "desc_ur": "مشی گن ڈیموکریٹس 4 اگست کو امریکی سینیٹ کے لیے اپنے امیدوار کا انتخاب کریں گے جس میں امریکہ اسرائیل تعلقات اور ڈیموکریٹک پارٹی کے مستقبل کے بارے میں خیالات کا غلبہ ہے۔"
+    },
+    {
+      "title": "Five months of war with Iran",
+      "desc": "Donald Trump at Morristown Municipal Airport in Morristown, New Jersey, on July 31, 2026. | Aaron Schwartz / AFP via Getty Images \nThis story appeared in The Logoff, a daily newsletter that helps you stay informed about the Trump administration without lettin…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/bc3c129d1c646861",
+      "time": "2026-08-03T21:46:19",
+      "country": "Iran",
+      "title_ur": "ایران کے ساتھ پانچ ماہ کی جنگ",
+      "desc_ur": "31 جولائی 2026 کو موریس ٹاؤن، نیو جرسی کے موریس ٹاؤن میونسپل ایئرپورٹ پر ڈونلڈ ٹرمپ۔ آرون شوارٹز / اے ایف پی بذریعہ گیٹی امیجز \nیہ کہانی دی لاگ آف میں شائع ہوئی، ایک روزانہ نیوز لیٹر جو آپ کو ٹرمپ انتظامیہ کے بارے میں بغیر اجازت کے باخبر رہنے میں مدد کرتا ہے…"
+    },
+    {
+      "title": "Iran Found a 'More Powerful Weapon Than a Nuclear Bomb'—And It's Working",
+      "desc": "Iran's relative success in the face of the war launched six months ago by the United States and Israel has demonstrated that a nuclear weapon may not be the most effective tool in the Islamic Republic's arsenal after all.\nWhile President Donald Trump's admini…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/f391cf3ba247999c",
+      "time": "2026-08-03T21:46:18",
+      "country": "Iran",
+      "title_ur": "ایران کو 'جوہری بم سے زیادہ طاقتور ہتھیار' ملا - اور یہ کام کر رہا ہے",
+      "desc_ur": "امریکہ اور اسرائیل کی طرف سے چھ ماہ قبل شروع کی جانے والی جنگ کے مقابلے میں ایران کی نسبتاً کامیابی نے یہ ثابت کر دیا ہے کہ اسلامی جمہوریہ کے ہتھیاروں میں جوہری ہتھیار سب سے موثر ہتھیار نہیں ہو سکتا۔\nجبکہ صدر ڈونلڈ ٹرمپ کی انتظامیہ…"
+    },
+    {
+      "title": "Leaked Centcom emails expose US running out of ways to punish Iran",
+      "desc": "On today's episode of Iran: the Latest, Venetia Rainey and Roland Oliphant discuss the news, the rinse-and-repeat cyclical nature ...",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/80ad79e44678ad5c",
+      "time": "2026-08-03T21:44:57",
+      "country": "Iran",
+      "title_ur": "سینٹ کام کی لیک ہونے والی ای میلز سے پتہ چلتا ہے کہ امریکہ ایران کو سزا دینے کے طریقے ختم کر رہا ہے۔",
+      "desc_ur": "ایران کے آج کے ایپی سوڈ پر: تازہ ترین، وینٹیا رینی اور رولینڈ اولیفینٹ خبروں پر تبادلہ خیال کرتے ہیں، کللا اور دہرائیں"
     }
   ],
+  "pakistan": [],
   "business": {
     "quote": "The biggest risk is not taking any risk.",
     "author": "Mark Zuckerberg",
