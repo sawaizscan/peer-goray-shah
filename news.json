@@ -1,158 +1,218 @@
 {
-  "generated": "2026-08-07T22:04:13Z",
+  "generated": "2026-08-07T23:03:24Z",
   "world": [
     {
-      "title": "John Fetterman unleashes on fellow Democrat over 'dangerous' move that cost party in midterm elections",
-      "desc": "The bitter feud between Pennsylvania Sen. John Fetterman and Vermont Sen. Bernie Sanders has erupted once again. This time over Sanders' growing influence in Democratic primaries.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/us-politics/article-16034485/John-Fetterman-unleashes-Democrat-midterm.html",
-      "time": "2026-08-06T22:01:37",
-      "country": "US",
-      "title_ur": "جان فیٹرمین نے 'خطرناک' اقدام پر ساتھی ڈیموکریٹ پر حملہ کیا جس کی وجہ سے وسط مدتی انتخابات میں پارٹی کو نقصان پہنچا۔",
-      "desc_ur": "پنسلوانیا کے سین۔ جان فیٹرمین اور ورمونٹ کے سین۔ برنی سینڈرز کے درمیان تلخ جھگڑا ایک بار پھر بھڑک اٹھا ہے۔ اس بار ڈیموکریٹک پرائمریز میں سینڈرز کے بڑھتے ہوئے اثر و رسوخ پر۔"
-    },
-    {
-      "title": "UK Drivers Take To Fuel Theft amid War-Driven Price Surge",
-      "desc": "Drivers in the United Kingdom have started filling up their tanks without paying for the fuel as driving costs surge on the fuel supply crunch driven by the war in the Middle East. The crimes include people driving off after filling up without paying and peop…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/UK-Drivers-Take-To-Fuel-Theft-amid-War-Driven-Price-Surge.html",
-      "time": "2026-08-06T22:00:00",
-      "country": "UK",
-      "title_ur": "جنگ سے چلنے والی قیمتوں میں اضافے کے درمیان یوکے ڈرائیورز ایندھن کی چوری پر آمادہ ہو گئے۔",
-      "desc_ur": "برطانیہ میں ڈرائیوروں نے ایندھن کی ادائیگی کے بغیر اپنے ٹینکوں کو بھرنا شروع کر دیا ہے کیونکہ مشرق وسطیٰ میں جنگ کی وجہ سے ایندھن کی سپلائی کے بحران پر گاڑی چلانے کے اخراجات بڑھ گئے ہیں۔ جرائم میں ایسے افراد شامل ہیں جو بغیر معاوضے کے بھرنے کے بعد گاڑی چلا رہے ہیں اور لوگ…"
-    },
-    {
-      "title": "Commentary: US has crossed an uncomfortable threshold in global opinion",
-      "desc": "China is now viewed more positively than the US in many countries. Reversing this will be harder than Washington thinks, says Kevin Chen from the S Rajaratnam School of International Studies.",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/commentary/us-china-view-positively-pew-survey-asia-6303366",
-      "time": "2026-08-06T22:00:00",
-      "country": "China",
-      "title_ur": "تبصرہ: امریکہ عالمی رائے عامہ میں ایک غیر آرام دہ حد کو عبور کر چکا ہے۔",
-      "desc_ur": "اب بہت سے ممالک میں چین کو امریکہ کے مقابلے میں زیادہ مثبت طور پر دیکھا جاتا ہے۔ ایس راجارتنم اسکول آف انٹرنیشنل اسٹڈیز کے کیون چن کا کہنا ہے کہ اسے تبدیل کرنا واشنگٹن کے خیال سے زیادہ مشکل ہوگا۔"
-    },
-    {
-      "title": "Trump Clashes With Pete Hegseth Over Iran War Weapons 'Shortage' – As Prez Backs Off Launching 'Biggest Attack Since World War II'",
-      "desc": "President Trump reportedly got into it with Pete Hegseth over an apparent weapons shortage amid the Iran war.",
-      "source": "Radaronline.com",
-      "url": "https://radaronline.com/p/trump-clashes-with-pete-hegseth-iran-war-weapons-shortage-attack/",
-      "time": "2026-08-06T22:00:00",
+      "title": "Iranian parliament bill would ban US, Israeli ships from Strait of Hormuz",
+      "desc": "The proposed legislation, dubbed the “Strategic Action for the Security and Sustainable Development of the Strait of Hormuz and the Persian Gulf,” is under review by parliament’s National Security and Foreign Policy Committee, Tasnim reported.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/06/world-news/iranian-parliament-bill-would-ban-us-israeli-ships-from-strait-of-hormuz/",
+      "time": "2026-08-06T23:01:00",
       "country": "Iran",
-      "title_ur": "ایران کے جنگی ہتھیاروں کی قلت پر پیٹ ہیگستھ کے ساتھ ٹرمپ کی جھڑپ - جیسا کہ صدر 'دوسری جنگ عظیم کے بعد سب سے بڑا حملہ' شروع کرنے سے پیچھے ہٹ گئے",
-      "desc_ur": "صدر ٹرمپ مبینہ طور پر ایران جنگ کے دوران ہتھیاروں کی واضح کمی پر پیٹ ہیگستھ کے ساتھ اس میں شامل ہو گئے۔"
+      "title_ur": "ایرانی پارلیمنٹ کا بل آبنائے ہرمز سے امریکی اور اسرائیلی جہازوں پر پابندی لگائے گا۔",
+      "desc_ur": "تسنیم کی خبر کے مطابق، مجوزہ قانون سازی، جسے \"آبنائے ہرمز اور خلیج فارس کی سلامتی اور پائیدار ترقی کے لیے اسٹریٹجک ایکشن\" کا نام دیا گیا ہے، پارلیمنٹ کی قومی سلامتی اور خارجہ پالیسی کمیٹی کے زیرِ جائزہ ہے۔"
     },
     {
-      "title": "Trump again tries to curb birthright citizenship and ‘birth tourism’ through executive action | CNN Politics",
-      "desc": "President Donald Trump is taking another swing at so-called birth tourism and birthright citizenship, citing a “very unfortunate decision” in the Supreme Court this year.",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/08/06/politics/trump-birthright-citizenship",
-      "time": "2026-08-06T21:57:23",
-      "country": "US",
-      "title_ur": "ٹرمپ نے ایک بار پھر ایگزیکٹو ایکشن کے ذریعے پیدائشی حق شہریت اور 'برتھ ٹورازم' کو روکنے کی کوشش کی۔ سی این این پولیٹکس",
-      "desc_ur": "صدر ڈونلڈ ٹرمپ نام نہاد پیدائشی سیاحت اور پیدائشی حق شہریت پر ایک اور جھول لے رہے ہیں، اس سال سپریم کورٹ میں ایک \"انتہائی بدقسمتی کے فیصلے\" کا حوالہ دیتے ہوئے."
-    },
-    {
-      "title": "Trump denies US munitions shortage and said he'd seek to jail 'leakers' - BBC",
-      "desc": "Trump denies US munitions shortage and said he'd seek to jail 'leakers'BBC Trump, Hegseth clashed at Camp David over Iran missile depletion concernsThe Washington Post Trump grows angry over reports on depleted munitions — believing it weakens him in Iran neg…",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184884798",
-      "time": "2026-08-06T21:53:14",
-      "country": "Iran",
-      "title_ur": "ٹرمپ نے امریکی ہتھیاروں کی کمی کی تردید کی اور کہا کہ وہ 'لیکرز' کو جیل بھیجنے کی کوشش کریں گے - BBC",
-      "desc_ur": "ٹرمپ نے امریکی ہتھیاروں کی کمی کی تردید کی اور کہا کہ وہ 'لیکرز' کو جیل بھیجنے کی کوشش کریں گے بی بی سی ٹرمپ، ہیگستھ نے کیمپ ڈیوڈ میں ایران کے میزائلوں کی کمی کے خدشات پر جھڑپ کی واشنگٹن پوسٹ ٹرمپ کو ہتھیاروں کی کمی کے بارے میں رپورٹس پر غصہ آیا - یہ ماننا کہ اس سے وہ ایران میں کمزور ہوں گے…"
-    },
-    {
-      "title": "Amit Shah assured proposed FCRA changes will not be retrospective, says Mizoram CM",
-      "desc": "Chief minister Lalduhoma from Mizoram held a pivotal meeting with Home Minister Amit Shah on Thursday, where Shah confirmed that amendments to the FCRA will not have a retroactive effect. Church representatives were also part of the discussion, emphasizing th…",
+      "title": "3 rebel TMC MPs to meet Prime Minister today",
+      "desc": "A trio of dissenting Trinamool MPs is set to engage with Prime Minister Narendra Modi following their earlier discussions with Union Minister Amit Shah related to pressing concerns. Notably, these lawmakers have distanced themselves from two NDA meetings. Add…",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/amit-shah-assured-proposed-fcra-changes-will-not-be-retrospective-says-mizoram-cm/articleshow/133015915.cms",
-      "time": "2026-08-06T21:51:13",
+      "url": "https://timesofindia.indiatimes.com/india/3-rebel-tmc-mps-to-meet-prime-minister-today/articleshow/133017842.cms",
+      "time": "2026-08-06T23:00:34",
+      "country": "India",
+      "title_ur": "ٹی ایم سی کے 3 باغی ممبران پارلیمنٹ آج وزیر اعظم سے ملاقات کریں گے۔",
+      "desc_ur": "اختلافی ترنمول ممبران پارلیمنٹ کی تینوں نے مرکزی وزیر امیت شاہ کے ساتھ پہلے کی بات چیت کے بعد وزیر اعظم نریندر مودی کے ساتھ بات چیت کرنے کے لیے تیار ہے۔ قابل ذکر بات یہ ہے کہ ان قانون سازوں نے خود کو این ڈی اے کی دو میٹنگوں سے دور رکھا ہے۔ شامل کریں…"
+    },
+    {
+      "title": "Michigan’s Senate primary just exposed an uncomfortable truth about the Democrat Party",
+      "desc": "Once again, the Democratic Socialists of America have proven that the Democrat establishment can’t outspend its grassroots army.On August 4, progressive candidate Abdul El-Sayed narrowly won the Democratic nomination for U.S. Senate over Rep. Haley Stevens, a…",
+      "source": "TheBlaze",
+      "url": "https://www.theblaze.com/shows/making-the-argument-with-nick-freitas/michigans-senate-primary-just-exposed-an-uncomfortable-truth-about-the-democrat-party",
+      "time": "2026-08-06T23:00:00",
       "country": "US",
-      "title_ur": "میزورم کے وزیر اعلیٰ کا کہنا ہے کہ امت شاہ نے یقین دلایا کہ ایف سی آر اے کی مجوزہ تبدیلیاں سابقہ ​​نہیں ہوں گی۔",
-      "desc_ur": "میزورم کے وزیر اعلیٰ لالدوہوما نے جمعرات کو وزیر داخلہ امیت شاہ کے ساتھ ایک اہم میٹنگ کی، جہاں شاہ نے تصدیق کی کہ ایف سی آر اے میں ترمیم کا سابقہ ​​اثر نہیں پڑے گا۔ چرچ کے نمائندے بھی بحث کا حصہ تھے، اس بات پر زور دیتے ہوئے…"
+      "title_ur": "مشی گن کی سینیٹ پرائمری نے ابھی ڈیموکریٹ پارٹی کے بارے میں ایک غیر آرام دہ حقیقت کو بے نقاب کیا۔",
+      "desc_ur": "ایک بار پھر، امریکہ کے ڈیموکریٹک سوشلسٹوں نے ثابت کر دیا ہے کہ ڈیموکریٹ اسٹیبلشمنٹ اپنی نچلی سطح کی فوج کو آگے نہیں بڑھا سکتی۔ 4 اگست کو، ترقی پسند امیدوار عبد السید نے امریکی سینیٹ کے لیے ڈیموکریٹک نامزدگی کو بڑی حد تک نمائندہ ہیلی سٹیونز کے مقابلے میں جیت لیا۔"
     },
     {
-      "title": "Iran says Hormuz deal with Oman won’t fully reopen strait",
-      "desc": "The partial reopening of the Strait of Hormuz may prolong regional tensions, affecting global energy markets and diplomatic negotiations.\nThe post Iran says Hormuz deal with Oman won’t fully reopen strait appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-says-hormuz-deal-with-oman-wont-fully-reopen-strait/",
-      "time": "2026-08-06T21:44:54",
+      "title": "Gas Shortages and High Prices Derail Southeast Asia’s Power Buildout",
+      "desc": "Southeast Asia is falling short of its ambitious projects to boost gas-fired power generation to meet growing electricity demand and replace some of the coal use. Fuel availability, volatile prices, and supply chain bottlenecks threaten to drive up costs and …",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Natural-Gas/Gas-Shortages-and-High-Prices-Derail-Southeast-Asias-Power-Buildout.html",
+      "time": "2026-08-06T23:00:00",
+      "country": "US",
+      "title_ur": "گیس کی قلت اور اونچی قیمتیں جنوب مشرقی ایشیا کے پاور بلڈ آؤٹ کو پٹڑی سے اتار دیتی ہیں۔",
+      "desc_ur": "جنوب مشرقی ایشیا بجلی کی بڑھتی ہوئی طلب کو پورا کرنے اور کوئلے کے کچھ استعمال کو بدلنے کے لیے گیس سے چلنے والی بجلی کی پیداوار کو فروغ دینے کے اپنے مہتواکانکشی منصوبوں سے محروم ہے۔ ایندھن کی دستیابی، قیمتوں میں اتار چڑھاؤ، اور سپلائی چین کی رکاوٹیں اخراجات کو بڑھانے کا خطرہ ہیں اور…"
+    },
+    {
+      "title": "How Abdul El-Sayed’s ‘extraordinary’ win stunned pro-Israel establishment",
+      "desc": "Michigan progressive fended off AIPAC as well as Democratic establishment in US Senate race, supporters say.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/8/6/how-abdul-el-sayeds-extraordinary-win-stunned-pro-israel-establishment",
+      "time": "2026-08-06T22:59:29",
+      "country": "Israel",
+      "title_ur": "کس طرح عبد السید کی 'غیر معمولی' جیت نے اسرائیل نواز اسٹیبلشمنٹ کو دنگ کر دیا۔",
+      "desc_ur": "حامیوں کا کہنا ہے کہ مشی گن کے ترقی پسندوں نے امریکی سینیٹ کی دوڑ میں AIPAC کے ساتھ ساتھ ڈیموکریٹک اسٹیبلشمنٹ کا بھی مقابلہ کیا۔"
+    },
+    {
+      "title": "Saudi Arabia braces for attacks on ports and airports by Iraqi militias working with Iran-backed Houthis",
+      "desc": "",
+      "source": "Yahoo Entertainment",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_f64a6c15-47dc-4d1a-854e-812da68d3275",
+      "time": "2026-08-06T22:55:03",
       "country": "Iran",
-      "title_ur": "ایران کا کہنا ہے کہ عمان کے ساتھ ہرمز معاہدہ آبنائے مکمل طور پر دوبارہ نہیں کھولے گا۔",
-      "desc_ur": "آبنائے ہرمز کے جزوی طور پر دوبارہ کھلنے سے علاقائی تناؤ طول پکڑ سکتا ہے جس سے توانائی کی عالمی منڈیوں اور سفارتی مذاکرات متاثر ہوں گے۔\nThe post ایران کا کہنا ہے کہ عمان کے ساتھ ہرمز معاہدہ آبنائے مکمل طور پر دوبارہ نہیں کھولے گا appeared first on Crypto Briefing."
+      "title_ur": "سعودی عرب ایران کے حمایت یافتہ حوثیوں کے ساتھ مل کر کام کرنے والی عراقی ملیشیاؤں کے ذریعے بندرگاہوں اور ہوائی اڈوں پر حملوں کے لیے تیار ہے",
+      "desc_ur": ""
     },
     {
-      "title": "Houthi missile attacks kill 58 Saudi-backed Yemeni govt forces: source",
-      "desc": "At least 58 Yemeni government troops were killed in missile and drone attacks by Iran-backed Houthi rebels.",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/world/houthi-rebels-yemen-kill-government-troops-6304816",
-      "time": "2026-08-06T21:43:59",
-      "country": "Iran",
-      "title_ur": "حوثیوں کے میزائل حملوں میں 58 سعودی حمایت یافتہ یمنی حکومتی فورسز ہلاک",
-      "desc_ur": "ایران کے حمایت یافتہ حوثی باغیوں کے میزائل اور ڈرون حملوں میں یمنی حکومت کے کم از کم 58 فوجی ہلاک ہو گئے۔"
-    },
-    {
-      "title": "Thursday’s Mini-Report, 8.6.26",
-      "desc": "Today’s edition of quick hits.\n* The White House has not yet endorsed this agreement: “Oman on Thursday agreed to the framework of a deal with Iran to temporarily reopen the Strait of Hormuz, the global crude oil export route that Washington and Tehran have b…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/3989e477ad34d636",
-      "time": "2026-08-06T21:43:23",
-      "country": "Iran",
-      "title_ur": "جمعرات کی منی رپورٹ، 8.6.26",
-      "desc_ur": "فوری ہٹ کا آج کا ایڈیشن۔\n* وائٹ ہاؤس نے ابھی تک اس معاہدے کی توثیق نہیں کی ہے: \"عمان نے جمعرات کو ایران کے ساتھ ایک معاہدے کے فریم ورک پر اتفاق کیا ہے کہ وہ آبنائے ہرمز کو عارضی طور پر دوبارہ کھولے، عالمی خام تیل کی برآمد کا راستہ جو واشنگٹن اور تہران کے پاس ہے…"
-    },
-    {
-      "title": "Trump is 'starting to get sick' of Hegseth's 'crap': Iraq War Veteran",
-      "desc": "The Washington Post reports that President Trump and Defense Secretary Pete Hegseth clashed at Camp David over a munitions ...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/35dab0f172d7ffb7",
-      "time": "2026-08-06T21:38:31",
-      "country": "Iraq",
-      "title_ur": "ٹرمپ ہیگستھ کی 'گھٹیا' سے 'بیمار ہونے لگے ہیں': عراق جنگ کے تجربہ کار",
-      "desc_ur": "واشنگٹن پوسٹ نے رپورٹ کیا ہے کہ صدر ٹرمپ اور وزیر دفاع پیٹ ہیگستھ کے درمیان کیمپ ڈیوڈ میں جنگی سازوسامان پر جھڑپ ہوئی..."
-    },
-    {
-      "title": "The week in whoppers: Team Mamdani flip-flops on grocery IDs, Mehdi Hasan cries ‘Islamophobia’ to aid El-Sayed and more",
-      "desc": "City Hall did a 180 on the rules for Mayor Zohran Mamdani's planned city-run grocery stores — and now out-of-towners will eat on the New York City taxpayers' dime.",
+      "title": "Mamdani is ‘thin-skinned and hyper-sensitive’ in private despite unflappable social media image: political sources",
+      "desc": "Hizzoner huffily badgers critics who dare question him publicly, harbors petty grudges against prominent pols and often only responds to texts when he’s miffed about bad press, sources revealed.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/08/06/opinion/the-week-in-whoppers-team-mamdani-flip-flops-on-grocery-ids-mehdi-hasan-cries-islamophobia-to-aid-el-sayed-and-more/",
-      "time": "2026-08-06T21:37:48",
+      "url": "https://nypost.com/2026/08/06/us-news/mamdani-is-thin-skinned-and-hyper-sensitive-in-private-despite-unflappable-social-media-image-political-sources/",
+      "time": "2026-08-06T22:51:50",
       "country": "International",
-      "title_ur": "ہفتہ بھر میں: ٹیم مامدانی گروسری آئی ڈیز پر فلپ فلاپ، مہدی حسن السید اور مزید کی مدد کے لیے 'اسلامو فوبیا' روتے ہیں",
-      "desc_ur": "سٹی ہال نے میئر ظہران مامدانی کے منصوبہ بند شہر میں چلنے والے گروسری اسٹورز کے قواعد پر 180 کام کیا - اور اب شہر سے باہر کے لوگ نیویارک شہر کے ٹیکس دہندگان کے پیسے پر کھائیں گے۔"
+      "title_ur": "مامدانی سوشل میڈیا کی ناقابل تسخیر تصویر کے باوجود نجی طور پر 'پتلی پتلی اور انتہائی حساس' ہیں: سیاسی ذرائع",
+      "desc_ur": "ذرائع نے انکشاف کیا کہ Hizzoner ان ناقدین کو خوش اسلوبی سے بیجر کرتا ہے جو اس سے عوامی سطح پر سوال کرنے کی جرات کرتے ہیں، ممتاز پولس کے خلاف چھوٹی چھوٹی رنجشیں رکھتے ہیں اور اکثر تب ہی متن کا جواب دیتے ہیں جب وہ بری پریس کے بارے میں ناراض ہوتا ہے۔"
     },
     {
-      "title": "Chuck Schumer tepidly endorses Abdul El-Sayed — after the guy called for him to get canned",
-      "desc": "Senate Minority Leader Chuck Schumer appeared to give Michigan Senate hopeful Dr. Abdul El-Sayed a tepid endorsement, despite the former public health official publicly calling for his replacement.",
+      "title": "Trump Is Asking the Private Sector to Save Him",
+      "desc": "Piecemeal price cuts won’t solve the Iran war’s effects on inflation.",
+      "source": "The Atlantic",
+      "url": "https://www.theatlantic.com/newsletters/2026/08/trump-economy-private-sector-oil-inflation/688212/",
+      "time": "2026-08-06T22:51:00",
+      "country": "Iran",
+      "title_ur": "ٹرمپ نجی شعبے سے اسے بچانے کے لیے کہہ رہے ہیں۔",
+      "desc_ur": "ٹکڑوں کی قیمتوں میں کمی مہنگائی پر ایران جنگ کے اثرات کو حل نہیں کرے گی۔"
+    },
+    {
+      "title": "What’s in Tucker Carlson’s ‘Save America’ manifesto?",
+      "desc": "Tucker Carlson has unveiled a political manifesto following his split with Donald Trump and his promise to help build a third party Read Full Article at RT.com",
+      "source": "RT",
+      "url": "https://www.rt.com/news/643960-tucker-carlson-political-manifesto/",
+      "time": "2026-08-06T22:45:04",
+      "country": "US",
+      "title_ur": "ٹکر کارلسن کے ’امریکہ کو بچائیں‘ کے منشور میں کیا ہے؟",
+      "desc_ur": "ٹکر کارلسن نے ڈونلڈ ٹرمپ کے ساتھ علیحدگی کے بعد ایک سیاسی منشور کی نقاب کشائی کی ہے اور تیسرے فریق کی تعمیر میں مدد کے اپنے وعدے کے بعد RT.com پر مکمل مضمون پڑھیں"
+    },
+    {
+      "title": "'It will end pretty soon': Trump hints at peace in US-Iran war; Tehran mocks 'theatre diplomacy'",
+      "desc": "Expressing confidence, US President Trump suggested that the Iran conflict is nearing its end, arguing that Tehran cannot bear its continuation. He remains hopeful about negotiations related to the Strait of Hormuz. The US is resolute in preventing Iran from …",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/us/it-will-end-pretty-soon-trump-hints-at-peace-in-us-iran-war-tehran-mocks-theatre-diplomacy/articleshow/133017779.cms",
+      "time": "2026-08-06T22:34:56",
+      "country": "Iran",
+      "title_ur": "'یہ بہت جلد ختم ہو جائے گا': ٹرمپ نے امریکہ ایران جنگ میں امن کی طرف اشارہ کیا۔ تہران نے 'تھیٹر ڈپلومیسی' کا مذاق اڑایا",
+      "desc_ur": "اعتماد کا اظہار کرتے ہوئے، امریکی صدر ٹرمپ نے تجویز پیش کی کہ ایران تنازع اپنے اختتام کے قریب ہے، یہ دلیل دیتے ہوئے کہ تہران اس کے تسلسل کو برداشت نہیں کر سکتا۔ وہ آبنائے ہرمز سے متعلق مذاکرات کے بارے میں پر امید ہیں۔ امریکہ ایران کو روکنے کے لیے پرعزم ہے..."
+    },
+    {
+      "title": "Iran says deal ‘in the final stages’ to open temporary, narrow path through Strait of Hormuz",
+      "desc": "Iranian state media said Thursday that Tehran is \"in the final stages\" of confirming a temporary shipping arrangement with Oman that would create a new shipping lane through the center of the strait — after President Trump this week ordered the waterway fully…",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/08/06/us-news/chuck-schumer-tepidly-endorses-abdul-el-sayed-the-guy-who-wants-him-replaced/",
-      "time": "2026-08-06T21:33:27",
-      "country": "International",
-      "title_ur": "چک شومر نے سختی سے عبد السید کی تائید کی - جب لڑکے نے اسے ڈبہ بند کروانے کا مطالبہ کیا",
-      "desc_ur": "سینیٹ کے اقلیتی رہنما چک شومر مشی گن سینیٹ کے امید وار ڈاکٹر عبد السید کی توثیق کرتے ہوئے نظر آئے، باوجود اس کے کہ صحت عامہ کے سابق اہلکار نے عوامی طور پر ان کی تبدیلی کا مطالبہ کیا تھا۔"
+      "url": "https://nypost.com/2026/08/06/world-news/iran-says-deal-to-open-temporary-narrow-path-through-strait-of-hormuz-coming-soon/",
+      "time": "2026-08-06T22:33:45",
+      "country": "Iran",
+      "title_ur": "ایران کا کہنا ہے کہ آبنائے ہرمز کے ذریعے عارضی اور تنگ راستہ کھولنے کے لیے معاہدہ آخری مراحل میں ہے",
+      "desc_ur": "ایران کے سرکاری میڈیا نے جمعرات کو کہا کہ تہران عمان کے ساتھ عارضی جہاز رانی کے انتظامات کی تصدیق کے \"آخری مراحل میں ہے\" جو آبنائے کے بیچ میں ایک نئی شپنگ لین بنائے گا - صدر ٹرمپ کی جانب سے اس ہفتے آبی گزرگاہ کو مکمل طور پر بند کرنے کا حکم دینے کے بعد…"
     },
     {
-      "title": "Petrus Resources Announces Second Quarter 2026 Financial and Operating Results",
-      "desc": "CALGARY, Alberta, Aug. 06, 2026 (GLOBE NEWSWIRE) — Petrus Resources Ltd. (“Petrus” or the “Company”) (TSX: PRQ) is pleased to report financial and operating results as at and for the three and six months ended June 30, 2026. Q2 2026 HIGHLIGHTS: Operating netb…",
+      "title": "Who was Mina Chan? ENHYPEN fan dies by suicide at 26 as Ni-ki faces backlash over livestream remarks",
+      "desc": "Mina Chan, a 26-year-old Japanese ENHYPEN fan, reportedly died by suicide after alleged online harassment. The incident followed speculation that comments made by Ni-ki during a livestream referred to her, though neither he nor BELIFT LAB confirmed that. Mina…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/us-streamers/who-was-mina-chan-enhypen-fan-dies-by-suicide-at-26-as-ni-ki-faces-backlash-over-livestream-remarks/articleshow/133017781.cms",
+      "time": "2026-08-06T22:32:01",
+      "country": "International",
+      "title_ur": "مینا چن کون تھی؟ ENHYPEN پرستار نے 26 سال کی عمر میں خودکشی کر لی کیونکہ نی کی کو لائیو سٹریم ریمارکس پر ردعمل کا سامنا کرنا پڑا",
+      "desc_ur": "مینا چن، ایک 26 سالہ جاپانی ENHYPEN کی پرستار، مبینہ طور پر آن لائن ہراساں کیے جانے کے بعد خودکشی کر کے مر گئی۔ یہ واقعہ ان قیاس آرائیوں کے بعد ہوا کہ لائیو سٹریم کے دوران Ni-ki کی طرف سے کیے گئے تبصروں میں اس کا حوالہ دیا گیا، حالانکہ اس نے اور نہ ہی BELIFT LAB نے اس کی تصدیق کی۔ مینا…"
+    },
+    {
+      "title": "Asian Stocks to Slip on Iran Concerns, Oil Climbs: Markets Wrap",
+      "desc": "Stocks in Asia looked set to edge lower Friday after a resurgence in geopolitical tensions jolted global markets, sending equities and bonds lower as oil jumped, reviving inflation concerns ahead of the US jobs report.",
       "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/petrus-resources-announces-second-quarter-2026-financial-and-operating-results",
-      "time": "2026-08-06T21:32:05",
-      "country": "US",
-      "title_ur": "پیٹروس ریسورسز نے دوسری سہ ماہی 2026 کے مالی اور آپریٹنگ نتائج کا اعلان کیا",
-      "desc_ur": "کیلگری، البرٹا، اگست 06، 2026 (گلوبی نیوز وائر) — پیٹرس ریسورسز لمیٹڈ (\"پیٹرس\" یا \"کمپنی\") (TSX: PRQ) 30 جون 2026 کو ختم ہونے والے تین اور چھ ماہ کے مالیاتی اور آپریٹنگ نتائج کی اطلاع دیتے ہوئے خوش ہے۔"
+      "url": "https://financialpost.com/pmn/business-pmn/asian-stocks-to-slip-on-iran-concerns-oil-climbs-markets-wrap",
+      "time": "2026-08-06T22:31:30",
+      "country": "Iran",
+      "title_ur": "ایران کے خدشات، تیل میں اضافہ: مارکیٹس کی لپیٹ میں ایشیائی اسٹاکس میں کمی",
+      "desc_ur": "جغرافیائی سیاسی تناؤ کی بحالی نے عالمی منڈیوں کو جھٹکا دینے کے بعد جمعہ کو ایشیا میں اسٹاک کم ہونے کے لیے تیار دکھائی دے رہے تھے، تیل کی قیمتوں میں اضافے کے ساتھ ہی ایکویٹی اور بانڈز کی قیمتیں کم ہوگئیں، جس سے امریکی ملازمتوں کی رپورٹ سے قبل مہنگائی کے خدشات بحال ہوئے۔"
     },
     {
-      "title": "Trump reiterates his positive portrayal of Iran talks",
-      "desc": "President Donald Trump said talks with Tehran seemed \"to be working out quite well,\" reiterating his positive portrayal of the negotiations on the Iran war without elaborating on the specifics of the discussions. DETAILS: • \"I hear they are doing very well,\" …",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4390882/posts",
-      "time": "2026-08-06T21:29:43",
+      "title": "Israel Continues Operations in Lebanon After Little Progress in Rome Talks",
+      "desc": "Israeli forces resumed military operations in southern Lebanon, allegedly against the Iran-backed terrorist organization Hezbollah, on Thursday after minimal progress in talks with the Lebanese government to disarm Hezbollah.\nThe post Israel Continues Operati…",
+      "source": "Breitbart News",
+      "url": "https://www.breitbart.com/middle-east/2026/08/06/israel-continues-operations-in-lebanon-after-little-progress-in-rome-talks/",
+      "time": "2026-08-06T22:30:12",
       "country": "Iran",
-      "title_ur": "ٹرمپ نے ایران مذاکرات کی اپنی مثبت تصویر کشی کا اعادہ کیا۔",
-      "desc_ur": "صدر ڈونلڈ ٹرمپ نے کہا کہ تہران کے ساتھ بات چیت \"بہت اچھی طرح سے کام کر رہی ہے\"، انہوں نے بات چیت کی تفصیلات کی وضاحت کیے بغیر ایران جنگ پر مذاکرات کی اپنی مثبت تصویر کشی کا اعادہ کیا۔ تفصیلات: • \"میں نے سنا ہے کہ وہ بہت اچھا کر رہے ہیں،\" …"
+      "title_ur": "روم مذاکرات میں معمولی پیش رفت کے بعد اسرائیل نے لبنان میں کارروائیاں جاری رکھی ہوئی ہیں۔",
+      "desc_ur": "حزب اللہ کو غیر مسلح کرنے کے لیے لبنانی حکومت کے ساتھ بات چیت میں معمولی پیش رفت کے بعد اسرائیلی فورسز نے جمعرات کے روز جنوبی لبنان میں مبینہ طور پر ایران کی حمایت یافتہ دہشت گرد تنظیم حزب اللہ کے خلاف فوجی آپریشن دوبارہ شروع کر دیا۔\nThe post اسرائیل کا آپریشن جاری…"
+    },
+    {
+      "title": "Israel adds four more medals at Jiu-Jitsu Worlds",
+      "desc": "Israel's jiu-jitsu team capped the Junior World Jiu-Jitsu Championships in Abu Dhabi with four more podium finishes, leaving the team in second place in overall medal standings. Israel’s outstanding run at the Cadet and Junior World Jiu-Jitsu Championships in…",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/sports/article-904823",
+      "time": "2026-08-06T22:27:30",
+      "country": "Israel",
+      "title_ur": "اسرائیل نے Jiu-Jitsu Worlds میں مزید چار تمغوں کا اضافہ کیا۔",
+      "desc_ur": "اسرائیل کی jiu-jitsu ٹیم نے ابوظہبی میں ہونے والی جونیئر ورلڈ Jiu-Jitsu چیمپئن شپ کو مزید چار پوڈیم فنشز کے ساتھ ختم کیا، ٹیم کو مجموعی طور پر میڈل سٹینڈنگ میں دوسرے نمبر پر چھوڑ دیا۔ کیڈٹ اور جونیئر ورلڈ جیو جِتسو چیمپئن شپ میں اسرائیل کی شاندار دوڑ…"
     }
   ],
   "pakistan": [
+    {
+      "title": "‘War Will End Pretty Soon’: Trump Voices Strong Optimism on Iran Talks",
+      "desc": "President Donald Trump predicted Thursday that the war with Iran will end “pretty soon,” saying Tehran cannot sustain the conflict much longer as he revealed that he is personally involved in negotiations toward a potential agreement over the Strait of Hormuz…",
+      "source": "Breitbart News",
+      "url": "https://www.breitbart.com/politics/2026/08/06/war-will-end-pretty-soon-trump-voices-strong-optimism-on-iran-talks/",
+      "time": "2026-08-06T22:57:39",
+      "country": "Pakistan",
+      "title_ur": "'جنگ بہت جلد ختم ہو جائے گی': ٹرمپ نے ایران مذاکرات پر مضبوط امید کا اظہار کیا۔",
+      "desc_ur": "صدر ڈونلڈ ٹرمپ نے جمعرات کو پیش گوئی کی کہ ایران کے ساتھ جنگ ​​\"بہت جلد\" ختم ہو جائے گی، یہ کہتے ہوئے کہ تہران اس تنازعے کو زیادہ دیر تک برقرار نہیں رکھ سکتا کیونکہ انہوں نے انکشاف کیا کہ وہ ذاتی طور پر آبنائے ہرمز پر ممکنہ معاہدے کے لیے مذاکرات میں شامل ہیں۔"
+    },
+    {
+      "title": "Cyberattacks expose deeper vulnerabilities in U.S. water systems",
+      "desc": "Suspected Iran-linked cyberattacks re exposing long-standing vulnerabilities in fragmented U.S. drinking water systems facing aging infrastructure and intensifying climate threats.\nWhy it matters: Drinking water systems disruptions can threaten public health …",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/1dcf06bf91e4f4c7",
+      "time": "2026-08-06T22:43:45",
+      "country": "Pakistan",
+      "title_ur": "سائبر حملے امریکی پانی کے نظام میں گہرے خطرات کو بے نقاب کرتے ہیں۔",
+      "desc_ur": "ایران سے منسلک مشتبہ سائبر حملوں نے امریکہ کے پینے کے پانی کے نظام میں طویل عرصے سے پائی جانے والی کمزوریوں کو بے نقاب کر دیا ہے جو عمر رسیدہ انفراسٹرکچر کا سامنا کر رہے ہیں اور موسمیاتی خطرات کو بڑھا رہے ہیں۔\nیہ کیوں اہم ہے: پینے کے پانی کے نظام میں خلل عوامی صحت کو خطرہ بنا سکتا ہے…"
+    },
+    {
+      "title": "Report: Turkey, Saudi Arabia, and Pakistan to sign joint defense pact",
+      "desc": "Turkey, Saudi Arabia, and Pakistan are set to sign a joint defense agreement during a ceremony in Saudi Arabia, two regional sources with direct knowledge of the matter told Reuters.The emerging tripartite agreement aims to deepen security, military, and stra…",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/flashes/691313",
+      "time": "2026-08-06T22:43:24",
+      "country": "Pakistan",
+      "title_ur": "رپورٹ: ترکی، سعودی عرب اور پاکستان مشترکہ دفاعی معاہدے پر دستخط کریں گے۔",
+      "desc_ur": "ترکی، سعودی عرب اور پاکستان سعودی عرب میں ایک تقریب کے دوران ایک مشترکہ دفاعی معاہدے پر دستخط کرنے والے ہیں، دو علاقائی ذرائع نے جو اس معاملے سے براہ راست آگاہ ہیں، رائٹرز کو بتایا۔ ابھرتے ہوئے سہ فریقی معاہدے کا مقصد سیکیورٹی، فوجی، اور طبقہ کو مزید گہرا کرنا ہے۔"
+    },
+    {
+      "title": "US stocks: Dow closes at record on Mideast optimism; SpaceX, AMD drag Nasdaq",
+      "desc": "The Dow closed at a record on Wednesday on signs of progress for a peace deal with Iran, while the Nasdaq saw its first decline in five sessions as SpaceX and AMD stumbled following their quarterly earnings. A proposed deal between Iran and Oman would give Te…",
+      "source": "Wordupnews.com",
+      "url": "https://wordupnews.com/business/us-stocks-dow-closes-at-record-on-mideast-optimism-spacex-amd-drag-nasdaq/",
+      "time": "2026-08-06T22:35:01",
+      "country": "Pakistan",
+      "title_ur": "امریکی اسٹاک: ڈاؤ مشرق وسطیٰ کی امید پر ریکارڈ پر بند ہوا۔ SpaceX، AMD ڈریگ نیس ڈیک",
+      "desc_ur": "ایران کے ساتھ امن معاہدے کے لیے پیش رفت کے اشارے پر ڈاؤ بدھ کے روز ریکارڈ پر بند ہوا، جب کہ Nasdaq نے پانچ سیشنز میں اپنی پہلی کمی دیکھی کیونکہ SpaceX اور AMD اپنی سہ ماہی آمدنی کے بعد ٹھوکر کھا گئے۔ ایران اور عمان کے درمیان مجوزہ ڈیل سے آپ کو…"
+    },
+    {
+      "title": "South Africa recalls envoy for attending Zuma meet with businessman Gupta",
+      "desc": "South Africa's diplomatic relations may be on shaky ground as the country has recalled its ambassador to India. This step follows the emergence of images depicting a meeting between ex-president Jacob Zuma and Ajay Gupta, a businessman facing serious corrupti…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/south-africa-recalls-envoy-for-attending-zuma-meet-with-businessman-gupta/articleshow/133017416.cms",
+      "time": "2026-08-06T22:18:12",
+      "country": "Pakistan",
+      "title_ur": "جنوبی افریقہ نے تاجر گپتا کے ساتھ زوما کی ملاقات میں شرکت کے لیے ایلچی کو واپس بلا لیا۔",
+      "desc_ur": "جنوبی افریقہ کے سفارتی تعلقات متزلزل ہو سکتے ہیں کیونکہ ملک نے ہندوستان سے اپنے سفیر کو واپس بلا لیا ہے۔ یہ قدم ان تصاویر کے منظر عام پر آنے کے بعد اٹھایا گیا ہے جس میں سابق صدر جیکب زوما اور اجے گپتا کے درمیان ہونے والی ملاقات کو دکھایا گیا ہے، جو سنگین بدعنوانی کا سامنا کر رہے ایک تاجر ہیں…"
+    },
+    {
+      "title": "WATCH: Gen Z says finding love is too expensive",
+      "desc": "Young adults are finding that dating has become too expensive, between dating app subscription fees, pricey drinks and expensive dinner menus. Business journalist Kristin Myers discusses more.",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/video/135439781/",
+      "time": "2026-08-06T22:09:32",
+      "country": "Pakistan",
+      "title_ur": "دیکھو: جنرل زیڈ کا کہنا ہے کہ محبت تلاش کرنا بہت مہنگا ہے۔",
+      "desc_ur": "ڈیٹنگ ایپ سبسکرپشن فیس، مہنگے مشروبات اور مہنگے ڈنر مینو کے درمیان نوجوان بالغوں کو پتہ چل رہا ہے کہ ڈیٹنگ بہت مہنگی ہو گئی ہے۔ کاروباری صحافی کرسٹن مائرز نے مزید گفتگو کی۔"
+    },
     {
       "title": "'Mamdani Wave' sweeps USA...",
       "desc": "The Democratic primary victory of the physician, son of Egyptian immigrants and a staunch critic of Israel, displays the growing strength of the party’s progressive wing",
@@ -162,16 +222,6 @@
       "country": "Pakistan",
       "title_ur": "'ممدانی لہر' نے امریکہ کو کلین سویپ کر دیا...",
       "desc_ur": "مصری تارکین وطن کے بیٹے اور اسرائیل کے کٹر ناقد ڈاکٹر کی ڈیموکریٹک بنیادی فتح پارٹی کے ترقی پسند ونگ کی بڑھتی ہوئی طاقت کو ظاہر کرتی ہے۔"
-    },
-    {
-      "title": "The Iran-China axis has no clue who they’re messing with!",
-      "desc": "The world is focused on Iran. Dr. David Wurmser says the real threat is much bigger. In this urgent conversation, he explains how China, Turkey, Pakistan, Qatar, and a weakened Iran are aligning against Israel and the United States, why containment may fail, …",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4390885/posts",
-      "time": "2026-08-06T21:50:51",
-      "country": "Pakistan",
-      "title_ur": "ایران اور چین کے محور کو کوئی پتہ نہیں ہے کہ وہ کس کے ساتھ گڑبڑ کر رہے ہیں!",
-      "desc_ur": "دنیا کی توجہ ایران پر ہے۔ ڈاکٹر ڈیوڈ ورمسر کہتے ہیں کہ اصل خطرہ بہت بڑا ہے۔ اس فوری گفتگو میں وہ بتاتے ہیں کہ کس طرح چین، ترکی، پاکستان، قطر اور ایک کمزور ایران اسرائیل اور امریکہ کے خلاف صف آرا ہو رہے ہیں، کنٹینمنٹ کیوں ناکام ہو سکتا ہے،…"
     }
   ],
   "business": {
