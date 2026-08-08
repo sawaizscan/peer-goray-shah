@@ -1,158 +1,189 @@
 {
-  "generated": "2026-08-08T07:43:11Z",
+  "generated": "2026-08-08T08:32:57Z",
   "world": [
     {
-      "title": "Dash for Ceuta adds heat to Europe’s migration debate",
-      "desc": "The surge in irregular crossings at Ceuta has been seized on by the far right to criticise Spain’s liberal immigration policies.",
-      "source": "The Conversation Africa",
-      "url": "https://theconversation.com/dash-for-ceuta-adds-heat-to-europes-migration-debate-289246",
-      "time": "2026-08-07T07:40:19",
-      "country": "Europe",
-      "title_ur": "ڈیش فار سیوٹا نے یورپ کی ہجرت کی بحث کو گرما دیا۔",
-      "desc_ur": "سیوٹا میں بے قاعدہ کراسنگ میں اضافے کو دائیں بازو کی طرف سے اسپین کی لبرل امیگریشن پالیسیوں پر تنقید کا نشانہ بنایا گیا ہے۔"
+      "title": "Trump threatens 'leakers' over munition shortage reports",
+      "desc": "US President Donald Trump said the United States has a vast supply of munitions and threatened those who suggested otherwise with jail terms as his frustration with the Iran war boiled over.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/us/2026/0807/1586903-trump-us-weapons/",
+      "time": "2026-08-07T08:32:06",
+      "country": "Iran",
+      "title_ur": "ٹرمپ نے ہتھیاروں کی کمی کی خبروں پر 'لیکرز' کو دھمکی دی ہے۔",
+      "desc_ur": "امریکی صدر ڈونلڈ ٹرمپ نے کہا کہ امریکہ کے پاس جنگی سازوسامان کی بہت بڑی سپلائی ہے اور انہوں نے ان لوگوں کو دھمکی دی جنہوں نے دوسری صورت میں جیل کی سزا کا مشورہ دیا کیونکہ ان کی ایران جنگ سے مایوسی بڑھ گئی تھی۔"
     },
     {
-      "title": "US Stock Market: Warsh's Fed leaves markets searching for policy clues",
-      "desc": "Federal Reserve Chair Kevin Warsh is changing the central bank’s communication approach, reducing reliance on forward guidance and leaving markets to interpret economic data more independently. The shift has triggered volatility in bond markets, with investor…",
+      "title": "Ebola response concerns, Tigray war warnings, and Gaza’s ceasefire mirage: The Cheat Sheet",
+      "desc": "Ebola response concerns, Tigray war warnings, and Gaza’s ceasefire mirage: The Cheat Sheet\n\nsofia\n\nFri, 08/07/2026 - 09:26",
+      "source": "The New Humanitarian",
+      "url": "https://www.thenewhumanitarian.org/news/2026/08/07/ebola-response-tigray-war-warnings-gazas-ceasefire-mirage-cheat-sheet",
+      "time": "2026-08-07T08:26:28",
+      "country": "Israel",
+      "title_ur": "ایبولا کے ردعمل کے خدشات، ٹگرے ​​جنگ کے انتباہات، اور غزہ کی جنگ بندی کا سراب: دھوکہ دہی",
+      "desc_ur": "ایبولا کے ردعمل کے خدشات، ٹگرے جنگ کے انتباہات، اور غزہ کی جنگ بندی کا سراب: دھوکہ دہی\n\nصوفیہ\n\nجمعہ، 08/07/2026 - 09:26"
+    },
+    {
+      "title": "Israeli forces withdraw from Palestinian refugee camp after two-day operation; reports say dozens injured",
+      "desc": "The Palestinian Authority said 51 people were treated for injuries during the operation and accused Israel of seeking to 'establish military control' in the area. Israel said the raid targeted 'terrorist elements' and weapons trafficking",
+      "source": "Haaretz",
+      "url": "https://www.haaretz.com/west-bank/2026-08-07/ty-article/.premium/israeli-forces-withdraw-from-palestinian-refugee-camp-after-two-day-operation/0000019f-db17-d9df-af9f-fb97787c0000",
+      "time": "2026-08-07T08:22:48",
+      "country": "Israel",
+      "title_ur": "Israeli forces withdraw from Palestinian refugee camp after two-day operation; اطلاعات کے مطابق درجنوں زخمی ہیں۔",
+      "desc_ur": "فلسطینی اتھارٹی نے کہا کہ آپریشن کے دوران زخمی ہونے والے 51 افراد کا علاج کیا گیا اور اسرائیل پر الزام لگایا کہ وہ علاقے میں 'فوجی کنٹرول قائم کرنے' کی کوشش کر رہا ہے۔ اسرائیل نے کہا کہ چھاپے میں 'دہشت گرد عناصر' اور ہتھیاروں کی اسمگلنگ کو نشانہ بنایا گیا۔"
+    },
+    {
+      "title": "Oil up on concerns over Strait of Hormuz reopening plans",
+      "desc": "Oil extended gains this morning amid further concerns around the opening of the Strait of Hormuz, as Iran, working with Oman, suggested banning vessels deemed hostile from the strait and heavily fining those which violated the proposed rules.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/business/2026/0807/1586906-world-oil-prices/",
+      "time": "2026-08-07T08:22:03",
+      "country": "Iran",
+      "title_ur": "آبنائے ہرمز کے دوبارہ کھولنے کے منصوبوں پر خدشات پر تیل",
+      "desc_ur": "آبنائے ہرمز کے کھلنے کے بارے میں مزید خدشات کے درمیان آج صبح تیل کی قیمتوں میں اضافہ ہوا، کیونکہ ایران نے، عمان کے ساتھ مل کر، آبنائے سے دشمن سمجھے جانے والے جہازوں پر پابندی لگانے اور مجوزہ قوانین کی خلاف ورزی کرنے والوں پر بھاری جرمانے کی تجویز دی۔"
+    },
+    {
+      "title": "Whoops, Apocalypse! Why Five Conflicts Could Become One World War | Opinion",
+      "desc": "The war between the United States and Iran began as a regional confrontation with global economic consequences. It could remain that way, but the situation also contains a far darker possibility: as in 1914, a series of individually rational decisions by worl…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/1acf9471634ded73",
+      "time": "2026-08-07T08:19:21",
+      "country": "Iran",
+      "title_ur": "افوہ، Apocalypse! پانچ تنازعات ایک عالمی جنگ کیوں بن سکتے ہیں؟ رائے",
+      "desc_ur": "امریکہ اور ایران کے درمیان جنگ ایک علاقائی تصادم کے طور پر شروع ہوئی جس کے عالمی معاشی نتائج برآمد ہوئے۔ یہ اسی طرح رہ سکتا ہے، لیکن صورت حال اس سے کہیں زیادہ تاریک امکان پر مشتمل ہے: جیسا کہ 1914 میں، دنیا کے انفرادی طور پر عقلی فیصلوں کا ایک سلسلہ…"
+    },
+    {
+      "title": "China’s Crude Imports Bounce Back After Historic June Slump",
+      "desc": "China’s crude oil imports reversed an earlier decline, rising by 22% from June to an average daily of 8.45 million barrels, or a total of 35.73 million tons, Bloomberg reported today, citing customs data. China slashed its total crude oil imports to a decade …",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Crude-Imports-Bounce-Back-After-Historic-June-Slump.html",
+      "time": "2026-08-07T08:15:00",
+      "country": "China",
+      "title_ur": "چین کی خام درآمدات جون میں تاریخی مندی کے بعد واپس آ گئیں۔",
+      "desc_ur": "بلومبرگ نے کسٹمز کے اعداد و شمار کا حوالہ دیتے ہوئے آج رپورٹ کیا کہ چین کی خام تیل کی درآمدات نے پہلے کی کمی کو تبدیل کر دیا، جون سے اوسطاً یومیہ 8.45 ملین بیرل یا کل 35.73 ملین ٹن تک 22 فیصد اضافہ ہوا۔ چین نے خام تیل کی کل درآمدات کو ایک دہائی تک کم کر دیا…"
+    },
+    {
+      "title": "Robert Stock ready to prove his worth in long-awaited return to Mets",
+      "desc": "After battling surgery and a long journey through the minors, Robert Stock is back on the mound for the Mets.",
+      "source": "NorthJersey.com",
+      "url": "https://www.northjersey.com/story/sports/mlb/mets/2026/08/07/robert-stock-looks-to-prove-worth-in-mets-starting-rotation-after-injury/91182520007/",
+      "time": "2026-08-07T08:13:30",
+      "country": "International",
+      "title_ur": "رابرٹ اسٹاک میٹس میں طویل انتظار کی واپسی میں اپنی قابلیت ثابت کرنے کے لئے تیار ہے۔",
+      "desc_ur": "سرجری سے لڑنے اور نابالغوں کے ذریعے ایک طویل سفر کے بعد، رابرٹ اسٹاک میٹس کے لیے ٹیلے پر واپس آ گیا ہے۔"
+    },
+    {
+      "title": "Report: South Korean FA paid for sexual entertainment to referees",
+      "desc": "The South Korean Football Association (KFA) has allegedly provided sexual entertainment to foreign referees between 2011 and 2012, the Yonhap news agency reported on Friday citing a past government audit report. According to the audit report compiled by the M…",
+      "source": "Dpa-international.com",
+      "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:260807-99-275809/",
+      "time": "2026-08-07T08:03:33",
+      "country": "International",
+      "title_ur": "رپورٹ: جنوبی کوریائی ایف اے نے ریفریوں کو جنسی تفریح ​​کے لیے ادائیگی کی۔",
+      "desc_ur": "جنوبی کوریائی فٹ بال ایسوسی ایشن (کے ایف اے) نے 2011 اور 2012 کے درمیان مبینہ طور پر غیر ملکی ریفریوں کو جنسی تفریح ​​فراہم کی ہے، یونہاپ نیوز ایجنسی نے جمعہ کو ماضی کی سرکاری آڈٹ رپورٹ کا حوالہ دیتے ہوئے رپورٹ کیا۔ ایم کی جانب سے مرتب کردہ آڈٹ رپورٹ کے مطابق…"
+    },
+    {
+      "title": "Ixigo posts record Q1 profit, but stock tumbles 9%. Here's what worried Dalal Street",
+      "desc": "Ixigo shares fell nearly 9% despite the online travel company reporting its highest-ever quarterly profit in Q1FY27. The stock came under pressure after brokerages turned cautious, citing continued investments in hotels, AI and other growth initiatives that c…",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stock-market-warshs-fed-leaves-markets-searching-for-policy-clues/articleshow/133027004.cms",
-      "time": "2026-08-07T07:37:48",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ixigo-posts-record-q1-profit-but-stock-tumbles-9-heres-what-worried-dalal-street/articleshow/133027817.cms",
+      "time": "2026-08-07T08:03:24",
       "country": "US",
-      "title_ur": "یو ایس سٹاک مارکیٹ: وارش کی فیڈ پالیسی سراگوں کی تلاش میں مارکیٹوں کو چھوڑ دیتی ہے۔",
-      "desc_ur": "فیڈرل ریزرو کے چیئر کیون وارش مرکزی بینک کے مواصلاتی نقطہ نظر کو تبدیل کر رہے ہیں، فارورڈ گائیڈنس پر انحصار کم کر رہے ہیں اور مارکیٹوں کو معاشی ڈیٹا کی مزید آزادانہ تشریح کرنے کے لیے چھوڑ رہے ہیں۔ اس تبدیلی نے بانڈ مارکیٹوں میں اتار چڑھاؤ کو جنم دیا ہے، سرمایہ کاروں کے ساتھ…"
+      "title_ur": "Ixigo پوسٹس نے Q1 منافع ریکارڈ کیا، لیکن اسٹاک 9% گر گیا۔ یہ ہے دلال اسٹریٹ کی فکر کیا ہے۔",
+      "desc_ur": "آن لائن ٹریول کمپنی کی جانب سے مالی سال 27 کی پہلی سہ ماہی میں سب سے زیادہ منافع کی اطلاع دینے کے باوجود Ixigo کے حصص تقریباً 9% گر گئے۔ ہوٹلوں، AI اور دیگر ترقی کے اقدامات میں مسلسل سرمایہ کاری کا حوالہ دیتے ہوئے، بروکریجز کے محتاط ہونے کے بعد اسٹاک دباؤ میں آ گیا۔"
     },
     {
-      "title": "A refreshing take on fitness",
-      "desc": "Bombay Times Life.Styled Club celebrated Friendship Day with an invigorating aqua fitness event. Led by coach Khyati Kanjani, fitness enthusiasts dove into a dynamic pool session featuring strength-building, endurance, and mobility exercises paired with engag…",
+      "title": "India on track to exceed key fundraising goal on state-firm stake sales",
+      "desc": "India is poised to achieve its divestment aspirations this fiscal year, with enhanced momentum in stake sales and asset monetisation. Although increased fertiliser costs and fuel subsidies pose a challenge to public financial stability due to regional dispute…",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/a-refreshing-take-on-fitness/articleshow/133027082.cms",
-      "time": "2026-08-07T07:36:14",
+      "url": "https://economictimes.indiatimes.com/news/economy/finance/india-on-track-to-exceed-key-fundraising-goal-on-state-firm-stake-sales/articleshow/133027569.cms",
+      "time": "2026-08-07T08:02:27",
+      "country": "Iran",
+      "title_ur": "ہندوستان ریاستی فرم حصص کی فروخت پر فنڈ ریزنگ کے کلیدی ہدف سے تجاوز کرنے کے راستے پر ہے۔",
+      "desc_ur": "ہندوستان اس مالی سال میں حصص کی فروخت اور اثاثوں کی منیٹائزیشن میں تیز رفتاری کے ساتھ اپنی تقسیم کی خواہشات کو حاصل کرنے کے لیے تیار ہے۔ اگرچہ کھاد کی بڑھتی ہوئی لاگت اور ایندھن کی سبسڈی علاقائی تنازعہ کی وجہ سے عوامی مالیاتی استحکام کے لیے ایک چیلنج ہے…"
+    },
+    {
+      "title": "The SAVE America Act cannot save this electorate",
+      "desc": "Homeland Security Secretary Markwayne Mullin recently promised to focus immigration enforcement on criminal aliens. At a National Governors Association forum with Oklahoma Gov. Kevin Stitt (R), Mullin also noted that the United States had naturalized nearly 9…",
+      "source": "TheBlaze",
+      "url": "https://www.theblaze.com/columns/opinion/the-save-america-act-cannot-save-this-electorate",
+      "time": "2026-08-07T08:00:00",
       "country": "US",
-      "title_ur": "فٹنس پر ایک تازگی کا مظاہرہ",
-      "desc_ur": "Bombay Times Life.Styled کلب نے ایک پرجوش ایکوا فٹنس ایونٹ کے ساتھ دوستی کا دن منایا۔ کوچ خیاتی کنجانی کی قیادت میں، فٹنس کے شوقین افراد نے ایک متحرک پول سیشن میں حصہ لیا جس میں طاقت پیدا کرنے، برداشت کرنے اور نقل و حرکت کی مشقیں شامل ہیں..."
+      "title_ur": "SAVE America ایکٹ اس ووٹر کو نہیں بچا سکتا",
+      "desc_ur": "ہوم لینڈ سیکیورٹی کے سکریٹری مارکوین مولن نے حال ہی میں مجرمانہ غیر ملکیوں پر امیگریشن کے نفاذ پر توجہ مرکوز کرنے کا وعدہ کیا ہے۔ اوکلاہوما کے گورنر کیون اسٹٹ (ر) کے ساتھ نیشنل گورنرز ایسوسی ایشن کے فورم میں، مولن نے یہ بھی نوٹ کیا کہ ریاستہائے متحدہ نے تقریباً 9…"
     },
     {
-      "title": "Eknath Shinde meets PM Narendra Modi amid buzz over Cabinet reshuffle, delimitation bill",
-      "desc": "DCM Eknath Shinde's pivotal meeting with PM Narendra Modi took place in Delhi on Friday, aiming to set the stage for a cabinet reshuffle and the deliberation of the delimitation bill. Shinde gathered with six newly elected Lok Sabha MPs from his faction to ad…",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/eknath-shinde-meets-pm-narendra-modi-amid-buzz-over-cabinet-reshuffle-delimitation-bill/articleshow/133026394.cms",
-      "time": "2026-08-07T07:35:49",
-      "country": "India",
-      "title_ur": "ایکناتھ شندے نے وزیر اعظم نریندر مودی سے کابینہ میں ردوبدل، حد بندی بل پر شور و غل کے درمیان ملاقات کی",
-      "desc_ur": "ڈی سی ایم ایکناتھ شندے کی وزیر اعظم نریندر مودی کے ساتھ اہم میٹنگ جمعہ کو دہلی میں ہوئی، جس کا مقصد کابینہ میں ردوبدل اور حد بندی بل پر غور و خوض کا مرحلہ طے کرنا تھا۔ شندے اپنے دھڑے کے چھ نو منتخب لوک سبھا ممبران کے ساتھ اشتہار دینے کے لیے جمع ہوئے…"
+      "title": "El-Sayed Hits Back at Trump",
+      "desc": "Abdul El-Sayed says President Trump should worry less about him and more about Americans' wallets. The Democratic Senate nominee from Michigan fired back after Trump, speaking in Las Vegas on Wednesday, labeled him a \"man of hate\" who \"hates Jews\" and \"hates …",
+      "source": "Newser",
+      "url": "https://www.newser.com/story/394197/el-sayed-hits-back-at-trump.html",
+      "time": "2026-08-07T08:00:00",
+      "country": "US",
+      "title_ur": "السید نے ٹرمپ پر جوابی حملہ کیا۔",
+      "desc_ur": "عبد السید کا کہنا ہے کہ صدر ٹرمپ کو اپنی فکر کم اور امریکیوں کے بٹوے کی زیادہ فکر کرنی چاہیے۔ مشی گن سے ڈیموکریٹک سینیٹ کے نامزد امیدوار نے بدھ کے روز لاس ویگاس میں خطاب کرتے ہوئے ٹرمپ کے بعد جوابی فائرنگ کر دی، انہیں \"نفرت کا آدمی\" قرار دیا جو \"یہودیوں سے نفرت کرتا ہے\" اور \"نفرت کرتا ہے…"
     },
     {
-      "title": "Investments in gold ETFs continue to be net positive for 2nd week in a row",
-      "desc": "However, there was a $7 outflow for every inflow of $10, data from World Gold Council (WGC) showed",
+      "title": "What’s driving Gold above $4,200? Fed bets & West Asia hopes drive rally",
+      "desc": "Spot gold was at $4,262.39 per ounce, up 0.60%, while MCX gold was around ₹1,31,850 per 10 grams; Silver increased 1.30% to $62.20 per ounce",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/gold/investments-in-gold-etfs-continue-to-be-net-positive-for-2nd-week-in-a-row/article71316667.ece",
-      "time": "2026-08-07T07:35:40",
+      "url": "https://www.thehindubusinessline.com/markets/gold/whats-driving-gold-above-4200-fed-bets-west-asia-hopes-drive-rally/article71316659.ece",
+      "time": "2026-08-07T07:56:46",
       "country": "International",
-      "title_ur": "گولڈ ای ٹی ایف میں سرمایہ کاری لگاتار دوسرے ہفتے خالص مثبت رہی",
-      "desc_ur": "تاہم، ورلڈ گولڈ کونسل (WGC) کے اعداد و شمار سے ظاہر ہوتا ہے کہ ہر 10 ڈالر کی آمد کے لیے $7 کا اخراج تھا۔"
+      "title_ur": "سونے کی قیمت 4,200 ڈالر سے اوپر کیا ہے؟ فیڈ بیٹس اور ویسٹ ایشیا کو ریلی کی امید ہے۔",
+      "desc_ur": "سپاٹ گولڈ 0.60 فیصد اضافے کے ساتھ 4,262.39 ڈالر فی اونس پر تھا، جبکہ MCX سونا تقریباً ₹1,31,850 فی 10 گرام تھا۔ چاندی 1.30 فیصد بڑھ کر 62.20 ڈالر فی اونس ہوگئی"
     },
     {
-      "title": "Commodities: Oil Rallies As Chances Of U.S.-Iran Deal Fade",
-      "desc": "By Warren Patterson, Head of Commodities Strategy and Ewa Manthey, Commodities Strategist\nEnergy - US-Iran deal obstacles\nOil prices rallied yesterday, with ICE Brent settling 3.8% higher on the day, taking it back above $82/bbl. This strength continued in",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/211d5d3ae6e797a3",
-      "time": "2026-08-07T07:35:13",
-      "country": "Iran",
-      "title_ur": "اشیاء: امریکی-ایران ڈیل کے ختم ہونے کے امکانات کے طور پر تیل کی ریلیاں",
-      "desc_ur": "وارین پیٹرسن، ہیڈ آف کموڈٹیز سٹریٹیجی اور ایوا مینتھے، کموڈٹیز سٹریٹجسٹ\nتوانائی - امریکہ ایران معاہدے میں رکاوٹیں\nگزشتہ روز تیل کی قیمتوں میں اضافہ ہوا، جس میں آئی سی ای برینٹ دن میں 3.8 فیصد بڑھ کر اسے $82/bbl سے اوپر لے گیا۔ یہ طاقت اندر بھی جاری رہی"
+      "title": "British Netflix star being eyed for Cyclops role in new X-Men film",
+      "desc": "New generation of stars set to play mutant characters in standalone MCU film",
+      "source": "The-independent.com",
+      "url": "https://www.the-independent.com/arts-entertainment/films/news/marvel-xmen-kit-connor-cyclops-cast-b3029131.html",
+      "time": "2026-08-07T07:53:12",
+      "country": "UK",
+      "title_ur": "برطانوی Netflix سٹار کو نئی X-Men فلم میں Cyclops کے کردار کے لیے دیکھا جا رہا ہے۔",
+      "desc_ur": "ستاروں کی نئی نسل اسٹینڈ ایلون MCU فلم میں اتپریورتی کردار ادا کرنے کے لیے تیار ہے۔"
     },
     {
-      "title": "L&T bags major offshore orders worth Rs 5,000-10,000 crore from ONGC for pipeline replacement",
-      "desc": "Larsen & Toubro has secured significant offshore orders from ONGC. These orders are valued between five thousand and ten thousand crore rupees. The projects involve pipeline replacement and well head platforms off India's west coast. L&T Energy Hydrocarbon Of…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/lt-bags-major-offshore-orders-worth-rs-5000-10000-crore-from-ongc-for-pipeline-replacement/articleshow/133026896.cms",
-      "time": "2026-08-07T07:34:53",
-      "country": "India",
-      "title_ur": "ایل اینڈ ٹی نے پائپ لائن کی تبدیلی کے لیے او این جی سی سے 5,000-10,000 کروڑ روپے کے بڑے آف شور آرڈر حاصل کیے",
-      "desc_ur": "لارسن اینڈ ٹوبرو نے ONGC سے اہم آف شور آرڈر حاصل کیے ہیں۔ ان آرڈرز کی قیمت پانچ ہزار سے دس ہزار کروڑ روپے کے درمیان ہے۔ ان منصوبوں میں پائپ لائن کی تبدیلی اور بھارت کے مغربی ساحل سے دور کنویں کے پلیٹ فارم شامل ہیں۔ ایل اینڈ ٹی انرجی ہائیڈرو کاربن آف…"
-    },
-    {
-      "title": "Ukraine Struck Iranian Vessel to Get Resources From US - Expert",
-      "desc": "Ukraine wanted to demonstrate to the United States \"its importance\" against Iran as well, since the strike occurred practically right before Volodymyr Zelensky's visit to the US, senior researcher at the Center for Analysis of Strategies and Technologies Yuri…",
-      "source": "Sputnikglobe.com",
-      "url": "https://sputnikglobe.com/20260807/ukraine-struck-iranian-vessel-to-get-resources-from-us---expert-1124547145.html",
-      "time": "2026-08-07T07:34:19",
-      "country": "Iran",
-      "title_ur": "یوکرین نے امریکہ سے وسائل حاصل کرنے کے لیے ایرانی جہاز کو مار گرایا - ماہر",
-      "desc_ur": "یوکرین ایران کے خلاف بھی امریکہ کو \"اپنی اہمیت\" کا مظاہرہ کرنا چاہتا تھا، کیونکہ یہ حملہ عملی طور پر ولادیمیر زیلینسکی کے دورہ امریکہ سے پہلے ہوا تھا، سنٹر فار اینالیسس آف اسٹریٹیجیز اینڈ ٹیکنالوجیز یوری…"
-    },
-    {
-      "title": "Israeli forces raid West Bank town of Tammun",
-      "desc": "The Israel Defense Forces (IDF) conducted a raid on the town of Tammun early Friday morning, located south of Tubas in the occupied West Bank, the Palestine News Agency Wafa reported. Local sources sa...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/564b2ad63617d283",
-      "time": "2026-08-07T07:34:00",
-      "country": "Israel",
-      "title_ur": "اسرائیلی فوج نے مغربی کنارے کے شہر تممون پر دھاوا بول دیا۔",
-      "desc_ur": "فلسطین کی خبر رساں ایجنسی وفا نے رپورٹ کیا کہ اسرائیلی ڈیفنس فورسز (IDF) نے جمعہ کی علی الصبح مقبوضہ مغربی کنارے میں طوباس کے جنوب میں واقع قصبے تممون پر چھاپہ مارا۔ مقامی ذرائع کے مطابق ..."
-    },
-    {
-      "title": "Explosive drones: The new terror threat Israel is racing to stop",
-      "desc": "New report says Israel's defense establishment increasingly worried terrorists could launch explosive drones from Israeli cities.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/431374",
-      "time": "2026-08-07T07:34:00",
-      "country": "Israel",
-      "title_ur": "دھماکہ خیز ڈرون: دہشت گردی کا نیا خطرہ اسرائیل روکنے کی دوڑ لگا رہا ہے۔",
-      "desc_ur": "نئی رپورٹ میں کہا گیا ہے کہ اسرائیل کی دفاعی اسٹیبلشمنٹ کو یہ خدشہ بڑھ رہا ہے کہ دہشت گرد اسرائیلی شہروں سے دھماکہ خیز ڈرون لانچ کر سکتے ہیں۔"
-    },
-    {
-      "title": "Burnham urged to tackle cost of living crisis by urging Trump to end Iran war",
-      "desc": "Trade unions say UK prime minister must begin by revoking permission for US to use RAF bases for airstrikes in Gulf\nTrade unions have called on Andy Burnham to tackle the cost of living crisis at its source by pressuring Donald Trump to bring the conflict in …",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/b7ead7b773a17e1b",
-      "time": "2026-08-07T07:33:41",
-      "country": "Iran",
-      "title_ur": "برنہم نے ٹرمپ سے ایران جنگ ختم کرنے پر زور دے کر زندگی کے بحران سے نمٹنے کے لیے زور دیا۔",
-      "desc_ur": "ٹریڈ یونینوں کا کہنا ہے کہ برطانیہ کے وزیر اعظم کو خلیج میں فضائی حملوں کے لیے امریکہ کے RAF اڈوں کے استعمال کی اجازت منسوخ کر کے شروع کرنا چاہیے۔\nٹریڈ یونینوں نے اینڈی برنہم سے مطالبہ کیا ہے کہ وہ ڈونلڈ ٹرمپ پر دباؤ ڈال کر اس کے منبع پر زندگی کے بحران سے نمٹنے کے لیے…"
-    },
-    {
-      "title": "Daisy Shah: The films I’ve done haven’t fully reflected my potential as an actor",
-      "desc": "Daisy Shah reflects on her stint on Alliance and how the experience changed her understanding of honesty, strategy and relationships in a competitive reality format. She discusses why she chose loyalty to mentor Sohail Khan despite the impact it could have ha…",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/daisy-shah-the-films-ive-done-havent-fully-reflected-my-potential-as-an-actor/articleshow/133010934.cms",
-      "time": "2026-08-07T07:31:51",
-      "country": "US",
-      "title_ur": "ڈیزی شاہ: میں نے جو فلمیں کی ہیں ان میں بطور اداکار میری صلاحیت کی مکمل عکاسی نہیں کی گئی۔",
-      "desc_ur": "ڈیزی شاہ الائنس پر اپنے دور کی عکاسی کرتی ہے اور اس تجربے نے کس طرح دیانتداری، حکمت عملی اور تعلقات کے بارے میں ان کی سمجھ کو مسابقتی حقیقت کی شکل میں بدل دیا۔ وہ اس بات پر بحث کرتی ہے کہ اس کے اثرات کے باوجود اس نے سرپرست سہیل خان کے ساتھ وفاداری کا انتخاب کیوں کیا…"
-    },
-    {
-      "title": "After the World Cup Loss, Drake is Back on Stake: Now He is the One Giving Out Money",
-      "desc": "Drake is back on Kick with Stake for a massive livestream, featuring gambling, fan interaction, and a $1 million giveaway. Don’t miss Drizzy’s next big eve\n\nRead More: https://punchng.com/after-the-world-cup-loss-drake-is-back-on-stake-now-he-is-the-one-givin…",
-      "source": "The Punch",
-      "url": "https://punchng.com/after-the-world-cup-loss-drake-is-back-on-stake-now-he-is-the-one-giving-out-money/",
-      "time": "2026-08-07T07:24:21",
-      "country": "International",
-      "title_ur": "ورلڈ کپ ہارنے کے بعد، ڈریک واپس داؤ پر آگیا: اب وہ پیسہ دینے والا ہے۔",
-      "desc_ur": "Drake بڑے پیمانے پر لائیو سٹریم کے لیے کِک کے ساتھ اسٹیک پر واپس آ گیا ہے، جس میں جوا کھیلنا، مداحوں کی بات چیت، اور $1 ملین کا تحفہ شامل ہے۔ Drizzy کی اگلی بڑی شام کو مت چھوڑیں۔\n\nمزید پڑھیں: https://punchng.com/after-the-world-cup-loss-drake-is-back-on-stake-now-he-is-the-one-givin…"
-    },
-    {
-      "title": "'It isn't necessary for me to be at forefront': CJP's Abhijeet Dipke backs Jharkhand students' protest",
-      "desc": "Abhijeet Dipke, the founder of the Cockroach Janta Party, stands in solidarity with Jharkhand students who are protesting against exam irregularities. His party is actively providing meals and support to those participating in the demonstration, which has now…",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/aurangabad/it-isnt-necessary-for-me-to-be-at-the-forefront-cjps-abhijeet-dipke-backs-jharkhand-students-protest/articleshow/133026395.cms",
-      "time": "2026-08-07T07:22:58",
-      "country": "International",
-      "title_ur": "'یہ ضروری نہیں ہے کہ میں سب سے آگے ہوں': CJP کے ابھیجیت ڈپکے نے جھارکھنڈ کے طلباء کے احتجاج کی حمایت کی",
-      "desc_ur": "ابھیجیت ڈپکے، کاکروچ جنتا پارٹی کے بانی، جھارکھنڈ کے طلباء کے ساتھ اظہار یکجہتی کرتے ہیں جو امتحان میں بے ضابطگیوں کے خلاف احتجاج کر رہے ہیں۔ ان کی پارٹی مظاہرے میں حصہ لینے والوں کو فعال طور پر کھانا اور مدد فراہم کر رہی ہے، جس نے اب…"
-    },
-    {
-      "title": "How to watch Ireland vs Afghanistan ODI 2026 live: Start time, TV channels and streaming details for IRE vs AFG ODI series",
-      "desc": "Ireland and Afghanistan battle in a five-match ODI series. Find out how to watch the action live, with TV channels, streaming details and match timings.",
-      "source": "Cricketnews.com",
-      "url": "https://www.cricketnews.com/en/cricket/news/watch-ire-afg-odi-2026-live-start-time-tv-channels-streaming/3de2599c4d66bf15380d5da0",
-      "time": "2026-08-07T07:21:29",
-      "country": "Afghanistan",
-      "title_ur": "آئرلینڈ بمقابلہ افغانستان ODI 2026 لائیو کیسے دیکھیں: IRE بمقابلہ AFG ODI سیریز کے آغاز کا وقت، ٹی وی چینلز اور اسٹریمنگ کی تفصیلات",
-      "desc_ur": "آئرلینڈ اور افغانستان کے درمیان پانچ ون ڈے میچوں کی سیریز کھیلی جائے گی۔ ٹی وی چینلز، سلسلہ بندی کی تفصیلات اور میچ کے اوقات کے ساتھ ایکشن کو لائیو دیکھنے کا طریقہ معلوم کریں۔"
+      "title": "China Monthly Crude Imports Rebound",
+      "desc": "China's crude oil imports rebounded last month from a near-decade low, after flows through the Strait of Hormuz picked up and refiners boosted purchases from nations outside the Middle East including Russia.",
+      "source": "Rigzone",
+      "url": "https://www.rigzone.com/news/wire/china_monthly_crude_imports_rebound-07-aug-2026-184317-article/",
+      "time": "2026-08-07T07:47:45",
+      "country": "Russia",
+      "title_ur": "چین کی ماہانہ خام درآمدات میں تیزی",
+      "desc_ur": "آبنائے ہرمز سے گزرنے اور ریفائنرز نے روس سمیت مشرق وسطیٰ سے باہر کے ممالک سے خریداری کو بڑھاوا دینے کے بعد چین کی خام تیل کی درآمدات گزشتہ ماہ تقریباً ایک دہائی کی کم ترین سطح سے واپس آگئیں۔"
     }
   ],
-  "pakistan": [],
+  "pakistan": [
+    {
+      "title": "Pakistan all-rounder handed two-year ban over visa misrepresentation: PCB says conduct tarnished PAK cricket's reputation",
+      "desc": "Hamza Nazar's time with the Pakistan national team has been cut short before it even begins, after the bowler was banned for two years by the PCB for providing misleading visa information.",
+      "source": "Cricketnews.com",
+      "url": "https://www.cricketnews.com/en/cricket/news/pakistan-all-rounder-two-year-ban-visa-pcb-reputation/2afdd7cfb7f450b7d245eb77",
+      "time": "2026-08-07T08:32:21",
+      "country": "Pakistan",
+      "title_ur": "پاکستانی آل راؤنڈر پر ویزہ کی غلط بیانی پر دو سال کی پابندی عائد: پی سی بی کا کہنا ہے کہ اس طرز عمل سے پاک کرکٹ کی ساکھ داغدار ہوئی",
+      "desc_ur": "پاکستان کی قومی ٹیم کے ساتھ حمزہ نذر کا وقت شروع ہونے سے پہلے ہی کم کر دیا گیا ہے، پی سی بی کی جانب سے ویزہ کی گمراہ کن معلومات فراہم کرنے پر بولر پر دو سال کی پابندی عائد کرنے کے بعد۔"
+    },
+    {
+      "title": "Stocks, dollar stall ahead of US jobs data; oil gains as Gulf tensions flare",
+      "desc": "LONDON, Aug 7 : Global stocks headed for their strongest weekly gain since May on Friday, ahead of major U.S. jobs data, as investor optimism over robust earnings growth and enthusiasm over AI offset concern about another flare-up in Middle East tensions that…",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/stocks-dollar-stall-ahead-us-jobs-data-oil-gains-gulf-tensions-flare-6305181",
+      "time": "2026-08-07T08:14:03",
+      "country": "Pakistan",
+      "title_ur": "اسٹاک، ڈالر امریکی ملازمتوں کے اعداد و شمار سے آگے؛ خلیجی کشیدگی کے بھڑکتے ہوئے تیل میں اضافہ",
+      "desc_ur": "لندن، اگست 7: امریکی ملازمتوں کے بڑے اعداد و شمار سے پہلے، عالمی اسٹاکس نے جمعہ کو مئی کے بعد سے اپنے مضبوط ہفتہ وار فائدہ کی طرف گامزن کیا، کیونکہ سرمایہ کاروں کی آمدنی میں مضبوط اضافہ اور AI پر جوش و خروش مشرق وسطیٰ کے تناؤ میں ایک اور بھڑک اٹھنے کے بارے میں تشویش کو دور کرتا ہے۔"
+    },
+    {
+      "title": "Oil extends gains and stocks mostly down on fresh Hormuz worries",
+      "desc": "Oil prices extended gains and most stocks fell further on Friday amid fading optimism over a deal to reopen the Strait of Hormuz, as reports said Iran was planning to block US and Israeli ships from the waterway as part of a deal with Oman.\nMarkets had enjoye…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/596cf53008691075",
+      "time": "2026-08-07T08:06:00",
+      "country": "Pakistan",
+      "title_ur": "ہرمز کی تازہ پریشانیوں پر تیل نے فائدہ اور اسٹاک کو بڑھایا ہے۔",
+      "desc_ur": "جمعہ کو تیل کی قیمتوں میں اضافہ ہوا اور آبنائے ہرمز کو دوبارہ کھولنے کے معاہدے پر دھندلی امید کے درمیان زیادہ تر اسٹاک میں مزید کمی آئی، کیونکہ رپورٹس کے مطابق ایران عمان کے ساتھ معاہدے کے تحت امریکی اور اسرائیلی جہازوں کو آبی گزرگاہ سے روکنے کا منصوبہ بنا رہا ہے۔\nبازاروں نے لطف اٹھایا…"
+    }
+  ],
   "business": {
     "quote": "The best investment you can make is in yourself.",
     "author": "Warren Buffett",
