@@ -1,158 +1,178 @@
 {
-  "generated": "2026-08-08T04:33:57Z",
+  "generated": "2026-08-08T05:37:35Z",
   "world": [
     {
-      "title": "IT stocks lead Nifty gains as financials bleed; West Asia, crude oil weigh on mood",
-      "desc": "Technology stocks drove the early action on the gainers' board.",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/stock-markets/it-stocks-lead-nifty-gains-as-financials-bleed-west-asia-crude-oil-weigh-on-mood/article71316222.ece",
-      "time": "2026-08-07T04:19:23",
-      "country": "International",
-      "title_ur": "آئی ٹی اسٹاکس نفٹی میں اضافے کی قیادت کرتے ہیں کیونکہ مالیاتی خون بہہ رہا ہے۔ مغربی ایشیا، خام تیل مزاج پر وزن رکھتا ہے۔",
-      "desc_ur": "ٹیکنالوجی اسٹاک نے فائدہ اٹھانے والوں کے بورڈ پر ابتدائی کارروائی کی۔"
-    },
-    {
-      "title": "US: 75% say Iran War not worth Cost, 61% Blame Trump for Inflation",
-      "desc": "Iran's seizure of control over the Strait of Hormuz is a world-historical event; Americans don't Know About it",
-      "source": "Juancole.com",
-      "url": "https://www.juancole.com/2026/08/worth-blame-inflation.html",
-      "time": "2026-08-07T04:15:20",
+      "title": "Europe struggles for influence amid mounting crises",
+      "desc": "Europe is facing simultaneous pressure from the wars in Iran and Ukraine, irregular migration and extreme weather, but its larger problem is its limited ability to shape developments that directly affect it, according to an analysis by The New York Times.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/europe-struggles-for-influence-amid-mounting-crises-225322",
+      "time": "2026-08-07T05:33:09",
       "country": "Iran",
-      "title_ur": "امریکہ: 75٪ کا کہنا ہے کہ ایران جنگ کی قیمت نہیں ہے، 61٪ نے ٹرمپ کو مہنگائی کا ذمہ دار ٹھہرایا",
-      "desc_ur": "ایران کا آبنائے ہرمز پر قبضہ ایک عالمی تاریخی واقعہ ہے۔ امریکی اس کے بارے میں نہیں جانتے"
+      "title_ur": "یورپ بڑھتے ہوئے بحرانوں کے درمیان اثر و رسوخ کے لیے جدوجہد کر رہا ہے۔",
+      "desc_ur": "دی نیویارک ٹائمز کے ایک تجزیے کے مطابق، یورپ کو ایران اور یوکرین کی جنگوں، بے قاعدہ ہجرت اور شدید موسم سے بیک وقت دباؤ کا سامنا ہے، لیکن اس کا سب سے بڑا مسئلہ ایسی پیشرفت کو شکل دینے کی اس کی محدود صلاحیت ہے جو اس پر براہ راست اثر انداز ہوتی ہے۔"
     },
     {
-      "title": "Houthi attacks wound 11 in Saudi Arabia after deadly strike on Yemen troops - Arab News",
-      "desc": "Houthi attacks wound 11 in Saudi Arabia after deadly strike on Yemen troopsArab News Saudi military says Houthi attacks left 11 civilians, including a child, injured near Yemen borderAP News Eleven wounded in Houthi attack on Saudi ArabiaThe Jerusalem Post Sa…",
+      "title": "Houthi attack on Saudi Arabia wounds 11 civilians as kingdom warns of wider threat - The Times of Israel",
+      "desc": "Houthi attack on Saudi Arabia wounds 11 civilians as kingdom warns of wider threatThe Times of Israel Saudi military says Houthi attacks left 11 civilians, including a child, injured near Yemen borderAP News Eleven wounded in Houthi attack on Saudi ArabiaThe …",
       "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184887802",
-      "time": "2026-08-07T04:12:53",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184888152",
+      "time": "2026-08-07T05:33:01",
+      "country": "Israel",
+      "title_ur": "سعودی عرب پر حوثیوں کے حملے میں 11 شہری زخمی ہو گئے کیونکہ مملکت نے وسیع خطرے کا انتباہ دیا – ٹائمز آف اسرائیل",
+      "desc_ur": "سعودی عرب پر حوثیوں کے حملے میں 11 شہری زخمی ہو گئے کیونکہ مملکت نے وسیع تر خطرے سے خبردار کیا ہے ٹائمز آف اسرائیل سعودی فوج کا کہنا ہے کہ یمن کی سرحد کے قریب حوثیوں کے حملوں میں ایک بچے سمیت 11 شہری زخمی ہو گئے اے پی نیوز سعودی عرب پر حوثیوں کے حملے میں زخمی..."
+    },
+    {
+      "title": "Trump says 'way too early' to endorse Vance for president despite leaked comments to donors",
+      "desc": "The President's endorsement could potentially clear the field for the sitting Vice President, given rumored top rival Marco Rubio has said he would not contest Vance if he ran.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16035529/Donald-Trump-Vance-endorsement-2028.html",
+      "time": "2026-08-07T05:29:52",
       "country": "US",
-      "title_ur": "یمنی فوجیوں پر مہلک حملے کے بعد سعودی عرب میں حوثیوں کے حملے میں 11 زخمی - عرب نیوز",
-      "desc_ur": "یمنی فوجیوں پر مہلک حملے کے بعد سعودی عرب میں حوثیوں کے حملے میں 11 زخمی عرب نیوز سعودی فوج کا کہنا ہے کہ یمن کی سرحد کے قریب حوثیوں کے حملوں میں ایک بچے سمیت 11 شہری زخمی ہوگئے اے پی نیوز سعودی عرب پر حوثیوں کے حملے میں 11 زخمی۔ یروشلم پوسٹ Sa…"
+      "title_ur": "ڈونرز کو لیک ہونے والے تبصروں کے باوجود ٹرمپ کا کہنا ہے کہ صدر کے لیے وانس کی توثیق کرنے کے لیے 'بہت جلدی'",
+      "desc_ur": "صدر کی توثیق ممکنہ طور پر موجودہ نائب صدر کے لیے میدان صاف کر سکتی ہے، کیونکہ افواہوں میں سرفہرست حریف مارکو روبیو نے کہا ہے کہ اگر وہ بھاگے تو وہ وینس سے مقابلہ نہیں کریں گے۔"
     },
     {
-      "title": "Crude oil gains as Iran plans to ban US, Israeli ships from Hormuz transit",
-      "desc": "At 9:29 am on Friday, October Brent oil futures were at $83.49 (+1.21%), and September WTI crude oil futures were at $78.05 (+0.98%)",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-gains-as-iran-plans-to-ban-us-israeli-ships-from-hormuz-transit/article71316215.ece",
-      "time": "2026-08-07T04:11:48",
-      "country": "Iran",
-      "title_ur": "ایران کی جانب سے امریکی اور اسرائیلی بحری جہازوں کو ہرمز ٹرانزٹ سے روکنے کے لیے خام تیل میں اضافہ ہوا۔",
-      "desc_ur": "جمعہ کو صبح 9:29 بجے، اکتوبر برینٹ آئل فیوچرز $83.49 (+1.21%) پر تھے، اور ستمبر WTI خام تیل کا فیوچر $78.05 (+0.98%) پر تھا۔"
-    },
-    {
-      "title": "Sensex drops over 200 points, Nifty tests 23,600 as Strait of Hormuz tensions rattle oil markets",
-      "desc": "Indian stock markets opened lower on Friday as oil prices increased. Concerns over Iran potentially closing the Strait of Hormuz impacted investor sentiment. Bajaj Finance and Bajaj Finserv shares led the declines on the Sensex. IT stocks like TCS and Tech Ma…",
+      "title": "Rahul Gandhi reveals his favourite BJP leader in candid Gen Z 'Ask Me Anything' on Instagram",
+      "desc": "Rahul Gandhi launched an Instagram \"Ask Me Anything\" session for young people. He discussed the Jharkhand student protest and the nation's education system. Gandhi emphasized that governments must listen to student concerns and take action. He also spoke abou…",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-drops-over-200-points-nifty-tests-23600-as-strait-of-hormuz-tensions-rattle-oil-markets/articleshow/133020628.cms",
-      "time": "2026-08-07T04:10:40",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/rahul-gandhi-reveals-his-favourite-bjp-leader-in-candid-gen-z-ask-me-anything-on-instagram/articleshow/133022342.cms",
+      "time": "2026-08-07T05:29:16",
+      "country": "US",
+      "title_ur": "راہول گاندھی نے انسٹاگرام پر اپنے پسندیدہ بی جے پی لیڈر کو جنرل زیڈ میں 'اسک می اینیتھنگ' کا انکشاف کیا۔",
+      "desc_ur": "راہول گاندھی نے نوجوانوں کے لیے انسٹاگرام \"اسک می اینیتھنگ\" سیشن کا آغاز کیا۔ انہوں نے جھارکھنڈ کے طلباء کے احتجاج اور ملک کے تعلیمی نظام پر تبادلہ خیال کیا۔ گاندھی نے زور دے کر کہا کہ حکومتوں کو طلبہ کے خدشات کو سننا چاہیے اور کارروائی کرنی چاہیے۔ اس نے اس بارے میں بھی بات کی…"
+    },
+    {
+      "title": "Leeds weather forecast: Sunny intervals and 20°C today, warming trend ahead",
+      "desc": "Leeds will experience sunny intervals and a chance of showers today. Temperatures will reach a pleasant twenty degrees Celsius with moderate winds. A warming trend begins tomorrow, bringing sunny conditions and higher temperatures. By August twelfth, highs ar…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/uk/leeds-weather-forecast-sunny-intervals-and-20c-today-warming-trend-ahead/articleshow/133022802.cms",
+      "time": "2026-08-07T05:25:41",
+      "country": "US",
+      "title_ur": "لیڈز موسم کی پیشن گوئی: دھوپ کے وقفے اور آج 20 ڈگری سینٹی گریڈ، گرمی کا رجحان آگے ہے۔",
+      "desc_ur": "لیڈز میں آج دھوپ کے وقفے اور بارش کا امکان ہوگا۔ معتدل ہواؤں کے ساتھ درجہ حرارت بیس ڈگری سیلسیس تک پہنچ جائے گا۔ گرمی کا رجحان کل سے شروع ہو رہا ہے، جو دھوپ کے حالات اور زیادہ درجہ حرارت لاتا ہے۔ بارہ اگست تک، بلندی…"
+    },
+    {
+      "title": "Manchester weather forecast: Sunny intervals and 21°C on August 7, 2026",
+      "desc": "Manchester will experience sunny intervals and a pleasant 21°C high today. Tomorrow brings warmer weather with clear skies and a 27°C maximum temperature. Sunny intervals continue through August tenth, with temperatures around 22°C. The week peaks with a 30°C…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/uk/manchester-weather-forecast-sunny-intervals-and-21c-on-august-7-2026/articleshow/133022800.cms",
+      "time": "2026-08-07T05:25:36",
+      "country": "US",
+      "title_ur": "مانچسٹر موسم کی پیشن گوئی: 7 اگست 2026 کو دھوپ کے وقفے اور 21 ڈگری سینٹی گریڈ",
+      "desc_ur": "مانچسٹر آج دھوپ کے وقفوں اور خوشگوار 21 ڈگری سینٹی گریڈ کا تجربہ کرے گا۔ کل صاف آسمان اور 27 ڈگری سینٹی گریڈ زیادہ سے زیادہ درجہ حرارت کے ساتھ گرم موسم لائے گا۔ دھوپ کا وقفہ 10 اگست تک جاری رہتا ہے، درجہ حرارت 22 ° C کے ارد گرد ہوتا ہے۔ ہفتہ 30 ڈگری سینٹی گریڈ کے ساتھ عروج پر ہے…"
+    },
+    {
+      "title": "London weather forecast: Sunny intervals and warm temperatures expected Friday, August 7, 2026",
+      "desc": "London will see sunny intervals and pleasant temperatures on Friday, August 7, 2026. The city expects a high of 26 degrees Celsius and a low of 15 degrees Celsius. This pleasant weather will continue into the weekend with warmer conditions arriving. Saturday,…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/uk/london-weather-forecast-sunny-intervals-and-warm-temperatures-expected-friday-august-7-2026/articleshow/133022795.cms",
+      "time": "2026-08-07T05:25:32",
+      "country": "UK",
+      "title_ur": "لندن موسم کی پیشن گوئی: دھوپ کے وقفے اور گرم درجہ حرارت جمعہ 7 اگست 2026 کو متوقع ہے۔",
+      "desc_ur": "لندن میں جمعہ 7 اگست 2026 کو دھوپ کے وقفے اور خوشگوار درجہ حرارت نظر آئے گا۔ شہر کو زیادہ سے زیادہ 26 ڈگری سیلسیس اور کم سے کم 15 ڈگری سیلسیس کی توقع ہے۔ یہ خوشگوار موسم ہفتے کے آخر تک جاری رہے گا اور گرم حالات کی آمد آمد ہے۔ ہفتہ،…"
+    },
+    {
+      "title": "Birmingham weather forecast: Sunny intervals and mild temperatures today, warming up this week",
+      "desc": "Birmingham residents can expect sunny intervals and mild temperatures today. The maximum temperature will reach 22 degrees Celsius, with minimal rain expected. Tomorrow, the weather will become warmer and sunnier, with clear skies. This sunny trend continues …",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/uk/birmingham-weather-forecast-sunny-intervals-and-mild-temperatures-today-warming-up-this-week/articleshow/133022792.cms",
+      "time": "2026-08-07T05:25:27",
+      "country": "US",
+      "title_ur": "برمنگھم موسم کی پیشن گوئی: آج دھوپ کا وقفہ اور ہلکا درجہ حرارت، اس ہفتے گرمی بڑھ رہی ہے۔",
+      "desc_ur": "برمنگھم کے رہائشی آج دھوپ کے وقفوں اور ہلکے درجہ حرارت کی توقع کر سکتے ہیں۔ زیادہ سے زیادہ درجہ حرارت 22 ڈگری سیلسیس تک پہنچ جائے گا، کم سے کم بارش متوقع ہے۔ کل، صاف آسمان کے ساتھ موسم گرم اور دھوپ ہو جائے گا۔ دھوپ کا یہ سلسلہ جاری ہے…"
+    },
+    {
+      "title": "Liverpool weather forecast: Sunny intervals and mild temperatures on August 7, 2026",
+      "desc": "Liverpool will experience pleasant sunshine and mild temperatures on Friday, August 7, 2026. Sunny intervals are expected, with a maximum temperature reaching 22 degrees Celsius. A warming trend will begin on Saturday, August 8, bringing higher temperatures. …",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/uk/liverpool-weather-forecast-sunny-intervals-and-mild-temperatures-on-august-7-2026/articleshow/133022787.cms",
+      "time": "2026-08-07T05:25:23",
+      "country": "US",
+      "title_ur": "لیورپول موسم کی پیشن گوئی: 7 اگست 2026 کو دھوپ کے وقفے اور ہلکا درجہ حرارت",
+      "desc_ur": "لیورپول جمعہ 7 اگست 2026 کو خوشگوار دھوپ اور ہلکے درجہ حرارت کا تجربہ کرے گا۔ دھوپ کے وقفے متوقع ہیں، زیادہ سے زیادہ درجہ حرارت 22 ڈگری سیلسیس تک پہنچ جائے گا۔ گرمی میں اضافے کا رجحان ہفتہ، 8 اگست کو شروع ہوگا، جس سے درجہ حرارت میں اضافہ ہوگا۔ …"
+    },
+    {
+      "title": "Türkiye aims to make Ceyhan a Mediterranean oil trading hub",
+      "desc": "Türkiye aims to develop the oil terminals at Ceyhan on its Mediterranean coast into a regional center for storing, trading and pricing crude and petroleum products, Energy and Natural Resources Minister Alparslan Bayraktar said.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/turkiye-aims-to-make-ceyhan-a-mediterranean-oil-trading-hub-225318",
+      "time": "2026-08-07T05:23:39",
+      "country": "Europe",
+      "title_ur": "Türkiye کا مقصد سیہان کو بحیرہ روم کے تیل کا تجارتی مرکز بنانا ہے۔",
+      "desc_ur": "توانائی اور قدرتی وسائل کے وزیر الپرسلان بائراکٹر نے کہا کہ ترکی کا مقصد بحیرہ روم کے ساحل پر سیہان میں تیل کے ٹرمینلز کو خام اور پیٹرولیم مصنوعات کو ذخیرہ کرنے، تجارت کرنے اور قیمتوں کا تعین کرنے کے لیے علاقائی مرکز کے طور پر تیار کرنا ہے۔"
+    },
+    {
+      "title": "Speaking the Truth in Love - Evangelical Caucus/Devotional",
+      "desc": "\"If I have the gift of prophecy . . . but do not have love, I am nothing\" (1 Cor. 13:2). Love is an indispensable ingredient in the learning process. I have the privilege of spending time each week with hundreds of young people who attend The Master's College…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-religion/4390916/posts",
+      "time": "2026-08-07T05:21:00",
+      "country": "US",
+      "title_ur": "محبت میں سچ بولنا - ایوینجلیکل کاکس / عقیدت",
+      "desc_ur": "\"اگر میرے پاس نبوت کا تحفہ ہے ... لیکن محبت نہیں ہے، تو میں کچھ بھی نہیں ہوں\" (1 کور. 13:2)۔ محبت سیکھنے کے عمل میں ایک ناگزیر جزو ہے۔ مجھے ہر ہفتے سیکڑوں نوجوانوں کے ساتھ وقت گزارنے کا اعزاز حاصل ہے جو ماسٹر کالج میں پڑھتے ہیں…"
+    },
+    {
+      "title": "Ghalibaf Mocks US 'Theater Diplomacy' Over Iran War",
+      "desc": "Iranian Parliament Speaker Mohammad Bagher Ghalibaf slammed Trump’s cycle of threats, broken promises and sudden claims about negotiations.",
+      "source": "Sputnikglobe.com",
+      "url": "https://sputnikglobe.com/20260807/ghalibaf-mocks-us-theater-diplomacy-over-iran-war-1124546695.html",
+      "time": "2026-08-07T05:03:03",
       "country": "Iran",
-      "title_ur": "آبنائے ہرمز تناؤ کی وجہ سے سینسیکس میں 200 پوائنٹس سے زیادہ کی کمی، نفٹی 23,600 کا ٹیسٹ",
-      "desc_ur": "جمعہ کو تیل کی قیمتوں میں اضافے کے ساتھ ہی ہندوستانی اسٹاک مارکیٹیں نیچے کھل گئیں۔ ایران کے ممکنہ طور پر آبنائے ہرمز کو بند کرنے کے خدشات نے سرمایہ کاروں کے جذبات کو متاثر کیا۔ بجاج فنانس اور بجاج فنسر کے حصص نے سینسیکس میں کمی کی قیادت کی۔ IT اسٹاک جیسے TCS اور Tech Ma…"
+      "title_ur": "غالب نے ایران جنگ پر امریکی 'تھیٹر ڈپلومیسی' کا مذاق اڑایا",
+      "desc_ur": "ایرانی پارلیمنٹ کے اسپیکر محمد باقر غالب نے ٹرمپ کی دھمکیوں، وعدوں کی خلاف ورزی اور مذاکرات کے بارے میں اچانک دعووں پر تنقید کی۔"
     },
     {
-      "title": "Student kills at least 7 people at a high school and a home outside Bangkok, officials say",
-      "desc": "A student opened fire at a high school outside Bangkok on Friday, killing at least five people and wounding more than 20, according to authorities, who said...",
-      "source": "Yahoo Entertainment",
-      "url": "https://www.yahoo.com/news/world/articles/as--thailand-school-shooting-040811175.html",
-      "time": "2026-08-07T04:08:11",
-      "country": "International",
-      "title_ur": "حکام کا کہنا ہے کہ بنکاک کے باہر ایک ہائی سکول اور ایک گھر میں طالب علم نے کم از کم 7 افراد کو ہلاک کر دیا۔",
-      "desc_ur": "جمعے کو بنکاک کے باہر ایک ہائی اسکول میں ایک طالب علم نے فائرنگ کر دی، جس سے کم از کم پانچ افراد ہلاک اور 20 سے زائد زخمی ہو گئے، حکام کے مطابق، جنہوں نے کہا..."
-    },
-    {
-      "title": "Chronological Reading for Friday August 7, 2026 (NIV)",
-      "desc": "",
-      "source": "Biblegateway.com",
-      "url": "https://www.biblegateway.com/reading-plans/chronological/2026/08/07/",
-      "time": "2026-08-07T04:07:05",
+      "title": "Gianni Infantino and the Trump playbook: How Fifa boss landed in crisis",
+      "desc": "OPINION: Gianni Infantino’s proposed World Cup sell-off has left him isolated.",
+      "source": "New Zealand Herald",
+      "url": "https://www.nzherald.co.nz/sport/football/football-world-cup/gianni-infantino-and-the-trump-playbook-how-fifa-boss-landed-in-crisis/premium/EKE22H4UUZDUDMQAR6DANC55Q4/",
+      "time": "2026-08-07T05:01:00",
       "country": "US",
-      "title_ur": "جمعہ 7 اگست 2026 (NIV) کے لیے تاریخی پڑھائی",
-      "desc_ur": ""
+      "title_ur": "Gianni Infantino and the Trump playbook: How Fifa باس بحران میں اترا۔",
+      "desc_ur": "رائے: Gianni Infantino کی مجوزہ ورلڈ کپ فروخت نے اسے الگ تھلگ کر دیا ہے۔"
     },
     {
-      "title": "Old/New Testament Reading for Friday August 7, 2026 (NIV)",
-      "desc": "",
-      "source": "Biblegateway.com",
-      "url": "https://www.biblegateway.com/reading-plans/old-new-testament/2026/08/07/",
-      "time": "2026-08-07T04:06:57",
+      "title": "US fuel gauge exposure fell by more than half in three months",
+      "desc": "Every month for the better part of a year, about 4,800 US internet addresses answered a query in the protocol that fuel tank gauges speak. In June the number was 2,354. The count fell across April, May, and June, all three months sit below the previous year’s…",
+      "source": "Help Net Security",
+      "url": "https://www.helpnetsecurity.com/2026/08/07/automatic-fuel-tank-gauge-exposure/",
+      "time": "2026-08-07T05:00:30",
       "country": "US",
-      "title_ur": "جمعہ 7 اگست 2026 (NIV) کے لیے پرانا/نیا عہد نامہ پڑھنا",
-      "desc_ur": ""
+      "title_ur": "امریکی ایندھن گیج کی نمائش تین ماہ میں نصف سے زیادہ گر گئی۔",
+      "desc_ur": "ایک سال کے بہتر حصے کے لیے ہر ماہ، تقریباً 4,800 امریکی انٹرنیٹ ایڈریسز نے پروٹوکول میں ایک سوال کا جواب دیا کہ فیول ٹینک گیجز بولتے ہیں۔ جون میں یہ تعداد 2,354 تھی۔ یہ گنتی اپریل، مئی اور جون میں گر گئی، یہ تینوں مہینے پچھلے سال کی نسبت کم ہیں…"
     },
     {
-      "title": "The Age of Nuclear Destruction Began 81 Years Ago — With Lies. It Could End the Same Way",
-      "desc": "The atomic bombing of Hiroshima and Nagasaki were not needed to end the war without an invasion of Japan",
-      "source": "Juancole.com",
-      "url": "https://www.juancole.com/2026/08/nuclear-destruction-began.html",
-      "time": "2026-08-07T04:06:13",
-      "country": "International",
-      "title_ur": "جوہری تباہی کا دور 81 سال پہلے شروع ہوا - جھوٹ کے ساتھ۔ یہ اسی طرح ختم ہوسکتا ہے۔",
-      "desc_ur": "جاپان پر حملے کے بغیر جنگ ختم کرنے کے لیے ہیروشیما اور ناگاساکی پر ایٹم بمباری کی ضرورت نہیں تھی۔"
-    },
-    {
-      "title": "China exports in July beat forecasts on robust high-tech demand",
-      "desc": "China’s exports expanded 23.9 per cent year on year in in July, with chip shipments almost doubling. Read more at straitstimes.com. Read more at straitstimes.com.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/business/economy/china-exports-in-july-beat-expectations-on-robust-high-tech-demand",
-      "time": "2026-08-07T04:05:37",
-      "country": "China",
-      "title_ur": "جولائی میں چین کی برآمدات نے مضبوط ہائی ٹیک ڈیمانڈ کی پیشن گوئی کو مات دی۔",
-      "desc_ur": "جولائی میں چین کی برآمدات میں سال بہ سال 23.9 فیصد اضافہ ہوا، چپ کی ترسیل تقریباً دوگنی ہو گئی۔ straitstimes.com پر مزید پڑھیں۔ straitstimes.com پر مزید پڑھیں۔"
-    },
-    {
-      "title": "China’s Peaceful Rise to Green Dominance leaves Trump in the (Carbon) Dust",
-      "desc": "Three Great Powers Rising and Falling on a Planet Itself Distinctly in Decline",
-      "source": "Juancole.com",
-      "url": "https://www.juancole.com/2026/08/chinas-peaceful-dominance.html",
-      "time": "2026-08-07T04:04:53",
-      "country": "China",
-      "title_ur": "چین کے پرامن عروج پر سبز غلبہ نے ٹرمپ کو (کاربن) دھول میں چھوڑ دیا۔",
-      "desc_ur": "تین عظیم طاقتیں خود ایک سیارے پر عروج اور زوال میں واضح طور پر گر رہی ہیں۔"
-    },
-    {
-      "title": "Anti-Muslim US Congressman Andy Ogles loses congressional primary",
-      "desc": "Trump's endorsement fails to save Tennessee legislator who recently said 'Muslims don't belong in American society'.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/8/7/anti-muslim-us-congressman-andy-ogles-loses-congressional-primary",
-      "time": "2026-08-07T04:04:45",
+      "title": "[Catholic Caucus Devotional] My Catholic Life! Catholic Daily Reflections: A Triple Command - Friday, August 7, 2026",
+      "desc": "Daily Readings from the USCCBJesus said to his disciples, “Whoever wishes to come after me must deny himself, take up his cross, and follow me. For whoever wishes to save his life will lose it, but whoever loses his life for my sake will find it.” Matthew 16:…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-religion/4390915/posts",
+      "time": "2026-08-07T05:00:00",
       "country": "US",
-      "title_ur": "مسلم مخالف امریکی رکن کانگریس اینڈی اوگلس کانگریس کی پرائمری ہار گئے۔",
-      "desc_ur": "ٹرمپ کی توثیق ٹینیسی کے قانون ساز کو بچانے میں ناکام رہی جس نے حال ہی میں کہا تھا کہ 'مسلمان امریکی معاشرے میں نہیں ہیں'۔"
-    },
-    {
-      "title": "A deal with Iran over the Strait of Hormuz may require a compromise from Trump",
-      "desc": "To reach a deal with Iran that reopens the economically vital Strait of Hormuz, President Donald Trump may need to do something out of character — compromise...",
-      "source": "Yahoo Entertainment",
-      "url": "https://www.yahoo.com/news/politics/articles/deal-iran-over-strait-hormuz-040118180.html",
-      "time": "2026-08-07T04:01:18",
-      "country": "Iran",
-      "title_ur": "ایران کے ساتھ آبنائے ہرمز پر ہونے والے معاہدے کے لیے ٹرمپ سے سمجھوتے کی ضرورت پڑ سکتی ہے۔",
-      "desc_ur": "ایران کے ساتھ ایک معاہدے تک پہنچنے کے لیے جو اقتصادی طور پر انتہائی اہم آبنائے ہرمز کو دوبارہ کھولتا ہے، صدر ڈونلڈ ٹرمپ کو کردار سے ہٹ کر کچھ کرنے کی ضرورت پڑ سکتی ہے۔"
-    },
-    {
-      "title": "Vivo S2 Puts a 7,050 mAh Battery in a Curved Phone",
-      "desc": "Big batteries usually make phones feel practical before they feel premium. The vivo S2 flips that expectation by putting a 7,050 mAh battery inside a curved AMOLED phone that is being sold on design, portrait tools, and durability instead of looking like a ch…",
-      "source": "The Gadgeteer",
-      "url": "https://the-gadgeteer.com/2026/08/06/vivo-s2-7050mah-battery-curved-amoled/",
-      "time": "2026-08-07T04:00:32",
-      "country": "US",
-      "title_ur": "Vivo S2 ایک خمیدہ فون میں 7,050 mAh بیٹری رکھتا ہے۔",
-      "desc_ur": "بڑی بیٹریاں عام طور پر فون کو پریمیم محسوس کرنے سے پہلے عملی محسوس کرتی ہیں۔ Vivo S2 ایک خمیدہ AMOLED فون کے اندر 7,050 mAh بیٹری ڈال کر اس توقع کو پلٹ دیتا ہے جو کہ ch کی طرح نظر آنے کے بجائے ڈیزائن، پورٹریٹ ٹولز اور پائیداری پر فروخت کیا جا رہا ہے۔"
-    },
-    {
-      "title": "Irish borrowers draw down record number of car loans as personal lending activity surges",
-      "desc": "Banking industry group says figures point to ‘continued consumer confidence’ in early part of 2026",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/your-money/2026/08/07/irish-borrowers-draw-down-record-number-of-car-loans-as-personal-lending-activity-surges/",
-      "time": "2026-08-07T04:00:00",
-      "country": "US",
-      "title_ur": "آئرش قرض دہندگان نے ذاتی قرض دینے کی سرگرمیوں میں اضافے کے ساتھ کار قرضوں کی ریکارڈ تعداد میں کمی کی۔",
-      "desc_ur": "بینکنگ انڈسٹری گروپ کا کہنا ہے کہ اعداد و شمار 2026 کے ابتدائی حصے میں 'مسلسل صارفین کے اعتماد' کی طرف اشارہ کرتے ہیں"
+      "title_ur": "[کیتھولک کاکس ڈیوشنل] میری کیتھولک زندگی! کیتھولک ڈیلی ریفلیکشنز: ایک ٹرپل کمانڈ - جمعہ، اگست 7، 2026",
+      "desc_ur": "یو ایس سی سی بی کی طرف سے ڈیلی ریڈنگز یسوع نے اپنے شاگردوں سے کہا، \"جو کوئی میرے پیچھے آنا چاہے وہ اپنے آپ سے انکار کرے، اپنی صلیب اُٹھائے اور میری پیروی کرے۔ کیونکہ جو کوئی اپنی جان بچانا چاہتا ہے وہ اسے کھو دے گا، لیکن جو میری خاطر اپنی جان کھوئے گا وہ اسے پائے گا۔\" میتھیو 16:…"
     }
   ],
   "pakistan": [
+    {
+      "title": "Patrick Smyth: Netanyahu’s career may be in its final stages, but what follows won’t be much better",
+      "desc": "Netanyahu’s fear of losing power and of no longer being able to delay his corruption trial is becoming more urgent, but there may be little he can do",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/opinion/2026/08/07/patrick-smyth-netanyahus-career-may-be-in-its-final-stages-but-what-follows-wont-be-much-better/",
+      "time": "2026-08-07T05:00:01",
+      "country": "Pakistan",
+      "title_ur": "پیٹرک اسمتھ: نیتن یاہو کا کیریئر اپنے آخری مراحل میں ہوسکتا ہے، لیکن اس کے بعد جو کچھ ہوگا وہ زیادہ بہتر نہیں ہوگا",
+      "desc_ur": "نیتن یاہو کا اقتدار کھونے اور بدعنوانی کے مقدمے میں مزید تاخیر کرنے کے قابل نہ ہونے کا خوف زیادہ ضروری ہوتا جا رہا ہے، لیکن وہ بہت کم کر سکتے ہیں۔"
+    },
+    {
+      "title": "Turkiye’s Erdogan visits Saudi Arabia: What to expect",
+      "desc": "Erdogan will meet with Saudi Crown Prince Mohammed bin Salman and Pakistani PM Shehbaz Sharif, his office says.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/8/7/turkiyes-erdogan-to-visit-saudi-arabia-what-to-expect",
+      "time": "2026-08-07T04:43:43",
+      "country": "Pakistan",
+      "title_ur": "ترکی کے اردگان کا سعودی عرب کا دورہ: کیا توقع کی جائے؟",
+      "desc_ur": "اردگان سعودی ولی عہد شہزادہ محمد بن سلمان اور پاکستانی وزیر اعظم شہباز شریف سے ملاقات کریں گے۔"
+    },
     {
       "title": "Live updates: Saudi Arabia, Turkey and Pakistan sign NATO-style defense pact amid escalating Iran conflict | CNN",
       "desc": "The Saudis are bracing for a possible major Houthi attack as the Iran war widens.  Meanwhile, Iran and Oman are finalizing a deal on the Strait of Hormuz. Follow for the latest updates.",
@@ -160,7 +180,7 @@
       "url": "https://www.cnn.com/2026/08/07/world/live-news/iran-war-trump",
       "time": "2026-08-07T04:30:29",
       "country": "Pakistan",
-      "title_ur": "لائیو اپ ڈیٹس: سعودی عرب، ترکی اور پاکستان نے بڑھتے ہوئے ایران تنازعہ کے درمیان نیٹو طرز کے دفاعی معاہدے پر دستخط | سی این این",
+      "title_ur": "لائیو اپ ڈیٹس: سعودی عرب، ترکی اور پاکستان نے بڑھتے ہوئے ایران تنازعے کے درمیان نیٹو طرز کے دفاعی معاہدے پر دستخط کیے | سی این این",
       "desc_ur": "ایران جنگ کے پھیلتے ہی سعودی حوثیوں کے ممکنہ بڑے حملے کی تیاری کر رہے ہیں۔  دریں اثناء ایران اور عمان آبنائے ہرمز پر ایک معاہدے کو حتمی شکل دے رہے ہیں۔ تازہ ترین اپڈیٹس کے لیے فالو کریں۔"
     },
     {
@@ -172,26 +192,6 @@
       "country": "Pakistan",
       "title_ur": "قدرتی آفات کے خلاف سمارٹ شیلڈ کی تعمیر: بڑے انفراسٹرکچر کے سمارٹ ڈیزاسٹر سے بچاؤ پر چین پاکستان بیلٹ اینڈ روڈ جوائنٹ لیبارٹری",
       "desc_ur": "بیجنگ، 7 اگست 2026/پی آرنیوزوائر/ -- سائنس اور ٹیکنالوجی ڈیلی کی ایک رپورٹ: جب پاکستان کی تاریخ کا بدترین زلزلہ آیا تو سید شاہ صرف تیسرے درجے میں تھے۔ لیکن یاد ان کے ذہن میں انمٹ طور پر نقش ہے۔ \"زمین گرج رہی تھی، آسمان…"
-    },
-    {
-      "title": "Middle East: Houthi attack wounds 11 in Saudi Arabia",
-      "desc": "Shelling by Yemen's Iran-backed Houthis has left 11 civilians injured in southern Saudi Arabia. Meanwhile, Saudi Arabia, Turkey and Pakistan are due to sign a joint defense deal. Follow DW for the latest.",
-      "source": "DW (English)",
-      "url": "https://www.dw.com/en/middle-east-houthi-attack-wounds-11-in-saudi-arabia/live-78272895",
-      "time": "2026-08-07T03:51:00",
-      "country": "Pakistan",
-      "title_ur": "مشرق وسطیٰ: سعودی عرب میں حوثیوں کے حملے میں 11 زخمی",
-      "desc_ur": "یمن کے ایران کے حمایت یافتہ حوثی باغیوں کی گولہ باری سے جنوبی سعودی عرب میں 11 شہری زخمی ہو گئے ہیں۔ اس دوران سعودی عرب، ترکی اور پاکستان مشترکہ دفاعی معاہدے پر دستخط کرنے والے ہیں۔ تازہ ترین کے لیے DW کو فالو کریں۔"
-    },
-    {
-      "title": "Lower Oil Prices Lend Support For The Gold Rally",
-      "desc": "Oil prices fell for a second week running thanks to optimism surrounding renewed U.S.-Iran diplomacy to reopen the Strait of Hormuz. U.S. President Donald Trump announced on Monday that talks between Washington and Tehran would resume l, adding that U.S. alli…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/a33da6a9b84b71ff",
-      "time": "2026-08-07T03:31:55",
-      "country": "Pakistan",
-      "title_ur": "تیل کی کم قیمتیں سونے کی ریلی کو سہارا دیتی ہیں۔",
-      "desc_ur": "آبنائے ہرمز کو دوبارہ کھولنے کے لیے امریکہ اور ایران کی سفارت کاری کی تجدید کی وجہ سے تیل کی قیمتیں دوسرے ہفتے تک گر گئیں۔ امریکی صدر ڈونلڈ ٹرمپ نے پیر کو اعلان کیا کہ واشنگٹن اور تہران کے درمیان مذاکرات دوبارہ شروع ہوں گے، انہوں نے مزید کہا کہ امریکی اتحادی…"
     }
   ],
   "business": {
