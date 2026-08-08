@@ -1,6 +1,136 @@
 {
-  "generated": "2026-08-08T22:56:04Z",
+  "generated": "2026-08-08T23:23:39Z",
   "world": [
+    {
+      "title": "The phone book that led us to Assad's spy chief in hiding",
+      "desc": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o",
+      "time": "2026-08-07T23:23:12",
+      "country": "US",
+      "title_ur": "وہ فون بک جس نے ہمیں اسد کے جاسوس چیف کے پاس چھپایا",
+      "desc_ur": "ہم نے \"دی اسپائیڈر\" کا سراغ کیسے لگایا جو کبھی شام میں سب سے زیادہ خوف زدہ مردوں میں سے ایک تھا۔"
+    },
+    {
+      "title": "Who is the man behind the bin? As Count Binface prepares to square off against Farage, Clacton local JULIA LAWRENCE asks: What do Mrs Bin and the little Bins make of it all?",
+      "desc": "JULIA LAWRENCE: Not since the days of hysterical teenagers chaining themselves to rock stars' railings has anyone been in such dogged pursuit of a celebrity.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16037391/in-Count-Binface-prepares-square-against-Farage-Clacton-local-JULIA-LAWRENCE-Mrs-Bin-little-Bins-make-all.html",
+      "time": "2026-08-07T23:19:11",
+      "country": "International",
+      "title_ur": "بن کے پیچھے آدمی کون ہے؟ جیسے ہی کاؤنٹ بنفیس فاریج کے خلاف مقابلہ کرنے کی تیاری کر رہا ہے، کلاکٹن کی مقامی جولیا لارنس پوچھتی ہے: مسز بن اور چھوٹی بِن اس سب سے کیا بنا؟",
+      "desc_ur": "جولیا لارنس: پراسرار نوعمروں کے دنوں سے جب سے راک اسٹارز کی ریلنگ میں خود کو جکڑے ہوئے ہیں، کوئی بھی مشہور شخصیت کی تلاش میں اس قدر سختی سے نہیں رہا ہے۔"
+    },
+    {
+      "title": "Spencer Pratt Details ‘Working’ With President Trump to Save Hollywood",
+      "desc": "Spencer Pratt detailed his recent meeting with President Donald Trump following his loss in the Los Angeles mayoral race. “Working with the President on a 25% FEDERAL film tax credit to bring back Hollywood,” the Hills alum, 42, wrote via Instagram on Friday,…",
+      "source": "Us Weekly",
+      "url": "https://www.usmagazine.com/celebrity-news/news/spencer-pratt-details-working-with-president-trump/",
+      "time": "2026-08-07T23:17:27",
+      "country": "US",
+      "title_ur": "اسپینسر پریٹ نے ہالی ووڈ کو بچانے کے لیے صدر ٹرمپ کے ساتھ 'کام کرنے' کی تفصیلات بتائیں",
+      "desc_ur": "اسپینسر پریٹ نے لاس اینجلس کے میئر کی دوڑ میں شکست کے بعد صدر ڈونلڈ ٹرمپ کے ساتھ اپنی حالیہ ملاقات کی تفصیل دی۔ \"ہالی ووڈ کو واپس لانے کے لیے 25٪ فیڈرل فلم ٹیکس کریڈٹ پر صدر کے ساتھ کام کرنا،\" 42 سالہ ہلز ایلم نے جمعہ کو انسٹاگرام کے ذریعے لکھا،…"
+    },
+    {
+      "title": "Medics among six Palestinians injured in Israeli attacks across West Bank",
+      "desc": "Since January, Palestinians have reported more than 11,000 Israeli attacks in the occupied West Bank, officials say.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/8/7/medics-among-six-palestinians-injured-in-israeli-attacks-across-west-bank",
+      "time": "2026-08-07T23:15:01",
+      "country": "Israel",
+      "title_ur": "مغربی کنارے میں اسرائیلی حملوں میں زخمی ہونے والے چھ فلسطینیوں میں طبی عملہ",
+      "desc_ur": "حکام کا کہنا ہے کہ جنوری سے لے کر اب تک فلسطینیوں نے مقبوضہ مغربی کنارے میں 11,000 سے زیادہ اسرائیلی حملوں کی اطلاع دی ہے۔"
+    },
+    {
+      "title": "Dr. Oz points to powerful California unions as ‘biggest beneficiaries’ in Medicaid fraud scheme",
+      "desc": "CMS Administrator Dr. Mehmet Oz slammed California leadership for ignoring rampant Medicaid fraud that has plagued the state, claiming powerful unions are the ones benefitting the most and keeping politicians at bay by flooding campaigns with cash.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/07/us-news/dr-oz-says-powerful-california-unions-benefit-from-alleged-medicaid-fraud/",
+      "time": "2026-08-07T23:14:41",
+      "country": "International",
+      "title_ur": "ڈاکٹر اوز نے کیلیفورنیا کی طاقتور یونینوں کو میڈیکیڈ فراڈ اسکیم میں 'سب سے بڑا فائدہ اٹھانے والے' کے طور پر اشارہ کیا",
+      "desc_ur": "CMS ایڈمنسٹریٹر ڈاکٹر مہمت اوز نے کیلیفورنیا کی قیادت پر شدید میڈیکیڈ فراڈ کو نظر انداز کرنے پر تنقید کی جس نے ریاست کو لپیٹ میں لے رکھا ہے، دعویٰ کیا کہ طاقتور یونینز سب سے زیادہ فائدہ اٹھانے والی ہیں اور سیاست دانوں کو نقد رقم کے ساتھ مہمات کے سیلاب سے دور رکھتی ہیں۔"
+    },
+    {
+      "title": "Dem attorney backs GOP hopeful in Michigan race against El-Sayed, 'jumping ship' from his party's 'lunatics'",
+      "desc": "Julian Epstein says Democrats have \"gone off the deep end\" with Abdul El-Sayed's nomination, declaring his support for Republican Mike Rogers.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/media/dem-attorney-backs-gop-hopeful-michigan-race-against-el-sayed-jumping-ship-partys-lunatics",
+      "time": "2026-08-07T23:14:01",
+      "country": "International",
+      "title_ur": "ڈیم اٹارنی نے ال سید کے خلاف مشی گن ریس میں جی او پی کی امید کی حمایت کی، اپنی پارٹی کے 'پاگلوں' سے 'جمپنگ جہاز'",
+      "desc_ur": "جولین ایپسٹین کا کہنا ہے کہ عبد السید کی نامزدگی کے ساتھ ڈیموکریٹس \"گہرے انجام سے دور ہو گئے ہیں\"، انہوں نے ریپبلکن مائیک راجرز کی حمایت کا اعلان کیا۔"
+    },
+    {
+      "title": "Detention is the mother of invention",
+      "desc": "The moka pot is such a fundamental part of Italian culture that even prisoners in maximum security are allowed to keep them in their cells. Set atop gas-powered camp stoves available for purchase in Italian prison commissaries, the iconic, two-chambered, alum…",
+      "source": "Chicago Reader",
+      "url": "https://chicagoreader.com/food/cooking-in-maximum-security-matteoi-guidi-half-letter-press/",
+      "time": "2026-08-07T23:13:42",
+      "country": "International",
+      "title_ur": "نظر بندی ایجاد کی ماں ہے۔",
+      "desc_ur": "موکا برتن اطالوی ثقافت کا ایک ایسا بنیادی حصہ ہے کہ زیادہ سے زیادہ سیکیورٹی والے قیدیوں کو بھی انہیں اپنے سیلوں میں رکھنے کی اجازت ہے۔ اطالوی جیل کمشنریوں میں خریداری کے لیے دستیاب گیس سے چلنے والے کیمپ کے چولہے کے اوپر سیٹ کریں، مشہور، دو کمروں والا، پھٹکڑی…"
+    },
+    {
+      "title": "Trump signs executive orders that target birthright citizenship - ABC7 Los Angeles",
+      "desc": "Trump signs executive orders that target birthright citizenshipABC7 Los Angeles Trump issues new executive orders aimed at birthright citizenship after Supreme Court rulingCBS News What is birthright citizenship and how prevalent is birth tourism in the US?BB…",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184894584",
+      "time": "2026-08-07T23:13:00",
+      "country": "US",
+      "title_ur": "ٹرمپ نے ایگزیکٹو آرڈرز پر دستخط کیے جو پیدائشی حق شہریت کو نشانہ بناتے ہیں - ABC7 لاس اینجلس",
+      "desc_ur": "ٹرمپ نے ایگزیکٹیو آرڈرز پر دستخط کیے جو پیدائشی حق شہریت کو نشانہ بناتے ہیںABC7 لاس اینجلس ٹرمپ نے سپریم کورٹ کے فیصلے کے بعد پیدائشی حق شہریت کے لیے نئے ایگزیکٹو آرڈرز جاری کیے سی بی ایس نیوز"
+    },
+    {
+      "title": "Lebanon, Israel agree on countries that could verify Hezbollah disarmament — official - The Times of Israel",
+      "desc": "Lebanon, Israel agree on countries that could verify Hezbollah disarmament — officialThe Times of Israel Lebanon, Israel agree shortlist of countries that could send troops to verify Hezbollah disarmamentReuters Lebanon points to ‘positive progress’ on border…",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184894582",
+      "time": "2026-08-07T23:12:50",
+      "country": "Israel",
+      "title_ur": "لبنان، اسرائیل ان ممالک پر متفق ہیں جو حزب اللہ کے تخفیف اسلحہ کی تصدیق کر سکتے ہیں - آفیشل – ٹائمز آف اسرائیل",
+      "desc_ur": "لبنان، اسرائیل ان ممالک پر متفق ہیں جو حزب اللہ کی تخفیف اسلحہ کی تصدیق کر سکتے ہیں - آفیشل دی ٹائمز آف اسرائیل لبنان، اسرائیل ان ممالک کی شارٹ لسٹ پر متفق ہیں جو حزب اللہ کے تخفیف اسلحہ کی تصدیق کے لیے فوج بھیج سکتے ہیں رائٹرز لبنان سرحد پر 'مثبت پیش رفت' کی طرف اشارہ کرتا ہے"
+    },
+    {
+      "title": "Six months into war: Cruz urges Trump to arm protesters to trigger Iran regime collapse",
+      "desc": "In an interview, Senator Ted Cruz urges the US to arm anti-government protesters to induce regime collapse in Iran, highlighting growing GOP divides over the six-month war.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/431399",
+      "time": "2026-08-07T23:11:25",
+      "country": "Iran",
+      "title_ur": "جنگ میں چھ ماہ: کروز نے ٹرمپ پر زور دیا کہ وہ ایرانی حکومت کے خاتمے کے لیے مظاہرین کو مسلح کریں",
+      "desc_ur": "ایک انٹرویو میں، سینیٹر ٹیڈ کروز نے امریکہ پر زور دیا کہ وہ ایران میں حکومت کے خاتمے کے لیے حکومت مخالف مظاہرین کو مسلح کرے، جس سے چھ ماہ کی جنگ کے دوران GOP کی بڑھتی ہوئی تقسیم کو اجاگر کیا جائے۔"
+    },
+    {
+      "title": "The Four Way Squeeze",
+      "desc": "“. . . it’s subversion and nothing about it is accidental. it’s a well worn playbook to use the democratic institutions of a high trust state to destroy a civilization.” —El Gato Malo on Substack The days might still be long, but this is a dark season in our …",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4391021/posts",
+      "time": "2026-08-07T23:03:14",
+      "country": "US",
+      "title_ur": "فور وے سکوز",
+      "desc_ur": "\"... یہ بغاوت ہے اور اس کے بارے میں کچھ بھی حادثاتی نہیں ہے۔ ایک تہذیب کو تباہ کرنے کے لیے ایک اعلیٰ اعتماد والی ریاست کے جمہوری اداروں کا استعمال کرنا ایک اچھی طرح سے پہنا ہوا پلے بک ہے۔\" سب اسٹیک پر ایل گیٹو مالو شاید دن لمبے ہوں، لیکن یہ ہمارے…"
+    },
+    {
+      "title": "US expects deal soon on Strait of Hormuz; Sunni powers unite in defense pact",
+      "desc": "By Steve Holland and Timour Azhari WASHINGTON/RIYADH, Aug 7 (Reuters) - A U.S. official on Friday reported progress between Iran and Oman that could soon reo...",
+      "source": "Yahoo Entertainment",
+      "url": "https://www.yahoo.com/news/politics/articles/us-expects-deal-soon-strait-230159419.html",
+      "time": "2026-08-07T23:01:59",
+      "country": "Iran",
+      "title_ur": "امریکہ کو آبنائے ہرمز پر جلد ڈیل کی توقع ہے۔ سنی طاقتیں دفاعی معاہدے میں متحد ہو جائیں۔",
+      "desc_ur": "اسٹیو ہالینڈ اور تیمور ازہری کی طرف سے واشنگٹن/ریاض، 7 اگست (رائٹرز) – ایک امریکی اہلکار نے جمعہ کے روز ایران اور عمان کے درمیان پیش رفت کی اطلاع دی جو جلد ہی دوبارہ شروع ہو سکتی ہے۔"
+    },
+    {
+      "title": "Oil prices drop as US-Iran peace talks hint at de-escalation",
+      "desc": "The potential de-escalation in US-Iran tensions could stabilize oil markets, reducing the likelihood of significant price surges this year.\nThe post Oil prices drop as US-Iran peace talks hint at de-escalation appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/oil-prices-drop-as-us-iran-peace-talks-hint-at-de-escalation/",
+      "time": "2026-08-07T23:01:36",
+      "country": "Iran",
+      "title_ur": "امریکہ ایران امن مذاکرات میں کشیدگی میں کمی کا اشارہ ملنے پر تیل کی قیمتوں میں کمی",
+      "desc_ur": "امریکہ ایران کشیدگی میں ممکنہ کمی تیل کی منڈیوں کو مستحکم کر سکتی ہے، اس سال قیمتوں میں نمایاں اضافے کے امکانات کو کم کر سکتی ہے۔\nThe post تیل کی قیمتوں میں کمی، امریکا ایران امن مذاکرات میں تناؤ میں کمی کا اشارہ appeared first on Crypto Briefing."
+    },
     {
       "title": "Spain sets Italy deadline to end ‘unfair’ border checks over migrant surge",
       "desc": "Spain has set a deadline for Italy to end border controls imposed after around 72,000 migrants entered Spain’s enclave in Morocco Read Full Article at RT.com",
@@ -20,145 +150,35 @@
       "country": "Israel",
       "title_ur": "Kibutz Zikim کے رہائشیوں کو محفوظ کمرے چھوڑنے کی اجازت دی گئی، گھر کے اندر رہنے کا مشورہ دیا گیا۔",
       "desc_ur": "غزہ کی سرحد کے قریب کبوتز زیکیم کے رہائشیوں کو، جہاں باڑ میں شگاف پایا گیا جس کے نتیجے میں سیکیورٹی فورسز کی تلاشی لی گئی، انہیں اپنے محفوظ کمروں سے نکلنے کی اجازت دی گئی ہے، لیکن انہیں فی الحال اپنے گھروں کے اندر رہنے کو کہا گیا ہے۔(Arutz S…"
-    },
-    {
-      "title": "Cowboys Sign UFL Rushing Champion Jashaun Corbin To Camp Roster",
-      "desc": "The Cowboys have done some wheeling and dealing with their running back room in Oxnard.",
-      "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/nfl/cowboys/news/cowboys-sign-ufl-rushing-champion-jashaun-corbin-to-camp-roster",
-      "time": "2026-08-07T22:49:18",
-      "country": "US",
-      "title_ur": "کاؤبای نے کیمپ روسٹر کے لیے UFL رشنگ چیمپیئن Jashaun Corbin پر دستخط کیے۔",
-      "desc_ur": "کاؤبایوں نے آکسنارڈ میں اپنے بھاگتے ہوئے پیچھے والے کمرے کے ساتھ کچھ وہیلنگ اور ڈیل کیا ہے۔"
-    },
-    {
-      "title": "AIPAC’s Donors Seem To Have A Favorite Candidate In A Key Democratic Primary",
-      "desc": "Roughly 10% of Maura Sullivan’s campaign cash comes from donors who have backed the pro-Israel group or its super PAC.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/aipacs-donors-seem-to-have-a-favorite-candidate-in-a-key-democratic-primary_n_6a764db3e4b019e3187d5fcd",
-      "time": "2026-08-07T22:49:07",
-      "country": "Israel",
-      "title_ur": "ایسا لگتا ہے کہ AIPAC کے عطیہ دہندگان کے پاس ایک اہم جمہوری پرائمری میں پسندیدہ امیدوار ہے",
-      "desc_ur": "مورا سلیوان کی مہم کی نقد رقم کا تقریباً 10% ڈونرز سے آتا ہے جنہوں نے اسرائیل نواز گروپ یا اس کے سپر پی اے سی کی حمایت کی ہے۔"
-    },
-    {
-      "title": "Blanche on track for narrow Senate confirmation as attorney general",
-      "desc": "At the U.S. Capitol, it was a wild day of decision and indecision. The Senate passed the toughest sanctions bill on Russia yet and is also now on track to confirm Todd Blanche as attorney general. But a slew of other high-priority items are still tangled, lar…",
-      "source": "PBS",
-      "url": "https://www.pbs.org/newshour/show/blanche-on-track-for-narrow-senate-confirmation-as-attorney-general",
-      "time": "2026-08-07T22:45:40",
-      "country": "Russia",
-      "title_ur": "اٹارنی جنرل کی حیثیت سے سینیٹ کی تنگی کی تصدیق کے لیے راستے پر ہیں۔",
-      "desc_ur": "یو ایس کیپیٹل میں، یہ فیصلہ اور عدم فیصلہ کا ایک جنگلی دن تھا۔ سینیٹ نے روس پر ابھی تک سخت ترین پابندیوں کا بل منظور کر لیا ہے اور اب وہ اٹارنی جنرل کے طور پر ٹوڈ بلانچے کی تصدیق کرنے کے راستے پر ہے۔ لیکن بہت سی دوسری اعلی ترجیحی اشیاء ابھی بھی الجھ رہی ہیں، lar…"
-    },
-    {
-      "title": "Bereaved father confronts Miri Regev: My daughter was murdered because of you",
-      "desc": "Nissim Louk, whose daughter Shani was murdered at Nova Festival, confronts Minister Miri Regev at Mahane Yehuda Market, lashing out at her and Likud: \"You brought about October 7th.\"(Arutz Sheva-Israel National News' North American desk is keeping you updated…",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/flashes/691364",
-      "time": "2026-08-07T22:43:06",
-      "country": "Israel",
-      "title_ur": "سوگوار والد کا میری ریجیو سے سامنا: میری بیٹی کو تمہاری وجہ سے قتل کیا گیا۔",
-      "desc_ur": "نیسم لوک، جس کی بیٹی شانی کو نووا فیسٹیول میں قتل کر دیا گیا تھا، مہانے یہودا مارکیٹ میں وزیر میری ریجیو کا سامنا کرتے ہوئے، اس پر اور لیکوڈ پر طنز کرتے ہوئے: \"آپ نے 7 اکتوبر کو لایا۔\""
-    },
-    {
-      "title": "Holding Dr. Fauci In Contempt Is a New Low For the Rule of Law",
-      "desc": "This week, the Senate Homeland Security Committee’s Republican lawmakers voted to hold Dr. Anthony Fauci in contempt for essentially exercising his constitutional right to invoke the Fifth Amendment of the United States Constitution.\nThe post Holding Dr. Fauc…",
-      "source": "Ms. Magazine",
-      "url": "https://msmagazine.com/2026/08/07/fauci-contempt-covid-republicans-congress-senate/",
-      "time": "2026-08-07T22:41:00",
-      "country": "US",
-      "title_ur": "ڈاکٹر فوکی کو توہین عدالت میں رکھنا قانون کی حکمرانی کے لیے ایک نئی کمی ہے۔",
-      "desc_ur": "اس ہفتے، سینیٹ کی ہوم لینڈ سیکیورٹی کمیٹی کے ریپبلکن قانون سازوں نے ڈاکٹر انتھونی فاؤکی کو ریاستہائے متحدہ کے آئین کی پانچویں ترمیم کا مطالبہ کرنے کے اپنے آئینی حق کو بنیادی طور پر استعمال کرنے پر توہین کے الزام میں ووٹ دیا۔\nThe post ڈاکٹر فوک کا انعقاد…"
-    },
-    {
-      "title": "US intel warns Russia could launch limited attack on NATO ally in effort to fragment organization: report",
-      "desc": "Vladimir Putin could attack a NATO member between this fall and 2029, U.S. intelligence assesses, likely targeting the Baltics or Poland directly.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/world/us-intel-warns-russia-could-launch-limited-attack-nato-ally-effort-fragment-organization-report",
-      "time": "2026-08-07T22:40:08",
-      "country": "Russia",
-      "title_ur": "امریکی انٹیل نے خبردار کیا ہے کہ روس تنظیم کو ٹکڑے ٹکڑے کرنے کی کوشش میں نیٹو اتحادی پر محدود حملہ کر سکتا ہے: رپورٹ",
-      "desc_ur": "امریکی انٹیلی جنس کا اندازہ ہے کہ ولادیمیر پوتن اس موسم خزاں اور 2029 کے درمیان نیٹو کے رکن پر حملہ کر سکتے ہیں، ممکنہ طور پر بالٹکس یا پولینڈ کو براہ راست نشانہ بنایا جائے گا۔"
-    },
-    {
-      "title": "IDF searches Kibbutz Zikim following discovery of breach in security fence",
-      "desc": "IDF troops searching Kibbutz Zikim near the Gaza border after a cut was found in its security fence, though officials report no signs of an infiltration.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/431397",
-      "time": "2026-08-07T22:36:00",
-      "country": "Israel",
-      "title_ur": "آئی ڈی ایف نے حفاظتی باڑ میں خلاف ورزی کی دریافت کے بعد کیبٹز زیکیم کو تلاش کیا۔",
-      "desc_ur": "آئی ڈی ایف کے دستے غزہ کی سرحد کے قریب کبوتز زیکیم کی تلاشی لے رہے ہیں جب کہ اس کی حفاظتی باڑ میں ایک کٹ پایا گیا، حالانکہ حکام نے دراندازی کے کوئی آثار کی اطلاع نہیں دی ہے۔"
-    },
-    {
-      "title": "Lebanon, Israel agree shortlist of countries that could send troops to verify Hezbollah disarmament - Reuters",
-      "desc": "Lebanon, Israel agree shortlist of countries that could send troops to verify Hezbollah disarmamentReuters Lebanon points to ‘positive progress’ on borders, prisoners in Israel talksAl Jazeera Hezbollah’s attempts to wreck Beirut-Jerusalem talks failing, expe…",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184894350",
-      "time": "2026-08-07T22:32:51",
-      "country": "Israel",
-      "title_ur": "لبنان اور اسرائیل نے حزب اللہ کے تخفیف اسلحہ کی تصدیق کے لیے فوج بھیجنے والے ممالک کی فہرست پر اتفاق کیا - رائٹرز",
-      "desc_ur": "لبنان، اسرائیل ان ممالک کی شارٹ لسٹ پر متفق ہیں جو حزب اللہ کے تخفیف اسلحہ کی تصدیق کے لیے فوج بھیج سکتے ہیں رائٹرز لبنان سرحدوں پر 'مثبت پیش رفت' کی طرف اشارہ کرتا ہے، اسرائیل مذاکرات میں الجزیرہ حزب اللہ کی بیروت-یروشلم مذاکرات کو تباہ کرنے کی کوششیں ناکام، ایکسپیس…"
-    },
-    {
-      "title": "California Announces $3,500 Instant Rebate for New EV Purchases, Available Now",
-      "desc": "A state program allocates $135 million for incentives, with participating automakers like Tesla and Hyundai matching the funds.",
-      "source": "KQED",
-      "url": "https://www.kqed.org/news/12094373/california-announces-3500-instant-rebate-for-new-ev-purchases-available-now",
-      "time": "2026-08-07T22:30:00",
-      "country": "International",
-      "title_ur": "کیلیفورنیا نے نئی EV خریداریوں کے لیے $3,500 کی فوری چھوٹ کا اعلان کیا، اب دستیاب ہے۔",
-      "desc_ur": "ایک ریاستی پروگرام ترغیبات کے لیے $135 ملین مختص کرتا ہے، جس میں شرکت کرنے والے آٹومیکر جیسے Tesla اور Hyundai فنڈز سے مماثل ہیں۔"
-    },
-    {
-      "title": "IDF searching Kibbutz Zikim following breach discovered in perimeter fence",
-      "desc": "IDF troops are searching Kibbutz Zikim in the Gaza border area after a breach was discovered in the community's perimeter fence. According to security sources, there is no indication of an infiltration from the Gaza Strip at this stage.The IDF Spokesperson's …",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/flashes/691363",
-      "time": "2026-08-07T22:28:49",
-      "country": "Israel",
-      "title_ur": "IDF تلاش کر رہا ہے Kibbutz Zikim کے بعد دائرے کی باڑ میں خلاف ورزی کا پتہ چلا",
-      "desc_ur": "آئی ڈی ایف کے دستے غزہ کے سرحدی علاقے میں کبوتز زیکیم کو تلاش کر رہے ہیں جب کمیونٹی کی حدود کی باڑ میں شگاف کا پتہ چلا ہے۔ سیکیورٹی ذرائع کے مطابق اس مرحلے پر غزہ کی پٹی سے دراندازی کا کوئی اشارہ نہیں ہے۔آئی ڈی ایف کے ترجمان نے…"
-    },
-    {
-      "title": "Trump ally de la Espriella sworn in as Colombia president",
-      "desc": "Abelardo de la Espriella is sworn in as Colombia’s president, promising to combat drug-running guerrillas and strengthen ties with the US.\n\nRead More: https://punchng.com/trump-ally-de-la-espriella-sworn-in-as-colombia-president/",
-      "source": "The Punch",
-      "url": "https://punchng.com/trump-ally-de-la-espriella-sworn-in-as-colombia-president/",
-      "time": "2026-08-07T22:24:05",
-      "country": "US",
-      "title_ur": "ٹرمپ کے اتحادی ڈی لا ایسپریلا نے کولمبیا کے صدر کی حیثیت سے حلف اٹھا لیا۔",
-      "desc_ur": "ابیلارڈو ڈی لا ایسپریلا نے کولمبیا کے صدر کے طور پر حلف اٹھا لیا ہے، انہوں نے منشیات چلانے والے گوریلوں کا مقابلہ کرنے اور امریکہ کے ساتھ تعلقات مضبوط کرنے کا وعدہ کیا ہے۔\n\nمزید پڑھیں: https://punchng.com/trump-ally-de-la-espriella-sworn-in-as-colombia-president/"
-    },
-    {
-      "title": "Trump Vowed to Thwart Iran’s Nuclear Program. Here’s Where That Stands.",
-      "desc": "The conflict may have slowed, but not stopped, Iran’s nuclear program, officials and experts said. Chief among President Trump’s reasons for launching the war in Iran was preventing it from building a nuclear weapon. More than five months in, officials and ex…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4391014/posts",
-      "time": "2026-08-07T22:20:06",
-      "country": "Iran",
-      "title_ur": "ٹرمپ نے ایران کے جوہری پروگرام کو ناکام بنانے کا عزم کیا۔ یہ وہ جگہ ہے جہاں وہ کھڑا ہے۔",
-      "desc_ur": "ایران کا جوہری پروگرام، حکام اور ماہرین کا کہنا ہے کہ تنازعہ شاید سست ہو گیا ہو، لیکن رکا نہیں۔ صدر ٹرمپ کی ایران میں جنگ شروع کرنے کی وجوہات میں سے ایک اہم وجہ اسے جوہری ہتھیار بنانے سے روکنا تھا۔ پانچ ماہ سے زیادہ عرصے میں، حکام اور سابق…"
-    },
-    {
-      "title": "I'm Not a President, but I Play One on TV",
-      "desc": "It is easy to believe that celebrities, such as actors, have the qualities of their on-stage images. This inference, while often wrong, is as prevalent as it is concerning.",
-      "source": "Psychology Today",
-      "url": "https://www.psychologytoday.com/us/blog/darwins-subterranean-world/202608/im-not-a-president-but-i-play-one-on-tv",
-      "time": "2026-08-07T22:19:31",
-      "country": "International",
-      "title_ur": "میں صدر نہیں ہوں، لیکن میں ٹی وی پر ون چلاتا ہوں۔",
-      "desc_ur": "یہ یقین کرنا آسان ہے کہ مشہور شخصیات، جیسے اداکار، ان کی اسٹیج پر موجود تصاویر کی خوبیاں ہیں۔ یہ اندازہ، اگرچہ اکثر غلط ہے، اتنا ہی مروجہ ہے جتنا کہ اس سے متعلق ہے۔"
     }
   ],
   "pakistan": [
     {
+      "title": "Will Pakistan-Saudi-Turkiye alliance actually create a new regional order?",
+      "desc": "The Mecca Joint Defence Pact brings together countries that sit between Iran and Israel, but will it be effective?",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/8/7/new-regional-order-pakistan-turkiye-saudi-arabia",
+      "time": "2026-08-07T23:18:14",
+      "country": "Pakistan",
+      "title_ur": "کیا پاکستان-سعودی-ترکی اتحاد واقعی ایک نیا علاقائی ترتیب پیدا کرے گا؟",
+      "desc_ur": "مکہ مشترکہ دفاعی معاہدہ ایران اور اسرائیل کے درمیان بیٹھنے والے ممالک کو اکٹھا کرتا ہے، لیکن کیا یہ کارآمد ہوگا؟"
+    },
+    {
+      "title": "Oil Traders Stay Bearish Despite Deepening Middle East Disruptions",
+      "desc": "Despite continued hostilities in the Middle East and an expansion of the war to the Red Sea, oil traders have remained largely bearish on the commodity, betting on a quick peace deal—and they might get a nasty shock. Earlier this week, Brent crude sank below …",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Oil-Prices/Oil-Traders-Stay-Bearish-Despite-Deepening-Middle-East-Disruptions.html",
+      "time": "2026-08-07T23:00:00",
+      "country": "Pakistan",
+      "title_ur": "تیل کے تاجر مشرق وسطیٰ میں گہرے خلل کے باوجود مندی کا شکار ہیں۔",
+      "desc_ur": "مشرق وسطیٰ میں مسلسل دشمنیوں اور بحیرہ احمر تک جنگ کی توسیع کے باوجود، تیل کے تاجر تیزی سے امن معاہدے پر شرط لگاتے ہوئے اجناس پر بڑی حد تک مندی کا شکار رہے ہیں۔ اس ہفتے کے شروع میں، برینٹ کروڈ نیچے ڈوب گیا…"
+    },
+    {
       "title": "What's holding up the Iran-Oman proposal to reopen the Strait of Hormuz",
       "desc": "There is a new partnership in the Middle East and South Asia. Saudi Arabia, Turkey and Pakistan signed an agreement similar to NATO's Article 5, pledging that a strike against one of them would be considered a strike against all of them. But despite reports t…",
-      "source": "PBS",
-      "url": "https://www.pbs.org/newshour/show/whats-holding-up-the-iran-oman-proposal-to-reopen-the-strait-of-hormuz",
-      "time": "2026-08-07T22:40:21",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/714868f4d3f478ea",
+      "time": "2026-08-07T22:57:51",
       "country": "Pakistan",
       "title_ur": "آبنائے ہرمز کو دوبارہ کھولنے کی ایران اور عمان کی تجویز کو کس چیز نے روکا؟",
       "desc_ur": "مشرق وسطیٰ اور جنوبی ایشیا میں ایک نئی شراکت داری ہے۔ سعودی عرب، ترکی اور پاکستان نے نیٹو کے آرٹیکل 5 کی طرح ایک معاہدے پر دستخط کیے، جس میں یہ عہد کیا گیا کہ ان میں سے کسی ایک کے خلاف ہڑتال ان سب کے خلاف ہڑتال تصور کی جائے گی۔ لیکن اطلاعات کے باوجود ٹی…"
