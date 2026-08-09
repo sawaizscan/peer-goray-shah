@@ -1,189 +1,158 @@
 {
-  "generated": "2026-08-09T15:01:34Z",
+  "generated": "2026-08-09T15:55:53Z",
   "world": [
     {
-      "title": "Gold, Crude Oil, Nifty, Rupee: What higher US Treasury Yields mean for these assets",
-      "desc": "The US Treasury yields have been on the rise ever since the US-Iran war started. Where are the yields headed from here? How would other assets be impacted? Here’s our technical analysis",
+      "title": "The U.S. archivist Trump fired last year got Obama, Bush and Clinton to write about giving up power",
+      "desc": "Colleen Shogan is curating the In Pursuit project, a 250th-anniversary series, and it doesn't mention Trump much at all.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/08/shogan-fired-archivist-ex-presidents-essays/",
+      "time": "2026-08-08T15:55:15",
+      "country": "US",
+      "title_ur": "امریکی آرکائیوسٹ ٹرمپ نے پچھلے سال برطرف کر کے اوباما، بش اور کلنٹن کو اقتدار چھوڑنے کے بارے میں لکھنے پر مجبور کیا",
+      "desc_ur": "کولین شوگن ان پرسوٹ پروجیکٹ کی کیورٹنگ کر رہی ہے، جو 250 ویں سالگرہ کی سیریز ہے، اور اس میں ٹرمپ کا زیادہ ذکر نہیں ہے۔"
+    },
+    {
+      "title": "UNRWA has been with me since birth, I cannot imagine a future without it",
+      "desc": "The UN body has been part of the lives of millions of Palestinian refugees. Post-genocide Gaza cannot cope without it",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/features/2026/8/8/unrwa-has-been-with-me-since-birth-i-cannot-imagine-a-future-without-it",
+      "time": "2026-08-08T15:52:49",
+      "country": "Israel",
+      "title_ur": "UNRWA پیدائش سے ہی میرے ساتھ ہے، میں اس کے بغیر مستقبل کا تصور نہیں کر سکتا",
+      "desc_ur": "اقوام متحدہ کا ادارہ لاکھوں فلسطینی پناہ گزینوں کی زندگیوں کا حصہ رہا ہے۔ نسل کشی کے بعد غزہ اس کے بغیر نمٹ نہیں سکتا"
+    },
+    {
+      "title": "Waiting 26 years ‘for this shoe to drop’: Musk’s AI company joins the fight to strip citizens of their power to sue",
+      "desc": "“The court is more like Scalia’s court since he died than it ever was when he was there,” said Harvard law professor Richard Lazarus.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/08/lazarus-26-years-citizen-suits-musk-xai/",
+      "time": "2026-08-08T15:50:24",
+      "country": "US",
+      "title_ur": "'اس جوتے کے گرنے کا 26 سال انتظار کرنا': مسک کی اے آئی کمپنی شہریوں کے خلاف مقدمہ چلانے کی طاقت سے محروم کرنے کی لڑائی میں شامل ہوگئی۔",
+      "desc_ur": "ہارورڈ کے قانون کے پروفیسر رچرڈ لازارس نے کہا، \"عدالت اسکالیا کی عدالت کی طرح ہے جب سے وہ اس وقت سے کہیں زیادہ مر گیا جب وہ وہاں تھا۔\""
+    },
+    {
+      "title": "12-year-old girl dies from critical wounds following Thailand shooting",
+      "desc": "Another victim has died following a mass shooting in Thailand, northwest of Bangkok. The death toll is now at least eight.",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/news/world/thailand-shooting-schoolgirl-9.7300653",
+      "time": "2026-08-08T15:49:56",
+      "country": "International",
+      "title_ur": "تھائی لینڈ میں فائرنگ کے نتیجے میں 12 سالہ بچی شدید زخموں کی تاب نہ لاتے ہوئے چل بسی۔",
+      "desc_ur": "بنکاک کے شمال مغرب میں تھائی لینڈ میں بڑے پیمانے پر فائرنگ کے نتیجے میں ایک اور زخمی ہلاک ہو گیا ہے۔ مرنے والوں کی تعداد اب کم از کم آٹھ ہے۔"
+    },
+    {
+      "title": "Vance Claims US Made Progress in Talks With Iran Over Past Few Days",
+      "desc": "WASHINGTON (Sputnik) - US Vice President JD Vance claimed on Saturday that the United States had made \"some\" progress in negotiations with Iran over the past few days.",
+      "source": "Sputnikglobe.com",
+      "url": "https://sputnikglobe.com/20260808/vance-claims-us-made-progress-in-talks-with-iran-over-past-few-days-1124551412.html",
+      "time": "2026-08-08T15:46:14",
+      "country": "Iran",
+      "title_ur": "وینس کا دعویٰ ہے کہ امریکہ نے گزشتہ چند دنوں میں ایران کے ساتھ بات چیت میں پیش رفت کی ہے۔",
+      "desc_ur": "واشنگٹن (اسپوتنک) - امریکی نائب صدر جے ڈی وینس نے ہفتے کے روز دعویٰ کیا کہ امریکہ نے گزشتہ چند دنوں میں ایران کے ساتھ مذاکرات میں \"کچھ\" پیش رفت کی ہے۔"
+    },
+    {
+      "title": "Taylor Swift Takes Action, Has Songs Removed From Trump TikTok Videos",
+      "desc": "Between his connections to the Epstein Files, this week's craptastic jobs report, his flailing efforts against Iran, and about a dozen other dumpster fires he has burning, we're not surprised that Donald Trump slipped back into his \"creepy uncle\" obsession wi…",
+      "source": "Bleeding Cool News",
+      "url": "https://bleedingcool.com/tv/taylor-swift-takes-action-has-songs-removed-from-trump-tiktok-videos/",
+      "time": "2026-08-08T15:37:11",
+      "country": "Iran",
+      "title_ur": "ٹیلر سوئفٹ نے ایکشن لیا، ٹرمپ کے ٹک ٹاک ویڈیوز سے گانے ہٹا دیے گئے۔",
+      "desc_ur": "ایپسٹین فائلز سے اس کے رابطوں کے درمیان، اس ہفتے کی کرپٹسٹک ملازمتوں کی رپورٹ، ایران کے خلاف اس کی ناکام کوششوں، اور تقریباً ایک درجن دیگر ڈمپسٹر آگ جو اس نے جلائی ہے، ہمیں حیرت نہیں ہوئی کہ ڈونلڈ ٹرمپ اپنے \"ڈراؤنا چچا\" کے جنون میں واپس آ گئے۔"
+    },
+    {
+      "title": "U.A.E. Says Iran Attacked One of Its Ships in Hormuz",
+      "desc": "The attack further clouds the outlook for a deal to open the strategic waterway.",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/4635d31c91326a2b",
+      "time": "2026-08-08T15:37:10",
+      "country": "Iran",
+      "title_ur": "U.A.E ایران کا کہنا ہے کہ ہرمز میں اس کے ایک بحری جہاز پر حملہ کیا گیا۔",
+      "desc_ur": "اس حملے نے اسٹریٹجک آبی گزرگاہ کو کھولنے کے لیے معاہدے کے امکانات کو مزید گھیر لیا ہے۔"
+    },
+    {
+      "title": "Mosimane set to succeed Broos as South Africa coach",
+      "desc": "Pitso Mosimane is set to succeed Belgian Hugo Bross as coach of South Africa, the national football association announced on Saturday. We will make a formal announcement next week,\" said association president Danny Jordaan.",
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/articles/mosimane-set-succeed-broos-south-153630101.html",
+      "time": "2026-08-08T15:36:30",
+      "country": "International",
+      "title_ur": "موسیمانے بروس کی جگہ جنوبی افریقہ کے کوچ بنیں گے۔",
+      "desc_ur": "Pitso Mosimane جنوبی افریقہ کے کوچ کے طور پر بیلجیئم کے ہیوگو بروس کی جگہ لینے کے لیے تیار ہیں، قومی فٹ بال ایسوسی ایشن نے ہفتے کے روز اعلان کیا۔ ہم اگلے ہفتے باضابطہ اعلان کریں گے،\" ایسوسی ایشن کے صدر ڈینی جورڈن نے کہا۔"
+    },
+    {
+      "title": "Iran Issues List of Demands on the Strait of Hormuz",
+      "desc": "“A top Iranian national security official delivered a sweeping set of demands on Saturday that he said the United States must meet before the Strait of Hormuz can reopen to maritime traffic, throwing the fate of the critical trade waterway into question,” the…",
+      "source": "Politicalwire.com",
+      "url": "https://politicalwire.com/2026/08/08/iran-issues-list-of-demands-on-the-strait-of-hormuz/",
+      "time": "2026-08-08T15:34:59",
+      "country": "Iran",
+      "title_ur": "ایران نے آبنائے ہرمز پر مطالبات کی فہرست جاری کردی",
+      "desc_ur": "\"ایرانی قومی سلامتی کے ایک اعلیٰ اہلکار نے ہفتے کے روز مطالبات کا ایک بڑا مجموعہ پیش کیا جس میں انہوں نے کہا کہ امریکہ کو آبنائے ہرمز کو سمندری ٹریفک کے لیے دوبارہ کھولنے سے پہلے پورا کرنا چاہیے، جس سے تجارتی آبی گزرگاہ کی قسمت پر سوالیہ نشان لگا ہوا ہے\"۔"
+    },
+    {
+      "title": "I was a stay-at-home mom for 27 years. At 62, I started over after moving to Greece.",
+      "desc": "Kati Gyselinck traded her secure, but unfulfilled lifestyle for a fresh start in another country. She downsized and found joy in the simpler things.",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/left-marriage-moved-greece-alone-2026-8#article",
+      "time": "2026-08-08T15:31:01",
+      "country": "International",
+      "title_ur": "میں 27 سال تک گھر میں رہنے والی ماں تھی۔ 62 سال کی عمر میں، میں نے یونان جانے کے بعد شروع کیا۔",
+      "desc_ur": "Kati Gyselinck نے دوسرے ملک میں ایک نئی شروعات کے لیے اپنے محفوظ، لیکن نامکمل طرز زندگی کا کاروبار کیا۔ اس نے سائز کم کیا اور آسان چیزوں میں خوشی پائی۔"
+    },
+    {
+      "title": "One For Troop Respecter Tapper",
+      "desc": "I suppose I should go check to see if he is ON IT.Morale is plummeting on an American aircraft carrier that's running short of food and other supplies as its exhausted crew wages President Donald Trump's war against Iran, worried family members say.\r\nSailors …",
+      "source": "Eschatonblog.com",
+      "url": "https://www.eschatonblog.com/2026/08/one-for-troop-respecter-tapper.html",
+      "time": "2026-08-08T15:30:00",
+      "country": "Iran",
+      "title_ur": "ایک ٹروپ ریسپیکٹر ٹیپر کے لیے",
+      "desc_ur": "میرا خیال ہے کہ مجھے یہ دیکھنے کے لیے جانا چاہیے کہ آیا وہ آئی ٹی پر ہے۔ مورال ایک امریکی طیارہ بردار بحری جہاز پر گر رہا ہے جس کے پاس خوراک اور دیگر سامان کی کمی ہے کیونکہ اس کے تھکے ہوئے عملے نے صدر ڈونلڈ ٹرمپ کی ایران کے خلاف جنگ کی اجرت دی ہے، پریشان کن خاندان کے افراد کا کہنا ہے۔\r\nملاح…"
+    },
+    {
+      "title": "Should you subscribe to Dhoot Transmission’s IPO?",
+      "desc": "Discover if Dhoot Transmission's IPO, open from August 10-12, is a worthwhile investment for your portfolio.",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/portfolio/big-story/yields-poised-to-rise-more/article71316655.ece",
-      "time": "2026-08-08T14:59:24",
-      "country": "Iran",
-      "title_ur": "سونا، خام تیل، نفٹی، روپیہ: ان اثاثوں کے لیے امریکی خزانے کی پیداوار کا کیا مطلب ہے؟",
-      "desc_ur": "جب سے امریکہ ایران جنگ شروع ہوئی ہے امریکی خزانے کی پیداوار میں اضافہ ہو رہا ہے۔ یہاں سے پیداوار کہاں جاتی ہے؟ دوسرے اثاثے کیسے متاثر ہوں گے؟ ہمارا تکنیکی تجزیہ یہ ہے۔"
+      "url": "https://www.thehindubusinessline.com/portfolio/stock-fundamental-analysis-india/should-you-subscribe-to-dhoot-transmissions-ipo/article71318964.ece",
+      "time": "2026-08-08T15:26:51",
+      "country": "US",
+      "title_ur": "کیا آپ کو دھوت ٹرانسمیشن کے آئی پی او کو سبسکرائب کرنا چاہئے؟",
+      "desc_ur": "دریافت کریں کہ کیا دھوت ٹرانسمیشن کا IPO، جو 10-12 اگست تک کھلا ہے، آپ کے پورٹ فولیو کے لیے ایک قابل قدر سرمایہ کاری ہے۔"
     },
     {
-      "title": "Iraq’s Kurdish region wants to stay out of regional conflicts: PM Barzani",
-      "desc": "In an interview with Al Jazeera, Masrour Barzani denies any 'pressure' to enter the Iran war despite over 1,000 attacks.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/8/8/iraqs-kurdish-region-wants-to-stay-out-of-regional-conflicts-pm-barzani",
-      "time": "2026-08-08T14:58:42",
-      "country": "Iran",
-      "title_ur": "عراق کا کرد علاقہ علاقائی تنازعات سے دور رہنا چاہتا ہے: وزیر اعظم بارزانی",
-      "desc_ur": "الجزیرہ کے ساتھ ایک انٹرویو میں، مسرور بارزانی نے 1,000 سے زیادہ حملوں کے باوجود ایران کی جنگ میں داخل ہونے کے لیے کسی 'دباؤ' کی تردید کی۔"
+      "title": "Tucker for president? MAGA rebels declare independence from Israel",
+      "desc": "A widening split on the American right is turning Trump’s old base into open opposition, with Israel at the center of the rupture Read Full Article at RT.com",
+      "source": "RT",
+      "url": "https://www.rt.com/news/644017-maga-rebels-tucker-israel/",
+      "time": "2026-08-08T15:25:43",
+      "country": "Israel",
+      "title_ur": "صدر کے لیے ٹکر؟ MAGA باغیوں نے اسرائیل سے آزادی کا اعلان کیا۔",
+      "desc_ur": "امریکی دائیں جانب پھیلتی ہوئی تقسیم ٹرمپ کے پرانے اڈے کو کھلی مخالفت میں بدل رہی ہے، اسرائیل ٹوٹ پھوٹ کے مرکز میں ہے RT.com پر مکمل مضمون پڑھیں"
     },
     {
-      "title": "JD Vance expects oil flows from Gulf to return to pre-conflict levels",
-      "desc": "The reopening of the Strait of Hormuz could stabilize global oil markets, but lingering risks and unresolved protocols may hinder full recovery.\nThe post JD Vance expects oil flows from Gulf to return to pre-conflict levels appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/vance-oil-flows-strait-of-hormuz-iran-mou/",
-      "time": "2026-08-08T14:52:29",
+      "title": "Bangkok school shooter's parents 'apologise to society' as death toll rises to eight after 14-year-old killed his grandparents before going on bullet rampage in class",
+      "desc": "The father of the 14-year-old, who also shot and killed his grandparents before going on the killing spree at his school on Friday, expressed remorse for what his son had done, Thai media reports.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16038339/Bangkok-school-shooters-parents-apologise-society-killed-grandparents-rampage.html",
+      "time": "2026-08-08T15:22:54",
       "country": "International",
-      "title_ur": "JD Vance توقع کرتا ہے کہ خلیج سے تیل کا بہاؤ تنازعات سے پہلے کی سطح پر واپس آجائے گا۔",
-      "desc_ur": "آبنائے ہرمز کے دوبارہ کھلنے سے تیل کی عالمی منڈیوں کو استحکام مل سکتا ہے، لیکن دیرپا خطرات اور غیر حل شدہ پروٹوکول مکمل بحالی میں رکاوٹ بن سکتے ہیں۔\nThe post جے ڈی وینس کو توقع ہے کہ خلیج سے تیل کا بہاؤ تنازعات سے پہلے کی سطح پر واپس آجائے گا appeared first on Crypto Briefing."
+      "title_ur": "بنکاک کے اسکول شوٹر کے والدین 'معافی مانگتے ہیں' کیونکہ 14 سالہ لڑکے نے کلاس میں گولی چلانے سے پہلے اپنے دادا دادی کو قتل کرنے کے بعد مرنے والوں کی تعداد آٹھ ہوگئی",
+      "desc_ur": "تھائی میڈیا کی رپورٹوں کے مطابق، 14 سالہ بچے کے والد، جس نے جمعے کے روز اپنے سکول میں قتل کے سلسلے میں جانے سے پہلے اپنے دادا دادی کو بھی گولی مار کر ہلاک کر دیا، اپنے بیٹے کے کیے پر پچھتاوا ظاہر کیا۔"
     },
     {
-      "title": "WATCH: Helicopter involved in fighting wildfires crashes, Utah authorities say",
-      "desc": "Officials say search teams were not immediately able to reach the crash site because of the fire conditions.",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/video/135481980/",
-      "time": "2026-08-08T14:52:27",
-      "country": "US",
-      "title_ur": "دیکھو: یوٹاہ حکام کا کہنا ہے کہ جنگل کی آگ سے لڑنے میں مصروف ہیلی کاپٹر گر کر تباہ ہو گیا۔",
-      "desc_ur": "حکام کا کہنا ہے کہ آگ لگنے کی وجہ سے سرچ ٹیمیں فوری طور پر جائے حادثہ تک نہیں پہنچ سکیں۔"
-    },
-    {
-      "title": "GOP senators look to pass Trump’s voting bill as part of a budget package that funds the Iran war and Pentagon after recess",
-      "desc": "Senators headed for the exits in the predawn hours Saturday, ending for now a crushing standoff over President Donald Trump’s demands that they stay in session to pass a strict proof-of-citizenship voting bill before the summer recess.\nWhile they wrapped up m…",
+      "title": "Iranian missile targets UAE tanker despite talks to reopen strait",
+      "desc": "Latest attacks launched as Iran said it was close to finalising deal with Oman to manage shipping through Hormuz",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/59c00ce5c9fa1448",
-      "time": "2026-08-08T14:51:46",
+      "url": "https://biztoc.com/x/919338e22e265677",
+      "time": "2026-08-08T15:21:53",
       "country": "Iran",
-      "title_ur": "جی او پی سینیٹرز بجٹ پیکج کے حصے کے طور پر ٹرمپ کے ووٹنگ بل کو پاس کرنے کے خواہاں ہیں جو چھٹی کے بعد ایران جنگ اور پینٹاگون کو فنڈ فراہم کرتا ہے۔",
-      "desc_ur": "سینیٹرز ہفتے کے روز صبح کے اوقات میں باہر نکلنے کے لیے روانہ ہوئے، صدر ڈونلڈ ٹرمپ کے اس مطالبے پر اب کے لیے ایک کرشنگ تعطل کا خاتمہ ہوا کہ وہ موسم گرما کی چھٹیوں سے قبل شہریت کے سخت ثبوت کے ووٹنگ بل کو منظور کرنے کے لیے سیشن میں رہیں۔\nجب انہوں نے مجھے سمیٹ لیا…"
-    },
-    {
-      "title": "Iran War Exposes US Munition Gaps as China and Russia Concerns Loom; Pentagon Awards Raytheon Missile Con",
-      "desc": "The Iran war is straining U.S. missile stockpiles as China and Russia concerns grow. Analysts warn inventories are tightening while the Pentagon awards Raytheon new missile contracts.",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/ea51d55ab0a14a10",
-      "time": "2026-08-08T14:51:22",
-      "country": "Iran",
-      "title_ur": "ایران کی جنگ نے امریکی جنگی سازوسامان کے خلا کو بے نقاب کر دیا ہے کیونکہ چین اور روس کے خدشات بڑھ رہے ہیں۔ پینٹاگون ایوارڈز ریتھیون میزائل کون",
-      "desc_ur": "چین اور روس کے خدشات بڑھنے کے ساتھ ہی ایران جنگ امریکی میزائلوں کے ذخیرے کو دبا رہی ہے۔ تجزیہ کاروں نے خبردار کیا ہے کہ انوینٹری سخت ہو رہی ہے جب کہ پینٹاگون نے ریتھیون کو نئے میزائلوں کے ٹھیکے دیے ہیں۔"
-    },
-    {
-      "title": "Who is available for Auburn's games against KK Mega Superbet?",
-      "desc": "The Auburn Tigers are set to face off against KK Mega Super Bet this weekend in Mykonos. Who all will see time on the court?",
-      "source": "USA Today",
-      "url": "https://auburnwire.usatoday.com/story/sports/college/auburn/mens-basketball/2026/08/08/auburn-basketball-injury-report-kk-mega-superbet-games-greece/91225688007/",
-      "time": "2026-08-08T14:47:03",
-      "country": "International",
-      "title_ur": "کے کے میگا سپربیٹ کے خلاف اوبرن گیمز کے لیے کون دستیاب ہے؟",
-      "desc_ur": "اوبرن ٹائیگرز کا مقابلہ KK میگا سپر بیٹ کے خلاف اس ہفتے کے آخر میں Mykonos میں ہونے والا ہے۔ عدالت کا وقت کون دیکھے گا؟"
-    },
-    {
-      "title": "UAE Says Ship Was Targeted by Iranian Missile",
-      "desc": "The United Arab Emirates said one of its ships was targeted by an Iranian missile early Saturday. A vessel owned by Abu Dhabi's state-owned ADNOC oil and gas company was attacked while transiting the Strait of Hormuz, Emirati authorities said. The Foreign Min…",
-      "source": "Newser",
-      "url": "https://www.newser.com/story/394316/uae-says-ship-was-targeted-by-iranian-missile.html",
-      "time": "2026-08-08T14:45:00",
-      "country": "Iran",
-      "title_ur": "متحدہ عرب امارات کا کہنا ہے کہ بحری جہاز کو ایرانی میزائل سے نشانہ بنایا گیا تھا۔",
-      "desc_ur": "متحدہ عرب امارات نے کہا کہ ہفتے کی صبح اس کے ایک جہاز کو ایرانی میزائل نے نشانہ بنایا۔ اماراتی حکام نے بتایا کہ ابوظہبی کی سرکاری ملکیت والی ADNOC آئل اینڈ گیس کمپنی کے ایک جہاز پر آبنائے ہرمز سے گزرتے ہوئے حملہ کیا گیا۔ وزیر خارجہ نے…"
-    },
-    {
-      "title": "Probe reveals terms Coca-Cola censors on personalized cans — and astonishing phrases that are allowed",
-      "desc": "Filter blocks religious phrases and 'Make America Great' while allowing 'Defund the Police,' 'Proud Boys' and references to pedophiles",
-      "source": "Fox Business",
-      "url": "https://www.foxbusiness.com/media/coca-cola-personalized-cans-show-inconsistent-enforcement-against-disallowing-controversial-phrases-groups",
-      "time": "2026-08-08T14:42:39",
-      "country": "US",
-      "title_ur": "تحقیقات نے ذاتی کین پر کوکا کولا سنسر کی اصطلاحات کا انکشاف کیا ہے - اور حیران کن جملے جن کی اجازت ہے",
-      "desc_ur": "'پولیس کو ڈیفنڈ'، 'پراؤڈ بوائز' اور پیڈو فائلز کے حوالہ جات کی اجازت دیتے ہوئے مذہبی فقروں کو فلٹر کرتا ہے اور 'میک امریکہ کو عظیم' بناتا ہے۔"
-    },
-    {
-      "title": "Trump Goes Unmentioned But Not Ignored As Clinton, Bush And Obama Step Up As Essayists On Presidents",
-      "desc": "Three ex-presidents have joined an all-star roster of historians in contributing to a series of essays about presidents back to George Washington.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/trump-obama-bush-clinton-president-essays_n_6a773f6de4b0d2a3b777fc5a",
-      "time": "2026-08-08T14:40:50",
-      "country": "US",
-      "title_ur": "ٹرمپ کا نام نہیں لیا گیا لیکن کلنٹن، بش اور اوباما نے صدور پر مضمون نگار کے طور پر آگے بڑھتے ہوئے نظر انداز نہیں کیا",
-      "desc_ur": "تین سابق صدور تاریخ دانوں کے ایک آل سٹار روسٹر میں شامل ہو گئے ہیں جو جارج واشنگٹن میں صدور کے بارے میں مضامین کی ایک سیریز میں حصہ ڈال رہے ہیں۔"
-    },
-    {
-      "title": "Iran says Hormuz deal with Oman 'very close' – but not enough to reopen strait",
-      "desc": "Iranian Foreign Minister Abbas Araghchi said that reopening the strait depends on other conditions, including U.S. compensation to Iran. Meanwhile, the UAE said Iran attacked an Emirati vessel that attempted to cross the waterway",
-      "source": "Haaretz",
-      "url": "https://www.haaretz.com/middle-east-news/iran/2026-08-08/ty-article/iran-says-hormuz-deal-with-oman-very-close-but-not-enough-to-reopen-strait/0000019f-e17a-d7e2-a39f-f7face200000",
-      "time": "2026-08-08T14:38:12",
-      "country": "Iran",
-      "title_ur": "ایران کا کہنا ہے کہ عمان کے ساتھ ہرمز کا معاہدہ 'بہت قریب' ہے - لیکن آبنائے کو دوبارہ کھولنے کے لیے کافی نہیں ہے۔",
-      "desc_ur": "ایرانی وزیر خارجہ عباس عراقچی نے کہا کہ آبنائے کو دوبارہ کھولنا دیگر شرائط پر منحصر ہے جس میں ایران کو امریکی معاوضہ بھی شامل ہے۔ دریں اثنا، متحدہ عرب امارات نے کہا کہ ایران نے ایک اماراتی جہاز پر حملہ کیا جس نے آبی گزرگاہ کو عبور کرنے کی کوشش کی۔"
-    },
-    {
-      "title": "Moismane set for second spell as South Africa coach",
-      "desc": "JOHANNESBURG, Aug 8 : South Africa have approached Pitso Mosimane to return for a second spell as manager to replace veteran Hugo Broos.South African FA President Danny Jordaan said Mosimane was the choice but \"we still need to tie up some loose ends.\"We will…",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/sport/moismane-set-second-spell-south-africa-coach-6307756",
-      "time": "2026-08-08T14:36:49",
-      "country": "International",
-      "title_ur": "موئسمانی جنوبی افریقہ کے کوچ کے طور پر دوسرے اسپیل کے لیے تیار ہیں۔",
-      "desc_ur": "جوہانسبرگ، 8 اگست: جنوبی افریقہ نے تجربہ کار ہیوگو بروس کی جگہ منیجر کے طور پر دوسرے سپیل کے لیے واپسی کے لیے پٹسو موسیمانے سے رابطہ کیا ہے۔ جنوبی افریقہ کے ایف اے کے صدر ڈینی جارڈان نے کہا کہ موسیمانے ہی انتخاب تھا لیکن \"ہمیں ابھی بھی کچھ ڈھیلے سرے باندھنے کی ضرورت ہے۔\" ہم…"
-    },
-    {
-      "title": "Iran: Hormuz won't reopen until US corrects behavior",
-      "desc": "Iran’s Supreme National Security Council Secretary Mohammad Baqer Zolqadr announced on Saturday that the Strait of Hormuz will not be reopened unless the United States \"corrects its behavior.\" The cou...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/f43af3e677d71bdd",
-      "time": "2026-08-08T14:36:15",
-      "country": "Iran",
-      "title_ur": "ایران: ہرمز اس وقت تک دوبارہ نہیں کھلے گا جب تک امریکہ اپنا رویہ درست نہیں کرتا",
-      "desc_ur": "ایران کی سپریم نیشنل سیکیورٹی کونسل کے سیکریٹری محمد باقر ذولقدر نے ہفتے کے روز اعلان کیا کہ آبنائے ہرمز کو اس وقت تک دوبارہ نہیں کھولا جائے گا جب تک کہ امریکہ اپنے رویے کو درست نہیں کرتا۔ کو..."
-    },
-    {
-      "title": "Iran says deal on Strait of Hormuz is close but will not open the waterway by itself - Reuters",
-      "desc": "Iran says deal on Strait of Hormuz is close but will not open the waterway by itselfReuters Iran Sees an Opening to Kick the U.S. Out of the GulfWSJ Iran deliberates Hormuz arrangement amid uncertain prospects with USAl Jazeera Former Trump cabinet official s…",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184898928",
-      "time": "2026-08-08T14:33:44",
-      "country": "Iran",
-      "title_ur": "ایران کا کہنا ہے کہ آبنائے ہرمز پر معاہدہ قریب ہے لیکن وہ خود آبی گزرگاہ نہیں کھولے گا۔",
-      "desc_ur": "ایران کا کہنا ہے کہ آبنائے ہرمز پر معاہدہ قریب ہے لیکن آبی گزرگاہ خود نہیں کھولے گا رائٹرز"
-    },
-    {
-      "title": "Trump pumps brakes on Senate budget plan, delaying GOP SAVE America push - Fox News",
-      "desc": "Trump pumps brakes on Senate budget plan, delaying GOP SAVE America pushFox News Republicans face likely year-end test after punting Trump spending billPolitico Thune, Trump, Senate conservatives reach deal to set aside budget, SAVE America Act impasseThe Hil…",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184898926",
-      "time": "2026-08-08T14:33:34",
-      "country": "US",
-      "title_ur": "ٹرمپ نے سینیٹ کے بجٹ پلان پر بریک لگا دی، GOP SAVE America Push میں تاخیر کر دی - Fox News",
-      "desc_ur": "ٹرمپ نے سینیٹ کے بجٹ کے منصوبے پر بریک لگا دی، GOP SAVE America pushFox News ریپبلکنز کو ممکنہ سال کے آخر میں امتحان کا سامنا کرنا پڑتا ہے جب ٹرمپ کے اخراجات کے بل پولیٹیکو تھون، ٹرمپ، سینیٹ کے قدامت پسند بجٹ کو الگ کرنے کے معاہدے پر پہنچ گئے، امریکہ ایکٹ کو بچائیں"
+      "title_ur": "آبنائے کو دوبارہ کھولنے کے لیے مذاکرات کے باوجود ایرانی میزائل نے یو اے ای کے ٹینکر کو نشانہ بنایا",
+      "desc_ur": "تازہ ترین حملے اس وقت کیے گئے جب ایران نے کہا کہ وہ ہرمز کے راستے جہاز رانی کے انتظام کے لیے عمان کے ساتھ معاہدے کو حتمی شکل دینے کے قریب ہے۔"
     }
   ],
-  "pakistan": [
-    {
-      "title": "IAF Wing Commander honey-trapped by female Pakistani handler, arrested over alleged defence data leak",
-      "desc": "IAF Wing Commander was arrested after allegedly being honey-trapped through social media by a female Pakistani intelligence operative, officials and Delhi Police sources said. The officer is accused of sharing sensitive defence information and confidential do…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/defence/iaf-wing-commander-honey-trapped-by-female-pakistani-handler-arrested-over-alleged-defence-data-leak/articleshow/133054286.cms",
-      "time": "2026-08-08T14:28:41",
-      "country": "Pakistan",
-      "title_ur": "آئی اے ایف ونگ کمانڈر کو خاتون پاکستانی ہینڈلر نے ہنی ٹریپ کیا، مبینہ طور پر دفاعی ڈیٹا لیک ہونے پر گرفتار کر لیا گیا۔",
-      "desc_ur": "حکام اور دہلی پولیس کے ذرائع نے بتایا کہ IAF ونگ کمانڈر کو مبینہ طور پر ایک خاتون پاکستانی انٹیلی جنس آپریٹو کے ذریعہ سوشل میڈیا کے ذریعے ہنی ٹریپ کرنے کے بعد گرفتار کیا گیا تھا۔ افسر پر حساس دفاعی معلومات شیئر کرنے اور خفیہ کام کرنے کا الزام ہے۔"
-    },
-    {
-      "title": "Saudi, Pakistan, Turkiye form defense pact amid regional tensions",
-      "desc": "The defense pact may heighten regional tensions, complicating diplomatic efforts and impacting market perceptions of Middle East stability.\nThe post Saudi, Pakistan, Turkiye form defense pact amid regional tensions appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/saudi-pakistan-turkiye-form-defense-pact-amid-regional-tensions/",
-      "time": "2026-08-08T14:09:16",
-      "country": "Pakistan",
-      "title_ur": "سعودی، پاکستان اور ترکی نے علاقائی کشیدگی کے درمیان دفاعی معاہدہ کیا۔",
-      "desc_ur": "دفاعی معاہدہ علاقائی کشیدگی کو بڑھا سکتا ہے، سفارتی کوششوں کو پیچیدہ بنا سکتا ہے اور مشرق وسطیٰ کے استحکام کے بارے میں مارکیٹ کے تاثرات کو متاثر کر سکتا ہے۔\nThe post علاقائی کشیدگی کے درمیان سعودی، پاکستان اور ترکی نے دفاعی معاہدہ کرلیا appeared first on Crypto Briefing."
-    },
-    {
-      "title": "War on Iran: Phase II: Day 28",
-      "desc": "Saudi-Pakistan-Turkiye pact draws mixed reactions, as Iran and Oman agree a Hormuz security framework.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/war-on-iran-phase-ii-day-28",
-      "time": "2026-08-08T14:09:02",
-      "country": "Pakistan",
-      "title_ur": "ایران کے خلاف جنگ: دوسرا مرحلہ: 28 دن",
-      "desc_ur": "سعودی-پاکستان-ترکی معاہدے پر ملے جلے ردعمل کا اظہار کیا گیا ہے، کیونکہ ایران اور عمان ہرمز سیکیورٹی فریم ورک پر متفق ہیں۔"
-    }
-  ],
+  "pakistan": [],
   "business": {
     "quote": "Risk comes from not knowing what you're doing.",
     "author": "Warren Buffett",
@@ -200,7 +169,7 @@
         "low": 27,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 51
+        "precip": 71
       },
       {
         "date": "2026-08-10",
@@ -209,7 +178,7 @@
         "low": 27,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 60
+        "precip": 50
       },
       {
         "date": "2026-08-11",
@@ -218,7 +187,7 @@
         "low": 26,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 43
+        "precip": 58
       },
       {
         "date": "2026-08-12",
@@ -227,7 +196,7 @@
         "low": 27,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 65
+        "precip": 54
       },
       {
         "date": "2026-08-13",
@@ -236,7 +205,7 @@
         "low": 27,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 57
+        "precip": 53
       },
       {
         "date": "2026-08-14",
@@ -245,7 +214,7 @@
         "low": 26,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 71
+        "precip": 69
       },
       {
         "date": "2026-08-15",
@@ -254,7 +223,7 @@
         "low": 25,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 63
+        "precip": 73
       }
     ]
   },
