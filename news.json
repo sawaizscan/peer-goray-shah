@@ -1,217 +1,197 @@
 {
-  "generated": "2026-08-11T13:51:19Z",
+  "generated": "2026-08-11T14:52:37Z",
   "world": [
     {
-      "title": "Stocks Churn as Oil Advance Boosts Treasury Yields: Markets Wrap",
-      "desc": "A renewed advance in oil prices left stocks wavering while bond yields rose, with anxiety on Wall Street building just days ahead of key inflation reports.",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/stocks-churn-as-oil-advance-boosts-treasury-yields-markets-wrap",
-      "time": "2026-08-10T13:50:31",
-      "country": "US",
-      "title_ur": "آئل ایڈوانس کے طور پر سٹاک کی منتھنی ٹریژری کی پیداوار کو بڑھاتی ہے: مارکیٹس ریپ",
-      "desc_ur": "تیل کی قیمتوں میں ایک نئے سرے سے پیش قدمی نے اسٹاک کو متزلزل چھوڑ دیا جبکہ بانڈ کی پیداوار میں اضافہ ہوا، جس میں افراط زر کی اہم رپورٹوں سے کچھ دن پہلے وال اسٹریٹ کی تعمیر پر بے چینی تھی۔"
-    },
-    {
-      "title": "Brent crude tops $85 as Strait of Hormuz tensions impact oil markets",
-      "desc": "Geopolitical tensions may drive oil prices higher, impacting global economies and potentially leading to increased energy costs worldwide.\nThe post Brent crude tops $85 as Strait of Hormuz tensions impact oil markets appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/brent-crude-tops-85-as-strait-of-hormuz-tensions-impact-oil-markets/",
-      "time": "2026-08-10T13:49:45",
-      "country": "International",
-      "title_ur": "برینٹ کروڈ کی قیمت 85 ڈالر کی بلند ترین سطح پر ہے کیونکہ آبنائے ہرمز تناؤ نے تیل کی منڈیوں کو متاثر کیا ہے۔",
-      "desc_ur": "جغرافیائی سیاسی تناؤ تیل کی قیمتوں کو بلند کر سکتا ہے، جس سے عالمی معیشتیں متاثر ہو سکتی ہیں اور ممکنہ طور پر دنیا بھر میں توانائی کی قیمتوں میں اضافہ ہو سکتا ہے۔\nThe post برینٹ کروڈ 85 ڈالر کی بلند ترین سطح پر، آبنائے ہرمز کشیدگی نے تیل کی منڈیوں کو متاثر کیا appeared first on Crypto Briefing."
-    },
-    {
-      "title": "US flat at open as Iran hints Hormuz tolls",
-      "desc": "Major stock market indexes in the United States were flat at Monday's open after Iran claimed it had reached an agreement with Oman on the Strait of Hormuz, including an arrangement to charge fees.The...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/7171e58f86184c74",
-      "time": "2026-08-10T13:46:52",
-      "country": "Iran",
-      "title_ur": "ایران کے ہرمز ٹول کے اشارے پر امریکی فلیٹ کھلا ہے۔",
-      "desc_ur": "امریکہ میں اسٹاک مارکیٹ کے بڑے اشاریہ جات پیر کے روز کھلے ہوئے تھے جب ایران نے دعویٰ کیا تھا کہ اس نے آبنائے ہرمز پر عمان کے ساتھ معاہدہ کر لیا ہے، جس میں فیس وصول کرنے کا انتظام بھی شامل ہے۔"
-    },
-    {
-      "title": "Give Them An Inch..",
-      "desc": "Give Them An Inch... \n \nBy Bas van Geffen, senior macro strategist at Rabobank\nTalks between Iran and Oman on the reopening of Hormuz are reportedly inching ahead, as Iran continues to give the US the silent treatment. Negotiators said that a deal to establis…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/02fc08aa9f59140b",
-      "time": "2026-08-10T13:46:46",
-      "country": "Iran",
-      "title_ur": "انہیں ایک انچ دو..",
-      "desc_ur": "انہیں ایک انچ دو... \n \nبذریعہ باس وین گیفن، ربوبنک کے سینئر میکرو اسٹریٹجسٹ\nایران اور عمان کے درمیان ہرمز کو دوبارہ کھولنے کے بارے میں بات چیت مبینہ طور پر آگے بڑھ رہی ہے، کیونکہ ایران امریکہ کے ساتھ خاموشی اختیار کر رہا ہے۔ مذاکرات کاروں کا کہنا تھا کہ اسٹیبلشمنٹ کے لیے ڈیل…"
-    },
-    {
-      "title": "Yemen conflict risks reigniting following Houthi strikes on Saudi Arabia",
-      "desc": "The risk of the Yemen war fully reigniting is growing, following a series of strikes by the Iran-backed Houthis on targets inside the country and across the border in Saudi Arabia. The Houthis fired on the southern Saudi region of Najran last week and on Saud…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/7408821fc620914a",
-      "time": "2026-08-10T13:46:35",
-      "country": "Iran",
-      "title_ur": "سعودی عرب پر حوثی باغیوں کے حملوں کے بعد یمن تنازعہ دوبارہ شروع ہونے کا خطرہ ہے۔",
-      "desc_ur": "ایران کے حمایت یافتہ حوثیوں کی طرف سے ملک کے اندر اور سرحد کے پار سعودی عرب کے اہداف پر حملوں کے ایک سلسلے کے بعد یمن جنگ کے مکمل طور پر دوبارہ شروع ہونے کا خطرہ بڑھ رہا ہے۔ حوثیوں نے گزشتہ ہفتے جنوبی سعودی علاقے نجران پر فائرنگ کی تھی اور سعود…"
-    },
-    {
-      "title": "Iran War Day 164: Iran Replaces Secretary of Supreme National Security Council",
-      "desc": "State of the Union: Iran’s Foreign Ministry appeared to confirm that Iran will eventually charge fees for transit through the Strait of Hormuz.\nThe post Iran War Day 164: Iran Replaces Secretary of Supreme National Security Council appeared first on The Ameri…",
-      "source": "The American Conservative",
-      "url": "https://www.theamericanconservative.com/iran-war-day-164-iran-replaces-secretary-of-supreme-national-security-council/",
-      "time": "2026-08-10T13:45:00",
-      "country": "Iran",
-      "title_ur": "ایران جنگ کا دن 164: ایران نے سپریم نیشنل سکیورٹی کونسل کے سیکرٹری کو تبدیل کر دیا۔",
-      "desc_ur": "اسٹیٹ آف دی یونین: ایران کی وزارت خارجہ اس بات کی تصدیق کرتی نظر آئی کہ ایران بالآخر آبنائے ہرمز کے ذریعے ٹرانزٹ کے لیے فیس وصول کرے گا۔\nThe post ایران جنگ کا 164واں دن: ایران نے سپریم نیشنل سیکیورٹی کونسل کے سیکریٹری کو تبدیل کردیا appeared first on The Ameri…"
-    },
-    {
-      "title": "School Assembly Headlines August 10: Check latest India, international, business and sports news",
-      "desc": "School assembly news headlines for August 10 bring students the latest updates from India, international affairs, business and sports. The roundup covers major developments, important decisions, global events, economic updates and sporting achievements. These…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/school-assembly-headlines-august-10-check-latest-india-international-business-and-sports-news/articleshow/133108912.cms",
-      "time": "2026-08-10T13:41:11",
-      "country": "India",
-      "title_ur": "اسکول اسمبلی کی شہ سرخیاں 10 اگست: تازہ ترین ہندوستان، بین الاقوامی، کاروباری اور کھیلوں کی خبریں دیکھیں",
-      "desc_ur": "10 اگست کی اسکول اسمبلی کی خبروں کی سرخیاں طلباء کو ہندوستان، بین الاقوامی امور، کاروبار اور کھیلوں سے تازہ ترین اپ ڈیٹس لاتی ہیں۔ راؤنڈ اپ میں اہم پیشرفت، اہم فیصلے، عالمی واقعات، اقتصادی اپ ڈیٹس اور کھیلوں کی کامیابیوں کا احاطہ کیا گیا ہے۔ ان…"
-    },
-    {
-      "title": "Dow Jones Slips In Early Monday Trading As Wall Street Awaits Key Inflation Data Ahead Of This Busy Week",
-      "desc": "The Dow Jones Industrial Average dipped slightly as investors anticipate corporate earnings and inflation data, following a record close last week. Market sentiment remains cautious amid geopolitical tensions.",
-      "source": "Ibtimes.com.au",
-      "url": "https://www.ibtimes.com.au/dow-jones-dips-earnings-inflation-anticipation-1873870",
-      "time": "2026-08-10T13:39:36",
-      "country": "US",
-      "title_ur": "ڈاؤ جونز سوموار کی ابتدائی تجارت میں پھسل گیا کیونکہ وال اسٹریٹ اس مصروف ہفتہ سے قبل کلیدی افراط زر کے اعداد و شمار کا انتظار کر رہی ہے۔",
-      "desc_ur": "ڈاؤ جونز کی صنعتی اوسط قدرے کم ہوئی کیونکہ سرمایہ کاروں نے کارپوریٹ آمدنی اور افراط زر کے اعداد و شمار کی توقع ظاہر کی، گزشتہ ہفتے ریکارڈ بند ہونے کے بعد۔ جغرافیائی سیاسی تناؤ کے درمیان مارکیٹ کا جذبہ محتاط رہتا ہے۔"
-    },
-    {
-      "title": "One in 10 staff at California-based tech unicorns works from India: Study",
-      "desc": "India accounts for an average 12 per cent of employees at California-headquartered tech unicorns, second only to California, according to Stanford University research",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/companies/news/one-in-10-staff-at-california-based-tech-unicorns-works-from-india-study-126081001066_1.html",
-      "time": "2026-08-10T13:36:00",
-      "country": "India",
-      "title_ur": "کیلیفورنیا میں مقیم ٹیک یونیکورنز میں 10 میں سے ایک عملہ ہندوستان سے کام کرتا ہے: مطالعہ",
-      "desc_ur": "اسٹینفورڈ یونیورسٹی کی تحقیق کے مطابق، کیلیفورنیا کے ہیڈکوارٹر والے ٹیک یونیکورنز میں اوسطاً 12 فیصد ملازمین کے لیے ہندوستان کا حصہ ہے، جو کیلیفورنیا کے بعد دوسرے نمبر پر ہے۔"
-    },
-    {
-      "title": "Socialist insurgency within Democratic Party getting stronger",
-      "desc": "It’s an ill wind that is blowing in the Democratic Party’s direction. At the beginning of the year — with President Donald Trump’s approval ratings in steady decline — it was conventional wisdom that Democrats would take control of Congress in November and sp…",
+      "title": "[Catholic Caucus] Texas Bishop Expands Latin Mass",
+      "desc": "[Catholic Caucus] Texas Bishop Expands Latin MassBishop Michael Sis of San Angelo, West Texas, will expand access to the traditional Latin Mass with a new monthly celebration at St. Ann’s Catholic Church in Midland, beginning August 30.Rev. Ryan Rojo, the dio…",
       "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-chat/4391281/posts",
-      "time": "2026-08-10T13:33:01",
+      "url": "https://freerepublic.com/focus/f-religion/4391293/posts",
+      "time": "2026-08-10T14:51:42",
       "country": "US",
-      "title_ur": "ڈیموکریٹک پارٹی کے اندر سوشلسٹ شورش زور پکڑ رہی ہے۔",
-      "desc_ur": "یہ ایک بیمار ہوا ہے جو ڈیموکریٹک پارٹی کی سمت چل رہی ہے۔ سال کے آغاز میں - صدر ڈونلڈ ٹرمپ کی منظوری کی درجہ بندی میں مسلسل کمی کے ساتھ - یہ روایتی حکمت تھی کہ ڈیموکریٹس نومبر میں کانگریس کا کنٹرول سنبھال لیں گے اور sp…"
+      "title_ur": "[کیتھولک کاکس] ٹیکساس بشپ نے لاطینی ماس کو بڑھایا",
+      "desc_ur": "[کیتھولک کاکس] ٹیکساس بشپ نے لاطینی ماس بشپ مائیکل سس کی توسیع کی سان اینجیلو، ویسٹ ٹیکساس، 30 اگست سے شروع ہونے والے، مڈلینڈ میں سینٹ اینز کیتھولک چرچ میں ایک نئے ماہانہ جشن کے ساتھ روایتی لاطینی ماس تک رسائی کو وسعت دیں گے۔ ریان روزو، دی ڈیو…"
     },
     {
-      "title": "Here are the 2 big things we're watching in the stock market in the week ahead",
-      "desc": "Inflation data for July takes center stage in the week ahead, as second-quarter earnings season winds down. Another factor that could influence the market action: updates on the Iran war. Though Treasury Secretary Scott Bessent said early last week that a dea…",
+      "title": "Trump says US 'low-keying it' with Iran and 'only semi-negotiating'",
+      "desc": "WASHINGTON – President Donald Trump suggested the United States is prepared to hold off on new military action against Iran to watch economic pressure on Tehran play out, an abrupt departure from his recent threats.\n\"We are low-keying it,\" Trump said in a pho…",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/1eb3a5551351f806",
-      "time": "2026-08-10T13:32:47",
+      "url": "https://biztoc.com/x/373282ec3318a353",
+      "time": "2026-08-10T14:51:33",
       "country": "Iran",
-      "title_ur": "یہ 2 بڑی چیزیں ہیں جو ہم اگلے ہفتے اسٹاک مارکیٹ میں دیکھ رہے ہیں۔",
-      "desc_ur": "جولائی کے لیے افراط زر کے اعداد و شمار اگلے ہفتے میں مرکزی سطح پر لے جاتے ہیں، کیونکہ دوسری سہ ماہی کی آمدنی کا سیزن ختم ہو جاتا ہے۔ ایک اور عنصر جو مارکیٹ کی کارروائی کو متاثر کر سکتا ہے: ایران جنگ کے بارے میں اپ ڈیٹس۔ اگرچہ ٹریژری سکریٹری سکاٹ بیسنٹ نے پچھلے ہفتے کے اوائل میں کہا تھا کہ ایک ڈی اے…"
+      "title_ur": "ٹرمپ کا کہنا ہے کہ امریکہ ایران کے ساتھ 'کم اہم' ہے اور 'صرف نیم مذاکرات'",
+      "desc_ur": "واشنگٹن - صدر ڈونلڈ ٹرمپ نے تجویز پیش کی کہ امریکہ ایران کے خلاف نئی فوجی کارروائی کو روکنے کے لیے تیار ہے تاکہ تہران پر اقتصادی دباؤ بڑھتا جائے، جو اس کی حالیہ دھمکیوں سے اچانک دستبردار ہو جاتا ہے۔\n\"ہم اسے کم اہمیت دے رہے ہیں،\" ٹرمپ نے ایک فون میں کہا…"
     },
     {
-      "title": "The Normalcy Of American Wars",
-      "desc": "By Andrew P. Napolitano via Ron Paul Institute for Peace and Prosperity | August 06, 2026\nThe war in Iran is unlawful and unconstitutional, but in post-World War II America, it is normal. Here is the backstory.\nWhen President Donald Trump decided to begin bom…",
+      "title": "Are we living under “woke Blue Labour”?",
+      "desc": "Andy Burnham’s vision – to reground the Labour party in a sense of place, tradition and belonging – began over a decade ago, rising from the rubble of the Blair and Brown years. Off the back of the party’s 2010 defeat, figures now key to his government argued…",
+      "source": "Acast.com",
+      "url": "https://shows.acast.com/newstatesman/episodes/are-we-living-under-woke-blue-labour",
+      "time": "2026-08-10T14:49:35",
+      "country": "International",
+      "title_ur": "کیا ہم \"ویک بلیو لیبر\" کے تحت رہ رہے ہیں؟",
+      "desc_ur": "اینڈی برنہم کا وژن - جگہ، روایت اور تعلق کے لحاظ سے لیبر پارٹی کو دوبارہ گراؤنڈ کرنے کا - ایک دہائی قبل شروع ہوا تھا، جو بلیئر اور براؤن سالوں کے ملبے سے اٹھتا ہے۔ پارٹی کی 2010 کی شکست کے پیچھے، اب ان کی حکومت کے لیے اہم شخصیات نے دلیل دی ہے کہ…"
+    },
+    {
+      "title": "U.S. Munitions Inventories Are Running Low",
+      "desc": "U.S. military munitions stockpiles have shrunk significantly over the course of the war with Iran. For only one out of four weapon systems where the U.S. made donations to Ukraine and also used it in Iran, the Ukraine war was the main cause for inventory depl…",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/cc0a7cc1bfe02ce1",
-      "time": "2026-08-10T13:31:38",
+      "url": "https://biztoc.com/x/53c1bc52cc3beef8",
+      "time": "2026-08-10T14:48:35",
       "country": "Iran",
-      "title_ur": "امریکی جنگوں کا معمول",
-      "desc_ur": "بذریعہ اینڈریو پی. نپولیتانو بذریعہ رون پال انسٹی ٹیوٹ برائے امن اور خوشحالی | 06 اگست 2026\nایران میں جنگ غیر قانونی اور غیر آئینی ہے لیکن دوسری جنگ عظیم کے بعد کے امریکہ میں یہ معمول ہے۔ یہاں پچھلی کہانی ہے۔\nجب صدر ڈونلڈ ٹرمپ نے بم شروع کرنے کا فیصلہ کیا…"
+      "title_ur": "امریکی گولہ باری کی انوینٹری کم چل رہی ہے۔",
+      "desc_ur": "ایران کے ساتھ جنگ ​​کے دوران امریکی فوجی ہتھیاروں کے ذخیرے میں نمایاں کمی آئی ہے۔ ہتھیاروں کے چار میں سے صرف ایک سسٹم کے لیے جہاں امریکہ نے یوکرین کو عطیہ دیا اور اسے ایران میں بھی استعمال کیا، یوکرین کی جنگ انوینٹری کی کمی کی بنیادی وجہ تھی…"
     },
     {
-      "title": "US flat at opening as Iran hints Hormuz tolls",
-      "desc": "Major stock market indexes in the United States opened lower after Iran claimed it had reached an agreement with Oman on the Strait of Hormuz, including an arrangement for charging fees.The euro stood...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/1f551d7e1f9a4fa7",
-      "time": "2026-08-10T13:31:34",
-      "country": "Iran",
-      "title_ur": "ایران کے ہرمز ٹول کے اشارے پر امریکی فلیٹ کھلنے پر",
-      "desc_ur": "امریکہ میں اسٹاک مارکیٹ کے بڑے اشاریہ جات اس وقت نیچے کھل گئے جب ایران نے دعویٰ کیا کہ اس نے آبنائے ہرمز پر عمان کے ساتھ معاہدہ کیا ہے، جس میں فیس وصول کرنے کا انتظام بھی شامل ہے۔"
-    },
-    {
-      "title": "The Right’s New Inflation Message: Let Them Eat Ramen",
-      "desc": "Jeet Heer\n\n\n\nMilitarists push for austerity to keep a disastrous war going.\r\n\n\r\n\n\nThe post The Right’s New Inflation Message: Let Them Eat Ramen appeared first on The Nation.",
-      "source": "Thenation.com",
-      "url": "https://www.thenation.com/article/politics/dan-crenshaw-burrito-tweet-inflation-iran/",
-      "time": "2026-08-10T13:30:17",
+      "title": "Nasdaq 100's QQQ ETF Holds Near Record High As Wall Street Awaits Key Inflation Data This Coming Week",
+      "desc": "The Invesco QQQ Trust remains near record highs as investors anticipate corporate earnings and inflation data, which could shape Federal Reserve policy and impact the fund's performance.",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/invesco-qqq-trust-earnings-inflation-data-1873879",
+      "time": "2026-08-10T14:44:43",
       "country": "US",
-      "title_ur": "رائٹ کا نیا افراط زر کا پیغام: انہیں رامین کھانے دیں۔",
-      "desc_ur": "جیت ہیر\n\n\n\nعسکریت پسند ایک تباہ کن جنگ کو جاری رکھنے کے لیے کفایت شعاری پر زور دیتے ہیں۔\r\n\n\r\n\n\nThe post رائٹ کا نیا مہنگائی کا پیغام: انہیں رامین کھانے دیں appeared first on The Nation."
+      "title_ur": "Nasdaq 100 کی QQQ ETF ریکارڈ بلندی کے قریب ہے کیونکہ وال سٹریٹ اس آنے والے ہفتے کلیدی افراط زر کے ڈیٹا کا انتظار کر رہی ہے۔",
+      "desc_ur": "Invesco QQQ ٹرسٹ ریکارڈ بلندیوں کے قریب رہتا ہے کیونکہ سرمایہ کار کارپوریٹ آمدنی اور افراط زر کے اعداد و شمار کی توقع کرتے ہیں، جو فیڈرل ریزرو کی پالیسی کو تشکیل دے سکتا ہے اور فنڈ کی کارکردگی کو متاثر کر سکتا ہے۔"
     },
     {
-      "title": "U.S. Bets $400 Million on Australian Scandium Miner to Break China's Grip",
-      "desc": "Shares in Australia-listed Sunrise Energy Metals Ltd (SRL:ASX) jumped by 29% at opening on Monday after the U.S. Department of War announced a conditional commitment for a US$400-million loan for the company to build out its scandium operations. The Departmen…",
+      "title": "The Antiwar Vote That Was Never Meant To Stop the War",
+      "desc": "On July 23, the House of Representatives voted 214–208 for a resolution calling on Donald Trump to withdraw U.S. forces from the war with Iran.",
+      "source": "The Daily Caller",
+      "url": "https://dailycaller.com/2026/08/10/antiwar-vote-never-meant-stop-war-iran-thomas-massie-congress-davidson-fitzpatrick-barrett",
+      "time": "2026-08-10T14:44:34",
+      "country": "Iran",
+      "title_ur": "اینٹی وار ووٹ جس کا مقصد کبھی جنگ کو روکنا نہیں تھا۔",
+      "desc_ur": "23 جولائی کو ایوانِ نمائندگان نے ایک قرارداد کے لیے 214-208 ووٹ دیے جس میں ڈونلڈ ٹرمپ سے امریکی افواج کو ایران کے ساتھ جنگ ​​سے نکالنے کا مطالبہ کیا گیا تھا۔"
+    },
+    {
+      "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
+      "desc": "The Trump administration is said to be unbothered by the Israeli prime minister's rejection of the deal, viewing it as campaign rhetoric ahead of a general election.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o",
+      "time": "2026-08-10T14:43:08",
+      "country": "Israel",
+      "title_ur": "نتن یاہو کا ٹرمپ کے 15 نکاتی غزہ پلان کو مسترد کرنا حتمی لفظ ہونے کا امکان نہیں",
+      "desc_ur": "ٹرمپ انتظامیہ کے بارے میں کہا جاتا ہے کہ وہ اسرائیلی وزیر اعظم کی جانب سے معاہدے کو مسترد کرنے سے بے پرواہ ہے، اسے عام انتخابات سے قبل مہم کے بیانات کے طور پر دیکھتے ہیں۔"
+    },
+    {
+      "title": "Tanker hiring costs near $500K daily as Iran conflict deters shipowners from Strait of Hormuz",
+      "desc": "The surge in tanker hiring costs highlights the vulnerability of global oil supply chains to geopolitical tensions, impacting energy markets.\nThe post Tanker hiring costs near $500K daily as Iran conflict deters shipowners from Strait of Hormuz appeared first…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/tanker-rates-500k-iran-strait-hormuz/",
+      "time": "2026-08-10T14:35:22",
+      "country": "Iran",
+      "title_ur": "ٹینکر کرایہ پر لینے کی لاگت تقریباً 500K یومیہ ہے کیونکہ ایران تنازعہ آبنائے ہرمز سے جہاز کے مالکان کو روکتا ہے",
+      "desc_ur": "ٹینکر کی خدمات حاصل کرنے کے اخراجات میں اضافہ جغرافیائی سیاسی تناؤ میں تیل کی عالمی سپلائی چینز کے خطرے کو نمایاں کرتا ہے، جس سے توانائی کی منڈیوں پر اثر پڑتا ہے۔\nThe post ٹینکر کرایہ پر لینے کی لاگت تقریباً 500K یومیہ ہے کیونکہ ایران تنازع آبنائے ہرمز سے جہاز مالکان کو روکتا ہے appeared first on…"
+    },
+    {
+      "title": "Trump Signals Restraint on Iran, Favors Economic Pressure",
+      "desc": "US President Donald Trump signaled he’s prepared to let economic pressure on Iran build rather than launch fresh military strikes to force a reopening of the Strait of Hormuz. #trump #iran #news #usa #politics \nIran reiterated that the conditions still aren’t…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/bad095a7b1a1d70a",
+      "time": "2026-08-10T14:34:03",
+      "country": "Iran",
+      "title_ur": "ٹرمپ کا ایران پر تحمل کا اشارہ، اقتصادی دباؤ کے حق میں",
+      "desc_ur": "امریکی صدر ڈونلڈ ٹرمپ نے اشارہ دیا کہ وہ آبنائے ہرمز کو دوبارہ کھولنے پر مجبور کرنے کے لیے نئے فوجی حملے کرنے کے بجائے ایران پر اقتصادی دباؤ ڈالنے کے لیے تیار ہیں۔ #trump #iran #news #usa #politics \nایران نے اس بات کا اعادہ کیا کہ حالات اب بھی..."
+    },
+    {
+      "title": "Trump's crazed fantasy unleashes a chaos he cannot control",
+      "desc": "When President Donald Trump expressed serious interest in obtaining Greenland, it wasn't actually the craziest idea he's come up with. Many U.S. presidents, some of them fairly good ones, have bandied about the same thought for the same reasons: strategic def…",
+      "source": "Raw Story",
+      "url": "https://www.rawstory.com/raw-investigates/trump-greenland-2677680064/",
+      "time": "2026-08-10T14:32:02",
+      "country": "US",
+      "title_ur": "ٹرمپ کی دیوانہ وار فنتاسی ایک افراتفری کو جنم دیتی ہے جسے وہ کنٹرول نہیں کر سکتے",
+      "desc_ur": "جب صدر ڈونلڈ ٹرمپ نے گرین لینڈ حاصل کرنے میں سنجیدہ دلچسپی کا اظہار کیا، تو یہ حقیقت میں وہ سب سے پاگل خیال نہیں تھا جس کے ساتھ وہ آئے تھے۔ بہت سے امریکی صدور، جن میں سے کچھ کافی اچھے ہیں، نے انہی وجوہات کی بنا پر ایک ہی سوچ پر پابندی لگا دی ہے: اسٹریٹجک ڈیف…"
+    },
+    {
+      "title": "'Sephora is coming to Israel!' Except it isn't",
+      "desc": "After splashy headlines heralded the beauty giant's arrival, Haaretz has learned that the deal is for a one-off shipment of Sephora Collection products. 'Didn't anyone ask themselves how this makes sense?' an industry source wondered",
+      "source": "Haaretz",
+      "url": "https://www.haaretz.com/israel-news/2026-08-10/ty-article/.premium/sephora-is-coming-to-israel-except-it-isnt/0000019f-ec0b-da6c-a9df-ee8f19cd0000",
+      "time": "2026-08-10T14:31:30",
+      "country": "Israel",
+      "title_ur": "'سیفورا اسرائیل آ رہا ہے!' سوائے اس کے کہ ایسا نہیں ہے۔",
+      "desc_ur": "شاندار سرخیوں کے بعد خوبصورتی کے دیو کی آمد کا اعلان کرنے کے بعد، ہاریٹز کو معلوم ہوا ہے کہ یہ معاہدہ سیفورا کلیکشن پروڈکٹس کی ایک بار شپمنٹ کے لیے ہے۔ 'کیا کسی نے خود سے نہیں پوچھا کہ یہ کیسے معنی رکھتا ہے؟' صنعت کے ایک ذریعہ نے حیرت کا اظہار کیا۔"
+    },
+    {
+      "title": "Boy George warns his band over his pro-Israel song",
+      "desc": "Boy George has said he will fire members of his band who do not want to perform his pro-Israel song We Will Dance Again.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/entertainment/2026/0810/1587298-boy-george-warns-his-band-over-his-pro-israel-song/",
+      "time": "2026-08-10T14:31:20",
+      "country": "Israel",
+      "title_ur": "بوائے جارج اپنے بینڈ کو اسرائیل نواز گانے پر خبردار کر رہا ہے۔",
+      "desc_ur": "بوائے جارج نے کہا ہے کہ وہ اپنے بینڈ کے ایسے ممبروں کو برطرف کر دے گا جو اسرائیل نواز گانا وی ول ڈانس اگین پرفارم نہیں کرنا چاہتے۔"
+    },
+    {
+      "title": "Bishop William Barber’s New Podcast Takes on the 2026 Midterms",
+      "desc": "Bishop William J. Barber is taking his message of liberation and justice to the podcast world in the run up to the midterm elections.\n\n\n\n​Barber, a renowned civil rights leader, Professor in the Practice of Public Theology and Public Policy at Yale Divinity S…",
+      "source": "The Root",
+      "url": "https://www.theroot.com/bishop-william-barbers-new-podcast-takes-on-the-2026-mi-2000120419",
+      "time": "2026-08-10T14:30:02",
+      "country": "US",
+      "title_ur": "بشپ ولیم باربر کا نیا پوڈ کاسٹ 2026 کے وسط مدتی پر ہوتا ہے۔",
+      "desc_ur": "بشپ ولیم جے باربر مڈٹرم انتخابات کے دوران پوڈ کاسٹ کی دنیا میں آزادی اور انصاف کا اپنا پیغام لے کر جا رہے ہیں۔\n\n\n\nحجام، شہری حقوق کے معروف رہنما، ییل ڈیوینٹی ایس میں پبلک تھیولوجی اور پبلک پالیسی کے پریکٹس میں پروفیسر…"
+    },
+    {
+      "title": "Indian Refiners Cut LPG Losses in August",
+      "desc": "The biggest Indian state-controlled refiners that have been selling liquefied petroleum gas (LPG) on the retail market have seen their losses on these sales narrow so far in August, an Indian energy ministry official said on Monday. Indian Oil Corporation Ltd…",
       "source": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Bets-400-Million-on-Australian-Scandium-Miner-to-Break-Chinas-Grip.html",
-      "time": "2026-08-10T13:30:00",
-      "country": "China",
-      "title_ur": "چین کی گرفت کو توڑنے کے لیے امریکہ نے آسٹریلوی اسکینڈیم مائنر پر 400 ملین ڈالر کی شرط لگا دی",
-      "desc_ur": "آسٹریلیا میں درج سن رائز انرجی میٹلز لمیٹڈ (SRL:ASX) کے حصص پیر کو کھلتے ہی 29 فیصد بڑھ گئے جب امریکی محکمہ جنگ نے کمپنی کو اسکینڈیم آپریشنز کی تعمیر کے لیے 400 ملین امریکی ڈالر کے قرض کے مشروط عزم کا اعلان کیا۔ محکموں نے…"
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Indian-Refiners-Cut-LPG-Losses-in-August.html",
+      "time": "2026-08-10T14:30:00",
+      "country": "India",
+      "title_ur": "ہندوستانی ریفائنرز نے اگست میں ایل پی جی کے نقصانات کو کم کیا۔",
+      "desc_ur": "ہندوستانی ریاست کے زیر کنٹرول سب سے بڑے ریفائنرز جو خوردہ مارکیٹ میں مائع پیٹرولیم گیس (ایل پی جی) فروخت کر رہے ہیں، اگست میں اب تک ان فروختوں پر اپنے نقصانات کو کم دیکھ چکے ہیں، ہندوستانی وزارت توانائی کے ایک اہلکار نے پیر کو کہا۔ انڈین آئل کارپوریشن لمیٹڈ…"
+    },
+    {
+      "title": "Cowboys 53-man roster prediction through halfway point of training camp",
+      "desc": "Who do you think will be the most shocking name to make the 53-man roster?",
+      "source": "Blogging The Boys",
+      "url": "https://www.bloggingtheboys.com/dallas-cowboys-depth-chart/212906/53-man-roster-prediction-training-camp",
+      "time": "2026-08-10T14:30:00",
+      "country": "International",
+      "title_ur": "تربیتی کیمپ کے آدھے راستے کے ذریعے کاؤبای 53 رکنی روسٹر کی پیشن گوئی",
+      "desc_ur": "آپ کے خیال میں 53 رکنی فہرست میں سب سے زیادہ چونکا دینے والا نام کون ہوگا؟"
     }
   ],
   "pakistan": [
     {
-      "title": "Trump Enrichment Syndrome: Graft, Accountability and the Long-Lasting Impact of Corruption",
-      "desc": "The Trump administration concluded a recent mineral deal with Kazakhstan that, not surprisingly, enriches not only US President Donald Trump’s own family but that of his secretary of commerce, Howard Lutnick. Trump’s two eldest sons, part owners of Dominari S…",
-      "source": "Fair Observer",
-      "url": "https://www.fairobserver.com/economics/trump-enrichment-syndrome-graft-accountability-and-the-long-lasting-impact-of-corruption/",
-      "time": "2026-08-10T13:49:19",
+      "title": "High margin debt! JPMorgan CEO Jamie Dimon fires a warning shot for Wall Street investors",
+      "desc": "JPMorgan CEO Jamie Dimon warned that record margin debt and hidden leverage across financial markets could increase the risk of a sudden disruption. While stopping short of calling it systemic, he cautioned that forced selling after market declines could ampl…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/high-margin-debt-jpmorgan-ceo-jamie-dimon-fires-a-warning-shot-for-wall-street-investors/articleshow/133111344.cms",
+      "time": "2026-08-10T14:32:47",
       "country": "Pakistan",
-      "title_ur": "ٹرمپ افزودگی سنڈروم: بدعنوانی، احتساب اور بدعنوانی کا دیرپا اثر",
-      "desc_ur": "ٹرمپ انتظامیہ نے قازقستان کے ساتھ معدنیات کا ایک حالیہ معاہدہ کیا ہے جو کہ حیرت انگیز طور پر نہ صرف امریکی صدر ڈونلڈ ٹرمپ کے اپنے خاندان بلکہ ان کے سیکرٹری تجارت ہاورڈ لٹنک کے خاندان کو بھی مالا مال کرتا ہے۔ ٹرمپ کے دو بڑے بیٹے، ڈومیناری ایس کے کچھ حصے کے مالکان…"
+      "title_ur": "زیادہ مارجن قرض! جے پی مورگن کے سی ای او جیمی ڈیمن نے وال اسٹریٹ کے سرمایہ کاروں کے لیے انتباہی شاٹ فائر کیا۔",
+      "desc_ur": "JPMorgan کے سی ای او جیمی ڈیمن نے خبردار کیا کہ ریکارڈ مارجن قرض اور مالیاتی منڈیوں میں چھپا ہوا فائدہ اچانک رکاوٹ کے خطرے کو بڑھا سکتا ہے۔ اسے سیسٹیمیٹک کہنے سے روکتے ہوئے، انہوں نے خبردار کیا کہ مارکیٹ میں کمی کے بعد زبردستی فروخت کرنا بہت زیادہ ہو سکتا ہے…"
     },
     {
-      "title": "WATCH: Why some couples swear by a 'sleep divorce'",
-      "desc": "ABC News' Ashan Singh explains why couples are sleeping separately to get better rest and avoid disruptions like snoring.",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/video/135513720/",
-      "time": "2026-08-10T13:40:36",
+      "title": "Imran Khan's supporters to protest across Pakistan if he is not allowed to meet party colleagues",
+      "desc": "Pakistan Tehreek-e-Insaf leaders threatened nationwide protests if Imran Khan is denied meetings.  Party officials will visit Adiala Jail on Thursday to meet the former prime minister.  They hold Prime Minister Shehbaz Sharif responsible for Khan's well-being…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/imran-khans-supporters-to-protest-across-pak-if-he-is-not-allowed-to-meet-party-colleagues/articleshow/133110620.cms",
+      "time": "2026-08-10T14:14:27",
       "country": "Pakistan",
-      "title_ur": "دیکھو: کچھ جوڑے 'نیند کی طلاق' کی قسم کیوں کھاتے ہیں؟",
-      "desc_ur": "اے بی سی نیوز کے اشان سنگھ بتاتے ہیں کہ بہتر آرام کرنے اور خراٹوں جیسی رکاوٹوں سے بچنے کے لیے جوڑے الگ الگ کیوں سوتے ہیں۔"
+      "title_ur": "عمران خان کو پارٹی کے ساتھیوں سے ملنے کی اجازت نہ ملنے پر ان کے حامی پاکستان بھر میں احتجاج کریں گے۔",
+      "desc_ur": "پاکستان تحریک انصاف کے رہنماؤں نے عمران خان سے ملاقات نہ کرنے پر ملک گیر احتجاج کی دھمکی دے دی۔  پارٹی عہدیدار سابق وزیراعظم سے ملاقات کے لیے جمعرات کو اڈیالہ جیل جائیں گے۔  انہوں نے خان کی خیریت کا ذمہ دار وزیر اعظم شہباز شریف کو ٹھہرایا۔"
     },
     {
-      "title": "FO Live: Make Sense of New and Old Pakistan–Afghanistan Tensions",
-      "desc": "Editor-in-Chief Atul Singh speaks with eminent scholar Ishtiaq Ahmed and Professor Thomas Barfield about the historical roots of tensions between Pakistan and Afghanistan. They trace the origins of the Durand Line dispute, examine why Pakistan’s long-standing…",
-      "source": "Fair Observer",
-      "url": "https://www.fairobserver.com/region/middle_east_north_africa/fo-live-make-sense-of-new-and-old-pakistan-afghanistan-tensions/",
-      "time": "2026-08-10T13:39:54",
+      "title": "How the US far-right weaponised ‘inshallah’ against Abdul El-Sayed",
+      "desc": "After his Senate primary win in Michigan, the Egyptian American doctor faced a coordinated digital smear campaign.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/8/10/how-the-us-far-right-weaponised-inshallah-against-abdul-el-sayed",
+      "time": "2026-08-10T14:13:00",
       "country": "Pakistan",
-      "title_ur": "ایف او لائیو: نئے اور پرانے پاکستان-افغانستان کشیدگی کو سمجھیں۔",
-      "desc_ur": "ایڈیٹر انچیف اتل سنگھ نامور اسکالر اشتیاق احمد اور پروفیسر تھامس بارفیلڈ کے ساتھ پاکستان اور افغانستان کے درمیان کشیدگی کی تاریخی جڑوں کے بارے میں بات کر رہے ہیں۔ وہ ڈیورنڈ لائن تنازعہ کی اصلیت کا سراغ لگاتے ہیں، اس بات کا جائزہ لیتے ہیں کہ کیوں پاکستان کے دیرینہ…"
+      "title_ur": "کس طرح امریکی انتہائی دائیں بازو نے عبد السید کے خلاف ’انشاء اللہ‘ ہتھیار بنائے",
+      "desc_ur": "مشی گن میں سینیٹ کی ابتدائی جیت کے بعد، مصری امریکی ڈاکٹر کو ایک مربوط ڈیجیٹل سمیر مہم کا سامنا کرنا پڑا۔"
     },
     {
-      "title": "The Mecca Pact Extends Pakistan’s Security Role Westward",
-      "desc": "Six months ago, it was unclear whether trilateral discussions between Pakistan, Saudi Arabia, and Turkiye would produce a formal agreement. They now have.",
-      "source": "The Diplomat",
-      "url": "https://thediplomat.com/2026/08/the-mecca-pact-extends-pakistans-security-role-westward/",
-      "time": "2026-08-10T13:36:00",
+      "title": "Why are the implementation of and access to child developmental assessment within routine healthcare so difficult in Ethiopia? A descriptive qualitative study",
+      "desc": "Introduction Developmental delays in early childhood present significant long–term challenges, making early developmental assessment crucial for effective intervention. Despite this, such assessments are not routinely implemented within routine healthcare ser…",
+      "source": "Plos.org",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0355686",
+      "time": "2026-08-10T14:00:00",
       "country": "Pakistan",
-      "title_ur": "مکہ معاہدہ پاکستان کے سیکورٹی رول کو مغرب کی طرف بڑھاتا ہے۔",
-      "desc_ur": "چھ ماہ قبل یہ واضح نہیں تھا کہ آیا پاکستان، سعودی عرب اور ترکی کے درمیان سہ فریقی بات چیت سے کوئی باضابطہ معاہدہ ہو گا۔ اب ان کے پاس ہے۔"
-    },
-    {
-      "title": "FIH World Cup: PAK hand head coach role to goalkeeping coach Bob Veldhof",
-      "desc": "In what appears to be a setback for Pakistan ahead of the FIH World Cup, the national federation has elevated its goalkeeping coach Bob Johan Veldhof to the position of head coach, after Herman Kruis returned to the Netherlands to continue with his existing a…",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/sports/other-sports-news/fih-world-cup-pak-hand-head-coach-role-to-goalkeeping-coach-bob-veldhof-126081001329_1.html",
-      "time": "2026-08-10T13:25:39",
-      "country": "Pakistan",
-      "title_ur": "FIH ورلڈ کپ: PAK نے گول کیپنگ کوچ باب ویلڈوف کو ہیڈ کوچ کا کردار سونپا",
-      "desc_ur": "FIH ورلڈ کپ سے قبل پاکستان کے لیے جو ایک دھچکا لگتا ہے، قومی فیڈریشن نے اپنے گول کیپنگ کوچ باب جوہان ویلڈہوف کو ہیڈ کوچ کے عہدے پر فائز کر دیا ہے، جب ہرمن کروس اپنے موجودہ کوچ کو جاری رکھنے کے لیے ہالینڈ واپس آئے ہیں…"
-    },
-    {
-      "title": "Egypt could be the latest addition to the Mecca defense pact",
-      "desc": "Türkiye said a mutual defense pact with Saudi Arabia and Pakistan could be expanded to include Egypt. Several countries want to join the trilateral agreement signed in Mecca on Friday, Turkish Foreign Minister Hakan Fidan told the state-run Anadolu Agency, sa…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/76f6110a50f07c3b",
-      "time": "2026-08-10T13:16:25",
-      "country": "Pakistan",
-      "title_ur": "مکہ دفاعی معاہدے میں مصر تازہ ترین اضافہ ہو سکتا ہے۔",
-      "desc_ur": "ترکئی نے کہا کہ سعودی عرب اور پاکستان کے ساتھ باہمی دفاعی معاہدے میں مصر کو شامل کرنے کے لیے توسیع کی جا سکتی ہے۔ ترکی کے وزیر خارجہ ہاکان فیدان نے سرکاری انادولو ایجنسی کو بتایا کہ کئی ممالک جمعہ کو مکہ میں ہونے والے سہ فریقی معاہدے میں شامل ہونا چاہتے ہیں،…"
+      "title_ur": "ایتھوپیا میں معمول کی صحت کی دیکھ بھال کے اندر بچوں کی نشوونما کے جائزے کا نفاذ اور ان تک رسائی اس قدر مشکل کیوں ہے؟ ایک وضاحتی معیار کا مطالعہ",
+      "desc_ur": "تعارف ابتدائی بچپن میں ترقیاتی تاخیر اہم طویل مدتی چیلنجز پیش کرتی ہے، جس سے ابتدائی نشوونما کا اندازہ مؤثر مداخلت کے لیے اہم ہوتا ہے۔ اس کے باوجود، اس طرح کے جائزوں کو معمول کے مطابق صحت کی دیکھ بھال کے نظام میں لاگو نہیں کیا جاتا ہے…"
     }
   ],
   "business": {
