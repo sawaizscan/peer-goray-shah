@@ -1,169 +1,158 @@
 {
-  "generated": "2026-08-11T19:58:02Z",
+  "generated": "2026-08-11T20:44:17Z",
   "world": [
     {
-      "title": "UN Experts Warn of Israeli Escalation in Gaza After 160 Killed in July Alone",
-      "desc": "They also condemned Israel’s escalation in the occupied West Bank, where settler attacks have reached a record high.",
-      "source": "Truthout",
-      "url": "https://truthout.org/articles/un-experts-warn-of-israeli-escalation-in-gaza-after-160-killed-in-july-alone/",
-      "time": "2026-08-10T19:53:51",
-      "country": "Israel",
-      "title_ur": "اکیلے جولائی میں 160 افراد کی ہلاکت کے بعد اقوام متحدہ کے ماہرین نے غزہ میں اسرائیلی کارروائیوں کی تنبیہ کی ہے۔",
-      "desc_ur": "انہوں نے مقبوضہ مغربی کنارے میں اسرائیل کی بڑھتی ہوئی کارروائیوں کی بھی مذمت کی، جہاں آباد کاروں کے حملے ریکارڈ حد تک پہنچ چکے ہیں۔"
-    },
-    {
-      "title": "Trump Pushes Iran For Compensation Amid War Reparations Dispute",
-      "desc": "President Donald Trump has demanded that Iran compensate Americans killed or wounded in conflicts, pushing back against Tehran's call for war reparations. \nTrump said the issue will be included in future negotiations as tensions between Washington and Tehran …",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/3e97a6d776430ab6",
-      "time": "2026-08-10T19:51:56",
-      "country": "Iran",
-      "title_ur": "ٹرمپ نے جنگی معاوضے کے تنازعہ کے درمیان معاوضے کے لیے ایران پر دباؤ ڈالا۔",
-      "desc_ur": "صدر ڈونلڈ ٹرمپ نے ایران سے مطالبہ کیا ہے کہ وہ تنازعات میں ہلاک یا زخمی ہونے والے امریکیوں کو معاوضہ دے۔ \nٹرمپ نے کہا کہ اس معاملے کو مستقبل کے مذاکرات میں شامل کیا جائے گا کیونکہ واشنگٹن اور تہران کے درمیان کشیدگی…"
-    },
-    {
-      "title": "Darline Graham’s Riding With Trump—But Political Views Beyond That Still Unclear As Primary Looms",
-      "desc": "Trump endorsed Darline Graham to replace her brother for a full term.",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/saradorn/2026/08/10/darline-grahams-riding-with-trump-but-political-views-beyond-that-still-unclear-as-primary-looms/",
-      "time": "2026-08-10T19:47:02",
-      "country": "US",
-      "title_ur": "ڈارلین گراہم کی ٹرمپ کے ساتھ سواری — لیکن اس سے آگے کے سیاسی نظریات اب بھی واضح نہیں ہیں جیسا کہ پرائمری لومز",
-      "desc_ur": "ٹرمپ نے ڈارلین گراہم کی مکمل مدت کے لیے اپنے بھائی کی جگہ لینے کی توثیق کی۔"
-    },
-    {
-      "title": "Rabbi Lando charges: All of us feel the persecution of Torah",
-      "desc": "Haredi leader Rabbi Dov Landau condemns what he calls persecution of Torah study, urging yeshiva students to deepen their learning amid new decrees.",
+      "title": "IAEA to extract nuclear materials from clandestine Syrian 'Site 99'",
+      "desc": "The IAEA will extract nuclear material from a secret Syrian site following a US-brokered deal with Damascus and Israel to avert a regional escalation, reports Axios.",
       "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/431520",
-      "time": "2026-08-10T19:44:22",
-      "country": "US",
-      "title_ur": "ربی لینڈو کے الزامات: ہم سب تورات کے ظلم و ستم کو محسوس کرتے ہیں۔",
-      "desc_ur": "ہریدی کے رہنما ربی ڈو لنڈاؤ نے تورات کے مطالعہ کے ظلم و ستم کی مذمت کرتے ہوئے یشیوا کے طلباء پر زور دیا کہ وہ نئے حکمناموں کے درمیان اپنی تعلیم کو مزید گہرا کریں۔"
-    },
-    {
-      "title": "Twenty years ago, Chicago welcomed the world to the Gay Games",
-      "desc": "On July 15, 2006, more than 11,500 athletes from nearly 70 countries paraded before a cheering crowd of 35,000 at Soldier Field. They lit up the field in a cascade of rainbows made of tiny handheld LED lights.  This was how Chicago welcomed the seventh Gay Ga…",
-      "source": "Chicago Reader",
-      "url": "https://chicagoreader.com/city-life/chicago-gay-games-2006/",
-      "time": "2026-08-10T19:41:26",
-      "country": "International",
-      "title_ur": "بیس سال پہلے شکاگو نے دنیا کو ہم جنس پرستوں کے کھیلوں میں خوش آمدید کہا",
-      "desc_ur": "15 جولائی 2006 کو، تقریباً 70 ممالک کے 11,500 سے زیادہ ایتھلیٹس نے سولجر فیلڈ میں 35,000 کے پرجوش ہجوم کے سامنے پریڈ کی۔ انہوں نے چھوٹے ہینڈ ہیلڈ ایل ای ڈی لائٹس سے بنی قوس قزح کے جھرن میں میدان کو روشن کیا۔  اس طرح شکاگو نے ساتویں ہم جنس پرستوں کا استقبال کیا…"
-    },
-    {
-      "title": "Crude Prices Soar as Strait of Hormuz Reopening in Doubt",
-      "desc": "September WTI crude oil (CLU26) closed up +3.95 (+5.05%) on Monday, and September RBOB gasoline (RBU26) closed up +0.1501 (+5.03%).\nCrude oil and gasoline prices rallied sharply on Monday, with gasoline soaring to a 1-week high. The lack of an agreement betwe…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/f6ba83f863694dc3",
-      "time": "2026-08-10T19:37:19",
-      "country": "International",
-      "title_ur": "آبنائے ہرمز کے دوبارہ کھلنے پر خام تیل کی قیمتوں میں اضافہ",
-      "desc_ur": "ستمبر WTI خام تیل (CLU26) پیر کو +3.95 (+5.05%) پر بند ہوا، اور ستمبر RBOB پٹرول (RBU26) +0.1501 (+5.03%) پر بند ہوا۔\nپیر کو خام تیل اور پٹرول کی قیمتوں میں تیزی سے اضافہ ہوا، پٹرول 1 ہفتے کی بلند ترین سطح پر پہنچ گیا۔ دونوں کے درمیان معاہدے کا فقدان…"
-    },
-    {
-      "title": "Scoop: U.S. brokers secret deal on clandestine Syrian nuclear site",
-      "desc": "The International Atomic Energy Agency (IAEA) will soon remove nuclear material stored at a clandestine site in Syria after the Trump administration reached understandings with Syria and Israel, according to Israeli and U.S. officials.\nWhy it matters: The Tru…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/65c48f6bd324dbf1",
-      "time": "2026-08-10T19:36:42",
+      "url": "https://www.israelnationalnews.com/news/431521",
+      "time": "2026-08-10T20:43:00",
       "country": "Israel",
-      "title_ur": "سکوپ: امریکی دلالوں نے خفیہ شامی جوہری سائٹ پر خفیہ معاہدہ کیا۔",
-      "desc_ur": "اسرائیلی اور امریکی حکام کے مطابق، ٹرمپ انتظامیہ کے شام اور اسرائیل کے ساتھ مفاہمت پر پہنچنے کے بعد بین الاقوامی ایٹمی توانائی ایجنسی (IAEA) جلد ہی شام میں خفیہ مقام پر ذخیرہ شدہ جوہری مواد کو ہٹا دے گی۔\nیہ کیوں اہم ہے: Tru…"
+      "title_ur": "آئی اے ای اے خفیہ شامی 'سائٹ 99' سے جوہری مواد نکالے گی",
+      "desc_ur": "Axios کی رپورٹ کے مطابق، IAEA علاقائی کشیدگی کو روکنے کے لیے دمشق اور اسرائیل کے ساتھ امریکی ثالثی کے معاہدے کے بعد شام کی خفیہ سائٹ سے جوہری مواد نکالے گا۔"
     },
     {
-      "title": "IAEA to remove nuclear material from secret Syrian site after US brokers deal with Israel",
-      "desc": "The IAEA's actions could set a precedent for international nuclear oversight, influencing future diplomatic and nonproliferation efforts globally.\nThe post IAEA to remove nuclear material from secret Syrian site after US brokers deal with Israel appeared firs…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iaea-remove-nuclear-material-syria-us-deal/",
-      "time": "2026-08-10T19:35:47",
-      "country": "Israel",
-      "title_ur": "IAEA امریکی دلالوں کے اسرائیل کے ساتھ معاہدے کے بعد شام کی خفیہ سائٹ سے جوہری مواد ہٹا دے گا۔",
-      "desc_ur": "IAEA کے اقدامات عالمی سطح پر مستقبل کی سفارتی اور عدم پھیلاؤ کی کوششوں کو متاثر کرتے ہوئے بین الاقوامی جوہری نگرانی کے لیے ایک مثال قائم کر سکتے ہیں۔\nThe post امریکی دلالوں کے اسرائیل کے ساتھ معاہدے کے بعد آئی اے ای اے خفیہ شامی سائٹ سے جوہری مواد ہٹائے گی appeared first on…"
-    },
-    {
-      "title": "Iran: F*ck this shiat, man. We're out. We'll wait until Donnie croaks or gets ousted in 2029 before we discuss ending the war you f*ckers started [News]",
-      "desc": "Iran: F*ck this shiat, man. We're out. We'll wait until Donnie croaks or gets ousted in 2029 before we discuss ending the war you f*ckers started",
-      "source": "Fark.com",
-      "url": "https://www.fark.com/comments/14159262/Iran-Fck-this-shiat-man-Were-out-Well-wait-until-Donnie-croaks-gets-ousted-in-2029-before-we-discuss-ending-war-you-fckers-started",
-      "time": "2026-08-10T19:35:03",
-      "country": "Iran",
-      "title_ur": "ایران: اس شیعیت کو بند کرو۔ ہم باہر ہیں۔ ہم اس وقت تک انتظار کریں گے جب تک کہ ڈونی 2029 میں بے دخل نہیں ہو جائے گا اس سے پہلے کہ ہم اس جنگ کو ختم کرنے کے بارے میں بات کریں جو آپ نے شروع کی ہے [خبریں]",
-      "desc_ur": "ایران: اس شیعیت کو بند کرو۔ ہم باہر ہیں۔ ہم اس وقت تک انتظار کریں گے جب تک کہ ڈونی 2029 میں بے دخل نہیں ہو جائے گا، اس سے پہلے کہ ہم اس جنگ کو ختم کرنے پر بات کریں جو آپ نے شروع کی تھی"
-    },
-    {
-      "title": "Russian-Israeli historian disappeared after landing in Israel, Russian reports say",
-      "desc": "Acquaintances say they have been unable to contact Artem Kirpichenok since he landed in Israel earlier in August, Russian media reported. The historian has twice visited Iran and recently published a series of articles criticizing Israel",
-      "source": "Haaretz",
-      "url": "https://www.haaretz.com/world-news/europe/2026-08-10/ty-article/.premium/reports-russian-israeli-historian-disappeared-after-landing-in-israel/0000019f-ebd3-d4c4-adff-ffdfbd1b0000",
-      "time": "2026-08-10T19:34:13",
-      "country": "Iran",
-      "title_ur": "روسی رپورٹس کے مطابق روسی اسرائیلی مورخ اسرائیل میں لینڈنگ کے بعد لاپتہ ہو گیا۔",
-      "desc_ur": "روسی میڈیا نے رپورٹ کیا کہ جاننے والوں کا کہنا ہے کہ وہ آرٹیم کرپیچینوک سے رابطہ کرنے سے قاصر ہیں جب سے وہ اگست کے شروع میں اسرائیل پہنچے تھے۔ مؤرخ نے دو بار ایران کا دورہ کیا ہے اور حال ہی میں اسرائیل پر تنقید کرنے والے مضامین کا ایک سلسلہ شائع کیا ہے۔"
-    },
-    {
-      "title": "Training stopped after dozens of soldiers fall ill",
-      "desc": "About 30 female commanders and recruits at the Sde Boker Gadna base have been suffering from vomiting, diarrhea and abdominal pain in recent days.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/431519",
-      "time": "2026-08-10T19:33:28",
-      "country": "International",
-      "title_ur": "درجنوں فوجیوں کے بیمار ہونے کے بعد تربیت روک دی گئی۔",
-      "desc_ur": "Sde Boker Gadna اڈے پر تقریباً 30 خواتین کمانڈر اور ریکروٹس حالیہ دنوں میں الٹی، اسہال اور پیٹ کے درد میں مبتلا ہیں۔"
-    },
-    {
-      "title": "US oil jumps above $80 per barrel as Strategic Petroleum Reserve reaches lowest level since 1983",
-      "desc": "West Texas Intermediate crude oil prices rose 4.6% to $81.78 a barrel while Brent crude increased 4.7% to $87.45 a barrel.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/08/10/business/us-oil-jumps-above-80-a-barrel-as-strategic-petroleum-reserve-reaches-lowest-level-since-1983/",
-      "time": "2026-08-10T19:31:22",
+      "title": "How To Watch The Inner Circle 26 And ONE Friday Fights 166 Live On August 14",
+      "desc": "Find out how you can watch these two high-octane events anywhere in the world!",
+      "source": "Onefc.com",
+      "url": "https://www.onefc.com/news/how-to-watch-the-inner-circle-26-and-one-friday-fights-166-live-on-august-14/",
+      "time": "2026-08-10T20:42:26",
       "country": "US",
-      "title_ur": "امریکی تیل 80 ڈالر فی بیرل سے اوپر چھلانگ لگاتا ہے کیونکہ اسٹریٹجک پیٹرولیم ریزرو 1983 کے بعد کم ترین سطح پر پہنچ گیا",
-      "desc_ur": "ویسٹ ٹیکساس انٹرمیڈیٹ خام تیل کی قیمت 4.6 فیصد اضافے کے ساتھ 81.78 ڈالر فی بیرل ہو گئی جبکہ برینٹ کروڈ 4.7 فیصد اضافے کے ساتھ 87.45 ڈالر فی بیرل ہو گیا۔"
+      "title_ur": "14 اگست کو اندرونی حلقہ 26 اور ایک جمعہ کی لڑائی 166 کو کیسے دیکھیں",
+      "desc_ur": "معلوم کریں کہ آپ ان دو ہائی آکٹین ​​ایونٹس کو دنیا میں کہیں بھی کیسے دیکھ سکتے ہیں!"
     },
     {
-      "title": "Is A Global Financial Crash Starting In Japan?",
-      "desc": "The unraveling of the yen carry trade is accelerating, and that is really bad news for the entire global financial system. For such a long time, investors could borrow yen for next to nothing and invest that money in financial assets all over the world. That …",
-      "source": "Theeconomiccollapseblog.com",
-      "url": "http://theeconomiccollapseblog.com/is-a-global-financial-crash-starting-in-japan/",
-      "time": "2026-08-10T19:29:00",
-      "country": "International",
-      "title_ur": "کیا جاپان میں عالمی مالیاتی کریش شروع ہو رہا ہے؟",
-      "desc_ur": "ین کیری تجارت کا انکشاف تیزی سے ہو رہا ہے، اور یہ پورے عالمی مالیاتی نظام کے لیے واقعی بری خبر ہے۔ اتنے لمبے عرصے تک، سرمایہ کار بغیر کسی قیمت کے ین قرض لے سکتے ہیں اور اس رقم کو پوری دنیا کے مالیاتی اثاثوں میں لگا سکتے ہیں۔ وہ…"
+      "title": "5 things to watch on the ASX 200 on Tuesday",
+      "desc": "Will it be a better session for Aussie investors today? Let's find out.\nThe post 5 things to watch on the ASX 200 on Tuesday appeared first on The Motley Fool Australia.",
+      "source": "Motley Fool Australia",
+      "url": "https://www.fool.com.au/2026/08/11/5-things-to-watch-on-the-asx-200-on-tuesday-11-august-2026/",
+      "time": "2026-08-10T20:40:44",
+      "country": "US",
+      "title_ur": "منگل کو ASX 200 پر دیکھنے کے لیے 5 چیزیں",
+      "desc_ur": "کیا آج آسٹریلیا کے سرمایہ کاروں کے لیے یہ ایک بہتر سیشن ہوگا؟ آئیے معلوم کرتے ہیں۔\nThe post منگل کو ASX 200 پر دیکھنے کے لیے 5 چیزیں appeared first on The Motley Fool Australia."
     },
     {
-      "title": "Trump asserts US can escalate actions in 2026 Iran conflict",
-      "desc": "Trump's stance may hinder diplomatic solutions, increasing tensions and affecting market confidence in a U.S.-Iran deal for 2026.\nThe post Trump asserts US can escalate actions in 2026 Iran conflict appeared first on Crypto Briefing.",
+      "title": "Turkey Passes Law to Achieve Peace With Kurdish Separatists",
+      "desc": "Turkish lawmakers adopted legislation laying out the dissolution of a Kurdish separatist group and paving the way for one of the world’s longest insurgencies to come to an end.",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/turkey-passes-law-to-achieve-peace-with-kurdish-separatists",
+      "time": "2026-08-10T20:40:24",
+      "country": "Turkey",
+      "title_ur": "ترکی نے کرد علیحدگی پسندوں کے ساتھ امن کے حصول کے لیے قانون پاس کیا۔",
+      "desc_ur": "ترک قانون سازوں نے ایک کرد علیحدگی پسند گروپ کو تحلیل کرنے اور دنیا کی طویل ترین شورشوں میں سے ایک کے خاتمے کے لیے راہ ہموار کرنے کے لیے قانون سازی کی۔"
+    },
+    {
+      "title": "Michigan AG Nessel: El-Sayed Needs to 'Tone Down His Rhetoric' on Israel",
+      "desc": "Monday on MS NOW's \"State of Play,\" Michigan Attorney General Dana Nessel (D) said Senate candidate Abdul El-Sayed (D) needs to tone down his rhetoric on Israel and AIPAC.\nThe post Michigan AG Nessel: El-Sayed Needs to ‘Tone Down His Rhetoric’ on Israel appea…",
+      "source": "Breitbart News",
+      "url": "https://www.breitbart.com/clips/2026/08/10/michigan-ag-nessel-el-sayed-needs-to-tone-down-his-rhetoric-on-israel/",
+      "time": "2026-08-10T20:37:03",
+      "country": "Israel",
+      "title_ur": "مشی گن اے جی نیسل: السید کو اسرائیل پر 'اپنی بیان بازی کو کم کرنے' کی ضرورت ہے",
+      "desc_ur": "پیر کو MS NOW کے \"State of Play\" پر مشی گن کے اٹارنی جنرل ڈانا نیسل (D) نے کہا کہ سینیٹ کے امیدوار عبد السید (D) کو اسرائیل اور AIPAC کے بارے میں اپنی بیان بازی کو کم کرنے کی ضرورت ہے۔\nThe post مشی گن اے جی نیسل: السید کو اسرائیل کی اپیل پر ’اپنے بیان بازی کو کم کرنے‘ کی ضرورت ہے…"
+    },
+    {
+      "title": "Alex Terrible Deletes Posts After Comment Makes Him Think Twice",
+      "desc": "The Slaughter to Prevail singer initially pushed back on calls to apologize to the trans community, but later realized some of his responses were only encouraging more cyber-bullying. Continue reading…",
+      "source": "Loudwire",
+      "url": "https://loudwire.com/alex-terrible-deletes-posts-slaughter-to-prevail-bloodstock/",
+      "time": "2026-08-10T20:32:50",
+      "country": "US",
+      "title_ur": "الیکس ٹیریبل نے تبصرے کے بعد پوسٹس کو حذف کر دیا جس سے وہ دو بار سوچتا ہے۔",
+      "desc_ur": "The Slaughter to Prevail گلوکار نے ابتدائی طور پر ٹرانس کمیونٹی سے معافی مانگنے کی کالوں کو پیچھے دھکیل دیا، لیکن بعد میں احساس ہوا کہ اس کے کچھ ردعمل صرف سائبر غنڈہ گردی کی حوصلہ افزائی کر رہے تھے۔ پڑھنا جاری رکھیں…"
+    },
+    {
+      "title": "Oil prices surge amid Iran-Oman Strait of Hormuz talks",
+      "desc": "Geopolitical tensions in the Middle East could lead to sustained oil market volatility, impacting global economic stability and energy policies.\nThe post Oil prices surge amid Iran-Oman Strait of Hormuz talks appeared first on Crypto Briefing.",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/trump-asserts-us-can-escalate-actions-in-2026-iran-conflict/",
-      "time": "2026-08-10T19:27:06",
+      "url": "https://cryptobriefing.com/oil-prices-surge-amid-iran-oman-strait-of-hormuz-talks/",
+      "time": "2026-08-10T20:30:58",
       "country": "Iran",
-      "title_ur": "ٹرمپ نے زور دے کر کہا کہ امریکہ 2026 کے ایران تنازع میں کارروائیوں کو بڑھا سکتا ہے۔",
-      "desc_ur": "ٹرمپ کا موقف سفارتی حل میں رکاوٹ بن سکتا ہے، کشیدگی میں اضافہ اور 2026 کے لیے امریکی ایران معاہدے میں مارکیٹ کے اعتماد کو متاثر کر سکتا ہے۔\nThe post ٹرمپ کا دعویٰ ہے کہ امریکا 2026 کے ایران تنازع میں کارروائیاں بڑھا سکتا ہے appeared first on Crypto Briefing."
+      "title_ur": "ایران اور عمان آبنائے ہرمز مذاکرات کے دوران تیل کی قیمتوں میں اضافہ",
+      "desc_ur": "مشرق وسطیٰ میں جغرافیائی سیاسی کشیدگی تیل کی منڈی میں مسلسل اتار چڑھاؤ کا باعث بن سکتی ہے، جس سے عالمی اقتصادی استحکام اور توانائی کی پالیسیاں متاثر ہو سکتی ہیں۔\nThe post ایران اور عمان آبنائے ہرمز مذاکرات کے دوران تیل کی قیمتوں میں اضافہ appeared first on Crypto Briefing."
     },
     {
-      "title": "‘Islamic NATO’ is a Turkish power play",
-      "desc": "For Ankara, the Mecca pact is a way to turn military weight, Gulf money and regional reach into leverage Read Full Article at RT.com",
-      "source": "RT",
-      "url": "https://www.rt.com/news/644084-islamic-nato-turkiye-power/",
-      "time": "2026-08-10T19:25:52",
+      "title": "John Mearsheimer: Iran Tightens the Screws",
+      "desc": "Reprinted from John’s Substack:  On 9 August 2026, I was on “Switzerland” with Vali Nasr, one of the world’s leading experts on Iran, and the host Tom Switzer. We had an excellent discussion about Iran’s latest demands, which came out on 8 August 2026, to set…",
+      "source": "Antiwar.com",
+      "url": "https://www.antiwar.com/blog/2026/08/10/john-mearsheimer-iran-tightens-the-screws/",
+      "time": "2026-08-10T20:29:18",
+      "country": "Iran",
+      "title_ur": "جان میئر شیمر: ایران پیچ کو سخت کرتا ہے۔",
+      "desc_ur": "John’s Substack سے دوبارہ پرنٹ کیا گیا:  9 اگست 2026 کو، میں \"سوئٹزرلینڈ\" میں ولی نصر، ایران سے متعلق دنیا کے معروف ماہرین میں سے ایک اور میزبان ٹام سوئزر کے ساتھ تھا۔ ہم نے ایران کے تازہ ترین مطالبات کے بارے میں ایک بہترین بات چیت کی، جو کہ 8 اگست 2026 کو سامنے آیا تھا، جس کے لیے…"
+    },
+    {
+      "title": "BlackRock updates Geopolitical Risk Dashboard to flag AI leadership race as a top global threat",
+      "desc": "AI leadership race intensifies geopolitical fragmentation, reshaping global power dynamics and investment strategies amid rising systemic risks.\nThe post BlackRock updates Geopolitical Risk Dashboard to flag AI leadership race as a top global threat appeared …",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/blackrock-geopolitical-risk-dashboard-ai-leadership/",
+      "time": "2026-08-10T20:29:00",
       "country": "International",
-      "title_ur": "'اسلامی نیٹو' ترکی کا پاور پلے ہے۔",
-      "desc_ur": "انقرہ کے لیے مکہ معاہدہ فوجی وزن، خلیجی رقم اور علاقائی رسائی کو فائدہ اٹھانے کا ایک طریقہ ہے RT.com پر مکمل مضمون پڑھیں"
+      "title_ur": "بلیک راک نے جیو پولیٹیکل رسک ڈیش بورڈ کو AI قیادت کی دوڑ کو ایک اعلی عالمی خطرے کے طور پر جھنڈا دینے کے لیے اپ ڈیٹ کیا",
+      "desc_ur": "AI قیادت کی دوڑ جغرافیائی سیاسی تقسیم کو تیز کرتی ہے، بڑھتے ہوئے نظامی خطرات کے درمیان عالمی طاقت کی حرکیات اور سرمایہ کاری کی حکمت عملیوں کو نئی شکل دیتی ہے۔\nThe post BlackRock نے جیو پولیٹیکل رسک ڈیش بورڈ کو AI لیڈرشپ کی دوڑ کو ایک اعلی عالمی خطرے کے طور پر جھنڈا دینے کے لیے اپ ڈیٹ کیا…"
+    },
+    {
+      "title": "Pope Leo appoints pro-female ordination consultors to religious life dicastery",
+      "desc": "Oil prices jumped about 5% Monday as doubt grew that the U.S. and Iran will reach a deal to increase ship traffic through the Strait of Hormuz. U.S. West Texas Intermediate futures climbed about 5% to close at $82.13 per barrel. Brent crude , the internationa…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-religion/4391334/posts",
+      "time": "2026-08-10T20:21:05",
+      "country": "Iran",
+      "title_ur": "پوپ لیو نے مذہبی زندگی کی تقسیم کے لیے خواتین کے حامی آرڈینیشن کنسلٹرز کا تقرر کیا۔",
+      "desc_ur": "پیر کے روز تیل کی قیمتوں میں تقریباً 5 فیصد اضافہ ہوا کیونکہ اس شک میں اضافہ ہوا کہ امریکہ اور ایران آبنائے ہرمز کے ذریعے جہازوں کی آمدورفت بڑھانے کے لیے ایک معاہدے پر پہنچ جائیں گے۔ یو ایس ویسٹ ٹیکساس انٹرمیڈیٹ فیوچر تقریباً 5 فیصد بڑھ کر 82.13 ڈالر فی بیرل پر بند ہوا۔ برینٹ کروڈ، بین الاقوامی…"
+    },
+    {
+      "title": "U.S. oil rises back above $82 as doubt grows Washington and Tehran will reach Hormuz deal",
+      "desc": "Oil prices jumped about 5% Monday as doubt grew that the U.S. and Iran will reach a deal to increase ship traffic through the Strait of Hormuz. U.S. West Texas Intermediate futures climbed about 5% to close at $82.13 per barrel. Brent crude , the internationa…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-chat/4391333/posts",
+      "time": "2026-08-10T20:21:05",
+      "country": "Iran",
+      "title_ur": "واشنگٹن اور تہران ہرمز ڈیل تک پہنچنے میں شبہات بڑھنے پر امریکی تیل کی قیمت 82 ڈالر سے اوپر پہنچ گئی",
+      "desc_ur": "پیر کے روز تیل کی قیمتوں میں تقریباً 5 فیصد اضافہ ہوا کیونکہ اس شک میں اضافہ ہوا کہ امریکہ اور ایران آبنائے ہرمز کے ذریعے جہازوں کی آمدورفت بڑھانے کے لیے ایک معاہدے پر پہنچ جائیں گے۔ یو ایس ویسٹ ٹیکساس انٹرمیڈیٹ فیوچر تقریباً 5 فیصد بڑھ کر 82.13 ڈالر فی بیرل پر بند ہوا۔ برینٹ کروڈ، بین الاقوامی…"
+    },
+    {
+      "title": "Minor League roundup, August 7-9: Jonah Cox and Josuar González are red hot",
+      "desc": "The weekend on the farm.",
+      "source": "McCovey Chronicles",
+      "url": "https://www.mccoveychronicles.com/san-francisco-giants-prospects/110211/giants-minors-prospects-scores-josuar-gonzalez-jonah-cox",
+      "time": "2026-08-10T20:20:01",
+      "country": "US",
+      "title_ur": "مائنر لیگ راؤنڈ اپ، 7-9 اگست: جونا کاکس اور جوسوار گونزالیز سرخ رنگ کے ہیں",
+      "desc_ur": "فارم پر ویک اینڈ۔"
+    },
+    {
+      "title": "Trump Rejects Iran’s Six-Point Ultimatum, Says He Is ‘Now Demanding Compensation’ in ‘All Future Negotiations’",
+      "desc": "President Donald Trump rejected Iran’s sweeping demands for fully reopening the Strait of Hormuz on Monday, and said the U.S. is “now demanding compensation” from Iran in all future negotiations.\nThe post Trump Rejects Iran’s Six-Point Ultimatum, Says He Is ‘…",
+      "source": "Breitbart News",
+      "url": "https://www.breitbart.com/middle-east/2026/08/10/trump-rejects-irans-six-point-ultimatum-says-he-is-now-demanding-compensation-all-future-negotiations/",
+      "time": "2026-08-10T20:16:37",
+      "country": "Iran",
+      "title_ur": "ٹرمپ نے ایران کے چھ نکاتی الٹی میٹم کو مسترد کرتے ہوئے کہا کہ وہ 'مستقبل کے تمام مذاکرات' میں 'اب معاوضے کا مطالبہ کر رہے ہیں'",
+      "desc_ur": "صدر ڈونلڈ ٹرمپ نے پیر کے روز آبنائے ہرمز کو مکمل طور پر دوبارہ کھولنے کے لیے ایران کے بڑے مطالبات کو مسترد کر دیا اور کہا کہ امریکہ مستقبل کے تمام مذاکرات میں ایران سے \"اب معاوضے کا مطالبہ کر رہا ہے\"۔\nThe post ٹرمپ نے ایران کا چھ نکاتی الٹی میٹم مسترد کر دیا، کہا کہ وہ ’…"
+    },
+    {
+      "title": "KLX ENERGY SERVICES HOLDINGS, INC. REPORTS SECOND QUARTER 2026 RESULTS",
+      "desc": "HOUSTON, Aug. 10, 2026 /PRNewswire/ -- KLX Energy Services Holdings, Inc. (Nasdaq: KLXE) (\"KLX\", the \"Company\", \"we\", \"us\" or \"our\") today reported financial results for the second quarter ended June 30, 2026. Second Quarter 2026 Financial and Operational Hig…",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/klx-energy-services-holdings-inc-reports-second-quarter-2026-results-302847482.html",
+      "time": "2026-08-10T20:16:00",
+      "country": "US",
+      "title_ur": "KLX انرجی سروسز ہولڈنگز، انک. دوسری سہ ماہی 2026 کے نتائج کی رپورٹ",
+      "desc_ur": "ہیوسٹن، 10 اگست، 2026/پی آرنیوزوائر/ -- KLX Energy Services Holdings Inc. (Nasdaq: KLXE) (\"KLX\"، \"کمپنی\"، \"ہم\"، \"ہم\" یا \"ہمارے\") نے آج 30 جون کو ختم ہونے والی دوسری سہ ماہی کے مالیاتی نتائج کی اطلاع دی ہے۔ اعلیٰ…"
+    },
+    {
+      "title": "Mauricio Umansky Says He’s Considered Running for Los Angeles Mayor",
+      "desc": "The Real Housewives of Beverly Hills star Mauricio Umansky has considered entering politics as he hopes to “do something great” for Los Angeles. “I’m not running for mayor yet. I never said never,” Umansky, 56, said on the Monday, August 10, episode of iHeart…",
+      "source": "Us Weekly",
+      "url": "https://www.usmagazine.com/celebrity-news/news/mauricio-umansky-open-to-running-for-los-angeles-mayor/",
+      "time": "2026-08-10T20:14:35",
+      "country": "US",
+      "title_ur": "موریسیو اومانسکی کا کہنا ہے کہ وہ لاس اینجلس کے میئر کے لیے انتخاب لڑنے پر غور کر رہے ہیں۔",
+      "desc_ur": "بیورلی ہلز کی اصلی گھریلو خواتین نے سیاست میں داخل ہونے پر غور کیا ہے کیونکہ وہ لاس اینجلس کے لیے \"کچھ اچھا\" کرنے کی امید رکھتے ہیں۔ \"میں ابھی میئر کے لیے انتخاب نہیں کر رہا ہوں۔ میں نے کبھی نہیں کہا،\" 56 سالہ اومانسکی نے پیر، 10 اگست، iHeart کے ایپی سوڈ پر کہا…"
     }
   ],
-  "pakistan": [
-    {
-      "title": "Oil surges 5% as Hormuz reopening hopes fade",
-      "desc": "Rising oil prices due to prolonged Hormuz disruption could strain global energy supply, heightening geopolitical tensions and economic uncertainty.\nThe post Oil surges 5% as Hormuz reopening hopes fade appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/oil-surges-5-as-hormuz-reopening-hopes-fade/",
-      "time": "2026-08-10T19:13:58",
-      "country": "Pakistan",
-      "title_ur": "ہرمز کے دوبارہ کھلنے کی امید ختم ہونے پر تیل کی قیمت میں 5 فیصد اضافہ",
-      "desc_ur": "ہرمز میں طویل خلل کی وجہ سے تیل کی قیمتوں میں اضافہ عالمی توانائی کی سپلائی کو متاثر کر سکتا ہے، جغرافیائی سیاسی تناؤ اور اقتصادی غیر یقینی صورتحال کو بڑھا سکتا ہے۔\nThe post ہرمز کے دوبارہ کھلنے کی امیدیں ختم، تیل کی قیمت میں 5 فیصد اضافہ appeared first on کرپٹو بریفنگ"
-    }
-  ],
+  "pakistan": [],
   "business": {
     "quote": "The stock market is a device for transferring money from the impatient to the patient.",
     "author": "Warren Buffett",
