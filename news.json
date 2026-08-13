@@ -1,177 +1,167 @@
 {
-  "generated": "2026-08-13T06:58:21Z",
+  "generated": "2026-08-13T08:22:28Z",
   "world": [
     {
-      "title": "Iran between contiguous geography and fragmented polity",
-      "desc": "Iran today stands before a choice that involves not just the fate of the regime, but also the very structure of the state. Opinion.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/431596",
-      "time": "2026-08-12T06:56:00",
-      "country": "Iran",
-      "title_ur": "متصل جغرافیہ اور منقسم سیاست کے درمیان ایران",
-      "desc_ur": "ایران آج ایک ایسے انتخاب کے سامنے کھڑا ہے جس میں نہ صرف حکومت کی تقدیر بلکہ ریاست کا ڈھانچہ بھی شامل ہے۔ رائے۔"
-    },
-    {
-      "title": "US military operations killed 153 civilians in 2025 — Pentagon",
-      "desc": "Pentagon report reveals US military operations killed 153 civilians in 2025, a sharp increase from previous years. Learn more about the strikes in Yemen.\n\nRead More: https://punchng.com/us-military-operations-killed-153-civilians-in-2025-pentagon/",
-      "source": "The Punch",
-      "url": "https://punchng.com/us-military-operations-killed-153-civilians-in-2025-pentagon/",
-      "time": "2026-08-12T06:55:01",
+      "title": "Dollar index hovers little short of 100 mark with all eyes on US inflation report",
+      "desc": "The dollar index is hovering at close distance from 100 mark on Wednesday with all eyes awaiting US consumer price inflation report due later in the day for further clarity on Federal stance. Chicago Fed President Austan Goolsbee said the central bank is more…",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/markets/capital-market-news/dollar-index-hovers-little-short-of-100-mark-with-all-eyes-on-us-inflation-report-126081200879_1.html",
+      "time": "2026-08-12T08:22:05",
       "country": "US",
-      "title_ur": "امریکی فوجی کارروائیوں میں 2025 میں 153 شہری مارے گئے - پینٹاگون",
-      "desc_ur": "پینٹاگون کی رپورٹ میں انکشاف کیا گیا ہے کہ 2025 میں امریکی فوجی کارروائیوں میں 153 شہری مارے گئے، جو پچھلے سالوں کے مقابلے میں بہت زیادہ ہے۔ یمن میں حملوں کے بارے میں مزید جانیں۔\n\nمزید پڑھیں: https://punchng.com/us-military-operations-killed-153-civilians-in-2025-pentagon/"
+      "title_ur": "ڈالر انڈیکس 100 کے نشان سے تھوڑا سا کم ہے جس کی تمام نظریں امریکی افراط زر کی رپورٹ پر ہیں۔",
+      "desc_ur": "ڈالر کا انڈیکس بدھ کے روز 100 کے نشان سے قریب فاصلے پر منڈلا رہا ہے اور تمام آنکھیں امریکی صارفین کی قیمتوں میں افراط زر کی رپورٹ کا انتظار کر رہی ہیں جو وفاقی موقف پر مزید وضاحت کے لیے دن کے آخر میں ہونے والی ہیں۔ شکاگو فیڈ کے صدر آسٹن گولسبی نے کہا کہ مرکزی بینک مزید…"
     },
     {
-      "title": "Trump's dramatic plane swap hints at personal stakes of Iran war - BBC",
-      "desc": "Trump's dramatic plane swap hints at personal stakes of Iran warBBC Contradicting public statements, Trump took secret flight from Turkey amid Iranian threatThe Washington Post Jimmy Fallon Recreates Trump’s Catering Container EscapeThe New York Times What Tr…",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184934920",
-      "time": "2026-08-12T06:52:37",
-      "country": "Iran",
-      "title_ur": "ٹرمپ کے ڈرامائی جہاز کی تبدیلی ایران جنگ کے ذاتی داؤ پر اشارہ کرتی ہے - BBC",
-      "desc_ur": "ٹرمپ کے ڈرامائی جہاز کے تبادلے سے ایران جنگ کے ذاتی داؤ پر اشارے بی بی سی عوامی بیانات سے متصادم، ٹرمپ نے ایرانی دھمکی کے درمیان ترکی سے خفیہ پرواز لی۔"
-    },
-    {
-      "title": "On her birthday, Women in Mathematics Day: Meet the ‘slow thinker’ who made history by winning the Fields Medal",
-      "desc": "Maryam Mirzakhani’s journey from a teenage mathematics Olympiad champion in Iran to the first woman and first Iranian to win the Fields Medal offers a powerful lesson in patience and perseverance. Rather than treating mathematics as a race, she embraced a slo…",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/education/news/on-her-birthday-women-in-mathematics-day-meet-the-slow-thinker-who-made-history-by-winning-the-fields-medal/articleshow/133173085.cms",
-      "time": "2026-08-12T06:50:02",
-      "country": "Iran",
-      "title_ur": "اس کی سالگرہ پر، ویمن ان میتھمیٹکس ڈے: 'سست سوچنے والی' سے ملیں جس نے فیلڈز میڈل جیت کر تاریخ رقم کی",
-      "desc_ur": "مریم مرزاخانی کا ایران میں نوعمر ریاضی کے اولمپیاڈ چیمپیئن سے پہلی خاتون اور فیلڈز میڈل جیتنے والی پہلی ایرانی تک کا سفر صبر اور استقامت کا زبردست سبق دیتا ہے۔ ریاضی کو ایک دوڑ سمجھنے کے بجائے، اس نے ایک سلو کو گلے لگایا…"
-    },
-    {
-      "title": "Nikkei Stalls Near 67,000 as Oil and Yen Risks Offset Financial Gains",
-      "desc": "Tokyo stocks ended nearly unchanged on August 12, with the Nikkei 225 at 66,988.82, as gains in energy and financial shares offset weakness in electronics and pharmaceuticals while investors weighed higher crude oil prices, a weaker yen and growing expectatio…",
-      "source": "Newsonjapan.com",
-      "url": "https://newsonjapan.com/article/150332.php",
-      "time": "2026-08-12T06:46:55",
-      "country": "US",
-      "title_ur": "نکیئی کے سٹالز 67,000 کے قریب ہیں کیونکہ تیل اور ین کے خطرات مالی فوائد کو پورا کرتے ہیں",
-      "desc_ur": "ٹوکیو اسٹاک 12 اگست کو تقریباً غیر تبدیل ہوئے، نکی 225 کے ساتھ 66,988.82 پر ختم ہوا، کیونکہ توانائی اور مالیاتی حصص میں اضافہ الیکٹرانکس اور فارماسیوٹیکلز میں کمزوری کو پورا کرتا ہے جبکہ سرمایہ کاروں نے خام تیل کی قیمتوں میں اضافہ، ین کی کمزوری اور بڑھتی ہوئی توقع…"
-    },
-    {
-      "title": "10 Stars Who Clashed With Themselves On The Same Day!",
-      "desc": "Before Shabana Azmi tries to outrival herself in the Batwara 1947 and Awarapan 2 clash, we look at other Bollywood stars whose films released on the same day.",
-      "source": "Rediff.com",
-      "url": "https://www.rediff.com/movies/special/10-stars-who-clashed-with-themselves-on-the-same-day/20260812.htm",
-      "time": "2026-08-12T06:41:48",
-      "country": "International",
-      "title_ur": "10 ستارے جو ایک ہی دن اپنے آپ سے ٹکرا گئے!",
-      "desc_ur": "اس سے پہلے کہ شبانہ اعظمی بٹوارہ 1947 اور آوارپن 2 کے تصادم میں خود کو پیچھے چھوڑنے کی کوشش کریں، ہم بالی ووڈ کے دوسرے ستاروں کو دیکھتے ہیں جن کی فلمیں اسی دن ریلیز ہوئیں۔"
-    },
-    {
-      "title": "UAE Aims to Restore War-Hit Aluminum Output in First Quarter",
-      "desc": "Emirates Global Aluminium aims to restore production early next year after an Iranian strike shut its main smelter in March, potentially helping a metal market that’s seen prices surge on supply shortages.",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/uae-aims-to-restore-war-hit-aluminum-output-in-first-quarter",
-      "time": "2026-08-12T06:40:08",
-      "country": "Iran",
-      "title_ur": "UAE کا مقصد پہلی سہ ماہی میں جنگ زدہ ایلومینیم آؤٹ پٹ کو بحال کرنا ہے۔",
-      "desc_ur": "ایمریٹس گلوبل ایلومینیم کا مقصد اگلے سال کے اوائل میں پیداوار کو بحال کرنا ہے جب مارچ میں ایرانی ہڑتال کی وجہ سے اس کا مرکزی سملٹر بند ہو گیا، ممکنہ طور پر دھات کی مارکیٹ میں مدد ملے گی جس میں سپلائی کی کمی پر قیمتوں میں اضافہ دیکھا گیا ہے۔"
-    },
-    {
-      "title": "Strauss Group Reports Q2 & H1-2026 Financial Results:¹ Solid operating income growth to NIS 363 million, up 42%; Net profit doubled to NIS 195 million",
-      "desc": "Key Financial Highlights – Q2-20262 Strauss Group revenues of NIS 2,867 million, down 1.9% on a LFL basis.3 EBIT of NIS 363 million, up 41.9% (EBIT margin of 12.6%), compared with NIS 255 million (8.3% margin). Net Income attributable to shareholders of NIS 1…",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/strauss-group-reports-q2--h1-2026-financial-results-solid-operating-income-growth-to-nis-363-million-up-42-net-profit-doubled-to-nis-195-million-302849420.html",
-      "time": "2026-08-12T06:39:00",
-      "country": "US",
-      "title_ur": "سٹراس گروپ کی رپورٹس Q2 اور H1-2026 مالیاتی نتائج:¹ ٹھوس آپریٹنگ آمدنی میں اضافہ NIS 363 ملین تک، 42% زیادہ؛ خالص منافع دوگنا ہو کر NIS 195 ملین ہو گیا۔",
-      "desc_ur": "اہم مالیاتی جھلکیاں – Q2-20262 NIS کی سٹراس گروپ کی آمدنی 2,867 ملین، LFL کی بنیاد پر 1.9% کم۔ 3 NIS 363 ملین کا EBIT، NIS 255 ملین (8.3% مارجن) کے مقابلے میں 41.9% (12.6% کا EBIT مارجن)۔ NIS 1 کے شیئر ہولڈرز سے منسوب خالص آمدنی…"
-    },
-    {
-      "title": "Trump Claims Hormuz Control as US, Iran Harden Their Positions",
-      "desc": "President Donald Trump claimed the US had “total control over the Hormuz Strait,” as Washington and Tehran hardened their stances in deadlocked negotiations over the waterway.",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/trump-claims-hormuz-control-as-us-iran-harden-their-positions",
-      "time": "2026-08-12T06:35:01",
-      "country": "Iran",
-      "title_ur": "ٹرمپ نے ہرمز پر کنٹرول کا دعویٰ کیا ہے کیونکہ امریکہ، ایران اپنی پوزیشن سخت کر رہے ہیں۔",
-      "desc_ur": "صدر ڈونلڈ ٹرمپ نے دعویٰ کیا کہ آبنائے ہرمز پر امریکہ کا مکمل کنٹرول ہے، کیونکہ واشنگٹن اور تہران نے آبی گزرگاہ پر تعطل کا شکار مذاکرات میں اپنے موقف کو سخت کر دیا ہے۔"
-    },
-    {
-      "title": "Chuck Schumer Demands Senate Briefing After Reported Trump Turkey Evacuation Amid Iranian Threat: 'Congress…",
-      "desc": "Schumer demands Senate briefing on reported Iranian threats against Trump and criticizes his handling of Iran conflict, calling for Congress to end it.",
+      "title": "European stocks steady, oil rises before CPI",
+      "desc": "By Samuel Indyk and Rocky Swift\nLONDON, Aug 12 (Reuters) - Global equity markets held steady and oil prices inched higher after new attacks on shipping in the Middle East dimmed expectations for an end to the Iran war, as markets turned their attention to U.S…",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/7802e0d887048801",
-      "time": "2026-08-12T06:34:13",
+      "url": "https://biztoc.com/x/4008bc1772c1a237",
+      "time": "2026-08-12T08:21:51",
       "country": "Iran",
-      "title_ur": "چک شومر نے ایرانی دھمکی کے درمیان ٹرمپ کے ترکی سے انخلاء کی اطلاع کے بعد سینیٹ کی بریفنگ کا مطالبہ کیا: 'کانگریس…",
-      "desc_ur": "شمر نے سینیٹ کو ٹرمپ کے خلاف مبینہ ایرانی دھمکیوں کے بارے میں بریفنگ کا مطالبہ کیا اور ایران کے تنازع سے نمٹنے کے ان کے طریقہ کار پر تنقید کرتے ہوئے کانگریس سے اسے ختم کرنے کا مطالبہ کیا۔"
+      "title_ur": "یورپی اسٹاک مستحکم، تیل CPI سے پہلے بڑھتا ہے۔",
+      "desc_ur": "بذریعہ سیموئل انڈک اور راکی سوئفٹ\nلندن، 12 اگست (رائٹرز) – مشرق وسطیٰ میں جہاز رانی پر نئے حملوں کے بعد عالمی ایکویٹی مارکیٹ مستحکم رہی اور تیل کی قیمتوں میں اضافہ ہوا، جس سے ایران جنگ کے خاتمے کی توقعات کو مدھم کر دیا گیا، کیونکہ مارکیٹوں نے اپنی توجہ امریکی…"
     },
     {
-      "title": "U.S. Stocks Slide and Oil Prices Swing Amid Ongoing Conflict with Iran",
-      "desc": "Wall Street dips slightly as volatile crude markets fuel inflation concerns, while investors await upcoming government data to gauge the Federal Reserve's next interest rate move.",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/markets/capital-market-news/u-s-stocks-slide-and-oil-prices-swing-amid-ongoing-conflict-with-iran-126081200706_1.html",
-      "time": "2026-08-12T06:34:02",
-      "country": "Iran",
-      "title_ur": "ایران کے ساتھ جاری تنازعہ کے درمیان امریکی اسٹاک کی سلائیڈ اور تیل کی قیمتوں میں اضافہ",
-      "desc_ur": "وال سٹریٹ میں قدرے کمی آئی ہے کیونکہ غیر مستحکم خام مارکیٹ افراط زر کے خدشات کو ہوا دیتی ہے، جبکہ سرمایہ کار فیڈرل ریزرو کے اگلے سود کی شرح کے اقدام کا اندازہ لگانے کے لیے آنے والے حکومتی ڈیٹا کا انتظار کر رہے ہیں۔"
+      "title": "UAE shuttles oil exports from Iraq through the Strait of Hormuz",
+      "desc": "In the so-called shuttling tactics, vessels make short trips — often with their transponders turned off to avoid detection — before typically transferring their cargoes to other ships just outside the Gulf",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-12/uae-shuttles-oil-exports-from-iraq-through-the-strait-of-hormuz",
+      "time": "2026-08-12T08:21:08",
+      "country": "Iraq",
+      "title_ur": "متحدہ عرب امارات نے آبنائے ہرمز کے ذریعے عراق سے تیل کی برآمدات بند کردی ہیں۔",
+      "desc_ur": "نام نہاد شٹلنگ کے حربوں میں، جہاز مختصر سفر کرتے ہیں - اکثر ان کے ٹرانسپونڈرز کو پتہ لگانے سے بچنے کے لیے بند کر دیا جاتا ہے - اس سے پہلے کہ عام طور پر اپنے کارگو کو خلیج کے بالکل باہر دوسرے بحری جہازوں میں منتقل کیا جائے۔"
     },
     {
-      "title": "Israel's detention of doctors: Dr Abu Safiya's only crime was refusing to abandon his patients",
-      "desc": "The arrest of Dr Hussam Abu Safiya in 2024 is part of a wider pattern of attacks by Israel on Gaza’s healthcare workers, who have also acted as witnesses to the atrocities unfolding around them.",
-      "source": "TheJournal.ie",
-      "url": "https://www.thejournal.ie/readme/gaza-medics-israel-7127422-Aug2026/",
-      "time": "2026-08-12T06:30:45",
-      "country": "Israel",
-      "title_ur": "اسرائیل کا ڈاکٹروں کی حراست: ڈاکٹر ابو صفیہ کا واحد جرم اپنے مریضوں کو چھوڑنے سے انکار تھا",
-      "desc_ur": "2024 میں ڈاکٹر حسام ابو صفیہ کی گرفتاری غزہ کے ہیلتھ کیئر ورکرز پر اسرائیل کے حملوں کے وسیع نمونے کا حصہ ہے، جنہوں نے اپنے ارد گرد ہونے والے مظالم کے گواہ کے طور پر بھی کام کیا ہے۔"
-    },
-    {
-      "title": "Adventure Ready: The CRKT Outdoor Survival Tomahawk – $59.99 USD",
-      "desc": "This is the somewhat lengthily-named CRKT Black Woods Chogan T-Hawk Outdoor Survival Tomahawk, but for the sake of brevity we’ll just refer to it...\nThe post Adventure Ready: The CRKT Outdoor Survival Tomahawk – $59.99 USD appeared first on Silodrome.",
-      "source": "Silodrome.com",
-      "url": "https://silodrome.com/crkt-outdoor-survival-tomahawk/",
-      "time": "2026-08-12T06:30:24",
-      "country": "US",
-      "title_ur": "ایڈونچر کے لیے تیار: The CRKT آؤٹ ڈور سروائیول Tomahawk - $59.99 USD",
-      "desc_ur": "یہ CRKT Black Woods Chogan T-Hawk آؤٹ ڈور سروائیول Tomahawk کا کچھ لمبا نام ہے، لیکن اختصار کی خاطر ہم صرف اس کا حوالہ دیں گے...\nThe post ایڈونچر کے لیے تیار: The CRKT آؤٹ ڈور سروائیول Tomahawk – $59.99 USD سب سے پہلے Silodrome پر شائع ہوا۔"
-    },
-    {
-      "title": "India bonds hemmed in by oil worries ahead of inflation data",
-      "desc": "The benchmark 10-year bond ​yield was little changed at 6.7822% as of ⁠11:45 a.m. IST",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/india-bonds-hemmed-in-by-oil-worries-ahead-of-inflation-data/article71335354.ece",
-      "time": "2026-08-12T06:27:35",
-      "country": "India",
-      "title_ur": "مہنگائی کے اعداد و شمار سے پہلے تیل کی پریشانیوں کی وجہ سے ہندوستانی بانڈز متاثر ہوئے۔",
-      "desc_ur": "بینچ مارک 10 سالہ بانڈ کی پیداوار 6.7822% پر ⁠11:45 صبح IST کے مطابق تھوڑی سی تبدیل ہوئی تھی۔"
-    },
-    {
-      "title": "Sensex, Nifty under pressure; consumer durables shares drop",
-      "desc": "The Nifty tumbled below the 24,300 level, while sentiment remained subdued amid a lack of strong directional cues. Investors continued to monitor movements in crude oil prices and developments on the global geopolitical front for further indications on the ma…",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/markets/capital-market-news/sensex-nifty-under-pressure-consumer-durables-shares-drop-126081200683_1.html",
-      "time": "2026-08-12T06:20:41",
+      "title": "Global Market: Japanese bond yields rise as traders price September BOJ rate hike",
+      "desc": "Japanese government bond yields rose on Wednesday as markets increasingly priced in a September Bank of Japan rate hike. The benchmark 10-year yield climbed to 2.85%, while the two-year yield hit its highest level since 1995. Higher oil prices added to inflat…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-japanese-bond-yields-rise-as-traders-price-september-boj-rate-hike/articleshow/133176070.cms",
+      "time": "2026-08-12T08:18:48",
       "country": "International",
-      "title_ur": "سینسیکس، نفٹی دباؤ میں؛ صارف پائیدار اشیاء کے حصص میں کمی",
-      "desc_ur": "نفٹی 24,300 کی سطح سے نیچے گر گیا، جب کہ مضبوط دشاتمک اشاروں کی کمی کے درمیان جذبات دب گئے۔ سرمایہ کاروں نے خام تیل کی قیمتوں میں نقل و حرکت اور عالمی جغرافیائی سیاسی محاذ پر پیش رفت کی نگرانی جاری رکھی تاکہ مزید اشارے…"
+      "title_ur": "عالمی منڈی: تاجروں کی ستمبر BOJ کی شرح میں اضافے کے باعث جاپانی بانڈ کی پیداوار میں اضافہ",
+      "desc_ur": "بدھ کے روز جاپانی حکومت کے بانڈ کی پیداوار میں اضافہ ہوا کیونکہ ستمبر کے بینک آف جاپان کی شرح میں اضافے سے مارکیٹوں کی قیمتوں میں اضافہ ہوا۔ بینچ مارک 10 سالہ پیداوار 2.85 فیصد تک بڑھ گئی، جبکہ دو سال کی پیداوار 1995 کے بعد اپنی بلند ترین سطح پر پہنچ گئی۔ تیل کی اونچی قیمتوں نے افراط زر میں اضافہ کیا…"
+    },
+    {
+      "title": "Clacton by-election: Farage may win the town, but can he win the country?",
+      "desc": "Reform UK leader is set to claim victory over the seaside town that adores him, but the party's popularity is in doubt.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/8/12/clacton-reform-farage-elections",
+      "time": "2026-08-12T08:14:07",
+      "country": "UK",
+      "title_ur": "کلاکٹن ضمنی انتخاب: فاریج شہر جیت سکتا ہے، لیکن کیا وہ ملک جیت سکتا ہے؟",
+      "desc_ur": "ریفارم یو کے رہنما سمندر کے کنارے واقع شہر پر فتح کا دعویٰ کرنے والے ہیں جو انہیں پسند کرتا ہے، لیکن پارٹی کی مقبولیت مشکوک ہے۔"
+    },
+    {
+      "title": "UAE Offers to Shuttle Iraqi Oil through Hormuz",
+      "desc": "Emirati state-owned company ADNOC is offering to shuttle exports of Iraqi oil through the Strait of Hormuz, using its dark-transit playbook to transport Basrah and other crude to refiners in Asia, according to people familiar with the matter.",
+      "source": "Rigzone",
+      "url": "https://www.rigzone.com/news/wire/uae_offers_to_shuttle_iraqi_oil_through_hormuz-12-aug-2026-184352-article/",
+      "time": "2026-08-12T08:13:47",
+      "country": "Iraq",
+      "title_ur": "متحدہ عرب امارات نے عراقی تیل کو ہرمز کے راستے بھیجنے کی پیشکش کی ہے۔",
+      "desc_ur": "اماراتی سرکاری کمپنی ADNOC اس معاملے سے واقف لوگوں کے مطابق، بصرہ اور دیگر خام تیل کو ایشیا میں ریفائنرز تک پہنچانے کے لیے اپنی تاریک ٹرانزٹ پلے بک کا استعمال کرتے ہوئے آبنائے ہرمز کے ذریعے عراقی تیل کی برآمدات کو شٹل کرنے کی پیشکش کر رہی ہے۔"
+    },
+    {
+      "title": "IEA sees sharper oil supply deficit amid Iran conflict, potential price rise",
+      "desc": "The ongoing supply deficit and geopolitical tensions could lead to increased oil prices, impacting global economic stability and energy policies.\nThe post IEA sees sharper oil supply deficit amid Iran conflict, potential price rise appeared first on Crypto Br…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iea-sees-sharper-oil-supply-deficit-amid-iran-conflict-potential-price-rise/",
+      "time": "2026-08-12T08:06:56",
+      "country": "Iran",
+      "title_ur": "IEA ایران تنازعہ، ممکنہ قیمتوں میں اضافے کے درمیان تیل کی سپلائی میں تیزی سے خسارے کو دیکھ رہا ہے۔",
+      "desc_ur": "سپلائی میں جاری خسارہ اور جغرافیائی سیاسی کشیدگی تیل کی قیمتوں میں اضافے کا باعث بن سکتی ہے، جس سے عالمی اقتصادی استحکام اور توانائی کی پالیسیاں متاثر ہو سکتی ہیں۔\nThe post آئی ای اے نے ایران کے تنازع کے درمیان تیل کی سپلائی میں تیزی سے خسارہ دیکھا، قیمتوں میں ممکنہ اضافہ appeared first on Crypto Br…"
+    },
+    {
+      "title": "Sensex falls 656pts intraday, Nifty at 24,265 as Tata stocks, crude weigh",
+      "desc": "Analysts said the key factor restraining a market rally was the strengthening Brent crude price, which once again has moved above $89 per barrel in the absence of a peace deal between the US and Iran.",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/markets/news/sensex-falls-656pts-intraday-nifty-at-24-265-as-tata-stocks-crude-weigh-126081200838_1.html",
+      "time": "2026-08-12T08:04:29",
+      "country": "Iran",
+      "title_ur": "سینسیکس انٹرا ڈے 656 پوائنٹس گرا، نفٹی 24,265 پر ٹاٹا اسٹاک کے طور پر، خام وزن",
+      "desc_ur": "تجزیہ کاروں نے کہا کہ مارکیٹ میں تیزی کو روکنے کا اہم عنصر برینٹ کروڈ کی قیمت کو مضبوط کرنا تھا، جو کہ امریکہ اور ایران کے درمیان امن معاہدے کی عدم موجودگی میں ایک بار پھر 89 ڈالر فی بیرل سے اوپر چلا گیا ہے۔"
+    },
+    {
+      "title": "Dollar ticks up on Iran tensions, with US data in focus",
+      "desc": "Aug 12 : The U.S. dollar ticked higher on Wednesday, underpinned by renewed Gulf tensions, with markets focused on upcoming U.S. economic data for signals on the Fed's policy trajectory.Oil prices edged up after the United States and Yemen's Iran-aligned Hout…",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/dollar-ticks-up-iran-tensions-us-data-in-focus-6313356",
+      "time": "2026-08-12T08:03:57",
+      "country": "Iran",
+      "title_ur": "امریکی اعداد و شمار کو فوکس کرنے کے ساتھ، ڈالر ایران کشیدگی پر ٹک رہا ہے۔",
+      "desc_ur": "12 اگست: بدھ کے روز امریکی ڈالر کی قیمت میں اضافہ ہوا، جس کی بنیاد خلیجی کشیدگی میں اضافہ ہوا، مارکیٹوں کی توجہ آئندہ امریکی اقتصادی اعداد و شمار پر مرکوز تھی جو کہ فیڈ کی پالیسی کی رفتار سے متعلق اشارے پر مرکوز تھی۔ امریکہ اور یمن کے ایران سے منسلک ہاؤٹ کے بعد تیل کی قیمتوں میں اضافہ ہوا…"
+    },
+    {
+      "title": "Hyman Rickover and the Birth of Nuclear Power",
+      "desc": "Editor’s note: This is the eighth article in a limited series celebrating American defense technologies born from wartime and their effects on broader national security, politics, and society. This series will run for several weeks to commemorate America’s 25…",
+      "source": "War on the Rocks",
+      "url": "https://warontherocks.com/cogs-of-war/hyman-rickover-and-the-birth-of-nuclear-power/",
+      "time": "2026-08-12T08:00:51",
+      "country": "US",
+      "title_ur": "ہیمن رک اوور اور نیوکلیئر پاور کی پیدائش",
+      "desc_ur": "ایڈیٹر کا نوٹ: جنگ کے وقت سے پیدا ہونے والی امریکی دفاعی ٹیکنالوجیز اور وسیع تر قومی سلامتی، سیاست اور معاشرے پر ان کے اثرات کا جشن منانے والی محدود سیریز میں یہ آٹھواں مضمون ہے۔ یہ سلسلہ امریکہ کی 25 ویں سالگرہ کی یاد میں کئی ہفتوں تک چلے گا۔"
+    },
+    {
+      "title": "What’s Quebec identity anyway? These Quebecers had a lot to say",
+      "desc": "What does Quebec identity mean — and who defines it? Ahead of the Oct. 5 provincial election, CBC's Sudha Krishnan sat down with a cross section of Quebecers, and they offered a wealth of perspectives.",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/news/canada/montreal/quebec-identity-belonging-diversity-9.7302738",
+      "time": "2026-08-12T08:00:00",
+      "country": "International",
+      "title_ur": "ویسے بھی کیوبیک کی شناخت کیا ہے؟ ان کیوبیکرز کے پاس کہنے کو بہت کچھ تھا۔",
+      "desc_ur": "کیوبیک شناخت کا کیا مطلب ہے - اور کون اس کی تعریف کرتا ہے؟ 5 اکتوبر کے صوبائی انتخابات سے پہلے، سی بی سی کی سدھا کرشنن کیوبیکرز کے ایک کراس سیکشن کے ساتھ بیٹھ گئیں، اور انہوں نے بہت سارے تناظر پیش کیے۔"
+    },
+    {
+      "title": "DJ KOROLOVA HEADLINES VELO'S INAUGURAL \"ECHOES OF TOMORROWLAND\" EVENT IN IBIZA TO CELEBRATE SELF-EXPRESSION",
+      "desc": "Headlined by top DJ Korolova, Velo's inaugural event brought the spirit of Tomorrowland to Ibiza, inviting music fans to embrace their own originality, and prove the dancefloor has no borders LONDON, Aug. 12, 2026 /PRNewswire/ -- Velo hosted its inaugural \"Ec…",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/dj-korolova-headlines-velos-inaugural-echoes-of-tomorrowland-event-in-ibiza-to-celebrate-self-expression-302848754.html",
+      "time": "2026-08-12T08:00:00",
+      "country": "UK",
+      "title_ur": "ڈی جے کورولووا نے ابیزا میں ویلو کے افتتاحی \"ایکوز آف ٹومورولینڈ\" کی شہ سرخیاں بنائیں",
+      "desc_ur": "سرفہرست DJ Korolova کی سربراہی میں، Velo کے افتتاحی پروگرام نے Tomorrowland کی روح کو Ibiza میں لایا، موسیقی کے شائقین کو دعوت دی کہ وہ اپنی اصلیت کو اپنائیں، اور یہ ثابت کریں کہ ڈانس فلور کی کوئی سرحد نہیں ہے لندن، 12 اگست 2026/PRNewswire/ -- Velo نے اپنے افتتاحی \"Ec…"
+    },
+    {
+      "title": "Putin “gifted” Trump an American prisoner: What lies behind his gift and…why now?",
+      "desc": "Robert Gilman was released after reports that he was close to death - Sky News sees an attempt to reestablish closer ties with the White House as pressure on Russia mounts\nThe post Putin “gifted” Trump an American prisoner: What lies behind his gift and…why n…",
+      "source": "Protothema.gr",
+      "url": "https://en.protothema.gr/2026/08/12/putin-gifted-trump-an-american-prisoner-what-lies-behind-his-gift-andwhy-now/",
+      "time": "2026-08-12T07:57:52",
+      "country": "Russia",
+      "title_ur": "پوتن نے ٹرمپ کو ایک امریکی قیدی کا تحفہ دیا: اس کے تحفے کے پیچھے کیا ہے اور… اب کیوں؟",
+      "desc_ur": "رابرٹ گلمین کو ان اطلاعات کے بعد رہا کیا گیا کہ وہ موت کے قریب تھے - اسکائی نیوز روس پر دباؤ بڑھتے ہی وائٹ ہاؤس کے ساتھ قریبی تعلقات بحال کرنے کی کوشش دیکھ رہا ہے۔\nپوٹن نے ٹرمپ کو ایک امریکی قیدی کا تحفہ دیا: اس کے تحفے کے پیچھے کیا ہے اور کیوں…"
+    },
+    {
+      "title": "Companies embrace IPOs but investors turn more cautious",
+      "desc": "The enthusiasm of companies seeking alternative financing through initial public offerings (IPOs) continues to grow, with firms awaiting approval from Türkiye’s Capital Markets Board (SPK) gradually making their way onto the stock exchange.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/companies-embrace-ipos-but-investors-turn-more-cautious-225526",
+      "time": "2026-08-12T07:56:47",
+      "country": "US",
+      "title_ur": "کمپنیاں IPO قبول کرتی ہیں لیکن سرمایہ کار زیادہ محتاط ہو جاتے ہیں۔",
+      "desc_ur": "ابتدائی عوامی پیشکشوں (IPOs) کے ذریعے متبادل مالی اعانت کی تلاش کرنے والی کمپنیوں کا جوش بڑھتا ہی جا رہا ہے، ترکی کے کیپیٹل مارکیٹس بورڈ (SPK) سے منظوری کی منتظر فرمیں آہستہ آہستہ اسٹاک ایکسچینج میں اپنا راستہ بنا رہی ہیں۔"
+    },
+    {
+      "title": "Tension building in the Arctic? Putin warns 'NATO infiltrators'; says 'Russia will respond in kind'",
+      "desc": "Russian President Vladimir Putin on Wednesday warned that tensions are building in the Arctic and accused NATO of infiltrating the Asia-Pacific region. He also called the seizure of Russian trade vessels by EU countries piracy, warning that Russia would respo…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/tension-building-in-the-arctic-putin-warns-nato-infiltrators-says-russia-will-respond-in-kind/articleshow/133175208.cms",
+      "time": "2026-08-12T07:54:57",
+      "country": "Russia",
+      "title_ur": "آرکٹک میں کشیدگی کی عمارت؟ پیوٹن نے 'نیٹو کے دراندازوں' کو خبردار کیا؛ کہتے ہیں 'روس جواب دے گا'",
+      "desc_ur": "روسی صدر ولادیمیر پوتن نے بدھ کے روز خبردار کیا کہ آرکٹک میں کشیدگی بڑھ رہی ہے اور نیٹو پر ایشیا پیسفک کے علاقے میں دراندازی کا الزام لگایا ہے۔ انہوں نے یورپی یونین کے ممالک کی طرف سے روسی تجارتی جہازوں کے قبضے کو بحری قزاقی قرار دیتے ہوئے متنبہ کیا کہ روس جوابی کارروائی کرے گا…"
     }
   ],
   "pakistan": [
     {
-      "title": "Pakistan says 3 nationals killed in Houthi Red Sea attack",
-      "desc": "Pakistan's foreign minister has said Islamabad \"strongly condemns\" Houthi attacks on commercial vessels while offering condolences to the families of the dead.",
-      "source": "DW (English)",
-      "url": "https://www.dw.com/en/pakistan-says-3-nationals-killed-in-houthi-red-sea-attack/a-78330015",
-      "time": "2026-08-12T06:42:00",
+      "title": "India's small steelmakers could save money and cut emissions with switch to renewable power",
+      "desc": "Smaller steel firms in India can reduce electricity bills by one-third and cut carbon emissions by adopting renewable energy, which will offer substantial annual cost savings for these companies. For them, joint investments in clean power projects present a p…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/steel/indias-small-steelmakers-could-save-money-and-cut-emissions-with-switch-to-renewable-power/articleshow/133174404.cms",
+      "time": "2026-08-12T07:12:10",
       "country": "Pakistan",
-      "title_ur": "پاکستان کا کہنا ہے کہ حوثی بحیرہ احمر کے حملے میں 3 شہری مارے گئے۔",
-      "desc_ur": "پاکستان کے وزیر خارجہ نے کہا ہے کہ اسلام آباد تجارتی جہازوں پر حوثیوں کے حملوں کی \"سختی سے مذمت\" کرتا ہے اور مرنے والوں کے اہل خانہ سے تعزیت کرتا ہے۔"
-    },
-    {
-      "title": "Pentagon Drafting Nuclear Strategy to Expand Tactical Weapons Options, NBC Reports",
-      "desc": "The Pentagon is drafting a new nuclear strategy that emphasizes tactical nuclear weapons and expands presidential options in a potential nuclear conflict, according to NBC News, as reported by Antiwar.com. [1] The strategy is being overseen by Elbridge Colby,…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-08-12-pentagon-drafting-nuclear-strategy-tactical-weapons-options.html",
-      "time": "2026-08-12T06:00:00",
-      "country": "Pakistan",
-      "title_ur": "پینٹاگون ٹیکٹیکل ہتھیاروں کے اختیارات کو بڑھانے کے لیے جوہری حکمت عملی کا مسودہ تیار کر رہا ہے، NBC رپورٹس",
-      "desc_ur": "این بی سی نیوز کے مطابق، اینٹی وار ڈاٹ کام کی رپورٹ کے مطابق، پینٹاگون ایک نئی جوہری حکمت عملی کا مسودہ تیار کر رہا ہے جس میں ٹیکٹیکل جوہری ہتھیاروں پر زور دیا گیا ہے اور ممکنہ جوہری تنازعے میں صدارتی اختیارات کو وسعت دی گئی ہے۔ [1] حکمت عملی کی نگرانی ایلبرج کولبی کر رہی ہے،…"
+      "title_ur": "ہندوستان کے چھوٹے اسٹیل بنانے والے پیسہ بچا سکتے ہیں اور قابل تجدید توانائی پر سوئچ کے ساتھ اخراج کو کم کر سکتے ہیں",
+      "desc_ur": "ہندوستان میں اسٹیل کی چھوٹی کمپنیاں قابل تجدید توانائی کو اپنا کر بجلی کے بلوں کو ایک تہائی تک کم کر سکتی ہیں اور کاربن کے اخراج کو کم کر سکتی ہیں، جس سے ان کمپنیوں کے لیے سالانہ لاگت میں خاطر خواہ بچت ہو گی۔ ان کے لیے کلین پاور پراجیکٹس میں مشترکہ سرمایہ کاری ایک پی…"
     }
   ],
   "business": {
@@ -195,8 +185,8 @@
       {
         "date": "2026-08-14",
         "day": "جمعہ",
-        "high": 35,
-        "low": 26,
+        "high": 34,
+        "low": 27,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
         "precip": 76
@@ -205,16 +195,16 @@
         "date": "2026-08-15",
         "day": "ہفتہ",
         "high": 34,
-        "low": 26,
-        "condition": "Thunderstorm",
-        "condition_ur": "گرج چمک",
+        "low": 25,
+        "condition": "Showers",
+        "condition_ur": "بارش",
         "precip": 88
       },
       {
         "date": "2026-08-16",
         "day": "اتوار",
         "high": 34,
-        "low": 24,
+        "low": 26,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
         "precip": 67
@@ -231,7 +221,7 @@
       {
         "date": "2026-08-18",
         "day": "منگل",
-        "high": 34,
+        "high": 33,
         "low": 25,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
@@ -241,7 +231,7 @@
         "date": "2026-08-19",
         "day": "بدھ",
         "high": 31,
-        "low": 26,
+        "low": 24,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
         "precip": 76
