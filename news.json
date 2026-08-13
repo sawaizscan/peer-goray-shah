@@ -1,158 +1,178 @@
 {
-  "generated": "2026-08-13T20:35:16Z",
+  "generated": "2026-08-13T21:38:23Z",
   "world": [
     {
-      "title": "Bruce Blakeman has defiant message for Dems angry about his AI ads on Hochul, Mamdani: ‘Get a life’",
-      "desc": "Republican gubernatorial candidate Bruce Blakeman told Democrats to get over it after party leaders filed a complaint against him for a series of AI campaign ads.  Blakeman said he’d continue to use artificial intelligence ads despite a complaint to the Board…",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/08/12/us-news/bruce-blakeman-has-defiant-message-for-dems-angry-about-his-ai-ads-on-hochul-mamdani/",
-      "time": "2026-08-12T20:33:56",
-      "country": "US",
-      "title_ur": "بروس بلیک مین کا ہوچل، مامدانی پر اپنے AI اشتہارات کے بارے میں ناراض ڈیمز کے لیے منحرف پیغام ہے: 'زندگی حاصل کریں'",
-      "desc_ur": "ریپبلکن گورنری کے امیدوار بروس بلیک مین نے ڈیموکریٹس سے کہا کہ وہ اس پر قابو پالیں جب پارٹی کے رہنماؤں نے ان کے خلاف AI مہم کے اشتہارات کے سلسلے میں شکایت درج کرائی۔  بلیک مین نے کہا کہ وہ بورڈ کو شکایت کے باوجود مصنوعی ذہانت کے اشتہارات کا استعمال جاری رکھیں گے…"
-    },
-    {
-      "title": "Censorship in LA School District Could Become National Norm, Educators Warn",
-      "desc": "Educators in the country’s second-largest school district are facing repression in the wake of a new California law.",
-      "source": "Truthout",
-      "url": "https://truthout.org/articles/censorship-in-la-school-district-could-become-national-norm-educators-warn/",
-      "time": "2026-08-12T20:33:53",
-      "country": "International",
-      "title_ur": "ایل اے اسکول ڈسٹرکٹ میں سنسرشپ قومی معمول بن سکتی ہے، ماہرین تعلیم نے خبردار کیا۔",
-      "desc_ur": "ملک کے دوسرے سب سے بڑے اسکول ڈسٹرکٹ میں اساتذہ کو کیلیفورنیا کے نئے قانون کے نتیجے میں جبر کا سامنا ہے۔"
-    },
-    {
-      "title": "Is this image of Trump hiding in plane catering cart authentic? Don't believe your eyes",
-      "desc": "The image circulated following a New York Times report that Trump used an airplane catering container to secretly transfer from one plane to another.",
-      "source": "Snopes.com",
-      "url": "https://www.snopes.com//fact-check/trump-catering-cart/",
-      "time": "2026-08-12T20:33:00",
-      "country": "US",
-      "title_ur": "کیا طیارہ کیٹرنگ کارٹ میں چھپے ٹرمپ کی یہ تصویر مستند ہے؟ اپنی آنکھوں پر یقین نہیں آتا",
-      "desc_ur": "یہ تصویر نیویارک ٹائمز کی ایک رپورٹ کے بعد گردش کر رہی ہے جس میں کہا گیا تھا کہ ٹرمپ نے ہوائی جہاز کے کیٹرنگ کنٹینر کو خفیہ طور پر ایک جہاز سے دوسرے جہاز میں منتقل کرنے کے لیے استعمال کیا۔"
-    },
-    {
-      "title": "US political system is a ‘fraud’ – Tucker Carlson (VIDEO)",
-      "desc": "Journalist Tucker Carlson has accused US political leaders of dividing voters while failing to represent the interests of ordinary Americans Read Full Article at RT.com",
-      "source": "RT",
-      "url": "https://www.rt.com/news/644177-us-deep-state-tucker-carlson/",
-      "time": "2026-08-12T20:31:23",
-      "country": "US",
-      "title_ur": "امریکی سیاسی نظام ایک 'فریب' ہے - ٹکر کارلسن (ویڈیو)",
-      "desc_ur": "صحافی ٹکر کارلسن نے امریکی سیاسی رہنماؤں پر ووٹروں کو تقسیم کرنے کا الزام لگایا ہے جبکہ وہ عام امریکیوں کے مفادات کی نمائندگی کرنے میں ناکام رہے ہیں RT.com پر مکمل مضمون پڑھیں"
-    },
-    {
-      "title": "Crude Steady as Iran Risks Persist",
-      "desc": "Crude prices were little changed as stalled Hormuz negotiations offset a massive increase in US oil inventories.",
-      "source": "Rigzone",
-      "url": "https://www.rigzone.com/news/wire/crude_steady_as_iran_risks_persist-12-aug-2026-184362-article/",
-      "time": "2026-08-12T20:29:26",
+      "title": "GOP Candidate Slammed for Telling Voters to Deal With Gas Prices by Cutting Back on Starbucks",
+      "desc": "Minnesota Senate candidate Michele Tafoya advised voters to buy less Starbucks as a way to deal with high gas prices resulting from the Iran war.",
+      "source": "Rolling Stone",
+      "url": "http://www.rollingstone.com/politics/politics-news/michele-tafoya-votrs-gas-prices-starbucks-1235607788/",
+      "time": "2026-08-12T21:33:57",
       "country": "Iran",
-      "title_ur": "خام تیل مستحکم ہے کیونکہ ایران کے خطرات برقرار ہیں۔",
-      "desc_ur": "خام تیل کی قیمتوں میں کچھ تبدیلی نہیں کی گئی کیونکہ تعطل کا شکار ہرمز مذاکرات نے امریکی تیل کی ذخائر میں بڑے پیمانے پر اضافے کو پورا کیا۔"
+      "title_ur": "جی او پی امیدوار نے ووٹروں کو سٹاربکس پر کمی کرکے گیس کی قیمتوں سے نمٹنے کے لیے کہا",
+      "desc_ur": "مینیسوٹا سینیٹ کے امیدوار مشیل ٹافویا نے ووٹروں کو مشورہ دیا کہ وہ ایران کی جنگ کے نتیجے میں گیس کی بلند قیمتوں سے نمٹنے کے لیے کم اسٹاربکس خریدیں۔"
     },
     {
-      "title": "Bazball-era curfews over as Root demands England players 'be adults'",
-      "desc": "England skipper Joe Root says the midnight curfews in place at the end of the Bazball reign have been ditched as he called on his players to \"be adults\" in the new era.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-08-13/joe-root-england-captain-curfew-rules-end-after-bazball/107031132",
-      "time": "2026-08-12T20:27:29",
-      "country": "International",
-      "title_ur": "بز بال دور کا کرفیو ختم ہوگیا جب روٹ نے انگلینڈ کے کھلاڑیوں سے 'بالغ' ہونے کا مطالبہ کیا",
-      "desc_ur": "انگلینڈ کے کپتان جو روٹ کا کہنا ہے کہ بازبال کے دور کے اختتام پر آدھی رات کے کرفیو کو ختم کر دیا گیا ہے کیونکہ انہوں نے اپنے کھلاڑیوں سے نئے دور میں \"بالغ بننے\" کا مطالبہ کیا تھا۔"
+      "title": "Houthi attack kills six in Red Sea; Trump slams Iran as hopes for Hormuz Strait deal dim - CNBC",
+      "desc": "Houthi attack kills six in Red Sea; Trump slams Iran as hopes for Hormuz Strait deal dimCNBC Iran vows to close Hormuz Strait until US lifts sanctions as Trump rejects Tehran's demandsFox News Israel says Gaza drone strike targeted a Hamas commander, and othe…",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184943274",
+      "time": "2026-08-12T21:33:27",
+      "country": "Iran",
+      "title_ur": "بحیرہ احمر میں حوثیوں کے حملے میں چھ افراد ہلاک ٹرمپ نے ایران پر آبنائے ہرمز معاہدے کی امیدوں کو مدھم قرار دیا - CNBC",
+      "desc_ur": "بحیرہ احمر میں حوثیوں کے حملے میں چھ افراد ہلاک ٹرمپ نے آبنائے ہرمز معاہدے کی امید کے طور پر ایران پر تنقید کی"
     },
     {
-      "title": "Israel vows to keep troops in Lebanon, Gaza and Syria",
-      "desc": "Israeli defence minister Israel Katz has said that Israel “will under no circumstances” withdraw its troops.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/israel-vows-to-keep-troops-in-lebanon-gaza-and-syria",
-      "time": "2026-08-12T20:26:07",
+      "title": "How did the IDF become the army of wimpish condemnations?",
+      "desc": "The Israel Defense Forces \"condemn.\" It's enough to make you howl. The most powerful military in the Middle East, in the role of an observer from the World Coun",
+      "source": "Haaretz",
+      "url": "https://www.haaretz.com/opinion/2026-08-13/ty-article-opinion/.premium/how-did-the-idf-become-the-army-of-wimpish-condemnations/0000019f-f75d-d101-a5bf-ff5d92750000",
+      "time": "2026-08-12T21:28:36",
       "country": "Israel",
-      "title_ur": "اسرائیل نے لبنان، غزہ اور شام میں اپنی فوجیں رکھنے کا عزم کیا۔",
-      "desc_ur": "اسرائیلی وزیر دفاع اسرائیل کاٹز نے کہا ہے کہ اسرائیل \"کسی بھی حالت میں\" اپنی فوجیں نہیں نکالے گا۔"
+      "title_ur": "آئی ڈی ایف بزدل مذمت کی فوج کیسے بن گئی؟",
+      "desc_ur": "اسرائیل کی دفاعی افواج \"مذمت کرتے ہیں۔\" یہ آپ کو رونے کے لیے کافی ہے۔ مشرق وسطیٰ کی سب سے طاقتور فوج، عالمی ملک کے مبصر کے کردار میں"
     },
     {
-      "title": "Karoline Leavitt QUITS White House in shock departure as she reveals emotional reason behind her decision",
-      "desc": "Donald Trump has announced that Karoline Leavitt will step down as White House Press Secretary at the end of the month.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16048289/karoline-leavitt-quits-white-house.html",
-      "time": "2026-08-12T20:21:17",
-      "country": "US",
-      "title_ur": "کیرولین لیویٹ نے صدمے میں وائٹ ہاؤس چھوڑ دیا کیونکہ اس نے اپنے فیصلے کے پیچھے جذباتی وجہ بتائی",
-      "desc_ur": "ڈونلڈ ٹرمپ نے اعلان کیا ہے کہ کیرولین لیویٹ ماہ کے آخر میں وائٹ ہاؤس کی پریس سیکرٹری کے عہدے سے سبکدوش ہو جائیں گی۔"
-    },
-    {
-      "title": "Video: 'Kimmel Live' Host Anthony Anderson Jokes About Trump Dying and Burning in Hell",
-      "desc": "A reported \"credible threat\" from Iran on the life of President Donald Trump last month forced Secret Service agents to secretly swap Air Force One to transport Trump out of Ankara, Turkey, for a military plane to the United Kingdom. So, of course, a Hollywoo…",
-      "source": "Breitbart News",
-      "url": "https://www.breitbart.com/entertainment/2026/08/12/video-kimmel-live-host-anthony-anderson-jokes-about-trump-dying-and-burning-in-hell/",
-      "time": "2026-08-12T20:16:01",
-      "country": "Iran",
-      "title_ur": "ویڈیو: 'کمل لائیو' کے میزبان انتھونی اینڈرسن نے ٹرمپ کے مرنے اور جہنم میں جلنے کے بارے میں مذاق کیا",
-      "desc_ur": "گزشتہ ماہ صدر ڈونلڈ ٹرمپ کی زندگی پر ایران کی طرف سے ایک اطلاع شدہ \"قابل اعتماد خطرے\" نے خفیہ سروس کے ایجنٹوں کو خفیہ طور پر ایئر فورس ون کو تبدیل کرنے پر مجبور کیا تاکہ ٹرمپ کو ترکی کے انقرہ سے باہر ایک فوجی طیارے میں برطانیہ لے جایا جا سکے۔ تو، یقیناً، ایک ہالی وو…"
-    },
-    {
-      "title": "‘Platformicide’ of Palestine: Activists struggle to be heard on Meta",
-      "desc": "Report by NGO 7amleh, Utrecht University analyses 3,520 cases of digital rights violations against Palestinians.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/8/12/platformicide-of-palestine-activists-struggle-to-be-heard-on-meta",
-      "time": "2026-08-12T20:15:38",
-      "country": "International",
-      "title_ur": "فلسطین کا 'پلیٹ فارم مار': کارکن میٹا پر سننے کے لئے جدوجہد کرتے ہیں۔",
-      "desc_ur": "غیر سرکاری تنظیم 7amleh کی رپورٹ، Utrecht یونیورسٹی نے فلسطینیوں کے خلاف ڈیجیٹل حقوق کی خلاف ورزیوں کے 3,520 کیسز کا تجزیہ کیا۔"
-    },
-    {
-      "title": "A2Z Reports Second Quarter 2026 Revenue of $5.9 Million",
-      "desc": "Delivery of Carts Nearly Doubled Sequentially Commenced Deliveries to New Supermarket Customer During the Second Quarter Successful Execution Underscores Confidence in 2026 Year-End Target of 10,000 Carts; 3,350 Total Units Delivered to Customers as of June 3…",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/a2z-reports-second-quarter-2026-revenue-of-5-9-million-302850045.html",
-      "time": "2026-08-12T20:15:00",
-      "country": "US",
-      "title_ur": "A2Z نے 2026 کی دوسری سہ ماہی میں $5.9 ملین کی آمدنی کی اطلاع دی۔",
-      "desc_ur": "گاڑیوں کی ڈیلیوری تقریباً دوگنی ہو گئی دوسری سہ ماہی کے دوران نئے سپر مارکیٹ گاہک کو ڈیلیوری شروع کر دی گئی کامیاب عملدرآمد 2026 کے سال کے آخر میں 10,000 کارٹس کے ہدف پر اعتماد کو واضح کرتا ہے۔ 3 جون تک صارفین کو کل 3,350 یونٹس فراہم کیے گئے…"
-    },
-    {
-      "title": "I Doubt Trump Cares How His Unending War Has Affected Our Naval Service Members",
-      "desc": "After eight months on a boat suffering from food shortages, mold, and unclean water, sailors are jumping overboard. The president better fix whatever’s happening on the USS Abraham Lincoln fast.",
-      "source": "esquire.com",
-      "url": "https://www.esquire.com/news-politics/politics/a73416248/navy-working-conditions-report/",
-      "time": "2026-08-12T20:14:38",
-      "country": "US",
-      "title_ur": "مجھے شک ہے کہ ٹرمپ اس بات کی پرواہ کرتے ہیں کہ ان کی نہ ختم ہونے والی جنگ نے ہمارے نیول سروس کے ارکان کو کس طرح متاثر کیا ہے۔",
-      "desc_ur": "کھانے کی قلت، سڑنا اور ناپاک پانی سے دوچار کشتی پر آٹھ ماہ گزرنے کے بعد، ملاح اوپر سے چھلانگیں لگا رہے ہیں۔ صدر بہتر طور پر یو ایس ایس ابراہم لنکن پر جو کچھ ہو رہا ہے اسے تیزی سے ٹھیک کریں۔"
-    },
-    {
-      "title": "How an AIPAC endorsement became a liability",
-      "desc": "Pro-Palestinian Jewish American demonstrators rally in Manhattan on February 22, 2024. | Selcuk Acar/Anadolu via Getty Images \nThe American Israel Public Affairs Committee — better known by its short name, AIPAC — bills itself as a bipartisan advocate “for po…",
+      "title": "Trump took aides off Air Force One amid Iran threat but left Rubio and other Cabinet members: WaPo",
+      "desc": "While President Trump was switching planes due to an Iranian threat, some of his Cabinet officials were left behind on Air Force ...",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/bab7401d6ffd72df",
-      "time": "2026-08-12T20:13:58",
-      "country": "Israel",
-      "title_ur": "AIPAC کی توثیق کس طرح ایک ذمہ داری بن گئی۔",
-      "desc_ur": "فلسطینی حامی یہودی امریکی مظاہرین 22 فروری 2024 کو مین ہٹن میں ریلی۔ Selcuk Acar/Anadolu بذریعہ گیٹی امیجز \nامریکن اسرائیل پبلک افیئرز کمیٹی - جسے اپنے مختصر نام، AIPAC سے زیادہ جانا جاتا ہے - خود کو ایک دو طرفہ وکیل کے طور پر \"پو…"
-    },
-    {
-      "title": "Data Shows Iran War Reignited Inflation, Wrecked Economy For Working Americans",
-      "desc": "Middle- and lower-income Americans are bearing the financial brunt of a geopolitical foreign policy choice. Fresh Consumer Price Index (CPI) data and wage tracking confirm that the recent resurgence in inflation was directly catalyzed by the outbreak of war i…",
-      "source": "The Daily Caller",
-      "url": "https://dailycaller.com/2026/08/12/iran-war-affects-cpi",
-      "time": "2026-08-12T20:11:22",
+      "url": "https://biztoc.com/x/bb83263669dfa1b8",
+      "time": "2026-08-12T21:26:15",
       "country": "Iran",
-      "title_ur": "اعداد و شمار سے پتہ چلتا ہے کہ ایران جنگ نے دوبارہ مہنگائی کو جنم دیا، کام کرنے والے امریکیوں کے لیے تباہ شدہ معیشت",
-      "desc_ur": "درمیانی اور کم آمدنی والے امریکی جغرافیائی سیاسی خارجہ پالیسی کے انتخاب کا مالی نقصان اٹھا رہے ہیں۔ تازہ کنزیومر پرائس انڈیکس (سی پی آئی) کے اعداد و شمار اور اجرت سے باخبر رہنا اس بات کی تصدیق کرتا ہے کہ مہنگائی میں حالیہ بحالی جنگ i…"
+      "title_ur": "ٹرمپ نے ایران کے خطرے کے درمیان ایئر فورس ون کے معاونین کو ہٹا دیا لیکن روبیو اور دیگر کابینہ کے ارکان کو چھوڑ دیا: WaPo",
+      "desc_ur": "جب صدر ٹرمپ ایرانی خطرے کی وجہ سے ہوائی جہاز تبدیل کر رہے تھے، تو ان کی کابینہ کے کچھ اہلکار ایئر فورس پر پیچھے رہ گئے..."
     },
     {
-      "title": "Languages are disappearing, and the problem is political",
-      "desc": "Language loss is often a reluctant choice made to escape violence, not a willing choice made to gain benefits.",
-      "source": "The Conversation Africa",
-      "url": "https://theconversation.com/languages-are-disappearing-and-the-problem-is-political-288917",
-      "time": "2026-08-12T20:10:46",
+      "title": "Israel using the Judea and Samaria Militia to enforce Palestinian expulsion",
+      "desc": "Maj. Gen. Avi Bluth, head of the IDF Central Command, and Brig. Gen. Niso Guetta, head of the Border Police for the Judea and Samaria District, oversaw the succ",
+      "source": "Haaretz",
+      "url": "https://www.haaretz.com/opinion/editorial/2026-08-13/ty-article-opinion/israel-using-the-judea-and-samaria-militia-to-enforce-palestinian-expulsion/0000019f-f786-db94-a3df-ff876c9b0000",
+      "time": "2026-08-12T21:22:58",
+      "country": "Israel",
+      "title_ur": "اسرائیل یہودیوں اور سامریہ ملیشیا کو فلسطینیوں کی بے دخلی کو نافذ کرنے کے لیے استعمال کر رہا ہے۔",
+      "desc_ur": "IDF سنٹرل کمانڈ کے سربراہ میجر جنرل ایوی بلوتھ اور بریگیڈیئر۔ یہوداہ اور سامریہ ضلع کے بارڈر پولیس کے سربراہ جنرل نیسو گوئٹا نے ایس سی سی کی نگرانی کی۔"
+    },
+    {
+      "title": "Oman says the oil spill from a grounded tanker has reached its coastline",
+      "desc": "Oil leaking from a tanker grounded off the coast of Oman is not only endangering a nearby island but has now also reached beaches on the Gulf Arab country’s mainland, to the north of the island",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/International/wireStory/oman-oil-spill-grounded-tanker-reached-coastline-135592500",
+      "time": "2026-08-12T21:21:20",
       "country": "International",
-      "title_ur": "زبانیں ختم ہو رہی ہیں، اور مسئلہ سیاسی ہے۔",
-      "desc_ur": "زبان کا نقصان اکثر تشدد سے بچنے کے لیے ایک ہچکچاہٹ کا انتخاب ہوتا ہے، نہ کہ فوائد حاصل کرنے کے لیے تیار کردہ انتخاب۔"
+      "title_ur": "عمان کا کہنا ہے کہ گراؤنڈ ٹینکر سے تیل کا اخراج اس کی ساحلی پٹی تک پہنچ گیا ہے۔",
+      "desc_ur": "عمان کے ساحل پر گرے ہوئے ایک ٹینکر سے تیل کا اخراج نہ صرف قریبی جزیرے کو خطرے میں ڈال رہا ہے بلکہ اب یہ جزیرے کے شمال میں خلیجی عرب ملک کی سرزمین کے ساحلوں تک بھی پہنچ گیا ہے۔"
+    },
+    {
+      "title": "The Sweet Gesture Rosie O’Donnell Gets From Tom Cruise Every Year (It’s NOT The Christmas Cake)",
+      "desc": "That's so thoughtful of him.",
+      "source": "CinemaBlend",
+      "url": "https://www.cinemablend.com/television/the-sweet-gesture-rosie-odonnell-gets-from-tom-cruise-every-year-its-not-the-christmas-cake",
+      "time": "2026-08-12T21:15:00",
+      "country": "International",
+      "title_ur": "میٹھا اشارہ روزی او ڈونل ہر سال ٹام کروز سے ملتا ہے (یہ کرسمس کیک نہیں ہے)",
+      "desc_ur": "یہ اس کے بارے میں بہت سوچا ہے۔"
+    },
+    {
+      "title": "US said to oppose Katz's Lebanon presence remarks",
+      "desc": "The Trump administration has reportedly voiced disapproval of Israeli Defense Minister Israel Katz’s comments on maintaining a military presence in southern Lebanon, a source told Axios correspondent ...",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/0ead46672f469863",
+      "time": "2026-08-12T21:14:58",
+      "country": "Israel",
+      "title_ur": "امریکہ نے کاٹز کے لبنان میں موجودگی کے ریمارکس کی مخالفت کرنے کا کہا",
+      "desc_ur": "ٹرمپ انتظامیہ نے مبینہ طور پر جنوبی لبنان میں فوجی موجودگی کو برقرار رکھنے کے بارے میں اسرائیلی وزیر دفاع اسرائیل کاٹز کے تبصروں پر ناپسندیدگی کا اظہار کیا ہے، ایک ذرائع نے Axios کے نمائندے کو بتایا ..."
+    },
+    {
+      "title": "Mi-24 Hind Plays ‘Adversary’ in U.S. Marine Corps Exercise",
+      "desc": "Since 2020, two Mi-24D Hind helicopter gunships have provided invaluable threat replication to the U.S. Marine Corps, Army and Air Force. The participation of a Russian-made Mi-24D Hind attack helicopter in the U.S. Marine Corps Adversary Force Exercise (AFX)…",
+      "source": "Theaviationist.com",
+      "url": "https://theaviationist.com/2026/08/12/mi-24-hind-plays-adversary-usmc-exercise/",
+      "time": "2026-08-12T21:13:24",
+      "country": "Russia",
+      "title_ur": "ایم آئی 24 ہند نے امریکی میرین کور کی مشق میں 'مخالف' کا کردار ادا کیا۔",
+      "desc_ur": "2020 کے بعد سے، دو Mi-24D ہند ہیلی کاپٹر گن شپ نے امریکی میرین کور، آرمی اور ایئر فورس کو خطرے کی انمول نقل فراہم کی ہے۔ یو ایس میرین کور ایڈورسری فورس ایکسرسائز (اے ایف ایکس) میں روسی ساختہ ایم آئی 24 ڈی ہند حملہ ہیلی کاپٹر کی شرکت…"
+    },
+    {
+      "title": "What to Watch in Zambia’s Elections",
+      "desc": "The country’s natural resources have put the vote under intense international scrutiny.",
+      "source": "Foreign Policy",
+      "url": "http://foreignpolicy.com/2026/08/12/zambia-elections-hichilema-economic-policy-us-china-copper-mines/",
+      "time": "2026-08-12T21:06:01",
+      "country": "International",
+      "title_ur": "زیمبیا کے انتخابات میں کیا دیکھنا ہے۔",
+      "desc_ur": "ملک کے قدرتی وسائل نے ووٹ کو شدید بین الاقوامی جانچ پڑتال میں ڈال دیا ہے۔"
+    },
+    {
+      "title": "What Netanyahu really reveals about Israel by promoting a Palo Alto shark",
+      "desc": "On Monday, I again received some messages from employees who had been locked in their offices for two hours against their will, with no advance warning or apolo",
+      "source": "Haaretz",
+      "url": "https://www.haaretz.com/opinion/2026-08-13/ty-article-opinion/.premium/what-netanyahu-really-reveals-about-israel-by-promoting-a-palo-alto-shark/0000019f-f75d-d929-afff-f7df82b60000",
+      "time": "2026-08-12T21:04:35",
+      "country": "Israel",
+      "title_ur": "نیتن یاہو نے پالو آلٹو شارک کو فروغ دے کر اسرائیل کے بارے میں واقعی کیا ظاہر کیا۔",
+      "desc_ur": "پیر کے روز، مجھے ایک بار پھر ایسے ملازمین کی طرف سے کچھ پیغامات موصول ہوئے جو ان کی مرضی کے خلاف دو گھنٹے تک اپنے دفاتر میں بند تھے، بغیر کسی پیشگی وارننگ یا معذرت کے۔"
+    },
+    {
+      "title": "Bail hearing for Halifax man charged in U.S. consulate bomb threat case delayed again",
+      "desc": "Halifax resident Ali Assakereh was charged Tuesday with uttering threats and public mischief after police said they found his vehicle parked near the consulate with a propane tank and flammable liquids inside.",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/news/canada/nova-scotia/bail-hearing-man-charged-bomb-threat-case-delayed-again-9.7305171",
+      "time": "2026-08-12T21:03:32",
+      "country": "International",
+      "title_ur": "امریکی قونصلیٹ بم کی دھمکی کیس میں فرد جرم عائد ہیلی فیکس شخص کی ضمانت کی سماعت ایک بار پھر موخر کر دی گئی۔",
+      "desc_ur": "ہیلی فیکس کے رہائشی علی عساکرہ پر منگل کو دھمکیاں دینے اور عوامی شرارت کا الزام عائد کیا گیا جب پولیس نے کہا کہ انہوں نے ان کی گاڑی کو قونصل خانے کے قریب ایک پروپین ٹینک اور آتش گیر مائعات کے ساتھ کھڑی پائی۔"
+    },
+    {
+      "title": "How AI is an ‘exaggerator’ for the reach and impact of domestic and global threats to NZ",
+      "desc": "NZSIS chief Andrew Hampton on Winston Peters and the mainstreaming of extreme language.",
+      "source": "New Zealand Herald",
+      "url": "https://www.nzherald.co.nz/nz/politics/how-ai-is-an-exaggerator-for-the-reach-and-impact-of-domestic-and-global-threats-to-nz/VYB7PVJHFRHHJHO7ODZTPKJXNU/",
+      "time": "2026-08-12T21:00:00",
+      "country": "International",
+      "title_ur": "NZ کے لیے ملکی اور عالمی خطرات کی رسائی اور اثر کے لیے AI کس طرح ایک 'مبالغہ آمیز' ہے۔",
+      "desc_ur": "NZSIS چیف اینڈریو ہیمپٹن ونسٹن پیٹرز اور انتہائی زبان کی مرکزی دھارے میں شامل ہیں۔"
+    },
+    {
+      "title": "Israeli air strike kills one in northern Gaza",
+      "desc": "Strike on a tuk-tuk in Beit Lahiya kills one, wounds five in first Israeli aerial bombardment in a week",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/8/12/israeli-air-strike-kills-one-in-northern-gaza",
+      "time": "2026-08-12T20:58:42",
+      "country": "Israel",
+      "title_ur": "شمالی غزہ میں اسرائیلی فضائی حملے میں ایک شخص ہلاک ہو گیا۔",
+      "desc_ur": "بیت لاہیا میں ٹوک ٹوک پر حملہ، ایک ہفتے میں پہلی اسرائیلی فضائی بمباری میں ایک ہلاک، پانچ زخمی"
+    },
+    {
+      "title": "Google Pixel 11 Pro XL",
+      "desc": "This update to the Pixel 10 Pro XL sports a faster processor, improved cameras, and a new HiLight indicator light on the back. Other features remain similar, including triple high-res cameras, Satellite SOS, IP68 water resistance, and UWB.",
+      "source": "Phonescoop.com",
+      "url": "https://www.phonescoop.com/phones/phone.php?p=7492",
+      "time": "2026-08-12T20:56:40",
+      "country": "International",
+      "title_ur": "گوگل پکسل 11 پرو ایکس ایل",
+      "desc_ur": "Pixel 10 Pro XL کی اس اپ ڈیٹ میں تیز تر پروسیسر، بہتر کیمرے، اور پشت پر ایک نئی ہائی لائٹ انڈیکیٹر لائٹ ہے۔ دیگر خصوصیات ایک جیسی رہتی ہیں، بشمول ٹرپل ہائی-ریز کیمرے، سیٹلائٹ SOS، IP68 واٹر ریزسٹنس، اور UWB۔"
     }
   ],
   "pakistan": [
+    {
+      "title": "What Does the Mecca Pact Deliver Pakistan?",
+      "desc": "The mutual defense agreement gives Islamabad a boost in the Middle East, with mixed results closer to home.",
+      "source": "Foreign Policy",
+      "url": "http://foreignpolicy.com/2026/08/12/pakistan-mecca-pact-saudi-arabia-turkey-iran-mutual-defense/",
+      "time": "2026-08-12T21:20:25",
+      "country": "Pakistan",
+      "title_ur": "مکہ معاہدہ پاکستان کو کیا فراہم کرتا ہے؟",
+      "desc_ur": "باہمی دفاعی معاہدہ اسلام آباد کو مشرق وسطیٰ میں فروغ دیتا ہے جس کے ملے جلے نتائج گھر کے قریب ہیں۔"
+    },
+    {
+      "title": "Six killed in Houthi attack on Bab al-Mandeb ship, Yemen’s government says - Al Jazeera",
+      "desc": "Six killed in Houthi attack on Bab al-Mandeb ship, Yemen’s government saysAl Jazeera Iran vows to close Hormuz Strait until US lifts sanctions as Trump rejects Tehran's demandsFox News Pakistan says 3 citizens killed in Houthi attack on ship, and other develo…",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184942788",
+      "time": "2026-08-12T20:52:59",
+      "country": "Pakistan",
+      "title_ur": "باب المندب بحری جہاز پر حوثیوں کے حملے میں چھ ہلاک، یمنی حکومت کا کہنا ہے – الجزیرہ",
+      "desc_ur": "باب المندب بحری جہاز پر حوثیوں کے حملے میں چھ ہلاک، یمن کی حکومت کا کہنا ہے کہ الجزیرہ ایران نے امریکی پابندیاں ہٹانے تک آبنائے ہرمز کو بند کرنے کا عہد کیا ہے کیونکہ ٹرمپ نے تہران کے مطالبات کو مسترد کردیا فاکس نیوز پاکستان کا کہنا ہے کہ بحری جہاز پر حوثیوں کے حملے میں 3 شہری ہلاک اور دیگر ترقی پذیر…"
+    },
     {
       "title": "STF arrests first ‘Pakistan spy’ in Bengal since 2014",
       "desc": "Bengal STF arrested suspected Pakistani national Rana Rauf Khalid for alleged ISI links and illegal entry; Topsia aide held for fake IDs and spying probe.",
@@ -162,16 +182,6 @@
       "country": "Pakistan",
       "title_ur": "ایس ٹی ایف نے 2014 کے بعد بنگال میں پہلا 'پاکستانی جاسوس' گرفتار کیا ہے۔",
       "desc_ur": "بنگال ایس ٹی ایف نے مشتبہ پاکستانی شہری رانا رؤف خالد کو مبینہ طور پر آئی ایس آئی سے تعلق اور غیر قانونی داخلے کے الزام میں گرفتار کیا۔ جعلی آئی ڈیز اور جاسوسی کی تحقیقات کے لیے ٹاپسیا کا معاون گرفتار۔"
-    },
-    {
-      "title": "A date gone wrong: Punjab’s wanted man held in Chandigarh with 2 pistols",
-      "desc": "Chandigarh police arrested wanted Ferozepur man Manpreet Singh near Sector 46 park, recovering two .30-bore pistols and 11 bullets; probe ongoing.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/a-date-gone-wrong-punjabs-wanted-man-held-in-chandigarh-with-2-pistols/articleshow/133192553.cms",
-      "time": "2026-08-12T19:31:55",
-      "country": "Pakistan",
-      "title_ur": "تاریخ غلط ہو گئی: پنجاب کا مطلوب شخص چندی گڑھ میں 2 پستولوں کے ساتھ گرفتار",
-      "desc_ur": "چنڈی گڑھ پولیس نے فیروز پور کے مطلوب شخص منپریت سنگھ کو سیکٹر 46 پارک کے قریب سے گرفتار کیا، جس سے 30 بور کے دو پستول اور 11 گولیاں برآمد ہوئیں۔ تحقیقات جاری."
     }
   ],
   "business": {
