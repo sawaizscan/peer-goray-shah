@@ -1,177 +1,167 @@
 {
-  "generated": "2026-08-14T10:52:40Z",
+  "generated": "2026-08-14T11:39:42Z",
   "world": [
     {
-      "title": "Paper Tiger: The Failure of America’s Trillion-Dollar War Machine",
-      "desc": "According to the Stockholm International Peace Research Institute, or SIPRI\r\n, the United States spent $21 trillion on its military between 2001 and 2024, in constant 2024 dollars, equal to the combined military spending of the next 18 countries. Iran barely …",
+      "title": "Iran kills 2 affiliated with US-Israel intelligence",
+      "desc": "Iran's Ministry of Intelligence claimed in a statement, carried by IRIB, on Thursday, that it identified several \"terrorists\" affiliated with the United States-Israel intelligence services entering th...",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/fd4eb72387a18857",
+      "time": "2026-08-13T11:39:02",
+      "country": "Iran",
+      "title_ur": "ایران نے امریکی اسرائیلی انٹیلی جنس سے وابستہ 2 افراد کو ہلاک کر دیا۔",
+      "desc_ur": "ایران کی وزارت انٹیلی جنس نے جمعرات کو ایک بیان میں دعویٰ کیا، جسے آئی آر آئی بی نے لے جایا ہے، اس نے امریکہ اور اسرائیل کی انٹیلی جنس سروسز سے وابستہ کئی \"دہشت گردوں\" کی نشاندہی کی ہے۔"
+    },
+    {
+      "title": "Be Prepared to Protect Our Democracy in November From a Trumpian Plot",
+      "desc": "Back in the days when conservatives were so hungry for media platforms that they’d come on progressive shows, I used to regularly debate Wayne Allen Root (here and here, for example). Instead of trying to convince me, though, Root has recently taken to giving…",
       "source": "Common Dreams",
-      "url": "https://www.commondreams.org/opinion/us-war-machine-failure",
-      "time": "2026-08-13T10:50:06",
-      "country": "Iran",
-      "title_ur": "پیپر ٹائیگر: امریکہ کی ٹریلین ڈالر وار مشین کی ناکامی۔",
-      "desc_ur": "اسٹاک ہوم انٹرنیشنل پیس ریسرچ انسٹی ٹیوٹ، یا SIPRI کے مطابق\r\nامریکہ نے 2001 اور 2024 کے درمیان اپنی فوج پر 21 ٹریلین ڈالر خرچ کیے، مسلسل 2024 ڈالر، جو اگلے 18 ممالک کے مشترکہ فوجی اخراجات کے برابر ہیں۔ ایران بمشکل…"
+      "url": "https://www.commondreams.org/opinion/protect-election-from-trump",
+      "time": "2026-08-13T11:39:01",
+      "country": "US",
+      "title_ur": "نومبر میں ٹرمپ کی سازش سے ہماری جمہوریت کی حفاظت کے لیے تیار رہیں",
+      "desc_ur": "ان دنوں میں جب قدامت پسند میڈیا پلیٹ فارمز کے لیے اتنے بھوکے تھے کہ وہ ترقی پسند شوز میں آتے تھے، میں باقاعدگی سے وین ایلن روٹ (مثال کے طور پر یہاں اور یہاں) پر بحث کرتا تھا۔ مجھے راضی کرنے کی کوشش کرنے کے بجائے، اگرچہ، روٹ نے حال ہی میں دینا شروع کر دیا ہے…"
     },
     {
-      "title": "Ex-German ambassador urges measures against Israel over settlements",
-      "desc": "Steffen Seibert ended his tenure in Israel this summer amid harsh criticism from Netanyahu's government. He said settler violence aims at the 'displacement' of Palestinians and revealed he discreetly joined protective presence in the West Bank",
-      "source": "Haaretz",
-      "url": "https://www.haaretz.com/world-news/europe/2026-08-13/ty-article/.premium/ex-german-ambassador-urges-measures-against-israel-over-settlements/0000019f-faa6-d28e-a3df-faf664480000",
-      "time": "2026-08-13T10:45:37",
-      "country": "Israel",
-      "title_ur": "سابق جرمن سفیر نے بستیوں پر اسرائیل کے خلاف اقدامات پر زور دیا۔",
-      "desc_ur": "نیتن یاہو کی حکومت کی طرف سے سخت تنقید کے درمیان اسٹیفن سیبرٹ نے اس موسم گرما میں اسرائیل میں اپنا دور ختم کر دیا۔ انہوں نے کہا کہ آباد کاروں کے تشدد کا مقصد فلسطینیوں کی 'بے گھری' ہے اور اس نے انکشاف کیا کہ وہ احتیاط کے ساتھ مغربی کنارے میں حفاظتی موجودگی میں شامل ہوئے ہیں۔"
-    },
-    {
-      "title": "Russia bets on ballistic missiles to combat the success of Ukraine’s drone warfare",
-      "desc": "Ukraine is unable to prevent Russia’s long-range missiles from hitting its cities and civilian population.",
-      "source": "The Conversation Africa",
-      "url": "https://theconversation.com/russia-bets-on-ballistic-missiles-to-combat-the-success-of-ukraines-drone-warfare-289639",
-      "time": "2026-08-13T10:44:30",
-      "country": "Russia",
-      "title_ur": "روس یوکرین کی ڈرون جنگ کی کامیابی کا مقابلہ کرنے کے لیے بیلسٹک میزائلوں پر شرط لگا رہا ہے۔",
-      "desc_ur": "یوکرین روس کے طویل فاصلے تک مار کرنے والے میزائلوں کو اپنے شہروں اور شہری آبادی کو نشانہ بنانے سے روکنے میں ناکام ہے۔"
-    },
-    {
-      "title": "Iran counters Trump, says it manages Strait of Hormuz",
-      "desc": "A senior Iranian official said on Thursday that the Strait of Hormuz remains under the control of the Islamic republic after President Donald Trump claimed US control over the strategic waterway.\nThe post Iran counters Trump, says it manages Strait of Hormuz …",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/08/iran-counters-trump-says-it-manages-strait-of-hormuz/",
-      "time": "2026-08-13T10:42:49",
-      "country": "Iran",
-      "title_ur": "ایران نے ٹرمپ کا مقابلہ کرتے ہوئے کہا کہ وہ آبنائے ہرمز کا انتظام کرتا ہے۔",
-      "desc_ur": "ایک سینئر ایرانی اہلکار نے جمعرات کو کہا کہ صدر ڈونلڈ ٹرمپ کی جانب سے اسٹریٹجک آبی گزرگاہ پر امریکی کنٹرول کے دعوے کے بعد آبنائے ہرمز اب بھی اسلامی جمہوریہ کے کنٹرول میں ہے۔\nThe post ایران نے ٹرمپ کا مقابلہ کیا، کہا کہ وہ آبنائے ہرمز کا انتظام…"
-    },
-    {
-      "title": "Eurovision to bar countries at war from hosting: What that means",
-      "desc": "Israel, which hosted the contest in 2019, will no longer be allowed to do so - but can still compete, protesters say.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/8/13/eurovision-to-bar-countries-at-war-from-hosting-what-that-means",
-      "time": "2026-08-13T10:41:47",
-      "country": "Israel",
-      "title_ur": "یوروویژن جنگ میں ممالک کو میزبانی سے روکے گا: اس کا کیا مطلب ہے۔",
-      "desc_ur": "مظاہرین کا کہنا ہے کہ اسرائیل، جس نے 2019 میں مقابلے کی میزبانی کی تھی، اسے اب ایسا کرنے کی اجازت نہیں دی جائے گی - لیکن پھر بھی وہ مقابلہ کر سکتا ہے۔"
-    },
-    {
-      "title": "AI pushes Israeli teachers to bring exams back into the classroom",
-      "desc": "A new study finds Israeli teachers are increasingly moving assessments into the classroom as they grapple with concerns that AI could replace the skills students are meant to develop.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/431657",
-      "time": "2026-08-13T10:39:20",
-      "country": "Israel",
-      "title_ur": "AI اسرائیلی اساتذہ کو دوبارہ کلاس روم میں امتحانات لانے کے لیے دباؤ ڈالتا ہے۔",
-      "desc_ur": "ایک نئی تحقیق سے پتا چلا ہے کہ اسرائیلی اساتذہ تیزی سے تشخیصات کو کلاس روم میں منتقل کر رہے ہیں کیونکہ وہ ان خدشات سے دوچار ہیں کہ AI ان مہارتوں کی جگہ لے سکتا ہے جو طلباء کو تیار کرنا ہے۔"
-    },
-    {
-      "title": "India among top 5 APAC countries targeted by advanced cyber threats: Report",
-      "desc": "Kaspersky data shows 75 million cyberattacks blocked across APAC in the first half of 2026, including 3.4 million backdoor attacks, 2.4 million password stealers and 250,000 ransomware incident",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/technology/tech-news/india-among-top-5-apac-countries-targeted-by-advanced-cyber-threats-kaspersky-126081301250_1.html",
-      "time": "2026-08-13T10:37:36",
-      "country": "India",
-      "title_ur": "اعلی درجے کے سائبر خطرات سے نشانہ بننے والے ٹاپ 5 اے پی اے سی ممالک میں ہندوستان: رپورٹ",
-      "desc_ur": "کاسپرسکی ڈیٹا سے پتہ چلتا ہے کہ 2026 کی پہلی ششماہی میں APAC میں 75 ملین سائبر حملے بلاک کیے گئے، جن میں 3.4 ملین بیک ڈور حملے، 2.4 ملین پاس ورڈ چوری کرنے والے اور 250,000 رینسم ویئر کے واقعات شامل ہیں۔"
-    },
-    {
-      "title": "PMS Tracker: Amaltas, Pluswealth Capital, Emkay, 7 others deliver up to 11% returns in July",
-      "desc": "Multi-cap and flexi-cap PMS strategies dominated July’s top performers, with six of the 10 best portfolios gaining over 5%. Amaltas Strategic Opportunities led with 10.54%, while strong broader-market gains supported robust PMS performance despite geopolitica…",
+      "title": "Israel reopens historic settlement in north West Bank",
+      "desc": "Israel officially reopened the West Bank settlement of Ganim after a twenty-year withdrawal.  This move signifies the current government's policy of rapid settlement expansion in the region.  Future residents and their families gathered to witness the reopeni…",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/aif-pms/pms-tracker-amaltas-pluswealth-capital-emkay-7-others-deliver-up-to-11-returns-in-july/articleshow/133208683.cms",
-      "time": "2026-08-13T10:34:42",
-      "country": "US",
-      "title_ur": "PMS ٹریکر: Amaltas، Pluswealth Capital، Emkay، دیگر 7 جولائی میں 11% تک واپسی فراہم کرتے ہیں",
-      "desc_ur": "ملٹی کیپ اور فلیکسی کیپ PMS حکمت عملیوں نے جولائی کے اعلیٰ اداکاروں پر غلبہ حاصل کیا، 10 بہترین پورٹ فولیوز میں سے چھ نے 5% سے زیادہ کا فائدہ اٹھایا۔ املٹاس اسٹریٹجک مواقع نے 10.54% کی قیادت کی، جب کہ وسیع تر مارکیٹ کے مضبوط فوائد نے جیو پولیٹکا کے باوجود مضبوط PMS کارکردگی کو سپورٹ کیا۔"
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/israel-reopens-historic-settlement-in-north-west-bank/articleshow/133210463.cms",
+      "time": "2026-08-13T11:37:34",
+      "country": "Israel",
+      "title_ur": "اسرائیل نے شمالی مغربی کنارے میں تاریخی بستی کو دوبارہ کھول دیا۔",
+      "desc_ur": "اسرائیل نے باضابطہ طور پر مغربی کنارے کی گنیم کی بستی کو بیس سال کی واپسی کے بعد دوبارہ کھول دیا۔  یہ اقدام خطے میں تیزی سے آباد کاری کی توسیع کی موجودہ حکومت کی پالیسی کی نشاندہی کرتا ہے۔  مستقبل کے رہائشی اور ان کے اہل خانہ دوبارہ کھلنے کا مشاہدہ کرنے کے لیے جمع ہوئے…"
     },
     {
-      "title": "Benchmarks end sideways; metal shares tumble",
-      "desc": "Metal, private bank and oil & gas shares declined while FMCG, IT and media stocks advanced.",
+      "title": "United States and Israeli Policy Further Divides Somalia",
+      "desc": "White House to cut back on United Nations assistance while there is continued military and diplomatic interference by Washington and Tel Aviv\n\nTo read this article in the following languages, click the Translate Website button below the author’s name.\n\n\n\n\nHeb…",
+      "source": "Globalresearch.ca",
+      "url": "https://www.globalresearch.ca/united-states-israeli-policy-divides-somalia/5936605",
+      "time": "2026-08-13T11:36:00",
+      "country": "Israel",
+      "title_ur": "امریکہ اور اسرائیل کی پالیسی صومالیہ کو مزید تقسیم کرتی ہے۔",
+      "desc_ur": "واشنگٹن اور تل ابیب کی جانب سے مسلسل فوجی اور سفارتی مداخلت کے دوران وائٹ ہاؤس اقوام متحدہ کی امداد میں کمی کرے گا\n\nاس مضمون کو درج ذیل زبانوں میں پڑھنے کے لیے، مصنف کے نام کے نیچے ویب سائٹ کا ترجمہ کریں بٹن پر کلک کریں۔\n\n\n\n\nہیب…"
+    },
+    {
+      "title": "Sensex gains, Nifty slides as broader market outperforms",
+      "desc": "Key benchmark indices ended largely flat in a volatile session on Thursday, with the Nifty closing near the 24,400 level. Buying at lower levels helped the index recover from an intraday low of 24,311.40. Trading remained volatile amid the weekly expiry of BS…",
       "source": "Business Standard",
-      "url": "https://www.business-standard.com/markets/capital-market-news/benchmarks-end-sideways-metal-shares-tumble-126081301243_1.html",
-      "time": "2026-08-13T10:34:09",
+      "url": "https://www.business-standard.com/markets/capital-market-news/sensex-gains-nifty-slides-as-broader-market-outperforms-126081301359_1.html",
+      "time": "2026-08-13T11:34:11",
       "country": "International",
-      "title_ur": "بینچ مارکس سائیڈ وے پر ختم ہوتے ہیں۔ دھات کے حصص گر گئے",
-      "desc_ur": "میٹل، پرائیویٹ بینک اور آئل اینڈ گیس کے حصص میں کمی ہوئی جبکہ ایف ایم سی جی، آئی ٹی اور میڈیا اسٹاک میں اضافہ ہوا۔"
+      "title_ur": "سینسیکس میں اضافہ، نفٹی وسیع تر مارکیٹ کی کارکردگی کے طور پر پھسل گیا۔",
+      "desc_ur": "کلیدی بینچ مارک انڈیکس جمعرات کو ایک غیر مستحکم سیشن میں بڑے پیمانے پر فلیٹ ختم ہوا، نفٹی 24,400 کی سطح کے قریب بند ہوا۔ نچلی سطح پر خریداری نے انڈیکس کو 24,311.40 کی انٹرا ڈے نچلی سطح سے بازیافت کرنے میں مدد کی۔ BS کی ہفتہ وار میعاد ختم ہونے کے درمیان ٹریڈنگ اتار چڑھاؤ کا شکار رہی…"
     },
     {
-      "title": "UN: Keep International Force in Lebanon to Protect Civilians",
-      "desc": "Click to expand Image\n \n\n\n\n \n \n \n\n \n \n \n \n An armored vehicle of the United Nations Interim Force in Lebanon (UNIFIL) patrols a town in southern Lebanon, April 29, 2026.\n © 2026 Frederic Petry/Hans Lucas via Reuters \n \n \n\n\n \nThe United Nations Security Counci…",
-      "source": "Human Rights Watch",
-      "url": "https://www.hrw.org/news/2026/08/13/un-keep-international-force-in-lebanon-to-protect-civilians",
-      "time": "2026-08-13T10:31:54",
-      "country": "Lebanon",
-      "title_ur": "اقوام متحدہ: شہریوں کی حفاظت کے لیے بین الاقوامی فورس لبنان میں رکھیں",
-      "desc_ur": "تصویر کو پھیلانے کے لیے کلک کریں۔\n \n\n\n\n \n \n \n\n \n \n \n \n لبنان میں اقوام متحدہ کی عبوری فورس (UNIFIL) کی ایک بکتر بند گاڑی 29 اپریل 2026 کو جنوبی لبنان کے ایک قصبے میں گشت کر رہی ہے۔\n © 2026 فریڈرک پیٹری/ہانس لوکاس بذریعہ رائٹرز \n \n \n\n\n \nاقوام متحدہ کی سلامتی کونسل نے…"
-    },
-    {
-      "title": "Emirates Wants to Fly Between Milan and Lima… But This Could Just Be the Beginning Of a Larger Fifth-Freedom Operation in Italy",
-      "desc": "What to Know Emirates is reportedly close to winning approval for a new fifth-freedom route between Milan and Lima, potentially the first step in a much larger long-haul push from its Italian hub. In This Article What a fifth-freedom flight actually is, and h…",
-      "source": "Paddle Your Own Kanoo",
-      "url": "https://www.paddleyourownkanoo.com/2026/08/13/emirates-wants-to-fly-between-milan-and-lima-but-this-could-just-be-the-beginning-of-a-larger-fifth-freedom-operation-in-italy/",
-      "time": "2026-08-13T10:29:56",
+      "title": "Lakers fans left furious over new owner's connection to the president after bombshell $12.5billion sale: 'How long until Trump is involved?'",
+      "desc": "After the bombshell announcement of the Los Angeles Lakers sale on Wednesday, fans are already fuming over the potential for outside political influence.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/sport/nba/article-16048325/lakers-sale-josh-kushner-bob-iger-trump.html",
+      "time": "2026-08-13T11:32:40",
       "country": "US",
-      "title_ur": "ایمریٹس میلان اور لیما کے درمیان پرواز کرنا چاہتا ہے… لیکن یہ صرف اٹلی میں پانچویں آزادی کے بڑے آپریشن کا آغاز ہو سکتا ہے",
-      "desc_ur": "کیا جاننا ہے ایمریٹس مبینہ طور پر میلان اور لیما کے درمیان پانچویں آزادی کے نئے راستے کے لیے منظوری حاصل کرنے کے قریب ہے، جو ممکنہ طور پر اس کے اطالوی مرکز سے طویل فاصلے تک پہنچنے کے لیے پہلا قدم ہے۔ اس آرٹیکل میں پانچویں آزادی کی پرواز دراصل کیا ہے، اور h…"
+      "title_ur": "لیکرز کے مداحوں نے 12.5 بلین ڈالر کی بمباری کے بعد صدر سے نئے مالک کے کنکشن پر غصہ چھوڑا: 'ٹرمپ کب تک ملوث ہے؟'",
+      "desc_ur": "بدھ کے روز لاس اینجلس لیکرز کی فروخت کے بمشکل اعلان کے بعد، شائقین پہلے ہی بیرونی سیاسی اثر و رسوخ کے امکانات پر غصے میں ہیں۔"
     },
     {
-      "title": "Bulgarian coastal city Burgas to host Eurovision 2027",
-      "desc": "Burgas, a Black Sea city in Bulgaria, has been chosen to host next year's Eurovision Song Contest after Bulgarian singer Dara won this year's competition.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-08-13/bulgarian-coastal-city-burgas-to-host-eurovision-2027/107035354",
-      "time": "2026-08-13T10:28:23",
-      "country": "Europe",
-      "title_ur": "بلغاریہ کا ساحلی شہر برگاس یورو ویژن 2027 کی میزبانی کرے گا۔",
-      "desc_ur": "بلغاریہ کے بحیرہ اسود کے شہر برگاس کو بلغاریہ کی گلوکارہ دارا کے اس سال مقابلہ جیتنے کے بعد اگلے سال کے یوروویژن گانے کے مقابلے کی میزبانی کے لیے منتخب کیا گیا ہے۔"
+      "title": "Trump fondles tree photos in front of baffled reporter: 'There is no precedent'",
+      "desc": "President Donald Trump was fixated on an oddly specific, off-topic subject during an interview just days after he launched a war against Iran, according to a reporter who spoke to him.New York Times reporter Maggie Haberman met with the then-79-year-old presi…",
+      "source": "Raw Story",
+      "url": "https://www.rawstory.com/trump-2677700511/",
+      "time": "2026-08-13T11:32:06",
+      "country": "Iran",
+      "title_ur": "ٹرمپ نے حیرت زدہ رپورٹر کے سامنے درختوں کی تصاویر کو پسند کیا: 'ایسی کوئی نظیر نہیں ملتی'",
+      "desc_ur": "صدر ڈونلڈ ٹرمپ نے ایران کے خلاف جنگ شروع کرنے کے چند دن بعد ایک انٹرویو کے دوران ایک عجیب و غریب مخصوص موضوع پر فکس کیا تھا، ایک رپورٹر کے مطابق جس نے ان سے بات کی تھی۔ نیویارک ٹائمز کی رپورٹر میگی ہیبرمین نے اس وقت کے 79 سالہ صدر سے ملاقات کی…"
     },
     {
-      "title": "Russian Diesel Flows Are Lowest in Years as Drones Hit Refiners",
-      "desc": "Russian diesel exports dropped to a fresh multiyear low in early August as Moscow restricted fuel exports in the face of attacks on the country’s refineries.",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/russian-diesel-flows-are-lowest-in-years-as-drones-hit-refiners",
-      "time": "2026-08-13T10:26:20",
-      "country": "Russia",
-      "title_ur": "روسی ڈیزل کا بہاؤ سالوں میں سب سے کم ہے کیونکہ ڈرون ریفائنرز کو نشانہ بناتے ہیں۔",
-      "desc_ur": "اگست کے اوائل میں روسی ڈیزل کی برآمدات کئی سال کی کم ترین سطح پر آگئی کیونکہ ماسکو نے ملک کی ریفائنریز پر حملوں کے پیش نظر ایندھن کی برآمدات کو محدود کر دیا تھا۔"
-    },
-    {
-      "title": "Central Bank vows to maintain tight policy",
-      "desc": "Central Bank Gov Fatih Karahan reaffirms the bank’s year-enf inflation target of 26 percent, signaling that a strict policy state will be maintained",
-      "source": "Hurriyet Daily News",
-      "url": "https://www.hurriyetdailynews.com/central-bank-vows-to-maintain-tight-policy-225574",
-      "time": "2026-08-13T10:22:50",
+      "title": "Inflation eased slightly in July. And, ICE plans to give officers electric shock gloves",
+      "desc": "Inflation cooled a bit last month, according to a new report from the Labor Department. And, ICE plans to equip its officers with electric shock gloves.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/13/g-s1-138578/up-first-newsletter-inflation-colombia-earthquake-ice-gloves-migrant-children-karolina-leavitt",
+      "time": "2026-08-13T11:31:18",
       "country": "International",
-      "title_ur": "مرکزی بینک نے سخت پالیسی برقرار رکھنے کا عزم کیا۔",
-      "desc_ur": "مرکزی بینک کے گورنمنٹ فتح کرہان نے بینک کے سال کے لیے افراط زر کے ہدف 26 فیصد کی دوبارہ تصدیق کی ہے، اس بات کا اشارہ ہے کہ ایک سخت پالیسی ریاست کو برقرار رکھا جائے گا۔"
+      "title_ur": "جولائی میں مہنگائی میں قدرے کمی آئی۔ اور، ICE افسران کو الیکٹرک شاک دستانے دینے کا ارادہ رکھتا ہے۔",
+      "desc_ur": "لیبر ڈپارٹمنٹ کی ایک نئی رپورٹ کے مطابق، پچھلے مہینے مہنگائی قدرے ٹھنڈی پڑی۔ اور، ICE اپنے افسران کو الیکٹرک شاک دستانے سے لیس کرنے کا ارادہ رکھتا ہے۔"
     },
     {
-      "title": "How is Germany seen by people in the Middle East and North Africa?",
-      "desc": "A survey across seven countries and territories in the Middle East and North Africa suggests Germany enjoys a surprisingly positive image. But respondents see the country as driven more by interests than ideals.",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260813/how-is-germany-seen-by-people-in-the-middle-east-and-north-africa",
-      "time": "2026-08-13T10:19:43",
-      "country": "Germany",
-      "title_ur": "مشرق وسطیٰ اور شمالی افریقہ کے لوگ جرمنی کو کس طرح دیکھتے ہیں؟",
-      "desc_ur": "مشرق وسطیٰ اور شمالی افریقہ کے سات ممالک اور خطوں میں کیے گئے ایک سروے سے پتہ چلتا ہے کہ جرمنی کی حیرت انگیز طور پر مثبت تصویر ہے۔ لیکن جواب دہندگان ملک کو نظریات سے زیادہ مفادات پر مبنی سمجھتے ہیں۔"
+      "title": "Rising U.S. Wages Is Good News That Compounds To Great News Over Time",
+      "desc": "Wage gains are an effect of investment, which means those gains beget more of the same.",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/johntamny/2026/08/13/rising-us-wages-is-good-news-that-compounds-to-great-news-over-time/",
+      "time": "2026-08-13T11:30:29",
+      "country": "International",
+      "title_ur": "امریکی اجرتوں میں اضافہ ایک اچھی خبر ہے جو وقت گزرنے کے ساتھ ساتھ بڑی خبروں میں شامل ہو جاتی ہے۔",
+      "desc_ur": "اجرت کا فائدہ سرمایہ کاری کا اثر ہے، جس کا مطلب ہے کہ وہ فوائد اسی سے زیادہ پیدا ہوتے ہیں۔"
+    },
+    {
+      "title": "The Next Wave: How Last Year’s Freshman Class Set the Stage, and Why Jackson Cantwell Is Already the Most Hyped Newcomer in Coral Gables",
+      "desc": "Toney and Fitzgerald proved freshmen can start at Miami. Cantwell and Others prove the pipeline is just getting started.",
+      "source": "Stateoftheu.com",
+      "url": "https://www.stateoftheu.com/football-news/87329/the-next-wave-how-last-years-freshman-class-set-the-stage-and-why-jackson-cantwell-is-already-the-most-hyped-newcomer-in-coral-gables",
+      "time": "2026-08-13T11:30:00",
+      "country": "US",
+      "title_ur": "اگلی لہر: پچھلے سال کی فریش مین کلاس نے کس طرح مرحلہ طے کیا، اور جیکسن کینٹ ویل پہلے ہی کورل گیبلز میں سب سے زیادہ ہائپڈ نووارد کیوں ہیں۔",
+      "desc_ur": "ٹونی اور فٹزجیرالڈ نے ثابت کیا کہ نئے لوگ میامی میں شروع کر سکتے ہیں۔ کینٹ ویل اور دیگر ثابت کرتے ہیں کہ پائپ لائن ابھی شروع ہو رہی ہے۔"
+    },
+    {
+      "title": "Karyopharm Reports Second Quarter 2026 Financial Results and Highlights Continued Progress Toward Myelofibrosis sNDA Submission",
+      "desc": "– Planned August sNDA Submission for Selinexor in Combination with Ruxolitinib in Myelofibrosis under the Accelerated Approval Pathway Remains on Track – – Planned sNDA for Selinexor plus Ruxolitinib Supported by Phase 3 SENTRY Results Presented at ASCO and E…",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/karyopharm-reports-second-quarter-2026-financial-results-and-highlights-continued-progress-toward-myelofibrosis-snda-submission-302850269.html",
+      "time": "2026-08-13T11:30:00",
+      "country": "US",
+      "title_ur": "کیریوفرم نے دوسری سہ ماہی 2026 کے مالیاتی نتائج اور جھلکیاں مائیلوفائبروسس sNDA جمع کرانے کی جانب جاری پیش رفت کی رپورٹیں",
+      "desc_ur": "– ایکسلریٹڈ اپروول پاتھ وے کے تحت Myelofibrosis میں Ruxolitinib کے ساتھ مل کر Selinexor کے لیے اگست میں sNDA جمع کرانے کا منصوبہ ٹریک پر رہتا ہے – – Selinexor پلس Ruxolitinib کے لیے منصوبہ بند sNDA جس کی تائید فیز 3 سنٹری کے نتائج ASCO اور E پر پیش کیے گئے…"
+    },
+    {
+      "title": "Israel trucks out Gaza’s rubble to ‘hide genocide’ and ‘redraw the map’",
+      "desc": "Israel carts away Gaza's rubble to destroy war crimes evidence and make the landscape unliveable, rights groups say.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/features/2026/8/13/israel-trucks-out-gazas-rubble-to-hide-genocide-and-redraw-the-map",
+      "time": "2026-08-13T11:29:32",
+      "country": "Israel",
+      "title_ur": "اسرائیل نے 'نسل کشی کو چھپانے' اور 'نقشہ دوبارہ تیار کرنے' کے لیے غزہ کا ملبہ اٹھا لیا",
+      "desc_ur": "انسانی حقوق کی تنظیموں کا کہنا ہے کہ اسرائیل جنگی جرائم کے شواہد کو تباہ کرنے اور زمین کی تزئین کو ناقابلِ رہائش بنانے کے لیے غزہ کا ملبہ اٹھا رہا ہے۔"
+    },
+    {
+      "title": "President Trump’s Pardon to Narcotics Trafficking Former President of Honduras (JOH), Opium Trade in Afghanistan",
+      "desc": "In recent months President Trump has done a lot of very disturbing things in the name of stopping drug trafficking—made over 60 attacks on sea vessels killing over 220 persons, issued threats to Mexico and several other countries, even kidnapped …\nThe post Pr…",
+      "source": "Globalresearch.ca",
+      "url": "https://www.globalresearch.ca/america-pardon-proven-drug-offender-killing-attacks-innocent-people/5936550",
+      "time": "2026-08-13T11:28:55",
+      "country": "US",
+      "title_ur": "صدر ٹرمپ کی منشیات کی اسمگلنگ پر معافی، ہونڈوراس کے سابق صدر (JOH)، افغانستان میں افیون کی تجارت",
+      "desc_ur": "حالیہ مہینوں میں صدر ٹرمپ نے منشیات کی اسمگلنگ کو روکنے کے نام پر بہت پریشان کن باتیں کی ہیں- سمندری جہازوں پر 60 سے زیادہ حملے کیے جس میں 220 سے زیادہ افراد ہلاک ہوئے، میکسیکو اور کئی دوسرے ممالک کو دھمکیاں دی گئیں، یہاں تک کہ اغوا بھی…\nThe post Pr…"
+    },
+    {
+      "title": "Iran may have used cheap drones to target US F-15 fighter jet: Report",
+      "desc": "Iran's use of multiple drones to track a US F-15E Strike Eagle during its April 3 combat loss highlights how distributed sensors and missile systems can work together to challenge an adversary",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/blueprint-defence-magazine/reports/iran-may-have-used-cheap-drones-to-target-us-f-15-fighter-jet-report-126081301356_1.html",
+      "time": "2026-08-13T11:28:24",
+      "country": "Iran",
+      "title_ur": "ایران نے امریکی F-15 لڑاکا طیارے کو نشانہ بنانے کے لیے سستے ڈرون کا استعمال کیا ہو سکتا ہے: رپورٹ",
+      "desc_ur": "3 اپریل کو اپنے جنگی نقصان کے دوران امریکی F-15E اسٹرائیک ایگل کو ٹریک کرنے کے لیے ایران کی جانب سے متعدد ڈرونز کا استعمال اس بات پر روشنی ڈالتا ہے کہ کس طرح تقسیم شدہ سینسرز اور میزائل سسٹم مخالف کو چیلنج کرنے کے لیے مل کر کام کر سکتے ہیں۔"
+    },
+    {
+      "title": "Major financial crime probe targets leadership of Islamic group",
+      "desc": "Turkish authorities on Aug. 13 launched an operation targeting the leader and senior figures of an Islamic religious community known as the “Süleymancılar,” following the detection of substantial suspicious financial transactions allegedly linked to money lau…",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/major-financial-crime-probe-targets-leadership-of-islamic-group-225583",
+      "time": "2026-08-13T11:24:01",
+      "country": "US",
+      "title_ur": "مالیاتی جرائم کی بڑی تحقیقات اسلامی گروپ کی قیادت کو نشانہ بناتی ہیں۔",
+      "desc_ur": "ترک حکام نے 13 اگست کو \"Süleymancılar\" کے نام سے مشہور اسلامی مذہبی کمیونٹی کے رہنما اور اعلیٰ شخصیات کو نشانہ بنانے کے لیے ایک آپریشن شروع کیا، جس میں مبینہ طور پر منی لاؤ سے منسلک کافی مشکوک مالیاتی لین دین کا پتہ لگانے کے بعد…"
     }
   ],
   "pakistan": [
     {
-      "title": "Treasurer Pappas to Host Pakistan Independence Day Reception Following Daley Plaza Flag Raising Ceremony",
-      "desc": "CHICAGO, Aug. 13, 2026 /PRNewswire/ -- Cook County Treasurer Maria Pappas and Pakistan's Consul General to Chicago Zaman Mehdi will commemorate Pakistan's Independence with a reception honoring the rich cultural heritage, achievements and contributions of Pak…",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/treasurer-pappas-to-host-pakistan-independence-day-reception-following-daley-plaza-flag-raising-ceremony-302849973.html",
-      "time": "2026-08-13T10:00:00",
+      "title": "Defence pact for Türkiye, Pakistan and Saudi Arabia open to expansion",
+      "desc": "Türkiye, Saudi Arabia and Pakistan will hold joint exercises under a military pact signed between the regional powers, Türkiye's defence ministry says.",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-08-13/turkiye-plans-for-nato-like-defence-pact/107035458",
+      "time": "2026-08-13T11:22:05",
       "country": "Pakistan",
-      "title_ur": "ڈیلی پلازہ پرچم کشائی کی تقریب کے بعد خزانچی پاپاس پاکستان کے یوم آزادی کے استقبال کی میزبانی کریں گے",
-      "desc_ur": "شکاگو، 13 اگست، 2026/پی آرنیوزوائر/ -- کک کاؤنٹی کی ٹریژر ماریا پاپاس اور شکاگو میں پاکستان کے قونصل جنرل زمان مہدی پاکستان کی آزادی کی یاد میں ایک استقبالیہ کے ساتھ پاکستان کے شاندار ثقافتی ورثے، کامیابیوں اور خدمات کو خراج تحسین پیش کریں گے۔"
-    },
-    {
-      "title": "Turkey: Other countries could join Mecca pact",
-      "desc": "Turkish Defense Ministry spokesperson Zeki Akturk said on Thursday that Turkey, Saudi Arabia and Pakistan could consider accepting other countries into its Mecca Joint Defence Agreement, signed last w...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/ed8ebddfbae20ed1",
-      "time": "2026-08-13T09:53:01",
-      "country": "Pakistan",
-      "title_ur": "ترکی: دوسرے ممالک مکہ معاہدے میں شامل ہوسکتے ہیں۔",
-      "desc_ur": "ترکی کی وزارت دفاع کے ترجمان زیکی اکترک نے جمعرات کو کہا کہ ترکی، سعودی عرب اور پاکستان دوسرے ممالک کو اپنے مکہ مشترکہ دفاعی معاہدے میں شامل کرنے پر غور کر سکتے ہیں، جس پر گزشتہ دنوں دستخط ہوئے تھے۔"
+      "title_ur": "ترکی، پاکستان اور سعودی عرب کے لیے دفاعی معاہدہ توسیع کے لیے کھلا ہے۔",
+      "desc_ur": "ترکی کی وزارت دفاع کا کہنا ہے کہ ترکی، سعودی عرب اور پاکستان علاقائی طاقتوں کے درمیان طے پانے والے فوجی معاہدے کے تحت مشترکہ مشقیں کریں گے۔"
     }
   ],
   "business": {
