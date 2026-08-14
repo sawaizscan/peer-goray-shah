@@ -1,197 +1,217 @@
 {
-  "generated": "2026-08-14T12:51:38Z",
+  "generated": "2026-08-14T14:12:18Z",
   "world": [
     {
-      "title": "Iran looks to ramp up economic alliance with BRICS nations as war with U.S. drags on",
-      "desc": "Iran’s central bank chief said Thursday that the country is set to join the BRICS New Development Bank.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/13/iran-war-brics-bank.html",
-      "time": "2026-08-13T12:48:08",
-      "country": "Iran",
-      "title_ur": "امریکہ کے ساتھ جنگ ​​کے بعد ایران برکس ممالک کے ساتھ اقتصادی اتحاد کو بڑھانا چاہتا ہے",
-      "desc_ur": "ایران کے مرکزی بینک کے سربراہ نے جمعرات کو کہا کہ ملک برکس نیو ڈیولپمنٹ بینک میں شامل ہونے کے لیے تیار ہے۔"
-    },
-    {
-      "title": "INR weighed down by weak investor sentiments; Falling oil prices limit losses",
-      "desc": "The Indian rupee depreciated 12 paise to 95.45 against the US dollar on Thursday, weighed by weak domestic markets and persistent foreign fund outflows amid lingering geopolitical risks. Local shares cut early losses to end mixed. Investors heaved a sigh of r…",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/markets/capital-market-news/inr-weighed-down-by-weak-investor-sentiments-falling-oil-prices-limit-losses-126081301652_1.html",
-      "time": "2026-08-13T12:46:02",
-      "country": "India",
-      "title_ur": "سرمایہ کاروں کے کمزور جذبات کی وجہ سے INR میں کمی آئی۔ تیل کی گرتی ہوئی قیمتیں نقصانات کو محدود کرتی ہیں۔",
-      "desc_ur": "ہندوستانی روپیہ جمعرات کو امریکی ڈالر کے مقابلے میں 12 پیسے کم ہوکر 95.45 پر آگیا، کمزور گھریلو منڈیوں اور دیرپا جغرافیائی سیاسی خطرات کے درمیان غیر ملکی فنڈ کے مسلسل اخراج کی وجہ سے وزن کیا گیا۔ مقامی حصص نے ابتدائی نقصانات کو ملا کر ختم کیا۔ سرمایہ کاروں نے سکون کا سانس لیا…"
-    },
-    {
-      "title": "UK economy unexpectedly expands in June amid World Cup boost",
-      "desc": "The unexpected economic growth in June highlights the UK's resilience but underscores the need for strategic policy amid political and cost challenges.\nThe post UK economy unexpectedly expands in June amid World Cup boost appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/uk-economy-expands-june-world-cup/",
-      "time": "2026-08-13T12:45:10",
-      "country": "UK",
-      "title_ur": "ورلڈ کپ کے فروغ کے درمیان جون میں برطانیہ کی معیشت غیر متوقع طور پر پھیل رہی ہے۔",
-      "desc_ur": "جون میں غیر متوقع اقتصادی ترقی برطانیہ کی لچک کو اجاگر کرتی ہے لیکن سیاسی اور لاگت کے چیلنجوں کے درمیان اسٹریٹجک پالیسی کی ضرورت پر زور دیتی ہے۔\nThe post ورلڈ کپ کے فروغ کے درمیان جون میں برطانیہ کی معیشت غیر متوقع طور پر پھیل گئی appeared first on Crypto Briefing."
-    },
-    {
-      "title": "Bitcoin and ethereum prices today, Thursday, August 13, 2026: BTC price trends turn negative",
-      "desc": "Bitcoin opened at $63,410.39 on Thursday, August 13, 2026, down 0.2% compared to Wednesday's opening price. As of 8:29 a.m. ET this morning, the price of bit...",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-august-13-2026-btc-price-trends-turn-negative-124406250.html",
-      "time": "2026-08-13T12:44:06",
-      "country": "US",
-      "title_ur": "بٹ کوائن اور ایتھریم کی قیمتیں آج، جمعرات، 13 اگست، 2026: بی ٹی سی قیمت کے رجحانات منفی ہو گئے",
-      "desc_ur": "Bitcoin جمعرات، 13 اگست 2026 کو $63,410.39 پر کھلا، بدھ کی ابتدائی قیمت کے مقابلے میں 0.2% کم۔ آج صبح 8:29 بجے ET تک، بٹ کی قیمت..."
-    },
-    {
-      "title": "US unemployment claims rise but remain at healthy level",
-      "desc": "US unemployment claims rise but remain at healthy levelbostonherald.com",
-      "source": "Medianewsgroup.com",
-      "url": "https://wirehub.medianewsgroup.com/2026/08/13/us-unemployment-claims-rise-but-remain-at-healthy-level/",
-      "time": "2026-08-13T12:40:15",
-      "country": "US",
-      "title_ur": "امریکی بے روزگاری کے دعوے بڑھتے ہیں لیکن صحت مند سطح پر رہتے ہیں۔",
-      "desc_ur": "امریکی بیروزگاری کے دعوے بڑھتے ہیں لیکن صحت مند سطح پر رہتے ہیںbostonherald.com"
-    },
-    {
-      "title": "Oil Market Faces Conflicting Signals From Demand And Iran Tensions",
-      "desc": "Oil prices fell Thursday as investors weighed weakening global demand against continuing supply risks linked to the Middle East conflict. West Texas Intermediate crude declined 2% to $81.61 a barrel, while Brent crude fell 1.8% to $87.40.\n\nThe International…",
+      "title": "Iran studies BRICS payment network integration",
+      "desc": "Iranian Central Bank Governor Abdolnaser Hemmati (pictured) stressed on Thursday the need for a dedicated BRICS financial corridor and the integration of member states' national payment networks at th...",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/cbe04116d3eeea78",
-      "time": "2026-08-13T12:39:17",
+      "url": "https://biztoc.com/x/364517470fa51a1a",
+      "time": "2026-08-13T14:11:01",
       "country": "Iran",
-      "title_ur": "تیل کی منڈی کو ڈیمانڈ اور ایران کشیدگی سے متضاد سگنلز کا سامنا ہے۔",
-      "desc_ur": "جمعرات کو تیل کی قیمتوں میں کمی ہوئی کیونکہ سرمایہ کاروں نے مشرق وسطیٰ کے تنازعے سے منسلک رسد کے مسلسل خطرات کے خلاف عالمی مانگ کو کمزور کرنے کا وزن کیا۔ ویسٹ ٹیکساس انٹرمیڈیٹ کروڈ کی قیمت 2 فیصد کمی کے ساتھ 81.61 ڈالر فی بیرل جبکہ برینٹ کروڈ 1.8 فیصد کمی کے ساتھ 87.40 ڈالر فی بیرل رہا۔\n\nبین الاقوامی…"
+      "title_ur": "ایران برکس پیمنٹ نیٹ ورک انضمام کا مطالعہ کر رہا ہے۔",
+      "desc_ur": "ایرانی مرکزی بینک کے گورنر عبدالناصر ہمتی (تصویر میں) نے جمعرات کو برکس مالیاتی راہداری اور رکن ممالک کے قومی ادائیگیوں کے نیٹ ورکس کے انضمام کی ضرورت پر زور دیا۔"
     },
     {
-      "title": "A Pentagon memo tells staff to spend $244m with Palantir. Its subject line is ‘Funding Palantir’",
-      "desc": "Government software is usually bought by asking several companies to bid. A department writes down what it needs, suppliers compete, and the file records why the winner won. A memo drafted inside the US Defense Department on 4 August did something different. …",
-      "source": "The Next Web",
-      "url": "https://thenextweb.com/news/palantir-pentagon-244m-no-bid-feinberg-memo",
-      "time": "2026-08-13T12:37:42",
-      "country": "US",
-      "title_ur": "پینٹاگون کا ایک میمو عملے سے کہتا ہے کہ وہ پالانٹیر کے ساتھ 244 ملین ڈالر خرچ کرے۔ اس کا سبجیکٹ لائن 'فنڈنگ ​​پالانٹیر' ہے۔",
-      "desc_ur": "سرکاری سافٹ ویئر عام طور پر کئی کمپنیوں کو بولی کے لیے کہہ کر خریدا جاتا ہے۔ ایک شعبہ لکھتا ہے کہ اسے کیا ضرورت ہے، سپلائرز مقابلہ کرتے ہیں، اور فائل ریکارڈ کرتی ہے کہ فاتح کیوں جیتا ہے۔ 4 اگست کو امریکی محکمہ دفاع کے اندر تیار کردہ ایک میمو نے کچھ مختلف کیا۔ …"
+      "title": "Far From The Battlefield, Hawaii Pushes Trump On Weapons For Ukraine",
+      "desc": "As Washington once again wrestles with the question of how far the United States should go in supporting Ukraine, a resolution from one of the country's most geographically distant states -- Hawaii -- has added a new voice to the debate.",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "url": "https://www.rferl.org/a/hawaii-senate-ukraine-weapons-russia-us-support/33829696.html",
+      "time": "2026-08-13T14:10:45",
+      "country": "UK",
+      "title_ur": "میدان جنگ سے دور، ہوائی نے ٹرمپ کو یوکرین کے لیے ہتھیاروں پر دھکیل دیا۔",
+      "desc_ur": "جیسا کہ واشنگٹن ایک بار پھر اس سوال سے لڑ رہا ہے کہ امریکہ کو یوکرین کی حمایت میں کس حد تک جانا چاہئے، ملک کی جغرافیائی طور پر سب سے دور ریاستوں میں سے ایک -- ہوائی -- کی ایک قرارداد نے اس بحث میں ایک نئی آواز کا اضافہ کیا ہے۔"
     },
     {
-      "title": "Check-Cap (MBAI) Advances Merger with MBody AI; Reverse Share Split Effective",
-      "desc": "Check-Cap Ltd. (NASDAQ: MBAI) advanced its proposed merger with physical AI company, MBody AI Corp., completing a planned 1-for-7 reverse share split ISFIYA, Israel and LAS VEGAS, Aug. 13, 2026 (GLOBE NEWSWIRE) — Check-Cap Ltd. (“Check-Cap” or the “Company”) …",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/check-cap-mbai-advances-merger-with-mbody-ai-reverse-share-split-effective",
-      "time": "2026-08-13T12:37:36",
+      "title": "Israeli troops in West Bank homes besieged by settlers",
+      "desc": "Israeli troops have taken up positions inside Palestinian homes in the West Bank village of Qusra, the mayor said, after settlers trapped families in their houses.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/middle-east/2026/0813/1587756-west-bank/",
+      "time": "2026-08-13T14:10:11",
       "country": "Israel",
-      "title_ur": "چیک کیپ (ایم بی اے آئی) ایم باڈی اے آئی کے ساتھ انضمام کو آگے بڑھاتا ہے۔ ریورس شیئر سپلٹ موثر",
-      "desc_ur": "Check-Cap Ltd. (NASDAQ: MBAI) نے فزیکل AI کمپنی، MBody AI کارپوریشن کے ساتھ اپنے مجوزہ انضمام کو آگے بڑھایا، جس نے 7 کے بدلے 1-7 ریورس شیئر اسپلٹ ISFIYA، اسرائیل اور لاس ویگاس کو مکمل کرتے ہوئے، 13 اگست 2026 کو (GLOBE NEWSWIRE) - لمیٹڈ چیک کریں \"کمپنی\")…"
+      "title_ur": "اسرائیلی فوجیوں نے مغربی کنارے کے گھروں میں آباد کاروں کا محاصرہ کر رکھا ہے۔",
+      "desc_ur": "اسرائیلی فوجیوں نے مغربی کنارے کے گاؤں قصرا میں فلسطینیوں کے گھروں کے اندر پوزیشنیں سنبھال لی ہیں، میئر نے کہا کہ آباد کاروں نے خاندانوں کو ان کے گھروں میں پھنسا دیا ہے۔"
     },
     {
-      "title": "India's Petronet says no clarity on September LNG supplies from Qatar",
-      "desc": "Petronet LNG of India faces challenges in securing a reliable Qatari natural gas supply for September due to Qatar's force majeure announcement, affecting 56 cargoes. To compensate, Indian firms are diversifying their LNG imports from Oman, the US, Nigeria, a…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/indias-petronet-says-no-clarity-on-september-lng-supplies-from-qatar/articleshow/133212165.cms",
-      "time": "2026-08-13T12:37:19",
+      "title": "FO Exclusive: India’s Youth Cockroach Protests Rattle Prime Minister Narendra Modi",
+      "desc": "Editor-in-Chief Atul Singh and FOI Senior Partner Glenn Carle, a retired CIA officer who now advises companies, governments and organizations on geopolitical risk, examine how India’s “cockroach protests” have become a powerful symbol of youth frustration wit…",
+      "source": "Fair Observer",
+      "url": "https://www.fairobserver.com/politics/fo-exclusive-indias-youth-cockroach-protests-rattle-prime-minister-narendra-modi/",
+      "time": "2026-08-13T14:09:53",
       "country": "India",
-      "title_ur": "ہندوستان کے پیٹرونیٹ کا کہنا ہے کہ ستمبر میں قطر سے ایل این جی کی سپلائی کے بارے میں کوئی وضاحت نہیں ہے۔",
-      "desc_ur": "ہندوستان کی پیٹرونیٹ ایل این جی کو قطر کے فورس میجر کے اعلان کی وجہ سے ستمبر کے لیے قابل بھروسہ قطر قدرتی گیس کی سپلائی حاصل کرنے میں چیلنجز کا سامنا ہے، جس سے 56 کارگو متاثر ہوئے ہیں۔ اس کی تلافی کے لیے، ہندوستانی فرمیں عمان، امریکہ، نائیجیریا، ایک…"
+      "title_ur": "FO Exclusive: بھارت کے نوجوان کاکروچ نے وزیر اعظم نریندر مودی کے خلاف احتجاج کیا۔",
+      "desc_ur": "ایڈیٹر انچیف اتل سنگھ اور ایف او آئی کے سینئر پارٹنر گلین کارل، ایک ریٹائرڈ سی آئی اے افسر جو اب کمپنیوں، حکومتوں اور تنظیموں کو جیو پولیٹیکل رسک کے بارے میں مشورہ دیتے ہیں، اس بات کا جائزہ لیں کہ کس طرح ہندوستان کا \"کاکروچ احتجاج\" نوجوانوں کی مایوسی کی ایک طاقتور علامت بن گیا ہے..."
     },
     {
-      "title": "'This is insane!' MS NOW host flips out over Pete Hegseth's latest blunder",
-      "desc": "Defense Secretary Pete Hegseth was raked over the coals on Thursday morning amid reports of horrific conditions that his US military forces face. On MS NOW’s “Morning Joe,” co-host Joe Scarborough reacted to reports that the USS Abraham Lincoln has been deplo…",
-      "source": "Raw Story",
-      "url": "https://www.rawstory.com/hegseth-insane/",
-      "time": "2026-08-13T12:36:07",
+      "title": "In a first, US will allow some private firms to carry out cyberattacks | TechCrunch",
+      "desc": "The new order sweeps away decades of existing U.S. cybersecurity policy prohibiting private companies from conducting 'hack back' attacks or offensive cyber operations.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/13/in-a-first-us-will-allow-some-private-firms-to-carry-out-cyberattacks/",
+      "time": "2026-08-13T14:09:05",
       "country": "US",
-      "title_ur": "'یہ پاگل ہے!' MS NOW میزبان پیٹ ہیگستھ کی تازہ ترین غلطی پر پلٹ گیا۔",
-      "desc_ur": "وزیر دفاع پیٹ ہیگستھ کو جمعرات کی صبح انگاروں پر مارا گیا جب ان کی امریکی فوجی دستوں کو خوفناک حالات کا سامنا ہے۔ MS NOW کے \"مارننگ جو\" پر، شریک میزبان جو سکاربورو نے ان رپورٹس پر ردعمل ظاہر کیا کہ USS ابراہم لنکن کو تعینات کیا گیا ہے…"
+      "title_ur": "سب سے پہلے، امریکہ کچھ نجی فرموں کو سائبر حملے کرنے کی اجازت دے گا۔ ٹیک کرنچ",
+      "desc_ur": "نیا حکم عشروں پر محیط امریکی سائبر سیکیورٹی پالیسی کو ختم کر دیتا ہے جس میں نجی کمپنیوں کو 'ہیک بیک' حملے کرنے یا جارحانہ سائبر آپریشن کرنے سے منع کیا گیا ہے۔"
     },
     {
-      "title": "Wholesale prices were flat in July, below expectations for 0.2% increase",
-      "desc": "The producer price index was expected to increase by 0.2% in July, according to the Dow Jones consensus.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/13/wholesale-prices-were-flat-in-july-below-expectations-for-0point2percent-increase.html",
-      "time": "2026-08-13T12:35:44",
-      "country": "US",
-      "title_ur": "جولائی میں تھوک قیمتیں فلیٹ تھیں، جو کہ 0.2 فیصد اضافے کی توقعات سے کم تھیں۔",
-      "desc_ur": "ڈاؤ جونز کے اتفاق رائے کے مطابق جولائی میں پروڈیوسر پرائس انڈیکس میں 0.2 فیصد اضافہ متوقع تھا۔"
-    },
-    {
-      "title": "Courage for Peace, Not for War",
-      "desc": "In September of 2025, during a Saturday vigil in Stockholm’s Odenplan Square, Isak Hernández, age nine, asked if he could recite a poem he wrote. Deeply troubled by images he saw, day and night, from Gaza, he resolved not to be silent. “Their lives are not nu…",
-      "source": "Antiwar.com",
-      "url": "https://www.antiwar.com/blog/2026/08/13/courage-for-peace-not-for-war/",
-      "time": "2026-08-13T12:35:24",
-      "country": "Israel",
-      "title_ur": "امن کے لیے جرات، جنگ کے لیے نہیں۔",
-      "desc_ur": "ستمبر 2025 میں، سٹاک ہوم کے اوڈنپلان اسکوائر میں ہفتہ کی نگرانی کے دوران، نو سال کی عمر کے اساک ہرنینڈیز نے پوچھا کہ کیا وہ اپنی لکھی ہوئی نظم پڑھ سکتے ہیں۔ غزہ سے دن رات دیکھی گئی تصویروں سے شدید پریشانی میں اس نے خاموش نہ رہنے کا عزم کیا۔ \"ان کی زندگیاں نہیں..."
-    },
-    {
-      "title": "Osun election: Meet the 13 candidates battling for governorship seat",
-      "desc": "The contest features the incumbent, former commissioners, a former Speaker of the State House of Assembly, entrepreneurs, technocrats and candidates offering themselves as alternatives to the dominant political blocs.\nThe post Osun election: Meet the 13 candi…",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/08/osun-election-meet-the-13-candidates-battling-for-governorship-seat/",
-      "time": "2026-08-13T12:34:08",
-      "country": "US",
-      "title_ur": "اوسون الیکشن: گورنر شپ کے لیے لڑنے والے 13 امیدواروں سے ملیں۔",
-      "desc_ur": "اس مقابلے میں موجودہ، سابق کمشنر، ریاستی ایوانِ اسمبلی کے سابق اسپیکر، کاروباری افراد، ٹیکنوکریٹس اور امیدواروں کو شامل کیا گیا ہے جو اپنے آپ کو غالب سیاسی بلاکس کے متبادل کے طور پر پیش کرتے ہیں۔\nThe post اوسون الیکشن: 13 امیدواروں سے ملیں…"
-    },
-    {
-      "title": "The Gaping Hole in El-Sayed’s Progressive Agenda",
-      "desc": "Elie Mystal\n\n\n\nThe Senate nominee has woefully undercooked ideas on Supreme Court reform—and that’s a problem.\r\n\n\r\n\n\nThe post The Gaping Hole in El-Sayed’s Progressive Agenda appeared first on The Nation.",
-      "source": "Thenation.com",
-      "url": "https://www.thenation.com/article/politics/gaping-hole-el-sayeds-agenda/",
-      "time": "2026-08-13T12:33:44",
+      "title": "Ship Pays $4MM to Skip Line to Cross Panama Canal",
+      "desc": "A container ship paid $4 million to cut the line at the Panama Canal.",
+      "source": "Rigzone",
+      "url": "https://www.rigzone.com/news/wire/ship_pays_4mm_to_skip_line_to_cross_panama_canal-13-aug-2026-184370-article/",
+      "time": "2026-08-13T14:07:54",
       "country": "International",
-      "title_ur": "السید کے پروگریسو ایجنڈا میں دی گپنگ ہول",
-      "desc_ur": "ایلی میسٹل\n\n\n\nسینیٹ کے نامزد امیدوار نے سپریم کورٹ میں اصلاحات کے بارے میں بری طرح سے کم تر خیالات کا اظہار کیا ہے اور یہ ایک مسئلہ ہے۔\r\n\n\r\n\n\nThe post السید کے پروگریسو ایجنڈے میں گیپنگ ہول appeared first on The Nation."
+      "title_ur": "جہاز پاناما کینال کو عبور کرنے کے لیے لائن کو چھوڑنے کے لیے $4MM ادا کرتا ہے۔",
+      "desc_ur": "ایک کنٹینر جہاز نے پاناما کینال پر لائن کاٹنے کے لیے 4 ملین ڈالر ادا کیے۔"
     },
     {
-      "title": "How American society shields perpetrators of child sexual abuse",
-      "desc": "A community – bystanders, law enforcement, colleagues and family – is likely to deny an atrocity when acknowledging it requires action.",
-      "source": "The Conversation Africa",
-      "url": "https://theconversation.com/how-american-society-shields-perpetrators-of-child-sexual-abuse-287660",
-      "time": "2026-08-13T12:32:06",
+      "title": "There is now an archive of eulogies given by Palestinian journalists to their martyred colleagues.",
+      "desc": "“[They] are the hands that have kept every standard of humanity from collapse, that have kept the world from transforming entirely into a dark, oppressive, savage world. A world like a jungle; though it’s already so . . . But",
+      "source": "Lithub.com",
+      "url": "https://lithub.com/there-is-now-an-archive-of-eulogies-given-by-palestinian-journalists-to-their-martyred-colleagues/",
+      "time": "2026-08-13T14:07:43",
+      "country": "Europe",
+      "title_ur": "اب فلسطینی صحافیوں کی طرف سے اپنے شہید ساتھیوں کو دیے گئے خراج تحسین کا ایک ذخیرہ موجود ہے۔",
+      "desc_ur": "\"[وہ] وہ ہاتھ ہیں جنہوں نے انسانیت کے ہر معیار کو گرنے سے روک رکھا ہے، جنہوں نے دنیا کو مکمل طور پر ایک تاریک، جابرانہ، وحشی دنیا میں تبدیل ہونے سے روک رکھا ہے، ایک جنگل جیسی دنیا؛ اگرچہ یہ پہلے ہی ایسا ہے ... لیکن"
+    },
+    {
+      "title": "Patriots and THAAD: Lockheed Martin Corporation (LMT) and Northrop Grumman Corporation (NOC) Bet Big on Missile Defense Surge",
+      "desc": "On August 3, the Pentagon inked a more than $3 billion deal with Lockheed Martin Corporation (NYSE:LMT) and Northrop Grumman Corporation (NYSE:NOC) to boost...",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/patriots-thaad-lockheed-martin-corporation-140553456.html",
+      "time": "2026-08-13T14:05:53",
       "country": "US",
-      "title_ur": "امریکی معاشرہ بچوں کے جنسی استحصال کے مرتکب افراد کو کیسے بچاتا ہے۔",
-      "desc_ur": "ایک کمیونٹی - ساتھی، قانون نافذ کرنے والے، ساتھی اور خاندان - جب یہ تسلیم کرتے ہیں کہ اس کے لیے کارروائی کی ضرورت ہے، ظلم سے انکار کرنے کا امکان ہے۔"
+      "title_ur": "پیٹریاٹس اور تھاڈ: لاک ہیڈ مارٹن کارپوریشن (ایل ایم ٹی) اور نارتھروپ گرومن کارپوریشن (این او سی) میزائل ڈیفنس اضافے پر بڑی شرط لگاتے ہیں۔",
+      "desc_ur": "3 اگست کو، پینٹاگون نے لاک ہیڈ مارٹن کارپوریشن (NYSE:LMT) اور نارتھروپ گرومن کارپوریشن (NYSE:NOC) کے ساتھ 3 بلین ڈالر سے زیادہ کا معاہدہ کیا..."
+    },
+    {
+      "title": "Iran, US make competing claims over control of Strait of Hormuz",
+      "desc": "Iran's Basij paramilitary head stated the Strait of Hormuz is under Iranian control. This statement followed US President Donald Trump's assertion of total US control. Iran effectively shut the strait after US-Israeli strikes began on February 28. The US impo…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/iran-us-make-competing-claims-over-control-of-strait-of-hormuz/articleshow/133215051.cms",
+      "time": "2026-08-13T14:04:28",
+      "country": "Iran",
+      "title_ur": "ایران اور امریکہ نے آبنائے ہرمز کے کنٹرول کے لیے مسابقتی دعوے کیے ہیں۔",
+      "desc_ur": "ایران کے باسیج نیم فوجی سربراہ نے کہا کہ آبنائے ہرمز ایران کے کنٹرول میں ہے۔ یہ بیان امریکی صدر ڈونلڈ ٹرمپ کے مکمل امریکی کنٹرول کے دعوے کے بعد سامنے آیا ہے۔ 28 فروری کو امریکی اسرائیلی حملے شروع ہونے کے بعد ایران نے آبنائے کو مؤثر طریقے سے بند کردیا۔"
+    },
+    {
+      "title": "Lebanese Americans sue US over Israel’s rights abuses in Lebanon war",
+      "desc": "Michigan-based group leads class action lawsuit against US government and defence contractors over Lebanon war abuses.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/8/13/lebanese-americans-sue-us-over-israels-rights-abuses-in-lebanon-war",
+      "time": "2026-08-13T14:02:14",
+      "country": "Israel",
+      "title_ur": "لبنانی امریکیوں نے لبنان کی جنگ میں اسرائیل کے حقوق کی خلاف ورزیوں پر امریکہ پر مقدمہ دائر کیا۔",
+      "desc_ur": "مشی گن میں مقیم گروپ امریکی حکومت اور دفاعی ٹھیکیداروں کے خلاف لبنان کی جنگ کی خلاف ورزیوں پر طبقاتی کارروائی کے مقدمے کی قیادت کرتا ہے۔"
+    },
+    {
+      "title": "Steven Wright: High School Football Camp Tour: Offensive potential has Alter excited for 2026",
+      "desc": "Alter is looking for a few things to develop each season. They want a quality offensive line, securing key spots on defense and making sure special teams are shored up. Head coach Ed Domsitz has a winning formula over his 50-plus years leading teams. He said …",
+      "source": "Springfieldnewssun.com",
+      "url": "https://www.springfieldnewssun.com/sports/high-school-football-camp-tour-offensive-potential-has-alter-excited-for-2026/article_92a2d5a1-fe3e-5051-8a27-996de7c2635b.html",
+      "time": "2026-08-13T14:02:00",
+      "country": "US",
+      "title_ur": "اسٹیون رائٹ: ہائی اسکول فٹ بال کیمپ ٹور: جارحانہ صلاحیت نے 2026 کے لیے الٹر پرجوش ہے",
+      "desc_ur": "Alter ہر سیزن کو تیار کرنے کے لیے کچھ چیزوں کی تلاش میں ہے۔ وہ ایک معیاری جارحانہ لائن چاہتے ہیں، دفاع کے اہم مقامات کو محفوظ بناتے ہوئے اور اس بات کو یقینی بناتے ہوئے کہ خصوصی ٹیمیں تیار ہوں۔ ہیڈ کوچ ایڈ ڈومسِٹز کے پاس اپنی 50 سے زائد سالوں کی سرکردہ ٹیموں میں جیتنے کا فارمولا ہے۔ انہوں نے کہا…"
+    },
+    {
+      "title": "Meet the USA TODAY Sports Midwest Region preseason ALL-USA high school football team",
+      "desc": "USA TODAY Sports' preseason ALL-USA high school football team for the Midwest Region is here! See who are among the best of the best heading into the 2026 season.",
+      "source": "USA Today",
+      "url": "https://www.usatoday.com/story/sports/high-school/football/2026/08/13/preseason-midwest-region-high-school-football-team/91278618007/",
+      "time": "2026-08-13T14:01:11",
+      "country": "US",
+      "title_ur": "یو ایس اے ٹوڈے اسپورٹس مڈویسٹ ریجن پری سیزن آل یو ایس اے ہائی اسکول فٹ بال ٹیم سے ملو",
+      "desc_ur": "USA TODAY Sports' Preseason ALL-USA ہائی اسکول فٹ بال ٹیم برائے مڈویسٹ ریجن یہاں ہے! دیکھیں کہ 2026 کے سیزن میں بہترین سرخیوں میں کون ہیں۔"
+    },
+    {
+      "title": "Automotive Software Market worth $83.26 Billion by 2033 | MarketsandMarkets™",
+      "desc": "DELRAY BEACH, Fla., Aug. 13, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the global automotive software market size is projected to grow from USD 43.22 Billion in 2026 to USD 83.26 Billion by 2033 at a CAGR of 9.8%. Browse 250 market data Tables and…",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/automotive-software-market-worth-83-26-billion-by-2033--marketsandmarkets-302850604.html",
+      "time": "2026-08-13T14:01:00",
+      "country": "US",
+      "title_ur": "2033 تک $83.26 بلین مالیت کی آٹوموٹو سافٹ ویئر مارکیٹ | MarketsandMarkets™",
+      "desc_ur": "DELRAY BEACH، Fla.، 13 اگست 2026/PRNewswire/ -- MarketsandMarkets™ کے مطابق، عالمی آٹو موٹیو سافٹ ویئر مارکیٹ کا حجم 2026 میں USD 43.22 بلین سے بڑھ کر 2033 تک USD 83.26 بلین ہو جائے گا۔ 250 مارکیٹ ڈیٹا ٹیبلز کو براؤز کریں اور…"
+    },
+    {
+      "title": "India to play 600th Test on August 15: India's Test debut, landmarks, highest scorers detailed",
+      "desc": "Explore India's Test debut in 1932, milestone captains, and top career scorers.",
+      "source": "Sporting News",
+      "url": "https://www.sportingnews.com/in/cricket/news/india-600th-test-august-15-india-test-debut-landmarks-highest-scorers-detailed/c3229ce2d32453f17d1a466e",
+      "time": "2026-08-13T14:00:55",
+      "country": "India",
+      "title_ur": "بھارت 15 اگست کو 600 واں ٹیسٹ کھیلے گا: بھارت کا ٹیسٹ ڈیبیو، تاریخی نشانات، سب سے زیادہ سکور کرنے والوں کی تفصیل",
+      "desc_ur": "1932 میں ہندوستان کے ٹیسٹ ڈیبیو، سنگ میل کے کپتان، اور کیریئر کے سب سے بڑے اسکوررز کو دریافت کریں۔"
+    },
+    {
+      "title": "UNICEF Gaza findings ‘completely shatters’ starvation claims against Israel, State Dept says",
+      "desc": "New UNICEF findings fuel fresh scrutiny of Gaza famine claims as the State Department says the data ‘completely shatters’ allegations Israel deliberately starved civilians.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/world/unicef-gaza-findings-completely-shatters-starvation-claims-against-israel-state-dept-says",
+      "time": "2026-08-13T14:00:52",
+      "country": "Israel",
+      "title_ur": "یونیسیف غزہ کے نتائج نے اسرائیل کے خلاف بھوک کے دعووں کو 'مکمل طور پر توڑ دیا'، محکمہ خارجہ",
+      "desc_ur": "یونیسیف کے نئے نتائج غزہ کے قحط کے دعووں کی تازہ جانچ پڑتال کو ہوا دیتے ہیں کیونکہ محکمہ خارجہ کا کہنا ہے کہ اعداد و شمار ان الزامات کو 'مکمل طور پر بکھرتے ہیں' اسرائیل نے جان بوجھ کر شہریوں کو بھوکا مارا ہے۔"
     }
   ],
   "pakistan": [
     {
-      "title": "Turkiye lays out ‘mechanisms’ of defence pact with Pakistan, Saudi Arabia",
-      "desc": "Three nations to group ministers, hold ⁠joint exercises and deepen defence industry cooperation under the pact.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/8/13/turkiye-lays-out-mechanisms-of-defence-pact-with-pakistan-saudi-arabia",
-      "time": "2026-08-13T12:42:28",
+      "title": "KSE-100 index closes at 180,105 points",
+      "desc": "The KSE-100 index on the Pakistan Stock Exchange closed at 180,104.61, down 206.60 points, while the prices of 269 shares decreased",
+      "source": "Pakobserver.com.pk",
+      "url": "https://pakobserver.com.pk/business/kse-100-index-closes-at-180105-points/",
+      "time": "2026-08-13T14:01:06",
       "country": "Pakistan",
-      "title_ur": "ترکی نے پاکستان، سعودی عرب کے ساتھ دفاعی معاہدے کا 'میکانزم' پیش کیا۔",
-      "desc_ur": "معاہدے کے تحت تین ممالک گروپ وزراء، مشترکہ مشقیں کریں گے اور دفاعی صنعت میں تعاون کو گہرا کریں گے۔"
+      "title_ur": "KSE-100 انڈیکس 180,105 پوائنٹس پر بند ہوا۔",
+      "desc_ur": "پاکستان اسٹاک ایکسچینج میں کے ایس ای 100 انڈیکس 206.60 پوائنٹس کی کمی سے 180104.61 پر بند ہوا جب کہ 269 حصص کی قیمتوں میں کمی ہوئی۔"
     },
     {
-      "title": "Mecca pact ‘not a rival to NATO’: Defense Ministry",
-      "desc": "Far from being an alternative or rival to NATO, the newly established alliance between Türkiye, Saudi Arabia and Pakistan is purely defensive and designates no country as an adversary, a Defense Ministry pokesman stressed.",
-      "source": "Hurriyet Daily News",
-      "url": "https://www.hurriyetdailynews.com/mecca-pact-not-a-rival-to-nato-defense-ministry-225592",
-      "time": "2026-08-13T12:36:10",
+      "title": "India and Pakistan: Rivals With Divergent Views of the Global Order",
+      "desc": "Indians and Pakistanis tend to name the other country as their top threat, and each side doubts the other's commitment to good relations.",
+      "source": "Pew Research Center",
+      "url": "https://www.pewresearch.org/global/2026/08/13/india-and-pakistan-rivals-with-divergent-views-of-the-global-order/",
+      "time": "2026-08-13T13:56:44",
       "country": "Pakistan",
-      "title_ur": "مکہ معاہدہ 'نیٹو کا حریف نہیں': وزارت دفاع",
-      "desc_ur": "وزارت دفاع کے ایک پوک مین نے زور دے کر کہا کہ نیٹو کے متبادل یا حریف ہونے سے دور، ترکی، سعودی عرب اور پاکستان کے درمیان نیا قائم کردہ اتحاد خالصتاً دفاعی ہے اور کسی بھی ملک کو مخالف کے طور پر نامزد نہیں کرتا ہے۔"
+      "title_ur": "بھارت اور پاکستان: عالمی نظام کے مختلف نظریات کے ساتھ حریف",
+      "desc_ur": "ہندوستانی اور پاکستانی دوسرے ملک کو اپنا سب سے بڑا خطرہ قرار دیتے ہیں، اور دونوں فریق اچھے تعلقات کے لیے دوسرے کے عزم پر شک کرتے ہیں۔"
     },
     {
-      "title": "US and Iran duel over who controls Hormuz",
-      "desc": "Washington and Tehran again presented sharply contrasting narratives over the Strait of Hormuz, underscoring skepticism over the reopening of the waterway.\nHours after US President Donald Trump said his forces had “total control” over Hormuz, Iranian official…",
+      "title": "How do South Asians view other countries in the region?",
+      "desc": "We asked adults in Bangladesh, India, Pakistan and Sri Lanka how they view other South Asian countries. Only Sri Lanka receives more positive than negative ratings from the other three publics.",
+      "source": "Pew Research Center",
+      "url": "https://www.pewresearch.org/global/2026/08/13/how-do-south-asians-view-other-countries-in-the-region/",
+      "time": "2026-08-13T13:56:44",
+      "country": "Pakistan",
+      "title_ur": "جنوبی ایشیا کے لوگ خطے کے دیگر ممالک کو کس نظر سے دیکھتے ہیں؟",
+      "desc_ur": "ہم نے بنگلہ دیش، بھارت، پاکستان اور سری لنکا کے بالغوں سے پوچھا کہ وہ دوسرے جنوبی ایشیائی ممالک کو کیسے دیکھتے ہیں۔ صرف سری لنکا کو باقی تین لوگوں سے منفی ریٹنگز سے زیادہ مثبت ریٹنگ ملتی ہے۔"
+    },
+    {
+      "title": "CIA Had 'Low Confidence' of Iranian Threat on Trump Plane",
+      "desc": "US intelligence officials were skeptical of an Iranian assassination threat relayed by Israel against President Donald Trump following the NATO summit last month. #trump #iran #news #usa #politics #world\nRead more: \n----------\nLike this video? Subscribe \nBloo…",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/119bcd000bee1e66",
-      "time": "2026-08-13T12:24:37",
+      "url": "https://biztoc.com/x/ca96384e3e1c811c",
+      "time": "2026-08-13T13:55:13",
       "country": "Pakistan",
-      "title_ur": "امریکہ اور ایران اس بات پر لڑ رہے ہیں کہ ہرمز پر کون کنٹرول کرتا ہے۔",
-      "desc_ur": "واشنگٹن اور تہران نے آبنائے ہرمز کے بارے میں ایک بار پھر شدید متضاد بیانیے پیش کیے، آبی گزرگاہ کے دوبارہ کھلنے پر شکوک و شبہات کو اجاگر کیا۔\nامریکی صدر ڈونلڈ ٹرمپ کے یہ کہنے کے چند گھنٹے بعد کہ ان کی افواج کا ہرمز پر \"مکمل کنٹرول\" ہے، ایرانی اہلکار…"
+      "title_ur": "سی آئی اے کو ٹرمپ طیارے پر ایرانی دھمکی کا 'کم اعتماد' تھا۔",
+      "desc_ur": "امریکی انٹیلی جنس حکام کو گزشتہ ماہ نیٹو سربراہی اجلاس کے بعد صدر ڈونلڈ ٹرمپ کے خلاف اسرائیل کی جانب سے ایرانی قتل کی دھمکی پر شبہ تھا۔ #trump #iran #news #usa #politics #world\nمزید پڑھیں: \n----------\nیہ ویڈیو پسند ہے؟ سبسکرائب کریں۔ \nبلو…"
     },
     {
-      "title": "Indian bonds mirror gains in Treasuries as oil slips",
-      "desc": "Indian government bonds saw a modest rise on Thursday, reflecting trends in U.S. Treasury yields. Easing crude oil prices have lessened inflation fears, enhancing the bond market's optimism. Investors seem relieved about the likelihood of less aggressive inte…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-mirror-gains-in-treasuries-as-oil-slips/articleshow/133211927.cms",
-      "time": "2026-08-13T12:22:46",
+      "title": "Public opinion of India is mixed across 36 countries",
+      "desc": "Public opinion of India ranges widely across 36 countries, with favorable views ranging from 79% in Sri Lanka to 7% in Pakistan.",
+      "source": "Pew Research Center",
+      "url": "https://www.pewresearch.org/short-reads/2026/08/13/public-opinion-of-india-is-mixed-across-36-countries/",
+      "time": "2026-08-13T13:51:59",
       "country": "Pakistan",
-      "title_ur": "ہندوستانی بانڈز تیل کی کھپت کے طور پر خزانے میں حاصل ہونے والے فوائد کا آئینہ دار ہیں۔",
-      "desc_ur": "جمعرات کو ہندوستانی حکومت کے بانڈز میں معمولی اضافہ دیکھا گیا، جو امریکی ٹریژری کی پیداوار میں رجحانات کی عکاسی کرتا ہے۔ خام تیل کی قیمتوں میں نرمی نے مہنگائی کے خدشات کو کم کیا ہے، جس سے بانڈ مارکیٹ کی امید میں اضافہ ہوا ہے۔ سرمایہ کار کم جارحانہ انٹ کے امکان کے بارے میں راحت محسوس کرتے ہیں…"
+      "title_ur": "36 ممالک میں ہندوستان کے بارے میں رائے عامہ مخلوط ہے۔",
+      "desc_ur": "بھارت کے بارے میں رائے عامہ 36 ممالک میں وسیع پیمانے پر پھیلی ہوئی ہے، سری لنکا میں 79 فیصد سے پاکستان میں 7 فیصد تک موافق آراء کے ساتھ۔"
+    },
+    {
+      "title": "Egypt Opens Bid for 14 Oil and Gas Concessions",
+      "desc": "Egypt’s Minister of Petroleum and Mineral Resources Karim Badawi announced on Wednesday the launch of the 2026 international bid round for crude oil and gas exploration. The tender features 14 new blocks open to both international and Egyptian companies. The …",
+      "source": "Aawsat.com",
+      "url": "https://english.aawsat.com/business/5306406-egypt-opens-bid-14-oil-and-gas-concessions",
+      "time": "2026-08-13T13:49:53",
+      "country": "Pakistan",
+      "title_ur": "مصر نے تیل اور گیس کی 14 مراعات کے لیے بولی کھول دی۔",
+      "desc_ur": "مصر کے پیٹرولیم اور معدنی وسائل کے وزیر کریم بداوی نے بدھ کے روز خام تیل اور گیس کی تلاش کے لیے 2026 کے بین الاقوامی بولی کے دور کے آغاز کا اعلان کیا۔ ٹینڈر میں 14 نئے بلاکس بین الاقوامی اور مصری کمپنیوں کے لیے کھلے ہیں۔ اس…"
     }
   ],
   "business": {
