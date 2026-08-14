@@ -1,167 +1,197 @@
 {
-  "generated": "2026-08-14T11:39:42Z",
+  "generated": "2026-08-14T12:51:38Z",
   "world": [
     {
-      "title": "Iran kills 2 affiliated with US-Israel intelligence",
-      "desc": "Iran's Ministry of Intelligence claimed in a statement, carried by IRIB, on Thursday, that it identified several \"terrorists\" affiliated with the United States-Israel intelligence services entering th...",
+      "title": "Iran looks to ramp up economic alliance with BRICS nations as war with U.S. drags on",
+      "desc": "Iran’s central bank chief said Thursday that the country is set to join the BRICS New Development Bank.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/13/iran-war-brics-bank.html",
+      "time": "2026-08-13T12:48:08",
+      "country": "Iran",
+      "title_ur": "امریکہ کے ساتھ جنگ ​​کے بعد ایران برکس ممالک کے ساتھ اقتصادی اتحاد کو بڑھانا چاہتا ہے",
+      "desc_ur": "ایران کے مرکزی بینک کے سربراہ نے جمعرات کو کہا کہ ملک برکس نیو ڈیولپمنٹ بینک میں شامل ہونے کے لیے تیار ہے۔"
+    },
+    {
+      "title": "INR weighed down by weak investor sentiments; Falling oil prices limit losses",
+      "desc": "The Indian rupee depreciated 12 paise to 95.45 against the US dollar on Thursday, weighed by weak domestic markets and persistent foreign fund outflows amid lingering geopolitical risks. Local shares cut early losses to end mixed. Investors heaved a sigh of r…",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/markets/capital-market-news/inr-weighed-down-by-weak-investor-sentiments-falling-oil-prices-limit-losses-126081301652_1.html",
+      "time": "2026-08-13T12:46:02",
+      "country": "India",
+      "title_ur": "سرمایہ کاروں کے کمزور جذبات کی وجہ سے INR میں کمی آئی۔ تیل کی گرتی ہوئی قیمتیں نقصانات کو محدود کرتی ہیں۔",
+      "desc_ur": "ہندوستانی روپیہ جمعرات کو امریکی ڈالر کے مقابلے میں 12 پیسے کم ہوکر 95.45 پر آگیا، کمزور گھریلو منڈیوں اور دیرپا جغرافیائی سیاسی خطرات کے درمیان غیر ملکی فنڈ کے مسلسل اخراج کی وجہ سے وزن کیا گیا۔ مقامی حصص نے ابتدائی نقصانات کو ملا کر ختم کیا۔ سرمایہ کاروں نے سکون کا سانس لیا…"
+    },
+    {
+      "title": "UK economy unexpectedly expands in June amid World Cup boost",
+      "desc": "The unexpected economic growth in June highlights the UK's resilience but underscores the need for strategic policy amid political and cost challenges.\nThe post UK economy unexpectedly expands in June amid World Cup boost appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/uk-economy-expands-june-world-cup/",
+      "time": "2026-08-13T12:45:10",
+      "country": "UK",
+      "title_ur": "ورلڈ کپ کے فروغ کے درمیان جون میں برطانیہ کی معیشت غیر متوقع طور پر پھیل رہی ہے۔",
+      "desc_ur": "جون میں غیر متوقع اقتصادی ترقی برطانیہ کی لچک کو اجاگر کرتی ہے لیکن سیاسی اور لاگت کے چیلنجوں کے درمیان اسٹریٹجک پالیسی کی ضرورت پر زور دیتی ہے۔\nThe post ورلڈ کپ کے فروغ کے درمیان جون میں برطانیہ کی معیشت غیر متوقع طور پر پھیل گئی appeared first on Crypto Briefing."
+    },
+    {
+      "title": "Bitcoin and ethereum prices today, Thursday, August 13, 2026: BTC price trends turn negative",
+      "desc": "Bitcoin opened at $63,410.39 on Thursday, August 13, 2026, down 0.2% compared to Wednesday's opening price. As of 8:29 a.m. ET this morning, the price of bit...",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-august-13-2026-btc-price-trends-turn-negative-124406250.html",
+      "time": "2026-08-13T12:44:06",
+      "country": "US",
+      "title_ur": "بٹ کوائن اور ایتھریم کی قیمتیں آج، جمعرات، 13 اگست، 2026: بی ٹی سی قیمت کے رجحانات منفی ہو گئے",
+      "desc_ur": "Bitcoin جمعرات، 13 اگست 2026 کو $63,410.39 پر کھلا، بدھ کی ابتدائی قیمت کے مقابلے میں 0.2% کم۔ آج صبح 8:29 بجے ET تک، بٹ کی قیمت..."
+    },
+    {
+      "title": "US unemployment claims rise but remain at healthy level",
+      "desc": "US unemployment claims rise but remain at healthy levelbostonherald.com",
+      "source": "Medianewsgroup.com",
+      "url": "https://wirehub.medianewsgroup.com/2026/08/13/us-unemployment-claims-rise-but-remain-at-healthy-level/",
+      "time": "2026-08-13T12:40:15",
+      "country": "US",
+      "title_ur": "امریکی بے روزگاری کے دعوے بڑھتے ہیں لیکن صحت مند سطح پر رہتے ہیں۔",
+      "desc_ur": "امریکی بیروزگاری کے دعوے بڑھتے ہیں لیکن صحت مند سطح پر رہتے ہیںbostonherald.com"
+    },
+    {
+      "title": "Oil Market Faces Conflicting Signals From Demand And Iran Tensions",
+      "desc": "Oil prices fell Thursday as investors weighed weakening global demand against continuing supply risks linked to the Middle East conflict. West Texas Intermediate crude declined 2% to $81.61 a barrel, while Brent crude fell 1.8% to $87.40.\n\nThe International…",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/fd4eb72387a18857",
-      "time": "2026-08-13T11:39:02",
+      "url": "https://biztoc.com/x/cbe04116d3eeea78",
+      "time": "2026-08-13T12:39:17",
       "country": "Iran",
-      "title_ur": "ایران نے امریکی اسرائیلی انٹیلی جنس سے وابستہ 2 افراد کو ہلاک کر دیا۔",
-      "desc_ur": "ایران کی وزارت انٹیلی جنس نے جمعرات کو ایک بیان میں دعویٰ کیا، جسے آئی آر آئی بی نے لے جایا ہے، اس نے امریکہ اور اسرائیل کی انٹیلی جنس سروسز سے وابستہ کئی \"دہشت گردوں\" کی نشاندہی کی ہے۔"
+      "title_ur": "تیل کی منڈی کو ڈیمانڈ اور ایران کشیدگی سے متضاد سگنلز کا سامنا ہے۔",
+      "desc_ur": "جمعرات کو تیل کی قیمتوں میں کمی ہوئی کیونکہ سرمایہ کاروں نے مشرق وسطیٰ کے تنازعے سے منسلک رسد کے مسلسل خطرات کے خلاف عالمی مانگ کو کمزور کرنے کا وزن کیا۔ ویسٹ ٹیکساس انٹرمیڈیٹ کروڈ کی قیمت 2 فیصد کمی کے ساتھ 81.61 ڈالر فی بیرل جبکہ برینٹ کروڈ 1.8 فیصد کمی کے ساتھ 87.40 ڈالر فی بیرل رہا۔\n\nبین الاقوامی…"
     },
     {
-      "title": "Be Prepared to Protect Our Democracy in November From a Trumpian Plot",
-      "desc": "Back in the days when conservatives were so hungry for media platforms that they’d come on progressive shows, I used to regularly debate Wayne Allen Root (here and here, for example). Instead of trying to convince me, though, Root has recently taken to giving…",
-      "source": "Common Dreams",
-      "url": "https://www.commondreams.org/opinion/protect-election-from-trump",
-      "time": "2026-08-13T11:39:01",
+      "title": "A Pentagon memo tells staff to spend $244m with Palantir. Its subject line is ‘Funding Palantir’",
+      "desc": "Government software is usually bought by asking several companies to bid. A department writes down what it needs, suppliers compete, and the file records why the winner won. A memo drafted inside the US Defense Department on 4 August did something different. …",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/palantir-pentagon-244m-no-bid-feinberg-memo",
+      "time": "2026-08-13T12:37:42",
       "country": "US",
-      "title_ur": "نومبر میں ٹرمپ کی سازش سے ہماری جمہوریت کی حفاظت کے لیے تیار رہیں",
-      "desc_ur": "ان دنوں میں جب قدامت پسند میڈیا پلیٹ فارمز کے لیے اتنے بھوکے تھے کہ وہ ترقی پسند شوز میں آتے تھے، میں باقاعدگی سے وین ایلن روٹ (مثال کے طور پر یہاں اور یہاں) پر بحث کرتا تھا۔ مجھے راضی کرنے کی کوشش کرنے کے بجائے، اگرچہ، روٹ نے حال ہی میں دینا شروع کر دیا ہے…"
+      "title_ur": "پینٹاگون کا ایک میمو عملے سے کہتا ہے کہ وہ پالانٹیر کے ساتھ 244 ملین ڈالر خرچ کرے۔ اس کا سبجیکٹ لائن 'فنڈنگ ​​پالانٹیر' ہے۔",
+      "desc_ur": "سرکاری سافٹ ویئر عام طور پر کئی کمپنیوں کو بولی کے لیے کہہ کر خریدا جاتا ہے۔ ایک شعبہ لکھتا ہے کہ اسے کیا ضرورت ہے، سپلائرز مقابلہ کرتے ہیں، اور فائل ریکارڈ کرتی ہے کہ فاتح کیوں جیتا ہے۔ 4 اگست کو امریکی محکمہ دفاع کے اندر تیار کردہ ایک میمو نے کچھ مختلف کیا۔ …"
     },
     {
-      "title": "Israel reopens historic settlement in north West Bank",
-      "desc": "Israel officially reopened the West Bank settlement of Ganim after a twenty-year withdrawal.  This move signifies the current government's policy of rapid settlement expansion in the region.  Future residents and their families gathered to witness the reopeni…",
+      "title": "Check-Cap (MBAI) Advances Merger with MBody AI; Reverse Share Split Effective",
+      "desc": "Check-Cap Ltd. (NASDAQ: MBAI) advanced its proposed merger with physical AI company, MBody AI Corp., completing a planned 1-for-7 reverse share split ISFIYA, Israel and LAS VEGAS, Aug. 13, 2026 (GLOBE NEWSWIRE) — Check-Cap Ltd. (“Check-Cap” or the “Company”) …",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/check-cap-mbai-advances-merger-with-mbody-ai-reverse-share-split-effective",
+      "time": "2026-08-13T12:37:36",
+      "country": "Israel",
+      "title_ur": "چیک کیپ (ایم بی اے آئی) ایم باڈی اے آئی کے ساتھ انضمام کو آگے بڑھاتا ہے۔ ریورس شیئر سپلٹ موثر",
+      "desc_ur": "Check-Cap Ltd. (NASDAQ: MBAI) نے فزیکل AI کمپنی، MBody AI کارپوریشن کے ساتھ اپنے مجوزہ انضمام کو آگے بڑھایا، جس نے 7 کے بدلے 1-7 ریورس شیئر اسپلٹ ISFIYA، اسرائیل اور لاس ویگاس کو مکمل کرتے ہوئے، 13 اگست 2026 کو (GLOBE NEWSWIRE) - لمیٹڈ چیک کریں \"کمپنی\")…"
+    },
+    {
+      "title": "India's Petronet says no clarity on September LNG supplies from Qatar",
+      "desc": "Petronet LNG of India faces challenges in securing a reliable Qatari natural gas supply for September due to Qatar's force majeure announcement, affecting 56 cargoes. To compensate, Indian firms are diversifying their LNG imports from Oman, the US, Nigeria, a…",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/israel-reopens-historic-settlement-in-north-west-bank/articleshow/133210463.cms",
-      "time": "2026-08-13T11:37:34",
-      "country": "Israel",
-      "title_ur": "اسرائیل نے شمالی مغربی کنارے میں تاریخی بستی کو دوبارہ کھول دیا۔",
-      "desc_ur": "اسرائیل نے باضابطہ طور پر مغربی کنارے کی گنیم کی بستی کو بیس سال کی واپسی کے بعد دوبارہ کھول دیا۔  یہ اقدام خطے میں تیزی سے آباد کاری کی توسیع کی موجودہ حکومت کی پالیسی کی نشاندہی کرتا ہے۔  مستقبل کے رہائشی اور ان کے اہل خانہ دوبارہ کھلنے کا مشاہدہ کرنے کے لیے جمع ہوئے…"
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/indias-petronet-says-no-clarity-on-september-lng-supplies-from-qatar/articleshow/133212165.cms",
+      "time": "2026-08-13T12:37:19",
+      "country": "India",
+      "title_ur": "ہندوستان کے پیٹرونیٹ کا کہنا ہے کہ ستمبر میں قطر سے ایل این جی کی سپلائی کے بارے میں کوئی وضاحت نہیں ہے۔",
+      "desc_ur": "ہندوستان کی پیٹرونیٹ ایل این جی کو قطر کے فورس میجر کے اعلان کی وجہ سے ستمبر کے لیے قابل بھروسہ قطر قدرتی گیس کی سپلائی حاصل کرنے میں چیلنجز کا سامنا ہے، جس سے 56 کارگو متاثر ہوئے ہیں۔ اس کی تلافی کے لیے، ہندوستانی فرمیں عمان، امریکہ، نائیجیریا، ایک…"
     },
     {
-      "title": "United States and Israeli Policy Further Divides Somalia",
-      "desc": "White House to cut back on United Nations assistance while there is continued military and diplomatic interference by Washington and Tel Aviv\n\nTo read this article in the following languages, click the Translate Website button below the author’s name.\n\n\n\n\nHeb…",
-      "source": "Globalresearch.ca",
-      "url": "https://www.globalresearch.ca/united-states-israeli-policy-divides-somalia/5936605",
-      "time": "2026-08-13T11:36:00",
-      "country": "Israel",
-      "title_ur": "امریکہ اور اسرائیل کی پالیسی صومالیہ کو مزید تقسیم کرتی ہے۔",
-      "desc_ur": "واشنگٹن اور تل ابیب کی جانب سے مسلسل فوجی اور سفارتی مداخلت کے دوران وائٹ ہاؤس اقوام متحدہ کی امداد میں کمی کرے گا\n\nاس مضمون کو درج ذیل زبانوں میں پڑھنے کے لیے، مصنف کے نام کے نیچے ویب سائٹ کا ترجمہ کریں بٹن پر کلک کریں۔\n\n\n\n\nہیب…"
-    },
-    {
-      "title": "Sensex gains, Nifty slides as broader market outperforms",
-      "desc": "Key benchmark indices ended largely flat in a volatile session on Thursday, with the Nifty closing near the 24,400 level. Buying at lower levels helped the index recover from an intraday low of 24,311.40. Trading remained volatile amid the weekly expiry of BS…",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/markets/capital-market-news/sensex-gains-nifty-slides-as-broader-market-outperforms-126081301359_1.html",
-      "time": "2026-08-13T11:34:11",
-      "country": "International",
-      "title_ur": "سینسیکس میں اضافہ، نفٹی وسیع تر مارکیٹ کی کارکردگی کے طور پر پھسل گیا۔",
-      "desc_ur": "کلیدی بینچ مارک انڈیکس جمعرات کو ایک غیر مستحکم سیشن میں بڑے پیمانے پر فلیٹ ختم ہوا، نفٹی 24,400 کی سطح کے قریب بند ہوا۔ نچلی سطح پر خریداری نے انڈیکس کو 24,311.40 کی انٹرا ڈے نچلی سطح سے بازیافت کرنے میں مدد کی۔ BS کی ہفتہ وار میعاد ختم ہونے کے درمیان ٹریڈنگ اتار چڑھاؤ کا شکار رہی…"
-    },
-    {
-      "title": "Lakers fans left furious over new owner's connection to the president after bombshell $12.5billion sale: 'How long until Trump is involved?'",
-      "desc": "After the bombshell announcement of the Los Angeles Lakers sale on Wednesday, fans are already fuming over the potential for outside political influence.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/sport/nba/article-16048325/lakers-sale-josh-kushner-bob-iger-trump.html",
-      "time": "2026-08-13T11:32:40",
-      "country": "US",
-      "title_ur": "لیکرز کے مداحوں نے 12.5 بلین ڈالر کی بمباری کے بعد صدر سے نئے مالک کے کنکشن پر غصہ چھوڑا: 'ٹرمپ کب تک ملوث ہے؟'",
-      "desc_ur": "بدھ کے روز لاس اینجلس لیکرز کی فروخت کے بمشکل اعلان کے بعد، شائقین پہلے ہی بیرونی سیاسی اثر و رسوخ کے امکانات پر غصے میں ہیں۔"
-    },
-    {
-      "title": "Trump fondles tree photos in front of baffled reporter: 'There is no precedent'",
-      "desc": "President Donald Trump was fixated on an oddly specific, off-topic subject during an interview just days after he launched a war against Iran, according to a reporter who spoke to him.New York Times reporter Maggie Haberman met with the then-79-year-old presi…",
+      "title": "'This is insane!' MS NOW host flips out over Pete Hegseth's latest blunder",
+      "desc": "Defense Secretary Pete Hegseth was raked over the coals on Thursday morning amid reports of horrific conditions that his US military forces face. On MS NOW’s “Morning Joe,” co-host Joe Scarborough reacted to reports that the USS Abraham Lincoln has been deplo…",
       "source": "Raw Story",
-      "url": "https://www.rawstory.com/trump-2677700511/",
-      "time": "2026-08-13T11:32:06",
-      "country": "Iran",
-      "title_ur": "ٹرمپ نے حیرت زدہ رپورٹر کے سامنے درختوں کی تصاویر کو پسند کیا: 'ایسی کوئی نظیر نہیں ملتی'",
-      "desc_ur": "صدر ڈونلڈ ٹرمپ نے ایران کے خلاف جنگ شروع کرنے کے چند دن بعد ایک انٹرویو کے دوران ایک عجیب و غریب مخصوص موضوع پر فکس کیا تھا، ایک رپورٹر کے مطابق جس نے ان سے بات کی تھی۔ نیویارک ٹائمز کی رپورٹر میگی ہیبرمین نے اس وقت کے 79 سالہ صدر سے ملاقات کی…"
-    },
-    {
-      "title": "Inflation eased slightly in July. And, ICE plans to give officers electric shock gloves",
-      "desc": "Inflation cooled a bit last month, according to a new report from the Labor Department. And, ICE plans to equip its officers with electric shock gloves.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/08/13/g-s1-138578/up-first-newsletter-inflation-colombia-earthquake-ice-gloves-migrant-children-karolina-leavitt",
-      "time": "2026-08-13T11:31:18",
-      "country": "International",
-      "title_ur": "جولائی میں مہنگائی میں قدرے کمی آئی۔ اور، ICE افسران کو الیکٹرک شاک دستانے دینے کا ارادہ رکھتا ہے۔",
-      "desc_ur": "لیبر ڈپارٹمنٹ کی ایک نئی رپورٹ کے مطابق، پچھلے مہینے مہنگائی قدرے ٹھنڈی پڑی۔ اور، ICE اپنے افسران کو الیکٹرک شاک دستانے سے لیس کرنے کا ارادہ رکھتا ہے۔"
-    },
-    {
-      "title": "Rising U.S. Wages Is Good News That Compounds To Great News Over Time",
-      "desc": "Wage gains are an effect of investment, which means those gains beget more of the same.",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/johntamny/2026/08/13/rising-us-wages-is-good-news-that-compounds-to-great-news-over-time/",
-      "time": "2026-08-13T11:30:29",
-      "country": "International",
-      "title_ur": "امریکی اجرتوں میں اضافہ ایک اچھی خبر ہے جو وقت گزرنے کے ساتھ ساتھ بڑی خبروں میں شامل ہو جاتی ہے۔",
-      "desc_ur": "اجرت کا فائدہ سرمایہ کاری کا اثر ہے، جس کا مطلب ہے کہ وہ فوائد اسی سے زیادہ پیدا ہوتے ہیں۔"
-    },
-    {
-      "title": "The Next Wave: How Last Year’s Freshman Class Set the Stage, and Why Jackson Cantwell Is Already the Most Hyped Newcomer in Coral Gables",
-      "desc": "Toney and Fitzgerald proved freshmen can start at Miami. Cantwell and Others prove the pipeline is just getting started.",
-      "source": "Stateoftheu.com",
-      "url": "https://www.stateoftheu.com/football-news/87329/the-next-wave-how-last-years-freshman-class-set-the-stage-and-why-jackson-cantwell-is-already-the-most-hyped-newcomer-in-coral-gables",
-      "time": "2026-08-13T11:30:00",
+      "url": "https://www.rawstory.com/hegseth-insane/",
+      "time": "2026-08-13T12:36:07",
       "country": "US",
-      "title_ur": "اگلی لہر: پچھلے سال کی فریش مین کلاس نے کس طرح مرحلہ طے کیا، اور جیکسن کینٹ ویل پہلے ہی کورل گیبلز میں سب سے زیادہ ہائپڈ نووارد کیوں ہیں۔",
-      "desc_ur": "ٹونی اور فٹزجیرالڈ نے ثابت کیا کہ نئے لوگ میامی میں شروع کر سکتے ہیں۔ کینٹ ویل اور دیگر ثابت کرتے ہیں کہ پائپ لائن ابھی شروع ہو رہی ہے۔"
+      "title_ur": "'یہ پاگل ہے!' MS NOW میزبان پیٹ ہیگستھ کی تازہ ترین غلطی پر پلٹ گیا۔",
+      "desc_ur": "وزیر دفاع پیٹ ہیگستھ کو جمعرات کی صبح انگاروں پر مارا گیا جب ان کی امریکی فوجی دستوں کو خوفناک حالات کا سامنا ہے۔ MS NOW کے \"مارننگ جو\" پر، شریک میزبان جو سکاربورو نے ان رپورٹس پر ردعمل ظاہر کیا کہ USS ابراہم لنکن کو تعینات کیا گیا ہے…"
     },
     {
-      "title": "Karyopharm Reports Second Quarter 2026 Financial Results and Highlights Continued Progress Toward Myelofibrosis sNDA Submission",
-      "desc": "– Planned August sNDA Submission for Selinexor in Combination with Ruxolitinib in Myelofibrosis under the Accelerated Approval Pathway Remains on Track – – Planned sNDA for Selinexor plus Ruxolitinib Supported by Phase 3 SENTRY Results Presented at ASCO and E…",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/karyopharm-reports-second-quarter-2026-financial-results-and-highlights-continued-progress-toward-myelofibrosis-snda-submission-302850269.html",
-      "time": "2026-08-13T11:30:00",
+      "title": "Wholesale prices were flat in July, below expectations for 0.2% increase",
+      "desc": "The producer price index was expected to increase by 0.2% in July, according to the Dow Jones consensus.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/13/wholesale-prices-were-flat-in-july-below-expectations-for-0point2percent-increase.html",
+      "time": "2026-08-13T12:35:44",
       "country": "US",
-      "title_ur": "کیریوفرم نے دوسری سہ ماہی 2026 کے مالیاتی نتائج اور جھلکیاں مائیلوفائبروسس sNDA جمع کرانے کی جانب جاری پیش رفت کی رپورٹیں",
-      "desc_ur": "– ایکسلریٹڈ اپروول پاتھ وے کے تحت Myelofibrosis میں Ruxolitinib کے ساتھ مل کر Selinexor کے لیے اگست میں sNDA جمع کرانے کا منصوبہ ٹریک پر رہتا ہے – – Selinexor پلس Ruxolitinib کے لیے منصوبہ بند sNDA جس کی تائید فیز 3 سنٹری کے نتائج ASCO اور E پر پیش کیے گئے…"
+      "title_ur": "جولائی میں تھوک قیمتیں فلیٹ تھیں، جو کہ 0.2 فیصد اضافے کی توقعات سے کم تھیں۔",
+      "desc_ur": "ڈاؤ جونز کے اتفاق رائے کے مطابق جولائی میں پروڈیوسر پرائس انڈیکس میں 0.2 فیصد اضافہ متوقع تھا۔"
     },
     {
-      "title": "Israel trucks out Gaza’s rubble to ‘hide genocide’ and ‘redraw the map’",
-      "desc": "Israel carts away Gaza's rubble to destroy war crimes evidence and make the landscape unliveable, rights groups say.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/features/2026/8/13/israel-trucks-out-gazas-rubble-to-hide-genocide-and-redraw-the-map",
-      "time": "2026-08-13T11:29:32",
+      "title": "Courage for Peace, Not for War",
+      "desc": "In September of 2025, during a Saturday vigil in Stockholm’s Odenplan Square, Isak Hernández, age nine, asked if he could recite a poem he wrote. Deeply troubled by images he saw, day and night, from Gaza, he resolved not to be silent. “Their lives are not nu…",
+      "source": "Antiwar.com",
+      "url": "https://www.antiwar.com/blog/2026/08/13/courage-for-peace-not-for-war/",
+      "time": "2026-08-13T12:35:24",
       "country": "Israel",
-      "title_ur": "اسرائیل نے 'نسل کشی کو چھپانے' اور 'نقشہ دوبارہ تیار کرنے' کے لیے غزہ کا ملبہ اٹھا لیا",
-      "desc_ur": "انسانی حقوق کی تنظیموں کا کہنا ہے کہ اسرائیل جنگی جرائم کے شواہد کو تباہ کرنے اور زمین کی تزئین کو ناقابلِ رہائش بنانے کے لیے غزہ کا ملبہ اٹھا رہا ہے۔"
+      "title_ur": "امن کے لیے جرات، جنگ کے لیے نہیں۔",
+      "desc_ur": "ستمبر 2025 میں، سٹاک ہوم کے اوڈنپلان اسکوائر میں ہفتہ کی نگرانی کے دوران، نو سال کی عمر کے اساک ہرنینڈیز نے پوچھا کہ کیا وہ اپنی لکھی ہوئی نظم پڑھ سکتے ہیں۔ غزہ سے دن رات دیکھی گئی تصویروں سے شدید پریشانی میں اس نے خاموش نہ رہنے کا عزم کیا۔ \"ان کی زندگیاں نہیں..."
     },
     {
-      "title": "President Trump’s Pardon to Narcotics Trafficking Former President of Honduras (JOH), Opium Trade in Afghanistan",
-      "desc": "In recent months President Trump has done a lot of very disturbing things in the name of stopping drug trafficking—made over 60 attacks on sea vessels killing over 220 persons, issued threats to Mexico and several other countries, even kidnapped …\nThe post Pr…",
-      "source": "Globalresearch.ca",
-      "url": "https://www.globalresearch.ca/america-pardon-proven-drug-offender-killing-attacks-innocent-people/5936550",
-      "time": "2026-08-13T11:28:55",
+      "title": "Osun election: Meet the 13 candidates battling for governorship seat",
+      "desc": "The contest features the incumbent, former commissioners, a former Speaker of the State House of Assembly, entrepreneurs, technocrats and candidates offering themselves as alternatives to the dominant political blocs.\nThe post Osun election: Meet the 13 candi…",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/08/osun-election-meet-the-13-candidates-battling-for-governorship-seat/",
+      "time": "2026-08-13T12:34:08",
       "country": "US",
-      "title_ur": "صدر ٹرمپ کی منشیات کی اسمگلنگ پر معافی، ہونڈوراس کے سابق صدر (JOH)، افغانستان میں افیون کی تجارت",
-      "desc_ur": "حالیہ مہینوں میں صدر ٹرمپ نے منشیات کی اسمگلنگ کو روکنے کے نام پر بہت پریشان کن باتیں کی ہیں- سمندری جہازوں پر 60 سے زیادہ حملے کیے جس میں 220 سے زیادہ افراد ہلاک ہوئے، میکسیکو اور کئی دوسرے ممالک کو دھمکیاں دی گئیں، یہاں تک کہ اغوا بھی…\nThe post Pr…"
+      "title_ur": "اوسون الیکشن: گورنر شپ کے لیے لڑنے والے 13 امیدواروں سے ملیں۔",
+      "desc_ur": "اس مقابلے میں موجودہ، سابق کمشنر، ریاستی ایوانِ اسمبلی کے سابق اسپیکر، کاروباری افراد، ٹیکنوکریٹس اور امیدواروں کو شامل کیا گیا ہے جو اپنے آپ کو غالب سیاسی بلاکس کے متبادل کے طور پر پیش کرتے ہیں۔\nThe post اوسون الیکشن: 13 امیدواروں سے ملیں…"
     },
     {
-      "title": "Iran may have used cheap drones to target US F-15 fighter jet: Report",
-      "desc": "Iran's use of multiple drones to track a US F-15E Strike Eagle during its April 3 combat loss highlights how distributed sensors and missile systems can work together to challenge an adversary",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/blueprint-defence-magazine/reports/iran-may-have-used-cheap-drones-to-target-us-f-15-fighter-jet-report-126081301356_1.html",
-      "time": "2026-08-13T11:28:24",
-      "country": "Iran",
-      "title_ur": "ایران نے امریکی F-15 لڑاکا طیارے کو نشانہ بنانے کے لیے سستے ڈرون کا استعمال کیا ہو سکتا ہے: رپورٹ",
-      "desc_ur": "3 اپریل کو اپنے جنگی نقصان کے دوران امریکی F-15E اسٹرائیک ایگل کو ٹریک کرنے کے لیے ایران کی جانب سے متعدد ڈرونز کا استعمال اس بات پر روشنی ڈالتا ہے کہ کس طرح تقسیم شدہ سینسرز اور میزائل سسٹم مخالف کو چیلنج کرنے کے لیے مل کر کام کر سکتے ہیں۔"
+      "title": "The Gaping Hole in El-Sayed’s Progressive Agenda",
+      "desc": "Elie Mystal\n\n\n\nThe Senate nominee has woefully undercooked ideas on Supreme Court reform—and that’s a problem.\r\n\n\r\n\n\nThe post The Gaping Hole in El-Sayed’s Progressive Agenda appeared first on The Nation.",
+      "source": "Thenation.com",
+      "url": "https://www.thenation.com/article/politics/gaping-hole-el-sayeds-agenda/",
+      "time": "2026-08-13T12:33:44",
+      "country": "International",
+      "title_ur": "السید کے پروگریسو ایجنڈا میں دی گپنگ ہول",
+      "desc_ur": "ایلی میسٹل\n\n\n\nسینیٹ کے نامزد امیدوار نے سپریم کورٹ میں اصلاحات کے بارے میں بری طرح سے کم تر خیالات کا اظہار کیا ہے اور یہ ایک مسئلہ ہے۔\r\n\n\r\n\n\nThe post السید کے پروگریسو ایجنڈے میں گیپنگ ہول appeared first on The Nation."
     },
     {
-      "title": "Major financial crime probe targets leadership of Islamic group",
-      "desc": "Turkish authorities on Aug. 13 launched an operation targeting the leader and senior figures of an Islamic religious community known as the “Süleymancılar,” following the detection of substantial suspicious financial transactions allegedly linked to money lau…",
-      "source": "Hurriyet Daily News",
-      "url": "https://www.hurriyetdailynews.com/major-financial-crime-probe-targets-leadership-of-islamic-group-225583",
-      "time": "2026-08-13T11:24:01",
+      "title": "How American society shields perpetrators of child sexual abuse",
+      "desc": "A community – bystanders, law enforcement, colleagues and family – is likely to deny an atrocity when acknowledging it requires action.",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/how-american-society-shields-perpetrators-of-child-sexual-abuse-287660",
+      "time": "2026-08-13T12:32:06",
       "country": "US",
-      "title_ur": "مالیاتی جرائم کی بڑی تحقیقات اسلامی گروپ کی قیادت کو نشانہ بناتی ہیں۔",
-      "desc_ur": "ترک حکام نے 13 اگست کو \"Süleymancılar\" کے نام سے مشہور اسلامی مذہبی کمیونٹی کے رہنما اور اعلیٰ شخصیات کو نشانہ بنانے کے لیے ایک آپریشن شروع کیا، جس میں مبینہ طور پر منی لاؤ سے منسلک کافی مشکوک مالیاتی لین دین کا پتہ لگانے کے بعد…"
+      "title_ur": "امریکی معاشرہ بچوں کے جنسی استحصال کے مرتکب افراد کو کیسے بچاتا ہے۔",
+      "desc_ur": "ایک کمیونٹی - ساتھی، قانون نافذ کرنے والے، ساتھی اور خاندان - جب یہ تسلیم کرتے ہیں کہ اس کے لیے کارروائی کی ضرورت ہے، ظلم سے انکار کرنے کا امکان ہے۔"
     }
   ],
   "pakistan": [
     {
-      "title": "Defence pact for Türkiye, Pakistan and Saudi Arabia open to expansion",
-      "desc": "Türkiye, Saudi Arabia and Pakistan will hold joint exercises under a military pact signed between the regional powers, Türkiye's defence ministry says.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-08-13/turkiye-plans-for-nato-like-defence-pact/107035458",
-      "time": "2026-08-13T11:22:05",
+      "title": "Turkiye lays out ‘mechanisms’ of defence pact with Pakistan, Saudi Arabia",
+      "desc": "Three nations to group ministers, hold ⁠joint exercises and deepen defence industry cooperation under the pact.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/8/13/turkiye-lays-out-mechanisms-of-defence-pact-with-pakistan-saudi-arabia",
+      "time": "2026-08-13T12:42:28",
       "country": "Pakistan",
-      "title_ur": "ترکی، پاکستان اور سعودی عرب کے لیے دفاعی معاہدہ توسیع کے لیے کھلا ہے۔",
-      "desc_ur": "ترکی کی وزارت دفاع کا کہنا ہے کہ ترکی، سعودی عرب اور پاکستان علاقائی طاقتوں کے درمیان طے پانے والے فوجی معاہدے کے تحت مشترکہ مشقیں کریں گے۔"
+      "title_ur": "ترکی نے پاکستان، سعودی عرب کے ساتھ دفاعی معاہدے کا 'میکانزم' پیش کیا۔",
+      "desc_ur": "معاہدے کے تحت تین ممالک گروپ وزراء، مشترکہ مشقیں کریں گے اور دفاعی صنعت میں تعاون کو گہرا کریں گے۔"
+    },
+    {
+      "title": "Mecca pact ‘not a rival to NATO’: Defense Ministry",
+      "desc": "Far from being an alternative or rival to NATO, the newly established alliance between Türkiye, Saudi Arabia and Pakistan is purely defensive and designates no country as an adversary, a Defense Ministry pokesman stressed.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/mecca-pact-not-a-rival-to-nato-defense-ministry-225592",
+      "time": "2026-08-13T12:36:10",
+      "country": "Pakistan",
+      "title_ur": "مکہ معاہدہ 'نیٹو کا حریف نہیں': وزارت دفاع",
+      "desc_ur": "وزارت دفاع کے ایک پوک مین نے زور دے کر کہا کہ نیٹو کے متبادل یا حریف ہونے سے دور، ترکی، سعودی عرب اور پاکستان کے درمیان نیا قائم کردہ اتحاد خالصتاً دفاعی ہے اور کسی بھی ملک کو مخالف کے طور پر نامزد نہیں کرتا ہے۔"
+    },
+    {
+      "title": "US and Iran duel over who controls Hormuz",
+      "desc": "Washington and Tehran again presented sharply contrasting narratives over the Strait of Hormuz, underscoring skepticism over the reopening of the waterway.\nHours after US President Donald Trump said his forces had “total control” over Hormuz, Iranian official…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/119bcd000bee1e66",
+      "time": "2026-08-13T12:24:37",
+      "country": "Pakistan",
+      "title_ur": "امریکہ اور ایران اس بات پر لڑ رہے ہیں کہ ہرمز پر کون کنٹرول کرتا ہے۔",
+      "desc_ur": "واشنگٹن اور تہران نے آبنائے ہرمز کے بارے میں ایک بار پھر شدید متضاد بیانیے پیش کیے، آبی گزرگاہ کے دوبارہ کھلنے پر شکوک و شبہات کو اجاگر کیا۔\nامریکی صدر ڈونلڈ ٹرمپ کے یہ کہنے کے چند گھنٹے بعد کہ ان کی افواج کا ہرمز پر \"مکمل کنٹرول\" ہے، ایرانی اہلکار…"
+    },
+    {
+      "title": "Indian bonds mirror gains in Treasuries as oil slips",
+      "desc": "Indian government bonds saw a modest rise on Thursday, reflecting trends in U.S. Treasury yields. Easing crude oil prices have lessened inflation fears, enhancing the bond market's optimism. Investors seem relieved about the likelihood of less aggressive inte…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-mirror-gains-in-treasuries-as-oil-slips/articleshow/133211927.cms",
+      "time": "2026-08-13T12:22:46",
+      "country": "Pakistan",
+      "title_ur": "ہندوستانی بانڈز تیل کی کھپت کے طور پر خزانے میں حاصل ہونے والے فوائد کا آئینہ دار ہیں۔",
+      "desc_ur": "جمعرات کو ہندوستانی حکومت کے بانڈز میں معمولی اضافہ دیکھا گیا، جو امریکی ٹریژری کی پیداوار میں رجحانات کی عکاسی کرتا ہے۔ خام تیل کی قیمتوں میں نرمی نے مہنگائی کے خدشات کو کم کیا ہے، جس سے بانڈ مارکیٹ کی امید میں اضافہ ہوا ہے۔ سرمایہ کار کم جارحانہ انٹ کے امکان کے بارے میں راحت محسوس کرتے ہیں…"
     }
   ],
   "business": {
@@ -176,38 +206,38 @@
       {
         "date": "2026-08-14",
         "day": "جمعہ",
-        "high": 34,
-        "low": 27,
+        "high": 33,
+        "low": 28,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 88
+        "precip": 84
       },
       {
         "date": "2026-08-15",
         "day": "ہفتہ",
         "high": 34,
-        "low": 26,
-        "condition": "Light Showers",
-        "condition_ur": "ہلکی بارش",
-        "precip": 86
+        "low": 25,
+        "condition": "Thunderstorm",
+        "condition_ur": "گرج چمک",
+        "precip": 90
       },
       {
         "date": "2026-08-16",
         "day": "اتوار",
         "high": 34,
-        "low": 26,
+        "low": 25,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 73
+        "precip": 61
       },
       {
         "date": "2026-08-17",
         "day": "پیر",
-        "high": 34,
-        "low": 25,
+        "high": 33,
+        "low": 24,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 76
+        "precip": 82
       },
       {
         "date": "2026-08-18",
@@ -216,16 +246,16 @@
         "low": 25,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 80
+        "precip": 85
       },
       {
         "date": "2026-08-19",
         "day": "بدھ",
-        "high": 32,
+        "high": 31,
         "low": 26,
-        "condition": "Heavy Drizzle",
-        "condition_ur": "تیز بوندا باندی",
-        "precip": 73
+        "condition": "Thunderstorm",
+        "condition_ur": "گرج چمک",
+        "precip": 75
       },
       {
         "date": "2026-08-20",
@@ -234,7 +264,7 @@
         "low": 26,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 67
+        "precip": 69
       }
     ]
   },
