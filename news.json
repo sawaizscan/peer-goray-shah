@@ -1,158 +1,188 @@
 {
-  "generated": "2026-08-15T11:13:43Z",
+  "generated": "2026-08-15T11:42:17Z",
   "world": [
     {
-      "title": "Signs that Farage could ultimately emerge out the far side of payments controversy",
-      "desc": "Farage would be overwhelming favourite to win any further byelection, but of much greater concern to him will be the flagging poll ratings of Reform UK",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/world/uk/2026/08/14/signs-that-farage-could-ultimately-emerge-out-the-far-side-of-payments-controversy/",
-      "time": "2026-08-14T11:11:10",
-      "country": "UK",
-      "title_ur": "نشانیاں کہ Farage بالآخر ادائیگیوں کے تنازعہ کے دور کی طرف نکل سکتا ہے۔",
-      "desc_ur": "فاریج کسی بھی مزید ضمنی انتخاب میں جیتنے کے لیے بہت زیادہ پسندیدہ ہوں گے، لیکن ان کے لیے بہت زیادہ تشویش کا باعث ریفارم یو کے کی پولنگ ریٹنگز ہوں گی۔"
-    },
-    {
-      "title": "Luigi Mangione to enter plea in federal court and low morale aboard USS Abraham Lincoln: Morning Rundown",
-      "desc": "Luigi Mangione is expected to plead guilty to federal stalking charges in connection with the killing of a healthcare CEO.",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/news/us-news/luigi-mangione-plead-uss-abraham-lincoln-morning-rundown-rcna592499",
-      "time": "2026-08-14T11:07:30",
-      "country": "US",
-      "title_ur": "Luigi Mangione وفاقی عدالت میں درخواست داخل کرے گا اور یو ایس ایس ابراہم لنکن پر سوار کم حوصلے: مارننگ رن ڈاؤن",
-      "desc_ur": "توقع ہے کہ Luigi Mangione سے صحت کی دیکھ بھال کے سی ای او کے قتل کے سلسلے میں وفاقی تعاقب کے الزامات کا اعتراف کیا جائے گا۔"
-    },
-    {
-      "title": "US threatens ‘indefinite’ blockade against Iran: How long can it last?",
-      "desc": "US Secretary of Defense Pete Hegseth claims US Navy can sustain blockade despite reports of poor conditions.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/8/14/us-threatens-indefinite-blockade-against-iran-how-long-can-it-last",
-      "time": "2026-08-14T11:06:59",
-      "country": "Iran",
-      "title_ur": "امریکہ کی ایران کے خلاف 'غیر معینہ' ناکہ بندی کی دھمکی: یہ کب تک چل سکتا ہے؟",
-      "desc_ur": "امریکی وزیر دفاع پیٹ ہیگستھ کا دعویٰ ہے کہ خراب حالات کی اطلاعات کے باوجود امریکی بحریہ ناکہ بندی برقرار رکھ سکتی ہے۔"
-    },
-    {
-      "title": "Could Germany run some of its coal-fired power plants longer?",
-      "desc": "Germany delayed an interim report on its lignite power exit, raising market expectations. This delay allows for assessing gas plant tenders and potential security of supply risks. The government can extend lignite plant operations until 2033 if needed. German…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/could-germany-run-some-of-its-coal-fired-power-plants-longer/articleshow/133238642.cms",
-      "time": "2026-08-14T11:05:33",
-      "country": "Iran",
-      "title_ur": "کیا جرمنی کوئلے سے چلنے والے اپنے کچھ پاور پلانٹس کو زیادہ دیر تک چلا سکتا ہے؟",
-      "desc_ur": "جرمنی نے اپنی لگنائٹ پاور کے اخراج سے متعلق ایک عبوری رپورٹ میں تاخیر کی، جس سے مارکیٹ کی توقعات بڑھ گئیں۔ یہ تاخیر گیس پلانٹ کے ٹینڈرز اور سپلائی کے خطرات کی ممکنہ حفاظت کا اندازہ لگانے کی اجازت دیتی ہے۔ ضرورت پڑنے پر حکومت لگنائٹ پلانٹ کے آپریشنز کو 2033 تک بڑھا سکتی ہے۔ جرمن…"
-    },
-    {
-      "title": "She counseled Israelis and Palestinians through war and grief. Here's her lesson on coping with hatred",
-      "desc": "A Buddhist teacher who has become a spiritual touchstone for millions around the world, Tara Brach believes compassion for those who hurt us isn't weakness – and that joy is possible even in the darkest moments",
-      "source": "Haaretz",
-      "url": "https://www.haaretz.com/israel-news/2026-08-14/ty-article-magazine/.highlight/she-counseled-israelis-and-palestinians-through-war-heres-her-lesson-on-hatred/0000019f-ea62-d359-a7bf-ea6bb87e0000",
-      "time": "2026-08-14T11:05:18",
+      "title": "Netanyahu calls the UK an “Islamic Republic”",
+      "desc": "Israeli PM Benjamin Netanyahu described Britain as an “Islamic Republic” during an extensive interview on an Army Radio podcast\nThe post Netanyahu calls the UK an “Islamic Republic” appeared first on ProtoThema English.",
+      "source": "Protothema.gr",
+      "url": "https://en.protothema.gr/2026/08/14/netanyahu-calls-the-uk-an-islamic-republic/",
+      "time": "2026-08-14T11:40:16",
       "country": "Israel",
-      "title_ur": "اس نے جنگ اور غم کے ذریعے اسرائیلیوں اور فلسطینیوں کو مشورہ دیا۔ نفرت سے نمٹنے کے بارے میں اس کا سبق یہ ہے۔",
-      "desc_ur": "ایک بدھ مت کے استاد جو دنیا بھر کے لاکھوں لوگوں کے لیے روحانی ٹچ اسٹون بن چکے ہیں، تارا براچ کا خیال ہے کہ ہمیں تکلیف دینے والوں کے لیے ہمدردی کمزوری نہیں ہے – اور یہ خوشی اندھیرے کے لمحات میں بھی ممکن ہے۔"
+      "title_ur": "نیتن یاہو نے برطانیہ کو \"اسلامی جمہوریہ\" قرار دے دیا",
+      "desc_ur": "اسرائیلی وزیر اعظم بنجمن نیتن یاہو نے آرمی ریڈیو کے ایک پوڈ کاسٹ پر ایک وسیع انٹرویو کے دوران برطانیہ کو \"اسلامی جمہوریہ\" قرار دیا۔\nThe post نیتن یاہو نے برطانیہ کو ’اسلامی جمہوریہ‘ قرار دے دیا appeared first on ProtoThema English."
     },
     {
-      "title": "Feds probe 'mention markets.' And, lawmakers call for investigation into USS Lincoln",
-      "desc": "Federal regulators are reviewing 'mention markets' that allow wagers on what public figures will say. And, Democratic lawmakers call for an investigation into conditions on the long-deployed USS Lincoln.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/08/14/g-s1-138735/up-first-newsletter-mention-markets-kalshi-pentagon-uss-lincoln-ukraine-russia-crimea-kennedy-center",
-      "time": "2026-08-14T11:02:42",
+      "title": "Solidarity Is Not Enough: Why the World Must Force Accountability for Gaza Now",
+      "desc": "It is now official: Israeli Prime Minister Benjamin Netanyahu has flatly rejected\r\n the core conditions of the Board of Peace framework, explicitly stating that Israel will neither adhere to a ceasefire nor withdraw its forces from Gaza.During a cabinet meeti…",
+      "source": "Common Dreams",
+      "url": "https://www.commondreams.org/opinion/accountability-israel-gaza",
+      "time": "2026-08-14T11:39:02",
+      "country": "Israel",
+      "title_ur": "یکجہتی کافی نہیں ہے: کیوں دنیا کو اب غزہ کے لیے احتساب پر مجبور کرنا چاہیے۔",
+      "desc_ur": "یہ اب سرکاری ہے: اسرائیلی وزیر اعظم بینجمن نیتن یاہو نے صاف طور پر مسترد کر دیا ہے۔\r\n بورڈ آف پیس فریم ورک کی بنیادی شرائط، جس میں واضح طور پر کہا گیا ہے کہ اسرائیل نہ تو جنگ بندی کی پابندی کرے گا اور نہ ہی غزہ سے اپنی افواج کو ہٹائے گا۔ کابینہ کی میٹنگ کے دوران…"
+    },
+    {
+      "title": "US Military Morale in the Middle East Is in the Overflowing Toilet",
+      "desc": "Rotten food, overflowing toilets into bunking areas, no room in the incoming missile shelters, confiscated cellphones that are the notification devices for incoming missiles, infrequent mail, social media closed down, were some of the issues that military fam…",
+      "source": "Common Dreams",
+      "url": "https://www.commondreams.org/opinion/us-morale-military-iran-war",
+      "time": "2026-08-14T11:36:04",
       "country": "US",
-      "title_ur": "فیڈ تحقیقات 'مارکیٹس کا ذکر کریں.' اور، قانون سازوں نے یو ایس ایس لنکن کی تحقیقات کا مطالبہ کیا۔",
-      "desc_ur": "وفاقی ریگولیٹرز 'ذکر بازاروں' کا جائزہ لے رہے ہیں جو کہ عوامی شخصیات کے کہنے پر اجرت دینے والوں کی اجازت دیتی ہیں۔ اور، ڈیموکریٹک قانون سازوں نے طویل عرصے سے تعینات یو ایس ایس لنکن کے حالات کی تحقیقات کا مطالبہ کیا۔"
+      "title_ur": "مشرق وسطیٰ میں امریکی فوجی حوصلے بہتے ہوئے بیت الخلاء میں ہیں۔",
+      "desc_ur": "بوسیدہ خوراک، بنکنگ ایریاز میں بیت الخلاء کی بھرمار، آنے والے میزائل شیلٹرز میں جگہ نہ ہونا، ضبط شدہ سیل فون جو آنے والے میزائلوں کے لیے اطلاع دینے والے آلات ہیں، کبھی کبھار میل، سوشل میڈیا بند، کچھ ایسے مسائل تھے جن پر فوجی خاندان…"
     },
     {
-      "title": "Pound holds around one-month high, GBP/INR above 129 mark",
-      "desc": "Powered by Capital Market - Live News",
+      "title": "Sensex, Nifty retreat after early slide; Tata Motors PV drags; global cues offer support",
+      "desc": "The S&P BSE Sensex shed 70.71 points or 0.09% to 78,009.25. The Nifty 50 index fell 29.85 points or 0.12% to 24,366.",
       "source": "Business Standard",
-      "url": "https://www.business-standard.com/markets/capital-market-news/pound-holds-around-one-month-high-gbp-inr-above-129-mark-126081401306_1.html",
-      "time": "2026-08-14T11:01:10",
+      "url": "https://www.business-standard.com/markets/capital-market-news/sensex-nifty-retreat-after-early-slide-tata-motors-pv-drags-global-cues-offer-support-126081401370_1.html",
+      "time": "2026-08-14T11:34:42",
       "country": "International",
-      "title_ur": "پاؤنڈ تقریباً ایک ماہ کی بلند ترین سطح پر ہے، GBP/INR 129 نشان سے اوپر ہے۔",
-      "desc_ur": "تقویت یافتہ بذریعہ کیپٹل مارکیٹ - لائیو نیوز"
+      "title_ur": "ابتدائی سلائیڈ کے بعد سینسیکس، نفٹی کی پسپائی؛ ٹاٹا موٹرز پی وی ڈریگ؛ عالمی اشارے سپورٹ پیش کرتے ہیں۔",
+      "desc_ur": "ایس اینڈ پی بی ایس ای سینسیکس 70.71 پوائنٹس یا 0.09٪ گر کر 78,009.25 پر آگیا۔ نفٹی 50 انڈیکس 29.85 پوائنٹس یا 0.12 فیصد گر کر 24,366 پر آگیا۔"
     },
     {
-      "title": "Acurx Pharmaceuticals, Inc. Reports Second Quarter 2026 results and provides business update",
-      "desc": "STATEN ISLAND, N.Y., Aug. 14, 2026 /PRNewswire/ -- Acurx Pharmaceuticals, Inc. (NASDAQ: ACXP) (\"Acurx\" or the \"Company\"), a late-stage biopharmaceutical company developing a new class of antibiotics for difficult-to-treat bacterial infections, announced today…",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/acurx-pharmaceuticals-inc-reports-second-quarter-2026-results-and-provides-business-update-302850984.html",
-      "time": "2026-08-14T11:01:00",
-      "country": "US",
-      "title_ur": "Acurx Pharmaceuticals Inc. دوسری سہ ماہی 2026 کے نتائج کی اطلاع دیتا ہے اور کاروباری اپ ڈیٹ فراہم کرتا ہے",
-      "desc_ur": "اسٹیٹن آئی لینڈ، نیو یارک، اگست 14، 2026/پی آرنیوزوائر/ -- Acurx Pharmaceuticals, Inc. (NASDAQ: ACXP) (\"Acurx\" یا \"کمپنی\")، ایک آخری مرحلے کی بائیو فارماسیوٹیکل کمپنی نے اینٹی بائیوٹکس کی ایک نئی کلاس تیار کرنے کا اعلان کیا، جو آج انفیکشن کے لیے مشکل…"
-    },
-    {
-      "title": "Gas And Diesel Prices On Track For Their Most Expensive August Ever",
-      "desc": "Gas and Diesel prices are at record highs for the month of August, and relief is not expected anytime soon as global refining capacity shrinks due to the wars.",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/mattrandolph/2026/08/14/gas-and-diesel-prices-on-track-for-their-most-expensive-august-ever/",
-      "time": "2026-08-14T11:00:00",
-      "country": "US",
-      "title_ur": "اگست میں گیس اور ڈیزل کی قیمتیں اب تک کی سب سے مہنگی ہیں۔",
-      "desc_ur": "اگست کے مہینے میں گیس اور ڈیزل کی قیمتیں ریکارڈ بلند ترین سطح پر ہیں، اور جنگوں کی وجہ سے عالمی سطح پر ریفائننگ کی صلاحیت سکڑنے کے بعد کسی بھی وقت جلد ریلیف کی توقع نہیں ہے۔"
-    },
-    {
-      "title": "Bank Leumi Partners with Galaxy to be the First Bank in Israel to Offer Digital Asset Trading",
-      "desc": "The partnership pairs Israel's largest bank with Galaxy's infrastructure to give customers secure, regulated access to digital assets TEL AVIV, Israel and NEW YORK, Aug. 14, 2026 /PRNewswire/ -- Bank Leumi, Israel's largest bank, and Galaxy Digital Inc. (Nasd…",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/bank-leumi-partners-with-galaxy-to-be-the-first-bank-in-israel-to-offer-digital-asset-trading-302851151.html",
-      "time": "2026-08-14T11:00:00",
-      "country": "Israel",
-      "title_ur": "بینک Leumi Galaxy کے ساتھ شراکت دار ڈیجیٹل اثاثہ تجارت کی پیشکش کرنے والا اسرائیل کا پہلا بینک ہوگا۔",
-      "desc_ur": "شراکت داری اسرائیل کے سب سے بڑے بینک کو Galaxy کے بنیادی ڈھانچے کے ساتھ جوڑتی ہے تاکہ صارفین کو ڈیجیٹل اثاثوں تک محفوظ، ریگولیٹڈ رسائی TEL AVIV، اسرائیل اور نیویارک، 14 اگست 2026/PRNewswire/ -- Bank Leumi، اسرائیل کا سب سے بڑا بینک، اور Galaxy Digital Inc. (Nasd…"
-    },
-    {
-      "title": "Polly Paulusma announces 21st anniversary reissue of Scissors In My Pocket",
-      "desc": "English folk-pop legendEnglish folk-pop legend Polly Paulusma has confirmed a deluxe reissue of her 2004 debut Scissors In My Pocket, due out on 2 October via One Little Independent Records and Wild Sound. Previously unheard track “My Errant Knight” is availa…",
-      "source": "Thelineofbestfit.com",
-      "url": "https://www.thelineofbestfit.com/news/polly-paulusma-announces-21st-anniversary-reissue-of-scissors-in-my-pocket",
-      "time": "2026-08-14T11:00:00",
-      "country": "US",
-      "title_ur": "پولی پولسما نے 21 ویں سالگرہ پر میری جیب میں کینچی دوبارہ جاری کرنے کا اعلان کیا",
-      "desc_ur": "انگلش فوک پاپ لیجنڈ انگلش فوک پاپ لیجنڈ پولی پولسما نے 2 اکتوبر کو ون لٹل انڈیپنڈنٹ ریکارڈز اور وائلڈ ساؤنڈ کے ذریعے اپنی 2004 کی پہلی فلم سیزرز ان مائی پاکٹ کے ڈیلکس دوبارہ اجراء کی تصدیق کی ہے۔ اس سے پہلے نہ سنے جانے والا ٹریک \"My Errant Night\" دستیاب ہے…"
-    },
-    {
-      "title": "Evogene Chairman Nir Nimrodi to Join Quarterly Results Call to Address Current Dissident Shareholders Situation",
-      "desc": "Zoom conference call scheduled for August 18, 2026, at 9:00 AM ET REHOVOT, Israel, Aug. 14, 2026 /PRNewswire/ -- Evogene Ltd. (Nasdaq: EVGN) (TASE: EVGN), a pioneering company in computational chemistry, specializing in the generative design of small molecule…",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/evogene-chairman-nir-nimrodi-to-join-quarterly-results-call-to-address-current-dissident-shareholders-situation-302851346.html",
-      "time": "2026-08-14T11:00:00",
-      "country": "Israel",
-      "title_ur": "Evogene کے چیئرمین نیر نمرودی موجودہ اختلافی حصص یافتگان کی صورتحال سے نمٹنے کے لیے سہ ماہی نتائج کی کال میں شامل ہوں گے",
-      "desc_ur": "زوم کانفرنس کال 18 اگست 2026 کو صبح 9:00 بجے ET REHOVOT، اسرائیل، 14 اگست، 2026 /PRNewswire/ -- Evogene Ltd. (Nasdaq: EVGN) (TASE: EVGN)، چھوٹے کیمسٹری کے کمپیوٹیشنل ڈیزائن میں ایک اہم کمپنی…"
-    },
-    {
-      "title": "What the battle between Nigel Farage and Count Binface really tells us about Britain’s mood",
-      "desc": "Farage avoided the count, but will face a re-opened probe into his finances after winning the Clacton byelection.",
-      "source": "The Conversation Africa",
-      "url": "https://theconversation.com/what-the-battle-between-nigel-farage-and-count-binface-really-tells-us-about-britains-mood-289762",
-      "time": "2026-08-14T10:55:25",
-      "country": "UK",
-      "title_ur": "Nigel Farage اور Count Binface کے درمیان جنگ واقعی ہمیں برطانیہ کے مزاج کے بارے میں بتاتی ہے۔",
-      "desc_ur": "فاریج نے گنتی سے گریز کیا، لیکن کلاکٹن ضمنی انتخاب جیتنے کے بعد اسے اپنے مالی معاملات میں دوبارہ کھولی جانے والی تحقیقات کا سامنا کرنا پڑے گا۔"
-    },
-    {
-      "title": "Beyond capital: Why India’s healthcare demands patience",
-      "desc": "Nation Notes News: India is prosperous enough now to confront a problem it has long deferred. Its GDP will soon reach $5 trillion; it has the world's largest population,.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/toi-blogs/nation-notes/beyond-capital-why-indias-healthcare-demands-patience/articleshow/133238192.cms",
-      "time": "2026-08-14T10:53:02",
-      "country": "India",
-      "title_ur": "سرمائے سے آگے: ہندوستان کی صحت کی دیکھ بھال صبر کا تقاضا کیوں کرتی ہے۔",
-      "desc_ur": "نیشن نوٹس نیوز: ہندوستان اب اس قدر خوشحال ہے کہ اس مسئلے کا مقابلہ کرنے کے لیے اس نے طویل عرصے سے التوا کا شکار ہے۔ اس کی جی ڈی پی جلد ہی $5 ٹریلین تک پہنچ جائے گی۔ اس کی دنیا کی سب سے بڑی آبادی ہے۔"
-    },
-    {
-      "title": "US to Roll Out ‘Economic Isolation’ Plan for Iran Next Week - Bloomberg",
-      "desc": "US to Roll Out ‘Economic Isolation’ Plan for Iran Next WeekBloomberg U.S. to use economic tactics on Iran 'that have never been seen'; Navy works to relieve troubled carrier USS Abraham LincolnCNBC Iran war live: US eyes ‘indefinite’ naval blockade, vows to i…",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184970609",
-      "time": "2026-08-14T10:52:46",
+      "title": "Volatility exits crypto, TradFi markets even as U.S.-Iran risks linger, sovereign debt rises",
+      "desc": "The day ahead in crypto: Aug. 14, 2026",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/daybook-us/2026/08/14/volatility-exits-crypto-tradfi-markets-even-as-u-s-iran-risks-linger-sovereign-debt-rises",
+      "time": "2026-08-14T11:33:50",
       "country": "Iran",
-      "title_ur": "امریکہ اگلے ہفتے ایران کے لیے 'اقتصادی تنہائی' کا منصوبہ نافذ کرے گا - بلومبرگ",
-      "desc_ur": "امریکہ اگلے ہفتے ایران کے لیے 'اقتصادی تنہائی' کا منصوبہ نافذ کرے گا بلومبرگ امریکہ ایران کے خلاف اقتصادی حکمت عملی 'جو کبھی نہیں دیکھا گیا' استعمال کرے گا۔ بحریہ مصیبت زدہ بحری جہاز یو ایس ایس ابراہم لنکن سی این بی سی ایران جنگ لائیو سے نجات دلانے کے لیے کام کرتی ہے: امریکا کی نظریں 'غیر معینہ مدت کے لیے' بحری ناکہ بندی، میں نے عہد کیا…"
+      "title_ur": "اتار چڑھاؤ کرپٹو، ٹریڈ فائی مارکیٹوں سے باہر نکلتا ہے یہاں تک کہ یو ایس-ایران خطرے میں ہے، خود مختار قرض میں اضافہ",
+      "desc_ur": "کرپٹو میں آنے والا دن: 14 اگست 2026"
+    },
+    {
+      "title": "Live Updates: UAE accuses Iran of attacks in Strait of Hormuz as Vance says cheap oil and gas are \"goal number one\" - CBS News",
+      "desc": "Live Updates: UAE accuses Iran of attacks in Strait of Hormuz as Vance says cheap oil and gas are \"goal number one\"CBS News 2 UAE tankers attacked while transiting Strait of Hormuz, and other news from the Middle Eastapnews.com UAE says Iran attacked two ADNO…",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184971021",
+      "time": "2026-08-14T11:33:05",
+      "country": "Iran",
+      "title_ur": "لائیو اپ ڈیٹس: متحدہ عرب امارات نے آبنائے ہرمز میں حملوں کا الزام ایران پر لگایا کیونکہ وینس کا کہنا ہے کہ سستا تیل اور گیس \"مقصد نمبر ایک\" ہے - CBS نیوز",
+      "desc_ur": "لائیو اپ ڈیٹس: متحدہ عرب امارات نے ایران پر آبنائے ہرمز میں حملوں کا الزام لگایا کیونکہ وینس کا کہنا ہے کہ سستا تیل اور گیس \"مقصد نمبر ایک\" ہے CBS نیوز 2 UAE کے ٹینکروں پر آبنائے ہرمز کی آمدورفت کے دوران حملہ کیا گیا، اور Middle Eastapnews.com سے دیگر خبریں UAE کا کہنا ہے کہ ایران نے دو ADNO پر حملہ کیا…"
+    },
+    {
+      "title": "Iran targets tankers in ‘unprovoked attacks’ in Strait of Hormuz, UAE says",
+      "desc": "CENTCOM blasts 'false' reports about conditions aboard USS Abraham Lincoln\nU.S. Central Command (CENTCOM) on Thursday pushed back on reports about conditions aboard the USS Abraham Lincoln during its deployment to the Middle East, denying claims that sailors …",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/0df661193ebbe3d6",
+      "time": "2026-08-14T11:33:02",
+      "country": "Iran",
+      "title_ur": "ایران نے آبنائے ہرمز میں ’بلا اشتعال حملوں‘ میں ٹینکرز کو نشانہ بنایا، متحدہ عرب امارات",
+      "desc_ur": "CENTCOM نے USS ابراہم لنکن پر سوار حالات کے بارے میں 'جھوٹی' رپورٹوں کو دھماکے سے اڑا دیا۔\nیو ایس سنٹرل کمانڈ (سینٹکام) نے جمعرات کو مشرق وسطیٰ میں یو ایس ایس ابراہم لنکن کی تعیناتی کے دوران جہاز کے حالات کے بارے میں رپورٹس کو پیچھے دھکیل دیا، اور ان دعوؤں کی تردید کی کہ ملاح…"
+    },
+    {
+      "title": "MK Simcha Rothman: 'Reserve duty burden must be shared by more people'",
+      "desc": "Religious Zionism MK says gradual haredi enlistment could ease burden on reservists and enable more soldiers to return to their families, calls for 61-seat right-wing majority that is loyal to the national camp.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/431716",
+      "time": "2026-08-14T11:31:32",
+      "country": "US",
+      "title_ur": "ایم کے سمچا روتھمین: 'ریزرو ڈیوٹی کا بوجھ زیادہ سے زیادہ لوگوں کو بانٹنا چاہیے'",
+      "desc_ur": "مذہبی صیہونیت MK کا کہنا ہے کہ بتدریج ہریڈی کی فہرست میں شامل ہونے سے ریزروسٹوں پر بوجھ کم ہو سکتا ہے اور مزید فوجیوں کو اپنے خاندانوں کے پاس واپس جانے کے قابل بنایا جا سکتا ہے، 61 نشستوں والی دائیں بازو کی اکثریت کا مطالبہ کیا گیا ہے جو قومی کیمپ کے وفادار ہیں۔"
+    },
+    {
+      "title": "Iran’s Revolutionary Guards claim MQ-9 drone kill using new air defense system",
+      "desc": "Iran's shift to mobile, cost-effective defense systems could alter regional power dynamics, challenging traditional military spending paradigms.\nThe post Iran’s Revolutionary Guards claim MQ-9 drone kill using new air defense system appeared first on Crypto B…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-irgc-mq9-drone-air-defense/",
+      "time": "2026-08-14T11:31:23",
+      "country": "Iran",
+      "title_ur": "ایران کے پاسداران انقلاب نے دعویٰ کیا ہے کہ MQ-9 ڈرون کو نئے فضائی دفاعی نظام کا استعمال کرتے ہوئے مار گرایا ہے۔",
+      "desc_ur": "ایران کا موبائل، لاگت سے موثر دفاعی نظام کی طرف منتقل ہونا علاقائی طاقت کی حرکیات کو بدل سکتا ہے، جو روایتی فوجی اخراجات کے نمونوں کو چیلنج کر سکتا ہے۔\nThe post ایران کے پاسداران انقلاب نے نئے فضائی دفاعی نظام کا استعمال کرتے ہوئے MQ-9 ڈرون مار گرانے کا دعویٰ کیا appeared first on Crypto B…"
+    },
+    {
+      "title": "If Iran Wins The Strait Of Hormuz, The US Economy Stays Steady",
+      "desc": "Iran's Hormuz tolls redirect Gulf oil revenue to Tehran but leave world oil prices — and the US economic forecast — steady",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/billconerly/2026/08/14/if-iran-wins-the-strait-of-hormuz-the-us-economy-stays-steady/",
+      "time": "2026-08-14T11:30:00",
+      "country": "Iran",
+      "title_ur": "اگر ایران نے آبنائے ہرمز جیت لیا تو امریکی معیشت مستحکم رہے گی۔",
+      "desc_ur": "ایران کے ہرمز ٹول نے خلیجی تیل کی آمدنی کو تہران کو ری ڈائریکٹ کیا لیکن تیل کی عالمی قیمتوں - اور امریکی اقتصادی پیشن گوئی - کو مستحکم چھوڑ دیا"
+    },
+    {
+      "title": "Huckabee calls Israeli settlers ‘terrorists’: Can US push end Qusra siege?",
+      "desc": "US ambassador to Israel has issued a rare condemnation of a violent siege on families in the West Bank village of Qusra.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/8/14/huckabee-calls-israeli-settlers-terrorists-can-us-push-end-qusra-siege",
+      "time": "2026-08-14T11:28:14",
+      "country": "Israel",
+      "title_ur": "ہکابی نے اسرائیلی آباد کاروں کو 'دہشت گرد' قرار دیا: کیا امریکہ قصرہ کے محاصرے کو ختم کر سکتا ہے؟",
+      "desc_ur": "اسرائیل میں امریکی سفیر نے مغربی کنارے کے گاؤں قصرا میں خاندانوں پر پرتشدد محاصرے کی غیر معمولی مذمت کی ہے۔"
+    },
+    {
+      "title": "Live updates: Trump says he will declare Strait of Hormuz a U.S. territory after Iran war is over",
+      "desc": "Get live updates and the latest news on the Trump administration as Vance says low gas prices are an Iran war goal and a judge shows frustration with the DOJ’s handling of the Epstein files.",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-congress-2026-elections-doj-live-updates-rcna592467",
+      "time": "2026-08-14T11:25:51",
+      "country": "Iran",
+      "title_ur": "لائیو اپ ڈیٹس: ٹرمپ کا کہنا ہے کہ وہ ایران جنگ ختم ہونے کے بعد آبنائے ہرمز کو امریکی علاقہ قرار دیں گے۔",
+      "desc_ur": "ٹرمپ انتظامیہ کے بارے میں لائیو اپ ڈیٹس اور تازہ ترین خبریں حاصل کریں جیسا کہ وینس کا کہنا ہے کہ گیس کی کم قیمتیں ایران جنگ کا ہدف ہیں اور ایک جج نے DOJ کے ایپسٹین فائلوں کو سنبھالنے سے مایوسی ظاہر کی ہے۔"
+    },
+    {
+      "title": "Sharad Kelkar says he felt immense sense of pride while donning Indian military officer’s uniform ahead of 80th Independence Day",
+      "desc": "Actor Sharad Kelkar shared his heartfelt sentiments about embodying an army officer in the series Tumm Se Tumm Tak. He highlighted how pivotal Independence Day is, reflecting on the sacrifices made for national freedom. Wearing his character’s uniform filled …",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/sharad-kelkar-expresses-pride-in-wearing-indian-army-uniform-ahead-of-80th-independence-day-celebration/articleshow/133239565.cms",
+      "time": "2026-08-14T11:23:28",
+      "country": "India",
+      "title_ur": "شرد کیلکر کا کہنا ہے کہ انہوں نے 80 ویں یوم آزادی سے قبل ہندوستانی فوجی افسر کی وردی پہنتے ہوئے بے حد فخر محسوس کیا",
+      "desc_ur": "اداکار شرد کیلکر نے تم سے تم تک سیریز میں ایک فوجی افسر کو مجسم کرنے کے بارے میں اپنے دلی جذبات کا اظہار کیا۔ انہوں نے اس بات پر روشنی ڈالی کہ یوم آزادی کتنا اہم ہے، جو قومی آزادی کے لیے دی گئی قربانیوں کی عکاسی کرتا ہے۔ اپنے کردار کی وردی بھری ہوئی پہن کر…"
+    },
+    {
+      "title": "In Shift, US Ambassador Calls Israeli Settlers 'Terrorists'",
+      "desc": "For five nights, Israeli settlers surrounded three Palestinian homes on the outskirts of a town in the occupied West Bank, preventing the families from leaving safely as their food and water supplies dwindled, per the AP . Qusai Abu Rida was holed up inside w…",
+      "source": "Newser",
+      "url": "https://www.newser.com/story/394649/in-shift-us-ambassador-calls-israeli-settlers-terrorists.html",
+      "time": "2026-08-14T11:22:07",
+      "country": "Israel",
+      "title_ur": "شفٹ میں، امریکی سفیر نے اسرائیلی آباد کاروں کو 'دہشت گرد' قرار دیا",
+      "desc_ur": "اے پی کے مطابق، پانچ راتوں تک، اسرائیلی آباد کاروں نے مقبوضہ مغربی کنارے کے ایک قصبے کے مضافات میں تین فلسطینیوں کے گھروں کو گھیرے میں لے رکھا تھا، جس سے خاندانوں کو محفوظ طریقے سے وہاں سے نکلنے سے روک دیا گیا تھا کیونکہ ان کے کھانے اور پانی کی فراہمی کم ہو گئی تھی۔ قصی ابو ردا اندر چھپا ہوا تھا..."
+    },
+    {
+      "title": "Israeli Consul: 'Mamdani is failing to protect New York Jewish community'",
+      "desc": "Israeli Consul General in New York, Ofir Akunis reacts to rise in antisemitic hate crimes in NYC since Zohran Mamdani became mayor.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/431715",
+      "time": "2026-08-14T11:18:07",
+      "country": "Israel",
+      "title_ur": "اسرائیلی قونصل: 'ممدانی نیویارک کی یہودی برادری کے تحفظ میں ناکام ہو رہے ہیں'",
+      "desc_ur": "نیو یارک میں اسرائیلی قونصل جنرل، اوفیر اکونیس نے ظہران ممدانی کے میئر بننے کے بعد سے NYC میں سام دشمن نفرت انگیز جرائم میں اضافے پر ردعمل ظاہر کیا۔"
     }
   ],
   "pakistan": [
+    {
+      "title": "A man and an infant are killed and nearly 100 wounded by celebratory gunfire as Pakistanis mark independence from Britain",
+      "desc": "The gunfire erupted across the capital Karachi on the eve of the country's independence anniversary on Thursday, leaving at least 94 people injured despite official bans on the dangerous practice.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16052529/man-infant-killed-celebratory-gunfire-Pakistanis-independence-Britain.html",
+      "time": "2026-08-14T11:34:38",
+      "country": "Pakistan",
+      "title_ur": "پاکستانیوں کی برطانیہ سے آزادی کی خوشی میں فائرنگ سے ایک شخص اور ایک شیرخوار ہلاک اور 100 کے قریب زخمی",
+      "desc_ur": "جمعرات کو ملک کی آزادی کی سالگرہ کے موقع پر دارالحکومت کراچی میں فائرنگ کا سلسلہ شروع ہوا، جس میں خطرناک مشق پر سرکاری پابندی کے باوجود کم از کم 94 افراد زخمی ہوئے۔"
+    },
+    {
+      "title": "Leadership changes signal Iran expects a long war",
+      "desc": "Iran’s recent reshuffle, as well as its shifting battlefield tactics, suggest it is adapting for a lengthening conflict with the US. Tehran has reordered its leadership in part because of repeated assassinations of its top brass by American and Israeli strike…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/d997b80112b037b3",
+      "time": "2026-08-14T11:32:45",
+      "country": "Pakistan",
+      "title_ur": "قیادت کی تبدیلیوں سے اشارہ ملتا ہے کہ ایران طویل جنگ کی توقع کر رہا ہے۔",
+      "desc_ur": "ایران کی حالیہ ردوبدل، نیز اس کے میدان جنگ میں بدلتے ہوئے حربوں سے پتہ چلتا ہے کہ وہ امریکہ کے ساتھ طویل تنازعے کے لیے ڈھال رہا ہے۔ تہران نے اپنی قیادت کو جزوی طور پر دوبارہ ترتیب دیا ہے کیونکہ امریکی اور اسرائیلی حملے کے ذریعے اپنے اعلیٰ افسران کے بار بار ہونے والے قتل…"
+    },
+    {
+      "title": "Indus Waters Treaty should remain suspended, our lifeblood has drained: Omar Abdullah",
+      "desc": "Jammu and Kashmir Chief Minister Omar Abdullah advocated for the Indus Waters Treaty's continued suspension. He stated that the region's people have suffered from water resource utilisation restrictions. Pakistan's claims of sympathy for Kashmiris were questi…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/indus-waters-treaty-should-remain-suspended-our-lifeblood-has-drained-omar-abdullah/articleshow/133239329.cms",
+      "time": "2026-08-14T11:15:16",
+      "country": "Pakistan",
+      "title_ur": "سندھ طاس معاہدہ معطل رہنا چاہیے، ہماری زندگی کا خون بہہ چکا ہے، عمر عبداللہ",
+      "desc_ur": "جموں و کشمیر کے وزیر اعلیٰ عمر عبداللہ نے سندھ طاس معاہدے کی مسلسل معطلی کی وکالت کی۔ انہوں نے کہا کہ علاقے کے لوگ آبی وسائل کے استعمال پر پابندیوں کا شکار ہیں۔ کشمیریوں سے ہمدردی کے پاکستان کے دعوے پر سوالیہ نشان..."
+    },
     {
       "title": "Oil set for weekly gains",
       "desc": "Oil prices rose on Friday and were on track for ‌weekly gains after the United States threatened an indefinite naval blockade of Iran, raising concerns about disruptions to crude supplies from the Middle East.",
@@ -192,16 +222,6 @@
       "country": "Pakistan",
       "title_ur": "'اب زیادہ پرامید نہیں': جنگ اور سیاسی پولرائزیشن کی وجہ سے اسرائیل سے خروج",
       "desc_ur": "150,000 اسرائیلیوں کی ایک لہر، جن میں سے بہت سے زیادہ کمانے والے ہیں، سیاسی ہنگامہ آرائی اور جنگ کے دوران گزشتہ تین سالوں میں ملک چھوڑ چکے ہیں۔"
-    },
-    {
-      "title": "Mecca Joint Deterrence Agreement: Implications for India",
-      "desc": "Pakistan would surely try to rally the group and invoke the pact in some form in the event of tensions with India.",
-      "source": "The Diplomat",
-      "url": "https://thediplomat.com/2026/08/mecca-joint-deterrence-agreement-implications-for-india/",
-      "time": "2026-08-14T10:48:00",
-      "country": "Pakistan",
-      "title_ur": "مکہ مشترکہ ڈیٹرنس معاہدہ: بھارت کے لیے مضمرات",
-      "desc_ur": "پاکستان یقینی طور پر اس گروپ کو اکٹھا کرنے کی کوشش کرے گا اور بھارت کے ساتھ کشیدگی کی صورت میں کسی نہ کسی شکل میں اس معاہدے کی درخواست کرے گا۔"
     }
   ],
   "business": {
