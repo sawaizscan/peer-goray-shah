@@ -1,158 +1,188 @@
 {
-  "generated": "2026-08-15T08:53:31Z",
+  "generated": "2026-08-15T09:19:57Z",
   "world": [
     {
-      "title": "Nigel Farage beats Count Binface in Clacton by-election, but is absent from count",
-      "desc": "Despite winning the Clacton-on-Sea by-election, Nigel Farage did not attend the vote count. The Reform UK leader won with 63% of the vote on a turnout of 44%. Farage will now return as the constituency’s MP The highly publicised by-election was triggered afte…",
-      "source": "Thepinknews.com",
-      "url": "https://www.thepinknews.com/2026/08/14/nigel-farage-beats-count-binface-in-clacton-by-election-but-is-absent-from-count/",
-      "time": "2026-08-14T08:52:53",
-      "country": "UK",
-      "title_ur": "نائجل فاریج نے کلاکٹن ضمنی انتخاب میں کاؤنٹ بن فیس کو شکست دی، لیکن وہ گنتی سے غیر حاضر رہے",
-      "desc_ur": "Clacton-on-Sea ضمنی انتخاب جیتنے کے باوجود، Nigel Farage نے ووٹوں کی گنتی میں شرکت نہیں کی۔ ریفارم یو کے لیڈر نے 44 فیصد ٹرن آؤٹ پر 63 فیصد ووٹوں کے ساتھ کامیابی حاصل کی۔ فاریج اب اس حلقے کے ایم پی کے طور پر واپس آئیں گے جس کے بعد ضمنی انتخابات کی انتہائی تشہیر کی گئی…"
-    },
-    {
-      "title": "Reform UK leader Nigel Farage beats Count Binface to regain seat in widely mocked election",
-      "desc": "Nigel Farage beat trash-can wearing comic candidate Count Binface on Friday, regaining a seat in Parliament he quit a month ago to trigger the widely mocked special election.",
-      "source": "CBC News",
-      "url": "https://www.cbc.ca/news/world/uk-clacton-byelection-results-farage-binface-9.7306911",
-      "time": "2026-08-14T08:51:39",
-      "country": "UK",
-      "title_ur": "ریفارم برطانیہ کے رہنما نائجل فاریج نے کاؤنٹ بنفیس کو شکست دے کر بڑے پیمانے پر مضحکہ خیز انتخابات میں دوبارہ سیٹ حاصل کی",
-      "desc_ur": "نائجل فاریج نے جمعہ کے روز مزاحیہ امیدوار کاؤنٹ بنفیس پہنے ہوئے ردی کی ٹوکری کو شکست دی، پارلیمنٹ کی ایک نشست دوبارہ حاصل کی جس سے اس نے ایک ماہ قبل بڑے پیمانے پر مذاق اڑائے جانے والے خصوصی انتخابات کو متحرک کیا تھا۔"
-    },
-    {
-      "title": "Indian refiners buy crude months ahead as Russia, Hormuz supply risks mount",
-      "desc": "State-owned refiners are rushing to procure spot crude unusually far in advance as Ukrainian attacks on Russian energy assets and a stalemate over the Strait of Hormuz make supplies increasingly uncertain.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-14/indian-refiners-snap-up-crude-months-ahead-as-wars-upend-supply",
-      "time": "2026-08-14T08:47:27",
-      "country": "India",
-      "title_ur": "ہندوستانی ریفائنرز مہینوں قبل خام تیل خریدتے ہیں کیونکہ روس، ہرمز کی سپلائی کے خطرات بڑھ جاتے ہیں۔",
-      "desc_ur": "روسی توانائی کے اثاثوں پر یوکرین کے حملوں اور آبنائے ہرمز پر تعطل نے سپلائی کو غیر یقینی طور پر غیر یقینی بنانے کے لیے سرکاری ملکیتی ریفائنرز غیر معمولی طور پر بہت پہلے ہی سپاٹ کروڈ کی خریداری کے لیے دوڑ رہے ہیں۔"
-    },
-    {
-      "title": "Morning news brief",
-      "desc": "Lawmakers and families raise concerns about conditions aboard USS Lincoln, as the U.S.-Iran war drags on, Iranians seek a break from the conflict, Russian-held Crimea faces Ukrainian drone campaign.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/08/14/nx-s1-5927062/morning-news-brief",
-      "time": "2026-08-14T08:45:41",
-      "country": "Iran",
-      "title_ur": "صبح نیوز بریف",
-      "desc_ur": "قانون سازوں اور خاندانوں نے یو ایس ایس لنکن پر سوار حالات کے بارے میں خدشات کا اظہار کیا، جیسا کہ امریکہ-ایران جنگ جاری ہے، ایرانی تنازع سے وقفہ چاہتے ہیں، روس کے زیر قبضہ کریمیا کو یوکرین کی ڈرون مہم کا سامنا ہے۔"
-    },
-    {
-      "title": "Stanford's director of Iranian Studies on whether there's a path to end the war",
-      "desc": "NPR's Michel Martin asks Abbas Milani, director of Iranian Studies at Stanford, why more Iranians are fleeing their country and whether there's a realistic path to end the U.S.-Iran war.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/08/14/nx-s1-5930344/stanfords-director-of-iranian-studies-on-whether-theres-a-path-to-end-the-war",
-      "time": "2026-08-14T08:44:49",
-      "country": "Iran",
-      "title_ur": "اسٹینفورڈ کے ایرانی اسٹڈیز کے ڈائریکٹر اس بارے میں کہ آیا جنگ کو ختم کرنے کا کوئی راستہ ہے۔",
-      "desc_ur": "این پی آر کے مشیل مارٹن نے اسٹینفورڈ میں ایرانی اسٹڈیز کے ڈائریکٹر عباس میلانی سے پوچھا کہ کیوں زیادہ ایرانی اپنے ملک سے فرار ہو رہے ہیں اور کیا امریکہ-ایران جنگ کو ختم کرنے کا کوئی حقیقت پسندانہ راستہ موجود ہے۔"
-    },
-    {
-      "title": "2027: APC youths demand more recognition, vow 10m votes",
-      "desc": "By Omeiza Ajayi ABUJA: Youths of the ruling All Progressives Congress APC, have called on President Bola Tinubu and APC governors to embrace inclusivity in governance and accord them more recognition, while pledging to deliver 10 million votes for the preside…",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/08/2027-apc-youths-demand-more-recognition-vow-10m-votes/",
-      "time": "2026-08-14T08:43:28",
-      "country": "US",
-      "title_ur": "2027: اے پی سی کے نوجوانوں نے مزید شناخت کا مطالبہ کیا، 10 ملین ووٹ دینے کا عزم کیا۔",
-      "desc_ur": "اومیزا اجے ابوجا کی طرف سے: حکمران آل پروگریسو کانگریس اے پی سی کے نوجوانوں نے، صدر بولا تینوبو اور اے پی سی کے گورنرز سے مطالبہ کیا ہے کہ وہ حکمرانی میں شمولیت کو اپنائیں اور انہیں مزید پہچان دیں، جبکہ صدارت کے لیے 10 ملین ووٹ دینے کا عہد کیا ہے…"
-    },
-    {
-      "title": "Details of the plan to transfer Judea and Samaria authority to police",
-      "desc": "Arutz Sheva learns plans to shift civil enforcement in Area C to police could require doubling the Judea and Samaria force to about 3,000 officers.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/431709",
-      "time": "2026-08-14T08:43:25",
-      "country": "International",
-      "title_ur": "یہودیہ اور سامریہ کی اتھارٹی پولیس کو منتقل کرنے کے منصوبے کی تفصیلات",
-      "desc_ur": "اروتز شیوا کو معلوم ہوا کہ ایریا C میں سول انفورسمنٹ کو پولیس میں منتقل کرنے کے منصوبے کے لیے یہودیہ اور سامریہ فورس کو تقریباً 3,000 افسران تک دگنا کرنے کی ضرورت پڑ سکتی ہے۔"
-    },
-    {
-      "title": "What the hell is going on in the West Bank?",
-      "desc": "Nearly three years since Israel's war in Gaza began, and despite a lengthy case brought before the High Court of Israel, journalists remain unable to enter the",
-      "source": "Haaretz",
-      "url": "https://www.haaretz.com/israel-news/podcasts/2026-08-14/ty-article-podcast/what-the-hell-is-going-on-in-the-west-bank/0000019f-fbce-d337-a7df-ffeecebb0000",
-      "time": "2026-08-14T08:42:00",
-      "country": "Israel",
-      "title_ur": "مغربی کنارے میں کیا ہو رہا ہے؟",
-      "desc_ur": "غزہ میں اسرائیل کی جنگ کو شروع ہوئے تقریباً تین سال ہوچکے ہیں، اور اسرائیل کی ہائی کورٹ میں ایک طویل مقدمہ دائر ہونے کے باوجود صحافیوں کو غزہ میں داخل ہونے سے قاصر ہے۔"
-    },
-    {
-      "title": "Quick hits: Tempers flare as Aussies wilt, Starc's heart-in-mouth moment",
-      "desc": "Mitchell Starc vents his frustration at a Bangladeshi batter, while a star is born on treacherous Darwin turf. Here are the quick hits from day two of the first Test between Australia and Bangladesh.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-08-14/aus-ban-day-two-quick-hits-smith-tanzid-starc-darwin-turf/107036904",
-      "time": "2026-08-14T08:39:26",
-      "country": "US",
-      "title_ur": "فوری ہٹ: آسٹریلیا کے مرجھانے کے ساتھ ہی غصہ بھڑک اٹھتا ہے، اسٹارک کے دل میں لمحہ",
-      "desc_ur": "مچل اسٹارک بنگلہ دیشی بلے باز پر اپنی مایوسی کا اظہار کرتے ہیں، جبکہ ایک ستارہ غدار ڈارون ٹرف پر پیدا ہوتا ہے۔ آسٹریلیا اور بنگلہ دیش کے درمیان پہلے ٹیسٹ کے دوسرے دن کے فوری ہٹ یہ ہیں۔"
-    },
-    {
-      "title": "Israel shocked by pace of Iran’s military recovery – media",
-      "desc": "Israeli defense officials have been shocked by the speedy recovery of Iran’s military capabilities, the Jerusalem Post has reported Read Full Article at RT.com",
-      "source": "RT",
-      "url": "https://www.rt.com/news/644236-iran-israel-ballistic-missile/",
-      "time": "2026-08-14T08:34:50",
-      "country": "Iran",
-      "title_ur": "اسرائیل ایران کی فوجی بحالی کی رفتار سے حیران – میڈیا",
-      "desc_ur": "یروشلم پوسٹ نے رپورٹ کیا ہے کہ RT.com پر مکمل آرٹیکل پڑھیں"
-    },
-    {
-      "title": "US to Soon Unveil Unprecedented Sanctions on Iran",
-      "desc": "The move will be part of a 'one-two punch' that includes the continued blockade of Iran's ports, Treasury Secretary Scott Bessent said.",
-      "source": "Rigzone",
-      "url": "https://www.rigzone.com/news/wire/us_to_soon_unveil_unprecedented_sanctions_on_iran-14-aug-2026-184374-article/",
-      "time": "2026-08-14T08:34:47",
-      "country": "Iran",
-      "title_ur": "امریکہ جلد ہی ایران پر غیر معمولی پابندیوں کا اعلان کرے گا۔",
-      "desc_ur": "ٹریژری سکریٹری سکاٹ بیسنٹ نے کہا کہ یہ اقدام 'ون ٹو پنچ' کا حصہ ہو گا جس میں ایران کی بندرگاہوں کی مسلسل ناکہ بندی بھی شامل ہے۔"
-    },
-    {
-      "title": "Iran may shift military strategy to offense amid US-Israel conflict",
-      "desc": "Iran's potential offensive shift could escalate regional tensions, prolong conflicts, and impact global market stability and diplomatic efforts.\nThe post Iran may shift military strategy to offense amid US-Israel conflict appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-may-shift-military-strategy-to-offense-amid-us-israel-conflict/",
-      "time": "2026-08-14T08:33:35",
-      "country": "Iran",
-      "title_ur": "امریکہ اسرائیل تنازعہ کے دوران ایران فوجی حکمت عملی کو جارحیت کے لیے تبدیل کر سکتا ہے۔",
-      "desc_ur": "ایران کی ممکنہ جارحانہ تبدیلی علاقائی کشیدگی کو بڑھا سکتی ہے، تنازعات کو طول دے سکتی ہے اور عالمی منڈی کے استحکام اور سفارتی کوششوں کو متاثر کر سکتی ہے۔\nThe post امریکا اسرائیل تنازع کے درمیان ایران فوجی حکمت عملی کو جرم میں تبدیل کر سکتا ہے appeared first on Crypto Briefing."
-    },
-    {
-      "title": "Iran President Pezeshkian said to attend BRICS summit in Delhi",
-      "desc": "Iranian President Masoud Pezeshkian will attend the BRICS summit in New Delhi this September.  He joins other senior leaders, including Russian President Vladimir Putin, at the gathering.  India will host the 18th BRICS Summit on September 12-13 as the groupi…",
+      "title": "Iran president Pezeshkian to visit India for BRICS summit amid Middle East tensions",
+      "desc": "Iran has signalled that it sees India as a potential partner in efforts to ease tensions in West Asia, with Iranian Foreign Minister Abbas Araghchi saying New Delhi could play a greater role in de-escalating the ongoing crisis. Araghchi made the remarks durin…",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/india/iran-president-pezeshkian-said-to-be-attend-brics-summit-in-delhi/articleshow/133231967.cms",
-      "time": "2026-08-14T08:32:30",
+      "url": "https://timesofindia.indiatimes.com/india/iran-president-pezeshkian-to-visit-india-for-brics-summit-amid-middle-east-tensions/articleshow/133235023.cms",
+      "time": "2026-08-14T09:19:07",
       "country": "Iran",
-      "title_ur": "ایران کے صدر پیزشکیان نے کہا کہ وہ دہلی میں برکس سربراہی اجلاس میں شرکت کریں گے۔",
-      "desc_ur": "ایرانی صدر مسعود پیزشکیان اس ستمبر میں نئی ​​دہلی میں برکس سربراہی اجلاس میں شرکت کریں گے۔  وہ اس اجتماع میں روسی صدر ولادیمیر پوتن سمیت دیگر سینئر رہنماؤں کے ساتھ شامل ہوتے ہیں۔  ہندوستان 12-13 ستمبر کو 18ویں برکس سربراہی اجلاس کی میزبانی کرے گا جیسا کہ گروپ…"
+      "title_ur": "ایران کے صدر پیزشکیان مشرق وسطیٰ میں کشیدگی کے درمیان برکس سربراہ اجلاس میں شرکت کے لیے ہندوستان کا دورہ کریں گے۔",
+      "desc_ur": "ایران نے اشارہ دیا ہے کہ وہ ہندوستان کو مغربی ایشیا میں کشیدگی کو کم کرنے کی کوششوں میں ایک ممکنہ پارٹنر کے طور پر دیکھتا ہے، ایرانی وزیر خارجہ عباس عراقچی نے کہا کہ نئی دہلی جاری بحران کو کم کرنے میں زیادہ کردار ادا کر سکتا ہے۔ اراغچی نے یہ ریمارکس دوران…"
     },
     {
-      "title": "Oil rises after US threatens indefinite blockade of Iran; set for weekly gains",
-      "desc": "By Anushree Mukherjee Aug 14 (Reuters) - Oil prices rose on Friday and were on track for weekly gains after the United States threatened an indefinite naval...",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/energy/articles/oil-steadies-us-threatens-blockade-013600797.html",
-      "time": "2026-08-14T08:30:44",
+      "title": "What Total Iranian Victory Over Trump Looks Like: Five War Goals Explained",
+      "desc": "As President Donald Trump attempts to impose new demands for a deal that would put an end to the United States-Israeli war against Iran, the Islamic Republic continues to maintain a defiant stance, seeking concessions that would have profound ramifications fo…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/c19b1f4a0f58a8c8",
+      "time": "2026-08-14T09:15:43",
       "country": "Iran",
-      "title_ur": "امریکہ کی ایران کی غیر معینہ ناکہ بندی کی دھمکی کے بعد تیل میں اضافہ ہفتہ وار منافع کے لئے مقرر",
-      "desc_ur": "انوشری مکھرجی کی طرف سے اگست 14 (رائٹرز) – امریکہ کی جانب سے غیر معینہ مدت کے لیے بحریہ کی دھمکی کے بعد جمعہ کو تیل کی قیمتوں میں اضافہ ہوا اور ہفتہ وار فائدہ کی راہ پر گامزن تھے۔"
+      "title_ur": "ٹرمپ پر ایران کی کل فتح کیسی نظر آتی ہے: جنگ کے پانچ اہداف کی وضاحت",
+      "desc_ur": "جیسا کہ صدر ڈونلڈ ٹرمپ ایک معاہدے کے لیے نئے مطالبات مسلط کرنے کی کوشش کر رہے ہیں جس سے ایران کے خلاف امریکہ اسرائیل جنگ کا خاتمہ ہو جائے، اسلامی جمہوریہ ایک منحرف موقف کو برقرار رکھے ہوئے ہے، اور ایسی رعایتوں کی تلاش میں ہے جس کے گہرے اثرات ہوں گے۔"
     },
     {
-      "title": "Iran’s BRICS Proposal: Building a Financial Corridor and Linking Members’ Payment Networks",
-      "desc": "Iran’s central bank has put forward a potentially consequential proposal at the BRICS financial meetings in India: the creation of a dedicated financial corridor linking and integrating the payment networks of BRICS members, alongside an independent infrastru…",
+      "title": "Bush Launched an Attack a Month Before 9/11—Against Iraq, Not Al-Qaeda",
+      "desc": "In this series, Newsweek maps the road to 9/11 as it happened 25 years ago, day by day.\nYesterday: Terrorist mastermind KSM had two visas and was on a watch list. Yet no one in the State Department, immigration, FBI or intelligence community paid attention.\nA…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/aa5798891009da25",
+      "time": "2026-08-14T09:15:08",
+      "country": "Iraq",
+      "title_ur": "بش نے نائن الیون سے ایک ماہ قبل حملہ کیا تھا — عراق کے خلاف، القاعدہ کے خلاف نہیں",
+      "desc_ur": "اس سلسلے میں، نیوز ویک 9/11 کے راستے کا نقشہ بناتا ہے جیسا کہ 25 سال پہلے، دن بہ دن ہوا تھا۔\nکل: دہشت گردی کے ماسٹر مائنڈ کے ایس ایم کے پاس دو ویزے تھے اور وہ واچ لسٹ میں تھا۔ اس کے باوجود محکمہ خارجہ، امیگریشن، ایف بی آئی یا انٹیلی جنس کمیونٹی میں کسی نے توجہ نہیں دی۔\nایک…"
+    },
+    {
+      "title": "Inside the Rise of America’s Oligarch Class—And What It Means For All of Us",
+      "desc": "In early 2014, a pair of political scientists published a striking study on the health, or lack thereof, of American democracy. Authored by Princeton University’s Martin Gilens and Northwestern Univesity’s Benjamin Page, the study combed through decades of da…",
+      "source": "Lithub.com",
+      "url": "https://lithub.com/inside-the-rise-of-americas-oligarch-class-and-what-it-means-for-all-of-us/",
+      "time": "2026-08-14T09:09:22",
+      "country": "US",
+      "title_ur": "امریکہ کی اولیگرچ کلاس کے عروج کے اندر — اور ہم سب کے لیے اس کا کیا مطلب ہے۔",
+      "desc_ur": "2014 کے اوائل میں، سیاسی سائنسدانوں کے ایک جوڑے نے امریکی جمہوریت کی صحت یا اس کی کمی پر ایک حیران کن مطالعہ شائع کیا۔ پرنسٹن یونیورسٹی کے مارٹن گیلنس اور نارتھ ویسٹرن یونیورسٹی کے بینجمن پیج کی طرف سے تصنیف کردہ، یہ مطالعہ کئی دہائیوں پر مشتمل…"
+    },
+    {
+      "title": "Treasury yields rise as US threatens Iran with more sanctions amid standoff",
+      "desc": "Rising Treasury yields signal market concerns over prolonged geopolitical tensions, potentially impacting global energy prices and inflation.\nThe post Treasury yields rise as US threatens Iran with more sanctions amid standoff appeared first on Crypto Briefin…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/treasury-yields-rise-as-us-threatens-iran-with-more-sanctions-amid-standoff/",
+      "time": "2026-08-14T09:07:33",
+      "country": "Iran",
+      "title_ur": "ٹریژری کی پیداوار میں اضافہ ہوا ہے کیونکہ امریکہ نے تعطل کے درمیان ایران کو مزید پابندیوں کی دھمکی دی ہے۔",
+      "desc_ur": "بڑھتی ہوئی ٹریژری طویل جغرافیائی سیاسی تناؤ پر مارکیٹ کے خدشات کو ظاہر کرتی ہے، ممکنہ طور پر توانائی کی عالمی قیمتوں اور افراط زر پر اثر انداز ہوتی ہے۔\nThe post ٹریژری کی پیداوار میں اضافہ کیونکہ امریکہ نے ایران کو تعطل کے درمیان مزید پابندیوں کی دھمکی دی ہے appeared first on Crypto Briefin…"
+    },
+    {
+      "title": "Too Big to Win",
+      "desc": "I begin to understand why, since I emerged from my coma, the docs have recommended eschewing the Internet. Following Wednesday's Clubland Q&A, Joe Huber comments: Unfortunately, SteynOnline (once my favorite place to visit) has gradually devolved into",
+      "source": "Steynonline.com",
+      "url": "https://www.steynonline.com/16357/too-big-to-win",
+      "time": "2026-08-14T09:06:05",
+      "country": "International",
+      "title_ur": "جیتنے کے لیے بہت بڑا",
+      "desc_ur": "میں سمجھنا شروع کر دیتا ہوں کہ کیوں، جب سے میں اپنے کوما سے نکلا ہوں، دستاویزات نے انٹرنیٹ کو چھوڑنے کی سفارش کی ہے۔ بدھ کے کلب لینڈ کے سوال و جواب کے بعد، جو ہیوبر نے تبصرہ کیا: بدقسمتی سے، SteynOnline (ایک بار میری پسندیدہ جگہ دیکھنے کے لیے) آہستہ آہستہ"
+    },
+    {
+      "title": "Treasury yields rise as U.S. threatens Iran with more sanctions",
+      "desc": "The yield on the 10-year U.S. Treasury note — the key benchmark for U.S. government borrowing — rose 2 basis points to 4.661%.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/14/treasury-yields-us-iran-economic-sanctions.html",
+      "time": "2026-08-14T09:04:24",
+      "country": "Iran",
+      "title_ur": "امریکہ کی جانب سے ایران پر مزید پابندیوں کی دھمکی کے ساتھ ہی خزانے کی پیداوار میں اضافہ ہوا۔",
+      "desc_ur": "10 سالہ یو ایس ٹریژری نوٹ پر پیداوار - امریکی حکومت کے قرض لینے کا کلیدی معیار - 2 بیس پوائنٹس بڑھ کر 4.661 فیصد ہو گیا۔"
+    },
+    {
+      "title": "The Haftorah we sing every Friday night",
+      "desc": "We are expected to rise, to rebuild and to act.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/431712",
+      "time": "2026-08-14T09:04:02",
+      "country": "International",
+      "title_ur": "ہفتورہ ہم ہر جمعہ کی رات گاتے ہیں۔",
+      "desc_ur": "ہم سے توقع کی جاتی ہے کہ ہم اٹھیں گے، دوبارہ تعمیر کریں گے اور عمل کریں گے۔"
+    },
+    {
+      "title": "A prophet as great as Moshe--possible, or heresy?",
+      "desc": "What does the Torah mean when Moshe communicates that the prophet must be 'Like me'?",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/431711",
+      "time": "2026-08-14T09:03:00",
+      "country": "US",
+      "title_ur": "موسیٰ جیسا عظیم نبی - ممکن ہے، یا بدعت؟",
+      "desc_ur": "تورات کا کیا مطلب ہے جب موسیٰ یہ بتاتا ہے کہ نبی کو 'میرے جیسا' ہونا چاہیے؟"
+    },
+    {
+      "title": "Global Market: European shares steady near record highs as Iran war, Eurozone data in focus",
+      "desc": "European shares traded largely flat near record highs as investors weighed stalled US-Iran negotiations, elevated oil prices and upcoming Eurozone economic data. The STOXX 600 remained supported by resilient corporate earnings expectations, although geopoliti…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-steady-near-record-highs-as-iran-war-eurozone-data-in-focus/articleshow/133234270.cms",
+      "time": "2026-08-14T09:02:22",
+      "country": "Iran",
+      "title_ur": "عالمی منڈی: ایران کی جنگ، یوروزون ڈیٹا فوکس میں ہونے کی وجہ سے یورپی حصص ریکارڈ بلندیوں کے قریب مستحکم",
+      "desc_ur": "یورپی حصص کا کاروبار ریکارڈ اونچائی کے قریب بڑے پیمانے پر فلیٹ ہوا کیونکہ سرمایہ کاروں نے امریکہ ایران مذاکرات، تیل کی بلند قیمتوں اور آنے والے یورو زون کے اقتصادی اعداد و شمار پر وزن ڈالا۔ STOXX 600 کو کارپوریٹ آمدنی کی لچکدار توقعات کی حمایت حاصل رہی، حالانکہ جیو پولیٹی…"
+    },
+    {
+      "title": "USS Abraham Lincoln Sailor's Father Proposes 'Parent Swap' To Replace His Son",
+      "desc": "An Ohio man offered the idea to one of his state's U.S. senators, saying he would do anything to help his child.",
+      "source": "Military.com",
+      "url": "https://military.com/uss-abraham-lincoln-sailor-father-proposes-parent-swap-replace-his-son",
+      "time": "2026-08-14T09:01:12",
+      "country": "US",
+      "title_ur": "یو ایس ایس ابراہم لنکن سیلر کے والد نے اپنے بیٹے کی جگہ 'والدین کی تبدیلی' کی تجویز پیش کی۔",
+      "desc_ur": "اوہائیو کے ایک شخص نے اپنی ریاست کے ایک امریکی سینیٹر کو یہ خیال پیش کرتے ہوئے کہا کہ وہ اپنے بچے کی مدد کے لیے کچھ بھی کرے گا۔"
+    },
+    {
+      "title": "What is a ‘ceasefire’ supposed to achieve?",
+      "desc": "Gaza, Lebanon, Iran, Ukraine: four ceasefires, none that held. AJLabs on why truces keep collapsing.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/14/what-is-a-ceasefire-supposed-to-achieve",
+      "time": "2026-08-14T09:00:51",
+      "country": "Iran",
+      "title_ur": "'جنگ بندی' سے کیا حاصل کرنا ہے؟",
+      "desc_ur": "غزہ، لبنان، ایران، یوکرین: چار جنگ بندی، کوئی بھی نہیں ہوا۔ AJLabs کہ جنگ بندی کیوں ٹوٹتی رہتی ہے۔"
+    },
+    {
+      "title": "North Korean Foreign Ministry Calls US-South Korea Drills 'Rehearsal for Aggressive War'",
+      "desc": "MOSCOW (Sputnik) - North Korea considers the upcoming joint military exercise of the United States and South Korea a rehearsal for an aggressive war and is ready to respond, the North Korean Foreign Ministry said on Friday.",
       "source": "Sputnikglobe.com",
-      "url": "https://sputnikglobe.com/20260814/irans-brics-proposal-building-a-financial-corridor-and-linking-members-payment-networks-1124576413.html",
-      "time": "2026-08-14T08:29:53",
-      "country": "Iran",
-      "title_ur": "ایران کی برکس تجویز: ایک مالیاتی راہداری کی تعمیر اور اراکین کے ادائیگی کے نیٹ ورکس کو جوڑنا",
-      "desc_ur": "ایران کے مرکزی بینک نے ہندوستان میں برکس مالیاتی اجلاسوں میں ممکنہ طور پر نتیجہ خیز تجویز پیش کی ہے: ایک آزاد انفراسٹرکچر کے ساتھ ساتھ برکس کے ممبران کے ادائیگی کے نیٹ ورکس کو جوڑنے اور انضمام کرنے کے لئے ایک وقف شدہ مالیاتی راہداری کی تشکیل…"
+      "url": "https://sputnikglobe.com/20260814/north-korean-foreign-ministry-calls-us-south-korea-drills-rehearsal-for-aggressive-war-1124576898.html",
+      "time": "2026-08-14T09:00:27",
+      "country": "Russia",
+      "title_ur": "شمالی کوریا کی وزارت خارجہ نے امریکہ اور جنوبی کوریا کی مشقوں کو 'جارحانہ جنگ کی ریہرسل' قرار دیا ہے۔",
+      "desc_ur": "ماسکو (اسپوتنک) - شمالی کوریا امریکہ اور جنوبی کوریا کی آئندہ مشترکہ فوجی مشق کو جارحانہ جنگ کی مشق سمجھتا ہے اور جواب دینے کے لیے تیار ہے، شمالی کوریا کی وزارت خارجہ نے جمعہ کو کہا۔"
+    },
+    {
+      "title": "Innovation is key to America staying a superpower. But it is missing an essential piece",
+      "desc": "SpaceX, NASA and Boeing prove innovation depends on factories and workforce advancement to stay competitive, not just research and development.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/opinion/innovation-key-america-staying-superpower-missing-essential-piece",
+      "time": "2026-08-14T09:00:16",
+      "country": "US",
+      "title_ur": "جدت طرازی امریکہ کے سپر پاور رہنے کی کلید ہے۔ لیکن اس میں ایک ضروری ٹکڑا غائب ہے۔",
+      "desc_ur": "SpaceX، NASA اور Boeing ثابت کرتے ہیں کہ جدت کا انحصار کارخانوں اور افرادی قوت کی ترقی پر ہے تاکہ مسابقتی رہیں، نہ کہ صرف تحقیق اور ترقی۔"
+    },
+    {
+      "title": "APT group HoneyMyte upgrades CoolClient: the backdoor gets a kernel-level Windows rootkit",
+      "desc": "Our experts discovered a new CoolClient backdoor variant with a kernel-mode rootkit driver that hides malicious processes, files, and network connections from security tools and threat analysts.",
+      "source": "Securelist.com",
+      "url": "https://securelist.com/honeymyte-coolclient-driver-rootkit/121028/",
+      "time": "2026-08-14T09:00:14",
+      "country": "US",
+      "title_ur": "APT گروپ HoneyMyte CoolClient کو اپ گریڈ کرتا ہے: بیک ڈور کو کرنل لیول کی ونڈوز روٹ کٹ ملتی ہے۔",
+      "desc_ur": "ہمارے ماہرین نے کرنل موڈ روٹ کٹ ڈرائیور کے ساتھ ایک نیا CoolClient بیک ڈور ویرینٹ دریافت کیا ہے جو سیکیورٹی ٹولز اور دھمکیوں کے تجزیہ کاروں سے نقصان دہ عمل، فائلوں اور نیٹ ورک کنکشن کو چھپاتا ہے۔"
     }
   ],
   "pakistan": [
+    {
+      "title": "Swedish Ambassador congratulates Pakistan",
+      "desc": "Swedish Ambassador Alex Berg congratulates Pakistan on its 79th Independence Day, reaffirming Sweden's friendship and expressing hope for prosperity",
+      "source": "Diplomaticstar.com.pk",
+      "url": "https://diplomaticstar.com.pk/business/pakistan-sweden-alex-berg-swedish-ambassador-pakistan-independence-day-embassy-of-sweden-islamabad-sweden-pakistan-relations-diplomacy-bilateral-cooperation-alliance-news/",
+      "time": "2026-08-14T09:15:06",
+      "country": "Pakistan",
+      "title_ur": "سویڈن کے سفیر نے پاکستان کو مبارکباد دی۔",
+      "desc_ur": "سویڈن کے سفیر ایلکس برگ نے پاکستان کو 79ویں یوم آزادی پر مبارکباد دیتے ہوئے سویڈن کی دوستی کا اعادہ کیا اور خوشحالی کی امید کا اظہار کیا۔"
+    },
+    {
+      "title": "Turkey lays out ‘mechanisms’ of defence pact with Pakistan, Saudi Arabia",
+      "desc": "Turkiye, Saudi Arabia and Pakistan will group senior ministers, hold ⁠joint exercises and deepen defence industry cooperation under a military pact signed between the regional powers last week, Turkiye’s defence ministry says. The three countries on August 7 …",
+      "source": "Thechronicle.com.gh",
+      "url": "https://thechronicle.com.gh/turkey-lays-out-mechanisms-of-defence-pact-with-pakistan-saudi-arabia/",
+      "time": "2026-08-14T09:06:02",
+      "country": "Pakistan",
+      "title_ur": "ترکی نے پاکستان اور سعودی عرب کے ساتھ دفاعی معاہدے کا ’میکانزم‘ وضع کیا۔",
+      "desc_ur": "ترکی کی وزارت دفاع کا کہنا ہے کہ ترکی، سعودی عرب اور پاکستان گزشتہ ہفتے علاقائی طاقتوں کے درمیان طے پانے والے فوجی معاہدے کے تحت سینئر وزراء کا گروپ بنائیں گے، مشترکہ مشقیں کریں گے اور دفاعی صنعت میں تعاون کو گہرا کریں گے۔ تینوں ممالک نے 7 اگست کو…"
+    },
+    {
+      "title": "Feature: Mourning Or Demonstrating?",
+      "desc": "Politics is the art of using euphemisms, lies, emotionalism and fear-mongering to dupe average people into accepting – or even demanding – their own enslavement. – Larken Rose Some of us are not merely students or watchers of politics; we are (or rather we we…",
+      "source": "Thechronicle.com.gh",
+      "url": "https://thechronicle.com.gh/feature-mourning-or-demonstrating/",
+      "time": "2026-08-14T08:59:58",
+      "country": "Pakistan",
+      "title_ur": "خصوصیت: ماتم یا مظاہرہ؟",
+      "desc_ur": "سیاست ایک ایسا فن ہے جس میں خوشامد، جھوٹ، جذباتیت اور خوف و ہراس کا استعمال کرتے ہوئے اوسط درجے کے لوگوں کو ان کی اپنی غلامی کو قبول کرنے یا مطالبہ کرنے کے لیے دھوکہ دیا جاتا ہے۔ - لارکن روز ہم میں سے کچھ محض طالب علم یا سیاست پر نظر رکھنے والے نہیں ہیں۔ ہم ہیں (یا ہم ہم…"
+    },
     {
       "title": "Pakistan's FM urges US to implement Iran deal",
       "desc": "Pakistani Foreign Minister Ishaq Dar urged the United States on Friday to implement the memorandum of understanding (MoU) with Iran in a conversation with Washington's charge d'affaires in Islamabad, ...",
@@ -162,56 +192,6 @@
       "country": "Pakistan",
       "title_ur": "پاکستان کے وزیر خارجہ نے امریکہ پر زور دیا کہ وہ ایران کے ساتھ معاہدے پر عمل درآمد کرے۔",
       "desc_ur": "پاکستان کے وزیر خارجہ اسحاق ڈار نے جمعے کے روز اسلام آباد میں واشنگٹن کے ناظم الامور کے ساتھ بات چیت میں امریکہ پر زور دیا کہ وہ ایران کے ساتھ مفاہمت کی یادداشت (ایم او یو) پر عمل درآمد کرے۔"
-    },
-    {
-      "title": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln - npr.org",
-      "desc": "New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincolnnpr.org U.S.S. Abraham Lincoln Has Been Deployed for Months, Prompting ConcernsThe New York Times Exclusive | U.S. Sending Fresh Aircraft Carrier to Middle East Amid…",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184969385",
-      "time": "2026-08-14T08:32:50",
-      "country": "Pakistan",
-      "title_ur": "طویل عرصے سے تعینات یو ایس ایس لنکن پر مسائل کی اطلاعات کے بعد نیا طیارہ بردار بحری جہاز مشرق وسطیٰ کی طرف بڑھ رہا ہے - npr.org",
-      "desc_ur": "نیا طیارہ بردار بحری جہاز طویل عرصے سے تعینات USS Lincolnnpr.org U.S. پر مسائل کی اطلاعات کے بعد مشرق وسطیٰ کی طرف بڑھ رہا ہے۔ ابراہم لنکن کو مہینوں سے تعینات کیا گیا ہے، تشویش کا باعث بنی نیویارک ٹائمز خصوصی | امریکہ مشرق وسطیٰ میں تازہ طیارہ بردار بحری جہاز بھیج رہا ہے…"
-    },
-    {
-      "title": "Indians, Pakistanis view each other as greatest threat: Pew Research",
-      "desc": "A recent Pew survey highlights the deep-seated geopolitical tensions between India and Pakistan, with both nations considering each other as their primary threats. Many Indians express concerns about China. Pakistan regards China as a crucial ally, whereas In…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/india/indians-pakistanis-view-each-other-as-greatest-threat-pew-research/articleshow/133233046.cms",
-      "time": "2026-08-14T08:19:25",
-      "country": "Pakistan",
-      "title_ur": "ہندوستانی اور پاکستانی ایک دوسرے کو سب سے بڑا خطرہ سمجھتے ہیں: پیو ریسرچ",
-      "desc_ur": "پیو کے ایک حالیہ سروے میں ہندوستان اور پاکستان کے درمیان گہرے جغرافیائی سیاسی تناؤ پر روشنی ڈالی گئی ہے، دونوں ممالک ایک دوسرے کو اپنا بنیادی خطرہ سمجھتے ہیں۔ بہت سے ہندوستانی چین کے بارے میں تشویش کا اظہار کرتے ہیں۔ پاکستان چین کو ایک اہم اتحادی سمجھتا ہے جب کہ…"
-    },
-    {
-      "title": "Pakistan celebrates Independence Day: Here's how its stock market performed in last one year",
-      "desc": "Pakistan celebrates its 79th Independence Day as the KSE-100 index delivers a 23% return over the past year despite geopolitical tensions and market volatility. From a record high in January, the index has slipped around 6%. Meanwhile, younger investors are i…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pakistan-celebrates-independence-day-heres-how-its-stock-market-performed-in-last-one-year/articleshow/133232943.cms",
-      "time": "2026-08-14T08:06:35",
-      "country": "Pakistan",
-      "title_ur": "پاکستان نے یوم آزادی منایا: گزشتہ ایک سال میں اس کی اسٹاک مارکیٹ کی کارکردگی یہ ہے۔",
-      "desc_ur": "پاکستان اپنا 79 واں یوم آزادی منا رہا ہے کیونکہ KSE-100 انڈیکس جغرافیائی سیاسی تناؤ اور مارکیٹ کے اتار چڑھاؤ کے باوجود گزشتہ سال کے مقابلے میں 23% منافع فراہم کرتا ہے۔ جنوری میں ریکارڈ بلندی سے، انڈیکس تقریباً 6 فیصد تک گر گیا ہے۔ دریں اثنا، نوجوان سرمایہ کار میں…"
-    },
-    {
-      "title": "Can India Men End 51-Year Hockey World Cup Jinx?",
-      "desc": "The Indian men's hockey team, led by Harmanpreet Singh, is determined to end a 51-year World Cup drought, beginning their campaign against Wales with genuine optimism following recent Olympic bronze medals and an Asia Cup title.",
-      "source": "Rediff.com",
-      "url": "https://www.rediff.com/sports/report/can-india-men-end-51-year-hockey-world-cup-jinx/20260814.htm",
-      "time": "2026-08-14T08:04:29",
-      "country": "Pakistan",
-      "title_ur": "کیا ہندوستانی مرد 51 سالہ ہاکی ورلڈ کپ جنکس کو ختم کر سکتے ہیں؟",
-      "desc_ur": "ہرمن پریت سنگھ کی قیادت میں ہندوستانی مردوں کی ہاکی ٹیم، 51 سالہ ورلڈ کپ کی خشک سالی کو ختم کرنے کے لیے پرعزم ہے، حال ہی میں اولمپک کانسی کے تمغے اور ایشیا کپ ٹائٹل کے بعد ویلز کے خلاف اپنی مہم کا آغاز حقیقی امید کے ساتھ کرے گی۔"
-    },
-    {
-      "title": "Symposium on Prosecuting Asia-Pacific Crimes: Beyond Borders – From Local Truth to Global Justice",
-      "desc": "[Za Uk Ling is the Executive Director of the Chin Human Rights Organization (CHRO)] Click here to view the full video by Za Uk Ling Transcription: My role today, representing the Chin Human Rights Organization (CHRO), is to bring the frontline reality directl…",
-      "source": "Opiniojuris.org",
-      "url": "http://opiniojuris.org/2026/08/14/beyond-borders-from-local-truth-to-global-justice/",
-      "time": "2026-08-14T08:00:35",
-      "country": "Pakistan",
-      "title_ur": "ایشیا پیسیفک جرائم پر مقدمہ چلانے پر سمپوزیم: سرحدوں سے پرے - مقامی سچائی سے عالمی انصاف تک",
-      "desc_ur": "[Za Uk Ling چِن ہیومن رائٹس آرگنائزیشن (CHRO) کے ایگزیکٹو ڈائریکٹر ہیں] Za Uk Ling ٹرانسکرپشن کی طرف سے مکمل ویڈیو دیکھنے کے لیے یہاں کلک کریں: آج میرا کردار، چِن ہیومن رائٹس آرگنائزیشن (CHRO) کی نمائندگی کرتے ہوئے، فرنٹ لائن حقیقت کو براہِ راست سامنے لانا ہے۔"
     }
   ],
   "business": {
