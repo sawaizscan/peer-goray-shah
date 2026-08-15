@@ -1,6 +1,126 @@
 {
-  "generated": "2026-08-15T09:19:57Z",
+  "generated": "2026-08-15T09:48:31Z",
   "world": [
+    {
+      "title": "Treasury yields rise as U.S. threatens Iran with more economic sanctions",
+      "desc": "U.S. Treasury yields rose on Friday after the U.S. said its naval blockade of Iranian ports could continue \"indefinitely\".\nThe yield on the 10-year U.S. Treasury note — the key benchmark for U.S. government borrowing — rose 2 basis points to 4.661%.\nThe 2-yea…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/d9284db8ab107cda",
+      "time": "2026-08-14T09:45:34",
+      "country": "Iran",
+      "title_ur": "امریکہ کی جانب سے ایران پر مزید اقتصادی پابندیوں کی دھمکی کے ساتھ ہی خزانے کی پیداوار میں اضافہ ہوا۔",
+      "desc_ur": "جمعہ کو امریکی خزانے کی پیداوار میں اضافہ ہوا جب امریکہ نے کہا کہ اس کی ایرانی بندرگاہوں کی بحری ناکہ بندی \"غیر معینہ مدت تک\" جاری رہ سکتی ہے۔\n10 سالہ یو ایس ٹریژری نوٹ پر پیداوار - امریکی حکومت کے قرض لینے کا کلیدی معیار - 2 بیس پوائنٹس بڑھ کر 4.661 فیصد ہو گیا۔\n2-ہاں…"
+    },
+    {
+      "title": "Airports Authority explains major delays at Ben Gurion Airport",
+      "desc": "The Israel Airports Authority rejected reports of a staffing shortage at Ben Gurion International Airport, saying the delays were caused, among other factors, by heavy air traffic, restrictions in European airspace, and flights by American refueling aircraft.…",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/flashes/691743",
+      "time": "2026-08-14T09:45:06",
+      "country": "Israel",
+      "title_ur": "ہوائی اڈے اتھارٹی نے بین گوریون ہوائی اڈے پر بڑی تاخیر کی وضاحت کی۔",
+      "desc_ur": "اسرائیل ایئرپورٹ اتھارٹی نے بین گوریون انٹرنیشنل ایئرپورٹ پر عملے کی کمی کی خبروں کو مسترد کرتے ہوئے کہا کہ تاخیر دیگر عوامل کے علاوہ بھاری فضائی ٹریفک، یورپی فضائی حدود میں پابندیوں اور امریکی ایندھن بھرنے والے طیاروں کی پروازوں کی وجہ سے ہوئی۔"
+    },
+    {
+      "title": "Global Market: Rising real yields raise fresh risks for stocks and global economic growth",
+      "desc": "Real borrowing costs across major economies have climbed to multi-year highs as heavy government borrowing and large technology companies’ AI spending increase bond supply. Rising real yields could challenge equity valuations by making fixed income more attra…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-rising-real-yields-raise-fresh-risks-for-stocks-and-global-economic-growth/articleshow/133236127.cms",
+      "time": "2026-08-14T09:40:31",
+      "country": "International",
+      "title_ur": "عالمی منڈی: حقیقی پیداوار میں اضافہ اسٹاک اور عالمی اقتصادی ترقی کے لیے نئے خطرات کو بڑھاتا ہے۔",
+      "desc_ur": "بڑی معیشتوں میں حقیقی قرضے لینے کے اخراجات کئی سالوں کی بلندیوں پر پہنچ گئے ہیں کیونکہ بھاری سرکاری قرضے اور بڑی ٹیکنالوجی کمپنیوں کے AI اخراجات بانڈ کی فراہمی میں اضافہ کرتے ہیں۔ حقیقی پیداوار میں اضافہ ایکویٹی ویلیویشن کو چیلنج کر سکتا ہے جس سے فکسڈ انکم کو مزید اٹرا بنا کر…"
+    },
+    {
+      "title": "If You Want to Know How Trump 2.0 Is Really Going, I Suggest a Visit to the Dying Trump “Superstore”",
+      "desc": "Recently, the retailer gained notoriety for a new sign.",
+      "source": "Slate Magazine",
+      "url": "https://slate.com/news-and-politics/2026/08/trump-popularity-superstore-tennessee-dying-polls.html",
+      "time": "2026-08-14T09:40:00",
+      "country": "US",
+      "title_ur": "اگر آپ جاننا چاہتے ہیں کہ ٹرمپ 2.0 واقعی کیسے جا رہا ہے، تو میں مرنے والے ٹرمپ \"سپر اسٹور\" کا دورہ کرنے کا مشورہ دیتا ہوں۔",
+      "desc_ur": "حال ہی میں، خوردہ فروش نے ایک نئی نشانی کے لیے بدنامی حاصل کی۔"
+    },
+    {
+      "title": "Demand destruction cushions impact of geopolitical oil spikes",
+      "desc": "Gradual domestic fuel price adjustments have shielded India’s headline inflation from global crude shocks",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/commodities/demand-destruction-cushions-impact-of-geopolitical-oil-spikes/article71344918.ece",
+      "time": "2026-08-14T09:38:45",
+      "country": "India",
+      "title_ur": "جغرافیائی سیاسی تیل کی بڑھتی ہوئی وارداتوں کا مطالبہ تباہی کو کم کرتا ہے۔",
+      "desc_ur": "بتدریج گھریلو ایندھن کی قیمتوں میں ایڈجسٹمنٹ نے ہندوستان کی سرخی والی افراط زر کو عالمی خام جھٹکوں سے بچایا ہے"
+    },
+    {
+      "title": "More than 2.6 million girls in Afghanistan have been denied a secondary education since 2021",
+      "desc": "More than 2.6 million girls in Afghanistan have been denied a secondary education in the five years since the de facto authorities took power, UNICEF said today. Afghanistan remains the only country in the world where secondary and higher education is effecti…",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260814-unicef01.htm",
+      "time": "2026-08-14T09:37:16",
+      "country": "Afghanistan",
+      "title_ur": "2021 سے افغانستان میں 2.6 ملین سے زیادہ لڑکیوں کو ثانوی تعلیم سے محروم کر دیا گیا ہے۔",
+      "desc_ur": "یونیسیف نے آج کہا کہ ڈی فیکٹو حکام کے اقتدار سنبھالنے کے پانچ سالوں میں افغانستان میں 2.6 ملین سے زیادہ لڑکیوں کو ثانوی تعلیم سے محروم رکھا گیا ہے۔ افغانستان دنیا کا واحد ملک ہے جہاں ثانوی اور اعلیٰ تعلیم موثر ہے…"
+    },
+    {
+      "title": "Iran: Human rights statement by France and Western partners is hypocritical projection",
+      "desc": "The Iranian Foreign Ministry condemned the move by France and a number of Western countries to issue a joint statement against the Islamic Republic of Iran under the pretext of human rights, describing it as a clear instance of hypocritical deflection.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/08/iran-260814-irna01.htm",
+      "time": "2026-08-14T09:37:16",
+      "country": "Iran",
+      "title_ur": "ایران: فرانس اور مغربی شراکت داروں کا انسانی حقوق کا بیان منافقانہ پروجیکشن ہے۔",
+      "desc_ur": "ایرانی وزارت خارجہ نے انسانی حقوق کے بہانے اسلامی جمہوریہ ایران کے خلاف مشترکہ بیان جاری کرنے کے فرانس اور متعدد مغربی ممالک کے اقدام کی مذمت کرتے ہوئے اسے منافقانہ انحراف کی واضح مثال قرار دیا۔"
+    },
+    {
+      "title": "U.S. to use economic tactics on Iran 'that have never been seen'; Navy works to relieve troubled carrier USS Abraham Lincoln - CNBC",
+      "desc": "U.S. to use economic tactics on Iran 'that have never been seen'; Navy works to relieve troubled carrier USS Abraham LincolnCNBC Iran war live: US eyes indefinite Iran naval blockadeAl Jazeera Treasury yields rise as U.S. threatens Iran with more economic san…",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184969803",
+      "time": "2026-08-14T09:33:05",
+      "country": "Iran",
+      "title_ur": "امریکہ ایران کے خلاف ایسے اقتصادی حربے استعمال کرے گا جو کبھی نہیں دیکھے گئے ہوں گے۔ بحریہ مصیبت زدہ بحری جہاز USS ابراہم لنکن - CNBC سے نجات کے لیے کام کر رہی ہے۔",
+      "desc_ur": "امریکہ ایران کے خلاف ایسے اقتصادی حربے استعمال کرے گا جو کبھی نہیں دیکھے گئے ہوں گے۔ بحریہ مصیبت زدہ کیریئر یو ایس ایس ابراہم لنکن سی این بی سی ایران جنگ لائیو کو دور کرنے کے لیے کام کرتی ہے: امریکہ کی نظریں غیر معینہ مدت کے لیے ایران کی بحری ناکہ بندیالجزیرہ ٹریژری کی پیداوار میں اضافہ کے طور پر امریکہ کی جانب سے ایران کو مزید اقتصادی سانحے کی دھمکیاں…"
+    },
+    {
+      "title": "Israel calls Turkey 'headquarters of Hamas'",
+      "desc": "Israel’s foreign minister accused Turkey on Friday of becoming the “headquarters of the Hamas terror organization” and hosting its leaders, following remarks by Turkish Foreign Minister Hakan Fidan co...",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/a2285bf028213e97",
+      "time": "2026-08-14T09:30:51",
+      "country": "Israel",
+      "title_ur": "اسرائیل نے ترکی کو حماس کا ہیڈ کوارٹر قرار دے دیا",
+      "desc_ur": "اسرائیل کے وزیر خارجہ نے جمعہ کے روز ترکی پر الزام عائد کیا کہ وہ \"حماس دہشت گرد تنظیم کا ہیڈ کوارٹر\" بن گیا ہے اور اس کے رہنماؤں کی میزبانی کر رہا ہے، ترکی کے وزیر خارجہ ہاکان فیدان کے بیان کے بعد..."
+    },
+    {
+      "title": "Will Democrats’ Bitter Primaries Hurt Them When It Matters Most?",
+      "desc": "The party is spending its summer mired in a series of acrimonious primaries. Will it hurt them when it’s time to take on Republicans?",
+      "source": "Slate Magazine",
+      "url": "https://slate.com/news-and-politics/2026/08/primary-election-democrats-crowley-hong-el-sayed-stevens.html",
+      "time": "2026-08-14T09:30:00",
+      "country": "US",
+      "title_ur": "کیا ڈیموکریٹس کی تلخ پرائمریز ان کو تکلیف پہنچائیں گی جب یہ سب سے اہم ہے؟",
+      "desc_ur": "پارٹی سخت پرائمریوں کے سلسلے میں اپنا موسم گرما گزار رہی ہے۔ جب ریپبلکنز کا مقابلہ کرنے کا وقت آئے گا تو کیا اس سے انہیں تکلیف ہوگی؟"
+    },
+    {
+      "title": "Bridges And Roads Are So Fundamental To Human Survival That The Geneva Conventions Protect Them",
+      "desc": "Destroying infrastructure during war is outlawed by the Geneva Conventions, as this practice is disastrous for civilians, leading to untold death and suffering.",
+      "source": "Jalopnik",
+      "url": "https://www.jalopnik.com/2236256/geneva-convention-protects-infrastructure-roads-bridges/",
+      "time": "2026-08-14T09:25:00",
+      "country": "US",
+      "title_ur": "پل اور سڑکیں انسانی بقا کے لیے اس قدر بنیادی ہیں کہ جنیوا کنونشن ان کی حفاظت کرتے ہیں۔",
+      "desc_ur": "جنگ کے دوران انفراسٹرکچر کو تباہ کرنا جنیوا کنونشنز کے ذریعے غیر قانونی قرار دیا گیا ہے، کیونکہ یہ عمل عام شہریوں کے لیے تباہ کن ہے، جس سے بے شمار موت اور تکالیف ہوتی ہیں۔"
+    },
+    {
+      "title": "Vance Says Cheap Oil and Gas Is Top U.S. Priority in Iran War",
+      "desc": "Low U.S. gasoline prices are the top priority of the Administration amid the war in Iran, Vice President JD Vance said, as the U.S.-Iran deadlock persists and the U.S. vowed to keep the blockade on Iran indefinitely. “I know that oil is down today and it's wa…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Vance-Says-Cheap-Oil-and-Gas-Is-Top-US-Priority-in-Iran-War.html",
+      "time": "2026-08-14T09:20:00",
+      "country": "Iran",
+      "title_ur": "وینس کا کہنا ہے کہ ایران جنگ میں سستا تیل اور گیس امریکہ کی اولین ترجیح ہے۔",
+      "desc_ur": "ایران میں جنگ کے دوران امریکی پٹرول کی کم قیمتیں انتظامیہ کی اولین ترجیح ہیں، نائب صدر جے ڈی وینس نے کہا، جیسا کہ امریکہ-ایران تعطل برقرار ہے اور امریکہ نے ایران پر غیر معینہ مدت تک ناکہ بندی برقرار رکھنے کا عزم کیا ہے۔ \"میں جانتا ہوں کہ آج تیل کم ہے اور یہ ہے..."
+    },
     {
       "title": "Iran president Pezeshkian to visit India for BRICS summit amid Middle East tensions",
       "desc": "Iran has signalled that it sees India as a potential partner in efforts to ease tensions in West Asia, with Iranian Foreign Minister Abbas Araghchi saying New Delhi could play a greater role in de-escalating the ongoing crisis. Araghchi made the remarks durin…",
@@ -30,129 +150,29 @@
       "country": "Iraq",
       "title_ur": "بش نے نائن الیون سے ایک ماہ قبل حملہ کیا تھا — عراق کے خلاف، القاعدہ کے خلاف نہیں",
       "desc_ur": "اس سلسلے میں، نیوز ویک 9/11 کے راستے کا نقشہ بناتا ہے جیسا کہ 25 سال پہلے، دن بہ دن ہوا تھا۔\nکل: دہشت گردی کے ماسٹر مائنڈ کے ایس ایم کے پاس دو ویزے تھے اور وہ واچ لسٹ میں تھا۔ اس کے باوجود محکمہ خارجہ، امیگریشن، ایف بی آئی یا انٹیلی جنس کمیونٹی میں کسی نے توجہ نہیں دی۔\nایک…"
-    },
-    {
-      "title": "Inside the Rise of America’s Oligarch Class—And What It Means For All of Us",
-      "desc": "In early 2014, a pair of political scientists published a striking study on the health, or lack thereof, of American democracy. Authored by Princeton University’s Martin Gilens and Northwestern Univesity’s Benjamin Page, the study combed through decades of da…",
-      "source": "Lithub.com",
-      "url": "https://lithub.com/inside-the-rise-of-americas-oligarch-class-and-what-it-means-for-all-of-us/",
-      "time": "2026-08-14T09:09:22",
-      "country": "US",
-      "title_ur": "امریکہ کی اولیگرچ کلاس کے عروج کے اندر — اور ہم سب کے لیے اس کا کیا مطلب ہے۔",
-      "desc_ur": "2014 کے اوائل میں، سیاسی سائنسدانوں کے ایک جوڑے نے امریکی جمہوریت کی صحت یا اس کی کمی پر ایک حیران کن مطالعہ شائع کیا۔ پرنسٹن یونیورسٹی کے مارٹن گیلنس اور نارتھ ویسٹرن یونیورسٹی کے بینجمن پیج کی طرف سے تصنیف کردہ، یہ مطالعہ کئی دہائیوں پر مشتمل…"
-    },
-    {
-      "title": "Treasury yields rise as US threatens Iran with more sanctions amid standoff",
-      "desc": "Rising Treasury yields signal market concerns over prolonged geopolitical tensions, potentially impacting global energy prices and inflation.\nThe post Treasury yields rise as US threatens Iran with more sanctions amid standoff appeared first on Crypto Briefin…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/treasury-yields-rise-as-us-threatens-iran-with-more-sanctions-amid-standoff/",
-      "time": "2026-08-14T09:07:33",
-      "country": "Iran",
-      "title_ur": "ٹریژری کی پیداوار میں اضافہ ہوا ہے کیونکہ امریکہ نے تعطل کے درمیان ایران کو مزید پابندیوں کی دھمکی دی ہے۔",
-      "desc_ur": "بڑھتی ہوئی ٹریژری طویل جغرافیائی سیاسی تناؤ پر مارکیٹ کے خدشات کو ظاہر کرتی ہے، ممکنہ طور پر توانائی کی عالمی قیمتوں اور افراط زر پر اثر انداز ہوتی ہے۔\nThe post ٹریژری کی پیداوار میں اضافہ کیونکہ امریکہ نے ایران کو تعطل کے درمیان مزید پابندیوں کی دھمکی دی ہے appeared first on Crypto Briefin…"
-    },
-    {
-      "title": "Too Big to Win",
-      "desc": "I begin to understand why, since I emerged from my coma, the docs have recommended eschewing the Internet. Following Wednesday's Clubland Q&A, Joe Huber comments: Unfortunately, SteynOnline (once my favorite place to visit) has gradually devolved into",
-      "source": "Steynonline.com",
-      "url": "https://www.steynonline.com/16357/too-big-to-win",
-      "time": "2026-08-14T09:06:05",
-      "country": "International",
-      "title_ur": "جیتنے کے لیے بہت بڑا",
-      "desc_ur": "میں سمجھنا شروع کر دیتا ہوں کہ کیوں، جب سے میں اپنے کوما سے نکلا ہوں، دستاویزات نے انٹرنیٹ کو چھوڑنے کی سفارش کی ہے۔ بدھ کے کلب لینڈ کے سوال و جواب کے بعد، جو ہیوبر نے تبصرہ کیا: بدقسمتی سے، SteynOnline (ایک بار میری پسندیدہ جگہ دیکھنے کے لیے) آہستہ آہستہ"
-    },
-    {
-      "title": "Treasury yields rise as U.S. threatens Iran with more sanctions",
-      "desc": "The yield on the 10-year U.S. Treasury note — the key benchmark for U.S. government borrowing — rose 2 basis points to 4.661%.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/14/treasury-yields-us-iran-economic-sanctions.html",
-      "time": "2026-08-14T09:04:24",
-      "country": "Iran",
-      "title_ur": "امریکہ کی جانب سے ایران پر مزید پابندیوں کی دھمکی کے ساتھ ہی خزانے کی پیداوار میں اضافہ ہوا۔",
-      "desc_ur": "10 سالہ یو ایس ٹریژری نوٹ پر پیداوار - امریکی حکومت کے قرض لینے کا کلیدی معیار - 2 بیس پوائنٹس بڑھ کر 4.661 فیصد ہو گیا۔"
-    },
-    {
-      "title": "The Haftorah we sing every Friday night",
-      "desc": "We are expected to rise, to rebuild and to act.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/431712",
-      "time": "2026-08-14T09:04:02",
-      "country": "International",
-      "title_ur": "ہفتورہ ہم ہر جمعہ کی رات گاتے ہیں۔",
-      "desc_ur": "ہم سے توقع کی جاتی ہے کہ ہم اٹھیں گے، دوبارہ تعمیر کریں گے اور عمل کریں گے۔"
-    },
-    {
-      "title": "A prophet as great as Moshe--possible, or heresy?",
-      "desc": "What does the Torah mean when Moshe communicates that the prophet must be 'Like me'?",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/431711",
-      "time": "2026-08-14T09:03:00",
-      "country": "US",
-      "title_ur": "موسیٰ جیسا عظیم نبی - ممکن ہے، یا بدعت؟",
-      "desc_ur": "تورات کا کیا مطلب ہے جب موسیٰ یہ بتاتا ہے کہ نبی کو 'میرے جیسا' ہونا چاہیے؟"
-    },
-    {
-      "title": "Global Market: European shares steady near record highs as Iran war, Eurozone data in focus",
-      "desc": "European shares traded largely flat near record highs as investors weighed stalled US-Iran negotiations, elevated oil prices and upcoming Eurozone economic data. The STOXX 600 remained supported by resilient corporate earnings expectations, although geopoliti…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-steady-near-record-highs-as-iran-war-eurozone-data-in-focus/articleshow/133234270.cms",
-      "time": "2026-08-14T09:02:22",
-      "country": "Iran",
-      "title_ur": "عالمی منڈی: ایران کی جنگ، یوروزون ڈیٹا فوکس میں ہونے کی وجہ سے یورپی حصص ریکارڈ بلندیوں کے قریب مستحکم",
-      "desc_ur": "یورپی حصص کا کاروبار ریکارڈ اونچائی کے قریب بڑے پیمانے پر فلیٹ ہوا کیونکہ سرمایہ کاروں نے امریکہ ایران مذاکرات، تیل کی بلند قیمتوں اور آنے والے یورو زون کے اقتصادی اعداد و شمار پر وزن ڈالا۔ STOXX 600 کو کارپوریٹ آمدنی کی لچکدار توقعات کی حمایت حاصل رہی، حالانکہ جیو پولیٹی…"
-    },
-    {
-      "title": "USS Abraham Lincoln Sailor's Father Proposes 'Parent Swap' To Replace His Son",
-      "desc": "An Ohio man offered the idea to one of his state's U.S. senators, saying he would do anything to help his child.",
-      "source": "Military.com",
-      "url": "https://military.com/uss-abraham-lincoln-sailor-father-proposes-parent-swap-replace-his-son",
-      "time": "2026-08-14T09:01:12",
-      "country": "US",
-      "title_ur": "یو ایس ایس ابراہم لنکن سیلر کے والد نے اپنے بیٹے کی جگہ 'والدین کی تبدیلی' کی تجویز پیش کی۔",
-      "desc_ur": "اوہائیو کے ایک شخص نے اپنی ریاست کے ایک امریکی سینیٹر کو یہ خیال پیش کرتے ہوئے کہا کہ وہ اپنے بچے کی مدد کے لیے کچھ بھی کرے گا۔"
-    },
-    {
-      "title": "What is a ‘ceasefire’ supposed to achieve?",
-      "desc": "Gaza, Lebanon, Iran, Ukraine: four ceasefires, none that held. AJLabs on why truces keep collapsing.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/14/what-is-a-ceasefire-supposed-to-achieve",
-      "time": "2026-08-14T09:00:51",
-      "country": "Iran",
-      "title_ur": "'جنگ بندی' سے کیا حاصل کرنا ہے؟",
-      "desc_ur": "غزہ، لبنان، ایران، یوکرین: چار جنگ بندی، کوئی بھی نہیں ہوا۔ AJLabs کہ جنگ بندی کیوں ٹوٹتی رہتی ہے۔"
-    },
-    {
-      "title": "North Korean Foreign Ministry Calls US-South Korea Drills 'Rehearsal for Aggressive War'",
-      "desc": "MOSCOW (Sputnik) - North Korea considers the upcoming joint military exercise of the United States and South Korea a rehearsal for an aggressive war and is ready to respond, the North Korean Foreign Ministry said on Friday.",
-      "source": "Sputnikglobe.com",
-      "url": "https://sputnikglobe.com/20260814/north-korean-foreign-ministry-calls-us-south-korea-drills-rehearsal-for-aggressive-war-1124576898.html",
-      "time": "2026-08-14T09:00:27",
-      "country": "Russia",
-      "title_ur": "شمالی کوریا کی وزارت خارجہ نے امریکہ اور جنوبی کوریا کی مشقوں کو 'جارحانہ جنگ کی ریہرسل' قرار دیا ہے۔",
-      "desc_ur": "ماسکو (اسپوتنک) - شمالی کوریا امریکہ اور جنوبی کوریا کی آئندہ مشترکہ فوجی مشق کو جارحانہ جنگ کی مشق سمجھتا ہے اور جواب دینے کے لیے تیار ہے، شمالی کوریا کی وزارت خارجہ نے جمعہ کو کہا۔"
-    },
-    {
-      "title": "Innovation is key to America staying a superpower. But it is missing an essential piece",
-      "desc": "SpaceX, NASA and Boeing prove innovation depends on factories and workforce advancement to stay competitive, not just research and development.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/opinion/innovation-key-america-staying-superpower-missing-essential-piece",
-      "time": "2026-08-14T09:00:16",
-      "country": "US",
-      "title_ur": "جدت طرازی امریکہ کے سپر پاور رہنے کی کلید ہے۔ لیکن اس میں ایک ضروری ٹکڑا غائب ہے۔",
-      "desc_ur": "SpaceX، NASA اور Boeing ثابت کرتے ہیں کہ جدت کا انحصار کارخانوں اور افرادی قوت کی ترقی پر ہے تاکہ مسابقتی رہیں، نہ کہ صرف تحقیق اور ترقی۔"
-    },
-    {
-      "title": "APT group HoneyMyte upgrades CoolClient: the backdoor gets a kernel-level Windows rootkit",
-      "desc": "Our experts discovered a new CoolClient backdoor variant with a kernel-mode rootkit driver that hides malicious processes, files, and network connections from security tools and threat analysts.",
-      "source": "Securelist.com",
-      "url": "https://securelist.com/honeymyte-coolclient-driver-rootkit/121028/",
-      "time": "2026-08-14T09:00:14",
-      "country": "US",
-      "title_ur": "APT گروپ HoneyMyte CoolClient کو اپ گریڈ کرتا ہے: بیک ڈور کو کرنل لیول کی ونڈوز روٹ کٹ ملتی ہے۔",
-      "desc_ur": "ہمارے ماہرین نے کرنل موڈ روٹ کٹ ڈرائیور کے ساتھ ایک نیا CoolClient بیک ڈور ویرینٹ دریافت کیا ہے جو سیکیورٹی ٹولز اور دھمکیوں کے تجزیہ کاروں سے نقصان دہ عمل، فائلوں اور نیٹ ورک کنکشن کو چھپاتا ہے۔"
     }
   ],
   "pakistan": [
+    {
+      "title": "Mother of Princess Beatrice's stepson Dara Huang, 43, fuels engagement rumours with cryptic Instagram post showing off enormous diamond ring",
+      "desc": "American architect Dara Huang, 43, who was previously engaged to Edoardo Mapelli Mozzi, shared an image of her new sparkler on her social media account.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/royals/article-16052167/Mother-Princess-Beatrices-stepson-Dara-Huang-43-fuels-engagement-rumours-cryptic-Instagram-post-showing-enormous-diamond-ring.html",
+      "time": "2026-08-14T09:44:28",
+      "country": "Pakistan",
+      "title_ur": "شہزادی بیٹریس کے سوتیلے بیٹے، 43 سالہ دارا ہوانگ کی والدہ، خفیہ انسٹاگرام پوسٹ کے ساتھ منگنی کی افواہوں کو ہوا دے رہی ہیں جس میں ہیرے کی انگوٹھی دکھائی گئی ہے۔",
+      "desc_ur": "امریکی آرکیٹیکٹ ڈارا ہوانگ، 43، جس کی پہلے ایڈورڈو میپیلی موزی سے منگنی ہوئی تھی، نے اپنے سوشل میڈیا اکاؤنٹ پر اپنی نئی چمک کی تصویر شیئر کی۔"
+    },
+    {
+      "title": "Spanish broadcasters accused of snub Israeli runner on live TV",
+      "desc": "Video circulating on social media appears to show Spanish broadcasters refusing to introduce an Israeli runner during a track-and-field event, prompting accusations of anti-Israel bias.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/431714",
+      "time": "2026-08-14T09:39:00",
+      "country": "Pakistan",
+      "title_ur": "ہسپانوی نشریاتی اداروں نے لائیو ٹی وی پر اسرائیلی رنر کو چھیننے کا الزام لگایا",
+      "desc_ur": "سوشل میڈیا پر گردش کرنے والی ویڈیو میں دیکھا جا سکتا ہے کہ ہسپانوی نشریاتی ادارے ایک ٹریک اینڈ فیلڈ ایونٹ کے دوران ایک اسرائیلی رنر کو متعارف کرانے سے انکار کر رہے ہیں، جس سے اسرائیل مخالف تعصب کے الزامات لگتے ہیں۔"
+    },
     {
       "title": "Swedish Ambassador congratulates Pakistan",
       "desc": "Swedish Ambassador Alex Berg congratulates Pakistan on its 79th Independence Day, reaffirming Sweden's friendship and expressing hope for prosperity",
@@ -182,16 +202,6 @@
       "country": "Pakistan",
       "title_ur": "خصوصیت: ماتم یا مظاہرہ؟",
       "desc_ur": "سیاست ایک ایسا فن ہے جس میں خوشامد، جھوٹ، جذباتیت اور خوف و ہراس کا استعمال کرتے ہوئے اوسط درجے کے لوگوں کو ان کی اپنی غلامی کو قبول کرنے یا مطالبہ کرنے کے لیے دھوکہ دیا جاتا ہے۔ - لارکن روز ہم میں سے کچھ محض طالب علم یا سیاست پر نظر رکھنے والے نہیں ہیں۔ ہم ہیں (یا ہم ہم…"
-    },
-    {
-      "title": "Pakistan's FM urges US to implement Iran deal",
-      "desc": "Pakistani Foreign Minister Ishaq Dar urged the United States on Friday to implement the memorandum of understanding (MoU) with Iran in a conversation with Washington's charge d'affaires in Islamabad, ...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/620a9d01aff0c4db",
-      "time": "2026-08-14T08:44:49",
-      "country": "Pakistan",
-      "title_ur": "پاکستان کے وزیر خارجہ نے امریکہ پر زور دیا کہ وہ ایران کے ساتھ معاہدے پر عمل درآمد کرے۔",
-      "desc_ur": "پاکستان کے وزیر خارجہ اسحاق ڈار نے جمعے کے روز اسلام آباد میں واشنگٹن کے ناظم الامور کے ساتھ بات چیت میں امریکہ پر زور دیا کہ وہ ایران کے ساتھ مفاہمت کی یادداشت (ایم او یو) پر عمل درآمد کرے۔"
     }
   ],
   "business": {
