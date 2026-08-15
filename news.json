@@ -1,158 +1,178 @@
 {
-  "generated": "2026-08-15T09:48:31Z",
+  "generated": "2026-08-15T10:15:58Z",
   "world": [
     {
-      "title": "Treasury yields rise as U.S. threatens Iran with more economic sanctions",
-      "desc": "U.S. Treasury yields rose on Friday after the U.S. said its naval blockade of Iranian ports could continue \"indefinitely\".\nThe yield on the 10-year U.S. Treasury note — the key benchmark for U.S. government borrowing — rose 2 basis points to 4.661%.\nThe 2-yea…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/d9284db8ab107cda",
-      "time": "2026-08-14T09:45:34",
-      "country": "Iran",
-      "title_ur": "امریکہ کی جانب سے ایران پر مزید اقتصادی پابندیوں کی دھمکی کے ساتھ ہی خزانے کی پیداوار میں اضافہ ہوا۔",
-      "desc_ur": "جمعہ کو امریکی خزانے کی پیداوار میں اضافہ ہوا جب امریکہ نے کہا کہ اس کی ایرانی بندرگاہوں کی بحری ناکہ بندی \"غیر معینہ مدت تک\" جاری رہ سکتی ہے۔\n10 سالہ یو ایس ٹریژری نوٹ پر پیداوار - امریکی حکومت کے قرض لینے کا کلیدی معیار - 2 بیس پوائنٹس بڑھ کر 4.661 فیصد ہو گیا۔\n2-ہاں…"
-    },
-    {
-      "title": "Airports Authority explains major delays at Ben Gurion Airport",
-      "desc": "The Israel Airports Authority rejected reports of a staffing shortage at Ben Gurion International Airport, saying the delays were caused, among other factors, by heavy air traffic, restrictions in European airspace, and flights by American refueling aircraft.…",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/flashes/691743",
-      "time": "2026-08-14T09:45:06",
-      "country": "Israel",
-      "title_ur": "ہوائی اڈے اتھارٹی نے بین گوریون ہوائی اڈے پر بڑی تاخیر کی وضاحت کی۔",
-      "desc_ur": "اسرائیل ایئرپورٹ اتھارٹی نے بین گوریون انٹرنیشنل ایئرپورٹ پر عملے کی کمی کی خبروں کو مسترد کرتے ہوئے کہا کہ تاخیر دیگر عوامل کے علاوہ بھاری فضائی ٹریفک، یورپی فضائی حدود میں پابندیوں اور امریکی ایندھن بھرنے والے طیاروں کی پروازوں کی وجہ سے ہوئی۔"
-    },
-    {
-      "title": "Global Market: Rising real yields raise fresh risks for stocks and global economic growth",
-      "desc": "Real borrowing costs across major economies have climbed to multi-year highs as heavy government borrowing and large technology companies’ AI spending increase bond supply. Rising real yields could challenge equity valuations by making fixed income more attra…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-rising-real-yields-raise-fresh-risks-for-stocks-and-global-economic-growth/articleshow/133236127.cms",
-      "time": "2026-08-14T09:40:31",
-      "country": "International",
-      "title_ur": "عالمی منڈی: حقیقی پیداوار میں اضافہ اسٹاک اور عالمی اقتصادی ترقی کے لیے نئے خطرات کو بڑھاتا ہے۔",
-      "desc_ur": "بڑی معیشتوں میں حقیقی قرضے لینے کے اخراجات کئی سالوں کی بلندیوں پر پہنچ گئے ہیں کیونکہ بھاری سرکاری قرضے اور بڑی ٹیکنالوجی کمپنیوں کے AI اخراجات بانڈ کی فراہمی میں اضافہ کرتے ہیں۔ حقیقی پیداوار میں اضافہ ایکویٹی ویلیویشن کو چیلنج کر سکتا ہے جس سے فکسڈ انکم کو مزید اٹرا بنا کر…"
-    },
-    {
-      "title": "If You Want to Know How Trump 2.0 Is Really Going, I Suggest a Visit to the Dying Trump “Superstore”",
-      "desc": "Recently, the retailer gained notoriety for a new sign.",
-      "source": "Slate Magazine",
-      "url": "https://slate.com/news-and-politics/2026/08/trump-popularity-superstore-tennessee-dying-polls.html",
-      "time": "2026-08-14T09:40:00",
-      "country": "US",
-      "title_ur": "اگر آپ جاننا چاہتے ہیں کہ ٹرمپ 2.0 واقعی کیسے جا رہا ہے، تو میں مرنے والے ٹرمپ \"سپر اسٹور\" کا دورہ کرنے کا مشورہ دیتا ہوں۔",
-      "desc_ur": "حال ہی میں، خوردہ فروش نے ایک نئی نشانی کے لیے بدنامی حاصل کی۔"
-    },
-    {
-      "title": "Demand destruction cushions impact of geopolitical oil spikes",
-      "desc": "Gradual domestic fuel price adjustments have shielded India’s headline inflation from global crude shocks",
+      "title": "Rupee logs weekly decline, with RBI intervention curbing losses",
+      "desc": "Data on ‌Friday showed that India’s wholesale price inflation rose ​9.78% year-on-year in July, easing marginally from June due to lower energy inflation",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/commodities/demand-destruction-cushions-impact-of-geopolitical-oil-spikes/article71344918.ece",
-      "time": "2026-08-14T09:38:45",
+      "url": "https://www.thehindubusinessline.com/markets/forex/rupee-logs-weekly-decline-with-rbi-intervention-curbing-losses/article71345032.ece",
+      "time": "2026-08-14T10:14:06",
       "country": "India",
-      "title_ur": "جغرافیائی سیاسی تیل کی بڑھتی ہوئی وارداتوں کا مطالبہ تباہی کو کم کرتا ہے۔",
-      "desc_ur": "بتدریج گھریلو ایندھن کی قیمتوں میں ایڈجسٹمنٹ نے ہندوستان کی سرخی والی افراط زر کو عالمی خام جھٹکوں سے بچایا ہے"
+      "title_ur": "RBI کی مداخلت کے نقصانات کو روکنے کے ساتھ روپیہ ہفتہ وار گراوٹ کا شکار ہے۔",
+      "desc_ur": "جمعہ کے اعداد و شمار سے پتہ چلتا ہے کہ ہندوستان کی تھوک قیمت کی افراط زر جولائی میں سال بہ سال 9.78 فیصد بڑھی، جو توانائی کی کم افراط زر کی وجہ سے جون سے معمولی طور پر کم ہوئی"
     },
     {
-      "title": "More than 2.6 million girls in Afghanistan have been denied a secondary education since 2021",
-      "desc": "More than 2.6 million girls in Afghanistan have been denied a secondary education in the five years since the de facto authorities took power, UNICEF said today. Afghanistan remains the only country in the world where secondary and higher education is effecti…",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/08/mil-260814-unicef01.htm",
-      "time": "2026-08-14T09:37:16",
-      "country": "Afghanistan",
-      "title_ur": "2021 سے افغانستان میں 2.6 ملین سے زیادہ لڑکیوں کو ثانوی تعلیم سے محروم کر دیا گیا ہے۔",
-      "desc_ur": "یونیسیف نے آج کہا کہ ڈی فیکٹو حکام کے اقتدار سنبھالنے کے پانچ سالوں میں افغانستان میں 2.6 ملین سے زیادہ لڑکیوں کو ثانوی تعلیم سے محروم رکھا گیا ہے۔ افغانستان دنیا کا واحد ملک ہے جہاں ثانوی اور اعلیٰ تعلیم موثر ہے…"
-    },
-    {
-      "title": "Iran: Human rights statement by France and Western partners is hypocritical projection",
-      "desc": "The Iranian Foreign Ministry condemned the move by France and a number of Western countries to issue a joint statement against the Islamic Republic of Iran under the pretext of human rights, describing it as a clear instance of hypocritical deflection.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/08/iran-260814-irna01.htm",
-      "time": "2026-08-14T09:37:16",
-      "country": "Iran",
-      "title_ur": "ایران: فرانس اور مغربی شراکت داروں کا انسانی حقوق کا بیان منافقانہ پروجیکشن ہے۔",
-      "desc_ur": "ایرانی وزارت خارجہ نے انسانی حقوق کے بہانے اسلامی جمہوریہ ایران کے خلاف مشترکہ بیان جاری کرنے کے فرانس اور متعدد مغربی ممالک کے اقدام کی مذمت کرتے ہوئے اسے منافقانہ انحراف کی واضح مثال قرار دیا۔"
-    },
-    {
-      "title": "U.S. to use economic tactics on Iran 'that have never been seen'; Navy works to relieve troubled carrier USS Abraham Lincoln - CNBC",
-      "desc": "U.S. to use economic tactics on Iran 'that have never been seen'; Navy works to relieve troubled carrier USS Abraham LincolnCNBC Iran war live: US eyes indefinite Iran naval blockadeAl Jazeera Treasury yields rise as U.S. threatens Iran with more economic san…",
+      "title": "UAE accuses Iran of attacks on two ADNOC vessels in Strait of Hormuz - Al Jazeera",
+      "desc": "UAE accuses Iran of attacks on two ADNOC vessels in Strait of HormuzAl Jazeera 2 UAE tankers attacked while transiting Strait of Hormuz, and other news from the Middle EastAP News UAE says Iran attacked two ADNOC vessels in Strait of Hormuz; no injuriesReuter…",
       "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184969803",
-      "time": "2026-08-14T09:33:05",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184970449",
+      "time": "2026-08-14T10:12:46",
       "country": "Iran",
-      "title_ur": "امریکہ ایران کے خلاف ایسے اقتصادی حربے استعمال کرے گا جو کبھی نہیں دیکھے گئے ہوں گے۔ بحریہ مصیبت زدہ بحری جہاز USS ابراہم لنکن - CNBC سے نجات کے لیے کام کر رہی ہے۔",
-      "desc_ur": "امریکہ ایران کے خلاف ایسے اقتصادی حربے استعمال کرے گا جو کبھی نہیں دیکھے گئے ہوں گے۔ بحریہ مصیبت زدہ کیریئر یو ایس ایس ابراہم لنکن سی این بی سی ایران جنگ لائیو کو دور کرنے کے لیے کام کرتی ہے: امریکہ کی نظریں غیر معینہ مدت کے لیے ایران کی بحری ناکہ بندیالجزیرہ ٹریژری کی پیداوار میں اضافہ کے طور پر امریکہ کی جانب سے ایران کو مزید اقتصادی سانحے کی دھمکیاں…"
+      "title_ur": "متحدہ عرب امارات نے ایران پر آبنائے ہرمز میں دو ADNOC جہازوں پر حملوں کا الزام لگایا - الجزیرہ",
+      "desc_ur": "متحدہ عرب امارات نے ایران پر آبنائے ہرمز میں دو ADNOC جہازوں پر حملوں کا الزام لگایا الجزیرہ کے 2 UAE کے ٹینکروں پر آبنائے ہرمز کی آمدورفت کے دوران حملہ کیا گیا، اور Middle EastAP News سے دوسری خبریں UAE کا کہنا ہے کہ ایران نے آبنائے ہرمز میں دو ADNOC جہازوں پر حملہ کیا؛ کوئی زخمی نہیں رائٹر…"
     },
     {
-      "title": "Israel calls Turkey 'headquarters of Hamas'",
-      "desc": "Israel’s foreign minister accused Turkey on Friday of becoming the “headquarters of the Hamas terror organization” and hosting its leaders, following remarks by Turkish Foreign Minister Hakan Fidan co...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/a2285bf028213e97",
-      "time": "2026-08-14T09:30:51",
+      "title": "Vance says low oil prices now ‘goal number one’ in Iran war as U.S. threatens new economic pressure",
+      "desc": "Keeping gas prices low is now the United States’ “goal number one” in the Iran war, Vice President JD Vance has said, as Washington threatened an indefinite naval blockade and signaled it would soon intensify economic pressure on Tehran.",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/iran/low-oil-prices-trump-goal-iran-war-vance-blockade-economic-pressure-rcna592504",
+      "time": "2026-08-14T10:11:35",
+      "country": "Iran",
+      "title_ur": "وینس کا کہنا ہے کہ تیل کی کم قیمتیں اب ایران کی جنگ میں 'مقصد نمبر ایک' ہیں کیونکہ امریکہ نے نئے اقتصادی دباؤ کی دھمکی دی ہے۔",
+      "desc_ur": "ایران کی جنگ میں گیس کی قیمتوں کو کم رکھنا اب امریکہ کا \"مقصد نمبر ایک\" ہے، نائب صدر جے ڈی وینس نے کہا ہے، جیسا کہ واشنگٹن نے غیر معینہ مدت کے لیے بحری ناکہ بندی کی دھمکی دی تھی اور عندیہ دیا تھا کہ وہ جلد ہی تہران پر اقتصادی دباؤ بڑھا دے گا۔"
+    },
+    {
+      "title": "Major oil slick washes up on Iran coast after Hormuz ship strike",
+      "desc": "Experts tell BBC Verify pollution has spread from a ship attacked on 3 August and threatens vulnerable wildlife.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cr7kpdkg13zo",
+      "time": "2026-08-14T10:10:15",
+      "country": "Iran",
+      "title_ur": "ہرمز بحری جہاز کے حملے کے بعد ایران کے ساحل پر تیل کا بڑا ذخیرہ بہہ گیا۔",
+      "desc_ur": "ماہرین بی بی سی کو بتاتے ہیں کہ 3 اگست کو حملہ کرنے والے جہاز سے آلودگی پھیلی ہے اور خطرناک جنگلی حیات کو خطرہ ہے۔"
+    },
+    {
+      "title": "Apple warns iPhone users in 110 countries about spyware attacks",
+      "desc": "Apple has sent a new round of threat notifications warning iPhone users they may have been targeted by mercenary spyware. The alerts went out on August 13, 2026, reaching users in 110 countries. The notifications do not name a specific spyware maker, though A…",
+      "source": "Notebookcheck.net",
+      "url": "https://www.notebookcheck.net/Apple-warns-iPhone-users-in-110-countries-about-spyware-attacks.1368524.0.html",
+      "time": "2026-08-14T10:08:00",
+      "country": "US",
+      "title_ur": "ایپل نے 110 ممالک میں آئی فون صارفین کو اسپائی ویئر حملوں کے بارے میں خبردار کیا ہے۔",
+      "desc_ur": "ایپل نے آئی فون کے صارفین کو متنبہ کرتے ہوئے دھمکی کی اطلاعات کا ایک نیا دور بھیجا ہے کہ وہ کرائے کے اسپائی ویئر کے ذریعہ نشانہ بن سکتے ہیں۔ یہ الرٹس 13 اگست 2026 کو 110 ممالک کے صارفین تک پہنچ گئے۔ اطلاعات میں کسی مخصوص اسپائی ویئر بنانے والے کا نام نہیں لیا گیا ہے، حالانکہ A…"
+    },
+    {
+      "title": "GSI: The road map after the entry of France’s Meridiam, the outstanding issues in Cyprus & Israel",
+      "desc": "The maritime surveys, Nicosia’s decisions & the Turkish front over Crete-Cyprus - The steps toward investment decisions and financing\nThe post GSI: The road map after the entry of France’s Meridiam, the outstanding issues in Cyprus & Israel appeared first on …",
+      "source": "Protothema.gr",
+      "url": "https://en.protothema.gr/2026/08/14/gsi-the-road-map-after-the-entry-of-frances-meridiam-the-outstanding-issues-in-cyprus-israel/",
+      "time": "2026-08-14T10:07:57",
       "country": "Israel",
-      "title_ur": "اسرائیل نے ترکی کو حماس کا ہیڈ کوارٹر قرار دے دیا",
-      "desc_ur": "اسرائیل کے وزیر خارجہ نے جمعہ کے روز ترکی پر الزام عائد کیا کہ وہ \"حماس دہشت گرد تنظیم کا ہیڈ کوارٹر\" بن گیا ہے اور اس کے رہنماؤں کی میزبانی کر رہا ہے، ترکی کے وزیر خارجہ ہاکان فیدان کے بیان کے بعد..."
+      "title_ur": "GSI: فرانس کے میریڈیم کے داخلے کے بعد روڈ میپ، قبرص اور اسرائیل میں بقایا مسائل",
+      "desc_ur": "سمندری سروے، نیکوسیا کے فیصلے اور کریٹ قبرص پر ترکی کا محاذ - سرمایہ کاری کے فیصلوں اور فنانسنگ کی طرف اقدامات\nThe post جی ایس آئی: فرانس کے میریڈیم کے داخلے کے بعد روڈ میپ، قبرص اور اسرائیل میں بقایا مسائل appeared first on …"
     },
     {
-      "title": "Will Democrats’ Bitter Primaries Hurt Them When It Matters Most?",
-      "desc": "The party is spending its summer mired in a series of acrimonious primaries. Will it hurt them when it’s time to take on Republicans?",
-      "source": "Slate Magazine",
-      "url": "https://slate.com/news-and-politics/2026/08/primary-election-democrats-crowley-hong-el-sayed-stevens.html",
-      "time": "2026-08-14T09:30:00",
+      "title": "Siege in Palestinian village draws US criticism as Israeli settlers dig in",
+      "desc": "By Pesha Magid and Rami Ayyub QUSRA, West Bank, Aug 14 (Reuters) - Jewish settlers set up a tent outside a Palestinian home in the village of Qusra in the oc...",
+      "source": "Yahoo Entertainment",
+      "url": "https://www.yahoo.com/news/politics/articles/siege-palestinian-village-draws-us-100521806.html",
+      "time": "2026-08-14T10:05:21",
+      "country": "Israel",
+      "title_ur": "فلسطینی گاؤں کا محاصرہ امریکی تنقید کو اپنی طرف متوجہ کرتا ہے کیونکہ اسرائیلی آباد کاروں کی کھدائی",
+      "desc_ur": "بذریعہ پیشا مجد اور رامی ایوب قصرا، مغربی کنارے، 14 اگست (رائٹرز) - یہودی آباد کاروں نے قصرہ گاؤں میں فلسطینیوں کے گھر کے باہر خیمہ لگایا۔"
+    },
+    {
+      "title": "Batwara 1947 Review: Good Intentions, Stilted Execution",
+      "desc": "Coming so soon after Main Vaapas Aaunga, also a Partition era tale with a message of compassion, the flaws in Batwara 1947 are even more grating, observes Deepa Gahlot.",
+      "source": "Rediff.com",
+      "url": "https://www.rediff.com/movies/review/batwara-1947-review-good-intentions-stilted-execution/20260814.htm",
+      "time": "2026-08-14T10:04:53",
+      "country": "International",
+      "title_ur": "بٹوارہ 1947 کا جائزہ: اچھے ارادے، روکے گئے عمل",
+      "desc_ur": "دیپا گہلوت کا مشاہدہ ہے کہ میں واپس آؤنگا کے بعد اتنی جلدی آ رہا ہے، جو کہ تقسیم کے دور کی ایک کہانی بھی ہے جو ہمدردی کے پیغام کے ساتھ ہے، بٹوارہ 1947 کی خامیاں اور بھی زیادہ گھمبیر ہیں۔"
+    },
+    {
+      "title": "‘It’s a medieval siege’: Massive Attack-designed Bohs strip highlights Ireland-Cuba links",
+      "desc": "British band continues tradition of musicians collaborating with Dublin football club to draw attention to social or political issues",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/culture/music/2026/08/14/its-a-medieval-siege-massive-attack-designed-bohs-strip-highlights-ireland-cuba-links/",
+      "time": "2026-08-14T10:02:45",
+      "country": "UK",
+      "title_ur": "'یہ قرون وسطی کا محاصرہ ہے': بڑے پیمانے پر حملے کے لیے ڈیزائن کردہ بوہس کی پٹی آئرلینڈ-کیوبا کے روابط کو نمایاں کرتی ہے",
+      "desc_ur": "برطانوی بینڈ نے سماجی یا سیاسی مسائل پر توجہ مبذول کرنے کے لیے ڈبلن فٹ بال کلب کے ساتھ مل کر موسیقاروں کی روایت کو جاری رکھا"
+    },
+    {
+      "title": "Paxton, Talarico tap contrary versions of God and Christianity in appeal to Texas voters",
+      "desc": "Campaigning for the U.S. Senate, Paxton says he was “delivered by God” to protect Texas from leftists",
+      "source": "Salon",
+      "url": "https://www.salon.com/2026/08/14/paxton-talarico-tap-contrary-versions-of-god-and-christianity-in-appeal-to-texas-voters/",
+      "time": "2026-08-14T10:00:23",
+      "country": "International",
+      "title_ur": "Paxton، Talarico ٹیکساس کے ووٹروں کی اپیل میں خدا اور عیسائیت کے متضاد ورژن کو تھپتھپاتے ہیں",
+      "desc_ur": "امریکی سینیٹ کے لیے مہم چلاتے ہوئے، پیکسٹن کا کہنا ہے کہ وہ ٹیکساس کو بائیں بازو سے بچانے کے لیے \"خدا کی طرف سے دیا گیا تھا\""
+    },
+    {
+      "title": "Rob Urie: Why Taming the Power of Capital is Needed for Environmental Resolution",
+      "desc": "A hard yet often witty look at how US environmental policy was built to fail, and the issues presented by AI and voter shifts.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/08/rob-urie-why-taming-the-power-of-capital-is-needed-for-environmental-resolution.html",
+      "time": "2026-08-14T10:00:09",
       "country": "US",
-      "title_ur": "کیا ڈیموکریٹس کی تلخ پرائمریز ان کو تکلیف پہنچائیں گی جب یہ سب سے اہم ہے؟",
-      "desc_ur": "پارٹی سخت پرائمریوں کے سلسلے میں اپنا موسم گرما گزار رہی ہے۔ جب ریپبلکنز کا مقابلہ کرنے کا وقت آئے گا تو کیا اس سے انہیں تکلیف ہوگی؟"
+      "title_ur": "روب یوری: ماحولیاتی حل کے لیے سرمائے کی طاقت پر قابو پانے کی ضرورت کیوں ہے۔",
+      "desc_ur": "ایک مشکل لیکن اکثر دلچسپ نظر یہ ہے کہ کس طرح امریکی ماحولیاتی پالیسی کو ناکام بنانے کے لئے بنایا گیا تھا، اور AI اور ووٹر کی طرف سے پیش کردہ مسائل میں تبدیلی آتی ہے۔"
     },
     {
-      "title": "Bridges And Roads Are So Fundamental To Human Survival That The Geneva Conventions Protect Them",
-      "desc": "Destroying infrastructure during war is outlawed by the Geneva Conventions, as this practice is disastrous for civilians, leading to untold death and suffering.",
-      "source": "Jalopnik",
-      "url": "https://www.jalopnik.com/2236256/geneva-convention-protects-infrastructure-roads-bridges/",
-      "time": "2026-08-14T09:25:00",
+      "title": "White House summoned agencies to discuss Colorado amid Tina Peters furor",
+      "desc": "A Trump assistant asked officials from five agencies to join a call “prepared to discuss immediate actions that your department or agency can take with respect to Colorado.”",
+      "source": "The Denver Post",
+      "url": "https://www.denverpost.com/2026/08/14/colorado-donald-trump-tina-peters/",
+      "time": "2026-08-14T10:00:07",
       "country": "US",
-      "title_ur": "پل اور سڑکیں انسانی بقا کے لیے اس قدر بنیادی ہیں کہ جنیوا کنونشن ان کی حفاظت کرتے ہیں۔",
-      "desc_ur": "جنگ کے دوران انفراسٹرکچر کو تباہ کرنا جنیوا کنونشنز کے ذریعے غیر قانونی قرار دیا گیا ہے، کیونکہ یہ عمل عام شہریوں کے لیے تباہ کن ہے، جس سے بے شمار موت اور تکالیف ہوتی ہیں۔"
+      "title_ur": "وائٹ ہاؤس نے ٹینا پیٹرز کے غصے کے درمیان کولوراڈو پر بات کرنے کے لیے ایجنسیوں کو طلب کیا۔",
+      "desc_ur": "ٹرمپ کے ایک اسسٹنٹ نے پانچ ایجنسیوں کے عہدیداروں سے کہا کہ وہ \"فوری طور پر ان اقدامات پر تبادلہ خیال کرنے کے لیے تیار ہیں جو آپ کا محکمہ یا ایجنسی کولوراڈو کے حوالے سے اٹھا سکتے ہیں۔\""
     },
     {
-      "title": "Vance Says Cheap Oil and Gas Is Top U.S. Priority in Iran War",
-      "desc": "Low U.S. gasoline prices are the top priority of the Administration amid the war in Iran, Vice President JD Vance said, as the U.S.-Iran deadlock persists and the U.S. vowed to keep the blockade on Iran indefinitely. “I know that oil is down today and it's wa…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Vance-Says-Cheap-Oil-and-Gas-Is-Top-US-Priority-in-Iran-War.html",
-      "time": "2026-08-14T09:20:00",
-      "country": "Iran",
-      "title_ur": "وینس کا کہنا ہے کہ ایران جنگ میں سستا تیل اور گیس امریکہ کی اولین ترجیح ہے۔",
-      "desc_ur": "ایران میں جنگ کے دوران امریکی پٹرول کی کم قیمتیں انتظامیہ کی اولین ترجیح ہیں، نائب صدر جے ڈی وینس نے کہا، جیسا کہ امریکہ-ایران تعطل برقرار ہے اور امریکہ نے ایران پر غیر معینہ مدت تک ناکہ بندی برقرار رکھنے کا عزم کیا ہے۔ \"میں جانتا ہوں کہ آج تیل کم ہے اور یہ ہے..."
+      "title": "The Left Is Building Power. That’s Why Dems Are Slamming “Woke One.”",
+      "desc": "The\neffort to relitigate the social and political earthquake of 2020 is undergoing yet\nanother hopefully brief revival. Back in May, New York City Councilmember Chi\nOssé quipped on X: “Woke 1 was crazyyyy.” Last\nSunday, Representative Alexandria Ocasio-Cortez…",
+      "source": "The New Republic",
+      "url": "https://newrepublic.com/article/214337/left-building-power-dems-slamming-woke-one",
+      "time": "2026-08-14T10:00:00",
+      "country": "International",
+      "title_ur": "بائیں بازو طاقت بنا رہا ہے۔ یہی وجہ ہے کہ ڈیمز \"ویک ون\" پر نعرے لگا رہے ہیں۔",
+      "desc_ur": "دی\n2020 کے سماجی اور سیاسی زلزلے کو دور کرنے کی کوشش ابھی جاری ہے۔\nایک اور امید ہے کہ مختصر حیات نو۔ مئی میں واپس، نیو یارک سٹی کونسل ممبر چی\nOssé نے X پر طنز کیا: \"Woke 1 پاگل تھا۔\" آخری\nاتوار، نمائندہ اسکندریہ اوکاسیو کورٹیز…"
     },
     {
-      "title": "Iran president Pezeshkian to visit India for BRICS summit amid Middle East tensions",
-      "desc": "Iran has signalled that it sees India as a potential partner in efforts to ease tensions in West Asia, with Iranian Foreign Minister Abbas Araghchi saying New Delhi could play a greater role in de-escalating the ongoing crisis. Araghchi made the remarks durin…",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/iran-president-pezeshkian-to-visit-india-for-brics-summit-amid-middle-east-tensions/articleshow/133235023.cms",
-      "time": "2026-08-14T09:19:07",
-      "country": "Iran",
-      "title_ur": "ایران کے صدر پیزشکیان مشرق وسطیٰ میں کشیدگی کے درمیان برکس سربراہ اجلاس میں شرکت کے لیے ہندوستان کا دورہ کریں گے۔",
-      "desc_ur": "ایران نے اشارہ دیا ہے کہ وہ ہندوستان کو مغربی ایشیا میں کشیدگی کو کم کرنے کی کوششوں میں ایک ممکنہ پارٹنر کے طور پر دیکھتا ہے، ایرانی وزیر خارجہ عباس عراقچی نے کہا کہ نئی دہلی جاری بحران کو کم کرنے میں زیادہ کردار ادا کر سکتا ہے۔ اراغچی نے یہ ریمارکس دوران…"
+      "title": "Thousands gather for fifth National March for Life in southeast India",
+      "desc": "Southeast India’s March for Life draws thousands of participants, a UK bishop is calling on Prime Minister Andy Burnham to push for Jimmy Lai’s release, and more in this week’s roundup of world news.",
+      "source": "Ewtnnews.com",
+      "url": "https://www.ewtnnews.com/world/us/thousands-gather-for-5th-national-march-for-life-in-southeast-india",
+      "time": "2026-08-14T10:00:00",
+      "country": "India",
+      "title_ur": "جنوب مشرقی ہندوستان میں پانچویں نیشنل مارچ فار لائف کے لیے ہزاروں افراد جمع ہیں۔",
+      "desc_ur": "ساؤتھ ایسٹ انڈیا کے مارچ فار لائف نے ہزاروں شرکاء کو اپنی طرف متوجہ کیا، برطانیہ کے ایک بشپ وزیراعظم اینڈی برنہم سے جمی لائی کی رہائی کے لیے زور دینے کے لیے زور دے رہے ہیں، اور اس ہفتے عالمی خبروں کے راؤنڈ اپ میں مزید۔"
     },
     {
-      "title": "What Total Iranian Victory Over Trump Looks Like: Five War Goals Explained",
-      "desc": "As President Donald Trump attempts to impose new demands for a deal that would put an end to the United States-Israeli war against Iran, the Islamic Republic continues to maintain a defiant stance, seeking concessions that would have profound ramifications fo…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/c19b1f4a0f58a8c8",
-      "time": "2026-08-14T09:15:43",
-      "country": "Iran",
-      "title_ur": "ٹرمپ پر ایران کی کل فتح کیسی نظر آتی ہے: جنگ کے پانچ اہداف کی وضاحت",
-      "desc_ur": "جیسا کہ صدر ڈونلڈ ٹرمپ ایک معاہدے کے لیے نئے مطالبات مسلط کرنے کی کوشش کر رہے ہیں جس سے ایران کے خلاف امریکہ اسرائیل جنگ کا خاتمہ ہو جائے، اسلامی جمہوریہ ایک منحرف موقف کو برقرار رکھے ہوئے ہے، اور ایسی رعایتوں کی تلاش میں ہے جس کے گہرے اثرات ہوں گے۔"
-    },
-    {
-      "title": "Bush Launched an Attack a Month Before 9/11—Against Iraq, Not Al-Qaeda",
-      "desc": "In this series, Newsweek maps the road to 9/11 as it happened 25 years ago, day by day.\nYesterday: Terrorist mastermind KSM had two visas and was on a watch list. Yet no one in the State Department, immigration, FBI or intelligence community paid attention.\nA…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/aa5798891009da25",
-      "time": "2026-08-14T09:15:08",
-      "country": "Iraq",
-      "title_ur": "بش نے نائن الیون سے ایک ماہ قبل حملہ کیا تھا — عراق کے خلاف، القاعدہ کے خلاف نہیں",
-      "desc_ur": "اس سلسلے میں، نیوز ویک 9/11 کے راستے کا نقشہ بناتا ہے جیسا کہ 25 سال پہلے، دن بہ دن ہوا تھا۔\nکل: دہشت گردی کے ماسٹر مائنڈ کے ایس ایم کے پاس دو ویزے تھے اور وہ واچ لسٹ میں تھا۔ اس کے باوجود محکمہ خارجہ، امیگریشن، ایف بی آئی یا انٹیلی جنس کمیونٹی میں کسی نے توجہ نہیں دی۔\nایک…"
+      "title": "Has the Left Really Met Its Limit?",
+      "desc": "David Sirota on Francesca Hong’s defeat, what it means for the insurgent left, and how the American presidency has consolidated king-like power. \nThe post Has the Left Really Met Its Limit?  appeared first on The Intercept.",
+      "source": "The Intercept",
+      "url": "https://theintercept.com/2026/08/14/david-sirota-democratic-establishment/",
+      "time": "2026-08-14T10:00:00",
+      "country": "US",
+      "title_ur": "کیا بائیں بازو نے واقعی اپنی حد پوری کر لی ہے؟",
+      "desc_ur": "فرانسسکا ہانگ کی شکست پر ڈیوڈ سیروٹا، بائیں بازو کے باغی کے لیے اس کا کیا مطلب ہے، اور کس طرح امریکی صدارت نے بادشاہ جیسی طاقت کو مستحکم کیا ہے۔ \nThe post کیا بائیں بازو نے واقعی اپنی حد پوری کر لی ہے؟  The Intercept پر پہلی بار شائع ہوا۔"
     }
   ],
   "pakistan": [
+    {
+      "title": "What’s the Value of an Hour?",
+      "desc": "If the world seems to waste our time, it’s partly because we view time itself as a resource to be extracted and optimized.",
+      "source": "The New Yorker",
+      "url": "https://www.newyorker.com/culture/open-questions/whats-the-value-of-an-hour",
+      "time": "2026-08-14T10:00:00",
+      "country": "Pakistan",
+      "title_ur": "ایک گھنٹے کی قدر کیا ہے؟",
+      "desc_ur": "اگر دنیا ہمارا وقت ضائع کرتی نظر آتی ہے، تو اس کی ایک وجہ یہ ہے کہ ہم وقت کو نکالنے اور بہتر بنانے کے لیے خود کو ایک وسیلہ کے طور پر دیکھتے ہیں۔"
+    },
+    {
+      "title": "Trump Delivers a Win for Crooks",
+      "desc": "The Treasury has made the American economy a safe space for corruption.",
+      "source": "The Atlantic",
+      "url": "https://www.theatlantic.com/ideas/2026/08/corrupt-administration-shell-company-business-transparency/688274/",
+      "time": "2026-08-14T10:00:00",
+      "country": "Pakistan",
+      "title_ur": "ٹرمپ نے بدمعاشوں کو جیت فراہم کی۔",
+      "desc_ur": "ٹریژری نے امریکی معیشت کو بدعنوانی کے لیے محفوظ جگہ بنا دیا ہے۔"
+    },
     {
       "title": "Mother of Princess Beatrice's stepson Dara Huang, 43, fuels engagement rumours with cryptic Instagram post showing off enormous diamond ring",
       "desc": "American architect Dara Huang, 43, who was previously engaged to Edoardo Mapelli Mozzi, shared an image of her new sparkler on her social media account.",
@@ -172,36 +192,6 @@
       "country": "Pakistan",
       "title_ur": "ہسپانوی نشریاتی اداروں نے لائیو ٹی وی پر اسرائیلی رنر کو چھیننے کا الزام لگایا",
       "desc_ur": "سوشل میڈیا پر گردش کرنے والی ویڈیو میں دیکھا جا سکتا ہے کہ ہسپانوی نشریاتی ادارے ایک ٹریک اینڈ فیلڈ ایونٹ کے دوران ایک اسرائیلی رنر کو متعارف کرانے سے انکار کر رہے ہیں، جس سے اسرائیل مخالف تعصب کے الزامات لگتے ہیں۔"
-    },
-    {
-      "title": "Swedish Ambassador congratulates Pakistan",
-      "desc": "Swedish Ambassador Alex Berg congratulates Pakistan on its 79th Independence Day, reaffirming Sweden's friendship and expressing hope for prosperity",
-      "source": "Diplomaticstar.com.pk",
-      "url": "https://diplomaticstar.com.pk/business/pakistan-sweden-alex-berg-swedish-ambassador-pakistan-independence-day-embassy-of-sweden-islamabad-sweden-pakistan-relations-diplomacy-bilateral-cooperation-alliance-news/",
-      "time": "2026-08-14T09:15:06",
-      "country": "Pakistan",
-      "title_ur": "سویڈن کے سفیر نے پاکستان کو مبارکباد دی۔",
-      "desc_ur": "سویڈن کے سفیر ایلکس برگ نے پاکستان کو 79ویں یوم آزادی پر مبارکباد دیتے ہوئے سویڈن کی دوستی کا اعادہ کیا اور خوشحالی کی امید کا اظہار کیا۔"
-    },
-    {
-      "title": "Turkey lays out ‘mechanisms’ of defence pact with Pakistan, Saudi Arabia",
-      "desc": "Turkiye, Saudi Arabia and Pakistan will group senior ministers, hold ⁠joint exercises and deepen defence industry cooperation under a military pact signed between the regional powers last week, Turkiye’s defence ministry says. The three countries on August 7 …",
-      "source": "Thechronicle.com.gh",
-      "url": "https://thechronicle.com.gh/turkey-lays-out-mechanisms-of-defence-pact-with-pakistan-saudi-arabia/",
-      "time": "2026-08-14T09:06:02",
-      "country": "Pakistan",
-      "title_ur": "ترکی نے پاکستان اور سعودی عرب کے ساتھ دفاعی معاہدے کا ’میکانزم‘ وضع کیا۔",
-      "desc_ur": "ترکی کی وزارت دفاع کا کہنا ہے کہ ترکی، سعودی عرب اور پاکستان گزشتہ ہفتے علاقائی طاقتوں کے درمیان طے پانے والے فوجی معاہدے کے تحت سینئر وزراء کا گروپ بنائیں گے، مشترکہ مشقیں کریں گے اور دفاعی صنعت میں تعاون کو گہرا کریں گے۔ تینوں ممالک نے 7 اگست کو…"
-    },
-    {
-      "title": "Feature: Mourning Or Demonstrating?",
-      "desc": "Politics is the art of using euphemisms, lies, emotionalism and fear-mongering to dupe average people into accepting – or even demanding – their own enslavement. – Larken Rose Some of us are not merely students or watchers of politics; we are (or rather we we…",
-      "source": "Thechronicle.com.gh",
-      "url": "https://thechronicle.com.gh/feature-mourning-or-demonstrating/",
-      "time": "2026-08-14T08:59:58",
-      "country": "Pakistan",
-      "title_ur": "خصوصیت: ماتم یا مظاہرہ؟",
-      "desc_ur": "سیاست ایک ایسا فن ہے جس میں خوشامد، جھوٹ، جذباتیت اور خوف و ہراس کا استعمال کرتے ہوئے اوسط درجے کے لوگوں کو ان کی اپنی غلامی کو قبول کرنے یا مطالبہ کرنے کے لیے دھوکہ دیا جاتا ہے۔ - لارکن روز ہم میں سے کچھ محض طالب علم یا سیاست پر نظر رکھنے والے نہیں ہیں۔ ہم ہیں (یا ہم ہم…"
     }
   ],
   "business": {
