@@ -1,6 +1,126 @@
 {
-  "generated": "2026-08-16T15:14:55Z",
+  "generated": "2026-08-16T15:44:06Z",
   "world": [
+    {
+      "title": "Warmonger’s Son Mongers War",
+      "desc": "Tony Blair, the former British prime minister, pushed the United Kingdom into a needless war in Iraq in a wild-goose chase for weapons of mass destruction. Then, he helped British companies make money from that war. Now, his son Nick is carrying on the family…",
+      "source": "Mother Jones",
+      "url": "https://www.motherjones.com/politics/2026/08/nick-blair-pyra-defense-contractor/",
+      "time": "2026-08-15T15:41:56",
+      "country": "Iraq",
+      "title_ur": "وارمونجر کا بیٹا مونجرز وار",
+      "desc_ur": "برطانیہ کے سابق وزیر اعظم ٹونی بلیئر نے بڑے پیمانے پر تباہی پھیلانے والے ہتھیاروں کے لیے جنگلی ہنس کے تعاقب میں برطانیہ کو عراق میں ایک غیر ضروری جنگ میں دھکیل دیا۔ پھر، اس نے برطانوی کمپنیوں کو اس جنگ سے پیسہ کمانے میں مدد کی۔ اب، ان کا بیٹا نک خاندان کو سنبھال رہا ہے…"
+    },
+    {
+      "title": "Rashida Tlaib rally moved after Jewish-owned Florida venue cancels event, cites 'increased security concerns'",
+      "desc": "A Jewish-owned Fort Lauderdale venue canceled a rally set to headline Rashida Tlaib days before Florida's primary, citing security concerns.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/rashida-tlaib-rally-moved-jewish-owned-florida-venue-cancels-event-cites-increased-security-concerns",
+      "time": "2026-08-15T15:40:25",
+      "country": "International",
+      "title_ur": "رشیدہ طلیب کی ریلی یہودیوں کی ملکیت والے فلوریڈا کے مقام کی تقریب منسوخ ہونے کے بعد منتقل ہو گئی، 'سیکیورٹی کے بڑھتے ہوئے خدشات' کا حوالہ دیتے ہوئے",
+      "desc_ur": "یہودیوں کی ملکیت فورٹ لاڈرڈیل کے مقام نے سیکیورٹی خدشات کا حوالہ دیتے ہوئے فلوریڈا کے پرائمری سے چند دن قبل راشدہ طلیب کی سرخی والی ریلی کو منسوخ کر دیا۔"
+    },
+    {
+      "title": "Iran, Oman home in on Hormuz Strait deal as ship attacks mount",
+      "desc": "Iran and Oman appear to be edging closer to a deal on how the Strait of Hormuz should be managed, agreeing on routes through the key waterway that’s proved a major stumbling block in efforts to end almost six months of war between the Islamic Republic and the…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/066475980b4a0086",
+      "time": "2026-08-15T15:36:53",
+      "country": "Iran",
+      "title_ur": "ایران اور عمان کے درمیان آبنائے ہرمز کے معاہدے پر بحری جہازوں پر حملے بڑھ رہے ہیں۔",
+      "desc_ur": "ایسا لگتا ہے کہ ایران اور عمان ایک معاہدے کے قریب پہنچ رہے ہیں کہ آبنائے ہرمز کو کس طرح منظم کیا جانا چاہئے، اہم آبی گزرگاہوں کے راستوں پر اتفاق کیا گیا ہے جو اسلامی جمہوریہ اور عمان کے درمیان تقریباً چھ ماہ سے جاری جنگ کو ختم کرنے کی کوششوں میں ایک بڑی رکاوٹ ثابت ہوا ہے۔"
+    },
+    {
+      "title": "Lebanon says 11 killed in Israeli airstrikes",
+      "desc": "Lebanon's prime minister denounced the attacks on villages in southern Lebanon for targeting civilians in their homes. Israel said it was firing on Hezbollah infrastructure.",
+      "source": "DW (English)",
+      "url": "https://www.dw.com/en/lebanon-says-11-killed-in-israeli-airstrikes/a-78383713",
+      "time": "2026-08-15T15:35:00",
+      "country": "Israel",
+      "title_ur": "لبنان کا کہنا ہے کہ اسرائیلی فضائی حملوں میں 11 افراد ہلاک ہو گئے۔",
+      "desc_ur": "لبنان کے وزیر اعظم نے جنوبی لبنان کے دیہاتوں پر ان کے گھروں میں شہریوں کو نشانہ بنانے پر حملوں کی مذمت کی۔ اسرائیل نے کہا کہ وہ حزب اللہ کے بنیادی ڈھانچے پر فائرنگ کر رہا ہے۔"
+    },
+    {
+      "title": "Bandar Abbas airport flights resume after US hostilities, boosting domestic travel routes",
+      "desc": "Flights at Bandar Abbas International Airport have resumed on Saturday. This reopening follows limited operations during recent hostilities with the United States. Scheduled domestic routes connecting Tehran, Mashhad, and Isfahan are now available. The airpor…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/bandar-abbas-airport-flights-resume-after-us-hostilities-boosting-domestic-travel-routes/articleshow/133265169.cms",
+      "time": "2026-08-15T15:34:57",
+      "country": "Iran",
+      "title_ur": "امریکی دشمنی کے بعد بندر عباس ہوائی اڈے پر پروازیں دوبارہ شروع ہوگئیں جس سے اندرون ملک سفری راستوں میں اضافہ ہوا۔",
+      "desc_ur": "بندر عباس بین الاقوامی ہوائی اڈے پر پروازیں ہفتے کو دوبارہ شروع ہو گئی ہیں۔ یہ دوبارہ کھولنا امریکہ کے ساتھ حالیہ دشمنی کے دوران محدود کارروائیوں کے بعد ہے۔ تہران، مشہد اور اصفہان کو ملانے والے طے شدہ گھریلو راستے اب دستیاب ہیں۔ ہوائی اڈے…"
+    },
+    {
+      "title": "US aircraft carrier furore is emblem of growing disquiet over Iran war - ft.com",
+      "desc": "US aircraft carrier furore is emblem of growing disquiet over Iran warft.com Navy and USS Lincoln’s Problems Are Tied to Attacks on U.S. Base Early in WarThe New York Times US pulls last aircraft carrier in Asia as Trump focuses on Iran and the Western Hemisp…",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184986990",
+      "time": "2026-08-15T15:32:47",
+      "country": "Iran",
+      "title_ur": "امریکی طیارہ بردار بحری جہاز کا ہنگامہ ایران جنگ پر بڑھتی ہوئی بے چینی کی علامت ہے - ft.com",
+      "desc_ur": "امریکی طیارہ بردار بحری جہاز ایران پر بڑھتی ہوئی بے چینی کی علامت ہے warft.com بحریہ اور یو ایس ایس لنکن کے مسائل جنگ کے اوائل میں امریکی اڈے پر حملوں سے جڑے ہوئے ہیں نیویارک ٹائمز امریکہ نے ایشیا میں آخری طیارہ بردار بحری جہاز کھینچ لیا کیونکہ ٹرمپ کی توجہ ایران اور مغربی ہیمسپ پر مرکوز ہے…"
+    },
+    {
+      "title": "Mary McAleese reveals what Queen Elizabeth really thought of GAA - and one Gaelic sport in particular - as she explains in great detail the MANY reasons why the late monarch 'abhorred' hardline unionist Ian Paisley",
+      "desc": "While their friendship initially grew out of their official diplomatic roles as heads of state, Ms McAleese and the Queen developed a genuinely close bond over the years.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16054991/Mary-McAleese-reveals-Queen-Elizabeth-really-thought-GAA-one-Gaelic-sport-particular-explains-great-reasons-late-monarch-abhorred-hardline-unionist-Ian-Paisley.html",
+      "time": "2026-08-15T15:27:13",
+      "country": "International",
+      "title_ur": "میری میک ایلیز نے انکشاف کیا کہ ملکہ الزبتھ نے واقعی GAA کے بارے میں کیا سوچا تھا - اور خاص طور پر ایک گیلک کھیل - جیسا کہ وہ بہت ساری وجوہات کی تفصیل سے وضاحت کرتی ہیں کہ آنجہانی بادشاہ نے سخت گیر یونینسٹ ایان پیسلے کو 'نفرت' کیوں کی۔",
+      "desc_ur": "اگرچہ ان کی دوستی ابتداء میں سربراہان مملکت کے طور پر ان کے سرکاری سفارتی کرداروں سے پروان چڑھی، مسز میک ایلیز اور ملکہ نے سالوں کے دوران حقیقی طور پر قریبی رشتہ استوار کیا۔"
+    },
+    {
+      "title": "Blanket with square for each child killed in Gaza brings silence to bustling Dublin street",
+      "desc": "Irish healthcare workers raise the plight of their Palestinian colleagues killed and jailed since October 2023",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/ireland/2026/08/15/blanket-with-square-for-each-child-killed-in-gaza-brings-silence-to-bustling-dublin-street/",
+      "time": "2026-08-15T15:22:15",
+      "country": "Israel",
+      "title_ur": "غزہ میں ہلاک ہونے والے ہر بچے کے لیے چوکور کمبل ڈبلن کی ہلچل سے بھرپور سڑک پر خاموشی لاتا ہے۔",
+      "desc_ur": "آئرش ہیلتھ کیئر ورکرز اکتوبر 2023 سے ہلاک اور جیل میں بند اپنے فلسطینی ساتھیوں کی حالت زار کو اٹھا رہے ہیں"
+    },
+    {
+      "title": "Gulf allies said to be frustrated with Trump",
+      "desc": "The governments of America's closest allies in the Gulf region have been unsettled by the ongoing conflict with Iran and the Trump administration's seeming inability to stop it, reported The Washingto...",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/df5253a6f5f4a89a",
+      "time": "2026-08-15T15:21:50",
+      "country": "Iran",
+      "title_ur": "خلیجی اتحادیوں کا کہنا ہے کہ وہ ٹرمپ سے مایوس ہیں۔",
+      "desc_ur": "خلیجی خطے میں امریکہ کے قریبی اتحادیوں کی حکومتیں ایران کے ساتھ جاری تنازعات اور ٹرمپ انتظامیہ کی جانب سے اسے روکنے میں ناکام نظر آنے سے پریشان ہیں، واشنگٹن نے رپورٹ کیا کہ..."
+    },
+    {
+      "title": "Iran mocks Trump’s Hormuz ambitions as ‘fanciful delusions’",
+      "desc": "Iran says the Strait of Hormuz can’t be seized by tweet or aircraft carrier after Donald Trump vowed to claim the waterway as US territory Read Full Article at RT.com",
+      "source": "RT",
+      "url": "https://www.rt.com/news/644283-iran-trump-hormuz-fanciful-delusions/",
+      "time": "2026-08-15T15:20:31",
+      "country": "Iran",
+      "title_ur": "ایران نے ٹرمپ کے ہرمز کے عزائم کا مذاق اڑایا ہے",
+      "desc_ur": "ایران کا کہنا ہے کہ آبنائے ہرمز کو ٹویٹ یا طیارہ بردار بحری جہاز کے ذریعے قبضے میں نہیں لیا جا سکتا جب ڈونلڈ ٹرمپ نے آبی گزرگاہ پر امریکی علاقہ ہونے کا دعویٰ کرنے کے عزم کا اظہار کیا تھا RT.com پر مکمل مضمون پڑھیں"
+    },
+    {
+      "title": "Eleven dead as Israel strikes Lebanon in deadliest attack since truce in June",
+      "desc": "Israel’s military said the strikes in the early morning were in retaliation for an attack by the Iran-backed militant group on its troops in south Lebanon.",
+      "source": "TheJournal.ie",
+      "url": "https://www.thejournal.ie/israel-strikes-lebanon-7132239-Aug2026/",
+      "time": "2026-08-15T15:20:16",
+      "country": "Iran",
+      "title_ur": "جون میں جنگ بندی کے بعد سب سے مہلک حملے میں لبنان پر اسرائیل کے حملے میں گیارہ افراد ہلاک ہوئے۔",
+      "desc_ur": "اسرائیلی فوج کا کہنا ہے کہ صبح سویرے کیے گئے حملے ایران کے حمایت یافتہ عسکریت پسند گروپ کی طرف سے جنوبی لبنان میں اس کے فوجیوں پر کیے گئے حملے کے جواب میں کیے گئے تھے۔"
+    },
+    {
+      "title": "Trump Tells Desperate Troops On USS Lincoln To Pound Sand",
+      "desc": "So much for these clowns pretending they're the ones who respect the members of our military. As we already discussed here, things are going badly for our troops deployed in Trump's illegal Iran war:\nOne can only imagine how utterly Donald Trump and Whiskey P…",
+      "source": "Crooksandliars.com",
+      "url": "https://crooksandliars.com/2026/08/trump-tells-desperate-troops-uss-lincoln",
+      "time": "2026-08-15T15:18:20",
+      "country": "Iran",
+      "title_ur": "ٹرمپ نے یو ایس ایس لنکن پر مایوس فوجیوں کو ریت کو پاؤنڈ کرنے کو کہا",
+      "desc_ur": "ان مسخروں کے لیے بہت کچھ یہ دکھاوا کرتے ہیں کہ وہ وہی ہیں جو ہماری فوج کے ارکان کا احترام کرتے ہیں۔ جیسا کہ ہم یہاں پہلے ہی بات کر چکے ہیں، ٹرمپ کی غیر قانونی ایران جنگ میں تعینات ہمارے فوجیوں کے لیے حالات خراب ہو رہے ہیں:\nکوئی صرف سوچ سکتا ہے کہ ڈونلڈ ٹرمپ اور وہسکی پی…"
+    },
     {
       "title": "'Take 10 wickets on final day': Josh Hazlewood sends warning as Bangladesh eye historic Test win vs Australia in Darwin",
       "desc": "With Bangladesh continuing their dominance from Day 2 and Australia already four wickets down, Aussie pacer Josh Hazlewood has a 10-wicket warning for the visitors ahead of Day 4.",
@@ -30,129 +150,19 @@
       "country": "Iran",
       "title_ur": "ایران کا کہنا ہے کہ قطر نے امریکی تنازع کے ابتدائی واقعے میں تین پائلٹوں کو گرفتار کیا تھا۔",
       "desc_ur": "قطر کی طرف سے ایرانی پائلٹوں کی گرفتاری سے ایران کی دفاعی حکمت عملیوں اور فضائی حدود کی پالیسیوں پر اثر انداز ہونے سے فوجی کشیدگی میں اضافہ ہو سکتا ہے۔\nThe post ایران کا کہنا ہے کہ قطر نے امریکی تنازع کے ابتدائی واقعے میں تین پائلٹوں کو پکڑ لیا appeared first on Crypto Briefing."
-    },
-    {
-      "title": "Abdul El-Sayed Was in Charge of “Dog Slaughterhouse”",
-      "desc": "We don’t have to wonder what would happen if power were to be handed to the Democrat candidate for US Senate in Michigan, because Abdul El-Sayed has been entrusted with authority before. It did not turn out well for dogs … Continue reading →\nThe post Abdul El…",
-      "source": "Moonbattery.com",
-      "url": "https://moonbattery.com/abdul-el-sayed-was-in-charge-of-dog-slaughterhouse/",
-      "time": "2026-08-15T14:58:43",
-      "country": "US",
-      "title_ur": "عبد السید \"ڈاگ سلاٹر ہاؤس\" کے انچارج تھے۔",
-      "desc_ur": "ہمیں یہ سوچنے کی ضرورت نہیں ہے کہ اگر مشی گن میں امریکی سینیٹ کے لیے ڈیموکریٹ امیدوار کو اقتدار سونپ دیا جائے تو کیا ہوگا، کیونکہ عبد السید کو پہلے بھی اختیار سونپا گیا ہے۔ یہ کتوں کے لیے اچھی طرح سے نہیں نکلا … پڑھنا جاری رکھیں →\nThe post عبد ال…"
-    },
-    {
-      "title": "Top leadership from USA Pacific Northwest joins in India's 80th Independence Day Celebrations at Seattle",
-      "desc": "Several US states issued official proclamations declaring August 15th as India Day. Mayors and county councils honoured Indian American contributions to their regions. Governors highlighted the vibrant Indian American community's positive impact.",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/india/top-leadership-from-usa-pacific-northwest-join-in-indias-80th-independence-day-celebrations-at-seattle/articleshow/133264708.cms",
-      "time": "2026-08-15T14:56:23",
-      "country": "India",
-      "title_ur": "USA پیسفک نارتھ ویسٹ کی اعلیٰ قیادت نے سیئٹل میں ہندوستان کے 80ویں یوم آزادی کی تقریبات میں شرکت کی۔",
-      "desc_ur": "کئی امریکی ریاستوں نے 15 اگست کو یوم ہند کے طور پر منانے کا سرکاری اعلان جاری کیا۔ میئرز اور کاؤنٹی کونسلوں نے ان کے علاقوں میں ہندوستانی امریکیوں کے تعاون کا اعزاز دیا۔ گورنرز نے متحرک ہندوستانی امریکی کمیونٹی کے مثبت اثرات کو اجاگر کیا۔"
-    },
-    {
-      "title": "Binance plans return to UK market amid allegations it facilitated billions in transfers for Iran",
-      "desc": "Binance's UK return amid compliance scrutiny highlights ongoing regulatory challenges for crypto exchanges, impacting global market dynamics.\nThe post Binance plans return to UK market amid allegations it facilitated billions in transfers for Iran appeared fi…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/binance-uk-return-iran-allegations/",
-      "time": "2026-08-15T14:54:55",
-      "country": "Iran",
-      "title_ur": "بائننس نے ان الزامات کے درمیان برطانیہ کی مارکیٹ میں واپسی کا منصوبہ بنایا ہے کہ اس نے ایران کے لیے اربوں کی منتقلی کی سہولت فراہم کی۔",
-      "desc_ur": "تعمیل کی جانچ پڑتال کے درمیان Binance کی برطانیہ کی واپسی کرپٹو ایکسچینجز کے لیے جاری ریگولیٹری چیلنجز کو نمایاں کرتی ہے، جو عالمی مارکیٹ کی حرکیات کو متاثر کرتی ہے۔\nThe post بائننس نے ایران کے لیے اربوں کی منتقلی میں سہولت فراہم کرنے کے الزامات کے درمیان برطانیہ کی مارکیٹ میں واپسی کا ارادہ ظاہر کیا…"
-    },
-    {
-      "title": "Palace complete deal for Anan Khalaili",
-      "desc": "Crystal Palace have completed the signing of Israel international Anan Khalaili from Belgian side Royale Union Saint-Gilloise on a long-term contract until 2031.The 21-year-old, who can operate as eit...",
-      "source": "Playmakerstats.com",
-      "url": "https://www.playmakerstats.com/news/palace-complete-deal-for-anan-khalaili/1175626",
-      "time": "2026-08-15T14:50:00",
-      "country": "Israel",
-      "title_ur": "عنان خلیلی کے لیے محل کا مکمل سودا",
-      "desc_ur": "کرسٹل پیلس نے بیلجیئم کی طرف سے رائل یونین سینٹ گیلوئس سے اسرائیل کے بین الاقوامی عنان خلیلی کے ساتھ 2031 تک طویل مدتی معاہدے پر دستخط مکمل کر لیے ہیں۔"
-    },
-    {
-      "title": "Iran, Oman reach navigation agreement",
-      "desc": "The Iranian foreign ministry announced on Saturday that negotiations between the Islamic republic and Oman have resulted in an agreement between the two countries on the maritime navigation map throug...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/2894645a2026961f",
-      "time": "2026-08-15T14:36:39",
-      "country": "Iran",
-      "title_ur": "ایران اور عمان کے درمیان نیویگیشن معاہدہ طے پا گیا۔",
-      "desc_ur": "ایرانی وزارت خارجہ نے ہفتے کے روز اعلان کیا کہ اسلامی جمہوریہ اور عمان کے درمیان مذاکرات کے نتیجے میں دونوں ممالک کے درمیان سمندری نیوی گیشن میپ پر معاہدہ طے پا گیا ہے۔"
-    },
-    {
-      "title": "Trump Will 'Never Apologize' for High Gas Prices Due to Iran",
-      "desc": "The US is readying unprecedented economic measures against Iran, as President Donald Trump seeks to intensify efforts to force Tehran to capitulate after almost six months of war. #trump #iran #news #usa \nAt a speech on Long Island Friday, Trump boasted that …",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/cd2fc0d21be1fb87",
-      "time": "2026-08-15T14:36:07",
-      "country": "Iran",
-      "title_ur": "ٹرمپ ایران کی وجہ سے گیس کی بلند قیمتوں پر 'کبھی معافی نہیں مانگیں گے'",
-      "desc_ur": "امریکہ ایران کے خلاف بے مثال اقتصادی اقدامات کی تیاری کر رہا ہے، کیونکہ صدر ڈونلڈ ٹرمپ تقریباً چھ ماہ کی جنگ کے بعد تہران کو ہتھیار ڈالنے پر مجبور کرنے کی کوششیں تیز کرنا چاہتے ہیں۔ #trump #iran #news #usa \nجمعہ کو لانگ آئلینڈ پر ایک تقریر میں، ٹرمپ نے فخر کیا کہ…"
-    },
-    {
-      "title": "Lebanon reports 11 dead in strikes that Israel says targeted Hezbollah",
-      "desc": "LEBANON: Lebanon said Israeli strikes on the south killed 11 people, including three children on Saturday (Aug 15), the deadliest raids since deals in June eased hostilities between Israel and Hezbollah.Israel's military said the strikes in the early morning …",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/world/lebanon-reports-11-dead-in-strikes-israel-says-targeted-hezbollah-6321486",
-      "time": "2026-08-15T14:34:00",
-      "country": "Israel",
-      "title_ur": "لبنان میں حملوں میں 11 افراد کی ہلاکت کی اطلاع ہے جس کے بارے میں اسرائیل کا کہنا ہے کہ حزب اللہ کو نشانہ بنایا گیا ہے۔",
-      "desc_ur": "لبنان: لبنان نے کہا کہ ہفتہ (15 اگست) کو جنوب میں اسرائیلی حملوں میں تین بچوں سمیت 11 افراد مارے گئے، جون میں ہونے والے معاہدوں کے بعد اسرائیل اور حزب اللہ کے درمیان دشمنی کو کم کرنے کے بعد سب سے مہلک حملے ہوئے۔"
-    },
-    {
-      "title": "Matchbook targets US market with prediction markets and sports betting",
-      "desc": "Matchbook's US entry could reshape the betting landscape, merging prediction markets with sports betting, but faces complex regulatory hurdles.\nThe post Matchbook targets US market with prediction markets and sports betting appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/matchbook-us-prediction-markets-sports-betting/",
-      "time": "2026-08-15T14:33:54",
-      "country": "US",
-      "title_ur": "میچ بک امریکی مارکیٹ کو پیشین گوئی کی منڈیوں اور کھیلوں کی بیٹنگ کے ساتھ نشانہ بناتی ہے۔",
-      "desc_ur": "میچ بک کی یو ایس انٹری بیٹنگ کے منظر نامے کو نئی شکل دے سکتی ہے، پیشین گوئی کی منڈیوں کو اسپورٹس بیٹنگ کے ساتھ ضم کر سکتی ہے، لیکن اسے پیچیدہ ریگولیٹری رکاوٹوں کا سامنا ہے۔\nThe post میچ بک نے پیشن گوئی کی منڈیوں اور کھیلوں کی بیٹنگ کے ساتھ امریکی مارکیٹ کو نشانہ بنایا appeared first on کرپٹو بریفنگ."
-    },
-    {
-      "title": "The next Yemen war might be different",
-      "desc": "Drones are no longer the advantage for only one side.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/features/2026/8/15/the-next-yemen-war-might-be-different",
-      "time": "2026-08-15T14:32:07",
-      "country": "Yemen",
-      "title_ur": "اگلی یمن جنگ مختلف ہو سکتی ہے۔",
-      "desc_ur": "ڈرون اب صرف ایک فریق کے لیے فائدہ مند نہیں ہیں۔"
-    },
-    {
-      "title": "3 Preseason questions include if Cowboys depth CBs are defenders or ST players?",
-      "desc": "A lot of depth questions for the 53-man roster and Jaydon Blue's role could begin to crystalize in the first preseason game.",
-      "source": "USA Today",
-      "url": "https://cowboyswire.usatoday.com/story/sports/nfl/cowboys/2026/08/15/these-3-questions-need-answering-in-first-preseason-game-for-dallas/91297762007/",
-      "time": "2026-08-15T14:30:37",
-      "country": "International",
-      "title_ur": "3 پری سیزن سوالات میں شامل ہے کہ کیا کاؤبای ڈیپتھ سی بیز محافظ ہیں یا ایس ٹی کھلاڑی؟",
-      "desc_ur": "پہلے پری سیزن گیم میں 53 رکنی روسٹر اور Jaydon Blue کے کردار کے لیے بہت سارے گہرائی والے سوالات شروع ہو سکتے ہیں۔"
-    },
-    {
-      "title": "Terrifying moment anti-Semite madman attacked NYC synagogue during Friday prayers before busting lip of woman, 63, and headbutting security guard, 65",
-      "desc": "Larry Montes, 46, of the Bronx, disrupted Shabbat services at Central Synagogue in Midtown Manhattan on Friday evening, assaulting a 63-year-old woman and a 65-year-old security guard.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16054735/larry-montes-nyc-synagogue-attack-antisemitism.html",
-      "time": "2026-08-15T14:26:37",
-      "country": "US",
-      "title_ur": "خوفناک لمحہ یہود مخالف پاگل شخص نے جمعہ کی نماز کے دوران NYC کی عبادت گاہ پر حملہ کیا، 63 سالہ خاتون اور 65 سالہ سیکیورٹی گارڈ کے ہونٹ کو توڑنے سے پہلے",
-      "desc_ur": "برونکس کے 46 سالہ لیری مونٹیس نے جمعہ کی شام مڈ ٹاؤن مین ہٹن میں مرکزی عبادت گاہ میں شبات کی خدمات میں خلل ڈالا، ایک 63 سالہ خاتون اور ایک 65 سالہ سیکیورٹی گارڈ پر حملہ کیا۔"
-    },
-    {
-      "title": "Iran’s Long Shadow",
-      "desc": "Panelists joined to discuss the political consequences of the continued conflict.",
-      "source": "The Atlantic",
-      "url": "https://www.theatlantic.com/national/2026/08/political-consequences-iran-washington-week/688302/",
-      "time": "2026-08-15T14:25:00",
-      "country": "Iran",
-      "title_ur": "ایران کا لمبا سایہ",
-      "desc_ur": "پینلسٹس جاری تنازعہ کے سیاسی نتائج پر تبادلہ خیال کرنے کے لیے شامل ہوئے۔"
     }
   ],
   "pakistan": [
+    {
+      "title": "What Bessent’s economic isolation of Iran could look like",
+      "desc": "The main challenge is that targeting the remaining options risk blowback on the US economy.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/15/scott-bessent-economic-isolation-iran-sanctions-oil-assets/",
+      "time": "2026-08-15T15:24:39",
+      "country": "Pakistan",
+      "title_ur": "بیسنٹ کی ایران کی معاشی تنہائی کیسی نظر آ سکتی ہے۔",
+      "desc_ur": "اہم چیلنج یہ ہے کہ باقی آپشنز کو نشانہ بنانے سے امریکی معیشت پر دھچکا لگنے کا خطرہ ہے۔"
+    },
     {
       "title": "Empty LPG Tanker Pays Record $4.6 Million to Jump Panama Canal Queue Amid Iran War",
       "desc": "The G. Arete tanker paid a record $4.6 million to bypass Panama Canal congestion, highlighting how Iran conflict and El Niño conditions are disrupting global shipping routes.",
@@ -164,16 +174,6 @@
       "desc_ur": "G. Arete ٹینکر نے پاناما کینال کی بھیڑ کو نظرانداز کرنے کے لیے 4.6 ملین ڈالر کی ریکارڈ رقم ادا کی، اس بات پر روشنی ڈالی کہ کس طرح ایران کا تنازعہ اور ال نینو حالات عالمی جہاز رانی کے راستوں میں خلل ڈال رہے ہیں۔"
     },
     {
-      "title": "What Bessent’s economic isolation of Iran could look like",
-      "desc": "The US Treasury plans new economic pressure on Iran, facing skepticism from critics.  Targeting China's oil purchases poses risks to US-China relations and oil prices.  Exchange houses in countries like the UAE help Iran move its funds.  Secondary sanctions c…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/what-bessents-economic-isolation-of-iran-could-look-like/articleshow/133264419.cms",
-      "time": "2026-08-15T14:25:53",
-      "country": "Pakistan",
-      "title_ur": "بیسنٹ کی ایران کی معاشی تنہائی کیسی نظر آ سکتی ہے۔",
-      "desc_ur": "امریکی ٹریژری نے ایران پر نئے اقتصادی دباؤ کا منصوبہ بنایا ہے، جسے ناقدین کے شکوک و شبہات کا سامنا ہے۔  چین کی تیل کی خریداری کو نشانہ بنانے سے امریکہ چین تعلقات اور تیل کی قیمتوں کو خطرات لاحق ہیں۔  متحدہ عرب امارات جیسے ممالک میں ایکسچینج ہاؤسز ایران کو اپنے فنڈز منتقل کرنے میں مدد کرتے ہیں۔  ثانوی پابندیاں ج…"
-    },
-    {
       "title": "PoJK situation shows leaders took right decision 80 years ago: Jammu & Kashmir CM Omar Abdullah",
       "desc": "Jammu and Kashmir Chief Minister Omar Abdullah expressed distress over conditions across the Line of Control. He stated that past decisions regarding the region were correct and justified. Abdullah believes people in Pakistan-occupied Jammu and Kashmir are co…",
       "source": "The Times of India",
@@ -182,16 +182,6 @@
       "country": "Pakistan",
       "title_ur": "PoJK کے حالات سے پتہ چلتا ہے کہ لیڈروں نے 80 سال پہلے درست فیصلہ کیا تھا: جموں و کشمیر کے وزیر اعلیٰ عمر عبداللہ",
       "desc_ur": "جموں و کشمیر کے وزیر اعلیٰ عمر عبداللہ نے لائن آف کنٹرول کے پار حالات پر تشویش کا اظہار کیا۔ انہوں نے کہا کہ خطے کے حوالے سے ماضی کے فیصلے درست اور جائز تھے۔ عبداللہ کا خیال ہے کہ پاکستان کے زیر قبضہ جموں و کشمیر میں لوگ ایک دوسرے کے ساتھ…"
-    },
-    {
-      "title": "Iran claims downing of US drones with Starlink devices amid rising tensions",
-      "desc": "The integration of advanced satellite tech in military ops may escalate U.S.-Iran tensions, impacting regional stability and market perceptions.\nThe post Iran claims downing of US drones with Starlink devices amid rising tensions appeared first on Crypto Brie…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-claims-downing-of-us-drones-with-starlink-devices-amid-rising-tensions/",
-      "time": "2026-08-15T13:50:44",
-      "country": "Pakistan",
-      "title_ur": "بڑھتی ہوئی کشیدگی کے درمیان ایران نے اسٹار لنک ڈیوائسز کے ساتھ امریکی ڈرون مار گرانے کا دعویٰ کیا ہے۔",
-      "desc_ur": "فوجی آپریشنز میں جدید سیٹلائٹ ٹیک کا انضمام امریکہ اور ایران کے درمیان کشیدگی کو بڑھا سکتا ہے، جس سے علاقائی استحکام اور مارکیٹ کے تاثرات متاثر ہو سکتے ہیں۔\nThe post بڑھتی ہوئی کشیدگی کے درمیان ایران کا اسٹارلنک ڈیوائسز کے ساتھ امریکی ڈرون مار گرانے کا دعویٰ appeared first on Crypto Brie…"
     }
   ],
   "business": {
