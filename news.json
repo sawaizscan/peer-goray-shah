@@ -1,158 +1,188 @@
 {
-  "generated": "2026-08-16T16:17:08Z",
+  "generated": "2026-08-16T16:48:52Z",
   "world": [
     {
-      "title": "Live European Championships updates: Ellen Walshe in 200 IM final; Kate O’Connor in heptathlon gold-medal spot",
-      "desc": "Walshe won gold in the 400m IM at the European Aquatics Championships in Paris earlier in the week",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/sport/athletics/2026/08/15/live-european-championships-updates-ellen-walshe-in-200-im-final-kate-oconnor-in-heptathlon-gold-medal-spot/",
-      "time": "2026-08-15T16:16:16",
-      "country": "Europe",
-      "title_ur": "براہ راست یورپی چیمپئن شپ اپ ڈیٹس: ایلن والشے 200 IM فائنل میں؛ ہیپٹاتھلون میں گولڈ میڈل کی جگہ کیٹ او کونر",
-      "desc_ur": "والشے نے ہفتے کے شروع میں پیرس میں یورپی ایکواٹکس چیمپئن شپ میں 400 میٹر IM میں سونے کا تمغہ جیتا تھا۔"
-    },
-    {
-      "title": "With its nuclear weapons, endless riches and vast population, the Mecca Union is attracting nervous glances. But this scary, muscled-up defence pact might be the best chance for peace in the Middle East...",
-      "desc": "It's been presented as an act of last-ditch diplomacy, an extemporised circling of the wagons in response to the dangerous chaos engulfing the Middle East.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16055009/With-nuclear-weapons-endless-riches-vast-population-Mecca-Union-attracting-nervous-glances-scary-muscled-defence-pact-best-chance-peace-Middle-East.html",
-      "time": "2026-08-15T16:15:58",
-      "country": "US",
-      "title_ur": "اپنے جوہری ہتھیاروں، لامتناہی دولت اور وسیع آبادی کے ساتھ مکہ یونین اعصاب شکن نظروں کو اپنی طرف متوجہ کر رہا ہے۔ لیکن یہ خوفناک، مضبوط دفاعی معاہدہ مشرق وسطیٰ میں امن کا بہترین موقع ہو سکتا ہے...",
-      "desc_ur": "اسے آخری کھائی ڈپلومیسی کے ایک عمل کے طور پر پیش کیا گیا ہے، جو مشرق وسطیٰ کو گھیرے ہوئے خطرناک افراتفری کے جواب میں ویگنوں کا ایک غیر معمولی چکر لگانا ہے۔"
-    },
-    {
-      "title": "Today’s News in a Nutshell",
-      "desc": "KATHMANDU: Khabarhub brings you a glimpse of major developments of the day in Nepal, including politics, business/economy, sports, entertainment, and more. NC dissident faction presents reports including proposal to amend party statute Various proposals and r…",
-      "source": "Khabarhub.com",
-      "url": "https://english.khabarhub.com/2026/15/563395/",
-      "time": "2026-08-15T16:15:39",
-      "country": "US",
-      "title_ur": "آج کی خبریں مختصراً",
-      "desc_ur": "کھٹمنڈو: خبر ہب آپ کے لیے نیپال میں دن کی اہم پیشرفت کی ایک جھلک لاتا ہے، بشمول سیاست، کاروبار/معیشت، کھیل، تفریح، اور بہت کچھ۔ این سی کے منحرف دھڑے نے رپورٹیں پیش کیں بشمول پارٹی کے قانون میں ترمیم کی تجویز مختلف تجاویز اور آر…"
-    },
-    {
-      "title": "Motilal Oswal Small Cap, Bank of India Small Cap, Parag Parikh Flexi Cap, Helios Flexi Cap: Flat Nifty, Divided Fortunes: The Two-Year Tale of Equity Fund Winners and Losers",
-      "desc": "Two-year performance reveals how market rotations, drawdown protection and stock selection sharply separated equity fund winners from laggards",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/portfolio/big-story/motilal-oswal-small-cap-bank-of-india-small-cap-parag-parikh-flexi-cap-helios-flexi-cap-flat-nifty-divided-fortunes-the-two-year-tale-of-equity-fund-winners-and-losers/article71345282.ece",
-      "time": "2026-08-15T16:13:04",
-      "country": "India",
-      "title_ur": "موتی لال اوسوال سمال کیپ، بینک آف انڈیا سمال کیپ، پیراگ پاریکھ فلیکسی کیپ، ہیلیوس فلیکسی کیپ: فلیٹ نفٹی، تقسیم شدہ قسمت: ایکویٹی فنڈ جیتنے والوں اور ہارنے والوں کی دو سالہ کہانی",
-      "desc_ur": "دو سالہ کارکردگی سے پتہ چلتا ہے کہ کس طرح مارکیٹ کی گردش، ڈرا ڈاؤن پروٹیکشن اور اسٹاک کے انتخاب نے ایکویٹی فنڈ جیتنے والوں کو پیچھے رہ جانے والوں سے تیزی سے الگ کیا۔"
-    },
-    {
-      "title": "Maldives reaffirms commitment to advance close partnership with India in Independence Day greetings",
-      "desc": "Maldivian President Muizzu has reiterated his commitment to strengthening the bond and enduring friendship with India. On India's 80th Independence Day, warm wishes poured in from multiple nations, including France, Bhutan, and Nepal. Prime Minister Modi expr…",
+      "title": "A look across LoC vindicates Sheikh Abdullah's India choice: Omar Abdullah",
+      "desc": "J&K CM says decisions taken in 2019 abrogating Article 370 and 35A prevented people across the LoC from seeking merger with the Valley.",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/india/maldives-reaffirms-commitment-to-advance-close-partnership-with-india-in-independence-day-greetings/articleshow/133265560.cms",
-      "time": "2026-08-15T16:09:21",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/a-look-across-loc-vindicates-sheikh-abdullahs-india-choice-omar-abdullah/articleshow/133265854.cms",
+      "time": "2026-08-15T16:45:16",
       "country": "India",
-      "title_ur": "مالدیپ نے یوم آزادی کی مبارکباد میں ہندوستان کے ساتھ قریبی شراکت داری کو آگے بڑھانے کے عزم کا اعادہ کیا۔",
-      "desc_ur": "مالدیپ کے صدر Muizzu نے ہندوستان کے ساتھ تعلقات کو مضبوط بنانے اور پائیدار دوستی کے اپنے عزم کا اعادہ کیا ہے۔ ہندوستان کے 80 ویں یوم آزادی پر، فرانس، بھوٹان اور نیپال سمیت متعدد ممالک کی جانب سے پرتپاک خواہشات کا اظہار کیا گیا۔ وزیر اعظم مودی نے ایکسپر..."
+      "title_ur": "ایل او سی کے پار ایک نظر شیخ عبداللہ کے ہندوستان کے انتخاب کی تصدیق کرتی ہے: عمر عبداللہ",
+      "desc_ur": "جموں و کشمیر کے وزیر اعلی کا کہنا ہے کہ 2019 میں آرٹیکل 370 اور 35A کو منسوخ کرنے کے فیصلے نے ایل او سی کے اس پار لوگوں کو وادی کے ساتھ انضمام کی کوشش کرنے سے روک دیا۔"
     },
     {
-      "title": "After indictment and resignation, Cherfilus-McCormick asks voters to return her to Congress",
-      "desc": "Sheila Cherfilus-McCormick is asking voters to return her to Congress — less than four months after she resigned from the House of Representatives. Cherfilus-McCormick is one of five Democrats seeking her party’s nomination in the reconfigured Broward County …",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-bloggers/4391921/posts",
-      "time": "2026-08-15T16:05:14",
+      "title": "Israeli strikes kill 11 in Lebanon two months into truce",
+      "desc": "The incident underscores the fragility of the ceasefire, risking further escalation and complicating diplomatic efforts for lasting peace.\nThe post Israeli strikes kill 11 in Lebanon two months into truce appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/israeli-strikes-kill-11-lebanon-truce/",
+      "time": "2026-08-15T16:42:09",
+      "country": "Israel",
+      "title_ur": "لبنان میں دو ماہ کی جنگ بندی کے بعد اسرائیلی حملوں میں 11 افراد ہلاک ہو گئے۔",
+      "desc_ur": "یہ واقعہ جنگ بندی کی نزاکت کو واضح کرتا ہے، جس سے مزید کشیدگی اور پائیدار امن کے لیے سفارتی کوششوں کو پیچیدہ بنانے کا خطرہ ہے۔\nThe post لبنان میں جنگ بندی کے دو ماہ بعد اسرائیلی حملوں میں 11 افراد ہلاک appeared first on Crypto Briefing."
+    },
+    {
+      "title": "US Economy: Inflation eases but prices remain high, retail sales fall, jobless claims rise",
+      "desc": "Inflation eased last month, but prices remain elevated for American consumers. Retail spending decreased sharply, surprising economists and signaling a slowdown. Existing home sales declined due to record prices and high mortgage rates. Wholesale inflation al…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-economy-inflation-eases-but-prices-remain-high-retail-sales-fall-jobless-claims-rise/articleshow/133265747.cms",
+      "time": "2026-08-15T16:40:45",
       "country": "US",
-      "title_ur": "فرد جرم اور استعفیٰ کے بعد، شیرفیلس میک کارمک نے ووٹروں سے کہا کہ وہ اسے کانگریس میں واپس کردیں",
-      "desc_ur": "شیلا چیرفیلس-میک کارمک ووٹروں سے کہہ رہی ہیں کہ وہ انہیں کانگریس میں واپس کردیں – ایوان نمائندگان سے استعفیٰ دینے کے چار ماہ سے بھی کم وقت کے بعد۔ Cherfilus-McCormick ان پانچ ڈیموکریٹس میں سے ایک ہیں جو دوبارہ تشکیل شدہ بروورڈ کاؤنٹی میں اپنی پارٹی کی نامزدگی کے خواہاں ہیں…"
+      "title_ur": "امریکی معیشت: افراط زر میں نرمی لیکن قیمتیں بلند رہیں، خوردہ فروخت میں کمی، بے روزگاری کے دعوے بڑھ گئے",
+      "desc_ur": "مہنگائی گزشتہ ماہ کم ہوئی، لیکن امریکی صارفین کے لیے قیمتیں بلند رہیں۔ خوردہ اخراجات میں تیزی سے کمی آئی، ماہرین اقتصادیات کو حیران کر دیا اور سست روی کا اشارہ دیا۔ ریکارڈ قیمتوں اور رہن کی بلند شرحوں کی وجہ سے موجودہ گھر کی فروخت میں کمی واقع ہوئی۔ تھوک مہنگائی"
     },
     {
-      "title": "Israel Strikes Hezbollah Terror Targets in Southern Lebanon After Troops Attacked",
-      "desc": "The Israel Defense Forces \"will not allow the Hezbollah terrorist organization to harm Israeli civilians and IDF soldiers, and will continue to operate to remove threats.\"\nThe post Israel Strikes Hezbollah Terror Targets in Southern Lebanon After Troops Attac…",
-      "source": "Legalinsurrection.com",
-      "url": "https://legalinsurrection.com/2026/08/israel-strikes-hezbollah-terror-targets-in-southern-lebanon-after-troops-attacked/",
-      "time": "2026-08-15T16:00:38",
-      "country": "Israel",
-      "title_ur": "فوجیوں پر حملے کے بعد اسرائیل نے جنوبی لبنان میں حزب اللہ کے دہشت گردوں کے ٹھکانوں پر حملہ کیا",
-      "desc_ur": "اسرائیل کی دفاعی افواج \"حزب اللہ دہشت گرد تنظیم کو اسرائیلی شہریوں اور IDF فوجیوں کو نقصان پہنچانے کی اجازت نہیں دیں گی، اور خطرات کو دور کرنے کے لیے کام جاری رکھیں گی۔\"\nThe post اسرائیل نے جنوبی لبنان میں حزب اللہ کے دہشت گردوں کے ٹھکانوں پر فوجیوں کے حملے کے بعد حملہ…"
-    },
-    {
-      "title": "US DOJ relying on anonymous Israeli intel agent to convict US resident of Oct 7 participation",
-      "desc": "US prosecutors are accusing a legal permanent resident of Louisiana of participating in the October 7 attacks in Israel. Yet their case relies almost entirely on intelligence from Israel which the defendant’s lawyers are unable to see, and an Israeli agent th…",
-      "source": "Activistpost.com",
-      "url": "https://www.activistpost.com/us-doj-relying-on-anonymous-israeli-intel-agent-to-convict-us-resident-of-oct-7-participation/",
-      "time": "2026-08-15T16:00:00",
-      "country": "Israel",
-      "title_ur": "امریکی DOJ 7 اکتوبر کی شرکت میں امریکی باشندے کو سزا سنانے کے لیے گمنام اسرائیلی انٹیلی جنس ایجنٹ پر انحصار کر رہا ہے",
-      "desc_ur": "امریکی استغاثہ لوزیانا کے ایک قانونی مستقل رہائشی پر اسرائیل میں 7 اکتوبر کو ہونے والے حملوں میں حصہ لینے کا الزام لگا رہے ہیں۔ اس کے باوجود ان کا کیس تقریباً مکمل طور پر اسرائیل کی انٹیلی جنس پر انحصار کرتا ہے جسے مدعا علیہ کے وکیل دیکھنے سے قاصر ہیں، اور ایک اسرائیلی ایجنٹ…"
-    },
-    {
-      "title": "Meet the godfather of global terrorism — Carlos the Jackal — who seduced women and eluded cops for decades",
-      "desc": "He was the Jackal of all (terrorist) trades.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/08/15/lifestyle/meet-carlos-the-jackal-the-godfather-of-global-terrorism/",
-      "time": "2026-08-15T16:00:00",
-      "country": "International",
-      "title_ur": "عالمی دہشت گردی کے گاڈ فادر - کارلوس دی جیکل سے ملو - جس نے خواتین کو ورغلایا اور کئی دہائیوں تک پولیس والوں سے بچایا۔",
-      "desc_ur": "وہ تمام (دہشت گردی) تجارت کا گیڈر تھا۔"
-    },
-    {
-      "title": "Under-17s start Paulista second phase with win; Under-15s draw away",
-      "desc": "The Tricolor U-17 side kicked off the second phase of the Paulista with a win. At Amadeu Mosca, in Salto (SP), the team beat Salto 3-1 this Saturday, with goals from Hiago, Nicolas Francisco, and Bren...",
-      "source": "Onefootball.com",
-      "url": "https://onefootball.com/en/news/under-17s-start-paulista-second-phase-with-win-under-15s-draw-away-43281777",
-      "time": "2026-08-15T15:55:00",
-      "country": "Europe",
-      "title_ur": "انڈر 17 نے جیت کے ساتھ پالسٹا کے دوسرے مرحلے کا آغاز کیا۔ انڈر 15s ڈرا",
-      "desc_ur": "ترنگا انڈر 17 سائیڈ نے پولسٹا کے دوسرے مرحلے کا آغاز جیت کے ساتھ کیا۔ سالٹو (SP) میں Amadeu Mosca میں، ٹیم نے Hiago، Nicolas Francisco، اور Bren..."
-    },
-    {
-      "title": "Iran responds after Trump teases Strait of Hormuz becoming US territory - Fox News",
-      "desc": "Iran responds after Trump teases Strait of Hormuz becoming US territoryFox News The Iran War Is Now About Who Blinks First Under Economic Pressurewsj.com Iran war live: Tehran says Hormuz under its control, Lebanon slams IsraelAl Jazeera Iran defiant on strai…",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=184987220",
-      "time": "2026-08-15T15:53:30",
-      "country": "Iran",
-      "title_ur": "ٹرمپ کی جانب سے آبنائے ہرمز کو امریکی علاقہ بننے پر چھیڑنے کے بعد ایران کا ردعمل - فاکس نیوز",
-      "desc_ur": "ٹرمپ کے آبنائے ہرمز کے امریکی علاقہ بننے کے بعد ایران کا ردعمل"
-    },
-    {
-      "title": "Israeli airstrikes on southern Lebanon kill 11 people, Health Ministry says",
-      "desc": "Israel and the Lebanese government announced a \"framework agreement\" on June 26, laying out a plan for Israeli forces to withdraw from southern Lebanon, in exchange for the disarmament of the Iran-backed Hezbollah militant group.",
+      "title": "Israel: Hezbollah seriously injured three soldiers",
+      "desc": "Israeli Prime Minister Benjamin Netanyahu's office announced on Saturday that three Israeli soldiers were seriously injured in a morning attack by Hezbollah on the Ansar area in southern Lebanon.\"This...",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/d68ece6be264f841",
-      "time": "2026-08-15T15:51:45",
-      "country": "Iran",
-      "title_ur": "وزارت صحت کا کہنا ہے کہ جنوبی لبنان پر اسرائیلی فضائی حملوں میں 11 افراد ہلاک ہو گئے۔",
-      "desc_ur": "اسرائیل اور لبنانی حکومت نے 26 جون کو ایک \"فریم ورک معاہدے\" کا اعلان کیا، جس میں ایران کی حمایت یافتہ حزب اللہ عسکریت پسند گروپ کو غیر مسلح کرنے کے بدلے میں جنوبی لبنان سے اسرائیلی افواج کے انخلاء کا منصوبہ بنایا گیا تھا۔"
+      "url": "https://biztoc.com/x/4709dfa4542be305",
+      "time": "2026-08-15T16:37:37",
+      "country": "Israel",
+      "title_ur": "اسرائیل: حزب اللہ کے تین فوجی شدید زخمی",
+      "desc_ur": "اسرائیلی وزیر اعظم بنجمن نیتن یاہو کے دفتر نے ہفتے کے روز اعلان کیا کہ جنوبی لبنان میں انصار کے علاقے پر حزب اللہ کے حملے میں تین اسرائیلی فوجی شدید زخمی ہو گئے۔"
     },
     {
-      "title": "Trump Blasts ‘TREASONISTS’ Behind Ballroom Case In Late-Night Rant After Asking For Supreme Court Intervention",
-      "desc": "Trump also posted a bizarre AI rendering of him touring the renovated ballroom with George Washington.",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/saradorn/2026/08/15/trump-blasts-treasonists-behind-ballroom-case-in-late-night-rant-after-asking-for-supreme-court-intervention/",
-      "time": "2026-08-15T15:46:26",
+      "title": "Iran Blasts Trump's Plan to Claim Strait of Hormuz as US Territory",
+      "desc": "Iran condemned remarks by President Donald Trump suggesting the United States could declare the Strait of Hormuz a U.S. territory, dismissing the comments as \"delusions\" amid escalating tensions over one of the world's most critical energy chokepoints.\nTrump …",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/d0a5aeb3de20fe39",
+      "time": "2026-08-15T16:37:34",
+      "country": "Iran",
+      "title_ur": "ایران نے ٹرمپ کے آبنائے ہرمز کو امریکی علاقہ قرار دینے کے منصوبے کو ناکام بنا دیا۔",
+      "desc_ur": "ایران نے صدر ڈونلڈ ٹرمپ کے ان ریمارکس کی مذمت کی ہے جس میں کہا گیا تھا کہ امریکہ آبنائے ہرمز کو امریکی علاقہ قرار دے سکتا ہے، اس تبصرے کو \"فریب\" قرار دیتے ہوئے دنیا کے سب سے اہم توانائی چوکی پوائنٹس میں سے ایک پر بڑھتے ہوئے تناؤ کے درمیان رد کر دیا ہے۔\nٹرمپ…"
+    },
+    {
+      "title": "U.S. pulls last aircraft carrier in Asia as Trump focuses on Iran and the Western Hemisphere",
+      "desc": "The USS George Washington is departing the Pacific and expected to replace the USS Abraham Lincoln in the Middle East amid growing concerns about mental health and supply issues aboard the long-deployed carrier.",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/a5cef804d2056d2d",
+      "time": "2026-08-15T16:37:27",
+      "country": "Iran",
+      "title_ur": "امریکہ نے ایشیا میں آخری طیارہ بردار بحری جہاز کھینچ لیا کیونکہ ٹرمپ نے ایران اور مغربی نصف کرہ پر توجہ مرکوز کی۔",
+      "desc_ur": "یو ایس ایس جارج واشنگٹن بحرالکاہل سے روانہ ہو رہا ہے اور توقع ہے کہ مشرق وسطیٰ میں یو ایس ایس ابراہم لنکن کی جگہ لے لے گا کیونکہ طویل عرصے سے تعینات کیرئیر میں ذہنی صحت اور سپلائی کے مسائل کے بارے میں بڑھتے ہوئے خدشات ہیں۔"
+    },
+    {
+      "title": "Iran says Qatar is holding pilots, Israeli strikes kill 9 in Lebanon, and other Middle East news",
+      "desc": "Iran says Qatar is holding pilots, Israeli strikes kill 9 in Lebanon, and other Middle East news\nIran says Qatar is holding three of its pilots who went missing in March\nIran said on Saturday that Qatar was holding three of its pilots who had been missing sin…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/f31c5d3dbc0c157b",
+      "time": "2026-08-15T16:37:06",
+      "country": "Iran",
+      "title_ur": "ایران کا کہنا ہے کہ قطر پائلٹوں کو روک رہا ہے، لبنان میں اسرائیلی حملوں میں 9 ہلاک، اور مشرق وسطیٰ کی دیگر خبریں",
+      "desc_ur": "ایران کا کہنا ہے کہ قطر پائلٹوں کو روک رہا ہے، لبنان میں اسرائیلی حملوں میں 9 ہلاک، اور مشرق وسطیٰ کی دیگر خبریں\nایران کا کہنا ہے کہ قطر نے مارچ میں لاپتہ ہونے والے اس کے تین پائلٹوں کو حراست میں لے رکھا ہے۔\nایران نے ہفتے کے روز کہا کہ قطر نے اس کے تین پائلٹوں کو حراست میں لے رکھا ہے جو گناہ کر رہے تھے…"
+    },
+    {
+      "title": "Retired Maj. General Slams Trump And Hegseth For 'Spewing Lies' In Latest Scandal",
+      "desc": "President Donald Trump and Secretary of Defense Pete Hegseth have dismissed concerns of reportedly deplorable conditions aboard the USS Abraham Lincoln.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/retired-major-general-randy-manner-slams-trump-hegseth-spewing-lies-uss-abraham-lincoln_n_6a806843e4b0b3bc96f6bd89",
+      "time": "2026-08-15T16:36:01",
       "country": "US",
-      "title_ur": "ٹرمپ نے سپریم کورٹ کی مداخلت کا مطالبہ کرنے کے بعد دیر رات کے رینٹ میں بال روم کیس کے پیچھے 'غداریوں' کو دھماکے سے اڑا دیا۔",
-      "desc_ur": "ٹرمپ نے جارج واشنگٹن کے ساتھ تزئین و آرائش والے بال روم کا دورہ کرتے ہوئے ایک عجیب و غریب AI رینڈرنگ بھی پوسٹ کی۔"
+      "title_ur": "ریٹائرڈ میجر جنرل نے تازہ ترین اسکینڈل میں 'جھوٹ بولنے' کے لئے ٹرمپ اور ہیگستھ کی مذمت کی۔",
+      "desc_ur": "صدر ڈونلڈ ٹرمپ اور سیکرٹری دفاع پیٹ ہیگستھ نے یو ایس ایس ابراہم لنکن پر مبینہ طور پر قابل افسوس حالات کے خدشات کو مسترد کر دیا ہے۔"
     },
     {
-      "title": "Trump posts AI image of himself seizing Iranian-flagged tanker — as tension escalates in Strait of Hormuz",
-      "desc": "Donald Trump posted an AI image of himself seizing an Iranian oil tanker after claiming he would declare the Strait of Hormuz a US territory.",
+      "title": "Democrats haven’t grown up from ‘Woke 1’ — they’ve grown nuttier still",
+      "desc": "Supposed moderates like James Carville and Pete Buttigieg are endorsing plans to pack the Supreme Court and make states out of Puerto Rico and Washington DC in order to hand the party four guaranteed Senate seats",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/08/15/us-news/trump-posts-ai-image-of-himself-seizing-iranian-flagged-tanker-as-tension-escalates-in-strait-of-hormuz/",
-      "time": "2026-08-15T15:44:40",
-      "country": "Iran",
-      "title_ur": "ٹرمپ نے خود کو ایرانی پرچم والے ٹینکر پر قبضہ کرنے کی AI تصویر پوسٹ کی ہے - جب آبنائے ہرمز میں کشیدگی بڑھ رہی ہے",
-      "desc_ur": "ڈونلڈ ٹرمپ نے ایک AI تصویر پوسٹ کی تھی جس میں انہوں نے دعویٰ کیا تھا کہ وہ آبنائے ہرمز کو امریکی علاقہ قرار دے کر ایرانی آئل ٹینکر پر قبضہ کر رہے ہیں۔"
+      "url": "https://nypost.com/2026/08/15/opinion/democrats-havent-grown-up-from-woke-1-theyve-grown-nuttier-still/",
+      "time": "2026-08-15T16:33:21",
+      "country": "US",
+      "title_ur": "ڈیموکریٹس 'ووک 1' سے بڑے نہیں ہوئے ہیں - وہ اب بھی زیادہ غذائیت سے بڑھے ہیں",
+      "desc_ur": "جیمز کارویل اور پیٹ بٹگیگ جیسے سمجھے جانے والے اعتدال پسند سپریم کورٹ کو بھرنے اور پورٹو ریکو اور واشنگٹن ڈی سی سے باہر ریاستیں بنانے کے منصوبوں کی توثیق کر رہے ہیں تاکہ پارٹی کو سینیٹ کی چار ضمانتی نشستیں دیں۔"
     },
     {
-      "title": "Warmonger’s Son Mongers War",
-      "desc": "Tony Blair, the former British prime minister, pushed the United Kingdom into a needless war in Iraq in a wild-goose chase for weapons of mass destruction. Then, he helped British companies make money from that war. Now, his son Nick is carrying on the family…",
-      "source": "Mother Jones",
-      "url": "https://www.motherjones.com/politics/2026/08/nick-blair-pyra-defense-contractor/",
-      "time": "2026-08-15T15:41:56",
-      "country": "Iraq",
-      "title_ur": "وارمونجر کا بیٹا مونجرز وار",
-      "desc_ur": "برطانیہ کے سابق وزیر اعظم ٹونی بلیئر نے بڑے پیمانے پر تباہی پھیلانے والے ہتھیاروں کے لیے جنگلی ہنس کے تعاقب میں برطانیہ کو عراق میں ایک غیر ضروری جنگ میں دھکیل دیا۔ پھر، اس نے برطانوی کمپنیوں کو اس جنگ سے پیسہ کمانے میں مدد کی۔ اب، ان کا بیٹا نک خاندان کو سنبھال رہا ہے…"
+      "title": "Israeli airstrikes on southern Lebanon kill 11 people in another test to truce",
+      "desc": "Israeli airstrikes on southern Lebanon have killed at least 11 people, marking the deadliest attacks since a truce with Hezbollah began in June",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/International/wireStory/israeli-airstrikes-southern-lebanon-kill-11-people-test-135667085",
+      "time": "2026-08-15T16:28:48",
+      "country": "Israel",
+      "title_ur": "جنوبی لبنان پر اسرائیلی فضائی حملے میں جنگ بندی کے ایک اور امتحان میں 11 افراد ہلاک ہو گئے۔",
+      "desc_ur": "جنوبی لبنان پر اسرائیلی فضائی حملوں میں کم از کم 11 افراد ہلاک ہو گئے ہیں، جو جون میں حزب اللہ کے ساتھ جنگ ​​بندی شروع ہونے کے بعد سے سب سے مہلک حملے ہیں۔"
+    },
+    {
+      "title": "US pulls last aircraft carrier in Asia as Trump focuses on Iran and the Western Hemisphere",
+      "desc": "President Donald Trump’s war against Iran is stretching the limits of the nation’s aircraft carriers and leaving the western Pacific without one of the key American warships",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/US/wireStory/us-pulls-aircraft-carrier-asia-trump-focuses-iran-135669614",
+      "time": "2026-08-15T16:27:55",
+      "country": "Iran",
+      "title_ur": "امریکہ نے ایشیا میں آخری طیارہ بردار بحری جہاز کھینچ لیا کیونکہ ٹرمپ ایران اور مغربی نصف کرہ پر توجہ مرکوز کرتے ہیں۔",
+      "desc_ur": "صدر ڈونلڈ ٹرمپ کی ایران کے خلاف جنگ ملک کے طیارہ بردار بحری جہازوں کی حدود کو بڑھا رہی ہے اور مغربی بحرالکاہل سے ایک اہم امریکی جنگی جہاز کے بغیر نکل رہی ہے۔"
+    },
+    {
+      "title": "Israeli Airstrikes On Southern Lebanon Kill 11 People",
+      "desc": "Lebanon’s Health Ministry and state news agency said an airstrike that targeted a home on the edge of the village of Ansar killed seven people, including three children, and wounded two.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/israeli-airstrikes-southern-lebanon-kill-11-people_n_6a809199e4b0ddd9c1b2211a",
+      "time": "2026-08-15T16:27:32",
+      "country": "Israel",
+      "title_ur": "جنوبی لبنان پر اسرائیلی فضائی حملے میں 11 افراد ہلاک",
+      "desc_ur": "لبنان کی وزارت صحت اور سرکاری خبر رساں ایجنسی نے بتایا کہ انصار گاؤں کے کنارے ایک گھر کو نشانہ بنانے والے فضائی حملے میں تین بچوں سمیت سات افراد ہلاک اور دو زخمی ہوئے۔"
+    },
+    {
+      "title": "Locarno: Marco Cavazzin’s ‘Mutrion,’ Set in the Venice Lagoon, Scoops Leopards of Tomorrow Director Award",
+      "desc": "“Mutrion,” a short film set in the Venice lagoon by 26-year-old Italian director Marco Cavazzin, has scooped the best director award at the Locarno Film Festival’s Pardi di Domani (Leopards of Tomorrow) section. “Mutrion,” which is the only Italian entry in t…",
+      "source": "Variety",
+      "url": "https://variety.com/2026/film/festivals/locarno-marco-cavazzin-mutrion-venice-leopards-of-tomorrow-1236834478/",
+      "time": "2026-08-15T16:24:57",
+      "country": "International",
+      "title_ur": "لوکارنو: مارکو کاوازین کا 'مٹریون'، وینس لگون میں سیٹ، اسکوپس لیپرڈس آف ٹومورو ڈائریکٹر ایوارڈ",
+      "desc_ur": "26 سالہ اطالوی ہدایت کار مارکو کاوازین کی وینس لیگون میں سیٹ کی گئی ایک مختصر فلم \"Mutrion\" نے لوکارنو فلم فیسٹیول کے Pardi di Domani (Leopards of Tomorrow) سیکشن میں بہترین ہدایت کار کا ایوارڈ حاصل کیا ہے۔ \"Mutrion\"، جو ٹی میں واحد اطالوی داخلہ ہے…"
+    },
+    {
+      "title": "Trump: ‘I’ll Never Apologize’ For The High Prices I Caused",
+      "desc": "As Donald Trump’s unnecessary, botched Iran war and higher prices make him more and more unpopular, he seems to care less and less about his promise to lower prices “on Day One” if he were to retake the White House.\nOn Friday, President Golden Ballroom double…",
+      "source": "Crooksandliars.com",
+      "url": "https://crooksandliars.com/2026/08/trump-i-ll-never-apologize-high-prices-i",
+      "time": "2026-08-15T16:20:17",
+      "country": "Iran",
+      "title_ur": "ٹرمپ: 'میں کبھی بھی معافی نہیں مانگوں گا' اپنی وجہ سے ہونے والی زیادہ قیمتوں کے لیے",
+      "desc_ur": "جیسا کہ ڈونلڈ ٹرمپ کی غیر ضروری، گھٹیا ایران جنگ اور زیادہ قیمتیں انہیں زیادہ سے زیادہ غیر مقبول بناتی ہیں، ایسا لگتا ہے کہ اگر وہ وائٹ ہاؤس پر دوبارہ قبضہ کرنا چاہتے ہیں تو وہ \"ایک دن\" قیمتیں کم کرنے کے اپنے وعدے کی کم سے کم پرواہ کرتے ہیں۔\nجمعہ کو صدر گولڈن بال روم ڈبل…"
+    },
+    {
+      "title": "US retail sales slump unexpectedly and sharply after a summer tax-refund boost fades",
+      "desc": "NEW YORK — After splurging on the World Cup and Amazon Prime Day sales, Americans unexpectedly cut their spending in July by the biggest amount in more than a year.",
+      "source": "Decaturdaily.com",
+      "url": "https://www.decaturdaily.com/business/us-retail-sales-slump-unexpectedly-and-sharply-after-a-summer-tax-refund-boost-fades/article_627714d5-0424-4d1b-b2d7-a0d4c5e6d069.html",
+      "time": "2026-08-15T16:18:41",
+      "country": "US",
+      "title_ur": "موسم گرما میں ٹیکس کی واپسی کے فروغ کے ختم ہونے کے بعد امریکی خوردہ فروخت غیر متوقع طور پر اور تیزی سے گر گئی",
+      "desc_ur": "نیویارک — ورلڈ کپ اور ایمیزون پرائم ڈے کی فروخت میں اضافے کے بعد، امریکیوں نے جولائی میں اپنے اخراجات میں غیر متوقع طور پر ایک سال سے زیادہ عرصے میں سب سے زیادہ کمی کی۔"
     }
   ],
   "pakistan": [
+    {
+      "title": "Babar Azam injury: Availability and latest update on Pakistan captain ahead of 1st Test vs England at Leeds",
+      "desc": "With injury rumours swirling around Pakistani skipper Babar Azam for the first Test against England, latest updates believe that he would play the match.",
+      "source": "Cricketnews.com",
+      "url": "https://www.cricketnews.com/en/cricket/news/babar-azam-injury-availability-latest-update-pakistan-england/6ed9ebc3291d57a5e18001ca",
+      "time": "2026-08-15T16:44:10",
+      "country": "Pakistan",
+      "title_ur": "بابر اعظم کی انجری: لیڈز میں انگلینڈ کے خلاف پہلے ٹیسٹ سے قبل پاکستانی کپتان کی دستیابی اور تازہ ترین اپ ڈیٹ",
+      "desc_ur": "انگلینڈ کے خلاف پہلے ٹیسٹ کے لیے پاکستانی کپتان بابر اعظم کے گرد انجری کی افواہیں گردش کر رہی ہیں، تازہ ترین اپڈیٹس کا خیال ہے کہ وہ میچ کھیلیں گے۔"
+    },
+    {
+      "title": "Erdogan says Egypt could join Turkiye-Saudi-Pakistan defence pact",
+      "desc": "Turkish president tells Al Jazeera that the recently signed agreement is open to new members as he pledges continued support.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/8/15/erdogan-says-egypt-could-join-turkiye-saudi-pakistan-defence-pact",
+      "time": "2026-08-15T16:39:52",
+      "country": "Pakistan",
+      "title_ur": "اردگان کا کہنا ہے کہ مصر ترکی-سعودی پاکستان دفاعی معاہدے میں شامل ہو سکتا ہے۔",
+      "desc_ur": "ترک صدر نے الجزیرہ کو بتایا کہ حال ہی میں دستخط شدہ معاہدہ نئے اراکین کے لیے کھلا ہے کیونکہ وہ مسلسل حمایت کا وعدہ کرتے ہیں۔"
+    },
+    {
+      "title": "Political differences should never run into animosity, says Nawaz Sharif amid acrimony with PPP",
+      "desc": "Nawaz Sharif called for a cessation of political hostility among parties, responding to grievances from the PPP regarding the recent elections in Pakistan-occupied Kashmir. The PPP accused the elections of being marred by rigging and violence following the an…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/political-differences-should-never-run-into-animosity-says-nawaz-sharif-amid-acrimony-with-ppp/articleshow/133265684.cms",
+      "time": "2026-08-15T16:24:44",
+      "country": "Pakistan",
+      "title_ur": "سیاسی اختلافات کو کبھی دشمنی میں نہیں بدلنا چاہیے، نواز شریف کا پیپلز پارٹی سے تناؤ کے درمیان",
+      "desc_ur": "نواز شریف نے پاکستان کے زیر قبضہ کشمیر میں حالیہ انتخابات کے حوالے سے پیپلز پارٹی کی شکایات کا جواب دیتے ہوئے پارٹیوں کے درمیان سیاسی دشمنی ختم کرنے پر زور دیا۔ پیپلز پارٹی نے انتخابات کو دھاندلی اور تشدد سے متاثر کرنے کا الزام لگایا جس کے بعد…"
+    },
     {
       "title": "What Bessent’s economic isolation of Iran could look like",
       "desc": "Treasury Secretary Scott Bessent says the US is getting ready to squeeze Iran with unprecedented economic pressure, a claim critics greeted with skepticism given the country is already subject to a naval blockade and thousands of sanctions.\nWhile the Trump ad…",
@@ -172,16 +202,6 @@
       "country": "Pakistan",
       "title_ur": "'کھیلنے کی خواہش کوئی مسئلہ نہیں ہے': علی پاکستان کی ٹیسٹ کرکٹ کی تنزلی پر",
       "desc_ur": "پاکستان کے سابق کپتان اظہر علی نے ڈپارٹمنٹل کرکٹ کے زوال کو ملک کی ٹیسٹ جدوجہد کا ذمہ دار ٹھہرایا۔ انہوں نے اس نظام کو کھلاڑیوں کی ترقی کے لیے ایک کلیدی \"نرسری\" قرار دیا اور پی سی بی کی ڈومیسٹک کرکٹ میں متواتر تبدیلیوں پر تنقید کی۔ اظہر نے اس بات پر بھی زور دیا کہ…"
-    },
-    {
-      "title": "Empty LPG Tanker Pays Record $4.6 Million to Jump Panama Canal Queue Amid Iran War",
-      "desc": "The G. Arete tanker paid a record $4.6 million to bypass Panama Canal congestion, highlighting how Iran conflict and El Niño conditions are disrupting global shipping routes.",
-      "source": "Ibtimes.com.au",
-      "url": "https://www.ibtimes.com.au/record-bid-panama-canal-congestion-iran-conflict-1874101",
-      "time": "2026-08-15T15:07:31",
-      "country": "Pakistan",
-      "title_ur": "خالی ایل پی جی ٹینکر نے ایران جنگ کے دوران پاناما کینال کی قطار میں چھلانگ لگانے کے لیے ریکارڈ 4.6 ملین ڈالر ادا کیے",
-      "desc_ur": "G. Arete ٹینکر نے پاناما کینال کی بھیڑ کو نظرانداز کرنے کے لیے 4.6 ملین ڈالر کی ریکارڈ رقم ادا کی، اس بات پر روشنی ڈالی کہ کس طرح ایران کا تنازعہ اور ال نینو حالات عالمی جہاز رانی کے راستوں میں خلل ڈال رہے ہیں۔"
     }
   ],
   "business": {
