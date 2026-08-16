@@ -1,6 +1,86 @@
 {
-  "generated": "2026-08-16T20:45:53Z",
+  "generated": "2026-08-16T21:14:02Z",
   "world": [
+    {
+      "title": "Princess Charlotte, 11, inherits Kate's sporty side as she joins top-flight netball team",
+      "desc": "From captaining the hockey team during her time at Marlborough College to playing volleyball in wedges, the Princess of Wales is one of the sportiest members of the Royal Family.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16055489/Princess-Charlotte-netball-team.html",
+      "time": "2026-08-15T21:04:49",
+      "country": "International",
+      "title_ur": "شہزادی شارلٹ، 11، کیٹ کی اسپورٹی سائیڈ کو وراثت میں ملا جب وہ ٹاپ فلائٹ نیٹ بال ٹیم میں شامل ہوئی",
+      "desc_ur": "مارلبرو کالج میں اپنے وقت کے دوران ہاکی ٹیم کی کپتانی سے لے کر ویجز میں والی بال کھیلنے تک، شہزادی آف ویلز کا شمار شاہی خاندان کے سب سے زیادہ کھیلوں میں ہوتا ہے۔"
+    },
+    {
+      "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+      "desc": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cj4kk8kz271o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "time": "2026-08-15T21:04:02",
+      "country": "Iran",
+      "title_ur": "قطر نے لڑاکا طیاروں کو مار گرانے کے بعد تین ایرانی پائلٹوں کو گرفتار کرنے کی تردید کی ہے۔",
+      "desc_ur": "ایران کا دعویٰ ہے کہ جب سے قطر نے امریکہ اور ایران جنگ کے آغاز میں دو لڑاکا طیاروں کو مار گرایا تھا تب سے انہیں حراست میں لیا گیا ہے۔"
+    },
+    {
+      "title": "CENTCOM Launches Multinational Attack Drone Task Force ‘Falcon Strike’",
+      "desc": "Task Force Falcon Strike will bring together U.S. and regional forces operating one-way attack drones in the air, on the surface and underwater. The U.S. Central Command (CENTCOM) is taking the next step in its rapidly expanding use of One-Way Attack (OWA) dr…",
+      "source": "Theaviationist.com",
+      "url": "https://theaviationist.com/2026/08/15/centcom-task-force-falcon-strike/",
+      "time": "2026-08-15T21:02:30",
+      "country": "US",
+      "title_ur": "سینٹ کام نے ملٹی نیشنل اٹیک ڈرون ٹاسک فورس 'فالکن اسٹرائیک' کا آغاز کیا",
+      "desc_ur": "ٹاسک فورس فالکن اسٹرائیک امریکی اور علاقائی افواج کو اکٹھا کرے گی جو ہوا میں، سطح اور پانی کے اندر ایک طرفہ حملہ کرنے والے ڈرونز کو چلاتے ہیں۔ یو ایس سنٹرل کمانڈ (سینٹکام) ون وے اٹیک (OWA) کے تیزی سے بڑھتے ہوئے استعمال میں اگلا قدم اٹھا رہی ہے ڈاکٹر…"
+    },
+    {
+      "title": "‘The Brink of War’ Review: Angel Studios’ Shallow Cold War History Lesson",
+      "desc": "The drama imagines negotiations between Ronald Reagan and Mikhail Gorbachev in a one-sided fashion\nThe post ‘The Brink of War’ Review: Angel Studios’ Shallow Cold War History Lesson appeared first on TheWrap.",
+      "source": "TheWrap",
+      "url": "https://www.thewrap.com/creative-content/reviews/the-brink-of-war-review-jeff-daniels-reagan/",
+      "time": "2026-08-15T21:00:00",
+      "country": "International",
+      "title_ur": "'جنگ کے دہانے' کا جائزہ: اینجل اسٹوڈیو' اتلی سرد جنگ کی تاریخ کا سبق",
+      "desc_ur": "ڈرامہ رونالڈ ریگن اور میخائل گورباچوف کے درمیان یک طرفہ انداز میں مذاکرات کا تصور کرتا ہے۔\nThe post ’جنگ کے دہانے‘ کا جائزہ: اینجل اسٹوڈیوز‘ اتلی سرد جنگ کی تاریخ کا سبق appeared first on TheWrap."
+    },
+    {
+      "title": "Israeli found lifeless in Bangkok hotel",
+      "desc": "Israeli man, aged 35, found dead in Thailand hotel room.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/431743",
+      "time": "2026-08-15T20:59:41",
+      "country": "Israel",
+      "title_ur": "بنکاک کے ہوٹل میں اسرائیلی بے جان پایا گیا۔",
+      "desc_ur": "تھائی لینڈ کے ہوٹل کے کمرے میں 35 سالہ اسرائیلی شخص مردہ پایا گیا۔"
+    },
+    {
+      "title": "Qatar denies it is detaining three Iranian bomber pilots",
+      "desc": "Iran says Qatar is holding three pilots who were shot down in March. Doha decries 'misleading statements'.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots",
+      "time": "2026-08-15T20:55:29",
+      "country": "Iran",
+      "title_ur": "قطر نے تین ایرانی بمبار پائلٹوں کو حراست میں لینے کی تردید کی ہے۔",
+      "desc_ur": "ایران کا کہنا ہے کہ قطر نے مارچ میں مار گرائے جانے والے تین پائلٹوں کو حراست میں لے رکھا ہے۔ دوحہ نے 'گمراہ کن بیانات' کی مذمت کی۔"
+    },
+    {
+      "title": "Chairs fly as massive brawl erupts at Israeli water park",
+      "desc": "A dispute over loud music spiraled into a violent brawl at Holon’s Yamit 2000, leaving two security guards injured and 12 suspects under arrest.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/431745",
+      "time": "2026-08-15T20:51:27",
+      "country": "Israel",
+      "title_ur": "اسرائیلی واٹر پارک میں بڑے پیمانے پر جھگڑے کے دوران کرسیاں اڑ گئیں۔",
+      "desc_ur": "ہولون کے یامیت 2000 میں اونچی آواز میں موسیقی پر تنازعہ ایک پرتشدد جھگڑے کی شکل اختیار کر گیا، جس میں دو سکیورٹی گارڈز زخمی اور 12 مشتبہ افراد کو گرفتار کر لیا گیا۔"
+    },
+    {
+      "title": "Watch: New footage of Mali and Liel in Argentina",
+      "desc": "New footage shows the emotional moment Mali and Liel Yahalomi were found in Argentina. 'An entire country was worried about you.'",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/431742",
+      "time": "2026-08-15T20:46:39",
+      "country": "International",
+      "title_ur": "دیکھیں: ارجنٹائن میں مالی اور لیل کی نئی فوٹیج",
+      "desc_ur": "نئی فوٹیج وہ جذباتی لمحہ دکھاتی ہے جب مالی اور لیل یاہلومی ارجنٹائن میں پائے گئے۔ 'پورا ملک آپ کے لیے پریشان تھا۔'"
+    },
     {
       "title": "California tackles multiple wildfires as firefighter workforce faces strain",
       "desc": "The federal wildland firefighting workforce, faced with low pay and cost of living issues, copes with Trump-era cuts.",
@@ -49,7 +129,7 @@
       "time": "2026-08-15T20:26:30",
       "country": "Iran",
       "title_ur": "ٹرمپ کا کہنا ہے کہ وہ آبنائے ہرمز کو امریکی علاقہ بنائیں گے۔",
-      "desc_ur": "صدر ڈونلڈ ٹرمپ نے جمعے کو کہا کہ وہ چاہتے ہیں کہ آبنائے ہرمز امریکی علاقہ بن جائے۔\nنیویارک میں ایک تقریب سے خطاب کرتے ہوئے ٹرمپ نے کہا کہ وہ جنگ ختم ہونے کے بعد عمان اور ایران کے درمیان آبی گزرگاہ کی ملکیت کا اعلان کرنے کا ارادہ رکھتے ہیں۔\n\"ایرا کو شکست دینے کے بعد…"
+      "desc_ur": "صدر ڈونلڈ ٹرمپ نے جمعے کو کہا کہ وہ چاہتے ہیں کہ آبنائے ہرمز امریکی علاقہ بن جائے۔\nنیویارک میں ایک تقریب سے خطاب کرتے ہوئے ٹرمپ نے کہا کہ جنگ ختم ہونے کے بعد وہ عمان اور ایران کے درمیان آبی گزرگاہ کی ملکیت کا اعلان کرنے کا ارادہ رکھتے ہیں۔\n\"ایرا کو شکست دینے کے بعد…"
     },
     {
       "title": "West Ham break EFL record to sign Engels for £22m",
@@ -70,86 +150,6 @@
       "country": "Israel",
       "title_ur": "اسرائیل کا لبنان پر حملہ، 15 ہلاک؛ 3 اسرائیلی زخمی",
       "desc_ur": "لبنان کی وزارت صحت نے بتایا کہ دو اسرائیلی حملے لبنان کو مارے اور کم از کم 11 افراد مارے گئے، لبنانی وزارت صحت نے کہا، پھر ایک اور جگہ پر حملہ کیا جس میں چار مزید ہلاک ہوئے۔\nوزارت صحت کے حکام نے بتایا کہ نبیتیہ شہر کے قریب انصار میں رات بھر کی ہڑتال میں سات افراد ہلاک ہو گئے…"
-    },
-    {
-      "title": "Johnson says Iran war is nearing an end",
-      "desc": "United States House Speaker Mike Johnson said Saturday he expects the war with Iran to conclude soon, arguing that an end to the conflict would help ease pressure on fuel, transportation and grocery p...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/93833b608a19e54a",
-      "time": "2026-08-15T20:09:27",
-      "country": "Iran",
-      "title_ur": "جانسن کا کہنا ہے کہ ایران جنگ ختم ہونے کے قریب ہے۔",
-      "desc_ur": "امریکی ایوان نمائندگان کے اسپیکر مائیک جانسن نے ہفتے کے روز کہا کہ وہ توقع کرتے ہیں کہ ایران کے ساتھ جنگ ​​جلد ختم ہو جائے گی، یہ دلیل دیتے ہوئے کہ تنازع کے خاتمے سے ایندھن، نقل و حمل اور گروسری پر دباؤ کم کرنے میں مدد ملے گی۔"
-    },
-    {
-      "title": "Israeli strikes in southern Lebanon kill at least 11",
-      "desc": "Morgan Stanley flags four catalysts for SpaceX stock through year-end\nInvesting.com-- Israeli airstrikes on southern Lebanon killed at least 11 people on Saturday, Lebanon's health ministry said, in the deadliest escalation since a truce between Israel and He…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/0dfcb5b02c0eb35d",
-      "time": "2026-08-15T20:09:23",
-      "country": "Israel",
-      "title_ur": "جنوبی لبنان میں اسرائیلی حملوں میں کم از کم 11 افراد ہلاک ہو گئے۔",
-      "desc_ur": "مورگن اسٹینلے نے سال کے آخر تک SpaceX اسٹاک کے لیے چار اتپریرک کو جھنڈا دیا۔\nInvesting.com-- جنوبی لبنان پر اسرائیلی فضائی حملوں میں ہفتے کے روز کم از کم 11 افراد ہلاک ہو گئے، لبنان کی وزارت صحت نے کہا، اسرائیل اور اس کے درمیان جنگ بندی کے بعد سب سے مہلک ترین کشیدگی میں…"
-    },
-    {
-      "title": "Iran 'strongly' condemns Israeli strikes on Lebanon",
-      "desc": "Iranian Foreign Ministry Spokesman Esmail Baghaei on Saturday condemned the recent Israeli strikes on Lebanon, describing them as \"gross violations of international law.\"Baghaei stressed in the statem...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/6778a55f3600efe2",
-      "time": "2026-08-15T20:09:23",
-      "country": "Iran",
-      "title_ur": "ایران نے لبنان پر اسرائیلی حملوں کی شدید مذمت کی ہے۔",
-      "desc_ur": "ایرانی وزارت خارجہ کے ترجمان اسماعیل بغائی نے ہفتے کے روز لبنان پر حالیہ اسرائیلی حملوں کی مذمت کرتے ہوئے انہیں \"بین الاقوامی قوانین کی سنگین خلاف ورزی\" قرار دیا۔"
-    },
-    {
-      "title": "Trump shares video on Iran strategy amid ongoing US blockade",
-      "desc": "The ongoing U.S. blockade strategy against Iran heightens geopolitical tensions, impacting market predictions and regional stability.\nThe post Trump shares video on Iran strategy amid ongoing US blockade appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/trump-shares-video-on-iran-strategy-amid-ongoing-us-blockade/",
-      "time": "2026-08-15T20:09:22",
-      "country": "Iran",
-      "title_ur": "ٹرمپ نے جاری امریکی ناکہ بندی کے درمیان ایران کی حکمت عملی پر ویڈیو شیئر کی۔",
-      "desc_ur": "ایران کے خلاف جاری امریکی ناکہ بندی کی حکمت عملی جغرافیائی سیاسی کشیدگی کو بڑھاتی ہے، جس سے مارکیٹ کی پیش گوئیاں اور علاقائی استحکام متاثر ہوتا ہے۔\nThe post ٹرمپ نے جاری امریکی ناکہ بندی کے درمیان ایران کی حکمت عملی پر ویڈیو شیئر کردی appeared first on Crypto Briefing."
-    },
-    {
-      "title": "‘I’ll never apologize’ — Trump brushes off Iran war’s impact on oil prices and calls aircraft carrier’s 240+ days at sea ‘not nearly long enough’",
-      "desc": "President Donald Trump on Friday downplayed the toll on American sailors enduring nearly nine months at sea on the USS Abraham Lincoln as concerns escalated about mental health and supply issues aboard the aircraft carrier supporting U.S. operations against I…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/e07cda90cba16f0d",
-      "time": "2026-08-15T20:09:09",
-      "country": "Iran",
-      "title_ur": "'میں کبھی معافی نہیں مانگوں گا' - ٹرمپ نے تیل کی قیمتوں پر ایران جنگ کے اثرات کو ختم کیا اور طیارہ بردار بحری جہاز کے سمندر میں 240+ دنوں کو 'تقریبا لمبا نہیں' قرار دیا۔",
-      "desc_ur": "صدر ڈونلڈ ٹرمپ نے جمعہ کو یو ایس ایس ابراہم لنکن پر تقریباً نو ماہ تک سمندر میں رہنے والے امریکی ملاحوں کی تعداد کو کم کر دیا کیونکہ I کے خلاف امریکی کارروائیوں کی حمایت کرنے والے طیارہ بردار بحری جہاز میں ذہنی صحت اور سپلائی کے مسائل کے بارے میں خدشات بڑھ گئے ہیں۔"
-    },
-    {
-      "title": "Acting Navy secretary salutes Lincoln crew amid mental health crisis reports",
-      "desc": "Acting Navy Secretary Hung Cao is saluting the crew of the USS Abraham Lincoln aircraft carrier after lawmakers raised concerns about conditions during its long deployment – saying nobody died from a “small number” of mental health crises.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/08/15/us-news/dire-reports-of-uss-abraham-lincoln-conditions-dismissed/",
-      "time": "2026-08-15T20:08:06",
-      "country": "US",
-      "title_ur": "دماغی صحت کے بحران کی اطلاعات کے درمیان بحریہ کے قائم مقام سیکرٹری لنکن کے عملے کو سلام کرتے ہیں۔",
-      "desc_ur": "قائم مقام بحریہ کے سکریٹری ہنگ کاو یو ایس ایس ابراہم لنکن طیارہ بردار بحری جہاز کے عملے کو سلامی دے رہے ہیں جب قانون سازوں نے اس کی طویل تعیناتی کے دوران حالات کے بارے میں خدشات کا اظہار کیا - یہ کہتے ہوئے کہ دماغی صحت کے بحران کی \"چھوٹی تعداد\" سے کوئی نہیں مرا۔"
-    },
-    {
-      "title": "SCOFF LIMITS: Trump-trashing ‘South Park’ somehow skipped Biden | Blaze Media",
-      "desc": "Also: Painfully unfunny guest host has us crying like Kimmel — and AI adds insult to 'Supergirl' injury!",
-      "source": "TheBlaze",
-      "url": "https://www.theblaze.com/lifestyle/scoff-limits-trump-trashing-south-park-somehow-skipped-biden",
-      "time": "2026-08-15T20:07:17",
-      "country": "US",
-      "title_ur": "SCOFF لمٹس: ٹرمپ کو ردی کی ٹوکری میں ڈالنے والے 'ساؤتھ پارک' نے کسی طرح بائیڈن کو چھوڑ دیا | بلیز میڈیا",
-      "desc_ur": "نیز: تکلیف دہ طور پر غیر مضحکہ خیز مہمان میزبان نے ہمیں کامل کی طرح رونا دیا ہے - اور AI 'Supergirl' کی چوٹ کی توہین کرتا ہے!"
-    },
-    {
-      "title": "Trump tells Americans to accept higher gas prices as the cost of restraining Iran",
-      "desc": "Higher gas prices could strain household budgets, reduce discretionary spending, and potentially slow economic growth amid geopolitical tensions.\nThe post Trump tells Americans to accept higher gas prices as the cost of restraining Iran appeared first on Cryp…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/trump-gas-prices-iran-strait-hormuz/",
-      "time": "2026-08-15T20:05:04",
-      "country": "Iran",
-      "title_ur": "ٹرمپ نے امریکیوں سے کہا کہ وہ ایران کو روکنے کی قیمت کے طور پر گیس کی بلند قیمتوں کو قبول کریں۔",
-      "desc_ur": "گیس کی اونچی قیمتیں گھریلو بجٹ کو دبا سکتی ہیں، صوابدیدی اخراجات کو کم کر سکتی ہیں، اور جغرافیائی سیاسی کشیدگی کے درمیان ممکنہ طور پر سست اقتصادی ترقی کر سکتی ہیں۔\nThe post ٹرمپ کا امریکیوں سے کہتا ہے کہ وہ گیس کی زیادہ قیمتیں قبول کریں کیونکہ ایران کو روکنے کی قیمت appeared first on Cryp…"
     }
   ],
   "pakistan": [
@@ -171,7 +171,7 @@
       "time": "2026-08-15T19:44:26",
       "country": "Pakistan",
       "title_ur": "ٹی ٹی پی سے تعلق، پاک فوج پر حملے کی سازش کے الزام میں بلورو گارڈ گرفتار",
-      "desc_ur": "بنگلورو پولیس نے ٹی ٹی پی سے تعلق اور پاکستان آرمی پر حملہ کرنے کی منصوبہ بندی کے الزام میں سیکیورٹی گارڈ اسفول ملک کو گرفتار کیا۔ پاسپورٹ، چیٹس ضبط بی این ایس 113(3) کے تحت مقدمہ درج۔"
+      "desc_ur": "بنگلورو پولیس نے ٹی ٹی پی سے تعلق اور پاکستان آرمی پر حملہ کرنے کی منصوبہ بندی کے الزام میں سیکیورٹی گارڈ اسفول ملک کو گرفتار کیا۔ پاسپورٹ، چیٹ ضبط بی این ایس 113(3) کے تحت مقدمہ درج۔"
     }
   ],
   "business": {
@@ -186,8 +186,8 @@
       {
         "date": "2026-08-17",
         "day": "پیر",
-        "high": 33,
-        "low": 24,
+        "high": 34,
+        "low": 25,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
         "precip": 87
@@ -222,7 +222,7 @@
       {
         "date": "2026-08-21",
         "day": "جمعہ",
-        "high": 32,
+        "high": 33,
         "low": 26,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
@@ -240,8 +240,8 @@
       {
         "date": "2026-08-23",
         "day": "اتوار",
-        "high": 33,
-        "low": 26,
+        "high": 31,
+        "low": 25,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
         "precip": 67
