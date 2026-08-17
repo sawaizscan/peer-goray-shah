@@ -1,158 +1,198 @@
 {
-  "generated": "2026-08-17T19:07:49Z",
+  "generated": "2026-08-17T19:49:37Z",
   "world": [
     {
-      "title": "Hamas? Hezbollah? Israelis found a new villain: Zohran Mamdani",
-      "desc": "The Israeli media's obsession with New York City Mayor Zohran Mamdani is part of a much older instinct: to cast Israel's critics as the existential enemy. It serves a purpose",
+      "title": "Fast Takes: The unmaking of Jason Arday, the left declares war on parents and other commentary",
+      "desc": "Though he “cannot help but feel bad for [Jason] Arday and his family,” American Greatness’ Roger Kimball also can’t “forget that his fabulations were directed not only at aggrandizing himself.”…",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/16/opinion/fast-takes-the-unmaking-of-jason-arday-the-left-declares-war-on-parents-and-other-commentary/",
+      "time": "2026-08-16T19:48:26",
+      "country": "US",
+      "title_ur": "فاسٹ ٹیکز: جیسن آرڈے کی بے ترتیبی، بائیں بازو نے والدین اور دیگر تبصروں کے خلاف جنگ کا اعلان کیا۔",
+      "desc_ur": "اگرچہ وہ \"مدد نہیں کر سکتا بلکہ [جیسن] آرڈے اور اس کے خاندان کے لیے برا محسوس کر سکتا ہے،\" امریکن گریٹنیس راجر کمبال بھی \"یہ نہیں بھول سکتا کہ اس کی من گھڑت باتوں کا مقصد نہ صرف خود کو بڑھانا تھا۔\"…"
+    },
+    {
+      "title": "Admiral praises USS Lincoln crew amid reports of worsening conditions during long deployment",
+      "desc": "WASHINGTON, Aug 16 (Reuters) - The leader of U.S.",
+      "source": "Yahoo Entertainment",
+      "url": "https://www.yahoo.com/news/us/articles/admiral-praises-uss-lincoln-crew-194815287.html",
+      "time": "2026-08-16T19:48:15",
+      "country": "US",
+      "title_ur": "ایڈمرل نے طویل تعیناتی کے دوران حالات خراب ہونے کی اطلاعات کے درمیان یو ایس ایس لنکن کے عملے کی تعریف کی",
+      "desc_ur": "واشنگٹن، 16 اگست (رائٹرز) – امریکی رہنما"
+    },
+    {
+      "title": "Israel braces for Hezbollah response as militants remain trapped underground in Lebanon",
+      "desc": "The IDF has decided not to allow Hezbollah operatives trapped in tunnels beneath southern Lebanon's Ali Taher ridge to leave unless they surrender, amid reports Israel is preparing an operation to seize the area",
       "source": "Haaretz",
-      "url": "https://www.haaretz.com/israel-news/haaretz-today/2026-08-16/ty-article/.highlight/hamas-hezbollah-israelis-found-a-new-villain-zohran-mamdani/000001a0-0ad3-d75f-a3be-1af381bd0000",
-      "time": "2026-08-16T19:06:36",
+      "url": "https://www.haaretz.com/israel-news/israel-security/2026-08-16/ty-article/.premium/israel-braces-for-hezbollah-response-as-militants-remain-trapped-underground/000001a0-0c05-db35-afee-7fefe3540000",
+      "time": "2026-08-16T19:40:52",
       "country": "Israel",
-      "title_ur": "حماس؟ حزب اللہ؟ اسرائیلیوں کو ایک نیا ولن مل گیا: ظہران مامدانی۔",
-      "desc_ur": "نیو یارک سٹی کے میئر ظہران ممدانی کے ساتھ اسرائیلی میڈیا کا جنون ایک بہت پرانی جبلت کا حصہ ہے: اسرائیل کے ناقدین کو وجودی دشمن کے طور پر پیش کرنا۔ یہ ایک مقصد کی خدمت کرتا ہے۔"
+      "title_ur": "اسرائیل حزب اللہ کے جواب کے لیے تیار ہے کیونکہ عسکریت پسند لبنان میں زیر زمین پھنسے ہوئے ہیں۔",
+      "desc_ur": "آئی ڈی ایف نے فیصلہ کیا ہے کہ جنوبی لبنان کے علی طاہر ریج کے نیچے سرنگوں میں پھنسے حزب اللہ کے کارندوں کو اس وقت تک جانے کی اجازت نہیں دی جائے گی جب تک کہ وہ ہتھیار نہیں ڈالتے، ان اطلاعات کے درمیان کہ اسرائیل علاقے پر قبضے کے لیے آپریشن کی تیاری کر رہا ہے۔"
     },
     {
-      "title": "Federal Reserve expected to hold rates steady this year, BMO economist says, with cuts seen in 2027",
-      "desc": "Prolonged steady rates may stabilize fixed-income markets but delay speculative asset growth, with geopolitical factors adding uncertainty.\nThe post Federal Reserve expected to hold rates steady this year, BMO economist says, with cuts seen in 2027 appeared f…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/fed-hold-rates-steady-bmo-economist/",
-      "time": "2026-08-16T19:05:47",
-      "country": "International",
-      "title_ur": "فیڈرل ریزرو کی توقع ہے کہ اس سال شرحیں مستحکم رہیں گی، BMO ماہر معاشیات کا کہنا ہے کہ 2027 میں کٹوتیوں کے ساتھ",
-      "desc_ur": "طویل عرصے تک مستحکم شرحیں مقررہ آمدنی والے بازاروں کو مستحکم کر سکتی ہیں لیکن قیاس آرائی پر مبنی اثاثوں کی ترقی میں تاخیر کر سکتی ہیں، جغرافیائی سیاسی عوامل غیر یقینی صورتحال میں اضافہ کرتے ہیں۔\nThe post فیڈرل ریزرو کی توقع ہے کہ اس سال شرحیں مستحکم رہیں گی، BMO ماہر معاشیات کا کہنا ہے کہ 2027 میں کٹوتیوں کے ساتھ…"
+      "title": "UK Prime Minister Andy Burnham's social media strategy: Engaging youth and broadening reach",
+      "desc": "Prime Minister Andy Burnham skillfully uses social media platforms like X and TikTok.  He engages a broad audience by appearing on creator-led entertainment channels.  Burnham's communications team demonstrates a strong grasp of the current media environment.…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/uk-prime-minister-andy-burnhams-social-media-strategy-engaging-youth-and-broadening-reach/articleshow/133281782.cms",
+      "time": "2026-08-16T19:37:14",
+      "country": "UK",
+      "title_ur": "برطانیہ کے وزیر اعظم اینڈی برنہم کی سوشل میڈیا حکمت عملی: نوجوانوں کو مشغول کرنا اور رسائی کو وسیع کرنا",
+      "desc_ur": "وزیر اعظم اینڈی برنہم مہارت سے سوشل میڈیا پلیٹ فارم جیسے X اور TikTok کا استعمال کرتے ہیں۔  وہ تخلیق کار کی زیر قیادت تفریحی چینلز پر نمودار ہو کر ایک وسیع سامعین کو مشغول کرتا ہے۔  برنہم کی کمیونیکیشن ٹیم موجودہ میڈیا کے ماحول کی مضبوط گرفت کا مظاہرہ کرتی ہے۔…"
     },
     {
-      "title": "Hundreds of migrants in Spain's Ceuta enclave protest for asylum, against deportation to Morocco",
-      "desc": "Hundreds of migrants who recently entered Spain's North African enclave of Ceuta staged a protest on a popular urban beach on Sunday, urging Spanish authorities to grant them asylum instead of sending them back to Morocco.",
-      "source": "CBC News",
-      "url": "https://www.cbc.ca/news/world/protest-migrant-spain-ceuta-morocco-9.7309187",
-      "time": "2026-08-16T19:03:40",
-      "country": "Europe",
-      "title_ur": "اسپین کے سیوٹا انکلیو میں سیکڑوں تارکین وطن نے مراکش کو ملک بدری کے خلاف سیاسی پناہ کے لیے احتجاج کیا۔",
-      "desc_ur": "سیکڑوں تارکین وطن جو حال ہی میں اسپین کے شمالی افریقی انکلیو سیوٹا میں داخل ہوئے تھے، نے اتوار کے روز ایک مشہور شہری ساحل پر احتجاجی مظاہرہ کیا، ہسپانوی حکام پر زور دیا کہ وہ انہیں مراکش واپس بھیجنے کے بجائے سیاسی پناہ دیں۔"
+      "title": "GST cuts shield Indian carmakers from commodity price shock",
+      "desc": "Goods and services tax cuts offer carmakers a crucial buffer against rising commodity prices. Companies are employing various strategies to minimize product price increases and sustain demand. Internal cost reductions and selective price adjustments help abso…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/gst-cuts-shield-indian-carmakers-from-commodity-price-shock/articleshow/133281617.cms",
+      "time": "2026-08-16T19:34:08",
+      "country": "India",
+      "title_ur": "جی ایس ٹی نے ہندوستانی کار سازوں کو اجناس کی قیمتوں کے جھٹکے سے بچا لیا ہے۔",
+      "desc_ur": "گڈز اینڈ سروسز ٹیکس میں کمی کار سازوں کو اشیاء کی بڑھتی ہوئی قیمتوں کے خلاف ایک اہم بفر فراہم کرتی ہے۔ کمپنیاں مصنوعات کی قیمتوں میں اضافے کو کم سے کم کرنے اور مانگ کو برقرار رکھنے کے لیے مختلف حکمت عملی اپنا رہی ہیں۔ داخلی لاگت میں کمی اور قیمتوں کی منتخب ایڈجسٹمنٹ سے مدد ملتی ہے…"
     },
     {
-      "title": "Why Iran’s theocrats never will trade the Islamic republic for luxury",
-      "desc": "'These men are not primarily motivated by the preservation of their personal fortunes'",
-      "source": "Wnd.com",
-      "url": "https://www.wnd.com/2026/08/why-irans-theocrats-never-will-trade-islamic-republic/",
-      "time": "2026-08-16T19:03:02",
-      "country": "Iran",
-      "title_ur": "کیوں ایران کے تھیوکریٹ کبھی بھی عیش و عشرت کے لیے اسلامی جمہوریہ کو تجارت نہیں کریں گے۔",
-      "desc_ur": "'یہ لوگ بنیادی طور پر اپنی ذاتی قسمت کے تحفظ کی طرف سے حوصلہ افزائی نہیں کرتے ہیں'"
-    },
-    {
-      "title": "USS Lincoln sailors endured 260 days. Trump says that’s “not nearly long enough”",
-      "desc": "Families and lawmakers are demanding answers over reported shortages and mental health concerns aboard the carrier",
-      "source": "Salon",
-      "url": "https://www.salon.com/2026/08/16/uss-lincoln-sailors-endured-260-days-trump-says-thats-not-nearly-long-enough/",
-      "time": "2026-08-16T19:00:42",
-      "country": "US",
-      "title_ur": "یو ایس ایس لنکن ملاحوں نے 260 دن برداشت کیا۔ ٹرمپ کا کہنا ہے کہ یہ \"تقریبا لمبا نہیں ہے\"",
-      "desc_ur": "اہل خانہ اور قانون ساز کیریئر پر سوار ذہنی صحت کے خدشات اور کمی کی اطلاع پر جوابات کا مطالبہ کر رہے ہیں"
-    },
-    {
-      "title": "Bill Maher Says Immigrants Must Assimilate, Accept Western Civilization",
-      "desc": "\"it’s non-negotiable\"\nThe post Bill Maher Says Immigrants Must Assimilate, Accept Western Civilization first appeared on Le·gal In·sur·rec·tion.",
-      "source": "Legalinsurrection.com",
-      "url": "https://legalinsurrection.com/2026/08/bill-maher-says-immigrants-must-assimilate-accept-western-civilization/",
-      "time": "2026-08-16T19:00:35",
-      "country": "US",
-      "title_ur": "بل مہر کا کہنا ہے کہ تارکین وطن کو مل جل کر، مغربی تہذیب کو قبول کرنا چاہیے۔",
-      "desc_ur": "\"یہ ناقابلِ مذاکرات ہے\"\nThe post بل مہر کا کہنا ہے کہ تارکین وطن کو مل کر مغربی تہذیب کو قبول کرنا ہوگا appeared first on قانونی بغاوت."
-    },
-    {
-      "title": "This object was everywhere in our living rooms 20 years ago: today, it has almost disappeared",
-      "desc": "Think about the last time you saw a fish tank in someone’s living room. Not at a restaurant or a dentist’s office, but in an actual home. If you’re drawing a blank, you’re not imagining things. The decorative aquarium that once anchored every waiting room and…",
-      "source": "Thecoolist.com",
-      "url": "https://www.thecoolist.com/this-object-was-everywhere-in-our-living-rooms-20-years-ago-today-it-has-almost-disappeared-h2r4/",
-      "time": "2026-08-16T19:00:18",
-      "country": "International",
-      "title_ur": "یہ چیز 20 سال پہلے ہمارے رہنے والے کمروں میں ہر جگہ موجود تھی: آج، یہ تقریباً غائب ہو چکی ہے۔",
-      "desc_ur": "آخری بار کے بارے میں سوچیں جب آپ نے کسی کے کمرے میں مچھلی کا ٹینک دیکھا تھا۔ کسی ریستوراں یا دانتوں کے ڈاکٹر کے دفتر میں نہیں، بلکہ اصل گھر میں۔ اگر آپ خالی جگہ کھینچ رہے ہیں، تو آپ چیزوں کا تصور نہیں کر رہے ہیں۔ آرائشی ایکویریم جو ایک بار ہر ویٹنگ روم کو لنگر انداز کرتا تھا اور…"
-    },
-    {
-      "title": "Oil Majors Reap $93 Billion Windfall From the Iran War",
-      "desc": "Oil prices have soared in recent months as a result of the almost complete closure of the Strait of Hormuz, a key trade corridor connecting Asia and Europe. High fossil fuel prices have helped to drive up the profits of oil and gas companies around the globe,…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Oil-Majors-Reap-93-Billion-Windfall-From-the-Iran-War.html",
-      "time": "2026-08-16T19:00:00",
-      "country": "Iran",
-      "title_ur": "تیل کی بڑی کمپنیوں نے ایران کی جنگ سے 93 بلین ڈالر کمائے",
-      "desc_ur": "ایشیا اور یورپ کو ملانے والی اہم تجارتی گزرگاہ آبنائے ہرمز کی تقریباً مکمل بندش کے نتیجے میں حالیہ مہینوں میں تیل کی قیمتوں میں اضافہ ہوا ہے۔ جیواشم ایندھن کی بلند قیمتوں نے دنیا بھر میں تیل اور گیس کمپنیوں کے منافع کو بڑھانے میں مدد کی ہے،…"
-    },
-    {
-      "title": "How Many Times Are We Going To Play The Exact Same Game?",
-      "desc": "The same pattern keeps repeating over and over again. U.S. military assets are moved into the Middle East and President Trump threatens to attack Iran harder than ever before. At the end of last week, I told my core supporters that everything was ready for a …",
-      "source": "Activistpost.com",
-      "url": "https://www.activistpost.com/how-many-times-are-we-going-to-play-the-exact-same-game/",
-      "time": "2026-08-16T19:00:00",
-      "country": "Iran",
-      "title_ur": "ہم کتنی بار عین وہی کھیل کھیلنے جا رہے ہیں؟",
-      "desc_ur": "ایک ہی روش بار بار دہراتی رہتی ہے۔ امریکی فوجی اثاثوں کو مشرق وسطیٰ میں منتقل کر دیا گیا ہے اور صدر ٹرمپ نے ایران پر پہلے سے زیادہ سخت حملہ کرنے کی دھمکی دی ہے۔ پچھلے ہفتے کے آخر میں، میں نے اپنے بنیادی حامیوں کو بتایا کہ سب کچھ ایک کے لیے تیار ہے…"
-    },
-    {
-      "title": "Arab allies join Trump in calling for Israel to drop opposition to US-backed Gaza peace plan",
-      "desc": "President Trump and Arab allies are pushing to advance the American-backed Gaza peace deal on Sunday, even as Israel rejected the plan and carried on with airstrikes in the Palestinian enclave.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/08/16/world-news/arab-allies-join-trump-in-calling-for-israel-to-drop-opposition-to-us-backed-gaza-peace-plan/",
-      "time": "2026-08-16T18:53:08",
+      "title": "Kushner meets Hamas leaders to push Gaza demilitarization - Axios",
+      "desc": "Kushner meets Hamas leaders to push Gaza demilitarizationAxios Live updates: US commander visits aircraft carrier in Middle East for second time amid concerns about moraleCNN Kushner has a rare meeting with Hamas' leader on the Gaza road map. A meeting with N…",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185005322",
+      "time": "2026-08-16T19:32:50",
       "country": "Israel",
-      "title_ur": "عرب اتحادیوں نے ٹرمپ کے ساتھ مل کر اسرائیل سے مطالبہ کیا کہ وہ امریکی حمایت یافتہ غزہ امن منصوبے کی مخالفت چھوڑ دے۔",
-      "desc_ur": "صدر ٹرمپ اور عرب اتحادی اتوار کو امریکی حمایت یافتہ غزہ امن معاہدے کو آگے بڑھانے پر زور دے رہے ہیں، یہاں تک کہ جب اسرائیل نے اس منصوبے کو مسترد کر دیا اور فلسطینی علاقے میں فضائی حملے جاری رکھے۔"
+      "title_ur": "کشنر نے غزہ کی غیر فوجی کارروائی کو آگے بڑھانے کے لیے حماس کے رہنماؤں سے ملاقات کی۔",
+      "desc_ur": "کشنر نے غزہ کو غیرفوجی کرنے کے لیے حماس کے رہنماؤں سے ملاقات کیAxios Live Updates: امریکی کمانڈر نے دوسری بار مشرق وسطیٰ میں طیارہ بردار بحری جہاز کا حوصلے سے متعلق خدشات کے درمیان دورہ کیا۔ ن کے ساتھ ملاقات…"
     },
     {
-      "title": "IDF prepares for days of combat as Hezbollah terrorists trapped underground",
-      "desc": "Dozens of Hezbollah terrorists are believed trapped underground as the IDF strikes senior commanders and prepares for several days of combat after ceasefire violation.",
+      "title": "Jared Kushner arrives in Israel",
+      "desc": "US President Donald Trump’s envoy Jared Kushner landed in Israel ahead of talks with Prime Minister Benjamin Netanyahu on Gaza.",
       "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/431792",
-      "time": "2026-08-16T18:52:51",
-      "country": "Lebanon",
-      "title_ur": "آئی ڈی ایف کئی دنوں کی لڑائی کے لیے تیاری کر رہا ہے کیونکہ حزب اللہ دہشت گرد زیر زمین پھنس گئے ہیں۔",
-      "desc_ur": "خیال کیا جاتا ہے کہ حزب اللہ کے درجنوں دہشت گرد زیرزمین پھنسے ہوئے ہیں جب آئی ڈی ایف نے سینئر کمانڈروں پر حملہ کیا اور جنگ بندی کی خلاف ورزی کے بعد کئی دنوں کی لڑائی کی تیاری کی۔"
+      "url": "https://www.israelnationalnews.com/flashes/691849",
+      "time": "2026-08-16T19:32:36",
+      "country": "Israel",
+      "title_ur": "جیرڈ کشنر اسرائیل پہنچ گئے۔",
+      "desc_ur": "امریکی صدر ڈونلڈ ٹرمپ کے ایلچی جیرڈ کشنر غزہ پر وزیر اعظم بینجمن نیتن یاہو سے بات چیت سے قبل اسرائیل پہنچ گئے۔"
     },
     {
-      "title": "Existing airpower theory still explains modern warfare",
-      "desc": "'Debates over military theory matter because doctrine shapes how commanders understand warfare, organize forces, and employ military power'",
-      "source": "Wnd.com",
-      "url": "https://www.wnd.com/2026/08/existing-airpower-theory-still-explains-modern-warfare/",
-      "time": "2026-08-16T18:50:44",
+      "title": "The Irish Times view on fuel subsidies: decision day draws closer",
+      "desc": "Absence of any clear pa th to end of hostilities in Gulf means prices will likely remain elevated",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/opinion/editorials/2026/08/16/the-irish-times-view-on-fuel-subsidies-decision-day-draws-closer/",
+      "time": "2026-08-16T19:30:00",
+      "country": "International",
+      "title_ur": "ایندھن کی سبسڈی پر آئرش ٹائمز کا نظریہ: فیصلے کا دن قریب آرہا ہے۔",
+      "desc_ur": "خلیج میں دشمنی کے خاتمے کے لیے کسی واضح راستے کی عدم موجودگی کا مطلب ہے کہ قیمتیں بلند رہیں گی"
+    },
+    {
+      "title": "Regional police chief: 'Place Judea and Samaria Border Police under district authority'",
+      "desc": "Judea and Samaria police chief Moshe Pinchi says plan to transfer civilian law enforcement powers from IDF to police requires resources, deploying forces, and placing Judea and Samaria Border Police under the district's authority.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/431793",
+      "time": "2026-08-16T19:24:59",
+      "country": "International",
+      "title_ur": "علاقائی پولیس سربراہ: 'یہودیہ اور سامریہ بارڈر پولیس کو ضلعی اتھارٹی کے تحت رکھیں'",
+      "desc_ur": "جوڈیا اور سامریہ کے پولیس سربراہ موشے پنچی کا کہنا ہے کہ آئی ڈی ایف سے شہری قانون نافذ کرنے والے اختیارات پولیس کو منتقل کرنے کے منصوبے کے لیے وسائل کی ضرورت ہے، فورسز کی تعیناتی، اور جوڈیا اور سامریہ بارڈر پولیس کو ضلع کے اختیار میں رکھنا ہے۔"
+    },
+    {
+      "title": "Strikes kill 19 in Russia, Ukraine",
+      "desc": "Recent strikes in Russia and Ukraine have killed 19 civilians, marking the highest death toll since 2022. Both nations escalate long-range attacks.\n\nRead More: https://punchng.com/strikes-kill-19-in-russia-ukraine/",
+      "source": "The Punch",
+      "url": "https://punchng.com/?p=2216820",
+      "time": "2026-08-16T19:23:56",
+      "country": "Russia",
+      "title_ur": "روس، یوکرین میں حملوں میں 19 افراد ہلاک ہو گئے۔",
+      "desc_ur": "روس اور یوکرین میں حالیہ حملوں میں 19 شہری مارے گئے، جو کہ 2022 کے بعد سب سے زیادہ ہلاکتوں کی تعداد ہے۔ دونوں ممالک طویل فاصلے تک حملوں میں اضافہ کر رہے ہیں۔\n\nمزید پڑھیں: https://punchng.com/strikes-kill-19-in-russia-ukraine/"
+    },
+    {
+      "title": "US officials may visit Israeli settlement in West Bank",
+      "desc": "Several senior United States officials are set to visit the West Bank village of Qusra in the next few days, due to continued reports of Israeli settler violence against the local Palestinians, Israel...",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/1563f64f87c1d540",
+      "time": "2026-08-16T19:23:47",
+      "country": "Israel",
+      "title_ur": "امریکی حکام مغربی کنارے میں اسرائیلی بستی کا دورہ کر سکتے ہیں۔",
+      "desc_ur": "مقامی فلسطینیوں کے خلاف اسرائیلی آباد کاروں کے تشدد کی مسلسل رپورٹوں کی وجہ سے کئی سینیئر امریکی حکام اگلے چند دنوں میں مغربی کنارے کے گاؤں قصرا کا دورہ کرنے والے ہیں۔"
+    },
+    {
+      "title": "Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan",
+      "desc": "Trump envoy has pushed for disarmament to end any future Hamas role in running Gaza, diplomatic sources tell AFP.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan",
+      "time": "2026-08-16T19:23:28",
+      "country": "Israel",
+      "title_ur": "کشنر نے ٹرمپ کے غزہ منصوبے کو آگے بڑھانے کے لیے مصر میں حماس کے رہنماؤں سے ملاقات کی۔",
+      "desc_ur": "سفارتی ذرائع نے اے ایف پی کو بتایا کہ ٹرمپ کے ایلچی نے غزہ کو چلانے میں حماس کے مستقبل کے کردار کو ختم کرنے کے لیے تخفیف اسلحہ پر زور دیا ہے۔"
+    },
+    {
+      "title": "Jared Kushner to meet Hamas in Egypt for Gaza peace plan talks, Israel rejects deal",
+      "desc": "Hamas sources expect to meet US envoy Jared Kushner in Egypt soon.  Kushner is pushing a Gaza peace plan which Israel has rejected.  Mediators informed Hamas about the upcoming meeting with Kushner in Egypt.  Hamas chief Khalil al-Hayya is also in Egypt for t…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/jared-kushner-to-meet-hamas-in-egypt-for-gaza-peace-plan-talks-israel-rejects-deal/articleshow/133281586.cms",
+      "time": "2026-08-16T19:17:22",
+      "country": "Israel",
+      "title_ur": "جیرڈ کشنر غزہ امن منصوبہ مذاکرات کے لیے مصر میں حماس سے ملاقات کریں گے، اسرائیل نے معاہدے کو مسترد کر دیا۔",
+      "desc_ur": "حماس ذرائع کو توقع ہے کہ وہ جلد ہی مصر میں امریکی ایلچی جیرڈ کشنر سے ملاقات کریں گے۔  کشنر غزہ امن منصوبے کو آگے بڑھا رہا ہے جسے اسرائیل نے مسترد کر دیا ہے۔  ثالثی نے حماس کو مصر میں کشنر کے ساتھ ہونے والی ملاقات کے بارے میں آگاہ کیا۔  حماس کے سربراہ خلیل الحیا بھی مصر میں ہیں۔"
+    },
+    {
+      "title": "Marxist Hasan Piker Called Out for Using 'Defense Bingo Card' to Downplay Extreme Comments",
+      "desc": "A Democrat political operative has accused Marxist Hasan Piker, who wore a suit styled after Chinese dictator Mao Zedong, of trying to downplay his controversial comments.\nThe post Marxist Hasan Piker Called Out for Using ‘Defense Bingo Card’ to Downplay Extr…",
+      "source": "Breitbart News",
+      "url": "https://www.breitbart.com/politics/2026/08/16/marxist-hasan-piker-called-out-for-using-defense-bingo-card-to-downplay-extreme-comments/",
+      "time": "2026-08-16T19:11:24",
       "country": "US",
-      "title_ur": "موجودہ ایئر پاور تھیوری اب بھی جدید جنگ کی وضاحت کرتی ہے۔",
-      "desc_ur": "'فوجی نظریہ کے معاملے پر بحثیں کیونکہ نظریہ اس بات کی تشکیل کرتا ہے کہ کمانڈر جنگ کو کس طرح سمجھتے ہیں، افواج کو منظم کرتے ہیں اور فوجی طاقت کو استعمال کرتے ہیں'"
+      "title_ur": "مارکسسٹ حسن پیکر کو انتہائی تبصروں کو کم کرنے کے لیے 'ڈیفنس بنگو کارڈ' استعمال کرنے پر بلایا گیا",
+      "desc_ur": "ایک ڈیموکریٹ سیاسی کارکن نے مارکسسٹ حسن پیکر پر الزام لگایا ہے، جنہوں نے چینی ڈکٹیٹر ماؤ زی تنگ کے طرز کا سوٹ پہنا تھا، اپنے متنازع تبصروں کو کم کرنے کی کوشش کر رہے تھے۔\nThe post مارکسسٹ حسن پائیکر نے ایکسٹرا کو ڈاؤن پلے کرنے کے لیے ’ڈیفنس بنگو کارڈ‘ استعمال کرنے پر کال کی…"
     },
     {
-      "title": "Hong’s narrow Wisconsin loss: Letters to the Editor — Aug. 17, 2026",
-      "desc": "NY Post readers discuss the rise of democratic socialists, despite Francesca Hong’s loss in Wisconsin.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/08/16/opinion/hongs-narrow-wisconsin-loss-letters/",
-      "time": "2026-08-16T18:50:42",
-      "country": "US",
-      "title_ur": "ہانگ کا تنگ وسکونسن نقصان: ایڈیٹر کو خط - اگست 17، 2026",
-      "desc_ur": "NY پوسٹ کے قارئین وسکونسن میں فرانسسکا ہانگ کی شکست کے باوجود جمہوری سوشلسٹوں کے عروج پر گفتگو کرتے ہیں۔"
-    },
-    {
-      "title": "Thousands quit Trump's USA in hope of a better life in Scotland",
-      "desc": "Donald Trump may have pledged to make America great again, but record numbers of young Americans are voting with their feet and choosing Scotland over the US.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16056715/Thousands-quit-Trumps-USA-hope-better-life-Scotland.html",
-      "time": "2026-08-16T18:50:35",
-      "country": "US",
-      "title_ur": "سکاٹ لینڈ میں بہتر زندگی کی امید میں ہزاروں افراد نے ٹرمپ کا امریکہ چھوڑ دیا۔",
-      "desc_ur": "ڈونلڈ ٹرمپ نے امریکہ کو ایک بار پھر عظیم بنانے کا عہد کیا ہو گا، لیکن ریکارڈ تعداد میں نوجوان امریکی اپنے پیروں سے ووٹ ڈال رہے ہیں اور امریکہ پر سکاٹ لینڈ کا انتخاب کر رہے ہیں۔"
-    },
-    {
-      "title": "STEPHEN DAISLEY: Cosying up to China, despite the risks? How quickly Honest John was replaced by Sell-out Swinney",
-      "desc": "John Swinney is seldom called upon to muse on matters of national security, and that is probably just as well.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16056717/STEPHEN-DAISLEY-Cosying-China-despite-risks-quickly-Honest-John-replaced-Sell-Swinney.html",
-      "time": "2026-08-16T18:50:20",
-      "country": "China",
-      "title_ur": "اسٹیفن ڈیزلی: خطرات کے باوجود چین کے ساتھ ہم آہنگی؟ کتنی جلدی Honest John کی جگہ Sell-out Swinney نے لے لی",
-      "desc_ur": "جان سوینی کو شاذ و نادر ہی قومی سلامتی کے معاملات پر غور کرنے کے لیے بلایا جاتا ہے، اور شاید ایسا ہی ہے۔"
+      "title": "Iran slams Canada over support for US in war",
+      "desc": "Iranian Foreign Ministry Spokesman Esmail Baghaei on Sunday criticized Canada's relationship with the United States, accusing the country of participating in the \"US-led unlawful war of choice against...",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/78b32caca0901819",
+      "time": "2026-08-16T19:08:26",
+      "country": "Iran",
+      "title_ur": "ایران نے جنگ میں امریکہ کی حمایت پر کینیڈا پر تنقید کی۔",
+      "desc_ur": "ایرانی وزارت خارجہ کے ترجمان اسماعیل باغائی نے اتوار کے روز امریکہ کے ساتھ کینیڈا کے تعلقات پر تنقید کرتے ہوئے اس ملک پر \"امریکی قیادت کے خلاف انتخاب کی غیر قانونی جنگ\" میں حصہ لینے کا الزام لگایا۔"
     }
   ],
   "pakistan": [
+    {
+      "title": "Turkey calls for reopening of Strait of Hormuz to resume global oil flows",
+      "desc": "The prolonged closure of the Strait of Hormuz threatens global energy stability, prompting geopolitical shifts and alternative supply routes.\nThe post Turkey calls for reopening of Strait of Hormuz to resume global oil flows appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/turkey-strait-hormuz-oil-flows/",
+      "time": "2026-08-16T19:37:12",
+      "country": "Pakistan",
+      "title_ur": "ترکی نے عالمی سطح پر تیل کے بہاؤ کو دوبارہ شروع کرنے کے لیے آبنائے ہرمز کو دوبارہ کھولنے کا مطالبہ کیا ہے۔",
+      "desc_ur": "آبنائے ہرمز کی طویل بندش سے توانائی کے عالمی استحکام کو خطرہ لاحق ہے، جس سے جیو پولیٹیکل تبدیلیاں اور متبادل سپلائی روٹس شروع ہو جائیں گے۔\nThe post ترکی کا آبنائے ہرمز کو دوبارہ کھولنے کا مطالبہ، تیل کی عالمی آمد بحال appeared first on Crypto Briefing."
+    },
+    {
+      "title": "Five Arab nations condemn Israel's rejection of US peace plan for Gaza",
+      "desc": "Five Arab nations, along with Turkey, Pakistan and Indonesia, on Sunday criticised Israel for rejecting a US proposal for Gaza. In a joint statement, Egypt, Qatar, Saudi Arabia and the UAE said Israel’s rejection could undermine US President Donald Trump’s re…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/five-arab-nations-condemn-israels-rejection-of-us-peace-plan-for-gaza/articleshow/133281663.cms",
+      "time": "2026-08-16T19:24:16",
+      "country": "Pakistan",
+      "title_ur": "پانچ عرب ممالک نے اسرائیل کی جانب سے غزہ کے لیے امریکی امن منصوبے کو مسترد کرنے کی مذمت کی ہے۔",
+      "desc_ur": "ترکی، پاکستان اور انڈونیشیا کے ساتھ پانچ عرب ممالک نے اتوار کو غزہ کے لیے امریکی تجویز کو مسترد کرنے پر اسرائیل کو تنقید کا نشانہ بنایا۔ ایک مشترکہ بیان میں مصر، قطر، سعودی عرب اور متحدہ عرب امارات نے کہا کہ اسرائیل کی جانب سے مسترد ہونے سے امریکی صدر ڈونلڈ ٹرمپ کی دوبارہ حکومت کو نقصان پہنچ سکتا ہے۔"
+    },
+    {
+      "title": "Erdogan calls for Strait of Hormuz reopening amid oil disruption",
+      "desc": "Turkish President Recep Tayyip Erdogan has called for the Strait of Hormuz to reopen.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-hormuz-tr",
+      "time": "2026-08-16T19:18:24",
+      "country": "Pakistan",
+      "title_ur": "اردگان نے تیل میں خلل کے درمیان آبنائے ہرمز کو دوبارہ کھولنے کا مطالبہ کیا۔",
+      "desc_ur": "ترک صدر رجب طیب اردوان نے آبنائے ہرمز کو دوبارہ کھولنے کا مطالبہ کیا ہے۔"
+    },
+    {
+      "title": "Pakistan doesn't want world to know what these people saw",
+      "desc": "After months of an internet and mobile blackout in Pakistan-controlled Kashmir, people on the ground describe scenes of excessive, deadly force by government forces.",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-08-17/pakistan-controlled-kashmir-violent-crackdown-against-protests/107035532",
+      "time": "2026-08-16T19:17:52",
+      "country": "Pakistan",
+      "title_ur": "پاکستان نہیں چاہتا کہ دنیا جان لے کہ ان لوگوں نے کیا دیکھا",
+      "desc_ur": "پاکستان کے زیر کنٹرول کشمیر میں کئی مہینوں تک انٹرنیٹ اور موبائل بلیک آؤٹ کے بعد، زمین پر موجود لوگ حکومتی فورسز کی جانب سے ضرورت سے زیادہ، مہلک طاقت کے مناظر کو بیان کر رہے ہیں۔"
+    },
     {
       "title": "Mala school chairman’s ‘send to Pak’ message in parents’ WhatsApp group triggers row",
       "desc": "Mala school chairman faces backlash and police complaints after WhatsApp message saying students skipping Independence Day should be “sent to Pakistan”; later apologised.",
@@ -162,16 +202,6 @@
       "country": "Pakistan",
       "title_ur": "والدین کے واٹس ایپ گروپ میں مالا اسکول کے چیئرمین کا 'پاک بھیجیں' پیغام نے تنازع شروع کردیا۔",
       "desc_ur": "مالا اسکول کے چیئرمین کو واٹس ایپ پیغام کے بعد ردعمل اور پولیس کی شکایات کا سامنا کرنا پڑا جس میں کہا گیا تھا کہ یوم آزادی کو چھوڑنے والے طلباء کو \"پاکستان بھیجا جانا چاہیے\"۔ بعد میں معافی مانگی."
-    },
-    {
-      "title": "Several countries slam Israel's rejection of Gaza plan",
-      "desc": "The foreign ministers of the United Arab Emirates, Qatar, Jordan, Indonesia, Pakistan, Turkey, Saudi Arabia, and Egypt released a joint statement on Sunday, condemning Israel's decision to dismiss the...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/fc40f67675fd76c6",
-      "time": "2026-08-16T18:38:05",
-      "country": "Pakistan",
-      "title_ur": "کئی ممالک نے اسرائیل کی جانب سے غزہ کے منصوبے کو مسترد کرنے پر تنقید کی۔",
-      "desc_ur": "متحدہ عرب امارات، قطر، اردن، انڈونیشیا، پاکستان، ترکی، سعودی عرب اور مصر کے وزرائے خارجہ نے اتوار کے روز ایک مشترکہ بیان جاری کیا، جس میں اسرائیل کی جانب سے اسرائیل کی برطرفی کے فیصلے کی مذمت کی گئی۔"
     }
   ],
   "business": {
