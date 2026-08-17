@@ -1,6 +1,96 @@
 {
-  "generated": "2026-08-17T16:54:01Z",
+  "generated": "2026-08-17T17:21:38Z",
   "world": [
+    {
+      "title": "Puzzling policy: Premature ending of FCNR (B) swap raises questions",
+      "desc": "From the turn of events, it would appear that the scheme was not adequately thought through",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/opinion/editorial/puzzling-policy-premature-ending-of-fcnr-b-swap-raises-questions-126081600730_1.html",
+      "time": "2026-08-16T17:18:26",
+      "country": "International",
+      "title_ur": "حیران کن پالیسی: FCNR (B) سویپ کا قبل از وقت خاتمہ سوالات کو جنم دیتا ہے۔",
+      "desc_ur": "واقعات کے موڑ سے، یہ ظاہر ہوتا ہے کہ اسکیم کے ذریعے مناسب طریقے سے سوچا نہیں گیا تھا"
+    },
+    {
+      "title": "‘Water and salt’: Qusra residents trapped in Israeli settler siege",
+      "desc": "Israeli settlers and soldiers besiege Qusra families for eight days, blocking water and aid.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/8/16/water-and-salt-qusra-residents-trapped-in-israeli-settler-siege",
+      "time": "2026-08-16T17:18:00",
+      "country": "Israel",
+      "title_ur": "'پانی اور نمک': قصر کے رہائشی اسرائیلی آباد کاروں کے محاصرے میں پھنسے ہوئے ہیں۔",
+      "desc_ur": "اسرائیلی آباد کاروں اور فوجیوں نے آٹھ دنوں سے قسرہ کے خاندانوں کا محاصرہ کر رکھا ہے، پانی اور امداد بند کر دی ہے۔"
+    },
+    {
+      "title": "Mustang Panda Upgrades CoolClient With a Kernel Rootkit",
+      "desc": "Mustang Panda upgraded CoolClient with a signed kernel driver that hides processes, files and network activity, making the backdoor harder to detect. HoneyMyte, also known as Mustang Panda, has pushed its CoolClient backdoor another step deeper into Windows. …",
+      "source": "Securityaffairs.com",
+      "url": "https://securityaffairs.com/197274/apt/mustang-panda-upgrades-coolclient-with-a-kernel-rootkit.html",
+      "time": "2026-08-16T17:15:46",
+      "country": "US",
+      "title_ur": "Mustang Panda CoolClient کو کرنل روٹ کٹ کے ساتھ اپ گریڈ کرتا ہے۔",
+      "desc_ur": "Mustang Panda نے CoolClient کو ایک دستخط شدہ کرنل ڈرائیور کے ساتھ اپ گریڈ کیا جو عمل، فائلوں اور نیٹ ورک کی سرگرمی کو چھپاتا ہے، جس سے بیک ڈور کا پتہ لگانا مشکل ہو جاتا ہے۔ HoneyMyte، جسے Mustang Panda کے نام سے بھی جانا جاتا ہے، نے اپنے CoolClient بیک ڈور کو ونڈوز میں ایک اور قدم گہرائی میں دھکیل دیا ہے۔ …"
+    },
+    {
+      "title": "Iranians set to face harsh prison sentences for telling the world what’s happening inside their country under new law",
+      "desc": "Iran's parliament approved on Sunday the general principles of a bill that ​would criminalize interviews and other communications with media deemed hostile to the ‌Islamic Republic",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/16/world-news/iranians-set-to-face-harsh-prison-sentences-for-telling-the-world-whats-happening-inside-their-country-under-new-law/",
+      "time": "2026-08-16T17:11:19",
+      "country": "Iran",
+      "title_ur": "ایرانیوں کو نئے قانون کے تحت دنیا کو یہ بتانے پر سخت قید کی سزا کا سامنا کرنا پڑے گا کہ ان کے ملک کے اندر کیا ہو رہا ہے۔",
+      "desc_ur": "ایران کی پارلیمنٹ نے اتوار کے روز ایک بل کے عمومی اصولوں کی منظوری دے دی جو اسلامی جمہوریہ کے مخالف سمجھے جانے والے میڈیا کے ساتھ انٹرویوز اور دیگر مواصلات کو جرم قرار دے گا۔"
+    },
+    {
+      "title": "RBI's $56.8 billion forex drive: How diaspora deposits reshape India's currency risk and balance sheet",
+      "desc": "India's innovative special forex package has successfully garnered over fifty-six billion dollars in deposits, surpassing expectations. This increased inflow has prompted an extension of its deadline, ushering in a new era of currency risk for the central ban…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/opinion/et-commentary/rbis-56-8-billion-forex-drive-how-diaspora-deposits-reshape-indias-currency-risk-and-balance-sheet/articleshow/133279137.cms",
+      "time": "2026-08-16T17:06:12",
+      "country": "India",
+      "title_ur": "آر بی آئی کی 56.8 بلین ڈالر کی فاریکس ڈرائیو: کس طرح ڈائاسپورا کے ذخائر ہندوستان کے کرنسی کے خطرے اور بیلنس شیٹ کو نئی شکل دیتے ہیں",
+      "desc_ur": "ہندوستان کے اختراعی خصوصی غیر ملکی کرنسی کے پیکج نے کامیابی کے ساتھ چھپن بلین ڈالر سے زیادہ کے ذخائر حاصل کیے ہیں، جو توقعات سے زیادہ ہیں۔ اس بڑھتی ہوئی آمد نے مرکزی پابندی کے لیے کرنسی کے خطرے کے ایک نئے دور کا آغاز کرتے ہوئے اپنی آخری تاریخ میں توسیع کا اشارہ دیا ہے…"
+    },
+    {
+      "title": "On anniversary of death: US Ambassador Huckabee visits Rabbi Kook's house",
+      "desc": "US Ambassador Mike Huckabee visits Rabbi Abraham Isaac HaCohen Kook’s Jerusalem home and opens an exhibit highlighting Chief Rabbis’ historic White House visits.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/431789",
+      "time": "2026-08-16T17:01:00",
+      "country": "US",
+      "title_ur": "موت کی برسی پر: امریکی سفیر ہکابی نے ربی کوک کے گھر کا دورہ کیا۔",
+      "desc_ur": "امریکی سفیر مائیک ہکابی نے ربی ابراہم آئزک ہاکوہن کوک کے یروشلم گھر کا دورہ کیا اور چیف ربیس کے تاریخی وائٹ ہاؤس دوروں کو اجاگر کرنے والی ایک نمائش کا افتتاح کیا۔"
+    },
+    {
+      "title": "Head Schotts: Cowboys skipper calls out 'leaky moments' vs Seahawks' D",
+      "desc": "The head coach identified the primary area that needed work out of the preseason win.",
+      "source": "USA Today",
+      "url": "https://cowboyswire.usatoday.com/story/sports/nfl/cowboys/2026/08/16/cowboys-schottenheimer-offensive-line-preseason-week-1-seahawks/91328791007/",
+      "time": "2026-08-16T17:00:22",
+      "country": "International",
+      "title_ur": "ہیڈ اسکاٹس: کاؤبای کے کپتان نے 'لیکی لمحات' بمقابلہ سی ہاکس' ڈی کو پکارا",
+      "desc_ur": "ہیڈ کوچ نے پرائمری ایریا کی نشاندہی کی جس میں پری سیزن جیت سے باہر کام کرنے کی ضرورت تھی۔"
+    },
+    {
+      "title": "AI Set to Extend Fossil Fuel Dominance",
+      "desc": "AI's energy footprint is out of control. Hyperscalers are building out data centers faster than the energy industry can keep up with, pushing for the rapid buildout of any form of energy we have at our disposal, clean or dirty. Silicon Valley's leadership in …",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/AI-Set-to-Extend-Fossil-Fuel-Dominance.html",
+      "time": "2026-08-16T17:00:00",
+      "country": "US",
+      "title_ur": "AI جیواشم ایندھن کے غلبہ کو بڑھانے کے لئے تیار ہے۔",
+      "desc_ur": "AI کے توانائی کے اثرات قابو سے باہر ہیں۔ Hyperscalers توانائی کی صنعت سے زیادہ تیزی سے ڈیٹا سینٹرز بنا رہے ہیں، جو ہمارے پاس موجود کسی بھی قسم کی توانائی کی تیزی سے تعمیر پر زور دے رہے ہیں، صاف یا گندی۔ سلیکون ویلی کی قیادت…"
+    },
+    {
+      "title": "Home buyers feel pain of property price slump from 2021 market peak",
+      "desc": "Cameron Pitney bought an apartment in 2021. Five years later, its value has plunged 26%.",
+      "source": "New Zealand Herald",
+      "url": "https://www.nzherald.co.nz/nz/auckland/home-buyers-feel-pain-of-property-price-slump-from-2021-market-peak/premium/5MFBQXJVXNDY3ODR5ZQCAFBWW4/",
+      "time": "2026-08-16T17:00:00",
+      "country": "International",
+      "title_ur": "گھر کے خریدار 2021 کی مارکیٹ کی چوٹی سے پراپرٹی کی قیمتوں میں کمی کا درد محسوس کرتے ہیں۔",
+      "desc_ur": "کیمرون پٹنی نے 2021 میں ایک اپارٹمنٹ خریدا۔ پانچ سال بعد، اس کی قیمت 26 فیصد گر گئی ہے۔"
+    },
     {
       "title": "Former Joint Chiefs chair: Truth about issues on USS Abraham Lincoln ‘somewhere in the middle’ - The Hill",
       "desc": "Former Joint Chiefs chair: Truth about issues on USS Abraham Lincoln ‘somewhere in the middle’The Hill Iran War Commander Visits the USS Abraham LincolnWSJ Extended carrier deployment bad for the Navy, Ruben Gallego saysPolitico Families of US sailors denounc…",
@@ -60,96 +150,6 @@
       "country": "Israel",
       "title_ur": "عرب ممالک نے اسرائیل کی جانب سے ٹرمپ کے غزہ منصوبے کو مسترد کرنے کی مذمت کی ہے۔",
       "desc_ur": "مذمت سفارتی تعلقات میں تبدیلی کا اشارہ دے سکتی ہے، ممکنہ طور پر مستقبل کی شناخت کی کوششوں اور علاقائی استحکام کو متاثر کر سکتی ہے۔\nThe post عرب ممالک کی اسرائیل کی جانب سے ٹرمپ کے غزہ پلان کو مسترد کرنے کی مذمت appeared first on Crypto Briefing."
-    },
-    {
-      "title": "Trump Pulls Last US Aircraft Carrier Out of Asia as Iran War Intensifies",
-      "desc": "President Donald Trump's war against Iran is stretching the limits of U.S. aircraft carriers and leaving the western Pacific without one of the key American warships as China shows more signs of aggression. The USS George Washington is departing the Pacific a…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4392016/posts",
-      "time": "2026-08-16T16:27:46",
-      "country": "Iran",
-      "title_ur": "ٹرمپ نے آخری امریکی طیارہ بردار بحری جہاز کو ایشیا سے باہر نکال دیا کیونکہ ایران جنگ میں شدت آتی جا رہی ہے۔",
-      "desc_ur": "صدر ڈونلڈ ٹرمپ کی ایران کے خلاف جنگ امریکی طیارہ بردار بحری جہازوں کی حدود کو بڑھا رہی ہے اور مغربی بحرالکاہل سے ایک اہم امریکی جنگی جہاز کے بغیر نکل رہی ہے کیونکہ چین جارحیت کے مزید آثار دکھا رہا ہے۔ یو ایس ایس جارج واشنگٹن بحرالکاہل سے روانہ ہو رہا ہے…"
-    },
-    {
-      "title": "Over Half of Americans Say Their Financial Situation Worsened Since 2025 – Poll",
-      "desc": "MOSCOW (Sputnik) - As many as 53% of registered US voters believe their financial situation has deteriorated since US President Donald Trump took office in January 2025, a Focaldata poll conducted for a British newspaper showed on Sunday.",
-      "source": "Sputnikglobe.com",
-      "url": "https://sputnikglobe.com/20260816/over-half-of-americans-say-their-financial-situation-worsened-since-2025--poll-1124587809.html",
-      "time": "2026-08-16T16:27:45",
-      "country": "Russia",
-      "title_ur": "نصف سے زیادہ امریکیوں کا کہنا ہے کہ ان کی مالی صورتحال 2025 سے ابتر ہوئی ہے – پول",
-      "desc_ur": "ماسکو (اسپوتنک) - تقریباً 53 فیصد رجسٹرڈ امریکی ووٹرز کا خیال ہے کہ جنوری 2025 میں امریکی صدر ڈونلڈ ٹرمپ کے اقتدار سنبھالنے کے بعد سے ان کی مالی حالت ابتر ہو گئی ہے، ایک برطانوی اخبار کے لیے کیے گئے فوکل ڈیٹا پول نے اتوار کو دکھایا۔"
-    },
-    {
-      "title": "'It could end in terror': Arabs deface Israeli flags in Binyamin region",
-      "desc": "Israeli flags at the Rawabi junction were vandalized with paint after months without incident. Binyamin Council head Yisrael Ganz demands a firm IDF response and warns of escalation.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/431787",
-      "time": "2026-08-16T16:24:28",
-      "country": "Israel",
-      "title_ur": "'یہ دہشت گردی میں ختم ہو سکتا ہے': عربوں نے بنیامین کے علاقے میں اسرائیلی جھنڈوں کو خراب کیا۔",
-      "desc_ur": "راوابی جنکشن پر اسرائیلی جھنڈوں کو بغیر کسی واقعے کے مہینوں بعد پینٹ سے توڑ دیا گیا۔ بنیامین کونسل کے سربراہ یسرائیل گانز نے آئی ڈی ایف کے سخت ردعمل کا مطالبہ کیا اور اس میں اضافے کا انتباہ دیا۔"
-    },
-    {
-      "title": "US Forces No Longer Allowed Into Strait of Hormuz – Iranian Army Commander",
-      "desc": "The United States has no right of passage through the Strait of Hormuz or access to the Persian Gulf and the Gulf of Oman, while control of Hormuz is a necessary condition for ending the military conflict with Washington, Iranian Army Commander Major General …",
-      "source": "Sputnikglobe.com",
-      "url": "https://sputnikglobe.com/20260816/us-forces-no-longer-allowed-into-strait-of-hormuz--iranian-army-commander-1124587680.html",
-      "time": "2026-08-16T16:23:27",
-      "country": "Iran",
-      "title_ur": "امریکی افواج کو اب آبنائے ہرمز میں داخل ہونے کی اجازت نہیں دی جائے گی - ایرانی آرمی کمانڈر",
-      "desc_ur": "امریکا کو آبنائے ہرمز سے گزرنے یا خلیج فارس اور خلیج عمان تک رسائی کا کوئی حق نہیں جب کہ واشنگٹن کے ساتھ فوجی تنازع کے خاتمے کے لیے ہرمز کا کنٹرول ضروری شرط ہے، ایرانی فوج کے کمانڈر میجر جنرل …"
-    },
-    {
-      "title": "IDF kills two Palestinian 'terrorists'",
-      "desc": "The Israel Defense Forces (IDF) confirmed on Sunday the elimination of two Palestinians in two separate incidents.A member of the Popular Front for the Liberation of Palestine (PFLP) was struck in Kha...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/b9fb991ed34f4528",
-      "time": "2026-08-16T16:22:30",
-      "country": "Israel",
-      "title_ur": "آئی ڈی ایف نے دو فلسطینی 'دہشت گردوں' کو ہلاک کر دیا",
-      "desc_ur": "اسرائیلی ڈیفنس فورسز (IDF) نے اتوار کے روز دو الگ الگ واقعات میں دو فلسطینیوں کے مارے جانے کی تصدیق کی۔"
-    },
-    {
-      "title": "Covert mideast oil flows are keeping global prices in check",
-      "desc": "Middle Eastern oil producers are pressing ahead with shuttling large volumes of crude out of the Persian Gulf, helping keep a lid on prices and assuaging fears of an energy-driven inflation spike, even as the Iran war drags on.\nThe trade of ferrying oil throu…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/cd7f6829236b23bf",
-      "time": "2026-08-16T16:21:54",
-      "country": "Iran",
-      "title_ur": "مشرق وسطیٰ میں تیل کا خفیہ بہاؤ عالمی قیمتوں کو کنٹرول میں رکھے ہوئے ہے۔",
-      "desc_ur": "مشرق وسطیٰ کے تیل پیدا کرنے والے خام تیل کی بڑی مقدار کو خلیج فارس سے باہر لے جانے کے لیے آگے بڑھ رہے ہیں، قیمتوں پر ڈھکن رکھنے میں مدد کر رہے ہیں اور توانائی سے چلنے والی افراط زر کے بڑھنے کے خدشات کو دور کر رہے ہیں، یہاں تک کہ ایران کی جنگ جاری ہے۔\nکے ذریعے تیل لے جانے کی تجارت…"
-    },
-    {
-      "title": "Gaza peace plan: 8 nations condemn Israel's rejection of US roadmap",
-      "desc": "Several nations condemned Israel's rejection of the Gaza peace process proposal. This move seriously undermines collective efforts to achieve lasting peace and stability. The roadmap, accepted by Palestinian factions, was a culmination of intensive mediation …",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/gaza-peace-plan-8-nations-condemn-israels-rejection-of-us-roadmap/articleshow/133278506.cms",
-      "time": "2026-08-16T16:15:19",
-      "country": "Israel",
-      "title_ur": "غزہ امن منصوبہ: 8 ممالک نے اسرائیل کی جانب سے امریکی روڈ میپ کو مسترد کرنے کی مذمت کی۔",
-      "desc_ur": "کئی ممالک نے اسرائیل کی طرف سے غزہ امن عمل کی تجویز کو مسترد کرنے کی مذمت کی۔ یہ اقدام دیرپا امن اور استحکام کے حصول کی اجتماعی کوششوں کو شدید نقصان پہنچاتا ہے۔ روڈ میپ، جسے فلسطینی دھڑوں نے قبول کیا، شدید ثالثی کی انتہا تھی…"
-    },
-    {
-      "title": "The Right Is Targeting Abdul El-Sayed’s Family Members",
-      "desc": "Since Abdul El-Sayed’s win earlier this month to become the Democratic nominee for Michigan’s US Senate seat, the right has ramped up its attacks on him, condemning his past comments as evidence of him being a “terrorist” and “radical Islamist” or a “jihadist…",
-      "source": "Mother Jones",
-      "url": "https://www.motherjones.com/politics/2026/08/the-right-is-targeting-abdul-el-sayeds-family-members/",
-      "time": "2026-08-16T16:15:01",
-      "country": "US",
-      "title_ur": "حق عبد السید کے خاندان کے افراد کو نشانہ بنا رہا ہے۔",
-      "desc_ur": "اس ماہ کے شروع میں مشی گن کی امریکی سینیٹ کی نشست کے لیے ڈیموکریٹک امیدوار بننے کے لیے عبد السید کی جیت کے بعد سے، دائیں بازو نے ان پر اپنے حملوں کو تیز کر دیا ہے، اور ان کے ماضی کے تبصروں کی مذمت کرتے ہوئے انھیں \"دہشت گرد\" اور \"بنیاد پرست اسلام پسند\" یا \"جہادی..."
-    },
-    {
-      "title": "Oil Prices Rise as US-Iran Strikes Escalate: Business Live",
-      "desc": "Oil Prices Rise as US-Iran Strikes Escalate: Business Livegrandgoldman.com",
-      "source": "Grandgoldman.com",
-      "url": "https://grandgoldman.com/blogs/business/oil-prices-rise-as-us-iran-strikes-escalate-business-live",
-      "time": "2026-08-16T16:14:52",
-      "country": "Iran",
-      "title_ur": "تیل کی قیمتوں میں اضافہ جیسا کہ امریکہ-ایران کے حملوں میں اضافہ: بزنس لائیو",
-      "desc_ur": "تیل کی قیمتوں میں اضافہ جیسا کہ امریکہ-ایران کے حملوں میں اضافہ: Business Livegrandgoldman.com"
     }
   ],
   "pakistan": [
