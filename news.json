@@ -1,6 +1,96 @@
 {
-  "generated": "2026-08-17T20:19:15Z",
+  "generated": "2026-08-17T20:51:32Z",
   "world": [
+    {
+      "title": "Trump uncorks scorched-earth rant after Fox News host challenges his biggest claims",
+      "desc": "President Donald Trump uncorked a scorched-earth rant against Fox News and its host, Shannon Bream, after Bream challenged some of Trump's biggest claims on Sunday. Bream challenged newly minted Attorney General Todd Blanche about the so-called \"anti-weaponiz…",
+      "source": "Raw Story",
+      "url": "https://www.rawstory.com/trump-fox-news-2677713469/",
+      "time": "2026-08-16T20:49:23",
+      "country": "US",
+      "title_ur": "فاکس نیوز کے میزبان کی جانب سے اپنے سب سے بڑے دعووں کو چیلنج کرنے کے بعد ٹرمپ نے جھلسی ہوئی زمین کی تپش کو کھول دیا۔",
+      "desc_ur": "اتوار کو بریم کی جانب سے ٹرمپ کے سب سے بڑے دعوؤں کو چیلنج کرنے کے بعد صدر ڈونلڈ ٹرمپ نے فاکس نیوز اور اس کے میزبان، شینن بریم کے خلاف جھلسی ہوئی زمین کی تپش کا اظہار کیا۔ بریم نے نئے بنائے ہوئے اٹارنی جنرل ٹوڈ بلانچ کو نام نہاد \"اینٹی ویپنائز…"
+    },
+    {
+      "title": "Michael Rabin memorial conference",
+      "desc": "Friend-of-the-blog (well, mainly just friend) Adi Akavia has asked me to publicize that she’s helping to organize an exciting CS conference called Mind-IL at Tel Aviv University on October 26, in memory of the Israeli-American Turing Award winner Michael O. R…",
+      "source": "Scottaaronson.blog",
+      "url": "https://scottaaronson.blog/?p=10014",
+      "time": "2026-08-16T20:45:15",
+      "country": "Israel",
+      "title_ur": "مائیکل رابن میموریل کانفرنس",
+      "desc_ur": "بلاگ کے دوست (اچھی طرح سے، بنیادی طور پر صرف دوست) Adi Akavia نے مجھ سے اس بات کی تشہیر کرنے کو کہا ہے کہ وہ اسرائیلی-امریکی ٹورنگ ایوارڈ یافتہ مائیکل او آر کی یاد میں 26 اکتوبر کو تل ابیب یونیورسٹی میں Mind-IL نامی ایک دلچسپ CS کانفرنس کے انعقاد میں مدد کر رہی ہے۔"
+    },
+    {
+      "title": "Arab parties in Israel gear up for major election",
+      "desc": "Palestinian and Arab minority parties in Israel are gearing up for \"the mother of all elections\" this fall, as they try to oust a right-wing government they say is racist and a threat to their safety. Their biggest challenge may be divisions amongst themselve…",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/16/nx-s1-5901914/arab-parties-in-israel-gear-up-for-major-election",
+      "time": "2026-08-16T20:44:21",
+      "country": "Israel",
+      "title_ur": "اسرائیل میں عرب جماعتیں بڑے انتخابات کے لیے تیار ہیں۔",
+      "desc_ur": "اسرائیل میں فلسطینی اور عرب اقلیتی جماعتیں اس موسم خزاں میں \"تمام انتخابات کی ماں\" کے لیے تیاری کر رہی ہیں، کیونکہ وہ ایک دائیں بازو کی حکومت کو ہٹانے کی کوشش کر رہی ہیں جو ان کے بقول نسل پرست اور ان کی سلامتی کے لیے خطرہ ہے۔ ان کا سب سے بڑا چیلنج آپس میں تقسیم ہو سکتا ہے…"
+    },
+    {
+      "title": "Eight Muslim countries condemn Israel's rejection of Trump's Gaza plan as Kushner lands in Israel",
+      "desc": "The joint statement – also signed by the United Arab Emirates, Israel's closest ally in the Gulf – was issued as Jared Kushner met Hamas officials in Cairo",
+      "source": "Haaretz",
+      "url": "https://www.haaretz.com/israel-news/israel-security/2026-08-16/ty-article/eight-muslim-countries-condemn-israels-rejection-of-trumps-gaza-plan/000001a0-0ba7-d88f-abbf-dfaf498e0000",
+      "time": "2026-08-16T20:41:07",
+      "country": "Israel",
+      "title_ur": "آٹھ مسلم ممالک نے اسرائیل کی جانب سے ٹرمپ کے غزہ منصوبے کو مسترد کرنے کی مذمت کی ہے کیونکہ کشنر اسرائیل میں اترے ہیں۔",
+      "desc_ur": "مشترکہ بیان – خلیج میں اسرائیل کے سب سے قریبی اتحادی متحدہ عرب امارات نے بھی دستخط کیے – جاری کیا گیا جب جیرڈ کشنر نے قاہرہ میں حماس کے عہدیداروں سے ملاقات کی۔"
+    },
+    {
+      "title": "Secret documents reveal: How mechanism for transferring Qatari funds to Hamas was approved",
+      "desc": "Documents from 2021 reveal backchannel talks and the approved mechanism to transfer millions of dollars through fuel sales.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/431794",
+      "time": "2026-08-16T20:37:16",
+      "country": "International",
+      "title_ur": "خفیہ دستاویزات میں انکشاف: حماس کو قطری فنڈز کی منتقلی کے طریقہ کار کی منظوری کیسے دی گئی۔",
+      "desc_ur": "2021 کی دستاویزات بیک چینل بات چیت اور ایندھن کی فروخت کے ذریعے لاکھوں ڈالر کی منتقلی کے منظور شدہ طریقہ کار کو ظاہر کرتی ہیں۔"
+    },
+    {
+      "title": "Brazil: Lula, Bolsonaro return to strongholds to launch runs for president",
+      "desc": "Lula and Bolsonaro appeal to Brazil’s women voters with promises to combat rising femicide and gender violence.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/8/16/brazil-lula-bolsonaro-return-to-strongholds-to-launch-runs-for-president",
+      "time": "2026-08-16T20:36:32",
+      "country": "International",
+      "title_ur": "برازیل: لولا، بولسونارو صدر کے لیے دوڑ شروع کرنے کے لیے مضبوط قلعوں میں واپس آئے",
+      "desc_ur": "لولا اور بولسونارو برازیل کے خواتین ووٹرز سے بڑھتے ہوئے خواتین کی ہلاکت اور صنفی تشدد سے نمٹنے کے وعدوں کے ساتھ اپیل کرتے ہیں۔"
+    },
+    {
+      "title": "Live updates: Jared Kushner meets with regional leaders as multiple conflicts roil the Middle East - cnn.com",
+      "desc": "Live updates: Jared Kushner meets with regional leaders as multiple conflicts roil the Middle Eastcnn.com Kushner meets with Hamas on the Gaza road map ahead of talks with NetanyahuNPR Trump envoy Kushner meets Hamas leader to push Gaza peace planBBC Jared Ku…",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185006052",
+      "time": "2026-08-16T20:33:09",
+      "country": "Israel",
+      "title_ur": "لائیو اپ ڈیٹس: جیرڈ کشنر نے علاقائی رہنماؤں سے ملاقات کی کیونکہ متعدد تنازعات مشرق وسطیٰ کو تباہ کر رہے ہیں - cnn.com",
+      "desc_ur": "لائیو اپ ڈیٹس: جیرڈ کشنر نے علاقائی رہنماؤں سے ملاقات کی جب کہ مشرق وسطیٰ میں متعدد تنازعات کی زد میں ہیں cnn.com نیتن یاہو کے ساتھ بات چیت سے قبل کشنر نے غزہ روڈ میپ پر حماس سے ملاقات کی این پی آر ٹرمپ کے ایلچی کشنر نے غزہ امن منصوبے کو آگے بڑھانے کے لیے حماس کے رہنما سے ملاقات کیBBC Jared Ku…"
+    },
+    {
+      "title": "US-Iran MoU is set to expire: What to know",
+      "desc": "Both sides accused the other of violating the June agreement shortly after it was signed.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/8/16/us-iran-mou-is-set-to-expire-what-to-know",
+      "time": "2026-08-16T20:28:21",
+      "country": "Iran",
+      "title_ur": "امریکہ ایران ایم او یو ختم ہونے کو ہے: کیا جاننا ہے؟",
+      "desc_ur": "دونوں فریقوں نے ایک دوسرے پر جون کے معاہدے پر دستخط ہونے کے فوراً بعد خلاف ورزی کا الزام لگایا۔"
+    },
+    {
+      "title": "Kushner meets with Hamas on the Gaza road map ahead of talks with Netanyahu",
+      "desc": "Jared Kushner, President Trump's son-in-law, held a rare meeting with Hamas leadership Sunday in Egypt, in a new diplomatic effort to make progress in the stalled Gaza ceasefire.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks",
+      "time": "2026-08-16T20:20:22",
+      "country": "Israel",
+      "title_ur": "نیتن یاہو کے ساتھ بات چیت سے قبل کشنر نے غزہ کے روڈ میپ پر حماس سے ملاقات کی۔",
+      "desc_ur": "صدر ٹرمپ کے داماد جیرڈ کشنر نے اتوار کے روز مصر میں حماس کی قیادت کے ساتھ ایک غیر معمولی ملاقات کی، غزہ میں تعطل کا شکار جنگ بندی میں پیشرفت کی نئی سفارتی کوششوں میں۔"
+    },
     {
       "title": "Influencers warned to stop taking selfies with sharks after series of attacks",
       "desc": "Cases of sharks biting humans are admittedly rare, but in the last year, at least three influencers have been attacked.",
@@ -60,99 +150,39 @@
       "country": "Israel",
       "title_ur": "اسرائیلی وزیر اتمار بن گویر نے رات میں 30 سے ​​40 غزہ باشندوں کو قتل کرنے کی تجویز پیش کی، تنازعہ کو ہوا دی",
       "desc_ur": "ایک اسرائیلی وزیر نے غزہ میں رات کو درجنوں افراد کو قتل کرنے کی وکالت کی۔  وزیر Itamar Ben-Gvir نے ایک پوڈ کاسٹ پر یہ متنازعہ تبصرہ کیا۔  انہوں نے جاری تنازعہ کے بارے میں وزیر اعظم کے نقطہ نظر کو تنقید کا نشانہ بنایا۔  یہ بیانات بڑھتی ہوئی سیاست کے درمیان سامنے آئے ہیں…"
-    },
-    {
-      "title": "Show HN: Hacker News Top Stories as Feeds to Use with RSS/Atom with Summaries",
-      "desc": "Hey all, I’ve made this bot, it fetches every story that enters the HN Top 10, summarizes it with AI to a tweet-sized textlog note and publishes it. textlog.cc offers these endpoints as RSS/Atom through textlog.cc/u/hn10.rss and textlog.cc/u/hn10.atom so you …",
-      "source": "Textlog.cc",
-      "url": "https://textlog.cc/u/hn10",
-      "time": "2026-08-16T20:01:10",
-      "country": "US",
-      "title_ur": "HN دکھائیں: ہیکر نیوز کی اہم خبریں بطور فیڈ استعمال کرنے کے لیے RSS/Atom کے ساتھ خلاصے کے ساتھ",
-      "desc_ur": "ارے سب، میں نے یہ بوٹ بنایا ہے، یہ HN ٹاپ 10 میں داخل ہونے والی ہر کہانی کو لاتا ہے، اس کا خلاصہ AI کے ساتھ ٹویٹ کے سائز کے ٹیکسٹ لاگ نوٹ میں کرتا ہے اور اسے شائع کرتا ہے۔ textlog.cc ان اختتامی نکات کو بطور RSS/Atom پیش کرتا ہے textlog.cc/u/hn10.rss اور textlog.cc/u/hn10.atom کے ذریعے تاکہ آپ…"
-    },
-    {
-      "title": "Top U.S. commander acknowledges mental health issues on USS Lincoln",
-      "desc": "Cooper's visit and statement come after reports of widespread morale and mental health concerns aboard the Lincoln.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/16/top-us-commander-acknowledges-mental-health-issues-on-uss-lincoln.html",
-      "time": "2026-08-16T19:58:32",
-      "country": "US",
-      "title_ur": "اعلیٰ امریکی کمانڈر نے یو ایس ایس لنکن پر ذہنی صحت کے مسائل کا اعتراف کیا۔",
-      "desc_ur": "کوپر کا دورہ اور بیان لنکن پر سوار بڑے پیمانے پر حوصلے اور ذہنی صحت کے خدشات کی رپورٹوں کے بعد آیا ہے۔"
-    },
-    {
-      "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
-      "desc": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo",
-      "time": "2026-08-16T19:58:14",
-      "country": "Israel",
-      "title_ur": "ٹرمپ کے ایلچی کشنر نے غزہ امن منصوبے کو آگے بڑھانے کے لیے حماس کے رہنما سے ملاقات کی۔",
-      "desc_ur": "یہ غیر معمولی ملاقات اسرائیل کی جانب سے غزہ کے لیے ڈونلڈ ٹرمپ کے امن منصوبے کو مسترد کیے جانے کے ایک ہفتے بعد ہوئی ہے۔"
-    },
-    {
-      "title": "Israel, Honduras sign security memorandum",
-      "desc": "Israeli Defense Minister Israel Katz and his Honduran counterpart Enrique Rodriguez Burchard signed a memorandum of understanding for the significant expansion of security cooperation between the two ...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/9baac87ba58f3f47",
-      "time": "2026-08-16T19:54:15",
-      "country": "Israel",
-      "title_ur": "اسرائیل اور ہونڈوراس نے سیکورٹی میمورنڈم پر دستخط کر دیئے۔",
-      "desc_ur": "اسرائیلی وزیر دفاع اسرائیل کاٹز اور ان کے ہنڈوران کے ہم منصب اینریک روڈریگوز برچارڈ نے دونوں ممالک کے درمیان سیکیورٹی تعاون کی نمایاں توسیع کے لیے مفاہمت کی ایک یادداشت پر دستخط کیے..."
-    },
-    {
-      "title": "\"US Can't Bomb Its Way To Victory\": Scotiabank Maps Bessent's Coming Economic Hammer On Iran",
-      "desc": "\"US Can't Bomb Its Way To Victory\": Scotiabank Maps Bessent's Coming Economic Hammer On Iran\n \nBrent crude futures ended last week near $88.50 a barrel as traders awaited details of Treasury Secretary Scott Bessent's planned escalation campaign of the economi…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/12c529110cbd137b",
-      "time": "2026-08-16T19:53:55",
-      "country": "Iran",
-      "title_ur": "\"امریکہ فتح کے لیے اپنے راستے پر بمباری نہیں کر سکتا\": Scotiabank Maps Bessent کا ایران پر آنے والا اقتصادی ہتھوڑا",
-      "desc_ur": "\"امریکہ فتح کے لیے اپنے راستے پر بمباری نہیں کر سکتا\": Scotiabank Maps Bessent کا ایران پر آنے والا اقتصادی ہتھوڑا\n \nبرینٹ کروڈ فیوچر گزشتہ ہفتے $88.50 فی بیرل کے قریب ختم ہوا کیونکہ تاجروں کو ٹریژری سکریٹری اسکاٹ بیسنٹ کی اقتصادیات میں اضافے کی منصوبہ بند مہم کی تفصیلات کا انتظار تھا۔"
-    },
-    {
-      "title": "Iran unveils sick cash prize to anyone who captures or kills American troops...as panic mounts in DC over plots to assassinate Trump",
-      "desc": "Iran announced a chilling cash prize for anyone who captures or kills American troops, and some can get double the reward as tensions remain high between the two countries amid the ongoing war.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16056757/iran-cash-prize-american-troop-captured-killed-war.html",
-      "time": "2026-08-16T19:53:55",
-      "country": "Iran",
-      "title_ur": "ایران نے امریکی فوجیوں کو پکڑنے یا مارنے والے کو بیمار نقد انعام کی نقاب کشائی کی... ٹرمپ کے قتل کی سازشوں پر ڈی سی میں خوف و ہراس پھیل گیا",
-      "desc_ur": "ایران نے امریکی فوجیوں کو پکڑنے یا مارنے والے کے لیے ایک زبردست نقد انعام کا اعلان کیا، اور کچھ کو دوگنا انعام مل سکتا ہے کیونکہ جاری جنگ کے دوران دونوں ممالک کے درمیان کشیدگی برقرار ہے۔"
-    },
-    {
-      "title": "Admiral Claims USS Abraham Lincoln’s Mental Health Cases Are Relatively Low—Despite Reported Crisis",
-      "desc": "The USS Abraham Lincoln has been supporting military operations in the Middle East against Iran for more than 260 days.",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/maryroeloffs/2026/08/16/admiral-claims-uss-abraham-lincolns-mental-health-cases-are-relatively-low-despite-reported-crisis/",
-      "time": "2026-08-16T19:49:50",
-      "country": "Iran",
-      "title_ur": "ایڈمرل کا دعویٰ ہے کہ یو ایس ایس ابراہم لنکن کے دماغی صحت کے معاملات نسبتاً کم ہیں — رپورٹ شدہ بحران کے باوجود",
-      "desc_ur": "یو ایس ایس ابراہم لنکن 260 دنوں سے زیادہ عرصے سے ایران کے خلاف مشرق وسطیٰ میں فوجی کارروائیوں کی حمایت کر رہا ہے۔"
-    },
-    {
-      "title": "Fast Takes: The unmaking of Jason Arday, the left declares war on parents and other commentary",
-      "desc": "Though he “cannot help but feel bad for [Jason] Arday and his family,” American Greatness’ Roger Kimball also can’t “forget that his fabulations were directed not only at aggrandizing himself.”…",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/08/16/opinion/fast-takes-the-unmaking-of-jason-arday-the-left-declares-war-on-parents-and-other-commentary/",
-      "time": "2026-08-16T19:48:26",
-      "country": "US",
-      "title_ur": "فاسٹ ٹیکز: جیسن آرڈے کی بے ترتیبی، بائیں بازو نے والدین اور دیگر تبصروں کے خلاف جنگ کا اعلان کیا۔",
-      "desc_ur": "اگرچہ وہ \"مدد نہیں کر سکتا بلکہ [جیسن] آرڈے اور اس کے خاندان کے لیے برا محسوس کر سکتا ہے،\" امریکن گریٹنیس راجر کمبال بھی \"یہ نہیں بھول سکتا کہ اس کی من گھڑت باتوں کا مقصد نہ صرف خود کو بڑھانا تھا۔\"…"
-    },
-    {
-      "title": "Admiral praises USS Lincoln crew amid reports of worsening conditions during long deployment",
-      "desc": "WASHINGTON, Aug 16 (Reuters) - The leader of U.S.",
-      "source": "Yahoo Entertainment",
-      "url": "https://www.yahoo.com/news/us/articles/admiral-praises-uss-lincoln-crew-194815287.html",
-      "time": "2026-08-16T19:48:15",
-      "country": "US",
-      "title_ur": "ایڈمرل نے طویل تعیناتی کے دوران حالات خراب ہونے کی اطلاعات کے درمیان یو ایس ایس لنکن کے عملے کی تعریف کی",
-      "desc_ur": "واشنگٹن، 16 اگست (رائٹرز) – امریکی رہنما"
     }
   ],
   "pakistan": [
+    {
+      "title": "US admiral praises USS Lincoln crew amid reported mental health concerns",
+      "desc": "Politicians voiced alarm over mental health struggles on carrier, with reports of sailors attempting to jump overboard.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/8/16/us-admiral-praises-uss-lincoln-crew-amid-reported-mental-health-concerns",
+      "time": "2026-08-16T20:46:01",
+      "country": "Pakistan",
+      "title_ur": "امریکی ایڈمرل نے دماغی صحت کے خدشات کے درمیان یو ایس ایس لنکن کے عملے کی تعریف کی۔",
+      "desc_ur": "سیاستدانوں نے کیریئر پر دماغی صحت کی جدوجہد پر خطرے کی گھنٹی بجا دی، ملاحوں کی اوور بورڈ کودنے کی کوشش کی اطلاعات کے ساتھ۔"
+    },
+    {
+      "title": "Iran betting it can outlast Trump if Dems take Congress, Gingrich says: ‘Trying to win in America politically’",
+      "desc": "Iran is attempting to copy North Vietnam's playbook against President Trump of wearing down the American public to defeat the US politically, according to former House Speaker Newt Gingrich.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/16/us-news/iran-betting-it-can-outlast-trump-if-dems-take-congress-gingrich-says/",
+      "time": "2026-08-16T20:26:22",
+      "country": "Pakistan",
+      "title_ur": "ایران شرط لگا رہا ہے کہ اگر ڈیمز کانگریس لے تو وہ ٹرمپ کو پیچھے چھوڑ سکتا ہے، گنگرچ کہتے ہیں: 'سیاسی طور پر امریکہ میں جیتنے کی کوشش'",
+      "desc_ur": "ایوانِ نمائندگان کے سابق اسپیکر نیوٹ گنگرچ کے مطابق، ایران امریکی عوام کو سیاسی طور پر شکست دینے کے لیے صدر ٹرمپ کے خلاف شمالی ویتنام کی پلے بک کاپی کرنے کی کوشش کر رہا ہے۔"
+    },
+    {
+      "title": "White House reportedly discusses nuclear options for Iran, Greene claims",
+      "desc": "The unverified claim highlights the potential for increased geopolitical tensions and the risks of misinformation influencing public perception.\nThe post White House reportedly discusses nuclear options for Iran, Greene claims appeared first on Crypto Briefin…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/white-house-nuclear-options-iran-greene/",
+      "time": "2026-08-16T20:19:14",
+      "country": "Pakistan",
+      "title_ur": "گرین کا دعویٰ ہے کہ وائٹ ہاؤس مبینہ طور پر ایران کے جوہری آپشنز پر بات کر رہا ہے۔",
+      "desc_ur": "غیر تصدیق شدہ دعویٰ جغرافیائی سیاسی تناؤ میں اضافے اور عوامی تاثرات کو متاثر کرنے والی غلط معلومات کے خطرات کو اجاگر کرتا ہے۔\nThe post وائٹ ہاؤس نے مبینہ طور پر ایران کے لیے جوہری آپشنز پر تبادلہ خیال کیا، گرین کا دعویٰ appeared first on Crypto Briefin…"
+    },
     {
       "title": "Turkey calls for reopening of Strait of Hormuz to resume global oil flows",
       "desc": "The prolonged closure of the Strait of Hormuz threatens global energy stability, prompting geopolitical shifts and alternative supply routes.\nThe post Turkey calls for reopening of Strait of Hormuz to resume global oil flows appeared first on Crypto Briefing.",
@@ -172,26 +202,6 @@
       "country": "Pakistan",
       "title_ur": "پانچ عرب ممالک نے اسرائیل کی جانب سے غزہ کے لیے امریکی امن منصوبے کو مسترد کرنے کی مذمت کی ہے۔",
       "desc_ur": "ترکی، پاکستان اور انڈونیشیا کے ساتھ پانچ عرب ممالک نے اتوار کو غزہ کے لیے امریکی تجویز کو مسترد کرنے پر اسرائیل کو تنقید کا نشانہ بنایا۔ ایک مشترکہ بیان میں مصر، قطر، سعودی عرب اور متحدہ عرب امارات نے کہا کہ اسرائیل کی جانب سے مسترد ہونے سے امریکی صدر ڈونلڈ ٹرمپ کی دوبارہ حکومت کو نقصان پہنچ سکتا ہے۔"
-    },
-    {
-      "title": "Erdogan calls for Strait of Hormuz reopening amid oil disruption",
-      "desc": "Turkish President Recep Tayyip Erdogan has called for the Strait of Hormuz to reopen.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-hormuz-tr",
-      "time": "2026-08-16T19:18:24",
-      "country": "Pakistan",
-      "title_ur": "اردگان نے تیل میں خلل کے درمیان آبنائے ہرمز کو دوبارہ کھولنے کا مطالبہ کیا۔",
-      "desc_ur": "ترک صدر رجب طیب اردوان نے آبنائے ہرمز کو دوبارہ کھولنے کا مطالبہ کیا ہے۔"
-    },
-    {
-      "title": "Pakistan doesn't want world to know what these people saw",
-      "desc": "After months of an internet and mobile blackout in Pakistan-controlled Kashmir, people on the ground describe scenes of excessive, deadly force by government forces.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-08-17/pakistan-controlled-kashmir-violent-crackdown-against-protests/107035532",
-      "time": "2026-08-16T19:17:52",
-      "country": "Pakistan",
-      "title_ur": "پاکستان نہیں چاہتا کہ دنیا جان لے کہ ان لوگوں نے کیا دیکھا",
-      "desc_ur": "پاکستان کے زیر کنٹرول کشمیر میں کئی مہینوں تک انٹرنیٹ اور موبائل بلیک آؤٹ کے بعد، زمین پر موجود لوگ حکومتی فورسز کی جانب سے ضرورت سے زیادہ، مہلک طاقت کے مناظر کو بیان کر رہے ہیں۔"
     }
   ],
   "business": {
