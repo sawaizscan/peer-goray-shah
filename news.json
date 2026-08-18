@@ -1,187 +1,177 @@
 {
-  "generated": "2026-08-18T10:54:49Z",
+  "generated": "2026-08-18T11:19:19Z",
   "world": [
     {
+      "title": "Joey Jones Attacks Soldier While Downplaying Horrid Conditions On Aircraft Carriers",
+      "desc": "You knew it was only a matter of time before they started attacking our troops in defense of Dear Leader. As we've already discussed here, we've seen desperate service members throwing themselves overboard on not just the USS Lincoln, but multiple ships, with…",
+      "source": "Crooksandliars.com",
+      "url": "https://crooksandliars.com/2026/08/joey-jones-attacks-soldier-while",
+      "time": "2026-08-17T11:12:47",
+      "country": "US",
+      "title_ur": "ہوائی جہاز کے کیریئر پر خوفناک حالات کو کم کرتے ہوئے جوئی جونز نے فوجی پر حملہ کیا۔",
+      "desc_ur": "آپ کو معلوم تھا کہ یہ صرف وقت کی بات ہے اس سے پہلے کہ انہوں نے پیارے قائد کے دفاع میں ہمارے فوجیوں پر حملہ کرنا شروع کیا۔ جیسا کہ ہم یہاں پہلے ہی بات کر چکے ہیں، ہم نے مایوس سروس ممبران کو نہ صرف یو ایس ایس لنکن بلکہ متعدد بحری جہازوں پر خود کو پھینکتے ہوئے دیکھا ہے، جس کے ساتھ…"
+    },
+    {
+      "title": "Actress Hayden Panettiere dies suddenly at age 36 and more top headlines",
+      "desc": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/us/actress-hayden-panettiere-dies-suddenly-age-36-more-top-headlines",
+      "time": "2026-08-17T11:12:30",
+      "country": "International",
+      "title_ur": "اداکارہ Hayden Panettiere 36 سال کی عمر میں اچانک انتقال کر گئیں اور اس سے بھی زیادہ سرخیاں",
+      "desc_ur": "خبروں کے سب سے طاقتور نام سے وہ تمام کہانیاں حاصل کریں جن کے بارے میں آپ کو جاننے کی ضرورت ہے ہر صبح آپ کے ان باکس میں ڈیلیور کی جاتی ہے۔"
+    },
+    {
+      "title": "Here’s What “Iran’s Secret Plan To Escalate The War” Means For Oil Stocks",
+      "desc": "The Wall Street Journal published a report today, Monday, August 17, 2026, titled “Iran’s Secret Plan to Escalate the War,” the same day the 60-day US-Iran m...",
+      "source": "24/7 Wall St.",
+      "url": "https://247wallst.com/investing/2026/08/17/heres-what-irans-secret-plan-to-escalate-the-war-means-for-oil-stocks/",
+      "time": "2026-08-17T11:12:18",
+      "country": "Iran",
+      "title_ur": "تیل کے ذخائر کے لیے \"جنگ کو بڑھانے کے لیے ایران کا خفیہ منصوبہ\" کا مطلب یہ ہے۔",
+      "desc_ur": "وال اسٹریٹ جرنل نے آج، پیر، 17 اگست، 2026 کو ایک رپورٹ شائع کی، جس کا عنوان تھا \"جنگ کو تیز کرنے کے لیے ایران کا خفیہ منصوبہ\"، اسی دن 60 روزہ امریکی-ایران..."
+    },
+    {
+      "title": "Trump confirms Iran backchannel, warns Oman amid Strait of Hormuz tensions",
+      "desc": "The backchannel with Iran may signal diplomatic progress, but the warning to Oman raises regional tensions and geopolitical uncertainty.\nThe post Trump confirms Iran backchannel, warns Oman amid Strait of Hormuz tensions appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/trump-confirms-iran-backchannel-warns-oman-amid-strait-of-hormuz-tensions/",
+      "time": "2026-08-17T11:11:56",
+      "country": "Iran",
+      "title_ur": "ٹرمپ نے ایران کے بیک چینل کی تصدیق کی، آبنائے ہرمز کشیدگی کے درمیان عمان کو خبردار کیا۔",
+      "desc_ur": "ایران کے ساتھ بیک چینل سفارتی پیشرفت کا اشارہ دے سکتا ہے، لیکن عمان کو انتباہ علاقائی کشیدگی اور جغرافیائی سیاسی غیر یقینی صورتحال کو بڑھاتا ہے۔\nThe post ٹرمپ نے ایران کے بیک چینل کی تصدیق کر دی، آبنائے ہرمز کشیدگی کے درمیان عمان کو انتباہ appeared first on Crypto Briefing."
+    },
+    {
+      "title": "Hamas Welcomes Eight-Country Statement on Gaza Settlement Plan",
+      "desc": "GAZA CITY (Sputnik) - Palestinian movement Hamas on Monday welcomed a joint statement by the foreign ministers of eight Arab and Islamic countries condemning Israel's rejection of the roadmap proposed by the Board of Peace for further implementation of US Pre…",
+      "source": "Sputnikglobe.com",
+      "url": "https://sputnikglobe.com/20260817/hamas-welcomes-eight-country-statement-on-gaza-settlement-plan-1124592337.html",
+      "time": "2026-08-17T11:11:17",
+      "country": "Israel",
+      "title_ur": "حماس نے غزہ کے حل کے منصوبے پر آٹھ ممالک کے بیان کا خیر مقدم کیا ہے۔",
+      "desc_ur": "غزہ سٹی (اسپوتنک) - فلسطینی تحریک حماس نے پیر کے روز آٹھ عرب اور اسلامی ممالک کے وزرائے خارجہ کے ایک مشترکہ بیان کا خیرمقدم کیا ہے جس میں اسرائیل کی جانب سے امریکی پیش رفت کے مزید نفاذ کے لیے بورڈ آف پیس کے تجویز کردہ روڈ میپ کو مسترد کرنے کی مذمت کی گئی ہے۔"
+    },
+    {
+      "title": "40 minutes of fear: Jews attacked in Barcelona",
+      "desc": "Seven Jewish tourists from France were attacked by hundreds at the port of Barcelona and subjected to 40 minutes of curses, spitting, and chants against Jews and Israel.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/431824",
+      "time": "2026-08-17T11:08:43",
+      "country": "Israel",
+      "title_ur": "خوف کے 40 منٹ: بارسلونا میں یہودیوں پر حملہ",
+      "desc_ur": "فرانس سے آنے والے سات یہودی سیاحوں کو بارسلونا کی بندرگاہ پر سیکڑوں افراد نے حملہ کیا اور 40 منٹ تک لعنت بھیجنے، تھوکنے اور یہودیوں اور اسرائیل کے خلاف نعرے لگائے۔"
+    },
+    {
+      "title": "Meet Ni Jingchen: The 12-year-old Beijing student who posted a strange fossil online and helped reveal Asia’s first Jurassic amphibian footprint",
+      "desc": "China News: In early 2025, 12-year-old Ni Jingchen was out exploring with his parents in Beijing's Mentougou district when he noticed two tiny marks on a slab of .",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/china/meet-ni-jingchen-the-12-year-old-beijing-student-who-posted-a-strange-fossil-online-and-helped-reveal-asias-first-jurassic-amphibian-footprint/articleshow/133292821.cms",
+      "time": "2026-08-17T11:08:26",
+      "country": "China",
+      "title_ur": "نی جِنگچن سے ملو: بیجنگ کا 12 سالہ طالب علم جس نے ایک عجیب و غریب فوسل آن لائن پوسٹ کیا اور ایشیا کے پہلے جراسک ایمفیبیئن قدموں کے نشانات کو ظاہر کرنے میں مدد کی۔",
+      "desc_ur": "چائنہ نیوز: 2025 کے اوائل میں، 12 سالہ نی جِنگچین بیجنگ کے مینٹوگو ضلع میں اپنے والدین کے ساتھ تلاش کر رہا تھا جب اس نے ایک سلیب پر دو چھوٹے نشان دیکھے۔"
+    },
+    {
+      "title": "UK Prime Minister Duped by Fake Trump Aide",
+      "desc": "“British Prime Minister Andy Burnham exchanged messages with someone impersonating White House chief of staff Susie Wiles,” CBS News reports.",
+      "source": "Politicalwire.com",
+      "url": "https://politicalwire.com/2026/08/17/uk-prime-minister-duped-by-fake-trump-aide/",
+      "time": "2026-08-17T11:07:40",
+      "country": "UK",
+      "title_ur": "برطانیہ کے وزیر اعظم کو ٹرمپ کے جعلی معاون نے دھوکہ دیا۔",
+      "desc_ur": "سی بی ایس نیوز کی رپورٹ کے مطابق، \"برطانوی وزیر اعظم اینڈی برنہم نے وائٹ ہاؤس کی چیف آف اسٹاف سوسی وائلز کی نقالی کرنے والے شخص کے ساتھ پیغامات کا تبادلہ کیا۔\""
+    },
+    {
+      "title": "Meet Kiefer Chow and Amelia Chow: The California siblings who are copying beavers to build dams that restore habitats and reduce wildfire risk",
+      "desc": "Kiefer and Amelia Chow have launched Eco-Engineering In Action, an initiative aimed at mitigating wildfire threats. By creating beaver dam analogues, they replicate natural flood control systems that effectively slow water flow, enhance wetlands, and reduce w…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/science/meet-kiefer-chow-and-amelia-chow-the-california-siblings-who-are-copying-beavers-to-build-dams-that-restore-habitats-and-reduce-wildfire-risk/articleshow/133294696.cms",
+      "time": "2026-08-17T11:07:25",
+      "country": "International",
+      "title_ur": "کیفر چاؤ اور امیلیا چو سے ملو: کیلیفورنیا کے وہ بہن بھائی جو ڈیم بنانے کے لیے بیور کی نقل کر رہے ہیں جو رہائش گاہوں کو بحال کرتے ہیں اور جنگل کی آگ کے خطرے کو کم کرتے ہیں۔",
+      "desc_ur": "کیفر اور امیلیا چو نے ایکو انجینئرنگ ان ایکشن کا آغاز کیا ہے، ایک اقدام جس کا مقصد جنگل کی آگ کے خطرات کو کم کرنا ہے۔ بیور ڈیم اینالاگ بنا کر، وہ قدرتی سیلاب پر قابو پانے کے نظام کی نقل تیار کرتے ہیں جو مؤثر طریقے سے پانی کے بہاؤ کو کم کرتے ہیں، گیلے علاقوں کو بڑھاتے ہیں، اور ڈبلیو…"
+    },
+    {
+      "title": "More than 200,000 Canadians Signed a Petition to Banish the U.S. Ambassador from the Country",
+      "desc": "Who would have thought the residents of Canada wouldn't care for the U.S. ambassador constantly calling them the 51st U.S. state?",
+      "source": "Jezebel",
+      "url": "https://www.jezebel.com/canada-us-ambassador-banished-petition-to-expel-pete-hoekstra-trump-loyalist-51st-state-trade-war-canadian-parliament-vote",
+      "time": "2026-08-17T11:04:09",
+      "country": "International",
+      "title_ur": "200,000 سے زیادہ کینیڈینوں نے امریکی سفیر کو ملک سے نکالنے کی درخواست پر دستخط کیے",
+      "desc_ur": "کس نے سوچا ہو گا کہ کینیڈا کے باشندے اس بات کی پرواہ نہیں کریں گے کہ وہ امریکی سفیر کو مسلسل 51 ویں امریکی ریاست کہہ رہے ہیں؟"
+    },
+    {
       "title": "Iran War: As MOU Expires, Iran and US Engage in Threat Display, With Iran Likely to Escalate Into Midterms; Energy and Commodity Supplies Continue to Deteriorate",
-      "desc": "Today's Iran war news: New shoes look set to drop as the MOU expires and the Gulf supply chokehold remains in place.",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/08/iran-war-as-mou-expires-iran-and-us-engage-in-threat-display-with-iran-likely-to-escalate-into-midterms-energy-and-commodity-supplies-continue-to-deteriorate.html",
-      "time": "2026-08-17T10:54:19",
+      "desc": "[Today’s Iran war post launched before complete. Please return or refresh this page at 8:30 AM EDT for a final version]\nWe said from the outset that this war would prove to be a test to destruction. And it is the illusion of US military dominance that is crac…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/07e19641d0d99b14",
+      "time": "2026-08-17T11:03:55",
       "country": "Iran",
       "title_ur": "ایران جنگ: ایم او یو کی میعاد ختم ہونے کے ساتھ ہی، ایران اور امریکہ خطرے کی نمائش میں مصروف ہیں، ایران کے درمیانی مدت میں بڑھنے کا امکان ہے۔ توانائی اور اجناس کی سپلائی مسلسل خراب ہوتی جارہی ہے۔",
-      "desc_ur": "آج کی ایران جنگ کی خبریں: MOU کی میعاد ختم ہونے اور گلف سپلائی چوک ہولڈ برقرار رہنے کے ساتھ ہی نئے جوتے گرنے کے لیے تیار نظر آتے ہیں۔"
+      "desc_ur": "[آج کی ایران جنگی پوسٹ مکمل ہونے سے پہلے لانچ کی گئی۔ حتمی ورژن کے لیے براہ کرم صبح 8:30 بجے اس صفحہ کو ریفریش کریں یا ریفریش کریں]\nہم نے شروع سے کہا تھا کہ یہ جنگ تباہی کا امتحان ثابت ہوگی۔ اور یہ امریکی فوجی تسلط کا وہم ہے جو کریک ہے…"
     },
     {
-      "title": "Meet Astrid Eeuwes: The Dutch amateur astronomer who studies tiny space dust and now has an asteroid named after her",
-      "desc": "Science News: A 1.5-kilometre asteroid orbiting the Sun between Mars and Jupiter now carries the name of Astrid Eeuwes, a Dutch amateur astronomer from Nijmegen who.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/science/meet-astrid-eeuwes-the-dutch-amateur-astronomer-who-studies-tiny-space-dust-and-now-has-an-asteroid-named-after-her/articleshow/133294306.cms",
-      "time": "2026-08-17T10:54:05",
+      "title": "Why Maga sees Europe as an ideological battleground",
+      "desc": "From the vice-president down, US officials have cast themselves as being on a mission to save western civilisation from the Continent",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/world/us/2026/08/17/why-maga-sees-europe-as-an-ideological-battleground/",
+      "time": "2026-08-17T11:02:08",
       "country": "US",
-      "title_ur": "ملو Astrid Eeuwes: ڈچ شوقیہ ماہر فلکیات جو چھوٹے خلائی خاک کا مطالعہ کرتی ہے اور اب اس کے نام پر ایک کشودرگرہ ہے",
-      "desc_ur": "سائنس نیوز: مریخ اور مشتری کے درمیان سورج کے گرد گردش کرنے والا 1.5 کلومیٹر طویل سیارچہ اب Astrid Eeuwes کا نام رکھتا ہے، جو نجمگین کے ایک ڈچ شوقیہ فلکیات دان ہے۔"
+      "title_ur": "کیوں ماگا یورپ کو نظریاتی میدان جنگ کے طور پر دیکھتا ہے۔",
+      "desc_ur": "نائب صدر سے نیچے تک، امریکی حکام نے خود کو براعظم سے مغربی تہذیب کو بچانے کے مشن پر گامزن کیا ہے۔"
     },
     {
-      "title": "Is China encroaching upon Indian territory in Arunachal Pradesh?",
-      "desc": "India and China are tangled in yet another border dispute, angering locals in the eastern state of Arunachal Pradesh.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/8/17/is-china-encroaching-upon-indian-territory-in-arunachal-pradesh-2",
-      "time": "2026-08-17T10:51:49",
-      "country": "India",
-      "title_ur": "کیا چین اروناچل پردیش میں بھارتی سرزمین پر قبضہ کر رہا ہے؟",
-      "desc_ur": "بھارت اور چین ایک اور سرحدی تنازعہ میں الجھ گئے ہیں، جس سے مشرقی ریاست اروناچل پردیش کے مقامی لوگ ناراض ہیں۔"
+      "title": "A McDonald’s provides normalcy in Ukraine and actor Hayden Panettiere dies: Morning Rundown",
+      "desc": "How a McDonalds in Ukraine became a refuge for residents through Russian bombardments.",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/ukraine-hayden-panettiere-tupac-trial-morning-rundown-rcna592750",
+      "time": "2026-08-17T11:01:58",
+      "country": "Russia",
+      "title_ur": "ایک میک ڈونلڈز یوکرین میں معمول کی زندگی فراہم کرتا ہے اور اداکار ہیڈن پنیٹیئر کا انتقال: مارننگ رن ڈاؤن",
+      "desc_ur": "کس طرح یوکرین میں ایک میکڈونلڈ روسی بمباری کے ذریعے باشندوں کے لیے پناہ گاہ بن گیا۔"
     },
     {
-      "title": "'Pure evil': Ex-Congresswoman claims Trump officials discussing using nukes against Iran",
-      "desc": "Marjorie Taylor Greene has raised alarms suggesting that Trump administration officials are considering the use of nuclear weapons against Iran during strategic meetings. Amid escalating tensions, she asserts that US intelligence lacks evidence of Iran advanc…",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/us/trump-officials-discussing-nuclear-weapons-against-iran-claims-ex-us-congresswoman/articleshow/133294025.cms",
-      "time": "2026-08-17T10:51:00",
-      "country": "Iran",
-      "title_ur": "'خالص برائی': سابق کانگریس خاتون کا دعویٰ ہے کہ ٹرمپ حکام ایران کے خلاف جوہری ہتھیاروں کے استعمال پر بات کر رہے ہیں۔",
-      "desc_ur": "مارجوری ٹیلر گرین نے خطرے کی گھنٹی بجا دی ہے جس میں کہا گیا ہے کہ ٹرمپ انتظامیہ کے اہلکار تزویراتی میٹنگوں کے دوران ایران کے خلاف جوہری ہتھیاروں کے استعمال پر غور کر رہے ہیں۔ بڑھتی ہوئی کشیدگی کے درمیان، وہ زور دے کر کہتی ہیں کہ امریکی انٹیلی جنس کے پاس ایران کی پیش قدمی کے ثبوت نہیں ہیں…"
-    },
-    {
-      "title": "India is opening its satellite market, but wants room for local players",
-      "desc": "India's Satellite Market: India is considering a single-window system to speed up satellite approvals while preparing rules to prevent global NGSO operators from making it harder for local constellations to enter the market",
+      "title": "Sensex, Nifty ends lower amid Q1 earnings, subdued global cues",
+      "desc": "The Nifty settled below the 24,300 level, while market sentiment remained subdued in the absence of strong directional cues. Investors continued to monitor movements in crude oil and gold prices, along with developments on the global geopolitical front, for f…",
       "source": "Business Standard",
-      "url": "https://www.business-standard.com/technology/tech-news/india-opens-satellite-market-but-protects-local-players-126081700861_1.html",
-      "time": "2026-08-17T10:50:35",
-      "country": "India",
-      "title_ur": "بھارت اپنی سیٹلائٹ مارکیٹ کھول رہا ہے، لیکن مقامی کھلاڑیوں کے لیے جگہ چاہتا ہے۔",
-      "desc_ur": "انڈیا کی سیٹلائٹ مارکیٹ: ہندوستان سیٹلائٹ کی منظوریوں کو تیز کرنے کے لیے سنگل ونڈو سسٹم پر غور کر رہا ہے جبکہ عالمی NGSO آپریٹرز کو مقامی نکشتروں کے لیے مارکیٹ میں داخل ہونے کو مشکل بنانے سے روکنے کے لیے قوانین تیار کر رہا ہے۔"
-    },
-    {
-      "title": "Best seaside fish and chip shops around the UK",
-      "desc": "p>Will Barker joined The Week team as a staff writer in 2025, covering UK and global news and politics. He previously worked at the Financial Times and The Sun, contributing to the arts and world news desks, respectively. Before that, he achieved a gold-stand…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/6351771b65e2d110",
-      "time": "2026-08-17T10:48:47",
-      "country": "UK",
-      "title_ur": "برطانیہ کے آس پاس سمندر کنارے مچھلیوں اور چپس کی بہترین دکانیں۔",
-      "desc_ur": "ول بارکر نے 2025 میں ایک اسٹاف رائٹر کے طور پر دی ویک ٹیم میں شمولیت اختیار کی، جس میں برطانیہ اور عالمی خبروں اور سیاست کا احاطہ کیا گیا۔ اس نے پہلے فنانشل ٹائمز اور دی سن میں کام کیا، بالترتیب آرٹس اور ورلڈ نیوز ڈیسک میں تعاون کیا۔ اس سے پہلے، اس نے گولڈ اسٹینڈ حاصل کیا…"
-    },
-    {
-      "title": "‘No. 1 goal is Iran can’t have nukes’: Trump as US-Iran 60-day deal deadline expires",
-      "desc": "US News: US President Donald Trump on Monday said that preventing Iran from acquiring a nuclear weapon remains his top priority, as the 60-day deadline under t.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/us/no-1-goal-is-iran-cant-have-nukes-trump-as-us-iran-60-day-deal-deadline-expires/articleshow/133293994.cms",
-      "time": "2026-08-17T10:48:11",
-      "country": "Iran",
-      "title_ur": "’’نہیں۔ 1 مقصد یہ ہے کہ ایران کے پاس جوہری ہتھیار نہیں ہوسکتے ہیں: ٹرمپ امریکہ ایران ڈیل کی 60 دن کی ڈیڈ لائن ختم ہونے پر",
-      "desc_ur": "یو ایس نیوز: امریکی صدر ڈونلڈ ٹرمپ نے پیر کے روز کہا کہ ایران کو جوہری ہتھیار حاصل کرنے سے روکنا ان کی اولین ترجیح ہے، کیونکہ اس کے تحت 60 دن کی ڈیڈ لائن ہے۔"
-    },
-    {
-      "title": "Pete Hegseth is Trump’s favorite kind of failure",
-      "desc": "The USS Lincoln disaster reveals the defense secretary’s twisted priorities",
-      "source": "Salon",
-      "url": "https://www.salon.com/2026/08/17/pete-hegseth-is-trumps-favorite-kind-of-failure/",
-      "time": "2026-08-17T10:45:58",
-      "country": "US",
-      "title_ur": "پیٹ ہیگستھ ٹرمپ کی پسندیدہ قسم کی ناکامی ہے۔",
-      "desc_ur": "یو ایس ایس لنکن آفت نے وزیر دفاع کی بٹی ہوئی ترجیحات کو ظاہر کیا۔"
-    },
-    {
-      "title": "Rupee slips as sentiment drags on RBI curtailing FX inflow window",
-      "desc": "The Indian rupee slipped against the US dollar on Monday as the central bank's surprise move to shorten its forex swap timeframe rattled the market. Importer demand for dollars continued to exert downward pressure on the rupee. In response to the announcement…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-slips-as-sentiment-drags-on-rbi-curtailing-fx-inflow-window/articleshow/133294246.cms",
-      "time": "2026-08-17T10:44:40",
-      "country": "India",
-      "title_ur": "آر بی آئی کی طرف سے FX کی آمد و رفت کی کھڑکی کو کم کرنے کے جذبات کی وجہ سے روپیہ پھسل گیا۔",
-      "desc_ur": "ہندوستانی روپیہ پیر کو امریکی ڈالر کے مقابلے میں پھسل گیا کیونکہ مرکزی بینک کے اپنے فاریکس سویپ ٹائم فریم کو مختصر کرنے کے حیران کن اقدام نے مارکیٹ میں ہلچل مچا دی۔ ڈالر کے لیے درآمد کنندگان کی مانگ روپے پر نیچے کی طرف دباؤ ڈالتی رہی۔ اعلان کے جواب میں…"
-    },
-    {
-      "title": "Five key market events investors are watching this week",
-      "desc": "Financial markets are entering the new trading week amid signs of a traditional summer slowdown, with analysts pointing to the VIX volatility index falling t...",
-      "source": "Advfn.com",
-      "url": "https://investorshub.advfn.com/market-news/article/34374/five-key-market-events-investors-are-watching-this-week",
-      "time": "2026-08-17T10:41:47",
+      "url": "https://www.business-standard.com/markets/capital-market-news/sensex-nifty-ends-lower-amid-q1-earnings-subdued-global-cues-126081700884_1.html",
+      "time": "2026-08-17T11:01:01",
       "country": "International",
-      "title_ur": "پانچ اہم مارکیٹ ایونٹس سرمایہ کار اس ہفتے دیکھ رہے ہیں۔",
-      "desc_ur": "مالیاتی منڈیاں موسم گرما کی روایتی سست روی کے آثار کے درمیان نئے تجارتی ہفتے میں داخل ہو رہی ہیں، تجزیہ کاروں نے VIX اتار چڑھاؤ کے انڈیکس میں کمی کی طرف اشارہ کیا ہے۔"
+      "title_ur": "سینسیکس، نفٹی پہلی سہ ماہی کی کمائی کے درمیان نیچے ختم ہوا، عالمی اشاروں کو دبایا گیا۔",
+      "desc_ur": "نفٹی 24,300 کی سطح سے نیچے آ گیا، جب کہ مضبوط دشاتمک اشاروں کی عدم موجودگی میں مارکیٹ کا جذبہ دب گیا۔ سرمایہ کاروں نے خام تیل اور سونے کی قیمتوں میں نقل و حرکت کی نگرانی جاری رکھی، عالمی جغرافیائی سیاسی محاذ پر ہونے والی پیش رفت کے ساتھ ساتھ، f…"
     },
     {
-      "title": "Transcript: Trump Tirade over Gas Prices Backfires in Epic Self-Own",
-      "desc": "The following is a lightly edited transcript of the August 17 episode of the Daily Blast podcast. Listen to it here.Greg Sargent: This is The Daily Blast from The New Republic, produced and presented by the DSR Network. I’m your host, Greg Sargent.Donald Trum…",
-      "source": "The New Republic",
-      "url": "https://newrepublic.com/article/214395/transcript-trump-tirade-gas-prices-backfires-epic-self-own",
-      "time": "2026-08-17T10:41:31",
-      "country": "US",
-      "title_ur": "ٹرانسکرپٹ: گیس کی قیمتوں پر ٹرمپ کا ٹائریڈ ایپک سیلف اون میں بیک فائر",
-      "desc_ur": "ڈیلی بلاسٹ پوڈ کاسٹ کے 17 اگست کے ایپی سوڈ کا ہلکا سا ترمیم شدہ ٹرانسکرپٹ درج ذیل ہے۔ اسے یہاں سنیں۔ گریگ سارجنٹ: یہ دی ڈیلی بلاسٹ آف دی نیو ریپبلک ہے، جسے ڈی ایس آر نیٹ ورک نے تیار اور پیش کیا ہے۔ میں آپ کا میزبان ہوں، گریگ سارجنٹ۔ ڈونلڈ ٹرمپ…"
-    },
-    {
-      "title": "Color Masterbatch Market worth $6.68 billion by 2031 - Exclusive Report by MarketsandMarkets™",
-      "desc": "DELRAY BEACH, Fla., Aug. 17, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the Color Masterbatch Market size is estimated to be USD 4.94 billion in 2026 and is projected to reach USD 6.68 billion by 2031, at a CAGR of 6.24%. Browse 280 market data Tab…",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/color-masterbatch-market-worth-6-68-billion-by-2031---exclusive-report-by-marketsandmarkets-302852786.html",
-      "time": "2026-08-17T10:40:00",
-      "country": "US",
-      "title_ur": "2031 تک $6.68 بلین مالیت کی کلر ماسٹر بیچ مارکیٹ - MarketsandMarkets™ کی خصوصی رپورٹ",
-      "desc_ur": "ڈیلری بیچ، فلا، 17 اگست 2026/پی آرنیوزوائر/ -- MarketsandMarkets™ کے مطابق، کلر ماسٹر بیچ مارکیٹ کا سائز 2026 میں 4.94 بلین امریکی ڈالر ہونے کا تخمینہ ہے اور 2031 تک 2.6 فیصد CAGR کے ساتھ 6.68 بلین امریکی ڈالر تک پہنچنے کا امکان ہے۔ 280 مارکیٹ ڈیٹا ٹیب کو براؤز کریں…"
-    },
-    {
-      "title": "Morning Bid: Retail risk",
-      "desc": "By Mike Dolan Aug 17 (Reuters) - What matters in U.S. and global markets today By Mike Dolan, Editor-at-Large, Finance and Markets A relatively quiet week ah...",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/markets/articles/morning-bid-retail-risk-103558500.html",
-      "time": "2026-08-17T10:35:58",
-      "country": "Europe",
-      "title_ur": "صبح کی بولی: خوردہ خطرہ",
-      "desc_ur": "مائیک ڈولن اگست 17 (رائٹرز) - آج امریکی اور عالمی منڈیوں میں کیا اہمیت رکھتا ہے بذریعہ مائیک ڈولن، ایڈیٹر-ایٹ-لارج، فنانس اینڈ مارکیٹس ایک نسبتاً پرسکون ہفتہ آہ..."
-    },
-    {
-      "title": "Trump: Main goal to prevent Iran from getting nukes",
-      "desc": "United States President Donald Trump reiterated on Monday that his country's \"number one\" goal is for Iran not to have a nuclear weapon \" in any way, shape, or form.\"More to come......",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/28545395f20a7e30",
-      "time": "2026-08-17T10:34:00",
-      "country": "Iran",
-      "title_ur": "ٹرمپ: بنیادی مقصد ایران کو جوہری ہتھیار حاصل کرنے سے روکنا ہے۔",
-      "desc_ur": "امریکی صدر ڈونلڈ ٹرمپ نے پیر کے روز اس بات کا اعادہ کیا کہ ان کے ملک کا \"نمبر ایک\" ہدف ہے کہ ایران کے پاس کسی بھی طرح، شکل یا شکل میں جوہری ہتھیار نہ ہو۔"
-    },
-    {
-      "title": "Hormuz Traffic Falls 90% Ahead Of US-Iran Ceasefire Deadline",
-      "desc": "Shipping through the Strait of Hormuz has nearly ground to a halt as a 60-day US-Iran ceasefire approaches its Monday expiry, with no formal negotiations underway.\nOnly five cargo vessels crossed the strategic waterway Saturday, according to Kpler data cited …",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/06f8056b468ad345",
-      "time": "2026-08-17T10:33:36",
-      "country": "Iran",
-      "title_ur": "امریکہ ایران جنگ بندی کی آخری تاریخ سے پہلے ہرمز ٹریفک میں 90 فیصد کمی",
-      "desc_ur": "آبنائے ہرمز کے ذریعے جہاز رانی تقریباً رک گئی ہے کیونکہ 60 روزہ امریکہ-ایران جنگ بندی پیر کو اپنی میعاد ختم ہونے کے قریب ہے، جس میں کوئی باضابطہ بات چیت جاری نہیں ہے۔\nKpler کے اعداد و شمار کے مطابق، ہفتے کے روز صرف پانچ کارگو جہازوں نے اسٹریٹجک آبی گزرگاہ کو عبور کیا…"
+      "title": "REITs, InvITs outperform Nifty 50 over five years: Key data explained",
+      "desc": "India's Real Estate Investment Trusts (REITs) and Infrastructure Investment Trusts (InvITs) have shown impressive returns over the past five years with reduced volatility. As the market for these investment vehicles is forecasted to grow significantly by 2030…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/real-estate/news/reits-invits-outperform-nifty-50-over-five-years-key-data-explained/articleshow/133293602.cms",
+      "time": "2026-08-17T11:00:36",
+      "country": "India",
+      "title_ur": "REITs، InvITs نے پانچ سالوں میں نفٹی 50 کو پیچھے چھوڑ دیا: کلیدی ڈیٹا کی وضاحت",
+      "desc_ur": "ہندوستان کے رئیل اسٹیٹ انویسٹمنٹ ٹرسٹ (REITs) اور انفراسٹرکچر انوسٹمنٹ ٹرسٹ (InvITs) نے پچھلے پانچ سالوں میں کم اتار چڑھاؤ کے ساتھ متاثر کن منافع دکھایا ہے۔ چونکہ ان سرمایہ کاری کی گاڑیوں کی مارکیٹ 2030 تک نمایاں طور پر بڑھنے کی پیش گوئی کی گئی ہے…"
     }
   ],
   "pakistan": [
     {
-      "title": "Gulf war fallout: Somali households pay the price of trade disruption",
-      "desc": "The closure of the Strait of Hormuz is hurting Somalia’s import-dependent economy.",
-      "source": "The New Humanitarian",
-      "url": "https://www.thenewhumanitarian.org/news-feature/2026/08/17/gulf-war-fallout-somali-households-pay-price-trade-disruption",
-      "time": "2026-08-17T10:30:55",
-      "country": "Pakistan",
-      "title_ur": "خلیجی جنگ کا نتیجہ: صومالی گھرانے تجارتی خلل کی قیمت ادا کرتے ہیں۔",
-      "desc_ur": "آبنائے ہرمز کی بندش سے صومالیہ کی درآمدات پر منحصر معیشت کو نقصان پہنچ رہا ہے۔"
-    },
-    {
-      "title": "UP ATS arrests man linked to Jaish-e-Mohammed sending funds to Pakistan",
-      "desc": "In a significant operation, the Uttar Pradesh ATS apprehended a resident of Bihar due to suspected ties with Jaish-e-Mohammed. He reportedly solicited donations for a madrasa while attempting to funnel funds to Pakistan. Intelligence assessments highlighted h…",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/lucknow/up-ats-arrests-man-linked-to-jaish-e-mohammed-sending-funds-to-pakistan/articleshow/133293234.cms",
-      "time": "2026-08-17T10:21:35",
-      "country": "Pakistan",
-      "title_ur": "یوپی اے ٹی ایس نے جیش محمد سے منسلک ایک شخص کو پاکستان کو فنڈز بھیجنے والے کو گرفتار کیا ہے۔",
-      "desc_ur": "ایک اہم کارروائی میں، اتر پردیش اے ٹی ایس نے بہار کے ایک باشندے کو جیش محمد کے ساتھ مشتبہ تعلقات کی وجہ سے گرفتار کیا۔ مبینہ طور پر اس نے پاکستان کو فنڈز فراہم کرنے کی کوشش کرتے ہوئے ایک مدرسے کے لیے چندہ طلب کیا۔ انٹیلی جنس کے جائزوں پر روشنی ڈالی گئی..."
-    },
-    {
-      "title": "The unrepentant killer driver who fled to Pakistan after mowing down jogger claims he's 'terminally ill' and 'feels sorry' for his victim's family",
-      "desc": "Rashid Ali, 32, was going at twice the 20mph speed limit when his Range Rover Sport struck marketing executive Jack Ryan near London's Battersea Bridge.",
+      "title": "'You've got to be nutty to try it... but it works': Why the same 'claustrophobic' tactic keeps proving England's kryptonite - and Pakistan are the perfect team to exploit it",
+      "desc": "If Pakistan have been paying attention, they will know exactly what to do when Joe Root or Harry Brook walk out to bat in Wednesday's first Test at Headingley.",
       "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16057753/The-unrepentant-killer-driver-fled-Pakistan-mowing-jogger-claims-hes-terminally-ill-feels-sorry-victims-family.html",
-      "time": "2026-08-17T10:18:25",
+      "url": "https://www.dailymail.com/sport/cricket/article-16057863/england-pakistan-wicketkeeper-tactic-test-cricket.html",
+      "time": "2026-08-17T11:03:03",
       "country": "Pakistan",
-      "title_ur": "جوگر کو کاٹنے کے بعد پاکستان فرار ہونے والے نادم قاتل ڈرائیور کا دعویٰ ہے کہ وہ 'معمولی طور پر بیمار' ہے اور اپنے متاثرہ خاندان کے لیے 'افسوس محسوس کرتا ہے'",
-      "desc_ur": "32 سالہ راشد علی 20 میل فی گھنٹہ کی رفتار سے دوگنا جا رہا تھا جب اس کی رینج روور اسپورٹ نے لندن کے بیٹرسی برج کے قریب مارکیٹنگ ایگزیکٹیو جیک ریان کو ٹکر مار دی۔"
+      "title_ur": "'اسے آزمانے کے لیے آپ کو مضطرب ہونا پڑے گا... لیکن یہ کام کرتا ہے': کیوں وہی 'کلاسٹروفوبک' حربہ انگلینڈ کے کرپٹونائٹ کو ثابت کرتا رہتا ہے - اور پاکستان اس کا فائدہ اٹھانے کے لیے بہترین ٹیم ہے",
+      "desc_ur": "اگر پاکستان دھیان دے رہا ہے، تو انہیں بخوبی معلوم ہو جائے گا کہ جب جو روٹ یا ہیری بروک بدھ کے ہیڈنگلے میں ہونے والے پہلے ٹیسٹ میں بیٹنگ کے لیے باہر نکلیں گے تو انہیں کیا کرنا ہے۔"
+    },
+    {
+      "title": "Pakistan, Bangladesh and Afghanistan will one day reintegrate into India: Baba Ramdev",
+      "desc": "Yoga guru Ramdev said Pakistan, Bangladesh and Afghanistan would eventually “reintegrate” with India and urged patience. He also said no major religion was under threat in India, while calling for stronger national unity and opposing religious conversions.",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/india/pakistan-bangladesh-and-afghanistan-will-one-day-reintegrate-into-india-ramdev/articleshow/133294691.cms",
+      "time": "2026-08-17T11:00:57",
+      "country": "Pakistan",
+      "title_ur": "پاکستان، بنگلہ دیش اور افغانستان ایک دن ہندوستان میں دوبارہ شامل ہوں گے: بابا رام دیو",
+      "desc_ur": "یوگا گرو رام دیو نے کہا کہ پاکستان، بنگلہ دیش اور افغانستان بالآخر ہندوستان کے ساتھ \"دوبارہ الحاق\" کریں گے اور صبر پر زور دیا۔ انہوں نے یہ بھی کہا کہ ہندوستان میں کسی بھی بڑے مذہب کو خطرہ نہیں ہے، جبکہ مضبوط قومی اتحاد کا مطالبہ کرتے ہوئے اور مذہبی تبدیلیوں کی مخالفت کی۔"
     }
   ],
   "business": {
