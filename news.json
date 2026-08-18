@@ -1,187 +1,167 @@
 {
-  "generated": "2026-08-18T19:07:13Z",
+  "generated": "2026-08-18T19:47:38Z",
   "world": [
     {
-      "title": "Here's What Happened Today: Monday",
-      "desc": "The most important Irish and international stories you need to know today.",
-      "source": "TheJournal.ie",
-      "url": "https://www.thejournal.ie/evening-fix-monday-86-7133563-Aug2026/",
-      "time": "2026-08-17T19:06:02",
-      "country": "International",
-      "title_ur": "آج کیا ہوا یہ ہے: پیر",
-      "desc_ur": "سب سے اہم آئرش اور بین الاقوامی کہانیاں جو آپ کو آج جاننے کی ضرورت ہے۔"
-    },
-    {
-      "title": "ZOA President: Spielberg Foundation funding of anti-Israel groups 'despicable, shameful'",
-      "desc": "Morton Klein condemns grants from Steven Spielberg's Righteous Persons Foundation to progressive Jewish organizations critical of Israel, saying profits from Schindler's List are being used to support groups that endanger Jews.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/431846",
-      "time": "2026-08-17T19:05:56",
-      "country": "Israel",
-      "title_ur": "ZOA کے صدر: اسپیلبرگ فاؤنڈیشن اسرائیل مخالف گروپوں کی فنڈنگ ​​'قابل نفرت، شرمناک'",
-      "desc_ur": "مورٹن کلین نے سٹیون سپیلبرگ کی رائٹئس پرسنز فاؤنڈیشن کی طرف سے اسرائیل پر تنقید کرنے والی ترقی پسند یہودی تنظیموں کو دی جانے والی گرانٹس کی مذمت کرتے ہوئے کہا کہ شنڈلر کی فہرست سے حاصل ہونے والے منافع کو یہودیوں کو خطرے میں ڈالنے والے گروہوں کی حمایت کے لیے استعمال کیا جا رہا ہے۔"
-    },
-    {
-      "title": "The Great Middle East War Escalates: Trump Has Told Us Exactly What He Plans To Do Next, And It Is Going To Change Everything",
-      "desc": "President Trump’s profanity-laced tirade about Iran has shocked people all over the globe, and it appears that things are about to get really crazy in the Middle East. At the end of last week, all of the signs were pointing in the direction of a major escalat…",
-      "source": "Activistpost.com",
-      "url": "https://www.activistpost.com/the-great-middle-east-war-escalates-trump-has-told-us-exactly-what-he-plans-to-do-next-and-it-is-going-to-change-everything/",
-      "time": "2026-08-17T19:03:00",
-      "country": "Iran",
-      "title_ur": "مشرق وسطیٰ کی عظیم جنگ میں اضافہ: ٹرمپ نے ہمیں بالکل ٹھیک بتایا ہے کہ وہ آگے کیا کرنے کا ارادہ رکھتے ہیں، اور یہ سب کچھ بدلنے والا ہے۔",
-      "desc_ur": "ایران کے بارے میں صدر ٹرمپ کے گستاخانہ بیانات نے پوری دنیا کے لوگوں کو چونکا دیا ہے، اور ایسا لگتا ہے کہ مشرق وسطیٰ میں چیزیں واقعی پاگل ہونے والی ہیں۔ پچھلے ہفتے کے آخر میں، سبھی نشانیاں کسی بڑے اضافے کی سمت اشارہ کر رہی تھیں…"
-    },
-    {
-      "title": "Slush turns Nashik highway stretch into accident zone, NHAI tells civic body to initiate corrective measures",
-      "desc": "NHAI urges Nashik Municipal Corporation to stop loose soil from roadworks washing onto Nashik highway, causing slush, skids and two-wheeler accidents.",
+      "title": "Enter the dragon fruit",
+      "desc": "Coimbatore: Dragon fruit has only a mild taste. But farmers in Coimbatore district, who are known for exploring new crops, seem to have made dragon fr.",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/nashik/slush-turns-nashik-highway-stretch-into-accident-zone-nhai-tells-civic-body-to-initiate-corrective-measures/articleshow/133305770.cms",
-      "time": "2026-08-17T19:02:57",
+      "url": "https://timesofindia.indiatimes.com/city/coimbatore/enter-the-dragon-fruit/articleshow/133306195.cms",
+      "time": "2026-08-17T19:45:55",
+      "country": "International",
+      "title_ur": "ڈریگن فروٹ داخل کریں۔",
+      "desc_ur": "کوئمبٹور: ڈریگن فروٹ کا ذائقہ ہلکا ہوتا ہے۔ لیکن کوئمبٹور ضلع کے کسان، جو نئی فصلوں کی تلاش کے لیے جانے جاتے ہیں، ایسا لگتا ہے کہ انہوں نے ڈریگن ایف آر بنا لیا ہے۔"
+    },
+    {
+      "title": "One Of Trump’s Very Closest Aides Is Now Under A Microscope",
+      "desc": "President Donald Trump’s “human printer” has come under fire as the work of his second administration faces searing criticism.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/who-is-natalie-harp_n_6a83435ce4b0ddd9c1b30c18",
+      "time": "2026-08-17T19:45:19",
       "country": "US",
-      "title_ur": "کیچڑ نے ناسک ہائی وے کو ایکسیڈنٹ زون میں بدل دیا، NHAI نے شہری ادارے سے اصلاحی اقدامات شروع کرنے کو کہا",
-      "desc_ur": "NHAI نے ناسک میونسپل کارپوریشن پر زور دیا ہے کہ وہ ناسک ہائی وے پر سڑک کے کاموں کی دھلائی سے ڈھیلی مٹی کو روکے، جس سے کیچڑ، پھسلن اور دو پہیہ گاڑیوں کے حادثات ہوتے ہیں۔"
+      "title_ur": "ٹرمپ کے انتہائی قریبی معاونین میں سے ایک اب ایک خوردبین کے نیچے ہے۔",
+      "desc_ur": "صدر ڈونلڈ ٹرمپ کا \"ہیومن پرنٹر\" آگ کی زد میں آ گیا ہے کیونکہ ان کی دوسری انتظامیہ کے کام کو شدید تنقید کا سامنا ہے۔"
     },
     {
-      "title": "Students shine at Maharashtra State Scholarship Exam",
-      "desc": "City Pride Group of Schools Pune: 29 students made Maharashtra State Scholarship Exam 2025-26 merit list; Ravet students ranked 1st & 2nd in Class VII.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/pune/students-shine-at-maharashtra-state-scholarship-exam/articleshow/133305768.cms",
-      "time": "2026-08-17T19:02:50",
-      "country": "International",
-      "title_ur": "طالب علم مہاراشٹر اسٹیٹ اسکالرشپ امتحان میں چمک رہے ہیں۔",
-      "desc_ur": "سٹی پرائیڈ گروپ آف سکولز پونے: 29 طلباء نے مہاراشٹر اسٹیٹ اسکالرشپ امتحان 2025-26 کی میرٹ لسٹ بنائی۔ Ravet طلباء نے کلاس VII میں 1st اور 2nd کا درجہ حاصل کیا۔"
-    },
-    {
-      "title": "Student Front, NSUI signal poll understanding ahead of PU elections",
-      "desc": "NSUI and Student Front meet at Panjab University Student Centre, signalling a possible poll understanding and joint strategy ahead of upcoming PU student council elections.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/student-front-nsui-signal-poll-understanding-ahead-of-pu-elections/articleshow/133305765.cms",
-      "time": "2026-08-17T19:02:42",
-      "country": "International",
-      "title_ur": "پنجاب یونیورسٹی کے انتخابات سے قبل اسٹوڈنٹ فرنٹ، این ایس یو آئی کا اشارہ پول تفہیم",
-      "desc_ur": "پنجاب یونیورسٹی اسٹوڈنٹ سنٹر میں این ایس یو آئی اور اسٹوڈنٹ فرنٹ کی میٹنگ، آئندہ پنجاب یونیورسٹی اسٹوڈنٹ کونسل کے انتخابات سے قبل ممکنہ رائے شماری اور مشترکہ حکمت عملی کا اشارہ۔"
-    },
-    {
-      "title": "Trump demands $10B from South Korea amid talks with Kim Jong Un",
-      "desc": "Trump's demands could strain US-South Korea relations, impacting regional security dynamics and altering military readiness against North Korea.\nThe post Trump demands $10B from South Korea amid talks with Kim Jong Un appeared first on Crypto Briefing.",
+      "title": "Israeli flags on Lebanon road violate UN resolution, says UNIFIL",
+      "desc": "Increased tensions from flag placement may hinder diplomatic efforts and complicate military withdrawal timelines, affecting regional stability.\nThe post Israeli flags on Lebanon road violate UN resolution, says UNIFIL appeared first on Crypto Briefing.",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/trump-demands-10b-south-korea-protection/",
-      "time": "2026-08-17T19:02:35",
+      "url": "https://cryptobriefing.com/israeli-flags-on-lebanon-road-violate-un-resolution-says-unifil/",
+      "time": "2026-08-17T19:44:19",
+      "country": "Israel",
+      "title_ur": "UNIFIL کا کہنا ہے کہ لبنان کی سڑک پر اسرائیلی پرچم اقوام متحدہ کی قرارداد کی خلاف ورزی ہے۔",
+      "desc_ur": "پرچم لگانے سے بڑھتی ہوئی کشیدگی سفارتی کوششوں میں رکاوٹ بن سکتی ہے اور فوجی انخلاء کی ٹائم لائن کو پیچیدہ بنا سکتی ہے، جس سے علاقائی استحکام متاثر ہوتا ہے۔\nThe post لبنان کی سڑک پر اسرائیلی پرچم اقوام متحدہ کی قرارداد کی خلاف ورزی ہے، یونیفائل appeared first on Crypto Briefing."
+    },
+    {
+      "title": "US gas prices reach highest ever recorded for August amid stalled talks with Iran",
+      "desc": "US gas prices this month are so far the highest ever recorded for August as peace talks between the US and Iran have stalled and Donald Trump launched fresh threats against Oman.\nThe national average price of gas was $4.06 per gallon on Monday, according to d…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/5bfa80873c013e4c",
+      "time": "2026-08-17T19:43:55",
+      "country": "Iran",
+      "title_ur": "ایران کے ساتھ تعطل کا شکار ہونے والے مذاکرات کے درمیان اگست میں امریکی گیس کی قیمتیں اب تک کی بلند ترین سطح پر پہنچ گئیں۔",
+      "desc_ur": "رواں ماہ امریکی گیس کی قیمتیں اگست میں اب تک کی سب سے زیادہ ہیں کیونکہ امریکہ اور ایران کے درمیان امن مذاکرات تعطل کا شکار ہیں اور ڈونلڈ ٹرمپ نے عمان کے خلاف تازہ دھمکیاں شروع کر دی ہیں۔\nپیر کو گیس کی قومی اوسط قیمت $4.06 فی گیلن تھی، ڈی کے مطابق…"
+    },
+    {
+      "title": "Oil jumps past $91 as Trump casts doubt on a new deal with Iran",
+      "desc": "The price of oil jumped sharply Monday after President Donald Trump cast doubt on another deal with Iran to extend the expiring ceasefire with Iran.",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/business/economy/oil-jumps-trump-no-iran-ceasefire-rcna592978",
+      "time": "2026-08-17T19:43:54",
+      "country": "Iran",
+      "title_ur": "تیل کی قیمت 91 ڈالر سے تجاوز کر گئی جب ٹرمپ نے ایران کے ساتھ نئے معاہدے پر شکوک کا اظہار کیا۔",
+      "desc_ur": "صدر ڈونلڈ ٹرمپ کی جانب سے ایران کے ساتھ ختم ہونے والی جنگ بندی میں توسیع کے لیے ایران کے ساتھ ایک اور معاہدے پر شکوک کے اظہار کے بعد پیر کو تیل کی قیمتوں میں تیزی سے اضافہ ہوا۔"
+    },
+    {
+      "title": "Here’s What “Iran’s Secret Plan To Escalate The War” Means For Oil Stocks",
+      "desc": "The Wall Street Journal published a report today, Monday, August 17, 2026, titled “Iran’s Secret Plan to Escalate the War,” the same day the 60-day US-Iran memorandum of understanding signed in June expires with no follow-on deal in sight. For investors, the …",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/e945de3aa8ed0fa2",
+      "time": "2026-08-17T19:43:39",
+      "country": "Iran",
+      "title_ur": "تیل کے ذخائر کے لیے \"جنگ کو بڑھانے کے لیے ایران کا خفیہ منصوبہ\" کا مطلب یہ ہے۔",
+      "desc_ur": "وال سٹریٹ جرنل نے آج، پیر، 17 اگست، 2026 کو ایک رپورٹ شائع کی، جس کا عنوان تھا \"جنگ کو بڑھانے کے لیے ایران کا خفیہ منصوبہ\"، اسی دن جون میں امریکہ اور ایران کی 60 روزہ مفاہمت کی یادداشت کی میعاد ختم ہو رہی ہے جس پر کوئی فالو آن ڈیل نظر نہیں آتی۔ سرمایہ کاروں کے لیے،…"
+    },
+    {
+      "title": "Democrats push war powers resolution after Trump’s Oman bombing threat",
+      "desc": "The Democrats' resolution may further strain US-Iran relations, complicating diplomatic efforts and increasing geopolitical instability.\nThe post Democrats push war powers resolution after Trump’s Oman bombing threat appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/democrats-push-war-powers-resolution-after-trumps-oman-bombing-threat/",
+      "time": "2026-08-17T19:41:30",
+      "country": "Iran",
+      "title_ur": "ٹرمپ کی عمان میں بمباری کی دھمکی کے بعد ڈیموکریٹس نے جنگی طاقتوں کی قرارداد کو آگے بڑھایا",
+      "desc_ur": "ڈیموکریٹس کی قرارداد امریکہ ایران تعلقات کو مزید کشیدہ کر سکتی ہے، سفارتی کوششوں کو پیچیدہ بنا سکتی ہے اور جغرافیائی سیاسی عدم استحکام کو بڑھا سکتی ہے۔\nThe post ٹرمپ کی عمان میں بمباری کی دھمکی کے بعد ڈیموکریٹس نے جنگی طاقتوں کی قرارداد کو آگے بڑھا دیا appeared first on Crypto Briefing."
+    },
+    {
+      "title": "Araghchi: Nothing justifies attack on Barzani's office",
+      "desc": "Iran Foreign Minister Abbas Araghchi said on Monday that nothing could justify a \"reckless strike\" targeting the private office of the Kurdistan Regional Government's Prime Minister Masrour Barzani in...",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/936ef29b2cc7cc8b",
+      "time": "2026-08-17T19:40:58",
+      "country": "Iran",
+      "title_ur": "اراغچی: بارزانی کے دفتر پر حملے کا کوئی جواز نہیں۔",
+      "desc_ur": "ایران کے وزیر خارجہ عباس عراقچی نے پیر کے روز کہا کہ کردستان کی علاقائی حکومت کے وزیر اعظم مسرور بارزانی کے نجی دفتر کو نشانہ بنانے والے \"لاپرواہ حملے\" کا کوئی جواز پیش نہیں کر سکتا۔"
+    },
+    {
+      "title": "Kushner: Iran talks 'robust,' but no understanding yet",
+      "desc": "United States President Donald Trump's special envoy and son-in-law, Jared Kushner, stated on Monday that talks between Washington and Tehran are \"more robust than ever,\" but that an understanding is ...",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/dc87b7f8ef4bc550",
+      "time": "2026-08-17T19:40:40",
+      "country": "Iran",
+      "title_ur": "کشنر: ایران 'مضبوط' بات کرتا ہے، لیکن ابھی تک کوئی سمجھ نہیں آئی",
+      "desc_ur": "امریکی صدر ڈونلڈ ٹرمپ کے خصوصی ایلچی اور داماد جیرڈ کشنر نے پیر کے روز کہا کہ واشنگٹن اور تہران کے درمیان بات چیت \"پہلے سے زیادہ مضبوط\" ہے، لیکن یہ ایک مفاہمت ہے ..."
+    },
+    {
+      "title": "Kamptee Cantt sheds British tag, 3 roads named after Brigade of Guards heroes",
+      "desc": "Kamptee Cantonment renames colonial-era Clive, Napier and White roads after war heroes Jasbir Singh Raina, Jadunath Singh and Albert Ekka on Independence Day.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/nagpur/kamptee-cantt-sheds-british-tag-3-roads-named-after-brigade-of-guards-heroes/articleshow/133306202.cms",
+      "time": "2026-08-17T19:39:17",
+      "country": "UK",
+      "title_ur": "کیمپٹی کینٹ نے برطانوی ٹیگ شیڈ کیا، 3 سڑکوں کا نام بریگیڈ آف گارڈز کے ہیروز کے نام پر",
+      "desc_ur": "کیمپٹی چھاؤنی نے نوآبادیاتی دور کے کلائیو، نیپئر اور وائٹ سڑکوں کا نام یوم آزادی پر جنگی ہیروز جسبیر سنگھ رائنا، جادوناتھ سنگھ اور البرٹ ایکا کے نام پر رکھا۔"
+    },
+    {
+      "title": "Security agencies dismantle ISI-backed Shahzad Bhatti Network",
+      "desc": "In a strategic operation, security agencies dismantled the Shahzad Bhatti Network, a terror syndicate supported by ISI. Authorities detained over 250 suspects across fourteen states and registered more than eighty FIRs, resulting in over two hundred arrests. …",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/security-agencies-dismantle-isi-backed-shahzad-bhatti-network/articleshow/133306132.cms",
+      "time": "2026-08-17T19:38:54",
       "country": "US",
-      "title_ur": "ٹرمپ نے کم جونگ ان کے ساتھ بات چیت کے دوران جنوبی کوریا سے 10 بلین ڈالر کا مطالبہ کیا۔",
-      "desc_ur": "ٹرمپ کے مطالبات امریکہ اور جنوبی کوریا کے تعلقات کو کشیدہ کر سکتے ہیں، علاقائی سلامتی کی حرکیات کو متاثر کر سکتے ہیں اور شمالی کوریا کے خلاف فوجی تیاری کو تبدیل کر سکتے ہیں۔\nThe post ٹرمپ نے کم جونگ ان سے بات چیت کے دوران جنوبی کوریا سے 10 ارب ڈالر کا مطالبہ کردیا appeared first on Crypto Briefing."
+      "title_ur": "سیکیورٹی اداروں نے آئی ایس آئی کے حمایت یافتہ شہزاد بھٹی نیٹ ورک کو ختم کر دیا۔",
+      "desc_ur": "ایک سٹریٹجک آپریشن میں، سیکورٹی ایجنسیوں نے شہزاد بھٹی نیٹ ورک کو ختم کر دیا، جو کہ آئی ایس آئی کی حمایت یافتہ دہشت گرد سنڈیکیٹ ہے۔ حکام نے چودہ ریاستوں میں 250 سے زیادہ مشتبہ افراد کو حراست میں لیا اور اسّی سے زیادہ ایف آئی آر درج کیں، جس کے نتیجے میں دو سو سے زیادہ گرفتاریاں ہوئیں۔ …"
     },
     {
-      "title": "Denied noodles, 15 youths vandalise restaurant, set car afire in Varanasi",
-      "desc": "Varanasi youths allegedly vandalized restaurants, assaulted staff and torched a parked car after Maggi wasn’t available; police probe underway using CCTV footage.",
+      "title": "Bombay high court draws line between ‘custody’ and ‘arrest’ in detention case",
+      "desc": "Bombay High Court’s Nagpur bench ruled police custody for inquiry isn’t always arrest, dismissing a businessman’s illegal detention plea under MCOCA.",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/varanasi/denied-noodles-15-youths-vandalise-restaurant-set-car-afire-in-varanasi/articleshow/133305761.cms",
-      "time": "2026-08-17T19:02:20",
+      "url": "https://timesofindia.indiatimes.com/city/nagpur/bombay-high-court-draws-line-between-custody-and-arrest-in-detention-case/articleshow/133306198.cms",
+      "time": "2026-08-17T19:38:37",
       "country": "US",
-      "title_ur": "وارانسی میں نوڈلز سے انکار، 15 نوجوانوں نے ریسٹورنٹ میں توڑ پھوڑ، کار کو آگ لگا دی۔",
-      "desc_ur": "وارانسی کے نوجوانوں نے مبینہ طور پر ریستوران میں توڑ پھوڑ کی، عملے پر حملہ کیا اور میگی دستیاب نہ ہونے پر ایک کھڑی کار کو نذر آتش کیا۔ پولیس سی سی ٹی وی فوٹیج کی مدد سے تحقیقات کر رہی ہے۔"
+      "title_ur": "بمبئی ہائی کورٹ نے حراستی معاملے میں 'حراست' اور 'گرفتاری' کے درمیان لائن کھینچی ہے۔",
+      "desc_ur": "بامبے ہائی کورٹ کی ناگپور بنچ نے مکوکا کے تحت ایک تاجر کی غیر قانونی نظربندی کی درخواست کو مسترد کرتے ہوئے، تفتیش کے لیے پولیس کی حراست ہمیشہ گرفتاری نہیں ہوتی۔"
     },
     {
-      "title": "Two advocates attacked, robbed in Cantt",
-      "desc": "Two lawyers were attacked and robbed near a bridge in Varanasi’s Cantt area; police filed an FIR, reviewed CCTV, and launched raids to identify and arrest suspects.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/varanasi/two-advocates-attacked-robbed-in-cantt/articleshow/133305757.cms",
-      "time": "2026-08-17T19:02:10",
-      "country": "US",
-      "title_ur": "کینٹ میں دو وکیلوں پر حملہ، لوٹ مار",
-      "desc_ur": "وارانسی کے کینٹ علاقے میں ایک پل کے قریب دو وکلاء پر حملہ کر کے لوٹ لیا گیا۔ پولیس نے ایف آئی آر درج کی، سی سی ٹی وی کا جائزہ لیا، اور مشتبہ افراد کی شناخت اور گرفتاری کے لیے چھاپے مارے۔"
+      "title": "Barghouti accuses US of giving Netanyahu a free pass on Gaza peace plan",
+      "desc": "U.S. policy criticism may hinder Gaza peace efforts, reducing chances of Palestine recognition and complicating diplomatic resolutions.\nThe post Barghouti accuses US of giving Netanyahu a free pass on Gaza peace plan appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/barghouti-accuses-us-of-giving-netanyahu-a-free-pass-on-gaza-peace-plan/",
+      "time": "2026-08-17T19:38:13",
+      "country": "Israel",
+      "title_ur": "برغوتی نے امریکہ پر نیتن یاہو کو غزہ امن منصوبے پر مفت پاس دینے کا الزام لگایا",
+      "desc_ur": "امریکی پالیسی کی تنقید غزہ میں امن کی کوششوں میں رکاوٹ بن سکتی ہے، فلسطین کو تسلیم کرنے کے امکانات کو کم کر سکتی ہے اور سفارتی قراردادوں کو پیچیدہ بنا سکتی ہے۔\nThe post برغوتی کا امریکا پر نیتن یاہو کو غزہ امن منصوبے پر مفت پاس دینے کا الزام appeared first on Crypto Briefing."
     },
     {
-      "title": "Andhra Pradesh fishing boat with eight on board goes off the radar, Coast Guard joins search operation",
-      "desc": "Andhra Pradesh fishing boat with 8 missing after leaving Vodalarevu Aug 3; overdue since Aug 13. Coast Guard and Konaseema officials launch search.",
+      "title": "Army looks for potential soldiers in Gadchiroli youths",
+      "desc": "Army recruitment team visits Gadchiroli, reaches 1,500 youths to boost armed forces awareness as registrations rise from 26 (2024) to 384 (2026).",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/vijayawada/andhra-pradesh-fishing-boat-with-eight-on-board-goes-off-the-radar-coast-guard-joins-search-operation/articleshow/133305756.cms",
-      "time": "2026-08-17T19:02:06",
+      "url": "https://timesofindia.indiatimes.com/city/nagpur/army-looks-for-potential-soldiers-in-gadchiroli-youths/articleshow/133306193.cms",
+      "time": "2026-08-17T19:37:52",
       "country": "International",
-      "title_ur": "آندھرا پردیش کی ماہی گیری کی کشتی جس میں آٹھ سوار تھے راڈار سے دور، کوسٹ گارڈ سرچ آپریشن میں شامل",
-      "desc_ur": "آندھرا پردیش کی ماہی گیری کی کشتی 8 افراد کے ساتھ ووڈالاریو اگست 3 سے لاپتہ 13 اگست سے زائد المیعاد۔ کوسٹ گارڈ اور کونسیما کے اہلکار تلاش شروع کر رہے ہیں۔"
+      "title_ur": "فوج گڈچرولی کے نوجوانوں میں ممکنہ سپاہیوں کی تلاش میں ہے۔",
+      "desc_ur": "فوج کی بھرتی ٹیم نے گڈچرولی کا دورہ کیا، مسلح افواج کے بارے میں بیداری بڑھانے کے لیے 1,500 نوجوانوں تک رسائی حاصل کی کیونکہ رجسٹریشن 26 (2024) سے بڑھ کر 384 (2026) ہوگئی۔"
     },
     {
-      "title": "Three juveniles detained in murder case probe",
-      "desc": "Ghazipur police solved Rohit Yadav’s murder; three juveniles detained, pistol, cartridges, phone and bike recovered. Mastermind Golu is absconding.",
+      "title": "WCL bags ‘Best PSU Partner’ for its PM internship contribution",
+      "desc": "Western Coalfields Ltd wins Ministry of Corporate Affairs’ Best PSU Partner Award for its contribution to the Prime Minister Internship Scheme, offering 150 internships.",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/varanasi/three-juveniles-detained-in-murder-case-probe/articleshow/133305753.cms",
-      "time": "2026-08-17T19:01:58",
+      "url": "https://timesofindia.indiatimes.com/city/nagpur/wcl-bags-best-psu-partner-for-its-pm-internship-contribution/articleshow/133306191.cms",
+      "time": "2026-08-17T19:37:28",
       "country": "International",
-      "title_ur": "قتل کیس کی تفتیش میں تین نابالغ گرفتار",
-      "desc_ur": "غازی پور پولیس نے روہت یادو کے قتل کا حل نکالا تین نابالغ گرفتار، پستول، کارتوس، فون اور موٹر سائیکل برآمد۔ ماسٹر مائنڈ گولو مفرور ہے۔"
-    },
-    {
-      "title": "Woman loses leg as VMC dumper rams e-rickshaw",
-      "desc": "Five women were injured after a municipal dumper hit an e-rickshaw in Varanasi’s Sundarpur; one woman lost her leg. Police seized the dumper, driver held.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/varanasi/woman-loses-leg-as-vmc-dumper-rams-e-rickshaw/articleshow/133305752.cms",
-      "time": "2026-08-17T19:01:54",
-      "country": "International",
-      "title_ur": "وی ایم سی ڈمپر نے ای رکشہ کو ٹکراتے ہوئے عورت کی ٹانگ کھو دی۔",
-      "desc_ur": "وارانسی کے سندر پور میں میونسپل ڈمپر کی ای رکشہ کو ٹکر سے پانچ خواتین زخمی ہو گئیں۔ ایک عورت نے اپنی ٹانگ کھو دی۔ پولیس نے ڈمپر قبضے میں لے لیا، ڈرائیور گرفتار۔"
-    },
-    {
-      "title": "Streetlights finally glow on Container Road; some areas remain in dark",
-      "desc": "Streetlights switched on along Kochi’s 17-km Container Road after a decade; NHAI installed 1,100 lights, resolving a KSEB power-connection cost dispute.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/kochi/streetlights-finally-glow-on-container-road-some-areas-remain-in-dark/articleshow/133305750.cms",
-      "time": "2026-08-17T19:01:48",
-      "country": "International",
-      "title_ur": "کنٹینر روڈ پر سٹریٹ لائٹس آخرکار چمک رہی ہیں۔ کچھ علاقے اندھیرے میں ہیں۔",
-      "desc_ur": "کوچی کی 17 کلومیٹر کنٹینر روڈ پر ایک دہائی کے بعد سٹریٹ لائٹس آن کر دی گئیں۔ NHAI نے KSEB پاور کنکشن لاگت کے تنازع کو حل کرتے ہوئے 1,100 لائٹس لگائیں۔"
-    },
-    {
-      "title": "Man found murdered in suspected robbery at Karuvatta",
-      "desc": "67-year-old Sivan Kutty Chettiar found strangled and bound in rented Karuvatta home, Alappuzha; police suspect robbery as gold worth eight sovereigns missing.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/kochi/man-found-murdered-in-suspected-robbery-at-karuvatta/articleshow/133305748.cms",
-      "time": "2026-08-17T19:01:42",
-      "country": "US",
-      "title_ur": "کرووٹہ میں مشتبہ ڈکیتی میں قتل شدہ شخص پایا گیا۔",
-      "desc_ur": "67 سالہ شیوان کٹی چیٹیار کو کرائے کے کروواٹا گھر، الاپپوزا میں گلا گھونٹ کر بندھا ہوا پایا گیا۔ پولیس کو ڈکیتی کا شبہ ہے کیوں کہ آٹھ مالیت کا سونا غائب ہے۔"
-    },
-    {
-      "title": "6 yrs on the run, criminal carrying ₹50K reward held",
-      "desc": "Azamgarh police arrested ₹50,000 reward criminal Raju Patharkat after 6+ years; wanted in 2020 Flipkart office ₹6.31 lakh robbery, pistol recovered.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/varanasi/6-yrs-on-the-run-criminal-carrying-50k-reward-held/articleshow/133305747.cms",
-      "time": "2026-08-17T19:01:38",
-      "country": "International",
-      "title_ur": "6 سال مفرور، ₹50K انعام لے کر مجرم پکڑا گیا۔",
-      "desc_ur": "اعظم گڑھ پولیس نے 50,000 روپے کے انعامی مجرم راجو پاتھرکت کو 6+ سال بعد گرفتار کیا۔ 2020 میں Flipkart کے دفتر میں مطلوب 6.31 لاکھ روپے کی ڈکیتی، پستول برآمد۔"
+      "title_ur": "ڈبلیو سی ایل نے اپنی پی ایم انٹرنشپ شراکت کے لیے 'بہترین PSU پارٹنر' حاصل کیا۔",
+      "desc_ur": "ویسٹرن کول فیلڈز لمیٹڈ نے 150 انٹرن شپ کی پیشکش کرتے ہوئے پرائم منسٹر انٹرن شپ اسکیم میں شراکت کے لیے وزارت کارپوریٹ افیئرز کا بہترین PSU پارٹنر ایوارڈ جیتا۔"
     }
   ],
   "pakistan": [
     {
-      "title": "US Energy Secretary Wright says SPR will exceed 300 million barrels by end of Iran conflict",
-      "desc": "The SPR's replenishment strategy highlights the geopolitical risks and economic vulnerabilities tied to global oil supply disruptions.\nThe post US Energy Secretary Wright says SPR will exceed 300 million barrels by end of Iran conflict appeared first on Crypt…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-spr-300-million-barrels-iran-conflict/",
-      "time": "2026-08-17T19:02:51",
-      "country": "Pakistan",
-      "title_ur": "امریکی وزیر توانائی رائٹ کا کہنا ہے کہ ایران تنازع کے خاتمے تک ایس پی آر 300 ملین بیرل سے تجاوز کر جائے گا۔",
-      "desc_ur": "ایس پی آر کی بھرتی کی حکمت عملی عالمی سطح پر تیل کی سپلائی میں رکاوٹوں سے منسلک جغرافیائی سیاسی خطرات اور اقتصادی کمزوریوں کو نمایاں کرتی ہے۔\nThe post امریکی وزیر توانائی رائٹ کا کہنا ہے کہ ایران تنازع کے خاتمے تک ایس پی آر 300 ملین بیرل سے تجاوز کر جائے گا appeared first on Crypt…"
-    },
-    {
-      "title": "HC pushes for International Arbitration Centre in Chandigarh",
-      "desc": "Punjab and Haryana High Court asks Chandigarh to build an International Arbitration Centre at Sarangpur; UT urban planning to assess land use and scope.",
+      "title": "UP ATS arrests man for links with JeM, crypto transfer to Pak handlers",
+      "desc": "UP ATS arrested Mohammad Zafar, 24, for alleged JeM links and attempting to send over $5,000 via crypto to Pakistan-based handlers, officials said.",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/hc-pushes-for-international-arbitration-centre-in-chandigarh/articleshow/133305720.cms",
-      "time": "2026-08-17T19:00:40",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/up-ats-arrests-man-for-links-with-jem-crypto-transfer-to-pak-handlers/articleshow/133306145.cms",
+      "time": "2026-08-17T19:29:11",
       "country": "Pakistan",
-      "title_ur": "ہائی کورٹ نے چندی گڑھ میں بین الاقوامی ثالثی مرکز کے لیے زور دیا۔",
-      "desc_ur": "پنجاب اور ہریانہ ہائی کورٹ نے چندی گڑھ کو سارنگ پور میں بین الاقوامی ثالثی مرکز بنانے کو کہا۔ زمین کے استعمال اور دائرہ کار کا جائزہ لینے کے لیے UT شہری منصوبہ بندی۔"
-    },
-    {
-      "title": "How Turkey Making Bid To Bring Back Modern Ottoman Empire...",
-      "desc": "Turkey’s mutual defense pact with Saudi Arabia and Pakistan is a step toward the ultimate ambition of Turkish President Recep Tayyip Erdogan: to make Ankara a powerhouse across the entire territory of the old Ottoman Empire.The Mecca Joint Defence Agreement, …",
-      "source": "The Daily Wire",
-      "url": "https://www.dailywire.com/news/how-turkey-is-making-a-bid-to-bring-back-a-modern-ottoman-empire",
-      "time": "2026-08-17T19:00:19",
-      "country": "Pakistan",
-      "title_ur": "ترکی کس طرح جدید عثمانی سلطنت کو واپس لانے کے لیے بولی لگا رہا ہے...",
-      "desc_ur": "سعودی عرب اور پاکستان کے ساتھ ترکی کا باہمی دفاعی معاہدہ ترک صدر رجب طیب اردوان کے حتمی عزائم کی جانب ایک قدم ہے: انقرہ کو پرانی سلطنت عثمانیہ کے پورے علاقے میں پاور ہاؤس بنانا۔ مکہ مشترکہ دفاعی معاہدہ،…"
+      "title_ur": "یوپی اے ٹی ایس نے جی ای ایم کے ساتھ روابط کے الزام میں ایک شخص کو گرفتار کیا، پاک ہینڈلرز کو کرپٹو ٹرانسفر",
+      "desc_ur": "حکام نے بتایا کہ یوپی اے ٹی ایس نے 24 سالہ محمد ظفر کو مبینہ طور پر جیش محمد سے تعلق اور کرپٹو کے ذریعے $5,000 سے زیادہ پاکستان میں مقیم ہینڈلرز کو بھیجنے کی کوشش کے الزام میں گرفتار کیا۔"
     }
   ],
   "business": {
@@ -205,7 +185,7 @@
       {
         "date": "2026-08-20",
         "day": "جمعرات",
-        "high": 32,
+        "high": 33,
         "low": 26,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
@@ -232,7 +212,7 @@
       {
         "date": "2026-08-23",
         "day": "اتوار",
-        "high": 32,
+        "high": 33,
         "low": 25,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
@@ -242,7 +222,7 @@
         "date": "2026-08-24",
         "day": "پیر",
         "high": 34,
-        "low": 26,
+        "low": 27,
         "condition": "Light Drizzle",
         "condition_ur": "ہلکی بوندا باندی",
         "precip": 22
@@ -251,7 +231,7 @@
         "date": "2026-08-25",
         "day": "منگل",
         "high": 35,
-        "low": 27,
+        "low": 28,
         "condition": "Light Drizzle",
         "condition_ur": "ہلکی بوندا باندی",
         "precip": 10
