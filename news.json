@@ -1,158 +1,168 @@
 {
-  "generated": "2026-08-19T07:32:40Z",
+  "generated": "2026-08-19T08:29:00Z",
   "world": [
     {
-      "title": "Israel Dog Unit joins forces with Prison Service dog handlers",
-      "desc": "The Israel Dog Unit and Israel Prison Service are deepening cooperation, sharing expertise in working dogs, missing-person searches, and lifesaving operations during a professional meeting.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/431894",
-      "time": "2026-08-18T07:32:00",
-      "country": "Israel",
-      "title_ur": "اسرائیل ڈاگ یونٹ جیل سروس کے کتے ہینڈلرز کے ساتھ افواج میں شامل ہوتا ہے۔",
-      "desc_ur": "اسرائیل ڈاگ یونٹ اور اسرائیل جیل سروس پیشہ ورانہ میٹنگ کے دوران کام کرنے والے کتوں، لاپتہ افراد کی تلاش اور زندگی بچانے کے آپریشنز میں تعاون کو گہرا کر رہے ہیں۔"
-    },
-    {
-      "title": "What you need to know about the working holiday visa pause",
-      "desc": "The federal government \"quietly\" pauses the working holiday-maker visa applications from 24 countries. Here is what we know about the pause and countries affected.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-08-18/australia-working-holiday-maker-visa-program-pause/107046986",
-      "time": "2026-08-18T07:31:01",
-      "country": "US",
-      "title_ur": "ورکنگ ہالیڈے ویزا توقف کے بارے میں آپ کو کیا جاننے کی ضرورت ہے۔",
-      "desc_ur": "وفاقی حکومت \"خاموشی سے\" 24 ممالک سے کام کرنے والی چھٹیاں بنانے والے ویزا کی درخواستوں کو روکتی ہے۔ توقف اور متاثرہ ممالک کے بارے میں ہم کیا جانتے ہیں۔"
-    },
-    {
-      "title": "Meet Finnegan McGill, the 18-year-old Arizona student who spent four years building an AI device that can identify birds from their calls and pinpoint where they are",
-      "desc": "Meet Finnegan McGill, the 18-year-old Arizona student who spent four years building an AI device that can identify birds from their calls and pinpoint where they are",
+      "title": "South Africa’s wildlife corridor was broken for decades, but one female elephant is now helping reconnect a 400-km route through the forest",
+      "desc": "The Eden to Addo Corridor Initiative in South Africa spans 400 kilometers, linking protected areas to facilitate wildlife movement in fragmented ecosystems. This important program was born from the plight of the last Knysna forest elephant, known as Strangefo…",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/science/meet-finnegan-mcgill-the-18-year-old-arizona-student-who-spent-four-years-building-an-ai-device-that-can-identify-birds-from-their-calls-and-pinpoint-where-they-are/articleshow/133314757.cms",
-      "time": "2026-08-18T07:30:47",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/south-africas-wildlife-corridor-was-broken-for-decades-but-one-female-elephant-is-now-helping-reconnect-a-400-km-route-through-the-forest/articleshow/133316189.cms",
+      "time": "2026-08-18T08:28:17",
       "country": "International",
-      "title_ur": "ایریزونا کے 18 سالہ طالب علم فنیگن میک گل سے ملو جس نے ایک AI ڈیوائس بنانے میں چار سال گزارے جو پرندوں کو ان کی کالوں سے پہچان سکتا ہے اور یہ بتا سکتا ہے کہ وہ کہاں ہیں۔",
-      "desc_ur": "ایریزونا کے 18 سالہ طالب علم فنیگن میک گل سے ملو جس نے ایک AI ڈیوائس بنانے میں چار سال گزارے جو پرندوں کو ان کی کالوں سے پہچان سکتا ہے اور یہ بتا سکتا ہے کہ وہ کہاں ہیں۔"
+      "title_ur": "جنوبی افریقہ کا وائلڈ لائف کوریڈور کئی دہائیوں سے ٹوٹا ہوا تھا، لیکن اب ایک مادہ ہاتھی جنگل کے ذریعے 400 کلومیٹر کے راستے کو دوبارہ جوڑنے میں مدد کر رہی ہے۔",
+      "desc_ur": "جنوبی افریقہ میں ایڈن ٹو اڈو کوریڈور اقدام 400 کلومیٹر پر محیط ہے، جو محفوظ علاقوں کو جوڑتا ہے تاکہ بکھرے ہوئے ماحولیاتی نظام میں جنگلی حیات کی نقل و حرکت کو آسان بنایا جا سکے۔ یہ اہم پروگرام آخری Knysna جنگل کے ہاتھی کی حالت زار سے پیدا ہوا تھا، جسے Strangefo کے نام سے جانا جاتا ہے…"
     },
     {
-      "title": "AI and the Risks of Tearing Down an Old System",
-      "desc": "Operation Epic Fury made clear that AI is now at the heart of American warfighting. Central Command used Claude through Palantir’s Maven Smart System platform to generate and prioritize roughly 1,000 targets in the first 24 hours of the campaign, at an operat…",
-      "source": "War on the Rocks",
-      "url": "https://warontherocks.com/ai-and-the-risks-of-tearing-down-an-old-system/",
-      "time": "2026-08-18T07:30:31",
-      "country": "US",
-      "title_ur": "AI اور پرانے نظام کو پھاڑ دینے کے خطرات",
-      "desc_ur": "آپریشن ایپک فیوری نے واضح کیا کہ AI اب امریکی جنگ کے مرکز میں ہے۔ سینٹرل کمانڈ نے مہم کے پہلے 24 گھنٹوں میں تقریباً 1,000 اہداف پیدا کرنے اور ترجیح دینے کے لیے پالانٹیر کے ماون سمارٹ سسٹم پلیٹ فارم کے ذریعے کلاڈ کا استعمال کیا، ایک آپریشن میں…"
+      "title": "イスラエルでAIチャットボットを欺く目的で設立された偽のシンクタンクが出現、わずか1週間強の間にAIチャットボットに影響を与えることを目的としたと思われる記事を少なくとも100本公開",
+      "desc": "イスラエルのハノーバー公共政策研究所が、わずか1週間強の間にAIチャットボットを欺く目的で、100本近くの記事を公開していることが明らかになったと、外交政策シンクタンクのクインシー研究所が公開しているオンラインマガジン・Responsible Statecraftが報じています。Israel creates fake think tank in likely attempt to dupe AI chatbots | Responsible Statecrafthttps://responsiblestatecr…",
+      "source": "Livedoor.com",
+      "url": "https://news.livedoor.com/article/detail/32097640/",
+      "time": "2026-08-18T08:28:00",
+      "country": "Israel",
+      "title_ur": "イスラエルでAIチャットボットを欺く目的で設立された偽のシンクタンクが出現、わずか1週間強の間にAIチャットボットに影響を与えることを目的としたと思われる記事を少なくとも100本公開",
+      "desc_ur": "イスラエルのハノーバー公共政策研究所が、わずか1週間強間にAIチャットボットを欺く目的で、100本近くの記事を公開していることが明らかになったと、外交政策シンクタンクのクインシー研究所が公開しているオンラインマガジン・ذمہ دار Statecraftが報じています。 اسرائیل نے AI چیٹ بوٹس کو دھوکہ دینے کی ممکنہ کوشش میں جعلی تھنک ٹینک بنایا | ذمہ دار اسٹیٹ کرافٹ https://responsiblestatecr…"
     },
     {
-      "title": "How has the US-South Korea relationship evolved under Trump?",
-      "desc": "President Trump's approach has tested the U.S.-South Korea alliance over military drills.  Security commitments and troop presence remain points of contention between the nations.  Trade relations have seen renegotiations and tariff pressures impacting South …",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/how-has-the-us-south-korea-relationship-evolved-under-trump/articleshow/133314779.cms",
-      "time": "2026-08-18T07:27:44",
-      "country": "US",
-      "title_ur": "ٹرمپ کے دور میں امریکہ اور جنوبی کوریا کے تعلقات کیسے پروان چڑھے؟",
-      "desc_ur": "صدر ٹرمپ کے نقطہ نظر نے فوجی مشقوں پر امریکہ اور جنوبی کوریا کے اتحاد کا تجربہ کیا ہے۔  سلامتی کے وعدے اور فوج کی موجودگی اقوام کے درمیان تنازعات کا باعث بنی ہوئی ہے۔  تجارتی تعلقات نے دوبارہ گفت و شنید اور ٹیرف کے دباؤ کو دیکھا ہے جو جنوبی…"
-    },
-    {
-      "title": "Strava data exposes US military routines across Middle East bases as Iran repeatedly strikes associated sites despite a Pentagon warning against the app years ago",
-      "desc": "US military personnel still share workout data from Middle Eastern bases. This activity potentially exposes troop locations and movement patterns to adversaries.  Strava app data has been linked to locations targeted by Iran.  Pentagon warnings and policy cha…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/us/strava-data-exposes-us-military-routines-across-middle-east-bases-as-iran-repeatedly-strikes-associated-sites-despite-a-pentagon-warning-against-the-app-years-ago/articleshow/133314766.cms",
-      "time": "2026-08-18T07:20:10",
+      "title": "'Do What Israel Tells You!' - Graffiti On USAF Jet Suggests Troops Think War Isn't For America",
+      "desc": "'Do What Israel Tells You!' - Graffiti On USAF Jet Suggests Troops Think War Isn't For America\n \nIt only took two weeks of fighting for a majority of polled Americans to conclude that the war on Iran benefits Israel more than the United States. If comments fr…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/688990694b8bda93",
+      "time": "2026-08-18T08:20:46",
       "country": "Iran",
-      "title_ur": "اسٹراوا ڈیٹا مشرق وسطیٰ کے اڈوں میں امریکی فوجی معمولات کو بے نقاب کرتا ہے کیونکہ ایران نے برسوں پہلے پینٹاگون کی جانب سے ایپ کے خلاف انتباہ کے باوجود متعلقہ سائٹس پر بار بار حملہ کیا تھا۔",
-      "desc_ur": "امریکی فوجی اہلکار اب بھی مشرق وسطیٰ کے اڈوں سے ورزش کا ڈیٹا شیئر کرتے ہیں۔ یہ سرگرمی ممکنہ طور پر فوج کے مقامات اور حرکات کے نمونوں کو مخالفین کے سامنے لاتی ہے۔  اسٹراوا ایپ کے ڈیٹا کو ایران کی جانب سے نشانہ بنائے گئے مقامات سے منسلک کیا گیا ہے۔  پینٹاگون کی وارننگ اور پالیسی چا..."
+      "title_ur": "'وہ کرو جو اسرائیل تمہیں کہے!' - USAF جیٹ پر گرافٹی نے فوجیوں کے خیال میں جنگ امریکہ کے لیے نہیں تجویز کی ہے۔",
+      "desc_ur": "'وہ کرو جو اسرائیل تمہیں کہے!' - USAF جیٹ پر گرافٹی نے فوجیوں کے خیال میں جنگ امریکہ کے لیے نہیں تجویز کی ہے۔\n \nرائے شماری کرنے والے امریکیوں کی اکثریت کو یہ نتیجہ اخذ کرنے میں صرف دو ہفتے لگے کہ ایران کے خلاف جنگ سے اسرائیل کو امریکہ سے زیادہ فائدہ ہوتا ہے۔ اگر تبصرے fr…"
     },
     {
-      "title": "Sensex slides 326 pts; PSU bank shares decline",
-      "desc": "At 12:30 IST, the barometer index, the S&P BSE Sensex, declined 325.69 points or 0.42% to 77,402.47. The Nifty 50 index lost 72.15 points or 0.30% to 24,216.",
+      "title": "Dollar feeble as rate hike bets dwindle, Iran conflict in focus",
+      "desc": "By Ankur Banerjee and Harry Robertson SINGAPORE/LONDON, Aug 18 (Reuters) - The U.S. dollar rose slightly on Tuesday but remained near multi-month lows agains...",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/news/dollar-feeble-rate-hike-bets-015445875.html",
+      "time": "2026-08-18T08:20:46",
+      "country": "Iran",
+      "title_ur": "شرح میں اضافے کی شرطیں کم ہونے سے ڈالر کمزور، ایران کا تنازعہ توجہ میں ہے۔",
+      "desc_ur": "انکر بنرجی اور ہیری رابرٹسن کی طرف سے سنگاپور/لندن، 18 اگست (رائٹرز) – منگل کو امریکی ڈالر کی قدر میں قدرے اضافہ ہوا لیکن پھر کئی ماہ کی کم ترین سطح پر رہا۔"
+    },
+    {
+      "title": "Oil prices jump after US-Iran ceasefire expires and Trump threatens Oman",
+      "desc": "Brent crude rises above $90 a barrel for the first time since 30 July after US president tells Tehran to surrender\nBusiness live – latest updates\nOil prices have risen again after the two-month window to negotiate a peace deal in the US-Israel war on Iran exp…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/d2e82c88df969187",
+      "time": "2026-08-18T08:20:34",
+      "country": "Iran",
+      "title_ur": "امریکہ ایران جنگ بندی ختم ہونے اور ٹرمپ کی عمان کو دھمکی کے بعد تیل کی قیمتوں میں اضافہ",
+      "desc_ur": "امریکی صدر کی جانب سے تہران کو ہتھیار ڈالنے کے کہنے کے بعد 30 جولائی کے بعد پہلی بار برینٹ کروڈ کی قیمت 90 ڈالر فی بیرل سے بڑھ گئی\nبزنس لائیو - تازہ ترین اپ ڈیٹس\nایران کے خلاف امریکی اسرائیل جنگ میں امن معاہدے پر بات چیت کے لیے دو ماہ کی کھڑکی کے بعد تیل کی قیمتوں میں ایک بار پھر اضافہ ہوا ہے…"
+    },
+    {
+      "title": "Nifty trades tad above 24,200 level; European shares decline",
+      "desc": "The benchmark indices continued to trade with limited losses in afternoon trade, weighed down by a rise in crude oil prices following the expiry of the US-Iran ceasefire and growing uncertainty over the reopening of the Strait of Hormuz. The Nifty traded tad …",
       "source": "Business Standard",
-      "url": "https://www.business-standard.com/markets/capital-market-news/sensex-slides-326-pts-psu-bank-shares-decline-126081800496_1.html",
-      "time": "2026-08-18T07:20:02",
-      "country": "International",
-      "title_ur": "سینسیکس سلائیڈ 326 پوائنٹس؛ PSU بینک کے حصص میں کمی",
-      "desc_ur": "12:30 IST پر، بیرومیٹر انڈیکس، S&P BSE سینسیکس، 325.69 پوائنٹس یا 0.42% گر کر 77,402.47 پر آ گیا۔ نفٹی 50 انڈیکس 72.15 پوائنٹس یا 0.30 فیصد گر کر 24,216 پر آگیا۔"
+      "url": "https://www.business-standard.com/markets/capital-market-news/nifty-trades-tad-above-24-200-level-european-shares-decline-126081800580_1.html",
+      "time": "2026-08-18T08:20:02",
+      "country": "Iran",
+      "title_ur": "نفٹی کا کاروبار 24,200 کی سطح سے اوپر یورپی حصص میں کمی",
+      "desc_ur": "بینچ مارک انڈیکس دوپہر کی تجارت میں محدود نقصانات کے ساتھ تجارت کرتے رہے، امریکہ-ایران جنگ بندی کی میعاد ختم ہونے کے بعد خام تیل کی قیمتوں میں اضافے اور آبنائے ہرمز کے دوبارہ کھلنے پر بڑھتی ہوئی غیر یقینی صورتحال سے ان کا وزن کم ہوا۔ نفٹی نے تھوڑا سا کاروبار کیا…"
     },
     {
-      "title": "Butterfly wings-inspired design could boost electricity production by 66%",
-      "desc": "Science News: Butterfly wings could offer a unique solution to one of the biggest problems faced by solar panels, which is ‘sunlight that bounces away before it can.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/science/butterfly-wings-inspire-a-breakthrough-solar-panel-design-that-could-boost-electricity-production-by-66/articleshow/133312914.cms",
-      "time": "2026-08-18T07:20:00",
-      "country": "International",
-      "title_ur": "تتلی کے پروں سے متاثر ڈیزائن بجلی کی پیداوار میں 66 فیصد اضافہ کر سکتا ہے",
-      "desc_ur": "سائنس نیوز: تتلی کے پنکھ سولر پینلز کو درپیش سب سے بڑے مسائل میں سے ایک کا انوکھا حل پیش کر سکتے ہیں، جو کہ 'سورج کی روشنی جو کہ ممکن ہونے سے پہلے ہی اچھال جاتی ہے۔"
-    },
-    {
-      "title": "Israel’s Low-Cost Israir Airlines Plans to Start Non-Stop Flights to New York from Tel Aviv on October 19, 2026",
-      "desc": "What to Know Israir has received US Department of Transportation approval to start selling tickets for nonstop Tel Aviv to New York flights beginning October 19, 2026, though the FAA has yet to grant final operating approval. In This Article What happens to t…",
-      "source": "Paddle Your Own Kanoo",
-      "url": "https://www.paddleyourownkanoo.com/2026/08/18/israels-low-cost-israir-airlines-plans-to-start-non-stop-flights-to-new-york-from-tel-aviv-on-october-19-2026/",
-      "time": "2026-08-18T07:18:16",
+      "title": "'Habibi City': New York Magazine celebrated the flourishing of Arab cuisine – and ignited a debate about Israeli food",
+      "desc": "New York Magazine's 'Habibi City' issue celebrates the rise of Muslim and Palestinian culture in the city and argues that Israeli cuisine built its success on the appropriation of Palestinian and Arab dishes. Since October 7, the fight over falafel and tahini…",
+      "source": "Haaretz",
+      "url": "https://www.haaretz.com/jewish/2026-08-18/ty-article-magazine/.premium/new-york-magazine-celebrated-arab-cuisine-igniting-a-debate-about-israeli-food/000001a0-0eb9-d337-a7f0-fefdceb40000",
+      "time": "2026-08-18T08:18:19",
       "country": "Israel",
-      "title_ur": "اسرائیل کی کم لاگت والی Israir ایئر لائنز 19 اکتوبر 2026 کو تل ابیب سے نیویارک کے لیے نان اسٹاپ پروازیں شروع کرنے کا ارادہ رکھتی ہے۔",
-      "desc_ur": "کیا جاننا ہے Israir نے 19 اکتوبر 2026 سے شروع ہونے والی تل ابیب سے نیویارک کی پروازوں کے لیے ٹکٹوں کی فروخت شروع کرنے کے لیے امریکی محکمہ ٹرانسپورٹیشن کی منظوری حاصل کر لی ہے، حالانکہ FAA نے ابھی تک آپریٹنگ کی حتمی منظوری نہیں دی ہے۔ اس آرٹیکل میں ٹی کے ساتھ کیا ہوتا ہے…"
+      "title_ur": "'حبیبی سٹی': نیویارک میگزین نے عرب کھانوں کے پھلنے پھولنے کا جشن منایا - اور اسرائیلی کھانوں کے بارے میں ایک بحث کو ہوا دی",
+      "desc_ur": "نیویارک میگزین کے 'حبیبی سٹی' کے شمارے میں شہر میں مسلم اور فلسطینی ثقافت کے عروج کا جشن منایا گیا ہے اور دلیل دی گئی ہے کہ اسرائیلی کھانوں نے فلسطینی اور عرب پکوانوں کے اختصاص پر اپنی کامیابی کی بنیاد رکھی ہے۔ 7 اکتوبر سے، فالفیل اور تہینی پر لڑائی…"
     },
     {
-      "title": "The IAS officer who made India's IT ‘horse fly’: How N Vittal turned a bullock cart, a satellite dish and a bold gamble into a technology revolution",
-      "desc": "N Vittal, the IAS officer and former Secretary of the Department of Electronics, played a key role in shaping India's software industry by removing regulatory barriers and promoting shared digital infrastructure. The article traces how a 1985 Texas Instrument…",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/education/news/the-ias-officer-who-made-indias-it-horse-fly-how-n-vittal-turned-a-bullock-cart-a-satellite-dish-and-a-bold-gamble-into-a-technology-revolution/articleshow/133314390.cms",
-      "time": "2026-08-18T07:12:44",
-      "country": "India",
-      "title_ur": "آئی اے ایس افسر جس نے ہندوستان کی آئی ٹی کو 'گھوڑا مکھی' بنایا: این وٹل نے کس طرح بیل گاڑی، سیٹلائٹ ڈش اور ایک جرات مندانہ جوئے کو ٹیکنالوجی کے انقلاب میں بدل دیا",
-      "desc_ur": "این وٹل، آئی اے ایس آفیسر اور الیکٹرانکس ڈیپارٹمنٹ کے سابق سکریٹری نے ریگولیٹری رکاوٹوں کو دور کرکے اور مشترکہ ڈیجیٹل انفراسٹرکچر کو فروغ دے کر ہندوستان کی سافٹ ویئر انڈسٹری کی تشکیل میں کلیدی کردار ادا کیا۔ مضمون میں پتہ چلتا ہے کہ کس طرح 1985 میں ٹیکساس کا ایک آلہ…"
-    },
-    {
-      "title": "The global ‘freedom of the seas’ is dying in the Strait of Hormuz—and everyone, everywhere, could pay the tolls",
-      "desc": "Iran forcing a fee structure in the Strait of Hormuz may trigger a global domino effect.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/08/18/global-freedom-seas-dying-strait-hormuz-everyone-everywhere-pay-tolls/",
-      "time": "2026-08-18T07:12:00",
-      "country": "Iran",
-      "title_ur": "آبنائے ہرمز میں عالمی 'سمندر کی آزادی' دم توڑ رہی ہے اور ہر کوئی، ہر جگہ، ٹول ادا کر سکتا ہے",
-      "desc_ur": "ایران نے آبنائے ہرمز میں فیس کے ڈھانچے پر مجبور کرنا عالمی ڈومینو اثر کو متحرک کر سکتا ہے۔"
-    },
-    {
-      "title": "RAF CMO Reveals How Jon Jones’ Coach Became a Secret Weapon Behind RAF’s Success",
-      "desc": "RAF's CMO, Eric Bischoff, revealed how Jon Jones' former wrestling coach, Izzy Martinez, become a key figure behind the promotion's success. The post RAF CMO Reveals How Jon Jones’ Coach Became a Secret Weapon Behind RAF’s Success appeared first on HEAVY.",
-      "source": "Heavy.com",
-      "url": "https://heavy.com/sports/ufc/jon-jones-coach-secret-weapon-raf-success/",
-      "time": "2026-08-18T07:07:32",
+      "title": "Supertankers on Mideast Route Reach $510K a Day in Earnings",
+      "desc": "Earnings for a supertanker procuring crude oil from within the Persian Gulf to Asia are nearing a two-month high, as exporters hunt for more vessels to deliver the fuel via the Strait of Hormuz even as the security situation remains uncertain.",
+      "source": "Rigzone",
+      "url": "https://www.rigzone.com/news/wire/supertankers_on_mideast_route_reach_510k_a_day_in_earnings-18-aug-2026-184395-article/",
+      "time": "2026-08-18T08:17:46",
       "country": "International",
-      "title_ur": "آر اے ایف کے سی ایم او نے انکشاف کیا کہ جان جونز کا کوچ کس طرح آر اے ایف کی کامیابی کے پیچھے ایک خفیہ ہتھیار بن گیا",
-      "desc_ur": "RAF کے CMO، Eric Bischoff نے انکشاف کیا کہ کس طرح جان جونز کے سابق ریسلنگ کوچ، ایزی مارٹینز، پروموشن کی کامیابی کے پیچھے ایک اہم شخصیت بنے۔ The post آر اے ایف کے سی ایم او نے انکشاف کیا کہ جان جونز کا کوچ کس طرح آر اے ایف کی کامیابی کے پیچھے ایک خفیہ ہتھیار بن گیا appeared first on HEAVY."
+      "title_ur": "مشرق وسطی کے راستے پر سپر ٹینکر $510K ایک دن کی کمائی تک پہنچتے ہیں۔",
+      "desc_ur": "خلیج فارس کے اندر سے ایشیا تک خام تیل کی خریداری کرنے والے سپر ٹینکر کی آمدنی دو ماہ کی بلند ترین سطح کے قریب ہے، کیونکہ برآمد کنندگان آبنائے ہرمز کے ذریعے ایندھن کی فراہمی کے لیے مزید جہازوں کی تلاش میں ہیں حالانکہ سیکیورٹی کی صورتحال غیر یقینی ہے۔"
     },
     {
-      "title": "Europe opens mostly lower on Middle East concerns",
-      "desc": "Major stock markets in Europe opened lower on Tuesday after United States President Donald Trump claimed that he is not looking to extend the memorandum of understanding with Iran, and threatened that...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/58e4aeaa9a34ec51",
-      "time": "2026-08-18T07:05:12",
-      "country": "Iran",
-      "title_ur": "مشرق وسطیٰ کے خدشات پر یورپ زیادہ تر کم کھلتا ہے۔",
-      "desc_ur": "امریکی صدر ڈونلڈ ٹرمپ کی جانب سے یہ دعویٰ کرنے کے بعد کہ وہ ایران کے ساتھ مفاہمت کی یادداشت میں توسیع نہیں کر رہے ہیں، اور دھمکی دی تھی کہ منگل کو یورپ کی بڑی سٹاک مارکیٹیں نیچے کھل گئیں۔"
+      "title": "'Every Single Part': CNN Fact Checker Hits Trump Over Wildly 'False' New Claims",
+      "desc": "Daniel Dale hit the president with some blunt truths.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/daniel-dale-trump-south-korea_n_6a8403bae4b0ddd9c1b3637a",
+      "time": "2026-08-18T08:16:52",
+      "country": "US",
+      "title_ur": "'ہر ایک حصہ': CNN فیکٹ چیکر نے ٹرمپ کو وحشیانہ طور پر 'جھوٹے' نئے دعووں پر مارا۔",
+      "desc_ur": "ڈینیل ڈیل نے صدر کو کچھ دو ٹوک سچائیوں سے نشانہ بنایا۔"
     },
     {
-      "title": "Oil prices rise as US-Iran ceasefire ends; UK wage growth slows amid cost of living squeeze – business live",
-      "desc": "Brent crude climbs above $91 a barrel \nGood morning, and welcome to our rolling coverage of the global economy, the financial markets, the eurozone and business.\nOil prices have risen, trading above $90 a barrel, as hopes faded for a deal to end war in the Mi…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/ba7a261cd32043b7",
-      "time": "2026-08-18T07:05:01",
+      "title": "Live updates: Bitcoin holds $64,000 as surging yields and oil drain risk appetite",
+      "desc": "The 30-year Treasury yield hit its highest since 2007 and Brent topped $91 as the US-Iran conflict escalates, pressuring stocks. Bitcoin is holding its range, for now.",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/08/18/live-updates-bitcoin-holds-usd64-000-as-surging-yields-and-oil-drain-risk-appetite",
+      "time": "2026-08-18T08:16:11",
       "country": "Iran",
-      "title_ur": "امریکہ ایران جنگ بندی ختم ہوتے ہی تیل کی قیمتوں میں اضافہ۔ یوکے کی اجرت میں اضافہ سست روی کا شکار رہنے کی لاگت کے درمیان - کاروبار لائیو",
-      "desc_ur": "برینٹ کروڈ 91 ڈالر فی بیرل سے اوپر چڑھ گیا۔ \nصبح بخیر، اور عالمی معیشت، مالیاتی منڈیوں، یورو زون اور کاروبار کی ہماری رولنگ کوریج میں خوش آمدید۔\nتیل کی قیمتوں میں اضافہ ہوا ہے، 90 ڈالر فی بیرل سے اوپر تجارت کر رہی ہے، کیونکہ ایم آئی میں جنگ کے خاتمے کے لیے معاہدے کی امیدیں ختم ہو گئی ہیں…"
+      "title_ur": "لائیو اپ ڈیٹس: بڑھتی ہوئی پیداوار اور تیل کی نکاسی کے خطرے کی بھوک کے طور پر بٹ کوائن $64,000 رکھتا ہے",
+      "desc_ur": "30 سالہ ٹریژری کی پیداوار 2007 کے بعد اپنی بلند ترین سطح پر پہنچ گئی اور برینٹ $91 میں سب سے اوپر ہو گیا کیونکہ امریکہ-ایران تنازعہ بڑھتا جا رہا ہے، اسٹاک پر دباؤ ہے۔ Bitcoin ابھی کے لیے اپنی حد کو پکڑ رہا ہے۔"
     },
     {
-      "title": "Trump Threatens Oman, Rejects Iran Truce Extension | Daybreak Europe 8/18/2026",
-      "desc": "Bloomberg Daybreak Europe is your essential morning viewing to stay ahead. Live from London, we set the agenda for your day, ...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/1a1d96da9166eb5f",
-      "time": "2026-08-18T07:02:15",
+      "title": "Trump says N Korea’s Kim has responded to his request for a conversation - Al Jazeera",
+      "desc": "Trump says N Korea’s Kim has responded to his request for a conversationAl Jazeera Trump says North Korea's Kim has responded to his overturesReuters South Korea must brace for ‘worst-case scenario,’ President Lee says, as Trump cuts military drillsCNBC ‘Not …",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185034608",
+      "time": "2026-08-18T08:12:35",
+      "country": "US",
+      "title_ur": "ٹرمپ کا کہنا ہے کہ شمالی کوریا کے کم نے ان کی بات چیت کی درخواست کا جواب دیا ہے - الجزیرہ",
+      "desc_ur": "ٹرمپ کا کہنا ہے کہ شمالی کوریا کے کِم نے گفتگو کے لیے ان کی درخواست کا جواب دیا ہےالجزیرہ ٹرمپ کا کہنا ہے کہ شمالی کوریا کے کِم نے ان کی باتوں کا جواب دیا ہے رائٹرز جنوبی کوریا کو ’بدترین صورت حال‘ کے لیے تیار رہنا چاہیے، صدر لی کا کہنا ہے کہ ٹرمپ نے فوجی مشقوں میں کمی کرتے ہوئے سی این بی سی ’نہیں…"
+    },
+    {
+      "title": "What to watch in Tuesday’s Florida primary elections",
+      "desc": "Islamophobia, anti-Semitism, Trump's politics and Israel's war on Gaza figure prominently in the elections.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/8/18/what-to-watch-in-tuesdays-florida-primary-elections",
+      "time": "2026-08-18T08:08:39",
+      "country": "Israel",
+      "title_ur": "منگل کے فلوریڈا کے پرائمری انتخابات میں کیا دیکھنا ہے۔",
+      "desc_ur": "انتخابات میں اسلام فوبیا، یہود دشمنی، ٹرمپ کی سیاست اور غزہ پر اسرائیل کی جنگ نمایاں طور پر نمایاں ہے۔"
+    },
+    {
+      "title": "Negev resident arrested for planning terror attack in Be'er Sheva",
+      "desc": "The Israel Police and Shin Bet arrested a resident of the Negev who is suspected of having contact with a foreign agent, possessing weapons, and planning terrorist activity and an attack in Be’er Sheva.The State Attorney’s Office filed a serious indictment ag…",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/flashes/691958",
+      "time": "2026-08-18T08:08:29",
+      "country": "Israel",
+      "title_ur": "نیگیو کا رہائشی بیئر شیوا میں دہشت گردانہ حملے کی منصوبہ بندی کے الزام میں گرفتار",
+      "desc_ur": "اسرائیلی پولیس اور شن بیٹ نے نیگیو کے ایک رہائشی کو گرفتار کیا جس پر ایک غیر ملکی ایجنٹ کے ساتھ رابطے، ہتھیار رکھنے، دہشت گردانہ سرگرمیوں اور بیئر شیوا میں حملے کی منصوبہ بندی کرنے کا شبہ ہے۔"
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures extend losses amid US-Iran tensions",
+      "desc": "",
+      "source": "Yahoo Entertainment",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_0965915a-0da8-4560-a565-5a3f3c41fe37",
+      "time": "2026-08-18T08:08:22",
       "country": "Iran",
-      "title_ur": "ٹرمپ کی عمان کو دھمکی، ایران نے جنگ بندی کی توسیع کو مسترد کر دیا | ڈے بریک یورپ 8/18/2026",
-      "desc_ur": "بلومبرگ ڈے بریک یورپ آپ کو آگے رہنے کے لیے صبح کا لازمی نظارہ ہے۔ لندن سے لائیو، ہم نے آپ کے دن کا ایجنڈا ترتیب دیا،..."
+      "title_ur": "اسٹاک مارکیٹ آج: ڈاؤ، ایس اینڈ پی 500، نیس ڈیک فیوچرز نے امریکہ ایران کشیدگی کے درمیان خسارے کو بڑھا دیا",
+      "desc_ur": ""
+    },
+    {
+      "title": "Israel says it killed October 7 terrorist in Gaza",
+      "desc": "The Israel Defense Forces (IDF) said on Tuesday that they killed Tarek Anwar al-Ra’i, a commander in the Palestinian Islamic Jihad. He allegedly took part in the terror attack on Israel on October 7, ...",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/6bd62af9c8234d6d",
+      "time": "2026-08-18T08:05:47",
+      "country": "Israel",
+      "title_ur": "اسرائیل کا کہنا ہے کہ اس نے 7 اکتوبر کو غزہ میں دہشت گرد کو ہلاک کیا۔",
+      "desc_ur": "اسرائیل ڈیفنس فورسز (IDF) نے منگل کو کہا کہ انہوں نے فلسطینی اسلامی جہاد کے ایک کمانڈر طارق انور الرعی کو ہلاک کر دیا۔ اس نے مبینہ طور پر 7 اکتوبر کو اسرائیل پر ہونے والے دہشت گردانہ حملے میں حصہ لیا تھا۔"
     }
   ],
   "pakistan": [
+    {
+      "title": "India Vs Pakistan In High-Stakes Hockey World Cup Clash",
+      "desc": "India will face arch-rivals Pakistan in a crucial FIH Men's Hockey World Cup Pool D match, needing at least a draw to advance, while Pakistan must win to stay in the tournament.",
+      "source": "Rediff.com",
+      "url": "https://www.rediff.com/sports/report/india-vs-pakistan-clash-could-decide-fih-hockey-world-cup-qualification-preview-key-players-and-qualification-scenarios/20260818.htm",
+      "time": "2026-08-18T08:03:34",
+      "country": "Pakistan",
+      "title_ur": "ہاکی ورلڈ کپ میں بھارت بمقابلہ پاکستان کا مقابلہ",
+      "desc_ur": "FIH مردوں کے ہاکی ورلڈ کپ کے پول ڈی کے ایک اہم میچ میں بھارت کا مقابلہ پاکستان کے روایتی حریفوں سے ہوگا، اسے آگے بڑھنے کے لیے کم از کم ڈرا کی ضرورت ہے، جبکہ پاکستان کو ٹورنامنٹ میں رہنے کے لیے جیتنا ضروری ہے۔"
+    },
     {
       "title": "India vs Pakistan: Knockout dream and survival on the line in Hockey WC blockbuster clash",
       "desc": "India seeks to extend its unbeaten streak against Pakistan in the Hockey World Cup. A draw will secure India's progression to the tournament's second round. Pakistan must win to keep their World Cup campaign alive. Both teams aim to control emotions and focus…",
@@ -162,26 +172,6 @@
       "country": "Pakistan",
       "title_ur": "بھارت بمقابلہ پاکستان: ہاکی ڈبلیو سی بلاک بسٹر تصادم میں ناک آؤٹ خواب اور بقا لائن پر",
       "desc_ur": "ہندوستان ہاکی ورلڈ کپ میں پاکستان کے خلاف اپنی ناقابل شکست سیریز کو بڑھانے کی کوشش کر رہا ہے۔ ڈرا ہونے سے ٹورنامنٹ کے دوسرے راؤنڈ میں ہندوستان کی ترقی یقینی ہو جائے گی۔ ورلڈ کپ کی مہم کو برقرار رکھنے کے لیے پاکستان کو جیتنا ضروری ہے۔ دونوں ٹیموں کا مقصد جذبات کو کنٹرول کرنا اور توجہ مرکوز کرنا ہے…"
-    },
-    {
-      "title": "Hockey Legend Samiullah Khan's Game Plan For Pakistan Vs India",
-      "desc": "Pakistan hockey legend Samiullah Khan has advised his team to focus on a strong defence and avoid conceding penalty corners in their crucial FIH World Cup pool match against India. He also highlighted the need for a long-term vision in Pakistan hockey, simila…",
-      "source": "Rediff.com",
-      "url": "https://www.rediff.com/sports/report/pakistan-hockey-legend-samiullahs-india-match-strategy/20260818.htm",
-      "time": "2026-08-18T07:27:33",
-      "country": "Pakistan",
-      "title_ur": "ہاکی لیجنڈ سمیع اللہ خان کا پاکستان بمقابلہ انڈیا کے لیے گیم پلان",
-      "desc_ur": "پاکستان ہاکی کے لیجنڈ سمیع اللہ خان نے اپنی ٹیم کو مشورہ دیا ہے کہ وہ ایک مضبوط دفاع پر توجہ مرکوز کرے اور ہندوستان کے خلاف ایف آئی ایچ ورلڈ کپ کے اپنے اہم پول میچ میں پنالٹی کارنر کو تسلیم کرنے سے گریز کرے۔ انہوں نے پاکستان ہاکی میں طویل المدتی وژن کی ضرورت پر بھی روشنی ڈالی۔"
-    },
-    {
-      "title": "Quote of the Day by Ex-US President John Adams: ‘I must judge for myself, but how can I judge, how can any man judge, unless his mind has been…’ - How can reading regularly transform the way you think?",
-      "desc": "John Adams believed reading expands the mind for better judgment.  Access to information today requires critical evaluation and thoughtful consideration.  Reading exposes individuals to diverse ideas and encourages questioning assumptions.  This practice fost…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-by-ex-us-president-john-adams-i-must-judge-for-myself-but-how-can-i-judge-how-can-any-man-judge-unless-his-mind-has-been-how-can-reading-regularly-transform-the-way-you-think/articleshow/133314549.cms",
-      "time": "2026-08-18T07:20:16",
-      "country": "Pakistan",
-      "title_ur": "سابق امریکی صدر جان ایڈمز کا اس دن کا اقتباس: 'مجھے اپنے لیے فیصلہ کرنا چاہیے، لیکن میں کیسے فیصلہ کر سکتا ہوں، کوئی بھی آدمی کیسے فیصلہ کر سکتا ہے، جب تک کہ اس کا دماغ نہ ہو...' - باقاعدگی سے پڑھنا آپ کے سوچنے کے انداز کو کیسے بدل سکتا ہے؟",
-      "desc_ur": "جان ایڈمز کا خیال تھا کہ پڑھنا بہتر فیصلے کے لیے ذہن کو وسعت دیتا ہے۔  آج معلومات تک رسائی کے لیے تنقیدی جائزہ اور سوچ سمجھ کر غور کرنے کی ضرورت ہے۔  پڑھنا افراد کو متنوع خیالات سے روشناس کرتا ہے اور سوالیہ مفروضوں کی حوصلہ افزائی کرتا ہے۔  یہ پریکٹس فوسٹ…"
     }
   ],
   "business": {
