@@ -1,167 +1,207 @@
 {
-  "generated": "2026-08-19T00:52:57Z",
+  "generated": "2026-08-19T02:14:59Z",
   "world": [
     {
-      "title": "Strong earnings propel mid- and small-cap stocks to a significant rally on D-St",
-      "desc": "Mid and small-cap firms achieved their sharpest revenue growth in sixteen quarters. Aggregate revenue climbed twenty percent, and operating profit rose twenty-seven percent. Net profit surged twenty-three percent, marking a second quarter of double-digit grow…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/strong-earnings-support-mid-small-caps-d-street-run/articleshow/133308944.cms",
-      "time": "2026-08-18T00:50:12",
-      "country": "International",
-      "title_ur": "مضبوط آمدنی درمیانی اور چھوٹے کیپ اسٹاکس کو D-St",
-      "desc_ur": "مڈ اور سمال کیپ فرموں نے سولہ سہ ماہیوں میں اپنی تیز ترین آمدنی میں اضافہ کیا۔ مجموعی آمدنی میں بیس فیصد اضافہ ہوا، اور آپریٹنگ منافع ستائیس فیصد بڑھ گیا۔ خالص منافع میں تئیس فیصد اضافہ ہوا، جو کہ دوہرے ہندسوں کی دوسری سہ ماہی میں اضافہ ہوا…"
-    },
-    {
-      "title": "WSJ torches Trump's 'act of appeasement' toward dictator: 'The world is wondering'",
-      "desc": "President Donald Trump got a fresh tongue-lashing from the Wall Street Journal editorial board for his latest \"act of appeasement\" against North Korean dictator Kim Jong Un.The president plans to significantly cut back on military exercises with South Korea —…",
-      "source": "Raw Story",
-      "url": "https://www.rawstory.com/trump-north-korea-2677718379/",
-      "time": "2026-08-18T00:49:01",
-      "country": "US",
-      "title_ur": "ڈبلیو ایس جے نے ڈکٹیٹر کی طرف ٹرمپ کے 'مطمئنانہ عمل' کو جلا بخشی: 'دنیا حیران ہے'",
-      "desc_ur": "صدر ڈونلڈ ٹرمپ کو وال سٹریٹ جرنل کے ادارتی بورڈ کی جانب سے شمالی کوریا کے آمر کم جونگ اُن کے خلاف ان کے تازہ ترین \"مطمئنانہ اقدام\" کے لیے ایک تازہ زبانی کوڑے مارے گئے۔ صدر جنوبی کوریا کے ساتھ فوجی مشقوں میں نمایاں کمی کرنے کا ارادہ رکھتے ہیں —…"
-    },
-    {
-      "title": "Likud primaries | With 25% of votes counted: Eli Cohen, Yariv Levin, and Amir Ohana lead",
-      "desc": "Vote counting in the Likud primaries continues, with preliminary results placing Eli Cohen, Yariv Levin, and Amir Ohana at the top of the board.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/431854",
-      "time": "2026-08-18T00:45:43",
-      "country": "International",
-      "title_ur": "لیکوڈ پرائمریز | 25% ووٹوں کی گنتی کے ساتھ: ایلی کوہن، یاریو لیون، اور امیر اوہانا آگے ہیں۔",
-      "desc_ur": "لیکوڈ پرائمریز میں ووٹوں کی گنتی جاری ہے، ابتدائی نتائج میں ایلی کوہن، یاریو لیون، اور امیر اوہانا بورڈ میں سرفہرست ہیں۔"
-    },
-    {
-      "title": "Oman-Iran talks progress on Strait of Hormuz shipping corridor: WSJ",
-      "desc": "The progress in Oman-Iran talks could stabilize global oil trade, easing geopolitical tensions and enhancing economic security in the region.\nThe post Oman-Iran talks progress on Strait of Hormuz shipping corridor: WSJ appeared first on Crypto Briefing.",
+      "title": "Iran isn’t speaking to Trump directly, and Russia and China have made sure it doesn’t have to",
+      "desc": "Iran's reliance on Russia and China for diplomatic strategies may prolong indirect negotiations, affecting US-Iran diplomatic progress.\nThe post Iran isn’t speaking to Trump directly, and Russia and China have made sure it doesn’t have to appeared first on Cr…",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/oman-iran-talks-progress-on-strait-of-hormuz-shipping-corridor-wsj/",
-      "time": "2026-08-18T00:43:19",
+      "url": "https://cryptobriefing.com/iran-isnt-speaking-to-trump-directly-and-russia-and-china-have-made-sure-it/",
+      "time": "2026-08-18T02:12:46",
       "country": "Iran",
-      "title_ur": "عمان اور ایران کے درمیان آبنائے ہرمز شپنگ کوریڈور پر پیش رفت پر بات چیت: ڈبلیو ایس جے",
-      "desc_ur": "عمان ایران مذاکرات میں پیش رفت تیل کی عالمی تجارت کو مستحکم کر سکتی ہے، جغرافیائی سیاسی کشیدگی کو کم کر سکتی ہے اور خطے میں اقتصادی سلامتی کو بڑھا سکتی ہے۔\nThe post عمان ایران آبنائے ہرمز شپنگ کوریڈور پر پیش رفت پر بات چیت: ڈبلیو ایس جے appeared first on Crypto Briefing."
+      "title_ur": "ایران ٹرمپ سے براہ راست بات نہیں کر رہا ہے، اور روس اور چین نے اس بات کو یقینی بنایا ہے کہ ایسا نہ ہو۔",
+      "desc_ur": "سفارتی حکمت عملیوں کے لیے ایران کا روس اور چین پر انحصار بالواسطہ مذاکرات کو طول دے سکتا ہے جس سے امریکہ ایران سفارتی پیشرفت متاثر ہو سکتی ہے۔\nThe post ایران ٹرمپ سے براہ راست بات نہیں کر رہا اور روس اور چین نے اس بات کو یقینی بنایا ہے کہ اسے ایسا کرنے کی ضرورت نہیں ہے appeared first on Cr…"
     },
     {
-      "title": "Trump's slight of South Korea in favor of North raises broader US security concerns",
-      "desc": "President Donald Trump’s decision to scale back joint military exercises with South Korea does not just slight a longtime ally",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/US/wireStory/trumps-slight-south-korea-favor-north-raises-broader-135724877",
-      "time": "2026-08-18T00:41:46",
+      "title": "Dollar feeble as rate hike bets dwindle, Iran war worries grow",
+      "desc": "The U.S. dollar weakened against major currencies as traders scaled back tightening expectations. Soft economic data, including retail sales and job losses, influenced these shifts. Traders now see a lower chance of a Federal Reserve rate hike in September. E…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-feeble-as-rate-hike-bets-dwindle-iran-war-worries-grow/articleshow/133309496.cms",
+      "time": "2026-08-18T02:08:00",
+      "country": "Iran",
+      "title_ur": "ریٹ میں اضافے کی شرطیں کم ہونے سے ڈالر کمزور، ایران جنگ کے خدشات بڑھ رہے ہیں۔",
+      "desc_ur": "امریکی ڈالر بڑی کرنسیوں کے مقابلے میں کمزور ہو گیا کیونکہ تاجروں نے توقعات کو کم کر دیا۔ نرم معاشی اعداد و شمار، بشمول خوردہ فروخت اور ملازمت کے نقصانات نے ان تبدیلیوں کو متاثر کیا۔ تاجروں کو اب ستمبر میں فیڈرل ریزرو کی شرح میں اضافے کا کم امکان نظر آتا ہے۔ ای…"
+    },
+    {
+      "title": "Jared Kushner admits Iran peace deal talks are in dire straits and warns Trump will have to be 'very patient'",
+      "desc": "Jared Kushner admitted that a peace deal with Iran is 'not there yet,' as he championed the 'good dialogue' between the US and Iran.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16059557/jared-kushner-peace-deal-iran-trump-hamas-negotiations.html",
+      "time": "2026-08-18T02:07:32",
+      "country": "Iran",
+      "title_ur": "جیرڈ کشنر نے اعتراف کیا کہ ایران امن معاہدے کی بات چیت شدید مشکلات کا شکار ہے اور انتباہ کیا ہے کہ ٹرمپ کو 'بہت صبر' کرنا پڑے گا۔",
+      "desc_ur": "جیرڈ کشنر نے اعتراف کیا کہ ایران کے ساتھ امن معاہدہ 'ابھی تک نہیں ہوا'، کیونکہ اس نے امریکہ اور ایران کے درمیان 'اچھی بات چیت' کی حمایت کی۔"
+    },
+    {
+      "title": "The Taliban has brought Afghanistan close to collapse, but resistance is growing",
+      "desc": "Armed groups are challenging the group’s hold on power. Can they present a united front?",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/the-taliban-has-brought-afghanistan-close-to-collapse-but-resistance-is-growing-289880",
+      "time": "2026-08-18T02:06:44",
+      "country": "Afghanistan",
+      "title_ur": "طالبان نے افغانستان کو تباہی کے قریب پہنچا دیا ہے لیکن مزاحمت بڑھ رہی ہے۔",
+      "desc_ur": "مسلح گروہ اقتدار پر گروپ کی گرفت کو چیلنج کر رہے ہیں۔ کیا وہ متحدہ محاذ پیش کر سکتے ہیں؟"
+    },
+    {
+      "title": "US won’t allow Gaza reconstruction until Hamas disarms – Kushner",
+      "desc": "Trump envoy Jared Kushner says the US will not allow Gaza to be rebuilt until the enclave is demilitarized and Hamas gives up its weapons Read Full Article at RT.com",
+      "source": "RT",
+      "url": "https://www.rt.com/news/644346-kushner-gaza-not-rebuild/",
+      "time": "2026-08-18T02:03:43",
+      "country": "Israel",
+      "title_ur": "امریکا غزہ کی تعمیر نو کی اجازت اس وقت تک نہیں دے گا جب تک حماس کو غیر مسلح نہیں کیا جاتا: کشنر",
+      "desc_ur": "ٹرمپ کے ایلچی جیرڈ کشنر کا کہنا ہے کہ امریکہ اس وقت تک غزہ کی تعمیر نو کی اجازت نہیں دے گا جب تک کہ انکلیو کو غیرفوجی طور پر ختم نہیں کیا جاتا اور حماس اپنے ہتھیار ترک نہیں کر دیتی RT.com پر مکمل مضمون پڑھیں"
+    },
+    {
+      "title": "Dollar weakens as Fed rate hike bets dwindle, Iran tensions rise",
+      "desc": "The weakening dollar amid reduced Fed rate hike expectations and Iran tensions suggests increased market volatility and potential gold price rises.\nThe post Dollar weakens as Fed rate hike bets dwindle, Iran tensions rise appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/dollar-weakens-as-fed-rate-hike-bets-dwindle-iran-tensions-rise/",
+      "time": "2026-08-18T02:02:50",
+      "country": "Iran",
+      "title_ur": "فیڈ کی شرح میں اضافے کے شرطوں میں کمی، ایران میں کشیدگی بڑھنے سے ڈالر کمزور ہو گیا۔",
+      "desc_ur": "فیڈ کی شرح میں اضافے کی توقعات میں کمی اور ایران کے تناؤ کے درمیان کمزور ہوتا ہوا ڈالر مارکیٹ میں اتار چڑھاؤ اور سونے کی قیمت میں ممکنہ اضافے کی تجویز کرتا ہے۔\nThe post ڈالر کمزور، فیڈ ریٹ میں اضافے کی شرطیں کم، ایران میں کشیدگی بڑھ گئی appeared first on Crypto Briefing."
+    },
+    {
+      "title": "Trump’s Slight of South Korea Raises Broader Concerns",
+      "desc": "“President Donald Trump’s decision to scale back joint military exercises with South Korea does not just slight a longtime ally but raises broader concerns about the security interests of the United States in Asia and elsewhere,” the Associated Press reports.…",
+      "source": "Politicalwire.com",
+      "url": "https://politicalwire.com/2026/08/17/trumps-slight-of-south-korea-raises-broader-concerns/",
+      "time": "2026-08-18T02:02:00",
       "country": "US",
-      "title_ur": "شمالی کوریا کے حق میں ٹرمپ کی جانب سے جنوبی کوریا کو معمولی سمجھنا امریکہ کے وسیع تر تحفظات کو جنم دیتا ہے۔",
-      "desc_ur": "صدر ڈونلڈ ٹرمپ کا جنوبی کوریا کے ساتھ مشترکہ فوجی مشقوں کو کم کرنے کا فیصلہ ایک دیرینہ ساتھی کو معمولی نہیں ہے۔"
+      "title_ur": "جنوبی کوریا کے بارے میں ٹرمپ کی معمولی سی تشویش وسیع تر خدشات کو جنم دیتی ہے۔",
+      "desc_ur": "ایسوسی ایٹڈ پریس کی رپورٹ کے مطابق، \"صدر ڈونلڈ ٹرمپ کا جنوبی کوریا کے ساتھ مشترکہ فوجی مشقوں کو کم کرنے کا فیصلہ نہ صرف ایک دیرینہ اتحادی کو معمولی بناتا ہے بلکہ ایشیا اور دیگر جگہوں پر امریکہ کے سلامتی کے مفادات کے بارے میں وسیع تر خدشات کو جنم دیتا ہے۔\""
     },
     {
-      "title": "Trump explains his war exercises decision with South Korea - The Hill",
-      "desc": "Trump explains his war exercises decision with South KoreaThe Hill ‘Not the way it works’: Korea’s miscalculation on trade may cost them on securityPolitico Trump Will Make South Korea Pay for His Iran HumiliationThe Atlantic Trump defends his move to cut bac…",
+      "title": "Weak opening seen for Nifty, Sensex",
+      "desc": "Gift Nifty signals gap-down; ICRA sees Q1 GDP growth easing to 7%; oil risks in focus",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/weak-opening-seen-for-nifty-sensex/article71358748.ece",
+      "time": "2026-08-18T02:01:08",
+      "country": "US",
+      "title_ur": "نفٹی، سینسیکس کے لیے کمزور آغاز دیکھا گیا۔",
+      "desc_ur": "گفٹ نفٹی سگنلز گیپ ڈاؤن؛ آئی سی آر اے کو پہلی سہ ماہی کی جی ڈی پی کی شرح نمو 7 فیصد پر آ رہی ہے۔ توجہ میں تیل کے خطرات"
+    },
+    {
+      "title": "Asia mixed on Iran deal expiration, oil jump",
+      "desc": "South Korea's Kospi Composite gained 1.06% at 3:56 am CET. Japan's Nikkei 225 fell by 1.07% at the same time. Hong Kong's Hang Seng decreased by 0.55% at the same time. On the Chinese mainland, the Sh...",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/dd76de335df2de71",
+      "time": "2026-08-18T01:59:56",
+      "country": "Iran",
+      "title_ur": "ایران کے معاہدے کی میعاد ختم ہونے پر، تیل کی چھلانگ پر ایشیا ملا",
+      "desc_ur": "جنوبی کوریا کا کوسپی کمپوزٹ صبح 3:56 بجے CET پر 1.06% بڑھ گیا۔ جاپان کا نکی 225 اسی وقت 1.07 فیصد گر گیا۔ ہانگ کانگ کے ہینگ سینگ میں اسی وقت 0.55 فیصد کمی واقع ہوئی۔ چینی سرزمین پر، ش..."
+    },
+    {
+      "title": "Sensex Today | Stock Market LIVE Updates: GIFT Nifty signals a negative start; Asian shares trade higher",
+      "desc": "Sensex Today | Nifty 50 | Stock Market Live Updates: The Strait of Hormuz and crude oil prices are likely to remain key near-term drivers, with conflicting US-Iran positions clouding hopes of an early resolution and raising the risk of elevated oil prices. In…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-airtel-paytm-share-price-18-august-2026/liveblog/133309391.cms",
+      "time": "2026-08-18T01:56:51",
+      "country": "Iran",
+      "title_ur": "سینسیکس آج | اسٹاک مارکیٹ لائیو اپ ڈیٹس: گفٹ نفٹی منفی آغاز کا اشارہ دیتا ہے۔ ایشیائی حصص کی تجارت زیادہ ہے۔",
+      "desc_ur": "سینسیکس آج | نفٹی 50 | سٹاک مارکیٹ لائیو اپ ڈیٹس: آبنائے ہرمز اور خام تیل کی قیمتیں قریبی مدت کے لیے کلیدی محرک رہنے کا امکان ہے، جس میں متضاد امریکی-ایران پوزیشنیں جلد از جلد حل کی امیدوں پر بادل ڈال رہی ہیں اور تیل کی قیمتوں میں اضافے کے خطرے کو بڑھا رہی ہیں۔ میں…"
+    },
+    {
+      "title": "Large fire breaks out at fuel depot near Iraq’s Sulaimaniyah",
+      "desc": "At least 20 injured and dozens of fuel tankers destroyed as flames rip through warehouse near northern Kurdish city.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/8/18/large-fire-breaks-out-at-fuel-depot-near-iraqs-sulaimaniyah",
+      "time": "2026-08-18T01:54:01",
+      "country": "Iraq",
+      "title_ur": "عراق کے سلیمانیہ کے قریب ایندھن کے ڈپو میں بڑی آگ بھڑک اٹھی۔",
+      "desc_ur": "شمالی کرد شہر کے قریب گودام میں آگ لگنے سے کم از کم 20 زخمی اور درجنوں ایندھن کے ٹینکر تباہ ہو گئے۔"
+    },
+    {
+      "title": "Facing Quagmire in Iran, Trump Turns to a Familiar Face: North Korea’s Kim Jong-un - The New York Times",
+      "desc": "Facing Quagmire in Iran, Trump Turns to a Familiar Face: North Korea’s Kim Jong-unThe New York Times Trump’s decision to scale back South Korea drills unsettles Asian allies: ‘makes no sense’South China Morning Post ‘Not the way it works’: Korea’s miscalculat…",
       "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185028848",
-      "time": "2026-08-18T00:33:10",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185030014",
+      "time": "2026-08-18T01:52:07",
       "country": "Iran",
-      "title_ur": "ٹرمپ نے جنوبی کوریا کے ساتھ اپنے جنگی مشقوں کے فیصلے کی وضاحت کی۔",
-      "desc_ur": "ٹرمپ نے جنوبی کوریا کے ساتھ اپنے جنگی مشقوں کے فیصلے کی وضاحت کیThe Hill 'وہ طریقہ نہیں جس طرح یہ کام کرتا ہے': تجارت پر کوریا کا غلط حساب کتاب انہیں سلامتی پر مہنگا پڑ سکتا ہے پولیٹیکو ٹرمپ جنوبی کوریا کو اپنی ایران کی تذلیل کا معاوضہ دے گا بحر اوقیانوس کے ٹرمپ نے اپنے اقدام کا دفاع کیا۔"
+      "title_ur": "ایران میں دلدل کا سامنا کرتے ہوئے، ٹرمپ ایک شناسا چہرے کی طرف مڑ گیا: شمالی کوریا کا کم جونگ ان – نیویارک ٹائمز",
+      "desc_ur": "ایران میں دلدل کا سامنا کرتے ہوئے، ٹرمپ ایک شناسا چہرے کی طرف متوجہ ہوا: شمالی کوریا کے کم جونگ اُن نیویارک ٹائمز ٹرمپ کے جنوبی کوریا کی مشقوں کو کم کرنے کے فیصلے نے ایشیائی اتحادیوں کو پریشان کر دیا: 'کوئی معنی نہیں رکھتا' ساؤتھ چائنا مارننگ پوسٹ 'جس طرح سے یہ کام کرتا ہے': کوریا کا غلط حساب…"
     },
     {
-      "title": "Armando Bacot uses NIL money to open new business",
-      "desc": "Armando Bacot left UNC as of the basketball program's greatest big men. Now entering his third pro season, Bacot is also a new business owner.",
-      "source": "USA Today",
-      "url": "https://tarheelswire.usatoday.com/story/sports/college/tarheels/mens-basketball/2026/08/17/unc-basketball-armando-bacot-nil-money-hotel-ownership/91342324007/",
-      "time": "2026-08-18T00:30:16",
-      "country": "US",
-      "title_ur": "Armando Bacot نیا کاروبار کھولنے کے لیے NIL رقم استعمال کرتا ہے۔",
-      "desc_ur": "ارمانڈو باکوٹ نے باسکٹ بال پروگرام کے سب سے بڑے آدمیوں کے طور پر UNC چھوڑ دیا۔ اب اپنے تیسرے پرو سیزن میں داخل ہو رہا ہے، بیکوٹ ایک نیا کاروباری مالک بھی ہے۔"
-    },
-    {
-      "title": "Pre-market action: Here's the trade setup for today's session",
-      "desc": "Domestic equities opened the week lower, with the Nifty closing down at 24,287 points. Analysts anticipate range-bound trading as focus shifts to global macro and geopolitical developments. The Strait of Hormuz and crude oil prices are key near-term drivers, …",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/133304467.cms",
-      "time": "2026-08-18T00:30:00",
-      "country": "US",
-      "title_ur": "پری مارکیٹ ایکشن: آج کے سیشن کا تجارتی سیٹ اپ یہ ہے۔",
-      "desc_ur": "گھریلو ایکوئٹی ہفتے میں نچلی سطح پر کھلی، نفٹی 24,287 پوائنٹس پر بند ہوا۔ تجزیہ کاروں کا اندازہ ہے کہ رینج سے منسلک تجارت کی وجہ سے عالمی میکرو اور جیو پولیٹیکل پیش رفت کی طرف توجہ مرکوز ہو جاتی ہے۔ آبنائے ہرمز اور خام تیل کی قیمتیں اہم قریبی مدتی ڈرائیور ہیں،…"
-    },
-    {
-      "title": "Wall Street indexes fall as oil prices rise amid US-Iran tensions",
-      "desc": "Investor caution amid geopolitical tensions and rising oil prices may signal broader economic volatility and supply chain challenges.\nThe post Wall Street indexes fall as oil prices rise amid US-Iran tensions appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/wall-street-indexes-fall-as-oil-prices-rise-amid-us-iran-tensions/",
-      "time": "2026-08-18T00:29:59",
-      "country": "Iran",
-      "title_ur": "امریکی ایران کشیدگی کے درمیان تیل کی قیمتوں میں اضافے کے باعث وال سٹریٹ کے اشاریہ جات گر گئے۔",
-      "desc_ur": "جغرافیائی سیاسی تناؤ اور تیل کی بڑھتی ہوئی قیمتوں کے درمیان سرمایہ کاروں کی احتیاط وسیع تر اقتصادی اتار چڑھاؤ اور سپلائی چین کے چیلنجز کا اشارہ دے سکتی ہے۔\nThe post امریکا ایران کشیدگی کے درمیان تیل کی قیمتوں میں اضافے سے وال اسٹریٹ انڈیکس گر گئے appeared first on Crypto Briefing."
-    },
-    {
-      "title": "Trump threatens to bomb Oman, tells Iran to surrender",
-      "desc": "Middle East News: Washington: US President Trump said Monday that Iran should surrender to end a war with the US as talks between the countries remained stalled. \\\"They .",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/trump-threatens-to-bomb-oman-tells-iran-to-surrender/articleshow/133308915.cms",
-      "time": "2026-08-18T00:26:55",
-      "country": "Iran",
-      "title_ur": "ٹرمپ کی عمان پر بمباری کی دھمکی، ایران کو ہتھیار ڈالنے کا کہا",
-      "desc_ur": "مڈل ایسٹ نیوز: واشنگٹن: امریکی صدر ٹرمپ نے پیر کو کہا کہ ایران کو امریکا کے ساتھ جنگ ​​ختم کرنے کے لیے ہتھیار ڈال دینا چاہیے کیونکہ ممالک کے درمیان مذاکرات تعطل کا شکار ہیں۔ \"وہ ."
-    },
-    {
-      "title": "Trump warns Iran, Oman amid Strait of Hormuz tensions",
-      "desc": "Rising tensions in the Strait of Hormuz could destabilize global oil markets and further strain US-Iran diplomatic relations, impacting regional stability.\nThe post Trump warns Iran, Oman amid Strait of Hormuz tensions appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/trump-warns-iran-oman-amid-strait-of-hormuz-tensions/",
-      "time": "2026-08-18T00:22:05",
-      "country": "Iran",
-      "title_ur": "ٹرمپ نے آبنائے ہرمز کشیدگی کے درمیان ایران اور عمان کو خبردار کیا۔",
-      "desc_ur": "آبنائے ہرمز میں بڑھتی ہوئی کشیدگی تیل کی عالمی منڈیوں کو غیر مستحکم کر سکتی ہے اور امریکہ ایران سفارتی تعلقات کو مزید کشیدہ کر سکتی ہے جس سے علاقائی استحکام متاثر ہو سکتا ہے۔\nThe post ٹرمپ نے آبنائے ہرمز کشیدگی کے درمیان ایران، عمان کو خبردار کردیا appeared first on Crypto Briefing."
-    },
-    {
-      "title": "US Navy blockade has caused Iran’s oil exports to crater — and could finally destabilize regime: expert",
-      "desc": "Iran’s oil exports have dropped to nearly zero under the renewed US naval blockade, according to analysis from a former senior US Treasury official — who predicts that the economic impacts could hit the elite and destabilize the regime within two to three mon…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-chat/4392148/posts",
-      "time": "2026-08-18T00:16:26",
-      "country": "Iran",
-      "title_ur": "امریکی بحریہ کی ناکہ بندی نے ایران کی تیل کی برآمدات کو گڑھے میں ڈال دیا ہے - اور آخر کار حکومت کو غیر مستحکم کر سکتا ہے: ماہر",
-      "desc_ur": "تجدید شدہ امریکی بحری ناکہ بندی کے تحت ایران کی تیل کی برآمدات تقریباً صفر تک گر گئی ہیں، امریکی محکمہ خزانہ کے ایک سابق سینئر اہلکار کے تجزیہ کے مطابق - جس نے پیش گوئی کی ہے کہ اقتصادی اثرات اشرافیہ کو متاثر کر سکتے ہیں اور دو سے تین مہینوں میں حکومت کو غیر مستحکم کر سکتے ہیں…"
-    },
-    {
-      "title": "Why Trump Is Threatening Again to Bomb Oman",
-      "desc": "Some U.S. officials see Oman as favoring Iran, while others say Trump is lashing out over failures to make a nuclear deal.",
+      "title": "Oil prices climb, bond yields rise as US-Iran ceasefire expires",
+      "desc": "By Gregor Stuart Hunter\nSINGAPORE, Aug 18 (Reuters) - Oil prices crept higher and bond yields rose, blunting paltry gains for stocks at the start of Asian trading on Tuesday as a U.S.-Iran truce expired and Tehran said it would shift to a \"fully offensive\" mi…",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/fed88db53e941274",
-      "time": "2026-08-18T00:13:54",
+      "url": "https://biztoc.com/x/0026ef91e87327ed",
+      "time": "2026-08-18T01:47:06",
       "country": "Iran",
-      "title_ur": "ٹرمپ ایک بار پھر عمان پر بمباری کی دھمکی کیوں دے رہے ہیں؟",
-      "desc_ur": "کچھ امریکی حکام عمان کو ایران کی حمایت کے طور پر دیکھتے ہیں، جب کہ کچھ کا کہنا ہے کہ ٹرمپ جوہری معاہدے میں ناکامی پر تنقید کر رہے ہیں۔"
+      "title_ur": "تیل کی قیمتوں میں اضافہ، امریکہ-ایران جنگ بندی کی میعاد ختم ہونے پر بانڈ کی پیداوار میں اضافہ",
+      "desc_ur": "بذریعہ گریگور اسٹورٹ ہنٹر\nسنگاپور، 18 اگست (رائٹرز) – تیل کی قیمتوں میں اضافہ ہوا اور بانڈ کی پیداوار میں اضافہ ہوا، جس سے منگل کو ایشیائی تجارت کے آغاز میں اسٹاک کے لیے معمولی فائدہ ہوا کیونکہ امریکی-ایران جنگ بندی کی میعاد ختم ہوگئی اور تہران نے کہا کہ وہ \"مکمل طور پر جارحانہ\" مائی…"
     },
     {
-      "title": "Iran War Pushes Middle Eastern Airlines Towards $4.3BN Loss In 2026",
-      "desc": "Iran War Pushes Middle Eastern Airlines Towards $4.3BN Loss In 2026\n \nVia Middle East Eye\nAs the US and Israel launched air strikes on Iran on February 28 2026, Iran struck back near US military installations in the Gulf, including in Qatar and the UAE. Sever…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/73e5aa0a49421b23",
-      "time": "2026-08-18T00:13:46",
-      "country": "Iran",
-      "title_ur": "ایران جنگ نے مشرق وسطیٰ کی ایئر لائنز کو 2026 میں 4.3 بلین ڈالر کے نقصان کی طرف دھکیل دیا",
-      "desc_ur": "ایران جنگ نے مشرق وسطیٰ کی ایئر لائنز کو 2026 میں 4.3 بلین ڈالر کے نقصان کی طرف دھکیل دیا\n \nمشرق وسطیٰ آئی کے ذریعے\nجیسے ہی امریکہ اور اسرائیل نے 28 فروری 2026 کو ایران پر فضائی حملے شروع کیے، ایران نے قطر اور متحدہ عرب امارات سمیت خلیج میں امریکی فوجی تنصیبات کے قریب جوابی حملہ کیا۔ منقطع…"
-    },
-    {
-      "title": "Top Airports and Airlines for Flight Deals in 2026 in the United States",
-      "desc": "Going — which is formerly known as Scott’s Cheap Flights until 2023 — released its annual lists of top airports and airlines for flight deals in 2026 in the United States; and it includes the ranking of the best airports in the United States for deals using p…",
-      "source": "Thegatewithbriancohen.com",
-      "url": "https://thegatewithbriancohen.com/top-airports-and-airlines-for-flight-deals-in-2026-in-the-united-states/",
-      "time": "2026-08-18T00:03:46",
+      "title": "'Totally normal!' Natalie Harp's weird letters to Trump give Jen Psaki the ick",
+      "desc": "President Donald Trump's White House aide, Natalie Harp, has a pattern of bizarre behavior around the president, MS NOW's Jen Psaki told viewers on Monday evening.The aide, sometimes described as \"the human printer,\" made headlines when Sen. Jon Ossoff (D-GA)…",
+      "source": "Raw Story",
+      "url": "https://www.rawstory.com/natalie-harp-2677718537/",
+      "time": "2026-08-18T01:45:27",
       "country": "US",
-      "title_ur": "ریاستہائے متحدہ میں 2026 میں فلائٹ ڈیلز کے لیے سرفہرست ہوائی اڈے اور ایئر لائنز",
-      "desc_ur": "Going — جسے پہلے Scott’s Cheap Flights کے نام سے 2023 تک جانا جاتا تھا — نے ریاستہائے متحدہ میں 2026 میں پروازوں کے سودوں کے لیے سرفہرست ہوائی اڈوں اور ایئر لائنز کی اپنی سالانہ فہرستیں جاری کیں۔ اور اس میں پی کا استعمال کرتے ہوئے سودوں کے لیے ریاستہائے متحدہ کے بہترین ہوائی اڈوں کی درجہ بندی شامل ہے…"
+      "title_ur": "'بالکل نارمل!' نٹالی ہارپ کے ٹرمپ کو لکھے گئے عجیب و غریب خطوط نے جین ساکی کو حیرت میں ڈال دیا۔",
+      "desc_ur": "صدر ڈونلڈ ٹرمپ کی وائٹ ہاؤس کی معاون، نٹالی ہارپ، صدر کے ارد گرد عجیب و غریب رویے کا نمونہ رکھتی ہیں، ایم ایس ناؤ کی جین ساکی نے پیر کی شام ناظرین کو بتایا۔ معاون، جسے بعض اوقات \"انسانی پرنٹر\" کے طور پر بھی بیان کیا جاتا ہے، اس وقت سرخیاں بنی جب سین جون اوسوف (D-GA)…"
+    },
+    {
+      "title": "Oil climbs as fading US-Iran peace hopes raise supply risks",
+      "desc": "Oil prices climbed as Middle East war peace talks stalled significantly. Iran announced a shift to a fully offensive military posture. The United States ruled out extending a temporary ceasefire agreement. Shipping through the Strait of Hormuz has drastically…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-climbs-as-fading-us-iran-peace-hopes-raise-supply-risks/articleshow/133309237.cms",
+      "time": "2026-08-18T01:43:28",
+      "country": "Iran",
+      "title_ur": "تیل کی قیمت بڑھ رہی ہے کیونکہ امریکہ ایران امن کی امیدیں سپلائی کے خطرات کو بڑھا رہی ہیں۔",
+      "desc_ur": "مشرق وسطیٰ کی جنگ امن مذاکرات نمایاں طور پر تعطل کے باعث تیل کی قیمتوں میں اضافہ ہوا۔ ایران نے مکمل طور پر جارحانہ فوجی پوزیشن میں تبدیلی کا اعلان کیا۔ امریکہ نے عارضی جنگ بندی معاہدے میں توسیع کو مسترد کر دیا۔ آبنائے ہرمز کے ذریعے جہاز رانی میں تیزی سے اضافہ ہوا ہے…"
     }
   ],
   "pakistan": [
     {
-      "title": "Global Market Today: Asian shares advance; oil rises on Middle East concerns",
-      "desc": "As peace prospects in the Middle East worsen, oil prices surged, reigniting fears about supply disruptions. Concurrently, US Treasury yields climbed to their highest levels in years, revealing investor anxiety over increased government expenditure. Asian mark…",
+      "title": "Crude prices cross $90 as ceasefire hopes dim, Hormuz disruption weighs on supply",
+      "desc": "Oil prices climbed Tuesday as Middle East war concerns persisted. Iran signaled a more offensive military approach, and the US rejected extending the ceasefire. Shipping through the Strait of Hormuz significantly decreased following recent attacks. Tensions a…",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-shares-advance-oil-rises-on-middle-east-concerns/articleshow/133308986.cms",
-      "time": "2026-08-18T00:52:33",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/crude-prices-cross-90-as-ceasefire-hopes-dim-hormuz-disruption-weighs-on-supply/articleshow/133309397.cms",
+      "time": "2026-08-18T02:03:45",
       "country": "Pakistan",
-      "title_ur": "گلوبل مارکیٹ آج: ایشیائی حصص میں پیش رفت؛ مشرق وسطیٰ کے خدشات پر تیل بڑھتا ہے۔",
-      "desc_ur": "جیسے جیسے مشرق وسطیٰ میں امن کے امکانات خراب ہوتے جا رہے ہیں، تیل کی قیمتوں میں اضافہ ہوا، جس سے سپلائی میں خلل پڑنے کا خدشہ پیدا ہو گیا۔ اس کے ساتھ ساتھ، یو ایس ٹریژری کی پیداوار سالوں میں اپنی بلند ترین سطح پر پہنچ گئی، جو حکومتی اخراجات میں اضافے پر سرمایہ کاروں کی بے چینی کو ظاہر کرتی ہے۔ ایشیائی نشان…"
+      "title_ur": "خام تیل کی قیمتیں 90 ڈالر سے تجاوز کر گئیں کیونکہ جنگ بندی کی امیدیں مدھم ہیں، ہرمز میں رکاوٹ سپلائی پر پڑی",
+      "desc_ur": "مشرق وسطیٰ میں جنگ کے خدشات برقرار رہنے کے باعث منگل کو تیل کی قیمتوں میں اضافہ ہوا۔ ایران نے مزید جارحانہ فوجی نقطہ نظر کا اشارہ دیا، اور امریکہ نے جنگ بندی میں توسیع کو مسترد کر دیا۔ حالیہ حملوں کے بعد آبنائے ہرمز کے ذریعے ترسیل میں نمایاں کمی واقع ہوئی ہے۔ تناؤ ایک…"
+    },
+    {
+      "title": "Gold extends gains on easing rate-hike fears, markets await Fed minutes",
+      "desc": "Gold prices advanced for a third straight session on Tuesday, with investors keenly anticipating the forthcoming Federal Reserve meeting minutes that could shape monetary policy. The softness in U.S. economic indicators has sparked optimism that the Fed may m…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-extends-gains-on-easing-rate-hike-fears-markets-await-fed-minutes/articleshow/133309281.cms",
+      "time": "2026-08-18T01:50:02",
+      "country": "Pakistan",
+      "title_ur": "سونا شرح میں اضافے کے خدشات کو کم کرنے پر فائدہ بڑھاتا ہے، مارکیٹیں فیڈ منٹ کا انتظار کرتی ہیں۔",
+      "desc_ur": "منگل کو سونے کی قیمتوں میں مسلسل تیسرے سیشن میں اضافہ ہوا، سرمایہ کاروں نے فیڈرل ریزرو کی آئندہ میٹنگ منٹس کی شدت سے توقع کی جو مانیٹری پالیسی کو تشکیل دے سکتے ہیں۔ امریکی اقتصادی اشاریوں میں نرمی نے اس امید کو جنم دیا ہے کہ Fed ممکن ہے…"
+    },
+    {
+      "title": "Hands off the constitution, Andy",
+      "desc": "For fans of British exceptionalism, the fact that the UK is only one of three of the world’s democracies without a written constitution — the other two being Israel and New Zealand — is yet another quirk to celebrate.\nFor critics, however, the lack of a singl…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/a15b14a855d7479e",
+      "time": "2026-08-18T01:29:49",
+      "country": "Pakistan",
+      "title_ur": "آئین سے دستبردار ہو جاؤ، اینڈی",
+      "desc_ur": "برطانوی استثنیٰ کے پرستاروں کے لیے، یہ حقیقت کہ برطانیہ تحریری آئین کے بغیر دنیا کی تین جمہوریتوں میں سے صرف ایک ہے — باقی دو اسرائیل اور نیوزی لینڈ — منانے کے لیے ایک اور نرالا ہے۔\nتاہم، ناقدین کے لیے سنگل کی کمی…"
+    },
+    {
+      "title": "How Bangladesh beat lure of white-ball riches to save its Tests",
+      "desc": "Bangladesh’s pace resources have now become the talk of the cricket town. They had shown their potential in demolishing Pakistan — both at home and away in last two years. The Test win in Darwin is the realisation of the talent and the immaculate process focu…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/how-bangladesh-beat-lure-of-white-ball-riches-to-save-its-tests/articleshow/133309118.cms",
+      "time": "2026-08-18T01:26:10",
+      "country": "Pakistan",
+      "title_ur": "بنگلہ دیش نے اپنے ٹیسٹ بچانے کے لیے سفید گیند کی دولت کے لالچ میں کیسے شکست دی؟",
+      "desc_ur": "بنگلہ دیش کے تیز رفتار وسائل اب کرکٹ ٹاؤن کی بات بن چکے ہیں۔ انہوں نے پاکستان کو منہدم کرنے کی اپنی صلاحیت کا مظاہرہ کیا تھا - پچھلے دو سالوں میں اندرون ملک اور باہر۔ ڈارون میں ٹیسٹ جیت ٹیلنٹ کا ادراک اور بے عیب عمل فوکس ہے…"
+    },
+    {
+      "title": "CNBC Daily Open: Markets caught between Mideast worries and AI optimism",
+      "desc": "Despite many promises of a deal and numerous start-stop negotiations, the war in the Middle East now threatens to restart and drag more countries into the fold.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/18/cnbc-daily-open-trump-iran-war-nvidia-oil-markets.html",
+      "time": "2026-08-18T01:13:51",
+      "country": "Pakistan",
+      "title_ur": "سی این بی سی ڈیلی اوپن: مشرق وسطی کی پریشانیوں اور اے آئی پرامید کے درمیان مارکیٹس",
+      "desc_ur": "معاہدے کے بہت سے وعدوں اور متعدد مذاکرات کے آغاز کے باوجود، مشرق وسطیٰ میں جنگ اب دوبارہ شروع ہونے اور مزید ممالک کو گھسیٹنے کا خطرہ ہے۔"
     }
   ],
   "business": {
@@ -180,7 +220,7 @@
         "low": 26,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 82
+        "precip": 76
       },
       {
         "date": "2026-08-20",
@@ -189,7 +229,7 @@
         "low": 26,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 84
+        "precip": 90
       },
       {
         "date": "2026-08-21",
@@ -207,7 +247,7 @@
         "low": 26,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 79
+        "precip": 78
       },
       {
         "date": "2026-08-23",
@@ -216,7 +256,7 @@
         "low": 25,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 90
+        "precip": 92
       },
       {
         "date": "2026-08-24",
@@ -225,7 +265,7 @@
         "low": 27,
         "condition": "Light Drizzle",
         "condition_ur": "ہلکی بوندا باندی",
-        "precip": 22
+        "precip": 27
       },
       {
         "date": "2026-08-25",
