@@ -1,158 +1,188 @@
 {
-  "generated": "2026-08-19T17:20:41Z",
+  "generated": "2026-08-19T17:48:33Z",
   "world": [
     {
-      "title": "Türkiye condemns Israeli strikes on Syrian air base",
-      "desc": "Türkiye has strongly condemned Israeli airstrikes on the Abu Duhur military air base in Syria’s northwestern Idlib province, calling them a violation of the country’s territorial integrity and unity.",
-      "source": "Hurriyet Daily News",
-      "url": "https://www.hurriyetdailynews.com/turkiye-condemns-israeli-strikes-on-syrian-air-base-225780",
-      "time": "2026-08-18T17:19:27",
-      "country": "Israel",
-      "title_ur": "ترکی نے شامی فضائی اڈے پر اسرائیلی حملوں کی مذمت کی ہے۔",
-      "desc_ur": "ترکی نے شام کے شمال مغربی صوبے ادلب میں ابو دہر فوجی اڈے پر اسرائیلی فضائی حملوں کی شدید مذمت کرتے ہوئے انہیں ملک کی علاقائی سالمیت اور اتحاد کی خلاف ورزی قرار دیا ہے۔"
-    },
-    {
-      "title": "Trump Is Signaling This To Kim Jong Un By Scaling Back Military Drills With South Korea: Expert",
-      "desc": "Trump cited his \"very good relationship\" with Kim Jong Un, paired with the high cost of the exercises, as the reasons behind his decision to scale the drills down.",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/forbestv/2026/08/18/trump-is-signaling-this-to-kim-jong-un-by-scaling-back-military-drills-with-south-korea-expert/",
-      "time": "2026-08-18T17:18:38",
-      "country": "US",
-      "title_ur": "ٹرمپ جنوبی کوریا کے ساتھ فوجی مشقیں کم کرکے کم جونگ ان کو اس کا اشارہ دے رہے ہیں: ماہر",
-      "desc_ur": "ٹرمپ نے کم جونگ اُن کے ساتھ اپنے \"بہت اچھے تعلقات\" کا حوالہ دیا، جو مشقوں کی اعلی قیمت کے ساتھ جوڑا، مشقوں کو کم کرنے کے اپنے فیصلے کے پیچھے وجوہات کے طور پر۔"
-    },
-    {
-      "title": "Dollar-Cost Averaging Into Bitcoin vs XRP Since the 2025 Peak: Which Crypto Held Up Better?",
-      "desc": "Bitcoin crashed 49% from its peak while XRP collapsed 73%, but the monthly buying strategy tells a completely different story about which crypto investors ac...",
-      "source": "24/7 Wall St.",
-      "url": "https://247wallst.com/investing/cryptocurrency/2026/08/18/dollar-cost-averaging-into-bitcoin-vs-xrp-since-the-2025-peak-which-crypto-held-up-better/",
-      "time": "2026-08-18T17:16:30",
-      "country": "International",
-      "title_ur": "2025 کی چوٹی کے بعد سے Bitcoin بمقابلہ XRP میں ڈالر کی لاگت: کون سا کرپٹو بہتر ہے؟",
-      "desc_ur": "بٹ کوائن اپنے عروج سے 49% گر کر تباہ ہو گیا جبکہ XRP 73% گر گیا، لیکن ماہانہ خریداری کی حکمت عملی بالکل مختلف کہانی بیان کرتی ہے جس کے بارے میں کرپٹو سرمایہ کار..."
-    },
-    {
-      "title": "The World’s Largest Electric Plane Just Flew for 27 Minutes on $5 of Electricity",
-      "desc": "Heart Aerospace's X1 will pave the way for a hybrid-electric commercial aircraft.",
-      "source": "Gizmodo.com",
-      "url": "https://gizmodo.com/the-worlds-largest-electric-plane-just-flew-for-27-minutes-on-5-of-electricity-2000799905",
-      "time": "2026-08-18T17:15:36",
-      "country": "US",
-      "title_ur": "دنیا کے سب سے بڑے الیکٹرک طیارے نے 5 ڈالر کی بجلی پر صرف 27 منٹ تک پرواز کی۔",
-      "desc_ur": "ہارٹ ایرو اسپیس کا X1 ہائبرڈ الیکٹرک کمرشل ہوائی جہاز کے لیے راہ ہموار کرے گا۔"
-    },
-    {
-      "title": "3 alarming predictions with the housing market on pace for its worst year since 2011",
-      "desc": "The US housing market is headed for its weakest year in over a decade, with home sales on track to fall to their lowest levels since 2011.",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/housing-market-outlook-home-prices-mortgage-rates-2026-8#article",
-      "time": "2026-08-18T17:14:46",
-      "country": "US",
-      "title_ur": "2011 کے بعد سے بدترین سال کے لیے ہاؤسنگ مارکیٹ کے ساتھ 3 خطرناک پیشین گوئیاں",
-      "desc_ur": "امریکی ہاؤسنگ مارکیٹ ایک دہائی سے زائد عرصے میں اپنے سب سے کمزور سال کی طرف گامزن ہے، گھر کی فروخت 2011 کے بعد اپنی کم ترین سطح پر آنے کے ساتھ۔"
-    },
-    {
-      "title": "UAE says missile attack launched from Iran",
-      "desc": "The United Arab Emirates Defense Ministry said Tuesday that the two missiles launched toward its territory earlier in the day originated from Iran.According to the ministry's statement, one of the mis...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/c41d4ddb215ce404",
-      "time": "2026-08-18T17:13:12",
-      "country": "Iran",
-      "title_ur": "متحدہ عرب امارات کا کہنا ہے کہ میزائل حملہ ایران سے کیا گیا۔",
-      "desc_ur": "متحدہ عرب امارات کی وزارت دفاع نے منگل کے روز کہا کہ اس کی سرزمین کی طرف داغے گئے دو میزائلوں کا آغاز ایران سے ہوا تھا۔ وزارت کے بیان کے مطابق، ایک میزائل..."
-    },
-    {
-      "title": "Trump is threatening to bomb Oman, but why?",
-      "desc": "U.S. President Donald Trump is angry with Oman over its talks with Iran about managing the Strait of Hormuz that lies between the countries",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/9f169b5858cebcd0",
-      "time": "2026-08-18T17:12:59",
-      "country": "Iran",
-      "title_ur": "ٹرمپ عمان پر بمباری کی دھمکی دے رہے ہیں لیکن کیوں؟",
-      "desc_ur": "امریکی صدر ڈونلڈ ٹرمپ آبنائے ہرمز کے انتظام کے بارے میں ایران کے ساتھ بات چیت پر عمان سے ناراض ہیں جو ممالک کے درمیان واقع ہے۔"
-    },
-    {
-      "title": "Massive risk in South China Sea exposed after four-day power loss on US Navy destroyer",
-      "desc": "The USS Benfold lost power for four days in the South China Sea after a generator failure, forcing the Navy to tow the destroyer to Subic Bay.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/massive-risk-south-china-sea-exposed-four-day-power-loss-us-navy-destroyer",
-      "time": "2026-08-18T17:12:36",
-      "country": "China",
-      "title_ur": "امریکی بحریہ کے ڈسٹرائر پر چار دن کی بجلی گرنے کے بعد بحیرہ جنوبی چین میں بڑا خطرہ بے نقاب ہو گیا ہے۔",
-      "desc_ur": "یو ایس ایس بین فولڈ جنریٹر کی خرابی کے بعد بحیرہ جنوبی چین میں چار دن تک بجلی سے محروم رہا، جس کی وجہ سے بحریہ کو ڈسٹرائر کو سبک بے کی طرف لے جانا پڑا۔"
-    },
-    {
-      "title": "'Ready to deal with any threats': UAE vows response after Iran fires two missiles",
-      "desc": "Middle East News: The United Arab Emirates’ defence ministry said on Tuesday that it had detected two ballistic missiles launched from Iran towards the Gulf country, as.",
+      "title": "In the 1990s, a predatory flatworm was released in Samoa to control giant African snails; it later became linked to the decline and extinction of native island snails",
+      "desc": "The introduction of the invasive flatworm, Platydemus manokwari, aimed at pest control, has resulted in a dramatic decline of native tree snail populations in the Pacific Islands. This aggressive predator actively hunts these snails, driving several species t…",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/ready-to-deal-with-any-threats-uae-vows-response-after-iran-fires-two-missiles/articleshow/133328252.cms",
-      "time": "2026-08-18T17:11:19",
-      "country": "Iran",
-      "title_ur": "'کسی بھی خطرے سے نمٹنے کے لیے تیار ہیں': ایران کی جانب سے دو میزائل فائر کرنے کے بعد متحدہ عرب امارات نے جوابی کارروائی کا عزم کیا۔",
-      "desc_ur": "مڈل ایسٹ نیوز: متحدہ عرب امارات کی وزارت دفاع نے منگل کے روز کہا کہ اس نے ایران سے خلیجی ملک کی طرف داغے گئے دو بیلسٹک میزائلوں کا سراغ لگایا ہے۔"
-    },
-    {
-      "title": "Oscar Winner Jon Voight Recreates Ben Franklin's \"Prayer Speech\" | The White House Founders Museum",
-      "desc": "This is an incredible delivery by Voight. The subject is solemn and poignant. I’ve scrubbed forward 1 minute to get right to the meat. Go back if you want his setup. The link goes to YouTube",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-bloggers/4392228/posts",
-      "time": "2026-08-18T17:09:01",
+      "url": "https://timesofindia.indiatimes.com/science/in-the-1990s-a-predatory-flatworm-was-released-in-samoa-to-control-giant-african-snails-it-later-became-linked-to-the-decline-and-extinction-of-native-island-snails/articleshow/133328360.cms",
+      "time": "2026-08-18T17:47:59",
       "country": "US",
-      "title_ur": "آسکر جیتنے والے جون ووئٹ نے بین فرینکلن کی \"دعا کی تقریر\" کو دوبارہ تخلیق کیا۔ وائٹ ہاؤس کے بانی میوزیم",
-      "desc_ur": "یہ Voight کی طرف سے ایک ناقابل یقین ڈیلیوری ہے۔ موضوع سنجیدہ اور مدلل ہے۔ میں نے گوشت تک پہنچنے کے لیے 1 منٹ آگے صاف کیا ہے۔ اگر آپ اس کا سیٹ اپ چاہتے ہیں تو واپس جائیں۔ لنک یوٹیوب پر جاتا ہے۔"
+      "title_ur": "1990 کی دہائی میں، ایک شکاری فلیٹ کیڑا ساموا میں افریقی گھونگوں کو کنٹرول کرنے کے لیے چھوڑا گیا تھا۔ یہ بعد میں آبائی جزیرے کے گھونگوں کے زوال اور معدومیت سے منسلک ہو گیا۔",
+      "desc_ur": "ناگوار فلیٹ کیڑے، پلاٹیڈیمس مانوکواری کا تعارف، جس کا مقصد کیڑوں پر قابو پانا ہے، کے نتیجے میں بحر الکاہل کے جزائر میں مقامی درختوں کے گھونگوں کی آبادی میں ڈرامائی کمی واقع ہوئی ہے۔ یہ جارحانہ شکاری سرگرمی سے ان گھونگوں کا شکار کرتا ہے، جس سے کئی پرجاتیوں کو چلایا جاتا ہے…"
     },
     {
-      "title": "DoD’s Missile Shopping Spree Designed to Spread Superprofits, ‘Not Win Wars’: Karen Kwiatkowski",
-      "desc": "The MIC intends to “milk” “older and sometimes antiquated systems for as much profit as possible before a real paradigm shift towards actual 21st century defense strategy evolves – and will fight this evolution as long as they can,” former DoD analyst and Air…",
-      "source": "Sputnikglobe.com",
-      "url": "https://sputnikglobe.com/20260818/dods-missile-shopping-spree-designed-to-spread-superprofits-not-win-wars-karen-kwiatkowski-1124599652.html",
-      "time": "2026-08-18T17:08:00",
+      "title": "The real “electability” question is about Donald Trump",
+      "desc": "Welcome to The Midterms, Actually. Every week I’ll be writing about two things: one big idea or trend I see forming across the 2026 primaries, and one thing I’m hearing from a voice on the ground. Let’s get into it. One Big Idea: The electability conversation…",
+      "source": "Vox",
+      "url": "https://www.vox.com/politics/499701/midterms-actually-electability-question-donald-trump-republicans",
+      "time": "2026-08-18T17:47:45",
+      "country": "US",
+      "title_ur": "اصل \"انتخابی\" سوال ڈونلڈ ٹرمپ کے بارے میں ہے۔",
+      "desc_ur": "اصل میں دی مڈٹرمز میں خوش آمدید۔ ہر ہفتے میں دو چیزوں کے بارے میں لکھوں گا: ایک بڑا خیال یا رجحان جو میں 2026 کی پرائمریوں میں بنتا دیکھ رہا ہوں، اور ایک چیز جو میں زمین پر موجود آواز سے سن رہا ہوں۔ آئیے اس میں داخل ہوں۔ ایک بڑا خیال: انتخابی گفتگو…"
+    },
+    {
+      "title": "TCP officers summoned over delay in Solan Regional Plan implementation",
+      "desc": "Himachal Pradesh HC summons TCP secretary and director over delay in implementing Solan regional plan to curb unauthorised construction; next hearing Aug 25.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/tcp-officers-summoned-over-delay-in-solan-regional-plan-implementation/articleshow/133329252.cms",
+      "time": "2026-08-18T17:47:35",
       "country": "International",
-      "title_ur": "DoD کی میزائل شاپنگ اسپری سپر منافع کو پھیلانے کے لیے ڈیزائن کی گئی، 'جنگیں نہیں جیتنا': کیرن کویٹکوسکی",
-      "desc_ur": "MIC 21ویں صدی کی حقیقی دفاعی حکمت عملی کی طرف حقیقی نمونہ بدلنے سے پہلے زیادہ سے زیادہ منافع کے لیے \"دودھ\" \"پرانے اور بعض اوقات قدیم نظاموں کو تیار کرنے کا ارادہ رکھتا ہے - اور جب تک وہ کر سکتے ہیں اس ارتقاء کا مقابلہ کرے گا،\" سابق DoD تجزیہ کار اور فضائی…"
+      "title_ur": "سولن ریجنل پلان پر عمل درآمد میں تاخیر پر ٹی سی پی افسران کو طلب کر لیا گیا۔",
+      "desc_ur": "ہماچل پردیش ہائی کورٹ نے غیر مجاز تعمیرات کو روکنے کے لیے سولن علاقائی منصوبہ کو نافذ کرنے میں تاخیر پر ٹی سی پی کے سکریٹری اور ڈائریکٹر کو طلب کیا؛ اگلی سماعت 25 اگست کو"
     },
     {
-      "title": "SPECIAL REPORT: A Tale of Two Inflation Rates and the Media Spinmasters Who Cover Them",
-      "desc": "If you were paying attention, you would notice a glaring case of two logically incoherent media narratives at play. Specifically, skyrocketing inflation under Biden during a midterm election year was considered a “transitory” blip, but a more tempered inflati…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-bloggers/4392227/posts",
-      "time": "2026-08-18T17:06:21",
+      "title": "Antiwar Mothers Resist the Reactivation of US Military Bases in Puerto Rico",
+      "desc": "Activists do not want Puerto Rico to be a launching pad for aggression against fellow Latin American nations.",
+      "source": "Truthout",
+      "url": "https://truthout.org/articles/antiwar-mothers-resist-the-reactivation-of-us-military-bases-in-puerto-rico/",
+      "time": "2026-08-18T17:46:51",
       "country": "US",
-      "title_ur": "خصوصی رپورٹ: مہنگائی کی دو شرحوں اور ان کا احاطہ کرنے والے میڈیا اسپن ماسٹرز کی کہانی",
-      "desc_ur": "اگر آپ توجہ دے رہے تھے، تو آپ کو دو منطقی طور پر متضاد میڈیا بیانیے کا ایک واضح معاملہ نظر آئے گا۔ خاص طور پر، وسط مدتی انتخابی سال کے دوران بائیڈن کے تحت آسمان چھوتی مہنگائی کو ایک \"عارضی\" جھٹکا سمجھا جاتا تھا، لیکن ایک زیادہ غصے میں آنے والی افراط زر…"
+      "title_ur": "جنگ مخالف مائیں پورٹو ریکو میں امریکی فوجی اڈوں کے دوبارہ فعال ہونے کے خلاف مزاحمت کرتی ہیں۔",
+      "desc_ur": "کارکن نہیں چاہتے کہ پورٹو ریکو ساتھی لاطینی امریکی ممالک کے خلاف جارحیت کے لیے ایک لانچنگ پیڈ بنے۔"
     },
     {
-      "title": "What Really Happens If China Wins the AI Race?",
-      "desc": "For years, the tech industry has portrayed Chinese AI development as an existential threat. The truth is not so straightforward.",
-      "source": "The Atlantic",
-      "url": "https://www.theatlantic.com/technology/2026/08/what-if-china-wins-ai-race/688256/",
-      "time": "2026-08-18T17:06:19",
-      "country": "China",
-      "title_ur": "اگر چین AI ریس جیتتا ہے تو واقعی کیا ہوتا ہے؟",
-      "desc_ur": "سالوں سے، ٹیک انڈسٹری نے چینی AI کی ترقی کو ایک وجودی خطرے کے طور پر پیش کیا ہے۔ سچ اتنا سیدھا نہیں ہوتا۔"
+      "title": "Melania Trump Trolled by Jimmy Fallon with Brutal Affair Joke — as First Lady Hasn't Been Seen in Public for 29 Days",
+      "desc": "Jimmy Fallon mocked Melania Trump's absence from the public eye to joke she's having a secret affair with another politician.",
+      "source": "Radaronline.com",
+      "url": "https://radaronline.com/p/melania-trump-trolled-by-jimmy-fallon-affair-joke-mitch-mcconnell/",
+      "time": "2026-08-18T17:45:00",
+      "country": "US",
+      "title_ur": "میلانیا ٹرمپ کو جمی فالن نے سفاکانہ افیئر کے مذاق کے ساتھ ٹرول کیا - بطور خاتون اول 29 دنوں سے عوام میں نہیں دیکھی گئی۔",
+      "desc_ur": "جمی فالن نے میلانیا ٹرمپ کی عوام کی نظروں سے غیر موجودگی کا مذاق اڑاتے ہوئے مذاق اڑایا کہ ان کا ایک اور سیاستدان کے ساتھ خفیہ تعلق ہے۔"
     },
     {
-      "title": "UAE claims Iran fired two ballistic missiles at it",
-      "desc": "Read Full Article at RT.com",
-      "source": "RT",
-      "url": "https://www.rt.com/news/644382-iran-fires-ballistic-missiles/",
-      "time": "2026-08-18T17:02:00",
+      "title": "Pete Hegseth Wants Promotion to President of War",
+      "desc": "Pete Hegseth wants a promotion to president of War. Trips to Iowa and South Carolina are stirring rumors about the Defense secretary bringing his clownish macho act to the 2028 presidential field.",
+      "source": "New York Magazine",
+      "url": "http://nymag.com/intelligencer/article/pete-hegseth-wants-promotion-to-president-of-war.html",
+      "time": "2026-08-18T17:44:36",
+      "country": "International",
+      "title_ur": "پیٹ ہیگستھ جنگ ​​کے صدر کے عہدے پر ترقی چاہتے ہیں۔",
+      "desc_ur": "پیٹ ہیگستھ جنگ ​​کے صدر کے عہدے پر ترقی چاہتے ہیں۔ آئیووا اور ساؤتھ کیرولائنا کے دوروں سے یہ افواہیں پھیل رہی ہیں کہ وزیر دفاع نے 2028 کے صدارتی میدان میں اپنا مسخرہ مردانہ عمل لایا ہے۔"
+    },
+    {
+      "title": "Joe Scarborough Mocks White House Meltdown Over Jon Ossoff Quip",
+      "desc": "The “testosterone-based attacks” from the White House “have become very bizarre,” MS NOW’s Willie Geist agreed.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/joe-scarborough-mocks-magas-bizarre-overreaction-to-ossoff_n_6a845e4ee4b0ddd9c1b3a4ab",
+      "time": "2026-08-18T17:41:31",
+      "country": "US",
+      "title_ur": "جو سکاربورو نے جون اوسوف کوئپ پر وائٹ ہاؤس کی خرابی کا مذاق اڑایا",
+      "desc_ur": "ایم ایس ناؤ کے ولی گیسٹ نے اتفاق کیا کہ وائٹ ہاؤس سے \"ٹیسٹوسٹیرون پر مبنی حملے\" بہت ہی عجیب ہو گئے ہیں۔"
+    },
+    {
+      "title": "US announces new sanctions on top ICC figures",
+      "desc": "The Trump administration has vowed to dismantle the international court \"brick by brick\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cnvnl0elz47o",
+      "time": "2026-08-18T17:40:09",
+      "country": "US",
+      "title_ur": "امریکہ نے آئی سی سی کی اعلیٰ شخصیات پر نئی پابندیوں کا اعلان کر دیا۔",
+      "desc_ur": "ٹرمپ انتظامیہ نے بین الاقوامی عدالت کو ’’اینٹ سے اینٹ‘‘ ختم کرنے کا عزم ظاہر کیا ہے۔"
+    },
+    {
+      "title": "Ron Paul on Trump Saying Hormuz Is ‘New American Territory”!",
+      "desc": "On today’s Ron Paul Liberty Report: After laughs, cheers, and groans over President Trump’s claim on the Strait of Hormuz over the weekend, the President doubled down today posting a map of the Strait with “New American Territory” emblazoned on it. Is this an…",
+      "source": "Antiwar.com",
+      "url": "https://www.antiwar.com/blog/2026/08/18/ron-paul-on-trump-saying-hormuz-is-new-american-territory/",
+      "time": "2026-08-18T17:37:53",
+      "country": "US",
+      "title_ur": "رون پال ٹرمپ کے کہنے پر کہ ہرمز 'نیا امریکی علاقہ' ہے!",
+      "desc_ur": "آج کی رون پال لبرٹی رپورٹ پر: ہفتے کے آخر میں آبنائے ہرمز پر صدر ٹرمپ کے دعوے پر قہقہوں، خوشیوں اور کراہوں کے بعد، صدر نے آج آبنائے کا نقشہ شائع کرتے ہوئے اس پر \"نیو امریکن ٹیریٹری\" لکھا ہے۔ کیا یہ ایک…"
+    },
+    {
+      "title": "U.S. government debt yields are surging at a bad time. Here's what's behind the move",
+      "desc": "Fixed income market watchers ascribe a run that began in June to a number of variables.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/18/us-government-debt-yields-are-surging-at-a-bad-time-heres-whats-behind-the-move.html",
+      "time": "2026-08-18T17:35:17",
+      "country": "International",
+      "title_ur": "امریکی حکومت کے قرضوں کی پیداوار برے وقت میں بڑھ رہی ہے۔ اس اقدام کے پیچھے کیا ہے۔",
+      "desc_ur": "فکسڈ انکم مارکیٹ پر نظر رکھنے والے کئی متغیرات کے لیے جون میں شروع ہونے والی دوڑ کو بیان کرتے ہیں۔"
+    },
+    {
+      "title": "The British state has recast protest as terrorism",
+      "desc": "Britain’s ever-broader terrorism laws are erasing the line between political violence, protest and dissent.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/opinions/2026/8/18/the-british-state-has-recast-protest-as-terrorism",
+      "time": "2026-08-18T17:34:44",
+      "country": "UK",
+      "title_ur": "برطانوی ریاست نے دوبارہ احتجاج کو دہشت گردی قرار دیا ہے۔",
+      "desc_ur": "برطانیہ کے ہمیشہ سے وسیع تر دہشت گردی کے قوانین سیاسی تشدد، احتجاج اور اختلاف کے درمیان لائن کو مٹا رہے ہیں۔"
+    },
+    {
+      "title": "South Korean president jumps to invest in military after Trump cuts joint exercises - Fox News",
+      "desc": "South Korean president jumps to invest in military after Trump cuts joint exercisesFox News Facing Quagmire in Iran, Trump Turns to a Familiar Face: North Korea’s Kim Jong-unThe New York Times Trump Is Signaling This To Kim Jong Un By Scaling Back Military Dr…",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185040080",
+      "time": "2026-08-18T17:33:52",
       "country": "Iran",
-      "title_ur": "متحدہ عرب امارات کا دعویٰ ہے کہ ایران نے اس پر دو بیلسٹک میزائل داغے۔",
-      "desc_ur": "RT.com پر مکمل مضمون پڑھیں"
+      "title_ur": "ٹرمپ کے مشترکہ مشقوں میں کمی کے بعد جنوبی کوریا کے صدر فوج میں سرمایہ کاری کے لیے کود پڑے – Fox News",
+      "desc_ur": "ٹرمپ کے مشترکہ مشقوں میں کمی کے بعد جنوبی کوریا کے صدر نے فوج میں سرمایہ کاری کرنے کے لیے چھلانگ لگا دی فاکس نیوز ایران میں دلدل کا سامنا، ٹرمپ ایک شناسا چہرے کی طرف مڑ گئے: شمالی کوریا کے کم جونگ ان نیویارک ٹائمز ٹرمپ فوجی ڈاکٹر کو پیچھے ہٹا کر کم جونگ ان کو یہ اشارہ دے رہے ہیں…"
     },
     {
-      "title": "U.S. Diesel Reserves Sit Near 23-Year Lows",
-      "desc": "Brent and WTI futures remain below $100 a barrel on Tuesday morning, partly suppressed by governments releasing strategic oil reserves into global markets. But the more serious issue is building downstream, where the Russia-Ukraine war, strikes against energy…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Gas-Prices/US-Diesel-Reserves-Sit-Near-23-Year-Lows.html",
-      "time": "2026-08-18T17:00:00",
-      "country": "Russia",
-      "title_ur": "امریکی ڈیزل کے ذخائر 23 سال کی کم ترین سطح کے قریب ہیں۔",
-      "desc_ur": "منگل کی صبح برینٹ اور ڈبلیو ٹی آئی فیوچرز 100 ڈالر فی بیرل سے نیچے رہے، جسے حکومتوں کی جانب سے عالمی منڈیوں میں تیل کے اسٹریٹجک ذخائر کو جاری کرنے سے جزوی طور پر دبا دیا گیا۔ لیکن زیادہ سنگین مسئلہ نیچے کی طرف تعمیر کر رہا ہے، جہاں روس-یوکرین جنگ، توانائی کے خلاف حملہ کرتی ہے…"
+      "title": "United States imposes sanctions on ICC President Tomoko Akane",
+      "desc": "The sanctions on ICC President Akane strain US-Japan relations, complicating diplomatic ties and challenging international legal cooperation.\nThe post United States imposes sanctions on ICC President Tomoko Akane appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/us-sanctions-icc-president-tomoko-akane/",
+      "time": "2026-08-18T17:33:35",
+      "country": "US",
+      "title_ur": "امریکہ نے آئی سی سی کے صدر ٹوموکو اکانے پر پابندیاں عائد کر دیں۔",
+      "desc_ur": "آئی سی سی کے صدر اکانے پر پابندیاں امریکہ اور جاپان کے تعلقات کو کشیدہ کرتی ہیں، سفارتی تعلقات کو پیچیدہ بناتی ہیں اور بین الاقوامی قانونی تعاون کو چیلنج کرتی ہیں۔\nThe post امریکا نے آئی سی سی کے صدر ٹوموکو اکانے پر پابندیاں عائد کر دیں appeared first on Crypto Briefing."
+    },
+    {
+      "title": "Nasdaq slides, yields elevated as Mideast conflict fears grow",
+      "desc": "By Karen Brettell and Niket Nishant Aug 18 (Reuters) - U.S. government bond yields eased slightly on Tuesday, though longer-dated yields remained near multi-...",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/news/stocks-slide-yields-elevated-mideast-150928612.html",
+      "time": "2026-08-18T17:30:21",
+      "country": "Europe",
+      "title_ur": "Nasdaq سلائیڈ، پیداوار میں اضافہ جیسا کہ مشرق وسطی کے تنازعات کے خدشات بڑھتے ہیں۔",
+      "desc_ur": "کیرن بریٹل اور نکیت نشانت کی طرف سے اگست 18 (رائٹرز) - منگل کو امریکی حکومت کے بانڈ کی پیداوار میں قدرے نرمی آئی، حالانکہ طویل تاریخ والی پیداوار ملٹی..."
+    },
+    {
+      "title": "EXCLUSIVE: Trump Mocked Over Nobel Prize Rage After Threatening to Obliterate Oman",
+      "desc": "President Trump has been mocked mocked over his Nobel Prize anger after threatening to obliterate Oman.",
+      "source": "Radaronline.com",
+      "url": "https://radaronline.com/p/trump-mocked-nobel-prize-rage-threat-oman-iran-war/",
+      "time": "2026-08-18T17:30:00",
+      "country": "US",
+      "title_ur": "خصوصی: عمان کو ختم کرنے کی دھمکی کے بعد ٹرمپ نے نوبل انعام کے غصے کا مذاق اڑایا",
+      "desc_ur": "عمان کو مٹانے کی دھمکی دینے کے بعد صدر ٹرمپ کے نوبل انعام پر غصے کا مذاق اڑایا گیا ہے۔"
     }
   ],
   "pakistan": [
+    {
+      "title": "Social media monitoring cell to track corruption-related info",
+      "desc": "Tamil Nadu to set up DVAC Social Media Monitoring Centre for 24x7 tracking and preserving corruption-related posts and electronic evidence; ₹50 lakh approved.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/chennai/social-media-monitoring-cell-to-track-corruption-related-info/articleshow/133329281.cms",
+      "time": "2026-08-18T17:48:05",
+      "country": "Pakistan",
+      "title_ur": "بدعنوانی سے متعلق معلومات کو ٹریک کرنے کے لیے سوشل میڈیا مانیٹرنگ سیل",
+      "desc_ur": "تمل ناڈو بدعنوانی سے متعلق پوسٹس اور الیکٹرانک شواہد کو 24x7 ٹریک کرنے اور محفوظ کرنے کے لیے DVAC سوشل میڈیا مانیٹرنگ سینٹر قائم کرے گا۔ 50 لاکھ روپے منظور ہوئے۔"
+    },
+    {
+      "title": "How businesses are shifting from optimisation to navigation, reducing dependencies & building resilience",
+      "desc": "Leaders still have to raise the sails. That is the real shift: from optimiser to navigator. Optimising assumes conditions are stable enough to fine-tune around. Navigating assumes disruption will arrive without warning and the job is to hold course regardless.",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/how-businesses-are-shifting-from-optimisation-to-navigation-reducing-dependencies-building-resilience/articleshow/133329023.cms",
+      "time": "2026-08-18T17:44:45",
+      "country": "Pakistan",
+      "title_ur": "کس طرح کاروبار آپٹمائزیشن سے نیویگیشن کی طرف منتقل ہو رہے ہیں، انحصار کو کم کر رہے ہیں اور لچک پیدا کر رہے ہیں",
+      "desc_ur": "لیڈروں کو ابھی پال اٹھانا ہے۔ یہی اصل تبدیلی ہے: آپٹیمائزر سے نیویگیٹر تک۔ اصلاح کرنا فرض کرتا ہے کہ حالات اتنے مستحکم ہیں کہ ارد گرد کو ٹھیک بنایا جا سکے۔ نیویگیٹ کرنا فرض کرتا ہے کہ خلل انتباہ کے بغیر آئے گا اور کام قطع نظر کورس کو روکنا ہے۔"
+    },
+    {
+      "title": "Unmanned cargo vessel hit by projectiles in Red Sea, escalating maritime threats",
+      "desc": "The incident heightens regional instability, potentially disrupting global shipping routes and escalating geopolitical tensions further.\nThe post Unmanned cargo vessel hit by projectiles in Red Sea, escalating maritime threats appeared first on Crypto Briefin…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/unmanned-cargo-vessel-hit-by-projectiles-in-red-sea-escalating-maritime-threats/",
+      "time": "2026-08-18T17:31:58",
+      "country": "Pakistan",
+      "title_ur": "بحیرہ احمر میں بغیر پائلٹ کے کارگو جہاز پروجیکٹائل سے ٹکرا گیا، جس سے سمندری خطرات بڑھ گئے۔",
+      "desc_ur": "یہ واقعہ علاقائی عدم استحکام کو بڑھاتا ہے، ممکنہ طور پر عالمی جہاز رانی کے راستوں میں خلل ڈالتا ہے اور جغرافیائی سیاسی تناؤ کو مزید بڑھاتا ہے۔\nThe post بغیر پائلٹ کارگو جہاز بحیرہ احمر میں پروجیکٹائل سے ٹکرا گیا، سمندری خطرات بڑھ گئے appeared first on Crypto Briefin…"
+    },
     {
       "title": "Saudi Arabia resumes oil loadings, sales from inside Strait of Hormuz",
       "desc": "The resumption of Saudi exports could help ease the tight supply of heavier grades that produce more residue fuel which can be used to refuel ships or can be processed further at refineries",
@@ -162,16 +192,6 @@
       "country": "Pakistan",
       "title_ur": "سعودی عرب نے آبنائے ہرمز کے اندر سے تیل کی لوڈنگ اور فروخت دوبارہ شروع کردی",
       "desc_ur": "سعودی برآمدات کی بحالی سے بھاری درجات کی سخت فراہمی کو کم کرنے میں مدد مل سکتی ہے جو زیادہ بقایا ایندھن پیدا کرتے ہیں جو بحری جہازوں کو ایندھن کے لیے استعمال کیا جا سکتا ہے یا ریفائنریوں میں مزید کارروائی کی جا سکتی ہے۔"
-    },
-    {
-      "title": "India vs Pakistan Hockey World Cup: Knockout dream, survival at stake in blockbuster clash",
-      "desc": "India and Pakistan face off in a vital Hockey World Cup match on Wednesday. India need at least a draw to advance, while Pakistan must win. England have already secured a place in the next round after winning both their matches. The historic Wagener Stadium i…",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/sports/hockey/top-stories/india-vs-pakistan-hockey-world-cup-knockout-dream-survival-at-stake-in-blockbuster-clash/articleshow/133327797.cms",
-      "time": "2026-08-18T17:01:44",
-      "country": "Pakistan",
-      "title_ur": "بھارت بمقابلہ پاکستان ہاکی ورلڈ کپ: ناک آؤٹ کا خواب، بلاک بسٹر تصادم میں بقا داؤ پر",
-      "desc_ur": "ہاکی ورلڈ کپ کے اہم میچ میں بدھ کو بھارت اور پاکستان آمنے سامنے ہوں گے۔ بھارت کو آگے بڑھنے کے لیے کم از کم ڈرا کی ضرورت ہے جبکہ پاکستان کو جیتنا ضروری ہے۔ انگلینڈ نے اپنے دونوں میچ جیت کر پہلے ہی اگلے راؤنڈ میں جگہ بنا لی ہے۔ تاریخی ویگنر اسٹیڈیم میں…"
     }
   ],
   "business": {
