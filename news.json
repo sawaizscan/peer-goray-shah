@@ -1,6 +1,136 @@
 {
-  "generated": "2026-08-20T21:21:14Z",
+  "generated": "2026-08-20T21:52:17Z",
   "world": [
+    {
+      "title": "The US National Debt Soars To $40 Trillion",
+      "desc": "The milestone highlights the impact of defense costs, social programs and interest on the deficit.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/the-us-national-debt-grows-to-40-trillion-under-trump_n_6a8620bae4b0ca44601b0b43",
+      "time": "2026-08-19T21:48:31",
+      "country": "US",
+      "title_ur": "امریکہ کا قومی قرض 40 ٹریلین ڈالر تک بڑھ گیا۔",
+      "desc_ur": "یہ سنگ میل دفاعی اخراجات، سماجی پروگراموں اور خسارے پر سود کے اثرات کو نمایاں کرتا ہے۔"
+    },
+    {
+      "title": "FIFA vice-president withdraws support for Infantino after 'final straw'",
+      "desc": "The pressure on embattled FIFA president Gianni Infantino mounts as one of his vice-presidents and more international federations back away from him.",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-08-20/football-fifa-vice-president-withdraws-gianni-infantino-support/107056582",
+      "time": "2026-08-19T21:48:17",
+      "country": "International",
+      "title_ur": "فیفا کے نائب صدر نے 'فائنل اسٹرا' کے بعد انفینٹینو کی حمایت واپس لے لی",
+      "desc_ur": "FIFA صدر Gianni Infantino پر دباؤ بڑھتا جا رہا ہے کیونکہ ان کے نائب صدر اور مزید بین الاقوامی فیڈریشنز ان سے پیچھے ہٹ رہی ہیں۔"
+    },
+    {
+      "title": "Iranian leaders threaten to bomb British base on Cyprus if the U.S. steps up the war",
+      "desc": "RAF Akrotiri, a centre for UK air operations in the region, was struck by an Iranian drone in March - damaging a hangar and causing a political row.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16065171/Iranian-bomb-British-Cyprus-war.html",
+      "time": "2026-08-19T21:46:14",
+      "country": "Iran",
+      "title_ur": "ایرانی رہنماؤں نے دھمکی دی ہے کہ اگر امریکہ نے جنگ تیز کی تو قبرص میں برطانوی اڈے پر بمباری کریں گے۔",
+      "desc_ur": "RAF اکروتیری، جو کہ خطے میں برطانیہ کے فضائی آپریشنز کا مرکز ہے، کو مارچ میں ایک ایرانی ڈرون نے نشانہ بنایا تھا - جس سے ایک ہینگر کو نقصان پہنچا اور سیاسی تنازعہ پیدا ہو گیا۔"
+    },
+    {
+      "title": "Real journalism requires freedom",
+      "desc": "When the role of journalist is limited only to those who parrot approved messaging, it is no longer journalism but something else — propaganda.",
+      "source": "Ncspin.com",
+      "url": "https://www.ncspin.com/real-journalism-requires-freedom",
+      "time": "2026-08-19T21:43:00",
+      "country": "International",
+      "title_ur": "حقیقی صحافت آزادی کی ضرورت ہے۔",
+      "desc_ur": "جب صحافی کا کردار صرف ان لوگوں تک محدود ہے جو طوطے سے منظور شدہ پیغام رسانی کرتے ہیں، تو اب یہ صحافت نہیں بلکہ کچھ اور ہے یعنی پروپیگنڈا۔"
+    },
+    {
+      "title": "Mossad spy agency, held a phone call with Syrian Foreign Minister Asaad al-Shaibani last week, prior to the airstrike on a Syrian military base [due to Turkish presence].",
+      "desc": "The Jerusalem Post @Jerusalem_Post: The head of Israel's Mossad spy agency, Roman Gofman, held a phone call with Syrian Foreign Minister Asaad al-Shaibani last week, prior to the airstrike on a Syrian military base. The Israeli Prime Minister's Office said th…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4392409/posts",
+      "time": "2026-08-19T21:41:39",
+      "country": "Israel",
+      "title_ur": "موساد کی جاسوسی ایجنسی نے گزشتہ ہفتے شام کے ایک فوجی اڈے پر فضائی حملے سے قبل شام کے وزیر خارجہ اسد الشیبانی سے فون پر بات کی تھی۔",
+      "desc_ur": "The Jerusalem Post @ Jerusalem_Post: اسرائیل کی موساد کی جاسوسی ایجنسی کے سربراہ رومن گوف مین نے شام کے فوجی اڈے پر فضائی حملے سے قبل گزشتہ ہفتے شام کے وزیر خارجہ اسد الشیبانی سے فون پر بات کی۔ اسرائیلی وزیر اعظم کے دفتر نے کہا کہ…"
+    },
+    {
+      "title": "Obama-Appointed Judge Who Blocked FBI from Moving Headquarters to Reagan Building Donated Almost $6k to Dems",
+      "desc": "The Obama-appointed judge who ruled Monday that the FBI cannot relocate its headquarters to the Ronald Reagan Building and International Trade Center has donated thousands of dollars to Democrats and has a history of ruling against President Donald Trump. \nTh…",
+      "source": "Breitbart News",
+      "url": "https://www.breitbart.com/politics/2026/08/19/obama-appointed-judge-who-blocked-fbi-from-moving-headquarters-to-reagan-building-donated-almost-6k-to-dems/",
+      "time": "2026-08-19T21:36:26",
+      "country": "US",
+      "title_ur": "اوباما کے مقرر کردہ جج جنہوں نے ایف بی آئی کو ہیڈ کوارٹر ریگن بلڈنگ میں منتقل کرنے سے روک دیا، ڈیمز کو تقریباً 6k ڈالر عطیہ کیے",
+      "desc_ur": "اوبامہ کے مقرر کردہ جج جنہوں نے پیر کو یہ فیصلہ دیا کہ ایف بی آئی اپنا ہیڈکوارٹر رونالڈ ریگن بلڈنگ اور انٹرنیشنل ٹریڈ سینٹر میں منتقل نہیں کر سکتا، ڈیموکریٹس کو ہزاروں ڈالر عطیہ کر چکے ہیں اور صدر ڈونلڈ ٹرمپ کے خلاف حکمرانی کی تاریخ رکھتے ہیں۔ \nویں…"
+    },
+    {
+      "title": "Wednesday’s Mini-Report, 8.19.26",
+      "desc": "Today’s edition of quick hits.\n* In the Middle East: “The United Arab Emirates suspended all trade with Iran on Wednesday after the UAE said it had come under renewed fire from the country — a move that will further isolate the Islamic Republic, which is suff…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/1d168f18402040aa",
+      "time": "2026-08-19T21:35:58",
+      "country": "Iran",
+      "title_ur": "بدھ کی منی رپورٹ، 8.19.26",
+      "desc_ur": "فوری ہٹ کا آج کا ایڈیشن۔\n* مشرق وسطیٰ میں: \"متحدہ عرب امارات نے بدھ کے روز ایران کے ساتھ تمام تجارت معطل کر دی جب کہ متحدہ عرب امارات نے کہا کہ وہ ملک کی طرف سے نئی آگ کی زد میں آ گیا ہے - ایک ایسا اقدام جو اسلامی جمہوریہ کو مزید الگ تھلگ کر دے گا، جو کافی ہے…"
+    },
+    {
+      "title": "Marquis Who's Who Honors Christopher Krell, CFP, for Financial Expertise",
+      "desc": "UNIONDALE, N.Y., Aug. 19, 2026 /PRNewswire/ -- Marquis Who's Who is proud to honor Christopher Krell, CFP, for his financial expertise. Mr. Krell has built a career in financial planning that spans nearly three decades, earning recognition from Forbes, Invest…",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/marquis-whos-who-honors-christopher-krell-cfp-for-financial-expertise-302855707.html",
+      "time": "2026-08-19T21:32:00",
+      "country": "International",
+      "title_ur": "مارکوئس کون ہے جو کرسٹوفر کریل، CFP کو مالیاتی مہارت کے لیے اعزاز دیتا ہے",
+      "desc_ur": "UNIONDALE، NY.، 19 اگست 2026/PRNewswire/ -- مارکوئس کون ہے جو کرسٹوفر کریل، CFP کو ان کی مالی مہارت کے لیے اعزاز دینے پر فخر محسوس کرتا ہے۔ مسٹر کریل نے مالیاتی منصوبہ بندی میں ایک کیریئر بنایا ہے جو تقریباً تین دہائیوں پر محیط ہے، فوربس، انویسٹ…"
+    },
+    {
+      "title": "All Aboard: STB Resumes Union Pacific-Norfolk Southern Merger Review",
+      "desc": "The Surface Transportation Board said supplemental information from the railroads was sufficient to restart its review, with a final decision not expected until after May 2027.",
+      "source": "WWD",
+      "url": "http://wwd.com/sourcing-journal/logistics/union-pacific-norfolk-southern-merger-stb-review-resumes-rail-1239143795/",
+      "time": "2026-08-19T21:31:07",
+      "country": "International",
+      "title_ur": "تمام سوار: STB نے یونین پیسفک-نرفوک سدرن انضمام کا جائزہ دوبارہ شروع کیا۔",
+      "desc_ur": "سرفیس ٹرانسپورٹیشن بورڈ نے کہا کہ ریل روڈز سے اضافی معلومات اس کے جائزے کو دوبارہ شروع کرنے کے لیے کافی ہیں، مئی 2027 کے بعد تک حتمی فیصلے کی توقع نہیں ہے۔"
+    },
+    {
+      "title": "Democratic hopeful Abdul El-Sayed's seldom-mentioned birth mother worked for terror-linked charity bombshell report reveals",
+      "desc": "Michigan Democratic Senate hopeful Abdul El-Sayed rarely mentions his birth mother on the campaign trail and there's a reason.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/us-politics/article-16064961/Democratic-Abdul-El-Sayeds-seldom-mentioned-birth-mother-worked-terror-charity-bombshell-report-reveals.html",
+      "time": "2026-08-19T21:28:51",
+      "country": "Saudi Arabia",
+      "title_ur": "ڈیموکریٹک امید پرست عبد السید کی شاذ و نادر ہی پیدائشی ماں نے دہشت گردی سے منسلک چیریٹی بم شیل رپورٹ میں انکشاف کیا ہے",
+      "desc_ur": "مشی گن ڈیموکریٹک سینیٹ کے امیدوار عبد السید انتخابی مہم میں اپنی پیدائشی ماں کا شاذ و نادر ہی ذکر کرتے ہیں اور اس کی ایک وجہ بھی ہے۔"
+    },
+    {
+      "title": "US national debt hits a record $40 trillion",
+      "desc": "The national debt has surpassed a record $40 trillion, highlighting the impact of defense costs, social programs, and interest on the deficit. This milestone comes just five months after hitting $39 trillion. Experts say the growing debt is already affecting …",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/treasury-national-debt-limit-a27a8d3651ff810b25c610d3e1b6259d",
+      "time": "2026-08-19T21:27:33",
+      "country": "US",
+      "title_ur": "امریکہ کا قومی قرضہ 40 ٹریلین ڈالر تک پہنچ گیا ہے۔",
+      "desc_ur": "دفاعی اخراجات، سماجی پروگراموں اور خسارے پر سود کے اثرات کو اجاگر کرتے ہوئے قومی قرضہ ریکارڈ 40 ٹریلین ڈالر سے تجاوز کر گیا ہے۔ یہ سنگ میل $39 ٹریلین تک پہنچنے کے صرف پانچ ماہ بعد آیا ہے۔ ماہرین کا کہنا ہے کہ بڑھتا ہوا قرض پہلے ہی متاثر کر رہا ہے…"
+    },
+    {
+      "title": "So much for a cost of living crusade: Pressure on PM to water down Net Zero pledges as inflation jumps and energy bills forecast to hit three-year high",
+      "desc": "Prime Minister Andy Burnham to water down Labour's Net Zero dogma at a time when critics say hard-pressed consumers and businesses can ill afford to pay for it.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16065261/Pressure-PM-Net-Zero-inflation-energy-bills-forecast.html",
+      "time": "2026-08-19T21:24:45",
+      "country": "US",
+      "title_ur": "زندگی گزارنے کی قیمت کے لیے اتنا زیادہ: نیٹ زیرو کو کم کرنے کے لیے وزیر اعظم پر دباؤ مہنگائی میں اضافے اور توانائی کے بلوں کے تین سال کی بلند ترین سطح پر پہنچنے کی پیش گوئی کے وعدے",
+      "desc_ur": "وزیر اعظم اینڈی برنہم ایک ایسے وقت میں لیبر کے نیٹ زیرو عقیدے کو ختم کریں گے جب ناقدین کا کہنا ہے کہ سخت دباؤ والے صارفین اور کاروبار اس کی قیمت ادا کرنے کے متحمل ہوسکتے ہیں۔"
+    },
+    {
+      "title": "Stop Smotrich before he dooms the Palestinians and the State of Israel",
+      "desc": "Who will Bezalel Smotrich, the leader of the settlers and their representative in the cabinet, succeed in defeating first through his \"Decisive Plan\"? The Pales",
+      "source": "Haaretz",
+      "url": "https://www.haaretz.com/opinion/editorial/2026-08-20/ty-article-opinion/stop-smotrich-before-he-dooms-the-palestinians-and-the-state-of-israel/000001a0-1bad-df5c-afeb-bbbd97690000",
+      "time": "2026-08-19T21:23:25",
+      "country": "Israel",
+      "title_ur": "اسموٹریچ کو روکیں اس سے پہلے کہ وہ فلسطینیوں اور ریاست اسرائیل کو تباہ کر دے۔",
+      "desc_ur": "آباد کاروں کے رہنما اور کابینہ میں ان کے نمائندے Bezalel Smotrich اپنے ’’فیصلہ کن منصوبے‘‘ کے ذریعے پہلے کس کو شکست دینے میں کامیاب ہوں گے؟ پیلس"
+    },
     {
       "title": "IDF clears itself over strike that killed Zomi Frankcom",
       "desc": "Israeli military personnel have been cleared by the IDF of criminal wrongdoing over the deaths of Australian Zomi Frankcom and six other aid workers killed by an attack on a World Central Kitchen convoy in 2024. Meanwhile, the Coalition has cried foul over On…",
@@ -20,139 +150,30 @@
       "country": "US",
       "title_ur": "آئی سی سی نے عدالت پر امریکی پابندیوں کو 'فضائی حملہ' قرار دے دیا",
       "desc_ur": "امریکی صدر ڈونلڈ ٹرمپ کی انتظامیہ نے بین الاقوامی فوجداری عدالت (آئی سی سی) پر اپنا دباؤ بڑھاتے ہوئے اس پر \"سیاست زدہ\" ہونے کا الزام لگایا ہے۔ یورپی یونین، فرانس، جرمنی، سپین اور جاپان نے عدالت کا دفاع کیا ہے۔"
-    },
-    {
-      "title": "UAE Joins Global Efforts to Isolate Iran",
-      "desc": "Abu Dhabi is hoping that a trade embargo will force Tehran to surrender.",
-      "source": "Foreign Policy",
-      "url": "http://foreignpolicy.com/2026/08/19/uae-iran-trade-financial-embargo-missile-strikes-war/",
-      "time": "2026-08-19T21:16:53",
-      "country": "Iran",
-      "title_ur": "متحدہ عرب امارات ایران کو تنہا کرنے کی عالمی کوششوں میں شامل",
-      "desc_ur": "ابوظہبی کو امید ہے کہ تجارتی پابندی تہران کو ہتھیار ڈالنے پر مجبور کر دے گی۔"
-    },
-    {
-      "title": "A Stubbornly Naive Group of GOP Senators",
-      "desc": "A small caucus of non-MAGA Republicans keeps falling for the president’s flimsy promises.",
-      "source": "The Atlantic",
-      "url": "https://www.theatlantic.com/newsletters/2026/08/republican-senators-falling-for-trump/688332/",
-      "time": "2026-08-19T21:11:00",
-      "country": "US",
-      "title_ur": "GOP سینیٹرز کا ایک ضدی بولی گروپ",
-      "desc_ur": "نان MAGA ریپبلکنز کا ایک چھوٹا سا کاکس صدر کے کمزور وعدوں کی وجہ سے گرتا رہتا ہے۔"
-    },
-    {
-      "title": "Foreign Secretary statement on Government of Israel launch of a tender for the E1 settlement project",
-      "desc": "UK condemns the Government of Israel's launch of a tender for the E1 settlement project, and summons Israeli Chargé d’Affaires",
-      "source": "Www.gov.uk",
-      "url": "https://www.gov.uk/government/news/foreign-secretary-statement-on-government-of-israel-launch-of-a-tender-for-the-e1-settlement-project",
-      "time": "2026-08-19T21:11:00",
-      "country": "Israel",
-      "title_ur": "E1 سیٹلمنٹ پروجیکٹ کے لیے ٹینڈر کے اجراء پر اسرائیل کی حکومت کے بارے میں سیکریٹری خارجہ کا بیان",
-      "desc_ur": "برطانیہ نے اسرائیل کی حکومت کی طرف سے E1 سیٹلمنٹ پروجیکٹ کے لیے ٹینڈر کے اجراء کی مذمت کی، اور اسرائیلی ناظم الامور کو طلب کیا"
-    },
-    {
-      "title": "Displaced Lebanese watch southern Lebanon’s ‘pilot zones’ from afar",
-      "desc": "“You can't do anything. Just stand here and watch.”\r\nAl Jazeera’s Ali Hashem watched Israeli attacks near his home town.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/displaced-lebanese-watch-southern-lebanons-pilot-zones-from-afar-2",
-      "time": "2026-08-19T21:10:39",
-      "country": "Israel",
-      "title_ur": "بے گھر لبنانی جنوبی لبنان کے ’پائلٹ زونز‘ کو دور سے دیکھتے ہیں۔",
-      "desc_ur": "\"تم کچھ نہیں کر سکتے بس یہیں کھڑے ہو کر دیکھتے رہو۔\"\r\nالجزیرہ کے علی ہاشم نے اپنے آبائی شہر کے قریب اسرائیلی حملوں کو دیکھا۔"
-    },
-    {
-      "title": "Israel orders inquiry into killing of 6-year-old Hind Rajab in Gaza",
-      "desc": "The Israeli military announced criminal investigations into the killings of six-year-old Hind Rajab.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israel-orders-inquiry-into-killing-of-6-year-old-hind-rajab-in-gaza",
-      "time": "2026-08-19T21:09:15",
-      "country": "Israel",
-      "title_ur": "اسرائیل نے غزہ میں 6 سالہ ہند رجب کے قتل کی تحقیقات کا حکم دے دیا۔",
-      "desc_ur": "اسرائیلی فوج نے چھ سالہ ہند رجب کے قتل کی مجرمانہ تحقیقات کا اعلان کیا۔"
-    },
-    {
-      "title": "Sen. Candidate Angie Nixon: 'Netanyahu Is a War Criminal'",
-      "desc": "Wednesday on MS NOW’s “Morning Joe,” Florida Democratic Senate Candidate Angie Nixon said Israeli Prime Minister Benjamin Netanyahu is a “war criminal” who needs to answer for his crimes. Co-host Willie Geist said, “Would you support that? Cutting off aid to\n…",
-      "source": "Breitbart News",
-      "url": "https://www.breitbart.com/clips/2026/08/19/sen-candidate-angie-nixon-netanyahu-is-a-war-criminal/",
-      "time": "2026-08-19T21:09:08",
-      "country": "Israel",
-      "title_ur": "سینیٹ کی امیدوار اینجی نکسن: 'نیتن یاہو جنگی مجرم ہے'",
-      "desc_ur": "بدھ کو ایم ایس ناؤ کے \"مارننگ جو\" پر فلوریڈا کی ڈیموکریٹک سینیٹ کی امیدوار اینجی نکسن نے کہا کہ اسرائیلی وزیر اعظم بینجمن نیتن یاہو ایک \"جنگی مجرم\" ہیں جنہیں اپنے جرائم کا جواب دینا ہوگا۔ شریک میزبان ولی گیسٹ نے کہا، \"کیا آپ اس کی حمایت کریں گے؟\n…"
-    },
-    {
-      "title": "Trump says he will meet Kim Jong-un this year (VIDEO)",
-      "desc": "President Donald Trump has said he expects to meet North Korean leader Kim Jong-un after ordering US-South Korea military drills scaled back",
-      "source": "RT",
-      "url": "https://www.rt.com/news/644420-trump-teases-in-person-meeting-kim-jong-un/",
-      "time": "2026-08-19T21:08:49",
-      "country": "US",
-      "title_ur": "ٹرمپ کا کہنا ہے کہ وہ اس سال کم جونگ ان سے ملاقات کریں گے (ویڈیو)",
-      "desc_ur": "صدر ڈونلڈ ٹرمپ نے کہا ہے کہ وہ امریکہ اور جنوبی کوریا کی فوجی مشقوں کو کم کرنے کا حکم دینے کے بعد شمالی کوریا کے رہنما کم جونگ ان سے ملاقات کی توقع رکھتے ہیں۔"
-    },
-    {
-      "title": "Pentagon Hunts For New Radar As Hypersonic Missiles Put US Defenses To The Test",
-      "desc": "The Pentagon is searching for a new generation of highly mobile radars capable of tracking hypersonic missiles.",
-      "source": "The Daily Caller",
-      "url": "https://dailycaller.com/2026/08/19/pentagon-new-radar-hypersonic-missiles-defenses",
-      "time": "2026-08-19T21:07:36",
-      "country": "US",
-      "title_ur": "پینٹاگون نئے ریڈار کی تلاش میں ہے کیونکہ ہائپرسونک میزائلوں نے امریکی دفاع کو آزمایا ہے۔",
-      "desc_ur": "پینٹاگون انتہائی موبائل ریڈاروں کی نئی نسل کی تلاش کر رہا ہے جو ہائپر سونک میزائلوں کو ٹریک کرنے کی صلاحیت رکھتا ہے۔"
-    },
-    {
-      "title": "Bridgewater Significantly Boosted Its Stake in SHEL Stock in Q2. How Investors Should View the Move",
-      "desc": "Crude oil has swung sharply in 2026. Brent crude fell nearly 40%, dropping from its year-to-date (YTD) high of $118.35 on March 31 to $71.44 by July 1 after a U.S.-Iran peace deal reopened the Strait of Hormuz.\nBut the ceasefire collapsed on July 8, lifting B…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/eeab029b0d6a82f0",
-      "time": "2026-08-19T21:07:21",
-      "country": "Iran",
-      "title_ur": "برج واٹر نے Q2 میں SHEL اسٹاک میں اپنے حصص کو نمایاں طور پر بڑھایا۔ سرمایہ کاروں کو اس اقدام کو کس طرح دیکھنا چاہئے۔",
-      "desc_ur": "2026 میں خام تیل کی قیمت میں تیزی سے اضافہ ہوا ہے۔ امریکی ایران امن معاہدے کے بعد آبنائے ہرمز کو دوبارہ کھولنے کے بعد برینٹ کروڈ تقریباً 40 فیصد گر گیا، جو 31 مارچ کو اس کی سال بہ تاریخ (YTD) $118.35 کی بلند ترین سطح سے 1 جولائی تک 71.44 ڈالر تک گر گیا۔\nلیکن 8 جولائی کو جنگ بندی ختم ہو گئی، جس نے B کو اٹھایا…"
-    },
-    {
-      "title": "The Taliban’s Next Five Years",
-      "desc": "The brutish group has been surprisingly stable since snatching power in 2021. Rockier times may lie ahead.",
-      "source": "Foreign Policy",
-      "url": "http://foreignpolicy.com/2026/08/19/taliban-afghanistan-fall-kabul-security-economy-pakistan-isk/",
-      "time": "2026-08-19T21:06:48",
-      "country": "International",
-      "title_ur": "طالبان کے اگلے پانچ سال",
-      "desc_ur": "2021 میں اقتدار چھیننے کے بعد سے وحشیانہ گروہ حیرت انگیز طور پر مستحکم ہے۔"
-    },
-    {
-      "title": "A call to power: Islamic leaders see ballot box as path to paradise",
-      "desc": "Some Muslim candidates for office are supported by campaign funds linked to Hamas front groups",
-      "source": "Wnd.com",
-      "url": "https://www.wnd.com/2026/08/call-power-islamic-leaders-see-ballot-box-as/",
-      "time": "2026-08-19T21:05:48",
-      "country": "US",
-      "title_ur": "اقتدار کی دعوت: اسلامی رہنما بیلٹ باکس کو جنت کے راستے کے طور پر دیکھتے ہیں۔",
-      "desc_ur": "عہدے کے لیے کچھ مسلم امیدواروں کو حماس کے فرنٹ گروپوں سے منسلک مہم کے فنڈز سے مدد ملتی ہے۔"
-    },
-    {
-      "title": "Gray-Zone Warfare Picks Easy Targets in Germany",
-      "desc": "Political appeasement won’t buy off hostile powers.",
-      "source": "Foreign Policy",
-      "url": "http://foreignpolicy.com/2026/08/19/gray-zone-germany-russia-hybrid-warfare/",
-      "time": "2026-08-19T21:03:50",
-      "country": "Germany",
-      "title_ur": "گرے زون وارفیئر جرمنی میں آسان اہداف کا انتخاب کرتا ہے۔",
-      "desc_ur": "سیاسی تسکین دشمن طاقتوں کو نہیں خریدے گی۔"
-    },
-    {
-      "title": "Bad Johnny’s slings “free” pizza on the fifth birthday of Monday Night Foodball",
-      "desc": "Bad Johnny walked the equivalent of three marathons on Lollapalooza weekend. That was achieved four to five steps at a time, paddling raw dough and finished pizzas to and from the tented prep station, the expo, and the 950-degree Fahrenheit, gaping hellmouth …",
-      "source": "Chicago Reader",
-      "url": "https://chicagoreader.com/food/monday-night-foodball/bad-johnnys-wood-fired-pizza-free-mercy-home-boys-girls-chicago-marathon/",
-      "time": "2026-08-19T21:02:06",
-      "country": "International",
-      "title_ur": "منڈے نائٹ فوڈ بال کی پانچویں سالگرہ پر بیڈ جانی کے سلنگز \"مفت\" پیزا",
-      "desc_ur": "بیڈ جانی نے لولا پالوزا ویک اینڈ پر تین میراتھن کے برابر واک کی۔ یہ ایک وقت میں چار سے پانچ قدموں پر حاصل کیا گیا تھا، کچے آٹے کو پیڈل کرتے ہوئے اور تیار شدہ پیزا کو ٹینٹڈ پریپ اسٹیشن، ایکسپو، اور 950 ڈگری فارن ہائیٹ، ہیل ماؤتھ کو چھوڑ کر…"
     }
   ],
-  "pakistan": [],
+  "pakistan": [
+    {
+      "title": "UK condemns Israel’s E1 settlement, summons Israeli envoy",
+      "desc": "The UK's stance may influence global diplomatic dynamics, potentially affecting international recognition of Palestine and market perceptions.\nThe post UK condemns Israel’s E1 settlement, summons Israeli envoy appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/uk-condemns-israels-e1-settlement-summons-israeli-envoy/",
+      "time": "2026-08-19T21:40:02",
+      "country": "Pakistan",
+      "title_ur": "برطانیہ نے اسرائیل کی E1 تصفیہ کی مذمت کی، اسرائیلی سفیر کو طلب کیا۔",
+      "desc_ur": "برطانیہ کا موقف عالمی سفارتی حرکیات کو متاثر کر سکتا ہے، ممکنہ طور پر فلسطین کی بین الاقوامی شناخت اور مارکیٹ کے تاثرات کو متاثر کر سکتا ہے۔\nThe post برطانیہ کی اسرائیل کی E1 تصفیہ کی مذمت، اسرائیلی ایلچی کو طلب appeared first on Crypto Briefing."
+    },
+    {
+      "title": "Geopolitical risk needs to move away from the ‘after-dinner speaker’: Eurasia Group and Rio Tinto’s Dominic Barton",
+      "desc": "Surprise U.S. tariffs. A war involving Iran. New American tech bans and Chinese export controls. The list of geopolitical shocks that CEOs must be mindful of, let alone plan for, keeps getting longer.\n“We’re in a world where all the assumptions about internat…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/e27c6879d089f67e",
+      "time": "2026-08-19T21:35:53",
+      "country": "Pakistan",
+      "title_ur": "جیو پولیٹیکل خطرے کو 'آفٹر ڈنر اسپیکر' سے دور جانے کی ضرورت ہے: یوریشیا گروپ اور ریو ٹنٹو کے ڈومینک بارٹن",
+      "desc_ur": "امریکی ٹیرف کو حیران کر دیں۔ ایک جنگ جس میں ایران شامل ہے۔ نئی امریکی ٹیک پابندیاں اور چینی برآمدی کنٹرول۔ جیو پولیٹیکل جھٹکوں کی فہرست جس کے بارے میں سی ای اوز کو ذہن نشین ہونا چاہیے، اس کے لیے منصوبہ بندی کرنے کی بات ہی طویل ہوتی جا رہی ہے۔\n\"ہم ایک ایسی دنیا میں ہیں جہاں انٹرنیٹ کے بارے میں تمام مفروضے…"
+    }
+  ],
   "business": {
     "quote": "If everyone is moving forward together, then success takes care of itself.",
     "author": "Henry Ford",
