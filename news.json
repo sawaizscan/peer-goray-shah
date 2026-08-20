@@ -1,167 +1,247 @@
 {
-  "generated": "2026-08-20T06:35:10Z",
+  "generated": "2026-08-20T07:35:34Z",
   "world": [
     {
-      "title": "Batwara 1947 box office day 5: Sunny Deol's film sees slight rise",
-      "desc": "Batwara 1947 box office collection Today: Batwara 1947, directed by Rajkumar Santoshi, has been struggling at the box office since its release. After a major drop on Monday, the film showed marginal growth on Tuesday",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/entertainment/batwara-1947-box-office-day-5-sunny-deol-s-film-sees-slight-rise-nc-126081900403_1.html",
-      "time": "2026-08-19T06:33:29",
+      "title": "Markets fall for seventh straight session; banks, metals drag as crude weighs on sentiment",
+      "desc": "Investor sentiment remained fragile as persistent geopolitical tensions, higher oil prices and currency weakness intensified pressure on domestic equities.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/stock-markets/markets-fall-for-seventh-straight-session-banks-metals-drag-as-crude-weighs-on-sentiment/article71363854.ece",
+      "time": "2026-08-19T07:34:09",
       "country": "International",
-      "title_ur": "بٹوارہ 1947 باکس آفس کا پانچواں دن: سنی دیول کی فلم میں معمولی اضافہ",
-      "desc_ur": "بٹوارہ 1947 کا باکس آفس مجموعہ آج: راجکمار سنتوشی کی ہدایت کاری میں بنی بٹوارہ 1947، ریلیز کے بعد سے باکس آفس پر جدوجہد کر رہی ہے۔ پیر کو ایک بڑی کمی کے بعد، فلم نے منگل کو معمولی اضافہ دکھایا"
+      "title_ur": "مسلسل ساتویں سیشن میں مارکیٹوں میں گراوٹ؛ بینکوں، دھاتوں کو گھسیٹتے ہیں کیونکہ خام کا وزن جذبات پر ہوتا ہے۔",
+      "desc_ur": "مسلسل جغرافیائی سیاسی تناؤ، تیل کی اونچی قیمتوں اور کرنسی کی کمزوری نے گھریلو ایکوئٹی پر دباؤ کو تیز کرنے کے باعث سرمایہ کاروں کے جذبات نازک رہے۔"
     },
     {
-      "title": "Can a government without Netanyahu change American minds on Israel?",
-      "desc": "If Netanyahu loses the upcoming Israeli election, a new government could get a small bump in U.S. public opinion polls. But without a major policy shift, it would be only temporary",
-      "source": "Haaretz",
-      "url": "https://www.haaretz.com/opinion/2026-08-19/ty-article-opinion/.premium/can-a-government-without-netanyahu-change-american-minds-on-israel/000001a0-18a2-df40-afe2-99f3ae010000",
-      "time": "2026-08-19T06:27:56",
-      "country": "Israel",
-      "title_ur": "کیا نیتن یاہو کے بغیر حکومت اسرائیل پر امریکی ذہن بدل سکتی ہے؟",
-      "desc_ur": "اگر نیتن یاہو آئندہ اسرائیلی انتخابات ہار جاتے ہیں تو امریکی رائے عامہ کے جائزوں میں نئی ​​حکومت کو ایک چھوٹا سا ٹکر مل سکتا ہے۔ لیکن پالیسی میں بڑی تبدیلی کے بغیر، یہ صرف عارضی ہوگا۔"
-    },
-    {
-      "title": "South Africa to Australia: Why coal profits are surging during Iran war",
-      "desc": "Coal companies are reporting a huge rise in profits, but analysts say global clean energy transition is still on track.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/8/19/south-africa-to-australia-why-coal-profits-are-surging-during-iran-war",
-      "time": "2026-08-19T06:27:30",
-      "country": "Iran",
-      "title_ur": "جنوبی افریقہ سے آسٹریلیا: ایران جنگ کے دوران کوئلے کا منافع کیوں بڑھ رہا ہے؟",
-      "desc_ur": "کوئلہ کمپنیاں منافع میں بہت زیادہ اضافے کی اطلاع دے رہی ہیں، لیکن تجزیہ کاروں کا کہنا ہے کہ عالمی سطح پر صاف توانائی کی منتقلی ابھی بھی راستے پر ہے۔"
-    },
-    {
-      "title": "Carlsberg upbeat on annual profit despite first half miss",
-      "desc": "Danish brewer Carlsberg has today forecast full-year profit towards the upper end of its previous guidance range even as it missed half-year estimates.",
-      "source": "RTE",
-      "url": "https://www.rte.ie/news/business/2026/0819/1588449-carlsberg-halfyear-results/",
-      "time": "2026-08-19T06:26:32",
-      "country": "US",
-      "title_ur": "کارلسبرگ پہلے ہاف کی کمی کے باوجود سالانہ منافع پر خوش ہیں۔",
-      "desc_ur": "ڈینش شراب بنانے والے کارلس برگ نے آج اپنے پچھلے گائیڈنس رینج کے اوپری سرے کی طرف پورے سال کے منافع کی پیشن گوئی کی ہے یہاں تک کہ اس نے ششماہی کے تخمینوں کو کھو دیا۔"
-    },
-    {
-      "title": "NZX 50 rises after Fletcher Building, Ebos results exceed expectations – Market close",
-      "desc": "The S&P/NZX 50 Index rose 0.46% as reporting season gathered pace.",
-      "source": "New Zealand Herald",
-      "url": "https://www.nzherald.co.nz/business/markets/shares/nzx-50-rises-after-fletcher-building-ebos-results-exceed-expectations-market-close/premium/7ILFQGOHJZANNBC7WW6RFEISAY/",
-      "time": "2026-08-19T06:26:30",
-      "country": "International",
-      "title_ur": "فلیچر بلڈنگ کے بعد NZX 50 میں اضافہ، Ebos کے نتائج توقعات سے بڑھ گئے - مارکیٹ بند",
-      "desc_ur": "رپورٹنگ سیزن کی رفتار کے ساتھ S&P/NZX 50 انڈیکس میں 0.46% اضافہ ہوا۔"
-    },
-    {
-      "title": "Yossi Cohen appointed strategic advisor at SoftBank as fund pivots toward AI",
-      "desc": "Cohen's appointment signals SoftBank's intensified focus on AI, potentially reshaping global tech investment landscapes and innovation strategies.\nThe post Yossi Cohen appointed strategic advisor at SoftBank as fund pivots toward AI appeared first on Crypto B…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/yossi-cohen-strategic-advisor-softbank/",
-      "time": "2026-08-19T06:24:32",
-      "country": "US",
-      "title_ur": "یوسی کوہن نے سافٹ بینک میں سٹریٹجک ایڈوائزر کو AI کی طرف فنڈ کے محور کے طور پر مقرر کیا",
-      "desc_ur": "کوہن کی تقرری AI پر SoftBank کی تیز توجہ کا اشارہ دیتی ہے، ممکنہ طور پر عالمی ٹیک سرمایہ کاری کے مناظر اور جدت طرازی کی حکمت عملیوں کو نئی شکل دینا۔\nThe post یوسی کوہن نے سافٹ بینک میں اسٹریٹجک ایڈوائزر کو AI کی طرف فنڈ کے محور کے طور پر مقرر کیا appeared first on Crypto B…"
-    },
-    {
-      "title": "Iran warns southern Gulf states against aiding US",
-      "desc": "Iranian Armed Forces Chief of Staff Ali Abdollahi (pictured) warned the countries of the southern Persian Gulf on Wednesday that Tehran considers the United States' presence on their territories as th...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/1730f79d93643616",
-      "time": "2026-08-19T06:24:18",
-      "country": "Iran",
-      "title_ur": "ایران نے جنوبی خلیجی ریاستوں کو امریکہ کی مدد کے خلاف خبردار کیا ہے۔",
-      "desc_ur": "ایرانی مسلح افواج کے چیف آف اسٹاف علی عبداللہی (تصویر میں) نے بدھ کے روز جنوبی خلیج فارس کے ممالک کو متنبہ کیا کہ تہران اپنی سرزمین پر امریکہ کی موجودگی کو سمجھتا ہے..."
-    },
-    {
-      "title": "Iran threatens US bases in Europe if war resumes",
-      "desc": "Sources close to Tehran tell the Financial Times Iran considering strikes on US assets in southeastern Europe, targeting undersea cables, if war renews.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/431920",
-      "time": "2026-08-19T06:21:00",
-      "country": "Iran",
-      "title_ur": "ایران نے جنگ دوبارہ شروع ہونے کی صورت میں یورپ میں امریکی اڈوں کو دھمکی دی ہے۔",
-      "desc_ur": "تہران کے قریبی ذرائع نے فنانشل ٹائمز کو بتایا کہ اگر جنگ کی تجدید ہوئی تو ایران جنوب مشرقی یورپ میں امریکی اثاثوں پر حملوں پر غور کر رہا ہے، جس میں زیر سمندر کیبلز کو نشانہ بنایا جائے گا۔"
-    },
-    {
-      "title": "Nifty trades below 24,100 level; consumer durables shares underpressure",
-      "desc": "At 11:30 IST, the barometer index, the S&P BSE Sensex slipped 345.62 points or 0.45% to 76,889.84. The Nifty 50 index lost 99.35 points or 0.41% to 24,056.05.",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/markets/capital-market-news/nifty-trades-below-24-100-level-consumer-durables-shares-underpressure-126081900401_1.html",
-      "time": "2026-08-19T06:20:02",
-      "country": "International",
-      "title_ur": "نفٹی 24,100 کی سطح سے نیچے تجارت کرتا ہے۔ کنزیومر ڈیو ایبلز کے حصص کا دباؤ کم ہے۔",
-      "desc_ur": "11:30 IST پر، بیرومیٹر انڈیکس، S&P BSE سینسیکس 345.62 پوائنٹس یا 0.45% گر کر 76,889.84 پر آگیا۔ نفٹی 50 انڈیکس 99.35 پوائنٹس یا 0.41 فیصد گر کر 24,056.05 پر آگیا۔"
-    },
-    {
-      "title": "Inflation rises to 2.9% as gas prices soar in fresh headache for Andy Burnham",
-      "desc": "The rate of Consumer Prices Index inflation rose to 2.9 per cent in July - up from a 15-month low of 2.6 per cent in June and the highest rate since March, the Office for National Statistics said today.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16063101/Inflation-rises-gas-prices-soar-Andy-Burnham.html",
-      "time": "2026-08-19T06:17:43",
-      "country": "International",
-      "title_ur": "اینڈی برنہم کے لیے گیس کی قیمتوں میں اضافے کے باعث افراط زر 2.9% تک بڑھ گیا۔",
-      "desc_ur": "دفتر برائے قومی شماریات نے آج کہا کہ صارفین کی قیمتوں کے اشاریہ کی افراط زر کی شرح جولائی میں بڑھ کر 2.9 فیصد ہو گئی - جو جون میں 15 ماہ کی کم ترین 2.6 فیصد اور مارچ کے بعد کی بلند ترین شرح سے زیادہ ہے۔"
-    },
-    {
-      "title": "CNBC Daily Open: Robots rising, tariff turnaround and yield nerves",
-      "desc": "Chinese robot maker Unitree rises around 500% on its debut day of trade amid continued geopolitical tensions and a bond market rout, keeping stock markets in check.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/19/cnbc-daily-open-robots-rising-tariff-turnaround-and-yield-nerves.html",
-      "time": "2026-08-19T06:10:54",
-      "country": "International",
-      "title_ur": "CNBC ڈیلی اوپن: روبوٹ بڑھ رہے ہیں، ٹیرف بدل رہے ہیں اور اعصاب پیدا کر رہے ہیں۔",
-      "desc_ur": "چینی روبوٹ بنانے والی کمپنی Unitree اپنے پہلے دن تجارت میں 500% کے لگ بھگ اضافہ ہوا ہے جو کہ جاری جغرافیائی سیاسی تناؤ اور بانڈ مارکیٹ کی خرابی کے درمیان ہے، جس سے اسٹاک مارکیٹوں کو قابو میں رکھا گیا ہے۔"
-    },
-    {
-      "title": "Iran Parliament Speaker Mocks Bessent and Hegseth, Says Both Are 'Way Out of Their League': Stop Waiting for…",
-      "desc": "Iran’s Qalibaf calls Bessent and Hegseth “way out of their league,” as U.S. pressure fails to bring Tehran back to talks amid the war.",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/cd88d468eb7de6c9",
-      "time": "2026-08-19T06:08:49",
-      "country": "Iran",
-      "title_ur": "ایرانی پارلیمنٹ کے اسپیکر نے بیسنٹ اور ہیگستھ کا مذاق اڑایا، کہا کہ دونوں 'اپنی لیگ سے باہر نکلنے کا راستہ' ہیں: انتظار کرنا بند کریں…",
-      "desc_ur": "ایران کے قالیباف نے بیسنٹ اور ہیگستھ کو \"اپنی لیگ سے باہر نکلنے کا راستہ\" قرار دیا، کیونکہ امریکی دباؤ جنگ کے دوران تہران کو مذاکرات کی طرف واپس لانے میں ناکام رہا۔"
-    },
-    {
-      "title": "David Jolly’s rise could spell bad news for Donald Trump in Florida",
-      "desc": "The Sunshine State has not had a Democratic governor this century - that could change despite the US president’s approval of Byron Donalds",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/world/us/2026/08/19/david-jollys-rise-could-spell-bad-news-for-donald-trump-in-florida/",
-      "time": "2026-08-19T06:08:44",
-      "country": "US",
-      "title_ur": "ڈیوڈ جولی کا اضافہ فلوریڈا میں ڈونلڈ ٹرمپ کے لیے بری خبر دے سکتا ہے۔",
-      "desc_ur": "سن شائن اسٹیٹ کا اس صدی میں کوئی ڈیموکریٹک گورنر نہیں ہے - جو بائرن ڈونلڈز کو امریکی صدر کی منظوری کے باوجود تبدیل کر سکتا ہے۔"
-    },
-    {
-      "title": "UK inflation rises to 2.9% as Iran war fuels living costs squeeze",
-      "desc": "Higher energy costs push up CPI but jobs slowdown could deter Bank of England from raising interest rates\nUK inflation rose to 2.9% in July as the impact of the Iran war on energy prices triggered a renewed cost of living squeeze for British households.\nUnder…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/504c95e13d2abb36",
-      "time": "2026-08-19T06:08:42",
-      "country": "Iran",
-      "title_ur": "برطانیہ کی افراط زر 2.9 فیصد تک بڑھ گئی کیونکہ ایران جنگ کے ایندھن کی زندگی کے اخراجات کو نچوڑ دیا گیا ہے۔",
-      "desc_ur": "اعلی توانائی کی لاگت CPI کو بڑھاتی ہے لیکن ملازمتوں میں سست روی بینک آف انگلینڈ کو شرح سود میں اضافے سے روک سکتی ہے\nجولائی میں برطانیہ کی افراط زر 2.9 فیصد تک بڑھ گئی کیونکہ توانائی کی قیمتوں پر ایران جنگ کے اثرات نے برطانوی گھرانوں کے لیے زندگی گزارنے کی نئی لاگت کو جنم دیا۔\nکے تحت…"
-    },
-    {
-      "title": "In 2004, US soldiers hid a time capsule inside a barracks wall before deploying to Iraq and 19 years later contractors found it during renovations",
-      "desc": "US News: A forgotten US Army time capsule discovered in late 2022 has now finally gone on public display. It was left inside a Fort McCoy barracks by Kentucky .",
+      "title": "India stocks top Indonesia as Asia’s least-favoured in BofA poll",
+      "desc": "India has replaced Indonesia as Asia’s least-preferred stock market among fund managers surveyed by Bank of America, with 32% of respondents net underweight on Indian equities. Lack of clear AI exposure, weak growth, high valuations and limited reforms emerge…",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/us/in-2004-us-soldiers-hid-a-time-capsule-inside-a-barracks-wall-before-deploying-to-iraq-and-19-years-later-contractors-found-it-during-renovations/articleshow/133338775.cms",
-      "time": "2026-08-19T06:01:04",
-      "country": "Iraq",
-      "title_ur": "2004 میں، امریکی فوجیوں نے عراق میں تعیناتی سے پہلے ایک بیرکس کی دیوار کے اندر ٹائم کیپسول چھپا دیا تھا اور 19 سال بعد ٹھیکیداروں نے اسے مرمت کے دوران ڈھونڈ لیا تھا۔",
-      "desc_ur": "یو ایس نیوز: 2022 کے آخر میں دریافت ہونے والا امریکی فوج کا بھولا ہوا ٹائم کیپسول اب آخر کار عوامی نمائش کے لیے چلا گیا ہے۔ اسے کینٹکی نے فورٹ میک کوئے بیرک کے اندر چھوڑ دیا تھا۔"
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/india-stocks-top-indonesia-as-asias-least-favoured-in-bofa-poll/articleshow/133341047.cms",
+      "time": "2026-08-19T07:32:18",
+      "country": "India",
+      "title_ur": "BofA پول میں ایشیا کے سب سے کم پسندیدہ کے طور پر ہندوستان انڈونیشیا میں سرفہرست ہے۔",
+      "desc_ur": "ہندوستان نے انڈونیشیا کی جگہ ایشیا کی سب سے کم ترجیحی اسٹاک مارکیٹ کے طور پر بینک آف امریکہ کے ذریعہ سروے کیے گئے فنڈ مینیجرز کے درمیان لے لی ہے، 32% جواب دہندگان کا ہندوستانی ایکویٹی پر کم وزن ہے۔ واضح AI کی نمائش کا فقدان، کمزور نمو، زیادہ قیمتیں اور محدود اصلاحات سامنے آتی ہیں…"
+    },
+    {
+      "title": "Managed Instability: Why the Wars Against Iran and Ukraine Can Go On and On and On…",
+      "desc": "The Iran war is beginning to resemble the Ukraine war in one important way. Operationally, the wars themselves are still very different — Ukraine is a large-scale ground invasion, while the Iran war is not there just yet. But their political logic after a fai…",
+      "source": "War on the Rocks",
+      "url": "https://warontherocks.com/managed-instability-why-the-wars-against-iran-and-ukraine-can-go-on-and-on-and-on/",
+      "time": "2026-08-19T07:30:50",
+      "country": "Iran",
+      "title_ur": "منظم عدم استحکام: ایران اور یوکرین کے خلاف جنگیں کیوں جاری رہ سکتی ہیں…",
+      "desc_ur": "ایران کی جنگ ایک اہم طریقے سے یوکرائن کی جنگ سے مشابہت اختیار کرنے لگی ہے۔ آپریشنل طور پر، جنگیں خود اب بھی بہت مختلف ہیں - یوکرین ایک بڑے پیمانے پر زمینی حملہ ہے، جبکہ ایران کی جنگ ابھی وہاں نہیں ہے۔ لیکن ان کی سیاسی منطق ناکامی کے بعد…"
+    },
+    {
+      "title": "Chief of Staff finds new role for offcier blocked from promotion",
+      "desc": "Defense Minister Israel Katz rejected a promotion for Maj. Gen. Eliad Muati. Now, IDF Chief of Staff Eyal Zamir has found a way to keep the senior officer in service.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/431922",
+      "time": "2026-08-19T07:21:51",
+      "country": "Israel",
+      "title_ur": "چیف آف اسٹاف کو پروموشن سے روکے گئے افسر کے لیے نیا کردار مل گیا۔",
+      "desc_ur": "وزیر دفاع اسرائیل کاٹز نے میجر جنرل الیاد موتی کی ترقی کو مسترد کر دیا۔ اب آئی ڈی ایف کے چیف آف اسٹاف ایال ضمیر نے سینئر افسر کو سروس میں رکھنے کا ایک طریقہ ڈھونڈ لیا ہے۔"
+    },
+    {
+      "title": "Fox News Forced Into Rare On-Air Move After Graphic Blunder",
+      "desc": "The erroneous graphic aired on “America Reports” and also on the Fox Business Network.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/fox-news-on-air-retraction-gas-prices_n_6a854f2fe4b0e9f1dd26a4c4",
+      "time": "2026-08-19T07:12:08",
+      "country": "US",
+      "title_ur": "فاکس نیوز گرافک غلطی کے بعد نایاب آن ایئر حرکت پر مجبور",
+      "desc_ur": "غلط گرافک \"امریکہ رپورٹس\" اور فاکس بزنس نیٹ ورک پر بھی نشر ہوا۔"
+    },
+    {
+      "title": "Iran reportedly weighs attacks on U.S. targets in Europe as UAE severs trade with Tehran",
+      "desc": "Washington and Tehran are considering next steps after negotiations fell apart, while the UAE has suspended trade with Iran.",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/e0a3c964042b48f4",
+      "time": "2026-08-19T07:09:50",
+      "country": "Iran",
+      "title_ur": "مبینہ طور پر ایران نے یورپ میں امریکی اہداف پر حملوں کا وزن کیا کیونکہ متحدہ عرب امارات نے تہران کے ساتھ تجارت منقطع کر دی",
+      "desc_ur": "واشنگٹن اور تہران مذاکرات کے ٹوٹنے کے بعد اگلے اقدامات پر غور کر رہے ہیں جبکہ متحدہ عرب امارات نے ایران کے ساتھ تجارت معطل کر دی ہے۔"
+    },
+    {
+      "title": "Oil extends climb on prolonged Hormuz export uncertainty",
+      "desc": "Oil prices climbed for a fourth day in a row today as investors weighed conflicting messages from Tehran and Washington on whether the Strait of Hormuz is open to ships.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/business/2026/0819/1588455-world-oil-prices/",
+      "time": "2026-08-19T07:09:39",
+      "country": "Iran",
+      "title_ur": "تیل نے ہرمز کی برآمدات کی طویل غیر یقینی صورتحال پر چڑھائی کو بڑھا دیا۔",
+      "desc_ur": "تیل کی قیمتوں میں آج لگاتار چوتھے دن اضافہ ہوا کیونکہ سرمایہ کاروں نے تہران اور واشنگٹن کے متضاد پیغامات پر غور کیا کہ آیا آبنائے ہرمز بحری جہازوں کے لیے کھلا ہے۔"
+    },
+    {
+      "title": "India's obesity epidemic is quietly leaving its cities behind",
+      "desc": "India sees a significant rise in overweight and obese populations recently.  Rural areas show a particularly sharp increase in these health issues.  Processed foods are now widely available and marketed aggressively.  Lifestyle changes and reduced physical ac…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/india/indias-obesity-epidemic-is-quietly-leaving-its-cities-behind/articleshow/133339723.cms",
+      "time": "2026-08-19T07:08:18",
+      "country": "India",
+      "title_ur": "ہندوستان میں موٹاپے کی وبا خاموشی سے اپنے شہروں کو پیچھے چھوڑ رہی ہے۔",
+      "desc_ur": "ہندوستان میں حال ہی میں زیادہ وزن اور موٹے لوگوں کی آبادی میں نمایاں اضافہ دیکھا گیا ہے۔  دیہی علاقوں میں صحت کے ان مسائل میں خاص طور پر تیزی سے اضافہ ہوتا ہے۔  پروسیسرڈ فوڈز اب بڑے پیمانے پر دستیاب ہیں اور جارحانہ طریقے سے مارکیٹنگ کی جاتی ہیں۔  طرز زندگی میں تبدیلی اور جسمانی سرگرمی میں کمی…"
+    },
+    {
+      "title": "Trump Delays Canada Tariffs, Takes Hard Line on Iran | Daybreak Europe 8/19/2026",
+      "desc": "Bloomberg Daybreak Europe is your essential morning viewing to stay ahead. Live from London, we set the agenda for your day, ...",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/7a88badc2eacf7c0",
+      "time": "2026-08-19T07:05:13",
+      "country": "Iran",
+      "title_ur": "ٹرمپ نے کینیڈا کے ٹیرف میں تاخیر کی، ایران پر سخت رویہ اختیار کیا | ڈے بریک یورپ 8/19/2026",
+      "desc_ur": "بلومبرگ ڈے بریک یورپ آپ کو آگے رہنے کے لیے صبح کا لازمی نظارہ ہے۔ لندن سے لائیو، ہم نے آپ کے دن کا ایجنڈا ترتیب دیا،..."
+    },
+    {
+      "title": "Why Donald Trump hasn't endorsed his close ally Benjamin Netayahu in Israel's election",
+      "desc": "On today's episode of Iran: The Latest, Venetia Rainey is joined by chief Washington correspondent Connor Stringer to discuss ...",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/88279d06a0ed85c6",
+      "time": "2026-08-19T07:05:08",
+      "country": "Iran",
+      "title_ur": "ڈونلڈ ٹرمپ نے اسرائیل کے انتخابات میں اپنے قریبی اتحادی بنجمن نیتیاہو کی حمایت کیوں نہیں کی؟",
+      "desc_ur": "ایران کے آج کے ایپی سوڈ میں: تازہ ترین، وینٹیا رینی کے ساتھ واشنگٹن کے چیف نامہ نگار کونر سٹرنگر کے ساتھ بات چیت کے لیے..."
+    },
+    {
+      "title": "5⃣ stories of the day:  Rodri unveiled, Julián ruled out and Mou speaks",
+      "desc": "After a frantic Tuesday with Mourinho’s interview, Rodri’s unveiling and many other things, let’s sort it all out with the five stories you can’t miss.Rodri unveiled and officially confirmed b...",
+      "source": "Onefootball.com",
+      "url": "https://onefootball.com/en/news/5-stories-of-the-day-rodri-unveiled-julian-ruled-out-and-mou-speaks-43299554",
+      "time": "2026-08-19T07:01:00",
+      "country": "International",
+      "title_ur": "5⃣ دن کی کہانیاں: روڈری نے نقاب کشائی کی، جولیان نے مسترد کر دیا اور Mou بولتا ہے",
+      "desc_ur": "مورینہو کے انٹرویو، روڈری کی نقاب کشائی اور بہت سی دوسری چیزوں کے ساتھ ایک عجیب و غریب منگل کے بعد، آئیے اس سب کو ان پانچ کہانیوں کے ساتھ ترتیب دیں جنہیں آپ یاد نہیں کر سکتے۔ Rodri نے نقاب کشائی کی اور باضابطہ طور پر تصدیق کی۔"
+    },
+    {
+      "title": "Proving the Negative: Three Warnings from Arms Control for the Age of AI",
+      "desc": "In early 1963, a single number characterized the difference in the positions of the United States and the Soviet Union on a comprehensive nuclear test ban. Nikita Khrushchev had proposed three on-site inspections each year. Washington was asking for seven. Ot…",
+      "source": "War on the Rocks",
+      "url": "https://warontherocks.com/proving-the-negative-three-warnings-from-arms-control-for-the-age-of-ai/",
+      "time": "2026-08-19T07:00:54",
+      "country": "US",
+      "title_ur": "منفی ثابت کرنا: AI کی عمر کے لیے آرمز کنٹرول سے تین انتباہات",
+      "desc_ur": "1963 کے اوائل میں، ایک ہی نمبر نے جامع ایٹمی ٹیسٹ پر پابندی پر امریکہ اور سوویت یونین کے موقف میں فرق کو نمایاں کیا۔ نکیتا خروشیف نے ہر سال سائٹ پر تین معائنہ کرنے کی تجویز پیش کی تھی۔ واشنگٹن سات مانگ رہا تھا۔ اوٹ…"
+    },
+    {
+      "title": "How a Marine Became an Afghan Warlord’s Trusted Consigliere",
+      "desc": "Former Marine Thomas O’Neil says growing up around organized crime prepared him to navigate warlords, power brokers and tribal politics in Afghanistan",
+      "source": "Military.com",
+      "url": "https://military.com/how-a-mobbed-up-marine-became-an-afghan-warlords-trusted-consigliere",
+      "time": "2026-08-19T07:00:13",
+      "country": "US",
+      "title_ur": "ایک میرین افغان وارلارڈ کا قابل اعتماد کنسلیئر کیسے بن گیا۔",
+      "desc_ur": "سابق میرین تھامس او نیل کا کہنا ہے کہ منظم جرائم کے ارد گرد پروان چڑھنے نے انہیں افغانستان میں جنگجوؤں، طاقت کے دلالوں اور قبائلی سیاست پر جانے کے لیے تیار کیا۔"
+    },
+    {
+      "title": "UAE halts all trade, financial dealings with Iran",
+      "desc": "The United Arab Emirates has said it is suspending all trade and financial dealings with Iran after reporting an Iranian missile attack directed at its ships.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/uae-halts-all-trade-financial-dealings-with-iran-225784",
+      "time": "2026-08-19T06:59:48",
+      "country": "Iran",
+      "title_ur": "متحدہ عرب امارات نے ایران کے ساتھ تمام تجارتی اور مالی معاملات کو روک دیا۔",
+      "desc_ur": "متحدہ عرب امارات نے کہا ہے کہ اس کے بحری جہازوں پر ایرانی میزائل حملے کی اطلاع کے بعد وہ ایران کے ساتھ تمام تجارتی اور مالی معاملات معطل کر رہا ہے۔"
+    },
+    {
+      "title": "Inside the $8 billion cybersecurity acquisition that rescued ServiceNow from the ‘Saaspocalypse’",
+      "desc": "The deal for Yevgeny Dibrov’s Armis was Israel’s second-largest tech startup exit ever.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/19/armis-wiz-8-billion-cybersecurity-acquisition-servicenow-saaspocalypse/",
+      "time": "2026-08-19T06:58:00",
+      "country": "Israel",
+      "title_ur": "$8 بلین سائبرسیکیوریٹی حصول کے اندر جس نے ServiceNow کو 'Saspocalypse' سے بچایا۔",
+      "desc_ur": "Evgeny Dibrov's Armis کے لیے معاہدہ اسرائیل کا اب تک کا دوسرا سب سے بڑا ٹیک اسٹارٹ اپ ایگزٹ تھا۔"
     }
   ],
   "pakistan": [
     {
-      "title": "Will India-Pakistan Hockey Teams Shake Hands?",
-      "desc": "Ahead of their crucial Hockey World Cup 2026 clash, the traditional India-Pakistan hockey rivalry faces an unusual question: will the teams shake hands? This comes after a similar debate in cricket. While the historical record is close, India has dominated re…",
-      "source": "Rediff.com",
-      "url": "https://www.rediff.com/sports/report/fih-world-cup-will-india-pakistan-hockey-teams-shake-hands/20260819.htm",
-      "time": "2026-08-19T06:20:19",
+      "title": "'They are a poor side': Stuart Broad dishes out ultimate insult to Pakistan, predicts whitewash in favour of England",
+      "desc": "Pakistan might be coming off a sweet win over the Windies, but for former English legend Stuart Broad, the visitors are still the underdogs, and he wasn't hesitant to dish out an insult.",
+      "source": "Cricketnews.com",
+      "url": "https://www.cricketnews.com/en/cricket/news/stuart-broad-insult-pakistan-predicts-whitewash-favour-england/569c9bc9b66b4b646cfe9db0",
+      "time": "2026-08-19T07:32:00",
       "country": "Pakistan",
-      "title_ur": "کیا پاکستان اور بھارت کی ہاکی ٹیمیں ہاتھ ملائیں گی؟",
-      "desc_ur": "ہاکی ورلڈ کپ 2026 کے ان کے اہم تصادم سے پہلے، روایتی ہندوستان اور پاکستان ہاکی دشمنی کو ایک غیر معمولی سوال کا سامنا ہے: کیا ٹیمیں ہاتھ ملائیں گی؟ یہ کرکٹ میں اسی طرح کی بحث کے بعد سامنے آیا ہے۔ جب کہ تاریخی ریکارڈ قریب ہے، ہندوستان نے دوبارہ غلبہ حاصل کیا ہے…"
+      "title_ur": "'وہ ایک غریب پہلو ہیں': اسٹورٹ براڈ نے پاکستان کی حتمی توہین کی، انگلینڈ کے حق میں وائٹ واش کی پیش گوئی",
+      "desc_ur": "پاکستان شاید ونڈیز کے خلاف ایک میٹھی جیت حاصل کر رہا ہو، لیکن سابق انگلش لیجنڈ اسٹورٹ براڈ کے لیے، مہمان اب بھی انڈر ڈاگ ہیں، اور وہ اپنی توہین کرنے میں ہچکچاتے نہیں تھے۔"
+    },
+    {
+      "title": "India vs Pakistan Hockey World Cup 2026: Can Pak end 10-year win drought?",
+      "desc": "Pakistan eye a first win over India in over a decade as the arch-rivals clash in a crucial Hockey World Cup 2026 Pool D match on Wednesday. IND vs PAK hockey match to start at 6:30 pm IST.",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/sports/other-sports-news/pakistan-eye-decade-ending-upset-to-knock-india-out-of-world-cup-2026-ind-vs-pak-hockey-126081900493_1.html",
+      "time": "2026-08-19T07:19:29",
+      "country": "Pakistan",
+      "title_ur": "بھارت بمقابلہ پاکستان ہاکی ورلڈ کپ 2026: کیا پاکستان 10 سالہ خشک سالی کو ختم کر سکتا ہے؟",
+      "desc_ur": "بدھ کو ہاکی ورلڈ کپ 2026 کے پول ڈی کے ایک اہم میچ میں روایتی حریفوں کے درمیان تصادم کے بعد پاکستان کی نظریں ایک دہائی سے زائد عرصے میں بھارت کے خلاف پہلی جیت پر ہیں۔ IND بمقابلہ PAK ہاکی میچ IST شام 6:30 بجے شروع ہوگا۔"
+    },
+    {
+      "title": "Strait of Hormuz chaos has incentivized China to use an alternative trade route: a 3,400 mile frozen Arctic channel dubbed the ‘Ice Silk Road’",
+      "desc": "The ongoing trade disruptions from the Iran war have enabled China to gain a trade edge, but it requires shipping vessels to brave the Arctic.\nOn Saturday, the Chinese container shipping company Sea Legend Line launched its first regular shipping route throug…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/b32f16defab1a3fa",
+      "time": "2026-08-19T07:09:34",
+      "country": "Pakistan",
+      "title_ur": "آبنائے ہرمز افراتفری نے چین کو متبادل تجارتی راستہ استعمال کرنے کی ترغیب دی ہے: ایک 3,400 میل منجمد آرکٹک چینل جسے 'آئس سلک روڈ' کا نام دیا گیا ہے۔",
+      "desc_ur": "ایران جنگ سے جاری تجارتی رکاوٹوں نے چین کو تجارتی برتری حاصل کرنے کے قابل بنایا ہے، لیکن اسے آرکٹک میں بہادری کے لیے جہاز رانی کے جہازوں کی ضرورت ہے۔\nہفتے کے روز، چینی کنٹینر شپنگ کمپنی سی لیجنڈ لائن نے اپنا پہلا باقاعدہ شپنگ روٹ شروع کیا…"
+    },
+    {
+      "title": "India vs Pakistan hockey world cup 2026 live streaming time: Check when and where to watch Ind vs Pak clash, head to head record and squads",
+      "desc": "India face Pakistan in a crucial Hockey World Cup Pool D clash on August 19, with the match scheduled for 6.30 PM IST. Indian viewers can watch the game on Star Sports Select 2, Star Sports Select 2 HD and Star Sports Hindi, while the JioStar app and website …",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/india-vs-pakistan-hockey-world-cup-2026-live-streaming-time-check-when-and-where-to-watch-ind-vs-pak-clash-head-to-head-record-and-squads/articleshow/133340015.cms",
+      "time": "2026-08-19T07:04:19",
+      "country": "Pakistan",
+      "title_ur": "انڈیا بمقابلہ پاکستان ہاکی ورلڈ کپ 2026 کا لائیو سٹریمنگ ٹائم: چیک کریں کہ انڈیا بمقابلہ پاک میچ کب اور کہاں دیکھنا ہے، ریکارڈ اور اسکواڈز",
+      "desc_ur": "19 اگست کو ہاکی ورلڈ کپ پول ڈی کے ایک اہم معرکہ میں ہندوستان کا مقابلہ پاکستان سے ہوگا، یہ میچ IST شام 6.30 بجے شیڈول ہے۔ ہندوستانی ناظرین سٹار اسپورٹس سلیکٹ 2، سٹار اسپورٹس سلیکٹ 2 ایچ ڈی اور سٹار اسپورٹس ہندی پر گیم دیکھ سکتے ہیں، جبکہ جیو اسٹار ایپ اور ویب سائٹ …"
+    },
+    {
+      "title": "Pakistan extends airspace ban for Indian aircraft till Sep 24",
+      "desc": "Pakistan's airports authority has extended its airspace closure to Indian aircraft. This restriction will now remain in effect until September twenty-fourth. The decision follows a previous closure imposed after a terrorist attack last year. India maintains a…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/pakistan-extends-airspace-ban-for-indian-aircraft-till-sep-24/articleshow/133340332.cms",
+      "time": "2026-08-19T07:00:06",
+      "country": "Pakistan",
+      "title_ur": "پاکستان نے بھارتی طیاروں کے لیے فضائی حدود میں 24 ستمبر تک توسیع کردی",
+      "desc_ur": "پاکستان کی ایئرپورٹ اتھارٹی نے بھارتی طیاروں کے لیے اپنی فضائی حدود کی بندش میں توسیع کر دی ہے۔ یہ پابندی اب چوبیس ستمبر تک نافذ رہے گی۔ یہ فیصلہ گزشتہ سال دہشت گردانہ حملے کے بعد لگائی گئی سابقہ ​​بندش کے بعد کیا گیا ہے۔ بھارت نے ایک…"
+    },
+    {
+      "title": "How to watch England vs Pakistan 1st Test: Free Streams & TV Channels",
+      "desc": "All the ways to watch the 1st Test match between England and Pakistan at Headingley, including free streams as the cricket series gets underway in Leeds.",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/how-to-watch/cricket/england-vs-pakistan-1st-test-free-streams",
+      "time": "2026-08-19T07:00:00",
+      "country": "Pakistan",
+      "title_ur": "انگلینڈ بمقابلہ پاکستان پہلا ٹیسٹ کیسے دیکھیں: مفت اسٹریمز اور ٹی وی چینلز",
+      "desc_ur": "انگلینڈ اور پاکستان کے درمیان ہیڈنگلے میں پہلا ٹیسٹ میچ دیکھنے کے تمام طریقے، بشمول لیڈز میں کرکٹ سیریز کے دوران فری اسٹریمز۔"
+    },
+    {
+      "title": "Report: Iran considers striking U.S. military targets in Europe should Trump escalate war",
+      "desc": "Among the assets Iran considered striking are bases hosting U.S. forces in Bulgaria and Cyprus, the Financial Times reported. Iranian forces also reportedly considered striking undersea fiber-optic cables in the Strait of Hormuz",
+      "source": "Haaretz",
+      "url": "https://www.haaretz.com/middle-east-news/iran/2026-08-19/ty-article/report-iran-may-target-u-s-military-in-europe-should-trump-escalate-war/000001a0-1888-d77e-abb5-ddacf2930000",
+      "time": "2026-08-19T06:42:08",
+      "country": "Pakistan",
+      "title_ur": "رپورٹ: اگر ٹرمپ جنگ کو بڑھاتے ہیں تو ایران یورپ میں امریکی فوجی اہداف پر حملہ کرنے پر غور کرتا ہے۔",
+      "desc_ur": "فنانشل ٹائمز کی رپورٹ کے مطابق، ایران کے اثاثوں میں سے بلغاریہ اور قبرص میں امریکی افواج کی میزبانی کرنے والے اڈے بھی شامل ہیں۔ ایرانی فورسز نے مبینہ طور پر آبنائے ہرمز میں زیر سمندر فائبر آپٹک کیبلز کو نشانہ بنانے پر بھی غور کیا"
+    },
+    {
+      "title": "Pakistan extends airspace ban for Indian aircraft till September 24",
+      "desc": "Pakistan on Wednesday extended the closure of its airspace to Indian aircraft until September 24, according to the country's airports authority.\nPakistan and India imposed matching airspace restrictions on each other's airlines after the Pahalgam terrorist at…",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/pakistan-extends-airspace-ban-for-indian-aircraft-till-september-24-126081900404_1.html",
+      "time": "2026-08-19T06:39:59",
+      "country": "Pakistan",
+      "title_ur": "پاکستان نے بھارتی طیاروں کے لیے فضائی حدود میں 24 ستمبر تک توسیع کردی",
+      "desc_ur": "ملک کے ہوائی اڈے اتھارٹی کے مطابق، پاکستان نے بدھ کو بھارتی طیاروں کے لیے اپنی فضائی حدود کی بندش میں 24 ستمبر تک توسیع کر دی ہے۔\nپہلگام میں دہشت گردانہ حملے کے بعد پاکستان اور بھارت نے ایک دوسرے کی فضائی حدود پر پابندیاں عائد کر دی ہیں۔"
+    },
+    {
+      "title": "After Teenage Mutant Ninja Turtles triggered a UK pet craze, unwanted turtles were dumped into ponds, leaving invasive populations across Britain",
+      "desc": "The Teenage Mutant Ninja Turtles craze in the early 1990s fueled demand for pet turtles. Many red-eared sliders and other freshwater turtles became unwanted after growing too large. These abandoned reptiles now inhabit British ponds and lakes, posing ecologic…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/uk/after-teenage-mutant-ninja-turtles-triggered-a-uk-pet-craze-unwanted-turtles-were-dumped-into-ponds-leaving-invasive-populations-across-britain/articleshow/133319351.cms",
+      "time": "2026-08-19T06:37:04",
+      "country": "Pakistan",
+      "title_ur": "ٹین ایج اتپریورتی ننجا ٹرٹلز نے برطانیہ میں پالتو جانوروں کا جنون پیدا کرنے کے بعد، ناپسندیدہ کچھوؤں کو تالابوں میں پھینک دیا گیا، جس سے برطانیہ بھر میں ناگوار آبادی رہ گئی۔",
+      "desc_ur": "1990 کی دہائی کے اوائل میں ٹین ایج اتپریورتی ننجا ٹرٹلز کے جنون نے پالتو کچھوؤں کی مانگ کو ہوا دی۔ بہت سے سرخ کان والے سلائیڈرز اور میٹھے پانی کے دوسرے کچھوے بہت بڑے ہونے کے بعد ناپسندیدہ ہو گئے۔ یہ لاوارث رینگنے والے جانور اب برطانوی تالابوں اور جھیلوں میں رہتے ہیں، جو کہ ماحولیات کو ظاہر کرتے ہیں…"
     }
   ],
   "business": {
@@ -177,7 +257,7 @@
         "date": "2026-08-20",
         "day": "جمعرات",
         "high": 34,
-        "low": 25,
+        "low": 26,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
         "precip": 63
@@ -194,10 +274,10 @@
       {
         "date": "2026-08-22",
         "day": "ہفتہ",
-        "high": 33,
+        "high": 34,
         "low": 26,
-        "condition": "Drizzle",
-        "condition_ur": "بوندا باندی",
+        "condition": "Thunderstorm",
+        "condition_ur": "گرج چمک",
         "precip": 76
       },
       {
@@ -214,15 +294,15 @@
         "day": "پیر",
         "high": 34,
         "low": 27,
-        "condition": "Clear",
-        "condition_ur": "صاف",
+        "condition": "Light Drizzle",
+        "condition_ur": "ہلکی بوندا باندی",
         "precip": 26
       },
       {
         "date": "2026-08-25",
         "day": "منگل",
         "high": 35,
-        "low": 28,
+        "low": 26,
         "condition": "Light Drizzle",
         "condition_ur": "ہلکی بوندا باندی",
         "precip": 22
