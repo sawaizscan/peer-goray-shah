@@ -1,179 +1,158 @@
 {
-  "generated": "2026-08-20T20:54:49Z",
+  "generated": "2026-08-20T21:21:14Z",
   "world": [
     {
-      "title": "Iran loses key economic lifeline in Middle East that Trump's sanctions couldn't reach as deadlock persists - Fox News",
-      "desc": "Iran loses key economic lifeline in Middle East that Trump's sanctions couldn't reach as deadlock persistsFox News Live updates: UAE halts trade with Iran after accusing Tehran of firing ballistic missilescnn.com UAE severs trade with Iran after reported miss…",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185057254",
-      "time": "2026-08-19T20:52:56",
-      "country": "Iran",
-      "title_ur": "ایران مشرق وسطیٰ میں اہم اقتصادی لائف لائن سے محروم ہو گیا جس پر ٹرمپ کی پابندیاں ڈیڈ لاک برقرار رہنے کی وجہ سے نہیں پہنچ سکیں – فاکس نیوز",
-      "desc_ur": "ایران مشرق وسطیٰ میں کلیدی اقتصادی لائف لائن سے محروم ہو گیا ہے کہ ٹرمپ کی پابندیاں ڈیڈ لاک برقرار رہنے کی وجہ سے نہیں پہنچ سکیں فاکس نیوز لائیو اپ ڈیٹس: تہران پر بیلسٹک میزائل فائر کرنے کا الزام لگانے کے بعد یو اے ای نے ایران کے ساتھ تجارت روک دی"
+      "title": "IDF clears itself over strike that killed Zomi Frankcom",
+      "desc": "Israeli military personnel have been cleared by the IDF of criminal wrongdoing over the deaths of Australian Zomi Frankcom and six other aid workers killed by an attack on a World Central Kitchen convoy in 2024. Meanwhile, the Coalition has cried foul over On…",
+      "source": "Crikey",
+      "url": "http://www.crikey.com.au/2026/08/20/idf-criminal-probe-gaza-zomi-frankcom-one-nation-tobacco/",
+      "time": "2026-08-19T21:20:22",
+      "country": "Israel",
+      "title_ur": "IDF نے زومی فرینک کام کی ہلاکت پر خود کو کلیئر کر دیا۔",
+      "desc_ur": "اسرائیلی فوجی اہلکاروں کو 2024 میں ورلڈ سینٹرل کچن کے قافلے پر حملے میں ہلاک ہونے والے آسٹریلوی زومی فرینک کام اور چھ دیگر امدادی کارکنوں کی موت پر مجرمانہ غلطی سے IDF نے کلیئر کر دیا ہے۔"
     },
     {
-      "title": "US: Talks with Israel, Turkey, Syria 'ongoing'",
-      "desc": "The administration of United States President Donald Trump had opened discussions between Israel, Turkey and Syria regarding the latest developments between the three countries, Al-Jazeera shared on W...",
+      "title": "ICC slams US sanctions on court as 'flagrant attack'",
+      "desc": "US President Donald Trump's administration has ramped up its pressure on the International Criminal Court (ICC), accusing it of being \"politicized.\" The EU, France, Germany, Spain and Japan have defended the court.",
+      "source": "DW (English)",
+      "url": "https://www.dw.com/en/icc-slams-us-sanctions-on-court-as-flagrant-attack/a-78437476",
+      "time": "2026-08-19T21:20:00",
+      "country": "US",
+      "title_ur": "آئی سی سی نے عدالت پر امریکی پابندیوں کو 'فضائی حملہ' قرار دے دیا",
+      "desc_ur": "امریکی صدر ڈونلڈ ٹرمپ کی انتظامیہ نے بین الاقوامی فوجداری عدالت (آئی سی سی) پر اپنا دباؤ بڑھاتے ہوئے اس پر \"سیاست زدہ\" ہونے کا الزام لگایا ہے۔ یورپی یونین، فرانس، جرمنی، سپین اور جاپان نے عدالت کا دفاع کیا ہے۔"
+    },
+    {
+      "title": "UAE Joins Global Efforts to Isolate Iran",
+      "desc": "Abu Dhabi is hoping that a trade embargo will force Tehran to surrender.",
+      "source": "Foreign Policy",
+      "url": "http://foreignpolicy.com/2026/08/19/uae-iran-trade-financial-embargo-missile-strikes-war/",
+      "time": "2026-08-19T21:16:53",
+      "country": "Iran",
+      "title_ur": "متحدہ عرب امارات ایران کو تنہا کرنے کی عالمی کوششوں میں شامل",
+      "desc_ur": "ابوظہبی کو امید ہے کہ تجارتی پابندی تہران کو ہتھیار ڈالنے پر مجبور کر دے گی۔"
+    },
+    {
+      "title": "A Stubbornly Naive Group of GOP Senators",
+      "desc": "A small caucus of non-MAGA Republicans keeps falling for the president’s flimsy promises.",
+      "source": "The Atlantic",
+      "url": "https://www.theatlantic.com/newsletters/2026/08/republican-senators-falling-for-trump/688332/",
+      "time": "2026-08-19T21:11:00",
+      "country": "US",
+      "title_ur": "GOP سینیٹرز کا ایک ضدی بولی گروپ",
+      "desc_ur": "نان MAGA ریپبلکنز کا ایک چھوٹا سا کاکس صدر کے کمزور وعدوں کی وجہ سے گرتا رہتا ہے۔"
+    },
+    {
+      "title": "Foreign Secretary statement on Government of Israel launch of a tender for the E1 settlement project",
+      "desc": "UK condemns the Government of Israel's launch of a tender for the E1 settlement project, and summons Israeli Chargé d’Affaires",
+      "source": "Www.gov.uk",
+      "url": "https://www.gov.uk/government/news/foreign-secretary-statement-on-government-of-israel-launch-of-a-tender-for-the-e1-settlement-project",
+      "time": "2026-08-19T21:11:00",
+      "country": "Israel",
+      "title_ur": "E1 سیٹلمنٹ پروجیکٹ کے لیے ٹینڈر کے اجراء پر اسرائیل کی حکومت کے بارے میں سیکریٹری خارجہ کا بیان",
+      "desc_ur": "برطانیہ نے اسرائیل کی حکومت کی طرف سے E1 سیٹلمنٹ پروجیکٹ کے لیے ٹینڈر کے اجراء کی مذمت کی، اور اسرائیلی ناظم الامور کو طلب کیا"
+    },
+    {
+      "title": "Displaced Lebanese watch southern Lebanon’s ‘pilot zones’ from afar",
+      "desc": "“You can't do anything. Just stand here and watch.”\r\nAl Jazeera’s Ali Hashem watched Israeli attacks near his home town.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/displaced-lebanese-watch-southern-lebanons-pilot-zones-from-afar-2",
+      "time": "2026-08-19T21:10:39",
+      "country": "Israel",
+      "title_ur": "بے گھر لبنانی جنوبی لبنان کے ’پائلٹ زونز‘ کو دور سے دیکھتے ہیں۔",
+      "desc_ur": "\"تم کچھ نہیں کر سکتے بس یہیں کھڑے ہو کر دیکھتے رہو۔\"\r\nالجزیرہ کے علی ہاشم نے اپنے آبائی شہر کے قریب اسرائیلی حملوں کو دیکھا۔"
+    },
+    {
+      "title": "Israel orders inquiry into killing of 6-year-old Hind Rajab in Gaza",
+      "desc": "The Israeli military announced criminal investigations into the killings of six-year-old Hind Rajab.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israel-orders-inquiry-into-killing-of-6-year-old-hind-rajab-in-gaza",
+      "time": "2026-08-19T21:09:15",
+      "country": "Israel",
+      "title_ur": "اسرائیل نے غزہ میں 6 سالہ ہند رجب کے قتل کی تحقیقات کا حکم دے دیا۔",
+      "desc_ur": "اسرائیلی فوج نے چھ سالہ ہند رجب کے قتل کی مجرمانہ تحقیقات کا اعلان کیا۔"
+    },
+    {
+      "title": "Sen. Candidate Angie Nixon: 'Netanyahu Is a War Criminal'",
+      "desc": "Wednesday on MS NOW’s “Morning Joe,” Florida Democratic Senate Candidate Angie Nixon said Israeli Prime Minister Benjamin Netanyahu is a “war criminal” who needs to answer for his crimes. Co-host Willie Geist said, “Would you support that? Cutting off aid to\n…",
+      "source": "Breitbart News",
+      "url": "https://www.breitbart.com/clips/2026/08/19/sen-candidate-angie-nixon-netanyahu-is-a-war-criminal/",
+      "time": "2026-08-19T21:09:08",
+      "country": "Israel",
+      "title_ur": "سینیٹ کی امیدوار اینجی نکسن: 'نیتن یاہو جنگی مجرم ہے'",
+      "desc_ur": "بدھ کو ایم ایس ناؤ کے \"مارننگ جو\" پر فلوریڈا کی ڈیموکریٹک سینیٹ کی امیدوار اینجی نکسن نے کہا کہ اسرائیلی وزیر اعظم بینجمن نیتن یاہو ایک \"جنگی مجرم\" ہیں جنہیں اپنے جرائم کا جواب دینا ہوگا۔ شریک میزبان ولی گیسٹ نے کہا، \"کیا آپ اس کی حمایت کریں گے؟\n…"
+    },
+    {
+      "title": "Trump says he will meet Kim Jong-un this year (VIDEO)",
+      "desc": "President Donald Trump has said he expects to meet North Korean leader Kim Jong-un after ordering US-South Korea military drills scaled back",
+      "source": "RT",
+      "url": "https://www.rt.com/news/644420-trump-teases-in-person-meeting-kim-jong-un/",
+      "time": "2026-08-19T21:08:49",
+      "country": "US",
+      "title_ur": "ٹرمپ کا کہنا ہے کہ وہ اس سال کم جونگ ان سے ملاقات کریں گے (ویڈیو)",
+      "desc_ur": "صدر ڈونلڈ ٹرمپ نے کہا ہے کہ وہ امریکہ اور جنوبی کوریا کی فوجی مشقوں کو کم کرنے کا حکم دینے کے بعد شمالی کوریا کے رہنما کم جونگ ان سے ملاقات کی توقع رکھتے ہیں۔"
+    },
+    {
+      "title": "Pentagon Hunts For New Radar As Hypersonic Missiles Put US Defenses To The Test",
+      "desc": "The Pentagon is searching for a new generation of highly mobile radars capable of tracking hypersonic missiles.",
+      "source": "The Daily Caller",
+      "url": "https://dailycaller.com/2026/08/19/pentagon-new-radar-hypersonic-missiles-defenses",
+      "time": "2026-08-19T21:07:36",
+      "country": "US",
+      "title_ur": "پینٹاگون نئے ریڈار کی تلاش میں ہے کیونکہ ہائپرسونک میزائلوں نے امریکی دفاع کو آزمایا ہے۔",
+      "desc_ur": "پینٹاگون انتہائی موبائل ریڈاروں کی نئی نسل کی تلاش کر رہا ہے جو ہائپر سونک میزائلوں کو ٹریک کرنے کی صلاحیت رکھتا ہے۔"
+    },
+    {
+      "title": "Bridgewater Significantly Boosted Its Stake in SHEL Stock in Q2. How Investors Should View the Move",
+      "desc": "Crude oil has swung sharply in 2026. Brent crude fell nearly 40%, dropping from its year-to-date (YTD) high of $118.35 on March 31 to $71.44 by July 1 after a U.S.-Iran peace deal reopened the Strait of Hormuz.\nBut the ceasefire collapsed on July 8, lifting B…",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/592f500d9cccdbc6",
-      "time": "2026-08-19T20:51:56",
-      "country": "Israel",
-      "title_ur": "اسرائیل، ترکی اور شام کے ساتھ مذاکرات جاری ہیں: امریکا",
-      "desc_ur": "الجزیرہ نے ڈبلیو ..."
-    },
-    {
-      "title": "Trump threatens to bomb Oman, widening the war that crippled the global economy",
-      "desc": "U.S. President Donald Trump threatened to bomb Oman because he is unhappy the country is close to a deal with Iran to manage ship traffic through the Strait of Hormuz, two regional officials said on Tuesday, a day after Trump leveled the threat.\nThe officials…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/e4bbb6c96e46c280",
-      "time": "2026-08-19T20:51:39",
+      "url": "https://biztoc.com/x/eeab029b0d6a82f0",
+      "time": "2026-08-19T21:07:21",
       "country": "Iran",
-      "title_ur": "ٹرمپ نے عمان پر بمباری کرنے کی دھمکی دی، اس جنگ کو وسیع کیا جس نے عالمی معیشت کو مفلوج کر دیا۔",
-      "desc_ur": "امریکی صدر ڈونلڈ ٹرمپ نے عمان کو بمباری کی دھمکی دی ہے کیونکہ وہ ناخوش ہیں کہ یہ ملک آبنائے ہرمز کے ذریعے بحری جہازوں کی آمدورفت کو منظم کرنے کے لیے ایران کے ساتھ معاہدے کے قریب ہے، دو علاقائی عہدیداروں نے منگل کو کہا، ٹرمپ کی جانب سے اس دھمکی کے ایک دن بعد۔\nحکام نے…"
+      "title_ur": "برج واٹر نے Q2 میں SHEL اسٹاک میں اپنے حصص کو نمایاں طور پر بڑھایا۔ سرمایہ کاروں کو اس اقدام کو کس طرح دیکھنا چاہئے۔",
+      "desc_ur": "2026 میں خام تیل کی قیمت میں تیزی سے اضافہ ہوا ہے۔ امریکی ایران امن معاہدے کے بعد آبنائے ہرمز کو دوبارہ کھولنے کے بعد برینٹ کروڈ تقریباً 40 فیصد گر گیا، جو 31 مارچ کو اس کی سال بہ تاریخ (YTD) $118.35 کی بلند ترین سطح سے 1 جولائی تک 71.44 ڈالر تک گر گیا۔\nلیکن 8 جولائی کو جنگ بندی ختم ہو گئی، جس نے B کو اٹھایا…"
     },
     {
-      "title": "What Does Trump’s Open Respect For North Korean Nukes Tell Iran?",
-      "desc": "President Trump hinted on Wednesday that his friendly relationship with North Korea’s supreme leader Kim Jong Un may owe a lot to the country’s strong nuclear capabilities.   “He has 57 very powerful nuclear weapons. Should have never allowed it to happen,” T…",
-      "source": "Mother Jones",
-      "url": "https://www.motherjones.com/politics/2026/08/trump-north-korea-iran-nuclear-weapons-kim-jong-un/",
-      "time": "2026-08-19T20:49:39",
-      "country": "Iran",
-      "title_ur": "شمالی کوریا کے جوہری ہتھیاروں کے لیے ٹرمپ کا کھلا احترام ایران کو کیا بتاتا ہے؟",
-      "desc_ur": "صدر ٹرمپ نے بدھ کے روز اشارہ کیا کہ شمالی کوریا کے سپریم لیڈر کم جونگ اُن کے ساتھ ان کے دوستانہ تعلقات ملک کی مضبوط جوہری صلاحیتوں کا بہت زیادہ مرہون منت ہیں۔   \"اس کے پاس 57 انتہائی طاقتور جوہری ہتھیار ہیں۔ اسے کبھی ایسا نہیں ہونے دینا چاہیے تھا،\" ٹی…"
+      "title": "The Taliban’s Next Five Years",
+      "desc": "The brutish group has been surprisingly stable since snatching power in 2021. Rockier times may lie ahead.",
+      "source": "Foreign Policy",
+      "url": "http://foreignpolicy.com/2026/08/19/taliban-afghanistan-fall-kabul-security-economy-pakistan-isk/",
+      "time": "2026-08-19T21:06:48",
+      "country": "International",
+      "title_ur": "طالبان کے اگلے پانچ سال",
+      "desc_ur": "2021 میں اقتدار چھیننے کے بعد سے وحشیانہ گروہ حیرت انگیز طور پر مستحکم ہے۔"
     },
     {
-      "title": "Minor League roundup, August 18: Cam Maldonado homers (again), Jose Ortiz returns",
-      "desc": "Yesterday on the farm.",
-      "source": "McCovey Chronicles",
-      "url": "https://www.mccoveychronicles.com/san-francisco-giants-prospects/110603/giants-minors-news-scores-prospects-lisbel-diaz-jose-ortiz-cam-maldonado",
-      "time": "2026-08-19T20:48:54",
+      "title": "A call to power: Islamic leaders see ballot box as path to paradise",
+      "desc": "Some Muslim candidates for office are supported by campaign funds linked to Hamas front groups",
+      "source": "Wnd.com",
+      "url": "https://www.wnd.com/2026/08/call-power-islamic-leaders-see-ballot-box-as/",
+      "time": "2026-08-19T21:05:48",
       "country": "US",
-      "title_ur": "مائنر لیگ راؤنڈ اپ، 18 اگست: کیم مالڈوناڈو ہومرز (دوبارہ)، جوز اورٹیز کی واپسی",
-      "desc_ur": "کل فارم پر۔"
+      "title_ur": "اقتدار کی دعوت: اسلامی رہنما بیلٹ باکس کو جنت کے راستے کے طور پر دیکھتے ہیں۔",
+      "desc_ur": "عہدے کے لیے کچھ مسلم امیدواروں کو حماس کے فرنٹ گروپوں سے منسلک مہم کے فنڈز سے مدد ملتی ہے۔"
     },
     {
-      "title": "US quietly guides millions of barrels of oil through Strait of Hormuz in stealth operation",
-      "desc": "The US has been stealthily shepherding millions of barrels of oil a day across the Strait of Hormuz, helping prevent further shocks to the world's oil markets, analysts said.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/08/19/world-news/us-guides-millions-of-barrels-of-oil-through-strait-of-hormuz-in-stealth-operation/",
-      "time": "2026-08-19T20:47:31",
-      "country": "US",
-      "title_ur": "امریکہ خاموشی سے لاکھوں بیرل تیل آبنائے ہرمز کے ذریعے اسٹیلتھ آپریشن میں لے جا رہا ہے",
-      "desc_ur": "تجزیہ کاروں کا کہنا ہے کہ امریکہ چھپ کر آبنائے ہرمز میں روزانہ لاکھوں بیرل تیل کی ترسیل کر رہا ہے، جس سے دنیا کی تیل کی منڈیوں کو مزید جھٹکوں سے بچنے میں مدد مل رہی ہے۔"
+      "title": "Gray-Zone Warfare Picks Easy Targets in Germany",
+      "desc": "Political appeasement won’t buy off hostile powers.",
+      "source": "Foreign Policy",
+      "url": "http://foreignpolicy.com/2026/08/19/gray-zone-germany-russia-hybrid-warfare/",
+      "time": "2026-08-19T21:03:50",
+      "country": "Germany",
+      "title_ur": "گرے زون وارفیئر جرمنی میں آسان اہداف کا انتخاب کرتا ہے۔",
+      "desc_ur": "سیاسی تسکین دشمن طاقتوں کو نہیں خریدے گی۔"
     },
     {
-      "title": "Trump's under-siege aide cracks as political war breaks out over her access to the president: Natalie Harp, 35, caught in foul-mouthed explosion as insiders reveal the toll scrutiny is taking on the White House",
-      "desc": "In video obtained by the Daily Mail from Wednesday morning, Donald Trump's younge blonde aide appears to lose her cool while behind the wheel.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16064669/trump-aide-natalie-harp-cracks.html",
-      "time": "2026-08-19T20:45:15",
-      "country": "US",
-      "title_ur": "صدر تک ان کی رسائی پر سیاسی جنگ چھڑتے ہی ٹرمپ کے زیر محاصرہ معاون دراڑیں: 35 سالہ نٹالی ہارپ بدتمیزی کے دھماکے میں پھنس گئی جب اندرونی ذرائع نے انکشاف کیا کہ ٹول سکروٹنی وائٹ ہاؤس پر ہو رہی ہے۔",
-      "desc_ur": "بدھ کی صبح سے ڈیلی میل کی طرف سے حاصل کردہ ویڈیو میں، ڈونلڈ ٹرمپ کی نوجوان سنہرے بالوں والی معاون وہیل کے پیچھے رہتے ہوئے اپنا ٹھنڈک کھوتی دکھائی دے رہی ہے۔"
-    },
-    {
-      "title": "Netanyahu warns Turkey's Erdogan against military expansion in Syria, but hopes a warning is enough",
-      "desc": "Trump's envoy announced the establishment of a mechanism to prevent clashes between the countries after Ankara was not warned in advance about the operation. Israel has been closely monitoring Turkey's efforts to expand its military presence in Syria for some…",
-      "source": "Haaretz",
-      "url": "https://www.haaretz.com/israel-news/israel-security/2026-08-19/ty-article/.premium/netanyahu-hopes-warning-turkey-against-military-expansion-in-syria-is-enough/000001a0-1b9f-d129-a3ba-5bbf32910000",
-      "time": "2026-08-19T20:45:04",
-      "country": "Israel",
-      "title_ur": "نیتن یاہو نے ترکی کے اردگان کو شام میں فوجی توسیع کے خلاف خبردار کیا، لیکن امید ہے کہ انتباہ کافی ہے",
-      "desc_ur": "ٹرمپ کے ایلچی نے انقرہ کو آپریشن کے بارے میں پیشگی انتباہ نہ کیے جانے کے بعد ملکوں کے درمیان جھڑپوں کو روکنے کے لیے ایک طریقہ کار کے قیام کا اعلان کیا۔ اسرائیل کچھ عرصے سے شام میں اپنی فوجی موجودگی کو بڑھانے کے لیے ترکی کی کوششوں پر کڑی نظر رکھے ہوئے ہے۔"
-    },
-    {
-      "title": "Sour revenge",
-      "desc": "Bouie points out that the overriding motivation for Trump’s second term is revenge, both against specific individuals and the American people for rejecting him: The principal aim of President Trump’s second term is revenge. Trump is consumed by this lust for …",
-      "source": "Lawyersgunsmoneyblog.com",
-      "url": "https://www.lawyersgunsmoneyblog.com/2026/08/sour-revenge",
-      "time": "2026-08-19T20:41:41",
-      "country": "US",
-      "title_ur": "کھٹا انتقام",
-      "desc_ur": "بوئی نے نشاندہی کی کہ ٹرمپ کی دوسری مدت کے لیے سب سے زیادہ محرک انتقام ہے، مخصوص افراد اور امریکی عوام دونوں کے خلاف انھیں مسترد کرنے کے لیے: صدر ٹرمپ کی دوسری مدت کا اصل مقصد انتقام ہے۔ ٹرمپ کو اس ہوس نے کھایا ہے…"
-    },
-    {
-      "title": "If Hamas terrorists are Nazis, why doesn't Israel treat them as such?",
-      "desc": "From Israel's perspective, Hamasniks are not Nazis; they are seven times worse. In the eyes of most Israelis, everyone in Gaza is Hamas, and being Hamas means being sentenced to death, even if the deceased is a doctor, teacher, or bookkeeper",
-      "source": "Haaretz",
-      "url": "https://www.haaretz.com/opinion/2026-08-19/ty-article-opinion/.premium/if-hamas-terrorists-are-nazis-why-doesnt-israel-treat-them-as-such/000001a0-1b26-df5c-afeb-bbbe7ae30000",
-      "time": "2026-08-19T20:33:42",
-      "country": "Israel",
-      "title_ur": "اگر حماس کے دہشت گرد نازی ہیں تو اسرائیل ان کے ساتھ ایسا سلوک کیوں نہیں کرتا؟",
-      "desc_ur": "اسرائیل کے نقطہ نظر سے، حماسنی نازی نہیں ہیں؛ وہ سات گنا بدتر ہیں. زیادہ تر اسرائیلیوں کی نظر میں، غزہ میں ہر کوئی حماس ہے، اور حماس ہونے کا مطلب موت کی سزا ہونا ہے، چاہے مقتول ڈاکٹر، استاد یا بک کیپر ہی کیوں نہ ہو۔"
-    },
-    {
-      "title": "US warns Siemens PLC devices can be hacked",
-      "desc": "Amid fears Iran is breaching water plants.",
-      "source": "iTnews",
-      "url": "https://www.itnews.com.au/news/us-warns-siemens-plc-devices-can-be-hacked-628283?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+News+feed",
-      "time": "2026-08-19T20:33:00",
-      "country": "Iran",
-      "title_ur": "امریکہ نے خبردار کیا ہے کہ سیمنز پی ایل سی ڈیوائسز کو ہیک کیا جا سکتا ہے۔",
-      "desc_ur": "اس خدشے کے درمیان کہ ایران واٹر پلانٹس کی خلاف ورزی کر رہا ہے۔"
-    },
-    {
-      "title": "Bill O’Reilly Explains Why He’d Rather 'Vote For Putin' Over 1 Rising Democratic Star",
-      "desc": "“That’s how bad this guy ... is,” O’Reilly claimed.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/bill-oreilly-putin-ossoff_n_6a85e016e4b0e9f1dd27029f",
-      "time": "2026-08-19T20:29:58",
-      "country": "Russia",
-      "title_ur": "بل او ریلی نے وضاحت کی کہ وہ 1 ابھرتے ہوئے ڈیموکریٹک اسٹار سے زیادہ 'پوتن کو ووٹ' کیوں دے گا",
-      "desc_ur": "\"یہ کتنا برا آدمی ہے ...\" او ریلی نے دعوی کیا۔"
-    },
-    {
-      "title": "The Strait of Hormuz Is Open. Also Closed. It’s Complicated.",
-      "desc": "The Strait of Hormuz \"will not be opened,\" Iranian warned on Tuesday, \"Until the U.S. commitments in the memorandum—including lifting the blockade, releasing frozen assets, lifting oil sanctions, ending threats and military operations on all fronts, and the o…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4392398/posts",
-      "time": "2026-08-19T20:27:53",
-      "country": "Iran",
-      "title_ur": "آبنائے ہرمز کھلا ہے۔ بھی بند۔ یہ پیچیدہ ہے۔",
-      "desc_ur": "آبنائے ہرمز کو \"کھول نہیں جائے گا\"، ایرانی نے منگل کو خبردار کیا، \"جب تک یادداشت میں امریکی وعدے بشمول ناکہ بندی ہٹانے، منجمد اثاثوں کو جاری کرنے، تیل کی پابندیوں کو ہٹانے، دھمکیوں کو ختم کرنے اور تمام محاذوں پر فوجی کارروائیوں کے خاتمے تک، اور ..."
-    },
-    {
-      "title": "National debt crosses $40 trillion and think tank warns: ‘The level of fiscal mismanagement is tragic",
-      "desc": "\"To anyone who cares about America, about democracy and our future, in my view, this is already a crisis,\" Michael Peterson told Fortune.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/08/19/how-much-is-national-debt-40-trillion/",
-      "time": "2026-08-19T20:24:50",
-      "country": "US",
-      "title_ur": "قومی قرض 40 ٹریلین ڈالر سے تجاوز کر گیا اور تھنک ٹینک نے خبردار کیا: 'مالیاتی بدانتظامی کی سطح افسوسناک ہے'",
-      "desc_ur": "مائیکل پیٹرسن نے فارچیون کو بتایا، \"جو بھی امریکہ، جمہوریت اور ہمارے مستقبل کی فکر کرتا ہے، میری نظر میں، یہ پہلے سے ہی ایک بحران ہے۔\""
-    },
-    {
-      "title": "John Mearsheimer on Living in Dark Times",
-      "desc": "Reprinted from John’s Substack:  On 18 August 2026, I was on “Judging Freedom” talking with the Judge about the Iran war, Israel’s never-ending outrageous behavior, the Ukraine war, and President Trump’s increasingly erratic behavior, all thoroughly depressin…",
-      "source": "Antiwar.com",
-      "url": "https://www.antiwar.com/blog/2026/08/19/john-mearsheimer-on-living-in-dark-times/",
-      "time": "2026-08-19T20:21:29",
-      "country": "Iran",
-      "title_ur": "ڈارک ٹائمز میں زندگی گزارنے پر جان میئر شیمر",
-      "desc_ur": "John’s Substack سے دوبارہ شائع کیا گیا:  18 اگست 2026 کو، میں جج کے ساتھ ایران جنگ، اسرائیل کے نہ ختم ہونے والے اشتعال انگیز رویے، یوکرین کی جنگ، اور صدر ٹرمپ کے بڑھتے ہوئے بے ترتیب رویے کے بارے میں بات کر رہا تھا، میں \"ججنگ فریڈم\" پر تھا، یہ سب کچھ مکمل طور پر افسردہ کرنے والا تھا…"
+      "title": "Bad Johnny’s slings “free” pizza on the fifth birthday of Monday Night Foodball",
+      "desc": "Bad Johnny walked the equivalent of three marathons on Lollapalooza weekend. That was achieved four to five steps at a time, paddling raw dough and finished pizzas to and from the tented prep station, the expo, and the 950-degree Fahrenheit, gaping hellmouth …",
+      "source": "Chicago Reader",
+      "url": "https://chicagoreader.com/food/monday-night-foodball/bad-johnnys-wood-fired-pizza-free-mercy-home-boys-girls-chicago-marathon/",
+      "time": "2026-08-19T21:02:06",
+      "country": "International",
+      "title_ur": "منڈے نائٹ فوڈ بال کی پانچویں سالگرہ پر بیڈ جانی کے سلنگز \"مفت\" پیزا",
+      "desc_ur": "بیڈ جانی نے لولا پالوزا ویک اینڈ پر تین میراتھن کے برابر واک کی۔ یہ ایک وقت میں چار سے پانچ قدموں پر حاصل کیا گیا تھا، کچے آٹے کو پیڈل کرتے ہوئے اور تیار شدہ پیزا کو ٹینٹڈ پریپ اسٹیشن، ایکسپو، اور 950 ڈگری فارن ہائیٹ، ہیل ماؤتھ کو چھوڑ کر…"
     }
   ],
-  "pakistan": [
-    {
-      "title": "US stocks: US market rises as yields ease, Moderna lifts healthcare stocks",
-      "desc": "US stock markets enjoyed a boost as easing bond yields and a spike in Moderna shares contributed to a favorable trading environment. Despite the Federal Reserve's minutes highlighting inflation concerns and discussions on rate hikes, investors remained optimi…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-rises-as-yields-ease-moderna-lifts-healthcare-stocks/articleshow/133358680.cms",
-      "time": "2026-08-19T20:09:50",
-      "country": "Pakistan",
-      "title_ur": "امریکی اسٹاک: پیداوار میں آسانی کے ساتھ امریکی مارکیٹ میں اضافہ، موڈرنا نے ہیلتھ کیئر اسٹاک کو اٹھایا",
-      "desc_ur": "امریکی سٹاک مارکیٹوں کو فروغ حاصل ہوا کیونکہ بانڈ کی پیداوار میں نرمی اور موڈرنا کے حصص میں اضافے نے سازگار تجارتی ماحول میں تعاون کیا۔ فیڈرل ریزرو کے منٹس میں افراط زر کے خدشات کو اجاگر کرنے اور شرحوں میں اضافے پر بات چیت کے باوجود، سرمایہ کار پرامید رہے…"
-    },
-    {
-      "title": "Fertiliser prices and shortages are hamstringing our farmers. But we have other options",
-      "desc": "Compost, manure and food waste can be turned into biofertilisers made from natural materials.",
-      "source": "The Conversation Africa",
-      "url": "https://theconversation.com/fertiliser-prices-and-shortages-are-hamstringing-our-farmers-but-we-have-other-options-289394",
-      "time": "2026-08-19T20:08:38",
-      "country": "Pakistan",
-      "title_ur": "کھاد کی قیمتیں اور قلت ہمارے کسانوں کو نقصان پہنچا رہی ہے۔ لیکن ہمارے پاس دوسرے آپشنز ہیں۔",
-      "desc_ur": "کھاد، کھاد اور کھانے کے فضلے کو قدرتی مواد سے بنی بایو فرٹیلائزر میں تبدیل کیا جا سکتا ہے۔"
-    }
-  ],
+  "pakistan": [],
   "business": {
     "quote": "If everyone is moving forward together, then success takes care of itself.",
     "author": "Henry Ford",
