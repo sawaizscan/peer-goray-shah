@@ -1,217 +1,187 @@
 {
-  "generated": "2026-08-20T10:34:20Z",
+  "generated": "2026-08-20T11:20:17Z",
   "world": [
     {
-      "title": "Riksbank signals potential 2026 rate hike amid inflation concerns tied to Middle East conflict",
-      "desc": "A potential rate hike could strengthen the Swedish krona, impact Nordic equities, and signal broader economic shifts amid geopolitical tensions.\nThe post Riksbank signals potential 2026 rate hike amid inflation concerns tied to Middle East conflict appeared f…",
+      "title": "Property price growth hits two-year low as market cools",
+      "desc": "Latest Residential Property Price Index indicates prices in Dublin rose at annual rate of 4.6%",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/business/2026/08/19/property-price-growth-hits-two-year-low-as-market-cools/",
+      "time": "2026-08-19T11:18:04",
+      "country": "International",
+      "title_ur": "مارکیٹ کے ٹھنڈے ہوتے ہی جائیداد کی قیمتوں میں اضافہ دو سال کی کم ترین سطح پر ہے۔",
+      "desc_ur": "تازہ ترین رہائشی املاک کی قیمت کا اشاریہ ڈبلن میں قیمتوں میں 4.6% کی سالانہ شرح سے اضافہ کی نشاندہی کرتا ہے"
+    },
+    {
+      "title": "Trump administration sanctions sitting president of the International Criminal Court for 'abuses of power'",
+      "desc": "Marco Rubio called the International Criminal Court \"corrupt\" as the Trump administration sanctioned two top ICC officials over jurisdiction disputes.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/us/trump-administration-sanctions-sitting-president-international-criminal-court-abuses-power",
+      "time": "2026-08-19T11:15:00",
+      "country": "US",
+      "title_ur": "ٹرمپ انتظامیہ نے اختیارات کے ناجائز استعمال پر بین الاقوامی فوجداری عدالت کے موجودہ صدر پر پابندیاں عائد کر دیں",
+      "desc_ur": "مارکو روبیو نے بین الاقوامی فوجداری عدالت کو \"بدعنوان\" قرار دیا کیونکہ ٹرمپ انتظامیہ نے دائرہ اختیار کے تنازعات پر آئی سی سی کے دو اعلی عہدیداروں کو منظور کیا۔"
+    },
+    {
+      "title": "Live updates: UAE halts trade with Iran after accusing Tehran of firing ballistic missiles - CNN",
+      "desc": "Live updates: UAE halts trade with Iran after accusing Tehran of firing ballistic missilesCNN Iran and UAE ties sour, and other major developments in the Middle EastThe Hill U.A.E. Halts Trade Ties With Iran and Says It Was Targeted With MissilesThe New York …",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185050218",
+      "time": "2026-08-19T11:13:31",
+      "country": "Iran",
+      "title_ur": "لائیو اپ ڈیٹس: تہران پر بیلسٹک میزائل فائر کرنے کا الزام لگانے کے بعد متحدہ عرب امارات نے ایران کے ساتھ تجارت روک دی – CNN",
+      "desc_ur": "لائیو اپ ڈیٹس: تہران پر بیلسٹک میزائل فائر کرنے کا الزام لگانے کے بعد UAE نے ایران کے ساتھ تجارت روک دی ایران کے ساتھ تجارتی تعلقات منقطع کرتے ہوئے کہا کہ اسے میزائلوں سے نشانہ بنایا گیا نیویارک…"
+    },
+    {
+      "title": "Iran War: US Considers Reducing Middle East Military Presence as Conflict Widens Regionally; Market Wobbles Intensify as Government Bond Interest Rates Rise Globally and AI Bubble Implosion Seems Imminent",
+      "desc": "[Today’s Iran war post launched before complete because reasons. Please return at 8:00 AM EDT or refresh this page then for a final version]\nToo much is happening in what ought to be a summer doldrums period, due to Trump’s preferred mode of operation, that o…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/912d2d8209c2311f",
+      "time": "2026-08-19T11:12:53",
+      "country": "Iran",
+      "title_ur": "ایران جنگ: امریکہ مشرق وسطی میں فوجی موجودگی کو کم کرنے پر غور کرتا ہے کیونکہ تنازعہ علاقائی طور پر وسیع ہوتا ہے۔ عالمی سطح پر سرکاری بانڈ کی شرح سود میں اضافے اور AI ببل امپلوشن قریب آنے کے ساتھ ہی مارکیٹ میں ہلچل بڑھ جاتی ہے۔",
+      "desc_ur": "[آج کی ایران جنگی پوسٹ مکمل ہونے سے پہلے ہی لانچ کی گئی کیونکہ وجوہات۔ براہ کرم 8:00 AM EDT پر واپس جائیں یا اس صفحہ کو ریفریش کریں پھر حتمی ورژن کے لیے]\nٹرمپ کے ترجیحی طرز عمل کی وجہ سے، موسم گرما کی اداسی کی مدت میں بہت کچھ ہو رہا ہے، جو کہ…"
+    },
+    {
+      "title": "The Iranians have Trump right where they want him and suggest he seek ‘a dignified exit’",
+      "desc": "Good morning. On Fortune’s radar today:\nBond vigilantes blow through Scott Bessent’s red lines.\nDoes Iran have Trump cornered?\nThe markets: Ugh.\nRobot maker Unitree’s IPO gives it $66 billion market cap.\nThis chart might—might!—predict when the AI bubble burs…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/36fd0ec7e647d6b2",
+      "time": "2026-08-19T11:12:37",
+      "country": "Iran",
+      "title_ur": "ایرانیوں کے پاس ٹرمپ ہے جہاں وہ اسے چاہتے ہیں اور تجویز کرتے ہیں کہ وہ 'باوقار باہر نکلیں'۔",
+      "desc_ur": "صبح بخیر آج فارچیون کے ریڈار پر:\nبانڈ ویجیلینٹس سکاٹ بیسنٹ کی سرخ لکیروں کے ذریعے اڑا رہے ہیں۔\nکیا ایران نے ٹرمپ کو گھیر لیا ہے؟\nبازار: اوہ۔\nروبوٹ بنانے والی کمپنی Unitree کا IPO اسے 66 بلین ڈالر کا مارکیٹ کیپ دیتا ہے۔\nیہ چارٹ—شاید!—پیش گوئی کر سکتا ہے کہ AI بلبلا کب پھٹتا ہے…"
+    },
+    {
+      "title": "Iran considers bill for military control over Strait of Hormuz",
+      "desc": "Iran's potential military control over the Strait of Hormuz could escalate regional tensions and impact global oil markets significantly.\nThe post Iran considers bill for military control over Strait of Hormuz appeared first on Crypto Briefing.",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/riksbank-rate-hike-signal-inflation-2026/",
-      "time": "2026-08-19T10:33:48",
-      "country": "International",
-      "title_ur": "Riksbank مشرق وسطی کے تنازعات سے منسلک افراط زر کے خدشات کے درمیان ممکنہ 2026 کی شرح میں اضافے کا اشارہ دیتا ہے",
-      "desc_ur": "ممکنہ شرح میں اضافہ سویڈش کرونا کو مضبوط کر سکتا ہے، نورڈک ایکوئٹی کو متاثر کر سکتا ہے، اور جغرافیائی سیاسی کشیدگی کے درمیان وسیع تر اقتصادی تبدیلیوں کا اشارہ دے سکتا ہے۔\nThe post Riksbank مشرق وسطیٰ کے تنازعات سے منسلک افراط زر کے خدشات کے درمیان 2026 کی شرح میں اضافے کا امکان ظاہر کرتا ہے…"
-    },
-    {
-      "title": "Sensex today | Stock Market Highlights: Indian markets decline for seventh straight session; Nifty loses 2.1% in seven days",
-      "desc": "Sensex, Nifty, Share Prices Highlights: Indian equities extended their losing streak on Wednesday as surging crude oil prices and rising global bond yields weakened risk appetite, with the Nifty 50 posting its longest run of daily losses in 11 months.",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-19th-august-2026/article71360276.ece",
-      "time": "2026-08-19T10:33:24",
-      "country": "India",
-      "title_ur": "سینسیکس آج | اسٹاک مارکیٹ کی جھلکیاں: ہندوستانی بازاروں میں مسلسل ساتویں سیشن میں گراوٹ؛ سات دنوں میں نفٹی میں 2.1% کی کمی",
-      "desc_ur": "سینسیکس، نفٹی، حصص کی قیمتوں کی جھلکیاں: ہندوستانی ایکوئٹیز نے بدھ کے روز اپنے خسارے کا سلسلہ بڑھا دیا کیونکہ خام تیل کی بڑھتی ہوئی قیمتوں اور بڑھتی ہوئی عالمی بانڈ کی پیداوار نے خطرے کی بھوک کو کمزور کر دیا، نفٹی 50 نے 11 مہینوں میں اپنے یومیہ نقصان کا سب سے طویل دورانیہ پوسٹ کیا۔"
-    },
-    {
-      "title": "India Turns to Piped Gas as Iran War Drives Up LPG Costs",
-      "desc": "India’s government is looking to incentivize city gas distributors to increase piped gas connections to raise domestic cooking gas supply to households as the costs of importing liquefied petroleum gas (LPG) have soared since the Iran war choked off supply fr…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Turns-to-Piped-Gas-as-Iran-War-Drives-Up-LPG-Costs.html",
-      "time": "2026-08-19T10:30:00",
+      "url": "https://cryptobriefing.com/iran-considers-bill-for-military-control-over-strait-of-hormuz/",
+      "time": "2026-08-19T11:06:17",
       "country": "Iran",
-      "title_ur": "ایران کی جنگ کے باعث ایل پی جی کی قیمتیں بڑھنے پر ہندوستان پائپڈ گیس کا رخ کرتا ہے۔",
-      "desc_ur": "ہندوستان کی حکومت سٹی گیس ڈسٹری بیوٹرز کو گھرانوں کو گھریلو کھانا پکانے کی گیس کی سپلائی بڑھانے کے لیے پائپ گیس کنکشن بڑھانے کے لیے ترغیب دینے کی کوشش کر رہی ہے کیونکہ ایران جنگ کے بعد سپلائی بند ہونے کے بعد مائع پیٹرولیم گیس (ایل پی جی) کی درآمد کے اخراجات بڑھ گئے ہیں…"
+      "title_ur": "ایران نے آبنائے ہرمز پر فوجی کنٹرول کے بل پر غور کیا ہے۔",
+      "desc_ur": "آبنائے ہرمز پر ایران کا ممکنہ فوجی کنٹرول علاقائی کشیدگی کو بڑھا سکتا ہے اور تیل کی عالمی منڈیوں پر نمایاں اثر ڈال سکتا ہے۔\nThe post ایران کا آبنائے ہرمز پر فوجی کنٹرول کے بل پر غور appeared first on Crypto Briefing."
     },
     {
-      "title": "Rupee hits three-week low, traders wary about fall to 96/USD as RBI stands guard",
-      "desc": "Rupee dips to three-week low amid high oil prices and dollar demand, with RBI interventions preventing further decline.",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/forex/rupee-hits-three-week-low-traders-wary-about-fall-to-96usd-as-rbi-stands-guard/article71364363.ece",
-      "time": "2026-08-19T10:28:56",
-      "country": "US",
-      "title_ur": "روپیہ تین ہفتوں کی کم ترین سطح پر پہنچ گیا، تاجر 96/USD تک گرنے سے ہوشیار ہیں کیونکہ RBI محافظ کھڑا ہے",
-      "desc_ur": "تیل کی اونچی قیمتوں اور ڈالر کی مانگ کے درمیان روپیہ تین ہفتے کی کم ترین سطح پر آ گیا، RBI کی مداخلتوں سے مزید کمی کو روکا جا رہا ہے۔"
-    },
-    {
-      "title": "IDF seals two more Hamas tunnels in Gaza",
-      "desc": "The Israel Defense Forces (IDF) said on Wednesday that troops have sealed two additional underground tunnel routes in the Gaza Strip, belonging to Hamas.The tunnels, with a combined length of more tha...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/90637513d4517ba7",
-      "time": "2026-08-19T10:27:13",
-      "country": "Israel",
-      "title_ur": "آئی ڈی ایف نے غزہ میں حماس کی مزید دو سرنگیں سیل کر دیں۔",
-      "desc_ur": "اسرائیل ڈیفنس فورسز (IDF) نے بدھ کے روز کہا کہ فوجیوں نے غزہ کی پٹی میں زیر زمین سرنگ کے دو اضافی راستوں کو سیل کر دیا ہے، جن کا تعلق حماس سے ہے۔ سرنگوں کی مشترکہ لمبائی ..."
-    },
-    {
-      "title": "Transcript: Trump Aides Unnerved by Natalie Harp as Ossoff Barb Lands",
-      "desc": "The following is a lightly edited transcript of the August 19 episode of the Daily Blast podcast. Listen to it here.Greg Sargent: This is The Daily Blast from The New Republic, produced and presented by the DSR Network. I’m your host, Greg Sargent.MAGA and th…",
-      "source": "The New Republic",
-      "url": "https://newrepublic.com/article/214495/transcript-trump-aides-unnerved-natalie-harp-ossoff-barb-lands",
-      "time": "2026-08-19T10:24:38",
-      "country": "US",
-      "title_ur": "ٹرانسکرپٹ: نٹالی ہارپ کے ذریعہ اوسوف بارب لینڈز کے طور پر ٹرمپ کے معاون",
-      "desc_ur": "ذیل میں ڈیلی بلاسٹ پوڈ کاسٹ کے 19 اگست کے ایپی سوڈ کا ہلکا سا ترمیم شدہ ٹرانسکرپٹ ہے۔ اسے یہاں سنیں۔ گریگ سارجنٹ: یہ دی ڈیلی بلاسٹ آف دی نیو ریپبلک ہے، جسے ڈی ایس آر نیٹ ورک نے تیار اور پیش کیا ہے۔ میں آپ کا میزبان ہوں، Greg Sargent.MAGA اور ویں…"
-    },
-    {
-      "title": "Why White House envoys cannot sway Israel’s war leader",
-      "desc": "Any deal in any of Israel’s conflicts would be politically damaging for its prime minister.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/opinions/2026/8/19/why-white-house-envoys-cannot-sway-israels-war-leader",
-      "time": "2026-08-19T10:24:26",
-      "country": "Israel",
-      "title_ur": "وائٹ ہاؤس کے ایلچی اسرائیل کے جنگی رہنما کو کیوں متاثر نہیں کر سکتے؟",
-      "desc_ur": "اسرائیل کے کسی بھی تنازع میں کوئی بھی معاہدہ اس کے وزیر اعظم کے لیے سیاسی طور پر نقصان دہ ہو گا۔"
-    },
-    {
-      "title": "Peter Thiel-Linked Race Science Network That Penetrated Cambridge University",
-      "desc": "The media's coverage of the academic's life was fuelled by the campaign of an established far-right network",
-      "source": "Byline Times",
-      "url": "https://bylinetimes.com/2026/08/18/the-peter-thiel-linked-race-science-network-that-penetrated-cambridge-university-and-targeted-jason-arday/",
-      "time": "2026-08-19T10:22:52",
+      "title": "Bitcoin has ‘largely purged’ froth that preceded 50% drop from $126K: BlackRock",
+      "desc": "BlackRock has doubled down on its Bitcoin bull case in a new report, seeing its correlation to risk assets decreasing in the future as leverage has been purged from the market.",
+      "source": "Cointelegraph",
+      "url": "https://cointelegraph.com/markets/bitcoin-has-largely-purged-froth-that-preceded-50-drop-from-126k-blackrock",
+      "time": "2026-08-19T11:06:13",
       "country": "International",
-      "title_ur": "پیٹر تھیل سے منسلک ریس سائنس نیٹ ورک جو کیمبرج یونیورسٹی میں داخل ہوا۔",
-      "desc_ur": "علمی کی زندگی کی میڈیا کی کوریج کو ایک قائم کردہ انتہائی دائیں بازو کے نیٹ ورک کی مہم کے ذریعے تقویت ملی۔"
+      "title_ur": "بٹ کوائن نے جھاگ کو 'بڑے پیمانے پر صاف کیا' ہے جو $126K سے 50% گرنے سے پہلے تھا: BlackRock",
+      "desc_ur": "BlackRock نے ایک نئی رپورٹ میں اپنے Bitcoin بیل کیس میں دوگنا اضافہ کر دیا ہے، اس کا مستقبل میں خطرے کے اثاثوں سے تعلق کو کم ہوتا دیکھ کر کیونکہ لیوریج کو مارکیٹ سے ہٹا دیا گیا ہے۔"
     },
     {
-      "title": "Oil India vs ONGC vs OMCs: What JM Financial’s $80 Brent call means for oil stocks",
-      "desc": "Brent crude may stay near eighty dollars a barrel for twelve months.  Analysts favor Oil India and ONGC due to expected earnings growth.  Oil India's refinery capacity expansion will drive future output increases.  Oil marketing companies face pressure from l…",
+      "title": "Dollar softens as bond market steadies ahead of Fed minutes",
+      "desc": "By Niket Nishant and Jiaxing Li Aug 19 (Reuters) - The U.S. dollar slipped against major peers on Wednesday as a selloff in Treasuries eased, with investors...",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/dollar-drifts-near-multi-month-013146327.html",
+      "time": "2026-08-19T11:05:56",
+      "country": "Europe",
+      "title_ur": "فیڈ منٹوں سے پہلے بانڈ مارکیٹ کے مستحکم ہونے سے ڈالر نرم ہو رہا ہے۔",
+      "desc_ur": "نکیت نشانت اور جیاکسنگ لی کی طرف سے اگست 19 (رائٹرز) – امریکی ڈالر بدھ کے روز بڑے ساتھیوں کے مقابلے میں پھسل گیا کیونکہ ٹریژریز میں فروخت میں آسانی ہوئی، سرمایہ کاروں کے ساتھ…"
+    },
+    {
+      "title": "The undisputed answer to Israel’s legitimacy: The Dead Sea Scrolls",
+      "desc": "Muslim peace advocate argues the Dead Sea Scrolls offer powerful evidence of the Jewish people's ancient ties to Israel and explains why acknowledging that history can help advance peace.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/opinion/undisputed-answer-israels-legitimacy-dead-sea-scrolls",
+      "time": "2026-08-19T11:04:21",
+      "country": "Israel",
+      "title_ur": "اسرائیل کی قانونی حیثیت کا غیر متنازعہ جواب: بحیرہ مردار کے طومار",
+      "desc_ur": "مسلم امن کے وکیل کا استدلال ہے کہ بحیرہ مردار کے طومار یہودی لوگوں کے اسرائیل کے ساتھ قدیم تعلقات کے مضبوط ثبوت پیش کرتے ہیں اور بتاتے ہیں کہ تاریخ کو تسلیم کرنے سے امن کو آگے بڑھانے میں مدد مل سکتی ہے۔"
+    },
+    {
+      "title": "Are Delhi teens sleeping enough? Study finds 1 in 4 are sleep deprived",
+      "desc": "In Central Delhi, almost a quarter of teenagers are grappling with sleep deprivation, adversely affecting their educational pursuits. Research shows that lack of sleep is linked to declining academic performance and an increase in depressive states among stud…",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/oil-india-vs-ongc-vs-omcs-what-jm-financials-80-brent-call-means-for-oil-stocks/articleshow/133344751.cms",
-      "time": "2026-08-19T10:20:10",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/are-delhi-teens-sleeping-enough-study-finds-1-in-4-are-sleep-deprived/articleshow/133345674.cms",
+      "time": "2026-08-19T11:01:59",
       "country": "India",
-      "title_ur": "آئل انڈیا بمقابلہ ONGC بمقابلہ OMCs: JM Financial کی $80 Brent کال کا تیل اسٹاک کے لیے کیا مطلب ہے؟",
-      "desc_ur": "برینٹ کروڈ کی قیمت بارہ ماہ تک اسی ڈالر فی بیرل کے قریب رہ سکتی ہے۔  متوقع آمدنی میں اضافے کی وجہ سے تجزیہ کار آئل انڈیا اور او این جی سی کے حق میں ہیں۔  آئل انڈیا کی ریفائنری کی صلاحیت میں توسیع مستقبل کی پیداوار میں اضافہ کرے گی۔  آئل مارکیٹنگ کمپنیوں کو دباؤ کا سامنا ہے…"
+      "title_ur": "کیا دہلی کے نوجوان کافی سو رہے ہیں؟ مطالعہ سے پتہ چلتا ہے کہ 4 میں سے 1 نیند سے محروم ہیں۔",
+      "desc_ur": "وسطی دہلی میں، تقریباً ایک چوتھائی نوجوان نیند کی کمی کا شکار ہیں، جس سے ان کی تعلیمی سرگرمیاں بری طرح متاثر ہو رہی ہیں۔ تحقیق سے پتہ چلتا ہے کہ نیند کی کمی کا تعلق تعلیمی کارکردگی میں کمی اور ڈپریشن کی حالتوں میں اضافے سے ہے…"
     },
     {
-      "title": "Trump Takes Iran Hard Line as Hormuz Tensions Set New Normal",
-      "desc": "US President Donald Trump insisted Tuesday that there were no talks ongoing with Iran, leaving the simmering conflict in the Middle East and control of the Strait of Hormuz stuck in limbo.",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/trump-takes-iran-hard-line-as-hormuz-tensions-set-new-normal/",
-      "time": "2026-08-19T10:15:12",
-      "country": "Iran",
-      "title_ur": "ٹرمپ نے ایران کو ہارڈ لائن پر لے لیا کیونکہ ہرمز کشیدگی نے نیا معمول بنایا ہے۔",
-      "desc_ur": "امریکی صدر ڈونلڈ ٹرمپ نے منگل کو اصرار کیا کہ ایران کے ساتھ کوئی بات چیت جاری نہیں ہے، جس سے مشرق وسطیٰ میں ابلتے ہوئے تنازعے اور آبنائے ہرمز کا کنٹرول التوا میں پھنس گیا ہے۔"
-    },
-    {
-      "title": "I try not to compare historical periods. Then Israel marks Palestinians with numbers",
-      "desc": "Perhaps we are stuck trying to find historical precedents instead of looking at what is happening before our eyes",
-      "source": "Haaretz",
-      "url": "https://www.haaretz.com/opinion/2026-08-19/ty-article-opinion/i-resist-historical-comparisons-then-israel-marks-palestinians-with-numbers/000001a0-18e6-d117-afb8-3fe7c9f60000",
-      "time": "2026-08-19T10:14:48",
-      "country": "Israel",
-      "title_ur": "میں کوشش کرتا ہوں کہ تاریخی ادوار کا موازنہ نہ کروں۔ پھر اسرائیل فلسطینیوں کو نمبروں سے نشان زد کرتا ہے۔",
-      "desc_ur": "شاید ہم اپنی آنکھوں کے سامنے جو کچھ ہو رہا ہے اسے دیکھنے کے بجائے تاریخی نظیریں تلاش کرنے کی کوشش میں پھنس گئے ہیں۔"
-    },
-    {
-      "title": "New AI platform brings Jewish tradition into the digital age",
-      "desc": "A new AI-powered platform launched in Savyon aims to make Jewish law, tradition and daily practices accessible worldwide, while connecting users with more than 1,000 rabbis.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/431929",
-      "time": "2026-08-19T10:13:59",
-      "country": "US",
-      "title_ur": "نیا AI پلیٹ فارم یہودی روایت کو ڈیجیٹل دور میں لاتا ہے۔",
-      "desc_ur": "Savyon میں متعارف کرائے گئے ایک نئے AI سے چلنے والے پلیٹ فارم کا مقصد یہودی قانون، روایت اور روزمرہ کے طریقوں کو دنیا بھر میں قابل رسائی بنانا ہے، جبکہ صارفین کو 1,000 سے زیادہ ربیوں سے جوڑنا ہے۔"
-    },
-    {
-      "title": "Desperate Times Call for Turkish Measures",
-      "desc": "Türkiye is being called upon for a more active role in against Iran and Russia. Will it oblige and would it make any difference?",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/5e2c37d6d76aa97a",
-      "time": "2026-08-19T10:12:18",
-      "country": "Iran",
-      "title_ur": "مایوس ٹائمز نے ترک اقدامات کا مطالبہ کیا۔",
-      "desc_ur": "ترکی کو ایران اور روس کے خلاف مزید فعال کردار ادا کرنے کے لیے کہا جا رہا ہے۔ کیا یہ واجب ہوگا اور کیا اس سے کوئی فرق پڑے گا؟"
-    },
-    {
-      "title": "Crackdown On Iran's Popular YouTube Platform Could Herald More Restrictions",
-      "desc": "Iranian authorities have moved against the popular online platform Azad, accusing it of publishing “falsehoods” and signaling what an Iranian political activist and commentator says could be a broader crackdown on independent Persian-language YouTube channels.",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "url": "https://www.rferl.org/a/iran-azad-youtube-ban-dissent/33833478.html",
-      "time": "2026-08-19T10:06:55",
-      "country": "Iran",
-      "title_ur": "ایران کے مقبول یوٹیوب پلیٹ فارم پر کریک ڈاؤن مزید پابندیاں لگا سکتا ہے۔",
-      "desc_ur": "ایرانی حکام مقبول آن لائن پلیٹ فارم آزاد کے خلاف حرکت میں آ گئے ہیں، اس پر \"جھوٹ\" شائع کرنے کا الزام لگاتے ہوئے اور اس بات کا اشارہ دیتے ہوئے کہ ایک ایرانی سیاسی کارکن اور مبصر کا کہنا ہے کہ فارسی زبان کے آزاد یوٹیوب چینلز کے خلاف وسیع تر کریک ڈاؤن ہو سکتا ہے۔"
-    },
-    {
-      "title": "CommLoan Appoints Noah Hershcoviz Chief Executive Officer to Lead Its Next Stage of Scale",
-      "desc": "Founder Mitch Ginsberg chooses to transition to Executive Chairman as Hershcoviz takes on a company-wide mandate to scale CommLoan's platform SCOTTSDALE, Ariz., Aug. 19, 2026 /PRNewswire/ -- CommLoan, the operating system for commercial real estate lending, t…",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/commloan-appoints-noah-hershcoviz-chief-executive-officer-to-lead-its-next-stage-of-scale-302854779.html",
-      "time": "2026-08-19T10:03:00",
+      "title": "Critical macOS, SharePoint, vCenter, and Microsoft IKE Flaws Under Active Exploitation",
+      "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four critical vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, stating they are being exploited in the wild.\n\nThe shortcomings added to the KEV catalog are …",
+      "source": "Internet",
+      "url": "https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html",
+      "time": "2026-08-19T11:01:48",
       "country": "International",
-      "title_ur": "CommLoan نے اپنے اگلے مرحلے کی رہنمائی کے لیے Noah Hershcoviz کو چیف ایگزیکٹو آفیسر مقرر کیا",
-      "desc_ur": "بانی مچ گنزبرگ نے ایگزیکٹو چیئرمین کے عہدے پر منتقلی کا انتخاب کیا کیونکہ Hershcoviz نے CommLoan کے پلیٹ فارم SCOTTSDALE، Ariz.، 19 اگست 2026/PRNewswire/ -- CommLoan، کمرشل رئیل اسٹیٹ قرضے کا آپریٹنگ سسٹم، t…"
+      "title_ur": "فعال استحصال کے تحت اہم میکوس، شیئرپوائنٹ، وی سینٹر، اور مائیکروسافٹ IKE خامیاں",
+      "desc_ur": "یو ایس سائبرسیکیوریٹی اینڈ انفراسٹرکچر سیکیورٹی ایجنسی (CISA) نے منگل کو اپنے Known Exploited Vulnerabilities (KEV) کیٹلوگ میں چار اہم خطرات کو شامل کیا، یہ کہتے ہوئے کہ ان کا جنگل میں استحصال کیا جا رہا ہے۔\n\nKEV کیٹلاگ میں شامل کی گئی خامیاں یہ ہیں…"
+    },
+    {
+      "title": "Hockey World Cup 2026: How can the new format affect India's semis chances?",
+      "desc": "India, which started its campaign with an emphatic 3-1 win over Wales, hit a roadblock against England on Monday, losing 2-4 as the English side confirmed its top-two finish from Pool D",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/sports/other-sports-news/hockey-world-cup-2026-how-can-the-new-format-affect-india-s-semis-chances-126081800869_1.html",
+      "time": "2026-08-19T11:00:15",
+      "country": "India",
+      "title_ur": "ہاکی ورلڈ کپ 2026: نیا فارمیٹ ہندوستان کے سیمی فائنل کے امکانات کو کیسے متاثر کر سکتا ہے؟",
+      "desc_ur": "ہندوستان، جس نے اپنی مہم کا آغاز ویلز کے خلاف 3-1 کی زبردست جیت کے ساتھ کیا، پیر کو انگلینڈ کے خلاف ایک رکاوٹ کا سامنا کرنا پڑا، جسے 2-4 سے شکست کا سامنا کرنا پڑا کیونکہ انگلش سائیڈ نے پول ڈی سے اپنی ٹاپ ٹو میں جگہ کی تصدیق کی۔"
+    },
+    {
+      "title": "The 2026 Midterms: What the Democratic Party can learn from the 1986 Midterms",
+      "desc": "As the US heads towards the November midterm elections, progressive Democrats like Zohran Mamdani in New York have been winning elections and like Abdul El-Sayed in Michigan, Democratic primary contests. But should the Democratic Party now take these victorie…",
+      "source": "Lse.ac.uk",
+      "url": "https://blogs.lse.ac.uk/usappblog/2026/08/19/the-2026-midterms-what-the-democratic-party-can-learn-from-the-1986-midterms/",
+      "time": "2026-08-19T11:00:00",
+      "country": "US",
+      "title_ur": "2026 کے وسط مدتی: ڈیموکریٹک پارٹی 1986 کے وسط مدتی سے کیا سیکھ سکتی ہے",
+      "desc_ur": "جیسا کہ امریکہ نومبر کے وسط مدتی انتخابات کی طرف بڑھ رہا ہے، نیویارک میں ظہران ممدانی جیسے ترقی پسند ڈیموکریٹس اور مشی گن میں عبد السید کی طرح ڈیموکریٹک پرائمری مقابلے جیت رہے ہیں۔ لیکن کیا اب ڈیموکریٹک پارٹی کو یہ فتح حاصل کرنی چاہیے؟"
+    },
+    {
+      "title": "UNICEF report didn't disprove famine in Gaza, contrary to claims",
+      "desc": "The July 2026 report found child malnutrition in Gaza has fallen largely because of humanitarian aid assistance.",
+      "source": "Snopes.com",
+      "url": "https://www.snopes.com//fact-check/gaza-famine-unicef-date/",
+      "time": "2026-08-19T11:00:00",
+      "country": "Israel",
+      "title_ur": "یونیسیف کی رپورٹ دعووں کے برعکس غزہ میں قحط کو غلط ثابت نہیں کرتی",
+      "desc_ur": "جولائی 2026 کی رپورٹ میں بتایا گیا ہے کہ غزہ میں بچوں کی غذائیت کی کمی بڑی حد تک انسانی امداد کی وجہ سے ہوئی ہے۔"
+    },
+    {
+      "title": "ZIM Reports Strong Results for the Second Quarter of 2026, Benefiting from its Leading Transpacific Position, Agile Commercial Approach and Efficient Cost Structure",
+      "desc": "Revenues Up +9% to $1.8bn, and Net Income Up +170% to $64m, y-o-y Q2 EBITDA and Net Income, adjusted for costs related to the pending Hapag-Lloyd transaction, up +4% to $491m and +226% to $77m, y-o-y, respectively Positive H1 Adjusted Net Income with signific…",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/zim-reports-strong-results-for-the-second-quarter-of-2026-benefiting-from-its-leading-transpacific-position-agile-commercial-approach-and-efficient-cost-structure-302855083.html",
+      "time": "2026-08-19T11:00:00",
+      "country": "US",
+      "title_ur": "ZIM نے 2026 کی دوسری سہ ماہی کے لیے مضبوط نتائج کی اطلاع دی ہے، اس کی معروف ٹرانس پیسفک پوزیشن، چست تجارتی نقطہ نظر اور لاگت کے موثر ڈھانچے سے فائدہ اٹھاتے ہوئے",
+      "desc_ur": "آمدنی +9% سے $1.8bn تک، اور خالص آمدنی +170% سے $64m تک، y-o-y Q2 EBITDA اور خالص آمدنی، زیر التواء Hapag-Lloyd ٹرانزیکشن سے متعلق اخراجات کے لیے ایڈجسٹ، 4% سے $491m تک اور +226% سے $77m تک، بالترتیب H-170 لاکھ سے زیادہ اہم کے ساتھ…"
     }
   ],
   "pakistan": [
     {
-      "title": "Iran establishes Tehran court to enforce hijab compliance, tighten control",
-      "desc": "The new court may stabilize Iran's leadership by reinforcing control, reducing the likelihood of leadership change and affecting market perceptions.\nThe post Iran establishes Tehran court to enforce hijab compliance, tighten control appeared first on Crypto B…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-establishes-tehran-court-to-enforce-hijab-compliance-tighten-control/",
-      "time": "2026-08-19T10:29:44",
+      "title": "Glamorgan re-sign Pakistan seamer Hamza",
+      "desc": "Glamorgan re-sign Pakistan bowler Mir Hamza has signed for the final five games of the County Championship season.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/cricket/articles/c9v4zg72exeo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "time": "2026-08-19T11:16:31",
       "country": "Pakistan",
-      "title_ur": "ایران نے حجاب کی پابندی کو نافذ کرنے، کنٹرول سخت کرنے کے لیے تہران عدالت قائم کی۔",
-      "desc_ur": "نئی عدالت ایران کی قیادت کو کنٹرول کو مضبوط بنا کر، قیادت کی تبدیلی کے امکانات کو کم کر کے اور مارکیٹ کے تاثرات کو متاثر کر سکتی ہے۔\nThe post ایران نے حجاب کی پابندی کے نفاذ کے لیے تہران عدالت قائم کردی، کنٹرول سخت appeared first on Crypto B…"
+      "title_ur": "گلیمورگن نے پاکستانی فاسٹ باؤلر حمزہ کو دوبارہ سائن کر لیا۔",
+      "desc_ur": "گلیمورگن نے پاکستانی باؤلر میر حمزہ کو کاؤنٹی چیمپئن شپ سیزن کے آخری پانچ میچوں کے لیے دوبارہ سائن کر لیا ہے۔"
     },
     {
-      "title": "Indian, US fuel exporters reaping bonanza amid oil supply uncertainty due to wars",
-      "desc": "India and U.S. oil refiners are benefiting from global fuel supply disruptions caused by wars in Iran and Ukraine, boosting refined fuel exports and margins. India is emerging as Asia’s swing supplier as Middle Eastern and Russian supplies tighten, while U.S.…",
+      "title": "Hockey World Cup: Harmanpreet, Abhishek score for India vs Pakistan | IND 2-0 PAK",
+      "desc": "India vs Pakistan Live Score, Hockey World Cup 2026: The India-Pakistan rivalry takes on added significance today as the two neighbours meet in a dec",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/indian-us-fuel-exporters-reaping-bonanza-amid-oil-supply-uncertainty-due-to-wars/articleshow/133344591.cms",
-      "time": "2026-08-19T10:28:20",
+      "url": "https://timesofindia.indiatimes.com/sports/hockey/fih-mens-hockey-world-cup-2026-india-vs-pakistan-live-score-pool-d-match-today-live-streaming-time-qualifier-harmanpreet-singh-abu-mahmood/liveblog/133346332.cms",
+      "time": "2026-08-19T11:08:22",
       "country": "Pakistan",
-      "title_ur": "جنگوں کی وجہ سے تیل کی سپلائی کی غیر یقینی صورتحال کے درمیان ہندوستانی، امریکی ایندھن برآمد کنندگان بونانزا کاٹ رہے ہیں۔",
-      "desc_ur": "ایران اور یوکرین میں جنگوں کی وجہ سے عالمی ایندھن کی سپلائی میں رکاوٹوں سے ہندوستان اور امریکی تیل صاف کرنے والے فائدہ اٹھا رہے ہیں، جس سے بہتر ایندھن کی برآمدات اور مارجن میں اضافہ ہو رہا ہے۔ مشرق وسطیٰ اور روسی سپلائی میں سختی کے ساتھ ہی ہندوستان ایشیا کے سوئنگ سپلائر کے طور پر ابھر رہا ہے، جبکہ امریکی…"
+      "title_ur": "ہاکی ورلڈ کپ: بھارت بمقابلہ پاکستان کے لیے ہرمن پریت اور ابھیشیک سکور | IND 2-0 پاک",
+      "desc_ur": "ہندوستان بمقابلہ پاکستان لائیو اسکور، ہاکی ورلڈ کپ 2026: ہندوستان اور پاکستان دشمنی آج مزید اہمیت اختیار کر رہی ہے کیونکہ دونوں پڑوسی ایک دسمبر میں ملیں گے۔"
     },
     {
-      "title": "'What a start!' - Robinson gives England perfect start against Pakistan",
-      "desc": "Ollie Robinson gives England the perfect start on the opening morning of the first Test against Pakistan by trapping Azan Awais lbw with the first ball of the day at Headingley.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/cricket/videos/c74gpq8le80o",
-      "time": "2026-08-19T10:23:55",
+      "title": "Hockey World Cup: India-Pakistan rivalry takes centre stage in must-win clash",
+      "desc": "India vs Pakistan Live Score, Hockey World Cup 2026: The India-Pakistan rivalry takes on added significance today as the two neighbours meet in a dec",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/sports/hockey/fih-mens-hockey-world-cup-2026-india-vs-pakistan-live-score-pool-d-match-today-schedule-rankings-live-streaming-time-qualifier-points-table-harmanpreet-singh-abu-mahmood/liveblog/133346332.cms",
+      "time": "2026-08-19T11:08:22",
       "country": "Pakistan",
-      "title_ur": "'کیا آغاز ہے!' - رابنسن نے انگلینڈ کو پاکستان کے خلاف بہترین آغاز فراہم کیا۔",
-      "desc_ur": "اولی رابنسن نے ہیڈنگلے میں دن کی پہلی گیند پر اذان اویس کو ایل بی ڈبلیو کر کے پاکستان کے خلاف پہلے ٹیسٹ کی ابتدائی صبح انگلینڈ کو بہترین آغاز فراہم کیا۔"
-    },
-    {
-      "title": "Root 'really excited' to lead England again against Pakistan",
-      "desc": "Speaking on the morning of the opening Test against Pakistan, Joe Root says he's \"really excited\" to be England captain for a second time and has called on his team to build on the foundations laid by former skipper Ben Stokes and coach Brendon McCullum.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/cricket/videos/cdx8wklz0x2o",
-      "time": "2026-08-19T10:15:26",
-      "country": "Pakistan",
-      "title_ur": "روٹ پاکستان کے خلاف دوبارہ انگلینڈ کی قیادت کرنے کے لیے 'واقعی پرجوش' ہیں۔",
-      "desc_ur": "پاکستان کے خلاف ابتدائی ٹیسٹ کی صبح بات کرتے ہوئے، جو روٹ کا کہنا ہے کہ وہ دوسری بار انگلینڈ کا کپتان بننے کے لیے \"واقعی پرجوش\" ہیں اور انہوں نے اپنی ٹیم کو سابق کپتان بین اسٹوکس اور کوچ برینڈن میک کولم کی بنیادوں پر استوار کرنے کا مطالبہ کیا ہے۔"
-    },
-    {
-      "title": "The Expansionist Approach of Self-defence has Undermined International Law",
-      "desc": "[Benazir Jatoi is a UK-based human rights lawyer from Pakistan. She has consulted with the UNFPA and UNWomen, Pakistan.] It is essential that countries critically re-examine the expansionist approach to self-defence. This is because it has become an arbitrary…",
-      "source": "Opiniojuris.org",
-      "url": "http://opiniojuris.org/2026/08/19/the-expansionist-approach-of-self-defence-has-undermined-international-law/",
-      "time": "2026-08-19T10:00:19",
-      "country": "Pakistan",
-      "title_ur": "اپنے دفاع کے توسیع پسندانہ اندازِ فکر نے بین الاقوامی قانون کو نقصان پہنچایا ہے۔",
-      "desc_ur": "[بے نظیر جتوئی برطانیہ میں مقیم پاکستان سے انسانی حقوق کی وکیل ہیں۔ اس نے UNFPA اور UNWomen، Pakistan سے مشاورت کی ہے۔] یہ ضروری ہے کہ ممالک اپنے دفاع کے لیے توسیع پسندانہ نقطہ نظر کا تنقیدی جائزہ لیں۔ اس کی وجہ یہ ہے کہ یہ ایک صوابدیدی بن گیا ہے…"
-    },
-    {
-      "title": "Who really owns the Caspian Sea?",
-      "desc": "For decades, debate in Iran over the Caspian Sea has often centered on a deceptively simple question: What percentage belongs to the country?\nIran, Russia, Azerbaijan, Kazakhstan and Turkmenistan all border the body of water. But the Caspian is treated neithe…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/984c760a2ce8461d",
-      "time": "2026-08-19T09:56:51",
-      "country": "Pakistan",
-      "title_ur": "کیسپین سمندر کا اصل مالک کون ہے؟",
-      "desc_ur": "کئی دہائیوں سے، بحیرہ کیسپین پر ایران میں بحث اکثر فریب دینے والے سادہ سوال پر مرکوز رہی ہے: ملک کا کتنا فیصد ہے؟\nایران، روس، آذربائیجان، قازقستان اور ترکمانستان سبھی پانی کے جسم سے ملتے ہیں۔ لیکن کیسپین کا علاج نہیں کیا جاتا ہے…"
+      "title_ur": "ہاکی ورلڈ کپ: بھارت اور پاکستان کی دشمنی لازمی جیتنے والے تصادم میں مرکز میں ہے۔",
+      "desc_ur": "ہندوستان بمقابلہ پاکستان لائیو اسکور، ہاکی ورلڈ کپ 2026: ہندوستان اور پاکستان دشمنی آج مزید اہمیت اختیار کر رہی ہے کیونکہ دونوں پڑوسی ایک دسمبر میں ملیں گے۔"
     }
   ],
   "business": {
