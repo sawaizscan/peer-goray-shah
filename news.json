@@ -1,187 +1,217 @@
 {
-  "generated": "2026-08-20T11:20:17Z",
+  "generated": "2026-08-20T11:51:22Z",
   "world": [
     {
-      "title": "Property price growth hits two-year low as market cools",
-      "desc": "Latest Residential Property Price Index indicates prices in Dublin rose at annual rate of 4.6%",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/business/2026/08/19/property-price-growth-hits-two-year-low-as-market-cools/",
-      "time": "2026-08-19T11:18:04",
-      "country": "International",
-      "title_ur": "مارکیٹ کے ٹھنڈے ہوتے ہی جائیداد کی قیمتوں میں اضافہ دو سال کی کم ترین سطح پر ہے۔",
-      "desc_ur": "تازہ ترین رہائشی املاک کی قیمت کا اشاریہ ڈبلن میں قیمتوں میں 4.6% کی سالانہ شرح سے اضافہ کی نشاندہی کرتا ہے"
-    },
-    {
-      "title": "Trump administration sanctions sitting president of the International Criminal Court for 'abuses of power'",
-      "desc": "Marco Rubio called the International Criminal Court \"corrupt\" as the Trump administration sanctioned two top ICC officials over jurisdiction disputes.",
+      "title": "Far-left socialist wins massive Florida upset: Key takeaways from Tuesday's primaries and more top headlines",
+      "desc": "",
       "source": "Fox News",
-      "url": "https://www.foxnews.com/us/trump-administration-sanctions-sitting-president-international-criminal-court-abuses-power",
-      "time": "2026-08-19T11:15:00",
-      "country": "US",
-      "title_ur": "ٹرمپ انتظامیہ نے اختیارات کے ناجائز استعمال پر بین الاقوامی فوجداری عدالت کے موجودہ صدر پر پابندیاں عائد کر دیں",
-      "desc_ur": "مارکو روبیو نے بین الاقوامی فوجداری عدالت کو \"بدعنوان\" قرار دیا کیونکہ ٹرمپ انتظامیہ نے دائرہ اختیار کے تنازعات پر آئی سی سی کے دو اعلی عہدیداروں کو منظور کیا۔"
-    },
-    {
-      "title": "Live updates: UAE halts trade with Iran after accusing Tehran of firing ballistic missiles - CNN",
-      "desc": "Live updates: UAE halts trade with Iran after accusing Tehran of firing ballistic missilesCNN Iran and UAE ties sour, and other major developments in the Middle EastThe Hill U.A.E. Halts Trade Ties With Iran and Says It Was Targeted With MissilesThe New York …",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185050218",
-      "time": "2026-08-19T11:13:31",
-      "country": "Iran",
-      "title_ur": "لائیو اپ ڈیٹس: تہران پر بیلسٹک میزائل فائر کرنے کا الزام لگانے کے بعد متحدہ عرب امارات نے ایران کے ساتھ تجارت روک دی – CNN",
-      "desc_ur": "لائیو اپ ڈیٹس: تہران پر بیلسٹک میزائل فائر کرنے کا الزام لگانے کے بعد UAE نے ایران کے ساتھ تجارت روک دی ایران کے ساتھ تجارتی تعلقات منقطع کرتے ہوئے کہا کہ اسے میزائلوں سے نشانہ بنایا گیا نیویارک…"
-    },
-    {
-      "title": "Iran War: US Considers Reducing Middle East Military Presence as Conflict Widens Regionally; Market Wobbles Intensify as Government Bond Interest Rates Rise Globally and AI Bubble Implosion Seems Imminent",
-      "desc": "[Today’s Iran war post launched before complete because reasons. Please return at 8:00 AM EDT or refresh this page then for a final version]\nToo much is happening in what ought to be a summer doldrums period, due to Trump’s preferred mode of operation, that o…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/912d2d8209c2311f",
-      "time": "2026-08-19T11:12:53",
-      "country": "Iran",
-      "title_ur": "ایران جنگ: امریکہ مشرق وسطی میں فوجی موجودگی کو کم کرنے پر غور کرتا ہے کیونکہ تنازعہ علاقائی طور پر وسیع ہوتا ہے۔ عالمی سطح پر سرکاری بانڈ کی شرح سود میں اضافے اور AI ببل امپلوشن قریب آنے کے ساتھ ہی مارکیٹ میں ہلچل بڑھ جاتی ہے۔",
-      "desc_ur": "[آج کی ایران جنگی پوسٹ مکمل ہونے سے پہلے ہی لانچ کی گئی کیونکہ وجوہات۔ براہ کرم 8:00 AM EDT پر واپس جائیں یا اس صفحہ کو ریفریش کریں پھر حتمی ورژن کے لیے]\nٹرمپ کے ترجیحی طرز عمل کی وجہ سے، موسم گرما کی اداسی کی مدت میں بہت کچھ ہو رہا ہے، جو کہ…"
-    },
-    {
-      "title": "The Iranians have Trump right where they want him and suggest he seek ‘a dignified exit’",
-      "desc": "Good morning. On Fortune’s radar today:\nBond vigilantes blow through Scott Bessent’s red lines.\nDoes Iran have Trump cornered?\nThe markets: Ugh.\nRobot maker Unitree’s IPO gives it $66 billion market cap.\nThis chart might—might!—predict when the AI bubble burs…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/36fd0ec7e647d6b2",
-      "time": "2026-08-19T11:12:37",
-      "country": "Iran",
-      "title_ur": "ایرانیوں کے پاس ٹرمپ ہے جہاں وہ اسے چاہتے ہیں اور تجویز کرتے ہیں کہ وہ 'باوقار باہر نکلیں'۔",
-      "desc_ur": "صبح بخیر آج فارچیون کے ریڈار پر:\nبانڈ ویجیلینٹس سکاٹ بیسنٹ کی سرخ لکیروں کے ذریعے اڑا رہے ہیں۔\nکیا ایران نے ٹرمپ کو گھیر لیا ہے؟\nبازار: اوہ۔\nروبوٹ بنانے والی کمپنی Unitree کا IPO اسے 66 بلین ڈالر کا مارکیٹ کیپ دیتا ہے۔\nیہ چارٹ—شاید!—پیش گوئی کر سکتا ہے کہ AI بلبلا کب پھٹتا ہے…"
-    },
-    {
-      "title": "Iran considers bill for military control over Strait of Hormuz",
-      "desc": "Iran's potential military control over the Strait of Hormuz could escalate regional tensions and impact global oil markets significantly.\nThe post Iran considers bill for military control over Strait of Hormuz appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-considers-bill-for-military-control-over-strait-of-hormuz/",
-      "time": "2026-08-19T11:06:17",
-      "country": "Iran",
-      "title_ur": "ایران نے آبنائے ہرمز پر فوجی کنٹرول کے بل پر غور کیا ہے۔",
-      "desc_ur": "آبنائے ہرمز پر ایران کا ممکنہ فوجی کنٹرول علاقائی کشیدگی کو بڑھا سکتا ہے اور تیل کی عالمی منڈیوں پر نمایاں اثر ڈال سکتا ہے۔\nThe post ایران کا آبنائے ہرمز پر فوجی کنٹرول کے بل پر غور appeared first on Crypto Briefing."
-    },
-    {
-      "title": "Bitcoin has ‘largely purged’ froth that preceded 50% drop from $126K: BlackRock",
-      "desc": "BlackRock has doubled down on its Bitcoin bull case in a new report, seeing its correlation to risk assets decreasing in the future as leverage has been purged from the market.",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/bitcoin-has-largely-purged-froth-that-preceded-50-drop-from-126k-blackrock",
-      "time": "2026-08-19T11:06:13",
+      "url": "https://www.foxnews.com/us/far-left-socialist-wins-massive-florida-upset-key-takeaways-tuesday-primaries-more-top-headlines",
+      "time": "2026-08-19T11:49:03",
       "country": "International",
-      "title_ur": "بٹ کوائن نے جھاگ کو 'بڑے پیمانے پر صاف کیا' ہے جو $126K سے 50% گرنے سے پہلے تھا: BlackRock",
-      "desc_ur": "BlackRock نے ایک نئی رپورٹ میں اپنے Bitcoin بیل کیس میں دوگنا اضافہ کر دیا ہے، اس کا مستقبل میں خطرے کے اثاثوں سے تعلق کو کم ہوتا دیکھ کر کیونکہ لیوریج کو مارکیٹ سے ہٹا دیا گیا ہے۔"
+      "title_ur": "انتہائی بائیں بازو کے سوشلسٹ نے فلوریڈا میں بڑے پیمانے پر اپ سیٹ جیت لیا: منگل کی پرائمری اور مزید سرفہرست سرخیوں سے اہم نکات",
+      "desc_ur": ""
     },
     {
-      "title": "Dollar softens as bond market steadies ahead of Fed minutes",
-      "desc": "By Niket Nishant and Jiaxing Li Aug 19 (Reuters) - The U.S. dollar slipped against major peers on Wednesday as a selloff in Treasuries eased, with investors...",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/markets/currencies/articles/dollar-drifts-near-multi-month-013146327.html",
-      "time": "2026-08-19T11:05:56",
-      "country": "Europe",
-      "title_ur": "فیڈ منٹوں سے پہلے بانڈ مارکیٹ کے مستحکم ہونے سے ڈالر نرم ہو رہا ہے۔",
-      "desc_ur": "نکیت نشانت اور جیاکسنگ لی کی طرف سے اگست 19 (رائٹرز) – امریکی ڈالر بدھ کے روز بڑے ساتھیوں کے مقابلے میں پھسل گیا کیونکہ ٹریژریز میں فروخت میں آسانی ہوئی، سرمایہ کاروں کے ساتھ…"
-    },
-    {
-      "title": "The undisputed answer to Israel’s legitimacy: The Dead Sea Scrolls",
-      "desc": "Muslim peace advocate argues the Dead Sea Scrolls offer powerful evidence of the Jewish people's ancient ties to Israel and explains why acknowledging that history can help advance peace.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/opinion/undisputed-answer-israels-legitimacy-dead-sea-scrolls",
-      "time": "2026-08-19T11:04:21",
-      "country": "Israel",
-      "title_ur": "اسرائیل کی قانونی حیثیت کا غیر متنازعہ جواب: بحیرہ مردار کے طومار",
-      "desc_ur": "مسلم امن کے وکیل کا استدلال ہے کہ بحیرہ مردار کے طومار یہودی لوگوں کے اسرائیل کے ساتھ قدیم تعلقات کے مضبوط ثبوت پیش کرتے ہیں اور بتاتے ہیں کہ تاریخ کو تسلیم کرنے سے امن کو آگے بڑھانے میں مدد مل سکتی ہے۔"
-    },
-    {
-      "title": "Are Delhi teens sleeping enough? Study finds 1 in 4 are sleep deprived",
-      "desc": "In Central Delhi, almost a quarter of teenagers are grappling with sleep deprivation, adversely affecting their educational pursuits. Research shows that lack of sleep is linked to declining academic performance and an increase in depressive states among stud…",
+      "title": "RJD’s Lok Bhavan march a flop show, reflects Tejashwi’s declining appeal: BJP",
+      "desc": "BJP’s Sanjay Saraogi calls RJD’s Patna Lok Bhavan march led by Tejashwi Yadav a “flop,” citing low turnout; Bihar govt affidavit details Siwan AK-47 firing.",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/delhi/are-delhi-teens-sleeping-enough-study-finds-1-in-4-are-sleep-deprived/articleshow/133345674.cms",
-      "time": "2026-08-19T11:01:59",
-      "country": "India",
-      "title_ur": "کیا دہلی کے نوجوان کافی سو رہے ہیں؟ مطالعہ سے پتہ چلتا ہے کہ 4 میں سے 1 نیند سے محروم ہیں۔",
-      "desc_ur": "وسطی دہلی میں، تقریباً ایک چوتھائی نوجوان نیند کی کمی کا شکار ہیں، جس سے ان کی تعلیمی سرگرمیاں بری طرح متاثر ہو رہی ہیں۔ تحقیق سے پتہ چلتا ہے کہ نیند کی کمی کا تعلق تعلیمی کارکردگی میں کمی اور ڈپریشن کی حالتوں میں اضافے سے ہے…"
-    },
-    {
-      "title": "Critical macOS, SharePoint, vCenter, and Microsoft IKE Flaws Under Active Exploitation",
-      "desc": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four critical vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, stating they are being exploited in the wild.\n\nThe shortcomings added to the KEV catalog are …",
-      "source": "Internet",
-      "url": "https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html",
-      "time": "2026-08-19T11:01:48",
+      "url": "https://timesofindia.indiatimes.com/city/patna/rjds-lok-bhavan-march-a-flop-show-reflects-tejashwis-declining-appeal-bjp/articleshow/133347259.cms",
+      "time": "2026-08-19T11:47:52",
       "country": "International",
-      "title_ur": "فعال استحصال کے تحت اہم میکوس، شیئرپوائنٹ، وی سینٹر، اور مائیکروسافٹ IKE خامیاں",
-      "desc_ur": "یو ایس سائبرسیکیوریٹی اینڈ انفراسٹرکچر سیکیورٹی ایجنسی (CISA) نے منگل کو اپنے Known Exploited Vulnerabilities (KEV) کیٹلوگ میں چار اہم خطرات کو شامل کیا، یہ کہتے ہوئے کہ ان کا جنگل میں استحصال کیا جا رہا ہے۔\n\nKEV کیٹلاگ میں شامل کی گئی خامیاں یہ ہیں…"
+      "title_ur": "آر جے ڈی کا لوک بھون مارچ ایک فلاپ شو، تیجسوی کی گرتی ہوئی اپیل کی عکاسی کرتا ہے: بی جے پی",
+      "desc_ur": "بی جے پی کے سنجے سراوگی نے کم ٹرن آؤٹ کا حوالہ دیتے ہوئے آر جے ڈی کے پٹنہ لوک بھون مارچ کو تیجسوی یادو کی قیادت میں \"فلاپ\" قرار دیا۔ بہار حکومت کے حلف نامے میں سیوان اے کے 47 فائرنگ کی تفصیلات۔"
     },
     {
-      "title": "Hockey World Cup 2026: How can the new format affect India's semis chances?",
-      "desc": "India, which started its campaign with an emphatic 3-1 win over Wales, hit a roadblock against England on Monday, losing 2-4 as the English side confirmed its top-two finish from Pool D",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/sports/other-sports-news/hockey-world-cup-2026-how-can-the-new-format-affect-india-s-semis-chances-126081800869_1.html",
-      "time": "2026-08-19T11:00:15",
+      "title": "HC bins PIL on mutation, fines petitioners Rs 50,000",
+      "desc": "Orissa HC dismisses PIL challenging Bhubaneswar land mutation rejections, calls it personal grievance, cites statutory remedy, fines petitioners Rs 50,000.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/hc-bins-pil-on-mutation-fines-petitioners-rs-50000/articleshow/133347341.cms",
+      "time": "2026-08-19T11:47:37",
+      "country": "International",
+      "title_ur": "ہائی کورٹ نے اتپریورتن پر PIL کو روک دیا، درخواست گزاروں کو 50,000 روپے جرمانہ",
+      "desc_ur": "اڑیسہ ہائی کورٹ نے بھونیشور اراضی کی تبدیلی کو مسترد کرنے کو چیلنج کرنے والی PIL کو مسترد کر دیا، اسے ذاتی شکایت قرار دیا، قانونی علاج کا حوالہ دیا، درخواست گزاروں کو 50,000 روپے جرمانہ کیا۔"
+    },
+    {
+      "title": "Bow string girder placed on Trichy Junction RoB",
+      "desc": "Southern Railway placed a 600-tonne bow string girder at Trichy junction RoB Stage II; rail work ends Oct 2026, commissioning expected before Pongal 2027.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/trichy/bow-string-girder-placed-on-trichy-junction-rob/articleshow/133347327.cms",
+      "time": "2026-08-19T11:47:13",
+      "country": "International",
+      "title_ur": "تریچی جنکشن RoB پر بو سٹرنگ گرڈر رکھا گیا ہے۔",
+      "desc_ur": "سدرن ریلوے نے تریچی جنکشن RoB اسٹیج II پر 600 ٹن کا بو سٹرنگ گرڈر رکھا۔ ریل کا کام اکتوبر 2026 کو ختم ہو جائے گا، پونگل 2027 سے پہلے شروع ہونے کی توقع ہے۔"
+    },
+    {
+      "title": "India Turns to Piped Gas as Iran War Drives Up LPG Costs",
+      "desc": "India's government is looking to incentivize city gas distributors to increase piped gas connections to raise domestic cooking gas supply to households as the costs of importing liquefied petroleum gas (LPG) have soared since the Iran war choked off supply fr…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/77f84c83f91a543a",
+      "time": "2026-08-19T11:46:52",
+      "country": "Iran",
+      "title_ur": "ایران کی جنگ کے باعث ایل پی جی کی قیمتیں بڑھنے پر ہندوستان پائپڈ گیس کا رخ کرتا ہے۔",
+      "desc_ur": "ہندوستان کی حکومت سٹی گیس ڈسٹری بیوٹرز کو گھروں کو گھریلو کھانا پکانے کی گیس کی سپلائی بڑھانے کے لیے پائپ گیس کنکشن بڑھانے کے لیے ترغیب دینے کی کوشش کر رہی ہے کیونکہ ایران جنگ کے بعد سپلائی بند ہونے کے بعد مائع پیٹرولیم گیس (ایل پی جی) کی درآمد کے اخراجات بڑھ گئے ہیں…"
+    },
+    {
+      "title": "School Assembly News Headlines, August 20, 2026: Top national, international, business, sports updates and thought of the day",
+      "desc": "School Assembly News Headlines: Lok Sabha Speaker Om Birla has appointed new members to the influential parliamentary panel. Meanwhile, Bangladesh is pushing for quicker business visas and more equitable economic relations with India. Amid ongoing oil supply …",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/school-assembly-news-headlines-august-20-2026-top-national-international-business-sports-updates-and-thought-of-the-day/articleshow/133347121.cms",
+      "time": "2026-08-19T11:46:34",
       "country": "India",
-      "title_ur": "ہاکی ورلڈ کپ 2026: نیا فارمیٹ ہندوستان کے سیمی فائنل کے امکانات کو کیسے متاثر کر سکتا ہے؟",
-      "desc_ur": "ہندوستان، جس نے اپنی مہم کا آغاز ویلز کے خلاف 3-1 کی زبردست جیت کے ساتھ کیا، پیر کو انگلینڈ کے خلاف ایک رکاوٹ کا سامنا کرنا پڑا، جسے 2-4 سے شکست کا سامنا کرنا پڑا کیونکہ انگلش سائیڈ نے پول ڈی سے اپنی ٹاپ ٹو میں جگہ کی تصدیق کی۔"
+      "title_ur": "اسکول اسمبلی کی نیوز ہیڈ لائنز، 20 اگست 2026: سرفہرست قومی، بین الاقوامی، کاروباری، کھیلوں کی تازہ ترین خبریں اور دن کا خیال",
+      "desc_ur": "اسکول اسمبلی نیوز ہیڈلائنز: لوک سبھا کے اسپیکر اوم برلا نے بااثر پارلیمانی پینل میں نئے اراکین کا تقرر کیا ہے۔ دریں اثنا، بنگلہ دیش بھارت کے ساتھ تیزی سے کاروباری ویزا اور زیادہ مساوی اقتصادی تعلقات کے لیے زور دے رہا ہے۔ تیل کی جاری سپلائی کے درمیان…"
     },
     {
-      "title": "The 2026 Midterms: What the Democratic Party can learn from the 1986 Midterms",
-      "desc": "As the US heads towards the November midterm elections, progressive Democrats like Zohran Mamdani in New York have been winning elections and like Abdul El-Sayed in Michigan, Democratic primary contests. But should the Democratic Party now take these victorie…",
-      "source": "Lse.ac.uk",
-      "url": "https://blogs.lse.ac.uk/usappblog/2026/08/19/the-2026-midterms-what-the-democratic-party-can-learn-from-the-1986-midterms/",
-      "time": "2026-08-19T11:00:00",
+      "title": "Wednesday: Hili dialogue",
+      "desc": "Welcome to a Hump Day (“Küürupäev” in Estonian), August 19, 2026, and National Hot and Spicy Food Day. Here’s my heartthrob Jennifer Lawrence tasting and commenting on a row of increasingly spicy chicken wings. She cries in pain when she gets to the really ho…",
+      "source": "Whyevolutionistrue.com",
+      "url": "https://whyevolutionistrue.com/2026/08/19/wednesday-hili-dialogue-594/",
+      "time": "2026-08-19T11:45:51",
       "country": "US",
-      "title_ur": "2026 کے وسط مدتی: ڈیموکریٹک پارٹی 1986 کے وسط مدتی سے کیا سیکھ سکتی ہے",
-      "desc_ur": "جیسا کہ امریکہ نومبر کے وسط مدتی انتخابات کی طرف بڑھ رہا ہے، نیویارک میں ظہران ممدانی جیسے ترقی پسند ڈیموکریٹس اور مشی گن میں عبد السید کی طرح ڈیموکریٹک پرائمری مقابلے جیت رہے ہیں۔ لیکن کیا اب ڈیموکریٹک پارٹی کو یہ فتح حاصل کرنی چاہیے؟"
+      "title_ur": "بدھ: ہلی ڈائیلاگ",
+      "desc_ur": "ہمپ ڈے (اسٹونین میں \"Küürupäev\")، 19 اگست 2026، اور قومی گرم اور مسالہ دار کھانے کے دن میں خوش آمدید۔ یہ ہے میری دل کی دھڑکن جینیفر لارنس چکھ رہی ہے اور تیزی سے مسالیدار چکن کے پروں کی ایک قطار پر تبصرہ کر رہی ہے۔ جب وہ واقعی ہو کو پہنچتی ہے تو وہ درد سے روتی ہے…"
     },
     {
-      "title": "UNICEF report didn't disprove famine in Gaza, contrary to claims",
-      "desc": "The July 2026 report found child malnutrition in Gaza has fallen largely because of humanitarian aid assistance.",
-      "source": "Snopes.com",
-      "url": "https://www.snopes.com//fact-check/gaza-famine-unicef-date/",
-      "time": "2026-08-19T11:00:00",
+      "title": "Palestinians condemn Israeli step to advance illegal E1 settlement plan",
+      "desc": "Israeli government issues tender for more than 1,200 housing units as part of illegal E1 settlement project.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/8/19/palestinians-condemn-israeli-step-to-advance-illegal-e1-settlement-plan",
+      "time": "2026-08-19T11:45:21",
       "country": "Israel",
-      "title_ur": "یونیسیف کی رپورٹ دعووں کے برعکس غزہ میں قحط کو غلط ثابت نہیں کرتی",
-      "desc_ur": "جولائی 2026 کی رپورٹ میں بتایا گیا ہے کہ غزہ میں بچوں کی غذائیت کی کمی بڑی حد تک انسانی امداد کی وجہ سے ہوئی ہے۔"
+      "title_ur": "فلسطینیوں نے غیر قانونی E1 آباد کاری کے منصوبے کو آگے بڑھانے کے لیے اسرائیلی اقدام کی مذمت کی ہے۔",
+      "desc_ur": "اسرائیلی حکومت غیر قانونی E1 سیٹلمنٹ پروجیکٹ کے حصے کے طور پر 1,200 سے زیادہ ہاؤسنگ یونٹس کے لیے ٹینڈر جاری کرتی ہے۔"
     },
     {
-      "title": "ZIM Reports Strong Results for the Second Quarter of 2026, Benefiting from its Leading Transpacific Position, Agile Commercial Approach and Efficient Cost Structure",
-      "desc": "Revenues Up +9% to $1.8bn, and Net Income Up +170% to $64m, y-o-y Q2 EBITDA and Net Income, adjusted for costs related to the pending Hapag-Lloyd transaction, up +4% to $491m and +226% to $77m, y-o-y, respectively Positive H1 Adjusted Net Income with signific…",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/zim-reports-strong-results-for-the-second-quarter-of-2026-benefiting-from-its-leading-transpacific-position-agile-commercial-approach-and-efficient-cost-structure-302855083.html",
-      "time": "2026-08-19T11:00:00",
+      "title": "Spoiled Rotten Donald Trump Can't Buy His Way Out of the Mess He Made When He Started War With Iran",
+      "desc": "US President Donald Trump, born with a golden spoon in his mouth, has been used throughout his life to buying his way out of any jams into which he got himself. He gave money to women (and probably girls) he assaulted in return for non-disclosure agreements. …",
+      "source": "Common Dreams",
+      "url": "https://www.commondreams.org/opinion/trump-iran-war-disaster-2677721162",
+      "time": "2026-08-19T11:45:01",
+      "country": "Iran",
+      "title_ur": "بگڑے ہوئے بوسیدہ ڈونلڈ ٹرمپ اس گندگی سے باہر نکلنے کا راستہ نہیں خرید سکتے جو اس نے ایران کے ساتھ جنگ ​​شروع کرتے وقت کی تھی۔",
+      "desc_ur": "امریکی صدر ڈونلڈ ٹرمپ، جو منہ میں سونے کا چمچ لے کر پیدا ہوئے ہیں، اپنی زندگی بھر کسی بھی ایسے جام سے نکلنے کے لیے استعمال ہوتے رہے ہیں جس میں وہ خود آ گئے تھے۔ اس نے خواتین (اور شاید لڑکیوں) کو رقم دی جس کے بدلے میں اس نے عدم انکشاف کے معاہدوں پر حملہ کیا۔ …"
+    },
+    {
+      "title": "Bokaro Police Arrest Six for Series of Chas Burglaries, Recover Loot",
+      "desc": "Six men arrested in Bokaro’s Chas for night burglaries on July 22, Aug 11 & 15; police recovered seven stolen phones, jewellery and cash.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/ranchi/bokaro-police-arrest-six-for-series-of-chas-burglaries-recover-loot/articleshow/133347243.cms",
+      "time": "2026-08-19T11:44:53",
+      "country": "International",
+      "title_ur": "بوکارو پولیس نے چاس چوری کی سیریز کے لیے چھ کو گرفتار کیا، لوٹی ہوئی رقم برآمد",
+      "desc_ur": "بوکارو کے چاس میں 22 جولائی، 11 اور 15 اگست کو رات کی چوری کے الزام میں چھ افراد کو گرفتار کیا گیا۔ پولیس نے سات چوری شدہ فونز، زیورات اور نقدی برآمد کی۔"
+    },
+    {
+      "title": "Govt nod for kambala during Mysuru Dasara on Oct 18, 19",
+      "desc": "Kambala buffalo race gets state approval for Mysuru Dasara on Oct 18-19; ZP CEO to lead sub-committee as Sathagalli slush track work continues.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/mysuru/govt-nod-for-kambala-during-mysuru-dasara-on-oct-18-19/articleshow/133347240.cms",
+      "time": "2026-08-19T11:44:39",
       "country": "US",
-      "title_ur": "ZIM نے 2026 کی دوسری سہ ماہی کے لیے مضبوط نتائج کی اطلاع دی ہے، اس کی معروف ٹرانس پیسفک پوزیشن، چست تجارتی نقطہ نظر اور لاگت کے موثر ڈھانچے سے فائدہ اٹھاتے ہوئے",
-      "desc_ur": "آمدنی +9% سے $1.8bn تک، اور خالص آمدنی +170% سے $64m تک، y-o-y Q2 EBITDA اور خالص آمدنی، زیر التواء Hapag-Lloyd ٹرانزیکشن سے متعلق اخراجات کے لیے ایڈجسٹ، 4% سے $491m تک اور +226% سے $77m تک، بالترتیب H-170 لاکھ سے زیادہ اہم کے ساتھ…"
+      "title_ur": "18 اکتوبر 19 کو میسور دسارا کے دوران کمبالا کے لیے حکومت کی منظوری",
+      "desc_ur": "کمبالا بھینسوں کی دوڑ کو میسور دسارا کے لیے 18-19 اکتوبر کو ریاستی منظوری مل گئی۔ ZP کے سی ای او ذیلی کمیٹی کی قیادت کریں گے کیونکہ ستھاگلی سلش ٹریک کا کام جاری ہے۔"
+    },
+    {
+      "title": "From a Rs 100 lure to murder for testicles: How Bhopal gang led by BBA student found its victim",
+      "desc": "A social media hoax about selling human testicles for crores allegedly inspired a murder. Police identified a BBA student as the mastermind who convinced others of the false claim. The 16-year-old victim was lured away and fatally stabbed, with his testicles …",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/bhopal/from-a-rs-100-lure-to-murder-for-testicles-how-bhopal-gang-led-by-bba-student-found-its-victim/articleshow/133347088.cms",
+      "time": "2026-08-19T11:44:32",
+      "country": "International",
+      "title_ur": "خصیوں کے لیے 100 روپے کے لالچ سے قتل تک: بی بی اے کے طالب علم کی قیادت میں بھوپال گینگ نے اپنا شکار کیسے پایا",
+      "desc_ur": "انسانی خصیوں کو کروڑوں میں فروخت کرنے کے بارے میں سوشل میڈیا پر ایک دھوکہ دہی مبینہ طور پر ایک قتل کو متاثر کرتی ہے۔ پولیس نے بی بی اے کے ایک طالب علم کو ماسٹر مائنڈ کے طور پر شناخت کیا جس نے جھوٹے دعوے پر دوسروں کو قائل کیا۔ 16 سالہ متاثرہ کو لالچ دے کر اس کے خصیوں کے ساتھ موت کے گھاٹ اتار دیا گیا…"
+    },
+    {
+      "title": "What Will Watson Do Wednesday?",
+      "desc": "The US president's War on Iran continues to expand, with Iran reportedly weighing an attack on US targets in Europe. \n- The Energies sector led the commodity complex higher overnight through early Wednesday morning, as expected. \n- Grains were mostly higher t…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/8cc02414349d3eb7",
+      "time": "2026-08-19T11:44:08",
+      "country": "Iran",
+      "title_ur": "واٹسن بدھ کو کیا کرے گا؟",
+      "desc_ur": "ایران کے خلاف امریکی صدر کی جنگ میں توسیع ہوتی جا رہی ہے، ایران مبینہ طور پر یورپ میں امریکی اہداف پر حملہ کرنے کا سوچ رہا ہے۔ \n- توانائی کے شعبے نے توقع کے مطابق بدھ کی صبح تک کموڈٹی کمپلیکس کو راتوں رات اونچا کردیا۔ \n- دانے زیادہ تر زیادہ تھے…"
+    },
+    {
+      "title": "Israeli military to open criminal probes into 2 Gaza attacks",
+      "desc": "The investigations will focus on the killings of 5-year-old Palestinian girl Hind ⁠Rajab and 15 emergency aid workers in Gaza. The decision came after a review of 150 incidents concerning the conduct of Israeli troops.",
+      "source": "DW (English)",
+      "url": "https://www.dw.com/en/israel-idf-gaza-criminal-investigation-hind-rajab-un-msf-wck/a-78429726",
+      "time": "2026-08-19T11:44:00",
+      "country": "Israel",
+      "title_ur": "اسرائیلی فوج غزہ کے 2 حملوں کی مجرمانہ تحقیقات شروع کرے گی۔",
+      "desc_ur": "تحقیقات غزہ میں 5 سالہ فلسطینی لڑکی ہند رجب اور 15 ہنگامی امدادی کارکنوں کے قتل پر مرکوز ہوں گی۔ یہ فیصلہ اسرائیلی فوجیوں کے طرز عمل سے متعلق 150 واقعات کا جائزہ لینے کے بعد سامنے آیا ہے۔"
+    },
+    {
+      "title": "\"I never felt fully proud\": YouTuber Eden Masliah owns a $740,000 N.Y.C. apartment at 21, yet struggles to call it her accomplishment",
+      "desc": "YouTuber Eden Masliah, 21, has purchased a $740,000 two-bedroom N.Y.C. apartment after saving about $250,000 from her content career and using money left by her late father for an investment. Although the purchase marks a major milestone, Masliah admits she s…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/us-streamers/i-never-felt-fully-proud-youtuber-eden-masliah-owns-a-740000-n-y-c-apartment-at-21-yet-struggles-to-call-it-her-accomplishment/articleshow/133346891.cms",
+      "time": "2026-08-19T11:43:25",
+      "country": "US",
+      "title_ur": "\"میں نے کبھی بھی مکمل طور پر فخر محسوس نہیں کیا\": YouTuber ایڈن مصلیہ $740,000 NY.C کا مالک ہے۔ 21 پر اپارٹمنٹ، پھر بھی اسے اپنی کامیابی قرار دینے کے لیے جدوجہد کر رہی ہے۔",
+      "desc_ur": "21 سالہ YouTuber ایڈن مصلیہ نے 740,000 ڈالر کا دو بیڈ روم NYC خریدا ہے۔ اپنے کنٹینٹ کیریئر سے تقریباً 250,000 ڈالر کی بچت کرنے اور اپنے مرحوم والد کی طرف سے سرمایہ کاری کے لیے چھوڑی ہوئی رقم استعمال کرنے کے بعد اپارٹمنٹ۔ اگرچہ یہ خریداری ایک اہم سنگ میل کی نشاندہی کرتی ہے، مصلیحہ نے اعتراف کیا کہ وہ…"
     }
   ],
   "pakistan": [
     {
-      "title": "Glamorgan re-sign Pakistan seamer Hamza",
-      "desc": "Glamorgan re-sign Pakistan bowler Mir Hamza has signed for the final five games of the County Championship season.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/sport/cricket/articles/c9v4zg72exeo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "time": "2026-08-19T11:16:31",
+      "title": "Pakistan challenges top court order to move Imran Khan to private hospital",
+      "desc": "Government files a review of Supreme Court order, arguing that the jailed ex-PM should be examined at a public hospital.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/8/19/pakistan-challenges-top-court-order-to-move-imran-khan-to-private-hospital",
+      "time": "2026-08-19T11:47:35",
       "country": "Pakistan",
-      "title_ur": "گلیمورگن نے پاکستانی فاسٹ باؤلر حمزہ کو دوبارہ سائن کر لیا۔",
-      "desc_ur": "گلیمورگن نے پاکستانی باؤلر میر حمزہ کو کاؤنٹی چیمپئن شپ سیزن کے آخری پانچ میچوں کے لیے دوبارہ سائن کر لیا ہے۔"
+      "title_ur": "پاکستان نے عمران خان کو نجی اسپتال منتقل کرنے کے فیصلے کو سپریم کورٹ میں چیلنج کردیا۔",
+      "desc_ur": "حکومت نے سپریم کورٹ کے حکم پر نظرثانی کی درخواست دائر کرتے ہوئے کہا کہ جیل میں بند سابق وزیر اعظم کا سرکاری اسپتال میں معائنہ کیا جانا چاہیے۔"
     },
     {
-      "title": "Hockey World Cup: Harmanpreet, Abhishek score for India vs Pakistan | IND 2-0 PAK",
-      "desc": "India vs Pakistan Live Score, Hockey World Cup 2026: The India-Pakistan rivalry takes on added significance today as the two neighbours meet in a dec",
+      "title": "CBSE schools in Ranchi prepare to offer Santali from 2026-27",
+      "desc": "CBSE-affiliated schools in Ranchi plan to offer Santali as a language option from 2026-27; DPS starts in Class VI as schools assess demand and resources.",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/sports/hockey/fih-mens-hockey-world-cup-2026-india-vs-pakistan-live-score-pool-d-match-today-live-streaming-time-qualifier-harmanpreet-singh-abu-mahmood/liveblog/133346332.cms",
-      "time": "2026-08-19T11:08:22",
+      "url": "https://timesofindia.indiatimes.com/city/ranchi/cbse-schools-in-ranchi-prepare-to-offer-santali-from-2026-27/articleshow/133347238.cms",
+      "time": "2026-08-19T11:44:35",
       "country": "Pakistan",
-      "title_ur": "ہاکی ورلڈ کپ: بھارت بمقابلہ پاکستان کے لیے ہرمن پریت اور ابھیشیک سکور | IND 2-0 پاک",
-      "desc_ur": "ہندوستان بمقابلہ پاکستان لائیو اسکور، ہاکی ورلڈ کپ 2026: ہندوستان اور پاکستان دشمنی آج مزید اہمیت اختیار کر رہی ہے کیونکہ دونوں پڑوسی ایک دسمبر میں ملیں گے۔"
+      "title_ur": "رانچی میں سی بی ایس ای اسکول 2026-27 سے سنتالی پیش کرنے کی تیاری کر رہے ہیں۔",
+      "desc_ur": "رانچی میں سی بی ایس ای سے منسلک اسکول سنتالی کو 2026-27 سے زبان کے اختیار کے طور پر پیش کرنے کا منصوبہ رکھتے ہیں۔ ڈی پی ایس کلاس VI میں شروع ہوتا ہے جب اسکول طلب اور وسائل کا اندازہ لگاتے ہیں۔"
     },
     {
-      "title": "Hockey World Cup: India-Pakistan rivalry takes centre stage in must-win clash",
-      "desc": "India vs Pakistan Live Score, Hockey World Cup 2026: The India-Pakistan rivalry takes on added significance today as the two neighbours meet in a dec",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/sports/hockey/fih-mens-hockey-world-cup-2026-india-vs-pakistan-live-score-pool-d-match-today-schedule-rankings-live-streaming-time-qualifier-points-table-harmanpreet-singh-abu-mahmood/liveblog/133346332.cms",
-      "time": "2026-08-19T11:08:22",
+      "title": "A Good Laugh Can Trigger Sudden Muscle Weakness in Narcolepsy, and Scientists Found a Surprising Brain Mechanism",
+      "desc": "Harvard researchers traced socially triggered cataplexy in narcoleptic mice to oxytocin acting on amygdala neurons that switch off muscle tone.",
+      "source": "Medical Daily",
+      "url": "https://www.medicaldaily.com/oxytocin-cataplexy-narcolepsy-amygdala-477513",
+      "time": "2026-08-19T11:40:00",
       "country": "Pakistan",
-      "title_ur": "ہاکی ورلڈ کپ: بھارت اور پاکستان کی دشمنی لازمی جیتنے والے تصادم میں مرکز میں ہے۔",
-      "desc_ur": "ہندوستان بمقابلہ پاکستان لائیو اسکور، ہاکی ورلڈ کپ 2026: ہندوستان اور پاکستان دشمنی آج مزید اہمیت اختیار کر رہی ہے کیونکہ دونوں پڑوسی ایک دسمبر میں ملیں گے۔"
+      "title_ur": "ایک اچھی ہنسی نارکولیپسی میں پٹھوں کی اچانک کمزوری کو متحرک کر سکتی ہے، اور سائنسدانوں نے دماغ کا ایک حیران کن طریقہ کار پایا",
+      "desc_ur": "ہارورڈ کے محققین نے نشہ آور چوہوں میں سماجی طور پر متحرک کیٹپلیکسی کا سراغ لگایا اور آکسیٹوسن امیگڈالا نیورونز پر کام کرتا ہے جو پٹھوں کے سر کو بند کر دیتے ہیں۔"
+    },
+    {
+      "title": "Pakistan: Could ex-PM Imran Khan make a new deal?",
+      "desc": "The imprisoned former prime minister of Pakistan was moved to a hospital for medical treatment, ushering speculation over the possibility of new political negotiations.",
+      "source": "DW (English)",
+      "url": "https://www.dw.com/en/pakistan-could-ex-pm-imran-khan-make-a-new-deal/a-78429070",
+      "time": "2026-08-19T11:39:00",
+      "country": "Pakistan",
+      "title_ur": "پاکستان: کیا سابق وزیراعظم عمران خان کوئی نئی ڈیل کر سکتے ہیں؟",
+      "desc_ur": "پاکستان کے قید سابق وزیراعظم کو طبی علاج کے لیے ہسپتال منتقل کر دیا گیا، جس سے نئے سیاسی مذاکرات کے امکان پر قیاس آرائیاں شروع ہو گئیں۔"
+    },
+    {
+      "title": "Could Pakistan's jailed ex-PM Imran Khan make a new deal?",
+      "desc": "The imprisoned former prime minister of Pakistan has been moved to a hospital for medical treatment, ushering speculation over the possibility of new political negotiations.",
+      "source": "DW (English)",
+      "url": "https://www.dw.com/en/could-pakistans-jailed-ex-pm-imran-khan-make-a-new-deal/a-78429070",
+      "time": "2026-08-19T11:39:00",
+      "country": "Pakistan",
+      "title_ur": "کیا پاکستان کے جیل میں بند سابق وزیراعظم عمران خان کوئی نئی ڈیل کر سکتے ہیں؟",
+      "desc_ur": "پاکستان کے قید سابق وزیر اعظم کو طبی علاج کے لیے ہسپتال منتقل کر دیا گیا ہے، جس سے نئے سیاسی مذاکرات کے امکان پر قیاس آرائیاں شروع ہو گئی ہیں۔"
+    },
+    {
+      "title": "‘We are Gen-Z, won’t tolerate this nonsense’: Tourist’s rant at Kargil checkpoint goes viral",
+      "desc": "A viral video shows a tourist arguing with security personnel at a Kargil checkpoint. Traffic restrictions were imposed due to the movement of defense officials and the Army chief. The tourist insisted they were not Kashmiris subjected to such delays. Securit…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/srinagar/we-are-gen-z-wont-tolerate-this-nonsense-tourists-rant-at-kargil-checkpoint-goes-viral/articleshow/133346515.cms",
+      "time": "2026-08-19T11:34:32",
+      "country": "Pakistan",
+      "title_ur": "'ہم جنرل زیڈ ہیں، اس بکواس کو برداشت نہیں کریں گے': کارگل چوکی پر سیاحوں کا طعنہ وائرل",
+      "desc_ur": "ایک وائرل ویڈیو میں دکھایا گیا ہے کہ ایک سیاح کارگل چوکی پر سیکورٹی اہلکاروں سے بحث کرتا ہے۔ دفاعی حکام اور آرمی چیف کی نقل و حرکت کے باعث ٹریفک پر پابندیاں لگائی گئیں۔ سیاح نے اصرار کیا کہ وہ کشمیری نہیں ہیں جو اس طرح کی تاخیر کا شکار ہیں۔ سیکورٹی…"
     }
   ],
   "business": {
