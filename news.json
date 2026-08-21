@@ -1,197 +1,217 @@
 {
-  "generated": "2026-08-21T10:02:26Z",
+  "generated": "2026-08-21T10:56:01Z",
   "world": [
     {
-      "title": "Biden admin released illegal immigrant accused of fatally stabbing Fairfax County mother",
-      "desc": "A federal source says the Fairfax County stabbing suspect is a Salvadoran illegal immigrant caught and released at the border during the Biden era.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/biden-admin-released-illegal-immigrant-accused-fatally-stabbing-fairfax-county-mother",
-      "time": "2026-08-20T10:00:59",
-      "country": "US",
-      "title_ur": "بائیڈن ایڈمن نے فیئر فیکس کاؤنٹی کی ماں کو جان لیوا چھرا گھونپنے کے الزام میں غیر قانونی تارکین وطن کو رہا کر دیا۔",
-      "desc_ur": "ایک وفاقی ذریعہ کا کہنا ہے کہ فیئر فیکس کاؤنٹی میں چھرا گھونپنے والا مشتبہ شخص سالواڈور کا ایک غیر قانونی تارک وطن ہے جسے بائیڈن کے دور میں سرحد پر پکڑ کر چھوڑ دیا گیا تھا۔"
-    },
-    {
-      "title": "Trump reveals exact number of North Korea's nuclear weapons",
-      "desc": "Trump cited 57 nuclear weapons in North Korea's arsenal, marking the first time a U.S. official has publicly put an exact number on Pyongyang's stockpile.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/trump-reveals-exact-number-north-koreas-nuclear-weapons",
-      "time": "2026-08-20T10:00:34",
-      "country": "US",
-      "title_ur": "ٹرمپ نے شمالی کوریا کے جوہری ہتھیاروں کی صحیح تعداد بتا دی۔",
-      "desc_ur": "ٹرمپ نے شمالی کوریا کے ہتھیاروں میں موجود 57 جوہری ہتھیاروں کا حوالہ دیا، یہ پہلی مرتبہ ہے کہ کسی امریکی اہلکار نے عوامی طور پر پیانگ یانگ کے ذخیرے کے بارے میں درست تعداد بتائی ہے۔"
-    },
-    {
-      "title": "Prime Video To Tell Gary Lineker’s Life Story In Docu-Series",
-      "desc": "Prime Video is to tell the story of footballer-turned-broadcaster Gary Lineker. A four-part miniseries, Lineker, will look at his 50-year career, which has mostly recently seen him become a media and entertainment business owner through his successful podcast…",
-      "source": "Deadline",
-      "url": "http://deadline.com/2026/08/prime-video-gary-lineker-documentary-series-1237046098/",
-      "time": "2026-08-20T10:00:27",
-      "country": "US",
-      "title_ur": "دستاویز سیریز میں گیری لائنکر کی زندگی کی کہانی سنانے کے لیے پرائم ویڈیو",
-      "desc_ur": "پرائم ویڈیو فٹبالر سے براڈکاسٹر بنے گیری لائنکر کی کہانی سنانے کے لیے ہے۔ چار حصوں پر مشتمل ایک منیسیریز، لائنکر، اپنے 50 سالہ کیریئر پر نظر ڈالے گی، جس نے حال ہی میں اسے اپنے کامیاب پوڈ کاسٹ کے ذریعے میڈیا اور تفریحی کاروبار کا مالک بنتے دیکھا ہے۔"
-    },
-    {
-      "title": "IDF drills for nightmare scenarios in Judea and Samaria",
-      "desc": "IDF troops simulate simultaneous attacks, mass-casualty incidents and threats to Israeli communities in major exercises focused on northern Samaria.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/431985",
-      "time": "2026-08-20T10:00:17",
-      "country": "Israel",
-      "title_ur": "یہودیہ اور سامریہ میں ڈراؤنے خواب کے منظرناموں کے لیے IDF کی مشق",
-      "desc_ur": "آئی ڈی ایف کے دستے شمالی سامریہ پر مرکوز بڑی مشقوں میں بیک وقت حملوں، بڑے پیمانے پر ہلاکتوں کے واقعات اور اسرائیلی برادریوں کو درپیش خطرات کی نقل کرتے ہیں۔"
-    },
-    {
-      "title": "Danica McKellar and Matthew Marsden to Star in The Greatest Christmas Gift for World Premiere Streams FIRST on Great American Pure Flix This Holiday Season",
-      "desc": "NEW YORK, Aug. 20, 2026 /PRNewswire/ -- Great American Media today announced The Greatest Christmas Gift, an all-new Great American Christmas Original, starring Danica McKellar and Matthew Marsden. The film will have its World Premiere streaming on Great Amer…",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/danica-mckellar-and-matthew-marsden-to-star-in-the-greatest-christmas-gift-for-world-premiere-streams-first-on-great-american-pure-flix-this-holiday-season-302855904.html",
-      "time": "2026-08-20T10:00:00",
-      "country": "US",
-      "title_ur": "ڈینیکا میک کیلر اور میتھیو مارسڈن اس چھٹی کے سیزن میں گریٹ امریکن پیور فلکس پر پہلی بار ورلڈ پریمیئر کے لیے کرسمس کے عظیم تحفے میں کام کریں گے۔",
-      "desc_ur": "نیو یارک، 20 اگست، 2026/پی آرنیوزوائر/ -- عظیم امریکی میڈیا نے آج دی گریٹسٹ کرسمس گفٹ کا اعلان کیا، ایک بالکل نیا عظیم امریکی کرسمس اوریجنل، جس میں ڈینیکا میک کیلر اور میتھیو مارسڈن اداکاری کر رہے ہیں۔ اس فلم کا ورلڈ پریمیئر گریٹ عامر پر ہوگا…"
-    },
-    {
-      "title": "Updated ToxicPanda Variant Targets 140+ Banking and Crypto Apps",
-      "desc": "Zimperium lifts the lid on the ToxicPanda 2.0 Android banking Trojan",
-      "source": "Infosecurity Magazine",
-      "url": "https://www.infosecurity-magazine.com/news/updated-toxicpanda-140-banking/",
-      "time": "2026-08-20T10:00:00",
+      "title": "National debt hits $40 trillion and Prince Harry and Meghan to move to U.K.: Morning Rundown",
+      "desc": "The national debt hits $40 trillion with no slowing down in sight.",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/national-debt-40-trillion-prince-harry-meghan-morning-rundown-rcna593492",
+      "time": "2026-08-20T10:54:46",
       "country": "International",
-      "title_ur": "تازہ ترین ToxicPanda ویریئنٹ ٹارگٹ 140+ بینکنگ اور کرپٹو ایپس",
-      "desc_ur": "Zimperium ToxicPanda 2.0 Android Banking Trojan پر ڑککن اٹھاتا ہے۔"
+      "title_ur": "قومی قرض 40 ٹریلین ڈالر تک پہنچ گیا اور پرنس ہیری اور میگھن یوکے چلے گئے: مارننگ رن ڈاؤن",
+      "desc_ur": "قومی قرضہ 40 ٹریلین ڈالر تک پہنچ گیا جس میں کوئی کمی نظر نہیں آتی۔"
     },
     {
-      "title": "After Six Months of War, Trump Is Still Losing to Iran",
-      "desc": "Ishaan Tharoor writes about the state of President Donald Trump’s war in Iran six months after its beginning.",
-      "source": "The New Yorker",
-      "url": "https://www.newyorker.com/news/global-notes/after-six-months-of-war-trump-is-still-losing-to-iran",
-      "time": "2026-08-20T10:00:00",
+      "title": "Iran War: Further Admission of Weakness With New Super Duper Trump Sanctions Threat; Israel Moves Against Turkiye Risk Broader Conflagration; Bessent at Odds with Fed in Move to Contain Longer-Dated Treasury Yields",
+      "desc": "Today's Iran war news: More proof of Trump impotence via sanctions huffing and puffing, plus Bessent weirdly going to war with the Fed.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/?p=315155",
+      "time": "2026-08-20T10:54:03",
       "country": "Iran",
-      "title_ur": "چھ ماہ کی جنگ کے بعد بھی ٹرمپ ایران سے ہار رہے ہیں۔",
-      "desc_ur": "ایشان تھرور ایران میں صدر ڈونلڈ ٹرمپ کی جنگ شروع ہونے کے چھ ماہ بعد کی حالت کے بارے میں لکھتے ہیں۔"
+      "title_ur": "ایران جنگ: نئی سپر ڈوپر ٹرمپ پابندیوں کی دھمکی کے ساتھ کمزوری کا مزید اعتراف؛ اسرائیل نے ترکی میں وسیع تر تصادم کے خطرے کے خلاف پیش قدمی کی۔ لمبے تاریخ والے ٹریژری کی پیداوار پر مشتمل فیڈ کے ساتھ مشکلات پر بیسنٹ",
+      "desc_ur": "آج کی ایران جنگ کی خبریں: پابندیوں کے ذریعے ٹرمپ کی نامردی کا مزید ثبوت، نیز بیسنٹ عجیب طور پر فیڈ کے ساتھ جنگ ​​میں جا رہا ہے۔"
     },
     {
-      "title": "The DSA Reckons With a Leader Going Viral for All the Wrong Reasons",
-      "desc": "The verdict was swift and unequivocal: Megan Romer’s interview with New Yorker editor David Remnick was a disaster for the Democratic Socialists of America, of which Romer is the national co-chair. And it wasn’t just the likes of the notoriously anti-DSA New …",
-      "source": "The New Republic",
-      "url": "https://newrepublic.com/article/214513/democatic-socialists-america-megan-romer-interview-new-yorker-fox-news",
-      "time": "2026-08-20T10:00:00",
-      "country": "US",
-      "title_ur": "DSA تمام غلط وجوہات کی بناء پر وائرل ہونے والے لیڈر کے ساتھ شمار کرتا ہے۔",
-      "desc_ur": "فیصلہ تیز اور غیر واضح تھا: نیو یارک کے ایڈیٹر ڈیوڈ ریمنک کے ساتھ میگن رومر کا انٹرویو امریکہ کے ڈیموکریٹک سوشلسٹوں کے لیے ایک تباہی تھا، جس میں رومر قومی شریک چیئرمین ہیں۔ اور یہ صرف بدنام زمانہ اینٹی ڈی ایس اے نیو کی پسند نہیں تھا…"
+      "title": "Israeli military launches criminal probes into killings of 5-year-old and paramedics - NPR",
+      "desc": "Israeli military launches criminal probes into killings of 5-year-old and paramedicsNPR Israeli military admits for first time to firing on car carrying 5-year-old Hind Rajab, opens criminal probeCNN First Thing: Israel admits its soldiers opened fire at car …",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185065640",
+      "time": "2026-08-20T10:53:12",
+      "country": "Israel",
+      "title_ur": "اسرائیلی فوج نے 5 سالہ بچے اور نیم طبی عملے کے قتل کی مجرمانہ تحقیقات کا آغاز کیا - NPR",
+      "desc_ur": "اسرائیلی فوج نے 5 سالہ بچے اور پیرامیڈیکس کے قتل کی مجرمانہ تحقیقات شروع کر دیںNPR اسرائیلی فوج نے پہلی بار 5 سالہ ہند رجب کو لے جانے والی کار پر فائرنگ کرنے کا اعتراف کیا، مجرمانہ تحقیقات کا آغاز کیا سی این این پہلی بات: اسرائیل نے اعتراف کیا کہ اس کے فوجیوں نے کار پر فائرنگ کی…"
     },
     {
-      "title": "U.S. And EU Welcome Peace Progress Between Armenia And Azerbaijan",
-      "desc": "One year after the Washington peace summit, the United States and the European Union have welcomed Armenia’s and Azerbaijan’s progress toward peace.",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/marktemnycky/2026/08/20/us-and-eu-welcome-peace-progress-between-armenia-and-azerbaijan/",
-      "time": "2026-08-20T10:00:00",
-      "country": "US",
-      "title_ur": "امریکہ اور یورپی یونین نے آرمینیا اور آذربائیجان کے درمیان امن پیش رفت کا خیرمقدم کیا۔",
-      "desc_ur": "واشنگٹن امن سربراہی اجلاس کے ایک سال بعد، امریکہ اور یورپی یونین نے امن کی جانب آرمینیا اور آذربائیجان کی پیش رفت کا خیرمقدم کیا ہے۔"
+      "title": "Don't wait for a French-speaking cavalry to end the occupation",
+      "desc": "The collapse of democratic Israel and the rise of a brutal Israel arouse not only anxiety, anger and disappointment, but also a measure of unconscious gratification",
+      "source": "Haaretz",
+      "url": "https://www.haaretz.com/opinion/2026-08-20/ty-article-opinion/.premium/dont-wait-for-a-french-speaking-cavalry-to-end-the-occupation/000001a0-1a3d-df5c-afeb-bbbd51c50000",
+      "time": "2026-08-20T10:50:21",
+      "country": "Israel",
+      "title_ur": "قبضے کو ختم کرنے کے لیے فرانسیسی بولنے والے گھڑسوار فوج کا انتظار نہ کریں۔",
+      "desc_ur": "جمہوری اسرائیل کا خاتمہ اور سفاک اسرائیل کا عروج نہ صرف بے چینی، غصہ اور مایوسی کو جنم دیتا ہے بلکہ لاشعوری تسکین کا ایک پیمانہ بھی ہے۔"
     },
     {
-      "title": "Two Years Ago, They Revered Trump; Now, They Ridicule and Revile Him",
-      "desc": "Donald Trump has lost his war in\nreality and virtual reality, not only with Iran but also in the arena where he\nthought he was the eternal master, in image and myth. He has lost it on land,\nsea and air—and in thin air. He has lost his war both physically and\n…",
-      "source": "The New Republic",
-      "url": "https://newrepublic.com/article/214508/trump-manosphere-ridicule-revile",
-      "time": "2026-08-20T10:00:00",
+      "title": "ICC makes U-turn on Gaddafi Stadium pitch demerit point",
+      "desc": "The ICC has withdrawn the demerit point given to Lahore’s Gaddafi Stadium pitch after reviewing an appeal by the PCB. The Appeals Panel examined match footage, referee reports and captains’ comments before finding the pitch satisfactory. It said the surface d…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/icc-makes-u-turn-on-gaddafi-stadium-pitch-demerit-point/articleshow/133374469.cms",
+      "time": "2026-08-20T10:50:10",
+      "country": "International",
+      "title_ur": "آئی سی سی نے قذافی سٹیڈیم کی پچ ڈیمیرٹ پوائنٹ پر یو ٹرن لے لیا۔",
+      "desc_ur": "آئی سی سی نے پی سی بی کی اپیل کا جائزہ لینے کے بعد لاہور کے قذافی اسٹیڈیم کی پچ کو دیا گیا ڈیمیرٹ پوائنٹ واپس لے لیا ہے۔ اپیل پینل نے پچ کو تسلی بخش پانے سے پہلے میچ کی فوٹیج، ریفری رپورٹس اور کپتانوں کے تبصروں کا جائزہ لیا۔ اس نے کہا کہ سطح ڈی…"
+    },
+    {
+      "title": "The Navy’s Ships Risk Wearing Out in the Iran War",
+      "desc": "“After nearly six months in a fast-paced, unplanned war with Iran, the parts onboard the Navy’s aircraft carriers are at risk of wearing out. That includes the plumbing and air-conditioning systems, catapults that launch fighter jets and the gear that catches…",
+      "source": "Politicalwire.com",
+      "url": "https://politicalwire.com/2026/08/20/the-navys-ships-risk-wearing-out-in-the-iran-war/",
+      "time": "2026-08-20T10:48:00",
       "country": "Iran",
-      "title_ur": "دو سال پہلے، وہ ٹرمپ کی عزت کرتے تھے۔ اب، وہ اُس کا مذاق اُڑاتے ہیں اور اُس کی توہین کرتے ہیں۔",
-      "desc_ur": "ڈونلڈ ٹرمپ اپنی جنگ ہار چکے ہیں۔\nحقیقت اور مجازی حقیقت، نہ صرف ایران کے ساتھ بلکہ اس میدان میں بھی جہاں وہ\nسوچا کہ وہ ابدی مالک ہے، تصویر اور افسانہ میں۔ اس نے اسے زمین پر کھو دیا ہے،\nسمندر اور ہوا — اور پتلی ہوا میں۔ وہ اپنی جنگ جسمانی اور دونوں طرح سے ہار چکا ہے۔\n…"
+      "title_ur": "ایران کی جنگ میں بحریہ کے جہازوں کا خطرہ ختم ہو رہا ہے۔",
+      "desc_ur": "\"ایران کے ساتھ تقریباً چھ ماہ کی تیز رفتار، غیر منصوبہ بند جنگ کے بعد، بحریہ کے طیارہ بردار بحری جہاز کے پرزے ختم ہونے کے خطرے سے دوچار ہیں۔ اس میں پلمبنگ اور ایئر کنڈیشننگ سسٹم، جنگی طیاروں کو لانچ کرنے والے کیٹپلٹس اور پکڑنے والے گیئر شامل ہیں…"
     },
     {
-      "title": "Has Trump Lost His Fear of Markets?",
-      "desc": "Since January 2025, a reigning principle of global markets has been something called TACO. TACO stands for “Trump Always Chickens Out,” meaning whenever Trump does something stupid that creates financial instability, an adverse market reaction can be counted …",
-      "source": "The New Republic",
-      "url": "https://newrepublic.com/article/214535/trump-iran-bond-markets-taco",
-      "time": "2026-08-20T10:00:00",
-      "country": "US",
-      "title_ur": "کیا ٹرمپ نے بازاروں کا خوف کھو دیا ہے؟",
-      "desc_ur": "جنوری 2025 سے، عالمی منڈیوں کا ایک راج کرنے والا اصول ہے جسے TACO کہا جاتا ہے۔ TACO کا مطلب ہے \"Trump Always Chickens Out\"، یعنی جب بھی ٹرمپ کوئی احمقانہ کام کرتا ہے جس سے مالی عدم استحکام پیدا ہوتا ہے، تو مارکیٹ کے منفی ردعمل کو شمار کیا جا سکتا ہے…"
+      "title": "North Korea fires about 10 short-range ballistic missiles toward sea, South Korea says",
+      "desc": "The military said the missiles were launched toward North Korea’s eastern waters.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/20/world-news/north-korea-fires-about-10-short-range-ballistic-missiles-toward-sea-south-korea-says/",
+      "time": "2026-08-20T10:47:37",
+      "country": "International",
+      "title_ur": "جنوبی کوریا کا کہنا ہے کہ شمالی کوریا نے سمندر کی طرف کم فاصلے تک مار کرنے والے تقریباً 10 بیلسٹک میزائل فائر کیے ہیں۔",
+      "desc_ur": "فوج کا کہنا ہے کہ میزائل شمالی کوریا کے مشرقی پانیوں کی طرف داغے گئے تھے۔"
     },
     {
-      "title": "Strait of Hormuz Latest: US Says Waterway Open as Iran Loses Ground Amid Naval Blockade Standoff",
-      "desc": "The Strait of Hormuz remains a focal point of U.S.-Iran tensions, with naval blockades, attacks on vessels, and diplomatic uncertainty impacting global oil and gas trade.",
-      "source": "Ibtimes.com.au",
-      "url": "https://www.ibtimes.com.au/escalating-tensions-strait-hormuz-us-iran-standoff-1874306",
-      "time": "2026-08-20T09:59:52",
-      "country": "Iran",
-      "title_ur": "آبنائے ہرمز تازہ ترین: امریکہ کا کہنا ہے کہ آبی گزرگاہ کھلی ہے کیونکہ ایران بحری ناکہ بندی کے تعطل کے درمیان زمین کھو بیٹھا ہے۔",
-      "desc_ur": "بحری ناکہ بندیوں، جہازوں پر حملوں اور تیل اور گیس کی عالمی تجارت کو متاثر کرنے والی سفارتی غیر یقینی صورتحال کے ساتھ آبنائے ہرمز امریکہ اور ایران کے درمیان کشیدگی کا ایک مرکز بنی ہوئی ہے۔"
+      "title": "Bessent’s $4 billion bond plan is like ‘rearranging deckchairs on the Titanic given the U.S. national debt of $40 trillion,’ ING says",
+      "desc": "Everything you need to know before you reach the office this morning.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/20/scott-bessent-us-treasury-4-billion-bond-buyback-plan-rearranging-deckchairs-on-the-titanic-ing/",
+      "time": "2026-08-20T10:47:12",
+      "country": "International",
+      "title_ur": "آئی این جی کا کہنا ہے کہ بیسنٹ کا 4 بلین ڈالر کا بانڈ پلان 'ٹائٹینک پر ڈیک چیئرز کو دوبارہ ترتیب دینے جیسا ہے جس میں 40 ٹریلین ڈالر کا امریکی قومی قرض ہے'۔",
+      "desc_ur": "ہر وہ چیز جو آپ کو آج صبح دفتر پہنچنے سے پہلے جاننے کی ضرورت ہے۔"
     },
     {
-      "title": "Israel: No reconstruction in Gaza until Hamas is disarmed",
-      "desc": "Israeli Prime Minister Benjamin Netanyahu's office issued a short statement on Thursday, reiterating that Israel will not allow the reconstruction in the Gaza Strip to begin until Hamas is completely ...",
+      "title": "Barometers end with substantial gains; Nifty settles above 24,200",
+      "desc": "As per provisional closing data, the barometer index, the S&P BSE Sensex surged 628.04 points or 0.82% to 77,537.72. The Nifty 50 index gained 153.55 points or 0.64% to 24,231.85. Over the past four consecutive trading sessions, the Sensex declined 1.49%, whi…",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/markets/capital-market-news/barometers-end-with-substantial-gains-nifty-settles-above-24-200-126082000835_1.html",
+      "time": "2026-08-20T10:46:10",
+      "country": "International",
+      "title_ur": "بیرومیٹر کافی فوائد کے ساتھ ختم ہوتے ہیں۔ نفٹی 24,200 سے اوپر جا کر آباد ہے۔",
+      "desc_ur": "عارضی اختتامی اعداد و شمار کے مطابق، بیرومیٹر انڈیکس، ایس اینڈ پی بی ایس ای سینسیکس 628.04 پوائنٹس یا 0.82 فیصد بڑھ کر 77,537.72 پر پہنچ گیا۔ نفٹی 50 انڈیکس 153.55 پوائنٹس یا 0.64 فیصد بڑھ کر 24,231.85 پر پہنچ گیا۔ پچھلے چار مسلسل تجارتی سیشنوں کے دوران، سینسیکس میں 1.49 فیصد کمی واقع ہوئی، جہاں…"
+    },
+    {
+      "title": "Iran to US: We're watching your every move",
+      "desc": "Iranian Parliament's National Security Committee head Ebrahim Azizi warned the United States on Thursday that Tehran is \"watching\" Washington's \"every move,\" as tensions rose again following US Presid...",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/785cbdfcc67af35d",
-      "time": "2026-08-20T09:57:26",
+      "url": "https://biztoc.com/x/6f3ac555ac361f7e",
+      "time": "2026-08-20T10:43:08",
+      "country": "Iran",
+      "title_ur": "ایران سے امریکہ: ہم آپ کی ہر حرکت پر نظر رکھے ہوئے ہیں۔",
+      "desc_ur": "ایرانی پارلیمنٹ کی قومی سلامتی کمیٹی کے سربراہ ابراہیم عزیزی نے جمعرات کے روز امریکہ کو خبردار کیا کہ تہران واشنگٹن کے \"ہر اقدام\" پر نظر رکھے ہوئے ہے، کیونکہ امریکی صدر کے بعد کشیدگی میں ایک بار پھر اضافہ ہوا ہے۔"
+    },
+    {
+      "title": "Turkey denies military presence at airport hit by Israel",
+      "desc": "Turkey's Ministry of Defense denied on Thursday that Turkish military delegations were present at the Abu al-Duhur airbase struck by Israel earlier this week, as previously suggested. A military spoke...",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/49a81dc631ca59df",
+      "time": "2026-08-20T10:42:41",
       "country": "Israel",
-      "title_ur": "اسرائیل: حماس کے غیر مسلح ہونے تک غزہ میں تعمیر نو نہیں ہو گی۔",
-      "desc_ur": "اسرائیلی وزیر اعظم بنجمن نیتن یاہو کے دفتر نے جمعرات کو ایک مختصر بیان جاری کیا، جس میں اس بات کا اعادہ کیا گیا کہ اسرائیل غزہ کی پٹی میں اس وقت تک تعمیر نو شروع نہیں ہونے دے گا جب تک حماس مکمل طور پر..."
+      "title_ur": "ترکی نے اسرائیل کی طرف سے مارے گئے ہوائی اڈے پر فوجی موجودگی کی تردید کی ہے۔",
+      "desc_ur": "ترکی کی وزارت دفاع نے جمعرات کو اس بات کی تردید کی کہ ترکی کے فوجی وفود اس ہفتے کے شروع میں اسرائیل کی طرف سے مارے گئے ابو الدوہر ایئربیس پر موجود تھے، جیسا کہ پہلے تجویز کیا گیا تھا۔ ایک فوجی بولا..."
     },
     {
-      "title": "No, Woke 1.0 Was Not Crazy",
-      "desc": "Zito Madu\n\n\n\nAOC and others are laughing off 2020 as a wild, isolated moment. None of that is true.\r\n\n\r\n\n\nThe post No, Woke 1.0 Was Not Crazy appeared first on The Nation.",
-      "source": "Thenation.com",
-      "url": "https://www.thenation.com/?post_type=article&p=607340",
-      "time": "2026-08-20T09:55:00",
-      "country": "International",
-      "title_ur": "نہیں، ویک 1.0 پاگل نہیں تھا۔",
-      "desc_ur": "زیٹو مادو\n\n\n\nAOC اور دیگر 2020 کو ایک جنگلی، الگ تھلگ لمحے کے طور پر ہنس رہے ہیں۔ اس میں سے کوئی بھی سچ نہیں ہے۔\r\n\n\r\n\n\nThe post نہیں، ویک 1.0 پاگل نہیں تھا appeared first on The Nation"
-    },
-    {
-      "title": "Incident reported east of Al Mukalla raises maritime security concerns",
-      "desc": "Heightened maritime security concerns may hinder regional agreements, impacting market confidence and increasing geopolitical tensions.\nThe post Incident reported east of Al Mukalla raises maritime security concerns appeared first on Crypto Briefing.",
+      "title": "Qatar mediates between US and Iran to ease tensions, reopen Strait of Hormuz",
+      "desc": "Qatar's mediation could pave the way for renewed US-Iran dialogue, potentially stabilizing regional tensions and impacting global trade routes.\nThe post Qatar mediates between US and Iran to ease tensions, reopen Strait of Hormuz appeared first on Crypto Brie…",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/incident-reported-east-of-al-mukalla-raises-maritime-security-concerns/",
-      "time": "2026-08-20T09:53:53",
-      "country": "UK",
-      "title_ur": "المکلہ کے مشرق میں پیش آنے والے واقعے نے بحری سلامتی کے خدشات کو جنم دیا ہے۔",
-      "desc_ur": "بحری سلامتی کے بڑھتے ہوئے خدشات علاقائی معاہدوں میں رکاوٹ بن سکتے ہیں، جو مارکیٹ کے اعتماد کو متاثر کر سکتے ہیں اور جغرافیائی سیاسی کشیدگی میں اضافہ کر سکتے ہیں۔\nThe post المکلہ کے مشرق میں پیش آنے والے واقعے نے میری ٹائم سیکیورٹی خدشات کو جنم دیا appeared first on Crypto Briefing."
+      "url": "https://cryptobriefing.com/qatar-mediates-between-us-and-iran-to-ease-tensions-reopen-strait-of-hormuz/",
+      "time": "2026-08-20T10:38:57",
+      "country": "Iran",
+      "title_ur": "قطر نے امریکا اور ایران کے درمیان کشیدگی کم کرنے، آبنائے ہرمز کو دوبارہ کھولنے کے لیے ثالثی کی۔",
+      "desc_ur": "قطر کی ثالثی امریکہ اور ایران کے نئے مذاکرات کی راہ ہموار کر سکتی ہے، ممکنہ طور پر علاقائی کشیدگی کو مستحکم کر سکتی ہے اور عالمی تجارتی راستوں پر اثر انداز ہو سکتی ہے۔\nThe post قطر نے امریکا اور ایران کے درمیان کشیدگی کم کرنے کے لیے ثالثی کی، آبنائے ہرمز کو دوبارہ کھول دیا appeared first on Crypto Brie…"
+    },
+    {
+      "title": "Trump dumps late-night Stephen Miller lovefest on Truth Social",
+      "desc": "It was 12:29 a.m., and President Donald Trump was still posting loving clips of Stephen Miller.Over the course of just two hours and 40 minutes, Trump shared nine quotations, videos, and commentaries about the White House Deputy Chief of Staff for Policy and …",
+      "source": "Raw Story",
+      "url": "https://www.rawstory.com/stephen-miller-2677731830/",
+      "time": "2026-08-20T10:38:01",
+      "country": "US",
+      "title_ur": "ٹرمپ نے رات گئے اسٹیفن ملر کو ٹروتھ سوشل پر محبت بھری تقریب سے محروم کردیا۔",
+      "desc_ur": "یہ 12:29 بجے کا وقت تھا، اور صدر ڈونلڈ ٹرمپ ابھی بھی اسٹیفن ملر کے پیار بھرے کلپس پوسٹ کر رہے تھے۔ صرف دو گھنٹے اور 40 منٹ کے دوران، ٹرمپ نے وائٹ ہاؤس کے ڈپٹی چیف آف اسٹاف برائے پالیسی اور…"
+    },
+    {
+      "title": "Award-Winning Iraqi Drama ‘The President’s Cake’ Sets Netflix Streaming Premiere",
+      "desc": "Following its historic Cannes win, Hasan Hadi's acclaimed drama 'The President's Cake' is officially heading to Netflix US this September.",
+      "source": "What's on Netflix",
+      "url": "https://www.whats-on-netflix.com/news/the-presidents-cake-netflix-release-date-september-2026/",
+      "time": "2026-08-20T10:37:31",
+      "country": "Iraq",
+      "title_ur": "ایوارڈ یافتہ عراقی ڈرامہ 'دی پریذیڈنٹ کیک' کا نیٹ فلکس اسٹریمنگ پریمیئر سیٹ",
+      "desc_ur": "کانز کی تاریخی جیت کے بعد، حسن ہادی کا مشہور ڈرامہ 'دی پریذیڈنٹ کیک' اس ستمبر میں باضابطہ طور پر نیٹ فلکس یو ایس کی طرف جا رہا ہے۔"
+    },
+    {
+      "title": "Sensex today | Stock Market Highlights: Sensex, Nifty snap losing streak as IT and financial stocks drive broad-based gains",
+      "desc": "Sensex, Nifty, Share Prices Highlights: Indian equities staged a broad-based rebound on Thursday, with technology and financial stocks leading gains as easing US bond-market concerns improved global risk appetite, while elevated crude prices and regulatory sc…",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-updates-20th-august-2026/article71365156.ece",
+      "time": "2026-08-20T10:37:26",
+      "country": "India",
+      "title_ur": "سینسیکس آج | سٹاک مارکیٹ کی جھلکیاں: سینسیکس، نفٹی میں کمی کا سلسلہ جاری ہے کیونکہ آئی ٹی اور مالیاتی سٹاک نے وسیع البنیاد فائدہ اٹھایا ہے۔",
+      "desc_ur": "سینسیکس، نفٹی، حصص کی قیمتوں کی جھلکیاں: ہندوستانی ایکوئٹیز نے جمعرات کو ایک وسیع البنیاد ریباؤنڈ کا آغاز کیا، ٹیکنالوجی اور مالیاتی اسٹاکس نے فائدہ اٹھایا کیونکہ امریکی بانڈ مارکیٹ کے خدشات کو کم کرنے سے عالمی خطرے کی بھوک میں بہتری آئی، جبکہ خام قیمتوں میں اضافہ اور ریگولیٹری ایس سی…"
     }
   ],
   "pakistan": [
     {
-      "title": "England pacers cut Pakistan Test match ball in half after first innings; here's why",
-      "desc": "Robinson took 5 for 51 and Tongue claimed 5 for 46 as Pakistan were bowled out for 171 on the first day of England's first Test under Joe Root's second stint as full-time captain following Ben Stokes' retirement from international cricket.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/england-pacers-cut-pakistan-test-match-ball-in-half-after-first-innings-heres-why/articleshow/133371925.cms",
-      "time": "2026-08-20T09:52:33",
+      "title": "Morning rain delays England's reply to Pakistan's 171 all out on Day 2 of first test",
+      "desc": "The start of play on Day 2 of the first test between England and Pakistan at Headingley was delayed Thursday because of heavy rain. If the rain subsides, England will resume on 112-2 in reply to Pakistan's 171 all out in barely two sessions on Wednesday. Joe …",
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/articles/morning-rain-delays-englands-reply-104956145.html",
+      "time": "2026-08-20T10:49:56",
       "country": "Pakistan",
-      "title_ur": "انگلینڈ کے تیز گیند بازوں نے پہلی اننگز کے بعد پاکستان ٹیسٹ میچ کی گیند کو آدھا کر دیا؛ یہاں کیوں ہے",
-      "desc_ur": "بین سٹوکس کی بین الاقوامی کرکٹ سے ریٹائرمنٹ کے بعد جو روٹ کے دوسرے دور میں کل وقتی کپتان کے طور پر انگلینڈ کے پہلے ٹیسٹ کے پہلے دن رابنسن نے 51 رن پر 5 اور ٹونگ نے 46 رن پر 5 وکٹیں حاصل کیں کیونکہ پاکستان 171 رنز پر ڈھیر ہو گیا۔"
+      "title_ur": "صبح کی بارش نے پہلے ٹیسٹ کے دوسرے دن پاکستان کے 171 آل آؤٹ کے جواب میں انگلینڈ کے جواب میں تاخیر کی۔",
+      "desc_ur": "پاکستان اور انگلینڈ کے درمیان ہیڈنگلے میں کھیلے جانے والے پہلے ٹیسٹ کے دوسرے دن کا کھیل جمعرات کو تیز بارش کی وجہ سے تاخیر کا شکار ہو گیا۔ اگر بارش تھمی تو انگلینڈ بدھ کو بمشکل دو سیشنز میں پاکستان کے 171 آل آؤٹ کے جواب میں 112-2 پر دوبارہ کھیلے گا۔ جو…"
     },
     {
-      "title": "Araghchi and Pakistani Army chief discuss regional developments over phone",
-      "desc": "Iranian Foreign Minister Abbas Araghchi held a telephone conversation on Wednesday evening with Field Marshal Asim Munir, Chief of Army Staff of Pakistan.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/08/iran-260820-irna01.htm",
-      "time": "2026-08-20T09:51:16",
+      "title": "RI's Air Force Chief of Staff recalls intercepting foreign aircraft",
+      "desc": "Indonesia&rsquo;s Air Force Chief of Staff Marshal Mohamad Tonny Harjono recalled flying a Sukhoi fighter to intercept a foreign aircraft that entered ...",
+      "source": "Antaranews.com",
+      "url": "https://en.antaranews.com/news/427915/ris-air-force-chief-of-staff-recalls-intercepting-foreign-aircraft",
+      "time": "2026-08-20T10:45:05",
       "country": "Pakistan",
-      "title_ur": "اراغچی اور پاکستانی آرمی چیف نے ٹیلی فون پر علاقائی پیش رفت پر تبادلہ خیال کیا۔",
-      "desc_ur": "ایرانی وزیر خارجہ عباس عراقچی نے بدھ کی شام پاکستان کے آرمی چیف فیلڈ مارشل عاصم منیر سے ٹیلی فون پر بات چیت کی۔"
+      "title_ur": "RI کی فضائیہ کے چیف آف اسٹاف نے غیر ملکی طیاروں کو روکتے ہوئے واپس بلا لیا۔",
+      "desc_ur": "انڈونیشیا کی فضائیہ کے چیف آف اسٹاف مارشل محمد ٹونی ہارجونو نے ایک غیر ملکی طیارے کو روکنے کے لیے سخوئی لڑاکا طیارہ اڑانا واپس بلایا جو اندر داخل ہوا..."
     },
     {
-      "title": "Dubai OTT platform Begin bags Italian football league rights for Pakistan",
-      "desc": "Dubai-based OTT platform Begin has acquired the exclusive broadcast and sublicensing rights to the Serie A, Coppa Italia and Supercoppa Italiana football leagues in Pakistan under a three-year deal. Se...",
-      "source": "C21media.net",
-      "url": "https://www.c21media.net/news/dubai-ott-platform-begin-bags-italian-football-league-rights-for-pakistan/",
-      "time": "2026-08-20T09:48:51",
+      "title": "RI'sAir Force Chief of Staff recalls intercepting foreign aircraft",
+      "desc": "Indonesia&rsquo;s Air Force Chief of Staff Marshal Mohamad Tonny Harjono recalled flying a Sukhoi fighter to intercept a foreign aircraft that entered ...",
+      "source": "Antaranews.com",
+      "url": "https://en.antaranews.com/news/427915/risair-force-chief-of-staff-recalls-intercepting-foreign-aircraft",
+      "time": "2026-08-20T10:45:05",
       "country": "Pakistan",
-      "title_ur": "دبئی OTT پلیٹ فارم بیگن نے پاکستان کے لیے اطالوی فٹ بال لیگ کے حقوق حاصل کر لیے ہیں۔",
-      "desc_ur": "دبئی میں قائم OTT پلیٹ فارم Begin نے تین سال کے معاہدے کے تحت پاکستان میں Serie A، Coppa Italia اور Supercoppa Italiana فٹبال لیگز کے خصوصی نشریاتی اور ذیلی لائسنسنگ حقوق حاصل کر لیے ہیں۔ دیکھیں..."
+      "title_ur": "RI's Air Force چیف آف اسٹاف نے غیر ملکی طیاروں کو روکتے ہوئے واپس بلا لیا۔",
+      "desc_ur": "انڈونیشیا کی فضائیہ کے چیف آف اسٹاف مارشل محمد ٹونی ہارجونو نے ایک غیر ملکی طیارے کو روکنے کے لیے سخوئی لڑاکا طیارہ اڑانا واپس بلایا جو اندر داخل ہوا..."
     },
     {
-      "title": "Turkey denies Israeli claims, calls for international action against Israel",
-      "desc": "Turkey's stance may intensify regional tensions, influencing geopolitical alliances and prompting increased multilateral involvement in the Middle East.\nThe post Turkey denies Israeli claims, calls for international action against Israel appeared first on Cry…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/turkey-denies-israeli-claims-calls-for-international-action-against-israel/",
-      "time": "2026-08-20T09:43:47",
+      "title": "Utopia Brands Hiring for SEO, Marketing, Commercial and Marketplace Roles – Apply Now!",
+      "desc": "Utopia Brands Hiring for SEO, Marketing, Commercial and Marketplace Roles – Apply Now!clappakistan.com",
+      "source": "Clappakistan.com",
+      "url": "https://clappakistan.com/utopia-brands-hiring-for-seo-marketing-commercial-and-marketplace-roles-apply-now/",
+      "time": "2026-08-20T10:30:34",
       "country": "Pakistan",
-      "title_ur": "ترکی نے اسرائیلی دعوؤں کی تردید کرتے ہوئے اسرائیل کے خلاف بین الاقوامی کارروائی کا مطالبہ کیا ہے۔",
-      "desc_ur": "ترکی کا موقف علاقائی کشیدگی کو تیز کر سکتا ہے، جغرافیائی سیاسی اتحادوں کو متاثر کر سکتا ہے اور مشرق وسطیٰ میں کثیرالجہتی شمولیت کو فروغ دے سکتا ہے۔\nThe post ترکی نے اسرائیلی دعوؤں کی تردید، اسرائیل کے خلاف بین الاقوامی کارروائی کا مطالبہ کردیا appeared first on Cry…"
+      "title_ur": "یوٹوپیا برانڈز SEO، مارکیٹنگ، کمرشل اور مارکیٹ پلیس رولز کے لیے خدمات حاصل کر رہے ہیں - ابھی اپلائی کریں!",
+      "desc_ur": "یوٹوپیا برانڈز SEO، مارکیٹنگ، کمرشل اور مارکیٹ پلیس رولز کے لیے خدمات حاصل کر رہے ہیں - ابھی اپلائی کریں!clappakistan.com"
+    },
+    {
+      "title": "India turns to Venezuela as West Asia disruptions accelerate crude supply diversification",
+      "desc": "India diversifies crude oil imports, increasing reliance on Venezuela amid West Asia disruptions, enhancing energy security and resilience.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/india-turns-to-venezuela-as-west-asia-disruptions-accelerate-crude-supply-diversification/article71368369.ece",
+      "time": "2026-08-20T10:06:10",
+      "country": "Pakistan",
+      "title_ur": "ہندوستان وینزویلا کا رخ کرتا ہے کیونکہ مغربی ایشیا میں رکاوٹیں خام سپلائی کے تنوع کو تیز کرتی ہیں۔",
+      "desc_ur": "ہندوستان خام تیل کی درآمدات کو متنوع بناتا ہے، مغربی ایشیا میں رکاوٹوں کے درمیان وینزویلا پر انحصار بڑھاتا ہے، توانائی کی حفاظت اور لچک کو بڑھاتا ہے۔"
+    },
+    {
+      "title": "Will Imran Khan walk free? Why his hospital transfer is fuelling buzz",
+      "desc": "Imran Khan's transfer to a private hospital under the Supreme Court's watch has triggered speculation whether this is an early sign that the former prime minister will move out of prison",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/pakistan-imran-khan-jail-hospital-transfer-bail-cases-pti-126082000766_1.html",
+      "time": "2026-08-20T10:04:37",
+      "country": "Pakistan",
+      "title_ur": "کیا عمران خان آزاد ہوں گے؟ کیوں اس کی ہسپتال منتقلی گونج کو ہوا دے رہی ہے۔",
+      "desc_ur": "سپریم کورٹ کی نگرانی میں عمران خان کی نجی ہسپتال منتقلی نے قیاس آرائیاں شروع کر دی ہیں کہ کیا یہ اس بات کی ابتدائی علامت ہے کہ سابق وزیر اعظم جیل سے باہر چلے جائیں گے۔"
     }
   ],
   "business": {
