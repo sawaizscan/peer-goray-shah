@@ -1,197 +1,217 @@
 {
-  "generated": "2026-08-21T13:39:59Z",
+  "generated": "2026-08-21T14:27:59Z",
   "world": [
     {
-      "title": "Bond yields jump, erasing impact of Treasury Department’s intervention",
-      "desc": "Bond yields jumped Thursday, erasing the declines stemming from of the Treasury Department’s unusual intervention in the debt market a day earlier.",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/business/markets/bond-yields-stocks-oil-prices-rcna593517",
-      "time": "2026-08-20T13:35:22",
-      "country": "US",
-      "title_ur": "محکمہ خزانہ کی مداخلت کے اثرات کو مٹاتے ہوئے بانڈ کی پیداوار میں اضافہ",
-      "desc_ur": "جمعرات کو بانڈ کی پیداوار میں اضافہ ہوا، جس سے ایک دن پہلے قرض کی منڈی میں محکمہ خزانہ کی غیر معمولی مداخلت کی وجہ سے ہونے والی کمی کو مٹا دیا۔"
-    },
-    {
-      "title": "Trump says Iran's economy is collapsing. A former central bank adviser in Tehran pushes back - CNBC",
-      "desc": "Trump says Iran's economy is collapsing. A former central bank adviser in Tehran pushes backCNBC Trump threatens 'Economic D-Day' for Iran and ‘tremendous’ consequences for its backersCNBC Oil hits 3-week high on Middle East supply concerns amid war impasseRe…",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185067932",
-      "time": "2026-08-20T13:34:11",
-      "country": "Iran",
-      "title_ur": "ٹرمپ کا کہنا ہے کہ ایران کی معیشت تباہ ہو رہی ہے۔ تہران میں مرکزی بینک کے ایک سابق مشیر نے پیچھے ہٹنا - CNBC",
-      "desc_ur": "ٹرمپ کا کہنا ہے کہ ایران کی معیشت تباہ ہو رہی ہے۔ تہران میں مرکزی بینک کے ایک سابق مشیر نے پیچھے دھکیل دیاCNBC ٹرمپ نے ایران کے لیے 'اقتصادی ڈی-ڈے' اور اس کے حامیوں کے لیے 'زبردست' نتائج کی دھمکی دی ہے CNBC تیل جنگی تعطل کے دوران مشرق وسطیٰ کی سپلائی کے خدشات پر 3 ہفتے کی بلند ترین سطح پر پہنچ گیا ہے۔"
-    },
-    {
-      "title": "If Iran's 'invisible' Ayatollah is barely alive, who's really running the country? DAVID PATRIKARAKOS names the shadowy commander he believes is pulling the strings on latest Deep Dive podcast",
-      "desc": "Patrikarakos, who has been speaking to Western intelligence sources, set out the three theories circulating about Mojtaba's whereabouts.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16067055/deep-dive-iran-invisible-ayatollah-mojtaba-khamenei.html",
-      "time": "2026-08-20T13:33:33",
-      "country": "Iran",
-      "title_ur": "اگر ایران کا 'غیر مرئی' آیت اللہ بمشکل زندہ ہے تو ملک کو کون چلا رہا ہے؟ DAVID PATRIKARAKOS نے سایہ دار کمانڈر کا نام دیا ہے جس کے بارے میں ان کے خیال میں تازہ ترین ڈیپ ڈائیو پوڈ کاسٹ پر ڈور کھینچ رہا ہے۔",
-      "desc_ur": "پیٹریکاراکوس، جو مغربی انٹیلی جنس ذرائع سے بات کرتے رہے ہیں، نے مجتبیٰ کے ٹھکانے کے بارے میں گردش کرنے والے تین نظریات بتائے۔"
-    },
-    {
-      "title": "Oil hits over 3-week high on Middle East supply concerns amid war impasse",
-      "desc": "By Stephanie Kelly\nLONDON, Aug 20 (Reuters) - Oil prices climbed to more than three-week highs on Thursday, driven by concerns that the impasse in the Iran war will continue to disrupt supply from the key Middle Eastern producing region.\nBrent crude futures f…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/ffd775cbe4ffa770",
-      "time": "2026-08-20T13:33:04",
-      "country": "Iran",
-      "title_ur": "جنگ کے تعطل کے درمیان مشرق وسطیٰ کی سپلائی کے خدشات پر تیل 3 ہفتے کی بلند ترین سطح پر ہے۔",
-      "desc_ur": "اسٹیفنی کیلی کے ذریعہ\nلندن، 20 اگست (رائٹرز) – تیل کی قیمتیں جمعرات کو تین ہفتوں کی بلند ترین سطح پر پہنچ گئیں، ان خدشات کی وجہ سے کہ ایران جنگ میں تعطل کی وجہ سے مشرق وسطیٰ کے اہم پیداواری خطے سے سپلائی میں خلل پڑے گا۔\nبرینٹ کروڈ فیوچر ایف…"
-    },
-    {
-      "title": "Army Resumes AH-64 Apache Flight Training After Fatal Fort Hood Crash",
-      "desc": "Two soldiers died last week after a horrific crash in Salado, Texas, near the base.",
-      "source": "Military.com",
-      "url": "https://military.com/army-resumes-ah-64-apache-flight-training-after-fatal-fort-hood-crash",
-      "time": "2026-08-20T13:32:53",
-      "country": "International",
-      "title_ur": "فوج نے مہلک فورٹ ہڈ حادثے کے بعد AH-64 اپاچی فلائٹ ٹریننگ دوبارہ شروع کی۔",
-      "desc_ur": "بیس کے قریب سالڈو، ٹیکساس میں ایک ہولناک حادثے کے بعد گزشتہ ہفتے دو فوجی ہلاک ہو گئے۔"
-    },
-    {
-      "title": "WATCH: Lost dog reunited with family after 1,000-mile journey",
-      "desc": "Ten-month-old Australian shepherd Rio and his owner were reunited in Greensboro, North Carolina, nearly three weeks after Rio escaped from the family home in Sand Springs, Oklahoma.",
+      "title": "WATCH: Trump threatens 'Economic D-Day' against Iran",
+      "desc": "With the U.S. six months into the war with Iran, President Donald Trump announced that the U.S. will enact the \"most crushing economic operation ever taken,\" calling it \"an Economic D-Day.\"",
       "source": "Abcnews.com",
-      "url": "https://abcnews.com/video/135800826/",
-      "time": "2026-08-20T13:30:53",
+      "url": "https://abcnews.com/video/135800532/",
+      "time": "2026-08-20T14:26:37",
+      "country": "Iran",
+      "title_ur": "دیکھو: ٹرمپ نے ایران کے خلاف 'اقتصادی ڈی ڈے' کی دھمکی دی ہے۔",
+      "desc_ur": "ایران کے ساتھ جنگ ​​میں امریکہ کے چھ ماہ کے ساتھ، صدر ڈونلڈ ٹرمپ نے اعلان کیا کہ امریکہ \"اب تک کی گئی سب سے زیادہ کرشنگ اقتصادی کارروائی\" کو نافذ کرے گا، اسے \"ایک اقتصادی ڈی ڈے\" قرار دیا گیا ہے۔"
+    },
+    {
+      "title": "In 2014, New York completed the Javits Center’s bird-safe renovation and green roof; bird collisions fell by more than 90%, while 65 species later used the roof",
+      "desc": "The Javits Convention Center in Manhattan became safer for birds after a major renovation. Thousands of glass panels were replaced with low-reflection glass, reducing bird collisions by over ninety percent. A large green roof was added, providing a vital stop…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/us/in-2014-new-york-retrofitted-the-javits-center-with-bird-safe-glass-and-a-nearly-seven-acre-green-roof-bird-collisions-fell-90-and-65-species-later-used-the-roof/articleshow/133375105.cms",
+      "time": "2026-08-20T14:24:20",
       "country": "US",
-      "title_ur": "دیکھو: کھویا ہوا کتا 1,000 میل کے سفر کے بعد خاندان کے ساتھ مل گیا۔",
-      "desc_ur": "دس ماہ کے آسٹریلوی چرواہے ریو اور اس کے مالک کو گرینزبورو، شمالی کیرولائنا میں دوبارہ ملایا گیا، ریو کے سینڈ اسپرنگس، اوکلاہوما میں خاندان کے گھر سے فرار ہونے کے تقریباً تین ہفتے بعد۔"
+      "title_ur": "2014 میں، نیویارک نے Javits Center کی برڈ سیف تزئین و آرائش اور سبز چھت کو مکمل کیا۔ پرندوں کے تصادم میں 90 فیصد سے زیادہ کمی واقع ہوئی، جبکہ 65 پرجاتیوں نے بعد میں چھت کا استعمال کیا",
+      "desc_ur": "مین ہٹن میں Javits کنونشن سینٹر ایک بڑی تزئین و آرائش کے بعد پرندوں کے لیے محفوظ ہو گیا۔ شیشے کے ہزاروں پینلز کو کم عکاسی والے شیشے سے تبدیل کیا گیا، جس سے پرندوں کے تصادم میں نوے فیصد سے زیادہ کمی واقع ہوئی۔ ایک بڑی سبز چھت شامل کی گئی، جو ایک اہم اسٹاپ فراہم کرتی ہے…"
     },
     {
-      "title": "Coking Coal Prices Surge 25%, Squeezing India's Steelmakers",
-      "desc": "Indian steelmakers are reeling from a jump in coking coal prices this year that is squeezing their margins and delaying capacity expansion in the steelmaking industry, analysts and industry executives tell Reuters. India relies on imports for as much as 95% o…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Coking-Coal-Prices-Surge-25-Squeezing-Indias-Steelmakers.html",
-      "time": "2026-08-20T13:30:00",
-      "country": "India",
-      "title_ur": "کوکنگ کول کی قیمتوں میں 25 فیصد اضافہ، بھارت کے اسٹیل سازوں کو نچوڑنا",
-      "desc_ur": "تجزیہ کاروں اور صنعت کاروں نے رائٹرز کو بتایا کہ ہندوستانی اسٹیل بنانے والے اس سال کوکنگ کول کی قیمتوں میں اضافے سے پریشان ہیں جو ان کے مارجن کو نچوڑ رہا ہے اور اسٹیل سازی کی صنعت میں صلاحیت کی توسیع میں تاخیر کر رہا ہے۔ بھارت 95 فیصد تک درآمدات پر انحصار کرتا ہے…"
-    },
-    {
-      "title": "Iran rejects Trump's threat of 'economic warfare' on 'unprecedented scale'",
-      "desc": "Iranian Foreign Minister Abbas Araghchi says U.S. President Donald Trump's threat to launch campaign of \"economic warfare\" against Iran \"will only bring further defeat.\"",
-      "source": "CBC News",
-      "url": "https://www.cbc.ca/news/world/iran-rejects-trump-economic-threat-9.7313735",
-      "time": "2026-08-20T13:29:25",
-      "country": "Iran",
-      "title_ur": "ایران نے 'بے مثال پیمانے' پر 'اقتصادی جنگ' کی ٹرمپ کی دھمکی کو مسترد کر دیا",
-      "desc_ur": "ایرانی وزیر خارجہ عباس عراقچی کا کہنا ہے کہ امریکی صدر ڈونلڈ ٹرمپ کی ایران کے خلاف \"معاشی جنگ\" کی مہم شروع کرنے کی دھمکی \"صرف مزید شکست کا باعث بنے گی۔\""
-    },
-    {
-      "title": "Iranian Envoy Joins Ceremony in Mexico to Honor Communist Mass Murderer Fidel Castro",
-      "desc": "The Iranian terror state’s ambassador to Mexico, Abolfazl Pasandideh, attended an event to mark the would-be 100th birthday of dead communist mass murderer Fidel Castro in that country, Iranian state media revealed on Tuesday, using it as an opportunity to pr…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-chat/4392478/posts",
-      "time": "2026-08-20T13:29:12",
-      "country": "Iran",
-      "title_ur": "ایرانی سفیر کی میکسیکو میں کمیونسٹ اجتماعی قاتل فیڈل کاسترو کے اعزاز میں تقریب میں شرکت",
-      "desc_ur": "میکسیکو میں ایرانی دہشت گرد ریاست کے سفیر ابوالفضل پسندیدہ نے اس ملک میں ہلاک ہونے والے کمیونسٹ اجتماعی قاتل فیڈل کاسترو کی 100 ویں سالگرہ کے موقع پر ایک تقریب میں شرکت کی، ایران کے سرکاری میڈیا نے منگل کو انکشاف کیا کہ اسے ایک موقع کے طور پر استعمال کرتے ہوئے…"
-    },
-    {
-      "title": "Iran FM Blasts Trump's Economic D-Day Threat 'Diversion' Which Will Fail, As New Carrier Arrives In Mideast Waters",
-      "desc": "Iran FM Blasts Trump's Economic D-Day Threat 'Diversion' Which Will Fail, As New Carrier Arrives In Mideast Waters\n \nThe US Central Command (CENTCOM) has on Thursday confirmed the USS George Washington is now deployed in the Middle East, following the lengthy…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/8c0b9ac8556694f7",
-      "time": "2026-08-20T13:28:55",
-      "country": "Iran",
-      "title_ur": "ایران کے ایف ایم نے ٹرمپ کے اقتصادی ڈی ڈے کے خطرے کو 'ڈورورشن' قرار دیا جو ناکام ہو جائے گا، جیسا کہ نیا کیریئر مشرق وسطی کے پانیوں میں پہنچتا ہے",
-      "desc_ur": "ایران کے ایف ایم نے ٹرمپ کے اقتصادی ڈی ڈے کے خطرے کو 'ڈورورشن' قرار دیا جو ناکام ہو جائے گا، جیسا کہ نیا کیریئر مشرق وسطی کے پانیوں میں پہنچتا ہے\n \nامریکی سینٹرل کمانڈ (CENTCOM) نے جمعرات کے روز تصدیق کی ہے کہ یو ایس ایس جارج واشنگٹن طویل عرصے کے بعد مشرق وسطیٰ میں تعینات ہے۔"
-    },
-    {
-      "title": "Renowned historian zeroes in on ulterior White House motive as Natalie Harp saga spirals",
-      "desc": "To historian Heather Cox Richardson, the Republican frenzy over White House aide Natalie Harp isn't a scandal that ambushed the administration, but rather one the administration was only too glad to have.The furor began Sunday, when Sen. Jon Ossoff (D-GA) nee…",
-      "source": "Raw Story",
-      "url": "https://www.rawstory.com/natalie-harp-2677734102/",
-      "time": "2026-08-20T13:28:52",
-      "country": "US",
-      "title_ur": "نامور تاریخ دان نٹالی ہارپ ساگا سرپل کے طور پر وائٹ ہاؤس کے اولین مقصد کو زیرو",
-      "desc_ur": "تاریخ دان ہیدر کاکس رچرڈسن کے نزدیک وائٹ ہاؤس کی معاون نیٹلی ہارپ پر ریپبلکن کا جنون کوئی ایسا اسکینڈل نہیں ہے جس نے انتظامیہ کو گھیرے میں لے لیا تھا، بلکہ ایک ایسا اسکینڈل ہے جس سے انتظامیہ بہت خوش تھی۔ اتوار کو یہ ہنگامہ شروع ہوا، جب سینیٹر جون اوسوف (D-GA)…"
-    },
-    {
-      "title": "U.S. public debt hits US$40 trillion, raising ‘doom loop’ risk",
-      "desc": "U.S. public debt surpassed US$40 trillion as lawmakers shrug off calls to contend with historically wide fiscal deficits. Find out more here",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/news/economy/us-public-debt-hits-40-trillion",
-      "time": "2026-08-20T13:28:25",
-      "country": "Iran",
-      "title_ur": "امریکی عوامی قرض 40 ٹریلین ڈالر تک پہنچ گیا ہے، جس سے 'ڈوم لوپ' کا خطرہ بڑھ رہا ہے۔",
-      "desc_ur": "امریکی عوامی قرض 40 ٹریلین امریکی ڈالر سے تجاوز کر گیا کیونکہ قانون سازوں نے تاریخی طور پر وسیع مالیاتی خسارے کا مقابلہ کرنے کے لیے کالوں کو ترک کر دیا۔ یہاں مزید معلومات حاصل کریں۔"
-    },
-    {
-      "title": "Seven-session slump snaps as Nifty finds floor at 24,000",
-      "desc": "The Nifty 50 closed at 24,231.85, up 153.55 points or 0.64%, while the Sensex gained 628.04 points or 0.82% to settle at 77,537.72",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/seven-session-slump-snaps-as-nifty-finds-floor-at-24000/article71369371.ece",
-      "time": "2026-08-20T13:27:08",
+      "title": "Chancellor Merz Most Unpopular German Leader on Record in Modern History",
+      "desc": "German Chancellor Friedrich Merz is the most unpopular leader on record in modern history as the nation's economy continues to struggle and immigration continues to dominate headlines.\nThe post Chancellor Merz Most Unpopular German Leader on Record in Modern …",
+      "source": "Breitbart News",
+      "url": "https://www.breitbart.com/europe/2026/08/20/german-chancellor-merz-most-unpopular-on-record-in-modern-history/",
+      "time": "2026-08-20T14:24:10",
       "country": "International",
-      "title_ur": "نفٹی 24,000 پر منزل پاتے ہی سات سیشن کی مندی چھڑ گئی",
-      "desc_ur": "نفٹی 50 153.55 پوائنٹس یا 0.64 فیصد اضافے کے ساتھ 24,231.85 پر بند ہوا، جبکہ سینسیکس 628.04 پوائنٹس یا 0.82 فیصد اضافے کے ساتھ 77,537.72 پر بند ہوا۔"
+      "title_ur": "چانسلر میرز جدید تاریخ میں ریکارڈ پر سب سے زیادہ غیر مقبول جرمن رہنما",
+      "desc_ur": "جرمن چانسلر فریڈرک مرز جدید تاریخ میں ریکارڈ پر سب سے زیادہ غیر مقبول رہنما ہیں کیونکہ ملکی معیشت مسلسل جدوجہد کر رہی ہے اور امیگریشن سرخیوں میں حاوی ہے۔\nThe post چانسلر میرز جدید میں ریکارڈ پر سب سے زیادہ غیر مقبول جرمن رہنما…"
     },
     {
-      "title": "Amb. Huckabee: 'We have said to Hamas - your time is up'",
-      "desc": "The US ambassador to Israel answers bereaved families' criticism of direct talks with Hamas, saying Kushner delivered a blunt message: disarm, demilitarize, and accept that they would need to leave Gaza.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/432003",
-      "time": "2026-08-20T13:26:00",
-      "country": "Israel",
-      "title_ur": "ایمب ہکابی: 'ہم نے حماس سے کہا ہے کہ تمہارا وقت ختم ہو گیا ہے'",
-      "desc_ur": "اسرائیل میں امریکی سفیر نے سوگوار خاندانوں کی حماس کے ساتھ براہ راست بات چیت پر تنقید کا جواب دیتے ہوئے کہا کہ کشنر نے ایک دو ٹوک پیغام دیا: غیر مسلح کریں، غیر فوجی بنائیں اور قبول کریں کہ انہیں غزہ چھوڑنے کی ضرورت ہوگی۔"
+      "title": "Around 1830, America imported Japanese wisteria for its hanging purple flowers; the vigorous vines can now smother trees and compete with native vegetation",
+      "desc": "Japanese wisteria, first introduced in the early 1830s, quickly gained popularity as an ornamental vine for gardens. However, these plants can escape into the wild, where they aggressively invade forests. Their rapid growth poses severe challenges for removal…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/us/around-1830-america-imported-japanese-wisteria-for-its-hanging-purple-flowers-the-heavy-vines-now-strangle-mature-trees-and-replace-native-vegetation/articleshow/133374420.cms",
+      "time": "2026-08-20T14:23:36",
+      "country": "US",
+      "title_ur": "1830 کے آس پاس، امریکہ نے اپنے لٹکے ہوئے جامنی رنگ کے پھولوں کے لیے جاپانی ویسٹیریا درآمد کیا۔ زوردار بیلیں اب درختوں کو مار سکتی ہیں اور مقامی پودوں کا مقابلہ کر سکتی ہیں۔",
+      "desc_ur": "جاپانی ویسٹیریا، جو پہلی بار 1830 کی دہائی کے اوائل میں متعارف کرایا گیا تھا، نے باغات کے لیے ایک سجاوٹی بیل کے طور پر تیزی سے مقبولیت حاصل کی۔ تاہم، یہ پودے جنگل میں فرار ہو سکتے ہیں، جہاں وہ جارحانہ طور پر جنگلات پر حملہ کرتے ہیں۔ ان کی تیز رفتار نشوونما کو ہٹانے کے لیے شدید چیلنجز کا سامنا ہے…"
     },
     {
-      "title": "A Family of Iranian Permanent Residents Abducted by ICE. Targeted by an Iranian-American Lobbyist",
-      "desc": "A family of Iranian legal permanent residents was abducted and confined to an ICE prison after US government-backed regime change activist Masih Alinejad campaigned for their deportation. The family committed no crime, and was only targeted by Alinejad for th…",
-      "source": "Globalresearch.ca",
-      "url": "https://www.globalresearch.ca/masih-alinejad-takes-credit-ice-abduction-us-legal-residents/5937014",
-      "time": "2026-08-20T13:24:40",
+      "title": "After weeks out of public view, Melania Trump returns with a new foster youth push",
+      "desc": "Melania Trump will announce new scholarships for foster youth.  This initiative connects her motorsport interest with youth support programs.  The announcement occurs at the White House before the Washington Grand Prix.  Her office focuses on policy work with…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/after-weeks-out-of-public-view-melania-trump-returns-with-a-new-foster-youth-push/articleshow/133380254.cms",
+      "time": "2026-08-20T14:16:14",
+      "country": "US",
+      "title_ur": "عوام کی نظروں سے دور رہنے کے بعد، میلانیا ٹرمپ ایک نئے رضاعی نوجوانوں کے ساتھ واپس آ رہی ہیں۔",
+      "desc_ur": "میلانیا ٹرمپ رضاعی نوجوانوں کے لیے نئے وظائف کا اعلان کریں گی۔  یہ اقدام اس کی موٹرسپورٹ کی دلچسپی کو نوجوانوں کے سپورٹ پروگراموں سے جوڑتا ہے۔  یہ اعلان واشنگٹن گراں پری سے پہلے وائٹ ہاؤس میں ہوتا ہے۔  اس کا دفتر پالیسی کے کام پر توجہ مرکوز کرتا ہے جس کے ساتھ…"
+    },
+    {
+      "title": "Key Trump legislative adviser to depart with potentially bruising midterm looming",
+      "desc": "President Donald Trump’s Director of Legislative Affairs James Braid is expected to depart the White House in the coming weeks, a Trump administration offici...",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/08/19/politics/trump-legislative-advisor-james-braid-departing",
+      "time": "2026-08-20T14:15:03",
+      "country": "US",
+      "title_ur": "ٹرمپ کے اہم قانون ساز مشیر ممکنہ طور پر مڈٹرم لوومنگ کے ساتھ روانہ ہو رہے ہیں۔",
+      "desc_ur": "صدر ڈونلڈ ٹرمپ کے قانون ساز امور کے ڈائریکٹر جیمز بریڈ کے آنے والے ہفتوں میں وائٹ ہاؤس سے رخصت ہونے کی توقع ہے، ٹرمپ انتظامیہ کے ایک اہلکار…"
+    },
+    {
+      "title": "Disentangling UAE-Iran economic ties could prove difficult",
+      "desc": "Cutting Iran off completely from the UAE could deal a serious blow to the Islamic Republic’s economy — but experts say disentangling the pair’s commercial ties could prove difficult.\nThe UAE was Iran’s largest source of imports before the war, ahead of China,…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/baf3c2d416fc8eb2",
+      "time": "2026-08-20T14:15:02",
       "country": "Iran",
-      "title_ur": "ایرانی مستقل رہائشیوں کا خاندان ICE کے ذریعے اغوا کر لیا گیا۔ ایک ایرانی نژاد امریکی لابی نے نشانہ بنایا",
-      "desc_ur": "امریکی حکومت کی حمایت یافتہ حکومت کی تبدیلی کے کارکن مسیح علین نژاد کی ملک بدری کے لیے مہم چلانے کے بعد ایرانی قانونی مستقل رہائشیوں کے ایک خاندان کو اغوا کر کے ایک ICE جیل میں قید کر دیا گیا تھا۔ خاندان نے کوئی جرم نہیں کیا، اور صرف الینیجد نے اس کا نشانہ بنایا…"
+      "title_ur": "متحدہ عرب امارات اور ایران کے اقتصادی تعلقات کو منقطع کرنا مشکل ثابت ہو سکتا ہے۔",
+      "desc_ur": "ایران کو متحدہ عرب امارات سے مکمل طور پر منقطع کرنے سے اسلامی جمہوریہ کی معیشت کو شدید دھچکا لگ سکتا ہے - لیکن ماہرین کا کہنا ہے کہ اس جوڑے کے تجارتی تعلقات کو منقطع کرنا مشکل ثابت ہو سکتا ہے۔\nمتحدہ عرب امارات جنگ سے پہلے ایران کی درآمدات کا سب سے بڑا ذریعہ تھا، چین سے آگے،…"
+    },
+    {
+      "title": "Architectural Painting Robot Market worth $0.43 billion by 2032 - Exclusive Report by MarketsandMarkets™",
+      "desc": "DELRAY BEACH, Fla., Aug. 20, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the global architectural painting robot market is estimated at USD 0.17 billion in 2026 and is projected to reach USD 0.43 billion by 2032, growing at a CAGR of 17.0% from 2026…",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/architectural-painting-robot-market-worth-0-43-billion-by-2032---exclusive-report-by-marketsandmarkets-302856190.html",
+      "time": "2026-08-20T14:15:00",
+      "country": "US",
+      "title_ur": "2032 تک $0.43 بلین مالیت کی آرکیٹیکچرل پینٹنگ روبوٹ مارکیٹ - MarketsandMarkets™ کی خصوصی رپورٹ",
+      "desc_ur": "ڈیلری بیچ، فلا، 20 اگست، 2026/پی آرنیوزوائر/ -- MarketsandMarkets™ کے مطابق، عالمی آرکیٹیکچرل پینٹنگ روبوٹ مارکیٹ کا تخمینہ 2026 میں USD 0.17 بلین ہے اور اس کے 2032 تک USD 0.43 بلین تک پہنچنے کا تخمینہ لگایا گیا ہے، جو کہ 2020 GR سے بڑھ کر 2020٪…"
+    },
+    {
+      "title": "Trump Threat Puts Focus on Iran’s Trading Partners",
+      "desc": "President Trump appeared to suggest that the United States would impose economic penalties on countries that do business with Iran, though he did not specify what actions he would take.",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/ead924aeb0c759a7",
+      "time": "2026-08-20T14:14:37",
+      "country": "Iran",
+      "title_ur": "ٹرمپ کی دھمکی ایران کے تجارتی شراکت داروں پر توجہ مرکوز کرتی ہے۔",
+      "desc_ur": "صدر ٹرمپ یہ تجویز کرتے نظر آئے کہ امریکہ ایران کے ساتھ کاروبار کرنے والے ممالک پر اقتصادی جرمانے عائد کرے گا، حالانکہ انہوں نے یہ واضح نہیں کیا کہ وہ کیا اقدامات کریں گے۔"
+    },
+    {
+      "title": "Ossoff Says MAGA ‘Melt Down’ Over His Natalie Harp Comments Has Been ‘Amazing’: ‘The Truth Hurts’",
+      "desc": "Ossoff Defends Natalie Harp Comments, Says ‘No One Cares’ About Her ‘Feelings’",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/saradorn/2026/08/20/ossoff-says-maga-melt-down-over-his-natalie-harp-comments-has-been-amazing-the-truth-hurts/",
+      "time": "2026-08-20T14:13:00",
+      "country": "International",
+      "title_ur": "Ossoff کا کہنا ہے کہ MAGA 'Melt Down' اس کے نٹالی ہارپ کے تبصروں پر 'حیرت انگیز' رہا ہے: 'سچائی کو تکلیف پہنچتی ہے'",
+      "desc_ur": "اوسوف نے نٹالی ہارپ کے تبصروں کا دفاع کیا، کہا کہ 'کسی کو پرواہ نہیں' اس کے 'احساسات' کے بارے میں"
+    },
+    {
+      "title": "Trump’s war on Stars and Stripes: Why has military newspaper chief quit?",
+      "desc": "Longtime Stars and Stripes publisher Max D Lederer Jr announced his resignation over clashes with the Pentagon.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/8/20/trumps-war-on-stars-and-stripes-why-has-military-newspaper-chief-quit",
+      "time": "2026-08-20T14:10:01",
+      "country": "US",
+      "title_ur": "ستاروں اور پٹیوں کے خلاف ٹرمپ کی جنگ: فوجی اخبار کے سربراہ نے استعفیٰ کیوں دیا؟",
+      "desc_ur": "لانگ ٹائم اسٹارز اینڈ سٹرپس کے پبلشر میکس ڈی لیڈرر جونیئر نے پینٹاگون کے ساتھ جھڑپوں پر اپنے استعفیٰ کا اعلان کیا۔"
+    },
+    {
+      "title": "Dow Falls Nearly 350 Points as Walmart's Weak Sales Growth Overshadows Earnings Beat Amid Rising Yields",
+      "desc": "The Dow Jones fell as Walmart's sales guidance disappointed, Treasury yields rebounded, and oil prices rose due to tensions with Iran, impacting market sentiment and investor focus.",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/dow-drops-walmart-sales-oil-prices-1874311",
+      "time": "2026-08-20T14:09:18",
+      "country": "Iran",
+      "title_ur": "ڈاؤ تقریباً 350 پوائنٹس گر گیا کیونکہ والمارٹ کی کمزور سیلز گروتھ نے بڑھتی ہوئی پیداوار کے درمیان کمائی کو پیچھے چھوڑ دیا",
+      "desc_ur": "ڈاؤ جونز گر گیا کیونکہ والمارٹ کی سیلز گائیڈنس نے مایوس کیا، ٹریژری کی پیداوار میں تیزی آئی، اور تیل کی قیمتوں میں ایران کے ساتھ کشیدگی کی وجہ سے اضافہ ہوا، جس سے مارکیٹ کے جذبات اور سرمایہ کاروں کی توجہ متاثر ہوئی۔"
+    },
+    {
+      "title": "Oil Giants Eye Jurassic Rocks off Mexico",
+      "desc": "Latin America's two biggest oil companies are betting big on a high-risk effort.",
+      "source": "Rigzone",
+      "url": "https://www.rigzone.com/news/wire/oil_giants_eye_jurassic_rocks_off_mexico-20-aug-2026-184422-article/",
+      "time": "2026-08-20T14:07:17",
+      "country": "US",
+      "title_ur": "آئل جینٹس آئی جراسک راکس آف میکسیکو",
+      "desc_ur": "لاطینی امریکہ کی دو سب سے بڑی تیل کمپنیاں ایک اعلی خطرے کی کوشش پر بڑی شرط لگا رہی ہیں۔"
+    },
+    {
+      "title": "Gwyneth Paltrow sparks MORE controversy as she's rumored to be hosting 'off-the-record' dinner party for OpenAI CEO Sam Altman",
+      "desc": "The invite quickly went viral on Wednesday, triggering a wave of backlash across social media, with one commentator on X comparing it to 'an episode of black mirror.'",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/tvshowbiz/article-16065967/Gwyneth-Paltrow-rumored-party-OpenAI-CEO-Sam-Altman.html",
+      "time": "2026-08-20T14:04:14",
+      "country": "International",
+      "title_ur": "گیوینتھ پیلٹرو نے مزید تنازعات کو جنم دیا کیونکہ وہ اوپن اے آئی کے سی ای او سیم آلٹ مین کے لیے 'آف دی ریکارڈ' ڈنر پارٹی کی میزبانی کرنے کی افواہیں پھیلا رہی ہیں۔",
+      "desc_ur": "یہ دعوت نامہ بدھ کو تیزی سے وائرل ہو گیا، جس سے سوشل میڈیا پر ردعمل کی لہر دوڑ گئی، X پر ایک تبصرہ نگار نے اس کا موازنہ 'بلیک آئینے کی ایک قسط' سے کیا۔"
+    },
+    {
+      "title": "Frequently asked questions about the active threat to Siemens S7 Series PLCs",
+      "desc": "A joint cybersecurity advisory released by multiple U.S. government agencies warns that threat actors are using AI-generated exploitation scripts to target exposed Siemens S7 Series PLCs across critical infrastructure sectors.Key Takeaways<ol><li>Unattributed…",
+      "source": "Tenable.com",
+      "url": "https://www.tenable.com/blog/frequently-asked-questions-about-the-active-threat-to-siemens-s7-series-plcs",
+      "time": "2026-08-20T14:01:58",
+      "country": "US",
+      "title_ur": "Siemens S7 Series PLCs کو فعال خطرے کے بارے میں اکثر پوچھے گئے سوالات",
+      "desc_ur": "متعدد امریکی حکومتی ایجنسیوں کے ذریعہ جاری کردہ مشترکہ سائبرسیکیوریٹی ایڈوائزری میں خبردار کیا گیا ہے کہ خطرے والے اداکار AI سے پیدا ہونے والے استحصالی اسکرپٹس کا استعمال کر رہے ہیں تاکہ بنیادی ڈھانچے کے اہم شعبوں میں بے نقاب Siemens S7 Series PLCs کو نشانہ بنایا جا سکے۔"
     }
   ],
   "pakistan": [
     {
-      "title": "UK inflation rises to four-month high as energy bills surge",
-      "desc": "Rising energy costs could lead to prolonged inflation, impacting household budgets and potentially prompting further monetary policy adjustments.\nThe post UK inflation rises to four-month high as energy bills surge appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/uk-inflation-four-month-high-energy-bills/",
-      "time": "2026-08-20T13:35:47",
+      "title": "ICC revokes demerit point imposed on Gaddafi Stadium pitch in Pakistan after Australia ODI",
+      "desc": "The International Cricket Council’s appeals panel on Thursday revoked the demerit point imposed on the Gaddafi Stadium pitch in Pakistan. The pitch in Lahore had been handed the demerit point following an unsatisfactory rating for the third ODI between Pakist…",
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/articles/icc-revokes-demerit-point-imposed-141307821.html",
+      "time": "2026-08-20T14:13:07",
       "country": "Pakistan",
-      "title_ur": "توانائی کے بلوں میں اضافے سے برطانیہ کی افراط زر چار ماہ کی بلند ترین سطح پر پہنچ گئی۔",
-      "desc_ur": "توانائی کے بڑھتے ہوئے اخراجات طویل مہنگائی کا باعث بن سکتے ہیں، گھریلو بجٹ کو متاثر کر سکتے ہیں اور ممکنہ طور پر مزید مانیٹری پالیسی ایڈجسٹمنٹ کا باعث بن سکتے ہیں۔\nThe post توانائی کے بلوں میں اضافے سے برطانیہ کی افراط زر چار ماہ کی بلند ترین سطح پر پہنچ گئی appeared first on Crypto Briefing."
+      "title_ur": "آئی سی سی نے آسٹریلیا ون ڈے کے بعد پاکستان میں قذافی اسٹیڈیم کی پچ پر عائد ڈیمیرٹ پوائنٹ منسوخ کر دیا",
+      "desc_ur": "انٹرنیشنل کرکٹ کونسل کے اپیل پینل نے جمعرات کو پاکستان میں قذافی سٹیڈیم کی پچ پر عائد ڈیمیرٹ پوائنٹ کو منسوخ کر دیا۔ پاکستان کے درمیان تیسرے ون ڈے کے لیے غیر اطمینان بخش ریٹنگ کے بعد لاہور کی پچ کو ڈیمیرٹ پوائنٹ دے دیا گیا تھا۔"
     },
     {
-      "title": "Fidan discusses Syria with Egyptian, Saudi counterparts",
-      "desc": "Foreign Minister Hakan Fidan has held separate phone calls with his Egyptian and Saudi counterparts to discuss problems affecting the implementation of the Gaza peace plan and recent developments in Syria.",
-      "source": "Hurriyet Daily News",
-      "url": "https://www.hurriyetdailynews.com/fidan-discusses-gaza-plan-with-egyptian-saudi-counterparts-225866",
-      "time": "2026-08-20T13:31:00",
+      "title": "Oil rises to 3-week high as Iran war impasse fuels Middle East supply concerns",
+      "desc": "Oil prices climbed to three-week highs as uncertainty over the Iran conflict and Strait of Hormuz disruptions raised supply concerns. Brent rose 2.39% to $93.81, while WTI gained 2.89%. Both benchmarks headed for fifth consecutive sessions of gains.",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/oil-rises-to-3-week-high-as-iran-war-impasse-fuels-middle-east-supply-concerns/articleshow/133380064.cms",
+      "time": "2026-08-20T14:04:52",
       "country": "Pakistan",
-      "title_ur": "فیدان نے مصری، سعودی ہم منصبوں کے ساتھ شام پر تبادلہ خیال کیا۔",
-      "desc_ur": "وزیر خارجہ ہاکان فیدان نے اپنے مصری اور سعودی ہم منصبوں کے ساتھ الگ الگ فون کال کی ہے تاکہ غزہ امن منصوبے کے نفاذ اور شام میں حالیہ پیش رفت کو متاثر کرنے والے مسائل پر تبادلہ خیال کیا جا سکے۔"
+      "title_ur": "تیل کی قیمت 3 ہفتے کی بلند ترین سطح پر پہنچ گئی ہے کیونکہ ایران جنگ میں تعطل کے باعث مشرق وسطیٰ میں سپلائی کے خدشات بڑھ گئے ہیں۔",
+      "desc_ur": "تیل کی قیمتیں تین ہفتوں کی بلند ترین سطح پر پہنچ گئیں کیونکہ ایران تنازعہ اور آبنائے ہرمز میں خلل کی وجہ سے سپلائی کے خدشات بڑھ گئے۔ برینٹ 2.39% بڑھ کر $93.81 ہو گیا، جبکہ WTI 2.89% بڑھ گیا۔ دونوں بینچ مارکس فائدے کے مسلسل پانچویں سیشن کی طرف بڑھے۔"
     },
     {
-      "title": "Would Nixon Survive Watergate Today?",
-      "desc": "For over half a century, Richard M. Nixon has been the personification of a bad president and Watergate a byword for political corruption. In 1974, Nixon was forced into an ignominious resignation, forever becoming America’s political bête noire. His administ…",
-      "source": "Fair Observer",
-      "url": "https://www.fairobserver.com/world-news/us-news/would-nixon-survive-watergate-today/",
-      "time": "2026-08-20T13:26:47",
+      "title": "Emergence and phylogeography of the dengue vector Aedes aegypti in Southeastern Iran",
+      "desc": "Author summary Aedes aegypti is the primary vector of dengue, chikungunya, Zika, and yellow fever viruses. Although its distribution has long been restricted to tropical and subtropical regions, its recent detection in southeastern Iran raises new concerns ab…",
+      "source": "Plos.org",
+      "url": "https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0014671",
+      "time": "2026-08-20T14:00:00",
       "country": "Pakistan",
-      "title_ur": "کیا نکسن آج واٹر گیٹ سے بچ جائے گا؟",
-      "desc_ur": "نصف صدی سے زیادہ عرصے سے، رچرڈ ایم نکسن ایک برے صدر اور واٹر گیٹ سیاسی بدعنوانی کے لیے ایک لفظ کا روپ دھار رہے ہیں۔ 1974 میں، نکسن کو ایک ذلت آمیز استعفیٰ دینے پر مجبور کیا گیا، جو ہمیشہ کے لیے امریکہ کا سیاسی بیٹ نوئر بن گیا۔ اس کے منتظم…"
+      "title_ur": "جنوب مشرقی ایران میں ڈینگی ویکٹر ایڈیس ایجپٹی کا ظہور اور فائلوگرافی",
+      "desc_ur": "مصنف کا خلاصہ ایڈیس ایجپٹی ڈینگی، چکن گونیا، زیکا، اور زرد بخار کے وائرس کا بنیادی ویکٹر ہے۔ اگرچہ اس کی تقسیم طویل عرصے سے اشنکٹبندیی اور ذیلی اشنکٹبندیی علاقوں تک محدود ہے، لیکن جنوب مشرقی ایران میں اس کی حالیہ دریافت نے نئے خدشات کو جنم دیا ہے…"
     },
     {
-      "title": "Why a Trump envoy’s Kashmir visit has led to US-Pakistan spat",
-      "desc": "Pakistan says the comments contradict Washington’s position, but experts see them as a diplomatic misstep.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/8/20/why-a-trump-envoys-kashmir-visit-has-led-to-us-pakistan-spat",
-      "time": "2026-08-20T13:18:35",
+      "title": "Why are women not online? A study protocol to understand gender-based digital exclusion among marginalized women in Pakistan and promote digital gender inclusion",
+      "desc": "Background Gender-based digital exclusion remains a major challenge in Pakistan, where women are significantly less likely than men to own mobile phones or access mobile internet. Barriers include family disapproval, sociocultural and religious restrictions, …",
+      "source": "Plos.org",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0356104",
+      "time": "2026-08-20T14:00:00",
       "country": "Pakistan",
-      "title_ur": "ٹرمپ کے ایلچی کا دورہ کشمیر کیوں پاکستان اور امریکہ کے درمیان کشیدگی کا باعث بنا؟",
-      "desc_ur": "پاکستان کا کہنا ہے کہ یہ تبصرے واشنگٹن کے موقف سے متصادم ہیں لیکن ماہرین انہیں سفارتی غلطی کے طور پر دیکھتے ہیں۔"
+      "title_ur": "خواتین آن لائن کیوں نہیں ہیں؟ پاکستان میں پسماندہ خواتین میں صنفی بنیاد پر ڈیجیٹل اخراج کو سمجھنے اور ڈیجیٹل صنفی شمولیت کو فروغ دینے کے لیے ایک مطالعاتی پروٹوکول",
+      "desc_ur": "پس منظر کی صنف پر مبنی ڈیجیٹل اخراج پاکستان میں ایک بڑا چیلنج بنی ہوئی ہے، جہاں خواتین کے موبائل فون رکھنے یا موبائل انٹرنیٹ تک رسائی کے امکانات مردوں کے مقابلے میں نمایاں طور پر کم ہیں۔ رکاوٹوں میں خاندانی ناپسندیدگی، سماجی ثقافتی اور مذہبی پابندیاں شامل ہیں،…"
+    },
+    {
+      "title": "Trump 'running out of options pretty quickly' in Iran as he declares economic warfare",
+      "desc": "President Trump has declared \"economic warfare\" on Iran and threatened \"economic D-Day.\" Meanwhile, 10 Trump-endorsed ...",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/73bcf8800f7f4dd6",
+      "time": "2026-08-20T13:55:26",
+      "country": "Pakistan",
+      "title_ur": "ٹرمپ کے پاس ایران میں 'آپشنز بہت تیزی سے ختم ہو رہے ہیں' کیونکہ اس نے اقتصادی جنگ کا اعلان کیا ہے۔",
+      "desc_ur": "صدر ٹرمپ نے ایران کے خلاف \"معاشی جنگ\" کا اعلان کیا ہے اور \"اقتصادی ڈی ڈے\" کی دھمکی دی ہے۔ دریں اثنا، ٹرمپ کی حمایت یافتہ 10..."
+    },
+    {
+      "title": "England eye first-innings lead over Pakistan as play finally begins",
+      "desc": "Follow live text updates, radio commentary and in-play video highlights as England play Pakistan in the first Test at Headingley.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/cricket/live/c62l8j10kw6t?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "time": "2026-08-20T13:53:53",
+      "country": "Pakistan",
+      "title_ur": "کھیل کے آخر میں شروع ہوتے ہی انگلینڈ کی نظریں پاکستان پر پہلی اننگز کی برتری پر ہیں۔",
+      "desc_ur": "لائیو ٹیکسٹ اپ ڈیٹس، ریڈیو کمنٹری اور ان پلے ویڈیو ہائی لائٹس کو فالو کریں جب کہ انگلینڈ پاکستان سے ہیڈنگلے میں پہلے ٹیسٹ میں کھیلے گا۔"
     }
   ],
   "business": {
