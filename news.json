@@ -1,6 +1,146 @@
 {
-  "generated": "2026-08-21T21:17:30Z",
+  "generated": "2026-08-21T21:47:05Z",
   "world": [
+    {
+      "title": "Introducing cross-Region inference for OpenAI GPT-5.6 models on Amazon Bedrock",
+      "desc": "Amazon Bedrock now offers OpenAI GPT-5.6 models (Sol, Terra, and Luna) in more than 25 AWS Regions with cross-Region inference. Learn how US geographic and global inference profiles route requests for higher throughput, how to call the models with the OpenAI …",
+      "source": "Amazon.com",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-cross-region-inference-for-openai-gpt-5-6-models-on-amazon-bedrock/",
+      "time": "2026-08-20T21:46:03",
+      "country": "US",
+      "title_ur": "Amazon Bedrock پر OpenAI GPT-5.6 ماڈلز کے لیے کراس ریجن کا اندازہ متعارف کرایا جا رہا ہے۔",
+      "desc_ur": "Amazon Bedrock اب OpenAI GPT-5.6 ماڈلز (Sol, Terra, اور Luna) 25 سے زیادہ AWS خطوں میں کراس ریجن انفرنس کے ساتھ پیش کرتا ہے۔ جانیں کہ کس طرح یو ایس جغرافیائی اور عالمی انفرنس پروفائلز کو ہائی تھرو پٹ کے لیے روٹ کی درخواستیں، اوپن اے آئی کے ساتھ ماڈلز کو کال کرنے کا طریقہ…"
+    },
+    {
+      "title": "Trump’s Tech Tensions",
+      "desc": "The administration’s latest strategy document tries to balance technological competition with cooperation.",
+      "source": "Foreign Policy",
+      "url": "http://foreignpolicy.com/2026/08/20/trump-us-national-security-technology-strategy-china/",
+      "time": "2026-08-20T21:43:52",
+      "country": "US",
+      "title_ur": "ٹرمپ کی ٹیک تناؤ",
+      "desc_ur": "انتظامیہ کی تازہ ترین حکمت عملی دستاویز تعاون کے ساتھ تکنیکی مسابقت کو متوازن کرنے کی کوشش کرتی ہے۔"
+    },
+    {
+      "title": "[Eugene Volokh] Suit Over Defendant Allegedly Yanking on Israeli Flag Plaintiff Had Tied Around Neck, Choking Her, Can Go Forward",
+      "desc": "Excerpts from Tuesday's long opinion by Judge Trevor McFadden (D.D.C.) in Sumrall v. Ali: [1.] Kimmara Sumrall and Janine Ali…",
+      "source": "Reason",
+      "url": "https://reason.com/volokh/2026/08/20/suit-over-defendant-allegedly-yanking-on-israeli-flag-plaintiff-had-tied-around-neck-choking-her-can-go-forward/",
+      "time": "2026-08-20T21:43:21",
+      "country": "Israel",
+      "title_ur": "[یوجین وولوخ] مدعا علیہ کے خلاف مقدمہ اسرائیلی پرچم پر مبینہ طور پر جھکانا مدعی نے گلے میں باندھا تھا، اس کا گلا گھونٹ دیا تھا، آگے جا سکتا ہے",
+      "desc_ur": "سمرل بمقابلہ علی میں جج ٹریور میک فیڈن (D.D.C.) کی منگل کی طویل رائے سے اقتباسات: [1.] کمارا سمرل اور جینین علی…"
+    },
+    {
+      "title": "Trump Makes Intervention As Glamorous Aide’s “Dangerous” Secret Is Exposed In Security Leak",
+      "desc": "“Aide is one way to describe a side piece,” a netizen wrote.",
+      "source": "Boredpanda.com",
+      "url": "https://www.boredpanda.com/trump-makes-intervention-as-aides-secret-is-exposed/",
+      "time": "2026-08-20T21:37:51",
+      "country": "US",
+      "title_ur": "ٹرمپ نے مداخلت کی کیونکہ گلیمرس معاون کا \"خطرناک\" راز سیکیورٹی لیک میں بے نقاب ہوا ہے۔",
+      "desc_ur": "ایک نیٹیزین نے لکھا، \"سائیڈ ایک طرف کے ٹکڑے کو بیان کرنے کا ایک طریقہ ہے۔"
+    },
+    {
+      "title": "The Great Replacement Theory comes to Israel: Gadi Eisenkot and the 'Mizrahi Tragedy'",
+      "desc": "Journalist and analyst Avishai Ben-Haim has declared Gadi Eisenkot to be a \"Mizrahi tragedy.\" The Ashkenazi hegemony, according to Ben-Haim, is using Eisenkot i",
+      "source": "Haaretz",
+      "url": "https://www.haaretz.com/opinion/2026-08-21/ty-article-opinion/.premium/the-great-replacement-theory-comes-to-israel-eisenkot-and-the-mizrahi-tragedy/000001a0-20c0-d129-a3ba-62eac6d80000",
+      "time": "2026-08-20T21:37:11",
+      "country": "Israel",
+      "title_ur": "عظیم تبدیلی کا نظریہ اسرائیل میں آیا: گاڈی آئزن کوٹ اور 'مزراہی سانحہ'",
+      "desc_ur": "صحافی اور تجزیہ کار اویشائی بین ہیم نے گڈی آئزن کوٹ کو \"مزارہی سانحہ\" قرار دیا ہے۔ اشکنازی کی بالادستی، بن ہیم کے مطابق، آئزن کوٹ i استعمال کر رہی ہے۔"
+    },
+    {
+      "title": "Ben McKenzie rose to fame in The O.C. Now he’s calling out the harms of cryptocurrency",
+      "desc": "Ben McKenzie, who once starred in hit teen drama The O.C., investigates cryptocurrency in his new documentary Everyone Is Lying to You for Money.",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/radio/thecurrent/ben-mckenzie-cryptocurrency-9.7312533",
+      "time": "2026-08-20T21:36:15",
+      "country": "International",
+      "title_ur": "بین میکنزی او سی میں شہرت کی طرف بڑھ گیا۔ اب وہ cryptocurrency کے نقصانات کو بلا رہا ہے۔",
+      "desc_ur": "بین میک کینزی، جس نے ایک بار کامیاب نوعمر ڈرامہ The O.C. میں اداکاری کی تھی، اپنی نئی دستاویزی فلم ایورین اس لینگ ٹو یو فار منی میں کریپٹو کرنسی کی تحقیقات کرتا ہے۔"
+    },
+    {
+      "title": "Israeli envoy: Turkey 'crossed red line' in Syria",
+      "desc": "Israel struck Syria after receiving intelligence that Turkey planned to significantly expand its military presence in the country, Israeli Ambassador to the United States Yechiel Leiter (pictured) tol...",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/6700764628ae4f28",
+      "time": "2026-08-20T21:35:44",
+      "country": "Israel",
+      "title_ur": "اسرائیلی ایلچی: ترکی نے شام میں 'سرخ لکیر عبور کر لی'",
+      "desc_ur": "اسرائیل نے انٹیلی جنس موصول ہونے کے بعد شام پر حملہ کیا کہ ترکی نے ملک میں اپنی فوجی موجودگی کو نمایاں طور پر بڑھانے کا منصوبہ بنایا ہے، امریکہ میں اسرائیلی سفیر یچیل لیٹر (تصویر میں) ٹول..."
+    },
+    {
+      "title": "Washington Eases Gasoline Rules as Iran Pressure Campaign Jolts Fuel Costs",
+      "desc": "Washington is tightening the screws on Iran and loosening the rules on gasoline at the same time as Americans are paying more than $4 a gallon. The Environmental Protection Agency on Thursday authorized an early switch to cheaper winter-grade gasoline, allowi…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Washington-Eases-Gasoline-Rules-as-Iran-Pressure-Campaign-Jolts-Fuel-Costs.html",
+      "time": "2026-08-20T21:30:00",
+      "country": "Iran",
+      "title_ur": "واشنگٹن نے پٹرول کے قوانین میں نرمی کی کیونکہ ایران پریشر مہم نے ایندھن کی قیمتوں کو جھٹکا دیا",
+      "desc_ur": "واشنگٹن ایران پر پیچ سخت کر رہا ہے اور اسی وقت پٹرول پر قوانین کو ڈھیلا کر رہا ہے جب امریکی 4 ڈالر فی گیلن سے زیادہ ادا کر رہے ہیں۔ انوائرمینٹل پروٹیکشن ایجنسی نے جمعرات کے روز سستے موسم سرما کے درجے کے پٹرول پر ابتدائی سوئچ کی اجازت دی ہے"
+    },
+    {
+      "title": "Army will shut down a unit in Europe focused on learning drone warfare",
+      "desc": "An Army unit based in Europe that was specializing in drone warfare has been directed to end its efforts to learn and use the battlefield technology and retu...",
+      "source": "Yahoo Entertainment",
+      "url": "https://www.yahoo.com/news/us/articles/army-shut-down-unit-europe-212514983.html",
+      "time": "2026-08-20T21:25:14",
+      "country": "US",
+      "title_ur": "فوج یورپ میں ڈرون جنگ سیکھنے پر مرکوز یونٹ کو بند کر دے گی۔",
+      "desc_ur": "یورپ میں مقیم ایک آرمی یونٹ جو ڈرون جنگ میں مہارت حاصل کر رہی تھی، کو ہدایت کی گئی ہے کہ وہ میدان جنگ کی ٹیکنالوجی سیکھنے اور استعمال کرنے کے لیے اپنی کوششیں ختم کر دے۔"
+    },
+    {
+      "title": "Homeowners to move court against blanket action on 2.5k houses in DLF 3",
+      "desc": "DLF Phase 3 U Block: Over 2,500 small homes may face action for alleged violations; residents say only 104 have 7–8+ floors and seek case-by-case review.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/gurgaon/homeowners-to-move-court-against-blanket-action-on-2-5k-houses-in-dlf-3/articleshow/133387609.cms",
+      "time": "2026-08-20T21:24:09",
+      "country": "US",
+      "title_ur": "DLF 3 میں 2.5k گھروں پر بلینکٹ ایکشن کے خلاف گھر کے مالکان عدالت جائیں گے۔",
+      "desc_ur": "ڈی ایل ایف فیز 3 یو بلاک: 2,500 سے زیادہ چھوٹے گھروں کو مبینہ خلاف ورزیوں پر کارروائی کا سامنا کرنا پڑ سکتا ہے۔ رہائشیوں کا کہنا ہے کہ صرف 104 کے پاس 7–8+ منزلیں ہیں اور وہ ہر معاملے کا جائزہ لیتے ہیں۔"
+    },
+    {
+      "title": "Talos Energy, Transocean, HighPeak Energy, and Murphy Oil Shares Are Soaring, What You Need To Know",
+      "desc": "What Happened?\nA number of stocks jumped in the morning session after energy prices soared as President Donald Trump announced broader economic warfare against Iran.\nTrump stated on social media platform Truth Social that he would launch 'the most crushing ec…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/6910d0a8be2ee463",
+      "time": "2026-08-20T21:23:02",
+      "country": "Iran",
+      "title_ur": "Talos Energy، Transocean، HighPeak Energy، اور مرفی آئل کے حصص بڑھ رہے ہیں، آپ کو کیا جاننے کی ضرورت ہے",
+      "desc_ur": "کیا ہوا؟\nصدر ڈونلڈ ٹرمپ کی جانب سے ایران کے خلاف وسیع تر اقتصادی جنگ کے اعلان کے بعد توانائی کی قیمتوں میں اضافے کے بعد صبح کے سیشن میں متعدد اسٹاکس میں اضافہ ہوا۔\nٹرمپ نے سوشل میڈیا پلیٹ فارم ٹروتھ سوشل پر کہا کہ وہ 'سب سے زیادہ کرشنگ ای سی..."
+    },
+    {
+      "title": "America’s Trading Partners Question White House Allegations of ‘Great Transshipment Scam’",
+      "desc": "According to the report, China represents the nucleus of the transshipment issue—an assertion China’s Commerce Ministry said Thursday \"disregards facts and distorts the truth.”",
+      "source": "WWD",
+      "url": "http://wwd.com/sourcing-journal/trade/white-house-great-transshipment-scam-trade-tariffs-trump-1239145267/",
+      "time": "2026-08-20T21:20:43",
+      "country": "China",
+      "title_ur": "امریکہ کے تجارتی شراکت داروں نے وائٹ ہاؤس پر 'عظیم ٹرانس شپمنٹ اسکینڈل' کے الزامات پر سوال کیا",
+      "desc_ur": "رپورٹ کے مطابق، چین ٹرانس شپمنٹ کے معاملے کے مرکز کی نمائندگی کرتا ہے- ایک دعویٰ چین کی وزارت تجارت نے جمعرات کو کہا کہ \"حقائق کو نظر انداز کرتا ہے اور سچ کو توڑ مروڑ کر پیش کرتا ہے۔\""
+    },
+    {
+      "title": "6 Indians on board hijacked cargo ship carrying Turkish weapons off Somalia's coast",
+      "desc": "Rest of World News: Six Indians were among the 10-member crew of a Cameroon-flagged cargo ship hijacked by pirates off Somalia’s Puntland coast earlier this week, news ag.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/6-indians-on-board-hijacked-cargo-ship-carrying-turkish-weapons-off-somalias-coast/articleshow/133387586.cms",
+      "time": "2026-08-20T21:20:39",
+      "country": "India",
+      "title_ur": "صومالیہ کے ساحل سے ترک ہتھیاروں سے لدے مال بردار جہاز کو ہائی جیک کرنے والے 6 ہندوستانی",
+      "desc_ur": "باقی دنیا کی خبریں: اس ہفتے کے شروع میں صومالیہ کے پنٹ لینڈ ساحل سے قزاقوں کے ذریعے ہائی جیک کیے گئے کیمرون کے جھنڈے والے کارگو جہاز کے 10 رکنی عملے میں چھ ہندوستانی شامل تھے۔"
+    },
+    {
+      "title": "AI\"s Bar Mitzvah Moment: From Hype & Hope to Business Questions!",
+      "desc": "",
+      "source": "Blogger.com",
+      "url": "https://www.blogger.com/browser-not-supported/?ref=/comment/fullpage/post/8152901575140311047/9193980372627956092",
+      "time": "2026-08-20T21:18:56",
+      "country": "US",
+      "title_ur": "AI's Bar Mitzvah Moment: Hype & Hope سے لے کر کاروباری سوالات تک!",
+      "desc_ur": ""
+    },
     {
       "title": "Canada says trade deal with US is very close, more work needed",
       "desc": "A near trade deal could stabilize North American commerce, boost industries, and strengthen economic ties, but risks remain if talks falter.\nThe post Canada says trade deal with US is very close, more work needed appeared first on Crypto Briefing.",
@@ -10,149 +150,19 @@
       "country": "US",
       "title_ur": "کینیڈا کا کہنا ہے کہ امریکہ کے ساتھ تجارتی معاہدہ بہت قریب ہے، مزید کام کی ضرورت ہے۔",
       "desc_ur": "قریب قریب تجارتی معاہدہ شمالی امریکہ کی تجارت کو مستحکم کر سکتا ہے، صنعتوں کو فروغ دے سکتا ہے، اور اقتصادی تعلقات کو مضبوط کر سکتا ہے، لیکن اگر بات چیت میں خلل پڑتا ہے تو خطرات باقی ہیں۔\nThe post کینیڈا کا کہنا ہے کہ امریکا کے ساتھ تجارتی معاہدہ بہت قریب ہے، مزید کام کی ضرورت appeared first on Crypto Briefing."
-    },
-    {
-      "title": "The Dictatorship Next Door: Cuba and the Fight for the Western Hemisphere",
-      "desc": "Key Takeaways « For 67 years, the Cuban regime has brutalized its own people to preserve its grip on power—imprisoning dissidents, suppressing fundamental freedoms, crushing free speech, destroying economic opportunity, separating families, driving millions i…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4392540/posts",
-      "time": "2026-08-20T21:13:10",
-      "country": "US",
-      "title_ur": "اگلے دروازے پر آمریت: کیوبا اور مغربی نصف کرہ کے لیے لڑائی",
-      "desc_ur": "اہم نکات »67 سالوں سے، کیوبا کی حکومت نے اقتدار پر اپنی گرفت برقرار رکھنے کے لیے اپنے ہی لوگوں کو بربریت کا نشانہ بنایا ہے — مخالفوں کو قید کرنا، بنیادی آزادیوں کو دبانا، آزادی اظہار کو کچلنا، معاشی مواقع کو تباہ کرنا، خاندانوں کو الگ کرنا، لاکھوں لوگوں کو ڈرائیونگ کرنا…"
-    },
-    {
-      "title": "Bessent Says He Doesn’t “Understand” Oil Price Spike After Trump War Escalation",
-      "desc": "Oil prices rose after Trump threatened “ECONOMIC D-DAY,” then again after Bessent vowed to “collapse” Iran’s government.",
-      "source": "Truthout",
-      "url": "https://truthout.org/articles/bessent-says-he-doesnt-understand-oil-price-spike-after-trump-war-escalation/",
-      "time": "2026-08-20T21:12:01",
-      "country": "Iran",
-      "title_ur": "بیسنٹ کا کہنا ہے کہ وہ ٹرمپ جنگ میں اضافے کے بعد تیل کی قیمتوں میں اضافے کو نہیں سمجھتے",
-      "desc_ur": "تیل کی قیمتوں میں اس وقت اضافہ ہوا جب ٹرمپ نے \"Economic D-DAY\" کی دھمکی دی، پھر بیسنٹ کی جانب سے ایران کی حکومت کو \"گرنے\" کے عزم کے بعد دوبارہ۔"
-    },
-    {
-      "title": "Syrian and Turkish sources: Netanyahu seeking escalation, we're not interested",
-      "desc": "Syrian officials worry that Turkey's moves to court Damascus could be interpreted in Israel as provocations and lead to a further escalation, one which Syria is unprepared for, a Syrian source said. Ankara, meanwhile, expects Washington to rein Israel in",
-      "source": "Haaretz",
-      "url": "https://www.haaretz.com/middle-east-news/syria/2026-08-21/ty-article/.premium/syrian-and-turkish-sources-netanyahu-seeking-escalation-were-not-interested/000001a0-2093-d129-a3ba-62bb75ea0000",
-      "time": "2026-08-20T21:09:28",
-      "country": "Israel",
-      "title_ur": "شامی اور ترک ذرائع: نیتن یاہو کشیدگی میں اضافہ چاہتے ہیں، ہمیں کوئی دلچسپی نہیں ہے۔",
-      "desc_ur": "شامی حکام کو خدشہ ہے کہ دمشق کی عدالت میں ترکی کے اقدام کو اسرائیل میں اشتعال انگیزی سے تعبیر کیا جا سکتا ہے اور یہ مزید کشیدگی کا باعث بن سکتا ہے، جس کے لیے شام تیار نہیں ہے۔ دریں اثنا، انقرہ توقع کرتا ہے کہ واشنگٹن اسرائیل کو لگام دے گا۔"
-    },
-    {
-      "title": "Watch | Netanyahu at pop star Eden Ben Zaken’s concert: Am Yisrael Chai",
-      "desc": "Prime Minister speaks with the singer during her concert: “It’s wonderful to be with our amazing people and with you.\"",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/432020",
-      "time": "2026-08-20T21:09:17",
-      "country": "Israel",
-      "title_ur": "دیکھو | نیتن یاہو پاپ اسٹار ایڈن بین زاکن کے کنسرٹ میں: ایم یسرائیل چائی",
-      "desc_ur": "وزیر اعظم نے اپنے کنسرٹ کے دوران گلوکارہ کے ساتھ بات کی: \"ہمارے حیرت انگیز لوگوں اور آپ کے ساتھ رہنا بہت اچھا ہے۔\""
-    },
-    {
-      "title": "US hits Hezbollah with more sanctions, says Iran controls it",
-      "desc": "Washington designated Hezbollah as a \"foreign terrorist organization\" in 1997, and in 2001 updated its label to a \"specially designated global terrorist\" group.\nThe post US hits Hezbollah with more sanctions, says Iran controls it appeared first on Vanguard N…",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/08/us-hits-hezbollah-with-more-sanctions-says-iran-controls-it/",
-      "time": "2026-08-20T21:08:03",
-      "country": "Iran",
-      "title_ur": "امریکا نے حزب اللہ پر مزید پابندیاں لگا دیں، ایران کا کہنا ہے کہ اس پر پابندیاں عائد ہیں۔",
-      "desc_ur": "واشنگٹن نے 1997 میں حزب اللہ کو \"غیر ملکی دہشت گرد تنظیم\" کے طور پر نامزد کیا، اور 2001 میں اس کے لیبل کو \"خصوصی طور پر نامزد عالمی دہشت گرد\" گروپ کے طور پر اپ ڈیٹ کیا۔\nThe post امریکا نے حزب اللہ پر مزید پابندیاں لگا دیں، ایران کا کہنا ہے کہ وہ اس پر کنٹرول رکھتا ہے appeared first on Vanguard N…"
-    },
-    {
-      "title": "Google AI Giving Staggeringly Racist “Advice” About Being Alone With Certain Groups of People",
-      "desc": "\"Leave the area or call emergency services right away.\"\nThe post Google AI Giving Staggeringly Racist “Advice” About Being Alone With Certain Groups of People appeared first on Futurism.",
-      "source": "Futurism",
-      "url": "https://futurism.com/artificial-intelligence/google-ai-racist",
-      "time": "2026-08-20T21:06:40",
-      "country": "International",
-      "title_ur": "گوگل اے آئی لوگوں کے مخصوص گروہوں کے ساتھ تنہا رہنے کے بارے میں حیرت انگیز طور پر نسل پرستانہ \"مشورہ\" دے رہا ہے۔",
-      "desc_ur": "\"علاقہ چھوڑ دیں یا فوری طور پر ایمرجنسی سروسز کو کال کریں۔\"\nThe post گوگل اے آئی لوگوں کے مخصوص گروہوں کے ساتھ تنہا رہنے کے بارے میں حیرت انگیز طور پر نسل پرستانہ \"مشورہ\" دے رہا ہے appeared first on Futurism."
-    },
-    {
-      "title": "USS Lincoln Leaving Middle East After 9-Month Extended Deployment",
-      "desc": "The Asia-based USS George Washington aircraft carrier is now operating in the Arabian Sea to replace the previous carrier facing poor conditions.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/uss-lincoln-leaving-middle-east-replaced_n_6a876a88e4b0f5925a147d19",
-      "time": "2026-08-20T21:05:22",
-      "country": "US",
-      "title_ur": "یو ایس ایس لنکن 9 ماہ کی توسیعی تعیناتی کے بعد مشرق وسطی سے روانہ ہو رہا ہے۔",
-      "desc_ur": "ایشیا میں مقیم یو ایس ایس جارج واشنگٹن طیارہ بردار بحری جہاز اب بحیرہ عرب میں کام کر رہا ہے تاکہ خراب حالات کا سامنا کرنے والے سابقہ ​​بحری جہاز کی جگہ لے سکے۔"
-    },
-    {
-      "title": "US-Iran war brings Air India Group's international carriage down 35%, IndiGo's 15.4%",
-      "desc": "India Business News: NEW DELHI: The US-Iran war's impact on international air travel globally has, from an Indian perspective, hit homegrown carriers harder than foreign o.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/us-iran-war-brings-air-india-groups-international-carriage-down-35-indigos-15-4/articleshow/133387543.cms",
-      "time": "2026-08-20T21:04:47",
-      "country": "Iran",
-      "title_ur": "امریکہ ایران جنگ نے ایئر انڈیا گروپ کی بین الاقوامی گاڑیوں میں 35 فیصد، انڈیگو کی 15.4 فیصد کمی لائی",
-      "desc_ur": "انڈیا بزنس نیوز: نئی دہلی: عالمی سطح پر بین الاقوامی ہوائی سفر پر امریکہ-ایران جنگ کے اثرات نے، ہندوستانی نقطہ نظر سے، غیر ملکی جہازوں کے مقابلے میں آبائی جہازوں کو زیادہ نقصان پہنچایا ہے۔"
-    },
-    {
-      "title": "The IDF's Gaza investigations aren't professionalism – they're political theater",
-      "desc": "The Israel Defense Forces Spokesperson's Unit issued a statement Wednesday detailing the results of an examination of five incidents in which noncombatants were",
-      "source": "Haaretz",
-      "url": "https://www.haaretz.com/opinion/editorial/2026-08-21/ty-article-opinion/the-idfs-gaza-investigations-arent-professionalism-theyre-political-theater/000001a0-20ae-d129-a3ba-62ae39b40000",
-      "time": "2026-08-20T21:04:30",
-      "country": "Israel",
-      "title_ur": "IDF کی غزہ کی تحقیقات پیشہ ورانہ مہارت نہیں - یہ سیاسی تھیٹر ہیں۔",
-      "desc_ur": "اسرائیل ڈیفنس فورسز کے ترجمان یونٹ نے بدھ کو ایک بیان جاری کیا جس میں پانچ واقعات کی جانچ کے نتائج کی تفصیل دی گئی جن میں غیر جنگجو تھے۔"
-    },
-    {
-      "title": "Trump Declares ‘Economic D-Day,’ Threatens Sanctions for Dealing with Iran",
-      "desc": "President Donald Trump declared all-out economic warfare against the Iranian regime in a social media post on Wednesday, comparing his strategy to the D-Day invasion of Normandy in World War II and threatening “tremendous economic consequences” for any countr…",
-      "source": "Breitbart News",
-      "url": "https://www.breitbart.com/middle-east/2026/08/20/trump-declares-economic-d-day-threatens-sanctions-for-dealing-with-iran/",
-      "time": "2026-08-20T21:03:30",
-      "country": "Iran",
-      "title_ur": "ٹرمپ نے 'اقتصادی ڈی ڈے' کا اعلان کیا، ایران کے ساتھ ڈیل کے لیے پابندیوں کی دھمکی",
-      "desc_ur": "صدر ڈونلڈ ٹرمپ نے بدھ کے روز ایک سوشل میڈیا پوسٹ میں ایرانی حکومت کے خلاف مکمل اقتصادی جنگ کا اعلان کیا، اپنی حکمت عملی کا موازنہ دوسری جنگ عظیم میں نارمنڈی کے ڈی ڈے حملے سے کیا اور کسی بھی ملک کے لیے \"زبردست اقتصادی نتائج\" کی دھمکی دی۔"
-    },
-    {
-      "title": "Trading Day: Can't get no relief",
-      "desc": "ORLANDO, Florida, Aug 20 : That didn't last long. U.S. bond yields rose on Thursday, retracing much of the previous day's decline on Treasury's surprise buyback announcement and pushing Wall Street to a two-week low. Another rise in oil prices, and a rare sal…",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/trading-day-cant-get-no-relief-6332116",
-      "time": "2026-08-20T21:02:31",
-      "country": "US",
-      "title_ur": "تجارتی دن: کوئی ریلیف نہیں مل سکتا",
-      "desc_ur": "اورلینڈو، فلوریڈا، 20 اگست: یہ زیادہ دیر نہیں چل سکا۔ جمعرات کو یو ایس بانڈ کی پیداوار میں اضافہ ہوا، جس نے ٹریژری کے حیران کن بائ بیک اعلان پر گزشتہ روز کی کمی کو پیچھے چھوڑ دیا اور وال سٹریٹ کو دو ہفتے کی کم ترین سطح پر دھکیل دیا۔ تیل کی قیمتوں میں ایک اور اضافہ، اور نایاب سال…"
-    },
-    {
-      "title": "More Than 150 Polymarket Wallets May Have Traded On Military Secrets, Research Finds",
-      "desc": "Polymarket’s international platform settles trades on a blockchain, meaning wagers are public, although traders remain anonymous.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/polymarket-wallets-military-secrets_n_6a876950e4b0f5925a147cbc",
-      "time": "2026-08-20T21:00:30",
-      "country": "US",
-      "title_ur": "150 سے زیادہ پولی مارکیٹ والیٹس نے فوجی رازوں پر تجارت کی ہو سکتی ہے، تحقیق",
-      "desc_ur": "پولی مارکیٹ کا بین الاقوامی پلیٹ فارم بلاک چین پر تجارت طے کرتا ہے، یعنی اجرت عام ہے، حالانکہ تاجر گمنام رہتے ہیں۔"
-    },
-    {
-      "title": "How Solar Panel Prices Fell 90 Percent In 15 Years",
-      "desc": "Solar power is far and away the world’s fastest-growing form of energy production, beating out every other form of energy on Earth in 2025. Despite a recent political pivot away from renewable energies in the world’s largest economy, solar power additions con…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Alternative-Energy/Solar-Energy/How-Solar-Panel-Prices-Fell-90-Percent-In-15-Years.html",
-      "time": "2026-08-20T21:00:00",
-      "country": "International",
-      "title_ur": "سولر پینل کی قیمتیں 15 سالوں میں 90 فیصد کیسے کم ہوئیں؟",
-      "desc_ur": "شمسی توانائی توانائی کی پیداوار کی دنیا کی سب سے تیزی سے بڑھتی ہوئی شکل ہے، جو کہ 2025 میں زمین پر توانائی کی ہر دوسری شکل کو پیچھے چھوڑ رہی ہے۔ دنیا کی سب سے بڑی معیشت میں قابل تجدید توانائیوں سے دور حالیہ سیاسی محور کے باوجود، شمسی توانائی کے اضافے سے…"
-    },
-    {
-      "title": "Victor Davis Hanson: The American Tech Boom No One Is Talking About",
-      "desc": "Editor’s note: This is a lightly edited transcript of today’s video from Daily Signal senior contributor Victor Davis Hanson. Subscribe to our YouTube channel to see more of his videos. Hello, this is Victor Davis Hanson for The Daily Signal.   During this mi…",
-      "source": "Daily Signal",
-      "url": "https://www.dailysignal.com/2026/08/20/hanson-the-american-tech-boom/",
-      "time": "2026-08-20T21:00:00",
-      "country": "US",
-      "title_ur": "وکٹر ڈیوس ہینسن: امریکی ٹیک بوم کے بارے میں کوئی بات نہیں کر رہا ہے۔",
-      "desc_ur": "ایڈیٹر کا نوٹ: یہ ڈیلی سگنل کے سینئر معاون وکٹر ڈیوس ہینسن کی جانب سے آج کی ویڈیو کا ہلکا سا ترمیم شدہ ٹرانسکرپٹ ہے۔ اس کی مزید ویڈیوز دیکھنے کے لیے ہمارے یوٹیوب چینل کو سبسکرائب کریں۔ ہیلو، یہ ڈیلی سگنل کے لیے وکٹر ڈیوس ہینسن ہے۔   اس دوران…"
     }
   ],
   "pakistan": [
+    {
+      "title": "Pakistan’s ex-PM Imran Khan reportedly moved to hospital from jail",
+      "desc": "Former leader was escorted from Adiala jail to Shifa International Hospital, following court order, local media reports.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/8/20/pakistans-ex-pm-imran-khan-transferred-from-jail-to-hospital",
+      "time": "2026-08-20T21:18:10",
+      "country": "Pakistan",
+      "title_ur": "پاکستان کے سابق وزیراعظم عمران خان مبینہ طور پر جیل سے ہسپتال منتقل ہو گئے۔",
+      "desc_ur": "مقامی میڈیا رپورٹس کے مطابق سابق رہنما کو عدالتی حکم کے بعد اڈیالہ جیل سے شفا انٹرنیشنل ہسپتال لے جایا گیا۔"
+    },
     {
       "title": "Pakistan may consider private hospital treatment for imprisoned ex-PM Khan, minister says",
       "desc": "Local media reported that former Pakistani Prime Minister Imran Khan was taken from prison to a hospital under tight security, after the government said it would comply with the Supreme Court order.",
@@ -162,36 +172,6 @@
       "country": "Pakistan",
       "title_ur": "وزیر کا کہنا ہے کہ پاکستان قید سابق وزیر اعظم خان کے نجی اسپتال میں علاج پر غور کر سکتا ہے۔",
       "desc_ur": "مقامی میڈیا نے رپورٹ کیا کہ سابق پاکستانی وزیر اعظم عمران خان کو سخت سیکیورٹی میں جیل سے اسپتال لے جایا گیا، جب حکومت نے کہا کہ وہ سپریم کورٹ کے حکم کی تعمیل کرے گی۔"
-    },
-    {
-      "title": "Ben Gurion strike fallout | Netanyahu orders removal of Airport Workers’ chief from Likud",
-      "desc": "Netanyahu’s associates furious over the move by Pinchas Idan, chairman of the Israel Airports Authority workers’ union, prompting the Prime Minister to order his removal from Likud.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/432019",
-      "time": "2026-08-20T20:46:09",
-      "country": "Pakistan",
-      "title_ur": "بین گوریون ہڑتال کا نتیجہ | نیتن یاہو نے ہوائی اڈے کے کارکنوں کے سربراہ کو لیکوڈ سے ہٹانے کا حکم دیا۔",
-      "desc_ur": "نیتن یاہو کے ساتھی اسرائیل ایئرپورٹس اتھارٹی ورکرز یونین کے چیئرمین پنچاس ایڈان کے اس اقدام پر مشتعل ہیں، جس نے وزیر اعظم کو لیکوڈ سے ان کی برطرفی کا حکم دینے پر اکسایا۔"
-    },
-    {
-      "title": "Jailed Pakistan ex-PM Imran Khan taken to hospital for treatment",
-      "desc": "Khan was taken from Adiala jail and sent to Shifa International Hospital under heavy security, local media report.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ckgdr9vr50po",
-      "time": "2026-08-20T20:41:48",
-      "country": "Pakistan",
-      "title_ur": "جیل میں بند پاکستان کے سابق وزیراعظم عمران خان کو علاج کے لیے ہسپتال لے جایا گیا۔",
-      "desc_ur": "مقامی میڈیا کی رپورٹ کے مطابق، خان کو اڈیالہ جیل سے لے جایا گیا اور سخت سیکیورٹی میں شفا انٹرنیشنل ہسپتال بھیج دیا گیا۔"
-    },
-    {
-      "title": "US pummels Cuban economy with new sanctions on mining, construction",
-      "desc": "US economic restrictions have strained the island's already fragile economy, prompting blackouts and medical shortages.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/8/20/us-pummels-cuban-economy-with-new-sanctions-on-mining-construction",
-      "time": "2026-08-20T20:37:25",
-      "country": "Pakistan",
-      "title_ur": "امریکہ نے کان کنی، تعمیرات پر نئی پابندیوں کے ساتھ کیوبا کی معیشت کو دھکیل دیا۔",
-      "desc_ur": "امریکی اقتصادی پابندیوں نے جزیرے کی پہلے سے ہی کمزور معیشت کو دبا دیا ہے، جس سے بلیک آؤٹ اور طبی قلت پیدا ہو گئی ہے۔"
     }
   ],
   "business": {
