@@ -1,6 +1,106 @@
 {
-  "generated": "2026-08-22T22:15:04Z",
+  "generated": "2026-08-22T22:45:54Z",
   "world": [
+    {
+      "title": "Tehran says war with U.S. must end, as world now recognizes Iran's victory",
+      "desc": "The Iranian parliament speaker said Tehran must prepare for 'unjust U.S. sanctions.' This came after the U.S. Treasury secretary announced additional sanctions against Iran, which he described as the toughest sanctions imposed to date",
+      "source": "Haaretz",
+      "url": "https://www.haaretz.com/middle-east-news/iran/2026-08-22/ty-article/tehran-says-war-with-u-s-must-end-as-world-now-recognizes-irans-victory/000001a0-2651-d129-a3ba-667b4a100000",
+      "time": "2026-08-21T22:45:26",
+      "country": "Iran",
+      "title_ur": "Tehran says war with U.S. must end, as world now recognizes Iran's victory",
+      "desc_ur": "The Iranian parliament speaker said Tehran must prepare for 'unjust U.S. sanctions.' This came after the U.S. Treasury secretary announced additional sanctions against Iran, which he described as the toughest sanctions imposed to date"
+    },
+    {
+      "title": "Pentagon Fires Stars and Stripes' Publisher, Editor-In-Chief and a Reporter",
+      "desc": "The announcement was made Friday by the publication itself, coming hours after the publisher said he was planning to retire after three decades.",
+      "source": "Military.com",
+      "url": "https://military.com/pentagon-fires-stars-and-stripes-publisher-editor-chief-reporter",
+      "time": "2026-08-21T22:45:07",
+      "country": "International",
+      "title_ur": "Pentagon Fires Stars and Stripes' Publisher, Editor-In-Chief and a Reporter",
+      "desc_ur": "The announcement was made Friday by the publication itself, coming hours after the publisher said he was planning to retire after three decades."
+    },
+    {
+      "title": "Mark Ruffalo Slams Ellisons’ Ties To Oracle Amid Paramount-WBD Merger: “Really Profoundly Scary People”",
+      "desc": "As Mayor Karen Bass shows her support for the Paramount-Warner Bros merger, Mark Ruffalo is continuing to fight the acquisition. On Friday, the 4x Oscar nominee called out the Ellisons ties to Oracle, sharing a video of the tech company’s executive vice chair…",
+      "source": "Deadline",
+      "url": "http://deadline.com/2026/08/mark-ruffalo-slams-ellisons-ties-oracle-paramount-wbd-1237047889/",
+      "time": "2026-08-21T22:41:13",
+      "country": "International",
+      "title_ur": "Mark Ruffalo Slams Ellisons’ Ties To Oracle Amid Paramount-WBD Merger: “Really Profoundly Scary People”",
+      "desc_ur": "As Mayor Karen Bass shows her support for the Paramount-Warner Bros merger, Mark Ruffalo is continuing to fight the acquisition. On Friday, the 4x Oscar nominee called out the Ellisons ties to Oracle, sharing a video of the tech company’s executive vice chair…"
+    },
+    {
+      "title": "U.S. ambassador responds to rising tensions between Israel, Turkey and Syria",
+      "desc": "The Israeli military bombed an airbase in Syria, far from the Israeli border, sparking condemnation not only from Syria, but also Turkey and the Trump administration. U.S. Ambassador to Turkey Tom Barrack accused Israel of an \"unnecessary escalation that does…",
+      "source": "PBS",
+      "url": "https://www.pbs.org/newshour/show/u-s-ambassador-responds-to-rising-tensions-between-israel-turkey-and-syria",
+      "time": "2026-08-21T22:35:17",
+      "country": "Israel",
+      "title_ur": "U.S. ambassador responds to rising tensions between Israel, Turkey and Syria",
+      "desc_ur": "The Israeli military bombed an airbase in Syria, far from the Israeli border, sparking condemnation not only from Syria, but also Turkey and the Trump administration. U.S. Ambassador to Turkey Tom Barrack accused Israel of an \"unnecessary escalation that does…"
+    },
+    {
+      "title": "Republican's move to snatch Dem votes crashes into brick wall: report",
+      "desc": "MAGA-loyalist Michigan Senate candidate Mike Rogers is trying to court Jewish Democrats to defect to his campaign — but so far, his messaging has not landed, local Jewish leaders are saying.Rogers, who lost his 2024 Senate race by fewer than 20,000 votes, is …",
+      "source": "Raw Story",
+      "url": "https://www.rawstory.com/mike-rogers-2677757646/",
+      "time": "2026-08-21T22:29:01",
+      "country": "International",
+      "title_ur": "Republican's move to snatch Dem votes crashes into brick wall: report",
+      "desc_ur": "MAGA-loyalist Michigan Senate candidate Mike Rogers is trying to court Jewish Democrats to defect to his campaign — but so far, his messaging has not landed, local Jewish leaders are saying.Rogers, who lost his 2024 Senate race by fewer than 20,000 votes, is …"
+    },
+    {
+      "title": "Johor Darul Ta'zim set world record with 109-game unbeaten league run",
+      "desc": "Malaysian champions surpass ASEC Mimosas' 108-match mark with 3-0 win over Kuching City.",
+      "source": "Sporting News",
+      "url": "https://www.sportingnews.com/us/soccer/news/johor-darul-tazim-set-world-record-109-game-unbeaten-league-run/3b9fdd5a7d5c7d8526d762d2",
+      "time": "2026-08-21T22:26:24",
+      "country": "International",
+      "title_ur": "Johor Darul Ta'zim set world record with 109-game unbeaten league run",
+      "desc_ur": "Malaysian champions surpass ASEC Mimosas' 108-match mark with 3-0 win over Kuching City."
+    },
+    {
+      "title": "Palestine Action activists spared terrorist sentences over UK bank attack",
+      "desc": "Five Palestine Action activists convicted of causing £200,000 in damage at a Barclays branch will not receive terrorist sentences.(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time po…",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/flashes/692185",
+      "time": "2026-08-21T22:26:20",
+      "country": "Israel",
+      "title_ur": "Palestine Action activists spared terrorist sentences over UK bank attack",
+      "desc_ur": "Five Palestine Action activists convicted of causing £200,000 in damage at a Barclays branch will not receive terrorist sentences.(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time po…"
+    },
+    {
+      "title": "US Treasury Secretary Bessent to hold press conference on Monday",
+      "desc": "U.S. Treasury Secretary Scott Bessent will hold a press conference on Monday, according to a statement, after the U.S. warned of more sanctions against Iran and took steps to try to lower long-dated Treasury bond yields.\n• The press conference, which will be …",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/44887049229cb27a",
+      "time": "2026-08-21T22:26:14",
+      "country": "Iran",
+      "title_ur": "US Treasury Secretary Bessent to hold press conference on Monday",
+      "desc_ur": "U.S. Treasury Secretary Scott Bessent will hold a press conference on Monday, according to a statement, after the U.S. warned of more sanctions against Iran and took steps to try to lower long-dated Treasury bond yields.\n• The press conference, which will be …"
+    },
+    {
+      "title": "Pentagon fires longtime publisher, editor, reporter from military newspaper Stars and Stripes",
+      "desc": "The Pentagon fired three staffers from the military newspaper Stars and Stripes, including longtime publisher Max Lederer, for alleged insubordination.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/media/pentagon-fires-longtime-publisher-editor-reporter-military-newspaper-stars-stripes",
+      "time": "2026-08-21T22:19:18",
+      "country": "International",
+      "title_ur": "Pentagon fires longtime publisher, editor, reporter from military newspaper Stars and Stripes",
+      "desc_ur": "The Pentagon fired three staffers from the military newspaper Stars and Stripes, including longtime publisher Max Lederer, for alleged insubordination."
+    },
+    {
+      "title": "Thank You for Your Inattention to This Matter",
+      "desc": "The good news is that the world has stopped responding breathlessly to Donald Trump’s every empty provocation. That’s also the bad news.",
+      "source": "The Atlantic",
+      "url": "https://www.theatlantic.com/newsletters/2026/08/trump-inattention-iran-war/688381/",
+      "time": "2026-08-21T22:16:00",
+      "country": "US",
+      "title_ur": "Thank You for Your Inattention to This Matter",
+      "desc_ur": "The good news is that the world has stopped responding breathlessly to Donald Trump’s every empty provocation. That’s also the bad news."
+    },
     {
       "title": "US Treasury Secretary Bessent to hold press conference on Monday",
       "desc": "Treasury Secretary Scott Bessent will hold a press conference ‌on Monday, according to a statement, after ‌the U. warned of more sanctions against Iran and t...",
@@ -43,113 +143,13 @@
     },
     {
       "title": "Britain, Canada and Australia condemn Israel's WCK decision as 'shameful'",
-      "desc": "Britain, Canada and Australia condemn Israel's decision not to pursue criminal probes over the 2024 deaths in Gaza of seven World Central Kitchen aid workers.",
+      "desc": "Britain, Canada and Australia condemn Israel's decision not to pursue criminal probes over the 2024 deaths in Gaza of seven World Central Kitchen aid workers.(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shab…",
       "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/432067",
+      "url": "https://www.israelnationalnews.com/flashes/692184",
       "time": "2026-08-21T21:54:25",
       "country": "Israel",
       "title_ur": "Britain, Canada and Australia condemn Israel's WCK decision as 'shameful'",
-      "desc_ur": "Britain, Canada and Australia condemn Israel's decision not to pursue criminal probes over the 2024 deaths in Gaza of seven World Central Kitchen aid workers."
-    },
-    {
-      "title": "In Iran, Contact With Foreigners May Be a Crime",
-      "desc": "Iran is moving to treat talking to the outside world as a crime. Parliament this week backed a measure that would criminalize virtually any contact with foreign media, embassies, or institutions—inside or outside the country—unless Iranians get written cleara…",
-      "source": "Newser",
-      "url": "https://www.newser.com/story/395066/in-iran-contact-with-foreigners-may-be-a-crime.html",
-      "time": "2026-08-21T21:52:29",
-      "country": "Iran",
-      "title_ur": "In Iran, Contact With Foreigners May Be a Crime",
-      "desc_ur": "Iran is moving to treat talking to the outside world as a crime. Parliament this week backed a measure that would criminalize virtually any contact with foreign media, embassies, or institutions—inside or outside the country—unless Iranians get written cleara…"
-    },
-    {
-      "title": "Trump’s Iran Credibility Problem",
-      "desc": "Will the President really follow through on his new economic threats?",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/34e98aa9d40544d2",
-      "time": "2026-08-21T21:52:12",
-      "country": "Iran",
-      "title_ur": "Trump’s Iran Credibility Problem",
-      "desc_ur": "Will the President really follow through on his new economic threats?"
-    },
-    {
-      "title": "Today in sports history, September 9",
-      "desc": "Today in sports history, September 9",
-      "source": "USA Today",
-      "url": "https://www.usatoday.com/story/sports/history/2026/08/21/today-in-sports-history-september-9/91411500007/",
-      "time": "2026-08-21T21:40:48",
-      "country": "International",
-      "title_ur": "Today in sports history, September 9",
-      "desc_ur": "Today in sports history, September 9"
-    },
-    {
-      "title": "Mexico Governor Ruben Rocha returns to office despite US criminal charges",
-      "desc": "The governor, who leads the state of Sinaloa, has been accused by the Trump administration of partnering with a cartel.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/8/21/mexico-governor-ruben-rocha-returns-to-office-despite-us-criminal-charges",
-      "time": "2026-08-21T21:38:32",
-      "country": "US",
-      "title_ur": "Mexico Governor Ruben Rocha returns to office despite US criminal charges",
-      "desc_ur": "The governor, who leads the state of Sinaloa, has been accused by the Trump administration of partnering with a cartel."
-    },
-    {
-      "title": "Speaker Johnson slams Suozzi as ‘Marxist’ as he stumps for LiPetri on Long Island",
-      "desc": "Mike LiPetri boasted that his campaign has “momentum” as he seeks to unseat Rep. Tom Suozzi in CD 3.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/08/21/us-news/speaker-johnson-slams-suozzi-as-marxist-as-he-stumps-for-lipetri-on-long-island/",
-      "time": "2026-08-21T21:37:49",
-      "country": "International",
-      "title_ur": "Speaker Johnson slams Suozzi as ‘Marxist’ as he stumps for LiPetri on Long Island",
-      "desc_ur": "Mike LiPetri boasted that his campaign has “momentum” as he seeks to unseat Rep. Tom Suozzi in CD 3."
-    },
-    {
-      "title": "Trump: Iran would love to make a deal",
-      "desc": "United States President Donald Trump told reporters at Joint Base Andrews that Iran would \"love to make a deal\" but isn't ready to make \"the right deal.\"\"We’re seeing what happens. They have no money....",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/2c8577280bc27a4f",
-      "time": "2026-08-21T21:37:29",
-      "country": "Iran",
-      "title_ur": "Trump: Iran would love to make a deal",
-      "desc_ur": "United States President Donald Trump told reporters at Joint Base Andrews that Iran would \"love to make a deal\" but isn't ready to make \"the right deal.\"\"We’re seeing what happens. They have no money...."
-    },
-    {
-      "title": "Vance unloads on El-Sayed over Sharia remarks: ‘That’s not my grandpa’s Democratic Party’",
-      "desc": "JD Vance targeted Abdul El-Sayed's past remarks linking Sharia law criticism to white supremacy, arguing Democrats have abandoned union workers.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/vance-unloads-el-sayed-sharia-remarks-not-my-grandpas-democratic-party",
-      "time": "2026-08-21T21:35:50",
-      "country": "International",
-      "title_ur": "Vance unloads on El-Sayed over Sharia remarks: ‘That’s not my grandpa’s Democratic Party’",
-      "desc_ur": "JD Vance targeted Abdul El-Sayed's past remarks linking Sharia law criticism to white supremacy, arguing Democrats have abandoned union workers."
-    },
-    {
-      "title": "Trump underwater in 47 states and DC, new projection finds",
-      "desc": "A new YouGov/Economist projection shows Trump with negative net approval in 47 states and in D.C., with positive ratings remaining in just three states.",
-      "source": "USA Today",
-      "url": "https://www.usatoday.com/story/news/politics/2026/08/21/trump-approval-rating-negative-47-states-and-dc/91409484007/",
-      "time": "2026-08-21T21:32:19",
-      "country": "US",
-      "title_ur": "Trump underwater in 47 states and DC, new projection finds",
-      "desc_ur": "A new YouGov/Economist projection shows Trump with negative net approval in 47 states and in D.C., with positive ratings remaining in just three states."
-    },
-    {
-      "title": "One of Trump's top deputies has been unsatisfied with trade deal on the table for Canada, sources say",
-      "desc": "One of U.S. President Donald Trump's most influential cabinet members has expressed dissatisfaction with the state of the trade deal on the table with Canada and is pushing for changes to be made as the high-stakes trade negotiations come down to the wire in …",
-      "source": "CBC News",
-      "url": "https://www.cbc.ca/news/politics/canada-us-tariff-trade-talks-howard-lutnick-us-commerce-secretary-9.7314835",
-      "time": "2026-08-21T21:30:00",
-      "country": "US",
-      "title_ur": "One of Trump's top deputies has been unsatisfied with trade deal on the table for Canada, sources say",
-      "desc_ur": "One of U.S. President Donald Trump's most influential cabinet members has expressed dissatisfaction with the state of the trade deal on the table with Canada and is pushing for changes to be made as the high-stakes trade negotiations come down to the wire in …"
-    },
-    {
-      "title": "Afternoon front page: Health care in crisis; fake maple syrup; more",
-      "desc": "Catch up on the stories we’re following today.",
-      "source": "National Post",
-      "url": "https://nationalpost.com/editors/afternoon-front-page-august-21",
-      "time": "2026-08-21T21:29:32",
-      "country": "International",
-      "title_ur": "Afternoon front page: Health care in crisis; fake maple syrup; more",
-      "desc_ur": "Catch up on the stories we’re following today."
+      "desc_ur": "Britain, Canada and Australia condemn Israel's decision not to pursue criminal probes over the 2024 deaths in Gaza of seven World Central Kitchen aid workers.(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shab…"
     }
   ],
   "pakistan": [
@@ -172,16 +172,6 @@
       "country": "Pakistan",
       "title_ur": "Trump: Military option against Iran remains on the table",
       "desc_ur": "President Trump says military action against Iran remains an option: They would love a deal but are not ready to make the right one.(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The time …"
-    },
-    {
-      "title": "Goldman Sachs analyst says oil market already priced in Iran supply disruptions before latest sanctions",
-      "desc": "The market's muted response to sanctions highlights the primacy of actual supply disruptions over political announcements in oil pricing.\nThe post Goldman Sachs analyst says oil market already priced in Iran supply disruptions before latest sanctions appeared…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/goldman-sachs-oil-iran-sanctions-analysis/",
-      "time": "2026-08-21T20:59:14",
-      "country": "Pakistan",
-      "title_ur": "Goldman Sachs analyst says oil market already priced in Iran supply disruptions before latest sanctions",
-      "desc_ur": "The market's muted response to sanctions highlights the primacy of actual supply disruptions over political announcements in oil pricing.\nThe post Goldman Sachs analyst says oil market already priced in Iran supply disruptions before latest sanctions appeared…"
     }
   ],
   "business": {
