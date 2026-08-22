@@ -1,6 +1,136 @@
 {
-  "generated": "2026-08-22T05:28:59Z",
+  "generated": "2026-08-22T05:54:13Z",
   "world": [
+    {
+      "title": "Trump trolls media with pitch for 'best press secretary ever' as speculation mounts over who will replace Karoline Leavitt",
+      "desc": "The president's 28-year-old press secretary announced last week she is quitting the White House at the end of the month to spend more time with her family.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16068919/Trump-trolls-media-press-secretary.html",
+      "time": "2026-08-21T05:53:09",
+      "country": "US",
+      "title_ur": "ٹرمپ نے میڈیا کو 'اب تک کے بہترین پریس سیکرٹری' کی پچ کے ساتھ ٹرول کیا کیونکہ یہ قیاس آرائیاں عروج پر ہیں کہ کیرولین لیویٹ کی جگہ کون لے گا۔",
+      "desc_ur": "صدر کی 28 سالہ پریس سیکرٹری نے گزشتہ ہفتے اعلان کیا تھا کہ وہ اپنے خاندان کے ساتھ زیادہ وقت گزارنے کے لیے ماہ کے آخر میں وائٹ ہاؤس چھوڑ رہی ہیں۔"
+    },
+    {
+      "title": "Gold rises ₹1,205 on MCX, silver gains ₹1,745 on safe-haven demand",
+      "desc": "In the global market, gold was trading near $4,590 per ounce on Comex, while silver was around $69 per ounce",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/markets/commodities/gold-rises-1-205-on-mcx-silver-gains-1-745-on-safe-haven-demand-126082100374_1.html",
+      "time": "2026-08-21T05:48:31",
+      "country": "International",
+      "title_ur": "MCX پر سونا ₹1,205 بڑھ گیا، محفوظ پناہ گاہوں کی مانگ پر چاندی ₹1,745 بڑھ گئی",
+      "desc_ur": "عالمی مارکیٹ میں کامیکس پر سونا 4,590 ڈالر فی اونس کے قریب جبکہ چاندی کی قیمت 69 ڈالر فی اونس کے قریب تھی۔"
+    },
+    {
+      "title": "US plans unprecedented sanctions on Iran, escalating tensions: Bessent",
+      "desc": "The sanctions could further destabilize regional relations and diminish prospects for future diplomatic agreements between the U.S. and Iran.\nThe post US plans unprecedented sanctions on Iran, escalating tensions: Bessent appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/us-plans-unprecedented-sanctions-on-iran-escalating-tensions-bessent/",
+      "time": "2026-08-21T05:46:17",
+      "country": "Iran",
+      "title_ur": "امریکہ کا ایران پر بے مثال پابندیاں لگانے کا منصوبہ، کشیدگی میں اضافہ: بیسنٹ",
+      "desc_ur": "پابندیاں علاقائی تعلقات کو مزید غیر مستحکم کر سکتی ہیں اور امریکہ اور ایران کے درمیان مستقبل کے سفارتی معاہدوں کے امکانات کو کم کر سکتی ہیں۔\nThe post امریکا کا ایران پر بے مثال پابندیوں کا منصوبہ، کشیدگی میں اضافہ: بیسنٹ appeared first on Crypto Briefing."
+    },
+    {
+      "title": "Israeli strike puts Türkiye-Syria defense ties in focus",
+      "desc": "Israel’s latest strike on a Syrian airbase near Türkiye has drawn renewed attention to defense cooperation between Ankara and Damascus, which includes training and support for the restructuring of Syria’s armed forces.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/israeli-strike-puts-turkiye-syria-defense-ties-in-focus-225871",
+      "time": "2026-08-21T05:45:32",
+      "country": "Israel",
+      "title_ur": "اسرائیلی حملے نے ترکی اور شام کے دفاعی تعلقات کو فوکس کیا ہے۔",
+      "desc_ur": "ترکی کے قریب ایک شامی ایئربیس پر اسرائیل کے تازہ حملے نے انقرہ اور دمشق کے درمیان دفاعی تعاون کی طرف نئی توجہ مبذول کرائی ہے، جس میں شام کی مسلح افواج کی تنظیم نو کے لیے تربیت اور مدد شامل ہے۔"
+    },
+    {
+      "title": "US armed forces conducts first $2,000 attack drone live-fire test near North Korean border",
+      "desc": "US Marines have conducted their first live-fire FPV attack-drone exercise on the Korean Peninsula, with six Archer drones striking mock barracks at the Rodriguez Live-Fire Complex in Pocheon. The range is about 15 miles from the North Korean border. The drill…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/us-armed-forces-conducts-first-2000-attack-drone-live-fire-test-near-north-korean-border/articleshow/133394103.cms",
+      "time": "2026-08-21T05:45:14",
+      "country": "US",
+      "title_ur": "امریکی مسلح افواج نے شمالی کوریا کی سرحد کے قریب 2,000 ڈالر کے حملے کا پہلا ڈرون لائیو فائر ٹیسٹ کیا۔",
+      "desc_ur": "امریکی میرینز نے جزیرہ نما کوریا میں اپنی پہلی لائیو فائر ایف پی وی اٹیک ڈرون مشق کا انعقاد کیا، چھ آرچر ڈرونز نے پوچیون میں روڈریگز لائیو فائر کمپلیکس میں فرضی بیرکوں پر حملہ کیا۔ یہ رینج شمالی کوریا کی سرحد سے تقریباً 15 میل کے فاصلے پر ہے۔ ڈرل…"
+    },
+    {
+      "title": "Ben Gurion chaos continue",
+      "desc": "Passengers face major delays, hours-long baggage waits, as fallout from the airport strike continues into Friday morning.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/432034",
+      "time": "2026-08-21T05:44:38",
+      "country": "International",
+      "title_ur": "بین گورین افراتفری جاری ہے۔",
+      "desc_ur": "مسافروں کو بڑی تاخیر کا سامنا کرنا پڑتا ہے، گھنٹوں طویل سامان کا انتظار کرنا پڑتا ہے، کیونکہ ہوائی اڈے کی ہڑتال کا نتیجہ جمعہ کی صبح تک جاری رہتا ہے۔"
+    },
+    {
+      "title": "How much could Trump's 'economic D-Day' hurt Iran?",
+      "desc": "Nearly six months after US President Donald Trump vowed a swift victory over Iran, the conflict appears to be at a standstill, with prospects of a military victory or negotiated settlement growing dimmer.\nTo break the deadlock, Trump has vowed an \"economic D-…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/223ab6ab5b1bc0d9",
+      "time": "2026-08-21T05:42:00",
+      "country": "Iran",
+      "title_ur": "ٹرمپ کا 'اکنامک ڈی ڈے' ایران کو کتنا نقصان پہنچا سکتا ہے؟",
+      "desc_ur": "امریکی صدر ڈونلڈ ٹرمپ کی جانب سے ایران پر تیزی سے فتح حاصل کرنے کے وعدے کے تقریباً چھ ماہ بعد، ایسا لگتا ہے کہ یہ تنازعہ تعطل کا شکار ہے، فوجی فتح یا مذاکراتی تصفیے کے امکانات معدوم ہوتے جا رہے ہیں۔\nتعطل کو توڑنے کے لئے، ٹرمپ نے ایک \"معاشی ڈی…"
+    },
+    {
+      "title": "Iraqi PM calls for faster work on Development Road",
+      "desc": "Iraqi Prime Minister Ali al-Zaidi has called for faster work on the Development Road, including industrial cities, airports and railway lines, according to his office.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/iraqi-pm-calls-for-faster-work-on-development-road-225870",
+      "time": "2026-08-21T05:41:07",
+      "country": "Iraq",
+      "title_ur": "عراقی وزیر اعظم نے ترقیاتی سڑک پر تیزی سے کام کرنے پر زور دیا۔",
+      "desc_ur": "عراقی وزیر اعظم علی الزیدی نے اپنے دفتر کے مطابق صنعتی شہروں، ہوائی اڈوں اور ریلوے لائنوں سمیت ترقی کی سڑک پر تیزی سے کام کرنے پر زور دیا ہے۔"
+    },
+    {
+      "title": "Bessent says U.S. to impose ‘toughest sanctions in history’ on Iran",
+      "desc": "Bitcoin at $72k, highest since May after Trump calls for clear crypto legislation\nInvesting.com-- U.S. Treasury Secretary Scott Bessent said on Thursday that Washington will impose strict sanctions on Iran, doubling down on President Donald Trump’s threats of…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/a84416b6cb1426d9",
+      "time": "2026-08-21T05:40:13",
+      "country": "Iran",
+      "title_ur": "بیسنٹ کا کہنا ہے کہ امریکہ ایران پر ’تاریخ کی سخت ترین پابندیاں‘ لگائے گا۔",
+      "desc_ur": "Bitcoin $72k پر ہے، جو مئی کے بعد ٹرمپ کے واضح کرپٹو قانون سازی کے مطالبے کے بعد سب سے زیادہ ہے۔\nInvesting.com-- امریکی وزیر خزانہ سکاٹ بیسنٹ نے جمعرات کو کہا کہ واشنگٹن صدر ڈونلڈ ٹرمپ کی دھمکیوں کو دوگنا کرتے ہوئے ایران پر سخت پابندیاں عائد کرے گا۔"
+    },
+    {
+      "title": "Western nations condemn Israeli settlement plan in West Bank",
+      "desc": "The leaders of Britain, France, Germany, Italy, Canada, the Netherlands and Norway have urged Israel to withdraw a tender for 1,234 homes in the E1 settlement project, calling the decision “unacceptable.”",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/western-nations-condemn-israeli-settlement-plan-in-west-bank-225868",
+      "time": "2026-08-21T05:37:38",
+      "country": "Israel",
+      "title_ur": "مغربی ممالک نے مغربی کنارے میں اسرائیلی آباد کاری کے منصوبے کی مذمت کی ہے۔",
+      "desc_ur": "برطانیہ، فرانس، جرمنی، اٹلی، کینیڈا، ہالینڈ اور ناروے کے رہنماؤں نے اسرائیل پر زور دیا ہے کہ وہ E1 سیٹلمنٹ پروجیکٹ میں 1,234 مکانات کے لیے ٹینڈر واپس لے، اور اس فیصلے کو \"ناقابل قبول\" قرار دیا۔"
+    },
+    {
+      "title": "US, South Korean militaries wrapping up drills early",
+      "desc": "The U.S. and South Korean militaries are wrapping their annual drills six days earlier than initially scheduled in a conciliatory gesture toward North Korea",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/International/wireStory/us-south-korean-militaries-wrapping-drills-early-day-135829040",
+      "time": "2026-08-21T05:34:10",
+      "country": "US",
+      "title_ur": "امریکی، جنوبی کوریا کی فوجیں جلد ہی مشقیں سمیٹ رہی ہیں۔",
+      "desc_ur": "امریکی اور جنوبی کوریا کی فوجیں شمالی کوریا کی طرف مفاہمت کے اشارے میں ابتدائی طور پر طے شدہ وقت سے چھ دن پہلے اپنی سالانہ مشقیں سمیٹ رہی ہیں۔"
+    },
+    {
+      "title": "In 2020, Belgium raised semi-transparent solar panels above a working pear orchard; pear yields fell 15%, but combined land-use efficiency reached 44% higher",
+      "desc": "In an innovative study, Belgian scientists experimented with agrivoltaics by placing solar panels over a pear orchard. Although the pear yield saw a decrease of around fifteen percent, the project achieved a remarkable land-equivalent ratio of 1.44. This sugg…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/in-2020-belgium-raised-semi-transparent-solar-panels-above-a-working-pear-orchard-pear-yield-fell-15-but-combined-land-productivity-rose-44/articleshow/133373864.cms",
+      "time": "2026-08-21T05:33:20",
+      "country": "US",
+      "title_ur": "2020 میں، بیلجیم نے کام کرنے والے ناشپاتی کے باغ کے اوپر نیم شفاف سولر پینلز اٹھائے؛ ناشپاتی کی پیداوار میں 15 فیصد کمی ہوئی، لیکن مشترکہ زمین کے استعمال کی کارکردگی 44 فیصد زیادہ ہوگئی",
+      "desc_ur": "ایک جدید مطالعہ میں، بیلجیئم کے سائنسدانوں نے ناشپاتی کے باغات پر شمسی پینل لگا کر زرعی نظام کے ساتھ تجربہ کیا۔ اگرچہ ناشپاتی کی پیداوار میں تقریباً پندرہ فیصد کی کمی دیکھی گئی، لیکن اس منصوبے نے 1.44 کا قابل ذکر زمین کے برابر تناسب حاصل کیا۔ یہ تجویز…"
+    },
+    {
+      "title": "Oil Prices Head for Second Straight Weekly Gain as Iran Risks Mount",
+      "desc": "Crude oil prices were on course to book a second consecutive weekly gain as the prospects of peace in the Middle East dimmed further amid U.S. threats of the “toughest sanctions in history” against Iran and continued Ukrainian drone attacks on Russian refiner…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Head-for-Second-Straight-Weekly-Gain-as-Iran-Risks-Mount.html",
+      "time": "2026-08-21T05:30:00",
+      "country": "Iran",
+      "title_ur": "تیل کی قیمتیں دوسرے براہ راست ہفتہ وار فائدہ کی طرف بڑھ رہی ہیں کیونکہ ایران کے خطرات بڑھ رہے ہیں۔",
+      "desc_ur": "ایران کے خلاف \"تاریخ کی سخت ترین پابندیوں\" کی امریکی دھمکیوں اور روسی ریفائنر پر یوکرین کے ڈرون حملوں کے جاری رہنے کے درمیان مشرق وسطیٰ میں امن کے امکانات مزید معدوم ہونے کے باعث خام تیل کی قیمتیں لگاتار دوسرے ہفتہ وار فائدہ اٹھانے کے راستے پر تھیں۔"
+    },
     {
       "title": "In 1944, 29 reindeer were left on a remote island in Alaska, decades later, they had eaten themselves into extinction",
       "desc": "Twenty-nine reindeer introduced to St. Matthew Island in 1944 grew to over 6,000 animals. This population boom led to severe overgrazing of the island's lichen food sources. An extreme winter in 1963-1964 brought devastating blizzards and deep snow. These har…",
@@ -20,139 +150,19 @@
       "country": "Israel",
       "title_ur": "ممالک مغربی کنارے میں اسرائیل کے E1 سیٹلمنٹ ٹینڈر کی مذمت کرتے ہیں۔",
       "desc_ur": "غیر ملکی حکومتیں اسرائیل پر زور دے رہی ہیں کہ وہ مقبوضہ مغربی کنارے میں ایک ایسی بستی کی تعمیر کے منصوبے کو ترک کر دے جو فلسطینی سرزمین کو مؤثر طریقے سے دو حصوں میں تقسیم کر دے، یہ کہتے ہوئے کہ اس سے دو ریاستی حل کے امکانات کو مزید نقصان پہنچے گا۔\nاسرائیل نے دسمبر کے لیے…"
-    },
-    {
-      "title": "Japan headline inflation rate hits highest this year as energy prices bite",
-      "desc": "Japan's headline inflation rate hit 1.9% in July, the highest level this year, as energy costs increase amid the Iran war.\nCore inflation — which strips out prices of fresh food but includes energy — was in line with expectations, coming in at 1.8%.\nEnergy pr…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/c1927fcac18b9ff7",
-      "time": "2026-08-21T05:25:37",
-      "country": "Iran",
-      "title_ur": "توانائی کی قیمتوں میں کمی کے باعث جاپان کی ہیڈ لائن افراط زر کی شرح اس سال سب سے زیادہ ہے۔",
-      "desc_ur": "جاپان کی ہیڈ لائن افراط زر کی شرح جولائی میں 1.9 فیصد تک پہنچ گئی، جو اس سال کی بلند ترین سطح ہے، کیونکہ ایران جنگ کے دوران توانائی کی قیمتوں میں اضافہ ہوا ہے۔\nبنیادی افراط زر - جو تازہ خوراک کی قیمتوں کو ختم کرتا ہے لیکن اس میں توانائی بھی شامل ہے - توقعات کے مطابق تھی، جو 1.8% پر آ رہی تھی۔\nانرجی پی آر…"
-    },
-    {
-      "title": "US, South Korean militaries wrapping up drills early, a day after North Korea's missile barrage",
-      "desc": "The U.S. and South Korean militaries are wrapping their annual drills six days earlier than initially scheduled in a conciliatory gesture toward North Korea",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/US/wireStory/us-south-korean-militaries-wrapping-drills-early-day-135829039",
-      "time": "2026-08-21T05:25:29",
-      "country": "US",
-      "title_ur": "شمالی کوریا کے میزائل بیراج کے ایک دن بعد، امریکہ، جنوبی کوریا کی فوجیں ابتدائی مشقیں سمیٹ رہی ہیں",
-      "desc_ur": "امریکی اور جنوبی کوریا کی فوجیں شمالی کوریا کی طرف مفاہمت کے اشارے میں ابتدائی طور پر طے شدہ وقت سے چھ دن پہلے اپنی سالانہ مشقیں سمیٹ رہی ہیں۔"
-    },
-    {
-      "title": "Scott Bessent Warns Allies of Iran Will Face 'Economic Oblivion'",
-      "desc": "Treasury Secretary Scott Bessent warned Thursday that any country maintaining relations with Iran will face severe economic consequences, echoing President Donald Trump‘s warning a day earlier of what he called the “most crushing economic operation ever taken…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/48a76e7fe8e56ac1",
-      "time": "2026-08-21T05:25:17",
-      "country": "Iran",
-      "title_ur": "سکاٹ بیسنٹ نے خبردار کیا ہے کہ ایران کے اتحادیوں کو 'معاشی فراموشی' کا سامنا کرنا پڑے گا۔",
-      "desc_ur": "ٹریژری سکریٹری سکاٹ بیسنٹ نے جمعرات کو خبردار کیا کہ ایران کے ساتھ تعلقات برقرار رکھنے والے کسی بھی ملک کو شدید اقتصادی نتائج کا سامنا کرنا پڑے گا، صدر ڈونلڈ ٹرمپ کی جانب سے ایک روز قبل کی گئی انتباہ کی بازگشت جس کو انہوں نے \"اب تک کی گئی سب سے کرشنگ اقتصادی کارروائی\" قرار دیا تھا۔"
-    },
-    {
-      "title": "Jill Lepore on why the artificial state is ‘doomed’ – podcast",
-      "desc": "With less than three months to go until the midterms, voters are thinking about grocery prices, the Iran war – and datacentres.\nThis week, Jonathan Freedland speaks to the historian Jill Lepore about how this latest AI backlash could influence those all-impor…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/b30851a7997dc44e",
-      "time": "2026-08-21T05:25:04",
-      "country": "Iran",
-      "title_ur": "جِل لیپور اس بارے میں کہ کیوں مصنوعی حالت 'برباد' ہے - پوڈ کاسٹ",
-      "desc_ur": "وسط مدتی ہونے میں تین ماہ سے بھی کم وقت باقی ہے، ووٹرز گروسری کی قیمتوں، ایران جنگ – اور ڈیٹا سینٹرز کے بارے میں سوچ رہے ہیں۔\nاس ہفتے، جوناتھن فریڈ لینڈ نے مورخ جِل لیپور سے اس بارے میں بات کی کہ کس طرح یہ تازہ ترین AI ردعمل ان تمام اہم چیزوں کو متاثر کر سکتا ہے…"
-    },
-    {
-      "title": "Centre blocks Telangana CM’s US visit; Revanth Reddy says decision ‘shocking’",
-      "desc": "CM Reddy has instructed the officials to go ahead with the US trip and conclude all the MoUs and partnership agreements",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/national/centre-blocks-telangana-cms-us-visit-revanth-reddy-says-decision-shocking/article71372252.ece",
-      "time": "2026-08-21T05:24:09",
-      "country": "US",
-      "title_ur": "مرکز نے تلنگانہ کے وزیر اعلی کے دورہ امریکہ کو روکا ریونت ریڈی کا کہنا ہے کہ فیصلہ 'حیران کن'",
-      "desc_ur": "سی ایم ریڈی نے عہدیداروں کو ہدایت دی ہے کہ وہ امریکہ کے دورے کو آگے بڑھائیں اور تمام مفاہمت ناموں اور شراکتی معاہدوں کو مکمل کریں۔"
-    },
-    {
-      "title": "Melania Trump Makes Rare Public Appearance, Jokes About Low Profile While Announcing Foster Scholarships",
-      "desc": "Melania Trump reappears publicly to announce a $2 million scholarship initiative for foster youth, highlighting her ongoing commitment to education and her unique approach to the First Lady role.",
-      "source": "Ibtimes.com.au",
-      "url": "https://www.ibtimes.com.au/melania-trump-foster-care-scholarship-initiative-1874329",
-      "time": "2026-08-21T05:12:42",
-      "country": "US",
-      "title_ur": "میلانیا ٹرمپ نے فوسٹر اسکالرشپس کا اعلان کرتے ہوئے نایاب عوامی ظہور کیا، لو پروفائل کے بارے میں مذاق کیا۔",
-      "desc_ur": "میلانیا ٹرمپ نے رضاعی نوجوانوں کے لیے $2 ملین کے اسکالرشپ اقدام کا اعلان کرنے کے لیے عوامی طور پر دوبارہ نمودار ہوئی، تعلیم کے لیے اس کی جاری وابستگی اور خاتون اول کے کردار کے لیے اس کے منفرد انداز کو اجاگر کیا۔"
-    },
-    {
-      "title": "Bill O’Reilly Says Trump ‘Has Got to Solve the Iran Thing,’ Warns War Is ‘Really Hurting Him’ and Weakening…",
-      "desc": "Political commentator Bill O’Reilly said President Donald Trump must \"solve the Iran thing,\" warning that the prolonged war and higher prices are putting pressure on Trump’s political standing and weakening the value of his endorsements ahead of November.\nO’R…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/2f6d1c981b07b247",
-      "time": "2026-08-21T05:10:01",
-      "country": "Iran",
-      "title_ur": "بل او ریلی کا کہنا ہے کہ ٹرمپ نے 'ایران کی چیز کو حل کرنا ہے'، خبردار کیا کہ جنگ 'واقعی اسے نقصان پہنچا رہی ہے' اور کمزور ہو رہی ہے…",
-      "desc_ur": "سیاسی مبصر بل او ریلی نے کہا کہ صدر ڈونلڈ ٹرمپ کو \"ایران کے معاملے کو حل کرنا چاہیے\"، انتباہ دیتے ہوئے کہ طویل جنگ اور زیادہ قیمتیں ٹرمپ کے سیاسی موقف پر دباؤ ڈال رہی ہیں اور نومبر سے پہلے ان کی توثیق کی قدر کو کمزور کر رہی ہیں۔\nاو آر…"
-    },
-    {
-      "title": "Rupee gains 9 paise to 95.65 against US dollar during early trade",
-      "desc": "The rupee gained 9 paise to 95.65 against the US dollar in early trade on Friday, supported by the weakening of the American currency in the overseas markets.\nForex traders said for India, a softer dollar is being offset by another challenge elevated crude oi…",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/finance/news/rupee-gains-9-paise-to-95-65-against-us-dollar-during-early-trade-126082100183_1.html",
-      "time": "2026-08-21T05:07:42",
-      "country": "India",
-      "title_ur": "ابتدائی تجارت کے دوران امریکی ڈالر کے مقابلے روپیہ 9 پیسے بڑھ کر 95.65 پر پہنچ گیا۔",
-      "desc_ur": "جمعہ کو ابتدائی تجارت میں امریکی ڈالر کے مقابلے روپیہ 9 پیسے بڑھ کر 95.65 ہو گیا، جس کی حمایت بیرونی منڈیوں میں امریکی کرنسی کے کمزور ہونے سے ہوئی۔\nغیر ملکی کرنسی کے تاجروں نے کہا کہ ہندوستان کے لیے، ایک نرم ڈالر ایک اور چیلنج سے بھرا جا رہا ہے"
-    },
-    {
-      "title": "Rosie O’Donnell Unleashes on Trump in Insult-Heavy Monologue After White House Calls Her ‘Nasty’",
-      "desc": "\"Thanks to everyone who's been watching this week, especially the hungry, hungry hypocrite in the White House,\" the comedian adds while guest hosting \"Jimmy Kimmel Live\"\nThe post Rosie O’Donnell Unleashes on Trump in Insult-Heavy Monologue After White House C…",
-      "source": "TheWrap",
-      "url": "https://www.thewrap.com/creative-content/tv-shows/rosie-odonnell-unleashes-on-trump-insult-heavy-monologue-jimmy-kimmel-live/",
-      "time": "2026-08-21T05:05:01",
-      "country": "US",
-      "title_ur": "روزی او ڈونل نے وائٹ ہاؤس کی جانب سے اسے 'گندی' کہنے کے بعد توہین آمیز ایکولوگ میں ٹرمپ پر حملہ کیا۔",
-      "desc_ur": "\"ہر ایک کا شکریہ جو اس ہفتے کو دیکھ رہا ہے، خاص طور پر وائٹ ہاؤس میں بھوکا، بھوکا منافق،\" مزاح نگار نے \"جمی کامل لائیو\" کی میزبانی کرتے ہوئے کہا۔\nThe post روزی او ڈونل نے وائٹ ہاؤس سی کے بعد توہین آمیز ایکولوگ میں ٹرمپ پر حملہ کیا…"
-    },
-    {
-      "title": "Tata Motors PV to raise car prices from September",
-      "desc": "This marks the automaker’s third price hike this year, following a 0.5% increase on April 1 and a 1.5% increase on July 1",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/companies/tata-motors-pv-to-raise-car-prices-from-september/article71372112.ece",
-      "time": "2026-08-21T05:04:58",
-      "country": "International",
-      "title_ur": "Tata Motors PV ستمبر سے کار کی قیمتوں میں اضافہ کرے گا۔",
-      "desc_ur": "یکم اپریل کو 0.5% اور 1 جولائی کو 1.5% اضافے کے بعد، یہ اس سال کار ساز کمپنی کی تیسری قیمت میں اضافہ ہے۔"
-    },
-    {
-      "title": "ASX 200 Closes Lower as Weakness in BHP and CSL Offsets Guzman y Gomez's 14% Earnings Surge to Close Week",
-      "desc": "The ASX 200 closed down 0.32% on Friday, with Guzman y Gomez's earnings rally offset by declines in major mining and healthcare stocks, amid a volatile trading week.",
-      "source": "Ibtimes.com.au",
-      "url": "https://www.ibtimes.com.au/asx-200-ends-volatile-week-lower-mixed-earnings-1874327",
-      "time": "2026-08-21T05:03:09",
-      "country": "International",
-      "title_ur": "ASX 200 BHP میں کمزوری کے طور پر بند ہوا اور CSL آفسیٹ Guzman y Gomez کی کمائی میں 14% اضافہ ہفتے کے اختتام تک",
-      "desc_ur": "ASX 200 جمعہ کو 0.32% گر کر بند ہوا، گوزمین وائی گومز کی آمدنی کی ریلی اہم کان کنی اور ہیلتھ کیئر اسٹاکس میں کمی کے ساتھ، ایک اتار چڑھاؤ والے تجارتی ہفتے کے درمیان۔"
-    },
-    {
-      "title": "Counterpoint: European smartphone shipments drop to three year low",
-      "desc": "The European smartphone market experienced its lowest volume of shipments for Q2 (April – June) since 2023. A new report from Counterpoint Research estimates 35 million smartphone shipments for the period, which is a 10% drop from the values seen last year. F…",
-      "source": "GSMArena.com",
-      "url": "https://www.gsmarena.com/european_smartphone_shipments_drop_to_three_year_low-news-74271.php",
-      "time": "2026-08-21T05:02:02",
-      "country": "Europe",
-      "title_ur": "کاؤنٹر پوائنٹ: یورپی اسمارٹ فون کی ترسیل تین سال کی کم ترین سطح پر آگئی",
-      "desc_ur": "یوروپی اسمارٹ فون مارکیٹ نے 2023 کے بعد سے Q2 (اپریل - جون) کے لیے اپنی سب سے کم ترسیل کا تجربہ کیا۔ کاؤنٹرپوائنٹ ریسرچ کی ایک نئی رپورٹ میں اس مدت کے لیے 35 ملین اسمارٹ فون کی ترسیل کا تخمینہ لگایا گیا ہے، جو کہ گزشتہ سال دیکھی گئی قدروں سے 10% کم ہے۔ ایف…"
-    },
-    {
-      "title": "Aisha Wahab wins Swalwell’s seat, becomes first Afghan American elected to Congress",
-      "desc": "State Sen. Aisha Wahab won the special election Thursday to complete former Rep. Eric Swalwell’s term, overcoming more than $5 million in outside spending favoring her opponent and becoming the first Afghan American elected to Congress. Wahab widened her lead…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4392594/posts",
-      "time": "2026-08-21T05:01:47",
-      "country": "US",
-      "title_ur": "عائشہ وہاب نے سویل ویل کی نشست جیت لی، کانگریس کے لیے منتخب ہونے والی پہلی افغان امریکی بن گئیں۔",
-      "desc_ur": "ریاستی سینیٹر عائشہ وہاب نے جمعرات کو سابق نمائندے ایرک سویل ویل کی مدت پوری کرنے کے لیے خصوصی انتخابات میں کامیابی حاصل کی، اپنے حریف کے حق میں 5 ملین ڈالر سے زیادہ بیرونی اخراجات پر قابو پا کر کانگریس کے لیے منتخب ہونے والی پہلی افغان امریکی بن گئیں۔ وہاب نے اپنی برتری کو وسیع کیا…"
     }
   ],
   "pakistan": [
+    {
+      "title": "'Pakistan's worst Test side in 50 years': English media rips Pakistan after two days of mediocre cricket at Headingley",
+      "desc": "English media and pundits have ripped into Pakistan after two days of one-sided, mediocre cricket at the Headingley Test.",
+      "source": "Cricketnews.com",
+      "url": "https://www.cricketnews.com/en/cricket/news/pakistans-worst-test-side-50-years-english-media-headingley/cf918a0e660869e324d0a210",
+      "time": "2026-08-21T05:31:21",
+      "country": "Pakistan",
+      "title_ur": "'50 سالوں میں پاکستان کی بدترین ٹیسٹ ٹیم': انگلش میڈیا نے ہیڈنگلے میں دو دن کی معمولی کرکٹ کے بعد پاکستان کو چیر دیا",
+      "desc_ur": "ہیڈنگلے ٹیسٹ میں دو دن کی یکطرفہ، معمولی کرکٹ کے بعد انگلش میڈیا اور پنڈتوں نے پاکستان میں دھوم مچا دی ہے۔"
+    },
     {
       "title": "US officials assure no imminent large-scale bombing in Iran conflict",
       "desc": "The U.S. assurance reduces immediate military escalation fears, impacting market perceptions and decreasing the likelihood of Iran's airspace closure.\nThe post US officials assure no imminent large-scale bombing in Iran conflict appeared first on Crypto Brief…",
@@ -162,26 +172,6 @@
       "country": "Pakistan",
       "title_ur": "امریکی حکام نے یقین دہانی کرائی ہے کہ ایران کے تنازعے میں بڑے پیمانے پر بمباری نہیں کی جائے گی۔",
       "desc_ur": "امریکی یقین دہانی نے فوری طور پر فوجی اضافے کے خدشات کو کم کیا، مارکیٹ کے تاثرات کو متاثر کیا اور ایران کی فضائی حدود کی بندش کے امکانات کو کم کیا۔\nThe post امریکی حکام نے یقین دہانی کرائی ہے کہ ایران تنازعہ میں بڑے پیمانے پر بمباری نہیں کی جائے گی appeared first on Crypto Brief…"
-    },
-    {
-      "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
-      "desc": "Pakistan's former Prime Minister Imran Khan has been moved back to prison early on Friday after being examined by doctors at a hospital in Islamabad, who deemed him \"medically fit\".\nKhan was seen by \"a team of qualified doctors\" including an ophthalmologist, …",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/884aeb6f8f71d766",
-      "time": "2026-08-21T04:41:50",
-      "country": "Pakistan",
-      "title_ur": "پاکستان کے سابق وزیر اعظم عمران خان اسپتال میں معائنے کے بعد واپس جیل میں ہیں۔",
-      "desc_ur": "پاکستان کے سابق وزیر اعظم عمران خان کو اسلام آباد کے ایک اسپتال میں ڈاکٹروں کے معائنہ کے بعد جمعہ کو علی الصبح واپس جیل منتقل کر دیا گیا ہے، جنہوں نے انہیں \"طبی لحاظ سے فٹ\" سمجھا تھا۔\nخان کو \"قابل ڈاکٹروں کی ایک ٹیم\" نے دیکھا جس میں ایک ماہر امراض چشم بھی شامل تھا، …"
-    },
-    {
-      "title": "'Prove them wrong!': Ramiz Raja gives emotional war cry to Pakistan after Michael Vaughan's humiliating 'weakest team' jibe",
-      "desc": "Ramiz Raja urged Pakistan to prove the world wrong after Michael Vaughan branded them the weakest team to ever tour England.",
-      "source": "Cricketnews.com",
-      "url": "https://www.cricketnews.com/en/cricket/news/ramiz-raja-war-cry-pakistan-michael-vaughan-weakest-team/498cf668caa8e7a98a6a040d",
-      "time": "2026-08-21T04:27:27",
-      "country": "Pakistan",
-      "title_ur": "'انہیں غلط ثابت کریں!': رمیز راجہ نے مائیکل وان کے ذلت آمیز 'کمزور ٹیم' کے طعنے کے بعد پاکستان کو جذباتی جنگ کی آواز دی",
-      "desc_ur": "رمیز راجہ نے پاکستان پر زور دیا کہ وہ دنیا کو غلط ثابت کرے جب مائیکل وان نے انہیں انگلینڈ کا دورہ کرنے والی اب تک کی کمزور ترین ٹیم قرار دیا۔"
     }
   ],
   "business": {
