@@ -1,158 +1,168 @@
 {
-  "generated": "2026-08-22T04:58:28Z",
+  "generated": "2026-08-22T05:28:59Z",
   "world": [
     {
-      "title": "China, Indonesia ministers meet to discuss security, defence and economic ties",
-      "desc": "In Jakarta, high-level discussions took place between Chinese defense and foreign ministers and their Indonesian counterparts. Central themes included security, politics, and economic interests, with both parties aiming to elevate military cooperation. Indone…",
+      "title": "In 1944, 29 reindeer were left on a remote island in Alaska, decades later, they had eaten themselves into extinction",
+      "desc": "Twenty-nine reindeer introduced to St. Matthew Island in 1944 grew to over 6,000 animals. This population boom led to severe overgrazing of the island's lichen food sources. An extreme winter in 1963-1964 brought devastating blizzards and deep snow. These har…",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/china-indonesia-ministers-meet-to-discuss-security-defence-and-economic-ties/articleshow/133393449.cms",
-      "time": "2026-08-21T04:56:43",
-      "country": "China",
-      "title_ur": "چین، انڈونیشیا کے وزراء کی ملاقات سیکورٹی، دفاعی اور اقتصادی تعلقات پر تبادلہ خیال کے لیے ہوئی۔",
-      "desc_ur": "جکارتہ میں چینی وزرائے دفاع اور خارجہ اور ان کے انڈونیشین ہم منصبوں کے درمیان اعلیٰ سطحی بات چیت ہوئی۔ مرکزی موضوعات میں سلامتی، سیاست اور اقتصادی مفادات شامل ہیں، دونوں جماعتوں کا مقصد فوجی تعاون کو بڑھانا ہے۔ انڈون…"
+      "url": "https://timesofindia.indiatimes.com/science/in-1944-29-reindeer-were-left-on-a-remote-island-in-alaska-decades-later-they-had-eaten-themselves-into-extinction/articleshow/133393973.cms",
+      "time": "2026-08-21T05:28:06",
+      "country": "International",
+      "title_ur": "1944 میں الاسکا کے ایک دور دراز جزیرے پر 29 قطبی ہرن چھوڑے گئے تھے، کئی دہائیوں بعد، وہ خود کو کھا کر معدوم ہو گئے تھے۔",
+      "desc_ur": "1944 میں سینٹ میتھیو جزیرے میں متعارف کرائے گئے انتیس قطبی ہرن کی تعداد 6,000 سے زیادہ جانوروں تک پہنچ گئی۔ آبادی میں اس تیزی کی وجہ سے جزیرے کے لائکین فوڈ ذرائع کی شدید حد سے زیادہ چرائی ہوئی ہے۔ 1963-1964 میں شدید موسم سرما نے تباہ کن برفانی طوفان اور گہری برف باری کی۔ یہ ہار…"
     },
     {
-      "title": "The Message Behind Trump’s Threats of ‘Economic Warfare’ Against Iran - The New York Times",
-      "desc": "The Message Behind Trump’s Threats of ‘Economic Warfare’ Against IranThe New York Times Trump warns of ‘economic D-Day’ against Iran, but Tehran is well acquainted with sanctionsAP News Bessent says U.S. likely won't restart large-scale Iran combat as it step…",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185078590",
-      "time": "2026-08-21T04:53:18",
+      "title": "Countries condemn Israel's E1 settlement tender in West Bank",
+      "desc": "Foreign governments are urging Israel to abandon plans to construct a settlement in the occupied West Bank that would effectively divide the Palestinian territory in two, saying it will further degrade the prospects of a two-state solution.\nIsrael has for dec…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/a5d915f3b5ddb17a",
+      "time": "2026-08-21T05:26:29",
+      "country": "Israel",
+      "title_ur": "ممالک مغربی کنارے میں اسرائیل کے E1 سیٹلمنٹ ٹینڈر کی مذمت کرتے ہیں۔",
+      "desc_ur": "غیر ملکی حکومتیں اسرائیل پر زور دے رہی ہیں کہ وہ مقبوضہ مغربی کنارے میں ایک ایسی بستی کی تعمیر کے منصوبے کو ترک کر دے جو فلسطینی سرزمین کو مؤثر طریقے سے دو حصوں میں تقسیم کر دے، یہ کہتے ہوئے کہ اس سے دو ریاستی حل کے امکانات کو مزید نقصان پہنچے گا۔\nاسرائیل نے دسمبر کے لیے…"
+    },
+    {
+      "title": "Japan headline inflation rate hits highest this year as energy prices bite",
+      "desc": "Japan's headline inflation rate hit 1.9% in July, the highest level this year, as energy costs increase amid the Iran war.\nCore inflation — which strips out prices of fresh food but includes energy — was in line with expectations, coming in at 1.8%.\nEnergy pr…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/c1927fcac18b9ff7",
+      "time": "2026-08-21T05:25:37",
       "country": "Iran",
-      "title_ur": "ٹرمپ کی ایران کے خلاف 'اقتصادی جنگ' کی دھمکیوں کے پیچھے پیغام - نیویارک ٹائمز",
-      "desc_ur": "ٹرمپ کی ایران کے خلاف 'اقتصادی جنگ' کی دھمکیوں کے پیچھے کا پیغام نیویارک ٹائمز ٹرمپ نے ایران کے خلاف 'اقتصادی ڈی ڈے' کے بارے میں خبردار کیا ہے، لیکن تہران پابندیوں سے بخوبی واقف ہے اے پی نیوز بیسنٹ کا کہنا ہے کہ امریکہ ممکنہ طور پر بڑے پیمانے پر ایران کی لڑائی دوبارہ شروع نہیں کرے گا کیونکہ یہ قدم اٹھائے گا…"
+      "title_ur": "توانائی کی قیمتوں میں کمی کے باعث جاپان کی ہیڈ لائن افراط زر کی شرح اس سال سب سے زیادہ ہے۔",
+      "desc_ur": "جاپان کی ہیڈ لائن افراط زر کی شرح جولائی میں 1.9 فیصد تک پہنچ گئی، جو اس سال کی بلند ترین سطح ہے، کیونکہ ایران جنگ کے دوران توانائی کی قیمتوں میں اضافہ ہوا ہے۔\nبنیادی افراط زر - جو تازہ خوراک کی قیمتوں کو ختم کرتا ہے لیکن اس میں توانائی بھی شامل ہے - توقعات کے مطابق تھی، جو 1.8% پر آ رہی تھی۔\nانرجی پی آر…"
     },
     {
-      "title": "Soft dollar overseas supports good gains in INR; elevated oil prices cap upside",
-      "desc": "The Indian rupee gained 9 paise to 95.65 against the US dollar in early trade on Friday, supported by the weakening of the American currency in the overseas markets. Softer dollar is however being offset by elevated crude oil prices amid ongoing geo-political…",
+      "title": "US, South Korean militaries wrapping up drills early, a day after North Korea's missile barrage",
+      "desc": "The U.S. and South Korean militaries are wrapping their annual drills six days earlier than initially scheduled in a conciliatory gesture toward North Korea",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/US/wireStory/us-south-korean-militaries-wrapping-drills-early-day-135829039",
+      "time": "2026-08-21T05:25:29",
+      "country": "US",
+      "title_ur": "شمالی کوریا کے میزائل بیراج کے ایک دن بعد، امریکہ، جنوبی کوریا کی فوجیں ابتدائی مشقیں سمیٹ رہی ہیں",
+      "desc_ur": "امریکی اور جنوبی کوریا کی فوجیں شمالی کوریا کی طرف مفاہمت کے اشارے میں ابتدائی طور پر طے شدہ وقت سے چھ دن پہلے اپنی سالانہ مشقیں سمیٹ رہی ہیں۔"
+    },
+    {
+      "title": "Scott Bessent Warns Allies of Iran Will Face 'Economic Oblivion'",
+      "desc": "Treasury Secretary Scott Bessent warned Thursday that any country maintaining relations with Iran will face severe economic consequences, echoing President Donald Trump‘s warning a day earlier of what he called the “most crushing economic operation ever taken…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/48a76e7fe8e56ac1",
+      "time": "2026-08-21T05:25:17",
+      "country": "Iran",
+      "title_ur": "سکاٹ بیسنٹ نے خبردار کیا ہے کہ ایران کے اتحادیوں کو 'معاشی فراموشی' کا سامنا کرنا پڑے گا۔",
+      "desc_ur": "ٹریژری سکریٹری سکاٹ بیسنٹ نے جمعرات کو خبردار کیا کہ ایران کے ساتھ تعلقات برقرار رکھنے والے کسی بھی ملک کو شدید اقتصادی نتائج کا سامنا کرنا پڑے گا، صدر ڈونلڈ ٹرمپ کی جانب سے ایک روز قبل کی گئی انتباہ کی بازگشت جس کو انہوں نے \"اب تک کی گئی سب سے کرشنگ اقتصادی کارروائی\" قرار دیا تھا۔"
+    },
+    {
+      "title": "Jill Lepore on why the artificial state is ‘doomed’ – podcast",
+      "desc": "With less than three months to go until the midterms, voters are thinking about grocery prices, the Iran war – and datacentres.\nThis week, Jonathan Freedland speaks to the historian Jill Lepore about how this latest AI backlash could influence those all-impor…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/b30851a7997dc44e",
+      "time": "2026-08-21T05:25:04",
+      "country": "Iran",
+      "title_ur": "جِل لیپور اس بارے میں کہ کیوں مصنوعی حالت 'برباد' ہے - پوڈ کاسٹ",
+      "desc_ur": "وسط مدتی ہونے میں تین ماہ سے بھی کم وقت باقی ہے، ووٹرز گروسری کی قیمتوں، ایران جنگ – اور ڈیٹا سینٹرز کے بارے میں سوچ رہے ہیں۔\nاس ہفتے، جوناتھن فریڈ لینڈ نے مورخ جِل لیپور سے اس بارے میں بات کی کہ کس طرح یہ تازہ ترین AI ردعمل ان تمام اہم چیزوں کو متاثر کر سکتا ہے…"
+    },
+    {
+      "title": "Centre blocks Telangana CM’s US visit; Revanth Reddy says decision ‘shocking’",
+      "desc": "CM Reddy has instructed the officials to go ahead with the US trip and conclude all the MoUs and partnership agreements",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/national/centre-blocks-telangana-cms-us-visit-revanth-reddy-says-decision-shocking/article71372252.ece",
+      "time": "2026-08-21T05:24:09",
+      "country": "US",
+      "title_ur": "مرکز نے تلنگانہ کے وزیر اعلی کے دورہ امریکہ کو روکا ریونت ریڈی کا کہنا ہے کہ فیصلہ 'حیران کن'",
+      "desc_ur": "سی ایم ریڈی نے عہدیداروں کو ہدایت دی ہے کہ وہ امریکہ کے دورے کو آگے بڑھائیں اور تمام مفاہمت ناموں اور شراکتی معاہدوں کو مکمل کریں۔"
+    },
+    {
+      "title": "Melania Trump Makes Rare Public Appearance, Jokes About Low Profile While Announcing Foster Scholarships",
+      "desc": "Melania Trump reappears publicly to announce a $2 million scholarship initiative for foster youth, highlighting her ongoing commitment to education and her unique approach to the First Lady role.",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/melania-trump-foster-care-scholarship-initiative-1874329",
+      "time": "2026-08-21T05:12:42",
+      "country": "US",
+      "title_ur": "میلانیا ٹرمپ نے فوسٹر اسکالرشپس کا اعلان کرتے ہوئے نایاب عوامی ظہور کیا، لو پروفائل کے بارے میں مذاق کیا۔",
+      "desc_ur": "میلانیا ٹرمپ نے رضاعی نوجوانوں کے لیے $2 ملین کے اسکالرشپ اقدام کا اعلان کرنے کے لیے عوامی طور پر دوبارہ نمودار ہوئی، تعلیم کے لیے اس کی جاری وابستگی اور خاتون اول کے کردار کے لیے اس کے منفرد انداز کو اجاگر کیا۔"
+    },
+    {
+      "title": "Bill O’Reilly Says Trump ‘Has Got to Solve the Iran Thing,’ Warns War Is ‘Really Hurting Him’ and Weakening…",
+      "desc": "Political commentator Bill O’Reilly said President Donald Trump must \"solve the Iran thing,\" warning that the prolonged war and higher prices are putting pressure on Trump’s political standing and weakening the value of his endorsements ahead of November.\nO’R…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/2f6d1c981b07b247",
+      "time": "2026-08-21T05:10:01",
+      "country": "Iran",
+      "title_ur": "بل او ریلی کا کہنا ہے کہ ٹرمپ نے 'ایران کی چیز کو حل کرنا ہے'، خبردار کیا کہ جنگ 'واقعی اسے نقصان پہنچا رہی ہے' اور کمزور ہو رہی ہے…",
+      "desc_ur": "سیاسی مبصر بل او ریلی نے کہا کہ صدر ڈونلڈ ٹرمپ کو \"ایران کے معاملے کو حل کرنا چاہیے\"، انتباہ دیتے ہوئے کہ طویل جنگ اور زیادہ قیمتیں ٹرمپ کے سیاسی موقف پر دباؤ ڈال رہی ہیں اور نومبر سے پہلے ان کی توثیق کی قدر کو کمزور کر رہی ہیں۔\nاو آر…"
+    },
+    {
+      "title": "Rupee gains 9 paise to 95.65 against US dollar during early trade",
+      "desc": "The rupee gained 9 paise to 95.65 against the US dollar in early trade on Friday, supported by the weakening of the American currency in the overseas markets.\nForex traders said for India, a softer dollar is being offset by another challenge elevated crude oi…",
       "source": "Business Standard",
-      "url": "https://www.business-standard.com/markets/capital-market-news/soft-dollar-overseas-supports-good-gains-in-inr-elevated-oil-prices-cap-upside-126082100261_1.html",
-      "time": "2026-08-21T04:47:48",
+      "url": "https://www.business-standard.com/finance/news/rupee-gains-9-paise-to-95-65-against-us-dollar-during-early-trade-126082100183_1.html",
+      "time": "2026-08-21T05:07:42",
       "country": "India",
-      "title_ur": "بیرون ملک نرم ڈالر INR میں اچھے فوائد کی حمایت کرتا ہے۔ تیل کی قیمتوں میں اضافہ",
-      "desc_ur": "جمعہ کے روز ابتدائی تجارت میں امریکی ڈالر کے مقابلے ہندوستانی روپیہ 9 پیسے بڑھ کر 95.65 پر پہنچ گیا، جس کی حمایت بیرونی منڈیوں میں امریکی کرنسی کے کمزور ہونے سے ہوئی۔ تاہم جاری جغرافیائی سیاسی صورتحال کے درمیان خام تیل کی بلند قیمتوں سے نرم ڈالر کو پورا کیا جا رہا ہے…"
+      "title_ur": "ابتدائی تجارت کے دوران امریکی ڈالر کے مقابلے روپیہ 9 پیسے بڑھ کر 95.65 پر پہنچ گیا۔",
+      "desc_ur": "جمعہ کو ابتدائی تجارت میں امریکی ڈالر کے مقابلے روپیہ 9 پیسے بڑھ کر 95.65 ہو گیا، جس کی حمایت بیرونی منڈیوں میں امریکی کرنسی کے کمزور ہونے سے ہوئی۔\nغیر ملکی کرنسی کے تاجروں نے کہا کہ ہندوستان کے لیے، ایک نرم ڈالر ایک اور چیلنج سے بھرا جا رہا ہے"
     },
     {
-      "title": "'Essentially controlling the straits', Trump reiterates military destruction of Iran",
-      "desc": "President Trump stated US military actions have severely degraded Iran's military capabilities.  He reiterated the United States' firm stance against Iran acquiring nuclear weapons.  Trump also highlighted Iran's difficult economic situation with high inflati…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/defence/essentially-controlling-the-straits-trump-reiterates-military-destruction-of-iran/articleshow/133393271.cms",
-      "time": "2026-08-21T04:41:34",
-      "country": "Iran",
-      "title_ur": "'بنیادی طور پر آبنائے کو کنٹرول کرنا'، ٹرمپ نے ایران کی فوجی تباہی کا اعادہ کیا۔",
-      "desc_ur": "صدر ٹرمپ نے کہا کہ امریکی فوجی اقدامات نے ایران کی فوجی صلاحیتوں کو بری طرح گرا دیا ہے۔  انہوں نے ایران کے جوہری ہتھیاروں کے حصول کے خلاف امریکہ کے سخت موقف کا اعادہ کیا۔  ٹرمپ نے افراط زر کے ساتھ ایران کی مشکل معاشی صورتحال پر بھی روشنی ڈالی۔"
-    },
-    {
-      "title": "JD Vance backs economic pressure as key to US strategy on Iran",
-      "desc": "Economic pressure on Iran may hinder diplomatic resolutions, potentially escalating tensions and impacting global markets and nuclear negotiations.\nThe post JD Vance backs economic pressure as key to US strategy on Iran appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/jd-vance-backs-economic-pressure-as-key-to-us-strategy-on-iran/",
-      "time": "2026-08-21T04:40:39",
-      "country": "Iran",
-      "title_ur": "JD Vance ایران پر امریکی حکمت عملی کی کلید کے طور پر اقتصادی دباؤ کی حمایت کرتا ہے۔",
-      "desc_ur": "ایران پر اقتصادی دباؤ سفارتی قراردادوں میں رکاوٹ بن سکتا ہے، ممکنہ طور پر کشیدگی میں اضافہ اور عالمی منڈیوں اور جوہری مذاکرات پر اثر انداز ہو سکتا ہے۔\nThe post جے ڈی وینس نے ایران سے متعلق امریکی حکمت عملی کی کلید کے طور پر اقتصادی دباؤ کی حمایت کردی appeared first on Crypto Briefing."
-    },
-    {
-      "title": "'A delicate dance': JD Vance says economic pressure is the best way to achieve Washington's objectives in Iran",
-      "desc": "Economic pressure is the United States' \"most effective tool\" against Iran, according to U.S. Vice President JD Vance.\nSpeaking on a podcast, Vance said that the move was \"a delicate dance\" as both sides apply pressure to each other, but added that \"what has …",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/1af8d3d414eeead5",
-      "time": "2026-08-21T04:39:56",
-      "country": "Iran",
-      "title_ur": "'ایک نازک رقص': جے ڈی وینس کا کہنا ہے کہ اقتصادی دباؤ ایران میں واشنگٹن کے مقاصد کو حاصل کرنے کا بہترین طریقہ ہے",
-      "desc_ur": "امریکی نائب صدر جے ڈی وینس کے مطابق، اقتصادی دباؤ ایران کے خلاف امریکہ کا \"سب سے موثر ہتھیار\" ہے۔\nایک پوڈ کاسٹ پر بات کرتے ہوئے، وینس نے کہا کہ یہ اقدام \"ایک نازک رقص\" تھا کیونکہ دونوں فریق ایک دوسرے پر دباؤ ڈالتے ہیں، لیکن انہوں نے مزید کہا کہ \"کیا ہے…"
-    },
-    {
-      "title": "Train to nowhere? South Korea's lonely push for peace with the North",
-      "desc": "South Korea's Woljeong-ri station project symbolizes peace hopes amid complex inter-Korean relations.  President Lee Jae Myung's dovish approach faces hurdles from US actions and North Korea's provocations.  Pyongyang ignores Seoul's overtures and labels Sout…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/train-to-nowhere-south-koreas-lonely-push-for-peace-with-the-north/articleshow/133393186.cms",
-      "time": "2026-08-21T04:37:04",
+      "title": "Rosie O’Donnell Unleashes on Trump in Insult-Heavy Monologue After White House Calls Her ‘Nasty’",
+      "desc": "\"Thanks to everyone who's been watching this week, especially the hungry, hungry hypocrite in the White House,\" the comedian adds while guest hosting \"Jimmy Kimmel Live\"\nThe post Rosie O’Donnell Unleashes on Trump in Insult-Heavy Monologue After White House C…",
+      "source": "TheWrap",
+      "url": "https://www.thewrap.com/creative-content/tv-shows/rosie-odonnell-unleashes-on-trump-insult-heavy-monologue-jimmy-kimmel-live/",
+      "time": "2026-08-21T05:05:01",
       "country": "US",
-      "title_ur": "کہیں بھی ٹرین؟ شمالی کوریا کے ساتھ امن کے لیے جنوبی کوریا کا تنہا دباؤ",
-      "desc_ur": "جنوبی کوریا کا Woljeong-ri اسٹیشن پروجیکٹ پیچیدہ بین کوریائی تعلقات کے درمیان امن کی امیدوں کی علامت ہے۔  صدر Lee Jae Myung کے بزدلانہ انداز کو امریکی اقدامات اور شمالی کوریا کی اشتعال انگیزیوں کی وجہ سے رکاوٹوں کا سامنا ہے۔  پیانگ یانگ نے سیئول کے اوورچرز کو نظر انداز کیا اور ساؤٹ کا لیبل لگا دیا…"
+      "title_ur": "روزی او ڈونل نے وائٹ ہاؤس کی جانب سے اسے 'گندی' کہنے کے بعد توہین آمیز ایکولوگ میں ٹرمپ پر حملہ کیا۔",
+      "desc_ur": "\"ہر ایک کا شکریہ جو اس ہفتے کو دیکھ رہا ہے، خاص طور پر وائٹ ہاؤس میں بھوکا، بھوکا منافق،\" مزاح نگار نے \"جمی کامل لائیو\" کی میزبانی کرتے ہوئے کہا۔\nThe post روزی او ڈونل نے وائٹ ہاؤس سی کے بعد توہین آمیز ایکولوگ میں ٹرمپ پر حملہ کیا…"
     },
     {
-      "title": "Gold prices rise Rs 6,400/10g in 3 days; silver jumps Rs 13,000/kg despite Middle East tensions. Big rally brewing?",
-      "desc": "Gold and silver prices rose for a third straight session on the MCX on Friday, supported by a weaker U.S. dollar and expectations of controlled longer-term Treasury yields. MCX silver surged Rs 13,000 over the past three sessions, while gold gained nearly Rs …",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-rise-rs-6400/10g-in-3-days-silver-jumps-rs-13000/kg-despite-middle-east-tensions-big-rally-brewing/articleshow/133393150.cms",
-      "time": "2026-08-21T04:35:45",
-      "country": "International",
-      "title_ur": "سونے کی قیمتوں میں 3 دن میں 6,400 روپے فی 10 گرام اضافہ؛ مشرق وسطیٰ کشیدگی کے باوجود چاندی کی قیمت 13,000 روپے فی کلو گرام ہے۔ بڑی ریلی پک؟",
-      "desc_ur": "جمعہ کو MCX پر سونے اور چاندی کی قیمتوں میں مسلسل تیسرے سیشن میں اضافہ ہوا، جس کی حمایت کمزور امریکی ڈالر اور طویل مدتی ٹریژری پیداوار پر قابو پانے کی توقعات سے ہوئی۔ ایم سی ایکس کی چاندی گزشتہ تین سیشنز میں 13,000 روپے بڑھ گئی، جبکہ سونے کی قیمت میں تقریباً روپے کا اضافہ ہوا…"
-    },
-    {
-      "title": "Romero vs. Lopez: How to watch, start time, PPV & full fight card",
-      "desc": "Rolando Romero and Teofimo Lopez are set to trade leather on Aug. 22.",
-      "source": "Sherdog.com",
-      "url": "https://www.sherdog.com/news/news/Romero-vs-Lopez-How-to-watch-start-time-PPV-full-fight-card-202459",
-      "time": "2026-08-21T04:34:55",
-      "country": "International",
-      "title_ur": "رومیرو بمقابلہ لوپیز: کیسے دیکھیں، وقت شروع کریں، پی پی وی اور مکمل فائٹ کارڈ",
-      "desc_ur": "Rolando Romero اور Teofimo Lopez 22 اگست کو چمڑے کی تجارت کرنے والے ہیں۔"
-    },
-    {
-      "title": "Market opens nudge lower in early trade; breadth positive",
-      "desc": "At 09:30 IST, the barometer index, the S&P BSE Sensex lost 40.67 points or 0.05% to 77,497.05. The Nifty 50 index shed 8.40 points or 0.03% to 24,223.20.",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/markets/capital-market-news/market-opens-nudge-lower-in-early-trade-breadth-positive-126082100210_1.html",
-      "time": "2026-08-21T04:34:28",
-      "country": "International",
-      "title_ur": "مارکیٹ ابتدائی تجارت میں نچلی سطح پر کھلتی ہے۔ وسعت مثبت",
-      "desc_ur": "09:30 IST پر، بیرومیٹر انڈیکس، S&P BSE سینسیکس 40.67 پوائنٹس یا 0.05% گر کر 77,497.05 پر آگیا۔ نفٹی 50 انڈیکس 8.40 پوائنٹس یا 0.03 فیصد گر کر 24,223.20 پر آگیا۔"
-    },
-    {
-      "title": "Global Market: Nikkei slips as rising oil prices, bond yields weigh on Japanese stocks",
-      "desc": "Japan’s Nikkei fell on Friday and was headed for its steepest weekly decline in more than a month as rising oil prices, higher bond yields and uncertainty over the Middle East conflict weighed on investor sentiment. The Nikkei was set for a 4% weekly loss, wh…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-nikkei-slips-as-rising-oil-prices-bond-yields-weigh-on-japanese-stocks/articleshow/133393113.cms",
-      "time": "2026-08-21T04:34:16",
-      "country": "International",
-      "title_ur": "عالمی منڈی: تیل کی بڑھتی ہوئی قیمتوں کے باعث نکی پھسل گئی، بانڈ کی پیداوار جاپانی اسٹاکس پر پڑی",
-      "desc_ur": "جاپان کا نکی جمعہ کو گر گیا اور ایک ماہ سے زیادہ عرصے میں اپنی تیز ترین ہفتہ وار کمی کی طرف بڑھ رہا تھا کیونکہ تیل کی بڑھتی ہوئی قیمتوں، بانڈ کی زیادہ پیداوار اور مشرق وسطیٰ کے تنازعہ پر غیر یقینی صورتحال نے سرمایہ کاروں کے جذبات کو متاثر کیا۔ نکی کو 4% ہفتہ وار نقصان کے لیے مقرر کیا گیا تھا، جو…"
-    },
-    {
-      "title": "Rupee gains 9 paise to 95.65 against US dollar in early trade",
-      "desc": "Rupee rises 9 paise to 95.65 against the dollar, amid challenges from high crude oil prices and geopolitical tensions.",
+      "title": "Tata Motors PV to raise car prices from September",
+      "desc": "This marks the automaker’s third price hike this year, following a 0.5% increase on April 1 and a 1.5% increase on July 1",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/forex/rupee-gains-9-paise-to-9565-against-us-dollar-in-early-trade/article71372170.ece",
-      "time": "2026-08-21T04:31:39",
+      "url": "https://www.thehindubusinessline.com/companies/tata-motors-pv-to-raise-car-prices-from-september/article71372112.ece",
+      "time": "2026-08-21T05:04:58",
+      "country": "International",
+      "title_ur": "Tata Motors PV ستمبر سے کار کی قیمتوں میں اضافہ کرے گا۔",
+      "desc_ur": "یکم اپریل کو 0.5% اور 1 جولائی کو 1.5% اضافے کے بعد، یہ اس سال کار ساز کمپنی کی تیسری قیمت میں اضافہ ہے۔"
+    },
+    {
+      "title": "ASX 200 Closes Lower as Weakness in BHP and CSL Offsets Guzman y Gomez's 14% Earnings Surge to Close Week",
+      "desc": "The ASX 200 closed down 0.32% on Friday, with Guzman y Gomez's earnings rally offset by declines in major mining and healthcare stocks, amid a volatile trading week.",
+      "source": "Ibtimes.com.au",
+      "url": "https://www.ibtimes.com.au/asx-200-ends-volatile-week-lower-mixed-earnings-1874327",
+      "time": "2026-08-21T05:03:09",
+      "country": "International",
+      "title_ur": "ASX 200 BHP میں کمزوری کے طور پر بند ہوا اور CSL آفسیٹ Guzman y Gomez کی کمائی میں 14% اضافہ ہفتے کے اختتام تک",
+      "desc_ur": "ASX 200 جمعہ کو 0.32% گر کر بند ہوا، گوزمین وائی گومز کی آمدنی کی ریلی اہم کان کنی اور ہیلتھ کیئر اسٹاکس میں کمی کے ساتھ، ایک اتار چڑھاؤ والے تجارتی ہفتے کے درمیان۔"
+    },
+    {
+      "title": "Counterpoint: European smartphone shipments drop to three year low",
+      "desc": "The European smartphone market experienced its lowest volume of shipments for Q2 (April – June) since 2023. A new report from Counterpoint Research estimates 35 million smartphone shipments for the period, which is a 10% drop from the values seen last year. F…",
+      "source": "GSMArena.com",
+      "url": "https://www.gsmarena.com/european_smartphone_shipments_drop_to_three_year_low-news-74271.php",
+      "time": "2026-08-21T05:02:02",
+      "country": "Europe",
+      "title_ur": "کاؤنٹر پوائنٹ: یورپی اسمارٹ فون کی ترسیل تین سال کی کم ترین سطح پر آگئی",
+      "desc_ur": "یوروپی اسمارٹ فون مارکیٹ نے 2023 کے بعد سے Q2 (اپریل - جون) کے لیے اپنی سب سے کم ترسیل کا تجربہ کیا۔ کاؤنٹرپوائنٹ ریسرچ کی ایک نئی رپورٹ میں اس مدت کے لیے 35 ملین اسمارٹ فون کی ترسیل کا تخمینہ لگایا گیا ہے، جو کہ گزشتہ سال دیکھی گئی قدروں سے 10% کم ہے۔ ایف…"
+    },
+    {
+      "title": "Aisha Wahab wins Swalwell’s seat, becomes first Afghan American elected to Congress",
+      "desc": "State Sen. Aisha Wahab won the special election Thursday to complete former Rep. Eric Swalwell’s term, overcoming more than $5 million in outside spending favoring her opponent and becoming the first Afghan American elected to Congress. Wahab widened her lead…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4392594/posts",
+      "time": "2026-08-21T05:01:47",
       "country": "US",
-      "title_ur": "ابتدائی تجارت میں امریکی ڈالر کے مقابلے روپیہ 9 پیسے بڑھ کر 95.65 ہو گیا۔",
-      "desc_ur": "خام تیل کی اونچی قیمتوں اور جغرافیائی سیاسی کشیدگی کے چیلنجوں کے درمیان روپیہ ڈالر کے مقابلے میں 9 پیسے بڑھ کر 95.65 پر پہنچ گیا۔"
-    },
-    {
-      "title": "Crude oil price: Futures decline as US threatens ‘toughest sanctions’ on Iran",
-      "desc": "October Brent oil futures at $93.46, down by 0.34%; October crude oil futures on West Texas Intermediate at $86.40, down by 0.50%",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-price-futures-decline-as-us-threatens-toughest-sanctions-on-iran/article71372160.ece",
-      "time": "2026-08-21T04:30:15",
-      "country": "Iran",
-      "title_ur": "خام تیل کی قیمت: امریکہ کی جانب سے ایران پر 'سخت ترین پابندیوں' کی دھمکی کے بعد مستقبل میں کمی",
-      "desc_ur": "اکتوبر برینٹ آئل فیوچر 0.34 فیصد کمی کے ساتھ 93.46 ڈالر پر؛ ویسٹ ٹیکساس انٹرمیڈیٹ پر اکتوبر خام تیل کا مستقبل $86.40 پر، 0.50 فیصد کمی"
-    },
-    {
-      "title": "Trump warns of 'economic D-Day' against Iran, but Tehran is well acquainted with sanctions",
-      "desc": "The Trump administration is intensifying economic pressure on Iran amid a protracted war.  This strategy aims to force Tehran's capitulation on its nuclear program and the Strait of Hormuz.  Treasury Secretary Scott Bessent threatened secondary sanctions on n…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-warns-of-economic-d-day-against-iran-but-tehran-is-well-acquainted-with-sanctions/articleshow/133393003.cms",
-      "time": "2026-08-21T04:26:09",
-      "country": "Iran",
-      "title_ur": "ٹرمپ نے ایران کے خلاف 'اقتصادی ڈی ڈے' کی وارننگ دی، لیکن تہران پابندیوں سے بخوبی واقف ہے",
-      "desc_ur": "ٹرمپ انتظامیہ طویل جنگ کے دوران ایران پر اقتصادی دباؤ بڑھا رہی ہے۔  اس حکمت عملی کا مقصد تہران کو اس کے جوہری پروگرام اور آبنائے ہرمز پر مجبور کرنا ہے۔  ٹریژری سکریٹری سکاٹ بیسنٹ نے n پر ثانوی پابندیوں کی دھمکی دی…"
-    },
-    {
-      "title": "Analysis-War-hit European markets are far from down and out",
-      "desc": "Bitcoin at $72k, highest since May after Trump calls for clear crypto legislation\nBy Sophie Kiderlin, Johann M Cherian and Amanda Cooper\nLONDON, Aug 21 (Reuters) - European markets are back in favour, thanks to the economy weathering the Iran war better than …",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/2bb256bf5fc29216",
-      "time": "2026-08-21T04:24:27",
-      "country": "Iran",
-      "title_ur": "تجزیہ جنگ زدہ یورپی منڈیاں نیچے اور باہر سے بہت دور ہیں۔",
-      "desc_ur": "Bitcoin $72k پر ہے، جو مئی کے بعد ٹرمپ کے واضح کرپٹو قانون سازی کے مطالبے کے بعد سب سے زیادہ ہے۔\nسوفی کِڈرلن، جوہان ایم چیرین اور امانڈا کوپر کے ذریعے\nلندن، 21 اگست (رائٹرز) – یورپی منڈیاں واپسی کے حق میں ہیں، معیشت کی بدولت ایران جنگ سے بہتر موسم…"
+      "title_ur": "عائشہ وہاب نے سویل ویل کی نشست جیت لی، کانگریس کے لیے منتخب ہونے والی پہلی افغان امریکی بن گئیں۔",
+      "desc_ur": "ریاستی سینیٹر عائشہ وہاب نے جمعرات کو سابق نمائندے ایرک سویل ویل کی مدت پوری کرنے کے لیے خصوصی انتخابات میں کامیابی حاصل کی، اپنے حریف کے حق میں 5 ملین ڈالر سے زیادہ بیرونی اخراجات پر قابو پا کر کانگریس کے لیے منتخب ہونے والی پہلی افغان امریکی بن گئیں۔ وہاب نے اپنی برتری کو وسیع کیا…"
     }
   ],
   "pakistan": [
+    {
+      "title": "US officials assure no imminent large-scale bombing in Iran conflict",
+      "desc": "The U.S. assurance reduces immediate military escalation fears, impacting market perceptions and decreasing the likelihood of Iran's airspace closure.\nThe post US officials assure no imminent large-scale bombing in Iran conflict appeared first on Crypto Brief…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/us-officials-assure-no-imminent-large-scale-bombing-in-iran-conflict/",
+      "time": "2026-08-21T05:02:47",
+      "country": "Pakistan",
+      "title_ur": "امریکی حکام نے یقین دہانی کرائی ہے کہ ایران کے تنازعے میں بڑے پیمانے پر بمباری نہیں کی جائے گی۔",
+      "desc_ur": "امریکی یقین دہانی نے فوری طور پر فوجی اضافے کے خدشات کو کم کیا، مارکیٹ کے تاثرات کو متاثر کیا اور ایران کی فضائی حدود کی بندش کے امکانات کو کم کیا۔\nThe post امریکی حکام نے یقین دہانی کرائی ہے کہ ایران تنازعہ میں بڑے پیمانے پر بمباری نہیں کی جائے گی appeared first on Crypto Brief…"
+    },
     {
       "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
       "desc": "Pakistan's former Prime Minister Imran Khan has been moved back to prison early on Friday after being examined by doctors at a hospital in Islamabad, who deemed him \"medically fit\".\nKhan was seen by \"a team of qualified doctors\" including an ophthalmologist, …",
@@ -172,26 +182,6 @@
       "country": "Pakistan",
       "title_ur": "'انہیں غلط ثابت کریں!': رمیز راجہ نے مائیکل وان کے ذلت آمیز 'کمزور ٹیم' کے طعنے کے بعد پاکستان کو جذباتی جنگ کی آواز دی",
       "desc_ur": "رمیز راجہ نے پاکستان پر زور دیا کہ وہ دنیا کو غلط ثابت کرے جب مائیکل وان نے انہیں انگلینڈ کا دورہ کرنے والی اب تک کی کمزور ترین ٹیم قرار دیا۔"
-    },
-    {
-      "title": "Pak ex-PM Imran Khan sent back to jail after SC-ordered hospital checkup",
-      "desc": "Imran Khan was shifted to Shifa International Hospital early Friday after Pakistan's Supreme Court ordered the same for the treatment of the former PM's health problems",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/world-news/pakistan-former-prime-minister-imran-khan-sent-back-to-jail-after-hospital-checkup-126082100182_1.html",
-      "time": "2026-08-21T04:18:46",
-      "country": "Pakistan",
-      "title_ur": "پاکستان کے سابق وزیر اعظم عمران خان کو سپریم کورٹ کے حکم پر اسپتال میں چیک اپ کے بعد واپس جیل بھیج دیا گیا۔",
-      "desc_ur": "پاکستان کی سپریم کورٹ کی جانب سے سابق وزیراعظم کی صحت کے مسائل کے علاج کے لیے اسی طرح کے حکم کے بعد عمران خان کو جمعہ کی صبح شفا انٹرنیشنل اسپتال منتقل کیا گیا تھا۔"
-    },
-    {
-      "title": "Afghans in Pakistan face uncertain future amid deportation drive",
-      "desc": "Thousands of Afghans born and raised in Pakistan are being pushed into hiding as Islamabad steps up deportations amid worsening ties with Afghanistan, leaving families caught between two countries they call home.",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/world/afghanistan-pakistan-tensions-deportation-drive-6332641",
-      "time": "2026-08-21T04:02:12",
-      "country": "Pakistan",
-      "title_ur": "پاکستان میں افغانوں کو ملک بدری کی مہم کے دوران غیر یقینی مستقبل کا سامنا ہے۔",
-      "desc_ur": "پاکستان میں پیدا ہونے والے اور پرورش پانے والے ہزاروں افغانوں کو روپوش کیا جا رہا ہے کیونکہ اسلام آباد نے افغانستان کے ساتھ بگڑتے تعلقات کے درمیان ملک بدری میں اضافہ کیا ہے، اور ان خاندانوں کو دو ملکوں کے درمیان پھنس کر چھوڑ دیا ہے جنہیں وہ گھر کہتے ہیں۔"
     }
   ],
   "business": {
