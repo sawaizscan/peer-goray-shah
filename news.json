@@ -1,158 +1,178 @@
 {
-  "generated": "2026-08-22T08:20:54Z",
+  "generated": "2026-08-22T08:55:16Z",
   "world": [
     {
-      "title": "Turkey’s expanding maritime ambitions-and the challenge for Israel",
-      "desc": "Developments suggest that Turkey is gradually acquiring the ability to project naval power across two strategically important maritime theaters: the Mediterranean and the Red Sea. Israel must plan its next steps. Opinion.",
+      "title": "Iran says Tehran must overcome 'unjust sanctions' as US ramps up economic pressure",
+      "desc": "US Iran war news: Iran's parliament speaker urged planning to overcome  unjust sanctions  after new US measures.  Scott Bessent announced the toughest sanctions ever imposed on Iran.  Qalibaf linked economic development and security, accusing enemies of econo…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-says-tehran-must-overcome-unjust-sanctions-as-us-ramps-up-economic-pressure/articleshow/133398436.cms",
+      "time": "2026-08-21T08:49:09",
+      "country": "Iran",
+      "title_ur": "ایران کا کہنا ہے کہ تہران کو 'غیر منصفانہ پابندیوں' پر قابو پانا ہوگا کیونکہ امریکہ اقتصادی دباؤ بڑھا رہا ہے۔",
+      "desc_ur": "امریکی ایران جنگ نیوز: ایران کی پارلیمنٹ کے اسپیکر نے نئے امریکی اقدامات کے بعد غیر منصفانہ پابندیوں پر قابو پانے کی منصوبہ بندی پر زور دیا۔  سکاٹ بیسنٹ نے ایران پر اب تک کی سخت ترین پابندیوں کا اعلان کیا۔  قالیباف نے اقتصادی ترقی اور سلامتی کو منسلک کرتے ہوئے، معیشت کے دشمنوں پر الزام لگایا…"
+    },
+    {
+      "title": "Morning news brief",
+      "desc": "Trump threatens economic pressure campaign against Iran, SCOTUS to weigh in on whether Trump's ballroom project, investors dump stocks and bonds despite government's efforts to calm market.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/21/nx-s1-5931262/morning-news-brief",
+      "time": "2026-08-21T08:46:00",
+      "country": "Iran",
+      "title_ur": "صبح نیوز بریف",
+      "desc_ur": "ٹرمپ نے ایران کے خلاف اقتصادی دباؤ کی مہم کی دھمکی دی ہے، SCOTUS اس بات پر غور کرے گا کہ آیا ٹرمپ کے بال روم پراجیکٹ، سرمایہ کاروں نے مارکیٹ کو پرسکون کرنے کی حکومتی کوششوں کے باوجود اسٹاک اور بانڈز کو پھینک دیا۔"
+    },
+    {
+      "title": "MIT engineers turn living bacteria into circuit boards that can perform computer-like calculations",
+      "desc": "MIT researchers have engineered bacteria that function as living transistors, creating chemical circuit boards printed onto Petri dishes. Using two transistor types and three relay strains, the team built circuits capable of complex logic, including addition …",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/education/news/mit-engineers-turn-living-bacteria-into-circuit-boards-that-can-perform-computer-like-calculations/articleshow/133398156.cms",
+      "time": "2026-08-21T08:45:46",
+      "country": "US",
+      "title_ur": "ایم آئی ٹی انجینئرز زندہ بیکٹیریا کو سرکٹ بورڈز میں تبدیل کرتے ہیں جو کمپیوٹر کی طرح کیلکولیشن کر سکتے ہیں۔",
+      "desc_ur": "ایم آئی ٹی کے محققین نے ایسے بیکٹیریا کو انجینئر کیا ہے جو زندہ ٹرانجسٹر کے طور پر کام کرتے ہیں، پیٹری ڈشوں پر چھپی ہوئی کیمیکل سرکٹ بورڈ بناتے ہیں۔ دو ٹرانزسٹر اقسام اور تین ریلے سٹرین کا استعمال کرتے ہوئے، ٹیم نے پیچیدہ منطق کے قابل سرکٹس بنائے، بشمول اضافہ…"
+    },
+    {
+      "title": "Republicans bristle at Trump’s latest tactics to undermine Congress’ funding power",
+      "desc": "GOP lawmakers are bracing themselves for a possible rerun of the White House’s “pocket rescission” gambit.",
+      "source": "Politico",
+      "url": "https://www.politico.com/news/2026/08/21/in-year-2-of-trumps-funding-grab-congress-fights-back-01045146",
+      "time": "2026-08-21T08:45:00",
+      "country": "US",
+      "title_ur": "ریپبلکن کانگریس کی فنڈنگ ​​کی طاقت کو کمزور کرنے کے لیے ٹرمپ کے تازہ ترین ہتھکنڈوں پر برس پڑے",
+      "desc_ur": "جی او پی کے قانون ساز وائٹ ہاؤس کے \"جیب سے بچاؤ\" گیمبٹ کو دوبارہ چلانے کے لیے خود کو تیار کر رہے ہیں۔"
+    },
+    {
+      "title": "Iranian oil offers to Chinese buyers fall as US blockade bites, sources say",
+      "desc": "By Siyi Liu and Chen Aizhu SINGAPORE, Aug 21 (Reuters) - Offers of Iranian crude to Chinese buyers have declined and prices have jumped this week as the U.S....",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/energy/articles/iranian-oil-offers-chinese-buyers-081555135.html",
+      "time": "2026-08-21T08:44:40",
+      "country": "Iran",
+      "title_ur": "ذرائع کا کہنا ہے کہ امریکی ناکہ بندی کے باعث چینی خریداروں کو ایرانی تیل کی پیشکش گر گئی ہے۔",
+      "desc_ur": "Siyi Liu اور Chen Aizhu کی طرف سے سنگاپور، 21 اگست (رائٹرز) - چینی خریداروں کو ایرانی خام تیل کی پیشکشوں میں کمی آئی ہے اور قیمتوں میں اس ہفتے اضافہ ہوا ہے کیونکہ امریکی..."
+    },
+    {
+      "title": "Oil prices head for second weekly rise as U.S. vows to turn up economic pressure on Iran",
+      "desc": "Oil prices eased Friday but remained on track for a second straight weekly gain as hopes of a swift reopening of the Strait of Hormuz faded to near-zero.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/21/oil-prices-us-iran.html",
+      "time": "2026-08-21T08:43:36",
+      "country": "Iran",
+      "title_ur": "تیل کی قیمتیں دوسرے ہفتہ وار اضافے کی طرف بڑھ رہی ہیں کیونکہ امریکہ نے ایران پر اقتصادی دباؤ بڑھانے کے عزم کا اظہار کیا ہے۔",
+      "desc_ur": "جمعہ کو تیل کی قیمتوں میں نرمی ہوئی لیکن آبنائے ہرمز کے تیزی سے دوبارہ کھلنے کی امیدیں صفر کے قریب ختم ہونے کی وجہ سے مسلسل دوسرے ہفتہ وار فائدہ کے راستے پر رہیں۔"
+    },
+    {
+      "title": "Can you donate an organ while you are still alive? Who qualifies, what can be donated and what are the risks?",
+      "desc": "Living organ donation provides recipients with an opportunity to reclaim their health and future. Before proceeding, donors endure thorough medical and psychological evaluations to ensure their well-being. The most frequently donated organs include kidneys an…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/health/can-you-donate-an-organ-while-you-are-still-alive-who-qualifies-what-can-be-donated-and-what-are-the-risks/articleshow/133398554.cms",
+      "time": "2026-08-21T08:41:00",
+      "country": "International",
+      "title_ur": "کیا آپ زندہ رہتے ہوئے کوئی عضو عطیہ کر سکتے ہیں؟ کون اہل ہے، کیا عطیہ کیا جا سکتا ہے اور کیا خطرات ہیں؟",
+      "desc_ur": "زندہ اعضاء کا عطیہ وصول کنندگان کو اپنی صحت اور مستقبل کا دوبارہ دعوی کرنے کا موقع فراہم کرتا ہے۔ آگے بڑھنے سے پہلے، عطیہ دہندگان اپنی فلاح و بہبود کو یقینی بنانے کے لیے مکمل طبی اور نفسیاتی جائزہ لیتے ہیں۔ اکثر عطیہ کیے جانے والے اعضاء میں گردے اور…"
+    },
+    {
+      "title": "I’ll swim Atlantic for Tinubu if he practises what we fought for — Momodu",
+      "desc": "Dele Momodu pledges extreme support for President Tinubu if he practices democratic principles they fought for, warning against civilian dictatorship.\n\nRead More: https://punchng.com/ill-swim-atlantic-for-tinubu-if-he-practises-what-we-fought-for-momodu/",
+      "source": "The Punch",
+      "url": "https://punchng.com/ill-swim-atlantic-for-tinubu-if-he-practises-what-we-fought-for-momodu/",
+      "time": "2026-08-21T08:40:46",
+      "country": "International",
+      "title_ur": "میں Tinubu کے لیے بحر اوقیانوس میں تیراکی کروں گا اگر وہ اس پر عمل کرتا ہے جس کے لیے ہم لڑے تھے - Momodu",
+      "desc_ur": "ڈیل مومودو نے صدر ٹِنوبو کے لیے انتہائی حمایت کا وعدہ کیا ہے اگر وہ جمہوری اصولوں پر عمل کرتے ہیں جن کے لیے وہ لڑے، سویلین آمریت کے خلاف انتباہ کرتے ہیں۔\n\nمزید پڑھیں: https://punchng.com/ill-swim-atlantic-for-tinubu-if-he-practices-what-we-fought-for-momodu/"
+    },
+    {
+      "title": "The Mask of NATO Has Fallen: Turkey is revealed as a mortal threat to Israel and the West",
+      "desc": "Turkey under Erdogan is not a democratic bridge between East and West, nor is it a reliable pillar of transatlantic security; it is an expansionist, authoritarian power fundamentally hostile to democratic governance, Western values, and the existence of Israe…",
       "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/432040",
-      "time": "2026-08-21T08:15:54",
+      "url": "https://www.israelnationalnews.com/news/432042",
+      "time": "2026-08-21T08:39:42",
       "country": "Israel",
-      "title_ur": "ترکی کے بڑھتے ہوئے سمندری عزائم اور اسرائیل کے لیے چیلنج",
-      "desc_ur": "پیشرفت سے پتہ چلتا ہے کہ ترکی بتدریج بحری طاقت کو دو اسٹریٹجک لحاظ سے اہم سمندری تھیٹروں میں پیش کرنے کی صلاحیت حاصل کر رہا ہے: بحیرہ روم اور بحیرہ احمر۔ اسرائیل کو اپنے اگلے اقدامات کی منصوبہ بندی کرنی چاہیے۔ رائے۔"
+      "title_ur": "نیٹو کا ماسک گر گیا ہے: ترکی اسرائیل اور مغرب کے لیے ایک جان لیوا خطرہ کے طور پر سامنے آیا ہے۔",
+      "desc_ur": "اردگان کی قیادت میں ترکی مشرق اور مغرب کے درمیان ایک جمہوری پل نہیں ہے، اور نہ ہی یہ ٹرانس اٹلانٹک سیکورٹی کا ایک قابل اعتماد ستون ہے۔ یہ ایک توسیع پسند، آمرانہ طاقت ہے جو بنیادی طور پر جمہوری طرز حکمرانی، مغربی اقدار اور اسرائیل کے وجود کے خلاف ہے۔"
     },
     {
-      "title": "Solar panels helped Puglia grapevines produce 277% more grapes",
-      "desc": "Science News: In a vineyard in Italy’s Puglia region, rows of grapevines grew beneath something more usually associated with power stations than agriculture: photov.",
+      "title": "'He was psycho, would beat over rotten tomatoes’: YouTuber Pragya Mishra recounts sister’s years of abuse",
+      "desc": "A Lucknow bank employee allegedly shot his estranged wife outside her workplace. He then returned home and killed his sister before dying by suicide. The sister alleged repeated physical and emotional abuse by the husband. Divya Mishra had filed for divorce a…",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/science/solar-panels-were-installed-above-grapevines-in-italys-puglia-and-the-harvest-revealed-a-surprising-277-jump-in-grape-production/articleshow/133394399.cms",
-      "time": "2026-08-21T08:15:00",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/psycho-would-beat-over-rotten-tomatoes-youtuber-pragya-mishra-recounts-sisters-years-of-abuse/articleshow/133398113.cms",
+      "time": "2026-08-21T08:39:40",
       "country": "US",
-      "title_ur": "سولر پینلز نے پگلیہ انگور کی بیلوں کو 277% زیادہ انگور پیدا کرنے میں مدد کی۔",
-      "desc_ur": "سائنس نیوز: اٹلی کے پگلیہ کے علاقے میں انگور کے باغ میں انگور کی بیلوں کی قطاریں کسی ایسی چیز کے نیچے اُگ آئیں جو عام طور پر زراعت سے زیادہ پاور اسٹیشنوں سے وابستہ ہوتی ہیں: photov۔"
+      "title_ur": "'وہ سائیکو تھا، سڑے ہوئے ٹماٹروں کو مارتا تھا': یوٹیوبر پرگیہ مشرا نے بہن کی برسوں کی بدسلوکی کا ذکر کیا",
+      "desc_ur": "لکھنؤ کے ایک بینک کے ملازم نے مبینہ طور پر اپنی اجنبی بیوی کو اس کے کام کی جگہ کے باہر گولی مار دی۔ اس کے بعد وہ گھر واپس آیا اور خودکشی کرنے سے پہلے اپنی بہن کو قتل کر دیا۔ بہن نے شوہر کی طرف سے بار بار جسمانی اور جذباتی زیادتی کا الزام لگایا۔ دویا مشرا نے طلاق کے لیے درخواست دائر کی تھی…"
     },
     {
-      "title": "Jason Arday's death: Why a Ghent University academic is under probe after plagiarism accusation",
-      "desc": "Following allegations of plagiarism involving Jason Arday, Ghent University has taken action by suspending researcher Nathan Cofnas. Arday had previously resigned from his position at Cambridge University due to these contentious claims. The university emphas…",
+      "title": "Paras Defence expects exports to double as Middle East conflict boosts demand",
+      "desc": "Paras Defence anticipates its export revenue will double this fiscal year.  This growth is driven by Middle East conflict and rising geopolitical tensions.  The company expects exports to reach Rs 120-130 crore by fiscal 2027.  Orders from Israel and the UAE …",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/us/jason-ardays-death-why-a-ghent-university-academic-is-under-probe-after-plagiarism-accusation/articleshow/133397378.cms",
-      "time": "2026-08-21T08:14:12",
+      "url": "https://economictimes.indiatimes.com/news/defence/paras-defence-expects-exports-to-double-as-middle-east-conflict-boosts-demand/articleshow/133398447.cms",
+      "time": "2026-08-21T08:36:30",
+      "country": "Israel",
+      "title_ur": "پارس ڈیفنس کو توقع ہے کہ برآمدات دوگنی ہو جائیں گی کیونکہ مشرق وسطیٰ کے تنازعات کی وجہ سے طلب میں اضافہ ہوتا ہے۔",
+      "desc_ur": "پارس ڈیفنس کو توقع ہے کہ اس مالی سال اس کی برآمدی آمدنی دوگنی ہوجائے گی۔  یہ ترقی مشرق وسطیٰ کے تنازعات اور بڑھتے ہوئے جغرافیائی سیاسی تناؤ کی وجہ سے ہے۔  کمپنی کو توقع ہے کہ مالی سال 2027 تک برآمدات 120-130 کروڑ روپے تک پہنچ جائیں گی۔ اسرائیل اور متحدہ عرب امارات سے آرڈرز …"
+    },
+    {
+      "title": "Gold climbs to near three-month peak after US Treasury move",
+      "desc": "Gold prices soar to a near three-month high, driven by a weaker dollar and US Treasury bond buyback announcements.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-climbs-to-near-three-month-peak-after-us-treasury-move/article71372830.ece",
+      "time": "2026-08-21T08:33:56",
       "country": "US",
-      "title_ur": "جیسن آرڈے کی موت: سرقہ کے الزام کے بعد گینٹ یونیورسٹی کا ایک تعلیمی ماہر کیوں زیر تفتیش ہے۔",
-      "desc_ur": "جیسن آرڈے کے سرقہ کے الزامات کے بعد، گینٹ یونیورسٹی نے محقق ناتھن کوفناس کو معطل کرکے کارروائی کی ہے۔ آرڈے نے اس سے قبل ان متنازعہ دعوؤں کی وجہ سے کیمبرج یونیورسٹی میں اپنے عہدے سے استعفیٰ دے دیا تھا۔ یونیورسٹی پر زور دیتا ہے…"
+      "title_ur": "امریکی ٹریژری کے اقدام کے بعد سونا تین ماہ کی بلند ترین سطح پر پہنچ گیا۔",
+      "desc_ur": "کمزور ڈالر اور یو ایس ٹریژری بانڈ کی واپسی کے اعلانات کی وجہ سے سونے کی قیمتیں تقریباً تین ماہ کی بلند ترین سطح پر پہنچ گئیں۔"
     },
     {
-      "title": "Iran says Tehran must overcome 'unjust sanctions' as U.S. ramps up economic pressure",
-      "desc": "",
-      "source": "Yahoo Entertainment",
-      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_88998fad-17d9-4ed8-a17a-7a5983c604e3",
-      "time": "2026-08-21T08:13:41",
-      "country": "Iran",
-      "title_ur": "ایران کا کہنا ہے کہ تہران کو 'غیر منصفانہ پابندیوں' پر قابو پانا ہوگا کیونکہ امریکی اقتصادی دباؤ میں اضافہ",
-      "desc_ur": ""
-    },
-    {
-      "title": "Gunmen seize tanker off Yemen amid resurgence of Somali piracy - Al Jazeera",
-      "desc": "Gunmen seize tanker off Yemen amid resurgence of Somali piracyAl Jazeera 2 Hijackings in 4 Days: Somali Piracy RisesThe New York Times Tanker off Yemen boarded by armed people, diverted towards Somalia, UKMTO saysReuters One beneficiary of the Iran war? Pirat…",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185080334",
-      "time": "2026-08-21T08:12:41",
-      "country": "Iran",
-      "title_ur": "صومالی قزاقی کی بحالی کے درمیان مسلح افراد نے یمن کے قریب ٹینکر پر قبضہ کر لیا – الجزیرہ",
-      "desc_ur": "صومالی قزاقی کی بحالی کے درمیان مسلح افراد نے یمن سے ٹینکر پر قبضہ کرلیا۔الجزیرہ 2 ہائی جیکنگ 4 دنوں میں: صومالی قزاقی عروج پر نیویارک ٹائمز یمن سے ٹینکر پر مسلح افراد سوار تھے، صومالیہ کی طرف موڑ دیا گیا، یو کے ایم ٹی او کا کہنا ہے کہ رائٹرز ایران جنگ کا ایک فائدہ اٹھانے والا؟ پیرات…"
-    },
-    {
-      "title": "China opposes Trump's sanctions on Iran, partners",
-      "desc": "Chinese Foreign Ministry spokesperson Lin Jian criticized on Friday United States President Donald Trump's announcement of a campaign of economic pressure against Iran and its partners. Lin stated tha...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/807dd2595f18ad47",
-      "time": "2026-08-21T08:12:27",
-      "country": "Iran",
-      "title_ur": "چین نے ایران، شراکت داروں پر ٹرمپ کی پابندیوں کی مخالفت کی۔",
-      "desc_ur": "چینی وزارت خارجہ کے ترجمان لن جیان نے جمعہ کے روز امریکی صدر ڈونلڈ ٹرمپ کی جانب سے ایران اور اس کے شراکت داروں کے خلاف اقتصادی دباؤ کی مہم کے اعلان پر تنقید کی۔ لن نے کہا کہ..."
-    },
-    {
-      "title": "PMI data ahead; U.S. warns of \"tough\" sanctions on Iran - what’s moving markets",
-      "desc": "Get 55% off InvestingPro NOW: Only for a limited-time, this price won’t last\nInvesting.com - Futures linked to the U.S. stock indices edge up, with investors gauging the fallout from a waning bond market recovery. Markets will have the chance to pour through …",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/5a93e02d4154474d",
-      "time": "2026-08-21T08:12:18",
-      "country": "Iran",
-      "title_ur": "PMI ڈیٹا آگے؛ امریکہ نے ایران پر \"سخت\" پابندیوں کے بارے میں خبردار کیا ہے - جو مارکیٹیں متحرک ہیں۔",
-      "desc_ur": "InvestingPro NOW پر 55% چھوٹ حاصل کریں: صرف ایک محدود وقت کے لیے، یہ قیمت نہیں چلے گی۔\nInvesting.com - امریکی سٹاک انڈیکس سے منسلک فیوچرز بڑھ رہے ہیں، سرمایہ کاروں نے بانڈ مارکیٹ کی زوال پذیری سے ہونے والے نقصان کا اندازہ لگایا ہے۔ مارکیٹوں کو گزرنے کا موقع ملے گا…"
-    },
-    {
-      "title": "Iran: We must plan to overcome 'unjust' US sanctions",
-      "desc": "Iranian Parliament Speaker Mohammad Bagher Ghalibaf stated on Friday that Tehran must plan in order to overcome \"unjust\" sanctions by the United States.\"The Americans and Israelis have understood that...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/a1cfda995940f0c7",
-      "time": "2026-08-21T08:12:13",
-      "country": "Iran",
-      "title_ur": "ایران: ہمیں 'غیر منصفانہ' امریکی پابندیوں پر قابو پانے کے لیے منصوبہ بندی کرنی چاہیے۔",
-      "desc_ur": "ایرانی پارلیمنٹ کے اسپیکر محمد باقر غالب نے جمعے کے روز کہا کہ تہران کو امریکہ کی طرف سے \"غیر منصفانہ\" پابندیوں پر قابو پانے کے لیے منصوبہ بندی کرنی چاہیے۔\"امریکی اور اسرائیلی سمجھ چکے ہیں کہ..."
-    },
-    {
-      "title": "Take Five: Six months of war",
-      "desc": "Get 55% off InvestingPro NOW: Only for a limited-time, this price won’t last\nAug 21 (Reuters) - The world’s top central bank chiefs gather in Jackson Hole next week against a jittery backdrop, half a year into the Iran war and with bond markets rattled by a s…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/a880a59c9176a348",
-      "time": "2026-08-21T08:12:08",
-      "country": "Iran",
-      "title_ur": "پانچ لیں: چھ ماہ کی جنگ",
-      "desc_ur": "InvestingPro NOW پر 55% چھوٹ حاصل کریں: صرف ایک محدود وقت کے لیے، یہ قیمت نہیں چلے گی۔\nاگست 21 (رائٹرز) – دنیا کے اعلیٰ مرکزی بینک کے سربراہان اگلے ہفتے جیکسن ہول میں ایک گھمبیر پس منظر میں اکٹھے ہوں گے، ایران کی جنگ کے نصف سال اور بانڈ مارکیٹوں میں ہنگامہ آرائی کے ساتھ…"
-    },
-    {
-      "title": "Rajkot doctor ‘slaps’ woman colleague over critical patient admission",
-      "desc": "A resident doctor faced abuse and assault from a colleague in Rajkot Civil Hospital. The disagreement arose over admitting a critically ill female patient to the emergency ward. Police registered an FIR against Dr Ashwin Ramani for the alleged incident on Thu…",
+      "title": "Runwal Garden City, Dombivli hosts the International Rapid Chess Tournament for the second consecutive year",
+      "desc": "The International Rapid Chess Tournament successfully concluded at Runwal Garden City, Dombivli. CM Vedant Nitin Vekhande emerged as the tournament's champion after strong performances. This event provided a platform for players of all ages and categories to …",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/rajkot/rajkot-doctor-slaps-woman-colleague-over-critical-patient-admission/articleshow/133397854.cms",
-      "time": "2026-08-21T08:12:08",
-      "country": "US",
-      "title_ur": "راجکوٹ ڈاکٹر نے خاتون ساتھی کو نازک مریض داخل کرنے پر 'تھپڑ' مارا۔",
-      "desc_ur": "راجکوٹ سول اسپتال میں ایک رہائشی ڈاکٹر کو ساتھی کی جانب سے بدسلوکی اور مارپیٹ کا سامنا کرنا پڑا۔ شدید بیمار خاتون مریضہ کو ایمرجنسی وارڈ میں داخل کرنے پر اختلاف پیدا ہوا۔ پولیس نے جمعرات کو ہونے والے مبینہ واقعے کے لیے ڈاکٹر اشون رمانی کے خلاف ایف آئی آر درج کی ہے۔"
-    },
-    {
-      "title": "Oil Set for Second Weekly Rise as Unsettled US-Iran War Crimps Supply",
-      "desc": "Oil prices fell slightly on Friday, but were on track for a second weekly rise as the stalemated US-Iran war continues to disrupt supply from the key Middle East producing region. Brent crude futures fell 23 cents, or 0.3%, to $93.55 a barrel by 0142 GMT, aft…",
-      "source": "Aawsat.com",
-      "url": "https://english.aawsat.com/business/5309408-oil-set-second-weekly-rise-unsettled-us-iran-war-crimps-supply",
-      "time": "2026-08-21T08:11:45",
-      "country": "Iran",
-      "title_ur": "امریکہ ایران جنگ کی وجہ سے سپلائی میں کمی کے باعث تیل دوسرے ہفتہ وار اضافے کے لیے مقرر",
-      "desc_ur": "جمعہ کو تیل کی قیمتوں میں قدرے کمی واقع ہوئی تھی، لیکن یہ دوسرے ہفتہ وار اضافے کے راستے پر تھی کیونکہ تعطل کا شکار امریکی ایران جنگ مشرق وسطیٰ کے اہم پیداواری خطے سے سپلائی میں خلل ڈال رہی ہے۔ برینٹ کروڈ فیوچر 0142 GMT تک 23 سینٹ یا 0.3 فیصد گر کر 93.55 ڈالر فی بیرل پر آگیا"
-    },
-    {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq rise as bitcoin surges",
-      "desc": "Stocks were headed for weekly losses after a bond sell-off this week put pressure on tech and AI stocks.",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-21-dow-sp-500-nasdaq-080533702.html",
-      "time": "2026-08-21T08:05:33",
+      "url": "https://timesofindia.indiatimes.com/business/runwal-garden-city-dombivli-hosts-the-international-rapid-chess-tournament-for-the-second-consecutive-year/articleshow/133398225.cms",
+      "time": "2026-08-21T08:33:33",
       "country": "International",
-      "title_ur": "اسٹاک مارکیٹ آج: بٹ کوائن میں اضافے کے ساتھ ہی ڈاؤ، ایس اینڈ پی 500، نیس ڈیک میں اضافہ",
-      "desc_ur": "اس ہفتے بانڈ کی فروخت کے بعد ٹیک اور اے آئی اسٹاکس پر دباؤ ڈالنے کے بعد اسٹاک ہفتہ وار نقصان کی طرف بڑھ رہے تھے۔"
+      "title_ur": "رنوال گارڈن سٹی، ڈومبیولی مسلسل دوسرے سال انٹرنیشنل ریپڈ شطرنج ٹورنامنٹ کی میزبانی کر رہا ہے",
+      "desc_ur": "انٹرنیشنل ریپڈ شطرنج ٹورنامنٹ رنوال گارڈن سٹی، ڈومبیولی میں کامیابی کے ساتھ اختتام پذیر ہوا۔ سی ایم ویدانت نتن ویکھنڈے مضبوط پرفارمنس کے بعد ٹورنامنٹ کے چیمپئن بن کر ابھرے۔ اس ایونٹ نے ہر عمر اور زمرے کے کھلاڑیوں کے لیے ایک پلیٹ فارم فراہم کیا…"
     },
     {
-      "title": "BRICS Ministers Meet To Enhance Sports And Youth Ties",
-      "desc": "Sports Minister Mansukh Mandaviya will chair a two-day meeting of BRICS Sports and Youth Ministers in Visakhapatnam, aiming to strengthen cooperation in youth affairs and sports, with a focus on sports manufacturing, indigenous disciplines, and youth developm…",
-      "source": "Rediff.com",
-      "url": "https://www.rediff.com/sports/report/mandaviya-to-chair-brics-youth-and-sports-ministers-meeting/20260821.htm",
-      "time": "2026-08-21T08:04:29",
-      "country": "UK",
-      "title_ur": "کھیلوں اور نوجوانوں کے تعلقات کو بڑھانے کے لیے برکس وزراء کی ملاقات",
-      "desc_ur": "کھیلوں کے وزیر منسکھ منڈاویہ وشاکھاپٹنم میں برکس کے کھیلوں اور نوجوانوں کے وزراء کی دو روزہ میٹنگ کی صدارت کریں گے، جس کا مقصد نوجوانوں کے امور اور کھیلوں میں تعاون کو مضبوط بنانا ہے، جس میں کھیلوں کی تیاری، مقامی مضامین اور نوجوانوں کی ترقی پر توجہ دی جائے گی۔"
+      "title": "Front-of-pack labels: Where India stands vs global food labelling systems",
+      "desc": "India is yet to finalise its front-of-pack labelling rules. Here's how its proposed approach compares with warning labels and nutrition ratings used in other countries",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/economy/news/front-of-pack-labels-where-india-stands-vs-global-food-labelling-systems-126082100626_1.html",
+      "time": "2026-08-21T08:32:23",
+      "country": "India",
+      "title_ur": "فرنٹ آف پیک لیبلز: جہاں ہندوستان کھڑا ہے بمقابلہ عالمی فوڈ لیبلنگ سسٹم",
+      "desc_ur": "بھارت نے ابھی تک اپنے فرنٹ آف پیک لیبلنگ کے قوانین کو حتمی شکل نہیں دی ہے۔ یہاں یہ ہے کہ اس کا مجوزہ نقطہ نظر دوسرے ممالک میں استعمال ہونے والے انتباہی لیبلز اور غذائیت کی درجہ بندیوں سے کیسے موازنہ کرتا ہے۔"
     },
     {
-      "title": "Triggered by extreme panic, distress? 6-year-old student's death in Vizag sparks uproar",
-      "desc": "A six-year-old boy died after an alleged assault by a teacher in Visakhapatnam. The child collapsed in his classroom and was later declared dead at a hospital. His family claims panic and distress caused the fatal collapse after the alleged incident. The Andh…",
+      "title": "In 1962, five pet mute swans escaped in Maryland; within four decades their descendants neared 4,000 and were eating 10.5 million pounds of Chesapeake Bay grasses a year",
+      "desc": "Five mute swans escaped from an estate in Maryland in 1962 and their descendants multiplied to nearly 4,000 in the Chesapeake Bay region within four decades. The invasive birds eat large amounts of underwater grasses and have also been linked to the displacem…",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/visakhapatnam/triggered-by-extreme-panic-distress-6-year-old-students-death-in-vizag-sparks-uproar/articleshow/133397371.cms",
-      "time": "2026-08-21T08:03:48",
-      "country": "US",
-      "title_ur": "انتہائی گھبراہٹ، تکلیف کی طرف سے متحرک؟ ویزاگ میں 6 سالہ طالب علم کی موت نے ہنگامہ برپا کردیا۔",
-      "desc_ur": "وشاکھاپٹنم میں ایک استاد کے مبینہ حملے کے بعد ایک چھ سالہ لڑکا ہلاک ہوگیا۔ بچہ اپنے کلاس روم میں گر گیا اور بعد میں اسے ہسپتال میں مردہ قرار دے دیا گیا۔ اس کے اہل خانہ کا دعویٰ ہے کہ مبینہ واقعے کے بعد خوف و ہراس اور پریشانی کی وجہ سے یہ موت واقع ہوئی۔ اندھ…"
-    },
-    {
-      "title": "Meet Lianna Genovese, an 19-year-old Canadian student whose gadget made from straws, sponge and pipes helps people with cerebral palsy rediscover painting; now sells in over 25 countries",
-      "desc": "Lianna Genovese, a Canadian student, has created an inspiring device called Guided Hands to assist children with cerebral palsy in expressing their creativity through painting. This innovative tool harnesses arm and shoulder movements, enabling young artists …",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/us/meet-lianna-genovese-an-19-year-old-canadian-student-whose-gadget-made-from-straws-sponge-and-pipes-helps-people-with-cerebral-palsy-rediscover-painting-now-sells-in-over-25-countries/articleshow/133397385.cms",
-      "time": "2026-08-21T08:02:50",
+      "url": "https://timesofindia.indiatimes.com/world/us/in-1962-five-pet-mute-swans-escaped-in-maryland-within-four-decades-their-descendants-neared-4000-and-were-eating-10-5-million-pounds-of-chesapeake-bay-grasses-a-year/articleshow/133396440.cms",
+      "time": "2026-08-21T08:32:12",
       "country": "International",
-      "title_ur": "ایک 19 سالہ کینیڈین طالبہ لیانا جینویس سے ملو جس کا سٹراس، سپنج اور پائپوں سے بنایا گیا گیجٹ دماغی فالج کے شکار لوگوں کی پینٹنگ کو دوبارہ دریافت کرنے میں مدد کرتا ہے۔ اب 25 سے زیادہ ممالک میں فروخت ہوتا ہے۔",
-      "desc_ur": "کینیڈا کی ایک طالبہ لیانا جینویس نے گائیڈڈ ہینڈز کے نام سے ایک متاثر کن ڈیوائس بنائی ہے جو دماغی فالج کے شکار بچوں کی پینٹنگ کے ذریعے اپنی تخلیقی صلاحیتوں کے اظہار میں مدد کرتی ہے۔ یہ اختراعی ٹول بازو اور کندھے کی حرکت کو استعمال کرتا ہے، نوجوان فنکاروں کو اس قابل بناتا ہے…"
+      "title_ur": "1962 میں، میری لینڈ میں پانچ پالتو گونگے ہنس فرار ہو گئے۔ چار دہائیوں کے اندر ان کی اولاد کی تعداد 4000 کے قریب پہنچ گئی اور وہ ایک سال میں 10.5 ملین پاؤنڈ Chesapeake Bay کی گھاس کھا رہے تھے۔",
+      "desc_ur": "پانچ گونگے ہنس 1962 میں میری لینڈ میں ایک اسٹیٹ سے فرار ہوئے اور ان کی اولادیں چار دہائیوں کے اندر چیسپیک بے کے علاقے میں تقریباً 4,000 تک بڑھ گئیں۔ حملہ آور پرندے بڑی مقدار میں پانی کے اندر گھاس کھاتے ہیں اور ان کا تعلق نقل مکانی سے بھی ہے…"
     }
   ],
   "pakistan": [
+    {
+      "title": "UAE is turning desert sand into eco-friendly bricks, and the method cuts cement needed for construction to nearly half",
+      "desc": "In a groundbreaking study, researchers have engineered eco-friendly bricks using desert sand and various industrial by-products. These bricks boast enhanced sulfate resistance when compared to traditional cement options. An innovative curing process at room t…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/uae-is-turning-desert-sand-into-eco-friendly-bricks-and-the-method-cuts-cement-needed-for-construction-to-nearly-half/articleshow/133398414.cms",
+      "time": "2026-08-21T08:34:42",
+      "country": "Pakistan",
+      "title_ur": "متحدہ عرب امارات صحرا کی ریت کو ماحول دوست اینٹوں میں تبدیل کر رہا ہے، اور یہ طریقہ تعمیر کے لیے درکار سیمنٹ کو تقریباً نصف کر دیتا ہے۔",
+      "desc_ur": "ایک اہم مطالعہ میں، محققین نے صحرا کی ریت اور مختلف صنعتی ضمنی مصنوعات کا استعمال کرتے ہوئے ماحول دوست اینٹوں کو انجینئر کیا ہے۔ روایتی سیمنٹ کے اختیارات کے مقابلے میں یہ اینٹیں سلفیٹ کے خلاف مزاحمت کو بڑھاتی ہیں۔ کمرے میں علاج کا ایک جدید عمل…"
+    },
+    {
+      "title": "Oil set for second weekly gain as US ramps up pressure on Iran",
+      "desc": "Aug 21 : Oil prices edged lower on Friday but were on track for a second straight weekly gain after the United States threatened to impose \"the toughest sanctions in history\" with no end in sight for disruptions to Middle East oil flows.Brent crude futures fe…",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/oil-set-second-weekly-gain-us-ramps-up-pressure-iran-6332451",
+      "time": "2026-08-21T08:32:07",
+      "country": "Pakistan",
+      "title_ur": "امریکہ کے ایران پر دباؤ بڑھنے کے ساتھ ہی تیل کی قیمت ہفتہ وار دوسرے اضافے کے لیے تیار ہے۔",
+      "desc_ur": "21 اگست: جمعہ کو تیل کی قیمتیں کم ہوگئیں لیکن امریکہ کی جانب سے مشرق وسطیٰ کے تیل کے بہاؤ میں رکاوٹوں کا کوئی خاتمہ نہ ہونے کے ساتھ \"تاریخ کی سخت ترین پابندیاں\" لگانے کی دھمکی کے بعد مسلسل دوسرے ہفتہ وار فائدہ کے راستے پر تھے۔"
+    },
     {
       "title": "'Everyone has diabetes these days': Bihar minister says sugar price rise won’t matter much - watch",
       "desc": "Bihar minister Shrawan Kumar stated rising sugar prices will have little impact on consumers. He cited increasing diabetes cases as a reason for reduced sugar consumption. Opposition party RJD criticized the minister's insensitive remarks about common people.…",
@@ -162,36 +182,6 @@
       "country": "Pakistan",
       "title_ur": "'ان دنوں ہر ایک کو ذیابیطس ہے': بہار کے وزیر کا کہنا ہے کہ چینی کی قیمتوں میں اضافے سے زیادہ فرق نہیں پڑے گا - دیکھیں",
       "desc_ur": "بہار کے وزیر شراون کمار نے کہا کہ چینی کی بڑھتی ہوئی قیمتوں کا صارفین پر بہت کم اثر پڑے گا۔ انہوں نے شوگر کے کم استعمال کی وجہ ذیابیطس کے بڑھتے ہوئے کیسز کو بتایا۔ اپوزیشن پارٹی آر جے ڈی نے عام لوگوں کے بارے میں وزیر کے غیر حساس تبصروں پر تنقید کی۔"
-    },
-    {
-      "title": "‘Waiting for astrologer’s nod?’: Udhayanidhi Stalin targets CM Joseph Vijay over corruption files",
-      "desc": "Udhayanidhi Stalin questioned Chief Minister C Joseph Vijay's delay in acting on corruption files. He satirically asked if an astrologer's nod was awaited for file review. Ministers Aadhav Arjuna and A. Rajmohan defended the Chief Minister's stance. They assu…",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/chennai/waiting-for-astrologers-nod-udhayanidhi-stalin-targets-cm-joseph-vijay-over-corruption-files/articleshow/133397459.cms",
-      "time": "2026-08-21T07:58:24",
-      "country": "Pakistan",
-      "title_ur": "' نجومی کی منظوری کا انتظار کر رہے ہیں؟': ادھیاندھی اسٹالن نے بدعنوانی کی فائلوں پر سی ایم جوزف وجے کو نشانہ بنایا",
-      "desc_ur": "ادھیاندھی اسٹالن نے چیف منسٹر سی جوزف وجے کی بدعنوانی کی فائلوں پر کارروائی میں تاخیر پر سوال اٹھایا۔ اس نے طنزیہ انداز میں پوچھا کہ کیا فائل کا جائزہ لینے کے لیے کسی نجومی کی منظوری کا انتظار ہے؟ وزراء آدھو ارجن اور اے راج موہن نے چیف منسٹر کے موقف کا دفاع کیا۔ وہ یقین رکھتے ہیں…"
-    },
-    {
-      "title": "Pakistan takes first step toward diversified financing with IFC-backed deal - BOL News",
-      "desc": "Pakistan signs first diversified payment rights financing agreement with IFC and Bank Alfalah for up to $100 million, opening a new channel for foreign-currency funding and international capital market access.",
-      "source": "BOL News",
-      "url": "https://www.bolnews.com/business/pakistan-takes-first-step-toward-diversified-financing-with-ifc-backed-deal/",
-      "time": "2026-08-21T07:56:27",
-      "country": "Pakistan",
-      "title_ur": "پاکستان نے IFC کی حمایت یافتہ ڈیل کے ساتھ متنوع فنانسنگ کی طرف پہلا قدم اٹھایا - BOL News",
-      "desc_ur": "پاکستان نے IFC اور بینک الفلاح کے ساتھ 100 ملین ڈالر تک کے پہلے متنوع ادائیگی کے حقوق کے فنانسنگ معاہدے پر دستخط کیے ہیں، جس سے غیر ملکی کرنسی کی فنڈنگ ​​اور بین الاقوامی کیپٹل مارکیٹ تک رسائی کے لیے ایک نیا چینل کھلا ہے۔"
-    },
-    {
-      "title": "Pakistani ex-PM Imran Khan moved back to jail after medical checkup",
-      "desc": "Former Pakistani PM Imran Khan was taken to an Islamabad hospital under heavy security at 1 AM on Friday, following a Supreme Court order, but was swiftly moved back to jail",
-      "source": "RT",
-      "url": "https://www.rt.com/india/644471-pakistan-imran-khan-jail/",
-      "time": "2026-08-21T07:40:36",
-      "country": "Pakistan",
-      "title_ur": "پاکستان کے سابق وزیراعظم عمران خان میڈیکل چیک اپ کے بعد واپس جیل منتقل ہو گئے۔",
-      "desc_ur": "سپریم کورٹ کے حکم کے بعد سابق پاکستانی وزیر اعظم عمران خان کو جمعہ کی صبح 1 بجے سخت سیکیورٹی میں اسلام آباد کے ایک اسپتال لے جایا گیا، تاہم انہیں فوری طور پر واپس جیل منتقل کر دیا گیا۔"
     }
   ],
   "business": {
