@@ -1,237 +1,177 @@
 {
-  "generated": "2026-08-22T16:16:44Z",
+  "generated": "2026-08-22T16:48:28Z",
   "world": [
     {
-      "title": "The U.S. Is Sending Deportees to Countries They've Never Called Home",
-      "desc": "The Trump administration is using so-called \"third-country deportations\" both punitively and to expel migrants who have been granted protection from their home countries.",
-      "source": "Reason",
-      "url": "https://reason.com/2026/08/21/the-u-s-is-sending-deportees-to-countries-theyve-never-called-home/",
-      "time": "2026-08-21T16:15:25",
-      "country": "US",
-      "title_ur": "امریکہ ان ممالک میں ڈی پورٹیز بھیج رہا ہے جنہیں انہوں نے کبھی گھر نہیں بلایا",
-      "desc_ur": "ٹرمپ انتظامیہ نام نہاد \"تیسرے ملک کی جلاوطنی\" کو سزا کے طور پر اور ان تارکین وطن کو نکالنے کے لیے استعمال کر رہی ہے جنہیں ان کے آبائی ممالک سے تحفظ فراہم کیا گیا ہے۔"
-    },
-    {
-      "title": "Today’s News in a Nutshell",
-      "desc": "KATHMANDU: Khabarhub brings you a glimpse of major developments of the day in Nepal, including politics, business/economy, sports, entertainment, and more. Prime Minister Shah arrives in Pokhara for family visit Prime Minister Balendra Shah arrived in Pokhara…",
-      "source": "Khabarhub.com",
-      "url": "https://english.khabarhub.com/2026/21/564137/",
-      "time": "2026-08-21T16:15:06",
-      "country": "US",
-      "title_ur": "آج کی خبریں مختصراً",
-      "desc_ur": "کھٹمنڈو: خبر ہب آپ کے لیے نیپال میں دن کی اہم پیشرفت کی ایک جھلک لاتا ہے، بشمول سیاست، کاروبار/معیشت، کھیل، تفریح، اور بہت کچھ۔ وزیر اعظم شاہ خاندانی عیادت کے لیے پوکھرا پہنچ گئے وزیر اعظم بلیندر شاہ پوکھرا پہنچے…"
-    },
-    {
-      "title": "America’s Next Strategic Partner Is Hiding in Plain Sight",
-      "desc": "When Uzbekistan celebrates 35 years of independence on September 1st, Washington should do more than congratulate its people and government. It should recognize a strategic opportunity and make Uzbekistan the anchor of its policy in Central Asia. Uzbekistan i…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Geopolitics/Asia/Americas-Next-Strategic-Partner-Is-Hiding-in-Plain-Sight.html",
-      "time": "2026-08-21T16:15:00",
-      "country": "US",
-      "title_ur": "امریکہ کا اگلا اسٹریٹجک پارٹنر سادہ نظروں میں چھپا ہوا ہے۔",
-      "desc_ur": "جب ازبکستان یکم ستمبر کو آزادی کے 35 سال مکمل کر رہا ہے، تو واشنگٹن کو اپنے عوام اور حکومت کو مبارکباد دینے سے زیادہ کچھ کرنا چاہیے۔ اسے ایک سٹریٹجک موقع کو تسلیم کرنا چاہیے اور ازبکستان کو وسطی ایشیا میں اپنی پالیسی کا لنگر بنانا چاہیے۔ ازبکستان میں…"
-    },
-    {
-      "title": "England hockey player got 'hooked' at local club",
-      "desc": "Forward Nick Bandurak, from Wolverhampton, recalls starting at Cannock Hockey Club.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ce97k1rgzgko?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "time": "2026-08-21T16:12:30",
-      "country": "International",
-      "title_ur": "انگلینڈ کے ہاکی کھلاڑی مقامی کلب میں 'ہک' ہو گئے۔",
-      "desc_ur": "وولور ہیمپٹن سے تعلق رکھنے والے فارورڈ نک بینڈورک نے کینوک ہاکی کلب سے شروع ہونے والی یاد تازہ کی۔"
-    },
-    {
-      "title": "The week that was in international affairs: Trump declares economic war on Iran, Russia threatens UK for supplying drones to Ukraine",
-      "desc": "Planet Watch News: Welcome back to another edition of My Take 5, your weekly round-up of top international news. This week we are covering Trump’s Economic D-Day against.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/toi-blogs/planet-watch/the-week-that-was-in-international-affairs-trump-declares-economic-war-on-iran-russia-threatens-uk-for-supplying-drones-to-ukraine/articleshow/133408816.cms",
-      "time": "2026-08-21T16:11:19",
+      "title": "Iran warns of ‘devastating’ response as US plans toughest sanctions",
+      "desc": "Iran warns of a devastating response as the US prepares tougher sanctions, while falling oil flows through Hormuz raise concerns over global energy supplies.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/iran-warns-of-devastating-response-as-us-plans-toughest-sanctions/article71375057.ece",
+      "time": "2026-08-21T16:47:40",
       "country": "Iran",
-      "title_ur": "وہ ہفتہ جو بین الاقوامی معاملات میں تھا: ٹرمپ نے ایران کے خلاف اقتصادی جنگ کا اعلان کر دیا، روس نے یوکرین کو ڈرون سپلائی کرنے پر برطانیہ کو دھمکی دی",
-      "desc_ur": "پلینیٹ واچ نیوز: مائی ٹیک 5 کے ایک اور ایڈیشن میں دوبارہ خوش آمدید، آپ کا ہفتہ وار سرفہرست بین الاقوامی خبروں کا راؤنڈ اپ۔ اس ہفتے ہم ٹرمپ کے اقتصادی ڈی ڈے کے خلاف کور کر رہے ہیں۔"
+      "title_ur": "ایران نے 'تباہ کن' ردعمل کا انتباہ دیا ہے کیونکہ امریکہ سخت ترین پابندیوں کا منصوبہ بنا رہا ہے۔",
+      "desc_ur": "ایران نے تباہ کن ردعمل کا انتباہ دیا ہے کیونکہ امریکہ سخت پابندیوں کی تیاری کر رہا ہے، جب کہ ہرمز کے ذریعے تیل کے بہاؤ میں کمی نے عالمی توانائی کی سپلائی پر تشویش کا اظہار کیا ہے۔"
     },
     {
-      "title": "How to watch Arsenal vs Coventry: Live streams and TV channels for the Premier League 2026/27 game",
-      "desc": "All the ways to watch Arsenal vs Coventry live streams, as the Premier League champions and new boys get the 2026/27 season underway at Emirates Stadium.",
-      "source": "TechRadar",
-      "url": "https://www.techradar.com/how-to-watch/football/arsenal-vs-coventry-premier-league-2026-27",
-      "time": "2026-08-21T16:10:49",
-      "country": "International",
-      "title_ur": "آرسنل بمقابلہ کوونٹری کیسے دیکھیں: پریمیئر لیگ 2026/27 گیم کے لیے لائیو اسٹریمز اور ٹی وی چینلز",
-      "desc_ur": "آرسنل بمقابلہ کوونٹری لائیو سٹریمز دیکھنے کے تمام طریقے، کیونکہ پریمیئر لیگ کے چیمپئنز اور نئے لڑکوں کے لیے ایمریٹس اسٹیڈیم میں 2026/27 کا سیزن جاری ہے۔"
-    },
-    {
-      "title": "Israeli PM Netanyahu brands Turkish President Erdogan ‘antisemitic dictator’ after Interpol arrest warrant",
-      "desc": "Netanyahu responds after Turkey asks Interpol to issue international arrest alerts for him and another official over the Gaza flotilla raid, as Israel accuses Erdogan of harbouring Hamas, occupying Cyprus and escalating tensions into Syria\nThe post Israeli PM…",
-      "source": "Protothema.gr",
-      "url": "https://en.protothema.gr/2026/08/21/israeli-pm-netanyahu-brands-turkish-president-erdogan-antisemitic-dictator-after-interpol-arrest-warrant/",
-      "time": "2026-08-21T16:09:58",
-      "country": "Israel",
-      "title_ur": "انٹرپول کے وارنٹ گرفتاری کے بعد اسرائیلی وزیر اعظم نیتن یاہو نے ترک صدر اردگان کو ’یہودی دشمن آمر‘ قرار دے دیا",
-      "desc_ur": "نیتن یاہو نے ترکی کی جانب سے غزہ کے فلوٹیلا پر چھاپے کے حوالے سے انٹرپول سے اپنے اور ایک اور اہلکار کے لیے بین الاقوامی گرفتاری کے الرٹ جاری کرنے کے لیے کہا، کیونکہ اسرائیل نے اردگان پر حماس کو پناہ دینے، قبرص پر قبضہ کرنے اور شام میں کشیدگی بڑھانے کا الزام لگایا ہے۔\nThe post اسرائیلی وزیراعظم…"
-    },
-    {
-      "title": "FL Democrat Senate Candidate Angie Nixon Trying to Distance Herself from Socialism Despite Joining DSA",
-      "desc": "Florida's Democrat Senate candidate Angie Nixon is trying to rewrite history, distancing herself from socialism despite her membership in the Democratic Socialists of America (DSA).\nThe post FL Democrat Senate Candidate Angie Nixon Trying to Distance Herself …",
-      "source": "Breitbart News",
-      "url": "https://www.breitbart.com/politics/2026/08/21/fl-democrat-senate-candidate-angie-nixon-trying-to-distance-herself-from-socialism-despite-joining-dsa/",
-      "time": "2026-08-21T16:08:47",
-      "country": "US",
-      "title_ur": "ایف ایل ڈیموکریٹ سینیٹ کی امیدوار اینجی نکسن ڈی ایس اے میں شمولیت کے باوجود سوشلزم سے خود کو دور کرنے کی کوشش کر رہی ہیں",
-      "desc_ur": "فلوریڈا کی ڈیموکریٹ سینیٹ کی امیدوار اینجی نکسن ڈیموکریٹک سوشلسٹ آف امریکہ (DSA) میں اپنی رکنیت کے باوجود سوشلزم سے خود کو دور کرتے ہوئے تاریخ کو دوبارہ لکھنے کی کوشش کر رہی ہیں۔\nThe post ایف ایل ڈیموکریٹ سینیٹ کی امیدوار اینجی نکسن خود کو دور کرنے کی کوشش کر رہی ہیں…"
-    },
-    {
-      "title": "Thank Idiot, Greedy Republicans If You're Upset With $40 Trillion in US Debt",
-      "desc": "I have never been a deficit hawk, and I’m not about to change my religious affiliation now. But whatever we think of debt and deficits, there is one point that should be very clear: it has been run up almost entirely due to Republican tax cuts and their inept…",
-      "source": "Common Dreams",
-      "url": "https://www.commondreams.org/opinion/why-does-us-have-40-trillion-in-debt",
-      "time": "2026-08-21T16:08:36",
-      "country": "US",
-      "title_ur": "شکریہ بیوقوف، لالچی ریپبلکن اگر آپ 40 ٹریلین امریکی قرض سے پریشان ہیں",
-      "desc_ur": "میں کبھی خسارے کا شکار نہیں رہا، اور میں اب اپنی مذہبی وابستگی کو تبدیل کرنے والا نہیں ہوں۔ لیکن ہم قرضوں اور خسارے کے بارے میں جو کچھ بھی سوچتے ہیں، وہاں ایک نکتہ بہت واضح ہونا چاہیے: یہ تقریباً مکمل طور پر ریپبلکن ٹیکس میں کٹوتیوں اور ان کی نااہلی کی وجہ سے ختم ہو چکا ہے…"
-    },
-    {
-      "title": "Trump Aide Calls Him Her ‘Guardian and Protector’ in Leaked Letters",
-      "desc": "President Donald Trump’s executive assistant, Natalie Harp, reportedly referred to the politician as her “guardian and protector” in leaked letters. “I want things to always be right between us. I also know I’ve been distracted all week (forgetting to eat thr…",
-      "source": "Us Weekly",
-      "url": "https://www.usmagazine.com/celebrity-news/news/natalie-harp-calls-trump-her-guardian-in-leaked-letters/",
-      "time": "2026-08-21T16:06:28",
-      "country": "US",
-      "title_ur": "ٹرمپ کے معاون نے اسے لیک ہونے والے خطوط میں اپنا 'سرپرست اور محافظ' کہا ہے۔",
-      "desc_ur": "صدر ڈونلڈ ٹرمپ کی ایگزیکٹیو اسسٹنٹ نیٹلی ہارپ نے مبینہ طور پر لیک ہونے والے خطوط میں سیاستدان کو اپنا \"سرپرست اور محافظ\" کہا ہے۔ \"میں چاہتا ہوں کہ چیزیں ہمیشہ ہمارے درمیان ٹھیک رہیں۔ میں یہ بھی جانتا ہوں کہ میں سارا ہفتہ مشغول رہا ہوں (کھانا کھانا بھول گیا ہوں…"
-    },
-    {
-      "title": "Oil Nears $100 as Trump’s ‘Economic D-Day’ Raises the Stakes",
-      "desc": "Hormuz traffic remains near a standstill as Trump's 'Economic D-Day' campaign pushes Brent closer to $100.\nFriday, August 21, 2026\nTransits through the Strait of Hormuz have been in single digits the entire week, with Trump's announcement of an 'Economic D-Da…",
+      "title": "Energy sector is in focus because of Iran, AI and California. Here are hedge funds' top plays",
+      "desc": "What I'm hearing from energy insiders\nGreetings from Colorado, where I had the opportunity to do a nearly hour-long chat with the Chair of the Federal Trade Commission. While most of the conversation with Andrew Ferguson was about A.I. and Big Tech, we did ve…",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/b052815f01f21745",
-      "time": "2026-08-21T16:05:56",
-      "country": "US",
-      "title_ur": "تیل $100 کے قریب ہے کیونکہ ٹرمپ کے 'اکنامک ڈی ڈے' نے داؤ پر لگا دیا ہے",
-      "desc_ur": "ٹرمپ کی 'اکنامک ڈی ڈے' مہم نے برینٹ کو $100 کے قریب دھکیلتے ہوئے ہرمز ٹریفک تعطل کے قریب ہے۔\nجمعہ 21 اگست 2026\nٹرمپ کے 'اقتصادی ڈی-ڈا..."
-    },
-    {
-      "title": "Polymarket's public ledger may be leaking military secrets",
-      "desc": "A watchdog group traced $8M in longshot bets that landed right before U.S. strikes on Iran.",
-      "source": "TheStreet",
-      "url": "https://www.thestreet.com/latest-news/polymarket-military-secrets-leak",
-      "time": "2026-08-21T16:03:00",
+      "url": "https://biztoc.com/x/223515c8f22cc420",
+      "time": "2026-08-21T16:47:38",
       "country": "Iran",
-      "title_ur": "ہو سکتا ہے پولی مارکیٹ کا پبلک لیجر فوجی راز افشا کر رہا ہو۔",
-      "desc_ur": "ایک واچ ڈاگ گروپ نے لانگ شاٹ شرطوں میں $8M کا سراغ لگایا جو ایران پر امریکی حملے سے ٹھیک پہلے اترے تھے۔"
+      "title_ur": "ایران، اے آئی اور کیلیفورنیا کی وجہ سے توانائی کا شعبہ توجہ میں ہے۔ یہاں ہیج فنڈز کے سرفہرست ڈرامے ہیں۔",
+      "desc_ur": "میں توانائی کے اندرونی ذرائع سے کیا سن رہا ہوں۔\nکولوراڈو کی طرف سے مبارکباد، جہاں مجھے فیڈرل ٹریڈ کمیشن کے چیئر کے ساتھ تقریباً ایک گھنٹے کی بات چیت کرنے کا موقع ملا۔ جبکہ اینڈریو فرگوسن کے ساتھ زیادہ تر گفتگو A.I کے بارے میں تھی۔ اور بگ ٹیک، ہم نے…"
     },
     {
-      "title": "Far-Left Afghan American Wins Special Election to Replace Eric Swalwell",
-      "desc": "The irony is hard to miss. Wahab invokes the American Dream even as she embraces a political agenda that would dramatically transform the country that made her own remarkable rise possible.\nThe post Far-Left Afghan American Wins Special Election to Replace Er…",
-      "source": "Legalinsurrection.com",
-      "url": "https://legalinsurrection.com/2026/08/far-left-afghan-american-wins-special-election-to-replace-eric-swalwell/",
-      "time": "2026-08-21T16:00:56",
-      "country": "US",
-      "title_ur": "انتہائی بائیں بازو سے تعلق رکھنے والے افغان امریکی نے ایرک سویل ویل کی جگہ لینے کے لیے خصوصی الیکشن جیت لیا۔",
-      "desc_ur": "ستم ظریفی کو یاد کرنا مشکل ہے۔ وہاب نے امریکن ڈریم کی دعوت دی یہاں تک کہ جب وہ ایک سیاسی ایجنڈا اپناتی ہے جو ڈرامائی طور پر اس ملک کو بدل دے گا جس نے اس کا اپنا قابل ذکر عروج ممکن بنایا۔\nThe post انتہائی بائیں بازو سے تعلق رکھنے والے افغان امریکی نے صدارتی انتخابات میں کامیابی حاصل کی…"
-    },
-    {
-      "title": "Columbia House closure sparks nostalgia for a bygone music scam",
-      "desc": "Americans are fondly remembering the kinder, gentler music club swindles of decades past",
-      "source": "Salon",
-      "url": "https://www.salon.com/2026/08/21/columbia-house-closure-sparks-nostalgia-for-a-bygone-music-scam/",
-      "time": "2026-08-21T16:00:47",
-      "country": "US",
-      "title_ur": "کولمبیا ہاؤس کی بندش نے ماضی کے میوزک اسکینڈل کے لیے پرانی یادوں کو جنم دیا۔",
-      "desc_ur": "امریکی ماضی کی دہائیوں کے مہربان، نرم میوزک کلب کو یاد کر رہے ہیں۔"
-    },
-    {
-      "title": "EXCLUSIVE: Donald Trump Should Fire 'Least Popular' Cabinet Member Amid Iran 'Failures,' Ex-General Claims",
-      "desc": "As the war in Iran continues to take a huge toll on the nation's dwindling defense capabilities, President Trump looks to be changing tactics, proposing a crushing financial campaign against Iran.",
-      "source": "Radaronline.com",
-      "url": "https://radaronline.com/p/donald-trump-firing-cabinet-member-pete-hegseth-iran-failures/",
-      "time": "2026-08-21T16:00:00",
+      "title": "Thousands Of Accountants Board Higgins Boats In Preparation For 'Economic D-Day' Against Iran",
+      "desc": "PERSIAN GULF — Clutching their pens and calculators tightly, thousands of accountants boarded Higgins boats this morning in preparation for the launch of &#34;Economic D-Day&#34; against Iran.",
+      "source": "Babylonbee.com",
+      "url": "https://babylonbee.com/news/thousands-of-accountants-board-higgins-boats-in-preparation-for-economic-d-day-against-iran",
+      "time": "2026-08-21T16:46:33",
       "country": "Iran",
-      "title_ur": "خصوصی: ڈونلڈ ٹرمپ کو ایران کی 'ناکامیوں' کے درمیان 'کم سے کم مقبول' کابینہ کے رکن کو برطرف کرنا چاہیے، سابق جنرل کا دعویٰ",
-      "desc_ur": "چونکہ ایران میں جنگ ملک کی کم ہوتی ہوئی دفاعی صلاحیتوں پر بہت زیادہ اثر ڈال رہی ہے، صدر ٹرمپ ایران کے خلاف کچلنے والی مالیاتی مہم کی تجویز دیتے ہوئے حکمت عملی تبدیل کرتے نظر آ رہے ہیں۔"
+      "title_ur": "ایران کے خلاف 'اقتصادی ڈی ڈے' کی تیاری میں ہزاروں اکاؤنٹنٹس بورڈ ہیگنس بوٹس",
+      "desc_ur": "خلیج فارس — اپنے قلموں اور کیلکولیٹروں کو مضبوطی سے پکڑے ہوئے، ہزاروں اکاؤنٹنٹس آج صبح ہیگنس کی کشتیوں پر سوار ہو کر ایران کے خلاف \"اقتصادی ڈی-ڈے\" کے آغاز کی تیاری میں تھے۔"
+    },
+    {
+      "title": "US expands Iran-linked hacking case to 17 defendants over HBO’s $6 million Bitcoin ransom plot",
+      "desc": "The approximately $6 million figure stems from a 2017 attempted extortion, and DOJ materials do not allege that HBO paid.\nThe post US expands Iran-linked hacking case to 17 defendants over HBO’s $6 million Bitcoin ransom plot appeared first on CryptoSlate.",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/us-expands-iran-linked-hacking-case-to-17-defendants-over-hbos-6-million-bitcoin-ransom-plot/",
+      "time": "2026-08-21T16:45:42",
+      "country": "Iran",
+      "title_ur": "امریکہ نے ایران سے منسلک ہیکنگ کیس کو HBO کے 6 ملین ڈالر بٹ کوائن تاوان کی سازش پر 17 مدعا علیہان تک پھیلا دیا",
+      "desc_ur": "تقریباً 6 ملین ڈالر کا اعداد و شمار 2017 میں بھتہ خوری کی کوشش سے پیدا ہوتا ہے، اور DOJ مواد یہ الزام نہیں لگاتا کہ HBO نے ادائیگی کی۔\nThe post امریکا نے ایران سے منسلک ہیکنگ کیس کو HBO کے 6 ملین ڈالر بٹ کوائن تاوان کی سازش پر 17 مدعا علیہان تک بڑھا دیا appeared first on CryptoSlate."
+    },
+    {
+      "title": "Bullet Nani and other Badass Indian Grandmas: Nanis beyond the stereotypes",
+      "desc": "The first generation of women of independent India carried within them important fragments of our history",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/book/bullet-nani-and-other-badass-indian-grandmas-nanis-beyond-the-stereotypes-126082101487_1.html",
+      "time": "2026-08-21T16:45:05",
+      "country": "India",
+      "title_ur": "بلٹ نانی اور دیگر باداس ہندوستانی دادی: دقیانوسی تصورات سے پرے نانی",
+      "desc_ur": "آزاد ہندوستان کی خواتین کی پہلی نسل نے اپنے اندر ہماری تاریخ کے اہم ٹکڑے لیے"
+    },
+    {
+      "title": "AOC and Ossoff Are Young. Why Rush to Run in 2028?",
+      "desc": "AOC and Ossoff are young. Why rush to run in 2028? Either of the Democratic 2028 prospects would be the youngest president ever. Unlike fellow millennial J.D. Vance, it may be smarter for them to wait.",
+      "source": "New York Magazine",
+      "url": "http://nymag.com/intelligencer/article/aoc-and-ossoff-are-young-why-rush-to-run-in-2028.html",
+      "time": "2026-08-21T16:44:45",
+      "country": "US",
+      "title_ur": "AOC اور Ossoff جوان ہیں۔ 2028 میں بھاگنے کی جلدی کیوں؟",
+      "desc_ur": "AOC اور Ossoff نوجوان ہیں۔ 2028 میں بھاگنے کی جلدی کیوں؟ ڈیموکریٹک 2028 کے امکانات میں سے کوئی بھی اب تک کا سب سے کم عمر صدر ہوگا۔ ساتھی ہزار سالہ J.D. Vance کے برعکس، ان کے لیے انتظار کرنا بہتر ہو سکتا ہے۔"
+    },
+    {
+      "title": "Israeli shoots dead Palestinian teen after settlers enter West Bank village, officials say",
+      "desc": "Man (70) also injured in incident, officials say",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/08/21/israeli-shoots-dead-palestinian-teen-after-settlers-enter-west-bank-village-officials-say/",
+      "time": "2026-08-21T16:41:52",
+      "country": "Israel",
+      "title_ur": "حکام کا کہنا ہے کہ اسرائیلیوں نے فلسطینی نوجوان کو مغربی کنارے کے گاؤں میں داخل ہونے کے بعد گولی مار کر ہلاک کر دیا۔",
+      "desc_ur": "حکام کا کہنا ہے کہ اس واقعے میں ایک شخص (70) زخمی بھی ہوا۔"
+    },
+    {
+      "title": "Iran vows ‘devastating’ response as US threatens crushing sanctions designed to ‘collapse’ regime",
+      "desc": "The chief of staff of Iran's Armed Forces, Major General Ali Abdollahi, said the Islamic Republic's reaction would be broad and decisive.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/21/world-news/iran-vows-devastating-response-as-us-threatens-crushing-sanctions-designed-to-collapse-regime/",
+      "time": "2026-08-21T16:41:22",
+      "country": "Iran",
+      "title_ur": "ایران نے 'تباہ کن' ردعمل کا عزم کیا کیونکہ امریکہ نے حکومت کو 'گرانے' کے لیے تیار کی گئی پابندیوں کو کچلنے کی دھمکی دی ہے",
+      "desc_ur": "ایران کی مسلح افواج کے چیف آف اسٹاف میجر جنرل علی عبداللہی نے کہا کہ اسلامی جمہوریہ کا ردعمل وسیع اور فیصلہ کن ہوگا۔"
+    },
+    {
+      "title": "India buys its most expensive LNG in years as war upends market",
+      "desc": "Indian energy companies are paying more than $23 per mmbtu for September LNG cargoes, among the highest prices for imports since 2022, as the Iran war disrupts global supplies. GAIL India and Gujarat State Petroleum Corp. have bought cargoes at these levels, …",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/india-buys-its-most-expensive-lng-in-years-as-war-upends-market/articleshow/133409410.cms",
+      "time": "2026-08-21T16:39:39",
+      "country": "Iran",
+      "title_ur": "بھارت برسوں میں اپنی سب سے مہنگی ایل این جی خریدتا ہے کیونکہ جنگ نے مارکیٹ کو بڑھاوا دیا ہے۔",
+      "desc_ur": "ہندوستانی توانائی کمپنیاں ستمبر ایل این جی کارگوز کے لیے $23 فی ایم ایم بی ٹی یو سے زیادہ ادا کر رہی ہیں، جو کہ 2022 کے بعد سے درآمدات کی بلند ترین قیمتوں میں سے ایک ہے، کیونکہ ایران کی جنگ نے عالمی سپلائی میں خلل ڈالا ہے۔ گیل انڈیا اور گجرات اسٹیٹ پیٹرولیم کارپوریشن نے ان سطحوں پر کارگو خریدے ہیں،…"
+    },
+    {
+      "title": "Mirza Fakhrul Islam Alamgir takes oath as Bangladesh's President",
+      "desc": "Alamgir, 78, a longtime secretary general of the ruling Bangladesh Nationalist Party (BNP), was administered the oath of office by Jatiya Sangsad (Parliament) Acting Speaker Kayser Kamal",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/mirza-fakhrul-islam-alamgir-takes-oath-as-bangladesh-s-president-126082101468_1.html",
+      "time": "2026-08-21T16:36:41",
+      "country": "International",
+      "title_ur": "مرزا فخر الاسلام عالمگیر نے بنگلہ دیش کے صدر کی حیثیت سے حلف اٹھا لیا۔",
+      "desc_ur": "78 سالہ عالمگیر، جو حکمران بنگلہ دیش نیشنلسٹ پارٹی (بی این پی) کے دیرینہ سیکرٹری جنرل ہیں، کو قومی اسمبلی (پارلیمنٹ) کے قائم مقام اسپیکر قیصر کمال نے اپنے عہدے کا حلف دلایا۔"
+    },
+    {
+      "title": "Stop charging for free ration: H’bag DC to PDS dealers",
+      "desc": "DC Hemant Sati warns Hazaribag PDS ration dealers against charging beneficiaries; free rice, wheat, salt, pulses. Report demands to control room 8002529349.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/ranchi/stop-charging-for-free-ration-hbag-dc-to-pds-dealers/articleshow/133409415.cms",
+      "time": "2026-08-21T16:36:12",
+      "country": "International",
+      "title_ur": "مفت راشن کی قیمت وصول کرنا بند کریں: پی ڈی ایس ڈیلروں کو ایچ بیگ ڈی سی",
+      "desc_ur": "ڈی سی ہیمنت ستی نے ہزاری باغ کے پی ڈی ایس راشن ڈیلروں کو مستفید ہونے والوں سے معاوضہ وصول کرنے کے خلاف خبردار کیا۔ مفت چاول، گندم، نمک، دالیں۔ کنٹرول روم 8002529349 پر رپورٹ طلب کریں۔"
+    },
+    {
+      "title": "AIPAC Loses Yet Another House Race It Poured Millions of Dollars Into",
+      "desc": "AIPAC funneled money into opposing a candidate who has barely mentioned Israel on the campaign trail.",
+      "source": "Truthout",
+      "url": "https://truthout.org/articles/aipac-loses-yet-another-house-race-it-poured-millions-of-dollars-into/",
+      "time": "2026-08-21T16:35:33",
+      "country": "Israel",
+      "title_ur": "AIPAC پھر بھی ایک اور ہاؤس ریس ہار گیا جس میں لاکھوں ڈالر ڈالے گئے۔",
+      "desc_ur": "اے آئی پی اے سی نے ایک ایسے امیدوار کی مخالفت میں پیسہ خرچ کیا جس نے انتخابی مہم میں بمشکل اسرائیل کا ذکر کیا ہو۔"
+    },
+    {
+      "title": "JDA cracks down on coaching institutes after Supreme Court directives",
+      "desc": "Rajasthan launches crackdown on Jaipur coaching institutes after Supreme Court directive; JDA seals 13 facilities, targets 25 before Aug 27 deadline.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/jaipur/jda-cracks-down-on-coaching-institutes-after-supreme-court-directives/articleshow/133409401.cms",
+      "time": "2026-08-21T16:34:41",
+      "country": "International",
+      "title_ur": "سپریم کورٹ کی ہدایت کے بعد جے ڈی اے نے کوچنگ اداروں کے خلاف کریک ڈاؤن کیا۔",
+      "desc_ur": "سپریم کورٹ کی ہدایت کے بعد راجستھان نے جے پور کوچنگ انسٹی ٹیوٹ کے خلاف کریک ڈاؤن شروع کیا۔ جے ڈی اے نے 13 تنصیبات کو سیل کیا، 27 اگست کی آخری تاریخ سے پہلے 25 کا ہدف۔"
+    },
+    {
+      "title": "‘Triangular security grid’ will secure sensitive Siliguri Corridor, says Shah",
+      "desc": "Amit Shah announces triangular security grid with new garrisons to protect Siliguri Corridor; Bengal hands over land for India-Bangladesh border fencing.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/kolkata/triangular-security-grid-will-secure-sensitive-siliguri-corridor-says-shah/articleshow/133409395.cms",
+      "time": "2026-08-21T16:34:21",
+      "country": "India",
+      "title_ur": "شاہ کا کہنا ہے کہ 'مثلث سیکورٹی گرڈ' حساس سلی گوڑی کوریڈور کو محفوظ بنائے گا۔",
+      "desc_ur": "امیت شاہ نے سلی گوڑی کوریڈور کی حفاظت کے لیے نئے گیریژن کے ساتھ سہ رخی سیکورٹی گرڈ کا اعلان کیا؛ بنگال نے بھارت بنگلہ دیش سرحد پر باڑ لگانے کے لیے زمین دے دی۔"
+    },
+    {
+      "title": "Facebook ‘friend’ dupes 75-year-old woman from Maharashtra of Rs 1.7 crore",
+      "desc": "Mira Road: 75-year-old woman allegedly duped of Rs 1.7 crore by Facebook ‘friend’ posing as foreign man; fake courier gift scam, police case filed.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/facebook-friend-dupes-75-year-old-woman-from-maharashtra-of-rs-1-7-crore/articleshow/133409360.cms",
+      "time": "2026-08-21T16:33:26",
+      "country": "International",
+      "title_ur": "فیس بک کے دوست نے مہاراشٹر کی 75 سالہ خاتون کو 1.7 کروڑ روپے کا دھوکہ دیا۔",
+      "desc_ur": "میرا روڈ: 75 سالہ خاتون کو فیس بک کے دوست نے غیر ملکی مرد ظاہر کر کے 1.7 کروڑ روپے کا دھوکہ دیا۔ جعلی کورئیر گفٹ سکینڈل، پولیس نے مقدمہ درج کر لیا۔"
     }
   ],
   "pakistan": [
     {
-      "title": "Joe Root's second-coming as England Test captain starts with a bang at fortress Headingley - as dismal Pakistan made to pay by destructive hosts, writes LAWRENCE BOOTH",
-      "desc": "LAWRENCE BOOTH AT HEADINGLEY: The dressing-room kettle had not yet been switched on for tea on the third day of this first Test when England were celebrating a crushing victory.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/sport/cricket/article-16070291/Joe-Root-second-coming-England.html",
-      "time": "2026-08-21T16:12:07",
+      "title": "Pakistan's Test record since 2022: Exploring home, away and SENA record amid struggles in England",
+      "desc": "With Pakistan losing yet another away Test match, here's a look at how the subcontinent powerhouse has fared in the longest format far from home.",
+      "source": "Sporting News",
+      "url": "https://www.sportingnews.com/in/cricket/news/pakistans-test-record-2022-exploring-home-away-and-sena-record-amid-struggles-england/47ad62c1442016eed6832280",
+      "time": "2026-08-21T16:46:28",
       "country": "Pakistan",
-      "title_ur": "لارنس بوتھ لکھتے ہیں کہ انگلینڈ کے ٹیسٹ کپتان کے طور پر جو روٹ کی دوسری آمد کا آغاز قلعہ ہیڈنگلے میں دھوم مچانے کے ساتھ ہوتا ہے - جیسا کہ پاکستان کو تباہ کن میزبانوں کی طرف سے ادا کرنا پڑا، لارنس بوتھ لکھتے ہیں۔",
-      "desc_ur": "لارنس بوتھ ایٹ ہیڈنگلی: اس پہلے ٹیسٹ کے تیسرے دن جب انگلستان شاندار فتح کا جشن منا رہا تھا تو ڈریسنگ روم کی کیتلی ابھی تک چائے کے لیے آن نہیں ہوئی تھی۔"
+      "title_ur": "2022 کے بعد سے پاکستان کا ٹیسٹ ریکارڈ: انگلینڈ میں جدوجہد کے درمیان ہوم، اوے اور سینا ریکارڈ کی تلاش",
+      "desc_ur": "پاکستان کے ایک اور دور ٹیسٹ میچ میں شکست کے ساتھ، یہاں ایک نظر ہے کہ برصغیر کے پاور ہاؤس نے گھر سے دور سب سے طویل فارمیٹ میں کس طرح کارکردگی کا مظاہرہ کیا ہے۔"
     },
     {
-      "title": "Former Pakistan prime minister Imran Khan back in jail after hospital visit",
-      "desc": "Supreme court ordered ‌authorities to transfer Khan to hospital",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/world/asia-pacific/2026/08/21/former-pakistan-prime-minister-imran-khan-back-in-jail-after-hospital-visit/",
-      "time": "2026-08-21T16:08:19",
+      "title": "England thrash Pakistan by an innings and 103 runs in first Test",
+      "desc": "Joe Root's return as England captain results in a thumping win inside three days against Pakistan in first Test.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/sports/2026/8/21/england-thrash-pakistan-by-an-innings-and-103-runs-in-first-test",
+      "time": "2026-08-21T16:24:39",
       "country": "Pakistan",
-      "title_ur": "پاکستان کے سابق وزیراعظم عمران خان ہسپتال کے دورے کے بعد واپس جیل پہنچ گئے۔",
-      "desc_ur": "سپریم کورٹ نے حکام کو خان ​​کو اسپتال منتقل کرنے کا حکم دے دیا۔"
-    },
-    {
-      "title": "Test Match Special Podcast",
-      "desc": "Reaction from Headingley as England’s bowlers dismantle Pakistan on day three.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sounds/play/p0p5qjjn?at_campaign=rss",
-      "time": "2026-08-21T16:08:00",
-      "country": "Pakistan",
-      "title_ur": "ٹیسٹ میچ اسپیشل پوڈ کاسٹ",
-      "desc_ur": "انگلینڈ کے گیند بازوں نے تیسرے دن پاکستان کو تباہ کرنے پر ہیڈنگلے کا ردعمل۔"
-    },
-    {
-      "title": "England first Test ratings: Pace duo get top marks but who lands just a 4/10 for moment of madness in victory over Pakistan?",
-      "desc": "Ben and Baz who? England got Joe Root's second captaincy era off to a flier with a walloping of Pakistan to quash any yearnings for Bazball. But who were the stars of the show and who flopped?",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/sport/cricket/article-16070361/England-Test-ratings-Pakistan.html",
-      "time": "2026-08-21T16:02:43",
-      "country": "Pakistan",
-      "title_ur": "انگلینڈ کی پہلی ٹیسٹ ریٹنگ: تیز رفتار جوڑی نے سب سے زیادہ نمبر حاصل کیے لیکن پاکستان کے خلاف جیت کے جنون کے لمحے میں صرف 4/10 پر کون اترے؟",
-      "desc_ur": "بین اور باز کون؟ انگلستان نے جو روٹ کی کپتانی کا دوسرا دور بز بال کے لیے کسی بھی خواہش کو ختم کرنے کے لیے پاکستان کو دیوار سے لگا دیا۔ لیکن شو کے ستارے کون تھے اور کون فلاپ ہوا؟"
-    },
-    {
-      "title": "No reason to comment on Pakistan's frustration: MEA on Islamabad summoning US Charge d'Affaires in Islamabad",
-      "desc": "India on Friday dismissed Pakistan’s objection to US Ambassador to India Sergio Gor’s remarks that Jammu and Kashmir is an integral part of India, with MEA spokesperson Randhir Jaiswal saying there was “no reason” to comment on Pakistan’s frustration.",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/india/no-reason-to-comment-on-pakistans-frustration-mea-on-islamabad-summoning-us-charge-daffaires-in-islamabad/articleshow/133408517.cms",
-      "time": "2026-08-21T15:52:24",
-      "country": "Pakistan",
-      "title_ur": "پاکستان کی مایوسی پر تبصرہ کرنے کی کوئی وجہ نہیں: اسلام آباد میں امریکی ناظم الامور کو طلب کرنے پر ایم ای اے",
-      "desc_ur": "ہندوستان نے جمعہ کو ہندوستان میں امریکی سفیر سرجیو گور کے ریمارکس پر پاکستان کے اعتراض کو مسترد کردیا کہ جموں و کشمیر ہندوستان کا اٹوٹ حصہ ہے، ایم ای اے کے ترجمان رندھیر جیسوال نے کہا کہ پاکستان کی مایوسی پر تبصرہ کرنے کی \"کوئی وجہ نہیں\" ہے۔"
-    },
-    {
-      "title": "Iran asserts control over Strait of Hormuz amid US tensions",
-      "desc": "Iran's control over the Strait of Hormuz heightens geopolitical risks, potentially disrupting global oil markets and escalating US-Iran tensions.\nThe post Iran asserts control over Strait of Hormuz amid US tensions appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-asserts-control-over-strait-of-hormuz-amid-us-tensions-3/",
-      "time": "2026-08-21T15:50:24",
-      "country": "Pakistan",
-      "title_ur": "امریکی کشیدگی کے درمیان ایران نے آبنائے ہرمز پر کنٹرول کا دعویٰ کر دیا ہے۔",
-      "desc_ur": "آبنائے ہرمز پر ایران کا کنٹرول جغرافیائی سیاسی خطرات کو بڑھاتا ہے، ممکنہ طور پر تیل کی عالمی منڈیوں میں خلل ڈالتا ہے اور امریکہ ایران کشیدگی میں اضافہ ہوتا ہے۔\nThe post امریکی کشیدگی کے درمیان ایران نے آبنائے ہرمز پر کنٹرول حاصل کرلیا appeared first on Crypto Briefing."
-    },
-    {
-      "title": "Returning in style - Root excited by future after huge England win",
-      "desc": "Joe Root says his team were \"outstanding\" as he started his second spell as England captain with an emphatic innings victory against Pakistan in the opening Test at Headingley.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/cricket/videos/c4g6nl13mxdo",
-      "time": "2026-08-21T15:44:12",
-      "country": "Pakistan",
-      "title_ur": "انداز میں واپسی - انگلینڈ کی زبردست جیت کے بعد روٹ مستقبل سے پرجوش ہیں۔",
-      "desc_ur": "جو روٹ کا کہنا ہے کہ ان کی ٹیم \"شاندار\" تھی جب انہوں نے انگلینڈ کے کپتان کے طور پر اپنے دوسرے اسپیل کا آغاز ہیڈنگلے میں ہونے والے ابتدائی ٹیسٹ میں پاکستان کے خلاف شاندار اننگز سے فتح کے ساتھ کیا۔"
-    },
-    {
-      "title": "Free Hockey Kits Announced by Punjab for Students - Munafa Marketing",
-      "desc": "Free Hockey Kits Announced by Punjab for Students of schools registered on the Pakistan Hockey Federation’s National Hockey Portal. Rawalpindi Division receives first batch on August 21. All divisions will be covered in phases. Key Facts at a Glance: Free Hoc…",
-      "source": "Munafamarketing.com",
-      "url": "https://munafamarketing.com/free-hockey-kits-announced-by-punjab-for-students/",
-      "time": "2026-08-21T15:33:55",
-      "country": "Pakistan",
-      "title_ur": "پنجاب کی جانب سے طلباء کے لیے مفت ہاکی کٹس کا اعلان - منافہ مارکیٹنگ",
-      "desc_ur": "پاکستان ہاکی فیڈریشن کے نیشنل ہاکی پورٹل پر رجسٹرڈ سکولوں کے طلباء کے لیے پنجاب کی طرف سے مفت ہاکی کٹس کا اعلان۔ راولپنڈی ڈویژن کو پہلی کھیپ 21 اگست کو موصول ہوئی ہے۔ تمام ڈویژنوں کو مرحلہ وار کور کیا جائے گا۔ ایک نظر میں اہم حقائق: فری ہاک…"
+      "title_ur": "انگلینڈ نے پاکستان کو پہلے ٹیسٹ میں اننگز اور 103 رنز سے شکست دے دی۔",
+      "desc_ur": "انگلینڈ کے کپتان کے طور پر جو روٹ کی واپسی کے نتیجے میں پاکستان کے خلاف پہلے ٹیسٹ میں تین دن کے اندر زبردست جیت حاصل ہوئی۔"
     }
   ],
   "business": {
