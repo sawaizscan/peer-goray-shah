@@ -1,203 +1,173 @@
 {
-  "generated": "2026-08-21T23:46:18Z",
+  "generated": "2026-08-22T00:52:28Z",
   "world": [
     {
-      "title": "Japan's core inflation accelerates in July, bolsters case for rate hike",
-      "desc": "TOKYO, Aug 21 : Japan's core consumer inflation accelerated in July from a year earlier as firms passed on rising import costs from a weak yen and the U.S.-Israeli war on Iran, data showed on Friday, bolstering the case for a rate hike from the central bank.T…",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/japans-core-inflation-accelerates-in-july-bolsters-case-rate-hike-6332291",
-      "time": "2026-08-20T23:41:51",
+      "title": "Trump Appears on Michael Cohen’s Podcast",
+      "desc": "“President Donald Trump publicly reconciled Thursday with Michael Cohen, his former fixer who became a key prosecution witness against him, calling into Cohen’s radio show and podcast to argue that the criminal cases they once bitterly fought over were produc…",
+      "source": "Politicalwire.com",
+      "url": "https://politicalwire.com/2026/08/20/trump-appears-on-podcast-of-michael-cohen/",
+      "time": "2026-08-21T00:51:49",
+      "country": "US",
+      "title_ur": "ٹرمپ مائیکل کوہن کے پوڈ کاسٹ پر نمودار ہوئے۔",
+      "desc_ur": "\"صدر ڈونلڈ ٹرمپ نے جمعرات کو عوامی طور پر اپنے سابق فکسر مائیکل کوہن کے ساتھ مفاہمت کی، جو ان کے خلاف استغاثہ کا ایک اہم گواہ بن گیا تھا، کوہن کے ریڈیو شو اور پوڈ کاسٹ میں یہ بحث کرنے کے لیے بلایا گیا تھا کہ وہ فوجداری مقدمات جن پر انہوں نے ایک بار تلخی سے مقابلہ کیا تھا وہ تیار کیے گئے تھے…"
+    },
+    {
+      "title": "USS Lincoln heads home after extended deployment to the Middle East",
+      "desc": "The USS Abraham Lincoln is on its way back home following an extended nine-month deployment, a U.S. official told NBC News on Thursday.",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/politics/national-security/uss-lincoln-heads-home-extended-deployment-middle-east-rcna593639",
+      "time": "2026-08-21T00:50:14",
+      "country": "US",
+      "title_ur": "یو ایس ایس لنکن مشرق وسطیٰ میں توسیعی تعیناتی کے بعد گھر کی طرف روانہ ہے۔",
+      "desc_ur": "ایک امریکی اہلکار نے جمعرات کو این بی سی نیوز کو بتایا کہ یو ایس ایس ابراہم لنکن نو ماہ کی توسیع کے بعد وطن واپس جا رہا ہے۔"
+    },
+    {
+      "title": "Best of BS Opinion: RBI rate hike only a matter of time as inflation looms",
+      "desc": "Today's opinion pieces examine the RBI's policy outlook, weaknesses in public examinations, state capacity, India's infrastructure financing gap and Omer Bartov's critique of Israel",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/opinion/specials/best-of-bs-opinion-rbi-rate-hike-only-a-matter-of-time-as-inflation-looms-126082001470_1.html",
+      "time": "2026-08-21T00:45:43",
+      "country": "Israel",
+      "title_ur": "بی ایس کی بہترین رائے: آر بی آئی کی شرح میں اضافہ صرف وقت کی بات ہے کیونکہ افراط زر بڑھ رہا ہے۔",
+      "desc_ur": "آج کی رائے کے ٹکڑے آر بی آئی کی پالیسی کے نقطہ نظر، عوامی امتحانات میں کمزوریوں، ریاستی صلاحیت، ہندوستان کے بنیادی ڈھانچے کے مالیاتی فرق اور اسرائیل پر عمر بارتوف کی تنقید کا جائزہ لیتے ہیں۔"
+    },
+    {
+      "title": "Taliban release two detained UN staff members in Afghanistan",
+      "desc": "The two men, detained in the western city of Herat on August 9, were released on Thursday morning.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/8/21/taliban-release-two-detained-un-staff-members-in-afghanistan",
+      "time": "2026-08-21T00:44:46",
+      "country": "US",
+      "title_ur": "طالبان نے افغانستان میں زیر حراست اقوام متحدہ کے عملے کے دو ارکان کو رہا کر دیا۔",
+      "desc_ur": "ان دونوں افراد کو، جنہیں 9 اگست کو مغربی شہر ہرات میں حراست میں لیا گیا تھا، جمعرات کی صبح رہا کر دیا گیا۔"
+    },
+    {
+      "title": "Terrorist attempts to stab IDF soldier in Jenin and is eliminated",
+      "desc": "Knife-wielding terrorist attempts to stab an IDF soldier in Jenin. The troops respond with gunfire and eliminate the attacker. No Israeli forces injured.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/432025",
+      "time": "2026-08-21T00:41:39",
+      "country": "Israel",
+      "title_ur": "دہشت گرد نے جنین میں IDF سپاہی کو چاقو مارنے کی کوشش کی اور اسے ختم کر دیا گیا۔",
+      "desc_ur": "چاقو بردار دہشت گرد جینن میں ایک IDF فوجی کو چاقو مارنے کی کوشش کر رہا ہے۔ فوجیوں نے جوابی فائرنگ سے حملہ آور کو مار گرایا۔ کوئی اسرائیلی فوجی زخمی نہیں ہوا۔"
+    },
+    {
+      "title": "Report: Air Force strikes four locations in southern Lebanon",
+      "desc": "Lebanese media reported early Friday morning that the Israel Air Force carried out strikes in the town of Mansouri and in the Ali al-Taher ridge area in southern Lebanon.Later, two additional strikes were reported in Duhayra and Kfar Rouman in southern Lebano…",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/flashes/692135",
+      "time": "2026-08-21T00:41:20",
+      "country": "Israel",
+      "title_ur": "رپورٹ: فضائیہ نے جنوبی لبنان میں چار مقامات پر حملہ کیا۔",
+      "desc_ur": "لبنانی میڈیا نے جمعہ کی علی الصبح اطلاع دی ہے کہ اسرائیلی فضائیہ نے جنوبی لبنان میں منصوری قصبے اور علی الطاہر رج کے علاقے میں حملے کیے ہیں۔"
+    },
+    {
+      "title": "US to impose ‘toughest sanctions in history’ on Iran, Scott Bessent says",
+      "desc": "United States Treasury chief Scott Bessent announced unprecedented sanctions against Iran.  These stringent measures aim to avoid significant new military operations.  Oil prices surged following these threats of financial penalties.  Iran condemned the sanct…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-to-impose-toughest-sanctions-in-history-on-iran-scott-bessent-says/articleshow/133390380.cms",
+      "time": "2026-08-21T00:38:39",
       "country": "Iran",
-      "title_ur": "جاپان کی بنیادی افراط زر جولائی میں تیز ہوتی ہے، شرح میں اضافے کے معاملے کو تقویت دیتی ہے۔",
-      "desc_ur": "ٹوکیو، 21 اگست: جاپان کی بنیادی صارفین کی افراط زر میں جولائی میں ایک سال پہلے کے مقابلے میں تیزی آئی کیونکہ فرموں کی جانب سے کمزور ین سے بڑھتی ہوئی درآمدی لاگت اور ایران کے خلاف امریکی-اسرائیل جنگ، جمعے کو اعداد و شمار سے ظاہر ہوا، مرکزی بینک کی جانب سے شرح میں اضافے کے معاملے کو تقویت ملی۔"
+      "title_ur": "سکاٹ بیسنٹ کا کہنا ہے کہ امریکہ ایران پر ’تاریخ کی سخت ترین پابندیاں‘ لگائے گا۔",
+      "desc_ur": "امریکی محکمہ خزانہ کے سربراہ سکاٹ بیسنٹ نے ایران کے خلاف غیر معمولی پابندیوں کا اعلان کیا ہے۔  ان سخت اقدامات کا مقصد اہم نئی فوجی کارروائیوں سے بچنا ہے۔  مالیاتی جرمانے کی ان دھمکیوں کے بعد تیل کی قیمتوں میں اضافہ ہوا۔  ایران نے مقدسات کی مذمت…"
     },
     {
-      "title": "California lawmaker Aisha Wahab wins special election to succeed Eric Swalwell in Congress",
-      "desc": "California lawmaker Aisha Wahab secured victory Thursday in a special election to serve the rest of former Rep. Eric Swalwell’s House term, which ends in January.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/08/20/us-news/california-lawmaker-aisha-wahab-wins-special-election-to-succeed-eric-swalwell-in-congress/",
-      "time": "2026-08-20T23:37:41",
-      "country": "US",
-      "title_ur": "کیلیفورنیا کی قانون ساز عائشہ وہاب نے کانگریس میں ایرک سویل کی جگہ لینے کے لیے خصوصی انتخاب جیت لیا۔",
-      "desc_ur": "کیلی فورنیا کی قانون ساز عائشہ وہاب نے جمعرات کو سابق نمائندے ایرک سویل ویل کی ہاؤس میعاد کی بقیہ مدت پوری کرنے کے لیے خصوصی انتخابات میں کامیابی حاصل کی، جو جنوری میں ختم ہو رہی ہے۔"
-    },
-    {
-      "title": "Progressive Aisha Wahab Wins East Bay Special Election for Congress",
-      "desc": "Wahab will become the nation’s first Afghan American congressmember after winning the seat formerly held by Eric Swalwell.",
-      "source": "KQED",
-      "url": "https://www.kqed.org/news/12096141/progressive-aisha-wahab-wins-east-bay-special-election-for-congress",
-      "time": "2026-08-20T23:32:44",
-      "country": "US",
-      "title_ur": "ترقی پسند عائشہ وہاب نے کانگریس کے لیے ایسٹ بے اسپیشل الیکشن جیت لیا۔",
-      "desc_ur": "وہاب اس نشست پر جیتنے کے بعد ملک کے پہلے افغان امریکی کانگریس کے رکن بنیں گے جو پہلے ایرک سویل کے پاس تھے۔"
-    },
-    {
-      "title": "Obama strategist turns on rising Dem star over viral Trump attack: 'Gratuitous and unnecessary'",
-      "desc": "Obama White House strategist David Axelrod called Jon Ossoff's mention of Natalie Harp \"gratuitous and unnecessary,\" despite the clip's 6 million views.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/obama-strategist-turns-rising-dem-star-over-viral-trump-attack-gratuitous-unnecessary",
-      "time": "2026-08-20T23:30:19",
-      "country": "US",
-      "title_ur": "اوباما کے اسٹریٹجسٹ نے ٹرمپ کے وائرل حملے پر ابھرتے ہوئے ڈیم اسٹار کو بدل دیا: 'غیر ضروری اور غیر ضروری'",
-      "desc_ur": "اوباما کے وائٹ ہاؤس کے حکمت عملی ساز ڈیوڈ ایکسلروڈ نے کلپ کے 6 ملین آراء کے باوجود جون اوسوف کے نیٹلی ہارپ کے تذکرے کو \"غیر ضروری اور غیر ضروری\" قرار دیا۔"
-    },
-    {
-      "title": "To many voters alarmed by mass migration, this man is a charismatic messiah. He's also a pro-Russian on the verge of becoming the first far-Right nationalist to run a state government since the Nazis... So is this the most dangerous man in Germany?",
-      "desc": "The sun was shining, the sausages sizzling and the lager flowing as several hundred people chatted at a traditional German Grillfest in the garden of a family-run hotel.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16068039/messiah-far-Right-Nazi-dangerous-man-Germany.html",
-      "time": "2026-08-20T23:23:50",
-      "country": "Russia",
-      "title_ur": "بڑے پیمانے پر نقل مکانی سے پریشان بہت سے ووٹروں کے لیے، یہ شخص ایک کرشماتی مسیحا ہے۔ وہ نازیوں کے بعد ریاستی حکومت چلانے والے پہلے انتہائی دائیں بازو کے قوم پرست بننے کے دہانے پر ایک روس نواز بھی ہے... تو کیا یہ جرمنی کا سب سے خطرناک آدمی ہے؟",
-      "desc_ur": "سورج چمک رہا تھا، ساسیجز چمک رہے تھے اور لیگر بہہ رہا تھا جب کئی سو لوگ خاندان کے زیر انتظام ہوٹل کے باغ میں روایتی جرمن گرل فیسٹ میں گپ شپ کر رہے تھے۔"
-    },
-    {
-      "title": "JAN MOIR: What will our favourite jampreneur actually do in the rainy misery of an island whose affection she squandered?",
-      "desc": "We enjoyed Megxpat, we endured Megxit, we lived through Megxile but are we really ready for the big one?",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/royals/article-16068219/JAN-MOIR-favourite-jampreneur-rainy-misery.html",
-      "time": "2026-08-20T23:22:28",
-      "country": "Europe",
-      "title_ur": "JAN MOIR: ہماری پسندیدہ jampreneur دراصل ایک ایسے جزیرے کی بارش کی مصیبت میں کیا کرے گی جس کا پیار اس نے ضائع کر دیا؟",
-      "desc_ur": "ہم نے Megxpat کا لطف اٹھایا، ہم نے Megxit کو برداشت کیا، ہم Megxile کے ذریعے رہتے تھے لیکن کیا ہم واقعی بڑے کے لیے تیار ہیں؟"
-    },
-    {
-      "title": "US may impose more sanctions on China over Iran?; PRC-South Korea; Life for Evergrande’s Xu; AI governance; Supply chain punishment for Taiwan; “Pseudo-history”",
-      "desc": "Given the PRC’s economic relations with Iran, Trump is clearly threatening “TREMENDOUS Economic Consequences” for China. But can he really follow through on this threat, or will Xi just respond with two words: “rare earths”?\n\nTreasury Secretary Bessent said t…",
-      "source": "Sinocism.com",
-      "url": "https://sinocism.com/p/us-may-impose-more-sanctions-on-china",
-      "time": "2026-08-20T23:22:04",
+      "title": "US says it will impose ’toughest sanctions in history’ on Iran",
+      "desc": "Bitcoin at $72k, highest since May after Trump calls for clear crypto legislation\nBy Jana Choukeir and Susan Heavey\nDUBAI/WASHINGTON, Aug 21 (Reuters) - U.S. Treasury chief Scott Bessent said the United States will impose \"the toughest sanctions in history\" o…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/8a6c57769d71f7b5",
+      "time": "2026-08-21T00:37:20",
       "country": "Iran",
-      "title_ur": "امریکہ ایران پر چین پر مزید پابندیاں لگا سکتا ہے؟ PRC-جنوبی کوریا؛ Evergrande’s Xu کے لیے زندگی؛ اے آئی گورننس؛ تائیوان کے لیے سپلائی چین سزا؛ \"چھدم تاریخ\"",
-      "desc_ur": "ایران کے ساتھ PRC کے اقتصادی تعلقات کو دیکھتے ہوئے، ٹرمپ واضح طور پر چین کے لیے \"زبردست اقتصادی نتائج\" کی دھمکی دے رہے ہیں۔ لیکن کیا وہ واقعی اس خطرے پر عمل پیرا ہیں، یا ژی صرف دو الفاظ کے ساتھ جواب دیں گے: \"نایاب زمین\"؟\n\nٹریژری سیکرٹری بیسنٹ نے کہا کہ…"
+      "title_ur": "امریکہ کا کہنا ہے کہ وہ ایران پر ’تاریخ کی سخت ترین پابندیاں‘ لگائے گا۔",
+      "desc_ur": "Bitcoin $72k پر ہے، جو مئی کے بعد ٹرمپ کے واضح کرپٹو قانون سازی کے مطالبے کے بعد سب سے زیادہ ہے۔\nجانا چوکیر اور سوسن ہیوی کے ذریعہ\nدبئی/واشنگٹن، 21 اگست (رائٹرز) - امریکی ٹریژری کے سربراہ سکاٹ بیسنٹ نے کہا کہ امریکہ \"تاریخ کی سخت ترین پابندیاں\" لگائے گا۔"
     },
     {
-      "title": "Kwankwaso coordinates NDC candidate submissions across North, FCT",
-      "desc": "Rabiu Kwankwaso leads the coordination and submission of NDC candidates across Northern states and FCT for the 2027 general elections.\n\nRead More: https://punchng.com/kwankwaso-coordinates-ndc-candidate-submissions-across-north-fct/",
+      "title": "Why German Drivers Are Ditching Gas Cars, Right as BMW’s EV Wave Hits",
+      "desc": "A record 12% of German drivers who replaced a combustion-engine car in the second quarter chose an EV instead, according to a survey conducted for insurer Huk-Coburg and reported by Bloomberg. That is more than...\nFirst published by https://www.bmwblog.com",
+      "source": "BMWBLOG",
+      "url": "https://www.bmwblog.com/2026/08/20/german-ev-sales-surge-fuel-prices-bmw-neue-klasse-lineup/",
+      "time": "2026-08-21T00:35:22",
+      "country": "UK",
+      "title_ur": "BMW کی EV ویو ہٹ کے ساتھ ہی جرمن ڈرائیور گیس کاروں کو کیوں کھود رہے ہیں",
+      "desc_ur": "ایک ریکارڈ 12% جرمن ڈرائیور جنہوں نے دوسری سہ ماہی میں کمبشن انجن والی کار کی جگہ لی، اس کے بجائے ایک EV کا انتخاب کیا، انشورنس کمپنی Huk-Coburg کے لیے کیے گئے سروے کے مطابق اور بلومبرگ کی رپورٹ کے مطابق۔ یہ اس سے زیادہ ہے...\nسب سے پہلے https://www.bmwblog.com کے ذریعہ شائع ہوا۔"
+    },
+    {
+      "title": "Indian equity markets rally nearly 1% as dollar retreats and US bond yields cool",
+      "desc": "The Indian stock market rebounded on Thursday, marking the end of a downward trend. Major indices Nifty and Sensex enjoyed notable gains, supported by a robust response in midcap and smallcap sectors. A weakening dollar index alongside declining US bond yield…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/indian-equity-markets-rally-nearly-1-as-dollar-retreats-and-us-bond-yields-cool/articleshow/133390323.cms",
+      "time": "2026-08-21T00:25:48",
+      "country": "India",
+      "title_ur": "ڈالر کی پسپائی اور یو ایس بانڈ کی پیداوار ٹھنڈا ہونے سے ہندوستانی ایکویٹی مارکیٹس میں تقریباً 1 فیصد اضافہ ہوا",
+      "desc_ur": "جمعرات کو ہندوستانی سٹاک مارکیٹ میں تیزی آئی، جس نے گراوٹ کے رجحان کو ختم کیا۔ بڑے انڈیکس نفٹی اور سینسیکس نے قابل ذکر فائدہ اٹھایا، جس کی حمایت مڈ کیپ اور سمال کیپ سیکٹرز میں مضبوط ردعمل سے ہوئی۔ امریکی بانڈ کی پیداوار میں کمی کے ساتھ ساتھ کمزور ہوتا ہوا ڈالر انڈیکس…"
+    },
+    {
+      "title": "Dangote raises petrol price as crude tops $93",
+      "desc": "Dangote Petroleum Refinery increases petrol gantry price by N20 to N1,185 per litre, effective August 21, 2026, as Brent crude tops $93.\n\nRead More: https://punchng.com/dangote-raises-petrol-price-as-crude-tops-93/",
       "source": "The Punch",
-      "url": "https://punchng.com/kwankwaso-coordinates-ndc-candidate-submissions-across-north-fct/",
-      "time": "2026-08-20T23:21:56",
-      "country": "International",
-      "title_ur": "کوانکواسو پورے شمالی، ایف سی ٹی میں NDC امیدواروں کی گذارشات کو مربوط کرتا ہے۔",
-      "desc_ur": "Rabiu Kwankwaso 2027 کے عام انتخابات کے لیے شمالی ریاستوں اور FCT میں NDC امیدواروں کے کوآرڈینیشن اور جمع کرانے کی قیادت کرتے ہیں۔\n\nمزید پڑھیں: https://punchng.com/kwankwaso-coordinates-ndc-candidate-submissions-across-north-fct/"
-    },
-    {
-      "title": "How much could Trump's 'economic D-Day' hurt Iran?",
-      "desc": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro",
-      "time": "2026-08-20T23:16:45",
-      "country": "Iran",
-      "title_ur": "ٹرمپ کا 'اکنامک ڈی ڈے' ایران کو کتنا نقصان پہنچا سکتا ہے؟",
-      "desc_ur": "ایران اب تک اپنی معیشت پر پابندیوں کی سزا کے برسوں کے ارد گرد راستے تلاش کرنے میں ماہر ثابت ہوا ہے۔"
-    },
-    {
-      "title": "Democrat Aisha Wahab will win Swalwell’s House seat, CNN projects, overcoming millions in AIPAC spending | CNN Politics",
-      "desc": "Democratic state Sen. Aisha Wahab will win the special election runoff to finish former Rep. Eric Swalwell’s term in California’s 14th District, CNN’s Decision Desk projects.",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/08/20/politics/aisha-wahab-california-house-swalwell",
-      "time": "2026-08-20T23:14:01",
+      "url": "https://punchng.com/dangote-raises-petrol-price-as-crude-tops-93/",
+      "time": "2026-08-21T00:22:50",
       "country": "US",
-      "title_ur": "ڈیموکریٹ عائشہ وہاب Swalwell کی ہاؤس سیٹ جیتیں گی، CNN پروجیکٹس، AIPAC کے اخراجات میں کروڑوں پر قابو پاتے ہوئے سی این این پولیٹکس",
-      "desc_ur": "ڈیموکریٹک ریاست کی سینیٹر عائشہ وہاب کیلیفورنیا کے 14 ویں ڈسٹرکٹ، CNN کے فیصلہ ڈیسک پراجیکٹس میں سابق نمائندے ایرک سویل ویل کی مدت پوری کرنے کے لیے خصوصی انتخابی رن آف جیتیں گی۔"
+      "title_ur": "ڈینگوٹے نے پیٹرول کی قیمت میں اضافہ کر دیا کیونکہ خام تیل 93 ڈالر سے اوپر ہے۔",
+      "desc_ur": "ڈینگوٹ پیٹرولیم ریفائنری نے پیٹرول کی قیمت N20 سے N1,185 فی لیٹر تک بڑھا دی ہے، جو کہ 21 اگست 2026 سے لاگو ہے، کیونکہ برینٹ کروڈ $93 سے اوپر ہے۔\n\nمزید پڑھیں: https://punchng.com/dangote-raises-petrol-price-as-crude-tops-93/"
     },
     {
-      "title": "Tanker off Yemen boarded by armed people, diverted towards Somalia, UKMTO says - Reuters",
-      "desc": "Tanker off Yemen boarded by armed people, diverted towards Somalia, UKMTO saysReuters 2 Hijackings in 4 Days: Somali Piracy SurgesThe New York Times One beneficiary of the Iran war? Pirates.Politico 6 Indians on board hijacked cargo ship carrying Turkish weap…",
+      "title": "Podcast: The secret behind Jewish survival",
+      "desc": "Jay Shapiro examines the unique continuity of the Jewish nation, its connection to Jerusalem, and the persistence of antisemitism throughout history.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/432022",
+      "time": "2026-08-21T00:14:20",
+      "country": "US",
+      "title_ur": "پوڈ کاسٹ: یہودیوں کی بقا کا راز",
+      "desc_ur": "جے شاپیرو نے یہودی قوم کے منفرد تسلسل، یروشلم سے اس کے تعلق اور پوری تاریخ میں سام دشمنی کے استقامت کا جائزہ لیا۔"
+    },
+    {
+      "title": "Gold Set for Third Weekly Gain on US Treasury Buyback Plans",
+      "desc": "Gold was on track for a third weekly gain after the US Treasury’s unexpected ramp-up in buybacks of long-dated government debt underscored concerns about its...",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/gold-set-third-weekly-gain-001304205.html",
+      "time": "2026-08-21T00:13:04",
+      "country": "US",
+      "title_ur": "یو ایس ٹریژری بائ بیک پلانز پر تیسرے ہفتہ وار فائدہ کے لیے گولڈ سیٹ",
+      "desc_ur": "امریکی ٹریژری کی جانب سے طویل المدت سرکاری قرضوں کی واپسی میں غیر متوقع اضافے کے بعد سونا تیسرے ہفتہ وار فائدہ کی راہ پر گامزن تھا..."
+    },
+    {
+      "title": "Trump’s South Korea defence flip reminds Japan that it has no Plan B - Financial Times",
+      "desc": "Trump’s South Korea defence flip reminds Japan that it has no Plan BFinancial Times Trump’s Order to Cut Military Exercises With South Korea Carries Risks, Experts SayThe New York Times Trump wants to be friends with Kim - but South Korea could pay the priceB…",
       "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185075304",
-      "time": "2026-08-20T23:13:18",
-      "country": "Iran",
-      "title_ur": "یمن سے ٹینکر پر مسلح افراد سوار تھے، یو کے ایم ٹی او کا کہنا ہے کہ صومالیہ کی طرف موڑ دیا گیا – رائٹرز",
-      "desc_ur": "یمن سے ٹینکر مسلح افراد پر سوار تھا، صومالیہ کی طرف موڑ دیا گیا، UKMTO کا کہنا ہے کہ رائٹرز 2 ہائی جیکنگ 4 دنوں میں: صومالی بحری قزاقی بڑھ گئی نیویارک ٹائمز ایران کی جنگ کا ایک فائدہ اٹھانے والا؟ Pirates.Politico پر سوار 6 ہندوستانیوں نے ترک ہتھیاروں سے لدے کارگو جہاز کو ہائی جیک کر لیا…"
-    },
-    {
-      "title": "US vows to ‘squash’ Iranian economy, collapse regime amid ongoing conflict",
-      "desc": "Escalating U.S. economic pressure on Iran may destabilize regional geopolitics, complicating diplomatic resolutions and impacting global markets.\nThe post US vows to ‘squash’ Iranian economy, collapse regime amid ongoing conflict appeared first on Crypto Brie…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/us-vows-to-squash-iranian-economy-collapse-regime-amid-ongoing-conflict/",
-      "time": "2026-08-20T23:12:33",
-      "country": "Iran",
-      "title_ur": "امریکہ نے جاری تنازعہ کے دوران ایرانی معیشت کو 'اسکواش' کرنے، حکومت کو گرانے کا عزم کیا۔",
-      "desc_ur": "ایران پر امریکی اقتصادی دباؤ میں اضافہ علاقائی جغرافیائی سیاست کو غیر مستحکم کر سکتا ہے، سفارتی قراردادوں کو پیچیدہ بنا سکتا ہے اور عالمی منڈیوں کو متاثر کر سکتا ہے۔\nThe post امریکا کا ایرانی معیشت کو ’اسکواش‘ کرنے کا عزم، جاری تنازعہ کے دوران حکومت گرانے کا اعلان appeared first on Crypto Brie…"
-    },
-    {
-      "title": "Millennials are struggling to buy a home - but is it actually getting easier?",
-      "desc": "Twenty-somethings are much less likely to own a home than previous generations. But data suggests things may be turning a corner.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cgewlld498xo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "time": "2026-08-20T23:11:12",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185075928",
+      "time": "2026-08-21T00:12:56",
       "country": "US",
-      "title_ur": "Millennials ایک گھر خریدنے کے لئے جدوجہد کر رہے ہیں - لیکن کیا یہ واقعی آسان ہو رہا ہے؟",
-      "desc_ur": "پچھلی نسلوں کے مقابلے بیس کچھ کے پاس گھر ہونے کا امکان بہت کم ہے۔ لیکن اعداد و شمار سے پتہ چلتا ہے کہ چیزیں ایک موڑ کا رخ کر رہی ہیں۔"
+      "title_ur": "ٹرمپ کا جنوبی کوریا کا دفاعی فلپ جاپان کو یاد دلاتا ہے کہ اس کے پاس کوئی پلان بی نہیں ہے - فنانشل ٹائمز",
+      "desc_ur": "ٹرمپ کا جنوبی کوریا کا دفاعی فلپ جاپان کو یاد دلاتا ہے کہ اس کے پاس کوئی منصوبہ نہیں ہے BFinancial Times ٹرمپ کے جنوبی کوریا کے ساتھ فوجی مشقوں کو کم کرنے کے حکم سے خطرات لاحق ہیں، ماہرین کا کہنا ہے کہ نیویارک ٹائمز ٹرمپ کم کے ساتھ دوستی کرنا چاہتے ہیں - لیکن جنوبی کوریا قیمت ادا کر سکتا ہے"
     },
     {
-      "title": "California lawmaker Aisha Wahab wins special election to succeed Eric Swalwell",
-      "desc": "California lawmaker Aisha Wahab has secured victory in a special election to serve the rest of former Rep. Eric Swalwell’s House term, which ends in January",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/US/wireStory/california-lawmaker-aisha-wahab-wins-special-election-succeed-135822928",
-      "time": "2026-08-20T23:07:58",
+      "title": "The new kingmakers: Crypto, AI and betting firms drive record spending in 2026 US midterms",
+      "desc": "New political money is challenging Washington’s traditional corporate power brokers as emerging industries seek influence over regulation and election outcomes",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/the-new-kingmakers-crypto-ai-and-betting-firms-drive-record-spending-in-2026-us-midterms/article71371995.ece",
+      "time": "2026-08-21T00:10:36",
       "country": "US",
-      "title_ur": "کیلیفورنیا کی قانون ساز عائشہ وہاب نے خصوصی الیکشن جیت کر ایرک سویل ویل کی جگہ لے لی",
-      "desc_ur": "کیلیفورنیا کی قانون ساز عائشہ وہاب نے سابق نمائندے ایرک سویل ویل کی ایوان کی بقیہ مدت پوری کرنے کے لیے خصوصی انتخابات میں کامیابی حاصل کی ہے، جو جنوری میں ختم ہو رہی ہے۔"
-    },
-    {
-      "title": "What Does a Trump Endorsement Actually Mean in 2026?",
-      "desc": "A few recent losses for Trump-endorsed politicians hardly mean a sea change in Trump’s power, but they do complicate his narrative.",
-      "source": "The Atlantic",
-      "url": "https://www.theatlantic.com/newsletters/2026/08/what-does-trump-endorsement-mean/688367/",
-      "time": "2026-08-20T23:06:00",
-      "country": "US",
-      "title_ur": "2026 میں ٹرمپ کی توثیق کا اصل مطلب کیا ہے؟",
-      "desc_ur": "ٹرمپ کی حمایت یافتہ سیاست دانوں کے لیے چند حالیہ نقصانات کا مطلب ٹرمپ کی طاقت میں کوئی سمندری تبدیلی نہیں ہے، لیکن وہ اس کے بیانیے کو پیچیدہ بنا دیتے ہیں۔"
+      "title_ur": "نئے کنگ میکرز: کریپٹو، اے آئی اور بیٹنگ فرموں نے 2026 امریکی وسط مدتی اخراجات میں ریکارڈ اضافہ کیا",
+      "desc_ur": "نیا سیاسی پیسہ واشنگٹن کے روایتی کارپوریٹ پاور بروکرز کو چیلنج کر رہا ہے کیونکہ ابھرتی ہوئی صنعتیں ریگولیشن اور انتخابی نتائج پر اثر و رسوخ تلاش کرتی ہیں۔"
     }
   ],
   "pakistan": [
     {
-      "title": "Imran Khan, 73, rushed to hospital from solitary confinement in prison amid serious health fears",
-      "desc": "Former Pakistani Prime Minister Imran Khan has been rushed to hospital from his solitary confinement in jail over serious health fears.His party, Tehreek-e-Insaf (PTI), confirmed the transfer took place under tight security, though the Pakistani Government is…",
-      "source": "Gbnews.com",
-      "url": "https://www.gbnews.com/news/world/imran-khan-hospital-solitary-confinement-prison-pakistan-former-pm-health",
-      "time": "2026-08-20T23:36:43",
-      "country": "Pakistan",
-      "title_ur": "73 سالہ عمران خان شدید صحت کے خدشات کے باعث جیل میں قید تنہائی سے ہسپتال پہنچ گئے۔",
-      "desc_ur": "پاکستان کے سابق وزیر اعظم عمران خان کو شدید صحت کے خدشات کے باعث جیل میں قید تنہائی سے ہسپتال لے جایا گیا ہے۔ ان کی پارٹی، تحریک انصاف (پی ٹی آئی) نے تصدیق کی ہے کہ یہ منتقلی سخت حفاظتی انتظامات میں ہوئی، حالانکہ پاکستانی حکومت…"
-    },
-    {
-      "title": "50,000 at Western Wall Selichot: Captivity survivors Kupershtein and Berger participate",
-      "desc": "Some 50,000 people attend second Selichot service at the Western Wall, praying for the safety of IDF soldiers and the security of Israel.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/432024",
-      "time": "2026-08-20T23:22:22",
-      "country": "Pakistan",
-      "title_ur": "ویسٹرن وال سیلیکوٹ میں 50,000: قید سے بچ جانے والے کوپرشٹین اور برجر نے شرکت کی۔",
-      "desc_ur": "تقریباً 50,000 لوگ مغربی دیوار پر دوسری سیلیکوٹ سروس میں شریک ہوتے ہیں، جو IDF فوجیوں کی حفاظت اور اسرائیل کی سلامتی کے لیے دعا کرتے ہیں۔"
-    },
-    {
-      "title": "Ex-Pak PM Imran Khan moved to private hospital from prison after SC order",
-      "desc": "Pakistan News: Imprisoned former Pakistan Prime Minister Imran Khan was shifted from Adiala prison to a private hospital in Islamabad after midnight Thursday for a m.",
+      "title": "Joe Root scripts history, becomes first player to achieve this feat",
+      "desc": "In a groundbreaking achievement, Joe Root has scored 3,000 runs as captain in the World Test Championship, marking a historic moment during England's first Test against Pakistan at Headingley. Root's remarkable batting skills have firmly established him atop …",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/pakistan/ex-pak-pm-imran-khan-moved-to-private-hospital-from-prison-after-sc-order/articleshow/133389827.cms",
-      "time": "2026-08-20T23:20:11",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/joe-root-scripts-history-becomes-first-player-to-achieve-this-feat/articleshow/133390425.cms",
+      "time": "2026-08-21T00:50:45",
       "country": "Pakistan",
-      "title_ur": "سابق وزیراعظم عمران خان سپریم کورٹ کے حکم کے بعد جیل سے نجی اسپتال منتقل ہوگئے۔",
-      "desc_ur": "پاکستان نیوز: قید پاکستان کے سابق وزیر اعظم عمران خان کو جمعرات کی آدھی رات کو اڈیالہ جیل سے اسلام آباد کے نجی اسپتال منتقل کیا گیا۔"
-    },
-    {
-      "title": "Tit for tat: India removes Pak high commission queue liners",
-      "desc": "India News: NEW DELHI: Indian authorities removed queue liners outside the Pakistan high commission visa section along with other encroachment on a lane outside t.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/tit-for-tat-india-removes-pak-high-commission-queue-liners/articleshow/133389697.cms",
-      "time": "2026-08-20T22:28:10",
-      "country": "Pakistan",
-      "title_ur": "ٹِٹ فار ٹیٹ: انڈیا نے پاک ہائی کمیشن کے قطار والے لائنرز کو ہٹا دیا۔",
-      "desc_ur": "انڈیا نیوز: نئی دہلی: ہندوستانی حکام نے پاکستانی ہائی کمیشن کے ویزا سیکشن کے باہر قطار میں لگے لائنرز کو ہٹا دیا اور ساتھ ہی ٹی کے باہر ایک لین پر بھی تجاوزات کو ہٹا دیا۔"
+      "title_ur": "جو روٹ نے تاریخ لکھی، یہ کارنامہ انجام دینے والے پہلے کھلاڑی بن گئے۔",
+      "desc_ur": "ایک اہم کامیابی میں، جو روٹ نے ورلڈ ٹیسٹ چیمپیئن شپ میں بطور کپتان 3,000 رنز مکمل کیے ہیں، جو پاکستان کے خلاف ہیڈنگلے میں انگلینڈ کے پہلے ٹیسٹ کے دوران ایک تاریخی لمحہ ہے۔ روٹ کی شاندار بلے بازی کی مہارت نے انہیں مضبوطی سے اوپر کھڑا کر دیا ہے…"
     }
   ],
   "business": {
-    "quote": "Price is what you pay. Value is what you get.",
-    "author": "Warren Buffett",
-    "quote_ur": "قیمت وہ ہے جو آپ ادا کرتے ہیں۔ قدر وہ ہے جو آپ کو ملتی ہے۔"
+    "quote": "The biggest risk is not taking any risk.",
+    "author": "Mark Zuckerberg",
+    "quote_ur": "سب سے بڑا خطرہ کوئی خطرہ نہ اٹھانا ہے۔"
   },
   "weather": {
     "city": "Lahore",
@@ -207,9 +177,9 @@
         "date": "2026-08-22",
         "day": "ہفتہ",
         "high": 34,
-        "low": 26,
-        "condition": "Drizzle",
-        "condition_ur": "بوندا باندی",
+        "low": 25,
+        "condition": "Light Drizzle",
+        "condition_ur": "ہلکی بوندا باندی",
         "precip": 42
       },
       {
@@ -224,25 +194,25 @@
       {
         "date": "2026-08-24",
         "day": "پیر",
-        "high": 34,
+        "high": 35,
         "low": 27,
-        "condition": "Thunderstorm",
-        "condition_ur": "گرج چمک",
+        "condition": "Light Drizzle",
+        "condition_ur": "ہلکی بوندا باندی",
         "precip": 31
       },
       {
         "date": "2026-08-25",
         "day": "منگل",
         "high": 35,
-        "low": 25,
-        "condition": "Thunderstorm",
-        "condition_ur": "گرج چمک",
+        "low": 28,
+        "condition": "Light Drizzle",
+        "condition_ur": "ہلکی بوندا باندی",
         "precip": 20
       },
       {
         "date": "2026-08-26",
         "day": "بدھ",
-        "high": 35,
+        "high": 37,
         "low": 28,
         "condition": "Light Drizzle",
         "condition_ur": "ہلکی بوندا باندی",
@@ -251,7 +221,7 @@
       {
         "date": "2026-08-27",
         "day": "جمعرات",
-        "high": 36,
+        "high": 37,
         "low": 26,
         "condition": "Light Drizzle",
         "condition_ur": "ہلکی بوندا باندی",
