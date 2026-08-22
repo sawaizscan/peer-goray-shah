@@ -1,158 +1,198 @@
 {
-  "generated": "2026-08-22T17:44:01Z",
+  "generated": "2026-08-22T18:19:39Z",
   "world": [
     {
-      "title": "Which Defensive Position Group Looks the Most Improved for Boston College Football From Last Season?",
-      "desc": "The Eagles' defense already looks night and day from last year's squad, but one position group has stood by far.",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/college/bostoncollege/football/which-defensive-position-group-most-improved-boston-college-football",
-      "time": "2026-08-21T17:42:32",
-      "country": "International",
-      "title_ur": "گزشتہ سیزن سے بوسٹن کالج فٹ بال کے لیے کون سا دفاعی پوزیشن گروپ سب سے بہتر نظر آتا ہے؟",
-      "desc_ur": "ایگلز کا دفاع پہلے سے ہی پچھلے سال کے اسکواڈ سے دن رات نظر آتا ہے، لیکن ایک پوزیشن گروپ اب تک کھڑا ہے۔"
-    },
-    {
-      "title": "Hamas Uses Gaza Hospital for Torture, Interrogation of Palestinians, IDF Says - Algemeiner.com",
-      "desc": "Members of Hamas cracking down on Gazans. Photo: Screenshot from X account of Ahmed Fouad Alkhatib Hamas has been using …",
-      "source": "Algemeiner",
-      "url": "https://www.algemeiner.com/2026/08/20/hamas-uses-gaza-hospital-torture-interrogation-palestinians-idf-says/",
-      "time": "2026-08-21T17:35:41",
-      "country": "Israel",
-      "title_ur": "حماس غزہ کے ہسپتال کو تشدد، فلسطینیوں سے پوچھ گچھ کے لیے استعمال کرتی ہے، IDF کا کہنا ہے – Algemeiner.com",
-      "desc_ur": "حماس کے ارکان غزہ کے لوگوں پر کریک ڈاؤن کر رہے ہیں۔ تصویر: احمد فواد الخطیب حماس کے ایکس اکاؤنٹ سے اسکرین شاٹ استعمال کر رہے ہیں…"
-    },
-    {
-      "title": "World Bank Projects Lebanon Economy to Contract by 6.4% Due to War",
-      "desc": "The World Bank on Friday projected that Lebanon's economy would contract by 6.4 percent this year, as the latest Israel-Hezbollah war derailed the country's efforts at recovery. Lebanon has been dealing with an unprecedented financial crisis since 2019 and wa…",
-      "source": "Aawsat.com",
-      "url": "https://english.aawsat.com/business/5309671-world-bank-projects-lebanon-economy-contract-64-due-war",
-      "time": "2026-08-21T17:35:28",
-      "country": "Israel",
-      "title_ur": "عالمی بینک کا منصوبہ ہے کہ جنگ کی وجہ سے لبنان کی معیشت 6.4 فیصد تک سکڑ جائے گی۔",
-      "desc_ur": "عالمی بینک نے جمعہ کے روز پیش گوئی کی ہے کہ لبنان کی معیشت اس سال 6.4 فیصد سکڑ جائے گی، کیونکہ تازہ ترین اسرائیل-حزب اللہ جنگ نے ملک کی بحالی کی کوششوں کو پٹڑی سے اتار دیا۔ لبنان 2019 سے غیر معمولی مالیاتی بحران سے نمٹ رہا ہے اور wa…"
-    },
-    {
-      "title": "Commentary: America Need More Refineries",
-      "desc": "Energy Secretary Chris Wright met with executives from refining companies on Monday to explore ways the Trump administration could help them boost throughput volumes to help keep America’s gasoline and diesel market fully supplied. The meeting took place in M…",
+      "title": "Supreme Court temporarily allows White House ballroom construction to continue",
+      "desc": "Washington — The Supreme Court on Friday temporarily allowed construction of the White House ballroom to continue, freezing for now a lower court decision that would have halted work on the project. Chief Justice John Roberts issued a stay that will remain in…",
       "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-chat/4392651/posts",
-      "time": "2026-08-21T17:34:21",
+      "url": "https://freerepublic.com/focus/f-news/4392654/posts",
+      "time": "2026-08-21T18:18:27",
       "country": "US",
-      "title_ur": "تفسیر: امریکہ کو مزید ریفائنریز کی ضرورت ہے۔",
-      "desc_ur": "توانائی کے سکریٹری کرس رائٹ نے پیر کے روز ریفائننگ کمپنیوں کے ایگزیکٹوز سے ملاقات کی تاکہ ٹرمپ انتظامیہ امریکہ کی پٹرول اور ڈیزل مارکیٹ کو مکمل طور پر سپلائی کرنے میں مدد کرنے کے لیے تھرو پٹ والیوم کو بڑھانے میں ان کی مدد کر سکے۔ یہ ملاقات ایم…"
+      "title_ur": "سپریم کورٹ نے عارضی طور پر وائٹ ہاؤس کے بال روم کی تعمیر کو جاری رکھنے کی اجازت دے دی۔",
+      "desc_ur": "واشنگٹن — سپریم کورٹ نے جمعہ کے روز عارضی طور پر وائٹ ہاؤس کے بال روم کی تعمیر کو جاری رکھنے کی اجازت دے دی، نچلی عدالت کے ایک فیصلے کے بعد اس منصوبے پر کام روک دیا جائے گا۔ چیف جسٹس جان رابرٹس نے حکم امتناعی جاری کیا جو برقرار رہے گا…"
     },
     {
-      "title": "China says US 'sanctions and pressure' on Iran not a solution",
-      "desc": "China said on Friday (Aug 21) that United States \"sanctions and pressure\" would not resolve the Middle East conflict, after Washington urged governments including Beijing to join efforts to isolate the Iranian economy. The US has vowed it would \"collapse\" the…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4392650/posts",
-      "time": "2026-08-21T17:33:33",
-      "country": "Iran",
-      "title_ur": "چین کا کہنا ہے کہ ایران پر امریکی پابندیاں اور دباؤ کسی مسئلے کا حل نہیں ہے۔",
-      "desc_ur": "چین نے جمعہ (21 اگست) کو کہا کہ امریکہ کی \"پابندیاں اور دباؤ\" مشرق وسطی کے تنازع کو حل نہیں کریں گے، جب واشنگٹن نے بیجنگ سمیت حکومتوں پر زور دیا کہ وہ ایرانی معیشت کو تنہا کرنے کی کوششوں میں شامل ہوں۔ امریکہ نے عزم ظاہر کیا ہے کہ وہ اسے \"منتشر\" کر دے گا…"
-    },
-    {
-      "title": "US Facing Massive $40 Trillion Debt Crisis: Treasury Secretary Scott Bessent Doubles Bond Buybacks to Stabilize Markets — TrendKia",
-      "desc": "The world's largest economy is burdened with nearly $40 trillion in national debt. Facing a widening fiscal deficit and surging Treasury yields, US Treasury Secretary Scott Bessent has announced plans to double debt buyback operations.",
-      "source": "Trendkia.com",
-      "url": "https://trendkia.com/en/business/us-facing-massive-40-trillion-debt-crisis-treasury-secretary-scott-bessent-doubles-bond-buybacks-to-stabilize-markets-19709",
-      "time": "2026-08-21T17:32:58",
-      "country": "US",
-      "title_ur": "امریکہ کو بڑے پیمانے پر 40 ٹریلین ڈالر کے قرض کے بحران کا سامنا ہے: ٹریژری سکریٹری سکاٹ بیسنٹ نے بازاروں کو مستحکم کرنے کے لیے بانڈ بائ بیکس کو دوگنا کر دیا - TrendKia",
-      "desc_ur": "دنیا کی سب سے بڑی معیشت تقریباً 40 ٹریلین ڈالر کے قومی قرضوں کے بوجھ تلے دبی ہوئی ہے۔ بڑھتے ہوئے مالیاتی خسارے اور خزانے کی بڑھتی ہوئی پیداوار کا سامنا کرتے ہوئے، امریکی وزیر خزانہ سکاٹ بیسنٹ نے قرضوں کی واپسی کی کارروائیوں کو دوگنا کرنے کے منصوبوں کا اعلان کیا ہے۔"
-    },
-    {
-      "title": "When the shortage is the strategy",
-      "desc": "Article URL: https://nooneshappy.com/article/when-the-shortage-is-the-strategy/\nComments URL: https://news.ycombinator.com/item?id=49391358\nPoints: 5\n# Comments: 1",
-      "source": "Nooneshappy.com",
-      "url": "https://nooneshappy.com/article/when-the-shortage-is-the-strategy/",
-      "time": "2026-08-21T17:31:15",
+      "title": "Panama Canal Draught Restrictions Set to Add to Congestion Chaos",
+      "desc": "Waterways the world over are contending with all manner of chaos, especially the Panama Canal where congestion is worsening as a consequence of the war in the Middle East and low-water restrictions loom.",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/panama-canal-draught-restrictions-set-to-add-to-congestion-chaos/",
+      "time": "2026-08-21T18:17:44",
       "country": "International",
-      "title_ur": "جب کمی حکمت عملی ہے",
-      "desc_ur": "آرٹیکل URL: https://nooneshappy.com/article/when-the-shortage-is-the-strategy/\nتبصروں کا URL: https://news.ycombinator.com/item?id=49391358\nپوائنٹس: 5\n# تبصرے: 1"
+      "title_ur": "پانامہ کینال ڈرافٹ پابندیاں بھیڑ افراتفری میں اضافہ کرنے کے لیے مقرر",
+      "desc_ur": "دنیا بھر میں آبی گزرگاہیں ہر طرح کے افراتفری کا مقابلہ کر رہی ہیں، خاص طور پر پانامہ کینال جہاں مشرق وسطیٰ میں جنگ کے نتیجے میں بھیڑ بڑھ رہی ہے اور کم پانی کی پابندیاں عروج پر ہیں۔"
     },
     {
-      "title": "Why Iran is threatening Europe’s ‘strategically important’ southeast",
-      "desc": "Tehran has threatened Bulgaria, home to a US air base, but how credible is that threat?",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/8/21/iran-southeastern-europe-threats",
-      "time": "2026-08-21T17:29:17",
-      "country": "Iran",
-      "title_ur": "کیوں ایران یورپ کے 'تزویراتی لحاظ سے اہم' جنوب مشرق کو دھمکیاں دے رہا ہے۔",
-      "desc_ur": "تہران نے بلغاریہ کو دھمکی دی ہے جو کہ امریکی فضائی اڈے کا گھر ہے، لیکن یہ دھمکی کتنی معتبر ہے؟"
+      "title": "India-Bangladesh Ganges talks continuing at technical level: MEA",
+      "desc": "India confirmed ongoing technical discussions with Bangladesh on river issues. The Ganges Water Sharing Treaty, signed in 1996, is set to expire this December. Discussions under the Joint Rivers Commission address all river-related matters between the two nat…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/india/india-bangladesh-ganges-talks-continuing-at-technical-level-mea/articleshow/133411878.cms",
+      "time": "2026-08-21T18:16:33",
+      "country": "India",
+      "title_ur": "ہندوستان-بنگلہ دیش گنگا بات چیت تکنیکی سطح پر جاری ہے: MEA",
+      "desc_ur": "ہندوستان نے دریائی مسائل پر بنگلہ دیش کے ساتھ جاری تکنیکی بات چیت کی تصدیق کی۔ گنگا کے پانی کی تقسیم کا معاہدہ، جس پر 1996 میں دستخط ہوئے تھے، اس دسمبر میں ختم ہونے والے ہیں۔ مشترکہ دریاؤں کے کمیشن کے تحت ہونے والی بات چیت دونوں ملکوں کے درمیان دریا سے متعلق تمام معاملات کو حل کرتی ہے…"
     },
     {
-      "title": "UK, Australia and Canada criticise Israel over Gaza aid convoy killings decision",
-      "desc": "Strikes killed seven humanitarian workers from US-based World Central Kitchen organisation in 2024",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/08/21/uk-australia-and-canada-criticise-israel-over-gaza-aid-convoy-killings-decision/",
-      "time": "2026-08-21T17:25:59",
+      "title": "Puppet Masters Will Be Unleashed on Americans",
+      "desc": "Sasha Abramsky\n\n\n\nFrom Gaza to Minnesota, the Trump administration is accelerating a politics of fear and of intimidation.\r\n\n\r\n\n\nThe post Puppet Masters Will Be Unleashed on Americans appeared first on The Nation.",
+      "source": "Thenation.com",
+      "url": "https://www.thenation.com/article/politics/puppet-masters-will-be-unleashed-on-americans/",
+      "time": "2026-08-21T18:14:18",
       "country": "Israel",
-      "title_ur": "برطانیہ، آسٹریلیا اور کینیڈا نے غزہ میں امدادی قافلے کی ہلاکت کے فیصلے پر اسرائیل کو تنقید کا نشانہ بنایا ہے۔",
-      "desc_ur": "2024 میں امریکہ میں قائم ورلڈ سینٹرل کچن آرگنائزیشن کے سات انسانی ہمدردی کے کارکن مارے گئے۔"
+      "title_ur": "امریکیوں پر کٹھ پتلی آقاؤں کو اتارا جائے گا۔",
+      "desc_ur": "ساشا ابرامسکی\n\n\n\nغزہ سے مینیسوٹا تک، ٹرمپ انتظامیہ خوف اور دھمکی کی سیاست کو تیز کر رہی ہے۔\r\n\n\r\n\n\nThe post امریکیوں پر کٹھ پتلی ماسٹرز اتارے جائیں گے appeared first on The Nation."
     },
     {
-      "title": "California Senators Express Concern Over Potential Shasta County Elections Hire",
-      "desc": "Tina Peters was convicted in an elections interference case in 2024 and is currently on parole.",
-      "source": "KQED",
-      "url": "https://www.kqed.org/news/12096230/california-senators-express-concern-over-potential-shasta-county-elections-hire",
-      "time": "2026-08-21T17:24:39",
-      "country": "International",
-      "title_ur": "کیلیفورنیا کے سینیٹرز نے شاستا کاؤنٹی کے ممکنہ انتخابات پر تشویش کا اظہار کیا۔",
-      "desc_ur": "ٹینا پیٹرز کو 2024 میں انتخابات میں مداخلت کے مقدمے میں سزا سنائی گئی تھی اور وہ اس وقت پیرول پر ہیں۔"
+      "title": "Eight Muslim-majority countries condemn Israel's E1 settlement plan in West Bank",
+      "desc": "The countries, including Saudi Arabia, Egypt and Jordan, said the plan constitutes a 'direct challenge' to peace efforts such as Trump's plan for postwar Gaza, which they say unequivocally rejects 'annexation and forced displacement'",
+      "source": "Haaretz",
+      "url": "https://www.haaretz.com/middle-east-news/2026-08-21/ty-article/eight-muslim-and-arab-countries-condemn-israels-e1-settlement-plan-in-west-bank/000001a0-251f-d129-a3ba-673fd9810000",
+      "time": "2026-08-21T18:10:08",
+      "country": "Israel",
+      "title_ur": "آٹھ مسلم اکثریتی ممالک نے مغربی کنارے میں اسرائیل کے E1 آباد کاری کے منصوبے کی مذمت کی ہے۔",
+      "desc_ur": "سعودی عرب، مصر اور اردن سمیت ممالک نے کہا کہ یہ منصوبہ امن کی کوششوں کے لیے 'براہ راست چیلنج' ہے جیسا کہ جنگ کے بعد غزہ کے لیے ٹرمپ کا منصوبہ، جس کے بارے میں ان کا کہنا ہے کہ 'وابستگی اور جبری نقل مکانی' کو غیر واضح طور پر مسترد کرتا ہے۔"
     },
     {
-      "title": "Trump to transform spaceflight from spectacle to status quo targeting 3 launches per day",
-      "desc": "Trump's space policy targets over 1,000 launches and reentries per year by 2030, reshaping launch pads, airspace corridors and air traffic control.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/trump-transform-spaceflight-spectacle-status-quo-targeting-3-launches-per-day",
-      "time": "2026-08-21T17:24:15",
+      "title": "Neck fans might look goofy, but tests show they work surprisingly well",
+      "desc": "The wearable might just do the trick in stuffy offices.\nThe post Neck fans might look goofy, but tests show they work surprisingly well appeared first on Popular Science.",
+      "source": "Popular Science",
+      "url": "https://www.popsci.com/technology/neck-fans-work-well-study/",
+      "time": "2026-08-21T18:07:00",
       "country": "US",
-      "title_ur": "ٹرمپ یومیہ 3 لانچوں کو نشانہ بناتے ہوئے خلائی پرواز کو تماشے سے جمود میں تبدیل کریں گے۔",
-      "desc_ur": "ٹرمپ کی خلائی پالیسی 2030 تک ہر سال 1,000 سے زیادہ لانچوں اور دوبارہ داخلوں کا ہدف رکھتی ہے، لانچ پیڈز، ایئر اسپیس کوریڈورز اور ایئر ٹریفک کنٹرول کو نئی شکل دینا۔"
+      "title_ur": "گردن کے پرستار بیوقوف لگ سکتے ہیں، لیکن ٹیسٹ سے پتہ چلتا ہے کہ وہ حیرت انگیز طور پر اچھی طرح سے کام کرتے ہیں",
+      "desc_ur": "پہننے کے قابل صرف بھرے دفاتر میں چال چل سکتا ہے۔\nThe post گردن کے پرستار بیوقوف نظر آتے ہیں، لیکن ٹیسٹ سے پتہ چلتا ہے کہ وہ حیرت انگیز طور پر اچھی طرح سے کام کرتے ہیں appeared first on پاپولر سائنس."
     },
     {
-      "title": "Walmart Posts Slowest Sales Numbers In Years, Blames Iran War-Driven Gas Prices For Belt-Tightening",
-      "desc": "Sales at Walmart’s U.S. stores rose just 2.6% in the latest quarter, while the retailer’s stock plunged more than 9% Thursday, its steepest one-day decline since 2022. The results offer a fresh sign that higher fuel costs and broader economic uncertainty are …",
-      "source": "The Daily Caller",
-      "url": "https://dailycaller.com/2026/08/21/walmart-posts-worst-sales-numbers-in-years-blames-iran-war-driven-gas-prices-for-belt-tightening",
-      "time": "2026-08-21T17:21:42",
-      "country": "Iran",
-      "title_ur": "والمارٹ نے سالوں میں فروخت کی سب سے سست تعداد پوسٹ کی، بیلٹ سخت کرنے کے لیے ایران جنگ سے چلنے والی گیس کی قیمتوں کو مورد الزام ٹھہرایا",
-      "desc_ur": "والمارٹ کے امریکی اسٹورز پر فروخت میں تازہ ترین سہ ماہی میں صرف 2.6 فیصد کا اضافہ ہوا، جبکہ خوردہ فروش کا اسٹاک جمعرات کو 9 فیصد سے زیادہ گر گیا، جو کہ 2022 کے بعد سب سے زیادہ ایک دن کی کمی ہے۔ نتائج اس بات کی تازہ علامت پیش کرتے ہیں کہ ایندھن کی زیادہ قیمتیں اور وسیع تر اقتصادی غیر یقینی صورتحال…"
-    },
-    {
-      "title": "What in the World?",
-      "desc": "Test yourself on the week of Aug. 15: Trump praises Kim Jong Un, the U.S. and Iran miss a deadline, and the U.K. shrugs off Russian threats.",
-      "source": "Foreign Policy",
-      "url": "http://foreignpolicy.com/2026/08/21/news-quiz-trump-south-korea-kim-jong-un-iran-deadline-russia-ukraine/",
-      "time": "2026-08-21T17:20:53",
-      "country": "Iran",
-      "title_ur": "دنیا میں کیا؟",
-      "desc_ur": "15 اگست کے ہفتے اپنے آپ کو آزمائیں: ٹرمپ نے کم جونگ اُن کی تعریف کی، امریکہ اور ایران نے ایک ڈیڈ لائن کھو دی، اور برطانیہ نے روسی دھمکیوں سے کنارہ کشی اختیار کی۔"
-    },
-    {
-      "title": "Israeli army, settlers kill 2 Palestinians in separate West Bank incidents",
-      "desc": "Israeli settlers fatally shot 17-year-old Karim Sanad Shalaldeh while Israeli forces killed 58-year-old Fathi Khazem.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/8/21/israeli-army-settlers-kill-2-palestinians-in-separate-west-bank-incidents",
-      "time": "2026-08-21T17:17:55",
+      "title": "Netanyahu says Ben-Gurion Airport strike that caused hours-long chaos aimed to harm Likud and boost opponents",
+      "desc": "Netanyahu filed a petition on Friday seeking to oust the aviation union's chief, alleging that the shutdown – whose effects were still being felt Friday – was intended to harm Transportation Minister Regev and himself. The strike is estimated to have caused u…",
+      "source": "Haaretz",
+      "url": "https://www.haaretz.com/israel-news/israel-politics/2026-08-21/ty-article/.premium/netanyahu-ben-gurion-airport-strike-aimed-to-harm-likud-and-boost-opposition/000001a0-255d-dd2f-a1b6-7ddf99730000",
+      "time": "2026-08-21T18:06:46",
       "country": "Israel",
-      "title_ur": "اسرائیلی فوج اور آباد کاروں نے مغربی کنارے کے الگ الگ واقعات میں 2 فلسطینیوں کو ہلاک کر دیا۔",
-      "desc_ur": "اسرائیلی آباد کاروں نے 17 سالہ کریم سناد شالدہ کو گولی مار کر ہلاک کر دیا جب کہ اسرائیلی فورسز نے 58 سالہ فتحی خزیم کو ہلاک کر دیا۔"
+      "title_ur": "نیتن یاہو کا کہنا ہے کہ بین گوریون ہوائی اڈے کی ہڑتال جس نے کئی گھنٹوں تک افراتفری کا باعث بنا جس کا مقصد لیکود کو نقصان پہنچانا اور مخالفین کو فروغ دینا تھا۔",
+      "desc_ur": "نیتن یاہو نے جمعہ کو ایک درخواست دائر کی جس میں ہوا بازی یونین کے سربراہ کو معزول کرنے کی کوشش کی گئی تھی، جس میں الزام لگایا گیا تھا کہ شٹ ڈاؤن – جس کے اثرات ابھی بھی جمعہ کو محسوس کیے جا رہے ہیں – کا مقصد وزیر ٹرانسپورٹ ریجیو اور خود کو نقصان پہنچانا تھا۔ اندازے کے مطابق ہڑتال کی وجہ سے آپ…"
     },
     {
-      "title": "At Least 14 Dead, More Than 100 Injured As Deadly Russian Strike Hits Shopping Mall In Ukraine",
-      "desc": "A Russian drone attack on a shopping mall in the south-central city of Kryviy Rih killed at least six people and left about 100 others injured, including several children, Ukrainian authorities said.",
-      "source": "Radio Free Europe/ Radio Liberty",
-      "url": "https://www.rferl.org/a/ukraine-russia-attack-kryviy-rih-drone-war/33835760.html",
-      "time": "2026-08-21T17:16:36",
-      "country": "Russia",
-      "title_ur": "یوکرین کے شاپنگ مال پر روسی حملے میں کم از کم 14 افراد ہلاک، 100 سے زائد زخمی",
-      "desc_ur": "یوکرین کے حکام نے بتایا کہ جنوبی وسطی شہر کریوی ریہ میں ایک شاپنگ مال پر روسی ڈرون حملے میں کم از کم چھ افراد ہلاک اور 100 کے قریب زخمی ہو گئے جن میں کئی بچے بھی شامل ہیں۔"
+      "title": "Teofimo Lopez vs. Rolly Romero fight predictions, odds, undercard for title showdown in Las Vegas",
+      "desc": "Lopez challenges Romero for the WBA welterweight title in the main event on Saturday night",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/boxing/news/teofimo-lopez-vs-rolly-romero-fight-predictions-odds-undercard-start-time-where-to-watch/",
+      "time": "2026-08-21T18:05:11",
+      "country": "International",
+      "title_ur": "تیوفیمو لوپیز بمقابلہ رولی رومیرو فائٹ پیشین گوئیاں، مشکلات، لاس ویگاس میں ٹائٹل شو ڈاؤن کے لیے انڈر کارڈ",
+      "desc_ur": "لوپیز نے ہفتے کی رات مین ایونٹ میں ڈبلیو بی اے ویلٹر ویٹ ٹائٹل کے لیے رومیرو کو چیلنج کیا۔"
+    },
+    {
+      "title": "As GOP warns data centers put Ohio Senate seat at risk, Husted defends energy policy",
+      "desc": "Vice President JD Vance joined Sen. Jon Husted and other GOP leaders at a Middletown, Ohio steel plant, as data center fears loom.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/21/jon-husted-data-centers-ohio-senate.html",
+      "time": "2026-08-21T18:03:24",
+      "country": "US",
+      "title_ur": "جیسا کہ GOP نے خبردار کیا ہے کہ ڈیٹا سینٹرز اوہائیو سینیٹ کی نشست کو خطرے میں ڈالتے ہیں، ہسٹڈ نے توانائی کی پالیسی کا دفاع کیا۔",
+      "desc_ur": "نائب صدر جے ڈی وانس نے سین. جون ہسٹڈ اور دیگر جی او پی رہنماؤں کے ساتھ مڈل ٹاؤن، اوہائیو سٹیل پلانٹ میں شمولیت اختیار کی، کیونکہ ڈیٹا سینٹر میں خوف کا خطرہ ہے۔"
+    },
+    {
+      "title": "'Antisemitic dictator': Netanyahu slams Erdogan after Turkey seeks arrests of Israelis",
+      "desc": "Prime Minister Netanyahu condemns Turkish President after Turkey asks Interpol for arrest warrants against him and other senior Israeli officials.(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New Y…",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/flashes/692178",
+      "time": "2026-08-21T17:59:28",
+      "country": "Israel",
+      "title_ur": "'یہود مخالف ڈکٹیٹر': ترکی کی طرف سے اسرائیلیوں کی گرفتاری کے مطالبے کے بعد نیتن یاہو نے اردگان پر تنقید کی",
+      "desc_ur": "وزیر اعظم نیتن یاہو نے ترک صدر کی مذمت کی جب ترکی نے انٹرپول سے ان کے اور دیگر سینئر اسرائیلی حکام کے خلاف گرفتاری کے وارنٹ طلب کیے ہیں۔"
+    },
+    {
+      "title": "Rosie brings four-day Kimmel guest-hosting stint to an end with bombastic, anti-Trump song and barb-filled monologue",
+      "desc": "During the musical number, O'Donnell, 64, repeatedly urged the president to 'resign.'",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/media/article-16070333/rosie-odonnell-jimmy-kimmel-live-song-donald-trump-guest-host.html",
+      "time": "2026-08-21T17:58:55",
+      "country": "US",
+      "title_ur": "روزی نے چار روزہ کمل مہمانوں کی میزبانی کے دورانیے کو بومسٹک، ٹرمپ مخالف گانے اور بارب سے بھرے ایکولوگ کے ساتھ ختم کیا",
+      "desc_ur": "میوزیکل نمبر کے دوران، O'Donnell، 64، نے بار بار صدر سے 'استعفیٰ' پر زور دیا۔"
+    },
+    {
+      "title": "Iran and Iraq sign comprehensive security pact covering intelligence sharing and border patrols",
+      "desc": "The Iran-Iraq security pact could stabilize a historically volatile region, potentially reducing cross-border tensions and proxy conflicts.\nThe post Iran and Iraq sign comprehensive security pact covering intelligence sharing and border patrols appeared first…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-iraq-security-pact-signed/",
+      "time": "2026-08-21T17:57:24",
+      "country": "Iran",
+      "title_ur": "ایران اور عراق نے انٹیلی جنس شیئرنگ اور سرحدی گشت کا احاطہ کرنے والے جامع سیکورٹی معاہدے پر دستخط کیے ہیں۔",
+      "desc_ur": "ایران عراق سیکورٹی معاہدہ تاریخی طور پر غیر مستحکم خطے کو مستحکم کر سکتا ہے، ممکنہ طور پر سرحد پار کشیدگی اور پراکسی تنازعات کو کم کر سکتا ہے۔\nThe post ایران اور عراق نے انٹیلی جنس شیئرنگ اور سرحدی گشت کا احاطہ کرنے والے جامع سیکیورٹی معاہدے پر دستخط کردیے appeared first on…"
+    },
+    {
+      "title": "Israel executes prominent ‘father of martyrs’ Fathi Khazem in his home in Jenin",
+      "desc": "Fathi Khazem, a father of two slain resistance fighters and once regarded as a symbol of resistance, was killed by Israeli forces in his home, despite having an understanding mediated by the Palestinian Authority that Israel wouldn’t pursue him.",
+      "source": "Mondoweiss",
+      "url": "https://mondoweiss.net/2026/08/israel-executes-prominent-father-of-martyrs-fathi-khazem-in-his-home-in-jenin/",
+      "time": "2026-08-21T17:54:32",
+      "country": "Israel",
+      "title_ur": "اسرائیل نے ممتاز ’شہداء کے والد‘ فاتی خزیم کو جنین میں ان کے گھر میں پھانسی دے دی",
+      "desc_ur": "فتحی خزیم، جو دو مقتول مزاحمتی جنگجوؤں کے والد تھے اور جنہیں کبھی مزاحمت کی علامت سمجھا جاتا تھا، کو اسرائیلی فورسز نے فلسطینی اتھارٹی کی طرف سے ثالثی میں سمجھوتہ کرنے کے باوجود ان کے گھر میں قتل کر دیا تھا کہ اسرائیل ان کا پیچھا نہیں کرے گا۔"
+    },
+    {
+      "title": "Why Dubai may be vital to the Trump administration's economic war on Iran - CBS News",
+      "desc": "Why Dubai may be vital to the Trump administration's economic war on IranCBS News Iran warns of ‘devastating’ response to US sanctions as America prepares for new phase of warFox News Trump warns of ‘economic D-Day’ against Iran, but Tehran is well acquainted…",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185088104",
+      "time": "2026-08-21T17:54:12",
+      "country": "Iran",
+      "title_ur": "ایران کے خلاف ٹرمپ انتظامیہ کی اقتصادی جنگ کے لیے دبئی کیوں اہم ہو سکتا ہے – CBS News",
+      "desc_ur": "ایران کے خلاف ٹرمپ انتظامیہ کی اقتصادی جنگ کے لیے دبئی کیوں اہم ہو سکتا ہے سی بی ایس نیوز ایران نے امریکی پابندیوں کے 'تباہ کن' ردعمل سے خبردار کیا ہے کیونکہ امریکہ جنگ کے نئے مرحلے کی تیاری کر رہا ہے فاکس نیوز ٹرمپ نے ایران کے خلاف 'اقتصادی ڈی ڈے' کی تنبیہ کی ہے، لیکن تہران اچھی طرح سے واقف ہے…"
+    },
+    {
+      "title": "GOP 'exorcist' running for governor insists he battles pointy-eared demons",
+      "desc": "Victor Marx, the Republican gubernatorial nominee in Colorado, has made wild claims about doing battle against supernatural creatures and other foes as part of his \"high-risk missionary\" work.The Marine Corps has built his public persona on a series of extrao…",
+      "source": "Raw Story",
+      "url": "https://www.rawstory.com/victor-marx-colorado-2677756303/",
+      "time": "2026-08-21T17:54:10",
+      "country": "International",
+      "title_ur": "GOP 'exorcist' گورنر کے لیے دوڑ رہا ہے کہ وہ نوکدار کان والے شیطانوں سے لڑتا ہے",
+      "desc_ur": "کولوراڈو میں ریپبلکن گورنر کے نامزد امیدوار وکٹر مارکس نے اپنے \"اعلی خطرے والے مشنری\" کے کام کے ایک حصے کے طور پر مافوق الفطرت مخلوقات اور دیگر دشمنوں کے خلاف جنگ کرنے کے بارے میں جنگلی دعوے کیے ہیں۔"
     }
   ],
   "pakistan": [
+    {
+      "title": "Hasan Piker calls Hamas 'far more moderate,' dismisses terror group’s brutal rule in Gaza",
+      "desc": "Hasan Piker called Hamas \"far more moderate\" on Channel 4 News, prompting the Republican Jewish Coalition to warn Democrats campaigning with him.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/media/hasan-piker-calls-hamas-far-more-moderate-dismisses-terror-group-brutal-rule-gaza",
+      "time": "2026-08-21T18:18:25",
+      "country": "Pakistan",
+      "title_ur": "حسن پیکر نے حماس کو 'بہت زیادہ اعتدال پسند' قرار دیا، غزہ میں دہشت گرد گروپ کی ظالمانہ حکمرانی کو مسترد کیا",
+      "desc_ur": "حسن پیکر نے چینل 4 نیوز پر حماس کو \"بہت زیادہ اعتدال پسند\" قرار دیا، جس سے ریپبلکن یہودی اتحاد کو ان کے ساتھ انتخابی مہم چلانے والے ڈیموکریٹس کو متنبہ کرنے پر آمادہ کیا گیا۔"
+    },
+    {
+      "title": "'More than happy': Salman Ali Agha jokes about giving Pakistan captaincy back to Babar Azam after ENG vs PAK 1st Test defeat",
+      "desc": "With Pakistan losing the first Test at Headingly by an innings and 103 runs, interim skipper Salman Ali Agha jokes about handing the captaincy back to Babar Azam.",
+      "source": "Cricketnews.com",
+      "url": "https://www.cricketnews.com/en/cricket/news/salman-ali-agha-jokes-pakistan-captaincy-babar-azam-1st-test-defeat/5c35ac0c112dbd999ee7b85b",
+      "time": "2026-08-21T18:16:30",
+      "country": "Pakistan",
+      "title_ur": "'خوشی سے زیادہ': سلمان علی آغا نے ENG بمقابلہ PAK پہلے ٹیسٹ میں شکست کے بعد بابر اعظم کو پاکستان کی کپتانی واپس دینے کے بارے میں مذاق کیا",
+      "desc_ur": "پاکستان کے ہیڈنگلی میں پہلا ٹیسٹ اننگز اور 103 رنز سے ہارنے کے بعد، عبوری کپتان سلمان علی آغا نے بابر اعظم کو کپتانی واپس سونپنے کا مذاق اڑایا۔"
+    },
+    {
+      "title": "Turkey Issues Arrest Warrant for Netanyahu Over Interception of Hamas-Linked Flotilla",
+      "desc": "Prime Minister Netanyahu's office: \"Erdogan’s pathetic attempt to intimidate the leaders and soldiers of Israel, the only true democracy in the Middle East, will go nowhere.\"\nThe post Turkey Issues Arrest Warrant for Netanyahu Over Interception of Hamas-Linke…",
+      "source": "Legalinsurrection.com",
+      "url": "https://legalinsurrection.com/2026/08/turkey-issues-arrest-warrant-for-netanyahu-over-interception-of-hamas-linked-flotilla/",
+      "time": "2026-08-21T18:00:40",
+      "country": "Pakistan",
+      "title_ur": "ترکی نے حماس سے منسلک فلوٹیلا کو روکنے پر نیتن یاہو کی گرفتاری کا وارنٹ جاری کیا",
+      "desc_ur": "وزیر اعظم نیتن یاہو کا دفتر: \"مشرق وسطی میں واحد حقیقی جمہوریت اسرائیل کے رہنماؤں اور فوجیوں کو دھمکانے کی اردگان کی قابل رحم کوشش کہیں نہیں جائے گی۔\"\nThe post ترکی نے حماس لنک کو روکنے پر نیتن یاہو کے وارنٹ گرفتاری جاری کردیے…"
+    },
+    {
+      "title": "BRICS: Tourism ministers adopt declaration to deepen tourism cooperation",
+      "desc": "The BRICS Tourism Ministers' meeting, under India's chairship, concluded in Jaipur on Friday with the adoption of the BRICS Tourism Ministers' Communique 2026, also known as the Jaipur Declaration, aimed at strengthening tourism cooperation among member count…",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/india-news/brics-tourism-ministers-adopt-declaration-to-deepen-tourism-cooperation-126082101486_1.html",
+      "time": "2026-08-21T17:48:32",
+      "country": "Pakistan",
+      "title_ur": "برکس: وزرائے سیاحت نے سیاحتی تعاون کو گہرا کرنے کے لیے اعلامیہ اپنایا",
+      "desc_ur": "برکس وزرائے سیاحت کی میٹنگ، ہندوستان کی صدارت میں، جمعہ کو جے پور میں برکس ٹورازم منسٹرز کمیونیک 2026، جسے جے پور اعلامیہ بھی کہا جاتا ہے، کو اپنانے کے ساتھ اختتام پذیر ہوا، جس کا مقصد رکن ممالک کے درمیان سیاحتی تعاون کو مضبوط کرنا ہے۔"
+    },
     {
       "title": "Root thrilled as England’s all-seam attack crushes Pakistan at Headingley",
       "desc": "England's all-seam attack has captain Joe Root stoked about what more they can achieve after swatting aside Pakistan in the first test at Headingley on Friday. England won by an innings and 103 runs inside three days. Pakistan was bowled out for 171 and 135 a…",
@@ -172,56 +212,6 @@
       "country": "Pakistan",
       "title_ur": "جنگلات عالمی منڈی کی سمتوں کو برقرار رکھتا ہے - مارکس مسن",
       "desc_ur": "رائے: عالمی منڈی کی غیر یقینی صورتحال کے باوجود لاگ ان کی مضبوط قیمتیں کچھ پر امید ہیں۔"
-    },
-    {
-      "title": "Iran and Oman discuss conditions to resume US talks amid ongoing crisis",
-      "desc": "The diplomatic engagement hints at potential de-escalation, but skepticism remains about a swift resolution to the Iran-U.S. crisis.\nThe post Iran and Oman discuss conditions to resume US talks amid ongoing crisis appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-and-oman-discuss-conditions-to-resume-us-talks-amid-ongoing-crisis/",
-      "time": "2026-08-21T17:21:03",
-      "country": "Pakistan",
-      "title_ur": "ایران اور عمان نے جاری بحران کے دوران امریکی مذاکرات کی بحالی کے لیے شرائط پر تبادلہ خیال کیا۔",
-      "desc_ur": "سفارتی مشغولیت ممکنہ تناؤ میں کمی کی طرف اشارہ کرتی ہے، لیکن ایران-امریکہ کے فوری حل کے بارے میں شکوک و شبہات برقرار ہیں۔ بحران\nThe post ایران اور عمان کا جاری بحران کے درمیان امریکی مذاکرات کی بحالی کے لیے شرائط پر تبادلہ خیال appeared first on Crypto Briefing."
-    },
-    {
-      "title": "'I fear for them' - pundits lament 'desperate times' for Pakistan",
-      "desc": "Former England captain Michael Vaughan says he \"really fears\" for Pakistan after their heavy defeat in the first Test at Headingley.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/sport/cricket/articles/czrj545d34mo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "time": "2026-08-21T17:17:59",
-      "country": "Pakistan",
-      "title_ur": "'مجھے ان سے ڈر لگتا ہے' - پنڈتوں نے پاکستان کے لیے 'مایوس وقت' کا افسوس کا اظہار کیا۔",
-      "desc_ur": "انگلینڈ کے سابق کپتان مائیکل وان کا کہنا ہے کہ ہیڈنگلے میں پہلے ٹیسٹ میں پاکستان کی بھاری شکست کے بعد وہ ’واقعی خوفزدہ‘ ہیں۔"
-    },
-    {
-      "title": "Hussain: Not trying to emulate Stokes - Root was just Root",
-      "desc": "Nasser Hussain praised Joe Root’s “maturity” after England’s win over Pakistan at Headingley, while Stuart Broad hailed Josh Tongue as “England’s best bowler”; watch the second Test at Lord’s live on Sky Sports Cricket from 10am Thursday",
-      "source": "Sky Sports",
-      "url": "https://www.skysports.com/cricket/news/12080/13575426/england-vs-pakistan-nasser-hussain-praises-maturity-in-joe-roots-return-as-captain-after-dominant-three-day-win-at-headingley",
-      "time": "2026-08-21T17:00:00",
-      "country": "Pakistan",
-      "title_ur": "حسین: اسٹوکس کی تقلید کرنے کی کوشش نہیں کر رہے - روٹ صرف روٹ تھا۔",
-      "desc_ur": "ناصر حسین نے ہیڈنگلے میں انگلینڈ کی پاکستان کے خلاف جیت کے بعد جو روٹ کی \"پختگی\" کی تعریف کی، جب کہ اسٹورٹ براڈ نے جوش ٹونگ کو \"انگلینڈ کا بہترین باؤلر\" قرار دیا۔ جمعرات کی صبح 10 بجے سے اسکائی اسپورٹس کرکٹ پر لارڈز میں دوسرا ٹیسٹ براہ راست دیکھیں"
-    },
-    {
-      "title": "Root disappointed over Headingley missing out on Ashes test",
-      "desc": "LEEDS, England, Aug 21 : England captain Joe Root expressed his disappointment on Friday that Headingley will not stage an Ashes test next year after leading his country to a crushing victory over Pakistan by an innings and 103 runs at his home ground.England…",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/sport/root-disappointed-over-headingley-missing-out-ashes-test-6334001",
-      "time": "2026-08-21T16:57:13",
-      "country": "Pakistan",
-      "title_ur": "ایشز ٹیسٹ میں ہیڈنگلے سے باہر ہونے پر روٹ کو مایوسی ہوئی۔",
-      "desc_ur": "لیڈز، انگلینڈ، 21 اگست: انگلینڈ کے کپتان جو روٹ نے جمعہ کو اپنی مایوسی کا اظہار کیا کہ ہیڈنگلے اگلے سال ایشز ٹیسٹ نہیں کھیلے گا کیونکہ اس کے ملک نے اپنے ہوم گراؤنڈ پر پاکستان کو اننگز اور 103 رنز سے شکست دی تھی۔"
-    },
-    {
-      "title": "NATO members discuss Strait of Hormuz options without alliance involvement",
-      "desc": "BRUSSELS, Aug 21 (Reuters) - NATO's top commander convened a videoconference earlier this week to facilitate possible contributions to support freedom of nav...",
-      "source": "Yahoo Entertainment",
-      "url": "https://ca.news.yahoo.com/nato-members-discuss-strait-hormuz-163705918.html",
-      "time": "2026-08-21T16:51:36",
-      "country": "Pakistan",
-      "title_ur": "نیٹو کے ارکان نے اتحاد کی شمولیت کے بغیر آبنائے ہرمز کے اختیارات پر تبادلہ خیال کیا۔",
-      "desc_ur": "برسلز، 21 اگست (رائٹرز) – نیٹو کے اعلیٰ کمانڈر نے اس ہفتے کے شروع میں ایک ویڈیو کانفرنس بلائی تاکہ بحری افواج کی آزادی کی حمایت میں ممکنہ تعاون کی سہولت فراہم کی جا سکے۔"
     }
   ],
   "business": {
