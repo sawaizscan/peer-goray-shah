@@ -1,158 +1,188 @@
 {
-  "generated": "2026-08-22T10:47:21Z",
+  "generated": "2026-08-22T11:14:58Z",
   "world": [
     {
-      "title": "ACC Preview #13 – Florida State",
-      "desc": "Florida State looks good and might be great.",
-      "source": "Duke Basketball Report",
-      "url": "https://www.dukebasketballreport.com/acc/94198/acc-preview-13-florida-state",
-      "time": "2026-08-21T10:46:00",
+      "title": "MHP leader calls on Israel to stop ‘provoking Türkiye’",
+      "desc": "Nationalist Movement Party (MHP) leader Devlet Bahçeli has called on Israel to cease its provocations against Türkiye and military operations that would undermine the country’s national security, in a reaction to the Netanyahu government’s latest attack on a …",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/mhp-leader-calls-on-israel-to-stop-provoking-turkiye-225898",
+      "time": "2026-08-21T11:13:39",
+      "country": "Israel",
+      "title_ur": "MHP رہنما نے اسرائیل سے 'ترکی کو اشتعال انگیزی' بند کرنے کا مطالبہ کیا",
+      "desc_ur": "نیشنلسٹ موومنٹ پارٹی (MHP) کے رہنما ڈیولٹ باہیلی نے اسرائیل سے مطالبہ کیا ہے کہ وہ ترکی کے خلاف اشتعال انگیزی بند کرے اور ملک کی قومی سلامتی کو نقصان پہنچانے والی فوجی کارروائیوں کو روکے، نیتن یاہو حکومت کے تازہ ترین حملے کے ردعمل میں…"
+    },
+    {
+      "title": "Trump's Latest Tactic on Iran: an 'Economic D-Day'",
+      "desc": "President Trump is dialing up the rhetoric against Iran, though he seems to be signaling he doesn't want to fire another shot. After weeks of airstrikes earlier this year and repeated threats to resume them, Trump is now touting an \"economic D-Day\" and \"econo…",
+      "source": "Newser",
+      "url": "https://www.newser.com/story/395041/trumps-latest-tactic-on-iran-an-economic-d-day.html",
+      "time": "2026-08-21T11:13:29",
+      "country": "Iran",
+      "title_ur": "ایران پر ٹرمپ کا تازہ ترین حربہ: ایک 'اقتصادی ڈی ڈے'",
+      "desc_ur": "صدر ٹرمپ ایران کے خلاف بیان بازی کو ڈائل کر رہے ہیں، حالانکہ ایسا لگتا ہے کہ وہ اشارہ دے رہے ہیں کہ وہ ایک اور گولی نہیں چلانا چاہتے۔ اس سال کے شروع میں ہفتوں کے فضائی حملوں اور انہیں دوبارہ شروع کرنے کی بار بار دھمکیوں کے بعد، ٹرمپ اب ایک \"معاشی ڈی ڈے\" اور \"معاشی..."
+    },
+    {
+      "title": "Scientists are using thousands of hours of rainforest sound recordings to teach AI to recognise birds that were previously difficult to identify",
+      "desc": "Researchers at Cornell University are leveraging thousands of rainforest recordings to develop an artificial intelligence system that can recognize various bird species inhabiting the Amazon. Preliminary results indicate that rubber agroforestry encourages a …",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/science/scientists-are-using-thousands-of-hours-of-rainforest-sound-recordings-to-teach-ai-to-recognise-birds-that-were-previously-difficult-to-identify/articleshow/133402484.cms",
+      "time": "2026-08-21T11:12:59",
+      "country": "US",
+      "title_ur": "سائنس دان ہزاروں گھنٹوں کی بارش کے جنگل کی آواز کی ریکارڈنگ کا استعمال کرتے ہوئے اے آئی کو ان پرندوں کو پہچاننا سکھا رہے ہیں جن کی شناخت کرنا پہلے مشکل تھا۔",
+      "desc_ur": "کارنیل یونیورسٹی کے محققین ایک مصنوعی ذہانت کے نظام کو تیار کرنے کے لیے ہزاروں بارشوں کی ریکارڈنگ کا فائدہ اٹھا رہے ہیں جو ایمیزون میں رہنے والے پرندوں کی مختلف اقسام کو پہچان سکتا ہے۔ ابتدائی نتائج بتاتے ہیں کہ ربڑ کی زرعی جنگلات کی حوصلہ افزائی ہوتی ہے…"
+    },
+    {
+      "title": "Unidentified donors are flying Israeli voters home to vote",
+      "desc": "Is this a bad or a good thing? And who is behind the initiative? Some are against the idea of flying in to vote and leaving again, some are afraid there is only one type of voter being helped to fly in to vote.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/432050",
+      "time": "2026-08-21T11:12:36",
+      "country": "Israel",
+      "title_ur": "نامعلوم عطیہ دہندگان اسرائیلی ووٹروں کو ووٹ ڈالنے کے لیے گھر بھیج رہے ہیں۔",
+      "desc_ur": "کیا یہ بری چیز ہے یا اچھی؟ اور اس اقدام کے پیچھے کون ہے؟ کچھ ووٹ ڈالنے اور دوبارہ جانے کے خیال کے خلاف ہیں، کچھ خوفزدہ ہیں کہ ووٹ ڈالنے کے لیے صرف ایک قسم کے ووٹر کی مدد کی جا رہی ہے۔"
+    },
+    {
+      "title": "A nation of one",
+      "desc": "We are not just a united nation. We are a nation of one, so interconnected that we are like a single person.  A look at the parasha's topics shows it.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/432046",
+      "time": "2026-08-21T11:06:00",
+      "country": "US",
+      "title_ur": "ایک قوم",
+      "desc_ur": "ہم صرف ایک متحد قوم نہیں ہیں۔ ہم ایک قوم ہیں، اس قدر باہم جڑے ہوئے ہیں کہ ہم ایک فرد کی طرح ہیں۔  پاراشا کے موضوعات پر ایک نظر ڈالنے سے پتہ چلتا ہے۔"
+    },
+    {
+      "title": "A camera on the Washington Monument?!? FOX going all-out for IndyCar Freedom 250",
+      "desc": "FOX is embracing the historic nature of Washington, D.C., and the excitement of motorsport for its coverage of IndyCar's Freedom 250 race.",
+      "source": "USA Today",
+      "url": "https://www.usatoday.com/story/sports/motor/indycar/2026/08/21/fox-indycar-freedom-250-race-broadcast/91376947007/",
+      "time": "2026-08-21T11:04:41",
+      "country": "US",
+      "title_ur": "واشنگٹن یادگار پر ایک کیمرہ؟!؟ FOX IndyCar Freedom 250 کے لیے آل آؤٹ ہو رہا ہے۔",
+      "desc_ur": "FOX واشنگٹن، ڈی سی کی تاریخی نوعیت اور انڈی کار کی فریڈم 250 ریس کی کوریج کے لیے موٹرسپورٹ کے جوش و خروش کو اپنا رہا ہے۔"
+    },
+    {
+      "title": "15 American Presidents We Forget Did Other Jobs First",
+      "desc": "Before being known as the Presidents of the United States of America, the men that have taken that seat in the White House had widely different careers from one another. Sure, they all eventually became politicians, but they weren’t born into the role. Rather…",
+      "source": "Den of Geek US",
+      "url": "http://www.denofgeek.com/msn/15-american-presidents-we-forget-did-other-jobs-first/",
+      "time": "2026-08-21T11:00:00",
+      "country": "US",
+      "title_ur": "15 امریکی صدور جو ہم بھول گئے کہ پہلے دوسری نوکریاں کیں۔",
+      "desc_ur": "ریاستہائے متحدہ امریکہ کے صدور کے طور پر جانے سے پہلے، وہائٹ ​​ہاؤس میں اس نشست پر فائز ہونے والے مردوں کا ایک دوسرے سے وسیع پیمانے پر مختلف کیریئر تھا۔ یقینی طور پر، وہ سب بالآخر سیاست دان بن گئے، لیکن وہ اس کردار میں پیدا نہیں ہوئے تھے۔ بلکہ…"
+    },
+    {
+      "title": "From ‘Indispensable’ Ally to Target of Annihilation",
+      "desc": "The latest target of Trump’s ire is the low-profile Sultanate of Oman.",
+      "source": "The Atlantic",
+      "url": "https://www.theatlantic.com/national-security/2026/08/oman-trump-iran-war-strait-hormuz/688335/",
+      "time": "2026-08-21T11:00:00",
+      "country": "US",
+      "title_ur": "'ناگزیر' اتحادی سے فنا کے ہدف تک",
+      "desc_ur": "ٹرمپ کے غصے کا تازہ ترین ہدف عمان کی کم پروفائل سلطنت ہے۔"
+    },
+    {
+      "title": "Changing American politics have given the Supreme Court unprecedented power to support one party’s agenda over another",
+      "desc": "Under Chief Justice John Roberts, the Supreme Court has acted as a strong ally to the Republican Party’s agenda. Warren Snead and Kumar Ramanathan write that this relationship poses a “countermajoritarian difficulty”: despite close national elections, the Sup…",
+      "source": "Lse.ac.uk",
+      "url": "https://blogs.lse.ac.uk/usappblog/2026/08/21/changing-american-politics-have-given-the-supreme-court-unprecedented-power-to-support-one-partys-agenda-over-another/",
+      "time": "2026-08-21T11:00:00",
+      "country": "US",
+      "title_ur": "بدلتی ہوئی امریکی سیاست نے سپریم کورٹ کو ایک پارٹی کے ایجنڈے پر دوسری پارٹی کی حمایت کرنے کی بے مثال طاقت دی ہے۔",
+      "desc_ur": "چیف جسٹس جان رابرٹس کے تحت، سپریم کورٹ نے ریپبلکن پارٹی کے ایجنڈے کے لیے ایک مضبوط اتحادی کے طور پر کام کیا ہے۔ وارن سنیڈ اور کمار رامناتھن لکھتے ہیں کہ یہ تعلق ایک \"جوابی دشواری\" کا باعث ہے: قریبی قومی انتخابات کے باوجود، سپریم…"
+    },
+    {
+      "title": "Cowboys news: Final practices in Oxnard finished before heading to Arizona",
+      "desc": "Here is today’s Dallas Cowboys news.",
+      "source": "Blogging The Boys",
+      "url": "https://www.bloggingtheboys.com/dallas-cowboys-news/214914/final-practices-training-camp-oxnard-preseason-arizona",
+      "time": "2026-08-21T11:00:00",
       "country": "International",
-      "title_ur": "ACC پیش نظارہ #13 - فلوریڈا اسٹیٹ",
-      "desc_ur": "فلوریڈا سٹیٹ اچھی لگ رہی ہے اور ہو سکتی ہے۔"
+      "title_ur": "کاؤبای نیوز: آکسنارڈ میں آخری مشقیں ایریزونا جانے سے پہلے ختم ہو گئیں۔",
+      "desc_ur": "یہ آج کی ڈلاس کاؤبای کی خبر ہے۔"
+    },
+    {
+      "title": "Russia says ready for ‘new ideas’ on Ukraine war that match Putin’s goals",
+      "desc": "Deputy Foreign Minister Sergey Ryabkov suggests Moscow is eager for the US to revive its support for Russian agenda.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/8/21/russia-ready-for-new-ideas-on-ukraine-war-that-match-putins-goals",
+      "time": "2026-08-21T10:59:37",
+      "country": "Russia",
+      "title_ur": "روس کا کہنا ہے کہ یوکرین جنگ کے بارے میں ’نئے آئیڈیاز‘ کے لیے تیار ہیں جو پوٹن کے اہداف سے ملتے ہیں۔",
+      "desc_ur": "نائب وزیر خارجہ سرگئی ریابکوف نے مشورہ دیا کہ ماسکو امریکہ کے لیے روسی ایجنڈے کی حمایت کو بحال کرنے کے لیے بے چین ہے۔"
     },
     {
       "title": "The EU Commission’s Secret Plan to Share EU Citizens’ Most Sensitive Data With Israel",
-      "desc": "For three years the Von der Leyen Commission has been secretly negotiating to hand over its citizens' data to a state committing a genocide.",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/08/the-eus-von-der-leyen-commission-is-considering-sharing-eu-citizens-most-sensitive-data-with-israels-genocidal-state.html",
-      "time": "2026-08-21T10:45:46",
+      "desc": "For three years the Von der Leyen Commission has been secretly negotiating to hand over its citizens’ data to a state committing multiple genocides.\nTel Aviv may have lost the hearts and minds of the vast majority of people in the so-called “collective West” …",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/45a4567013d2ed64",
+      "time": "2026-08-21T10:58:50",
       "country": "Israel",
       "title_ur": "یورپی یونین کے شہریوں کا انتہائی حساس ڈیٹا اسرائیل کے ساتھ شیئر کرنے کے لیے یورپی یونین کمیشن کا خفیہ منصوبہ",
-      "desc_ur": "وان ڈیر لیین کمیشن تین سالوں سے خفیہ طور پر اپنے شہریوں کے ڈیٹا کو نسل کشی کرنے والی ریاست کے حوالے کرنے کے لیے بات چیت کر رہا ہے۔"
+      "desc_ur": "وان ڈیر لیین کمیشن تین سالوں سے خفیہ طور پر اپنے شہریوں کا ڈیٹا ایک ایسی ریاست کے حوالے کرنے کے لیے بات چیت کر رہا ہے جو متعدد نسل کشی کا ارتکاب کر رہی ہے۔\nہو سکتا ہے کہ تل ابیب نام نہاد \"اجتماعی مغرب\" میں لوگوں کی اکثریت کے دل و دماغ کھو چکا ہو…"
     },
     {
-      "title": "Ramat Gan’s Early Islamic Past",
-      "desc": "Archaeologists have uncovered a planned commercial and industrial complex dating to roughly 1,300 years ago in Ramat Gan, Israel. The site contains straight, intersecting streets, rooms […]\nThe post Ramat Gan’s Early Islamic Past appeared first on Biblical Ar…",
-      "source": "Biblicalarchaeology.org",
-      "url": "https://www.biblicalarchaeology.org/daily/ancient-cultures/daily-life-and-practice/ramat-gans-early-islamic-past/",
-      "time": "2026-08-21T10:45:06",
-      "country": "Israel",
-      "title_ur": "رمت گان کا ابتدائی اسلامی ماضی",
-      "desc_ur": "آثار قدیمہ کے ماہرین نے اسرائیل کے رامات گان میں تقریباً 1,300 سال قبل ایک منصوبہ بند تجارتی اور صنعتی کمپلیکس دریافت کیا ہے۔ اس سائٹ میں سیدھی، ایک دوسرے کو ملانے والی گلیوں، کمرے […]\nThe post رمت گان کا ابتدائی اسلامی ماضی appeared first on Biblical Ar…"
-    },
-    {
-      "title": "Iran War: Bessent Effectively Admits New Ferocious Iran Sanctions Likely to Fizzle as Treasury Intervention Fails; More Evidence of US Military Impotence; Ansar Allah Makes Drone Strikes Into Saudi Arabia",
-      "desc": "Today’s Iran war post launched before final. Please return or refresh this page at 8:00 AM EDT for the completed version]\nScott Bessent, the failed hedgie1 running the Treasury Department, put his foot in his mouth and chewed in a fresh statement where he voi…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/385d5bf84f62c4ba",
-      "time": "2026-08-21T10:43:44",
-      "country": "Iran",
-      "title_ur": "ایران جنگ: بیسنٹ نے مؤثر طریقے سے ایران پر نئی سخت پابندیوں کا اعتراف کیا کیونکہ ٹریژری کی مداخلت کے ناکام ہونے کا امکان ہے۔ امریکی فوجی نامردی کے مزید ثبوت؛ انصار اللہ نے سعودی عرب پر ڈرون حملے کئے",
-      "desc_ur": "آج کی ایران جنگی پوسٹ فائنل سے پہلے لانچ کی گئی۔ مکمل ورژن کے لیے براہ کرم صبح 8:00 AM EDT پر اس صفحہ کو واپس کریں یا ریفریش کریں]\nسکاٹ بیسنٹ، ٹریژری ڈیپارٹمنٹ چلانے والے ناکام ہیجی 1 نے اپنا پاؤں اپنے منہ میں ڈالا اور ایک تازہ بیان میں چبایا جہاں اس نے کہا…"
-    },
-    {
-      "title": "Sensex today | Stock Market Highlights: Nifty ends marginally higher, Sensex flat as markets post weekly losses",
-      "desc": "Sensex Today, Nifty 50 | Stock Market Highlights, 21st August  2026: Indian equities ended largely flat on Friday, with the Nifty 50 edging up 0.08% to 24,252 and the BSE Sensex closing flat at 77,540.83. Both benchmarks recorded weekly losses of 0.5% and 0.6…",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-21st-august-2026/article71368928.ece",
-      "time": "2026-08-21T10:42:24",
-      "country": "India",
-      "title_ur": "سینسیکس آج | سٹاک مارکیٹ کی جھلکیاں: نفٹی معمولی طور پر اوپر ختم، سینسیکس فلیٹ جیسا کہ بازار ہفتہ وار نقصان کے بعد",
-      "desc_ur": "سینسیکس آج، نفٹی 50 | سٹاک مارکیٹ کی جھلکیاں، 21 اگست 2026: جمعہ کو ہندوستانی ایکوئٹی بڑے پیمانے پر فلیٹ ختم ہوئی، نفٹی 50 0.08 فیصد اضافے کے ساتھ 24,252 پر اور بی ایس ای سینسیکس فلیٹ 77,540.83 پر بند ہوا۔ دونوں بینچ مارکس نے 0.5% اور 0.6 کے ہفتہ وار نقصانات ریکارڈ کیے…"
-    },
-    {
-      "title": "Bennett warns: Half a million illegal guns are a 'ticking time bomb'",
-      "desc": "Former Prime Minister calls illegal weapons a top-level security threat, proposes deploying the Shin Bet and declaring closed military zones to seize them.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/432047",
-      "time": "2026-08-21T10:39:59",
+      "title": "Japan’s core inflation accelerates in July, bolsters case for rate hike",
+      "desc": "The data will be among the factors the Bank of Japan will scrutinise at its next policy meeting on Sept 17 and Sept 18. Read more at straitstimes.com. Read more at straitstimes.com.",
+      "source": "The Straits Times",
+      "url": "https://www.straitstimes.com/business/japans-core-inflation-accelerates-in-july-bolsters-case-for-rate-hike",
+      "time": "2026-08-21T10:55:37",
       "country": "International",
-      "title_ur": "بینیٹ نے خبردار کیا: نصف ملین غیر قانونی بندوقیں 'ٹکنگ ٹائم بم' ہیں",
-      "desc_ur": "سابق وزیر اعظم نے غیر قانونی ہتھیاروں کو اعلیٰ سطح کا سیکیورٹی خطرہ قرار دیتے ہوئے شن بیٹ کو تعینات کرنے اور ان پر قبضے کے لیے بند فوجی زون کا اعلان کرنے کی تجویز پیش کی۔"
+      "title_ur": "جاپان کی بنیادی افراط زر جولائی میں تیز ہوتی ہے، شرح میں اضافے کے معاملے کو تقویت دیتی ہے۔",
+      "desc_ur": "اعداد و شمار ان عوامل میں شامل ہوں گے جن کی جانچ بینک آف جاپان 17 اور 18 ستمبر کو اپنی اگلی پالیسی میٹنگ میں کرے گا۔ straitstimes.com پر مزید پڑھیں۔ straitstimes.com پر مزید پڑھیں۔"
     },
     {
-      "title": "Market ends flat amid geopolitical concerns; metal stocks gain",
-      "desc": "As per provisional closing data, the barometer index, the S&P BSE Sensex, ended flat at 77,540.83, up 3.11 points or 0.00%. The Nifty 50 index rose 20.15 points or 0.08% to 24,252.",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/markets/capital-market-news/market-ends-flat-amid-geopolitical-concerns-metal-stocks-gain-126082100830_1.html",
-      "time": "2026-08-21T10:34:02",
-      "country": "International",
-      "title_ur": "جغرافیائی سیاسی خدشات کے درمیان مارکیٹ فلیٹ ختم۔ دھاتی اسٹاک کا فائدہ",
-      "desc_ur": "عارضی اختتامی اعداد و شمار کے مطابق، بیرومیٹر انڈیکس، ایس اینڈ پی بی ایس ای سینسیکس، 3.11 پوائنٹس یا 0.00 فیصد کے اضافے سے 77,540.83 پر فلیٹ پر بند ہوا۔ نفٹی 50 انڈیکس 20.15 پوائنٹس یا 0.08 فیصد بڑھ کر 24,252 پر پہنچ گیا۔"
-    },
-    {
-      "title": "Euro zone business activity sees fastest growth since Nov",
-      "desc": "Euro zone business activity is growing at its fastest pace this year thanks to stronger new orders, particularly in manufacturing, and renewed export growth, according to business surveys which also showed easing price pressures.",
-      "source": "RTE",
-      "url": "https://www.rte.ie/news/business/2026/0821/1588764-euro-zone-pmi-figures/",
-      "time": "2026-08-21T10:33:48",
-      "country": "US",
-      "title_ur": "یورو زون کی کاروباری سرگرمیوں میں نومبر کے بعد سب سے تیزی سے اضافہ دیکھنے میں آیا",
-      "desc_ur": "یورو زون کی کاروباری سرگرمی اس سال اپنی تیز ترین رفتار سے بڑھ رہی ہے، خاص طور پر مینوفیکچرنگ میں مضبوط نئے آرڈرز، اور تجدید برآمدی نمو کی بدولت، کاروباری سروے کے مطابق جس میں قیمتوں کے دباؤ کو کم کرنے کا بھی پتہ چلتا ہے۔"
-    },
-    {
-      "title": "Trump’s Asia pullback is a gift to China and North Korea",
-      "desc": "The reduction of American military might in the region sacrifices decades of U.S. dominance",
-      "source": "Salon",
-      "url": "https://www.salon.com/2026/08/21/trumps-asia-pullback-is-a-gift-to-china-and-north-korea/",
-      "time": "2026-08-21T10:30:21",
-      "country": "China",
-      "title_ur": "ٹرمپ کا ایشیا پل بیک چین اور شمالی کوریا کے لیے ایک تحفہ ہے۔",
-      "desc_ur": "خطے میں امریکی فوجی طاقت میں کمی کئی دہائیوں کے امریکی تسلط کی قربانی دیتی ہے۔"
-    },
-    {
-      "title": "Why The Silos Were Built In Apple TV’s Silo",
-      "desc": "With flashbacks, Silo season 3’s episode 4 has finally revealed some secrets about the silos’ origins and the real reason behind their construction.",
-      "source": "Screen Rant",
-      "url": "https://screenrant.com/silos-building-purpose-silo-season-4/",
-      "time": "2026-08-21T10:30:14",
-      "country": "International",
-      "title_ur": "ایپل ٹی وی کے سائلو میں سائلو کیوں بنائے گئے تھے۔",
-      "desc_ur": "فلیش بیکس کے ساتھ، سائلو سیزن 3 کے ایپیسوڈ 4 نے آخر کار سائلوز کی اصلیت اور ان کی تعمیر کی اصل وجہ کے بارے میں کچھ راز افشا کر دیے ہیں۔"
-    },
-    {
-      "title": "Nigeria Eyes $50 Billion Offshore Oil and Gas Investment Boom",
-      "desc": "The new Nigerian incentives for offshore oil and gas projects have the potential to attract $50 billion in new investment in Nigeria’s offshore energy sector, the Nigerian Upstream Petroleum Regulatory Commission (NUPRC) has said. Nigeria, however, needs upsk…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Nigeria-Eyes-50-Billion-Offshore-Oil-and-Gas-Investment-Boom.html",
-      "time": "2026-08-21T10:30:00",
-      "country": "Europe",
-      "title_ur": "نائیجیریا نے $50 بلین آف شور آئل اینڈ گیس انویسٹمنٹ بوم کو دیکھا",
-      "desc_ur": "نائجیریا کے اپ اسٹریم پیٹرولیم ریگولیٹری کمیشن (NUPRC) نے کہا ہے کہ آف شور تیل اور گیس کے منصوبوں کے لیے نائجیریا کی نئی ترغیبات نائیجیریا کے آف شور توانائی کے شعبے میں 50 بلین ڈالر کی نئی سرمایہ کاری کو راغب کرنے کی صلاحیت رکھتی ہیں۔ تاہم نائجیریا کو اپسک کی ضرورت ہے…"
-    },
-    {
-      "title": "Germany struggles to meet gas storage goals amid Iran war",
-      "desc": "Bitcoin jumps near $78k as Trump spurs U.S. regulatory hopes\nInvesting.com -- Germany faces growing challenges in reaching its natural gas storage targets as higher prices linked to the Iran war prompt companies to delay purchases, energy industry group BDEW …",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/f14d38c45870473a",
-      "time": "2026-08-21T10:29:38",
-      "country": "Iran",
-      "title_ur": "ایران جنگ کے دوران جرمنی گیس ذخیرہ کرنے کے اہداف کو پورا کرنے کے لیے جدوجہد کر رہا ہے۔",
-      "desc_ur": "Bitcoin $78k کے قریب چھلانگ لگاتا ہے کیونکہ ٹرمپ نے امریکی ریگولیٹری امیدوں کو بڑھاوا دیا ہے۔\nInvesting.com -- جرمنی کو اپنے قدرتی گیس ذخیرہ کرنے کے اہداف تک پہنچنے میں بڑھتے ہوئے چیلنجوں کا سامنا ہے کیونکہ ایران جنگ سے منسلک زیادہ قیمتیں کمپنیوں کو خریداری میں تاخیر پر مجبور کرتی ہیں، توانائی کی صنعت کا گروپ BDEW…"
-    },
-    {
-      "title": "Stocks and Bonds Steady at the End of a Tumultuous Week",
-      "desc": "Fears about the war in Iran, government deficits, the economy and corporate borrowing stirred global markets.",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/fcbc950827d0aa59",
-      "time": "2026-08-21T10:28:28",
-      "country": "Iran",
-      "title_ur": "ہنگامہ خیز ہفتہ کے اختتام پر اسٹاک اور بانڈ مستحکم",
-      "desc_ur": "ایران میں جنگ کے خدشات، حکومتی خسارے، معیشت اور کارپوریٹ قرضے نے عالمی منڈیوں میں ہلچل مچا دی۔"
-    },
-    {
-      "title": "India's goods trade deficit hits 6-month high as imports rise amid Gulf war",
-      "desc": "The data underscores the ​growing pressure on India's external balance, as a wider trade gap weighs on the rupee and capital inflows",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/economy/news/india-s-goods-trade-deficit-hits-6-month-high-as-imports-rise-amid-gulf-war-126081301364_1.html",
-      "time": "2026-08-21T10:23:00",
-      "country": "India",
-      "title_ur": "خلیجی جنگ کے دوران درآمدات میں اضافے سے ہندوستان کا سامان تجارتی خسارہ 6 ماہ کی بلند ترین سطح پر پہنچ گیا",
-      "desc_ur": "اعداد و شمار ہندوستان کے بیرونی توازن پر بڑھتے ہوئے دباؤ کی نشاندہی کرتے ہیں، کیونکہ ایک وسیع تجارتی فرق روپے اور سرمائے کی آمد پر وزن رکھتا ہے۔"
-    },
-    {
-      "title": "Labour's Bridget Phillipson claims racism and sexism have become 'normal' in Britain as she warns about 'cesspit' of social media",
-      "desc": "The women and equalities minister said it was part of her job to 'challenge' the 'normalising' of racism in the UK, as well as to 'celebrate' Britain as a 'tolerant' nation.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16069451/Labours-Bridget-Phillipson-claims-racism-sexism-normal-Britain-warns-cesspit-social-media.html",
-      "time": "2026-08-21T10:20:33",
+      "title": "Links 8/21/2026",
+      "desc": "Our daily links, including Darth Vader backs Flock, Bessent flounders, US targets Brazil, Ukraine global food shock, and humanoid control failure.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/08/links-8-21-2026.html",
+      "time": "2026-08-21T10:55:26",
       "country": "UK",
-      "title_ur": "لیبر کی بریجٹ فلپسن کا دعویٰ ہے کہ برطانیہ میں نسل پرستی اور جنس پرستی 'معمول' بن چکی ہے کیونکہ اس نے سوشل میڈیا کے 'سیس پٹ' کے بارے میں خبردار کیا ہے۔",
-      "desc_ur": "خواتین اور مساوات کی وزیر نے کہا کہ یہ برطانیہ میں نسل پرستی کے 'معمولی' کو 'چیلنج' کرنے کے ساتھ ساتھ برطانیہ کو 'برداشت کرنے والی' قوم کے طور پر 'منانے' کے کام کا حصہ ہے۔"
+      "title_ur": "لنکس 21/8/2026",
+      "desc_ur": "ہمارے روزمرہ کے روابط بشمول ڈارتھ وڈر بیکس فلاک، بیسنٹ فلاؤنڈرز، یو ایس ٹارگٹ برازیل، یوکرین گلوبل فوڈ شاک، اور ہیومنائڈ کنٹرول کی ناکامی۔"
+    },
+    {
+      "title": "As USS Lincoln heads home, mental health experts tally the stressors of life at sea - NPR",
+      "desc": "As USS Lincoln heads home, mental health experts tally the stressors of life at seaNPR U.S.S. Abraham Lincoln Leaves Middle East After Months at Sea in Operation Against IranThe New York Times ‘We didn’t plan for this’: How the Iran war left the USS Abraham L…",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185082492",
+      "time": "2026-08-21T10:53:28",
+      "country": "Iran",
+      "title_ur": "جیسے ہی یو ایس ایس لنکن گھر کی طرف روانہ ہو رہا ہے، دماغی صحت کے ماہرین سمندر میں زندگی کے تناؤ کا حساب لگاتے ہیں - NPR",
+      "desc_ur": "یو ایس ایس لنکن کے گھر جانے کے دوران، دماغی صحت کے ماہرین نے سمندر میں زندگی کے تناؤ کا اندازہ لگایا ہے NPR U.S. ابراہم لنکن ایران کے خلاف آپریشن میں مہینوں سمندر میں رہنے کے بعد مشرق وسطی سے نکل گئے نیویارک ٹائمز 'ہم نے اس کے لیے کوئی منصوبہ نہیں بنایا': ایران کی جنگ نے یو ایس ایس ابراہم ایل کو کیسے چھوڑا…"
     }
   ],
   "pakistan": [
+    {
+      "title": "Pakistan expands powers of military chief",
+      "desc": "Two new laws passed on Thursday expand the powers of Pakistan’s military chief, Asim Munir, now giving him influence over the careers of military officers",
+      "source": "RT",
+      "url": "https://www.rt.com/india/644478-pakistan-asim-munir-powers/",
+      "time": "2026-08-21T11:14:29",
+      "country": "Pakistan",
+      "title_ur": "پاکستان نے فوجی سربراہ کے اختیارات میں توسیع کردی",
+      "desc_ur": "جمعرات کو منظور کیے گئے دو نئے قوانین نے پاکستان کے فوجی سربراہ عاصم منیر کے اختیارات میں توسیع کی ہے، جس سے اب وہ فوجی افسران کے کیریئر پر اثر انداز ہو جائیں گے۔"
+    },
+    {
+      "title": "'Proportionate response': MEA on bulldozer action outside Pakistan high commission",
+      "desc": "India News: NEW DELHI: The ministry of external affairs on Friday said the removal of unauthorised structures outside the Pakistan High Commission in Delhi was a .",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/proportionate-response-mea-on-bulldozer-action-outside-pakistan-high-commission/articleshow/133402408.cms",
+      "time": "2026-08-21T11:05:14",
+      "country": "Pakistan",
+      "title_ur": "'متناسب ردعمل': پاکستانی ہائی کمیشن کے باہر بلڈوزر کی کارروائی پر MEA",
+      "desc_ur": "انڈیا نیوز: نئی دہلی: وزارت خارجہ نے جمعہ کے روز کہا کہ دہلی میں پاکستانی ہائی کمیشن کے باہر غیر مجاز ڈھانچے کو ہٹانا ایک ."
+    },
+    {
+      "title": "England all out for 409 and takes 238-run lead over struggling Pakistan in first test",
+      "desc": "England will take a commanding lead of 238 runs into the second innings of the first test against Pakistan after being bowled out for 409 around 40 minutes into Day 3 at Headingley on Friday. Resuming on 366-8, England saw its tail add a further 43 runs — wit…",
+      "source": "Yahoo Entertainment",
+      "url": "https://sports.yahoo.com/articles/england-409-takes-238-run-105045579.html",
+      "time": "2026-08-21T10:50:45",
+      "country": "Pakistan",
+      "title_ur": "انگلینڈ کی ٹیم پہلے ٹیسٹ میں 409 رنز پر آل آؤٹ ہو گئی اور اسے پاکستان پر 238 رنز کی برتری حاصل ہے۔",
+      "desc_ur": "جمعہ کو ہیڈنگلے میں انگلینڈ کو پاکستان کے خلاف پہلے ٹیسٹ کی دوسری اننگز میں 409 رنز پر آؤٹ ہونے کے بعد 238 رنز کی اہم برتری حاصل ہوگی۔ 366-8 پر دوبارہ آغاز کرتے ہوئے، انگلینڈ نے اپنی دم کو مزید 43 رنز کا اضافہ دیکھا۔"
+    },
     {
       "title": "Imran Khan's kin say Pak govt violated court order for not taking ex-PM to private hospital",
       "desc": "Former Pakistan prime minister Imran Khan returned to Adiala Jail after a medical examination. Khan was taken for a check-up amid concerns about his health and treatment. His family alleged solitary confinement, which they described as mental torture. Authori…",
@@ -162,36 +192,6 @@
       "country": "Pakistan",
       "title_ur": "عمران خان کے رشتہ داروں کا کہنا ہے کہ سابق وزیراعظم کو نجی اسپتال نہ لے جانے پر حکومت نے عدالتی حکم کی خلاف ورزی کی۔",
       "desc_ur": "پاکستان کے سابق وزیراعظم عمران خان طبی معائنے کے بعد واپس اڈیالہ جیل پہنچ گئے۔ خان کو ان کی صحت اور علاج کے خدشات کے درمیان چیک اپ کے لیے لے جایا گیا تھا۔ اس کے اہل خانہ نے قید تنہائی کا الزام لگایا، جسے انہوں نے ذہنی اذیت سے تعبیر کیا۔ اتھارٹی…"
-    },
-    {
-      "title": "Ex-Pakistan PM Khan returned to jail after hospital checks",
-      "desc": "Former Pakistan PM Imran Khan was returned to Adiala Jail after court-ordered medical checks. His party criticizes the handling of his hospital visit.\n\nRead More: https://punchng.com/ex-pakistan-pm-khan-returned-to-jail-after-hospital-checks/",
-      "source": "The Punch",
-      "url": "https://punchng.com/ex-pakistan-pm-khan-returned-to-jail-after-hospital-checks/",
-      "time": "2026-08-21T10:22:21",
-      "country": "Pakistan",
-      "title_ur": "پاکستان کے سابق وزیر اعظم خان ہسپتال کے معائنے کے بعد واپس جیل پہنچ گئے۔",
-      "desc_ur": "پاکستان کے سابق وزیر اعظم عمران خان کو عدالت کے حکم پر طبی معائنے کے بعد اڈیالہ جیل واپس بھیج دیا گیا۔ ان کی پارٹی ان کے ہسپتال کے دورے کو سنبھالنے پر تنقید کرتی ہے۔\n\nمزید پڑھیں: https://punchng.com/ex-pakistan-pm-khan-returned-to-jail-after-hospital-checks/"
-    },
-    {
-      "title": "Rupee dips on week as oil pangs linger, intervention prevents fall past 96/USD",
-      "desc": "The Indian rupee exhibited stability on Friday, though it faced a weekly decrease. Factors such as increasing oil prices and apprehensions about supply disruptions played a role in its performance. The Reserve Bank of India's timely intervention helped preven…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-dips-on-week-as-oil-pangs-linger-intervention-prevents-fall-past-96/usd/articleshow/133401294.cms",
-      "time": "2026-08-21T10:22:09",
-      "country": "Pakistan",
-      "title_ur": "ہفتے میں روپیہ گرتا ہے کیونکہ تیل کی تکلیف برقرار رہتی ہے، مداخلت 96/USD کو گرنے سے روکتی ہے",
-      "desc_ur": "ہندوستانی روپے نے جمعہ کو استحکام کا مظاہرہ کیا، حالانکہ اسے ہفتہ وار کمی کا سامنا کرنا پڑا۔ تیل کی قیمتوں میں اضافے اور سپلائی میں رکاوٹ کے خدشات جیسے عوامل نے اس کی کارکردگی میں کردار ادا کیا۔ ریزرو بینک آف انڈیا کی بروقت مداخلت نے روکنے میں مدد کی…"
-    },
-    {
-      "title": "Remains found of American mountain climber who died in an avalanche on Pakistan's Broad Peak",
-      "desc": "Search teams on Friday found the remains of American climber Mallory Geis, the last missing member of a 10-member international mountaineering team that was...",
-      "source": "Yahoo Entertainment",
-      "url": "https://www.yahoo.com/news/world/articles/remains-found-american-mountain-climber-101502994.html",
-      "time": "2026-08-21T10:15:02",
-      "country": "Pakistan",
-      "title_ur": "پاکستان کی براڈ چوٹی پر برفانی تودہ گرنے سے ہلاک ہونے والے امریکی کوہ پیما کی باقیات ملی ہیں۔",
-      "desc_ur": "تلاش کرنے والی ٹیموں کو جمعے کے روز امریکی کوہ پیما میلوری گیئس کی باقیات ملی ہیں، جو کہ 10 رکنی بین الاقوامی کوہ پیمائی ٹیم کی آخری لاپتہ رکن تھی جو..."
     }
   ],
   "business": {
@@ -210,7 +210,7 @@
         "low": 25,
         "condition": "Light Drizzle",
         "condition_ur": "ہلکی بوندا باندی",
-        "precip": 53
+        "precip": 39
       },
       {
         "date": "2026-08-23",
@@ -219,7 +219,7 @@
         "low": 24,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 79
+        "precip": 75
       },
       {
         "date": "2026-08-24",
@@ -228,7 +228,7 @@
         "low": 27,
         "condition": "Light Drizzle",
         "condition_ur": "ہلکی بوندا باندی",
-        "precip": 24
+        "precip": 39
       },
       {
         "date": "2026-08-25",
@@ -246,7 +246,7 @@
         "low": 28,
         "condition": "Light Drizzle",
         "condition_ur": "ہلکی بوندا باندی",
-        "precip": 14
+        "precip": 4
       },
       {
         "date": "2026-08-27",
@@ -255,7 +255,7 @@
         "low": 26,
         "condition": "Light Drizzle",
         "condition_ur": "ہلکی بوندا باندی",
-        "precip": 18
+        "precip": 17
       },
       {
         "date": "2026-08-28",
