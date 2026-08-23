@@ -1,6 +1,56 @@
 {
-  "generated": "2026-08-23T06:29:47Z",
+  "generated": "2026-08-23T07:11:33Z",
   "world": [
+    {
+      "title": "Powering the cloud after 60 years underground: Ormat’s geothermal pivot to AI",
+      "desc": "Ormat launched two next-gen geothermal projects with Sage Geosystems and SLB in Nevada.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/22/after-60-years-underground-power-cloud-ormat-ai-pivot/",
+      "time": "2026-08-22T07:11:00",
+      "country": "International",
+      "title_ur": "Powering the cloud after 60 years underground: Ormat’s geothermal pivot to AI",
+      "desc_ur": "Ormat launched two next-gen geothermal projects with Sage Geosystems and SLB in Nevada."
+    },
+    {
+      "title": "US hits Canada with 50% tariffs as trade talks collapse",
+      "desc": "Mark Carney said last-minute changes to proposed terms were unfair and vowed to retaliate ‘dollar for dollar’",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/world/2026/08/23/us-hits-canada-with-50-tariffs-as-trade-talks-collapse/",
+      "time": "2026-08-22T06:46:00",
+      "country": "US",
+      "title_ur": "US hits Canada with 50% tariffs as trade talks collapse",
+      "desc_ur": "Mark Carney said last-minute changes to proposed terms were unfair and vowed to retaliate ‘dollar for dollar’"
+    },
+    {
+      "title": "US hits Canada with 50% tariffs as trade talks fail",
+      "desc": "Mark Carney said last-minute changes to proposed terms were unfair and vowed to retaliate ‘dollar for dollar’",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/wires/bloomberg/2026/08/22/us-hits-canada-with-50-tariffs-as-trade-talks-fail/",
+      "time": "2026-08-22T06:46:00",
+      "country": "US",
+      "title_ur": "US hits Canada with 50% tariffs as trade talks fail",
+      "desc_ur": "Mark Carney said last-minute changes to proposed terms were unfair and vowed to retaliate ‘dollar for dollar’"
+    },
+    {
+      "title": "Ramaswamy will make a great Governor of Ohio: Vance",
+      "desc": "US Vice President J D Vance has endorsed his friend Vivek Ramaswamy for Ohio Governor. Ramaswamy, an Indian American entrepreneur, is seeking the Republican nomination for the election. Vance stated that Ramaswamy will make a great governor for the state of O…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/vivek-ramaswamy-jd-vance-endorses-republican-candidate-for-ohio-governor-amid-controversy/articleshow/133419083.cms",
+      "time": "2026-08-22T06:38:40",
+      "country": "India",
+      "title_ur": "Ramaswamy will make a great Governor of Ohio: Vance",
+      "desc_ur": "US Vice President J D Vance has endorsed his friend Vivek Ramaswamy for Ohio Governor. Ramaswamy, an Indian American entrepreneur, is seeking the Republican nomination for the election. Vance stated that Ramaswamy will make a great governor for the state of O…"
+    },
+    {
+      "title": "EU Commission joins call to halt Israel’s West Bank settlement plan",
+      "desc": "The European Commission has joined 14 countries in calling on Israel to withdraw construction tenders for the E1 settlement project in the occupied West Bank, warning that the plan would undermine prospects for a two-state solution.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/eu-commission-joins-call-to-halt-israels-west-bank-settlement-plan-225914",
+      "time": "2026-08-22T06:33:38",
+      "country": "Israel",
+      "title_ur": "EU Commission joins call to halt Israel’s West Bank settlement plan",
+      "desc_ur": "The European Commission has joined 14 countries in calling on Israel to withdraw construction tenders for the E1 settlement project in the occupied West Bank, warning that the plan would undermine prospects for a two-state solution."
+    },
     {
       "title": "Israel struck Syrian base despite being told no Turkish troops: Barrack",
       "desc": "Israel’s unannounced airstrike on a Syrian airbase near Türkiye’s border created a serious risk of military miscalculation between the two countries, U.S. Ambassador to Türkiye and special envoy for Syria Tom Barrack has said.",
@@ -100,56 +150,6 @@
       "country": "Iran",
       "title_ur": "Treasury Secretary Bessent Promises New Iran Measures Amid Stalemate",
       "desc_ur": "Treasury Secretary Scott Bessent promised over the weekend that the United States will impose economic isolation measures “never seen” in history, according to a report by David Stockman published by Antiwar.com on Aug. 20. The announcement came about six mon…"
-    },
-    {
-      "title": "Washington Eases Gasoline Rules as Iran Pressure Campaign Jolts Fuel Costs",
-      "desc": "Washington is tightening economic pressure on Iran while loosening domestic gasoline rules as U.S. drivers face pump prices above $4 a gallon, according to a report. The Environmental Protection Agency on Thursday authorized an early switch to winter-grade ga…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-08-22-washington-eases-gasoline-rules-iran-pressure-campaign.html",
-      "time": "2026-08-22T06:00:00",
-      "country": "Iran",
-      "title_ur": "Washington Eases Gasoline Rules as Iran Pressure Campaign Jolts Fuel Costs",
-      "desc_ur": "Washington is tightening economic pressure on Iran while loosening domestic gasoline rules as U.S. drivers face pump prices above $4 a gallon, according to a report. The Environmental Protection Agency on Thursday authorized an early switch to winter-grade ga…"
-    },
-    {
-      "title": "U.S. Imposes Sanctions On ICC President and Senior Trial Lawyer",
-      "desc": "U.S. Secretary of State Marco Rubio designated International Criminal Court President (ICC) Tomoko Akane of Japan and Senior Trial Lawyer Abdoulaye Seye of Senegal for sanctions on Tuesday, Aug. 18, according to BBC News. The action is part of the Trump admin…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-08-22-us-sanctions-icc-president-senior-trial-lawyer.html",
-      "time": "2026-08-22T06:00:00",
-      "country": "US",
-      "title_ur": "U.S. Imposes Sanctions On ICC President and Senior Trial Lawyer",
-      "desc_ur": "U.S. Secretary of State Marco Rubio designated International Criminal Court President (ICC) Tomoko Akane of Japan and Senior Trial Lawyer Abdoulaye Seye of Senegal for sanctions on Tuesday, Aug. 18, according to BBC News. The action is part of the Trump admin…"
-    },
-    {
-      "title": "Russia Vows Continued Retaliation for Ukrainian Strikes on Civilians, Foreign Ministry Says",
-      "desc": "Russia will continue to retaliate for Ukrainian attacks on civilians and infrastructure, Foreign Ministry spokeswoman Maria Zakharova said in an interview with Izvestia published Thursday, according to the ministry. Zakharova accused Kyiv of showing a “comple…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-08-22-russia-vows-retaliation-for-ukranian-strikes-civilians.html",
-      "time": "2026-08-22T06:00:00",
-      "country": "Russia",
-      "title_ur": "Russia Vows Continued Retaliation for Ukrainian Strikes on Civilians, Foreign Ministry Says",
-      "desc_ur": "Russia will continue to retaliate for Ukrainian attacks on civilians and infrastructure, Foreign Ministry spokeswoman Maria Zakharova said in an interview with Izvestia published Thursday, according to the ministry. Zakharova accused Kyiv of showing a “comple…"
-    },
-    {
-      "title": "‘I didn’t say which Diwali’: Boris Johnson on India-UK FTA deadline; hails scotch whisky tariff cut from 150% to 75%",
-      "desc": "In a comical take on the India-UK Free Trade Agreement timeline, Boris Johnson revealed his contentment with the trade deal's finalization. He emphasized notable tariff cuts on Scotch whisky as a highlight. Following Brexit, the trade relationship has flouris…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/i-didnt-say-which-diwali-boris-johnson-on-india-uk-fta-deadline-hails-scotch-whisky-tariff-cut-from-150-to-75/articleshow/133418390.cms",
-      "time": "2026-08-22T05:59:52",
-      "country": "India",
-      "title_ur": "‘I didn’t say which Diwali’: Boris Johnson on India-UK FTA deadline; hails scotch whisky tariff cut from 150% to 75%",
-      "desc_ur": "In a comical take on the India-UK Free Trade Agreement timeline, Boris Johnson revealed his contentment with the trade deal's finalization. He emphasized notable tariff cuts on Scotch whisky as a highlight. Following Brexit, the trade relationship has flouris…"
-    },
-    {
-      "title": "Israel attacks southern Lebanon",
-      "desc": "Israeli forces carried out strikes on southern Lebanon, Al-Jazeera reported on Saturday.According to the outlet, Israel targeted the area near Ali al-Tahir heights, but there have been no reports of d...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/3478045d13482e12",
-      "time": "2026-08-22T05:59:07",
-      "country": "Israel",
-      "title_ur": "Israel attacks southern Lebanon",
-      "desc_ur": "Israeli forces carried out strikes on southern Lebanon, Al-Jazeera reported on Saturday.According to the outlet, Israel targeted the area near Ali al-Tahir heights, but there have been no reports of d..."
     }
   ],
   "pakistan": [
@@ -192,16 +192,6 @@
       "country": "Pakistan",
       "title_ur": "News Summary-Intelligence Report 8/21/2026*Newsdump Friday*Palestinians Killed West Bank Incidents*Pentagon Shakes Up Military Newspaper*China Rejects US Iran Economic War*US Delays Beef Tariffs*756 Wounded Iran War*Imran Khan Quickly...*",
       "desc_ur": "Join in supporting Free Republic... US-Canada trade talks broke down late tonight just days after President Trump claimed a deal was reached... A high-profile social media addiction lawsuit dropped by a teenage... Two Palestinians killed in separate incidents…"
-    },
-    {
-      "title": "Mark O’Connell: Any kind of climate scepticism has shrivelled in the dry heat of another scorching summer",
-      "desc": "Any kind of climate scepticism has shrivelled in the dry heat of another scorching summer",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/opinion/2026/08/22/ireland-may-not-have-mutant-blitz-attitude-to-climate-crisis-but-we-have-our-own-potent-version/",
-      "time": "2026-08-22T05:00:00",
-      "country": "Pakistan",
-      "title_ur": "Mark O’Connell: Any kind of climate scepticism has shrivelled in the dry heat of another scorching summer",
-      "desc_ur": "Any kind of climate scepticism has shrivelled in the dry heat of another scorching summer"
     }
   ],
   "business": {
@@ -216,17 +206,17 @@
       {
         "date": "2026-08-23",
         "day": "اتوار",
-        "high": 34,
+        "high": 35,
         "low": 26,
-        "condition": "Drizzle",
-        "condition_ur": "بوندا باندی",
+        "condition": "Thunderstorm",
+        "condition_ur": "گرج چمک",
         "precip": 57
       },
       {
         "date": "2026-08-24",
         "day": "پیر",
         "high": 35,
-        "low": 27,
+        "low": 28,
         "condition": "Light Drizzle",
         "condition_ur": "ہلکی بوندا باندی",
         "precip": 25
@@ -235,9 +225,9 @@
         "date": "2026-08-25",
         "day": "منگل",
         "high": 36,
-        "low": 28,
-        "condition": "Thunderstorm",
-        "condition_ur": "گرج چمک",
+        "low": 26,
+        "condition": "Drizzle",
+        "condition_ur": "بوندا باندی",
         "precip": 20
       },
       {
@@ -270,10 +260,10 @@
       {
         "date": "2026-08-29",
         "day": "ہفتہ",
-        "high": 38,
+        "high": 37,
         "low": 29,
-        "condition": "Mainly Clear",
-        "condition_ur": "زیادہ تر صاف",
+        "condition": "Light Drizzle",
+        "condition_ur": "ہلکی بوندا باندی",
         "precip": 16
       }
     ]
