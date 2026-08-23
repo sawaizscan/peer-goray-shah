@@ -1,6 +1,86 @@
 {
-  "generated": "2026-08-23T22:45:53Z",
+  "generated": "2026-08-23T23:14:40Z",
   "world": [
+    {
+      "title": "EU nations push windfall tax on oil giants over Iran war profits – media",
+      "desc": "Six EU nations are reportedly pushing for a windfall tax on oil companies’ excess profits as the Iran war drives up energy prices Read Full Article at RT.com",
+      "source": "RT",
+      "url": "https://www.rt.com/news/644543-eu-oil-windfall-tax-supply/",
+      "time": "2026-08-22T23:12:01",
+      "country": "Iran",
+      "title_ur": "EU nations push windfall tax on oil giants over Iran war profits – media",
+      "desc_ur": "Six EU nations are reportedly pushing for a windfall tax on oil companies’ excess profits as the Iran war drives up energy prices Read Full Article at RT.com"
+    },
+    {
+      "title": "Struggling households need more help with bills, energy industry says",
+      "desc": "Industry body Energy UK says the current support for households most in need does not go far enough.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko",
+      "time": "2026-08-22T23:00:03",
+      "country": "UK",
+      "title_ur": "Struggling households need more help with bills, energy industry says",
+      "desc_ur": "Industry body Energy UK says the current support for households most in need does not go far enough."
+    },
+    {
+      "title": "I gave birth to my twin brother's baby and saved his life in the process",
+      "desc": "Twins Adam Braitberg and Ellie Freeman grew up in what they describe as a loving and close-knit family in suburban Melbourne/Naarm. That bond has only grown stronger since Ellie and eldest sister Jess helped Adam and his husband Omer bring daughter Gali into …",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-08-23/love-story-how-ellie-helped-brother-adam-surrogacy-baby-gali/107057106",
+      "time": "2026-08-22T23:00:00",
+      "country": "US",
+      "title_ur": "I gave birth to my twin brother's baby and saved his life in the process",
+      "desc_ur": "Twins Adam Braitberg and Ellie Freeman grew up in what they describe as a loving and close-knit family in suburban Melbourne/Naarm. That bond has only grown stronger since Ellie and eldest sister Jess helped Adam and his husband Omer bring daughter Gali into …"
+    },
+    {
+      "title": "Iran warns countries against joining in US sanctions",
+      "desc": "Iran warned countries against participating in the United States' \"economic war\" against the Islamic republic, saying they would be considered enemies.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/world/2026/0822/1588886-middle-east/",
+      "time": "2026-08-22T22:50:31",
+      "country": "Iran",
+      "title_ur": "Iran warns countries against joining in US sanctions",
+      "desc_ur": "Iran warned countries against participating in the United States' \"economic war\" against the Islamic republic, saying they would be considered enemies."
+    },
+    {
+      "title": "Sam Thursfield: 23rd August 2026",
+      "desc": "Hello,Here’s some thoughts on software for August.\nBear with me on these broad categories but I think you can group most software projects into one of these groups: art, infrastructure, and activism.\nArt is primarily to communicate experiences and feelings to…",
+      "source": "Wordpress.com",
+      "url": "https://samthursfield.wordpress.com/2026/08/22/23rd-august-2026/",
+      "time": "2026-08-22T22:49:37",
+      "country": "US",
+      "title_ur": "Sam Thursfield: 23rd August 2026",
+      "desc_ur": "Hello,Here’s some thoughts on software for August.\nBear with me on these broad categories but I think you can group most software projects into one of these groups: art, infrastructure, and activism.\nArt is primarily to communicate experiences and feelings to…"
+    },
+    {
+      "title": "Trump shares image calling Hormuz 'new US territory'; Iran says strait 'closed'",
+      "desc": "US News: NEW DELHI: US President Donald Trump on Sunday again shared an image on Truth Social describing the strategically vital Strait of Hormuz as “NEW US Te.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/us/trump-shares-image-calling-hormuz-new-us-territory-iran-says-strait-closed/articleshow/133432963.cms",
+      "time": "2026-08-22T22:49:24",
+      "country": "Iran",
+      "title_ur": "Trump shares image calling Hormuz 'new US territory'; Iran says strait 'closed'",
+      "desc_ur": "US News: NEW DELHI: US President Donald Trump on Sunday again shared an image on Truth Social describing the strategically vital Strait of Hormuz as “NEW US Te."
+    },
+    {
+      "title": "Iran prioritizes nuclear bomb over F-35s amid US tensions",
+      "desc": "Iran's nuclear focus may hinder diplomatic efforts, increasing regional tensions and complicating future negotiations with Western powers.\nThe post Iran prioritizes nuclear bomb over F-35s amid US tensions appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-prioritizes-nuclear-bomb-over-f-35s-amid-us-tensions/",
+      "time": "2026-08-22T22:49:18",
+      "country": "Iran",
+      "title_ur": "Iran prioritizes nuclear bomb over F-35s amid US tensions",
+      "desc_ur": "Iran's nuclear focus may hinder diplomatic efforts, increasing regional tensions and complicating future negotiations with Western powers.\nThe post Iran prioritizes nuclear bomb over F-35s amid US tensions appeared first on Crypto Briefing."
+    },
+    {
+      "title": "Mark Ruffalo Calls Paramount’s Response to Him ‘Dishonest’",
+      "desc": "Mark Ruffalo says Paramount calling his criticism of the pending Paramount-Warner Bros. merger ‘dishonest.’",
+      "source": "Vulture",
+      "url": "http://www.vulture.com/article/mark-ruffalo-paramount-wb-merger-response.html",
+      "time": "2026-08-22T22:46:25",
+      "country": "International",
+      "title_ur": "Mark Ruffalo Calls Paramount’s Response to Him ‘Dishonest’",
+      "desc_ur": "Mark Ruffalo says Paramount calling his criticism of the pending Paramount-Warner Bros. merger ‘dishonest.’"
+    },
     {
       "title": "Mark Ruffalo fires back after he was labeled an antisemite by top Hollywood film studio over 'genocide' comments",
       "desc": "In an extended social media post, the Oscar-winning actor called the company's remarks 'appalling and fundamentally dishonest.'",
@@ -70,86 +150,6 @@
       "country": "US",
       "title_ur": "Trump Stock Disclosure Shows More Than 1,000 Trades in June",
       "desc_ur": "President Donald Trump made more than 1,000 securities trades in June, including significant purchases of Berkshire Hathaway Inc., Visa Inc., Mastercard Inc. and Cintas Corp., according to a financial disclosure published Saturday."
-    },
-    {
-      "title": "Mark Ruffalo fires back at Paramount over 'appalling' antisemitism accusation tied to Ellison merger criticism",
-      "desc": "Mark Ruffalo fires back at Paramount's antisemitism accusation, calling it \"appalling and fundamentally dishonest\" amid the Warner Bros. Discovery merger.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/media/mark-ruffalo-fires-back-paramount-appalling-antisemitism-accusation-ellison-merger-criticism",
-      "time": "2026-08-22T22:00:26",
-      "country": "US",
-      "title_ur": "Mark Ruffalo fires back at Paramount over 'appalling' antisemitism accusation tied to Ellison merger criticism",
-      "desc_ur": "Mark Ruffalo fires back at Paramount's antisemitism accusation, calling it \"appalling and fundamentally dishonest\" amid the Warner Bros. Discovery merger."
-    },
-    {
-      "title": "Countries joining US sanctions will be considered enemies, Iran warns",
-      "desc": "Iran warns countries against joining US economic sanctions, stating they will be considered enemies. Discover the latest on Iran sanctions and global react\n\nRead More: https://punchng.com/countries-joining-us-sanctions-will-be-considered-enemies-iran-warns/",
-      "source": "The Punch",
-      "url": "https://punchng.com/countries-joining-us-sanctions-will-be-considered-enemies-iran-warns/",
-      "time": "2026-08-22T21:50:10",
-      "country": "Iran",
-      "title_ur": "Countries joining US sanctions will be considered enemies, Iran warns",
-      "desc_ur": "Iran warns countries against joining US economic sanctions, stating they will be considered enemies. Discover the latest on Iran sanctions and global react\n\nRead More: https://punchng.com/countries-joining-us-sanctions-will-be-considered-enemies-iran-warns/"
-    },
-    {
-      "title": "Nancy Mace Shreds Darline Graham Over Shocking Debate Answer: 'Jesus, I Can't Even'",
-      "desc": "“Darline, darlin’, you are running for the United States Senate...” the South Carolina congresswoman said.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/nancy-mace-darline-graham-national-security_n_6a8a0565e4b0832f43174f10",
-      "time": "2026-08-22T21:47:13",
-      "country": "US",
-      "title_ur": "Nancy Mace Shreds Darline Graham Over Shocking Debate Answer: 'Jesus, I Can't Even'",
-      "desc_ur": "“Darline, darlin’, you are running for the United States Senate...” the South Carolina congresswoman said."
-    },
-    {
-      "title": "Biden-appointed judge blocks Trump immigration policy which suspended visa processing from 75 countries",
-      "desc": "U.S. District Judge Jeannette Vargas, an appointee of former President Joe Biden, set aside the policy Friday as “contrary to law and in excess of statutory authority.”",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/08/22/us-news/biden-appointed-judge-blocks-trump-immigration-policy-which-suspended-visa-processing-from-75-countries/",
-      "time": "2026-08-22T21:44:53",
-      "country": "US",
-      "title_ur": "Biden-appointed judge blocks Trump immigration policy which suspended visa processing from 75 countries",
-      "desc_ur": "U.S. District Judge Jeannette Vargas, an appointee of former President Joe Biden, set aside the policy Friday as “contrary to law and in excess of statutory authority.”"
-    },
-    {
-      "title": "Syria says Israeli strike near Damascus violation of international law",
-      "desc": "The latest incident comes days after reports emerged Israel had struck a military airbase close to the Turkish border.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo",
-      "time": "2026-08-22T21:42:42",
-      "country": "Israel",
-      "title_ur": "Syria says Israeli strike near Damascus violation of international law",
-      "desc_ur": "The latest incident comes days after reports emerged Israel had struck a military airbase close to the Turkish border."
-    },
-    {
-      "title": "Avengers star Mark Ruffalo attacks Ellison family, links Oracle to Israel - The Jerusalem Post",
-      "desc": "Avengers star Mark Ruffalo attacks Ellison family, links Oracle to IsraelThe Jerusalem Post Mark Ruffalo Goes Scorched Earth on Paramount-Warner Bros, EllisonsVariety Mark Ruffalo Blasts Paramount For Calling Him \"Antisemitic\"Deadline Mark Ruffalo Eviscerates…",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185105644",
-      "time": "2026-08-22T21:32:48",
-      "country": "Israel",
-      "title_ur": "Avengers star Mark Ruffalo attacks Ellison family, links Oracle to Israel - The Jerusalem Post",
-      "desc_ur": "Avengers star Mark Ruffalo attacks Ellison family, links Oracle to IsraelThe Jerusalem Post Mark Ruffalo Goes Scorched Earth on Paramount-Warner Bros, EllisonsVariety Mark Ruffalo Blasts Paramount For Calling Him \"Antisemitic\"Deadline Mark Ruffalo Eviscerates…"
-    },
-    {
-      "title": "'New gen doesn’t buy jewellery for the locker. It’s about storytelling and craft'",
-      "desc": "Sunday Times News: Sabyasachi Mukherjee is the first Indian designer to collaborate with The Metropolitan Museum of Art in New York, drawing on 5,000 years of its collec.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/home/sunday-times/all-that-matters/new-gen-doesnt-buy-jewellery-for-the-locker-its-about-storytelling-and-craft/articleshow/133429590.cms",
-      "time": "2026-08-22T21:29:30",
-      "country": "India",
-      "title_ur": "'New gen doesn’t buy jewellery for the locker. It’s about storytelling and craft'",
-      "desc_ur": "Sunday Times News: Sabyasachi Mukherjee is the first Indian designer to collaborate with The Metropolitan Museum of Art in New York, drawing on 5,000 years of its collec."
-    },
-    {
-      "title": "Trump Heads Into Midterms Short On Foreign Policy Wins",
-      "desc": "The setbacks are striking for a president who returned to office last year promising to be a “peacemaker.”",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/trump-midterms-foreign-policy_n_6a8a12a6e4b0313bf9e5f9e9",
-      "time": "2026-08-22T21:28:47",
-      "country": "US",
-      "title_ur": "Trump Heads Into Midterms Short On Foreign Policy Wins",
-      "desc_ur": "The setbacks are striking for a president who returned to office last year promising to be a “peacemaker.”"
     }
   ],
   "pakistan": [
