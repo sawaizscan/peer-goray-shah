@@ -1,6 +1,56 @@
 {
-  "generated": "2026-08-23T07:11:33Z",
+  "generated": "2026-08-23T07:55:28Z",
   "world": [
+    {
+      "title": "World Bank projects war-hit Lebanon’s economy to contract by 6.4 percent",
+      "desc": "Conflict with Israel derails Lebanon's economic recovery as inflation and consumer prices rise, the global lender says.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/8/22/world-bank-projects-war-hit-lebanons-economy-to-contract-by-6-4-percent",
+      "time": "2026-08-22T07:35:08",
+      "country": "Israel",
+      "title_ur": "World Bank projects war-hit Lebanon’s economy to contract by 6.4 percent",
+      "desc_ur": "Conflict with Israel derails Lebanon's economic recovery as inflation and consumer prices rise, the global lender says."
+    },
+    {
+      "title": "Hundreds of health, nutrition facilities closed as Somalia’s child crisis deepens, warns UNICEF - Hiiraan Online",
+      "desc": "Aid cuts are closing doors to healthcare, shutting down nutrition services, and pushing water, education and protection further out of reach in Somalia, and, as ever, children are paying the price, the spokesperson for UNICEF said Friday.",
+      "source": "Hiiraan.com",
+      "url": "https://www.hiiraan.com/news4/2026/Aug/206048/hundreds_of_health_nutrition_facilities_closed_as_somalias_child_crisis_deepens_warns_unicef.aspx",
+      "time": "2026-08-22T07:29:08",
+      "country": "US",
+      "title_ur": "Hundreds of health, nutrition facilities closed as Somalia’s child crisis deepens, warns UNICEF - Hiiraan Online",
+      "desc_ur": "Aid cuts are closing doors to healthcare, shutting down nutrition services, and pushing water, education and protection further out of reach in Somalia, and, as ever, children are paying the price, the spokesperson for UNICEF said Friday."
+    },
+    {
+      "title": "Think. Over the week",
+      "desc": "Explore recent editorial insights on the US report's implications, India's economic resilience, healthcare regulation, and banking growth dynamics.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/newsletter/nl-opinion/think-over-the-week/article71376762.ece",
+      "time": "2026-08-22T07:20:23",
+      "country": "India",
+      "title_ur": "Think. Over the week",
+      "desc_ur": "Explore recent editorial insights on the US report's implications, India's economic resilience, healthcare regulation, and banking growth dynamics."
+    },
+    {
+      "title": "Iran grants permission for Iraqi oil tankers to pass through Strait of Hormuz",
+      "desc": "Iran has taken a pivotal step by permitting Iraqi oil tankers to pass through the Strait of Hormuz. This action follows a series of requests from Baghdad utilizing various diplomatic avenues. Achieving this special transit was a critical goal highlighted duri…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-grants-permission-for-iraqi-oil-tankers-to-pass-through-strait-of-hormuz/articleshow/133419663.cms",
+      "time": "2026-08-22T07:15:03",
+      "country": "Iran",
+      "title_ur": "Iran grants permission for Iraqi oil tankers to pass through Strait of Hormuz",
+      "desc_ur": "Iran has taken a pivotal step by permitting Iraqi oil tankers to pass through the Strait of Hormuz. This action follows a series of requests from Baghdad utilizing various diplomatic avenues. Achieving this special transit was a critical goal highlighted duri…"
+    },
+    {
+      "title": "Somalia child hunger crisis deepens after aid cuts, UNICEF says",
+      "desc": "The drought-stricken country has recorded a 32 percent jump in the number of children treated for severe malnutrition.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/8/22/somalia-child-hunger-crisis-deepens-after-aid-cuts-unicef-says",
+      "time": "2026-08-22T07:11:27",
+      "country": "International",
+      "title_ur": "Somalia child hunger crisis deepens after aid cuts, UNICEF says",
+      "desc_ur": "The drought-stricken country has recorded a 32 percent jump in the number of children treated for severe malnutrition."
+    },
     {
       "title": "Powering the cloud after 60 years underground: Ormat’s geothermal pivot to AI",
       "desc": "Ormat launched two next-gen geothermal projects with Sage Geosystems and SLB in Nevada.",
@@ -100,59 +150,19 @@
       "country": "US",
       "title_ur": "Why the bond market is flexing its muscles, and why everyone needs to care",
       "desc_ur": "The bond market is one of the few forces in the world strong enough to get politicians to snap to attention"
-    },
-    {
-      "title": "Pentagon fires military newspaper editor and publisher for 'insubordination'",
-      "desc": "Stars and Stripes leaders told to pack their bags after they criticised Pentagon interference",
-      "source": "Times of Malta",
-      "url": "https://timesofmalta.com/article/pentagon-fires-military-newspaper-editor-publisher-insubordination.1133062",
-      "time": "2026-08-22T06:06:38",
-      "country": "International",
-      "title_ur": "Pentagon fires military newspaper editor and publisher for 'insubordination'",
-      "desc_ur": "Stars and Stripes leaders told to pack their bags after they criticised Pentagon interference"
-    },
-    {
-      "title": "Qatar cuts state spending as economy contracts due to US-Iran conflict",
-      "desc": "Qatar's economic contraction highlights the vulnerability of energy-dependent economies to geopolitical tensions, impacting global energy stability.\nThe post Qatar cuts state spending as economy contracts due to US-Iran conflict appeared first on Crypto Brief…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/qatar-spending-cuts-economy-us-iran-conflict/",
-      "time": "2026-08-22T06:05:18",
-      "country": "Iran",
-      "title_ur": "Qatar cuts state spending as economy contracts due to US-Iran conflict",
-      "desc_ur": "Qatar's economic contraction highlights the vulnerability of energy-dependent economies to geopolitical tensions, impacting global energy stability.\nThe post Qatar cuts state spending as economy contracts due to US-Iran conflict appeared first on Crypto Brief…"
-    },
-    {
-      "title": "US hits Canadian goods with 50% tariffs, Mark Carney vows to retaliate",
-      "desc": "The US tariffs kicked in Saturday on hundreds of items the US buys from Canada, such as plywood, liquor, electrical equipment and hockey gear, totaling around $20 billion",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/world-news/us-hits-canadian-goods-with-50-tariffs-mark-carney-vows-to-retaliate-126082200305_1.html",
-      "time": "2026-08-22T06:00:55",
-      "country": "US",
-      "title_ur": "US hits Canadian goods with 50% tariffs, Mark Carney vows to retaliate",
-      "desc_ur": "The US tariffs kicked in Saturday on hundreds of items the US buys from Canada, such as plywood, liquor, electrical equipment and hockey gear, totaling around $20 billion"
-    },
-    {
-      "title": "Rolly Romero vs. Teofimo Lopez live results, round-by-round updates, ring walks, start time for tonight's WBA title fight",
-      "desc": "Follow Rolando \"Rolly\" Romero vs. Teofimo Lopez live results and round-by-round updates for the Romero vs. Lopez fight card on Saturday in Las Vegas.",
-      "source": "Yahoo Entertainment",
-      "url": "https://sports.yahoo.com/boxing/live/rolly-romero-vs-teofimo-lopez-live-results-round-by-round-updates-ring-walks-start-time-for-tonights-wba-title-fight-060000303.html",
-      "time": "2026-08-22T06:00:00",
-      "country": "International",
-      "title_ur": "Rolly Romero vs. Teofimo Lopez live results, round-by-round updates, ring walks, start time for tonight's WBA title fight",
-      "desc_ur": "Follow Rolando \"Rolly\" Romero vs. Teofimo Lopez live results and round-by-round updates for the Romero vs. Lopez fight card on Saturday in Las Vegas."
-    },
-    {
-      "title": "Treasury Secretary Bessent Promises New Iran Measures Amid Stalemate",
-      "desc": "Treasury Secretary Scott Bessent promised over the weekend that the United States will impose economic isolation measures “never seen” in history, according to a report by David Stockman published by Antiwar.com on Aug. 20. The announcement came about six mon…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-08-22-bessent-promises-new-iran-measures-amid-stalemate.html",
-      "time": "2026-08-22T06:00:00",
-      "country": "Iran",
-      "title_ur": "Treasury Secretary Bessent Promises New Iran Measures Amid Stalemate",
-      "desc_ur": "Treasury Secretary Scott Bessent promised over the weekend that the United States will impose economic isolation measures “never seen” in history, according to a report by David Stockman published by Antiwar.com on Aug. 20. The announcement came about six mon…"
     }
   ],
   "pakistan": [
+    {
+      "title": "'Repeatedly tortured': Imran Khan's sister alleges abuse in jail as ex-Pakistan PM returns to prison",
+      "desc": "Pakistan News: Pakistan's jailed former Prime Minister Imran Khan repeatedly told his sister that he was being tortured in prison, she said on Friday, shortly after .",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/pakistan/repeatedly-tortured-imran-khans-sister-alleges-abuse-in-jail-as-ex-pakistan-pm-returns-to-prison/articleshow/133419016.cms",
+      "time": "2026-08-22T07:50:58",
+      "country": "Pakistan",
+      "title_ur": "'Repeatedly tortured': Imran Khan's sister alleges abuse in jail as ex-Pakistan PM returns to prison",
+      "desc_ur": "Pakistan News: Pakistan's jailed former Prime Minister Imran Khan repeatedly told his sister that he was being tortured in prison, she said on Friday, shortly after ."
+    },
     {
       "title": "England crush Pakistan by an innings and 103 runs in Headingley Test opener",
       "desc": "England wrapped up an innings win over Pakistan inside three days in the first test on Friday, delivering a strong start to the post-Bazball era under returning captain Joe Root.\nDismissed for 409 around 40 minutes into day three, England took a 238-run advan…",
@@ -182,16 +192,6 @@
       "country": "Pakistan",
       "title_ur": "Football in Nigeria and the Teslim Balogun’s enduring legacies (1927-1972)",
       "desc_ur": "By Hon. Femi Kehinde Harold Macmillian, the British Prime Minister, and his wife visited Nigeria in 1960 on the threshold of it’s Independence, to bid Nigeria farewell from the Union Jack. After the national reception and discussions in Lagos, he visited Ibad…"
-    },
-    {
-      "title": "News Summary-Intelligence Report 8/21/2026*Newsdump Friday*Palestinians Killed West Bank Incidents*Pentagon Shakes Up Military Newspaper*China Rejects US Iran Economic War*US Delays Beef Tariffs*756 Wounded Iran War*Imran Khan Quickly...*",
-      "desc": "Join in supporting Free Republic... US-Canada trade talks broke down late tonight just days after President Trump claimed a deal was reached... A high-profile social media addiction lawsuit dropped by a teenage... Two Palestinians killed in separate incidents…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-bloggers/4392715/posts",
-      "time": "2026-08-22T05:10:21",
-      "country": "Pakistan",
-      "title_ur": "News Summary-Intelligence Report 8/21/2026*Newsdump Friday*Palestinians Killed West Bank Incidents*Pentagon Shakes Up Military Newspaper*China Rejects US Iran Economic War*US Delays Beef Tariffs*756 Wounded Iran War*Imran Khan Quickly...*",
-      "desc_ur": "Join in supporting Free Republic... US-Canada trade talks broke down late tonight just days after President Trump claimed a deal was reached... A high-profile social media addiction lawsuit dropped by a teenage... Two Palestinians killed in separate incidents…"
     }
   ],
   "business": {
