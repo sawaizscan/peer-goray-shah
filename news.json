@@ -1,6 +1,76 @@
 {
-  "generated": "2026-08-24T21:26:30Z",
+  "generated": "2026-08-24T21:53:14Z",
   "world": [
+    {
+      "title": "Syria tells Israel it won't limit military buildup in security deal talks",
+      "desc": "Syrian state media said Damascus insisted on its right to develop its military and maintain foreign alliances, while seeking an end to Israeli strikes and a withdrawal to lines held before December 2024",
+      "source": "Haaretz",
+      "url": "https://www.haaretz.com/israel-news/israel-security/2026-08-24/ty-article/syria-tells-israel-it-wont-limit-military-buildup-in-security-deal-talks/000001a0-308d-dc1a-abac-f2ffa0080000",
+      "time": "2026-08-23T21:52:13",
+      "country": "Israel",
+      "title_ur": "Syria tells Israel it won't limit military buildup in security deal talks",
+      "desc_ur": "Syrian state media said Damascus insisted on its right to develop its military and maintain foreign alliances, while seeking an end to Israeli strikes and a withdrawal to lines held before December 2024"
+    },
+    {
+      "title": "US said to mediate Syria, Israel de-escalation talks",
+      "desc": "High-level Syrian and Israeli officials held US-mediated talks in Jordan aimed at putting a stop to recent strikes and de-escalating regional tensions, according to Syria's National News Agency (SANA)...",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/d780d204a8a3bca9",
+      "time": "2026-08-23T21:51:29",
+      "country": "Israel",
+      "title_ur": "US said to mediate Syria, Israel de-escalation talks",
+      "desc_ur": "High-level Syrian and Israeli officials held US-mediated talks in Jordan aimed at putting a stop to recent strikes and de-escalating regional tensions, according to Syria's National News Agency (SANA)..."
+    },
+    {
+      "title": "Treasury Secretary to announce Iran sanctions as Tehran dismisses economic warfare threat",
+      "desc": "Treasury Secretary Scott Bessent will hold a press conference Monday to announce sanctions against Iran that he has described as the greatest campaign of \"coordinated economic isolation in the history of the world.\"\n\"We are going to have the toughest sanction…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/58fcd5ef9a1de73e",
+      "time": "2026-08-23T21:51:27",
+      "country": "Iran",
+      "title_ur": "Treasury Secretary to announce Iran sanctions as Tehran dismisses economic warfare threat",
+      "desc_ur": "Treasury Secretary Scott Bessent will hold a press conference Monday to announce sanctions against Iran that he has described as the greatest campaign of \"coordinated economic isolation in the history of the world.\"\n\"We are going to have the toughest sanction…"
+    },
+    {
+      "title": "As Trump administration readies economic warfare measures against Iran, top security official vows retaliation ‘in a seismic manner’",
+      "desc": "The new head of Iran’s top security body warned Sunday that Tehran will see any country’s support for new U.S. economic measures against the Islamic Republic as an “act of war,” while Iran’s president defended a memorandum of understanding with the United Sta…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/2b7ef1907ae2931a",
+      "time": "2026-08-23T21:51:25",
+      "country": "Iran",
+      "title_ur": "As Trump administration readies economic warfare measures against Iran, top security official vows retaliation ‘in a seismic manner’",
+      "desc_ur": "The new head of Iran’s top security body warned Sunday that Tehran will see any country’s support for new U.S. economic measures against the Islamic Republic as an “act of war,” while Iran’s president defended a memorandum of understanding with the United Sta…"
+    },
+    {
+      "title": "Zelensky rejects rival’s call for vote, says it would ‘split’ Ukraine",
+      "desc": "President Zelensky rejects calls for an election during wartime, stating it would “split Ukraine.” Discover the risks and political tensions in Kyiv.\n\nRead More: https://punchng.com/zelensky-rejects-rivals-call-for-vote-says-it-would-split-ukraine/",
+      "source": "The Punch",
+      "url": "https://punchng.com/zelensky-rejects-rivals-call-for-vote-says-it-would-split-ukraine/",
+      "time": "2026-08-23T21:39:44",
+      "country": "UK",
+      "title_ur": "Zelensky rejects rival’s call for vote, says it would ‘split’ Ukraine",
+      "desc_ur": "President Zelensky rejects calls for an election during wartime, stating it would “split Ukraine.” Discover the risks and political tensions in Kyiv.\n\nRead More: https://punchng.com/zelensky-rejects-rivals-call-for-vote-says-it-would-split-ukraine/"
+    },
+    {
+      "title": "Will Donald Trump’s new sanctions against Iran work?",
+      "desc": "The US president says he will impose 'crushing measures' on Tehran.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/23/will-donald-trumps-new-sanctions-against-iran-work",
+      "time": "2026-08-23T21:34:53",
+      "country": "Iran",
+      "title_ur": "Will Donald Trump’s new sanctions against Iran work?",
+      "desc_ur": "The US president says he will impose 'crushing measures' on Tehran."
+    },
+    {
+      "title": "What will it take to stop the England hangovers?",
+      "desc": "Yet again, England are dealing with a player involved in a late-night incident. Only strong action will ensure there are no more, writes Stephan Shemilt.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/cricket/articles/clyey486g4eo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "time": "2026-08-23T21:31:09",
+      "country": "International",
+      "title_ur": "What will it take to stop the England hangovers?",
+      "desc_ur": "Yet again, England are dealing with a player involved in a late-night incident. Only strong action will ensure there are no more, writes Stephan Shemilt."
+    },
     {
       "title": "US envoy Tom Barrack retracts comment that Syria’s Golan is occupied",
       "desc": "Ambassador to Turkiye says US policy of recognising Israel's claimed sovereignty over Syrian territory is 'unchanged'.",
@@ -30,16 +100,6 @@
       "country": "Israel",
       "title_ur": "Two European Parliament members barred from entering Israel",
       "desc_ur": "Foreign Minister Sa’ar asks the Population and Immigration Authority to prevent entry to Swedish lawmakers who were scheduled to land in Israel en route to the Palestinian Authority."
-    },
-    {
-      "title": "As Trump administration readies economic warfare measures against Iran, top security official vows retaliation ‘in a seismic manner’",
-      "desc": "Treasury Secretary Scott Bessent on Monday is expected to announce the new measures after the U.S. vowed to impose an “unprecedented” level of economic warfare and isolation.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/08/23/trump-economic-warfare-iran-sanctions-military-retaliation/",
-      "time": "2026-08-23T21:09:47",
-      "country": "Iran",
-      "title_ur": "As Trump administration readies economic warfare measures against Iran, top security official vows retaliation ‘in a seismic manner’",
-      "desc_ur": "Treasury Secretary Scott Bessent on Monday is expected to announce the new measures after the U.S. vowed to impose an “unprecedented” level of economic warfare and isolation."
     },
     {
       "title": "Florida Democrats hand Republicans a November gift",
@@ -90,66 +150,6 @@
       "country": "US",
       "title_ur": "Cowboys depth chart becomes clearer in win at Cardinals",
       "desc_ur": "The Cowboys learned more about players they can trust in Saturday’s win."
-    },
-    {
-      "title": "U.S. Navy’s post-Iran choice includes 2 stark directions",
-      "desc": "'We can spend the next few years talking ... or we can decide to get better'",
-      "source": "Wnd.com",
-      "url": "https://www.wnd.com/2026/08/u-s-navys-post-iran-choice-includes-2/",
-      "time": "2026-08-23T20:58:14",
-      "country": "Iran",
-      "title_ur": "U.S. Navy’s post-Iran choice includes 2 stark directions",
-      "desc_ur": "'We can spend the next few years talking ... or we can decide to get better'"
-    },
-    {
-      "title": "A US envoy clarifies his comments on Golan Heights that contradicted Trump's position",
-      "desc": "The U.S. special envoy to Syria and ambassador to Turkey has clarified his comments on Israel's occupation of the Golan Heights",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/International/wireStory/us-envoy-clarifies-comments-golan-heights-contradicted-trumps-135887479",
-      "time": "2026-08-23T20:56:14",
-      "country": "Israel",
-      "title_ur": "A US envoy clarifies his comments on Golan Heights that contradicted Trump's position",
-      "desc_ur": "The U.S. special envoy to Syria and ambassador to Turkey has clarified his comments on Israel's occupation of the Golan Heights"
-    },
-    {
-      "title": "Healthcare AI sandbox points to the next regulatory test: Autonomous medicine",
-      "desc": "AI technology will only earn public trust if it is introduced through transparent evidence, robust oversight and clear accountability. Israel’s regulatory sandbox is therefore an important test case. \nThe post Healthcare AI sandbox points to the next regulato…",
-      "source": "Digital Journal",
-      "url": "https://www.digitaljournal.com/article/healthcare-ai-sandbox-points-to-the-next-regulatory-test-autonomous-medicine/",
-      "time": "2026-08-23T20:53:46",
-      "country": "Israel",
-      "title_ur": "Healthcare AI sandbox points to the next regulatory test: Autonomous medicine",
-      "desc_ur": "AI technology will only earn public trust if it is introduced through transparent evidence, robust oversight and clear accountability. Israel’s regulatory sandbox is therefore an important test case. \nThe post Healthcare AI sandbox points to the next regulato…"
-    },
-    {
-      "title": "Trump Administration Set To Unleash ‘Economic Warfare’ Against Iran To Force a Nuclear Deal: CNN",
-      "desc": "The US is reportedly set to unleash \"economic warfare\" against Iran, since traditional warfare against the Islamic State has failed to secure a nuclear deal.\nThe post Trump Administration Set To Unleash ‘Economic Warfare’ Against Iran To Force a Nuclear Deal:…",
-      "source": "Mediaite",
-      "url": "https://www.mediaite.com/media/news/trump-administration-set-to-unleash-economic-warfare-against-iran-to-force-a-nuclear-deal-cnn/",
-      "time": "2026-08-23T20:50:45",
-      "country": "Iran",
-      "title_ur": "Trump Administration Set To Unleash ‘Economic Warfare’ Against Iran To Force a Nuclear Deal: CNN",
-      "desc_ur": "The US is reportedly set to unleash \"economic warfare\" against Iran, since traditional warfare against the Islamic State has failed to secure a nuclear deal.\nThe post Trump Administration Set To Unleash ‘Economic Warfare’ Against Iran To Force a Nuclear Deal:…"
-    },
-    {
-      "title": "Lioness Recap: Time’s Not On Our Side",
-      "desc": "Another week of flashing forward and jumping back across the timeline is making for an increasingly disjointed, unsatisfying viewing experience.",
-      "source": "Vulture",
-      "url": "http://www.vulture.com/article/lioness-recap-season-3-episode-4-paramount-plus.html",
-      "time": "2026-08-23T20:50:17",
-      "country": "International",
-      "title_ur": "Lioness Recap: Time’s Not On Our Side",
-      "desc_ur": "Another week of flashing forward and jumping back across the timeline is making for an increasingly disjointed, unsatisfying viewing experience."
-    },
-    {
-      "title": "Mike Pence Urges Trump to Escalate Iran War, Says More Action 'Inevitable'",
-      "desc": "Former Vice President Mike Pence said Sunday that President Donald Trump and Israel may soon have to \"finish the job\" in Iran, arguing that further military action is likely despite the administration's growing reliance on economic pressure and sanctions.\nPen…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/7fb9151f74a698fe",
-      "time": "2026-08-23T20:49:57",
-      "country": "Iran",
-      "title_ur": "Mike Pence Urges Trump to Escalate Iran War, Says More Action 'Inevitable'",
-      "desc_ur": "Former Vice President Mike Pence said Sunday that President Donald Trump and Israel may soon have to \"finish the job\" in Iran, arguing that further military action is likely despite the administration's growing reliance on economic pressure and sanctions.\nPen…"
     }
   ],
   "pakistan": [
