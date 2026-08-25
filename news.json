@@ -1,6 +1,76 @@
 {
-  "generated": "2026-08-25T22:52:42Z",
+  "generated": "2026-08-25T23:19:33Z",
   "world": [
+    {
+      "title": "Iran vows to withstand new US sanctions, says Washington faces 'another defeat'",
+      "desc": "Iran's economy minister says Tehran has a two-year plan to counter new US sanctions after Washington announces a sweeping economic campaign.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/432184",
+      "time": "2026-08-24T23:16:28",
+      "country": "Iran",
+      "title_ur": "Iran vows to withstand new US sanctions, says Washington faces 'another defeat'",
+      "desc_ur": "Iran's economy minister says Tehran has a two-year plan to counter new US sanctions after Washington announces a sweeping economic campaign."
+    },
+    {
+      "title": "Mayhem in the Middle East hasn’t dampened Israel’s tourism industry",
+      "desc": "“You wouldn’t know the country was in chaos. Beaches are packed. The big obstacle is getting a reservation at a coveted restaurant.\"",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/24/opinion/mayhem-in-the-middle-east-hasnt-dampened-israels-tourism-industry/",
+      "time": "2026-08-24T23:15:21",
+      "country": "Israel",
+      "title_ur": "Mayhem in the Middle East hasn’t dampened Israel’s tourism industry",
+      "desc_ur": "“You wouldn’t know the country was in chaos. Beaches are packed. The big obstacle is getting a reservation at a coveted restaurant.\""
+    },
+    {
+      "title": "Team Trump moves to asphyxiate the Iranian menace — hooray!",
+      "desc": "Treasury Secretary Scott Bessent fired a powerful shot across Tehran's bow Monday by rolling out “Operation Economic Outcast.”",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/08/24/opinion/team-trump-moves-to-asphyxiate-the-iranian-menace-hooray/",
+      "time": "2026-08-24T23:08:19",
+      "country": "Iran",
+      "title_ur": "Team Trump moves to asphyxiate the Iranian menace — hooray!",
+      "desc_ur": "Treasury Secretary Scott Bessent fired a powerful shot across Tehran's bow Monday by rolling out “Operation Economic Outcast.”"
+    },
+    {
+      "title": "A look at the new U.S. sanctions on Iran and threats against its trading partners",
+      "desc": "The U.S. launched what the Trump administration calls \"Operation Economic Outcast\" against Iran. It includes threats to increase sanctions on Iran's trading partners. The pressure comes as the administration indicates it is trying to avoid returning to war, b…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/4448e6809315358a",
+      "time": "2026-08-24T23:02:24",
+      "country": "Iran",
+      "title_ur": "A look at the new U.S. sanctions on Iran and threats against its trading partners",
+      "desc_ur": "The U.S. launched what the Trump administration calls \"Operation Economic Outcast\" against Iran. It includes threats to increase sanctions on Iran's trading partners. The pressure comes as the administration indicates it is trying to avoid returning to war, b…"
+    },
+    {
+      "title": "Hakeem Jeffries meets with Jared Kushner—for no damn reason",
+      "desc": "It's a bad look for Kushner, and an even worse look for Jeffries.",
+      "source": "Dailykos.com",
+      "url": "http://www.dailykos.com/stories/2026/8/24/800088871/congress/hakeem-jeffries-meets-with-jared-kushner-for-no-damn-reason/",
+      "time": "2026-08-24T23:01:00",
+      "country": "US",
+      "title_ur": "Hakeem Jeffries meets with Jared Kushner—for no damn reason",
+      "desc_ur": "It's a bad look for Kushner, and an even worse look for Jeffries."
+    },
+    {
+      "title": "Venezuela’s Oil Revival Is Slower Than the U.S. Hoped",
+      "desc": "More than half a year after the U.S. captured and extracted Nicolas Maduro from Venezuela, the biggest American oil firms haven’t returned to operating oilfields in the world’s largest oil reserves holder. Chevron, which has operated in Venezuela throughout M…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Venezuelas-Oil-Revival-Is-Slower-Than-the-US-Hoped.html",
+      "time": "2026-08-24T23:00:00",
+      "country": "US",
+      "title_ur": "Venezuela’s Oil Revival Is Slower Than the U.S. Hoped",
+      "desc_ur": "More than half a year after the U.S. captured and extracted Nicolas Maduro from Venezuela, the biggest American oil firms haven’t returned to operating oilfields in the world’s largest oil reserves holder. Chevron, which has operated in Venezuela throughout M…"
+    },
+    {
+      "title": "Putin ‘panicked’ as defiant Ukraine marks Independence Day under Russian bombardment",
+      "desc": "Ukraine celebrated 35 years of independence amid fresh Russian attacks as an expert said Kyiv’s deep strikes and battlefield pressure have left Putin rattled.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/world/putin-panicked-defiant-ukraine-marks-independence-day-under-russian-bombardment",
+      "time": "2026-08-24T22:53:40",
+      "country": "Russia",
+      "title_ur": "Putin ‘panicked’ as defiant Ukraine marks Independence Day under Russian bombardment",
+      "desc_ur": "Ukraine celebrated 35 years of independence amid fresh Russian attacks as an expert said Kyiv’s deep strikes and battlefield pressure have left Putin rattled."
+    },
     {
       "title": "Stock Market Today: Dow Rises, Nasdaq, S&P 500 Down; Nvidia, Micron, Marvell, Super Micro, More Movers - Barron's",
       "desc": "Stock Market Today: Dow Rises, Nasdaq, S&P 500 Down; Nvidia, Micron, Marvell, Super Micro, More MoversBarron's Stock market today: S&P 500, Nasdaq fall as chip stocks sink, US unveils new Iran sanctionsYahoo Finance Wall Street drifts at the start of a week t…",
@@ -20,16 +90,6 @@
       "country": "US",
       "title_ur": "Mark Ruffalo hulks out with hate with antisemitic rant on Paramount-Warner Bros. merger",
       "desc_ur": "Mark Ruffalo chose to speak up on the Paramount merger with Warner Bros. by bringing up the world’s sole Jewish state and accuse one Jewish billionaire of trying to “crush” the rest of us."
-    },
-    {
-      "title": "A look at the new U.S. sanctions on Iran and threats against its trading partners",
-      "desc": "The U.S. launched what the Trump administration calls \"Operation Economic Outcast\" against Iran. It includes threats to increase sanctions on Iran's trading partners. The pressure comes as the administration indicates it is trying to avoid returning to war, b…",
-      "source": "PBS",
-      "url": "https://www.pbs.org/newshour/show/a-look-at-the-new-u-s-sanctions-on-iran-and-threats-against-its-trading-partners",
-      "time": "2026-08-24T22:50:12",
-      "country": "Iran",
-      "title_ur": "A look at the new U.S. sanctions on Iran and threats against its trading partners",
-      "desc_ur": "The U.S. launched what the Trump administration calls \"Operation Economic Outcast\" against Iran. It includes threats to increase sanctions on Iran's trading partners. The pressure comes as the administration indicates it is trying to avoid returning to war, b…"
     },
     {
       "title": "Florida Startup Making Low-Cost Drone Interceptors for the Iran War",
@@ -90,66 +150,6 @@
       "country": "International",
       "title_ur": "Punishment to send a shiver needed - Vaughan",
       "desc_ur": "A punishment to “send a shiver down the whole team” may be needed after Brydon Carse became the latest England cricketer involved in a drinking controversy, according to Michael Vaughan."
-    },
-    {
-      "title": "Punishment that sends shiver down whole England team needed - Vaughan",
-      "desc": "A punishment to “send a shiver down the whole team” may be needed after Brydon Carse became the latest England cricketer involved in a drinking controversy, according to Michael Vaughan.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/cricket/articles/cx2zn3exqj7o",
-      "time": "2026-08-24T22:42:38",
-      "country": "International",
-      "title_ur": "Punishment that sends shiver down whole England team needed - Vaughan",
-      "desc_ur": "A punishment to “send a shiver down the whole team” may be needed after Brydon Carse became the latest England cricketer involved in a drinking controversy, according to Michael Vaughan."
-    },
-    {
-      "title": "Kacey Musgraves divides fans with immigrant children’s plea, faces boycott calls to ‘shut up and sing’",
-      "desc": "Kacey Musgraves asked fans to donate to the Young Center for Immigrant Children's Rights during her tour opener, sparking a divided reaction on social media.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/entertainment/kacey-musgraves-divides-fans-immigrant-children-plea-faces-boycott-calls-shut-up-sing",
-      "time": "2026-08-24T22:41:36",
-      "country": "US",
-      "title_ur": "Kacey Musgraves divides fans with immigrant children’s plea, faces boycott calls to ‘shut up and sing’",
-      "desc_ur": "Kacey Musgraves asked fans to donate to the Young Center for Immigrant Children's Rights during her tour opener, sparking a divided reaction on social media."
-    },
-    {
-      "title": "Here's what Jim Cramer says stock investors need to know about the bond market",
-      "desc": "Cramer said investors should watch long-term Treasury yields, which have surged amid inflation concerns, government borrowing and AI-related corporate debt issuances.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/24/jim-cramer-stock-investors-know-bond-market.html",
-      "time": "2026-08-24T22:40:01",
-      "country": "International",
-      "title_ur": "Here's what Jim Cramer says stock investors need to know about the bond market",
-      "desc_ur": "Cramer said investors should watch long-term Treasury yields, which have surged amid inflation concerns, government borrowing and AI-related corporate debt issuances."
-    },
-    {
-      "title": "S&P 500 and Nasdaq end lower as tech stocks decline ahead of Nvidia earnings",
-      "desc": "Market volatility highlights the tech sector's vulnerability to geopolitical tensions and regulatory scrutiny, impacting investor confidence.\nThe post S&P 500 and Nasdaq end lower as tech stocks decline ahead of Nvidia earnings appeared first on Crypto Briefi…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/sp500-nasdaq-lower-tech-nvidia-earnings/",
-      "time": "2026-08-24T22:35:19",
-      "country": "International",
-      "title_ur": "S&P 500 and Nasdaq end lower as tech stocks decline ahead of Nvidia earnings",
-      "desc_ur": "Market volatility highlights the tech sector's vulnerability to geopolitical tensions and regulatory scrutiny, impacting investor confidence.\nThe post S&P 500 and Nasdaq end lower as tech stocks decline ahead of Nvidia earnings appeared first on Crypto Briefi…"
-    },
-    {
-      "title": "U.S. withdraws from military exercises with South Korea set for next month - The Washington Post",
-      "desc": "U.S. withdraws from military exercises with South Korea set for next monthThe Washington Post U.S. Cancels Marines Drills With South KoreaWSJ Trump's Kim gambit deepens doubts over US reliability at a key moment for AsiaReuters U.S. Marines Cancel Drill With …",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185137086",
-      "time": "2026-08-24T22:33:30",
-      "country": "US",
-      "title_ur": "U.S. withdraws from military exercises with South Korea set for next month - The Washington Post",
-      "desc_ur": "U.S. withdraws from military exercises with South Korea set for next monthThe Washington Post U.S. Cancels Marines Drills With South KoreaWSJ Trump's Kim gambit deepens doubts over US reliability at a key moment for AsiaReuters U.S. Marines Cancel Drill With …"
-    },
-    {
-      "title": "Trump Is Losing Touch With the Public",
-      "desc": "As the president spends less time with his base at rallies, his populist instincts are failing him.",
-      "source": "The Atlantic",
-      "url": "https://www.theatlantic.com/newsletters/2026/08/trump-out-of-touch-public-data-centers/688402/",
-      "time": "2026-08-24T22:31:00",
-      "country": "US",
-      "title_ur": "Trump Is Losing Touch With the Public",
-      "desc_ur": "As the president spends less time with his base at rallies, his populist instincts are failing him."
     }
   ],
   "pakistan": [],
@@ -169,7 +169,7 @@
         "low": 28,
         "condition": "Clear",
         "condition_ur": "صاف",
-        "precip": 4
+        "precip": 6
       },
       {
         "date": "2026-08-27",
@@ -178,7 +178,7 @@
         "low": 28,
         "condition": "Clear",
         "condition_ur": "صاف",
-        "precip": 10
+        "precip": 6
       },
       {
         "date": "2026-08-28",
@@ -187,7 +187,7 @@
         "low": 28,
         "condition": "Light Drizzle",
         "condition_ur": "ہلکی بوندا باندی",
-        "precip": 16
+        "precip": 10
       },
       {
         "date": "2026-08-29",
@@ -196,7 +196,7 @@
         "low": 29,
         "condition": "Mainly Clear",
         "condition_ur": "زیادہ تر صاف",
-        "precip": 41
+        "precip": 20
       },
       {
         "date": "2026-08-30",
@@ -205,7 +205,7 @@
         "low": 30,
         "condition": "Mainly Clear",
         "condition_ur": "زیادہ تر صاف",
-        "precip": 37
+        "precip": 22
       },
       {
         "date": "2026-08-31",
@@ -214,7 +214,7 @@
         "low": 28,
         "condition": "Light Drizzle",
         "condition_ur": "ہلکی بوندا باندی",
-        "precip": 29
+        "precip": 47
       },
       {
         "date": "2026-09-01",
@@ -223,7 +223,7 @@
         "low": 27,
         "condition": "Light Drizzle",
         "condition_ur": "ہلکی بوندا باندی",
-        "precip": 51
+        "precip": 39
       }
     ]
   },
