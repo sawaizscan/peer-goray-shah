@@ -1,158 +1,168 @@
 {
-  "generated": "2026-08-25T20:53:55Z",
+  "generated": "2026-08-25T21:20:53Z",
   "world": [
     {
-      "title": "The view from a very angry Canada",
-      "desc": "This story appeared in Today, Explained, a daily newsletter that helps you understand the most compelling news and stories of the day. Subscribe here. President Donald Trump is putting the “war” in “trade war.” Or so his senior officials really want you to be…",
-      "source": "Vox",
-      "url": "https://www.vox.com/today-explained-newsletter/498938/us-canada-trade-war",
-      "time": "2026-08-24T20:50:09",
-      "country": "US",
-      "title_ur": "The view from a very angry Canada",
-      "desc_ur": "This story appeared in Today, Explained, a daily newsletter that helps you understand the most compelling news and stories of the day. Subscribe here. President Donald Trump is putting the “war” in “trade war.” Or so his senior officials really want you to be…"
-    },
-    {
-      "title": "Video: Iran reacts to US ‘economic D-Day’ sanctions",
-      "desc": "Iran’s Minister of Economy Ali Madani-Zadeh has responded to the US announcement of a new economic pressure campaign.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-iran-reacts-to-us-economic-d-day-sanctions",
-      "time": "2026-08-24T20:48:21",
+      "title": "Bessent Unveils Iran Sanctions Regime He Admits Could “Blow Up” Global Economy",
+      "desc": "The treasury secretary pledged to “sever every economic lifeline” to Iran and its 92 million residents.",
+      "source": "Truthout",
+      "url": "https://truthout.org/articles/bessent-unveils-iran-sanctions-regime-he-admits-could-blow-up-global-economy/",
+      "time": "2026-08-24T21:16:20",
       "country": "Iran",
-      "title_ur": "Video: Iran reacts to US ‘economic D-Day’ sanctions",
-      "desc_ur": "Iran’s Minister of Economy Ali Madani-Zadeh has responded to the US announcement of a new economic pressure campaign."
+      "title_ur": "Bessent Unveils Iran Sanctions Regime He Admits Could “Blow Up” Global Economy",
+      "desc_ur": "The treasury secretary pledged to “sever every economic lifeline” to Iran and its 92 million residents."
     },
     {
-      "title": "Van Hollen: Trump Has 'Committed Impeachable Offenses'",
-      "desc": "Monday on MS NOW’s “State of Play,” Sen. Chris Van Hollen (D-MD) said President Donald Trump has “committed impeachable offenses.” Host Peter Alexander said, “There are some grassroots Democrats who have said that if Democrats take control of the House, perha…",
-      "source": "Breitbart News",
-      "url": "https://www.breitbart.com/clips/2026/08/24/van-hollen-trump-has-committed-impeachable-offenses/",
-      "time": "2026-08-24T20:46:54",
-      "country": "US",
-      "title_ur": "Van Hollen: Trump Has 'Committed Impeachable Offenses'",
-      "desc_ur": "Monday on MS NOW’s “State of Play,” Sen. Chris Van Hollen (D-MD) said President Donald Trump has “committed impeachable offenses.” Host Peter Alexander said, “There are some grassroots Democrats who have said that if Democrats take control of the House, perha…"
-    },
-    {
-      "title": "Canada Tariffs, Again",
-      "desc": "Plus, a new Iran sanctions campaign.",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/763f02a7dc2431af",
-      "time": "2026-08-24T20:45:54",
-      "country": "Iran",
-      "title_ur": "Canada Tariffs, Again",
-      "desc_ur": "Plus, a new Iran sanctions campaign."
-    },
-    {
-      "title": "Displaced Palestinian builds mud shelter as tents offer little relief",
-      "desc": "A displaced Palestinian has built a traditional mud-brick house as an alternative to tents.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinian-builds-mud-shelter-as-tents-offer-little-relief",
-      "time": "2026-08-24T20:45:51",
-      "country": "US",
-      "title_ur": "Displaced Palestinian builds mud shelter as tents offer little relief",
-      "desc_ur": "A displaced Palestinian has built a traditional mud-brick house as an alternative to tents."
-    },
-    {
-      "title": "Iran will be able to shrug off America’s financial threats",
-      "desc": "In the face of fresh sanctions, the regime is defiant",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/61250f7797e97a1e",
-      "time": "2026-08-24T20:45:37",
-      "country": "Iran",
-      "title_ur": "Iran will be able to shrug off America’s financial threats",
-      "desc_ur": "In the face of fresh sanctions, the regime is defiant"
-    },
-    {
-      "title": "Tech Stocks Drop at the Start of a Big Week",
-      "desc": "US stocks drifted to a mixed finish on Monday as the countdown ticked toward potentially market-moving events coming later in the week. The S&P 500 fell 21.51 points, or 0.3%, to 7,652.86, pulling further from its record set earlier this month. The Dow Jones …",
-      "source": "Newser",
-      "url": "https://www.newser.com/story/395202/tech-stocks-drop-at-the-start-of-a-big-week.html",
-      "time": "2026-08-24T20:45:00",
-      "country": "US",
-      "title_ur": "Tech Stocks Drop at the Start of a Big Week",
-      "desc_ur": "US stocks drifted to a mixed finish on Monday as the countdown ticked toward potentially market-moving events coming later in the week. The S&P 500 fell 21.51 points, or 0.3%, to 7,652.86, pulling further from its record set earlier this month. The Dow Jones …"
-    },
-    {
-      "title": "Netanyahu welcomes new US sanctions on Iran: A steep price",
-      "desc": "Prime Minister Benjamin Netanyahu welcomes new US sanctions against Iran, praising Trump and Bessent for imposing a steep price on the regime.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/432181",
-      "time": "2026-08-24T20:44:23",
-      "country": "Iran",
-      "title_ur": "Netanyahu welcomes new US sanctions on Iran: A steep price",
-      "desc_ur": "Prime Minister Benjamin Netanyahu welcomes new US sanctions against Iran, praising Trump and Bessent for imposing a steep price on the regime."
-    },
-    {
-      "title": "Bangladesh’s Sept LNG purchase to cost two times the pre-war rates",
-      "desc": "The government agreed to pay $24 per MMBtu, which was $10-$12 before February this year",
-      "source": "The Daily Star",
-      "url": "https://www.thedailystar.net/business/news/bangladeshs-sept-lng-purchase-cost-two-times-the-pre-war-rates-4255846",
-      "time": "2026-08-24T20:40:04",
-      "country": "International",
-      "title_ur": "Bangladesh’s Sept LNG purchase to cost two times the pre-war rates",
-      "desc_ur": "The government agreed to pay $24 per MMBtu, which was $10-$12 before February this year"
-    },
-    {
-      "title": "U.S. must be ‘very, very careful’ about Iran sanctions that target Beijing: Former Amb. to China",
-      "desc": "NBC News correspondents Monica Alba, Brian Cheung and Matt Bradley discuss Secretary Bessent’s new threat of Iran secondary sanctions as President Trump esca...",
-      "source": "Yahoo Entertainment",
-      "url": "https://www.yahoo.com/news/videos/u-must-very-very-careful-203914743.html",
-      "time": "2026-08-24T20:39:14",
-      "country": "Iran",
-      "title_ur": "U.S. must be ‘very, very careful’ about Iran sanctions that target Beijing: Former Amb. to China",
-      "desc_ur": "NBC News correspondents Monica Alba, Brian Cheung and Matt Bradley discuss Secretary Bessent’s new threat of Iran secondary sanctions as President Trump esca..."
-    },
-    {
-      "title": "Oil Retreats While Iran Pressure Builds",
-      "desc": "Crude prices declined as traders weighed new US sanctions pressure on Tehran.",
-      "source": "Rigzone",
-      "url": "https://www.rigzone.com/news/wire/oil_retreats_while_iran_pressure_builds-24-aug-2026-184448-article/",
-      "time": "2026-08-24T20:36:21",
-      "country": "Iran",
-      "title_ur": "Oil Retreats While Iran Pressure Builds",
-      "desc_ur": "Crude prices declined as traders weighed new US sanctions pressure on Tehran."
-    },
-    {
-      "title": "BREAKING: Chaos Erupts In Iran - Trump Launches Endgame WAR On IRGC",
-      "desc": "YouTube video - economic collapse picking up inside Iran.",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-bloggers/4392979/posts",
-      "time": "2026-08-24T20:36:02",
-      "country": "Iran",
-      "title_ur": "BREAKING: Chaos Erupts In Iran - Trump Launches Endgame WAR On IRGC",
-      "desc_ur": "YouTube video - economic collapse picking up inside Iran."
-    },
-    {
-      "title": "Hannah Einbinder Defends Mark Ruffalo’s Ellison Comments, Says Idea He’s Antisemitic Is ‘Ludicrous’",
-      "desc": "\"This is criticism of RIGHT WING technofeudalist oligarchs who are in the process of carrying out the largest media acquisition in history. Period end of story,\" the \"Hacks\" actress writes \nThe post Hannah Einbinder Defends Mark Ruffalo’s Ellison Comments, Sa…",
-      "source": "TheWrap",
-      "url": "https://www.thewrap.com/media-platforms/politics/hannah-einbinder-mark-ruffalo-ellison-comments-defense/",
-      "time": "2026-08-24T20:35:55",
-      "country": "US",
-      "title_ur": "Hannah Einbinder Defends Mark Ruffalo’s Ellison Comments, Says Idea He’s Antisemitic Is ‘Ludicrous’",
-      "desc_ur": "\"This is criticism of RIGHT WING technofeudalist oligarchs who are in the process of carrying out the largest media acquisition in history. Period end of story,\" the \"Hacks\" actress writes \nThe post Hannah Einbinder Defends Mark Ruffalo’s Ellison Comments, Sa…"
-    },
-    {
-      "title": "'The big question is over China' as US threatens secondary sanctions",
-      "desc": "With the US Treasury Secretary Scott Bessent set to announce the 'greatest financial offensive ever' against Iran, Roland sits ...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/eb480edfa5dd7435",
-      "time": "2026-08-24T20:34:03",
-      "country": "Iran",
-      "title_ur": "'The big question is over China' as US threatens secondary sanctions",
-      "desc_ur": "With the US Treasury Secretary Scott Bessent set to announce the 'greatest financial offensive ever' against Iran, Roland sits ..."
-    },
-    {
-      "title": "Bessent threatens new Iran secondary sanctions, says Trump asking world leaders to cooperate - NBC News",
-      "desc": "Bessent threatens new Iran secondary sanctions, says Trump asking world leaders to cooperateNBC News Photos of daily life in Tehran as Iran braces for new US sanctionsAP News Bessent unveils sweeping campaign of sanctions and pressure against IranThe Washingt…",
+      "title": "Hochul expects ‘helpful’ Mamdani in her reelection bid - Politico",
+      "desc": "Hochul expects ‘helpful’ Mamdani in her reelection bidPolitico ‘Pay attention to New York, not Israel’ Hochul tells Zohran Mamdani in NYT interviewThe Jerusalem Post Hochul urges Mamdani to focus on NYC over IsraelJewish Telegraphic Agency Hochul’s Advice for…",
       "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185135220",
-      "time": "2026-08-24T20:33:27",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185135806",
+      "time": "2026-08-24T21:14:02",
+      "country": "Israel",
+      "title_ur": "Hochul expects ‘helpful’ Mamdani in her reelection bid - Politico",
+      "desc_ur": "Hochul expects ‘helpful’ Mamdani in her reelection bidPolitico ‘Pay attention to New York, not Israel’ Hochul tells Zohran Mamdani in NYT interviewThe Jerusalem Post Hochul urges Mamdani to focus on NYC over IsraelJewish Telegraphic Agency Hochul’s Advice for…"
+    },
+    {
+      "title": "Bible Scholars Now Believe David Yelled, 'Kobe!' While Hucking Stone At Goliath",
+      "desc": "VALLEY OF ELAH — A group of theologians and biblical scholars recently concluded that there was reason to believe that David yelled &#34;Kobe!&#34; while hucking a stone at Goliath.",
+      "source": "Babylonbee.com",
+      "url": "https://babylonbee.com/news/bible-scholars-now-believe-david-yelled-kobe-while-hucking-stone-at-goliath",
+      "time": "2026-08-24T21:13:48",
+      "country": "International",
+      "title_ur": "Bible Scholars Now Believe David Yelled, 'Kobe!' While Hucking Stone At Goliath",
+      "desc_ur": "VALLEY OF ELAH — A group of theologians and biblical scholars recently concluded that there was reason to believe that David yelled &#34;Kobe!&#34; while hucking a stone at Goliath."
+    },
+    {
+      "title": "US vows 'economic asphyxiation' of Iran with new sanctions",
+      "desc": "The announcement comes almost six months into a war on Iran that has ground to a stalemate.",
+      "source": "TheJournal.ie",
+      "url": "https://www.thejournal.ie/new-us-iran-sanctions-7140671-Aug2026/",
+      "time": "2026-08-24T21:13:21",
       "country": "Iran",
-      "title_ur": "Bessent threatens new Iran secondary sanctions, says Trump asking world leaders to cooperate - NBC News",
-      "desc_ur": "Bessent threatens new Iran secondary sanctions, says Trump asking world leaders to cooperateNBC News Photos of daily life in Tehran as Iran braces for new US sanctionsAP News Bessent unveils sweeping campaign of sanctions and pressure against IranThe Washingt…"
+      "title_ur": "US vows 'economic asphyxiation' of Iran with new sanctions",
+      "desc_ur": "The announcement comes almost six months into a war on Iran that has ground to a stalemate."
+    },
+    {
+      "title": "Trading Day: Tech, tariffs & Treasuries",
+      "desc": "ORLANDO, Florida, Aug 24 : U.S. bond yields fell and tech weighed on U.S. stocks on Monday, as investors digested a raft of economic measures and developments coming out of Washington: U.S. Treasury's plans to increase buybacks of long-dated bonds, new 'econo…",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/business/trading-day-tech-tariffs-treasuries-6338651",
+      "time": "2026-08-24T21:13:21",
+      "country": "US",
+      "title_ur": "Trading Day: Tech, tariffs & Treasuries",
+      "desc_ur": "ORLANDO, Florida, Aug 24 : U.S. bond yields fell and tech weighed on U.S. stocks on Monday, as investors digested a raft of economic measures and developments coming out of Washington: U.S. Treasury's plans to increase buybacks of long-dated bonds, new 'econo…"
+    },
+    {
+      "title": "Displaced Palestinians in Gaza face intensifying Israeli strikes",
+      "desc": "Israel struck a makeshift tent sheltering displaced Palestinians in Deir al-Balah, killing one man.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinians-in-gaza-face-intensifying-israeli-strikes",
+      "time": "2026-08-24T21:12:06",
+      "country": "Israel",
+      "title_ur": "Displaced Palestinians in Gaza face intensifying Israeli strikes",
+      "desc_ur": "Israel struck a makeshift tent sheltering displaced Palestinians in Deir al-Balah, killing one man."
+    },
+    {
+      "title": "America Needs to Look Backward Before We Can Look Forward, or We’re Doomed to Repeat Our Mistakes Forever",
+      "desc": "The Democrats are already making moves in anticipation of a big midterm swing. They should be doing penance first.",
+      "source": "esquire.com",
+      "url": "https://www.esquire.com/news-politics/politics/a73514344/midterms-democrats-jared-kushner-hakeem-jeffries/",
+      "time": "2026-08-24T21:05:20",
+      "country": "US",
+      "title_ur": "America Needs to Look Backward Before We Can Look Forward, or We’re Doomed to Repeat Our Mistakes Forever",
+      "desc_ur": "The Democrats are already making moves in anticipation of a big midterm swing. They should be doing penance first."
+    },
+    {
+      "title": "Bessent Threatens New Sanctions on Countries in Business With Iran | WSJ News",
+      "desc": "U.S. Treasury Secretary Scott Bessent announces a new campaign to isolate the Iranian regime, with the U.S. sanctioning more ...",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/226e68393c62f07c",
+      "time": "2026-08-24T21:04:53",
+      "country": "Iran",
+      "title_ur": "Bessent Threatens New Sanctions on Countries in Business With Iran | WSJ News",
+      "desc_ur": "U.S. Treasury Secretary Scott Bessent announces a new campaign to isolate the Iranian regime, with the U.S. sanctioning more ..."
+    },
+    {
+      "title": "Trump Administration Threatens Sanctions On Countries Trading With Iran",
+      "desc": "The Trump administration has unveiled a new campaign to pressure Iran by threatening sanctions against countries that continue significant economic ties with Tehran. \nTreasury Secretary Scott Bessent announced “Operation Economic Outcast,” which would use sec…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/b97f7100c65221d9",
+      "time": "2026-08-24T21:01:03",
+      "country": "Iran",
+      "title_ur": "Trump Administration Threatens Sanctions On Countries Trading With Iran",
+      "desc_ur": "The Trump administration has unveiled a new campaign to pressure Iran by threatening sanctions against countries that continue significant economic ties with Tehran. \nTreasury Secretary Scott Bessent announced “Operation Economic Outcast,” which would use sec…"
+    },
+    {
+      "title": "Victor Davis Hanson: Don’t Trust the Midterm Polls",
+      "desc": "Editor’s note: This is a lightly edited transcript of today’s video from Daily Signal senior contributor Victor Davis Hanson. Subscribe to our YouTube channel to see more of his videos. Hello, this is Victor Davis Hanson for the Daily Signal.  Let’s have a pe…",
+      "source": "Daily Signal",
+      "url": "https://www.dailysignal.com/2026/08/24/hanson-dont-trust-the-midterm-polls/",
+      "time": "2026-08-24T21:00:00",
+      "country": "US",
+      "title_ur": "Victor Davis Hanson: Don’t Trust the Midterm Polls",
+      "desc_ur": "Editor’s note: This is a lightly edited transcript of today’s video from Daily Signal senior contributor Victor Davis Hanson. Subscribe to our YouTube channel to see more of his videos. Hello, this is Victor Davis Hanson for the Daily Signal.  Let’s have a pe…"
+    },
+    {
+      "title": "Oil prices fall as Bessent outlines new steps to punish Iran",
+      "desc": "Markets were in a cautious mood after the US Treasury Secretary announced new sanctions on Iran, with an analyst describing market moves as “pretty muted” ahead of what could be an “eventful week.”",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/world/oil-prices-iran-sanctions-us-stocks-market-6338596",
+      "time": "2026-08-24T21:00:00",
+      "country": "Iran",
+      "title_ur": "Oil prices fall as Bessent outlines new steps to punish Iran",
+      "desc_ur": "Markets were in a cautious mood after the US Treasury Secretary announced new sanctions on Iran, with an analyst describing market moves as “pretty muted” ahead of what could be an “eventful week.”"
+    },
+    {
+      "title": "Air New Zealand result: How bad will it be?",
+      "desc": "The loss that sparked a coalition flare-up will likely be minor compared to what's coming.",
+      "source": "New Zealand Herald",
+      "url": "https://www.nzherald.co.nz/business/companies/airlines/air-new-zealand-result-how-bad-will-it-be/premium/TSZBUHTHCNDALFT5QWDBCESMVE/",
+      "time": "2026-08-24T21:00:00",
+      "country": "International",
+      "title_ur": "Air New Zealand result: How bad will it be?",
+      "desc_ur": "The loss that sparked a coalition flare-up will likely be minor compared to what's coming."
+    },
+    {
+      "title": "Bessent unveils sanctions designed to cripple Iran",
+      "desc": "Treasury Secretary Scott Bessent announced on Monday that the U.S. will impose punishing sanctions on countries and entities that do business with Iran —",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4392980/posts",
+      "time": "2026-08-24T20:59:56",
+      "country": "Iran",
+      "title_ur": "Bessent unveils sanctions designed to cripple Iran",
+      "desc_ur": "Treasury Secretary Scott Bessent announced on Monday that the U.S. will impose punishing sanctions on countries and entities that do business with Iran —"
+    },
+    {
+      "title": "US launches Operation Economic Outcast to target Iran’s financial networks",
+      "desc": "The operation's expansion of secondary sanctions could strain international relations and disrupt global trade, impacting economic stability.\nThe post US launches Operation Economic Outcast to target Iran’s financial networks appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/us-operation-economic-outcast-iran-sanctions/",
+      "time": "2026-08-24T20:58:28",
+      "country": "Iran",
+      "title_ur": "US launches Operation Economic Outcast to target Iran’s financial networks",
+      "desc_ur": "The operation's expansion of secondary sanctions could strain international relations and disrupt global trade, impacting economic stability.\nThe post US launches Operation Economic Outcast to target Iran’s financial networks appeared first on Crypto Briefing."
+    },
+    {
+      "title": "Israel’s Sponsored Ads on Ted Cruz’s Podcast Raise Questions of Legality",
+      "desc": "Meanwhile, iHeartMedia has given at least $1,738,000 of “digital revenue” to a pro-Cruz super PAC since 2023.",
+      "source": "Responsiblestatecraft.org",
+      "url": "https://responsiblestatecraft.org/ted-cruz-israel/",
+      "time": "2026-08-24T20:56:13",
+      "country": "Israel",
+      "title_ur": "Israel’s Sponsored Ads on Ted Cruz’s Podcast Raise Questions of Legality",
+      "desc_ur": "Meanwhile, iHeartMedia has given at least $1,738,000 of “digital revenue” to a pro-Cruz super PAC since 2023."
     }
   ],
   "pakistan": [
+    {
+      "title": "Vivo officially confirms phone with 10,000mAh battery",
+      "desc": "Vivo has revealed key details about its upcoming V80 Lite. The smartphone is confirmed to feature a large 10,000mAh battery. Official images also show that the phone will have a square rear camera housing and come in three color options.",
+      "source": "Notebookcheck.net",
+      "url": "https://www.notebookcheck.net/Vivo-officially-confirms-phone-with-10-000mAh-battery.1376663.0.html",
+      "time": "2026-08-24T20:58:00",
+      "country": "Pakistan",
+      "title_ur": "Vivo officially confirms phone with 10,000mAh battery",
+      "desc_ur": "Vivo has revealed key details about its upcoming V80 Lite. The smartphone is confirmed to feature a large 10,000mAh battery. Official images also show that the phone will have a square rear camera housing and come in three color options."
+    },
     {
       "title": "Repeated trips of Turkish military transport planes to Pak between Aug 19 & 21 raise eyebrows in India",
       "desc": "India News: NEW DELHI: An unusual increase in Turkish military transport flights to Pakistan in the last few days has raised hackles in Indian defence circles.Ope.",
@@ -162,16 +172,6 @@
       "country": "Pakistan",
       "title_ur": "Repeated trips of Turkish military transport planes to Pak between Aug 19 & 21 raise eyebrows in India",
       "desc_ur": "India News: NEW DELHI: An unusual increase in Turkish military transport flights to Pakistan in the last few days has raised hackles in Indian defence circles.Ope."
-    },
-    {
-      "title": "MediaHuman YouTube Downloader 3.9.23 (2008)",
-      "desc": "Description: There are so many interesting things to be found on YouTube, but you can't download the videos or save them as audio files by default. That's why we developed YouTube Video Downloader. This app will help you to accomplish video downloads quickly …",
-      "source": "Rlsbb.cc",
-      "url": "https://post.rlsbb.cc/mediahuman-youtube-downloader-3-9-23-2008/",
-      "time": "2026-08-24T20:24:19",
-      "country": "Pakistan",
-      "title_ur": "MediaHuman YouTube Downloader 3.9.23 (2008)",
-      "desc_ur": "Description: There are so many interesting things to be found on YouTube, but you can't download the videos or save them as audio files by default. That's why we developed YouTube Video Downloader. This app will help you to accomplish video downloads quickly …"
     }
   ],
   "business": {
