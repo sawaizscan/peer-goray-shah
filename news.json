@@ -1,6 +1,76 @@
 {
-  "generated": "2026-08-25T23:19:33Z",
+  "generated": "2026-08-25T23:46:47Z",
   "world": [
+    {
+      "title": "August 24, 2026 - PBS News Hour full episode",
+      "desc": "Monday on the News Hour, President Trump promises more tariffs on Canada after trade talks break down. The U.S. threatens new sanctions on countries doing business with Iran now that the military conflict is in a stalemate. Plus, new reporting details how Pre…",
+      "source": "PBS",
+      "url": "https://www.pbs.org/newshour/show/august-24-2026-pbs-news-hour-full-episode",
+      "time": "2026-08-24T23:34:54",
+      "country": "Iran",
+      "title_ur": "August 24, 2026 - PBS News Hour full episode",
+      "desc_ur": "Monday on the News Hour, President Trump promises more tariffs on Canada after trade talks break down. The U.S. threatens new sanctions on countries doing business with Iran now that the military conflict is in a stalemate. Plus, new reporting details how Pre…"
+    },
+    {
+      "title": "Xi meets Jordan’s king; State of the economy; Formaldehyde-dipped cabbages; CCDI Sixth Plenum; US-China",
+      "desc": "In this issue: Xi meets Jordan’s king\n\nSixth Plenum of the CPC Central Commission for Discipline Inspection\n\n“Zhong Caiwen 钟才文” on the economy\n\nFiscal revenue grew in July \n\nFormaldehyde-dipped cabbage\n\nUS-China",
+      "source": "Sinocism.com",
+      "url": "https://sinocism.com/p/xi-meets-jordans-king-state-of-the",
+      "time": "2026-08-24T23:30:29",
+      "country": "China",
+      "title_ur": "Xi meets Jordan’s king; State of the economy; Formaldehyde-dipped cabbages; CCDI Sixth Plenum; US-China",
+      "desc_ur": "In this issue: Xi meets Jordan’s king\n\nSixth Plenum of the CPC Central Commission for Discipline Inspection\n\n“Zhong Caiwen 钟才文” on the economy\n\nFiscal revenue grew in July \n\nFormaldehyde-dipped cabbage\n\nUS-China"
+    },
+    {
+      "title": "Trump Is Still Losing to Iran",
+      "desc": "From the daily newsletter: After six months of war, the Administration is now pushing hard on a threat of economic destruction against Iran.",
+      "source": "The New Yorker",
+      "url": "https://www.newyorker.com/newsletter/the-daily/trump-is-still-losing-to-iran",
+      "time": "2026-08-24T23:30:00",
+      "country": "Iran",
+      "title_ur": "Trump Is Still Losing to Iran",
+      "desc_ur": "From the daily newsletter: After six months of war, the Administration is now pushing hard on a threat of economic destruction against Iran."
+    },
+    {
+      "title": "Field Of Vision Debuts Ukraine War-Themed ‘When It Started To Burn’ On Ukrainian Independence Day",
+      "desc": "EXCLUSIVE: On the 35th anniversary of Ukrainian Independence Day, Field of Vision is launching a new documentary on Ukraine’s valiant fight to maintain its freedom. When It Started to Burn debuted on the Field of Vision platform Monday, the third in a trilogy…",
+      "source": "Deadline",
+      "url": "http://deadline.com/2026/08/when-it-started-to-burn-field-of-vision-premiere-1237049415/",
+      "time": "2026-08-24T23:29:40",
+      "country": "UK",
+      "title_ur": "Field Of Vision Debuts Ukraine War-Themed ‘When It Started To Burn’ On Ukrainian Independence Day",
+      "desc_ur": "EXCLUSIVE: On the 35th anniversary of Ukrainian Independence Day, Field of Vision is launching a new documentary on Ukraine’s valiant fight to maintain its freedom. When It Started to Burn debuted on the Field of Vision platform Monday, the third in a trilogy…"
+    },
+    {
+      "title": "Exclusive — North Macedonia's Prime Minister Hristijan Mickoski: ‘We Strongly Support’ President Trump, United States",
+      "desc": "WASHINGTON — North Macedonia's Prime Minister Hristijan Mickoski told Breitbart News exclusively that his country’s government is “strongly” supportive of American President Donald Trump’s government and policies on a number of fronts, from foreign policy to …",
+      "source": "Breitbart News",
+      "url": "https://www.breitbart.com/politics/2026/08/24/exclusive-north-macedonia-prime-minister-hristijan-mickoski-we-strongly-support-president-trump-united-states/",
+      "time": "2026-08-24T23:29:28",
+      "country": "US",
+      "title_ur": "Exclusive — North Macedonia's Prime Minister Hristijan Mickoski: ‘We Strongly Support’ President Trump, United States",
+      "desc_ur": "WASHINGTON — North Macedonia's Prime Minister Hristijan Mickoski told Breitbart News exclusively that his country’s government is “strongly” supportive of American President Donald Trump’s government and policies on a number of fronts, from foreign policy to …"
+    },
+    {
+      "title": "Trump weighs 7.5% new tariff on China over excess industrial capacity",
+      "desc": "Washington is considering another levy on Chinese goods as concerns over Beijing’s industrial capacity and surging exports intensify ahead of crucial trade talks",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/world/trump-weighs-75-new-tariff-on-china-over-excess-industrial-capacity/article71386367.ece",
+      "time": "2026-08-24T23:27:13",
+      "country": "China",
+      "title_ur": "Trump weighs 7.5% new tariff on China over excess industrial capacity",
+      "desc_ur": "Washington is considering another levy on Chinese goods as concerns over Beijing’s industrial capacity and surging exports intensify ahead of crucial trade talks"
+    },
+    {
+      "title": "What we know about how the Canada-U.S. trade talks fell apart",
+      "desc": "Prime Minister Mark Carney says one of the main reasons he walked away from a deal with the Trump administration is because Washington demanded terms that would \"destroy\" Canada's largest industries including the auto, steel and aluminum sectors. CBC News lea…",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/news/politics/carney-trump-trade-talks-broke-down-9.7318903",
+      "time": "2026-08-24T23:24:47",
+      "country": "US",
+      "title_ur": "What we know about how the Canada-U.S. trade talks fell apart",
+      "desc_ur": "Prime Minister Mark Carney says one of the main reasons he walked away from a deal with the Trump administration is because Washington demanded terms that would \"destroy\" Canada's largest industries including the auto, steel and aluminum sectors. CBC News lea…"
+    },
     {
       "title": "Iran vows to withstand new US sanctions, says Washington faces 'another defeat'",
       "desc": "Iran's economy minister says Tehran has a two-year plan to counter new US sanctions after Washington announces a sweeping economic campaign.",
@@ -80,76 +150,6 @@
       "country": "Iran",
       "title_ur": "Stock Market Today: Dow Rises, Nasdaq, S&P 500 Down; Nvidia, Micron, Marvell, Super Micro, More Movers - Barron's",
       "desc_ur": "Stock Market Today: Dow Rises, Nasdaq, S&P 500 Down; Nvidia, Micron, Marvell, Super Micro, More MoversBarron's Stock market today: S&P 500, Nasdaq fall as chip stocks sink, US unveils new Iran sanctionsYahoo Finance Wall Street drifts at the start of a week t…"
-    },
-    {
-      "title": "Mark Ruffalo hulks out with hate with antisemitic rant on Paramount-Warner Bros. merger",
-      "desc": "Mark Ruffalo chose to speak up on the Paramount merger with Warner Bros. by bringing up the world’s sole Jewish state and accuse one Jewish billionaire of trying to “crush” the rest of us.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/08/24/opinion/mark-ruffalo-hulks-out-with-hate-with-antisemitic-rant-on-paramount-warner-bros-merger/",
-      "time": "2026-08-24T22:50:55",
-      "country": "US",
-      "title_ur": "Mark Ruffalo hulks out with hate with antisemitic rant on Paramount-Warner Bros. merger",
-      "desc_ur": "Mark Ruffalo chose to speak up on the Paramount merger with Warner Bros. by bringing up the world’s sole Jewish state and accuse one Jewish billionaire of trying to “crush” the rest of us."
-    },
-    {
-      "title": "Florida Startup Making Low-Cost Drone Interceptors for the Iran War",
-      "desc": "Florida Startup Making Low-Cost Drone Interceptors for the Iran War\nThe startup says its factories make about 3,000 interceptors a month and aim to reach 15,000 worldwide by mid-2027.\n19 Articles\n19 Articles\nUS firm to start building antidrone tech in the UAE…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/77d5d024252aca79",
-      "time": "2026-08-24T22:49:15",
-      "country": "Iran",
-      "title_ur": "Florida Startup Making Low-Cost Drone Interceptors for the Iran War",
-      "desc_ur": "Florida Startup Making Low-Cost Drone Interceptors for the Iran War\nThe startup says its factories make about 3,000 interceptors a month and aim to reach 15,000 worldwide by mid-2027.\n19 Articles\n19 Articles\nUS firm to start building antidrone tech in the UAE…"
-    },
-    {
-      "title": "Iran Blacklists 46 Ships On Hormuz ‘Non-Compliant’ List",
-      "desc": "Iran has published a list of 46 vessels it says violated its arrangements for transiting the Strait of Hormuz, warning that the ships could face fines, detention, seizure or confiscation...",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/iran-blacklists-46-ships-on-hormuz-non-compliant-list/",
-      "time": "2026-08-24T22:47:13",
-      "country": "Iran",
-      "title_ur": "Iran Blacklists 46 Ships On Hormuz ‘Non-Compliant’ List",
-      "desc_ur": "Iran has published a list of 46 vessels it says violated its arrangements for transiting the Strait of Hormuz, warning that the ships could face fines, detention, seizure or confiscation..."
-    },
-    {
-      "title": "How US sanctions on Iran ripple through global markets and consumers",
-      "desc": "New sanctions hit Iran's aviation, tech, and shipping sectors, amplifying pressure on global markets and energy prices.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers",
-      "time": "2026-08-24T22:46:02",
-      "country": "Iran",
-      "title_ur": "How US sanctions on Iran ripple through global markets and consumers",
-      "desc_ur": "New sanctions hit Iran's aviation, tech, and shipping sectors, amplifying pressure on global markets and energy prices."
-    },
-    {
-      "title": "Rudy Giuliani Vows to Sue Tucker Carlson in Wild Rant Over Hunter Biden Interview: 'He Personally Defamed Me'",
-      "desc": "The former mayor of New York claims Carlson defamed him when he accused Giuliani of being 'an agent' for Israel.",
-      "source": "Radaronline.com",
-      "url": "https://radaronline.com/p/rudy-giuliani-sue-tucker-carlson-hunter-biden-interview/",
-      "time": "2026-08-24T22:45:00",
-      "country": "Israel",
-      "title_ur": "Rudy Giuliani Vows to Sue Tucker Carlson in Wild Rant Over Hunter Biden Interview: 'He Personally Defamed Me'",
-      "desc_ur": "The former mayor of New York claims Carlson defamed him when he accused Giuliani of being 'an agent' for Israel."
-    },
-    {
-      "title": "Luigi Mangione puts a human face on socialism’s evil",
-      "desc": "'Among 18- to 29-year-olds, 41% believe the murder was either somewhat or completely acceptable'",
-      "source": "Wnd.com",
-      "url": "https://www.wnd.com/2026/08/luigi-mangione-puts-human-face-socialisms-evil/",
-      "time": "2026-08-24T22:43:59",
-      "country": "International",
-      "title_ur": "Luigi Mangione puts a human face on socialism’s evil",
-      "desc_ur": "'Among 18- to 29-year-olds, 41% believe the murder was either somewhat or completely acceptable'"
-    },
-    {
-      "title": "Punishment to send a shiver needed - Vaughan",
-      "desc": "A punishment to “send a shiver down the whole team” may be needed after Brydon Carse became the latest England cricketer involved in a drinking controversy, according to Michael Vaughan.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/sport/cricket/articles/cx2zn3exqj7o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "time": "2026-08-24T22:42:43",
-      "country": "International",
-      "title_ur": "Punishment to send a shiver needed - Vaughan",
-      "desc_ur": "A punishment to “send a shiver down the whole team” may be needed after Brydon Carse became the latest England cricketer involved in a drinking controversy, according to Michael Vaughan."
     }
   ],
   "pakistan": [],
