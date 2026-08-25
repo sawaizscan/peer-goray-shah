@@ -1,187 +1,167 @@
 {
-  "generated": "2026-08-25T17:53:58Z",
+  "generated": "2026-08-25T18:30:28Z",
   "world": [
     {
-      "title": "Trump administration announces global economic war on Iran",
-      "desc": "The US says it is targeting all of Iran’s sources of revenue, including oil.",
+      "title": "Trump administration expands U.S. sanctions on Iran targeting countries with business ties to Tehran",
+      "desc": "U.S. President Donald Trump's administration on Monday announced an expansion of secondary  sanctions it can impose on ‌entities and countries that maintain business ties with Iran around the world as Washington significantly ratchets up economic pressure on …",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/news/world/trump-bessent-sanctions-iran-9.7318089",
+      "time": "2026-08-24T18:30:00",
+      "country": "Iran",
+      "title_ur": "Trump administration expands U.S. sanctions on Iran targeting countries with business ties to Tehran",
+      "desc_ur": "U.S. President Donald Trump's administration on Monday announced an expansion of secondary  sanctions it can impose on ‌entities and countries that maintain business ties with Iran around the world as Washington significantly ratchets up economic pressure on …"
+    },
+    {
+      "title": "Clueless AI CEOs Still Baffled Why Everybody’s So Mad About AI All the Time",
+      "desc": "\"It is surprising that the discourse from many developing AI is so filled with doom.\"\nThe post Clueless AI CEOs Still Baffled Why Everybody’s So Mad About AI All the Time appeared first on Futurism.",
+      "source": "Futurism",
+      "url": "https://futurism.com/artificial-intelligence/ai-ceos-public-mad-outrage",
+      "time": "2026-08-24T18:30:00",
+      "country": "International",
+      "title_ur": "Clueless AI CEOs Still Baffled Why Everybody’s So Mad About AI All the Time",
+      "desc_ur": "\"It is surprising that the discourse from many developing AI is so filled with doom.\"\nThe post Clueless AI CEOs Still Baffled Why Everybody’s So Mad About AI All the Time appeared first on Futurism."
+    },
+    {
+      "title": "Rubio, Wadephul discuss Iran, Ukraine",
+      "desc": "United States Secretary of State Marco Rubio held a phone call with German Foreign Minister Johann Wadephul on Monday to discuss geopolitical issues, including the Ukraine and Iran wars, the State Dep...",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/cf2a7408d69de29a",
+      "time": "2026-08-24T18:28:46",
+      "country": "Iran",
+      "title_ur": "Rubio, Wadephul discuss Iran, Ukraine",
+      "desc_ur": "United States Secretary of State Marco Rubio held a phone call with German Foreign Minister Johann Wadephul on Monday to discuss geopolitical issues, including the Ukraine and Iran wars, the State Dep..."
+    },
+    {
+      "title": "Donald Trump bought up to $50,000 worth SpaceX shares in June, financial disclosure shows",
+      "desc": "US President Donald Trump invested up to fifty thousand dollars in Elon Musk's SpaceX company. This investment occurred on June twenty-third, following the company's initial public offering.  Third-party institutions manage the president's investment portfoli…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/donald-trump-bought-up-to-50000-worth-spacex-shares-in-june-financial-disclosure-shows/articleshow/133476208.cms",
+      "time": "2026-08-24T18:27:35",
+      "country": "US",
+      "title_ur": "Donald Trump bought up to $50,000 worth SpaceX shares in June, financial disclosure shows",
+      "desc_ur": "US President Donald Trump invested up to fifty thousand dollars in Elon Musk's SpaceX company. This investment occurred on June twenty-third, following the company's initial public offering.  Third-party institutions manage the president's investment portfoli…"
+    },
+    {
+      "title": "Australian data centres will use seven times more power by 2036",
+      "desc": "Australian data centres will take 13% of the country’s main electricity market by 2035-36, up from 3% today. That is almost a sevenfold rise in a decade, according to the Australian Energy Market Operator. Keira Wright reported the forecast for Bloomberg. The…",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/australian-data-centres-power-aemo-forecast-2036",
+      "time": "2026-08-24T18:27:17",
+      "country": "US",
+      "title_ur": "Australian data centres will use seven times more power by 2036",
+      "desc_ur": "Australian data centres will take 13% of the country’s main electricity market by 2035-36, up from 3% today. That is almost a sevenfold rise in a decade, according to the Australian Energy Market Operator. Keira Wright reported the forecast for Bloomberg. The…"
+    },
+    {
+      "title": "TotalEnergies Backs Two Major Oil Pipelines to Bypass Hormuz",
+      "desc": "TotalEnergies will invest in two major oil pipelines designed to bypass the Strait of Hormuz, backing Abu Dhabi’s expansion of its Fujairah export route and a planned pipeline carrying Iraqi crude through Syria to the Mediterranean. CEO Patrick Pouyanné annou…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/TotalEnergies-Backs-Two-Major-Oil-Pipelines-to-Bypass-Hormuz.html",
+      "time": "2026-08-24T18:27:00",
+      "country": "Iraq",
+      "title_ur": "TotalEnergies Backs Two Major Oil Pipelines to Bypass Hormuz",
+      "desc_ur": "TotalEnergies will invest in two major oil pipelines designed to bypass the Strait of Hormuz, backing Abu Dhabi’s expansion of its Fujairah export route and a planned pipeline carrying Iraqi crude through Syria to the Mediterranean. CEO Patrick Pouyanné annou…"
+    },
+    {
+      "title": "US Treasury sets timeline to halt Iran-related activities amidst tensions",
+      "desc": "The U.S. Treasury's timeline may deepen Iran's economic isolation, affecting geopolitical stability and reducing chances for diplomatic resolutions.\nThe post US Treasury sets timeline to halt Iran-related activities amidst tensions appeared first on Crypto Br…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/us-treasury-sets-timeline-to-halt-iran-related-activities-amidst-tensions/",
+      "time": "2026-08-24T18:26:49",
+      "country": "Iran",
+      "title_ur": "US Treasury sets timeline to halt Iran-related activities amidst tensions",
+      "desc_ur": "The U.S. Treasury's timeline may deepen Iran's economic isolation, affecting geopolitical stability and reducing chances for diplomatic resolutions.\nThe post US Treasury sets timeline to halt Iran-related activities amidst tensions appeared first on Crypto Br…"
+    },
+    {
+      "title": "Iran’s Currency Hits Record Low as U.S. Rolls Out ‘Economic D-Day’ Sanctions",
+      "desc": "Iran’s currency, the rial, hit a record low over 2.02 million to the U.S. dollar on Monday as the Trump administration prepared to unveil its “Economic D-Day” maximum sanctions against Tehran.\nThe post Iran’s Currency Hits Record Low as U.S. Rolls Out ‘Econom…",
+      "source": "Breitbart News",
+      "url": "https://www.breitbart.com/middle-east/2026/08/24/irans-currency-hits-record-low-as-u-s-rolls-out-economic-d-day-sanctions/",
+      "time": "2026-08-24T18:26:07",
+      "country": "Iran",
+      "title_ur": "Iran’s Currency Hits Record Low as U.S. Rolls Out ‘Economic D-Day’ Sanctions",
+      "desc_ur": "Iran’s currency, the rial, hit a record low over 2.02 million to the U.S. dollar on Monday as the Trump administration prepared to unveil its “Economic D-Day” maximum sanctions against Tehran.\nThe post Iran’s Currency Hits Record Low as U.S. Rolls Out ‘Econom…"
+    },
+    {
+      "title": "ET WLF 2026: India, US, UK must work together to find a way out of West Asia crisis",
+      "desc": "Boris Johnson lauded India's strong leadership and predicted an incredible future for the nation. He expressed deep dissatisfaction over the US not consulting the UK on the Iran war. Johnson believes the UK could have prevented the US from entering an obvious…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/india/et-wlf-2026-india-us-uk-must-work-together-to-find-a-way-out-of-west-asia-crisis/articleshow/133476402.cms",
+      "time": "2026-08-24T18:26:05",
+      "country": "Iran",
+      "title_ur": "ET WLF 2026: India, US, UK must work together to find a way out of West Asia crisis",
+      "desc_ur": "Boris Johnson lauded India's strong leadership and predicted an incredible future for the nation. He expressed deep dissatisfaction over the US not consulting the UK on the Iran war. Johnson believes the UK could have prevented the US from entering an obvious…"
+    },
+    {
+      "title": "‘Why Would I Want to Blow Up the Global Financial System?’ Scott Bessent Gets Snippy With Reporter Pressing Him",
+      "desc": "U.S. Treasury Secretary Scott Bessent grew frustrated with a reporter after he was asked about the Trump administration's \"economic D-Day\" against Iran.\nThe post ‘Why Would I Want to Blow Up the Global Financial System?’ Scott Bessent Gets Snippy With Reporte…",
+      "source": "Mediaite",
+      "url": "https://www.mediaite.com/media/news/why-would-i-want-to-blow-up-the-global-financial-system-scott-bessent-gets-snippy-with-reporter-pressing-him/",
+      "time": "2026-08-24T18:23:40",
+      "country": "Iran",
+      "title_ur": "‘Why Would I Want to Blow Up the Global Financial System?’ Scott Bessent Gets Snippy With Reporter Pressing Him",
+      "desc_ur": "U.S. Treasury Secretary Scott Bessent grew frustrated with a reporter after he was asked about the Trump administration's \"economic D-Day\" against Iran.\nThe post ‘Why Would I Want to Blow Up the Global Financial System?’ Scott Bessent Gets Snippy With Reporte…"
+    },
+    {
+      "title": "Norway plans further development of Arctic drilling amid EU energy concerns",
+      "desc": "EU reviewing support of a ban on new drilling in the Arctic as war impacts energy security.",
       "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/trump-administration-announces-global-economic-war-on-iran-2",
-      "time": "2026-08-24T17:53:00",
+      "url": "https://www.aljazeera.com/news/2026/8/24/norway-plans-further-development-of-arctic-drilling-amid-eu-energy-concerns",
+      "time": "2026-08-24T18:22:18",
+      "country": "Europe",
+      "title_ur": "Norway plans further development of Arctic drilling amid EU energy concerns",
+      "desc_ur": "EU reviewing support of a ban on new drilling in the Arctic as war impacts energy security."
+    },
+    {
+      "title": "US Treasury chief vows to cut every ‘economic lifeline’ of Iran",
+      "desc": "US Treasury Secretary Scott Bessent outlines plans for “economic asphyxiation” of Iran, vowing to sever every economic lifeline and impose dire consequence\n\nRead More: https://punchng.com/us-treasury-chief-vows-to-cut-every-economic-lifeline-of-iran/",
+      "source": "The Punch",
+      "url": "https://punchng.com/us-treasury-chief-vows-to-cut-every-economic-lifeline-of-iran/",
+      "time": "2026-08-24T18:21:39",
       "country": "Iran",
-      "title_ur": "Trump administration announces global economic war on Iran",
-      "desc_ur": "The US says it is targeting all of Iran’s sources of revenue, including oil."
+      "title_ur": "US Treasury chief vows to cut every ‘economic lifeline’ of Iran",
+      "desc_ur": "US Treasury Secretary Scott Bessent outlines plans for “economic asphyxiation” of Iran, vowing to sever every economic lifeline and impose dire consequence\n\nRead More: https://punchng.com/us-treasury-chief-vows-to-cut-every-economic-lifeline-of-iran/"
     },
     {
-      "title": "Trump’s ‘Operation Economic Outcast’ against Iran: What sanctions threat could mean for India",
-      "desc": "The Donald Trump administration said on Monday that the new US sanctions are intended to shut off every potential source of revenue for Iran, while warning other countries that continuing their economic ties with Tehran could expose them to retaliation.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/trumps-operation-economic-outcast-against-iran-what-sanctions-threat-could-mean-for-india/articleshow/133475234.cms",
-      "time": "2026-08-24T17:52:50",
+      "title": "Trump is winning the Iran war— stay the course",
+      "desc": "Even before Treasury Secretary Scott Bessent sets out new US moves to pressure Iran’s economy, things are looking increasing grim for Tehran; President Donald Trump is clearly winning and mainly needs to hold firm as the enemy tries to wriggle out. Crucially,…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4392961/posts",
+      "time": "2026-08-24T18:20:57",
       "country": "Iran",
-      "title_ur": "Trump’s ‘Operation Economic Outcast’ against Iran: What sanctions threat could mean for India",
-      "desc_ur": "The Donald Trump administration said on Monday that the new US sanctions are intended to shut off every potential source of revenue for Iran, while warning other countries that continuing their economic ties with Tehran could expose them to retaliation."
+      "title_ur": "Trump is winning the Iran war— stay the course",
+      "desc_ur": "Even before Treasury Secretary Scott Bessent sets out new US moves to pressure Iran’s economy, things are looking increasing grim for Tehran; President Donald Trump is clearly winning and mainly needs to hold firm as the enemy tries to wriggle out. Crucially,…"
     },
     {
-      "title": "Rangasamy presents Rs 14,300 crore tax-free budget for 2026-27 for Puducherry",
-      "desc": "Puducherry CM N Rangasamy presents tax-free Rs 14,300 crore budget 2026-27 with Rs 7,890 crore revenue, key spends on salaries, pensions, power and welfare.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/chennai/rangasamy-presents-rs-14300-crore-tax-free-budget-for-2026-27-for-puducherry/articleshow/133475498.cms",
-      "time": "2026-08-24T17:52:39",
-      "country": "International",
-      "title_ur": "Rangasamy presents Rs 14,300 crore tax-free budget for 2026-27 for Puducherry",
-      "desc_ur": "Puducherry CM N Rangasamy presents tax-free Rs 14,300 crore budget 2026-27 with Rs 7,890 crore revenue, key spends on salaries, pensions, power and welfare."
-    },
-    {
-      "title": "U-15 Subroto Cup: Fr. Agnel Multipurpose emerge champs",
-      "desc": "Panaji: Savion Fernandes struck a brace as Fr. Agnel Multipurpose School, Verna, defeated Pope John Paul High School, Quepem, 6-0 in the final of the .",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/goa/u-15-subroto-cup-fr-agnel-multipurpose-emerge-champs/articleshow/133475387.cms",
-      "time": "2026-08-24T17:51:47",
-      "country": "International",
-      "title_ur": "U-15 Subroto Cup: Fr. Agnel Multipurpose emerge champs",
-      "desc_ur": "Panaji: Savion Fernandes struck a brace as Fr. Agnel Multipurpose School, Verna, defeated Pope John Paul High School, Quepem, 6-0 in the final of the ."
-    },
-    {
-      "title": "Yokohama launches new Geolandar X-CV tyres for SUVs in India: Details",
-      "desc": "The X-CV has also been designed for electric SUVs, which generally carry more weight and deliver torque more quickly than conventional vehicles says company. Yokohama says the tyre’s construction is intended to handle these demands while maintaining durabilit…",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/auto/cars/yokohama-launches-new-geolandar-x-cv-tyres-for-suvs-in-india-details/articleshow/133475168.cms",
-      "time": "2026-08-24T17:51:29",
-      "country": "India",
-      "title_ur": "Yokohama launches new Geolandar X-CV tyres for SUVs in India: Details",
-      "desc_ur": "The X-CV has also been designed for electric SUVs, which generally carry more weight and deliver torque more quickly than conventional vehicles says company. Yokohama says the tyre’s construction is intended to handle these demands while maintaining durabilit…"
-    },
-    {
-      "title": "TNSTC Madurai take commuters on a ride, collects Rs4 more on Theni-Bodi buses",
-      "desc": "TNSTC Madurai allegedly charges Rs 4 extra on Theni–Bodi buses despite a consumer commission order; activist claims excess collections total Rs 1 crore yearly.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/madurai/tnstc-madurai-take-commuters-on-a-ride-collects-rs4-more-on-theni-bodi-buses/articleshow/133475483.cms",
-      "time": "2026-08-24T17:51:20",
-      "country": "US",
-      "title_ur": "TNSTC Madurai take commuters on a ride, collects Rs4 more on Theni-Bodi buses",
-      "desc_ur": "TNSTC Madurai allegedly charges Rs 4 extra on Theni–Bodi buses despite a consumer commission order; activist claims excess collections total Rs 1 crore yearly."
-    },
-    {
-      "title": "Hindu Adhyatmic Mela to spotlight patriotism, women’s respect",
-      "desc": "Hindu Adhyatmic Evam Sewa Mela in Kanpur (Nov 26-30) to focus on ecology, forests, women’s respect, patriotism, social harmony and caste bias.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/kanpur/hindu-adhyatmic-mela-to-spotlight-patriotism-womens-respect/articleshow/133475478.cms",
-      "time": "2026-08-24T17:51:05",
-      "country": "US",
-      "title_ur": "Hindu Adhyatmic Mela to spotlight patriotism, women’s respect",
-      "desc_ur": "Hindu Adhyatmic Evam Sewa Mela in Kanpur (Nov 26-30) to focus on ecology, forests, women’s respect, patriotism, social harmony and caste bias."
-    },
-    {
-      "title": "JMC, RIICO blame game leaves Sudarshanpura road buried in garbage",
-      "desc": "Jaipur’s Sudarshanpura Main Road faces recurring garbage piles near Kartarpura nullah as JMC and RIICO dispute cleanup responsibility, raising hygiene and fire concerns.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/jaipur/jmc-riico-blame-game-leaves-sudarshanpura-road-buried-in-garbage/articleshow/133475475.cms",
-      "time": "2026-08-24T17:50:38",
+      "title": "US Launching 'Economic Onslaught' On Iran, Demands Countries Cut 'Lifelines' That Sustain Tehran",
+      "desc": "US Treasury Secretary Scott Bessent announced a new effort to ramp up the pressure on Tehran, saying the United States is \"launching an economic onslaught against Iran’s financial connections around the globe.\"",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "url": "https://www.rferl.org/a/iran-us-sanctions-bessent-oil-trade/33837303.html",
+      "time": "2026-08-24T18:18:38",
       "country": "Iran",
-      "title_ur": "JMC, RIICO blame game leaves Sudarshanpura road buried in garbage",
-      "desc_ur": "Jaipur’s Sudarshanpura Main Road faces recurring garbage piles near Kartarpura nullah as JMC and RIICO dispute cleanup responsibility, raising hygiene and fire concerns."
+      "title_ur": "US Launching 'Economic Onslaught' On Iran, Demands Countries Cut 'Lifelines' That Sustain Tehran",
+      "desc_ur": "US Treasury Secretary Scott Bessent announced a new effort to ramp up the pressure on Tehran, saying the United States is \"launching an economic onslaught against Iran’s financial connections around the globe.\""
     },
     {
-      "title": "Mark Cuban, worth more than $10 billion, has a bold plan to tackle wealth inequality — here’s what the Shark Tank star wants companies to do",
-      "desc": "Mark Cuban, who is reportedly worth more than $10 billion, has proposed a new way to tackle wealth inequality: companies should either give every employee a share of the business or face higher corporate taxes. The Shark Tank star says workers should benefit …",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/mark-cuban-worth-more-than-10-billion-has-a-bold-plan-to-tackle-wealth-inequality-heres-what-the-shark-tank-star-wants-companies-to-do/articleshow/133475327.cms",
-      "time": "2026-08-24T17:50:33",
+      "title": "In Tucson, Sen. Mark Kelly hints at 2028 bid",
+      "desc": "TUCSON — When Sen. Mark Kelly set out for a day of midterm campaigning, it only took about 15 minutes for someone to address the elephant in the room. “We need to make sure that we've got leaders in the United States Senate, in Congress and potentially in the…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4392960/posts",
+      "time": "2026-08-24T18:18:24",
       "country": "US",
-      "title_ur": "Mark Cuban, worth more than $10 billion, has a bold plan to tackle wealth inequality — here’s what the Shark Tank star wants companies to do",
-      "desc_ur": "Mark Cuban, who is reportedly worth more than $10 billion, has proposed a new way to tackle wealth inequality: companies should either give every employee a share of the business or face higher corporate taxes. The Shark Tank star says workers should benefit …"
-    },
-    {
-      "title": "Six-phase drive targets Jaipur’s garbage hotspots",
-      "desc": "Jaipur Municipal Corporation launches ‘Swachh Jaipur-Swasth Jaipur’ clean-up drive Aug 25–Sept 7 to clear garbage hotspots, remove C&D waste, control mosquitoes.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/jaipur/six-phase-drive-targets-jaipurs-garbage-hotspots/articleshow/133475467.cms",
-      "time": "2026-08-24T17:50:22",
-      "country": "International",
-      "title_ur": "Six-phase drive targets Jaipur’s garbage hotspots",
-      "desc_ur": "Jaipur Municipal Corporation launches ‘Swachh Jaipur-Swasth Jaipur’ clean-up drive Aug 25–Sept 7 to clear garbage hotspots, remove C&D waste, control mosquitoes."
-    },
-    {
-      "title": "Illegal political posters persist across Jaipur despite code of conduct",
-      "desc": "Political posters and illegal hoardings appear across Jaipur despite MCC; JMC teams removed 412 items Aug 22–24 and are fining or charging violators.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/jaipur/illegal-political-posters-persist-across-jaipur-despite-code-of-conduct/articleshow/133475466.cms",
-      "time": "2026-08-24T17:50:19",
-      "country": "International",
-      "title_ur": "Illegal political posters persist across Jaipur despite code of conduct",
-      "desc_ur": "Political posters and illegal hoardings appear across Jaipur despite MCC; JMC teams removed 412 items Aug 22–24 and are fining or charging violators."
-    },
-    {
-      "title": "Brazil orange juice plant to turn citrus wastewater into renewable biogas",
-      "desc": "In a groundbreaking initiative, the Louis Dreyfus Company is spearheading a remarkable project in Brazil, aiming to turn citrus wastewater into renewable energy. This ambitious plant will soon hold the title of the largest biogas production facility in the wo…",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/science/brazils-giant-orange-juice-plant-will-turn-citrus-wastewater-into-biogas-to-power-industrial-operations/articleshow/133466161.cms",
-      "time": "2026-08-24T17:50:00",
-      "country": "US",
-      "title_ur": "Brazil orange juice plant to turn citrus wastewater into renewable biogas",
-      "desc_ur": "In a groundbreaking initiative, the Louis Dreyfus Company is spearheading a remarkable project in Brazil, aiming to turn citrus wastewater into renewable energy. This ambitious plant will soon hold the title of the largest biogas production facility in the wo…"
-    },
-    {
-      "title": "Parents’ body seeks action over molestation allegations in govt schools",
-      "desc": "Parents’ group urges stricter safety, confidential complaints and time-bound probes after molestation allegations in Rajasthan govt schools; seeks review of no-entry rules.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/jaipur/parents-body-seeks-action-over-molestation-allegations-in-govt-schools/articleshow/133475415.cms",
-      "time": "2026-08-24T17:49:36",
-      "country": "International",
-      "title_ur": "Parents’ body seeks action over molestation allegations in govt schools",
-      "desc_ur": "Parents’ group urges stricter safety, confidential complaints and time-bound probes after molestation allegations in Rajasthan govt schools; seeks review of no-entry rules."
-    },
-    {
-      "title": "Greece sets up Patriot shield for Cyprus and Bulgaria following threats from Tehran’s mullahs",
-      "desc": "The scenarios, assessments, NATO and the new balance of power in the Eastern Mediterranean\nThe post Greece sets up Patriot shield for Cyprus and Bulgaria following threats from Tehran’s mullahs appeared first on ProtoThema English.",
-      "source": "Protothema.gr",
-      "url": "https://en.protothema.gr/2026/08/24/greece-sets-up-patriot-shield-for-cyprus-and-bulgaria-following-threats-from-tehrans-mullahs/",
-      "time": "2026-08-24T17:49:36",
-      "country": "Iran",
-      "title_ur": "Greece sets up Patriot shield for Cyprus and Bulgaria following threats from Tehran’s mullahs",
-      "desc_ur": "The scenarios, assessments, NATO and the new balance of power in the Eastern Mediterranean\nThe post Greece sets up Patriot shield for Cyprus and Bulgaria following threats from Tehran’s mullahs appeared first on ProtoThema English."
-    },
-    {
-      "title": "Calangute police register offences against 520 touts targeting tourists",
-      "desc": "Calangute police booked 520 touts in 2025-26 tourist season, fining repeat offenders, amid crackdown on scams targeting tourists with fake offers and threats.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/goa/calangute-police-register-offences-against-520-touts-targeting-tourists/articleshow/133475408.cms",
-      "time": "2026-08-24T17:49:18",
-      "country": "International",
-      "title_ur": "Calangute police register offences against 520 touts targeting tourists",
-      "desc_ur": "Calangute police booked 520 touts in 2025-26 tourist season, fining repeat offenders, amid crackdown on scams targeting tourists with fake offers and threats."
+      "title_ur": "In Tucson, Sen. Mark Kelly hints at 2028 bid",
+      "desc_ur": "TUCSON — When Sen. Mark Kelly set out for a day of midterm campaigning, it only took about 15 minutes for someone to address the elephant in the room. “We need to make sure that we've got leaders in the United States Senate, in Congress and potentially in the…"
     }
   ],
   "pakistan": [
     {
-      "title": "Man booked for abducting, raping minor",
-      "desc": "Ludhiana police booked a man for abducting a 13-year-old at sickle-point, holding her captive for two days and raping her; case filed under BNS and POCSO.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/ludhiana/man-booked-for-abducting-raping-minor/articleshow/133475390.cms",
-      "time": "2026-08-24T17:48:31",
+      "title": "US Central Command diverts 71 vessels amid Iran maritime tensions",
+      "desc": "Heightened U.S.-Iran maritime tensions risk disrupting global trade routes, impacting commercial shipping and regional stability.\nThe post US Central Command diverts 71 vessels amid Iran maritime tensions appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/us-central-command-diverts-71-vessels-amid-iran-maritime-tensions/",
+      "time": "2026-08-24T18:15:17",
       "country": "Pakistan",
-      "title_ur": "Man booked for abducting, raping minor",
-      "desc_ur": "Ludhiana police booked a man for abducting a 13-year-old at sickle-point, holding her captive for two days and raping her; case filed under BNS and POCSO."
-    },
-    {
-      "title": "Declare predominantly industrial areas as zones, city Inc govt to as Sept deadline nears",
-      "desc": "Punjab industry bodies urge govt to declare Ludhiana’s predominantly industrial mixed-use pockets as industrial zones before the September deadline, seeking permanent policy.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/ludhiana/declare-predominantly-industrial-areas-as-zones-city-inc-govt-to-as-sept-deadline-nears/articleshow/133475386.cms",
-      "time": "2026-08-24T17:48:06",
-      "country": "Pakistan",
-      "title_ur": "Declare predominantly industrial areas as zones, city Inc govt to as Sept deadline nears",
-      "desc_ur": "Punjab industry bodies urge govt to declare Ludhiana’s predominantly industrial mixed-use pockets as industrial zones before the September deadline, seeking permanent policy."
-    },
-    {
-      "title": "Sewa kendra staff threaten to halt ops from Sept 15 over pending demands",
-      "desc": "Sewa Kendra Employees’ Union Punjab warns of statewide agitation from Sept 15, starting with a Mohali protest march, over pay, job security and regularisation.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/ludhiana/sewa-kendra-staff-threaten-to-halt-ops-from-sept-15-over-pending-demands/articleshow/133475337.cms",
-      "time": "2026-08-24T17:46:42",
-      "country": "Pakistan",
-      "title_ur": "Sewa kendra staff threaten to halt ops from Sept 15 over pending demands",
-      "desc_ur": "Sewa Kendra Employees’ Union Punjab warns of statewide agitation from Sept 15, starting with a Mohali protest march, over pay, job security and regularisation."
+      "title_ur": "US Central Command diverts 71 vessels amid Iran maritime tensions",
+      "desc_ur": "Heightened U.S.-Iran maritime tensions risk disrupting global trade routes, impacting commercial shipping and regional stability.\nThe post US Central Command diverts 71 vessels amid Iran maritime tensions appeared first on Crypto Briefing."
     }
   ],
   "business": {
