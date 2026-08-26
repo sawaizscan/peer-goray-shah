@@ -1,158 +1,188 @@
 {
-  "generated": "2026-08-26T04:33:21Z",
+  "generated": "2026-08-26T05:27:58Z",
   "world": [
     {
+      "title": "Asian shares are mixed as US ups economic pressure on Iran",
+      "desc": "Asian shares are mostly lower after U.S. stocks drifted to a mixed finish ahead of potentially market-moving events later in the week. Regional benchmarks traded in a narrow range and U.S. futures were nearly unchanged. Oil prices were little changed after U.…",
+      "source": "Associated Press",
+      "url": "https://apnews.com/article/stocks-markets-futures-nvidia-bonds-oil-f17fc8cfc61f40114eb7246701b4695d",
+      "time": "2026-08-25T05:26:32",
+      "country": "Iran",
+      "title_ur": "Asian shares are mixed as US ups economic pressure on Iran",
+      "desc_ur": "Asian shares are mostly lower after U.S. stocks drifted to a mixed finish ahead of potentially market-moving events later in the week. Regional benchmarks traded in a narrow range and U.S. futures were nearly unchanged. Oil prices were little changed after U.…"
+    },
+    {
+      "title": "Hockey World Cup 2026: When will India play their classification matches",
+      "desc": "Both India's men's and women's teams failed to qualify for the semifinals and will now be playing classification matches",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/sports/other-sports-news/hockey-world-cup-2026-when-will-india-play-their-classification-matches-126082500300_1.html",
+      "time": "2026-08-25T05:25:46",
+      "country": "India",
+      "title_ur": "Hockey World Cup 2026: When will India play their classification matches",
+      "desc_ur": "Both India's men's and women's teams failed to qualify for the semifinals and will now be playing classification matches"
+    },
+    {
+      "title": "US stocks mixed, Nasdaq falls to three week low",
+      "desc": "The US stocks ended mixed on Monday as a sharp sell-off in semiconductor equities weighed on the technology sector, while investors digested new US economic sanctions announced against Iran and fresh trade tariff warnings against Canada.",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/markets/capital-market-news/us-stocks-mixed-nasdaq-falls-to-three-week-low-126082500296_1.html",
+      "time": "2026-08-25T05:21:43",
+      "country": "Iran",
+      "title_ur": "US stocks mixed, Nasdaq falls to three week low",
+      "desc_ur": "The US stocks ended mixed on Monday as a sharp sell-off in semiconductor equities weighed on the technology sector, while investors digested new US economic sanctions announced against Iran and fresh trade tariff warnings against Canada."
+    },
+    {
+      "title": "The UK will help Ukraine make long-range missiles by sharing classified tech information",
+      "desc": "Burnham, who was in Kyiv for Ukraine's Independence Day, said defense firm MBDA will release details on U.K.-made parts for the SCALP missile to Ukraine to help the country assemble the weapons.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/25/nx-s1-5944059/the-uk-will-help-ukraine-make-long-range-missiles-by-sharing-classified-tech-information",
+      "time": "2026-08-25T05:14:03",
+      "country": "UK",
+      "title_ur": "The UK will help Ukraine make long-range missiles by sharing classified tech information",
+      "desc_ur": "Burnham, who was in Kyiv for Ukraine's Independence Day, said defense firm MBDA will release details on U.K.-made parts for the SCALP missile to Ukraine to help the country assemble the weapons."
+    },
+    {
+      "title": "More porters, fewer passengers: The truth about Ben Gurion's staff crisis",
+      "desc": "Ben Gurion Airport data shows porter numbers rose since 2019 despite fewer passengers, challenging the union's claims of an unbearable labor shortage.",
+      "source": "The Jerusalem Post",
+      "url": "https://www.jpost.com/business-and-innovation/all-news/article-906484",
+      "time": "2026-08-25T05:09:46",
+      "country": "International",
+      "title_ur": "More porters, fewer passengers: The truth about Ben Gurion's staff crisis",
+      "desc_ur": "Ben Gurion Airport data shows porter numbers rose since 2019 despite fewer passengers, challenging the union's claims of an unbearable labor shortage."
+    },
+    {
+      "title": "Six months into Iran war, almost half of global oil flows from war zones",
+      "desc": "By Seher Dareen, Anushree Mukherjee and Robert Harvey LONDON Aug 25 (Reuters) - Almost half the world's oil comes from countries affected by conflict in 2026...",
+      "source": "Yahoo Entertainment",
+      "url": "https://uk.finance.yahoo.com/news/six-months-iran-war-almost-050842411.html",
+      "time": "2026-08-25T05:08:42",
+      "country": "Iran",
+      "title_ur": "Six months into Iran war, almost half of global oil flows from war zones",
+      "desc_ur": "By Seher Dareen, Anushree Mukherjee and Robert Harvey LONDON Aug 25 (Reuters) - Almost half the world's oil comes from countries affected by conflict in 2026..."
+    },
+    {
+      "title": "Crude Oil prices rise as markets weigh US sanctions on Iran",
+      "desc": "At 10.01 am on Tuesday, November Brent oil futures were at $90.71, up by 0.19%, and October crude oil futures on WTI (West Texas Intermediate) were at $85.26, up by 0.29%",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-price-gain-as-markets-analyse-impact-of-us-sanctions-on-iran/article71387280.ece",
+      "time": "2026-08-25T05:06:04",
+      "country": "Iran",
+      "title_ur": "Crude Oil prices rise as markets weigh US sanctions on Iran",
+      "desc_ur": "At 10.01 am on Tuesday, November Brent oil futures were at $90.71, up by 0.19%, and October crude oil futures on WTI (West Texas Intermediate) were at $85.26, up by 0.29%"
+    },
+    {
+      "title": "US unveils supersized Iran sanctions",
+      "desc": "The Trump administration announced trade measures aimed at economically isolating Iran yesterday that it had previously teased as “economic D-Day”…but Treasury Secretary Scott Bessent said it was more of a “warning shot” than a full-scale assault.\nDubbing the…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/245d0ad1f1c0362f",
+      "time": "2026-08-25T05:06:02",
+      "country": "Iran",
+      "title_ur": "US unveils supersized Iran sanctions",
+      "desc_ur": "The Trump administration announced trade measures aimed at economically isolating Iran yesterday that it had previously teased as “economic D-Day”…but Treasury Secretary Scott Bessent said it was more of a “warning shot” than a full-scale assault.\nDubbing the…"
+    },
+    {
       "title": "That was then, this is now",
-      "desc": "In 1914 Yitzhak Ben-Zvi and David Ben-Gurion, the president and prime minister of Israel after 1948 respectively, were in the Ottoman capital studying law at Istanbul University.  They had studied Ottoman Turkish and embarked on their legal studies in the hop…",
-      "source": "Marginalrevolution.com",
-      "url": "https://marginalrevolution.com/marginalrevolution/2026/08/that-was-then-this-is-now-61.html",
-      "time": "2026-08-25T04:31:38",
+      "desc": "In 1914 Yitzhak Ben-Zvi and David Ben-Gurion, the president and prime minister of Israel after 1948 respectively, were in the Ottoman capital studying law at Istanbul University. They had studied Ottoman Turkish and embarked on their legal studies in the hope…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/51d98a13c255ee78",
+      "time": "2026-08-25T05:05:51",
       "country": "Israel",
       "title_ur": "That was then, this is now",
-      "desc_ur": "In 1914 Yitzhak Ben-Zvi and David Ben-Gurion, the president and prime minister of Israel after 1948 respectively, were in the Ottoman capital studying law at Istanbul University.  They had studied Ottoman Turkish and embarked on their legal studies in the hop…"
+      "desc_ur": "In 1914 Yitzhak Ben-Zvi and David Ben-Gurion, the president and prime minister of Israel after 1948 respectively, were in the Ottoman capital studying law at Istanbul University. They had studied Ottoman Turkish and embarked on their legal studies in the hope…"
     },
     {
-      "title": "US Iran Crisis: Mojtaba Khamenei’s Voice Heard for First Time! Iran Releases Rare Video Amid Health Rumours | Dynamite News",
-      "desc": "Iran has released a rare undated video of Supreme Leader Mojtaba Khamenei, featuring his voice for the first time amid health concerns and speculation following his rise to power.",
-      "source": "Dynamitenews.com",
-      "url": "https://www.dynamitenews.com/international/mojtaba-khamenei-voice-heard-iran-releases-rare-video-amid-health-rumours",
-      "time": "2026-08-25T04:31:34",
+      "title": "Dem Rep. Hillary Scholten Shreds Hasan Piker for Targeting Jewish Lawmaker",
+      "desc": "Rep. Hillary Scholten (D-MI) said Monday that far-left streamer Hasan Piker's comments about American Jews who support Israel are \"unacceptable,\" after Piker displayed a photo of Michigan state Sen. Jeremy Moss during a livestream.\nThe post Dem Rep. Hillary S…",
+      "source": "Breitbart News",
+      "url": "https://www.breitbart.com/politics/2026/08/24/dem-rep-scholten-shreds-hasan-piker-targeting-jewish-lawmaker/",
+      "time": "2026-08-25T05:04:06",
+      "country": "Israel",
+      "title_ur": "Dem Rep. Hillary Scholten Shreds Hasan Piker for Targeting Jewish Lawmaker",
+      "desc_ur": "Rep. Hillary Scholten (D-MI) said Monday that far-left streamer Hasan Piker's comments about American Jews who support Israel are \"unacceptable,\" after Piker displayed a photo of Michigan state Sen. Jeremy Moss during a livestream.\nThe post Dem Rep. Hillary S…"
+    },
+    {
+      "title": "Limerick Social Democrats member appeals decision to expel her from party",
+      "desc": "Karen Sugrue says she is being punished for raising ‘lack of representation’ in internal meeting",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/politics/2026/08/25/limerick-social-democrats-member-appeals-decision-to-expel-her-from-party/",
+      "time": "2026-08-25T05:00:01",
       "country": "Iran",
-      "title_ur": "US Iran Crisis: Mojtaba Khamenei’s Voice Heard for First Time! Iran Releases Rare Video Amid Health Rumours | Dynamite News",
-      "desc_ur": "Iran has released a rare undated video of Supreme Leader Mojtaba Khamenei, featuring his voice for the first time amid health concerns and speculation following his rise to power."
+      "title_ur": "Limerick Social Democrats member appeals decision to expel her from party",
+      "desc_ur": "Karen Sugrue says she is being punished for raising ‘lack of representation’ in internal meeting"
     },
     {
-      "title": "Why children are especially vulnerable to heat-related illnesses",
-      "desc": "In hot and humid weather, children are particularly vulnerable to heat-related illnesses as their bodies are not adept at cooling down. With a larger skin surface area that absorbs heat quickly and less effective sweat glands, they can suffer from overheating…",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/health/why-children-are-especially-vulnerable-to-heat-related-illnesses/articleshow/133491601.cms",
-      "time": "2026-08-25T04:31:07",
+      "title": "Jeremy Pargo Has Still Got It at 40 Years Old",
+      "desc": "The former Zag has added a Big3 title to his stacked professional resume.",
+      "source": "The Slipper Still Fits",
+      "url": "https://www.slipperstillfits.com/gonzaga-athletics-news/29864/jeremy-pargo-has-still-got-it-at-40-years-old",
+      "time": "2026-08-25T04:55:03",
       "country": "International",
-      "title_ur": "Why children are especially vulnerable to heat-related illnesses",
-      "desc_ur": "In hot and humid weather, children are particularly vulnerable to heat-related illnesses as their bodies are not adept at cooling down. With a larger skin surface area that absorbs heat quickly and less effective sweat glands, they can suffer from overheating…"
+      "title_ur": "Jeremy Pargo Has Still Got It at 40 Years Old",
+      "desc_ur": "The former Zag has added a Big3 title to his stacked professional resume."
     },
     {
-      "title": "In 1926, a 10-foot rocket rose just 41 feet from a Massachusetts farm; 35 years later, NASA put its creator’s name in space",
-      "desc": "Science News: On March 16, 1926, on a snowy farm in Auburn, Massachusetts, physicist Robert H. Goddard set up a slim, 10-foot rocket he had nicknamed Nell on a laun.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/science/in-1926-a-10-foot-rocket-rose-just-41-feet-from-a-massachusetts-farm-35-years-later-nasa-put-its-creators-name-in-space/articleshow/133491426.cms",
-      "time": "2026-08-25T04:27:07",
-      "country": "US",
-      "title_ur": "In 1926, a 10-foot rocket rose just 41 feet from a Massachusetts farm; 35 years later, NASA put its creator’s name in space",
-      "desc_ur": "Science News: On March 16, 1926, on a snowy farm in Auburn, Massachusetts, physicist Robert H. Goddard set up a slim, 10-foot rocket he had nicknamed Nell on a laun."
-    },
-    {
-      "title": "Six months on, Hormuz remains disrupted as ships stay away",
-      "desc": "Six months after conflict began, Strait of Hormuz shipping remains significantly reduced.  Commercial traffic operates at a fraction of pre-war levels, impacting global energy supplies.  Thousands of seafarers are stranded in the Gulf due to ongoing hostiliti…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/six-months-on-hormuz-remains-disrupted-as-ships-stay-away/articleshow/133491397.cms",
-      "time": "2026-08-25T04:27:03",
-      "country": "US",
-      "title_ur": "Six months on, Hormuz remains disrupted as ships stay away",
-      "desc_ur": "Six months after conflict began, Strait of Hormuz shipping remains significantly reduced.  Commercial traffic operates at a fraction of pre-war levels, impacting global energy supplies.  Thousands of seafarers are stranded in the Gulf due to ongoing hostiliti…"
-    },
-    {
-      "title": "US Rescinds Syria's Designation as State Sponsor of Terrorism — Rubio",
-      "desc": "US Secretary of State Marco Rubio said he formally authorized the rescission of Syria’s designation as a State Sponsor of Terrorism, following the mandatory 45-day Congressional notification period.",
-      "source": "Sputnikglobe.com",
-      "url": "https://sputnikglobe.com/20260825/us-rescinds-syrias-designation-as-state-sponsor-of-terrorism--rubio-1124625521.html",
-      "time": "2026-08-25T04:25:53",
-      "country": "US",
-      "title_ur": "US Rescinds Syria's Designation as State Sponsor of Terrorism — Rubio",
-      "desc_ur": "US Secretary of State Marco Rubio said he formally authorized the rescission of Syria’s designation as a State Sponsor of Terrorism, following the mandatory 45-day Congressional notification period."
-    },
-    {
-      "title": "Netanyahu claims ‘Iran tried to murder one of my sons’",
-      "desc": "Israeli PM Benjamin Netanyahu has claimed that Iran attempted to assassinate one of his sons, making the explosive allegation without saying which of his children was allegedly targeted when the supposed plot took place",
-      "source": "RT",
-      "url": "https://www.rt.com/news/644611-netanyahu-son-iran-murder-plot/",
-      "time": "2026-08-25T04:23:54",
+      "title": "“Let no one test our resolve”: The US ultimatum to Iran’s partners and the threat of expulsion from the Dollar",
+      "desc": "New barrage of U.S. sanctions targeting gold, technology, digital resources, aviation and maritime transport is being prepared — Tehran promises Washington a “new defeat”\nThe post “Let no one test our resolve”: The US ultimatum to Iran’s partners and the thre…",
+      "source": "Protothema.gr",
+      "url": "https://en.protothema.gr/2026/08/25/let-no-one-test-our-resolve-the-us-ultimatum-to-irans-partners-and-the-threat-of-expulsion-from-the-dollar/",
+      "time": "2026-08-25T04:51:00",
       "country": "Iran",
-      "title_ur": "Netanyahu claims ‘Iran tried to murder one of my sons’",
-      "desc_ur": "Israeli PM Benjamin Netanyahu has claimed that Iran attempted to assassinate one of his sons, making the explosive allegation without saying which of his children was allegedly targeted when the supposed plot took place"
+      "title_ur": "“Let no one test our resolve”: The US ultimatum to Iran’s partners and the threat of expulsion from the Dollar",
+      "desc_ur": "New barrage of U.S. sanctions targeting gold, technology, digital resources, aviation and maritime transport is being prepared — Tehran promises Washington a “new defeat”\nThe post “Let no one test our resolve”: The US ultimatum to Iran’s partners and the thre…"
     },
     {
-      "title": "Nifty trade below 24,200 in early trade; breadth positive",
-      "desc": "At 09:30 IST, the barometer index, the S&P BSE Sensex, declined 22.17 points or 0.03% to 77,348.29. The Nifty 50 index lost 34.20 points or 0.15% to 24,183.10.",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/markets/capital-market-news/nifty-trade-below-24-200-in-early-trade-breadth-positive-126082500195_1.html",
-      "time": "2026-08-25T04:22:19",
-      "country": "International",
-      "title_ur": "Nifty trade below 24,200 in early trade; breadth positive",
-      "desc_ur": "At 09:30 IST, the barometer index, the S&P BSE Sensex, declined 22.17 points or 0.03% to 77,348.29. The Nifty 50 index lost 34.20 points or 0.15% to 24,183.10."
-    },
-    {
-      "title": "Gold, silver prices today, 25 August: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata",
-      "desc": "Gold and silver prices today, 25 August: Check the latest 24K, 22K gold and 999 silver retail rates across Delhi, Mumbai, Kolkata and other major Indian cities, along with MCX market updates.",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-25-august-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-11787539217497.html",
-      "time": "2026-08-25T04:22:03",
-      "country": "India",
-      "title_ur": "Gold, silver prices today, 25 August: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata",
-      "desc_ur": "Gold and silver prices today, 25 August: Check the latest 24K, 22K gold and 999 silver retail rates across Delhi, Mumbai, Kolkata and other major Indian cities, along with MCX market updates."
-    },
-    {
-      "title": "Michigan man sentenced to at least 45 years after nine criminal sexual conduct convictions",
-      "desc": "US News: Gerald Burton of Ishpeming, Michigan, was sentenced to three consecutive prison terms carrying a combined minimum of 45 years after a jury convicted h.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/us/michigan-man-sentenced-to-at-least-45-years-after-nine-criminal-sexual-conduct-convictions/articleshow/133491214.cms",
-      "time": "2026-08-25T04:21:32",
-      "country": "US",
-      "title_ur": "Michigan man sentenced to at least 45 years after nine criminal sexual conduct convictions",
-      "desc_ur": "US News: Gerald Burton of Ishpeming, Michigan, was sentenced to three consecutive prison terms carrying a combined minimum of 45 years after a jury convicted h."
-    },
-    {
-      "title": "Gold prices fall after 4 days; silver dips Rs 4,300/kg ahead of inflation data, Warsh speech at Jackson Hole",
-      "desc": "Gold and silver prices opened lower on the MCX on Tuesday as investors awaited key US inflation data and Federal Reserve Chair Kevin Warsh’s speech at Jackson Hole later this week. Gold had rallied sharply last week on concerns over currency debasement, while…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-fall-after-4-days-silver-dips-rs-4300/kg-ahead-of-inflation-data-warsh-speech-at-jackson-hole/articleshow/133491244.cms",
-      "time": "2026-08-25T04:20:24",
-      "country": "US",
-      "title_ur": "Gold prices fall after 4 days; silver dips Rs 4,300/kg ahead of inflation data, Warsh speech at Jackson Hole",
-      "desc_ur": "Gold and silver prices opened lower on the MCX on Tuesday as investors awaited key US inflation data and Federal Reserve Chair Kevin Warsh’s speech at Jackson Hole later this week. Gold had rallied sharply last week on concerns over currency debasement, while…"
-    },
-    {
-      "title": "US grain farmers pummelled as Iran war triggers surge in costs",
-      "desc": "Middle East conflict adds to strains in America’s heartland months ahead of midterm elections",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/d7f9c7b09e93521a",
-      "time": "2026-08-25T04:20:14",
+      "title": "Crude oil price: Crude oil futures gain as markets analyse impact of US sanctions on Iran",
+      "desc": "At 10.01 am on Tuesday, November Brent oil futures were at $90.71, up by 0.19%, and October crude oil futures on WTI (West Texas Intermediate) were at $85.26, up by 0.29%",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-price-crude-oil-futures-gain-as-markets-analyse-impact-of-us-sanctions-on-iran/article71387280.ece",
+      "time": "2026-08-25T04:47:13",
       "country": "Iran",
-      "title_ur": "US grain farmers pummelled as Iran war triggers surge in costs",
-      "desc_ur": "Middle East conflict adds to strains in America’s heartland months ahead of midterm elections"
+      "title_ur": "Crude oil price: Crude oil futures gain as markets analyse impact of US sanctions on Iran",
+      "desc_ur": "At 10.01 am on Tuesday, November Brent oil futures were at $90.71, up by 0.19%, and October crude oil futures on WTI (West Texas Intermediate) were at $85.26, up by 0.29%"
     },
     {
-      "title": "'This Time Too, You Will Fail' — Iranian Economy Minister Responds to Bessent",
-      "desc": "Iranian Economy Minister Seyed Ali Madanizadeh hit back at US Treasury Secretary Scott Bessent’s new sanctions threats, saying US economic war against Iran is nothing new.",
-      "source": "Sputnikglobe.com",
-      "url": "https://sputnikglobe.com/20260825/this-time-too-you-will-fail--iranian-economy-minister-responds-to-bessent-1124625193.html",
-      "time": "2026-08-25T04:20:07",
-      "country": "Iran",
-      "title_ur": "'This Time Too, You Will Fail' — Iranian Economy Minister Responds to Bessent",
-      "desc_ur": "Iranian Economy Minister Seyed Ali Madanizadeh hit back at US Treasury Secretary Scott Bessent’s new sanctions threats, saying US economic war against Iran is nothing new."
-    },
-    {
-      "title": "Video shows Dumri MLA Jairam Mahto allegedly abusing cop on call, FIR filed",
-      "desc": "A purported video of MLA Jairam Mahto using abusive language has gone viral. The incident reportedly followed a dispute and escalated at the police station. Police sources claim the conversation was recorded by the station officer. An FIR has been registered …",
+      "title": "Six months into war, Trump faces falling support as Americans lose confidence in his presidency",
+      "desc": "Public sentiment in the U.S. towards military intervention in Iran has plummeted to a historic low, reflecting a growing reluctance for engagement. Meanwhile, President Trump's approval ratings are experiencing a notable decline, marking his presidency's leas…",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/ranchi/video-shows-dumri-mla-jairam-mahto-allegedly-abusing-cop-on-call-fir-filed/articleshow/133490955.cms",
-      "time": "2026-08-25T04:19:04",
-      "country": "US",
-      "title_ur": "Video shows Dumri MLA Jairam Mahto allegedly abusing cop on call, FIR filed",
-      "desc_ur": "A purported video of MLA Jairam Mahto using abusive language has gone viral. The incident reportedly followed a dispute and escalated at the police station. Police sources claim the conversation was recorded by the station officer. An FIR has been registered …"
-    },
-    {
-      "title": "China warns new US sanctions on Iran will 'escalate the situation'",
-      "desc": "China stated that sanctions will not resolve the issue with Iran. Beijing warned that additional pressure would only escalate tensions and harm global stability. The foreign ministry spokesperson urged all parties to avoid intensifying conflicts and differenc…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/china-warns-new-us-sanctions-on-iran-will-escalate-the-situation/articleshow/133491012.cms",
-      "time": "2026-08-25T04:16:32",
+      "url": "https://timesofindia.indiatimes.com/world/us/six-months-into-war-trump-faces-falling-support-as-americans-lose-confidence-in-his-presidency/articleshow/133492583.cms",
+      "time": "2026-08-25T04:45:37",
       "country": "Iran",
-      "title_ur": "China warns new US sanctions on Iran will 'escalate the situation'",
-      "desc_ur": "China stated that sanctions will not resolve the issue with Iran. Beijing warned that additional pressure would only escalate tensions and harm global stability. The foreign ministry spokesperson urged all parties to avoid intensifying conflicts and differenc…"
+      "title_ur": "Six months into war, Trump faces falling support as Americans lose confidence in his presidency",
+      "desc_ur": "Public sentiment in the U.S. towards military intervention in Iran has plummeted to a historic low, reflecting a growing reluctance for engagement. Meanwhile, President Trump's approval ratings are experiencing a notable decline, marking his presidency's leas…"
     }
   ],
   "pakistan": [
+    {
+      "title": "Echoes: Who Decides What Pakistan Gets to Watch?",
+      "desc": "It is well known that Pakistan is a country where stringent laws restrict viewers from accessing certain types of content and films, therefore already imposing a hold on what Pakistan gets to watch. The Pakistan Electronic Media Regulatory Authority (PEMRA) h…",
+      "source": "Screenanarchy.com",
+      "url": "https://screenanarchy.com/2026/08/echoes-who-decides-what-pakistan-gets-to-watch.html",
+      "time": "2026-08-25T05:20:06",
+      "country": "Pakistan",
+      "title_ur": "Echoes: Who Decides What Pakistan Gets to Watch?",
+      "desc_ur": "It is well known that Pakistan is a country where stringent laws restrict viewers from accessing certain types of content and films, therefore already imposing a hold on what Pakistan gets to watch. The Pakistan Electronic Media Regulatory Authority (PEMRA) h…"
+    },
+    {
+      "title": "Iran war disrupts nearly half of global oil flows as Strait of Hormuz traffic collapses",
+      "desc": "The disruption in oil flows exacerbates global inflation, challenges central banks, and shifts energy market dynamics, impacting economies worldwide.\nThe post Iran war disrupts nearly half of global oil flows as Strait of Hormuz traffic collapses appeared fir…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-war-disrupts-global-oil-flows/",
+      "time": "2026-08-25T05:16:51",
+      "country": "Pakistan",
+      "title_ur": "Iran war disrupts nearly half of global oil flows as Strait of Hormuz traffic collapses",
+      "desc_ur": "The disruption in oil flows exacerbates global inflation, challenges central banks, and shifts energy market dynamics, impacting economies worldwide.\nThe post Iran war disrupts nearly half of global oil flows as Strait of Hormuz traffic collapses appeared fir…"
+    },
+    {
+      "title": "Pakistan says ‘significant progress’ made in talks with Iranian leaders",
+      "desc": "Pakistan says ‘significant progress’ was made in Tehran talks on the Iran-US conflict, regional tensions, reopening the Strait of Hormuz and a settlement.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/432194",
+      "time": "2026-08-25T04:44:24",
+      "country": "Pakistan",
+      "title_ur": "Pakistan says ‘significant progress’ made in talks with Iranian leaders",
+      "desc_ur": "Pakistan says ‘significant progress’ was made in Tehran talks on the Iran-US conflict, regional tensions, reopening the Strait of Hormuz and a settlement."
+    },
     {
       "title": "Pakistan and Iran made 'significant progress' in talks on conflict, minister says",
       "desc": "Pakistan and Iran held talks focusing on the U.S.-Israeli war and peace. Discussions aimed to prevent escalation and reopen the Strait of Hormuz. Both nations explored regional peace and a negotiated settlement to the dispute. Pakistan's interior minister des…",
@@ -172,26 +202,6 @@
       "country": "Pakistan",
       "title_ur": "India opens ports, airports to foreign-bound cargo impacted by Strait of Hormuz disruptions",
       "desc_ur": "India's ports will temporarily accept foreign-bound cargo diverted from the Strait of Hormuz. Under this measure, unloading, storage, and transshipment will be allowed until October 31, 2026. As per the rules, cargo must remain under customs control and is st…"
-    },
-    {
-      "title": "Ted Cruz Is an Opportunistic Chameleon",
-      "desc": "Who remembers the Texan’s skepticism of foreign adventurism?\nThe post Ted Cruz Is an Opportunistic Chameleon appeared first on The American Conservative.",
-      "source": "The American Conservative",
-      "url": "https://www.theamericanconservative.com/ted-cruz-is-an-opportunistic-chameleon/",
-      "time": "2026-08-25T04:05:00",
-      "country": "Pakistan",
-      "title_ur": "Ted Cruz Is an Opportunistic Chameleon",
-      "desc_ur": "Who remembers the Texan’s skepticism of foreign adventurism?\nThe post Ted Cruz Is an Opportunistic Chameleon appeared first on The American Conservative."
-    },
-    {
-      "title": "A La Carte (August 25)",
-      "desc": "US missionary freed after 9 months' captivity / Sharing suffering / The Lord will keep your children's lives / The real reason Iran is persecuting Christians / Dinesh D'Souza's case against Calvinism, answered / Canadian military chaplains can't mention God i…",
-      "source": "Challies.com",
-      "url": "https://www.challies.com/a-la-carte/a-la-carte-august-25-2026/",
-      "time": "2026-08-25T04:01:00",
-      "country": "Pakistan",
-      "title_ur": "A La Carte (August 25)",
-      "desc_ur": "US missionary freed after 9 months' captivity / Sharing suffering / The Lord will keep your children's lives / The real reason Iran is persecuting Christians / Dinesh D'Souza's case against Calvinism, answered / Canadian military chaplains can't mention God i…"
     }
   ],
   "business": {
