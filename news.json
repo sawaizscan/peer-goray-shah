@@ -1,217 +1,207 @@
 {
-  "generated": "2026-08-29T16:03:00Z",
+  "generated": "2026-08-29T19:27:23Z",
   "world": [
     {
-      "title": "From a new Robert De Niro thriller to the on-screen...",
-      "desc": "The top hits include a documentary on the life and legacy of Dolly Parton, a brooding crime thriller helmed by Robert De Niro and one climber's mission to summit 14 mountains in six months.",
+      "title": "Colombia’s new president faces backlash over ‘inhumane’ deportation policy",
+      "desc": "Less than a month into his presidency, Abelardo de la Espriella has announced effort to expel undocumented immigrants.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/8/28/colombias-new-president-faces-backlash-over-inhumane-deportation-policy",
+      "time": "2026-08-28T19:26:15",
+      "country": "International",
+      "title_ur": "Colombia’s new president faces backlash over ‘inhumane’ deportation policy",
+      "desc_ur": "Less than a month into his presidency, Abelardo de la Espriella has announced effort to expel undocumented immigrants."
+    },
+    {
+      "title": "Araghchi vows 'retribution' for Khamenei's death",
+      "desc": "Iranian Foreign Minister Abbas Araghchi declared on Friday that Iran will \"never abandon the blood\" of slain Supreme Leader, Ayatollah Ali Khamenei. Speaking at the International Islamic Unity Confere...",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/60ff6b861fc29b21",
+      "time": "2026-08-28T19:24:17",
+      "country": "Iran",
+      "title_ur": "Araghchi vows 'retribution' for Khamenei's death",
+      "desc_ur": "Iranian Foreign Minister Abbas Araghchi declared on Friday that Iran will \"never abandon the blood\" of slain Supreme Leader, Ayatollah Ali Khamenei. Speaking at the International Islamic Unity Confere..."
+    },
+    {
+      "title": "Tribal students begin march from Amravati to Yavatmal over their demands",
+      "desc": "Tribal students in Amravati begin a foot march to Yavatmal after talks fail to resolve demands; agitation intensifies as leaders and officials attempt to intervene.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/nagpur/tribal-students-begin-march-from-amravati-to-yavatmal-over-their-demands/articleshow/133599526.cms",
+      "time": "2026-08-28T19:23:15",
+      "country": "International",
+      "title_ur": "Tribal students begin march from Amravati to Yavatmal over their demands",
+      "desc_ur": "Tribal students in Amravati begin a foot march to Yavatmal after talks fail to resolve demands; agitation intensifies as leaders and officials attempt to intervene."
+    },
+    {
+      "title": "Remote Gadchiroli Hospital Delivers 500-Baby Milestone",
+      "desc": "Lloyds Kali Ammal Memorial Hospital, Hedri, crosses 500 births with free maternity care, boosting access for remote tribal families in Gadchiroli.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/nagpur/remote-gadchiroli-hospital-delivers-500-baby-milestone/articleshow/133599523.cms",
+      "time": "2026-08-28T19:22:44",
+      "country": "International",
+      "title_ur": "Remote Gadchiroli Hospital Delivers 500-Baby Milestone",
+      "desc_ur": "Lloyds Kali Ammal Memorial Hospital, Hedri, crosses 500 births with free maternity care, boosting access for remote tribal families in Gadchiroli."
+    },
+    {
+      "title": "Verification period after tiger deaths behind mismatch in central, Maha data: NTCA to HC",
+      "desc": "Nagpur HC scrutinises tiger death data gaps as NTCA cites verification delays; PIL alleges 298 deaths in 12 years, 33 by electrocution, AB cables pending.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/nagpur/verification-period-after-tiger-deaths-behind-mismatch-in-central-maha-data-ntca-to-hc/articleshow/133599521.cms",
+      "time": "2026-08-28T19:22:39",
+      "country": "International",
+      "title_ur": "Verification period after tiger deaths behind mismatch in central, Maha data: NTCA to HC",
+      "desc_ur": "Nagpur HC scrutinises tiger death data gaps as NTCA cites verification delays; PIL alleges 298 deaths in 12 years, 33 by electrocution, AB cables pending."
+    },
+    {
+      "title": "Chandrapur MLA Jorgewar points out lapses at GMCH",
+      "desc": "MLA Kishore Jorgewar flags cleanliness, staff absenteeism, limited toilet access, and safety lapses at Chandrapur GMCH; orders corrective steps, milk bank plan.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/nagpur/chandrapur-mla-jorgewar-points-out-lapses-at-gmch/articleshow/133599519.cms",
+      "time": "2026-08-28T19:22:34",
+      "country": "International",
+      "title_ur": "Chandrapur MLA Jorgewar points out lapses at GMCH",
+      "desc_ur": "MLA Kishore Jorgewar flags cleanliness, staff absenteeism, limited toilet access, and safety lapses at Chandrapur GMCH; orders corrective steps, milk bank plan."
+    },
+    {
+      "title": "Illegal tree felling declined 22% in 5 yrs: Forest department",
+      "desc": "Maharashtra sees 22% drop in illegal tree felling (2021-2025) but loses 3.63 lakh trees in five years, with assessed losses near ₹33 crore.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/nagpur/illegal-tree-felling-declined-22-in-5-yrs-forest-department/articleshow/133599517.cms",
+      "time": "2026-08-28T19:22:24",
+      "country": "International",
+      "title_ur": "Illegal tree felling declined 22% in 5 yrs: Forest department",
+      "desc_ur": "Maharashtra sees 22% drop in illegal tree felling (2021-2025) but loses 3.63 lakh trees in five years, with assessed losses near ₹33 crore."
+    },
+    {
+      "title": "Cong Using Tribal Students’ Stir to ‘Relaunch’ Rahul Gandhi: Bawankule",
+      "desc": "BJP minister Chandrashekhar Bawankule accuses Congress of using tribal students’ agitation to relaunch Rahul Gandhi, says govt addressed demands and warns against politicising protests.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/nagpur/cong-using-tribal-students-stir-to-relaunch-rahul-gandhi-bawankule/articleshow/133599516.cms",
+      "time": "2026-08-28T19:22:17",
+      "country": "US",
+      "title_ur": "Cong Using Tribal Students’ Stir to ‘Relaunch’ Rahul Gandhi: Bawankule",
+      "desc_ur": "BJP minister Chandrashekhar Bawankule accuses Congress of using tribal students’ agitation to relaunch Rahul Gandhi, says govt addressed demands and warns against politicising protests."
+    },
+    {
+      "title": "Woman abducted & set on fire; dies after 54 days",
+      "desc": "Chandigarh Police file abduction-murder FIR over influencer Manjeet Kaur’s death after alleged July kidnapping and burning; two booked, probe into police delays.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/woman-abducted-set-on-fire-dies-after-54-days/articleshow/133599515.cms",
+      "time": "2026-08-28T19:22:14",
+      "country": "International",
+      "title_ur": "Woman abducted & set on fire; dies after 54 days",
+      "desc_ur": "Chandigarh Police file abduction-murder FIR over influencer Manjeet Kaur’s death after alleged July kidnapping and burning; two booked, probe into police delays."
+    },
+    {
+      "title": "Antifa-linked sites go dark after State Department terror designation of tech collective",
+      "desc": "The Rose City Antifa and Jane's Revenge websites went dark after the State Department designated their tech provider, A/I Collective, a global terrorist.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/antifa-linked-sites-dark-state-department-terror-designation-tech-collective",
+      "time": "2026-08-28T19:22:05",
+      "country": "International",
+      "title_ur": "Antifa-linked sites go dark after State Department terror designation of tech collective",
+      "desc_ur": "The Rose City Antifa and Jane's Revenge websites went dark after the State Department designated their tech provider, A/I Collective, a global terrorist."
+    },
+    {
+      "title": "Goon on run after trying to set wife on fire",
+      "desc": "Nagpur: Man on run after allegedly pouring petrol on wife and trying to set her on fire in Pardi; relatives saved her. Case filed under attempt to murder BNS.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/nagpur/goon-on-run-after-trying-to-set-wife-on-fire/articleshow/133599513.cms",
+      "time": "2026-08-28T19:22:01",
+      "country": "International",
+      "title_ur": "Goon on run after trying to set wife on fire",
+      "desc_ur": "Nagpur: Man on run after allegedly pouring petrol on wife and trying to set her on fire in Pardi; relatives saved her. Case filed under attempt to murder BNS."
+    },
+    {
+      "title": "Inner ring road land acquisition gets time-bound push; land hearing cases by Aug 31",
+      "desc": "Pune inner ring road land acquisition put on a deadline: cases due Aug 31, land measurement starts Sep 10, and market value meeting set for Oct 10.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/pune/inner-ring-road-land-acquisition-gets-time-bound-push-land-hearing-cases-by-aug-31/articleshow/133599509.cms",
+      "time": "2026-08-28T19:21:32",
+      "country": "US",
+      "title_ur": "Inner ring road land acquisition gets time-bound push; land hearing cases by Aug 31",
+      "desc_ur": "Pune inner ring road land acquisition put on a deadline: cases due Aug 31, land measurement starts Sep 10, and market value meeting set for Oct 10."
+    },
+    {
+      "title": "In 2016, a partnership claimed a $180.2 million tax deduction after placing an easement on 236 Mississippi acres; the US Tax Court valued the deduction at about $2.2 million",
+      "desc": "A partnership claimed a $180.2 million charitable tax deduction in 2016 after placing a conservation easement on 236 acres in Mississippi. The US Tax Court rejected the valuation, finding the land was worth far less than claimed. The court determined the allo…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/us/in-2016-a-partnership-claimed-a-180-2-million-tax-deduction-after-placing-an-easement-on-236-mississippi-acres-the-us-tax-court-valued-the-deduction-at-about-2-2-million/articleshow/133599439.cms",
+      "time": "2026-08-28T19:21:24",
+      "country": "US",
+      "title_ur": "In 2016, a partnership claimed a $180.2 million tax deduction after placing an easement on 236 Mississippi acres; the US Tax Court valued the deduction at about $2.2 million",
+      "desc_ur": "A partnership claimed a $180.2 million charitable tax deduction in 2016 after placing a conservation easement on 236 acres in Mississippi. The US Tax Court rejected the valuation, finding the land was worth far less than claimed. The court determined the allo…"
+    },
+    {
+      "title": "BORIS JOHNSON: The hot dang Right-wingers of oil-rich Texas love solar and wind power - here's why THEIR electricity bills are so low",
+      "desc": "We just can't go on like this. It is now clear that the cost of electricity in this country is out of control. We are walloping consumers and we are crippling our industry.",
       "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/tv/article-16087181/Robert-Niro-Dolly-Parton-Tim-Curry-critics-guide-TV-shows-films-watch-weekend.html",
-      "time": "2026-08-28T16:02:30",
-      "country": "International",
-      "title_ur": "From a new Robert De Niro thriller to the on-screen...",
-      "desc_ur": "The top hits include a documentary on the life and legacy of Dolly Parton, a brooding crime thriller helmed by Robert De Niro and one climber's mission to summit 14 mountains in six months."
-    },
-    {
-      "title": "Junior revenue assistant caught taking bribe in Keonjhar district",
-      "desc": "Odisha Vigilance arrests Patna tahasil junior revenue assistant in Keonjhar for allegedly taking Rs 6,000 bribe to process land mutation and issue ROR.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/junior-revenue-assistant-caught-taking-bribe-in-keonjhar-district/articleshow/133595226.cms",
-      "time": "2026-08-28T16:00:32",
-      "country": "International",
-      "title_ur": "Junior revenue assistant caught taking bribe in Keonjhar district",
-      "desc_ur": "Odisha Vigilance arrests Patna tahasil junior revenue assistant in Keonjhar for allegedly taking Rs 6,000 bribe to process land mutation and issue ROR."
-    },
-    {
-      "title": "Vice-President to inaugurate Aranmula boat race on Sunday",
-      "desc": "Vice President C P Radhakrishnan to inaugurate Aranmula Uthrittathi boat race Sunday; 51 snake boats compete, tight security and traffic curbs in place.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/kochi/vice-president-to-inaugurate-aranmula-boat-race-on-sunday/articleshow/133595225.cms",
-      "time": "2026-08-28T15:59:30",
-      "country": "International",
-      "title_ur": "Vice-President to inaugurate Aranmula boat race on Sunday",
-      "desc_ur": "Vice President C P Radhakrishnan to inaugurate Aranmula Uthrittathi boat race Sunday; 51 snake boats compete, tight security and traffic curbs in place."
-    },
-    {
-      "title": "Millions of VPN users in the US are inadvertently putting their privacy at risk, Proton warns",
-      "desc": "Think a VPN keeps you completely anonymous? A sweeping new study by Proton reveals that 85% of VPN apps in the US contain hidden trackers, exposing millions of users to the exact privacy risks they’re trying to avoid.",
-      "source": "TechRadar",
-      "url": "https://www.techradar.com/vpn/vpn-privacy-security/millions-of-vpn-users-in-the-us-are-inadvertently-putting-their-privacy-at-risk-proton-warns",
-      "time": "2026-08-28T15:58:33",
+      "url": "https://www.dailymail.com/debate/article-16088273/BORIS-JOHNSON-Texas-solar-wind-power-electricity-bills-low.html",
+      "time": "2026-08-28T19:20:48",
       "country": "US",
-      "title_ur": "Millions of VPN users in the US are inadvertently putting their privacy at risk, Proton warns",
-      "desc_ur": "Think a VPN keeps you completely anonymous? A sweeping new study by Proton reveals that 85% of VPN apps in the US contain hidden trackers, exposing millions of users to the exact privacy risks they’re trying to avoid."
+      "title_ur": "BORIS JOHNSON: The hot dang Right-wingers of oil-rich Texas love solar and wind power - here's why THEIR electricity bills are so low",
+      "desc_ur": "We just can't go on like this. It is now clear that the cost of electricity in this country is out of control. We are walloping consumers and we are crippling our industry."
     },
     {
-      "title": "Madurai corporation takes up borewell repair work to supplant drinking water issues",
-      "desc": "Madurai Corporation sanctions Rs 95.52 lakh for borewell repairs in Avaniyapuram, Melakkal and Kochadai to ease drinking water shortages and reduce tanker reliance.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/madurai/madurai-corporation-takes-up-borewell-repair-work-to-supplant-drinking-water-issues/articleshow/133595229.cms",
-      "time": "2026-08-28T15:58:20",
-      "country": "International",
-      "title_ur": "Madurai corporation takes up borewell repair work to supplant drinking water issues",
-      "desc_ur": "Madurai Corporation sanctions Rs 95.52 lakh for borewell repairs in Avaniyapuram, Melakkal and Kochadai to ease drinking water shortages and reduce tanker reliance."
-    },
-    {
-      "title": "Vice President to inaugurate Aranmula boat race tomorrow",
-      "desc": "Vice President C P Radhakrishnan to inaugurate Aranmula Uthrittathi boat race Sunday; 51 snake boats compete, tight security and traffic curbs in place.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/kochi/vice-president-to-inaugurate-aranmula-boat-race-tomorrow/articleshow/133595224.cms",
-      "time": "2026-08-28T15:58:13",
-      "country": "International",
-      "title_ur": "Vice President to inaugurate Aranmula boat race tomorrow",
-      "desc_ur": "Vice President C P Radhakrishnan to inaugurate Aranmula Uthrittathi boat race Sunday; 51 snake boats compete, tight security and traffic curbs in place."
-    },
-    {
-      "title": "Kolkata home registrations rebound 50% in July after election-led slowdown",
-      "desc": "Kolkata home registrations rebounded 50% in July 2026 to 5,516 units, up 18% YoY, after election slowdown; demand shifts toward larger, mid-sized homes.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/kolkata/kolkata-home-registrations-rebound-50-in-july-after-election-led-slowdown/articleshow/133595180.cms",
-      "time": "2026-08-28T15:58:07",
-      "country": "International",
-      "title_ur": "Kolkata home registrations rebound 50% in July after election-led slowdown",
-      "desc_ur": "Kolkata home registrations rebounded 50% in July 2026 to 5,516 units, up 18% YoY, after election slowdown; demand shifts toward larger, mid-sized homes."
-    },
-    {
-      "title": "‘Oh, Wow!’ CNN’s Kaitlan Collins Stuns Kara Swisher by Predicting Trump Won’t Cooperate if Democrats Win Midterms",
-      "desc": "CNN's Kaitlan Collins stunned Kara Swisher with her prediction that President Trump will be far more aggressive with Democrats after the midterms.\nThe post ‘Oh, Wow!’ CNN’s Kaitlan Collins Stuns Kara Swisher by Predicting Trump Won’t Cooperate if Democrats Wi…",
-      "source": "Mediaite",
-      "url": "https://www.mediaite.com/media/podcasts/oh-wow-cnns-kaitlan-collins-stuns-kara-swisher-by-predicting-trump-wont-cooperate-if-democrats-win-midterms/",
-      "time": "2026-08-28T15:58:05",
-      "country": "US",
-      "title_ur": "‘Oh, Wow!’ CNN’s Kaitlan Collins Stuns Kara Swisher by Predicting Trump Won’t Cooperate if Democrats Win Midterms",
-      "desc_ur": "CNN's Kaitlan Collins stunned Kara Swisher with her prediction that President Trump will be far more aggressive with Democrats after the midterms.\nThe post ‘Oh, Wow!’ CNN’s Kaitlan Collins Stuns Kara Swisher by Predicting Trump Won’t Cooperate if Democrats Wi…"
-    },
-    {
-      "title": "Driver saves school children before dying of heart attack on Coimbatore railway overbridge",
-      "desc": "COIMBATORE: A 69-year-old school van driver saved the lives of several children by safely halting his vehicle on a flyover here seconds before succumb.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/coimbatore/driver-saves-school-children-before-dying-of-heart-attack-on-coimbatore-railway-overbridge/articleshow/133595188.cms",
-      "time": "2026-08-28T15:57:29",
-      "country": "International",
-      "title_ur": "Driver saves school children before dying of heart attack on Coimbatore railway overbridge",
-      "desc_ur": "COIMBATORE: A 69-year-old school van driver saved the lives of several children by safely halting his vehicle on a flyover here seconds before succumb."
-    },
-    {
-      "title": "Oil Shrugs Off Trump’s ‘Toughest Sanctions in History’",
-      "desc": "Oil holds near $90 despite sweeping Iran sanctions as uncertainty over Hormuz transits keeps markets on edge.",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/energy/articles/oil-shrugs-off-trump-toughest-155522337.html",
-      "time": "2026-08-28T15:55:22",
+      "title": "Power Game: Putin sees U.S. as weakened, “defies” Trump’s message and prepares to meet Xi Jinping and Pezeshkian",
+      "desc": "According to The Washington Post, the Russian president believes the U.S. has been weakened by its prolonged war with Iran and is therefore unable to deter a Russian escalation in Ukraine, despite the message delivered to the Kremlin by the CIA director\nThe p…",
+      "source": "Protothema.gr",
+      "url": "https://en.protothema.gr/2026/08/28/power-game-putin-sees-u-s-as-weakened-defies-trumps-message-and-prepares-to-meet-xi-jinping-and-pezeshkian/",
+      "time": "2026-08-28T19:20:33",
       "country": "Iran",
-      "title_ur": "Oil Shrugs Off Trump’s ‘Toughest Sanctions in History’",
-      "desc_ur": "Oil holds near $90 despite sweeping Iran sanctions as uncertainty over Hormuz transits keeps markets on edge."
-    },
-    {
-      "title": "Veligonda project set for Aug 31 launch, but rehab issues remain",
-      "desc": "Veligonda irrigation project to deliver 10 TMC water from Aug 31, but 7,500 displaced families cite pending compensation and poor rehab colony infrastructure.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/vijayawada/veligonda-project-set-for-aug-31-launch-but-rehab-issues-remain/articleshow/133595171.cms",
-      "time": "2026-08-28T15:52:01",
-      "country": "International",
-      "title_ur": "Veligonda project set for Aug 31 launch, but rehab issues remain",
-      "desc_ur": "Veligonda irrigation project to deliver 10 TMC water from Aug 31, but 7,500 displaced families cite pending compensation and poor rehab colony infrastructure."
-    },
-    {
-      "title": "A Top FBI Official's Remarks About Running a Secret Government Are Now More Chilling\nMatt Vespa\nFollow @mVespa1\nAugust 28, 2026 6:50 AM",
-      "desc": "It didn’t happen all at once, but the timelines and the new document dumps paint a disturbing picture of what we knew would appear on the canvas long before Trump’s second presidency and the disclosures that exposed the whole deep state circus. We have former…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-bloggers/4393446/posts",
-      "time": "2026-08-28T15:51:50",
-      "country": "US",
-      "title_ur": "A Top FBI Official's Remarks About Running a Secret Government Are Now More Chilling\nMatt Vespa\nFollow @mVespa1\nAugust 28, 2026 6:50 AM",
-      "desc_ur": "It didn’t happen all at once, but the timelines and the new document dumps paint a disturbing picture of what we knew would appear on the canvas long before Trump’s second presidency and the disclosures that exposed the whole deep state circus. We have former…"
-    },
-    {
-      "title": "WH: Naval blockade against Iran 'in full force'",
-      "desc": "White House Deputy Press Secretary Anna Kelly told Al-Jazeera on Friday that the United States naval blockade against Iran \"remains in full force and effect.\"Kelly also addressed recently imposed US e...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/f6fb307cfe472b44",
-      "time": "2026-08-28T15:51:50",
-      "country": "Iran",
-      "title_ur": "WH: Naval blockade against Iran 'in full force'",
-      "desc_ur": "White House Deputy Press Secretary Anna Kelly told Al-Jazeera on Friday that the United States naval blockade against Iran \"remains in full force and effect.\"Kelly also addressed recently imposed US e..."
-    },
-    {
-      "title": "Administration deal to cancel offshore wind project gives boost to Trump donor",
-      "desc": "There’s no shortage of lessons to be learned from the U.S. war with Iran, but high on the list is that it’s in Americans’ interest to embrace renewable energy — not just because it’s cleaner and cheaper, but also because it helps shield consumers from interna…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/73ca7a3c5a21e3df",
-      "time": "2026-08-28T15:51:15",
-      "country": "Iran",
-      "title_ur": "Administration deal to cancel offshore wind project gives boost to Trump donor",
-      "desc_ur": "There’s no shortage of lessons to be learned from the U.S. war with Iran, but high on the list is that it’s in Americans’ interest to embrace renewable energy — not just because it’s cleaner and cheaper, but also because it helps shield consumers from interna…"
-    },
-    {
-      "title": "Mineral exploration in Devadurga gold-copper block to to be expedited: Bhatti",
-      "desc": "Deputy CM Bhatti Vikramarka urges faster exploration in SCCL’s Devadurga Gold–Copper block, eyeing a joint venture with Hutti Gold Mines to boost output.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/hyderabad/mineral-exploration-in-devadurga-gold-copper-block-to-to-be-expedited-bhatti/articleshow/133591640.cms",
-      "time": "2026-08-28T15:51:05",
-      "country": "International",
-      "title_ur": "Mineral exploration in Devadurga gold-copper block to to be expedited: Bhatti",
-      "desc_ur": "Deputy CM Bhatti Vikramarka urges faster exploration in SCCL’s Devadurga Gold–Copper block, eyeing a joint venture with Hutti Gold Mines to boost output."
+      "title_ur": "Power Game: Putin sees U.S. as weakened, “defies” Trump’s message and prepares to meet Xi Jinping and Pezeshkian",
+      "desc_ur": "According to The Washington Post, the Russian president believes the U.S. has been weakened by its prolonged war with Iran and is therefore unable to deter a Russian escalation in Ukraine, despite the message delivered to the Kremlin by the CIA director\nThe p…"
     }
   ],
   "pakistan": [
     {
-      "title": "As Imran Khan's health fades while he's locked up in a 'death cell', and Pakistan players are forced to turn a blind eye, the sport he graced for so long deserves great credit for refusing to let him disappear, writes OLIVER HOLT",
-      "desc": "There is a portrait in the Lord's Long Room, a water colour of Imran Khan, his head bowed, his face stern and set in concentration, a pen in his hand. It is a beautiful, poignant painting.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/sport/cricket/article-16087659/Imran-Khan-death-cell-Pakistan-OLIVER-HOLT.html",
-      "time": "2026-08-28T16:00:46",
-      "country": "Pakistan",
-      "title_ur": "As Imran Khan's health fades while he's locked up in a 'death cell', and Pakistan players are forced to turn a blind eye, the sport he graced for so long deserves great credit for refusing to let him disappear, writes OLIVER HOLT",
-      "desc_ur": "There is a portrait in the Lord's Long Room, a water colour of Imran Khan, his head bowed, his face stern and set in concentration, a pen in his hand. It is a beautiful, poignant painting."
-    },
-    {
-      "title": "Colleges ordered to cut fried foods amid edible oil crisis",
-      "desc": "Odisha govt directs colleges to cut cooking oil use in hostels and canteens, avoid deep-fried foods, and promote traditional oils amid global supply disruptions.",
+      "title": "HC terms Punjab ‘cash-for transfers’ charges ‘serious’, seeks ED letters sent to DGP",
+      "desc": "Punjab & Haryana High Court calls Punjab “cash-for-transfer” allegations serious, seeks ED letters to DGP; PIL seeks court-monitored CBI probe, hearing Sept 3.",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/colleges-ordered-to-cut-fried-foods-amid-edible-oil-crisis/articleshow/133595308.cms",
-      "time": "2026-08-28T15:58:36",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/hc-terms-punjab-cash-for-transfers-charges-serious-seeks-ed-letters-sent-to-dgp/articleshow/133599479.cms",
+      "time": "2026-08-28T19:18:59",
       "country": "Pakistan",
-      "title_ur": "Colleges ordered to cut fried foods amid edible oil crisis",
-      "desc_ur": "Odisha govt directs colleges to cut cooking oil use in hostels and canteens, avoid deep-fried foods, and promote traditional oils amid global supply disruptions."
+      "title_ur": "HC terms Punjab ‘cash-for transfers’ charges ‘serious’, seeks ED letters sent to DGP",
+      "desc_ur": "Punjab & Haryana High Court calls Punjab “cash-for-transfer” allegations serious, seeks ED letters to DGP; PIL seeks court-monitored CBI probe, hearing Sept 3."
     },
     {
-      "title": "Treasury moves to sanction UAE branch of Egyptian bank over Iran ties",
-      "desc": "The Treasury Department on Friday moved to sanction the United Arab Emirates branch of an Egyptian bank over its financial ties to Iran.\nTreasury intends to revoke the access of Banque Misr UAE to U.S. financial institutions, the department said in a statemen…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/5166a8b002b7ff08",
-      "time": "2026-08-28T15:51:09",
-      "country": "Pakistan",
-      "title_ur": "Treasury moves to sanction UAE branch of Egyptian bank over Iran ties",
-      "desc_ur": "The Treasury Department on Friday moved to sanction the United Arab Emirates branch of an Egyptian bank over its financial ties to Iran.\nTreasury intends to revoke the access of Banque Misr UAE to U.S. financial institutions, the department said in a statemen…"
-    },
-    {
-      "title": "The Everyday Corruption of the New Gilded Age",
-      "desc": "One reason that people are looking past the everyday corruption of this era is that this era is defined by everyday corruption, more from Republicans than Democrats but also too many Democrats, with the rich stealing left and right, and with a social media/po…",
-      "source": "Lawyersgunsmoneyblog.com",
-      "url": "https://www.lawyersgunsmoneyblog.com/2026/08/the-everyday-corruption-of-the-new-gilded-age",
-      "time": "2026-08-28T15:39:46",
-      "country": "Pakistan",
-      "title_ur": "The Everyday Corruption of the New Gilded Age",
-      "desc_ur": "One reason that people are looking past the everyday corruption of this era is that this era is defined by everyday corruption, more from Republicans than Democrats but also too many Democrats, with the rich stealing left and right, and with a social media/po…"
-    },
-    {
-      "title": "US issues fresh Iran-related sanctions as war marks six months",
-      "desc": "The United States has imposed additional targeted Iran-related sanctions this week. An Egyptian bank faces limits for conducting business with Tehran, and its UAE branches will lose US financial access. Treasury officials also sanctioned a Hong Kong entity an…",
+      "title": "Congress seeks dissolution of MC, pushes for anti-defection law",
+      "desc": "Chandigarh Congress urges administrator to dissolve MC, amend MC Act, and add anti-defection law; seeks direct mayor election and reforms amid corruption claims.",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/defence/us-issues-fresh-iran-related-sanctions-as-war-marks-six-months/articleshow/133594999.cms",
-      "time": "2026-08-28T15:38:47",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/congress-seeks-dissolution-of-mc-pushes-for-anti-defection-law/articleshow/133599469.cms",
+      "time": "2026-08-28T19:17:29",
       "country": "Pakistan",
-      "title_ur": "US issues fresh Iran-related sanctions as war marks six months",
-      "desc_ur": "The United States has imposed additional targeted Iran-related sanctions this week. An Egyptian bank faces limits for conducting business with Tehran, and its UAE branches will lose US financial access. Treasury officials also sanctioned a Hong Kong entity an…"
+      "title_ur": "Congress seeks dissolution of MC, pushes for anti-defection law",
+      "desc_ur": "Chandigarh Congress urges administrator to dissolve MC, amend MC Act, and add anti-defection law; seeks direct mayor election and reforms amid corruption claims."
     },
     {
-      "title": "Brilliant bowling - Relentless Robinson stars with the ball",
-      "desc": "England bowler Ollie Robinson finishes with four wickets for just 11 runs as Pakistan are bowled out for 110, giving England a lead of 180 on the second day of the second Test at Lord's.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/cricket/videos/cwyz1jkpn3no",
-      "time": "2026-08-28T15:37:50",
+      "title": "Transfer delay row triggers action against PO cell in-charge",
+      "desc": "Chandigarh police transfer PO & Summons Cell in-charge to police lines; head constable ordered to join crime branch amid anonymous corruption complaint inquiry.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/transfer-delay-row-triggers-action-against-po-cell-in-charge/articleshow/133599466.cms",
+      "time": "2026-08-28T19:17:15",
       "country": "Pakistan",
-      "title_ur": "Brilliant bowling - Relentless Robinson stars with the ball",
-      "desc_ur": "England bowler Ollie Robinson finishes with four wickets for just 11 runs as Pakistan are bowled out for 110, giving England a lead of 180 on the second day of the second Test at Lord's."
+      "title_ur": "Transfer delay row triggers action against PO cell in-charge",
+      "desc_ur": "Chandigarh police transfer PO & Summons Cell in-charge to police lines; head constable ordered to join crime branch amid anonymous corruption complaint inquiry."
+    },
+    {
+      "title": "Punjab plans Rs 26cr push to curb stubble burning",
+      "desc": "Punjab submits Rs 26.31 crore action plan to CAQM to eliminate stubble burning in KMS 2026-27, funding IEC outreach, media campaigns and bio-decomposer.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/punjab-plans-rs-26cr-push-to-curb-stubble-burning/articleshow/133599448.cms",
+      "time": "2026-08-28T19:16:19",
+      "country": "Pakistan",
+      "title_ur": "Punjab plans Rs 26cr push to curb stubble burning",
+      "desc_ur": "Punjab submits Rs 26.31 crore action plan to CAQM to eliminate stubble burning in KMS 2026-27, funding IEC outreach, media campaigns and bio-decomposer."
+    },
+    {
+      "title": "PGI eyes adoption of Japanese 3D imaging technology for complex surgeries",
+      "desc": "PGI to adopt Japanese 3D imaging and reconstruction tech to improve precision liver surgeries, enabling better tumor excision, less blood loss, and faster recovery.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/pgi-eyes-adoption-of-japanese-3d-imaging-technology-for-complex-surgeries/articleshow/133599457.cms",
+      "time": "2026-08-28T19:16:17",
+      "country": "Pakistan",
+      "title_ur": "PGI eyes adoption of Japanese 3D imaging technology for complex surgeries",
+      "desc_ur": "PGI to adopt Japanese 3D imaging and reconstruction tech to improve precision liver surgeries, enabling better tumor excision, less blood loss, and faster recovery."
     }
   ],
   "business": {
@@ -224,18 +214,9 @@
     "city_ur": "لاہور",
     "forecast": [
       {
-        "date": "2026-08-29",
-        "day": "ہفتہ",
-        "high": 36,
-        "low": 30,
-        "condition": "Light Drizzle",
-        "condition_ur": "ہلکی بوندا باندی",
-        "precip": 2
-      },
-      {
         "date": "2026-08-30",
         "day": "اتوار",
-        "high": 37,
+        "high": 38,
         "low": 28,
         "condition": "Light Drizzle",
         "condition_ur": "ہلکی بوندا باندی",
@@ -245,25 +226,25 @@
         "date": "2026-08-31",
         "day": "پیر",
         "high": 37,
-        "low": 27,
-        "condition": "Drizzle",
-        "condition_ur": "بوندا باندی",
+        "low": 28,
+        "condition": "Thunderstorm",
+        "condition_ur": "گرج چمک",
         "precip": 63
       },
       {
         "date": "2026-09-01",
         "day": "منگل",
-        "high": 35,
-        "low": 25,
-        "condition": "Drizzle",
-        "condition_ur": "بوندا باندی",
+        "high": 36,
+        "low": 26,
+        "condition": "Light Drizzle",
+        "condition_ur": "ہلکی بوندا باندی",
         "precip": 71
       },
       {
         "date": "2026-09-02",
         "day": "بدھ",
         "high": 36,
-        "low": 26,
+        "low": 25,
         "condition": "Light Drizzle",
         "condition_ur": "ہلکی بوندا باندی",
         "precip": 63
@@ -272,25 +253,34 @@
         "date": "2026-09-03",
         "day": "جمعرات",
         "high": 35,
-        "low": 25,
-        "condition": "Drizzle",
-        "condition_ur": "بوندا باندی",
+        "low": 24,
+        "condition": "Light Drizzle",
+        "condition_ur": "ہلکی بوندا باندی",
         "precip": 35
       },
       {
         "date": "2026-09-04",
         "day": "جمعہ",
         "high": 34,
-        "low": 27,
-        "condition": "Light Drizzle",
-        "condition_ur": "ہلکی بوندا باندی",
+        "low": 26,
+        "condition": "Drizzle",
+        "condition_ur": "بوندا باندی",
         "precip": 29
+      },
+      {
+        "date": "2026-09-05",
+        "day": "ہفتہ",
+        "high": 33,
+        "low": 25,
+        "condition": "Overcast",
+        "condition_ur": "ابر آلود",
+        "precip": 49
       }
     ]
   },
   "date": {
-    "gregorian": "Saturday, 29 August 2026",
-    "hijri": "16 Rabīʿ al-awwal 1448",
-    "hijri_ur": "16 رَبيع الأوّل 1448"
+    "gregorian": "Sunday, 30 August 2026",
+    "hijri": "17 Rabīʿ al-awwal 1448",
+    "hijri_ur": "17 رَبيع الأوّل 1448"
   }
 }
