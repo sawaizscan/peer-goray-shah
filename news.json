@@ -1,209 +1,158 @@
 {
-  "generated": "2026-09-02T16:45:27Z",
+  "generated": "2026-09-02T19:35:52Z",
   "world": [
     {
-      "title": "Two seats, many claimants: Nagendra’s exit leaves Shivakumar with another balancing act",
-      "desc": "DK Shivakumar faces a fresh cabinet balancing act as B Nagendra’s resignation creates two vacancies, sparking renewed ministerial claims and regional pressure in Karnataka Congress.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/bengaluru/two-seats-many-claimants-nagendras-exit-leaves-shivakumar-with-another-balancing-act/articleshow/133687551.cms",
-      "time": "2026-09-01T16:44:57",
-      "country": "International",
-      "title_ur": "Two seats, many claimants: Nagendra’s exit leaves Shivakumar with another balancing act",
-      "desc_ur": "DK Shivakumar faces a fresh cabinet balancing act as B Nagendra’s resignation creates two vacancies, sparking renewed ministerial claims and regional pressure in Karnataka Congress."
-    },
-    {
-      "title": "DMK leader Thangam Thennarasu rejects Congress charge on Kamaraj memorial land",
-      "desc": "CHENNAI: Former minister Thangam Thennarasu on Tuesday rejected Congress floor leader Tharahai Cuthbert’s charge that the then DMK govt had denied lan.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/chennai/dmk-leader-thangam-thennarasu-rejects-congress-charge-on-kamaraj-memorial-land/articleshow/133687401.cms",
-      "time": "2026-09-01T16:44:11",
-      "country": "International",
-      "title_ur": "DMK leader Thangam Thennarasu rejects Congress charge on Kamaraj memorial land",
-      "desc_ur": "CHENNAI: Former minister Thangam Thennarasu on Tuesday rejected Congress floor leader Tharahai Cuthbert’s charge that the then DMK govt had denied lan."
-    },
-    {
-      "title": "Blasts said to rock southern Iran",
-      "desc": "Multiple explosions thundered across southern Iran on Tuesday amid unconfirmed reports that the United States carried out new airstrikes against that country. Blasts were said to have occurred in the ...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/96ec3f78a554f496",
-      "time": "2026-09-01T16:44:10",
-      "country": "Iran",
-      "title_ur": "Blasts said to rock southern Iran",
-      "desc_ur": "Multiple explosions thundered across southern Iran on Tuesday amid unconfirmed reports that the United States carried out new airstrikes against that country. Blasts were said to have occurred in the ..."
-    },
-    {
-      "title": "Oil soars to 3-month high on Iran strike reports",
-      "desc": "Crude prices climbed to their highest level since mid-May following reports of renewed strikes on Iran on Tuesday.West Texas Intermediate (WTI) for October settlements surged 3.93% to $89.74 per barre...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/89f539b4ea153111",
-      "time": "2026-09-01T16:44:04",
-      "country": "Iran",
-      "title_ur": "Oil soars to 3-month high on Iran strike reports",
-      "desc_ur": "Crude prices climbed to their highest level since mid-May following reports of renewed strikes on Iran on Tuesday.West Texas Intermediate (WTI) for October settlements surged 3.93% to $89.74 per barre..."
-    },
-    {
-      "title": "US issues security alerts for Israel, Qatar, Bahrain",
-      "desc": "The United States issues security alerts for US citizens in Israel, Qatar, and Bahrain, amid reports of airstrikes being carried out on southern Iran. Americans in the listed countries were advised to...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/9271a387cdec1c6b",
-      "time": "2026-09-01T16:44:03",
-      "country": "Iran",
-      "title_ur": "US issues security alerts for Israel, Qatar, Bahrain",
-      "desc_ur": "The United States issues security alerts for US citizens in Israel, Qatar, and Bahrain, amid reports of airstrikes being carried out on southern Iran. Americans in the listed countries were advised to..."
-    },
-    {
-      "title": "Trump says US launches ‘large and powerful’ strikes on Iranian targets near Strait of Hormuz",
-      "desc": "Responding to rising threats in the region, United States forces have executed strikes aimed at Iran's Islamic Revolutionary Guard Corps targets. Central Command reported that the operations commenced on Tuesday afternoon, citing recent aggressive actions aga…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/defence/trump-says-us-launches-large-and-powerful-strikes-on-iranian-targets-near-strait-of-hormuz/articleshow/133687367.cms",
-      "time": "2026-09-01T16:43:07",
-      "country": "Iran",
-      "title_ur": "Trump says US launches ‘large and powerful’ strikes on Iranian targets near Strait of Hormuz",
-      "desc_ur": "Responding to rising threats in the region, United States forces have executed strikes aimed at Iran's Islamic Revolutionary Guard Corps targets. Central Command reported that the operations commenced on Tuesday afternoon, citing recent aggressive actions aga…"
-    },
-    {
-      "title": "Israel establishes two settlements deep in Palestinian areas of West Bank",
-      "desc": "Netanyahu ministers attended a groundbreaking for a new settlement in the southern West Bank, while settler leader Yossi Dagan hailed another in the north as a 'restoration of justice' and an 'absolute victory'",
-      "source": "Haaretz",
-      "url": "https://www.haaretz.com/west-bank/2026-09-01/ty-article/.premium/israel-establishes-two-settlements-deep-in-palestinian-areas-of-west-bank/000001a0-5c31-d0e6-a7f4-7fb9334a0000",
-      "time": "2026-09-01T16:41:52",
+      "title": "Israel’s multiple wars see finance, defence ministries clash over spending",
+      "desc": "Spiraling costs of Israel's conflicts deepen rift between finance and defense ministries ahead of budget decisions.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/9/1/israels-multiple-wars-see-finance-defence-ministries-clash-over-spending",
+      "time": "2026-09-01T19:33:22",
       "country": "Israel",
-      "title_ur": "Israel establishes two settlements deep in Palestinian areas of West Bank",
-      "desc_ur": "Netanyahu ministers attended a groundbreaking for a new settlement in the southern West Bank, while settler leader Yossi Dagan hailed another in the north as a 'restoration of justice' and an 'absolute victory'"
+      "title_ur": "Israel’s multiple wars see finance, defence ministries clash over spending",
+      "desc_ur": "Spiraling costs of Israel's conflicts deepen rift between finance and defense ministries ahead of budget decisions."
     },
     {
-      "title": "Meet Crown Princess Ingrid Alexandra: The 22-year-old Norway’s first adult heir as King Haakon takes oath, could become first reigning queen in over 600 years since Queen Margaret",
-      "desc": "Crown Princess Ingrid Alexandra, 22, has stepped into a historic new role as heir to Norway’s throne following King Haakon’s accession. As Haakon takes his constitutional oath, Ingrid Alexandra becomes the country’s first adult heir at the time of succession …",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/europe/meet-crown-princess-ingrid-alexandra-the-22-year-old-norways-first-adult-heir-as-king-haakon-takes-oath-could-become-first-reigning-queen-in-over-600-years-since-queen-margaret/articleshow/133687224.cms",
-      "time": "2026-09-01T16:41:15",
-      "country": "International",
-      "title_ur": "Meet Crown Princess Ingrid Alexandra: The 22-year-old Norway’s first adult heir as King Haakon takes oath, could become first reigning queen in over 600 years since Queen Margaret",
-      "desc_ur": "Crown Princess Ingrid Alexandra, 22, has stepped into a historic new role as heir to Norway’s throne following King Haakon’s accession. As Haakon takes his constitutional oath, Ingrid Alexandra becomes the country’s first adult heir at the time of succession …"
-    },
-    {
-      "title": "CEA proposes two-shift operation for thermal plants to absorb surplus green power",
-      "desc": "Environment News: NEW DELHI: A Central Electricity Authority (CEA) panel has recommended two-shift operation of 151 old coal-fired power units with a combined capacity .",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/home/environment/cea-proposes-two-shift-operation-for-thermal-plants-to-absorb-surplus-green-power/articleshow/133687326.cms",
-      "time": "2026-09-01T16:40:33",
-      "country": "India",
-      "title_ur": "CEA proposes two-shift operation for thermal plants to absorb surplus green power",
-      "desc_ur": "Environment News: NEW DELHI: A Central Electricity Authority (CEA) panel has recommended two-shift operation of 151 old coal-fired power units with a combined capacity ."
-    },
-    {
-      "title": "Archer-Daniels-Midland (ADM) Bets Big On Oilseed Crush Capacity",
-      "desc": "On August 4, Archer-Daniels-Midland (NYSE:ADM) executives told investors on an earnings call that the company would expand capacity at four US oilseed-crushi...",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/archer-daniels-midland-adm-bets-163922637.html",
-      "time": "2026-09-01T16:39:22",
+      "title": "Nicki Minaj to Serve as Judge in Donald Trump’s New Reality Competition Show",
+      "desc": "Former American Idol judge Nicki Minaj is returning to the world of reality competition shows — courtesy of her friend, President Donald Trump. “This is a major, MAJOR KEY,” Minaj, 43, wrote via X on Monday, August 31, when confirming her involvement in The M…",
+      "source": "Us Weekly",
+      "url": "https://www.usmagazine.com/celebrity-news/news/nicki-minaj-to-serve-as-judge-in-donald-trumps-next-show/",
+      "time": "2026-09-01T19:33:10",
       "country": "US",
-      "title_ur": "Archer-Daniels-Midland (ADM) Bets Big On Oilseed Crush Capacity",
-      "desc_ur": "On August 4, Archer-Daniels-Midland (NYSE:ADM) executives told investors on an earnings call that the company would expand capacity at four US oilseed-crushi..."
+      "title_ur": "Nicki Minaj to Serve as Judge in Donald Trump’s New Reality Competition Show",
+      "desc_ur": "Former American Idol judge Nicki Minaj is returning to the world of reality competition shows — courtesy of her friend, President Donald Trump. “This is a major, MAJOR KEY,” Minaj, 43, wrote via X on Monday, August 31, when confirming her involvement in The M…"
     },
     {
-      "title": "Iran president thanks Putin for Russia’s stance in war with US",
-      "desc": "Iranian President Masoud Pezeshkian thanked Russian President Vladimir Putin on Tuesday for Moscow’s stance during the Middle East war, in their first meeting since the conflict broke out. Moscow has massively deepened military and economic ties with Iran sin…",
-      "source": "The Punch",
-      "url": "https://punchng.com/iran-president-thanks-putin-for-russias-stance-in-war-with-us/",
-      "time": "2026-09-01T16:38:54",
+      "title": "One glaring issue goes unaddressed in UN chief's high-stakes talks with Iran's president",
+      "desc": "António Guterres met Iranian President Masoud Pezeshkian, but a U.N. readout omitted any mention of detained protesters or torture allegations.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/world/one-glaring-issue-goes-unaddressed-un-chiefs-high-stakes-talks-irans-president",
+      "time": "2026-09-01T19:32:55",
       "country": "Iran",
-      "title_ur": "Iran president thanks Putin for Russia’s stance in war with US",
-      "desc_ur": "Iranian President Masoud Pezeshkian thanked Russian President Vladimir Putin on Tuesday for Moscow’s stance during the Middle East war, in their first meeting since the conflict broke out. Moscow has massively deepened military and economic ties with Iran sin…"
+      "title_ur": "One glaring issue goes unaddressed in UN chief's high-stakes talks with Iran's president",
+      "desc_ur": "António Guterres met Iranian President Masoud Pezeshkian, but a U.N. readout omitted any mention of detained protesters or torture allegations."
     },
     {
-      "title": "Lankan Tamil refugee seeks relief for daughter’s death after drinking ‘contaminated water’",
-      "desc": "Madras High Court directs Virudhunagar collector to decide compensation plea by Sri Lankan Tamil refugee after daughter died from alleged contaminated camp water.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/madurai/lankan-tamil-refugee-seeks-relief-for-daughters-death-after-drinking-contaminated-water/articleshow/133687364.cms",
-      "time": "2026-09-01T16:38:34",
+      "title": "Bond sell-off threatens to squeeze borrowers around the world",
+      "desc": "Rising borrowing costs are pressuring governments and pushing up loan rates.",
+      "source": "New Zealand Herald",
+      "url": "https://www.nzherald.co.nz/business/bond-sell-off-threatens-to-squeeze-borrowers-around-the-world/premium/MOKZTYI7P5BVPD6USQDIUS64NU/",
+      "time": "2026-09-01T19:32:36",
+      "country": "US",
+      "title_ur": "Bond sell-off threatens to squeeze borrowers around the world",
+      "desc_ur": "Rising borrowing costs are pressuring governments and pushing up loan rates."
+    },
+    {
+      "title": "Here's What Happened Today: Tuesday",
+      "desc": "The most important Irish and international stories you need to know today.",
+      "source": "TheJournal.ie",
+      "url": "https://www.thejournal.ie/news-fix-01-09-26-7149449-Sep2026/",
+      "time": "2026-09-01T19:31:28",
       "country": "International",
-      "title_ur": "Lankan Tamil refugee seeks relief for daughter’s death after drinking ‘contaminated water’",
-      "desc_ur": "Madras High Court directs Virudhunagar collector to decide compensation plea by Sri Lankan Tamil refugee after daughter died from alleged contaminated camp water."
+      "title_ur": "Here's What Happened Today: Tuesday",
+      "desc_ur": "The most important Irish and international stories you need to know today."
     },
     {
-      "title": "Raju Naskar re-arrested for extortion, property seizure",
-      "desc": "Kolkata police re-arrest Beliaghata strongman Raju Naskar in extortion and gunpoint property seizure case; FIR cites BNS sections and Arms Act.",
+      "title": "Burnham promised hope. Reality is already getting in the way",
+      "desc": "Andy Burnham's first parliamentary statement as prime minister illustrated the pitfalls he'll face on the way to the next election.",
+      "source": "POLITICO.eu",
+      "url": "https://www.politico.eu/article/andy-burnham-first-uk-pm-statement-parliament-promises/",
+      "time": "2026-09-01T19:30:27",
+      "country": "US",
+      "title_ur": "Burnham promised hope. Reality is already getting in the way",
+      "desc_ur": "Andy Burnham's first parliamentary statement as prime minister illustrated the pitfalls he'll face on the way to the next election."
+    },
+    {
+      "title": "BREAKING: U.S. Launch LARGEST Strikes In Iran - IRGC Move Troops To Borders",
+      "desc": "Update on war in Iran",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4393892/posts",
+      "time": "2026-09-01T19:30:19",
+      "country": "Iran",
+      "title_ur": "BREAKING: U.S. Launch LARGEST Strikes In Iran - IRGC Move Troops To Borders",
+      "desc_ur": "Update on war in Iran"
+    },
+    {
+      "title": "Bessent Says Strait of Hormuz Obsolete Within Two Years",
+      "desc": "Treasury Secretary Scott Bessent says Gulf oil producers could bypass the Strait of Hormuz within two years, putting a remarkably short timetable on a pipeline buildout that has accelerated since the Iran war disrupted one of the world’s busiest oil routes. “…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Bessent-Says-Strait-of-Hormuz-Obsolete-Within-Two-Years.html",
+      "time": "2026-09-01T19:30:00",
+      "country": "Iran",
+      "title_ur": "Bessent Says Strait of Hormuz Obsolete Within Two Years",
+      "desc_ur": "Treasury Secretary Scott Bessent says Gulf oil producers could bypass the Strait of Hormuz within two years, putting a remarkably short timetable on a pipeline buildout that has accelerated since the Iran war disrupted one of the world’s busiest oil routes. “…"
+    },
+    {
+      "title": "The Irish Times view on the world order: global power is shifting",
+      "desc": "Xi Jinping’s influence continues to grow while American authority wanes",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/opinion/editorials/2026/09/01/the-irish-times-view-on-the-sco-summit-global-power-is-shifting/",
+      "time": "2026-09-01T19:30:00",
+      "country": "China",
+      "title_ur": "The Irish Times view on the world order: global power is shifting",
+      "desc_ur": "Xi Jinping’s influence continues to grow while American authority wanes"
+    },
+    {
+      "title": "'Nothing Trump can do to bring down oil prices before the midterms': Reporter",
+      "desc": "President Trump is meeting with oil executives today as the Iran war continues to cause gas prices to increase. Morgan State ...",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/a12b81448de7275b",
+      "time": "2026-09-01T19:29:45",
+      "country": "Iran",
+      "title_ur": "'Nothing Trump can do to bring down oil prices before the midterms': Reporter",
+      "desc_ur": "President Trump is meeting with oil executives today as the Iran war continues to cause gas prices to increase. Morgan State ..."
+    },
+    {
+      "title": "US Launches New Iran Strikes | Radio Balance of Power: Early Edition 9/1/2026",
+      "desc": "On the early edition of Balance of Power, Bloomberg Washington Correspondents Joe Mathieu and Kailey Leinz discuss the latest ...",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/387a8aa4fd8ba27c",
+      "time": "2026-09-01T19:29:33",
+      "country": "Iran",
+      "title_ur": "US Launches New Iran Strikes | Radio Balance of Power: Early Edition 9/1/2026",
+      "desc_ur": "On the early edition of Balance of Power, Bloomberg Washington Correspondents Joe Mathieu and Kailey Leinz discuss the latest ..."
+    },
+    {
+      "title": "Iran warns US strikes will 'tighten the lock' on Strait of Hormuz",
+      "desc": "The Revolutionary Guard Corps of Iran issued a statement claiming that US military strikes would exacerbate conditions in the Strait of Hormuz. The US has verified its attacks on IRGC targets in Iran after a string of Iranian assaults on vessels and troops. I…",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/kolkata/raju-naskar-re-arrested-for-extortion-property-seizure/articleshow/133687362.cms",
-      "time": "2026-09-01T16:38:30",
-      "country": "International",
-      "title_ur": "Raju Naskar re-arrested for extortion, property seizure",
-      "desc_ur": "Kolkata police re-arrest Beliaghata strongman Raju Naskar in extortion and gunpoint property seizure case; FIR cites BNS sections and Arms Act."
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-warns-us-strikes-will-tighten-the-lock-on-strait-of-hormuz/articleshow/133691118.cms",
+      "time": "2026-09-01T19:29:14",
+      "country": "Iran",
+      "title_ur": "Iran warns US strikes will 'tighten the lock' on Strait of Hormuz",
+      "desc_ur": "The Revolutionary Guard Corps of Iran issued a statement claiming that US military strikes would exacerbate conditions in the Strait of Hormuz. The US has verified its attacks on IRGC targets in Iran after a string of Iranian assaults on vessels and troops. I…"
     },
     {
-      "title": "Iran says it 'will reciprocate' if U.S. honors June deal as tensions rise",
-      "desc": "President Masoud Pezeshkian said Tehran would respond if Washington returned to its commitments under the interim agreement, as oil prices rose following renewed U.S.-Iran strikes and attacks on two tankers in the Strait of Hormuz",
-      "source": "Haaretz",
-      "url": "https://www.haaretz.com/middle-east-news/iran/2026-09-01/ty-article/iran-says-it-will-reciprocate-if-u-s-honors-june-deal-as-tensions-rise/000001a0-5cf3-d9b7-abaf-fef75f0c0000",
-      "time": "2026-09-01T16:38:20",
-      "country": "Iran",
-      "title_ur": "Iran says it 'will reciprocate' if U.S. honors June deal as tensions rise",
-      "desc_ur": "President Masoud Pezeshkian said Tehran would respond if Washington returned to its commitments under the interim agreement, as oil prices rose following renewed U.S.-Iran strikes and attacks on two tankers in the Strait of Hormuz"
+      "title": "Israel warns it will retaliate if UK imposes sanctions",
+      "desc": "The UK's Foreign Secretary Ed Miliband pledged on Tuesday to introduce a \"comprehensive reset\" of policy on Israel.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr7degkkv5go",
+      "time": "2026-09-01T19:27:38",
+      "country": "Israel",
+      "title_ur": "Israel warns it will retaliate if UK imposes sanctions",
+      "desc_ur": "The UK's Foreign Secretary Ed Miliband pledged on Tuesday to introduce a \"comprehensive reset\" of policy on Israel."
     },
     {
-      "title": "Iran sees record seven-week halt in crude exports through Strait of Hormuz",
-      "desc": "The halt in Iranian crude exports through the Strait of Hormuz exacerbates global oil market volatility, heightening geopolitical tensions and economic instability.\nThe post Iran sees record seven-week halt in crude exports through Strait of Hormuz appeared f…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iran-crude-exports-halt-strait-hormuz/",
-      "time": "2026-09-01T16:38:15",
-      "country": "Iran",
-      "title_ur": "Iran sees record seven-week halt in crude exports through Strait of Hormuz",
-      "desc_ur": "The halt in Iranian crude exports through the Strait of Hormuz exacerbates global oil market volatility, heightening geopolitical tensions and economic instability.\nThe post Iran sees record seven-week halt in crude exports through Strait of Hormuz appeared f…"
+      "title": "An orphan arrived in America from Greece and started washing dishes at 11; he eventually became owner of a 100-year-old Pennsylvania restaurant",
+      "desc": "US News: Thomas Mazias’s journey from an 11-year-old Greek orphan washing dishes to the owner of a historic Pennsylvania restaurant is a story of resilience, h.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/us/an-orphan-arrived-in-america-from-greece-and-started-washing-dishes-at-11-he-eventually-became-owner-of-a-100-year-old-pennsylvania-restaurant/articleshow/133690717.cms",
+      "time": "2026-09-01T19:26:43",
+      "country": "US",
+      "title_ur": "An orphan arrived in America from Greece and started washing dishes at 11; he eventually became owner of a 100-year-old Pennsylvania restaurant",
+      "desc_ur": "US News: Thomas Mazias’s journey from an 11-year-old Greek orphan washing dishes to the owner of a historic Pennsylvania restaurant is a story of resilience, h."
+    },
+    {
+      "title": "Trump Appoints Pastor With No Experience as CDC Tobacco Adviser",
+      "desc": "President Trump on Tuesday announced that Pastor Darrell Scott, his personal friend and impassioned defender, will join the Centers for Disease Control and Prevention as an adviser on tobacco-related health issues.“For far too long, tobacco-related disease ha…",
+      "source": "The New Republic",
+      "url": "https://newrepublic.com/post/215006/trump-appoints-pastor-darrell-scott-cdc-tobacco-adviser",
+      "time": "2026-09-01T19:24:24",
+      "country": "US",
+      "title_ur": "Trump Appoints Pastor With No Experience as CDC Tobacco Adviser",
+      "desc_ur": "President Trump on Tuesday announced that Pastor Darrell Scott, his personal friend and impassioned defender, will join the Centers for Disease Control and Prevention as an adviser on tobacco-related health issues.“For far too long, tobacco-related disease ha…"
     }
   ],
-  "pakistan": [
-    {
-      "title": "Ally JD(S) missing as BJP flags off Ballari Chalo march",
-      "desc": "BJP flags off 10-day ‘Ballari Chalo’ padayatra in Karnataka over alleged corruption, drought mismanagement and farmer distress; ally JD(S) absent.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/bengaluru/ally-jds-missing-as-bjp-flags-off-ballari-chalo-march/articleshow/133687575.cms",
-      "time": "2026-09-01T16:42:47",
-      "country": "Pakistan",
-      "title_ur": "Ally JD(S) missing as BJP flags off Ballari Chalo march",
-      "desc_ur": "BJP flags off 10-day ‘Ballari Chalo’ padayatra in Karnataka over alleged corruption, drought mismanagement and farmer distress; ally JD(S) absent."
-    },
-    {
-      "title": "Coffee is not enough for America’s new caffeine rush, it ‘can’ be much more: Morgan Stanley",
-      "desc": "Energy drinks are increasingly replacing coffee for American consumers seeking more energy.  Younger demographics are adopting energy drinks and maintaining this habit as they age.  Consumers cite more caffeine and convenience as reasons for switching from co…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/coffee-is-not-enough-for-americas-new-caffeine-rush-it-can-be-much-more-morgan-stanley/articleshow/133687241.cms",
-      "time": "2026-09-01T16:42:29",
-      "country": "Pakistan",
-      "title_ur": "Coffee is not enough for America’s new caffeine rush, it ‘can’ be much more: Morgan Stanley",
-      "desc_ur": "Energy drinks are increasingly replacing coffee for American consumers seeking more energy.  Younger demographics are adopting energy drinks and maintaining this habit as they age.  Consumers cite more caffeine and convenience as reasons for switching from co…"
-    },
-    {
-      "title": "Firm linked to Cong MLA, BJP MP bags Rs 28.5cr cloud seeding deal without tender",
-      "desc": "Karnataka okays Rs 28.5 crore cloud seeding deal without tender, granting procurement exemption to a firm linked to a Congress MLA and BJP MP families.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/bengaluru/firm-linked-to-cong-mla-bjp-mp-bags-rs-28-5cr-cloud-seeding-deal-without-tender/articleshow/133687448.cms",
-      "time": "2026-09-01T16:40:51",
-      "country": "Pakistan",
-      "title_ur": "Firm linked to Cong MLA, BJP MP bags Rs 28.5cr cloud seeding deal without tender",
-      "desc_ur": "Karnataka okays Rs 28.5 crore cloud seeding deal without tender, granting procurement exemption to a firm linked to a Congress MLA and BJP MP families."
-    },
-    {
-      "title": "Echoes: The Pakistani Films We Need But That Haven't Been Made Yet",
-      "desc": "Not every Pakistani film needs a larger-than-life hero or a damsel in distress to be successful. Pakistan is culturally diverse, and a plethora of films still have not been able to see the light of day. A wish list of stories, genres, and ideas that could bro…",
-      "source": "Screenanarchy.com",
-      "url": "https://screenanarchy.com/2026/09/echoes-the-pakistani-films-we-need-but-havent-been-made-yet.html",
-      "time": "2026-09-01T16:36:44",
-      "country": "Pakistan",
-      "title_ur": "Echoes: The Pakistani Films We Need But That Haven't Been Made Yet",
-      "desc_ur": "Not every Pakistani film needs a larger-than-life hero or a damsel in distress to be successful. Pakistan is culturally diverse, and a plethora of films still have not been able to see the light of day. A wish list of stories, genres, and ideas that could bro…"
-    },
-    {
-      "title": "VAO arrested for accepting bribe in Tirupur district",
-      "desc": "TIRUPUR: Directorate of Vigilance and Anti-Corruption (DVAC) sleuths on Tuesday arrested a village administrative officer (VAO) in Tirupur district wh.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/coimbatore/vao-arrested-for-accepting-bribe-in-tirupur-district/articleshow/133687210.cms",
-      "time": "2026-09-01T16:30:24",
-      "country": "Pakistan",
-      "title_ur": "VAO arrested for accepting bribe in Tirupur district",
-      "desc_ur": "TIRUPUR: Directorate of Vigilance and Anti-Corruption (DVAC) sleuths on Tuesday arrested a village administrative officer (VAO) in Tirupur district wh."
-    }
-  ],
+  "pakistan": [],
   "business": {
     "quote": "It's not how much money you make, but how much money you keep.",
     "author": "Robert Kiyosaki",
@@ -214,21 +163,12 @@
     "city_ur": "لاہور",
     "forecast": [
       {
-        "date": "2026-09-02",
-        "day": "بدھ",
-        "high": 36,
-        "low": 25,
-        "condition": "Drizzle",
-        "condition_ur": "بوندا باندی",
-        "precip": 61
-      },
-      {
         "date": "2026-09-03",
         "day": "جمعرات",
-        "high": 34,
-        "low": 24,
-        "condition": "Thunderstorm",
-        "condition_ur": "گرج چمک",
+        "high": 35,
+        "low": 25,
+        "condition": "Light Drizzle",
+        "condition_ur": "ہلکی بوندا باندی",
         "precip": 50
       },
       {
@@ -244,7 +184,7 @@
         "date": "2026-09-05",
         "day": "ہفتہ",
         "high": 32,
-        "low": 24,
+        "low": 23,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
         "precip": 85
@@ -252,16 +192,16 @@
       {
         "date": "2026-09-06",
         "day": "اتوار",
-        "high": 32,
-        "low": 23,
-        "condition": "Drizzle",
-        "condition_ur": "بوندا باندی",
+        "high": 31,
+        "low": 22,
+        "condition": "Light Showers",
+        "condition_ur": "ہلکی بارش",
         "precip": 45
       },
       {
         "date": "2026-09-07",
         "day": "پیر",
-        "high": 34,
+        "high": 33,
         "low": 25,
         "condition": "Mainly Clear",
         "condition_ur": "زیادہ تر صاف",
@@ -270,17 +210,26 @@
       {
         "date": "2026-09-08",
         "day": "منگل",
-        "high": 34,
-        "low": 26,
+        "high": 35,
+        "low": 25,
         "condition": "Clear",
         "condition_ur": "صاف",
         "precip": 2
+      },
+      {
+        "date": "2026-09-09",
+        "day": "بدھ",
+        "high": 35,
+        "low": 26,
+        "condition": "Clear",
+        "condition_ur": "صاف",
+        "precip": 4
       }
     ]
   },
   "date": {
-    "gregorian": "Wednesday, 2 September 2026",
-    "hijri": "20 Rabīʿ al-awwal 1448",
-    "hijri_ur": "20 رَبيع الأوّل 1448"
+    "gregorian": "Thursday, 3 September 2026",
+    "hijri": "21 Rabīʿ al-awwal 1448",
+    "hijri_ur": "21 رَبيع الأوّل 1448"
   }
 }
