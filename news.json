@@ -1,207 +1,177 @@
 {
-  "generated": "2026-09-02T02:23:25Z",
+  "generated": "2026-09-02T07:13:59Z",
   "world": [
     {
-      "title": "US brings back Russia’s Siluanov to G20 finance talks, angering Europe",
-      "desc": "Anton Siluanov holds talks with US counterpart as European officials object to Russia's return to G20 talks.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/9/1/us-brings-back-russias-siluanov-to-g20-finance-talks-angering-europe",
-      "time": "2026-09-01T02:23:03",
-      "country": "Russia",
-      "title_ur": "US brings back Russia’s Siluanov to G20 finance talks, angering Europe",
-      "desc_ur": "Anton Siluanov holds talks with US counterpart as European officials object to Russia's return to G20 talks."
-    },
-    {
-      "title": "Bessent: US sanctions aim to force Iran back to negotiating table",
-      "desc": "US Treasury Secretary Scott Bessent says sanctions and the Iran blockade are designed to force Tehran back to talks and abandon its nuclear program.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/432521",
-      "time": "2026-09-01T02:22:46",
-      "country": "Iran",
-      "title_ur": "Bessent: US sanctions aim to force Iran back to negotiating table",
-      "desc_ur": "US Treasury Secretary Scott Bessent says sanctions and the Iran blockade are designed to force Tehran back to talks and abandon its nuclear program."
-    },
-    {
-      "title": "WATCH: Video Shows Moment FBI Agents Swarmed Swalwell and Seized His Electronic Devices at San Francisco Airport",
-      "desc": "New footage shows the moment that FBI agents swarmed former Democrat Rep.\nThe post WATCH: Video Shows Moment FBI Agents Swarmed Swalwell and Seized His Electronic Devices at San Francisco Airport appeared first on The Gateway Pundit.",
-      "source": "Thegatewaypundit.com",
-      "url": "https://www.thegatewaypundit.com/2026/08/video-shows-swalwell-surrounded-fbi/",
-      "time": "2026-09-01T02:20:54",
-      "country": "International",
-      "title_ur": "WATCH: Video Shows Moment FBI Agents Swarmed Swalwell and Seized His Electronic Devices at San Francisco Airport",
-      "desc_ur": "New footage shows the moment that FBI agents swarmed former Democrat Rep.\nThe post WATCH: Video Shows Moment FBI Agents Swarmed Swalwell and Seized His Electronic Devices at San Francisco Airport appeared first on The Gateway Pundit."
-    },
-    {
-      "title": "Stock Market LIVE: GIFT Nifty signals negative open; Asian markets fall on renewed US-Iran tension",
-      "desc": "Sensex Today | Stock Market LIVE Updates Tuesday: The GIFT Nifty indicated that the Nifty50 may open on a negative note. Most Asian markets fell in early deals",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/markets/news/stock-market-live-september-1-sensex-today-nifty50-gift-nifty-iran-war-brent-crude-oil-price-hy-tech-engineers-ipo-listing-today-126090100082_1.html",
-      "time": "2026-09-01T02:19:30",
-      "country": "Iran",
-      "title_ur": "Stock Market LIVE: GIFT Nifty signals negative open; Asian markets fall on renewed US-Iran tension",
-      "desc_ur": "Sensex Today | Stock Market LIVE Updates Tuesday: The GIFT Nifty indicated that the Nifty50 may open on a negative note. Most Asian markets fell in early deals"
-    },
-    {
-      "title": "1/3rd voters off Delhi draft roll, can file for inclusion",
-      "desc": "In a significant update, one-third of registered voters in Delhi have been removed from the draft electoral roll. Those affected have until September 30 to submit claims for re-inclusion. The Election Commission's actions targeted individuals who were either …",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/delhi/1/3rd-voters-off-delhi-draft-roll-can-file-for-inclusion/articleshow/133666080.cms",
-      "time": "2026-09-01T02:18:45",
-      "country": "India",
-      "title_ur": "1/3rd voters off Delhi draft roll, can file for inclusion",
-      "desc_ur": "In a significant update, one-third of registered voters in Delhi have been removed from the draft electoral roll. Those affected have until September 30 to submit claims for re-inclusion. The Election Commission's actions targeted individuals who were either …"
-    },
-    {
-      "title": "'I will be happy': Amit Thackeray on FIR filed over removing PM Modi's photo at Pune college",
-      "desc": "An FIR was filed against MNS leader Amit Thackeray for removing Prime Minister Modi's photograph. Thackeray defended his actions, connecting them to his respect for Chhatrapati Shivaji Maharaj. The incident occurred during a student outreach program at a gove…",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/pune/i-will-be-happy-amit-thackeray-on-fir-filed-over-removing-pm-modis-photo-at-pune-college/articleshow/133666051.cms",
-      "time": "2026-09-01T02:14:08",
-      "country": "India",
-      "title_ur": "'I will be happy': Amit Thackeray on FIR filed over removing PM Modi's photo at Pune college",
-      "desc_ur": "An FIR was filed against MNS leader Amit Thackeray for removing Prime Minister Modi's photograph. Thackeray defended his actions, connecting them to his respect for Chhatrapati Shivaji Maharaj. The incident occurred during a student outreach program at a gove…"
-    },
-    {
-      "title": "US Army Secretary Driscoll submits resignation: White House",
-      "desc": "If accepted, Driscoll's resignation would mark the latest departure of a senior military leader under President Donald Trump's administration.",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/world/us-army-secretary-resign-dan-driscoll-6353576",
-      "time": "2026-09-01T02:09:00",
-      "country": "US",
-      "title_ur": "US Army Secretary Driscoll submits resignation: White House",
-      "desc_ur": "If accepted, Driscoll's resignation would mark the latest departure of a senior military leader under President Donald Trump's administration."
-    },
-    {
-      "title": "warpax added to PyPI",
-      "desc": "Observer-robust energy condition verification for warp drive spacetimes",
-      "source": "Pypi.org",
-      "url": "https://pypi.org/project/warpax/",
-      "time": "2026-09-01T02:07:19",
-      "country": "US",
-      "title_ur": "warpax added to PyPI",
-      "desc_ur": "Observer-robust energy condition verification for warp drive spacetimes"
-    },
-    {
-      "title": "Sara Netanyahu amplifies October 7 conspiracies, refuses to rule out 'betrayal from within'",
-      "desc": "Tanker struck by three projectiles while sailing out of Strait of Hormuz, UKMTO says. Sara Netanyahu amplifies October 7 conspiracies, refuses to rule out 'betrayal from within'. Israeli curriculum to replace Palestinian program in all East Jerusalem schools",
+      "title": "Israel isn't debating a Palestinian state. It's preparing for expulsion",
+      "desc": "Gadi Eisenkot's position on Palestinian statehood is beside the point. Across Gaza, the West Bank and Israel itself, the machinery for making Palestinian life impossible is already operating, laying the groundwork for mass expulsion",
       "source": "Haaretz",
-      "url": "https://www.haaretz.com/israel-news/israel-security/2026-09-01/ty-article-live/sara-netanyahu-amplifies-october-7-conspiracies-refuses-to-rule-out-betrayal/000001a0-5aaf-d9d2-abfe-daff71e30000",
-      "time": "2026-09-01T02:06:26",
+      "url": "https://www.haaretz.com/opinion/2026-09-01/ty-article/.premium/israel-isnt-debating-a-palestinian-state-its-preparing-for-expulsion/000001a0-56c1-dc19-a5a4-dfdfa0fd0000",
+      "time": "2026-09-01T07:13:21",
       "country": "Israel",
-      "title_ur": "Sara Netanyahu amplifies October 7 conspiracies, refuses to rule out 'betrayal from within'",
-      "desc_ur": "Tanker struck by three projectiles while sailing out of Strait of Hormuz, UKMTO says. Sara Netanyahu amplifies October 7 conspiracies, refuses to rule out 'betrayal from within'. Israeli curriculum to replace Palestinian program in all East Jerusalem schools"
+      "title_ur": "Israel isn't debating a Palestinian state. It's preparing for expulsion",
+      "desc_ur": "Gadi Eisenkot's position on Palestinian statehood is beside the point. Across Gaza, the West Bank and Israel itself, the machinery for making Palestinian life impossible is already operating, laying the groundwork for mass expulsion"
     },
     {
-      "title": "Luke Murray adds UConn alums, former Dan Hurley star to Boston College coaching staff",
-      "desc": "Luke Murray was hired as the Boston College head coach days before UConn played in the Final Four.",
-      "source": "Ctinsider.com",
-      "url": "https://www.ctinsider.com/sports/uconn-mens-basketball/article/luke-murray-boston-college-coaching-staff-hurley-22411767.php?utm_medium=referral&amp;utm_campaign=yahoo_syndication",
-      "time": "2026-09-01T02:04:56",
-      "country": "UK",
-      "title_ur": "Luke Murray adds UConn alums, former Dan Hurley star to Boston College coaching staff",
-      "desc_ur": "Luke Murray was hired as the Boston College head coach days before UConn played in the Final Four."
+      "title": "Indian among 12 killed after Russia launches massive strike on Ukraine",
+      "desc": "Europe News: At least 12 people, including an Indian, were killed after Russia launched a massive aerial assault across Ukraine overnight, Ukrainian authorities sa.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/europe/indian-among-12-killed-after-russia-launches-massive-strike-on-ukraine/articleshow/133671784.cms",
+      "time": "2026-09-01T07:11:38",
+      "country": "India",
+      "title_ur": "Indian among 12 killed after Russia launches massive strike on Ukraine",
+      "desc_ur": "Europe News: At least 12 people, including an Indian, were killed after Russia launched a massive aerial assault across Ukraine overnight, Ukrainian authorities sa."
     },
     {
-      "title": "What 248 books reveal about Kaja Kallas",
-      "desc": "EU's top diplomat is a noted bookworm. But what can her bookshelf tell us about the politician leading Europe's diplomacy?",
-      "source": "POLITICO.eu",
-      "url": "https://www.politico.eu/article/kaja-kallas-book-recommendations/",
-      "time": "2026-09-01T02:00:00",
+      "title": "Melinda French Gates' father worked on NASA's Apollo missions; the women engineers she met at his company picnics shaped her thinking",
+      "desc": "US News: Melinda French Gates grew up in a household where science, engineering and education were closely woven into family life. Her father, Raymond Joseph F.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/us/melinda-french-gates-father-worked-on-nasas-apollo-missions-the-women-engineers-she-met-at-his-company-picnics-shaped-her-thinking/articleshow/133671571.cms",
+      "time": "2026-09-01T07:11:24",
       "country": "US",
-      "title_ur": "What 248 books reveal about Kaja Kallas",
-      "desc_ur": "EU's top diplomat is a noted bookworm. But what can her bookshelf tell us about the politician leading Europe's diplomacy?"
+      "title_ur": "Melinda French Gates' father worked on NASA's Apollo missions; the women engineers she met at his company picnics shaped her thinking",
+      "desc_ur": "US News: Melinda French Gates grew up in a household where science, engineering and education were closely woven into family life. Her father, Raymond Joseph F."
     },
     {
-      "title": "Tanker struck in Hormuz, raising worries over escalation, as Trump vows to hit Iran 'hard'",
-      "desc": "Iran launched an attack on two American bases in Jordan on Monday in retaliation for the U.S. attack on its Larak Island.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/01/us-iran-war-trump-hormuz-tanker-attack-shipping-sanctions-.html",
-      "time": "2026-09-01T01:59:48",
+      "title": "Trump’s ‘biggest oil deal in world history’ in Venezuela reeks of ‘colonial cronyism’ and could easily fall apart, experts say",
+      "desc": "The U.S.-Venezuela agreement would include a third-party oil operator and incorporate 17 mature or undeveloped oilfields.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/09/01/trumps-biggest-oil-deal-world-history-venezuela-reeks-colonial-cronyism/",
+      "time": "2026-09-01T07:11:00",
+      "country": "US",
+      "title_ur": "Trump’s ‘biggest oil deal in world history’ in Venezuela reeks of ‘colonial cronyism’ and could easily fall apart, experts say",
+      "desc_ur": "The U.S.-Venezuela agreement would include a third-party oil operator and incorporate 17 mature or undeveloped oilfields."
+    },
+    {
+      "title": "Minister tells Hanson to look in mirror over political violence claim",
+      "desc": "Attorney-General Michelle Rowland has called on Senator Pauline Hanson to reflect on her own behaviour after she accused the prime minister of inciting political violence.",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-09-01/pauline-hanson-one-nation-political-violence-anthony-albanese/107103254",
+      "time": "2026-09-01T07:06:59",
+      "country": "US",
+      "title_ur": "Minister tells Hanson to look in mirror over political violence claim",
+      "desc_ur": "Attorney-General Michelle Rowland has called on Senator Pauline Hanson to reflect on her own behaviour after she accused the prime minister of inciting political violence."
+    },
+    {
+      "title": "SCO Summit 2026: Power trio reunites as PM Modi meets Vladimir Putin and Xi Jinping at Bishkek meet",
+      "desc": "Prime Minister Narendra Modi met Chinese President Xi Jinping and Russian President Vladimir Putin at the 26th SCO Summit in Bishkek, reviving a closely watched three-way diplomatic moment. The encounter comes amid a cautious India-China thaw, renewed border-…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/india/sco-summit-2026-power-trio-reunites-as-pm-modi-meets-vladimir-putin-and-xi-jinping-at-bishkek-meet/articleshow/133671424.cms",
+      "time": "2026-09-01T07:04:55",
+      "country": "India",
+      "title_ur": "SCO Summit 2026: Power trio reunites as PM Modi meets Vladimir Putin and Xi Jinping at Bishkek meet",
+      "desc_ur": "Prime Minister Narendra Modi met Chinese President Xi Jinping and Russian President Vladimir Putin at the 26th SCO Summit in Bishkek, reviving a closely watched three-way diplomatic moment. The encounter comes amid a cautious India-China thaw, renewed border-…"
+    },
+    {
+      "title": "Europe opens mixed as Iran remains in focus",
+      "desc": "Major stock indexes in Europe opened mixed on Tuesday as investors continued to focus on the conflict between the United States and Iran amid renewed hostilities. On the data front, market watchers di...",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/37ac9ea0fe9bde23",
+      "time": "2026-09-01T07:04:16",
       "country": "Iran",
-      "title_ur": "Tanker struck in Hormuz, raising worries over escalation, as Trump vows to hit Iran 'hard'",
-      "desc_ur": "Iran launched an attack on two American bases in Jordan on Monday in retaliation for the U.S. attack on its Larak Island."
+      "title_ur": "Europe opens mixed as Iran remains in focus",
+      "desc_ur": "Major stock indexes in Europe opened mixed on Tuesday as investors continued to focus on the conflict between the United States and Iran amid renewed hostilities. On the data front, market watchers di..."
     },
     {
-      "title": "Ukraine sanctions chief heads to Washington to push Russia sanctions bill",
-      "desc": "Ukraine’s top sanctions official Vladyslav Vlasiuk will visit Washington to lobby House lawmakers to back a sweeping Russia sanctions bill passed by the Senate. The legislation could authorise tariffs of up to 100% on major buyers of Russian energy, including…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/ukraine-sanctions-chief-heads-to-washington-to-push-russia-sanctions-bill/articleshow/133665878.cms",
-      "time": "2026-09-01T01:58:50",
-      "country": "Russia",
-      "title_ur": "Ukraine sanctions chief heads to Washington to push Russia sanctions bill",
-      "desc_ur": "Ukraine’s top sanctions official Vladyslav Vlasiuk will visit Washington to lobby House lawmakers to back a sweeping Russia sanctions bill passed by the Senate. The legislation could authorise tariffs of up to 100% on major buyers of Russian energy, including…"
+      "title": "Oil prices rise and stocks waver as Middle East violence flares, adding to uncertainty",
+      "desc": "Oil prices climbed further and Asian shares were mixed Tuesday as recurring violence in the Iran war after more than a month with no significant fighting heightened uncertainty over the future of the conflict.\nShares in online fast-fashion retailer Shein fell…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/197b25dc5a33c2c9",
+      "time": "2026-09-01T07:04:11",
+      "country": "Iran",
+      "title_ur": "Oil prices rise and stocks waver as Middle East violence flares, adding to uncertainty",
+      "desc_ur": "Oil prices climbed further and Asian shares were mixed Tuesday as recurring violence in the Iran war after more than a month with no significant fighting heightened uncertainty over the future of the conflict.\nShares in online fast-fashion retailer Shein fell…"
     },
     {
-      "title": "Gold steadies as traders await US jobs data, monitor Mideast tensions",
-      "desc": "Gold prices held steady as traders navigated heightened tensions in the Middle East and awaited pivotal labor data from the US. This economic data is expected to shape the market's forecast regarding Federal Reserve policy moves. With a 65% likelihood of a ra…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-steadies-as-traders-await-us-jobs-data-monitor-mideast-tensions/articleshow/133665925.cms",
-      "time": "2026-09-01T01:57:40",
+      "title": "The US has struck a deal to control Venezuela’s oil reserves. It probably won’t help bring down fuel prices",
+      "desc": "As more details emerge about this controversial deal, big questions remain about what it could mean – both for oil markets and Venezuela’s national sovereignty.",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/the-us-has-struck-a-deal-to-control-venezuelas-oil-reserves-it-probably-wont-help-bring-down-fuel-prices-290847",
+      "time": "2026-09-01T07:03:48",
       "country": "US",
-      "title_ur": "Gold steadies as traders await US jobs data, monitor Mideast tensions",
-      "desc_ur": "Gold prices held steady as traders navigated heightened tensions in the Middle East and awaited pivotal labor data from the US. This economic data is expected to shape the market's forecast regarding Federal Reserve policy moves. With a 65% likelihood of a ra…"
+      "title_ur": "The US has struck a deal to control Venezuela’s oil reserves. It probably won’t help bring down fuel prices",
+      "desc_ur": "As more details emerge about this controversial deal, big questions remain about what it could mean – both for oil markets and Venezuela’s national sovereignty."
     },
     {
-      "title": "Tensions flare in Nalgonda as Congress 'targets' BJP leader’s home after minister’s office attack",
-      "desc": "Political tensions flared in Nalgonda after a group of Congress workers allegedly attacked the residence of BJP District President Nagam Varsith Reddy and vandalised property, leading to a clash between workers of the two parties in the area.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/hyderabad/tensions-flare-in-nalgonda-as-congress-targets-bjp-leaders-home-after-ministers-office-attack/articleshow/133665800.cms",
-      "time": "2026-09-01T01:55:57",
+      "title": "Somaliland in the Great Game",
+      "desc": "The small self-proclaimed state of Somaliland is aiming to become a regional player: it is now an ally of Israel and has commercial and security agreements in the Gulf. Now it's hoping for US support.\n\n-\n2026/09\n\n/ \narticle, \n2026/09 Somaliland",
+      "source": "Mondediplo.com",
+      "url": "https://mondediplo.com/2026/09/somaliland-in-the-great-game",
+      "time": "2026-09-01T07:03:40",
+      "country": "Israel",
+      "title_ur": "Somaliland in the Great Game",
+      "desc_ur": "The small self-proclaimed state of Somaliland is aiming to become a regional player: it is now an ally of Israel and has commercial and security agreements in the Gulf. Now it's hoping for US support.\n\n-\n2026/09\n\n/ \narticle, \n2026/09 Somaliland"
+    },
+    {
+      "title": "The search for an alternative to the dollar is on",
+      "desc": "The dollar gives America huge power, but the international monetary system built around it is sliding into chaos, as recent US support for the yen shows. Yet replacing the dollar brings risks of its own.\n\n-\n2026/09\n\n/ \narticle",
+      "source": "Mondediplo.com",
+      "url": "https://mondediplo.com/2026/09/03currency",
+      "time": "2026-09-01T07:03:37",
+      "country": "US",
+      "title_ur": "The search for an alternative to the dollar is on",
+      "desc_ur": "The dollar gives America huge power, but the international monetary system built around it is sliding into chaos, as recent US support for the yen shows. Yet replacing the dollar brings risks of its own.\n\n-\n2026/09\n\n/ \narticle"
+    },
+    {
+      "title": "Donald Trump's red scare",
+      "desc": "The US left is making gains. With elections looming and his ratings tanking, Trump has revived the old communist spectre – and recast the left as a terrorist threat.\n\n-\n2026/09\n\n/ \narticle",
+      "source": "Mondediplo.com",
+      "url": "https://mondediplo.com/2026/09/02us",
+      "time": "2026-09-01T07:03:36",
+      "country": "US",
+      "title_ur": "Donald Trump's red scare",
+      "desc_ur": "The US left is making gains. With elections looming and his ratings tanking, Trump has revived the old communist spectre – and recast the left as a terrorist threat.\n\n-\n2026/09\n\n/ \narticle"
+    },
+    {
+      "title": "Macron, worst ever president?",
+      "desc": "Emmanuel Macron leaves the Élysée in eight months. And, in keeping with the political journalism tradition whereby last-minute criticism apparently makes up for a decade of deference, the brickbats are coming thick and fast. The Economist, having once regarde…",
+      "source": "Mondediplo.com",
+      "url": "https://mondediplo.com/2026/09/01edito",
+      "time": "2026-09-01T07:03:35",
       "country": "International",
-      "title_ur": "Tensions flare in Nalgonda as Congress 'targets' BJP leader’s home after minister’s office attack",
-      "desc_ur": "Political tensions flared in Nalgonda after a group of Congress workers allegedly attacked the residence of BJP District President Nagam Varsith Reddy and vandalised property, leading to a clash between workers of the two parties in the area."
+      "title_ur": "Macron, worst ever president?",
+      "desc_ur": "Emmanuel Macron leaves the Élysée in eight months. And, in keeping with the political journalism tradition whereby last-minute criticism apparently makes up for a decade of deference, the brickbats are coming thick and fast. The Economist, having once regarde…"
+    },
+    {
+      "title": "Efficient LED Driver Driving Up to 4 RGB Dots While Extending the Device Battery Life",
+      "desc": "An integrated boost, Auto-pattern, and ultra-low operational current LED driver reduces both power and MCU overhead in compact battery-powered applications MILPITAS, Calif., Sept. 01, 2026 (GLOBE NEWSWIRE) — Lumissil Microsystems introduces the IS31FL3713, a …",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/efficient-led-driver-driving-up-to-4-rgb-dots-while-extending-the-device-battery-life",
+      "time": "2026-09-01T07:03:20",
+      "country": "International",
+      "title_ur": "Efficient LED Driver Driving Up to 4 RGB Dots While Extending the Device Battery Life",
+      "desc_ur": "An integrated boost, Auto-pattern, and ultra-low operational current LED driver reduces both power and MCU overhead in compact battery-powered applications MILPITAS, Calif., Sept. 01, 2026 (GLOBE NEWSWIRE) — Lumissil Microsystems introduces the IS31FL3713, a …"
+    },
+    {
+      "title": "New alliances replace old certainties",
+      "desc": "Binyamin Netanyahu has vowed to ‘change the face of the Middle East'. But the war with Iran has created a situation that no single power can control.\n\n-\n2026/09\n\n/ \narticle",
+      "source": "Mondediplo.com",
+      "url": "https://mondediplo.com/2026/09/05middle-east",
+      "time": "2026-09-01T07:02:53",
+      "country": "Iran",
+      "title_ur": "New alliances replace old certainties",
+      "desc_ur": "Binyamin Netanyahu has vowed to ‘change the face of the Middle East'. But the war with Iran has created a situation that no single power can control.\n\n-\n2026/09\n\n/ \narticle"
     }
   ],
   "pakistan": [
     {
-      "title": "Oil Price Today (September 1): Crude oil above $90 as US, Iran attacks jolt Hormuz hopes. $100 in sight?",
-      "desc": "Oil prices rose on Tuesday as renewed fighting between the U.S. and Iran in the Middle East revived concerns over potential supply disruptions from the world’s key crude-producing region.",
+      "title": "‘This is the reason they are in the mess’: Ex-Pakistan coach tears into Mohsin Naqvi-led PCB",
+      "desc": "Mickey Arthur, the former coach of the Pakistan cricket team, expresses his disappointment in the Pakistan Cricket Board's hasty decisions following a series of Test losses. After sending seven players packing and altering the coaching setup, Arthur argues th…",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-september-1-crude-oil-above-90-as-us-iran-attacks-jolt-hormuz-hopes-100-in-sight/articleshow/133666056.cms",
-      "time": "2026-09-01T02:11:11",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/this-is-the-reason-they-are-in-the-mess-ex-pakistan-coach-tears-into-mohsin-naqvi-led-pcb/articleshow/133670998.cms",
+      "time": "2026-09-01T06:54:09",
       "country": "Pakistan",
-      "title_ur": "Oil Price Today (September 1): Crude oil above $90 as US, Iran attacks jolt Hormuz hopes. $100 in sight?",
-      "desc_ur": "Oil prices rose on Tuesday as renewed fighting between the U.S. and Iran in the Middle East revived concerns over potential supply disruptions from the world’s key crude-producing region."
+      "title_ur": "‘This is the reason they are in the mess’: Ex-Pakistan coach tears into Mohsin Naqvi-led PCB",
+      "desc_ur": "Mickey Arthur, the former coach of the Pakistan cricket team, expresses his disappointment in the Pakistan Cricket Board's hasty decisions following a series of Test losses. After sending seven players packing and altering the coaching setup, Arthur argues th…"
     },
     {
-      "title": "Oil climbs past $90 as Middle East conflict keeps Strait of Hormuz shut",
-      "desc": "On Tuesday, oil prices saw a significant uptick, driven by escalating tensions between the US and Iran and looming risks to supply chains. Brent crude hit $91.04, while WTI crude climbed to $86.55 per barrel. The Strait of Hormuz is a focal point of concern f…",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-climbs-past-90-as-middle-east-conflict-keeps-strait-of-hormuz-shut/articleshow/133665918.cms",
-      "time": "2026-09-01T02:03:30",
+      "title": "CNBC Daily Open: A surprise seat for Russia at the G20 table",
+      "desc": "Hello, this is Leonie Kidd coming to you from London.\nThere was a lot on the agenda for the G20 meeting in Asheville, North Carolina: the war in Iran, the bond market disruption, and resurgent trade tensions.\nWhat did not seem to be clear, was the attendance …",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/1247360b49a48f2d",
+      "time": "2026-09-01T06:38:16",
       "country": "Pakistan",
-      "title_ur": "Oil climbs past $90 as Middle East conflict keeps Strait of Hormuz shut",
-      "desc_ur": "On Tuesday, oil prices saw a significant uptick, driven by escalating tensions between the US and Iran and looming risks to supply chains. Brent crude hit $91.04, while WTI crude climbed to $86.55 per barrel. The Strait of Hormuz is a focal point of concern f…"
-    },
-    {
-      "title": "Oil prices rise as latest fighting resurrects Middle East supply disruption risks",
-      "desc": "On Tuesday, oil prices surged as concerns over supply disruptions arose due to escalating conflicts in the Middle East. Both Brent crude futures and West Texas Intermediate crude experienced notable gains. Tensions escalated following the recent direct confro…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-rise-as-latest-fighting-resurrects-middle-east-supply-disruption-risks/articleshow/133665891.cms",
-      "time": "2026-09-01T01:52:15",
-      "country": "Pakistan",
-      "title_ur": "Oil prices rise as latest fighting resurrects Middle East supply disruption risks",
-      "desc_ur": "On Tuesday, oil prices surged as concerns over supply disruptions arose due to escalating conflicts in the Middle East. Both Brent crude futures and West Texas Intermediate crude experienced notable gains. Tensions escalated following the recent direct confro…"
-    },
-    {
-      "title": "TRS Chief Kavitha Alleges BRS Corruption, Vows Congress Fight",
-      "desc": "Kavitha accuses former BRS govt of looting public funds, says BRS colluded with Congress, and vows TRS will contest all MPTC/ZPTC seats in Telangana.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/hyderabad/trs-chief-kavitha-alleges-brs-corruption-vows-congress-fight/articleshow/133665857.cms",
-      "time": "2026-09-01T01:45:46",
-      "country": "Pakistan",
-      "title_ur": "TRS Chief Kavitha Alleges BRS Corruption, Vows Congress Fight",
-      "desc_ur": "Kavitha accuses former BRS govt of looting public funds, says BRS colluded with Congress, and vows TRS will contest all MPTC/ZPTC seats in Telangana."
-    },
-    {
-      "title": "Brent surges above $90 as US-Iran conflict escalates",
-      "desc": "Oil prices rose more than two per cent on Monday as renewed military attacks between the United States and Iran heightened concerns over possible disruptions to global crude supplies. Brent crude futures rose $2.37, or 2.69 per cent, to $90.47 a barrel, while…",
-      "source": "The Punch",
-      "url": "https://punchng.com/brent-surges-above-90-as-us-iran-conflict-escalates/",
-      "time": "2026-09-01T01:27:18",
-      "country": "Pakistan",
-      "title_ur": "Brent surges above $90 as US-Iran conflict escalates",
-      "desc_ur": "Oil prices rose more than two per cent on Monday as renewed military attacks between the United States and Iran heightened concerns over possible disruptions to global crude supplies. Brent crude futures rose $2.37, or 2.69 per cent, to $90.47 a barrel, while…"
+      "title_ur": "CNBC Daily Open: A surprise seat for Russia at the G20 table",
+      "desc_ur": "Hello, this is Leonie Kidd coming to you from London.\nThere was a lot on the agenda for the G20 meeting in Asheville, North Carolina: the war in Iran, the bond market disruption, and resurgent trade tensions.\nWhat did not seem to be clear, was the attendance …"
     }
   ],
   "business": {
@@ -216,62 +186,62 @@
       {
         "date": "2026-09-02",
         "day": "بدھ",
-        "high": 34,
-        "low": 24,
-        "condition": "Showers",
-        "condition_ur": "بارش",
-        "precip": 58
+        "high": 36,
+        "low": 25,
+        "condition": "Drizzle",
+        "condition_ur": "بوندا باندی",
+        "precip": 42
       },
       {
         "date": "2026-09-03",
         "day": "جمعرات",
-        "high": 34,
+        "high": 33,
         "low": 24,
-        "condition": "Drizzle",
-        "condition_ur": "بوندا باندی",
-        "precip": 36
+        "condition": "Thunderstorm",
+        "condition_ur": "گرج چمک",
+        "precip": 51
       },
       {
         "date": "2026-09-04",
         "day": "جمعہ",
-        "high": 34,
-        "low": 26,
-        "condition": "Drizzle",
-        "condition_ur": "بوندا باندی",
-        "precip": 51
+        "high": 33,
+        "low": 24,
+        "condition": "Thunderstorm",
+        "condition_ur": "گرج چمک",
+        "precip": 56
       },
       {
         "date": "2026-09-05",
         "day": "ہفتہ",
-        "high": 32,
-        "low": 24,
+        "high": 33,
+        "low": 25,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 78
+        "precip": 84
       },
       {
         "date": "2026-09-06",
         "day": "اتوار",
         "high": 31,
-        "low": 23,
-        "condition": "Light Showers",
-        "condition_ur": "ہلکی بارش",
-        "precip": 25
+        "low": 22,
+        "condition": "Thunderstorm",
+        "condition_ur": "گرج چمک",
+        "precip": 41
       },
       {
         "date": "2026-09-07",
         "day": "پیر",
         "high": 33,
         "low": 24,
-        "condition": "Mainly Clear",
-        "condition_ur": "زیادہ تر صاف",
-        "precip": 12
+        "condition": "Clear",
+        "condition_ur": "صاف",
+        "precip": 24
       },
       {
         "date": "2026-09-08",
         "day": "منگل",
         "high": 34,
-        "low": 26,
+        "low": 25,
         "condition": "Clear",
         "condition_ur": "صاف",
         "precip": 4
