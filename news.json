@@ -1,207 +1,187 @@
 {
-  "generated": "2026-09-03T04:51:44Z",
+  "generated": "2026-09-03T09:22:50Z",
   "world": [
     {
-      "title": "The Invention of Zero: How Ancient Mesopotamia Created the Mathematical Concept of Nought and Ancient India Gave It Symbolic Form",
-      "desc": "\"If you look at zero you see nothing; but look through it and you will see the world.\"",
-      "source": "Themarginalian.org",
-      "url": "https://www.themarginalian.org/2026/09/02/zero-robert-kaplan/",
-      "time": "2026-09-02T04:49:27",
-      "country": "India",
-      "title_ur": "The Invention of Zero: How Ancient Mesopotamia Created the Mathematical Concept of Nought and Ancient India Gave It Symbolic Form",
-      "desc_ur": "\"If you look at zero you see nothing; but look through it and you will see the world.\""
-    },
-    {
-      "title": "Iran Strikes US Military Sites in Jordan After Deadly Sirik Attack — Reports",
-      "desc": "Iran’s Islamic Revolutionary Guard Corps launched ballistic missile strikes on Camp Titin and RQ-4/MQ-9 drone hangars at Prince Hassan Air Base, Fars News reported. The IRGC said the strikes caused US casualties and destroyed aircraft and infrastructure.",
-      "source": "Sputnikglobe.com",
-      "url": "https://sputnikglobe.com/20260902/iran-strikes-us-military-sites-in-jordan-after-deadly-sirik-attack--reports-1124660178.html",
-      "time": "2026-09-02T04:47:05",
-      "country": "Iran",
-      "title_ur": "Iran Strikes US Military Sites in Jordan After Deadly Sirik Attack — Reports",
-      "desc_ur": "Iran’s Islamic Revolutionary Guard Corps launched ballistic missile strikes on Camp Titin and RQ-4/MQ-9 drone hangars at Prince Hassan Air Base, Fars News reported. The IRGC said the strikes caused US casualties and destroyed aircraft and infrastructure."
-    },
-    {
-      "title": "Trump 'couldn't care less' if Iran returns to peace negotiations as he seeks to decimate economy and issues challenge to nation's people",
-      "desc": "The war efforts have ramped up again in recent days after a lull, with Trump ordering a fresh wave of ballistic missile strikes Tuesday.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16097911/Trump-Iran-peace-negotiations-challenge.html",
-      "time": "2026-09-02T04:42:07",
-      "country": "Iran",
-      "title_ur": "Trump 'couldn't care less' if Iran returns to peace negotiations as he seeks to decimate economy and issues challenge to nation's people",
-      "desc_ur": "The war efforts have ramped up again in recent days after a lull, with Trump ordering a fresh wave of ballistic missile strikes Tuesday."
-    },
-    {
-      "title": "As climate change warms the Himalayas, disasters like the Nepal floods are becoming more frequent",
-      "desc": "The risk of natural disasters in the Hindu Kush Himalayan region is rising as it is warming at a considerably faster pace than many other parts of the world",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/news/as-climate-change-warms-the-himalayas-disasters-like-the-nepal-floods-are-becoming-more-frequent/article71418043.ece",
-      "time": "2026-09-02T04:40:53",
-      "country": "US",
-      "title_ur": "As climate change warms the Himalayas, disasters like the Nepal floods are becoming more frequent",
-      "desc_ur": "The risk of natural disasters in the Hindu Kush Himalayan region is rising as it is warming at a considerably faster pace than many other parts of the world"
-    },
-    {
-      "title": "Iran vows response after deadly strike on residential home",
-      "desc": "Iran's Ministry of Foreign Affairs Spokesman Esmaeil Baghaei (pictured) said Tehran will respond \"with firmness\" after a US strike hit a residential home hosting a wedding in Kuhestak, Sirik.Baghaei a...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/0ebea7d302202a4f",
-      "time": "2026-09-02T04:39:28",
-      "country": "Iran",
-      "title_ur": "Iran vows response after deadly strike on residential home",
-      "desc_ur": "Iran's Ministry of Foreign Affairs Spokesman Esmaeil Baghaei (pictured) said Tehran will respond \"with firmness\" after a US strike hit a residential home hosting a wedding in Kuhestak, Sirik.Baghaei a..."
-    },
-    {
-      "title": "Rupee falls 2 paise to 94.97 against US dollar in early trade",
-      "desc": "Forex traders said the RBI is keeping a tab on the rupee's fall as Brent crude prices have risen to $95 per barrel and dollar index is hovering around 99.70 on a bout of risk aversion on renewed US-Iran tensions.",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/forex/rupee-falls-2-paise-to-9497-against-us-dollar-in-early-trade/article71418103.ece",
-      "time": "2026-09-02T04:39:05",
-      "country": "Iran",
-      "title_ur": "Rupee falls 2 paise to 94.97 against US dollar in early trade",
-      "desc_ur": "Forex traders said the RBI is keeping a tab on the rupee's fall as Brent crude prices have risen to $95 per barrel and dollar index is hovering around 99.70 on a bout of risk aversion on renewed US-Iran tensions."
-    },
-    {
-      "title": "Amid rising antisemitism, South African Jews choose to strengthen their identity",
-      "desc": "As hostility and anti-Israel sentiment intensify, Cape Town’s Jewish community responds by expanding Jewish life with a new Torah study initiative for seniors.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/432580",
-      "time": "2026-09-02T04:39:00",
-      "country": "Israel",
-      "title_ur": "Amid rising antisemitism, South African Jews choose to strengthen their identity",
-      "desc_ur": "As hostility and anti-Israel sentiment intensify, Cape Town’s Jewish community responds by expanding Jewish life with a new Torah study initiative for seniors."
-    },
-    {
-      "title": "USS Abraham Lincoln arrives in Thailand after record 200-plus days at sea",
-      "desc": "The USS Abraham Lincoln aircraft carrier arrived in Thailand after a long deployment.  Its hull showed rust, and crew morale was reportedly affected by shortages.  US officials disputed claims of deteriorating conditions and excessive deployment length.  Admi…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/defence/uss-abraham-lincoln-arrives-in-thailand-after-record-200-plus-days-at-sea/articleshow/133697882.cms",
-      "time": "2026-09-02T04:35:34",
-      "country": "US",
-      "title_ur": "USS Abraham Lincoln arrives in Thailand after record 200-plus days at sea",
-      "desc_ur": "The USS Abraham Lincoln aircraft carrier arrived in Thailand after a long deployment.  Its hull showed rust, and crew morale was reportedly affected by shortages.  US officials disputed claims of deteriorating conditions and excessive deployment length.  Admi…"
-    },
-    {
-      "title": "US launches heavy airstrikes on Iran, Tehran hits back",
-      "desc": "Doha, Sept 2: Iran launched retaliatory missile and drone attacks on US military facilities in the Middle East after the United States carried out heavy airstrikes on Iranian military sites on Tuesday, sharply escalating a conflict that had remained relativel…",
-      "source": "Peoplesreview.com.np",
-      "url": "https://peoplesreview.com.np/2026/09/02/us-launches-heavy-airstrikes-on-iran-tehran-hits-back/",
-      "time": "2026-09-02T04:35:00",
-      "country": "Iran",
-      "title_ur": "US launches heavy airstrikes on Iran, Tehran hits back",
-      "desc_ur": "Doha, Sept 2: Iran launched retaliatory missile and drone attacks on US military facilities in the Middle East after the United States carried out heavy airstrikes on Iranian military sites on Tuesday, sharply escalating a conflict that had remained relativel…"
-    },
-    {
-      "title": "The Watergate Scandal",
-      "desc": "Podcast Transcript On June 17, 1972, a seemingly minor burglary at a Washington, D.C. office building set off a chain of events that would shake the American political system to its core.  What began with five arrests soon revealed secret campaign operations,…",
-      "source": "Everything-everywhere.com",
-      "url": "https://everything-everywhere.com/the-watergate-scandal/",
-      "time": "2026-09-02T04:34:31",
-      "country": "US",
-      "title_ur": "The Watergate Scandal",
-      "desc_ur": "Podcast Transcript On June 17, 1972, a seemingly minor burglary at a Washington, D.C. office building set off a chain of events that would shake the American political system to its core.  What began with five arrests soon revealed secret campaign operations,…"
-    },
-    {
-      "title": "Sensex tanks 800 points intraday, Nifty below 23,800: What's spooking D-St?",
-      "desc": "VK Vijayakumar said that the escalation of the US-Iran conflict and the consequent 5 per cent spurt in Brent crude overnight to $96 is a negative for markets.",
+      "title": "Sensex, Nifty trade in negative terrain; media shares decline",
+      "desc": "Media shares declined after gaining in the previous trading session.",
       "source": "Business Standard",
-      "url": "https://www.business-standard.com/markets/news/oil-bond-yields-rattle-d-st-as-sensex-crashes-800-points-intraday-nifty-below-23-800-126090200203_1.html",
-      "time": "2026-09-02T04:33:01",
-      "country": "Iran",
-      "title_ur": "Sensex tanks 800 points intraday, Nifty below 23,800: What's spooking D-St?",
-      "desc_ur": "VK Vijayakumar said that the escalation of the US-Iran conflict and the consequent 5 per cent spurt in Brent crude overnight to $96 is a negative for markets."
+      "url": "https://www.business-standard.com/markets/capital-market-news/sensex-nifty-trade-in-negative-terrain-media-shares-decline-126090200721_1.html",
+      "time": "2026-09-02T09:21:53",
+      "country": "US",
+      "title_ur": "Sensex, Nifty trade in negative terrain; media shares decline",
+      "desc_ur": "Media shares declined after gaining in the previous trading session."
     },
     {
-      "title": "Global Market: Japanese shares tumble as Iran conflict lifts oil prices, bond yields",
-      "desc": "Japanese equities tumbled on Wednesday as renewed US-Iran military strikes pushed oil prices higher and raised concerns over economic growth, while surging government bond yields pressured technology and chip stocks. The Nikkei fell nearly 3%, with defensive …",
+      "title": "US-Iran fighting escalates as Tehran retaliates with missile, drone strikes",
+      "desc": "The US military carried out its second round of attacks in three days, which US Central Command said targeted radar systems and mine-laying capabilities along Iran's southern coast",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/us-iran-fighting-escalates-as-tehran-retaliates-with-missile-drone-strikes-126090200710_1.html",
+      "time": "2026-09-02T09:20:10",
+      "country": "Iran",
+      "title_ur": "US-Iran fighting escalates as Tehran retaliates with missile, drone strikes",
+      "desc_ur": "The US military carried out its second round of attacks in three days, which US Central Command said targeted radar systems and mine-laying capabilities along Iran's southern coast"
+    },
+    {
+      "title": "Russia secretly helping Iran develop supersonic cruise missiles",
+      "desc": "Leaks reveal programme behind one of the most significant known transfers of military technology from Moscow to Tehran",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/world/asia-pacific/2026/09/02/russia-secretly-helping-iran-develop-supersonic-cruise-missiles/",
+      "time": "2026-09-02T09:18:40",
+      "country": "Iran",
+      "title_ur": "Russia secretly helping Iran develop supersonic cruise missiles",
+      "desc_ur": "Leaks reveal programme behind one of the most significant known transfers of military technology from Moscow to Tehran"
+    },
+    {
+      "title": "This is what the post-Western world looks like",
+      "desc": "The Bishkek SCO summit brought Russia, China, India, and Iran together as the bloc expanded its security, trade, and global governance role Read Full Article at RT.com",
+      "source": "RT",
+      "url": "https://www.rt.com/news/644986-bishkek-sco-summit-russia/",
+      "time": "2026-09-02T09:17:06",
+      "country": "Iran",
+      "title_ur": "This is what the post-Western world looks like",
+      "desc_ur": "The Bishkek SCO summit brought Russia, China, India, and Iran together as the bloc expanded its security, trade, and global governance role Read Full Article at RT.com"
+    },
+    {
+      "title": "A Fitting End to a Big-Money Primary Season",
+      "desc": "Two establishment candidates are playing with nearly $10 million in campaign cash, using it mainly to attack one another while progressives look on haplessly.\nThe post A Fitting End to a Big-Money Primary Season appeared first on The American Prospect.",
+      "source": "The American Prospect",
+      "url": "https://prospect.org/2026/09/02/fitting-end-to-big-money-primary-season-new-hampshire-democrats/",
+      "time": "2026-09-02T09:15:38",
+      "country": "US",
+      "title_ur": "A Fitting End to a Big-Money Primary Season",
+      "desc_ur": "Two establishment candidates are playing with nearly $10 million in campaign cash, using it mainly to attack one another while progressives look on haplessly.\nThe post A Fitting End to a Big-Money Primary Season appeared first on The American Prospect."
+    },
+    {
+      "title": "161-acre California racetrack closes after nearly 90 years of horse racing, now a $175 million plan could turn the site into a major waterfront park with $125 million in state funding",
+      "desc": "Golden Gate Fields, a 161-acre former racetrack near Berkeley, could be transformed into a major waterfront public park. California lawmakers have proposed $125 million in state funding to help purchase and preserve the site. The plan would connect several ex…",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japanese-shares-tumble-as-iran-conflict-lifts-oil-prices-bond-yields/articleshow/133697674.cms",
-      "time": "2026-09-02T04:27:40",
-      "country": "Iran",
-      "title_ur": "Global Market: Japanese shares tumble as Iran conflict lifts oil prices, bond yields",
-      "desc_ur": "Japanese equities tumbled on Wednesday as renewed US-Iran military strikes pushed oil prices higher and raised concerns over economic growth, while surging government bond yields pressured technology and chip stocks. The Nikkei fell nearly 3%, with defensive …"
+      "url": "https://timesofindia.indiatimes.com/world/us/161-acre-california-racetrack-closes-after-nearly-90-years-of-horse-racing-now-a-175-million-plan-could-turn-the-site-into-a-major-waterfront-park-with-125-million-in-state-funding/articleshow/133701941.cms",
+      "time": "2026-09-02T09:15:28",
+      "country": "International",
+      "title_ur": "161-acre California racetrack closes after nearly 90 years of horse racing, now a $175 million plan could turn the site into a major waterfront park with $125 million in state funding",
+      "desc_ur": "Golden Gate Fields, a 161-acre former racetrack near Berkeley, could be transformed into a major waterfront public park. California lawmakers have proposed $125 million in state funding to help purchase and preserve the site. The plan would connect several ex…"
     },
     {
-      "title": "USS Abraham Lincoln arrives in Thailand after extended Iran deployment",
-      "desc": "About 5,000 U.S. sailors and Marines are stopping in the resort city of Pattaya for a “rest and relaxation” break as they return home from a record-setting deployment in the Middle East.",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/world/asia/uss-abraham-lincoln-arrives-thailand-extended-iran-deployment-rcna595651",
-      "time": "2026-09-02T04:24:12",
-      "country": "Iran",
-      "title_ur": "USS Abraham Lincoln arrives in Thailand after extended Iran deployment",
-      "desc_ur": "About 5,000 U.S. sailors and Marines are stopping in the resort city of Pattaya for a “rest and relaxation” break as they return home from a record-setting deployment in the Middle East."
+      "title": "BlackRock's top US investment strategist shares 3 ways to prep your portfolio for an era of higher bond yields",
+      "desc": "\"We think that we should all get used to a world of interest rates staying higher for longer,\" Pal Chaudhuri told Business Insider on Monday.",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/high-bond-yields-rising-where-to-invest-stocks-bonds-blackrock-2026-9#article",
+      "time": "2026-09-02T09:15:01",
+      "country": "US",
+      "title_ur": "BlackRock's top US investment strategist shares 3 ways to prep your portfolio for an era of higher bond yields",
+      "desc_ur": "\"We think that we should all get used to a world of interest rates staying higher for longer,\" Pal Chaudhuri told Business Insider on Monday."
     },
     {
-      "title": "Bessent says 19 finance ministers agreed 'cheap exports' are unsustainable, but China dissented",
-      "desc": "Treasury Secretary Scott Bessent stated nineteen G20 members agreed to address cheap exports. China dissented from this agreement, which aims to curb global economic imbalances. Bessent urged other nations to adopt measures similar to the Trump administration…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/bessent-says-19-finance-ministers-agreed-cheap-exports-are-unsustainable-but-china-dissented/articleshow/133697655.cms",
-      "time": "2026-09-02T04:24:11",
+      "title": "Asian Games 2026: Why cricket's accommodation plan is under scrutiny",
+      "desc": "The Japan Cricket Association has defended the preparations, saying the Aichi-Nagoya Asian Games Organising Committee and Asian Cricket Council have worked together on the arrangements",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/sports/asian-games/asian-games-2026-why-cricket-s-accommodation-plan-is-under-scrutiny-126090200682_1.html",
+      "time": "2026-09-02T09:13:59",
+      "country": "International",
+      "title_ur": "Asian Games 2026: Why cricket's accommodation plan is under scrutiny",
+      "desc_ur": "The Japan Cricket Association has defended the preparations, saying the Aichi-Nagoya Asian Games Organising Committee and Asian Cricket Council have worked together on the arrangements"
+    },
+    {
+      "title": "IDF says it eliminated two Hamas operatives",
+      "desc": "The Israel Defense Forces (IDF) reported on Wednesday that its troops eliminated two Hamas operatives in Gaza during the past week, one of whom was a commander of the military group.\"On Monday, the ID...",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/a3ba6697b27a30ab",
+      "time": "2026-09-02T09:13:35",
+      "country": "Israel",
+      "title_ur": "IDF says it eliminated two Hamas operatives",
+      "desc_ur": "The Israel Defense Forces (IDF) reported on Wednesday that its troops eliminated two Hamas operatives in Gaza during the past week, one of whom was a commander of the military group.\"On Monday, the ID..."
+    },
+    {
+      "title": "Pentagon turmoil deepens as Hegseth consolidates control",
+      "desc": "The Pentagon has entered a period of profound institutional turmoil, as a crisis of leadership at home converges with a crisis of capacity abroad.\nWhy it matters: Six months into the Iran war, Pete Hegseth presides over a Pentagon with fewer senior leaders, f…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/8c8d8e4d37f6d691",
+      "time": "2026-09-02T09:13:22",
+      "country": "Iran",
+      "title_ur": "Pentagon turmoil deepens as Hegseth consolidates control",
+      "desc_ur": "The Pentagon has entered a period of profound institutional turmoil, as a crisis of leadership at home converges with a crisis of capacity abroad.\nWhy it matters: Six months into the Iran war, Pete Hegseth presides over a Pentagon with fewer senior leaders, f…"
+    },
+    {
+      "title": "‘Tired of all the churn’: Key Republicans are starting to turn on Hegseth over Pentagon departures",
+      "desc": "As President Donald Trump’s war with Iran drags on, a growing number of House Republicans are sounding the alarm about top-level turnover at the Pentagon — with some of the GOP’s most prominent national security voices openly criticizing the recent departures…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/1c87bba94151b9f7",
+      "time": "2026-09-02T09:13:01",
+      "country": "Iran",
+      "title_ur": "‘Tired of all the churn’: Key Republicans are starting to turn on Hegseth over Pentagon departures",
+      "desc_ur": "As President Donald Trump’s war with Iran drags on, a growing number of House Republicans are sounding the alarm about top-level turnover at the Pentagon — with some of the GOP’s most prominent national security voices openly criticizing the recent departures…"
+    },
+    {
+      "title": "IDF dismisses commander over praying with settlers at West Bank outpost",
+      "desc": "The army said the commander violated orders requiring troops to separate settlers and Palestinians and avoid conduct that could be seen as supporting illegal activity. Other soldiers involved will not face disciplinary action",
+      "source": "Haaretz",
+      "url": "https://www.haaretz.com/israel-news/israel-security/2026-09-02/ty-article/.premium/idf-dismisses-commander-over-praying-with-settlers-at-west-bank-outpost/000001a0-6103-d8bc-a7b8-e9cfa2c80000",
+      "time": "2026-09-02T09:10:13",
+      "country": "International",
+      "title_ur": "IDF dismisses commander over praying with settlers at West Bank outpost",
+      "desc_ur": "The army said the commander violated orders requiring troops to separate settlers and Palestinians and avoid conduct that could be seen as supporting illegal activity. Other soldiers involved will not face disciplinary action"
+    },
+    {
+      "title": "Abdelrahman ElGendy on Writing From Inside a Prison Cell",
+      "desc": "On his third night in detention in Cairo, crammed with sixty other prisoners into a four-by-five meter cell, Abdelrahman ElGendy heard the song for the first time. Belly full after being starved for three days, one of his cellmates began",
+      "source": "Lithub.com",
+      "url": "https://lithub.com/abdelrahman-elgendy-on-writing-from-inside-a-prison-cell/",
+      "time": "2026-09-02T09:09:35",
+      "country": "Egypt",
+      "title_ur": "Abdelrahman ElGendy on Writing From Inside a Prison Cell",
+      "desc_ur": "On his third night in detention in Cairo, crammed with sixty other prisoners into a four-by-five meter cell, Abdelrahman ElGendy heard the song for the first time. Belly full after being starved for three days, one of his cellmates began"
+    },
+    {
+      "title": "Iran War: US Lashes Out at Civilian Targets with Iran Claiming US Military Deaths in Disproportionate Retaliation on US Bases; Servicemembers Becoming Demoralized with Lack of Strategy, No-Win Situation",
+      "desc": "Today's Iran war news: Iran upped the ante after the US made further strikes despite its eroding military supplies and morale.",
+      "source": "Nakedcapitalism.com",
+      "url": "https://www.nakedcapitalism.com/2026/09/iran-war-us-lashes-out-at-civilian-targets-with-iran-claiming-us-military-deaths-in-disproportionate-retaliation-on-us-bases-servicemembers-becoming-demoralized-with-lack-of-strategy-no-win-situat.html",
+      "time": "2026-09-02T09:09:30",
+      "country": "Iran",
+      "title_ur": "Iran War: US Lashes Out at Civilian Targets with Iran Claiming US Military Deaths in Disproportionate Retaliation on US Bases; Servicemembers Becoming Demoralized with Lack of Strategy, No-Win Situation",
+      "desc_ur": "Today's Iran war news: Iran upped the ante after the US made further strikes despite its eroding military supplies and morale."
+    },
+    {
+      "title": "Fatal Floods Expose Threats to Hydropower in the Roof of the World",
+      "desc": "The devastating deluge that swept through the mountain valleys on the border between Nepal and Tibet in China is a potent reminder of a growing green-energy risk in one of the world’s most hazard-prone areas.Hydropower dams high in the Himalayas …",
+      "source": "Insurance Journal",
+      "url": "https://www.insurancejournal.com/news/international/2026/09/02/883641.htm",
+      "time": "2026-09-02T09:08:51",
       "country": "China",
-      "title_ur": "Bessent says 19 finance ministers agreed 'cheap exports' are unsustainable, but China dissented",
-      "desc_ur": "Treasury Secretary Scott Bessent stated nineteen G20 members agreed to address cheap exports. China dissented from this agreement, which aims to curb global economic imbalances. Bessent urged other nations to adopt measures similar to the Trump administration…"
-    },
-    {
-      "title": "Key player in Melbourne tobacco wars to spend at least three years behind bars",
-      "desc": "A key lieutenant of jailed tobacco kingpin Kazem Hamad will spend at least three years behind bars for orchestrating arsons and car thefts at the height of Victoria's tobacco wars.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-09-02/majid-alibadi-sentencing-melbourne-tobacco-wars/107106418",
-      "time": "2026-09-02T04:21:12",
-      "country": "Europe",
-      "title_ur": "Key player in Melbourne tobacco wars to spend at least three years behind bars",
-      "desc_ur": "A key lieutenant of jailed tobacco kingpin Kazem Hamad will spend at least three years behind bars for orchestrating arsons and car thefts at the height of Victoria's tobacco wars."
+      "title_ur": "Fatal Floods Expose Threats to Hydropower in the Roof of the World",
+      "desc_ur": "The devastating deluge that swept through the mountain valleys on the border between Nepal and Tibet in China is a potent reminder of a growing green-energy risk in one of the world’s most hazard-prone areas.Hydropower dams high in the Himalayas …"
     }
   ],
   "pakistan": [
     {
-      "title": "Ashes blow for England! Michael Hussey rejects chance to be part of Stephen Fleming's staff and takes Australia gig",
-      "desc": "Michael Hussey has rejected Stephen Fleming's offer to become England's Test batting coach, opting instead for a flexible consultancy deal with Cricket Australia.",
-      "source": "Cricketnews.com",
-      "url": "https://www.cricketnews.com/en/cricket/news/ashes-england-michael-hussey-rejects-stephen-fleming-australia/6d251a8cb8dacfdebb53a542",
-      "time": "2026-09-02T04:30:22",
+      "title": "Oil shipments to India face delivery hurdles on Mideast snarls",
+      "desc": "Indian refiners face disrupted oil shipments from the Middle East.  Bharat Petroleum and Indian Oil experienced delayed crude oil deliveries.  These disruptions force refiners to seek costly alternative oil supplies.  Simultaneously, Russian oil flows are als…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/oil-shipments-to-india-face-delivery-hurdles-on-mideast-snarls/articleshow/133705106.cms",
+      "time": "2026-09-02T09:12:53",
       "country": "Pakistan",
-      "title_ur": "Ashes blow for England! Michael Hussey rejects chance to be part of Stephen Fleming's staff and takes Australia gig",
-      "desc_ur": "Michael Hussey has rejected Stephen Fleming's offer to become England's Test batting coach, opting instead for a flexible consultancy deal with Cricket Australia."
+      "title_ur": "Oil shipments to India face delivery hurdles on Mideast snarls",
+      "desc_ur": "Indian refiners face disrupted oil shipments from the Middle East.  Bharat Petroleum and Indian Oil experienced delayed crude oil deliveries.  These disruptions force refiners to seek costly alternative oil supplies.  Simultaneously, Russian oil flows are als…"
     },
     {
-      "title": "Hezbollah outlet claims IDF struck southern Lebanon after drone attack intercepted over Israel",
-      "desc": "Continued military tensions between Israel and Hezbollah may hinder Israel's withdrawal plans, affecting regional stability and market perceptions.\nThe post Hezbollah outlet claims IDF struck southern Lebanon after drone attack intercepted over Israel appeare…",
+      "title": "Hegseth takes Pentagon helm, halts promotions amid global conflicts",
+      "desc": "Hegseth's leadership shift may signal a move towards more aggressive US military strategies, impacting global stability and market perceptions.\nThe post Hegseth takes Pentagon helm, halts promotions amid global conflicts appeared first on Crypto Briefing.",
       "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/hezbollah-outlet-claims-idf-struck-southern-lebanon-after-drone-attack/",
-      "time": "2026-09-02T04:16:42",
+      "url": "https://cryptobriefing.com/hegseth-takes-pentagon-helm-halts-promotions-amid-global-conflicts/",
+      "time": "2026-09-02T09:07:15",
       "country": "Pakistan",
-      "title_ur": "Hezbollah outlet claims IDF struck southern Lebanon after drone attack intercepted over Israel",
-      "desc_ur": "Continued military tensions between Israel and Hezbollah may hinder Israel's withdrawal plans, affecting regional stability and market perceptions.\nThe post Hezbollah outlet claims IDF struck southern Lebanon after drone attack intercepted over Israel appeare…"
+      "title_ur": "Hegseth takes Pentagon helm, halts promotions amid global conflicts",
+      "desc_ur": "Hegseth's leadership shift may signal a move towards more aggressive US military strategies, impacting global stability and market perceptions.\nThe post Hegseth takes Pentagon helm, halts promotions amid global conflicts appeared first on Crypto Briefing."
     },
     {
-      "title": "Pakistan selector Misbah offers to resign after PCB changes Test squad",
-      "desc": "Misbah-ul-Haq on Tuesday offered to step down from Pakistan's national selection committee after the PCB made sweeping changes to the Test squad and team management during the ongoing England tour without consulting him.\nMisbah's offer came a day after the PC…",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/cricket/news/pakistan-selector-misbah-offers-to-resign-after-pcb-changes-test-squad-126090101333_1.html",
-      "time": "2026-09-02T04:12:23",
+      "title": "Leadership gaps cloud Pakistan's human rights oversight system",
+      "desc": "Pakistan News: Pakistan’s human rights oversight framework is facing growing uncertainty as key commissions continue to function without permanent leadership or full.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/pakistan/leadership-gaps-cloud-pakistans-human-rights-oversight-system/articleshow/133703656.cms",
+      "time": "2026-09-02T08:53:21",
       "country": "Pakistan",
-      "title_ur": "Pakistan selector Misbah offers to resign after PCB changes Test squad",
-      "desc_ur": "Misbah-ul-Haq on Tuesday offered to step down from Pakistan's national selection committee after the PCB made sweeping changes to the Test squad and team management during the ongoing England tour without consulting him.\nMisbah's offer came a day after the PC…"
-    },
-    {
-      "title": "Oil prices extend gains as US and Iran trade fresh strikes",
-      "desc": "By Siddharth Cavale and Trixie Yap\nSept 2 (Reuters) - Oil prices rose in early trade on Wednesday, extending the previous session's surge, as concerns over supply disruption intensified after the U.S. and Iran exchanged strikes overnight, dimming hopes for a …",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/013ce37f6ece4603",
-      "time": "2026-09-02T04:10:54",
-      "country": "Pakistan",
-      "title_ur": "Oil prices extend gains as US and Iran trade fresh strikes",
-      "desc_ur": "By Siddharth Cavale and Trixie Yap\nSept 2 (Reuters) - Oil prices rose in early trade on Wednesday, extending the previous session's surge, as concerns over supply disruption intensified after the U.S. and Iran exchanged strikes overnight, dimming hopes for a …"
-    },
-    {
-      "title": "PCB cracks whip as Imam-ul-Haq makes quiet return home from England quietly",
-      "desc": "Pakistan opener Imam-ul-Haq, one of the seven Pakistan players to be sent back home after the team's heavy defeats to England in two Tests, made a quiet and low-profile return here from London on Tuesday.\nThe defeats at Leeds and Lords, and the backlash on th…",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/cricket/news/pcb-cracks-whip-as-imam-ul-haq-makes-quiet-return-home-from-england-quietly-126090101463_1.html",
-      "time": "2026-09-02T04:03:22",
-      "country": "Pakistan",
-      "title_ur": "PCB cracks whip as Imam-ul-Haq makes quiet return home from England quietly",
-      "desc_ur": "Pakistan opener Imam-ul-Haq, one of the seven Pakistan players to be sent back home after the team's heavy defeats to England in two Tests, made a quiet and low-profile return here from London on Tuesday.\nThe defeats at Leeds and Lords, and the backlash on th…"
+      "title_ur": "Leadership gaps cloud Pakistan's human rights oversight system",
+      "desc_ur": "Pakistan News: Pakistan’s human rights oversight framework is facing growing uncertainty as key commissions continue to function without permanent leadership or full."
     }
   ],
   "business": {
@@ -220,7 +200,7 @@
         "low": 24,
         "condition": "Light Rain",
         "condition_ur": "ہلکی بارش",
-        "precip": 41
+        "precip": 63
       },
       {
         "date": "2026-09-04",
@@ -229,25 +209,25 @@
         "low": 24,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 65
+        "precip": 62
       },
       {
         "date": "2026-09-05",
         "day": "ہفتہ",
         "high": 32,
-        "low": 24,
+        "low": 23,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 81
+        "precip": 85
       },
       {
         "date": "2026-09-06",
         "day": "اتوار",
         "high": 32,
         "low": 23,
-        "condition": "Light Showers",
-        "condition_ur": "ہلکی بارش",
-        "precip": 55
+        "condition": "Heavy Drizzle",
+        "condition_ur": "تیز بوندا باندی",
+        "precip": 47
       },
       {
         "date": "2026-09-07",
@@ -256,16 +236,16 @@
         "low": 25,
         "condition": "Clear",
         "condition_ur": "صاف",
-        "precip": 9
+        "precip": 6
       },
       {
         "date": "2026-09-08",
         "day": "منگل",
         "high": 35,
         "low": 26,
-        "condition": "Light Drizzle",
-        "condition_ur": "ہلکی بوندا باندی",
-        "precip": 4
+        "condition": "Clear",
+        "condition_ur": "صاف",
+        "precip": 2
       },
       {
         "date": "2026-09-09",
