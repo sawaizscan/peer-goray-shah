@@ -1,167 +1,197 @@
 {
-  "generated": "2026-09-03T17:26:30Z",
+  "generated": "2026-09-03T20:01:08Z",
   "world": [
     {
-      "title": "Thai resort city cracks down on prostitution ahead of USS Abraham Lincoln arrival",
-      "desc": "Pattaya police ramped up patrols and raids ahead of the USS Abraham Lincoln's arrival, arresting over 50 people as 5,000 sailors hit the resort city.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/world/thai-resort-city-cracks-down-prostitution-ahead-uss-abraham-lincoln-arrival",
-      "time": "2026-09-02T17:26:03",
+      "title": "Critical minerals race: India looks to UK, EU for supply chains",
+      "desc": "India is discussing partnerships with the UK and EU for critical mineral processing.  The nation collaborates with the US on resilient supply chains for critical minerals.  Trade deals with the Gulf Cooperation Council and Israel are pending regional stabilit…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/critical-minerals-race-india-looks-to-uk-eu-for-supply-chains/articleshow/133719485.cms",
+      "time": "2026-09-02T20:00:30",
+      "country": "Israel",
+      "title_ur": "Critical minerals race: India looks to UK, EU for supply chains",
+      "desc_ur": "India is discussing partnerships with the UK and EU for critical mineral processing.  The nation collaborates with the US on resilient supply chains for critical minerals.  Trade deals with the Gulf Cooperation Council and Israel are pending regional stabilit…"
+    },
+    {
+      "title": "Trump Pressures USA Oil Refiners to Ease Pump Prices",
+      "desc": "President Donald Trump pressed U.S. oil refiners to boost domestic production of gasoline and diesel during a closed-door meeting Tuesday.",
+      "source": "Rigzone",
+      "url": "https://www.rigzone.com/news/wire/trump_pressures_usa_oil_refiners_to_ease_pump_prices-02-sep-2026-184521-article/",
+      "time": "2026-09-02T20:00:00",
       "country": "US",
-      "title_ur": "Thai resort city cracks down on prostitution ahead of USS Abraham Lincoln arrival",
-      "desc_ur": "Pattaya police ramped up patrols and raids ahead of the USS Abraham Lincoln's arrival, arresting over 50 people as 5,000 sailors hit the resort city."
+      "title_ur": "Trump Pressures USA Oil Refiners to Ease Pump Prices",
+      "desc_ur": "President Donald Trump pressed U.S. oil refiners to boost domestic production of gasoline and diesel during a closed-door meeting Tuesday."
     },
     {
-      "title": "Rajan man among five arrested in Rs 11 crore extortion bid over Bandra property",
-      "desc": "Mumbai Police’s Anti-Extortion Cell arrested five, including a brother-sister duo, for allegedly seeking ₹11 crore from a Bandra developer; probe ongoing.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/rajan-man-among-five-arrested-in-rs-11-crore-extortion-bid-over-bandra-property/articleshow/133717090.cms",
-      "time": "2026-09-02T17:24:44",
-      "country": "International",
-      "title_ur": "Rajan man among five arrested in Rs 11 crore extortion bid over Bandra property",
-      "desc_ur": "Mumbai Police’s Anti-Extortion Cell arrested five, including a brother-sister duo, for allegedly seeking ₹11 crore from a Bandra developer; probe ongoing."
-    },
-    {
-      "title": "Hormuz card? Not quite",
-      "desc": "From TOI Print News: Countries are finding new ways to move oil without depending too much on the Strait of Hormuz.US and Iran are fighting again after a short break. US a.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/toi-blogs/from-toi-print/hormuz-card-not-quite/articleshow/133716821.cms",
-      "time": "2026-09-02T17:23:39",
-      "country": "Iran",
-      "title_ur": "Hormuz card? Not quite",
-      "desc_ur": "From TOI Print News: Countries are finding new ways to move oil without depending too much on the Strait of Hormuz.US and Iran are fighting again after a short break. US a."
-    },
-    {
-      "title": "Monsoon readiness in doubt as SWD work stalled in Avadi, Tambaram",
-      "desc": "Storm water drain works in Avadi and Tambaram remain incomplete as northeast monsoon nears, raising flood concerns amid dug-up roads, clogged drains and slow progress.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/chennai/monsoon-readiness-in-doubt-as-swd-work-stalled-in-avadi-tambaram/articleshow/133716854.cms",
-      "time": "2026-09-02T17:23:26",
-      "country": "Iran",
-      "title_ur": "Monsoon readiness in doubt as SWD work stalled in Avadi, Tambaram",
-      "desc_ur": "Storm water drain works in Avadi and Tambaram remain incomplete as northeast monsoon nears, raising flood concerns amid dug-up roads, clogged drains and slow progress."
-    },
-    {
-      "title": "Ganga swells again, fresh flood crisis grips Danapur diara",
-      "desc": "Ganga rises in Patna’s Danapur Diara, 2 ft above danger mark; 7 panchayats submerged, roads flooded, power cut; relief, evacuation plans on alert.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/patna/ganga-swells-again-fresh-flood-crisis-grips-danapur-diara/articleshow/133716847.cms",
-      "time": "2026-09-02T17:22:53",
-      "country": "International",
-      "title_ur": "Ganga swells again, fresh flood crisis grips Danapur diara",
-      "desc_ur": "Ganga rises in Patna’s Danapur Diara, 2 ft above danger mark; 7 panchayats submerged, roads flooded, power cut; relief, evacuation plans on alert."
-    },
-    {
-      "title": "Living beyond Earth: Astronaut Shubhanshu Shukla unveils BHEEM concept for setting up habitat on Mars, Moon, other planets",
-      "desc": "Astronaut Shubhanshu Shukla has developed a concept for extraterrestrial habitats. This modular design, named BHEEM, aims to support future human presence on other worlds. BHEEM addresses challenges like radiation and extreme temperatures for astronauts. Its …",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/science/living-beyond-earth-astronaut-shubhanshu-shukla-unveils-bheem-concept-for-setting-up-habitat-on-mars-moon-other-planets/articleshow/133716770.cms",
-      "time": "2026-09-02T17:22:51",
-      "country": "UK",
-      "title_ur": "Living beyond Earth: Astronaut Shubhanshu Shukla unveils BHEEM concept for setting up habitat on Mars, Moon, other planets",
-      "desc_ur": "Astronaut Shubhanshu Shukla has developed a concept for extraterrestrial habitats. This modular design, named BHEEM, aims to support future human presence on other worlds. BHEEM addresses challenges like radiation and extreme temperatures for astronauts. Its …"
-    },
-    {
-      "title": "Drive dies in Muzaffarpur road accident",
-      "desc": "Driver Ajit Sharma died and around 24 passengers were injured after two buses collided head-on on NH-22 near Muzaffarpur; several critical admitted to SKMCH.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/patna/drive-dies-in-muzaffarpur-road-accident/articleshow/133716841.cms",
-      "time": "2026-09-02T17:22:50",
+      "title": "Taxpayers Must Not Be on the Hook for Bailing Out the AI Industry",
+      "desc": "Hundreds of billions of dollars are flooding the AI industry. Economist Gerald Epstein says this bubble could burst.",
+      "source": "Truthout",
+      "url": "https://truthout.org/articles/taxpayers-must-not-be-on-the-hook-for-bailing-out-the-ai-industry/",
+      "time": "2026-09-02T19:57:59",
       "country": "US",
-      "title_ur": "Drive dies in Muzaffarpur road accident",
-      "desc_ur": "Driver Ajit Sharma died and around 24 passengers were injured after two buses collided head-on on NH-22 near Muzaffarpur; several critical admitted to SKMCH."
+      "title_ur": "Taxpayers Must Not Be on the Hook for Bailing Out the AI Industry",
+      "desc_ur": "Hundreds of billions of dollars are flooding the AI industry. Economist Gerald Epstein says this bubble could burst."
     },
     {
-      "title": "Major rivers above danger levels, Got steps up flood preparedness across districts",
-      "desc": "Bihar on high alert as rivers cross danger marks; 27 SDRF and 9 NDRF teams deployed, boats and relief aid active, embankments monitored amid rising discharge.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/patna/major-rivers-above-danger-levels-got-steps-up-flood-preparedness-across-districts/articleshow/133716842.cms",
-      "time": "2026-09-02T17:22:50",
+      "title": "Never lose hope",
+      "desc": "“Even if a person has been a sinner all his life and does Teshuva at the end, it is effective.\" (Rambam, Hilchot Teshuva 2:1)",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/432619",
+      "time": "2026-09-02T19:57:40",
       "country": "International",
-      "title_ur": "Major rivers above danger levels, Got steps up flood preparedness across districts",
-      "desc_ur": "Bihar on high alert as rivers cross danger marks; 27 SDRF and 9 NDRF teams deployed, boats and relief aid active, embankments monitored amid rising discharge."
+      "title_ur": "Never lose hope",
+      "desc_ur": "“Even if a person has been a sinner all his life and does Teshuva at the end, it is effective.\" (Rambam, Hilchot Teshuva 2:1)"
     },
     {
-      "title": "Peru to sever diplomatic ties with Iran amid Latin America's pro-Israel shift",
-      "desc": "Lima cited Tehran's 'escalation of conflicts' in the Middle East. In Israel, the Netanyahu government has made concerted efforts to improve diplomatic relations with many of the South America countries, including Peru, who have shifted rightward in recent yea…",
-      "source": "Haaretz",
-      "url": "https://www.haaretz.com/world-news/americas/2026-09-02/ty-article/.premium/peru-to-sever-diplomatic-ties-with-iran-amid-latin-americas-pro-israel-shift/000001a0-621d-d822-a3b8-725fa2950000",
-      "time": "2026-09-02T17:22:35",
-      "country": "Iran",
-      "title_ur": "Peru to sever diplomatic ties with Iran amid Latin America's pro-Israel shift",
-      "desc_ur": "Lima cited Tehran's 'escalation of conflicts' in the Middle East. In Israel, the Netanyahu government has made concerted efforts to improve diplomatic relations with many of the South America countries, including Peru, who have shifted rightward in recent yea…"
-    },
-    {
-      "title": "Iran blacklists more ships trying to sail through Hormuz, govt website shows",
-      "desc": "Iran has expanded its list of vessels prohibited from navigating the strategic Strait of Hormuz, now including eleven additional ships. These vessels risk penalties such as fines, confiscation, or even detention if they attempt to pass through. The Persian Gu…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-blacklists-more-ships-trying-to-sail-through-hormuz-govt-website-shows/articleshow/133716830.cms",
-      "time": "2026-09-02T17:21:58",
-      "country": "Iran",
-      "title_ur": "Iran blacklists more ships trying to sail through Hormuz, govt website shows",
-      "desc_ur": "Iran has expanded its list of vessels prohibited from navigating the strategic Strait of Hormuz, now including eleven additional ships. These vessels risk penalties such as fines, confiscation, or even detention if they attempt to pass through. The Persian Gu…"
-    },
-    {
-      "title": "Rebel MLA questions Vijayan on poll defeat",
-      "desc": "CPM rebel MLA T K Govindan criticizes Pinarayi Vijayan and K K Ragesh over Payyannur and Taliparamba poll defeats, urging party self-correction.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/thiruvananthapuram/rebel-mla-questions-vijayan-on-poll-defeat/articleshow/133716820.cms",
-      "time": "2026-09-02T17:21:32",
+      "title": "Desert Edge WR Zerek Sidney joins athletes in Suicide Prevention Month",
+      "desc": "Desert Edge wide receiver Zerek Sidney is among 63 student-athletes from 38 Arizona high schools participating in National Suicide Preventon Month.",
+      "source": "AZCentral",
+      "url": "https://www.azcentral.com/story/sports/high-school/2026/09/02/desert-edge-wr-zerek-sidney-wants-to-bring-hope/91512109007/",
+      "time": "2026-09-02T19:57:05",
       "country": "International",
-      "title_ur": "Rebel MLA questions Vijayan on poll defeat",
-      "desc_ur": "CPM rebel MLA T K Govindan criticizes Pinarayi Vijayan and K K Ragesh over Payyannur and Taliparamba poll defeats, urging party self-correction."
+      "title_ur": "Desert Edge WR Zerek Sidney joins athletes in Suicide Prevention Month",
+      "desc_ur": "Desert Edge wide receiver Zerek Sidney is among 63 student-athletes from 38 Arizona high schools participating in National Suicide Preventon Month."
     },
     {
-      "title": "Netherlands moves billions in gold to London in 'crisis preparedness' move",
-      "desc": "The Dutch central bank removes some of its gold reserves from the US and Canada, saying it is because of \"increasing geopolitical unrest\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgy51xlz39o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "time": "2026-09-02T17:21:04",
-      "country": "UK",
-      "title_ur": "Netherlands moves billions in gold to London in 'crisis preparedness' move",
-      "desc_ur": "The Dutch central bank removes some of its gold reserves from the US and Canada, saying it is because of \"increasing geopolitical unrest\"."
+      "title": "Kurdistan Region concerned over US support amid Iran’s continued attacks",
+      "desc": "The latest report that the US is cutting funding for the Kurdistan Regional Government (KRG) of Iraq’s Peshmerga military force comes as Washington prepares to withdraw forces from Iraq and Iran continues its campaign of drone and missile attacks against the …",
+      "source": "Longwarjournal.org",
+      "url": "https://www.longwarjournal.org/archives/2026/09/kurdistan-region-concerned-over-us-support-amid-irans-continued-attacks.php",
+      "time": "2026-09-02T19:55:19",
+      "country": "Iran",
+      "title_ur": "Kurdistan Region concerned over US support amid Iran’s continued attacks",
+      "desc_ur": "The latest report that the US is cutting funding for the Kurdistan Regional Government (KRG) of Iraq’s Peshmerga military force comes as Washington prepares to withdraw forces from Iraq and Iran continues its campaign of drone and missile attacks against the …"
     },
     {
-      "title": "AIIMS-P steps up eye donation awareness drive",
-      "desc": "AIIMS Patna marks National Eye Donation Fortnight, highlighting India’s cornea shortage: 2.5 lakh needed vs 50,000 collected; 112 donations since May 2025.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/patna/aiims-p-steps-up-eye-donation-awareness-drive/articleshow/133716810.cms",
-      "time": "2026-09-02T17:20:25",
-      "country": "India",
-      "title_ur": "AIIMS-P steps up eye donation awareness drive",
-      "desc_ur": "AIIMS Patna marks National Eye Donation Fortnight, highlighting India’s cornea shortage: 2.5 lakh needed vs 50,000 collected; 112 donations since May 2025."
+      "title": "Iran calls deaths at wedding celebration a 'war crime' as US denies targeting civilians - BBC",
+      "desc": "Iran calls deaths at wedding celebration a 'war crime' as US denies targeting civiliansBBC What to know about a reported US airstrike that hit a wedding in IranAP News U.S. Strikes Iran Over Strait of Hormuz Mines, Trump SaysThe New York Times Live Updates: I…",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185378700",
+      "time": "2026-09-02T19:53:38",
+      "country": "Iran",
+      "title_ur": "Iran calls deaths at wedding celebration a 'war crime' as US denies targeting civilians - BBC",
+      "desc_ur": "Iran calls deaths at wedding celebration a 'war crime' as US denies targeting civiliansBBC What to know about a reported US airstrike that hit a wedding in IranAP News U.S. Strikes Iran Over Strait of Hormuz Mines, Trump SaysThe New York Times Live Updates: I…"
     },
     {
-      "title": "Mumbai Crime Branch recovers MPSC official’s laptop with ‘leaked’ questions from creek; seventh arrested accused remanded to police custody till Sept 5",
-      "desc": "Mumbai Crime Branch recovers MPSC official’s laptop with ‘leaked’ questions from creek; seventh arrested accused remanded to police custody till Sept 5",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/mumbai-crime-branch-recovers-mpsc-officials-laptop-with-leaked-questions-from-creek-seventh-arrested-accused-remanded-to-police-custody-till-sept-5/articleshow/133716807.cms",
-      "time": "2026-09-02T17:20:19",
+      "title": "Trump plans state dinner for Xi even as disputes with China pile up",
+      "desc": "Despite the increasingly fraught relationship between the U.S. and China – from Beijing’s support for Iran and allegations from President Trump this summer that China meddled in U.S. elections – the White House is now preparing to roll out the red carpet for …",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/7a448e6f7f7cc9b8",
+      "time": "2026-09-02T19:53:38",
+      "country": "Iran",
+      "title_ur": "Trump plans state dinner for Xi even as disputes with China pile up",
+      "desc_ur": "Despite the increasingly fraught relationship between the U.S. and China – from Beijing’s support for Iran and allegations from President Trump this summer that China meddled in U.S. elections – the White House is now preparing to roll out the red carpet for …"
+    },
+    {
+      "title": "China's Xi urges new Middle East security framework during Egypt visit - Reuters",
+      "desc": "China's Xi urges new Middle East security framework during Egypt visitReuters Xi visits Egypt as China seeks deeper influence across the MideastAP News China’s Xi arrives in Egypt amid US sanctions threat over Iran linksThe Times of Israel Xi Returns to Egypt…",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185378690",
+      "time": "2026-09-02T19:53:07",
+      "country": "Iran",
+      "title_ur": "China's Xi urges new Middle East security framework during Egypt visit - Reuters",
+      "desc_ur": "China's Xi urges new Middle East security framework during Egypt visitReuters Xi visits Egypt as China seeks deeper influence across the MideastAP News China’s Xi arrives in Egypt amid US sanctions threat over Iran linksThe Times of Israel Xi Returns to Egypt…"
+    },
+    {
+      "title": "“Year of Murders”: Trump’s Boat Strikes Killed Hundreds of Civilians",
+      "desc": "It’s been exactly one year since the Trump administration began indiscriminately attacking small watercraft traversing the Caribbean Sea and the Pacific Ocean.In that time, the U.S. military has killed at least 227 civilians in some 65 strikes, according to a…",
+      "source": "The New Republic",
+      "url": "https://newrepublic.com/post/215058/donald-trump-boat-strikes-killed-hundreds-civilians",
+      "time": "2026-09-02T19:45:40",
       "country": "US",
-      "title_ur": "Mumbai Crime Branch recovers MPSC official’s laptop with ‘leaked’ questions from creek; seventh arrested accused remanded to police custody till Sept 5",
-      "desc_ur": "Mumbai Crime Branch recovers MPSC official’s laptop with ‘leaked’ questions from creek; seventh arrested accused remanded to police custody till Sept 5"
+      "title_ur": "“Year of Murders”: Trump’s Boat Strikes Killed Hundreds of Civilians",
+      "desc_ur": "It’s been exactly one year since the Trump administration began indiscriminately attacking small watercraft traversing the Caribbean Sea and the Pacific Ocean.In that time, the U.S. military has killed at least 227 civilians in some 65 strikes, according to a…"
     },
     {
-      "title": "OPEC+ Set to Hold Oil Output Steady as Iran War Disrupts Supply",
-      "desc": "OPEC+ is likely to leave its oil production policy unchanged for October when seven of its core members meet on Sunday, Reuters reported Wednesday, citing three sources close to the matter. Saudi Arabia, Russia, Iraq, Kuwait, Algeria, Kazakhstan and Oman are …",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/OPEC-Set-to-Hold-Oil-Output-Steady-as-Iran-War-Disrupts-Supply.html",
-      "time": "2026-09-02T17:19:52",
+      "title": "How Can Feminists Advance Racial Equity in a Post-DEI World? Join Book Talk With Ralina L. Joseph [Sept. 10 @ Ms. HQ in LA]",
+      "desc": "As attacks on diversity, equity and inclusion intensify across the U.S., how can feminists deepen their commitment to racial justice—and sustain that work without succumbing to exhaustion?\nOn Thursday, Sept. 10, at 6 p.m., Ms. will welcome author and scholar …",
+      "source": "Ms. Magazine",
+      "url": "https://msmagazine.com/2026/09/02/ms-book-talk-ralina-joseph-racial-exhaustion-dei-feminism/",
+      "time": "2026-09-02T19:45:29",
+      "country": "US",
+      "title_ur": "How Can Feminists Advance Racial Equity in a Post-DEI World? Join Book Talk With Ralina L. Joseph [Sept. 10 @ Ms. HQ in LA]",
+      "desc_ur": "As attacks on diversity, equity and inclusion intensify across the U.S., how can feminists deepen their commitment to racial justice—and sustain that work without succumbing to exhaustion?\nOn Thursday, Sept. 10, at 6 p.m., Ms. will welcome author and scholar …"
+    },
+    {
+      "title": "Russia is secretly helping Iran build supersonic missiles to target US warships: report",
+      "desc": "Project C430L has seen Russia's top missile experts assist Iran in developing a new class of supersonic weapons capable of targeting the US aircraft carriers and warships deployed to the Middle East.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/02/world-news/russia-is-secretly-helping-iran-build-supersonic-missiles-to-target-us-warships-report/",
+      "time": "2026-09-02T19:44:37",
       "country": "Iran",
-      "title_ur": "OPEC+ Set to Hold Oil Output Steady as Iran War Disrupts Supply",
-      "desc_ur": "OPEC+ is likely to leave its oil production policy unchanged for October when seven of its core members meet on Sunday, Reuters reported Wednesday, citing three sources close to the matter. Saudi Arabia, Russia, Iraq, Kuwait, Algeria, Kazakhstan and Oman are …"
+      "title_ur": "Russia is secretly helping Iran build supersonic missiles to target US warships: report",
+      "desc_ur": "Project C430L has seen Russia's top missile experts assist Iran in developing a new class of supersonic weapons capable of targeting the US aircraft carriers and warships deployed to the Middle East."
+    },
+    {
+      "title": "Trump Posted a Presidential Ranking. It's From 1948.",
+      "desc": "Interesting video. Trump's list seems to be based on a list published in Life magazine in 1948. He simply added himself, Biden, Clinton, Obama and Carter. Original list at 4:18. This explains the missing presidents in his list.",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4393999/posts",
+      "time": "2026-09-02T19:42:49",
+      "country": "US",
+      "title_ur": "Trump Posted a Presidential Ranking. It's From 1948.",
+      "desc_ur": "Interesting video. Trump's list seems to be based on a list published in Life magazine in 1948. He simply added himself, Biden, Clinton, Obama and Carter. Original list at 4:18. This explains the missing presidents in his list."
+    },
+    {
+      "title": "Quote of the day by Kofi Annan: 'If one is going to err, one should err on the side of liberty and freedom.' Life lessons from inspiring quote on leadership, trust, human dignity, rights and democracy",
+      "desc": "Quote of the day by Kofi Annan, “If one is going to err, one should err on the side of liberty and freedom,” explains why leaders should protect human rights, dignity and personal freedom when making difficult decisions. The quote links liberty with trust, de…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/us/quote-of-the-day-by-kofi-annan-if-one-is-going-to-err-one-should-err-on-the-side-of-liberty-and-freedom-life-lessons-from-inspiring-quote-on-leadership-trust-human-dignity-rights-and-democracy/articleshow/133713844.cms",
+      "time": "2026-09-02T19:38:05",
+      "country": "US",
+      "title_ur": "Quote of the day by Kofi Annan: 'If one is going to err, one should err on the side of liberty and freedom.' Life lessons from inspiring quote on leadership, trust, human dignity, rights and democracy",
+      "desc_ur": "Quote of the day by Kofi Annan, “If one is going to err, one should err on the side of liberty and freedom,” explains why leaders should protect human rights, dignity and personal freedom when making difficult decisions. The quote links liberty with trust, de…"
+    },
+    {
+      "title": "Freaked-out Republicans get secret Rose Garden invite as Trump clings to massive war chest",
+      "desc": "President Donald Trump has invited a group of Republican lawmakers — including several running in the cycle's most competitive races — to a private dinner at the White House on Wednesday night as those same members plead with him to finally open his roughly $…",
+      "source": "Raw Story",
+      "url": "https://www.rawstory.com/trump-republicans-2677809858/",
+      "time": "2026-09-02T19:35:55",
+      "country": "US",
+      "title_ur": "Freaked-out Republicans get secret Rose Garden invite as Trump clings to massive war chest",
+      "desc_ur": "President Donald Trump has invited a group of Republican lawmakers — including several running in the cycle's most competitive races — to a private dinner at the White House on Wednesday night as those same members plead with him to finally open his roughly $…"
     }
   ],
   "pakistan": [
     {
-      "title": "ACB raids TTD deputy EO Lokanatham in ghee case probe, finds Rs 5 crore cash, 2kg gold",
-      "desc": "Anti-Corruption Bureau sleuths raided four premises linked to TTD deputy executive officer Mendu Lokanatham. Documents and property records were seized during the simultaneous searches across Tirupati district. The investigation reportedly stemmed from inform…",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/vijayawada/acb-raids-ttd-deputy-eo-lokanathams-properties-finds-rs-5-crore-cash-2kg-gold/articleshow/133716485.cms",
-      "time": "2026-09-02T17:12:50",
+      "title": "Dr. Abdul Bari Khan to receive 2026 Hovey Impact Award",
+      "desc": "Pakistani physician honored by Eisenhower Fellowships for bringing free health care to millions PHILADELPHIA, Sept. 2, 2026 /PRNewswire/ -- Dr. Abdul Bari Khan, founder and president of the Indus Hospital & Health Network, today was named recipient of the 202…",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/dr-abdul-bari-khan-to-receive-2026-hovey-impact-award-302868048.html",
+      "time": "2026-09-02T20:00:00",
       "country": "Pakistan",
-      "title_ur": "ACB raids TTD deputy EO Lokanatham in ghee case probe, finds Rs 5 crore cash, 2kg gold",
-      "desc_ur": "Anti-Corruption Bureau sleuths raided four premises linked to TTD deputy executive officer Mendu Lokanatham. Documents and property records were seized during the simultaneous searches across Tirupati district. The investigation reportedly stemmed from inform…"
+      "title_ur": "Dr. Abdul Bari Khan to receive 2026 Hovey Impact Award",
+      "desc_ur": "Pakistani physician honored by Eisenhower Fellowships for bringing free health care to millions PHILADELPHIA, Sept. 2, 2026 /PRNewswire/ -- Dr. Abdul Bari Khan, founder and president of the Indus Hospital & Health Network, today was named recipient of the 202…"
+    },
+    {
+      "title": "British trekker, 30, is found dead in northern Pakistan 'after becoming separated from his friend as they descended mountain'",
+      "desc": "Alexander Harris (pictured) trekked up the 13,000ft (4,000m) Musa Ka Musalla mountain in Khyber Pakhtunkhwa province on Saturday with his friend Alun David Cooper Cledwyn.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16099903/British-trekker-dead-Pakistan-separated-friend-mountain.html",
+      "time": "2026-09-02T19:33:43",
+      "country": "Pakistan",
+      "title_ur": "British trekker, 30, is found dead in northern Pakistan 'after becoming separated from his friend as they descended mountain'",
+      "desc_ur": "Alexander Harris (pictured) trekked up the 13,000ft (4,000m) Musa Ka Musalla mountain in Khyber Pakhtunkhwa province on Saturday with his friend Alun David Cooper Cledwyn."
+    },
+    {
+      "title": "Nearly 9 in 10 Americans Say There’s “Widespread” Corruption in US Government",
+      "desc": "Perceived corruption has skyrocketed to new highs under Trump’s second term in office.",
+      "source": "Truthout",
+      "url": "https://truthout.org/articles/nearly-9-in-10-americans-say-theres-widespread-corruption-in-us-government/",
+      "time": "2026-09-02T19:24:12",
+      "country": "Pakistan",
+      "title_ur": "Nearly 9 in 10 Americans Say There’s “Widespread” Corruption in US Government",
+      "desc_ur": "Perceived corruption has skyrocketed to new highs under Trump’s second term in office."
+    },
+    {
+      "title": "Trump's Big Event Is Reportedly Getting Smaller By The Minute",
+      "desc": "The president’s fake convention is not getting an enthusiastic reception.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/republicans-skipping-donald-trump-midterm-convention_n_6a984dd3e4b087cf7f00bfaa",
+      "time": "2026-09-02T19:17:13",
+      "country": "Pakistan",
+      "title_ur": "Trump's Big Event Is Reportedly Getting Smaller By The Minute",
+      "desc_ur": "The president’s fake convention is not getting an enthusiastic reception."
     }
   ],
   "business": {
@@ -174,28 +204,19 @@
     "city_ur": "لاہور",
     "forecast": [
       {
-        "date": "2026-09-03",
-        "day": "جمعرات",
-        "high": 34,
-        "low": 24,
-        "condition": "Light Rain",
-        "condition_ur": "ہلکی بارش",
-        "precip": 63
-      },
-      {
         "date": "2026-09-04",
         "day": "جمعہ",
-        "high": 34,
-        "low": 26,
-        "condition": "Thunderstorm",
-        "condition_ur": "گرج چمک",
+        "high": 33,
+        "low": 25,
+        "condition": "Light Showers",
+        "condition_ur": "ہلکی بارش",
         "precip": 74
       },
       {
         "date": "2026-09-05",
         "day": "ہفتہ",
-        "high": 32,
-        "low": 23,
+        "high": 33,
+        "low": 24,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
         "precip": 84
@@ -205,8 +226,8 @@
         "day": "اتوار",
         "high": 32,
         "low": 22,
-        "condition": "Light Showers",
-        "condition_ur": "ہلکی بارش",
+        "condition": "Showers",
+        "condition_ur": "بارش",
         "precip": 41
       },
       {
@@ -223,24 +244,33 @@
         "day": "منگل",
         "high": 35,
         "low": 26,
-        "condition": "Mainly Clear",
-        "condition_ur": "زیادہ تر صاف",
+        "condition": "Clear",
+        "condition_ur": "صاف",
         "precip": 2
       },
       {
         "date": "2026-09-09",
         "day": "بدھ",
-        "high": 35,
+        "high": 36,
         "low": 27,
         "condition": "Clear",
         "condition_ur": "صاف",
         "precip": 6
+      },
+      {
+        "date": "2026-09-10",
+        "day": "جمعرات",
+        "high": 36,
+        "low": 27,
+        "condition": "Clear",
+        "condition_ur": "صاف",
+        "precip": 20
       }
     ]
   },
   "date": {
-    "gregorian": "Thursday, 3 September 2026",
-    "hijri": "21 Rabīʿ al-awwal 1448",
-    "hijri_ur": "21 رَبيع الأوّل 1448"
+    "gregorian": "Friday, 4 September 2026",
+    "hijri": "22 Rabīʿ al-awwal 1448",
+    "hijri_ur": "22 رَبيع الأوّل 1448"
   }
 }
