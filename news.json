@@ -1,177 +1,187 @@
 {
-  "generated": "2026-09-04T00:37:14Z",
+  "generated": "2026-09-04T05:20:29Z",
   "world": [
     {
-      "title": "Global bond slump looks painful, but its nothing like the 2022 rout",
-      "desc": "Global bond markets are experiencing a selloff, though less severe than four years ago.  Current yield increases are smaller, providing some market reassurance and new opportunities.  Heavy government spending and AI financing are adding pressure to bond mark…",
+      "title": "Gold jumps over 1%: What’s driving prices?",
+      "desc": "Gold rises over 1% amid easing dollar and Treasury yields, as investors await crucial US nonfarm payrolls data.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-jumps-over-1-whats-driving-prices/article71422387.ece",
+      "time": "2026-09-03T05:18:53",
+      "country": "US",
+      "title_ur": "Gold jumps over 1%: What’s driving prices?",
+      "desc_ur": "Gold rises over 1% amid easing dollar and Treasury yields, as investors await crucial US nonfarm payrolls data."
+    },
+    {
+      "title": "Shopping to bar-hopping: USS Abraham Lincoln sailors unwind in Thailand after 250-day voyage",
+      "desc": "With military haircuts and moustaches, the US sailors stood out against the flip-flops of the usual Pattaya crowd, writes the BBC's Jonathan Head.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj9x2k8n3y1o",
+      "time": "2026-09-03T05:17:04",
+      "country": "US",
+      "title_ur": "Shopping to bar-hopping: USS Abraham Lincoln sailors unwind in Thailand after 250-day voyage",
+      "desc_ur": "With military haircuts and moustaches, the US sailors stood out against the flip-flops of the usual Pattaya crowd, writes the BBC's Jonathan Head."
+    },
+    {
+      "title": "Report: Trump weighs declaring end to Iran war",
+      "desc": "US President Donald Trump reportedly leans toward announcing end to fighting; US Secretary of War Pete Hegseth signs order for 50,000 US troops to remain deployed across Middle East.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/432637",
+      "time": "2026-09-03T05:15:19",
+      "country": "Iran",
+      "title_ur": "Report: Trump weighs declaring end to Iran war",
+      "desc_ur": "US President Donald Trump reportedly leans toward announcing end to fighting; US Secretary of War Pete Hegseth signs order for 50,000 US troops to remain deployed across Middle East."
+    },
+    {
+      "title": "UNIFIL exit looms for about 1,000 Ghanaian troops",
+      "desc": "About 1,000 Ghanaian soldiers serving with the United Nations Interim Force in Lebanon (UNIFIL) could be withdrawn from southern Lebanon when the mission’s mandate expires on December 31, 2026, Israeli Ambassador to Ghana, Liberia and Sierra Leone, His Excell…",
+      "source": "Thechronicle.com.gh",
+      "url": "https://thechronicle.com.gh/unifil-exit-looms-for-about-1000-ghanaian-troops/",
+      "time": "2026-09-03T05:09:06",
+      "country": "Israel",
+      "title_ur": "UNIFIL exit looms for about 1,000 Ghanaian troops",
+      "desc_ur": "About 1,000 Ghanaian soldiers serving with the United Nations Interim Force in Lebanon (UNIFIL) could be withdrawn from southern Lebanon when the mission’s mandate expires on December 31, 2026, Israeli Ambassador to Ghana, Liberia and Sierra Leone, His Excell…"
+    },
+    {
+      "title": "India’s ‘real feel GDP’ growing only at 2-3%; Shankar Sharma joins the debate",
+      "desc": "Stock market veteran Shankar Sharma has questioned India’s headline GDP growth, arguing that the economy’s “Real Feel” growth is only 2-3%. Despite 7.8% GDP growth in Q1 FY27, he pointed to worsening quality of life and chaotic urban conditions, contrasting I…",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-bond-slump-looks-painful-but-its-nothing-like-the-2022-rout/articleshow/133722728.cms",
-      "time": "2026-09-03T00:33:49",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/indias-real-feel-gdp-growing-only-at-2-3-shankar-sharma-joins-the-debate/articleshow/133725578.cms",
+      "time": "2026-09-03T05:01:28",
+      "country": "India",
+      "title_ur": "India’s ‘real feel GDP’ growing only at 2-3%; Shankar Sharma joins the debate",
+      "desc_ur": "Stock market veteran Shankar Sharma has questioned India’s headline GDP growth, arguing that the economy’s “Real Feel” growth is only 2-3%. Despite 7.8% GDP growth in Q1 FY27, he pointed to worsening quality of life and chaotic urban conditions, contrasting I…"
+    },
+    {
+      "title": "Newton Emerson: Sinn Féin should forget its absurd timescale for a Border poll and focus on the now",
+      "desc": "Dissident republicans have seized on Burnham’s statement as proof Sinn Féin has been naive",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/opinion/2026/09/03/newton-emerson-sinn-fein-should-forget-its-absurd-timescale-for-a-border-poll-and-focus-on-the-now/",
+      "time": "2026-09-03T05:00:01",
+      "country": "US",
+      "title_ur": "Newton Emerson: Sinn Féin should forget its absurd timescale for a Border poll and focus on the now",
+      "desc_ur": "Dissident republicans have seized on Burnham’s statement as proof Sinn Féin has been naive"
+    },
+    {
+      "title": "Europe does not need Patrick Collison to ‘fix’ it",
+      "desc": "What Europe lacks is a political mechanism to turn its qualities into co-ordinated action at a continental scale",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/opinion/2026/09/03/europe-does-not-need-patrick-collison-to-fix-it/",
+      "time": "2026-09-03T05:00:01",
+      "country": "Europe",
+      "title_ur": "Europe does not need Patrick Collison to ‘fix’ it",
+      "desc_ur": "What Europe lacks is a political mechanism to turn its qualities into co-ordinated action at a continental scale"
+    },
+    {
+      "title": "Finn McRedmond: Have podcasts killed the ‘Dad book’?",
+      "desc": "Non-fiction doorstoppers on war and politics are reportedly the most challenged segment of the book market",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/opinion/2026/09/03/finn-mcredmond-have-podcasts-like-the-rest-is-history-killed-the-dad-book/",
+      "time": "2026-09-03T05:00:01",
       "country": "International",
-      "title_ur": "Global bond slump looks painful, but its nothing like the 2022 rout",
-      "desc_ur": "Global bond markets are experiencing a selloff, though less severe than four years ago.  Current yield increases are smaller, providing some market reassurance and new opportunities.  Heavy government spending and AI financing are adding pressure to bond mark…"
+      "title_ur": "Finn McRedmond: Have podcasts killed the ‘Dad book’?",
+      "desc_ur": "Non-fiction doorstoppers on war and politics are reportedly the most challenged segment of the book market"
     },
     {
-      "title": "US Fed says ‘positive’ economic outlook facing heightened uncertainty",
-      "desc": "Economic activity nationwide increased “modestly” since early July. Read more at straitstimes.com.",
-      "source": "The Straits Times",
-      "url": "https://www.straitstimes.com/business/us-fed-says-positive-economic-outlook-facing-heightened-uncertainty",
-      "time": "2026-09-03T00:30:21",
+      "title": "Pete Hegseth’s military purge comes at a risky moment for Pentagon",
+      "desc": "Global Briefing: US defence secretary’s campaign against ‘wokeness’ is causing unease among some Republicans",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/world/2026/09/03/pete-hegseths-military-purge-comes-at-a-risky-moment-for-pentagon/",
+      "time": "2026-09-03T05:00:00",
       "country": "US",
-      "title_ur": "US Fed says ‘positive’ economic outlook facing heightened uncertainty",
-      "desc_ur": "Economic activity nationwide increased “modestly” since early July. Read more at straitstimes.com."
+      "title_ur": "Pete Hegseth’s military purge comes at a risky moment for Pentagon",
+      "desc_ur": "Global Briefing: US defence secretary’s campaign against ‘wokeness’ is causing unease among some Republicans"
     },
     {
-      "title": "GOP Midterm Convention Becomes The Trump Show",
-      "desc": "The convention’s opening night will coincide with a Super Bowl rematch between the New England Patriots and Seattle Seahawks.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/republican-midterm-convention-trump-speeches_n_6a98ba35e4b0e51a2d913c4c",
-      "time": "2026-09-03T00:26:07",
+      "title": "Ukraine urgently needs money and missiles. Can Europe find them?",
+      "desc": "Europe letter: EU will struggle to repeat its €90bn loan trick to keep Ukraine funded",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/world/europe/2026/09/03/ukraine-urgently-needs-money-and-missiles-can-europe-find-them/",
+      "time": "2026-09-03T05:00:00",
+      "country": "UK",
+      "title_ur": "Ukraine urgently needs money and missiles. Can Europe find them?",
+      "desc_ur": "Europe letter: EU will struggle to repeat its €90bn loan trick to keep Ukraine funded"
+    },
+    {
+      "title": "Sindh govt lauded for commitment to improving maternal & child health",
+      "desc": "Sindh Chief Minister Syed Murad Ali Shah on Wednesday met with President of Gender Equality at the Gates Foundation Dr Anita Zaidi to discuss the Thriving Futures Fund , and explore opportunities...",
+      "source": "Thenews.pk",
+      "url": "https://www.thenews.pk/print/1435343-sindh-govt-lauded-for-commitment-to-improving-maternal-child-health",
+      "time": "2026-09-03T04:57:35",
       "country": "US",
-      "title_ur": "GOP Midterm Convention Becomes The Trump Show",
-      "desc_ur": "The convention’s opening night will coincide with a Super Bowl rematch between the New England Patriots and Seattle Seahawks."
+      "title_ur": "Sindh govt lauded for commitment to improving maternal & child health",
+      "desc_ur": "Sindh Chief Minister Syed Murad Ali Shah on Wednesday met with President of Gender Equality at the Gates Foundation Dr Anita Zaidi to discuss the Thriving Futures Fund , and explore opportunities..."
     },
     {
-      "title": "US Aircraft Carrier Arrives in Thailand After Record 286-day Deployment",
-      "desc": "The vessel's arrival has shone a light on Pattaya's sex industry, which established itself as a rest and recreation destination for U.S. personnel during the Vietnam War.",
-      "source": "The Diplomat",
-      "url": "https://thediplomat.com/2026/09/us-aircraft-carrier-arrives-in-thailand-after-record-286-day-deployment/",
-      "time": "2026-09-03T00:22:00",
-      "country": "US",
-      "title_ur": "US Aircraft Carrier Arrives in Thailand After Record 286-day Deployment",
-      "desc_ur": "The vessel's arrival has shone a light on Pattaya's sex industry, which established itself as a rest and recreation destination for U.S. personnel during the Vietnam War."
+      "title": "60 targets struck in a day: Inside the US military's biggest push to secure Hormuz",
+      "desc": "US forces escorted forty commercial vessels carrying eighteen million barrels of oil.  Simultaneously, American troops struck nearly sixty Iranian military targets around the strategic waterway.  This escalation follows a week of increased incidents and retal…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/60-targets-struck-in-a-day-inside-the-us-militarys-biggest-push-to-secure-hormuz/articleshow/133725436.cms",
+      "time": "2026-09-03T04:56:56",
+      "country": "Iran",
+      "title_ur": "60 targets struck in a day: Inside the US military's biggest push to secure Hormuz",
+      "desc_ur": "US forces escorted forty commercial vessels carrying eighteen million barrels of oil.  Simultaneously, American troops struck nearly sixty Iranian military targets around the strategic waterway.  This escalation follows a week of increased incidents and retal…"
     },
     {
-      "title": "1 in 5 youths targeted by online sexual abuse, UNICEF finds",
-      "desc": "A survey of around 21,000 young people by the UN's agency for children, UNICEF, has found that online sexual abuse of minors is on the rise.",
-      "source": "DW (English)",
-      "url": "https://www.dw.com/en/online-sexual-abuse-of-minors-on-the-rise-unicef-study-finds/a-78654173",
-      "time": "2026-09-03T00:05:00",
-      "country": "US",
-      "title_ur": "1 in 5 youths targeted by online sexual abuse, UNICEF finds",
-      "desc_ur": "A survey of around 21,000 young people by the UN's agency for children, UNICEF, has found that online sexual abuse of minors is on the rise."
+      "title": "Burnham blames Brexit for ‘decade of low growth’ in UK - The Independent",
+      "desc": "Burnham blames Brexit for ‘decade of low growth’ in UKThe Independent UK PM Burnham faces first parliament grilling, vows to ‘bring back hope’Al Jazeera Andy Burnham’s ambitions are already proving too expensive for our economyThe Times Andy Burnham’s first s…",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185389556",
+      "time": "2026-09-03T04:53:39",
+      "country": "UK",
+      "title_ur": "Burnham blames Brexit for ‘decade of low growth’ in UK - The Independent",
+      "desc_ur": "Burnham blames Brexit for ‘decade of low growth’ in UKThe Independent UK PM Burnham faces first parliament grilling, vows to ‘bring back hope’Al Jazeera Andy Burnham’s ambitions are already proving too expensive for our economyThe Times Andy Burnham’s first s…"
     },
     {
-      "title": "UNICEF: 1 in 5 youths targeted by online sexual abuse",
-      "desc": "A survey of around 21,000 young people by the UN's agency for children has found that online sexual abuse of minors is on the rise. The internet is not a safe place for unsupervised children and young people — by now, that's common knowledge.\n\nSocial media pl…",
-      "source": "DW (English)",
-      "url": "https://www.dw.com/en/unicef-1-in-5-youths-targeted-by-online-sexual-abuse/a-78654173",
-      "time": "2026-09-03T00:05:00",
-      "country": "US",
-      "title_ur": "UNICEF: 1 in 5 youths targeted by online sexual abuse",
-      "desc_ur": "A survey of around 21,000 young people by the UN's agency for children has found that online sexual abuse of minors is on the rise. The internet is not a safe place for unsupervised children and young people — by now, that's common knowledge.\n\nSocial media pl…"
-    },
-    {
-      "title": "Ukrainian attacks fueling global ‘energy shock’ – US Treasury secretary (VIDEO)",
-      "desc": "Ukrainian attacks on Russian energy assets have pushed global prices higher, US Treasury Secretary Scott Bessent has said Read Full Article at RT.com",
-      "source": "RT",
-      "url": "https://www.rt.com/business/645053-bessent-ukraine-russia-refineries-attacks/",
-      "time": "2026-09-03T00:03:39",
-      "country": "Russia",
-      "title_ur": "Ukrainian attacks fueling global ‘energy shock’ – US Treasury secretary (VIDEO)",
-      "desc_ur": "Ukrainian attacks on Russian energy assets have pushed global prices higher, US Treasury Secretary Scott Bessent has said Read Full Article at RT.com"
-    },
-    {
-      "title": "Could even more Senate seats be in play for Democrats?",
-      "desc": "Democrats' chances have improved over the past three weeks, but one Democratic-held seat has also entered the picture.",
-      "source": "Dailykos.com",
-      "url": "http://www.dailykos.com/stories/2026/9/2/800092905/elections/could-even-more-senate-seats-be-in-play-for-democrats/",
-      "time": "2026-09-03T00:01:00",
+      "title": "Khamzat Chimaev Calls Out Caio Borralho",
+      "desc": "Former UFC middleweight champion Khamzat Chimaev has called out top-10 ranked Caio Borralho for an upcoming fight.Chimaev has not fought since he lost his belt via split decision to Sean Strickland in the main event of UFC 328 in May.He is eager to get back i…",
+      "source": "Heavy.com",
+      "url": "https://heavy.com/sports/ufc/khamzat-chimaev-calls-out-caio-borralho/",
+      "time": "2026-09-03T04:47:46",
       "country": "International",
-      "title_ur": "Could even more Senate seats be in play for Democrats?",
-      "desc_ur": "Democrats' chances have improved over the past three weeks, but one Democratic-held seat has also entered the picture."
+      "title_ur": "Khamzat Chimaev Calls Out Caio Borralho",
+      "desc_ur": "Former UFC middleweight champion Khamzat Chimaev has called out top-10 ranked Caio Borralho for an upcoming fight.Chimaev has not fought since he lost his belt via split decision to Sean Strickland in the main event of UFC 328 in May.He is eager to get back i…"
     },
     {
-      "title": "The Iran War’s Costly Cycle of Retaliation",
-      "desc": "On August 30, U.S. forces struck two Iranian missile launchers on Larak Island near the Strait of Hormuz, saying the systems posed a threat to shipping. Iran answered by launching ballistic missiles at U.S. forces in Jordan. The exchange revived a seemingly s…",
-      "source": "Antiwar.com",
-      "url": "https://original.antiwar.com/timothy_hopper/2026/09/02/the-iran-wars-costly-cycle-of-retaliation/",
-      "time": "2026-09-03T00:00:41",
-      "country": "Iran",
-      "title_ur": "The Iran War’s Costly Cycle of Retaliation",
-      "desc_ur": "On August 30, U.S. forces struck two Iranian missile launchers on Larak Island near the Strait of Hormuz, saying the systems posed a threat to shipping. Iran answered by launching ballistic missiles at U.S. forces in Jordan. The exchange revived a seemingly s…"
-    },
-    {
-      "title": "The West Bank’s Ultra-Apartheid (and the Collusive International Silence)",
-      "desc": "Today, the West Bank is a nightmare of vicious settlement expansion, land seizure, economic strangulation, settler violence and forced displacement. With the collusion of the Israeli military and police, the Israeli-occupied territories are effectively ruled …",
-      "source": "Antiwar.com",
-      "url": "https://original.antiwar.com/dan_steinbock/2026/09/02/the-west-banks-ultra-apartheid-and-the-collusive-international-silence/",
-      "time": "2026-09-03T00:00:34",
-      "country": "Israel",
-      "title_ur": "The West Bank’s Ultra-Apartheid (and the Collusive International Silence)",
-      "desc_ur": "Today, the West Bank is a nightmare of vicious settlement expansion, land seizure, economic strangulation, settler violence and forced displacement. With the collusion of the Israeli military and police, the Israeli-occupied territories are effectively ruled …"
-    },
-    {
-      "title": "Israel Faces Toxic Blowback From Its Genocide in Gaza",
-      "desc": "Reprinted from Andy Worthington’s website. Many thanks to Dr. Dianne Woodward, a former lecturer in Biological Sciences, and a manager at the Galilee Foundation, a UK charity empowering Palestinian youth since 2007, for writing a compelling article for Al Jaz…",
-      "source": "Antiwar.com",
-      "url": "https://original.antiwar.com/worthington/2026/09/02/israel-faces-toxic-blowback-from-its-genocide-in-gaza/",
-      "time": "2026-09-03T00:00:03",
-      "country": "Israel",
-      "title_ur": "Israel Faces Toxic Blowback From Its Genocide in Gaza",
-      "desc_ur": "Reprinted from Andy Worthington’s website. Many thanks to Dr. Dianne Woodward, a former lecturer in Biological Sciences, and a manager at the Galilee Foundation, a UK charity empowering Palestinian youth since 2007, for writing a compelling article for Al Jaz…"
-    },
-    {
-      "title": "Iran war live: Trump says renewed US-Iran clashes will not last ‘too long’",
-      "desc": "The US president says that renewed fighting with Iran will not last “too long” while claiming control over Hormuz.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/3/iran-war-live-trump-says-renewed-us-iran-clashes-will-not-last-too",
-      "time": "2026-09-03T00:00:00",
-      "country": "Iran",
-      "title_ur": "Iran war live: Trump says renewed US-Iran clashes will not last ‘too long’",
-      "desc_ur": "The US president says that renewed fighting with Iran will not last “too long” while claiming control over Hormuz."
-    },
-    {
-      "title": "Vance’s mom fires back at El-Sayed over second family jabs: ‘Probably punch him’",
-      "desc": "Beverly Vance Aikins told Tomi Lahren she'd like to punch Abdul El-Sayed over his repeated attacks on JD Vance's wife Usha Vance and their children.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/vance-mom-fighting-words-dem-senate-candidate-comments-vp-family-punch-him",
-      "time": "2026-09-02T23:59:06",
-      "country": "US",
-      "title_ur": "Vance’s mom fires back at El-Sayed over second family jabs: ‘Probably punch him’",
-      "desc_ur": "Beverly Vance Aikins told Tomi Lahren she'd like to punch Abdul El-Sayed over his repeated attacks on JD Vance's wife Usha Vance and their children."
-    },
-    {
-      "title": "Get ready for the Trump Slump",
-      "desc": "Improbable though it may seem, a bombing raid on Iran may, like the proverbial Chinese butterfly flapping its wings and causing faraway chaos, trigger disparate distant ructions. Not only could the US’s November elections be upended, and the political honeymo…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/f0af98d3ba625b1b",
-      "time": "2026-09-02T23:56:38",
-      "country": "Iran",
-      "title_ur": "Get ready for the Trump Slump",
-      "desc_ur": "Improbable though it may seem, a bombing raid on Iran may, like the proverbial Chinese butterfly flapping its wings and causing faraway chaos, trigger disparate distant ructions. Not only could the US’s November elections be upended, and the political honeymo…"
-    },
-    {
-      "title": "Trump: Iran could have hit some US cities if not stopped",
-      "desc": "United States President Donald Trump said Washington's actions against Iran were aimed at preventing Tehran from eventually targeting Europe and American cities.\"We're doing it to help the Middle East...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/0c7d74b95720d9f7",
-      "time": "2026-09-02T23:56:22",
-      "country": "Iran",
-      "title_ur": "Trump: Iran could have hit some US cities if not stopped",
-      "desc_ur": "United States President Donald Trump said Washington's actions against Iran were aimed at preventing Tehran from eventually targeting Europe and American cities.\"We're doing it to help the Middle East..."
+      "title": "A West Virginia high school built in 1923 has reopened 103 years later as a 40-room hotel",
+      "desc": "A historic high school in West Virginia, originally established in 1923, has been beautifully transformed into a 40-room boutique hotel. The once-abandoned classrooms now serve as cozy guest rooms and inviting lounges, offering visitors a unique stay. This re…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/us/a-west-virginia-high-school-built-in-1923-has-reopened-103-years-later-as-a-40-room-hotel-with-its-old-classrooms-turned-into-guest-rooms-and-gathering-spaces/articleshow/133691070.cms",
+      "time": "2026-09-03T04:39:51",
+      "country": "International",
+      "title_ur": "A West Virginia high school built in 1923 has reopened 103 years later as a 40-room hotel",
+      "desc_ur": "A historic high school in West Virginia, originally established in 1923, has been beautifully transformed into a 40-room boutique hotel. The once-abandoned classrooms now serve as cozy guest rooms and inviting lounges, offering visitors a unique stay. This re…"
     }
   ],
   "pakistan": [
     {
-      "title": "Tillis renews calls for Hegseth’s ouster - Politico",
-      "desc": "Tillis renews calls for Hegseth’s ousterPolitico Driscoll breaks silence after resigning as Army secretaryThe Hill Democrats warn of ‘hollowed out’ leadership after army chief resigns amid clashes with HegsethThe Guardian GOP Senator Thom Tillis Winks at Pent…",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185382538",
-      "time": "2026-09-02T23:53:28",
+      "title": "Skeptical Science New Research for Week #36 2026",
+      "desc": "Open access notables\n\nMisrepresentation of Human Climate Fingerprint in DOE Report, Santer et al., Earth s Future\n\nA July 2025 report from the U.S. Department of Energy (DOE) made the key claim that the stratosphere has warmed since 2000, contrary to model pr…",
+      "source": "Skepticalscience.com",
+      "url": "https://skepticalscience.com/new_research_2026_36.html",
+      "time": "2026-09-03T05:05:10",
       "country": "Pakistan",
-      "title_ur": "Tillis renews calls for Hegseth’s ouster - Politico",
-      "desc_ur": "Tillis renews calls for Hegseth’s ousterPolitico Driscoll breaks silence after resigning as Army secretaryThe Hill Democrats warn of ‘hollowed out’ leadership after army chief resigns amid clashes with HegsethThe Guardian GOP Senator Thom Tillis Winks at Pent…"
+      "title_ur": "Skeptical Science New Research for Week #36 2026",
+      "desc_ur": "Open access notables\n\nMisrepresentation of Human Climate Fingerprint in DOE Report, Santer et al., Earth s Future\n\nA July 2025 report from the U.S. Department of Energy (DOE) made the key claim that the stratosphere has warmed since 2000, contrary to model pr…"
     },
     {
-      "title": "Oil: Another 1% rise after US–Iran strikes, brent climbs above $95",
-      "desc": "A new escalation in the Middle East has shaken energy markets following US–Iran strikes and growing fears of disruptions to oil flows through the Strait of Hormuz.\nThe post Oil: Another 1% rise after US–Iran strikes, brent climbs above $95 appeared first on P…",
-      "source": "Protothema.gr",
-      "url": "https://en.protothema.gr/2026/09/03/oil-another-1-rise-after-us-iran-strikes-brent-climbs-above-95/",
-      "time": "2026-09-02T23:17:19",
+      "title": "Mohsin Naqvi hits back at critics amid Pakistan turmoil, tells them to check ICC rankings and brings up India's Ireland loss",
+      "desc": "PCB chief Mohsin Naqvi defended Pakistan's progress, citing improved ICC rankings and India's loss to Ireland.",
+      "source": "Cricketnews.com",
+      "url": "https://www.cricketnews.com/en/cricket/news/mohsin-naqvi-hits-back-critics-pakistan-turmoil-icc-rankings/2719c714e2c808e281209112",
+      "time": "2026-09-03T04:43:45",
       "country": "Pakistan",
-      "title_ur": "Oil: Another 1% rise after US–Iran strikes, brent climbs above $95",
-      "desc_ur": "A new escalation in the Middle East has shaken energy markets following US–Iran strikes and growing fears of disruptions to oil flows through the Strait of Hormuz.\nThe post Oil: Another 1% rise after US–Iran strikes, brent climbs above $95 appeared first on P…"
+      "title_ur": "Mohsin Naqvi hits back at critics amid Pakistan turmoil, tells them to check ICC rankings and brings up India's Ireland loss",
+      "desc_ur": "PCB chief Mohsin Naqvi defended Pakistan's progress, citing improved ICC rankings and India's loss to Ireland."
+    },
+    {
+      "title": "Babar Azam presents signed Pakistan team bat to King Charles III amid England tour turmoil",
+      "desc": "Babar, along with the Pakistan squad and Pakistan Cricket Board (PCB) chairman Mohsin Naqvi, visited Clarence House on September 2. During the meeting, Babar handed the King a bat signed by all the players as a gesture of goodwill and sportsmanship.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/babar-azam-presents-signed-pakistan-team-bat-to-king-charles-amid-england-tour-turmoil/articleshow/133724951.cms",
+      "time": "2026-09-03T04:32:41",
+      "country": "Pakistan",
+      "title_ur": "Babar Azam presents signed Pakistan team bat to King Charles III amid England tour turmoil",
+      "desc_ur": "Babar, along with the Pakistan squad and Pakistan Cricket Board (PCB) chairman Mohsin Naqvi, visited Clarence House on September 2. During the meeting, Babar handed the King a bat signed by all the players as a gesture of goodwill and sportsmanship."
     }
   ],
   "business": {
@@ -190,7 +200,7 @@
         "low": 25,
         "condition": "Drizzle",
         "condition_ur": "بوندا باندی",
-        "precip": 74
+        "precip": 65
       },
       {
         "date": "2026-09-05",
@@ -199,7 +209,7 @@
         "low": 24,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 84
+        "precip": 92
       },
       {
         "date": "2026-09-06",
@@ -208,7 +218,7 @@
         "low": 24,
         "condition": "Heavy Drizzle",
         "condition_ur": "تیز بوندا باندی",
-        "precip": 41
+        "precip": 62
       },
       {
         "date": "2026-09-07",
@@ -217,7 +227,7 @@
         "low": 25,
         "condition": "Mainly Clear",
         "condition_ur": "زیادہ تر صاف",
-        "precip": 4
+        "precip": 8
       },
       {
         "date": "2026-09-08",
@@ -226,7 +236,7 @@
         "low": 26,
         "condition": "Clear",
         "condition_ur": "صاف",
-        "precip": 2
+        "precip": 4
       },
       {
         "date": "2026-09-09",
