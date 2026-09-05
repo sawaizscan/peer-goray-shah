@@ -1,167 +1,177 @@
 {
-  "generated": "2026-09-05T19:12:59Z",
+  "generated": "2026-09-05T21:26:34Z",
   "world": [
     {
-      "title": "Trump Wildly Claims in the Oval Office: We Have ‘Essentially Taken Over Iran’",
-      "desc": "Trump tussled with reporters in the Oval Office on Friday when he was asked about the ongoing war with Iran and his plan to end it.\nThe post Trump Wildly Claims in the Oval Office: We Have ‘Essentially Taken Over Iran’ first appeared on Mediaite.",
-      "source": "Mediaite",
-      "url": "https://www.mediaite.com/media/news/trump-wildly-claims-in-the-oval-office-we-have-essentially-taken-over-iran/",
-      "time": "2026-09-04T19:10:44",
+      "title": "Iran war is ‘small potatoes’ for US – Trump",
+      "desc": "Donald Trump downplays the Iran war as ‘small potatoes’ for the US, despite ongoing conflict and casualties, ahead of crucial midterm elections.\n\nRead More: https://punchng.com/iran-war-is-small-potatoes-for-us-trump/",
+      "source": "The Punch",
+      "url": "https://punchng.com/iran-war-is-small-potatoes-for-us-trump/",
+      "time": "2026-09-04T21:23:54",
       "country": "Iran",
-      "title_ur": "Trump Wildly Claims in the Oval Office: We Have ‘Essentially Taken Over Iran’",
-      "desc_ur": "Trump tussled with reporters in the Oval Office on Friday when he was asked about the ongoing war with Iran and his plan to end it.\nThe post Trump Wildly Claims in the Oval Office: We Have ‘Essentially Taken Over Iran’ first appeared on Mediaite."
+      "title_ur": "Iran war is ‘small potatoes’ for US – Trump",
+      "desc_ur": "Donald Trump downplays the Iran war as ‘small potatoes’ for the US, despite ongoing conflict and casualties, ahead of crucial midterm elections.\n\nRead More: https://punchng.com/iran-war-is-small-potatoes-for-us-trump/"
     },
     {
-      "title": "New York, New Jersey Hasidic leaders meet Trump, Vance in ‘historic’ Oval Office summit",
-      "desc": "WASHINGTON — A group of Hasidic Jewish community leaders from New York and New Jersey met with President Trump and Vice President JD Vance at the White House Thursday, the first such gathering at the executive mansion in nearly five decades. Trump, who boasts…",
+      "title": "Trump says Iran war is 'small potatoes' for US",
+      "desc": "President Donald Trump said Friday that the Iran war was \"small potatoes\" for the United States, in his administration's latest bid to play down the conflict ahead of crucial midterm elections.\nTrump's comments came a day after Vice President JD Vance said th…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/9e85786ea7e8dcc7",
+      "time": "2026-09-04T21:22:19",
+      "country": "Iran",
+      "title_ur": "Trump says Iran war is 'small potatoes' for US",
+      "desc_ur": "President Donald Trump said Friday that the Iran war was \"small potatoes\" for the United States, in his administration's latest bid to play down the conflict ahead of crucial midterm elections.\nTrump's comments came a day after Vice President JD Vance said th…"
+    },
+    {
+      "title": "Three killed in Israeli airstrike on Lebanon",
+      "desc": "At least three people have been killed in an Israeli airstrike on southern Lebanon, Al Arabiya reported on Friday.Namely, Israel is said to have bombed the town of Al-Mansouri, while also carrying out...",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/f6a587252727e66f",
+      "time": "2026-09-04T21:20:29",
+      "country": "Israel",
+      "title_ur": "Three killed in Israeli airstrike on Lebanon",
+      "desc_ur": "At least three people have been killed in an Israeli airstrike on southern Lebanon, Al Arabiya reported on Friday.Namely, Israel is said to have bombed the town of Al-Mansouri, while also carrying out..."
+    },
+    {
+      "title": "Nigel Farage tells friends he's been 'taking stock' of his political future as two top Reform aides are forced out over latest funding row",
+      "desc": "The embattled Reform UK leader was forced to suspend two key aides on Friday in a bid to close down the latest funding controversy.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16105837/Nigel-Farage-tells-friends-hes-taking-stock-political-future-two-Reform-aides-forced-latest-funding-row.html",
+      "time": "2026-09-04T21:17:34",
+      "country": "UK",
+      "title_ur": "Nigel Farage tells friends he's been 'taking stock' of his political future as two top Reform aides are forced out over latest funding row",
+      "desc_ur": "The embattled Reform UK leader was forced to suspend two key aides on Friday in a bid to close down the latest funding controversy."
+    },
+    {
+      "title": "What are the World Nomad Games and why are Australians competing?",
+      "desc": "The World Nomad Games in Kyrgyzstan are attracting younger generations and countries in the West to rediscover their past through ancient sports.",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-09-05/kyrgyzstan-world-nomad-games-central-asia/107112630",
+      "time": "2026-09-04T21:14:45",
+      "country": "US",
+      "title_ur": "What are the World Nomad Games and why are Australians competing?",
+      "desc_ur": "The World Nomad Games in Kyrgyzstan are attracting younger generations and countries in the West to rediscover their past through ancient sports."
+    },
+    {
+      "title": "The Lindsay Clancy Case Has Ended In a Mistrial. What Happens Now?",
+      "desc": "This outcome is much more common than people think.",
+      "source": "Slate Magazine",
+      "url": "https://slate.com/news-and-politics/2026/09/lindsay-clancy-mistrial-verdict-what-happens-now.html",
+      "time": "2026-09-04T21:09:10",
+      "country": "International",
+      "title_ur": "The Lindsay Clancy Case Has Ended In a Mistrial. What Happens Now?",
+      "desc_ur": "This outcome is much more common than people think."
+    },
+    {
+      "title": "Rep. Randy Fine: I'm Not Sure the Video of Me Going Through Homeowner's Mailbox Is Real",
+      "desc": "Rep. Randy Fine (R-FL) cast doubt on the authenticity of a video that allegedly shows him rifling through a homeowner's mailbox, saying, \"I'm not even sure that the video itself is real.\" \nThe post Rep. Randy Fine: I’m Not Sure the Video of Me Going Through H…",
+      "source": "Breitbart News",
+      "url": "https://www.breitbart.com/politics/2026/09/04/rep-randy-fine-im-not-sure-the-video-of-me-going-through-homeowners-mailbox-is-real/",
+      "time": "2026-09-04T21:05:59",
+      "country": "International",
+      "title_ur": "Rep. Randy Fine: I'm Not Sure the Video of Me Going Through Homeowner's Mailbox Is Real",
+      "desc_ur": "Rep. Randy Fine (R-FL) cast doubt on the authenticity of a video that allegedly shows him rifling through a homeowner's mailbox, saying, \"I'm not even sure that the video itself is real.\" \nThe post Rep. Randy Fine: I’m Not Sure the Video of Me Going Through H…"
+    },
+    {
+      "title": "N117.7m Fraud: Five convicted, jailed seven years in Lagos",
+      "desc": "Five persons have been convicted and sentenced to seven years’ imprisonment each for their involvement in a N117.7 million fraud case involving Chi Limited. Justice K.A. Jose of the Lagos State High Court sitting in Tapa, Lagos, handed down the sentences on T…",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/09/n117-7m-fraud-five-convicted-jailed-seven-years-in-lagos/",
+      "time": "2026-09-04T21:03:56",
+      "country": "US",
+      "title_ur": "N117.7m Fraud: Five convicted, jailed seven years in Lagos",
+      "desc_ur": "Five persons have been convicted and sentenced to seven years’ imprisonment each for their involvement in a N117.7 million fraud case involving Chi Limited. Justice K.A. Jose of the Lagos State High Court sitting in Tapa, Lagos, handed down the sentences on T…"
+    },
+    {
+      "title": "Iran down to 2 months of fuel supply as brutal US sanctions take their toll",
+      "desc": "Iran is facing a potential economic disaster as the besieged Islamic Republic's fuel reserves have dwindled to a paltry two-month supply, following months of punishing US bombing campaigns and a fresh wave of crippling economic sanctions.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/09/04/us-news/new-york-new-jersey-hasidic-leaders-meet-trump-vance-in-historic-oval-office-summit/",
-      "time": "2026-09-04T19:09:01",
-      "country": "US",
-      "title_ur": "New York, New Jersey Hasidic leaders meet Trump, Vance in ‘historic’ Oval Office summit",
-      "desc_ur": "WASHINGTON — A group of Hasidic Jewish community leaders from New York and New Jersey met with President Trump and Vice President JD Vance at the White House Thursday, the first such gathering at the executive mansion in nearly five decades. Trump, who boasts…"
-    },
-    {
-      "title": "Xi Jinping Proposes Elbowing U.S. Out of Middle East on Egypt Trip",
-      "desc": "China’s communist dictator Xi Jinping debuted yet another vague plan toward world peace on Wednesday during an official visit to Egypt, one that not-so-subtly suggested Middle Eastern states should consider limiting their ties to America. Xi conducted a two-d…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-bloggers/4394254/posts",
-      "time": "2026-09-04T19:08:11",
-      "country": "China",
-      "title_ur": "Xi Jinping Proposes Elbowing U.S. Out of Middle East on Egypt Trip",
-      "desc_ur": "China’s communist dictator Xi Jinping debuted yet another vague plan toward world peace on Wednesday during an official visit to Egypt, one that not-so-subtly suggested Middle Eastern states should consider limiting their ties to America. Xi conducted a two-d…"
-    },
-    {
-      "title": "Trump says Iran conflict, which has killed 18 US service members and injured hundreds more, is ‘small potatoes’",
-      "desc": "President Donald Trump on Friday labeled the Iran war “small potatoes,” the latest attempt to minimize a six-month conflict that caused a spike in gas prices...",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/09/04/politics/small-potatoes-trump-iran",
-      "time": "2026-09-04T19:07:51",
+      "url": "https://nypost.com/2026/09/04/world-news/iran-down-to-2-months-of-fuel-supply-as-brutal-us-sanctions-take-their-toll/",
+      "time": "2026-09-04T21:00:53",
       "country": "Iran",
-      "title_ur": "Trump says Iran conflict, which has killed 18 US service members and injured hundreds more, is ‘small potatoes’",
-      "desc_ur": "President Donald Trump on Friday labeled the Iran war “small potatoes,” the latest attempt to minimize a six-month conflict that caused a spike in gas prices..."
+      "title_ur": "Iran down to 2 months of fuel supply as brutal US sanctions take their toll",
+      "desc_ur": "Iran is facing a potential economic disaster as the besieged Islamic Republic's fuel reserves have dwindled to a paltry two-month supply, following months of punishing US bombing campaigns and a fresh wave of crippling economic sanctions."
     },
     {
-      "title": "Bessent predicts $40 oil post-Iran war, impacting bond yields: Bloomberg",
-      "desc": "Bessent predicts oil could drop to $40 after the Iran war, influencing bond yields. New all-time high for crude oil by September 30 at 1.6% YES.\nThe post Bessent predicts $40 oil post-Iran war, impacting bond yields: Bloomberg appeared first on Crypto Briefin…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/bessent-predicts-40-oil-post-iran-war-impacting-bond-yields-bloomberg/",
-      "time": "2026-09-04T19:04:44",
-      "country": "Iran",
-      "title_ur": "Bessent predicts $40 oil post-Iran war, impacting bond yields: Bloomberg",
-      "desc_ur": "Bessent predicts oil could drop to $40 after the Iran war, influencing bond yields. New all-time high for crude oil by September 30 at 1.6% YES.\nThe post Bessent predicts $40 oil post-Iran war, impacting bond yields: Bloomberg appeared first on Crypto Briefin…"
-    },
-    {
-      "title": "Trump warns Iran: We may hit Pickaxe very soon",
-      "desc": "President Trump warns the US could soon strike Iran's Pickaxe Mountain facility, while calling the conflict a limited \"military conflict.\"(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The…",
+      "title": "US sanctions Turkish bank over alleged Iran, IRGC financial network",
+      "desc": "US Treasury sanctions a Turkish bank and two subsidiaries, accusing them of helping Iran and the IRGC-QF move tens of millions of dollars.(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The…",
       "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/flashes/692986",
-      "time": "2026-09-04T19:04:19",
+      "url": "https://www.israelnationalnews.com/flashes/692990",
+      "time": "2026-09-04T20:56:09",
       "country": "Iran",
-      "title_ur": "Trump warns Iran: We may hit Pickaxe very soon",
-      "desc_ur": "President Trump warns the US could soon strike Iran's Pickaxe Mountain facility, while calling the conflict a limited \"military conflict.\"(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The…"
+      "title_ur": "US sanctions Turkish bank over alleged Iran, IRGC financial network",
+      "desc_ur": "US Treasury sanctions a Turkish bank and two subsidiaries, accusing them of helping Iran and the IRGC-QF move tens of millions of dollars.(Arutz Sheva-Israel National News' North American desk is keeping you updated until the start of Shabbat in New York. The…"
     },
     {
-      "title": "Why did the wheels of justice turn so slowly for rapper Tupac Shakur?",
-      "desc": "Tupac Shakur was one of the most inspirational rappers of all time, but it took word of mouth, a confession, a book, and multiple interviews to capture the killer of a pop culture icon.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-09-05/why-did-the-wheels-of-justice-turn-so-slowly-for-tupac-shakur/107115328",
-      "time": "2026-09-04T19:02:34",
+      "title": "Revoking NEA’s charter is a good step toward holding teachers’ unions accountable for failing kids",
+      "desc": "A key US senator wants fellow lawmakers to consider revoking the National Education Association’s congressional charter.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/04/opinion/revoking-neas-charter-is-a-good-step-toward-holding-teachers-unions-accountable-for-failing-kids/",
+      "time": "2026-09-04T20:55:40",
       "country": "US",
-      "title_ur": "Why did the wheels of justice turn so slowly for rapper Tupac Shakur?",
-      "desc_ur": "Tupac Shakur was one of the most inspirational rappers of all time, but it took word of mouth, a confession, a book, and multiple interviews to capture the killer of a pop culture icon."
+      "title_ur": "Revoking NEA’s charter is a good step toward holding teachers’ unions accountable for failing kids",
+      "desc_ur": "A key US senator wants fellow lawmakers to consider revoking the National Education Association’s congressional charter."
     },
     {
-      "title": "Show HN: Slavesofaipac.org",
-      "desc": "A source-linked research index of AIPAC PAC contributions and United Democracy Project independent expenditures in U.S. federal elections.",
-      "source": "Slavesofaipac.org",
-      "url": "https://slavesofaipac.org/",
-      "time": "2026-09-04T19:02:09",
-      "country": "International",
-      "title_ur": "Show HN: Slavesofaipac.org",
-      "desc_ur": "A source-linked research index of AIPAC PAC contributions and United Democracy Project independent expenditures in U.S. federal elections."
-    },
-    {
-      "title": "Ocasio-Cortez calls focus on Hasan Piker 'absolutely ludicrous' as some Democrats demand distance",
-      "desc": "Alexandria Ocasio-Cortez called it \"ludicrous\" that Congress is focused on Twitch streamer Hasan Piker as Democrats debate his political influence.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/media/ocasio-cortez-calls-focus-hasan-piker-absolutely-ludicrous-democrats-demand-distance",
-      "time": "2026-09-04T19:01:55",
-      "country": "US",
-      "title_ur": "Ocasio-Cortez calls focus on Hasan Piker 'absolutely ludicrous' as some Democrats demand distance",
-      "desc_ur": "Alexandria Ocasio-Cortez called it \"ludicrous\" that Congress is focused on Twitch streamer Hasan Piker as Democrats debate his political influence."
-    },
-    {
-      "title": "All Blacks vs Springboks: Where the defining third test will be won and lost – Liam Napier",
-      "desc": "The All Blacks must fix these areas to claim victory in Soweto.",
-      "source": "New Zealand Herald",
-      "url": "https://www.nzherald.co.nz/sport/rugby/all-blacks/all-blacks-v-springboks-where-the-defining-third-test-will-be-won-and-lost-liam-napier/SMQDQVWT6RHR3L6LVLNQFC34XY/",
-      "time": "2026-09-04T19:01:00",
-      "country": "US",
-      "title_ur": "All Blacks vs Springboks: Where the defining third test will be won and lost – Liam Napier",
-      "desc_ur": "The All Blacks must fix these areas to claim victory in Soweto."
-    },
-    {
-      "title": "Americans headed for high-risk nation urged to prepare wills, leave DNA samples ahead of time",
-      "desc": "The State Department's Libya travel advisory warns of kidnapping, terrorism and landmines. It also urges Americans to write a will and leave DNA samples with doctors.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/travel/americans-headed-high-risk-nation-urged-prepare-wills-leave-dna-samples",
-      "time": "2026-09-04T19:00:32",
-      "country": "US",
-      "title_ur": "Americans headed for high-risk nation urged to prepare wills, leave DNA samples ahead of time",
-      "desc_ur": "The State Department's Libya travel advisory warns of kidnapping, terrorism and landmines. It also urges Americans to write a will and leave DNA samples with doctors."
-    },
-    {
-      "title": "What Was the War on Terror?",
-      "desc": "A defining period in U.S. foreign policy has ended, but it remains misunderstood.",
+      "title": "Milei Renews Argentina’s Falklands Push",
+      "desc": "Buenos Aires is taking advantage of fraying ties between the United States and Britain.",
       "source": "Foreign Policy",
-      "url": "http://foreignpolicy.com/2026/09/04/war-on-terror-bush-obama-iraq-afghanistan-al-qaeda-history/",
-      "time": "2026-09-04T19:00:06",
-      "country": "International",
-      "title_ur": "What Was the War on Terror?",
-      "desc_ur": "A defining period in U.S. foreign policy has ended, but it remains misunderstood."
+      "url": "http://foreignpolicy.com/2026/09/04/argentina-falkland-islands-milei-malvinas-oil-drilling-britain-trump/",
+      "time": "2026-09-04T20:53:25",
+      "country": "UK",
+      "title_ur": "Milei Renews Argentina’s Falklands Push",
+      "desc_ur": "Buenos Aires is taking advantage of fraying ties between the United States and Britain."
     },
     {
-      "title": "Everyone but Australia reconsiders relationship with America",
-      "desc": "No-one inside federal politics seems particularly interested in discussing the large orange elephant in the room and how it is materially changing every other country's views of the world.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-09-05/united-states-richard-marles-donald-trump-aukus-paul-keating/107097650",
-      "time": "2026-09-04T19:00:00",
+      "title": "Trump wanted to blow up Iran. He may have detonated the bond market instead",
+      "desc": "John Rapley is a contributing columnist for The Globe and Mail. He is an author and academic whose books include Why Empires Fall and Twilight of the Money Gods.\nDonald Trump said he’d blow up Kharg Island. He may have blown up the bond market instead.\nThe ma…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/9a1e5ce916ed2817",
+      "time": "2026-09-04T20:49:40",
+      "country": "Iran",
+      "title_ur": "Trump wanted to blow up Iran. He may have detonated the bond market instead",
+      "desc_ur": "John Rapley is a contributing columnist for The Globe and Mail. He is an author and academic whose books include Why Empires Fall and Twilight of the Money Gods.\nDonald Trump said he’d blow up Kharg Island. He may have blown up the bond market instead.\nThe ma…"
+    },
+    {
+      "title": "Finovate Global: Meet the International Alums of FinovateFall 2026",
+      "desc": "This week’s edition of Finovate Global is a hat tip to the companies from outside the US that are traveling to New York to demo their latest fintech innovations live on stage at FinovateFall 2026. It is true that our European conference tends to feature the h…",
+      "source": "Finovate.com",
+      "url": "https://finovate.com/finovate-global-meet-the-international-alums-of-finovatefall-2026/",
+      "time": "2026-09-04T20:48:33",
       "country": "US",
-      "title_ur": "Everyone but Australia reconsiders relationship with America",
-      "desc_ur": "No-one inside federal politics seems particularly interested in discussing the large orange elephant in the room and how it is materially changing every other country's views of the world."
+      "title_ur": "Finovate Global: Meet the International Alums of FinovateFall 2026",
+      "desc_ur": "This week’s edition of Finovate Global is a hat tip to the companies from outside the US that are traveling to New York to demo their latest fintech innovations live on stage at FinovateFall 2026. It is true that our European conference tends to feature the h…"
     },
     {
-      "title": "Op-Ed: How the late Gloria Steinem’s spirit lives on in the WNBA",
-      "desc": "The late Gloria Steinem’s lived experience fits perfectly within the feminist space of women’s pro basketball.",
-      "source": "Swish Appeal",
-      "url": "https://www.swishappeal.com/commentary/86164/gloria-steinem-obit-legacy-feminism-ms-politics-influence-sports-bball-womens-liberation-title-ix-cheryl-reeve-icon-example-connection",
-      "time": "2026-09-04T19:00:00",
-      "country": "International",
-      "title_ur": "Op-Ed: How the late Gloria Steinem’s spirit lives on in the WNBA",
-      "desc_ur": "The late Gloria Steinem’s lived experience fits perfectly within the feminist space of women’s pro basketball."
-    },
-    {
-      "title": "5 Biggest Unanswered Questions After The Silo Season 3 Finale",
-      "desc": "The Silo Season 3 finale left some major dangling plot threads to be resolved in the next season. Here are the 5 biggest unanswered questions.",
-      "source": "/FILM",
-      "url": "https://www.slashfilm.com/2248232/silo-season-3-finale-unanswered-questions/",
-      "time": "2026-09-04T19:00:00",
-      "country": "International",
-      "title_ur": "5 Biggest Unanswered Questions After The Silo Season 3 Finale",
-      "desc_ur": "The Silo Season 3 finale left some major dangling plot threads to be resolved in the next season. Here are the 5 biggest unanswered questions."
+      "title": "‘Contemptuous words’: The uniform doesn’t come with a First Amendment waiver",
+      "desc": "Defendant caught up in 'contract case' after he traded away certain rights for authority to carry a weapon",
+      "source": "Wnd.com",
+      "url": "https://www.wnd.com/2026/09/contemptuous-words-uniform-doesnt-come-first-amendment-waiver/",
+      "time": "2026-09-04T20:45:50",
+      "country": "US",
+      "title_ur": "‘Contemptuous words’: The uniform doesn’t come with a First Amendment waiver",
+      "desc_ur": "Defendant caught up in 'contract case' after he traded away certain rights for authority to carry a weapon"
     }
   ],
   "pakistan": [
     {
-      "title": "Women’s Asia Cup: India-Pakistan rivalry set for another mismatch",
-      "desc": "India, already in the semifinals, faces Pakistan in their final league match.  The Indian team is heavily favored to win this encounter.  Pakistan needs significant batting improvements to challenge the strong Indian side.  Their batting has been a concern fo…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/sports/cricket/womens-asia-cup-india-pakistan-rivalry-set-for-another-mismatch/articleshow/133775271.cms",
-      "time": "2026-09-04T19:01:08",
+      "title": "Can You Really Get Fired From Fox News for Being Too Trumpy? I’m Skeptical.",
+      "desc": "Let's take a peek into the conservative media ecosystem.",
+      "source": "Slate Magazine",
+      "url": "https://slate.com/news-and-politics/2026/09/maria-bartiromo-fox-news-trump.html",
+      "time": "2026-09-04T21:21:04",
       "country": "Pakistan",
-      "title_ur": "Women’s Asia Cup: India-Pakistan rivalry set for another mismatch",
-      "desc_ur": "India, already in the semifinals, faces Pakistan in their final league match.  The Indian team is heavily favored to win this encounter.  Pakistan needs significant batting improvements to challenge the strong Indian side.  Their batting has been a concern fo…"
+      "title_ur": "Can You Really Get Fired From Fox News for Being Too Trumpy? I’m Skeptical.",
+      "desc_ur": "Let's take a peek into the conservative media ecosystem."
+    },
+    {
+      "title": "IDF strikes in Lebanon after soldiers down Hezbollah drone",
+      "desc": "IDF soldiers shoot down a Hezbollah drone targeting troops in southern Lebanon, prompting Israeli strikes in the area.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/432726",
+      "time": "2026-09-04T20:22:05",
+      "country": "Pakistan",
+      "title_ur": "IDF strikes in Lebanon after soldiers down Hezbollah drone",
+      "desc_ur": "IDF soldiers shoot down a Hezbollah drone targeting troops in southern Lebanon, prompting Israeli strikes in the area."
     }
   ],
   "business": {
