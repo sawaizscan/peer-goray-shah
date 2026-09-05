@@ -1,177 +1,197 @@
 {
-  "generated": "2026-09-05T08:44:43Z",
+  "generated": "2026-09-05T12:16:27Z",
   "world": [
     {
-      "title": "Studied in London, trained in Israel: How a Bhopal farmer turned barren land into a Rs 1 crore avocado business",
-      "desc": "After gaining insight into Israeli avocado farming methods, an Indian entrepreneur from Bhopal successfully converted 5 acres of neglected land into a flourishing, Rs 1 crore avocado enterprise. His nursery not only sells saplings but also offers agro-consult…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/studied-in-london-trained-in-israel-how-a-bhopal-farmer-turned-barren-land-into-a-rs-1-crore-avocado-business/articleshow/133757211.cms",
-      "time": "2026-09-04T08:42:30",
-      "country": "Israel",
-      "title_ur": "Studied in London, trained in Israel: How a Bhopal farmer turned barren land into a Rs 1 crore avocado business",
-      "desc_ur": "After gaining insight into Israeli avocado farming methods, an Indian entrepreneur from Bhopal successfully converted 5 acres of neglected land into a flourishing, Rs 1 crore avocado enterprise. His nursery not only sells saplings but also offers agro-consult…"
-    },
-    {
-      "title": "Scientists tested rats with two sets of smells and found they could replay memories together with the places where events happened",
-      "desc": "Science News: Remembering an event is often about more than remembering the event itself. A conversation, for example, is tied to where it happened, and those detai.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/science/scientists-tested-rats-with-two-sets-of-smells-and-found-they-could-replay-memories-together-with-the-places-where-events-happened/articleshow/133757168.cms",
-      "time": "2026-09-04T08:40:30",
-      "country": "International",
-      "title_ur": "Scientists tested rats with two sets of smells and found they could replay memories together with the places where events happened",
-      "desc_ur": "Science News: Remembering an event is often about more than remembering the event itself. A conversation, for example, is tied to where it happened, and those detai."
-    },
-    {
-      "title": "Why has the Philippines’ peso plunged to a record low?",
-      "desc": "The Southeast Asian country's currency has plummeted amid the fallout of the Iran war and economic challenges at home.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/economy/2026/9/4/why-has-the-philippines-peso-plunged-to-a-record-low",
-      "time": "2026-09-04T08:38:34",
-      "country": "Iran",
-      "title_ur": "Why has the Philippines’ peso plunged to a record low?",
-      "desc_ur": "The Southeast Asian country's currency has plummeted amid the fallout of the Iran war and economic challenges at home."
-    },
-    {
-      "title": "Oil rallies for the week as US-Iran fighting resumes; diesel hits record high",
-      "desc": "Sept 4 : Oil prices were on course to gain over 6 per cent for the week as the U.S. and Iran resumed military exchanges in their conflict, now in its seventh month, while U.S. diesel prices hit a record high.A rally in oil prices combined with a much steeper …",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/oil-rallies-week-us-iran-fighting-resumes-diesel-hits-record-high-6361856",
-      "time": "2026-09-04T08:36:49",
-      "country": "Iran",
-      "title_ur": "Oil rallies for the week as US-Iran fighting resumes; diesel hits record high",
-      "desc_ur": "Sept 4 : Oil prices were on course to gain over 6 per cent for the week as the U.S. and Iran resumed military exchanges in their conflict, now in its seventh month, while U.S. diesel prices hit a record high.A rally in oil prices combined with a much steeper …"
-    },
-    {
-      "title": "Oil prices set for weekly gain as US-Iran hostilities intensify",
-      "desc": "Sept 4 : Oil prices eased on Friday but were still headed for a weekly gain as rising U.S.-Iran tensions heightened concerns over Middle East supply risks.Brent crude futures were down 47 cents or 0.49 per cent at $95.05 a barrel by 0813 GMT, while U.S. West …",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/oil-prices-set-weekly-gain-us-iran-hostilities-intensify-6361856",
-      "time": "2026-09-04T08:36:49",
-      "country": "Iran",
-      "title_ur": "Oil prices set for weekly gain as US-Iran hostilities intensify",
-      "desc_ur": "Sept 4 : Oil prices eased on Friday but were still headed for a weekly gain as rising U.S.-Iran tensions heightened concerns over Middle East supply risks.Brent crude futures were down 47 cents or 0.49 per cent at $95.05 a barrel by 0813 GMT, while U.S. West …"
-    },
-    {
-      "title": "Oil heads for weekly gain as US-Iran fighting resumes; diesel hits record high",
-      "desc": "Sept 4 : Oil prices were on course to gain more than 6 per cent for the week as the United States and Iran resumed military exchanges in the seventh month of their conflict, while U.S. diesel prices hit a record high.Brent crude futures were up 6.1 per cent f…",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/oil-heads-weekly-gain-us-iran-fighting-resumes-diesel-hits-record-high-6361856",
-      "time": "2026-09-04T08:36:49",
-      "country": "Iran",
-      "title_ur": "Oil heads for weekly gain as US-Iran fighting resumes; diesel hits record high",
-      "desc_ur": "Sept 4 : Oil prices were on course to gain more than 6 per cent for the week as the United States and Iran resumed military exchanges in the seventh month of their conflict, while U.S. diesel prices hit a record high.Brent crude futures were up 6.1 per cent f…"
-    },
-    {
-      "title": "Trump Picks Adam Telle as New Acting U.S. Army Secretary",
-      "desc": "Adam Telle is the new acting U.S. Army Secretary with President Donald Trump making clear late Thursday night his appointee assumes the role \"immediately.\"\nThe post Trump Picks Adam Telle as New Acting U.S. Army Secretary appeared first on Breitbart.",
-      "source": "Breitbart News",
-      "url": "https://www.breitbart.com/politics/2026/09/04/trump-picks-adam-telle-as-new-acting-u-s-army-secretary/",
-      "time": "2026-09-04T08:36:32",
+      "title": "On the time J.R.R. Tolkien refused to work with Nazi-leaning publishers.",
+      "desc": "In 1938, Tolkien was in negotiations with Berlin publisher Rütten & Loening about creating a German-language edition of The Hobbit; that is, until they asked for proof of Tolkien’s “Aryan descent,” due to Goebbels’ regulations on Jews’ participation n German …",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-chat/4394200/posts",
+      "time": "2026-09-04T12:16:09",
       "country": "US",
-      "title_ur": "Trump Picks Adam Telle as New Acting U.S. Army Secretary",
-      "desc_ur": "Adam Telle is the new acting U.S. Army Secretary with President Donald Trump making clear late Thursday night his appointee assumes the role \"immediately.\"\nThe post Trump Picks Adam Telle as New Acting U.S. Army Secretary appeared first on Breitbart."
+      "title_ur": "On the time J.R.R. Tolkien refused to work with Nazi-leaning publishers.",
+      "desc_ur": "In 1938, Tolkien was in negotiations with Berlin publisher Rütten & Loening about creating a German-language edition of The Hobbit; that is, until they asked for proof of Tolkien’s “Aryan descent,” due to Goebbels’ regulations on Jews’ participation n German …"
     },
     {
-      "title": "Belgian union threatens strike over flights to Israel",
-      "desc": "Brussels Airlines workers threaten strike over flights to Israel, claiming 'ethical' objections.",
+      "title": "Givati soldiers punished for expressing views on APC controversy",
+      "desc": "Four Rotem Battalion soldiers not present during the original incident disciplined after telling battalion commander what they thought about the case.",
       "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/432709",
-      "time": "2026-09-04T08:36:00",
-      "country": "Israel",
-      "title_ur": "Belgian union threatens strike over flights to Israel",
-      "desc_ur": "Brussels Airlines workers threaten strike over flights to Israel, claiming 'ethical' objections."
-    },
-    {
-      "title": "US envoy: Settler violence damaging Israel's image",
-      "desc": "United States Ambassador to Israel Mike Huckabee claimed on Friday that the violence of Israeli settlers toward local Palestinians is damaging Israel's image around the world.While speaking to Israeli...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/2717217320de83bb",
-      "time": "2026-09-04T08:35:46",
-      "country": "Israel",
-      "title_ur": "US envoy: Settler violence damaging Israel's image",
-      "desc_ur": "United States Ambassador to Israel Mike Huckabee claimed on Friday that the violence of Israeli settlers toward local Palestinians is damaging Israel's image around the world.While speaking to Israeli..."
-    },
-    {
-      "title": "Nigel Farage says Reform UK has 'taken no illegal money' after undercover report on donations - live updates",
-      "desc": "Reform's head of policy and Nigel Farage's senior aide stepped down on Friday as the party announced it was launching an investigation into claims about funding.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/live/c6rr49lp10k9t",
-      "time": "2026-09-04T08:35:31",
-      "country": "UK",
-      "title_ur": "Nigel Farage says Reform UK has 'taken no illegal money' after undercover report on donations - live updates",
-      "desc_ur": "Reform's head of policy and Nigel Farage's senior aide stepped down on Friday as the party announced it was launching an investigation into claims about funding."
-    },
-    {
-      "title": "Katz: Israel to stay in Lebanon until Hezbollah is disarmed",
-      "desc": "Israeli Defense Minister Israel Katz reiterated on Friday that Israeli troops will not withdraw from the security zone in southern Lebanon until Hezbollah is fully disarmed. \"Prime Minister [Benjamin]...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/d541fd3b578ee09d",
-      "time": "2026-09-04T08:35:22",
-      "country": "Israel",
-      "title_ur": "Katz: Israel to stay in Lebanon until Hezbollah is disarmed",
-      "desc_ur": "Israeli Defense Minister Israel Katz reiterated on Friday that Israeli troops will not withdraw from the security zone in southern Lebanon until Hezbollah is fully disarmed. \"Prime Minister [Benjamin]..."
-    },
-    {
-      "title": "Araghchi tells Jordan Iran has right to respond",
-      "desc": "Iranian Foreign Minister Abbas Araghchi insisted on Friday that his country has the right to defend itself against aggression.\"How much time does the Jordanian Foreign Minister believe Iran should wai...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/4bc46462a73ccdf6",
-      "time": "2026-09-04T08:35:21",
-      "country": "Iran",
-      "title_ur": "Araghchi tells Jordan Iran has right to respond",
-      "desc_ur": "Iranian Foreign Minister Abbas Araghchi insisted on Friday that his country has the right to defend itself against aggression.\"How much time does the Jordanian Foreign Minister believe Iran should wai..."
-    },
-    {
-      "title": "I never imagined to do that: Smriti Mandhana on surpassing Mithali's feat of leading run-scorer",
-      "desc": "Smriti Mandhana has become the leading run-scorer in Women's Internationals, surpassing Mithali Raj's record. She also set a new record for the highest individual score in the Women's T20 Asia Cup and now holds the most centuries in women's international cric…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/sports/cricket/i-never-imagined-to-do-that-smriti-mandhana-on-surpassing-mithalis-feat-of-leading-run-scorer/articleshow/133754076.cms",
-      "time": "2026-09-04T08:34:58",
+      "url": "https://www.israelnationalnews.com/news/432714",
+      "time": "2026-09-04T12:14:42",
       "country": "International",
-      "title_ur": "I never imagined to do that: Smriti Mandhana on surpassing Mithali's feat of leading run-scorer",
-      "desc_ur": "Smriti Mandhana has become the leading run-scorer in Women's Internationals, surpassing Mithali Raj's record. She also set a new record for the highest individual score in the Women's T20 Asia Cup and now holds the most centuries in women's international cric…"
+      "title_ur": "Givati soldiers punished for expressing views on APC controversy",
+      "desc_ur": "Four Rotem Battalion soldiers not present during the original incident disciplined after telling battalion commander what they thought about the case."
     },
     {
-      "title": "Quote of the day by Aristotle: \"Man is by nature a political animal.\"",
-      "desc": "Rest of World News: Two people can think about human nature and reach very different conclusions about what a person fundamentally is. One imagines a self-contained indiv.",
+      "title": "Stanford Student Newspaper Wins Suit over Trump's Crackdown on Pro-Palestine Speech",
+      "desc": "A federal judge has ruled that the Trump administration violated the constitutional rights of international students in seeking to deport them for their pro-Palestinian activism and criticism of Israel. The ruling is the result of a lawsuit filed by The Stanf…",
+      "source": "Democracy Now!",
+      "url": "https://www.democracynow.org/2026/9/4/stanford_daily_lawsuit_free_speech_fire",
+      "time": "2026-09-04T12:12:44",
+      "country": "Israel",
+      "title_ur": "Stanford Student Newspaper Wins Suit over Trump's Crackdown on Pro-Palestine Speech",
+      "desc_ur": "A federal judge has ruled that the Trump administration violated the constitutional rights of international students in seeking to deport them for their pro-Palestinian activism and criticism of Israel. The ruling is the result of a lawsuit filed by The Stanf…"
+    },
+    {
+      "title": "India bonds slip for third week tracking oil, global debt rout",
+      "desc": "Indian government bonds have witnessed a third straight week of decline, influenced by escalating oil prices and expectations of global interest rate hikes. Despite some domestic liquidity cushioning the Indian debt market, concerns over inflation and fiscal …",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/quote-of-the-day-by-aristotle-man-is-by-nature-a-political-animal-/articleshow/133757043.cms",
-      "time": "2026-09-04T08:34:28",
-      "country": "US",
-      "title_ur": "Quote of the day by Aristotle: \"Man is by nature a political animal.\"",
-      "desc_ur": "Rest of World News: Two people can think about human nature and reach very different conclusions about what a person fundamentally is. One imagines a self-contained indiv."
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-slip-for-third-week-tracking-oil-global-debt-rout/articleshow/133762455.cms",
+      "time": "2026-09-04T12:10:56",
+      "country": "India",
+      "title_ur": "India bonds slip for third week tracking oil, global debt rout",
+      "desc_ur": "Indian government bonds have witnessed a third straight week of decline, influenced by escalating oil prices and expectations of global interest rate hikes. Despite some domestic liquidity cushioning the Indian debt market, concerns over inflation and fiscal …"
     },
     {
-      "title": "German industrial orders increase on large-scale orders",
-      "desc": "German industrial orders rose more than expected in July, driven by sales of ships, railway rolling stock and aircraft.",
-      "source": "RTE",
-      "url": "https://www.rte.ie/news/business/2026/0904/1590299-german-industrial-orders-increase-on-large-scale-orders/",
-      "time": "2026-09-04T08:22:49",
+      "title": "South Korea mulls ‘contributions’ in Strait of Hormuz",
+      "desc": "Seoul heavily affected by closure of strategic waterway and under heavy US pressure for participation against Iran.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/9/4/south-korea-mulls-contributions-in-strait-of-hormuz",
+      "time": "2026-09-04T12:10:51",
+      "country": "Iran",
+      "title_ur": "South Korea mulls ‘contributions’ in Strait of Hormuz",
+      "desc_ur": "Seoul heavily affected by closure of strategic waterway and under heavy US pressure for participation against Iran."
+    },
+    {
+      "title": "Goodnight & Goodbye, SVB",
+      "desc": "I got the email the other day. Frank Holding Jr., Marc Cadieux and Jesse Hurley, letting me know that starting in early October, the rollout of a “united brand strategy” begins. And the SVB brand will now be retired. Translated: Silicon Valley Bank Technology…",
+      "source": "Saastr.com",
+      "url": "https://www.saastr.com/goodnight-goodbye-svb/",
+      "time": "2026-09-04T12:10:29",
+      "country": "Europe",
+      "title_ur": "Goodnight & Goodbye, SVB",
+      "desc_ur": "I got the email the other day. Frank Holding Jr., Marc Cadieux and Jesse Hurley, letting me know that starting in early October, the rollout of a “united brand strategy” begins. And the SVB brand will now be retired. Translated: Silicon Valley Bank Technology…"
+    },
+    {
+      "title": "Georgia donkey owner takes legal action as state investigates killing",
+      "desc": "An attorney for Polk County farmer Hannah Israel has sent at least one cease-and-desist letter over alleged online conduct following the death of her donkey, HeeHaw.",
+      "source": "FOX 5 Atlanta",
+      "url": "https://www.fox5atlanta.com/news/georgia-donkey-owner-takes-legal-action-state-investigates-killing",
+      "time": "2026-09-04T12:10:20",
+      "country": "Israel",
+      "title_ur": "Georgia donkey owner takes legal action as state investigates killing",
+      "desc_ur": "An attorney for Polk County farmer Hannah Israel has sent at least one cease-and-desist letter over alleged online conduct following the death of her donkey, HeeHaw."
+    },
+    {
+      "title": "US diesel prices soar to record high",
+      "desc": "Iran war pushes fuel costs above previous 2022 peak, adding to inflationary pressures ahead of November’s midterm elections",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/0a209cb65a5e879d",
+      "time": "2026-09-04T12:09:38",
+      "country": "Iran",
+      "title_ur": "US diesel prices soar to record high",
+      "desc_ur": "Iran war pushes fuel costs above previous 2022 peak, adding to inflationary pressures ahead of November’s midterm elections"
+    },
+    {
+      "title": "Wacker weighs closing Tennessee polysilicon plant after Trump tariffs, Reuters reports",
+      "desc": "A German chemicals company is considering closing the American plant that Washington’s new polysilicon tariffs were supposed to protect. Wacker Chemie has lost its last two customers for the material since the measures were announced and is weighing the futur…",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/wacker-polysilicon-tennessee-trump-tariffs",
+      "time": "2026-09-04T12:04:27",
       "country": "US",
-      "title_ur": "German industrial orders increase on large-scale orders",
-      "desc_ur": "German industrial orders rose more than expected in July, driven by sales of ships, railway rolling stock and aircraft."
+      "title_ur": "Wacker weighs closing Tennessee polysilicon plant after Trump tariffs, Reuters reports",
+      "desc_ur": "A German chemicals company is considering closing the American plant that Washington’s new polysilicon tariffs were supposed to protect. Wacker Chemie has lost its last two customers for the material since the measures were announced and is weighing the futur…"
+    },
+    {
+      "title": "Ted Cruz Seems To Be Plotting Another White House Bid",
+      "desc": "Apparently, Cancun's favorite Texas senator is hoping to give the presidency another shot. \nThis won't be Texas Senator Ted Cruz's first shot at the Oval Office, as no one will soon forget the embarrassing fiasco that was his 2016 run against Donald Trump, wh…",
+      "source": "Crooksandliars.com",
+      "url": "https://crooksandliars.com/2026/09/apparently-ted-cruz-wants-try-be-president",
+      "time": "2026-09-04T12:01:44",
+      "country": "US",
+      "title_ur": "Ted Cruz Seems To Be Plotting Another White House Bid",
+      "desc_ur": "Apparently, Cancun's favorite Texas senator is hoping to give the presidency another shot. \nThis won't be Texas Senator Ted Cruz's first shot at the Oval Office, as no one will soon forget the embarrassing fiasco that was his 2016 run against Donald Trump, wh…"
+    },
+    {
+      "title": "WEEKEND: German far-right set for gains in key elections...",
+      "desc": "Recent polling published by Die Zeit showed, however, that the party will fall short of winning an absolute majority.",
+      "source": "Semafor.com",
+      "url": "https://www.semafor.com/article/09/04/2026/german-far-right-set-for-gains-in-key-elections",
+      "time": "2026-09-04T12:00:13",
+      "country": "International",
+      "title_ur": "WEEKEND: German far-right set for gains in key elections...",
+      "desc_ur": "Recent polling published by Die Zeit showed, however, that the party will fall short of winning an absolute majority."
+    },
+    {
+      "title": "Abu Law Office by EN Design Studio",
+      "desc": "EN Design Studio’s Abu Law Office in Ramat Gan, Israel, embodies tranquility through its use of natural materials, muted tones,...",
+      "source": "Retaildesignblog.net",
+      "url": "https://retaildesignblog.net/2026/09/04/abu-law-office-by-en-design-studio/",
+      "time": "2026-09-04T12:00:07",
+      "country": "Israel",
+      "title_ur": "Abu Law Office by EN Design Studio",
+      "desc_ur": "EN Design Studio’s Abu Law Office in Ramat Gan, Israel, embodies tranquility through its use of natural materials, muted tones,..."
+    },
+    {
+      "title": "FM Araghchi reacts to remarks by Jordanian counterpart about Iran's right to respond",
+      "desc": "Foreign Minister Abbas Araghchi has responded to claims by his Jordanian counterpart, questioning how long Tehran should wait before responding to an aggressor that violates Iran's sovereignty.",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260904-irna03.htm",
+      "time": "2026-09-04T12:00:00",
+      "country": "Iran",
+      "title_ur": "FM Araghchi reacts to remarks by Jordanian counterpart about Iran's right to respond",
+      "desc_ur": "Foreign Minister Abbas Araghchi has responded to claims by his Jordanian counterpart, questioning how long Tehran should wait before responding to an aggressor that violates Iran's sovereignty."
+    },
+    {
+      "title": "Iran: Statement by the Spokesperson on the latest attacks",
+      "desc": "The European Union is alarmed by the latest military escalation in the Middle East. We strongly condemn the latest wave of Iranian attacks against Kuwait, Jordan, Saudi Arabia and the United Arab Emirates. We equally deplore the recent attacks carried out aga…",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260904-eeas01.htm",
+      "time": "2026-09-04T12:00:00",
+      "country": "Iran",
+      "title_ur": "Iran: Statement by the Spokesperson on the latest attacks",
+      "desc_ur": "The European Union is alarmed by the latest military escalation in the Middle East. We strongly condemn the latest wave of Iranian attacks against Kuwait, Jordan, Saudi Arabia and the United Arab Emirates. We equally deplore the recent attacks carried out aga…"
+    },
+    {
+      "title": "Statement by Prime Minister Netanyahu",
+      "desc": "\"I commend our forces on a successful operation in Samaria in which they destroyed dozens of lathes for weapons manufacturing, seized dozens of weapons, and arrested individuals wanted for involvement in terrorism.\"",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260904-israel-pm01.htm",
+      "time": "2026-09-04T12:00:00",
+      "country": "Israel",
+      "title_ur": "Statement by Prime Minister Netanyahu",
+      "desc_ur": "\"I commend our forces on a successful operation in Samaria in which they destroyed dozens of lathes for weapons manufacturing, seized dozens of weapons, and arrested individuals wanted for involvement in terrorism.\""
     }
   ],
   "pakistan": [
     {
-      "title": "‘Growing differences between military, President Zardari’: Self-exiled Pak politician Altaf Hussain makes big claim",
-      "desc": "Pakistan News: Self-exiled British-Pakistani politician Altaf Hussain has alleged a \\\"silent struggle\\\" is underway between Pakistan's powerful military establishment .",
+      "title": "'Always one step ahead': Deepti Sharma talks up India’s edge over Pakistan ahead of Asia Cup clash",
+      "desc": "In a crucial showdown, India is set to face Pakistan in their final league match of the Women's Asia Cup on Saturday. Veteran all-rounder Deepti Sharma conveyed her belief in India's ability to maintain their winning streak against their rivals. With a semifi…",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/pakistan/growing-differences-between-military-president-zardari-self-exiled-pak-politician-altaf-hussain-makes-big-claim/articleshow/133756677.cms",
-      "time": "2026-09-04T08:43:03",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/news/always-one-step-ahead-deepti-sharma-talks-up-indias-edge-over-pakistan-ahead-of-asia-cup-clash/articleshow/133762393.cms",
+      "time": "2026-09-04T12:14:13",
       "country": "Pakistan",
-      "title_ur": "‘Growing differences between military, President Zardari’: Self-exiled Pak politician Altaf Hussain makes big claim",
-      "desc_ur": "Pakistan News: Self-exiled British-Pakistani politician Altaf Hussain has alleged a \\\"silent struggle\\\" is underway between Pakistan's powerful military establishment ."
+      "title_ur": "'Always one step ahead': Deepti Sharma talks up India’s edge over Pakistan ahead of Asia Cup clash",
+      "desc_ur": "In a crucial showdown, India is set to face Pakistan in their final league match of the Women's Asia Cup on Saturday. Veteran all-rounder Deepti Sharma conveyed her belief in India's ability to maintain their winning streak against their rivals. With a semifi…"
     },
     {
-      "title": "ADNOC Keeps Loading LNG Tankers in Gulf",
-      "desc": "ADNOC appears to be continuing to load liquefied natural gas onto tankers in the Persian Gulf, according to satellite images, despite ongoing disruptions to energy flows through the Strait of Hormuz and a recent escalation of hostilities.",
-      "source": "Rigzone",
-      "url": "https://www.rigzone.com/news/wire/adnoc_keeps_loading_lng_tankers_in_gulf-04-sep-2026-184536-article/",
-      "time": "2026-09-04T08:23:17",
+      "title": "INR registers a weekly gain of over 1%",
+      "desc": "The Indian rupee settled for the day marginally higher by 2 paise at 94.49 (provisional) against the US dollar on Friday, supported by optimism over rising foreign inflows and a rise in risk appetite. The pair registered a weekly gain of 1.13%. However, risin…",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/markets/capital-market-news/inr-registers-a-weekly-gain-of-over-1-126090401011_1.html",
+      "time": "2026-09-04T12:01:02",
       "country": "Pakistan",
-      "title_ur": "ADNOC Keeps Loading LNG Tankers in Gulf",
-      "desc_ur": "ADNOC appears to be continuing to load liquefied natural gas onto tankers in the Persian Gulf, according to satellite images, despite ongoing disruptions to energy flows through the Strait of Hormuz and a recent escalation of hostilities."
+      "title_ur": "INR registers a weekly gain of over 1%",
+      "desc_ur": "The Indian rupee settled for the day marginally higher by 2 paise at 94.49 (provisional) against the US dollar on Friday, supported by optimism over rising foreign inflows and a rise in risk appetite. The pair registered a weekly gain of 1.13%. However, risin…"
+    },
+    {
+      "title": "Pakistan: UN experts denounce student killing amid ongoing enforced disappearances and extrajudicial killings of Baloch people",
+      "desc": "UN experts* today expressed grave concern over the alleged enforced disappearance, torture, and extrajudicial killing of Imran Ali in Balochistan and urged Pakistan to conduct a prompt and impartial investigation into the circumstances of his detention and de…",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/wmd/library/news/pakistan/2026/pakistan-260904-ohchr01.htm",
+      "time": "2026-09-04T12:00:00",
+      "country": "Pakistan",
+      "title_ur": "Pakistan: UN experts denounce student killing amid ongoing enforced disappearances and extrajudicial killings of Baloch people",
+      "desc_ur": "UN experts* today expressed grave concern over the alleged enforced disappearance, torture, and extrajudicial killing of Imran Ali in Balochistan and urged Pakistan to conduct a prompt and impartial investigation into the circumstances of his detention and de…"
+    },
+    {
+      "title": "Body of NHS doctor who died while descending Pakistan mountain is discovered",
+      "desc": "The body of an NHS doctor who died while descending a 23,000ft mountain has been recovered.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16105269/Body-NHS-doctor-died-descending-Pakistan-mountain-discovered.html",
+      "time": "2026-09-04T11:46:03",
+      "country": "Pakistan",
+      "title_ur": "Body of NHS doctor who died while descending Pakistan mountain is discovered",
+      "desc_ur": "The body of an NHS doctor who died while descending a 23,000ft mountain has been recovered."
     }
   ],
   "business": {
@@ -190,7 +210,7 @@
         "low": 23,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 48
+        "precip": 100
       },
       {
         "date": "2026-09-06",
@@ -199,7 +219,7 @@
         "low": 25,
         "condition": "Overcast",
         "condition_ur": "ابر آلود",
-        "precip": 47
+        "precip": 25
       },
       {
         "date": "2026-09-07",
@@ -208,7 +228,7 @@
         "low": 25,
         "condition": "Mainly Clear",
         "condition_ur": "زیادہ تر صاف",
-        "precip": 18
+        "precip": 10
       },
       {
         "date": "2026-09-08",
@@ -217,7 +237,7 @@
         "low": 27,
         "condition": "Clear",
         "condition_ur": "صاف",
-        "precip": 4
+        "precip": 2
       },
       {
         "date": "2026-09-09",
@@ -235,7 +255,7 @@
         "low": 27,
         "condition": "Clear",
         "condition_ur": "صاف",
-        "precip": 8
+        "precip": 4
       },
       {
         "date": "2026-09-11",
@@ -244,7 +264,7 @@
         "low": 27,
         "condition": "Light Drizzle",
         "condition_ur": "ہلکی بوندا باندی",
-        "precip": 14
+        "precip": 22
       }
     ]
   },
