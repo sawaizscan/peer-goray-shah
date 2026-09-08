@@ -1,177 +1,197 @@
 {
-  "generated": "2026-09-08T16:59:15Z",
+  "generated": "2026-09-08T19:46:50Z",
   "world": [
     {
-      "title": "PM call with President Trump of the United States: 7 September 2026",
-      "desc": "The Prime Minister spoke to the President of the United States, Donald Trump, this afternoon.",
-      "source": "Www.gov.uk",
-      "url": "https://www.gov.uk/government/news/pm-call-with-president-trump-of-the-united-states-7-september-2026",
-      "time": "2026-09-07T16:53:59",
-      "country": "US",
-      "title_ur": "PM call with President Trump of the United States: 7 September 2026",
-      "desc_ur": "The Prime Minister spoke to the President of the United States, Donald Trump, this afternoon."
-    },
-    {
-      "title": "Kosovo signs up to US-led Gaza stabilisation force",
-      "desc": "Balkan state joins short list of countries agreeing to send peacekeepers to Palestinian enclave.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/9/7/kosovo-signs-up-to-us-led-gaza-stabilisation-force",
-      "time": "2026-09-07T16:52:57",
-      "country": "Israel",
-      "title_ur": "Kosovo signs up to US-led Gaza stabilisation force",
-      "desc_ur": "Balkan state joins short list of countries agreeing to send peacekeepers to Palestinian enclave."
-    },
-    {
-      "title": "Factbox-The nine midterm races that will decide control of the US Senate",
-      "desc": "WASHINGTON, Sept 7 (Reuters) - Democrats need to pick up four seats from Republicans to win control of the 100-seat Senate in the midterm elections on November 3. While voters will pick candidates in 35 states, independent analysts only see nine of those race…",
+      "title": "Donald Trump The Interview: US President doesn't hold back in EXCLUSIVE sit down with Bev Turner",
+      "desc": "AI recap... Trump’s main pointsIn the GB News interview with Bev Turner, President Donald Trump focused mainly on immigration, energy, Iran, the Russia–Ukraine war, Britain’s role in world affairs, artificial intelligence, and his criticism of several British…",
       "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4394578/posts",
-      "time": "2026-09-07T16:51:25",
+      "url": "https://freerepublic.com/focus/f-news/4394594/posts",
+      "time": "2026-09-07T19:42:57",
+      "country": "Iran",
+      "title_ur": "Donald Trump The Interview: US President doesn't hold back in EXCLUSIVE sit down with Bev Turner",
+      "desc_ur": "AI recap... Trump’s main pointsIn the GB News interview with Bev Turner, President Donald Trump focused mainly on immigration, energy, Iran, the Russia–Ukraine war, Britain’s role in world affairs, artificial intelligence, and his criticism of several British…"
+    },
+    {
+      "title": "Madeleine Dean: GOP Should Be Stopping 'Incoherent,' 'Unhinged' Trump",
+      "desc": "Monday on CNN’s “News Central,” Rep. Madeleine Dean (D-PA) said Republican lawmakers should not be “sitting back” while President Donald Trump is acting “incoherent” and “unhinged.” Dean said, “The greater difference is what is going on in the Republican part…",
+      "source": "Breitbart News",
+      "url": "https://www.breitbart.com/clips/2026/09/07/madeleine-dean-gop-should-be-stopping-incoherent-unhinged-trump/",
+      "time": "2026-09-07T19:38:26",
       "country": "US",
-      "title_ur": "Factbox-The nine midterm races that will decide control of the US Senate",
-      "desc_ur": "WASHINGTON, Sept 7 (Reuters) - Democrats need to pick up four seats from Republicans to win control of the 100-seat Senate in the midterm elections on November 3. While voters will pick candidates in 35 states, independent analysts only see nine of those race…"
+      "title_ur": "Madeleine Dean: GOP Should Be Stopping 'Incoherent,' 'Unhinged' Trump",
+      "desc_ur": "Monday on CNN’s “News Central,” Rep. Madeleine Dean (D-PA) said Republican lawmakers should not be “sitting back” while President Donald Trump is acting “incoherent” and “unhinged.” Dean said, “The greater difference is what is going on in the Republican part…"
     },
     {
-      "title": "Iran War Day 192: Americans Have Paid Over $100 Billion in Higher Energy Costs Since War Began",
-      "desc": "State of the Union: Iran announced new plans for control over the Strait of Hormuz, and continuing Israeli strikes left at least twelve dead in Lebanon.\nThe post Iran War Day 192: Americans Have Paid Over $100 Billion in Higher Energy Costs Since War Began ap…",
-      "source": "The American Conservative",
-      "url": "https://www.theamericanconservative.com/iran-war-day-192-americans-have-paid-over-100-billion-in-higher-energy-costs-since-war-began/",
-      "time": "2026-09-07T16:50:00",
-      "country": "Iran",
-      "title_ur": "Iran War Day 192: Americans Have Paid Over $100 Billion in Higher Energy Costs Since War Began",
-      "desc_ur": "State of the Union: Iran announced new plans for control over the Strait of Hormuz, and continuing Israeli strikes left at least twelve dead in Lebanon.\nThe post Iran War Day 192: Americans Have Paid Over $100 Billion in Higher Energy Costs Since War Began ap…"
+      "title": "Israeli forces ‘erase’ Palestinian village in West Bank (VIDEO)",
+      "desc": "RT reports from Khirbet al-Tabban in the occupied West Bank, where residents say Israeli forces destroyed homes and water infrastructure Read Full Article at RT.com",
+      "source": "RT",
+      "url": "https://www.rt.com/news/645223-israelis-destroy-palestinian-village/",
+      "time": "2026-09-07T19:34:49",
+      "country": "Israel",
+      "title_ur": "Israeli forces ‘erase’ Palestinian village in West Bank (VIDEO)",
+      "desc_ur": "RT reports from Khirbet al-Tabban in the occupied West Bank, where residents say Israeli forces destroyed homes and water infrastructure Read Full Article at RT.com"
     },
     {
-      "title": "Fuel prices at record Labor Day high in US due to Iran War and refinery issues",
-      "desc": "It's never been more expensive in the U.S. to fill up the tank and take one last summer trip over the Labor Day weekend.\nThe average price of regular gas was $4.14 a gallon heading into the holiday, nearly a dollar higher than last year and well above the Lab…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/ba8dd26fbc774051",
-      "time": "2026-09-07T16:47:04",
-      "country": "Iran",
-      "title_ur": "Fuel prices at record Labor Day high in US due to Iran War and refinery issues",
-      "desc_ur": "It's never been more expensive in the U.S. to fill up the tank and take one last summer trip over the Labor Day weekend.\nThe average price of regular gas was $4.14 a gallon heading into the holiday, nearly a dollar higher than last year and well above the Lab…"
+      "title": "Syria’s Assad-era reactor configured for nuclear weapons: IAEA",
+      "desc": "UN watchdog says material from facility, bombed in 2007, now under IAEA safeguards.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/9/7/syrias-assad-era-reactor-configured-for-nuclear-weapons-iaea",
+      "time": "2026-09-07T19:31:05",
+      "country": "Syria",
+      "title_ur": "Syria’s Assad-era reactor configured for nuclear weapons: IAEA",
+      "desc_ur": "UN watchdog says material from facility, bombed in 2007, now under IAEA safeguards."
     },
     {
-      "title": "NetsDaily Off-Season Report – No. 21",
-      "desc": "The roster appears set. Let’s speculate wildly!",
-      "source": "NetsDaily",
-      "url": "https://www.netsdaily.com/off-season-report/113712/netsdaily-off-season-report-no-21",
-      "time": "2026-09-07T16:45:14",
-      "country": "International",
-      "title_ur": "NetsDaily Off-Season Report – No. 21",
-      "desc_ur": "The roster appears set. Let’s speculate wildly!"
-    },
-    {
-      "title": "Rabbi Tau: Noam Party to run all the way",
-      "desc": "Rabbi Tzvi Tau instructs Avi Maoz and Noam activists to press ahead with their independent Knesset run, declaring the party will remain in the race through election day.",
+      "title": "The story of the Jews who were kidnapped & murdered in Lebanon",
+      "desc": "Netanyahu instructed the negotiating team with Lebanon to gather information on the 11 Jews who were executed in the 1980s. A former adviser to Rabin recounts their story.",
       "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/432854",
-      "time": "2026-09-07T16:44:35",
-      "country": "International",
-      "title_ur": "Rabbi Tau: Noam Party to run all the way",
-      "desc_ur": "Rabbi Tzvi Tau instructs Avi Maoz and Noam activists to press ahead with their independent Knesset run, declaring the party will remain in the race through election day."
-    },
-    {
-      "title": "Israel carries out fresh strikes on Lebanon, killing 12",
-      "desc": "Two children are among those killed in the latest strikes which is fuelling fears of a re-escalation in the conflict between Israel and Hezbollah.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-09-08/israel-lebanon-fresh-strikes/107126714",
-      "time": "2026-09-07T16:43:38",
+      "url": "https://www.israelnationalnews.com/news/432859",
+      "time": "2026-09-07T19:17:50",
       "country": "Israel",
-      "title_ur": "Israel carries out fresh strikes on Lebanon, killing 12",
-      "desc_ur": "Two children are among those killed in the latest strikes which is fuelling fears of a re-escalation in the conflict between Israel and Hezbollah."
+      "title_ur": "The story of the Jews who were kidnapped & murdered in Lebanon",
+      "desc_ur": "Netanyahu instructed the negotiating team with Lebanon to gather information on the 11 Jews who were executed in the 1980s. A former adviser to Rabin recounts their story."
     },
     {
-      "title": "Claimed Israeli capture of Lebanese ridge reshapes negotiation dynamics",
-      "desc": "Israel's continued strikes challenge Lebanon's push for an elusive peace agreement and stability.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/features/2026/9/7/claimed-israeli-capture-of-lebanese-ridge-reshapes-negotiation-dynamics",
-      "time": "2026-09-07T16:42:51",
+      "title": "Israeli airstrikes on a village in southern Lebanon kill 12 people, including 2 children",
+      "desc": "Monday's strikes came amid a new round of escalation between Israel and the militant Hezbollah group despite a truce reached more than two months ago.",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/5108b195d70756f9",
+      "time": "2026-09-07T19:15:38",
       "country": "Israel",
-      "title_ur": "Claimed Israeli capture of Lebanese ridge reshapes negotiation dynamics",
-      "desc_ur": "Israel's continued strikes challenge Lebanon's push for an elusive peace agreement and stability."
+      "title_ur": "Israeli airstrikes on a village in southern Lebanon kill 12 people, including 2 children",
+      "desc_ur": "Monday's strikes came amid a new round of escalation between Israel and the militant Hezbollah group despite a truce reached more than two months ago."
     },
     {
-      "title": "European shares subdued as surging crude sharpens focus on ECB rate path",
-      "desc": "European shares closed largely flat as higher oil prices and renewed US-Iran tensions raised inflation concerns, offsetting stronger euro zone economic data. Energy stocks gained, while Novartis fell after its cholesterol drug failed a key study. Investors al…",
+      "title": "CNN Defense Expert Roasts Trump Envoy’s ‘Whatever Happens’ Approach to Russia-Ukraine War",
+      "desc": "\"You can notice Vance and Rubio are nowhere near this right now, which gives you an idea of the lack of seriousness, in my view,” a CNN expert argued\nThe post CNN Defense Expert Roasts Trump Envoy’s ‘Whatever Happens’ Approach to Russia-Ukraine War first appe…",
+      "source": "Mediaite",
+      "url": "https://www.mediaite.com/media/tv/cnn-defense-expert-roasts-trump-envoys-whatever-happens-approach-to-russia-ukraine-war/",
+      "time": "2026-09-07T19:13:15",
+      "country": "Russia",
+      "title_ur": "CNN Defense Expert Roasts Trump Envoy’s ‘Whatever Happens’ Approach to Russia-Ukraine War",
+      "desc_ur": "\"You can notice Vance and Rubio are nowhere near this right now, which gives you an idea of the lack of seriousness, in my view,” a CNN expert argued\nThe post CNN Defense Expert Roasts Trump Envoy’s ‘Whatever Happens’ Approach to Russia-Ukraine War first appe…"
+    },
+    {
+      "title": "Air India's new chief Tewolde Gebremariam takes charge: Big plans to 'Make Air India Great Again' with safety-first approach",
+      "desc": "Air India's new leadership has committed to prioritizing safety above all else, especially following recent grave safety concerns and a tragic crash inquiry. The airline, currently grappling with large financial deficits and challenges posed by airspace closu…",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/european-shares-subdued-as-surging-crude-sharpens-focus-on-ecb-rate-path/articleshow/133889738.cms",
-      "time": "2026-09-07T16:41:47",
-      "country": "Iran",
-      "title_ur": "European shares subdued as surging crude sharpens focus on ECB rate path",
-      "desc_ur": "European shares closed largely flat as higher oil prices and renewed US-Iran tensions raised inflation concerns, offsetting stronger euro zone economic data. Energy stocks gained, while Novartis fell after its cholesterol drug failed a key study. Investors al…"
-    },
-    {
-      "title": "Finally: A bit of rare honesty on Gaza from The New York Times",
-      "desc": "What do you know? The New York Times just exposed its readers to some rare honesty about Gaza — running an 1,878-word plea from a native Gazan for  Hamas to be “expelled.” Hear, hear.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/09/07/opinion/finally-a-bit-of-rare-honesty-on-gaza-from-the-new-york-times/",
-      "time": "2026-09-07T16:41:11",
-      "country": "Israel",
-      "title_ur": "Finally: A bit of rare honesty on Gaza from The New York Times",
-      "desc_ur": "What do you know? The New York Times just exposed its readers to some rare honesty about Gaza — running an 1,878-word plea from a native Gazan for  Hamas to be “expelled.” Hear, hear."
-    },
-    {
-      "title": "‘Rhetoric differs’: How the UK’s relationship with Israel took a downturn",
-      "desc": "The UK is planning to take new steps against illegal Israeli settlements as Palestinians suffer more violence.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/9/7/uk-relationship-with-israel",
-      "time": "2026-09-07T16:38:44",
-      "country": "Israel",
-      "title_ur": "‘Rhetoric differs’: How the UK’s relationship with Israel took a downturn",
-      "desc_ur": "The UK is planning to take new steps against illegal Israeli settlements as Palestinians suffer more violence."
-    },
-    {
-      "title": "Para Archers Secure Finals Spots, Assure Medals",
-      "desc": "India's para archers delivered a strong performance on the third day of the World Archery Para Series (Stage III) in Ahmedabad, securing multiple spots in the finals across recurve, compound, and W1 events, thereby assuring a significant medal haul. Notable p…",
-      "source": "Rediff.com",
-      "url": "https://www.rediff.com/sports/report/indian-archers-storm-into-multiple-finals-assure-strong-medal-haul/20260907.htm",
-      "time": "2026-09-07T16:31:51",
+      "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/air-indias-new-chief-tewolde-gebremariam-takes-charge-big-plans-to-make-air-india-great-again-with-safety-first-approach/articleshow/133894638.cms",
+      "time": "2026-09-07T19:07:28",
       "country": "India",
-      "title_ur": "Para Archers Secure Finals Spots, Assure Medals",
-      "desc_ur": "India's para archers delivered a strong performance on the third day of the World Archery Para Series (Stage III) in Ahmedabad, securing multiple spots in the finals across recurve, compound, and W1 events, thereby assuring a significant medal haul. Notable p…"
+      "title_ur": "Air India's new chief Tewolde Gebremariam takes charge: Big plans to 'Make Air India Great Again' with safety-first approach",
+      "desc_ur": "Air India's new leadership has committed to prioritizing safety above all else, especially following recent grave safety concerns and a tragic crash inquiry. The airline, currently grappling with large financial deficits and challenges posed by airspace closu…"
     },
     {
-      "title": "Nicaragua challenges German arms exports to Israel at ICJ",
-      "desc": "Germany has asked the International Court of Justice to dismiss the case on jurisdiction grounds. It also said its arms exports to Israel were documented, published, and subject to more stringent checks than most. Germany on Monday asked the International Cou…",
-      "source": "DW (English)",
-      "url": "https://www.dw.com/en/nicaragua-challenges-german-arms-exports-to-israel-at-icj/a-79148044",
-      "time": "2026-09-07T16:26:00",
+      "title": "The domestic armed threat facing Iran",
+      "desc": "External support for ethnic armed groups poses an escalating security threat to Iran, experts and state officials warn.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/9/7/the-domestic-armed-threat-facing-iran",
+      "time": "2026-09-07T19:06:22",
+      "country": "Iran",
+      "title_ur": "The domestic armed threat facing Iran",
+      "desc_ur": "External support for ethnic armed groups poses an escalating security threat to Iran, experts and state officials warn."
+    },
+    {
+      "title": "US-Iranian Kamran Hekmati Released From Tehran Prison But Can't Leave Country",
+      "desc": "An Iranian-American citizen, Kamran Hekmati, has been released from Tehran's notorious Evin Prison, sources have told RFE/RL's Radio Farda, but he is unable to leave the country due to a travel ban.",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "url": "https://www.rferl.org/a/iran-kamran-hekmati-release-travel-ban/33849101.html",
+      "time": "2026-09-07T19:02:55",
+      "country": "Iran",
+      "title_ur": "US-Iranian Kamran Hekmati Released From Tehran Prison But Can't Leave Country",
+      "desc_ur": "An Iranian-American citizen, Kamran Hekmati, has been released from Tehran's notorious Evin Prison, sources have told RFE/RL's Radio Farda, but he is unable to leave the country due to a travel ban."
+    },
+    {
+      "title": "Sleaford Mods announce London Gig for Gaza with Baxter Dury",
+      "desc": "Sleaford Mods have announced a charity show in the Paul Weller-curated Gigs for Gaza series at London’s Troxy on 24 October. Proceeds will go to Gaza Forever UK and Medical Aid for Palestinians, with support from Baxter Dury, Joe Armon-Jones, and more TBA.",
+      "source": "Thelineofbestfit.com",
+      "url": "https://www.thelineofbestfit.com/news/sleaford-mods-announce-london-gig-for-gaza-with-baxter-dury",
+      "time": "2026-09-07T19:00:00",
       "country": "Israel",
-      "title_ur": "Nicaragua challenges German arms exports to Israel at ICJ",
-      "desc_ur": "Germany has asked the International Court of Justice to dismiss the case on jurisdiction grounds. It also said its arms exports to Israel were documented, published, and subject to more stringent checks than most. Germany on Monday asked the International Cou…"
+      "title_ur": "Sleaford Mods announce London Gig for Gaza with Baxter Dury",
+      "desc_ur": "Sleaford Mods have announced a charity show in the Paul Weller-curated Gigs for Gaza series at London’s Troxy on 24 October. Proceeds will go to Gaza Forever UK and Medical Aid for Palestinians, with support from Baxter Dury, Joe Armon-Jones, and more TBA."
     },
     {
-      "title": "No Half-In, Half-Out: King Charles Confirms Harry, Meghan Remain Private Citizens In UK",
-      "desc": "The letter reiterated that Harry and Meghan stepped down from their representative duties on behalf of the Sovereign in January 2020 and have not returned to the working Royal Family sinceKing Charles has made clear that Prince Harry and Meghan Markle, the Du…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-chat/4394571/posts",
-      "time": "2026-09-07T16:22:03",
-      "country": "UK",
-      "title_ur": "No Half-In, Half-Out: King Charles Confirms Harry, Meghan Remain Private Citizens In UK",
-      "desc_ur": "The letter reiterated that Harry and Meghan stepped down from their representative duties on behalf of the Sovereign in January 2020 and have not returned to the working Royal Family sinceKing Charles has made clear that Prince Harry and Meghan Markle, the Du…"
+      "title": "Exclusive — Orthodox Patriarch Encourages All World Leaders to Follow Trump, Vance in Visiting Jerusalem’s Church of Holy Sepulchre: ’Heartbeat of Our Faith’",
+      "desc": "ATHENS, Greece — The Patriarch of the Greek Orthodox Church in Jerusalem Theophilos III told Breitbart News exclusively that he is encouraging world leaders of all faiths to follow the lead of American President Donald Trump and Vice President JD Vance and vi…",
+      "source": "Breitbart News",
+      "url": "https://www.breitbart.com/politics/2026/09/07/exclusive-orthodox-patriarch-encourages-all-world-leaders-follow-trump-vance-visiting-jerusalems-church-holy-sepulchre-heartbeat-our-faith/",
+      "time": "2026-09-07T18:56:34",
+      "country": "US",
+      "title_ur": "Exclusive — Orthodox Patriarch Encourages All World Leaders to Follow Trump, Vance in Visiting Jerusalem’s Church of Holy Sepulchre: ’Heartbeat of Our Faith’",
+      "desc_ur": "ATHENS, Greece — The Patriarch of the Greek Orthodox Church in Jerusalem Theophilos III told Breitbart News exclusively that he is encouraging world leaders of all faiths to follow the lead of American President Donald Trump and Vice President JD Vance and vi…"
+    },
+    {
+      "title": "Joe Biden age and cognitive ability update",
+      "desc": "In whatever little time remains after Donald Trump finishes his gaudy monstrosity, Trump is spending his sundowning years posting AI slop of various degrees of fascism: A string of absolutely bonkers Truth Social posts from Trump in the span of about 10 minut…",
+      "source": "Lawyersgunsmoneyblog.com",
+      "url": "https://www.lawyersgunsmoneyblog.com/2026/09/joe-biden-age-and-cognitive-ability-update",
+      "time": "2026-09-07T18:54:48",
+      "country": "US",
+      "title_ur": "Joe Biden age and cognitive ability update",
+      "desc_ur": "In whatever little time remains after Donald Trump finishes his gaudy monstrosity, Trump is spending his sundowning years posting AI slop of various degrees of fascism: A string of absolutely bonkers Truth Social posts from Trump in the span of about 10 minut…"
+    },
+    {
+      "title": "Inside the Australian Royal Commission turning anti-Zionism into a crime",
+      "desc": "Australia's Royal Commission into Antisemitism has spent months letting Zionist witnesses deny genocide and recast Palestine solidarity as hate, laying the groundwork to criminalize protest, speech, and scholarship on Palestine for years to come.",
+      "source": "Mondoweiss",
+      "url": "https://mondoweiss.net/2026/09/inside-the-australian-royal-commission-turning-anti-zionism-into-a-crime/",
+      "time": "2026-09-07T18:49:57",
+      "country": "US",
+      "title_ur": "Inside the Australian Royal Commission turning anti-Zionism into a crime",
+      "desc_ur": "Australia's Royal Commission into Antisemitism has spent months letting Zionist witnesses deny genocide and recast Palestine solidarity as hate, laying the groundwork to criminalize protest, speech, and scholarship on Palestine for years to come."
+    },
+    {
+      "title": "The war happening while the world watches Iran",
+      "desc": "In southern Lebanon, Israel's war against Hezbollah has destroyed villages and left 6 per cent of the country under Israeli occupation.",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-09-08/lebanon-israel-hezbollah-shadow-war/107111986",
+      "time": "2026-09-07T18:48:18",
+      "country": "Iran",
+      "title_ur": "The war happening while the world watches Iran",
+      "desc_ur": "In southern Lebanon, Israel's war against Hezbollah has destroyed villages and left 6 per cent of the country under Israeli occupation."
     }
   ],
   "pakistan": [
     {
-      "title": "HRV Pharma invests ₹150 crore to boost peptide, oncology API capacity",
-      "desc": "HRV Pharma to invest ₹150 crore to expand synthetic peptide and high-potency oncology API capacity via partner facilities, targeting US/EU markets and complex drugs.",
+      "title": "India agrees to participate in 2027 SAF Games in Pakistan, sports separate from bilateral issues",
+      "desc": "India has given in-principle consent to participate in the 2027 South Asian Federation Games. These games are scheduled to be held in Pakistan from April 4 to April 11, 2027. This decision separates sports from bilateral issues and follows the government's st…",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/hyderabad/hrv-pharma-invests-150-crore-to-boost-peptide-oncology-api-capacity/articleshow/133888956.cms",
-      "time": "2026-09-07T16:13:17",
+      "url": "https://economictimes.indiatimes.com/news/india/india-agrees-to-participate-in-2027-saf-games-in-pakistan-sports-separate-from-bilateral-issues/articleshow/133894934.cms",
+      "time": "2026-09-07T19:19:38",
       "country": "Pakistan",
-      "title_ur": "HRV Pharma invests ₹150 crore to boost peptide, oncology API capacity",
-      "desc_ur": "HRV Pharma to invest ₹150 crore to expand synthetic peptide and high-potency oncology API capacity via partner facilities, targeting US/EU markets and complex drugs."
+      "title_ur": "India agrees to participate in 2027 SAF Games in Pakistan, sports separate from bilateral issues",
+      "desc_ur": "India has given in-principle consent to participate in the 2027 South Asian Federation Games. These games are scheduled to be held in Pakistan from April 4 to April 11, 2027. This decision separates sports from bilateral issues and follows the government's st…"
     },
     {
-      "title": "ENG vs PAK 3rd Test predicted playing XI: Likely Pakistan and England lineups after wholesale changes in visitors' squad",
-      "desc": "With half of the Pakistani squad sent back home, here's a look at what could be the visitor's lineup as they get ready to face England for the final Test match.",
-      "source": "Cricketnews.com",
-      "url": "https://www.cricketnews.com/en/cricket/news/eng-vs-pak-3rd-test-predicted-playing-xi-likely-lineups/269d279767a141b14cbb4337",
-      "time": "2026-09-07T16:10:59",
+      "title": "Detained Pakistan national repatriated via international border",
+      "desc": "India News: JAMMU: A Pakistani man detained near the international border in Jammu’s Kanachak sector last week was repatriated on Monday.Troops of BSF’s 44Bn caug.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/detained-pakistan-national-repatriated-via-international-border/articleshow/133893935.cms",
+      "time": "2026-09-07T18:47:42",
       "country": "Pakistan",
-      "title_ur": "ENG vs PAK 3rd Test predicted playing XI: Likely Pakistan and England lineups after wholesale changes in visitors' squad",
-      "desc_ur": "With half of the Pakistani squad sent back home, here's a look at what could be the visitor's lineup as they get ready to face England for the final Test match."
+      "title_ur": "Detained Pakistan national repatriated via international border",
+      "desc_ur": "India News: JAMMU: A Pakistani man detained near the international border in Jammu’s Kanachak sector last week was repatriated on Monday.Troops of BSF’s 44Bn caug."
+    },
+    {
+      "title": "Middle East Crypto Activity Triples to $350 Billion Amid Ongoing Conflict, Report Finds",
+      "desc": "The Iran conflict is pushing a growing share of regional capital into digital assets as investors seek to preserve wealth and move money during disruption, according to the Bitcoin Policy Institute.\nIn a report published Friday, the group estimates that annua…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/4e606917386b1a51",
+      "time": "2026-09-07T18:32:02",
+      "country": "Pakistan",
+      "title_ur": "Middle East Crypto Activity Triples to $350 Billion Amid Ongoing Conflict, Report Finds",
+      "desc_ur": "The Iran conflict is pushing a growing share of regional capital into digital assets as investors seek to preserve wealth and move money during disruption, according to the Bitcoin Policy Institute.\nIn a report published Friday, the group estimates that annua…"
+    },
+    {
+      "title": "KSE-100 closes at 173,636 after a sharp decline",
+      "desc": "The Pakistan Stock Exchange (PSX) started the new trading week on a negative note. Regional tensions and concerns over rising",
+      "source": "Pakistanstoday.com.pk",
+      "url": "https://pakistanstoday.com.pk/business/kse-100-closes-at-173636-after-a-sharp-decline/",
+      "time": "2026-09-07T18:27:56",
+      "country": "Pakistan",
+      "title_ur": "KSE-100 closes at 173,636 after a sharp decline",
+      "desc_ur": "The Pakistan Stock Exchange (PSX) started the new trading week on a negative note. Regional tensions and concerns over rising"
     }
   ],
   "business": {
@@ -184,15 +204,6 @@
     "city_ur": "لاہور",
     "forecast": [
       {
-        "date": "2026-09-08",
-        "day": "منگل",
-        "high": 36,
-        "low": 27,
-        "condition": "Clear",
-        "condition_ur": "صاف",
-        "precip": 0
-      },
-      {
         "date": "2026-09-09",
         "day": "بدھ",
         "high": 37,
@@ -204,7 +215,7 @@
       {
         "date": "2026-09-10",
         "day": "جمعرات",
-        "high": 37,
+        "high": 38,
         "low": 27,
         "condition": "Clear",
         "condition_ur": "صاف",
@@ -213,10 +224,10 @@
       {
         "date": "2026-09-11",
         "day": "جمعہ",
-        "high": 37,
+        "high": 38,
         "low": 27,
-        "condition": "Partly Cloudy",
-        "condition_ur": "جزوی ابر آلود",
+        "condition": "Mainly Clear",
+        "condition_ur": "زیادہ تر صاف",
         "precip": 8
       },
       {
@@ -224,14 +235,14 @@
         "day": "ہفتہ",
         "high": 37,
         "low": 28,
-        "condition": "Light Drizzle",
-        "condition_ur": "ہلکی بوندا باندی",
+        "condition": "Mainly Clear",
+        "condition_ur": "زیادہ تر صاف",
         "precip": 43
       },
       {
         "date": "2026-09-13",
         "day": "اتوار",
-        "high": 36,
+        "high": 37,
         "low": 28,
         "condition": "Overcast",
         "condition_ur": "ابر آلود",
@@ -240,17 +251,26 @@
       {
         "date": "2026-09-14",
         "day": "پیر",
-        "high": 34,
-        "low": 27,
+        "high": 32,
+        "low": 25,
+        "condition": "Thunderstorm",
+        "condition_ur": "گرج چمک",
+        "precip": 45
+      },
+      {
+        "date": "2026-09-15",
+        "day": "منگل",
+        "high": 33,
+        "low": 26,
         "condition": "Light Drizzle",
         "condition_ur": "ہلکی بوندا باندی",
-        "precip": 45
+        "precip": 35
       }
     ]
   },
   "date": {
-    "gregorian": "Tuesday, 8 September 2026",
-    "hijri": "26 Rabīʿ al-awwal 1448",
-    "hijri_ur": "26 رَبيع الأوّل 1448"
+    "gregorian": "Wednesday, 9 September 2026",
+    "hijri": "27 Rabīʿ al-awwal 1448",
+    "hijri_ur": "27 رَبيع الأوّل 1448"
   }
 }
