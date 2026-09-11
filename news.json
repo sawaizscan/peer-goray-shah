@@ -1,167 +1,187 @@
 {
-  "generated": "2026-09-11T13:42:05Z",
+  "generated": "2026-09-11T17:27:43Z",
   "world": [
     {
-      "title": "Oil surges past $100 as Saudi production falls to 36-year low",
-      "desc": "The escalation of the war between the US and Iran is reigniting concerns over global supplies. Saudi Arabia informed OPEC that its daily production had fallen by 1.9 million barrels to 6.238 million barrels per day, the lowest level since 1990\nThe post Oil su…",
-      "source": "Protothema.gr",
-      "url": "https://en.protothema.gr/2026/09/10/oil-surges-past-100-as-saudi-production-falls-to-36-year-low/",
-      "time": "2026-09-10T13:41:31",
-      "country": "Iran",
-      "title_ur": "سعودی پیداوار 36 سال کی کم ترین سطح پر آنے سے تیل کی قیمت 100 ڈالر سے تجاوز کر گئی ہے۔",
-      "desc_ur": "امریکہ اور ایران کے درمیان جنگ میں اضافہ عالمی سپلائی پر خدشات کو دوبارہ بڑھا رہا ہے۔ سعودی عرب نے اوپیک کو مطلع کیا کہ اس کی یومیہ پیداوار 1.9 ملین بیرل کم ہو کر 6.238 ملین بیرل یومیہ رہ گئی ہے، جو 1990 کے بعد سب سے کم سطح ہے۔\nThe post تیل کی…"
+      "title": "Test Match Special Podcast",
+      "desc": "Simon Mann presents reaction from Edgbaston.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p90gp1?at_campaign=rss",
+      "time": "2026-09-10T17:27:00",
+      "country": "International",
+      "title_ur": "Test Match Special Podcast",
+      "desc_ur": "Simon Mann presents reaction from Edgbaston."
     },
     {
-      "title": "ECB raises interest rates to fight off inflation jump",
-      "desc": "The European Central Bank raised borrowing costs and warned that inflation could remain high for an extended period. Energy markets and geopolitical tensions are still major concerns.",
-      "source": "DW (English)",
-      "url": "https://www.dw.com/en/ecb-raises-interest-rates-to-fight-off-inflation-jump/a-79215209",
-      "time": "2026-09-10T13:39:00",
-      "country": "Europe",
-      "title_ur": "ECB افراط زر کی چھلانگ سے لڑنے کے لئے شرح سود میں اضافہ کرتا ہے۔",
-      "desc_ur": "یوروپی سنٹرل بینک نے قرض لینے کی لاگت میں اضافہ کیا اور خبردار کیا کہ مہنگائی ایک طویل مدت تک بلند رہ سکتی ہے۔ توانائی کی منڈیاں اور جغرافیائی سیاسی تناؤ اب بھی بڑے خدشات ہیں۔"
-    },
-    {
-      "title": "Houthis seize key Yemeni Red Sea port, sources say, threatening global energy flows",
-      "desc": "Houthi militants seized Yemen's Mocha port, threatening vital global energy supplies.  This escalation occurs as Iran and the United States engage in tit-for-tat attacks.  President Trump expects the war to end after the upcoming mid-term elections.  Saudi Ar…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/defence/houthis-seize-key-yemeni-red-sea-port-sources-say-threatening-global-energy-flows/articleshow/134012590.cms",
-      "time": "2026-09-10T13:38:28",
-      "country": "Iran",
-      "title_ur": "حوثیوں نے بحیرہ احمر کی اہم یمنی بندرگاہ پر قبضہ کر لیا، ذرائع کا کہنا ہے کہ عالمی توانائی کے بہاؤ کو خطرہ ہے۔",
-      "desc_ur": "حوثی عسکریت پسندوں نے یمن کی موچا بندرگاہ پر قبضہ کر لیا، جس سے توانائی کی اہم عالمی سپلائی کو خطرہ ہے۔  یہ اضافہ اس وقت ہوتا ہے جب ایران اور ریاست ہائے متحدہ امریکہ ایک دوسرے پر حملے کر رہے ہیں۔  صدر ٹرمپ کو توقع ہے کہ آئندہ وسط مدتی انتخابات کے بعد جنگ ختم ہو جائے گی۔  سعودی عرب…"
-    },
-    {
-      "title": "John Mearsheimer: A Must Read Book on the Israel Lobby",
-      "desc": "From John Mearsheimer’s new YouTube channel: Eli Clifton and Ian Lustick have just published a terrific new book called Israel’s Lobby: America in the Grip of a Foreign Power. It appears twenty years after Steve Walt and I published “The Israel Lobby” in The …",
-      "source": "Antiwar.com",
-      "url": "https://www.antiwar.com/blog/2026/09/10/john-mearsheimer-a-must-read-book-on-the-israel-lobby/",
-      "time": "2026-09-10T13:38:09",
-      "country": "Israel",
-      "title_ur": "John Mearsheimer: اسرائیل لابی پر ایک کتاب ضرور پڑھیں",
-      "desc_ur": "John Mearsheimer کے نئے یوٹیوب چینل سے: Eli Clifton اور Ian Lustick نے ابھی ابھی ایک زبردست نئی کتاب شائع کی ہے جس کا نام ہے Israel's Lobby: America in the Grip of a Foreign Power۔ یہ اسٹیو والٹ اور میں نے \"دی اسرائیل لابی\" شائع کرنے کے بیس سال بعد ظاہر ہوتا ہے…"
-    },
-    {
-      "title": "Israeli PM's wife hit with $1.2m defamation suit over Oct 7 conspiracy theory",
-      "desc": "Sara Netanyahu claimed that a leading opposition politician had advance notice of Hamas' deadly October 7 attacks on Israel.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-09-10/sara-netanyahu-defamation-israeli-opposition-yair-golan/107140538",
-      "time": "2026-09-10T13:37:53",
-      "country": "Israel",
-      "title_ur": "اسرائیلی وزیر اعظم کی اہلیہ پر 7 اکتوبر کو سازشی تھیوری پر 1.2 ملین ڈالر کا ہتک عزت کا مقدمہ",
-      "desc_ur": "سارہ نیتن یاہو نے دعویٰ کیا کہ حزب اختلاف کی ایک سرکردہ سیاست دان کو حماس کے 7 اکتوبر کو اسرائیل پر ہونے والے مہلک حملوں کی پیشگی اطلاع تھی۔"
-    },
-    {
-      "title": "No Substantive Talks About Possibility of Energy Truce With Ukraine Right Now - Kremlin",
-      "desc": "MOSCOW (Sputnik) - There are no substantive talks about the possibility of an energy truce with Ukraine right now, Kremlin spokesman Dmitry Peskov said on Thursday.",
-      "source": "Sputnikglobe.com",
-      "url": "https://sputnikglobe.com/20260910/no-substantive-talks-about-possibility-of-energy-truce-with-ukraine-right-now---kremlin-1124711724.html",
-      "time": "2026-09-10T13:37:31",
-      "country": "Russia",
-      "title_ur": "ابھی یوکرین کے ساتھ توانائی کے معاہدے کے امکان کے بارے میں کوئی ٹھوس بات چیت نہیں ہوئی ہے - کریملن",
-      "desc_ur": "ماسکو (اسپوتنک) - کریملن کے ترجمان دمتری پیسکوف نے جمعرات کو کہا کہ ابھی یوکرین کے ساتھ توانائی کی جنگ بندی کے امکان کے بارے میں کوئی ٹھوس بات چیت نہیں ہوئی ہے۔"
-    },
-    {
-      "title": "Trump’s ‘Big Beautiful Bill’ projected to add a big, unbeautiful $3.4 trillion to the national debt over the next decade",
-      "desc": "But Americans did get another $350, on average, in their tax refunds this year.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/09/10/trump-big-beautiful-bill-taxes-debt/",
-      "time": "2026-09-10T13:36:33",
-      "country": "US",
-      "title_ur": "ٹرمپ کے 'بگ بیوٹیفل بل' نے اگلی دہائی کے دوران قومی قرض میں ایک بڑا، غیر خوبصورت $3.4 ٹریلین کا اضافہ کرنے کا امکان ظاہر کیا ہے۔",
-      "desc_ur": "لیکن امریکیوں کو اس سال ٹیکس کی واپسی میں اوسطاً مزید $350 ملے۔"
-    },
-    {
-      "title": "Can Iran hurt Trump at ballot box? Tehran’s new war strategy explained",
-      "desc": "US News: Iran is stepping up pressure on the United States less than two months before the US midterm elections, with analysts saying Tehran hopes to increase .",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/us/can-iran-hurt-trump-at-ballot-box-tehrans-new-war-strategy-explained/articleshow/134012454.cms",
-      "time": "2026-09-10T13:36:15",
-      "country": "Iran",
-      "title_ur": "کیا ایران بیلٹ باکس میں ٹرمپ کو نقصان پہنچا سکتا ہے؟ تہران کی نئی جنگی حکمت عملی کی وضاحت",
-      "desc_ur": "امریکی خبریں: ایران امریکی وسط مدتی انتخابات سے دو ماہ سے بھی کم پہلے امریکہ پر دباؤ بڑھا رہا ہے، تجزیہ کاروں کا کہنا ہے کہ تہران کو اس میں اضافے کی امید ہے۔"
-    },
-    {
-      "title": "Israel has cut off water to 47 Palestinian families in the northern West Bank",
-      "desc": "Since Israel severed the water lines feeding Ras al-Ahmar over a month ago, its 47 farming families have been rationing what little they have and weighing whether to sell their livestock and leave.",
+      "title": "The U.S. government is going after a Michigan labor union over its Palestine activism",
+      "desc": "The U.S. government is criminalizing a campus labor union at the University of Michigan for supporting Palestine. We are calling on fellow labor organizers to resist this dangerous act of repression",
       "source": "Mondoweiss",
-      "url": "https://mondoweiss.net/2026/09/israel-has-cut-off-water-to-47-palestinian-families-in-the-northern-west-bank/",
-      "time": "2026-09-10T13:36:00",
-      "country": "Israel",
-      "title_ur": "اسرائیل نے شمالی مغربی کنارے میں 47 فلسطینی خاندانوں کا پانی بند کر دیا ہے۔",
-      "desc_ur": "جب سے اسرائیل نے ایک ماہ قبل راس الاحمر کو پانی فراہم کرنے والی پانی کی لائنیں منقطع کر دی تھیں، اس کے 47 کاشتکار خاندانوں کے پاس جو کچھ ہے وہ راشن دے رہے ہیں اور یہ وزن کر رہے ہیں کہ کیا وہ اپنے مویشیوں کو بیچ کر چلے جائیں۔"
-    },
-    {
-      "title": "Lagarde comments at ECB press conference",
-      "desc": "The European Central Bank raised its policy rate on Thursday for the second time this year, by a quarter point to 2.50%, seeking to quell an energy-driven rise in inflation triggered by the Iran war.\nFollowing are highlights of ECB President Christine Lagarde…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/914d7e5bcbf3e835",
-      "time": "2026-09-10T13:35:29",
-      "country": "Iran",
-      "title_ur": "ای سی بی پریس کانفرنس میں لیگارڈ کا تبصرہ",
-      "desc_ur": "یورپی مرکزی بینک نے جمعرات کو اپنی پالیسی کی شرح کو اس سال دوسری بار بڑھا کر، ایک چوتھائی پوائنٹ سے بڑھا کر 2.50% کر دیا، جس سے ایران کی جنگ سے پیدا ہونے والی مہنگائی میں توانائی سے چلنے والے اضافے کو روکنے کی کوشش کی گئی۔\nای سی بی کی صدر کرسٹین لیگارڈ کی جھلکیاں درج ذیل ہیں…"
-    },
-    {
-      "title": "Jim O'Callaghan accused of 'leaning into tactics of the far right' with citizenship reforms",
-      "desc": "People Before Profit called on other opposition parties to “take a stand” against the policies.",
-      "source": "TheJournal.ie",
-      "url": "https://www.thejournal.ie/jim-ocallaghan-far-right-immigration-people-before-profit-7158370-Sep2026/",
-      "time": "2026-09-10T13:33:00",
+      "url": "https://mondoweiss.net/2026/09/the-u-s-government-is-going-after-a-michigan-labor-union-over-its-palestine-activism/",
+      "time": "2026-09-10T17:26:59",
       "country": "US",
-      "title_ur": "جم O'Callaghan پر شہریت کی اصلاحات کے ساتھ 'دائیں بازو کے ہتھکنڈوں کی طرف جھکاؤ' کا الزام",
-      "desc_ur": "لوگوں سے پہلے منافع نے دیگر اپوزیشن جماعتوں سے پالیسیوں کے خلاف \"موقف اختیار کرنے\" کا مطالبہ کیا۔"
+      "title_ur": "The U.S. government is going after a Michigan labor union over its Palestine activism",
+      "desc_ur": "The U.S. government is criminalizing a campus labor union at the University of Michigan for supporting Palestine. We are calling on fellow labor organizers to resist this dangerous act of repression"
     },
     {
-      "title": "Abu Dhabi's Mubadala takes stake in China’s Luckin coffee with $1B deal",
-      "desc": "Abu Dhabi sovereign wealth fund Mubadala has taken a stake in China’s Luckin Coffee as part of a $1 billion investment alongside private equity firm Centurium Capital. Mubadala has been one of the world’s most active sovereign wealth funds, a run that has con…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/af60e1425ad617bf",
-      "time": "2026-09-10T13:32:53",
-      "country": "China",
-      "title_ur": "ابوظہبی کے مبادلہ نے 1 بلین ڈالر کے معاہدے کے ساتھ چین کی لکن کافی میں حصہ لیا",
-      "desc_ur": "ابوظہبی کے خودمختار دولت فنڈ مبادلہ نے پرائیویٹ ایکویٹی فرم سنچوریم کیپٹل کے ساتھ $1 بلین کی سرمایہ کاری کے حصے کے طور پر چین کی لکن کافی میں حصہ لیا ہے۔ مبادلہ دنیا کے سب سے زیادہ فعال خودمختار دولت کے فنڈز میں سے ایک رہا ہے، ایک ایسا رن جس نے…"
-    },
-    {
-      "title": "ECB raises interest rates to 2.5% amid warning Iran war is fuelling inflation",
-      "desc": "Borrowing costs soar in Europe and oil tops $105 a barrel as bank flags mounting price pressures in eurozone\nBusiness live – latest updates\nThe European Central Bank has raised interest rates to 2.5% and warned that the risk of higher inflation over the next …",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/ca1642f0ea10c2c3",
-      "time": "2026-09-10T13:32:24",
-      "country": "Iran",
-      "title_ur": "ای سی بی نے سود کی شرح کو 2.5 فیصد تک بڑھا دیا، انتباہ کے درمیان کہ ایران جنگ مہنگائی کو ہوا دے رہی ہے",
-      "desc_ur": "یوروپ میں قرض لینے کی لاگت بڑھ گئی اور تیل 105 ڈالر فی بیرل سے اوپر ہے کیونکہ یورو زون میں قیمتوں کے دباؤ میں بینک کے جھنڈے\nبزنس لائیو - تازہ ترین اپ ڈیٹس\nیورپی مرکزی بینک نے شرح سود بڑھا کر 2.5 فیصد کر دی ہے اور خبردار کیا ہے کہ آئندہ مہنگائی میں اضافے کا خطرہ…"
-    },
-    {
-      "title": "IND vs BAN live streaming: How to watch today's Women's Asia Cup S/F match?",
-      "desc": "The live streaming of India vs Bangladesh Women's Asia Cup T20 semifinal match will be available on the SonyLIV app and website for Indian fans",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/cricket/news/ind-vs-ban-live-streaming-how-to-watch-today-s-women-s-asia-cup-s-f-match-126091000665_1.html",
-      "time": "2026-09-10T13:32:06",
+      "title": "Delhi gears up to host 18th BRICS Summit as global leaders begin arriving",
+      "desc": "As Delhi gears up for the high-profile BRICS Summit on September 12 and 13, anticipation builds for the arrival of key world leaders and their delegations. Heightened security measures are in place throughout the city to safeguard the esteemed guests. Hotels …",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/india/delhi-gears-up-to-host-18th-brics-summit-as-global-leaders-begin-arriving/articleshow/134022142.cms",
+      "time": "2026-09-10T17:20:38",
       "country": "India",
-      "title_ur": "IND بمقابلہ BAN لائیو سٹریمنگ: آج کا ویمنز ایشیا کپ S/F میچ کیسے دیکھیں؟",
-      "desc_ur": "ہندوستان بمقابلہ بنگلہ دیش ویمنز ایشیا کپ T20 سیمی فائنل میچ کی لائیو سٹریمنگ سونی ایل آئی وی ایپ اور ویب سائٹ پر ہندوستانی شائقین کے لیے دستیاب ہوگی۔"
+      "title_ur": "Delhi gears up to host 18th BRICS Summit as global leaders begin arriving",
+      "desc_ur": "As Delhi gears up for the high-profile BRICS Summit on September 12 and 13, anticipation builds for the arrival of key world leaders and their delegations. Heightened security measures are in place throughout the city to safeguard the esteemed guests. Hotels …"
     },
     {
-      "title": "Some Bribes, as a Treat",
-      "desc": "Plus: Data center backlash, Anthropic job-loss predictions, and more...",
-      "source": "Reason",
-      "url": "https://reason.com/2026/09/10/some-bribes-as-a-treat/",
-      "time": "2026-09-10T13:30:15",
+      "title": "‘At war with common sense’: Lawsuit charges state forces doctors to harm children",
+      "desc": "Leftists have adopted scheme to punish physicians who decline to participate in transgender 'treatment'",
+      "source": "Wnd.com",
+      "url": "https://www.wnd.com/2026/09/war-common-sense-lawsuit-charges-state-forces-doctors/",
+      "time": "2026-09-10T17:19:19",
+      "country": "International",
+      "title_ur": "‘At war with common sense’: Lawsuit charges state forces doctors to harm children",
+      "desc_ur": "Leftists have adopted scheme to punish physicians who decline to participate in transgender 'treatment'"
+    },
+    {
+      "title": "Change in tone: Rabbi Yitzhak Yosef launches attack on Eisenkot",
+      "desc": "Rabbi Yitzhak Yosef warns against an Eisenkot-led government, just two months after praising the Yashar chairman and saying Shas could support him for PM.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/433028",
+      "time": "2026-09-10T17:16:18",
+      "country": "Iran",
+      "title_ur": "Change in tone: Rabbi Yitzhak Yosef launches attack on Eisenkot",
+      "desc_ur": "Rabbi Yitzhak Yosef warns against an Eisenkot-led government, just two months after praising the Yashar chairman and saying Shas could support him for PM."
+    },
+    {
+      "title": "Mortgage rates climb: Average rate on 30-year home loan hits highest level in months",
+      "desc": "Mortgage rates rose for the third week in a row, pushing the average long-term U.S. home loan rate to its highest level in over 14 months",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/Business/wireStory/mortgage-rates-climb-average-rate-30-year-home-136339706",
+      "time": "2026-09-10T17:15:31",
       "country": "US",
-      "title_ur": "کچھ رشوت، بطور علاج",
-      "desc_ur": "پلس: ڈیٹا سینٹر کا ردعمل، انتھروپک ملازمت میں کمی کی پیش گوئیاں، اور مزید..."
+      "title_ur": "Mortgage rates climb: Average rate on 30-year home loan hits highest level in months",
+      "desc_ur": "Mortgage rates rose for the third week in a row, pushing the average long-term U.S. home loan rate to its highest level in over 14 months"
+    },
+    {
+      "title": "Brics: Non-West vs Anti-West",
+      "desc": "Can the ragtag grouping of emerging economies still drive the shift towards a more multipolar world? This book explores that and much more",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/book/brics-non-west-vs-anti-west-126091001682_1.html",
+      "time": "2026-09-10T17:14:27",
+      "country": "International",
+      "title_ur": "Brics: Non-West vs Anti-West",
+      "desc_ur": "Can the ragtag grouping of emerging economies still drive the shift towards a more multipolar world? This book explores that and much more"
+    },
+    {
+      "title": "Man who checked in 9/11 hijackers 'didn't listen' to gut",
+      "desc": "Michael Tuohey helped two of the 9/11 hijackers check into their flights at Portland International Jetport in Maine.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/us/2026/0910/1591069-911-airline-worker/",
+      "time": "2026-09-10T17:12:07",
+      "country": "International",
+      "title_ur": "Man who checked in 9/11 hijackers 'didn't listen' to gut",
+      "desc_ur": "Michael Tuohey helped two of the 9/11 hijackers check into their flights at Portland International Jetport in Maine."
+    },
+    {
+      "title": "Euno raises $23m to give enterprise AI agents the context they lack",
+      "desc": "Euno has raised a $23m Series A led by N47. The startup builds what it calls a context platform for enterprise AI agents. Chief executive Sarah Levy first disclosed the round to Axios Pro, before the company published its announcement on Wednesday. Existing i…",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/euno-raises-23m-series-a-n47-ai-agent-context-platform",
+      "time": "2026-09-10T17:11:57",
+      "country": "Europe",
+      "title_ur": "Euno raises $23m to give enterprise AI agents the context they lack",
+      "desc_ur": "Euno has raised a $23m Series A led by N47. The startup builds what it calls a context platform for enterprise AI agents. Chief executive Sarah Levy first disclosed the round to Axios Pro, before the company published its announcement on Wednesday. Existing i…"
+    },
+    {
+      "title": "Hegseth deputy squirms as ex-CIA officer hit with gold bar scam charges: report",
+      "desc": "Deputy Defense Secretary Steve Feinberg is facing mounting scrutiny over his denials of a years-long relationship with David Rush, the former CIA officer arrested in May after federal agents found 303 gold bars, $2 million in cash and 35 luxury watches stashe…",
+      "source": "Raw Story",
+      "url": "https://www.rawstory.com/steve-feinberg-2677841295/",
+      "time": "2026-09-10T17:10:43",
+      "country": "US",
+      "title_ur": "Hegseth deputy squirms as ex-CIA officer hit with gold bar scam charges: report",
+      "desc_ur": "Deputy Defense Secretary Steve Feinberg is facing mounting scrutiny over his denials of a years-long relationship with David Rush, the former CIA officer arrested in May after federal agents found 303 gold bars, $2 million in cash and 35 luxury watches stashe…"
+    },
+    {
+      "title": "CNN Plays Mash-Up Of Trump Promising ‘Over And Over Again’ To Send Big Checks To Americans",
+      "desc": "CNN played a mash-up of Donald Trump promising to send big checks to Americans, in light of his latest claim he'll send $5,000 to every citizen.\nThe post CNN Plays Mash-Up Of Trump Promising ‘Over And Over Again’ To Send Big Checks To Americans first appeared…",
+      "source": "Mediaite",
+      "url": "https://www.mediaite.com/media/news/cnn-plays-mash-up-of-trump-promising-over-and-over-again-to-send-big-checks-to-americans/",
+      "time": "2026-09-10T17:09:01",
+      "country": "US",
+      "title_ur": "CNN Plays Mash-Up Of Trump Promising ‘Over And Over Again’ To Send Big Checks To Americans",
+      "desc_ur": "CNN played a mash-up of Donald Trump promising to send big checks to Americans, in light of his latest claim he'll send $5,000 to every citizen.\nThe post CNN Plays Mash-Up Of Trump Promising ‘Over And Over Again’ To Send Big Checks To Americans first appeared…"
+    },
+    {
+      "title": "Poilievre tells U.S. TV Canadians are 'wounded' and 'confused' to be in America's crosshairs",
+      "desc": "Conservative Leader Pierre Poilievre is telling Americans their northern neighbours are feeling \"wounded\" and \"confused\" over how Canada and its economy became a key target for U.S. President Donald Trump.",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/news/politics/poilievre-new-york-carney-trump-9.7338906",
+      "time": "2026-09-10T17:08:22",
+      "country": "US",
+      "title_ur": "Poilievre tells U.S. TV Canadians are 'wounded' and 'confused' to be in America's crosshairs",
+      "desc_ur": "Conservative Leader Pierre Poilievre is telling Americans their northern neighbours are feeling \"wounded\" and \"confused\" over how Canada and its economy became a key target for U.S. President Donald Trump."
+    },
+    {
+      "title": "‘Naza’ Review: Two of the ‘No Other Land’ Filmmakers Deliver a More Devastating Exposé of Israeli Genocidal Policy, This Time in Gaza",
+      "desc": "The irksome controversy over “No Other Land” upon winning both the Berlinale Documentary prize and the Academy Award was never really about the film. It was hardly the first strong documentary to call attention to Israel’s official policy of ethnic cleansing,…",
+      "source": "Variety",
+      "url": "https://variety.com/2026/film/news/naza-review-1236857356/",
+      "time": "2026-09-10T17:08:20",
+      "country": "Israel",
+      "title_ur": "‘Naza’ Review: Two of the ‘No Other Land’ Filmmakers Deliver a More Devastating Exposé of Israeli Genocidal Policy, This Time in Gaza",
+      "desc_ur": "The irksome controversy over “No Other Land” upon winning both the Berlinale Documentary prize and the Academy Award was never really about the film. It was hardly the first strong documentary to call attention to Israel’s official policy of ethnic cleansing,…"
+    },
+    {
+      "title": "Iranian missiles damage US military aircraft at Jordan base in overnight strike",
+      "desc": "The strike underscores escalating tensions and highlights the unsustainable cost of air defense in prolonged conflicts, straining US resources.\nThe post Iranian missiles damage US military aircraft at Jordan base in overnight strike appeared first on Crypto B…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iranian-missiles-damage-us-aircraft-jordan/",
+      "time": "2026-09-10T17:08:20",
+      "country": "Iran",
+      "title_ur": "Iranian missiles damage US military aircraft at Jordan base in overnight strike",
+      "desc_ur": "The strike underscores escalating tensions and highlights the unsustainable cost of air defense in prolonged conflicts, straining US resources.\nThe post Iranian missiles damage US military aircraft at Jordan base in overnight strike appeared first on Crypto B…"
+    },
+    {
+      "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
+      "desc": "Oil, gas and borrowing costs surge as fears over Middle East escalate\nThe price of oil has jumped to $105 a barrel amid signs the conflict in the Middle East will not be resolved quickly, fuelling fears that inflation could accelerate.\nWith the conflict betwe…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/bfe587dca7ce9873",
+      "time": "2026-09-10T17:06:30",
+      "country": "International",
+      "title_ur": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
+      "desc_ur": "Oil, gas and borrowing costs surge as fears over Middle East escalate\nThe price of oil has jumped to $105 a barrel amid signs the conflict in the Middle East will not be resolved quickly, fuelling fears that inflation could accelerate.\nWith the conflict betwe…"
     }
   ],
   "pakistan": [
     {
-      "title": "Pakistan U19 cricketers mistaken for asylum seekers by protesters in UK",
-      "desc": "The English cricket board confirms it is reviewing the team’s security for the remainder of the tour.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/sports/2026/9/10/pakistan-u19-cricketers-mistaken-for-asylum-seekers-by-protesters-in-uk",
-      "time": "2026-09-10T13:25:06",
+      "title": "England march to early win over Pakistan halted by rain",
+      "desc": "Harry Brook, Dan Lawrence, Jamie Smith and Ollie Robinson all bat half-centuries on day two of the third Test for England, with rain the only respite for a Pakistan side trailing by 268.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/cricket/videos/cz9zjypykqqo",
+      "time": "2026-09-10T17:05:35",
       "country": "Pakistan",
-      "title_ur": "برطانیہ میں مظاہرین نے پاکستان انڈر 19 کرکٹرز کو سیاسی پناہ کے متلاشی سمجھ لیا۔",
-      "desc_ur": "انگلش کرکٹ بورڈ نے تصدیق کی ہے کہ وہ دورے کے بقیہ حصے کے لیے ٹیم کی سیکیورٹی کا جائزہ لے رہا ہے۔"
+      "title_ur": "England march to early win over Pakistan halted by rain",
+      "desc_ur": "Harry Brook, Dan Lawrence, Jamie Smith and Ollie Robinson all bat half-centuries on day two of the third Test for England, with rain the only respite for a Pakistan side trailing by 268."
+    },
+    {
+      "title": "Iranian state media reports the Islamic Revolutionary Guard Corps says it struck a U.S. unmanned vessel in the Strait of Hormuz",
+      "desc": "The incident heightens U.S.-Iran tensions, potentially increasing military confrontations and influencing market perceptions of conflict risk.\nThe post Iranian state media reports the Islamic Revolutionary Guard Corps says it struck a U.S. unmanned vessel in …",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iranian-state-media-reports-the-islamic-revolutionary-guard-corps-says-it/",
+      "time": "2026-09-10T17:01:04",
+      "country": "Pakistan",
+      "title_ur": "Iranian state media reports the Islamic Revolutionary Guard Corps says it struck a U.S. unmanned vessel in the Strait of Hormuz",
+      "desc_ur": "The incident heightens U.S.-Iran tensions, potentially increasing military confrontations and influencing market perceptions of conflict risk.\nThe post Iranian state media reports the Islamic Revolutionary Guard Corps says it struck a U.S. unmanned vessel in …"
+    },
+    {
+      "title": "Robinson strikes twice as England close in on Pakistan whitewash",
+      "desc": "BIRMINGHAM, England, Sept 10 : Ollie Robinson continued his outstanding summer with two wickets in his opening over as England pushed Pakistan towards defeat in the third test at Edgbaston on Thursday.Robinson, man of the match in the first two tests, struck …",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/sport/robinson-strikes-twice-england-close-in-pakistan-whitewash-6376866",
+      "time": "2026-09-10T16:57:12",
+      "country": "Pakistan",
+      "title_ur": "Robinson strikes twice as England close in on Pakistan whitewash",
+      "desc_ur": "BIRMINGHAM, England, Sept 10 : Ollie Robinson continued his outstanding summer with two wickets in his opening over as England pushed Pakistan towards defeat in the third test at Edgbaston on Thursday.Robinson, man of the match in the first two tests, struck …"
     }
   ],
   "business": {
@@ -180,7 +200,7 @@
         "low": 28,
         "condition": "Clear",
         "condition_ur": "صاف",
-        "precip": 8
+        "precip": 2
       },
       {
         "date": "2026-09-12",
@@ -189,7 +209,7 @@
         "low": 27,
         "condition": "Light Drizzle",
         "condition_ur": "ہلکی بوندا باندی",
-        "precip": 55
+        "precip": 51
       },
       {
         "date": "2026-09-13",
@@ -198,7 +218,7 @@
         "low": 27,
         "condition": "Light Drizzle",
         "condition_ur": "ہلکی بوندا باندی",
-        "precip": 39
+        "precip": 47
       },
       {
         "date": "2026-09-14",
@@ -207,7 +227,7 @@
         "low": 27,
         "condition": "Light Drizzle",
         "condition_ur": "ہلکی بوندا باندی",
-        "precip": 33
+        "precip": 43
       },
       {
         "date": "2026-09-15",
@@ -225,7 +245,7 @@
         "low": 24,
         "condition": "Showers",
         "condition_ur": "بارش",
-        "precip": 62
+        "precip": 55
       },
       {
         "date": "2026-09-17",
