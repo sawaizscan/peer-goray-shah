@@ -1,177 +1,167 @@
 {
-  "generated": "2026-09-11T09:21:57Z",
+  "generated": "2026-09-11T13:42:05Z",
   "world": [
     {
-      "title": "China's car exports in first 8 months surpass 2025 total, as EV sales soar",
-      "desc": "China's passenger car exports have already exceeded last year's total for this year.  August saw a significant 67.1% surge in passenger car exports, driven by electric vehicles.  This strong export performance is expected to largely offset domestic sales whic…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/chinas-car-exports-in-first-8-months-surpass-2025-total-as-ev-sales-soar/articleshow/134001879.cms",
-      "time": "2026-09-10T09:19:52",
-      "country": "China",
-      "title_ur": "China's car exports in first 8 months surpass 2025 total, as EV sales soar",
-      "desc_ur": "China's passenger car exports have already exceeded last year's total for this year.  August saw a significant 67.1% surge in passenger car exports, driven by electric vehicles.  This strong export performance is expected to largely offset domestic sales whic…"
+      "title": "Oil surges past $100 as Saudi production falls to 36-year low",
+      "desc": "The escalation of the war between the US and Iran is reigniting concerns over global supplies. Saudi Arabia informed OPEC that its daily production had fallen by 1.9 million barrels to 6.238 million barrels per day, the lowest level since 1990\nThe post Oil su…",
+      "source": "Protothema.gr",
+      "url": "https://en.protothema.gr/2026/09/10/oil-surges-past-100-as-saudi-production-falls-to-36-year-low/",
+      "time": "2026-09-10T13:41:31",
+      "country": "Iran",
+      "title_ur": "سعودی پیداوار 36 سال کی کم ترین سطح پر آنے سے تیل کی قیمت 100 ڈالر سے تجاوز کر گئی ہے۔",
+      "desc_ur": "امریکہ اور ایران کے درمیان جنگ میں اضافہ عالمی سپلائی پر خدشات کو دوبارہ بڑھا رہا ہے۔ سعودی عرب نے اوپیک کو مطلع کیا کہ اس کی یومیہ پیداوار 1.9 ملین بیرل کم ہو کر 6.238 ملین بیرل یومیہ رہ گئی ہے، جو 1990 کے بعد سب سے کم سطح ہے۔\nThe post تیل کی…"
     },
     {
-      "title": "Israeli FM invited key Qatargate suspect Srulik Einhorn to Slovenia embassy ceremony",
-      "desc": "Israel Einhorn, who's also a suspect in BibiLeaks and faces an active arrest warrant. He attended a ceremony at the Israeli Embassy in Washington in December together with Knesset Speaker Amir Ohana",
-      "source": "Haaretz",
-      "url": "https://www.haaretz.com/israel-news/israel-politics/2026-09-10/ty-article/.premium/israeli-fm-invited-key-qatargate-suspect-to-slovenia-embassy-ceremony/000001a0-8a56-d9dc-a9a9-8ad6a4e20000",
-      "time": "2026-09-10T09:18:57",
-      "country": "Israel",
-      "title_ur": "Israeli FM invited key Qatargate suspect Srulik Einhorn to Slovenia embassy ceremony",
-      "desc_ur": "Israel Einhorn, who's also a suspect in BibiLeaks and faces an active arrest warrant. He attended a ceremony at the Israeli Embassy in Washington in December together with Knesset Speaker Amir Ohana"
-    },
-    {
-      "title": "India to push BRICS digital currency link despite hurdles, sources say",
-      "desc": "By Nikunj Ohri and Jaspreet Kalra NEW DELHI, Sept 10 (Reuters) - India is pushing to link central bank digital currencies (CBDCs) across BRICS nations for cr...",
-      "source": "Yahoo Entertainment",
-      "url": "https://uk.news.yahoo.com/india-push-brics-digital-currency-090543775.html",
-      "time": "2026-09-10T09:16:39",
-      "country": "India",
-      "title_ur": "India to push BRICS digital currency link despite hurdles, sources say",
-      "desc_ur": "By Nikunj Ohri and Jaspreet Kalra NEW DELHI, Sept 10 (Reuters) - India is pushing to link central bank digital currencies (CBDCs) across BRICS nations for cr..."
-    },
-    {
-      "title": "Tourists in England face nightly levy on hotel and Airbnb stays under new plans",
-      "desc": "Labelled a tourist tax, proposals would give mayors power to decide how revenue raised should be invested\nUK politics live – latest updates\nHolidaymakers will face a nightly levy on hotel and Airbnb-style stays in England under plans ministers are due to outl…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/4d224d8df8caabd5",
-      "time": "2026-09-10T09:15:39",
-      "country": "UK",
-      "title_ur": "Tourists in England face nightly levy on hotel and Airbnb stays under new plans",
-      "desc_ur": "Labelled a tourist tax, proposals would give mayors power to decide how revenue raised should be invested\nUK politics live – latest updates\nHolidaymakers will face a nightly levy on hotel and Airbnb-style stays in England under plans ministers are due to outl…"
-    },
-    {
-      "title": "The Post-Trump Republican to Watch (and Watch Out For)",
-      "desc": "Missouri Sen. Josh Hawley suggests a future lane for the GOP that is drastically different from other Republican presidential contenders.\nThe post The Post-Trump Republican to Watch (and Watch Out For) appeared first on The American Prospect.",
-      "source": "The American Prospect",
-      "url": "https://prospect.org/2026/09/10/trump-republican-to-watch-josh-hawley/",
-      "time": "2026-09-10T09:15:00",
-      "country": "US",
-      "title_ur": "The Post-Trump Republican to Watch (and Watch Out For)",
-      "desc_ur": "Missouri Sen. Josh Hawley suggests a future lane for the GOP that is drastically different from other Republican presidential contenders.\nThe post The Post-Trump Republican to Watch (and Watch Out For) appeared first on The American Prospect."
-    },
-    {
-      "title": "Global Market: European shares edge higher ahead of ECB rate decision",
-      "desc": "European shares edged higher after their sharpest one-day decline in two months, as investors awaited an expected ECB rate hike and Christine Lagarde’s comments on inflation. Rising oil prices above $100 a barrel remained a key concern for markets.",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-edge-higher-ahead-of-ecb-rate-decision/articleshow/134001720.cms",
-      "time": "2026-09-10T09:14:18",
+      "title": "ECB raises interest rates to fight off inflation jump",
+      "desc": "The European Central Bank raised borrowing costs and warned that inflation could remain high for an extended period. Energy markets and geopolitical tensions are still major concerns.",
+      "source": "DW (English)",
+      "url": "https://www.dw.com/en/ecb-raises-interest-rates-to-fight-off-inflation-jump/a-79215209",
+      "time": "2026-09-10T13:39:00",
       "country": "Europe",
-      "title_ur": "Global Market: European shares edge higher ahead of ECB rate decision",
-      "desc_ur": "European shares edged higher after their sharpest one-day decline in two months, as investors awaited an expected ECB rate hike and Christine Lagarde’s comments on inflation. Rising oil prices above $100 a barrel remained a key concern for markets."
+      "title_ur": "ECB افراط زر کی چھلانگ سے لڑنے کے لئے شرح سود میں اضافہ کرتا ہے۔",
+      "desc_ur": "یوروپی سنٹرل بینک نے قرض لینے کی لاگت میں اضافہ کیا اور خبردار کیا کہ مہنگائی ایک طویل مدت تک بلند رہ سکتی ہے۔ توانائی کی منڈیاں اور جغرافیائی سیاسی تناؤ اب بھی بڑے خدشات ہیں۔"
     },
     {
-      "title": "Iranian attack damages US fighter jets at Jordan airbase: CBS News",
-      "desc": "Heightened US-Iran tensions could lead to stricter airspace regulations, impacting regional military and aviation operations significantly.\nThe post Iranian attack damages US fighter jets at Jordan airbase: CBS News appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/iranian-attack-damages-us-fighter-jets-at-jordan-airbase-cbs-news/",
-      "time": "2026-09-10T09:13:12",
+      "title": "Houthis seize key Yemeni Red Sea port, sources say, threatening global energy flows",
+      "desc": "Houthi militants seized Yemen's Mocha port, threatening vital global energy supplies.  This escalation occurs as Iran and the United States engage in tit-for-tat attacks.  President Trump expects the war to end after the upcoming mid-term elections.  Saudi Ar…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/houthis-seize-key-yemeni-red-sea-port-sources-say-threatening-global-energy-flows/articleshow/134012590.cms",
+      "time": "2026-09-10T13:38:28",
       "country": "Iran",
-      "title_ur": "Iranian attack damages US fighter jets at Jordan airbase: CBS News",
-      "desc_ur": "Heightened US-Iran tensions could lead to stricter airspace regulations, impacting regional military and aviation operations significantly.\nThe post Iranian attack damages US fighter jets at Jordan airbase: CBS News appeared first on Crypto Briefing."
+      "title_ur": "حوثیوں نے بحیرہ احمر کی اہم یمنی بندرگاہ پر قبضہ کر لیا، ذرائع کا کہنا ہے کہ عالمی توانائی کے بہاؤ کو خطرہ ہے۔",
+      "desc_ur": "حوثی عسکریت پسندوں نے یمن کی موچا بندرگاہ پر قبضہ کر لیا، جس سے توانائی کی اہم عالمی سپلائی کو خطرہ ہے۔  یہ اضافہ اس وقت ہوتا ہے جب ایران اور ریاست ہائے متحدہ امریکہ ایک دوسرے پر حملے کر رہے ہیں۔  صدر ٹرمپ کو توقع ہے کہ آئندہ وسط مدتی انتخابات کے بعد جنگ ختم ہو جائے گی۔  سعودی عرب…"
     },
     {
-      "title": "Treasury yields move higher as investors await key wholesale inflation data",
-      "desc": "Treasury yields moved higher on Thursday as traders await the release of U.S. wholesale inflation data.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/10/us-treasurys-bonds-yield.html",
-      "time": "2026-09-10T09:11:58",
-      "country": "International",
-      "title_ur": "Treasury yields move higher as investors await key wholesale inflation data",
-      "desc_ur": "Treasury yields moved higher on Thursday as traders await the release of U.S. wholesale inflation data."
+      "title": "John Mearsheimer: A Must Read Book on the Israel Lobby",
+      "desc": "From John Mearsheimer’s new YouTube channel: Eli Clifton and Ian Lustick have just published a terrific new book called Israel’s Lobby: America in the Grip of a Foreign Power. It appears twenty years after Steve Walt and I published “The Israel Lobby” in The …",
+      "source": "Antiwar.com",
+      "url": "https://www.antiwar.com/blog/2026/09/10/john-mearsheimer-a-must-read-book-on-the-israel-lobby/",
+      "time": "2026-09-10T13:38:09",
+      "country": "Israel",
+      "title_ur": "John Mearsheimer: اسرائیل لابی پر ایک کتاب ضرور پڑھیں",
+      "desc_ur": "John Mearsheimer کے نئے یوٹیوب چینل سے: Eli Clifton اور Ian Lustick نے ابھی ابھی ایک زبردست نئی کتاب شائع کی ہے جس کا نام ہے Israel's Lobby: America in the Grip of a Foreign Power۔ یہ اسٹیو والٹ اور میں نے \"دی اسرائیل لابی\" شائع کرنے کے بیس سال بعد ظاہر ہوتا ہے…"
     },
     {
-      "title": "Ryanair CEO says to brace for a 'significant uplift' in airfares as oil prices soar",
-      "desc": "Ryanair's CEO warned airfare prices may see significant hikes as the surging cost of jet fuel continues to squeeze the airline industry.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/10/ryanair-airfare-prices-oil-iran-war.html",
-      "time": "2026-09-10T09:11:58",
+      "title": "Israeli PM's wife hit with $1.2m defamation suit over Oct 7 conspiracy theory",
+      "desc": "Sara Netanyahu claimed that a leading opposition politician had advance notice of Hamas' deadly October 7 attacks on Israel.",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-09-10/sara-netanyahu-defamation-israeli-opposition-yair-golan/107140538",
+      "time": "2026-09-10T13:37:53",
+      "country": "Israel",
+      "title_ur": "اسرائیلی وزیر اعظم کی اہلیہ پر 7 اکتوبر کو سازشی تھیوری پر 1.2 ملین ڈالر کا ہتک عزت کا مقدمہ",
+      "desc_ur": "سارہ نیتن یاہو نے دعویٰ کیا کہ حزب اختلاف کی ایک سرکردہ سیاست دان کو حماس کے 7 اکتوبر کو اسرائیل پر ہونے والے مہلک حملوں کی پیشگی اطلاع تھی۔"
+    },
+    {
+      "title": "No Substantive Talks About Possibility of Energy Truce With Ukraine Right Now - Kremlin",
+      "desc": "MOSCOW (Sputnik) - There are no substantive talks about the possibility of an energy truce with Ukraine right now, Kremlin spokesman Dmitry Peskov said on Thursday.",
+      "source": "Sputnikglobe.com",
+      "url": "https://sputnikglobe.com/20260910/no-substantive-talks-about-possibility-of-energy-truce-with-ukraine-right-now---kremlin-1124711724.html",
+      "time": "2026-09-10T13:37:31",
+      "country": "Russia",
+      "title_ur": "ابھی یوکرین کے ساتھ توانائی کے معاہدے کے امکان کے بارے میں کوئی ٹھوس بات چیت نہیں ہوئی ہے - کریملن",
+      "desc_ur": "ماسکو (اسپوتنک) - کریملن کے ترجمان دمتری پیسکوف نے جمعرات کو کہا کہ ابھی یوکرین کے ساتھ توانائی کی جنگ بندی کے امکان کے بارے میں کوئی ٹھوس بات چیت نہیں ہوئی ہے۔"
+    },
+    {
+      "title": "Trump’s ‘Big Beautiful Bill’ projected to add a big, unbeautiful $3.4 trillion to the national debt over the next decade",
+      "desc": "But Americans did get another $350, on average, in their tax refunds this year.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/09/10/trump-big-beautiful-bill-taxes-debt/",
+      "time": "2026-09-10T13:36:33",
       "country": "US",
-      "title_ur": "Ryanair CEO says to brace for a 'significant uplift' in airfares as oil prices soar",
-      "desc_ur": "Ryanair's CEO warned airfare prices may see significant hikes as the surging cost of jet fuel continues to squeeze the airline industry."
+      "title_ur": "ٹرمپ کے 'بگ بیوٹیفل بل' نے اگلی دہائی کے دوران قومی قرض میں ایک بڑا، غیر خوبصورت $3.4 ٹریلین کا اضافہ کرنے کا امکان ظاہر کیا ہے۔",
+      "desc_ur": "لیکن امریکیوں کو اس سال ٹیکس کی واپسی میں اوسطاً مزید $350 ملے۔"
     },
     {
-      "title": "If you delay further, it's over, go home now - Iran warns the American military",
-      "desc": "Iran's Parliament Speaker and chief negotiator, Mohammad Bagher Ghalibaf, warned on September 6, 2026, that if America launches another attack against Iranian interests, it will face a faster, stronger, and more painful response. He urged American troops to r…",
-      "source": "Gossiplankanews.com",
-      "url": "https://english.gossiplankanews.com/2026/09/if-you-delay-further-its-over-go-home.html",
-      "time": "2026-09-10T09:10:37",
+      "title": "Can Iran hurt Trump at ballot box? Tehran’s new war strategy explained",
+      "desc": "US News: Iran is stepping up pressure on the United States less than two months before the US midterm elections, with analysts saying Tehran hopes to increase .",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/us/can-iran-hurt-trump-at-ballot-box-tehrans-new-war-strategy-explained/articleshow/134012454.cms",
+      "time": "2026-09-10T13:36:15",
       "country": "Iran",
-      "title_ur": "If you delay further, it's over, go home now - Iran warns the American military",
-      "desc_ur": "Iran's Parliament Speaker and chief negotiator, Mohammad Bagher Ghalibaf, warned on September 6, 2026, that if America launches another attack against Iranian interests, it will face a faster, stronger, and more painful response. He urged American troops to r…"
+      "title_ur": "کیا ایران بیلٹ باکس میں ٹرمپ کو نقصان پہنچا سکتا ہے؟ تہران کی نئی جنگی حکمت عملی کی وضاحت",
+      "desc_ur": "امریکی خبریں: ایران امریکی وسط مدتی انتخابات سے دو ماہ سے بھی کم پہلے امریکہ پر دباؤ بڑھا رہا ہے، تجزیہ کاروں کا کہنا ہے کہ تہران کو اس میں اضافے کی امید ہے۔"
     },
     {
-      "title": "Iran Shows New Appetite for Escalation",
-      "desc": "“Iran is increasingly trying to escalate its conflict with the U.S. as it seeks to break a stalemate in the Strait of Hormuz that is strangling its economy,” the Wall Street Journal reports. “At least three times in the past week, Iranian forces have launched…",
-      "source": "Politicalwire.com",
-      "url": "https://politicalwire.com/2026/09/10/iran-shows-new-appetite-for-escalation/",
-      "time": "2026-09-10T09:10:00",
+      "title": "Israel has cut off water to 47 Palestinian families in the northern West Bank",
+      "desc": "Since Israel severed the water lines feeding Ras al-Ahmar over a month ago, its 47 farming families have been rationing what little they have and weighing whether to sell their livestock and leave.",
+      "source": "Mondoweiss",
+      "url": "https://mondoweiss.net/2026/09/israel-has-cut-off-water-to-47-palestinian-families-in-the-northern-west-bank/",
+      "time": "2026-09-10T13:36:00",
+      "country": "Israel",
+      "title_ur": "اسرائیل نے شمالی مغربی کنارے میں 47 فلسطینی خاندانوں کا پانی بند کر دیا ہے۔",
+      "desc_ur": "جب سے اسرائیل نے ایک ماہ قبل راس الاحمر کو پانی فراہم کرنے والی پانی کی لائنیں منقطع کر دی تھیں، اس کے 47 کاشتکار خاندانوں کے پاس جو کچھ ہے وہ راشن دے رہے ہیں اور یہ وزن کر رہے ہیں کہ کیا وہ اپنے مویشیوں کو بیچ کر چلے جائیں۔"
+    },
+    {
+      "title": "Lagarde comments at ECB press conference",
+      "desc": "The European Central Bank raised its policy rate on Thursday for the second time this year, by a quarter point to 2.50%, seeking to quell an energy-driven rise in inflation triggered by the Iran war.\nFollowing are highlights of ECB President Christine Lagarde…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/914d7e5bcbf3e835",
+      "time": "2026-09-10T13:35:29",
       "country": "Iran",
-      "title_ur": "Iran Shows New Appetite for Escalation",
-      "desc_ur": "“Iran is increasingly trying to escalate its conflict with the U.S. as it seeks to break a stalemate in the Strait of Hormuz that is strangling its economy,” the Wall Street Journal reports. “At least three times in the past week, Iranian forces have launched…"
+      "title_ur": "ای سی بی پریس کانفرنس میں لیگارڈ کا تبصرہ",
+      "desc_ur": "یورپی مرکزی بینک نے جمعرات کو اپنی پالیسی کی شرح کو اس سال دوسری بار بڑھا کر، ایک چوتھائی پوائنٹ سے بڑھا کر 2.50% کر دیا، جس سے ایران کی جنگ سے پیدا ہونے والی مہنگائی میں توانائی سے چلنے والے اضافے کو روکنے کی کوشش کی گئی۔\nای سی بی کی صدر کرسٹین لیگارڈ کی جھلکیاں درج ذیل ہیں…"
     },
     {
-      "title": "Neither Bone Nor Stone: Why the US Constitution Was Meant to be Amended",
-      "desc": "“The people have an indubitable, unalienable, and indefeasible right to reform or change their government, whenever it be found adverse or inadequate to the purposes of its institution.” –James Madison, failed First Amendment to the US Constitution introduced…",
-      "source": "Lithub.com",
-      "url": "https://lithub.com/neither-bone-nor-stone-why-the-us-constitution-was-meant-to-be-amended/",
-      "time": "2026-09-10T09:08:08",
+      "title": "Jim O'Callaghan accused of 'leaning into tactics of the far right' with citizenship reforms",
+      "desc": "People Before Profit called on other opposition parties to “take a stand” against the policies.",
+      "source": "TheJournal.ie",
+      "url": "https://www.thejournal.ie/jim-ocallaghan-far-right-immigration-people-before-profit-7158370-Sep2026/",
+      "time": "2026-09-10T13:33:00",
       "country": "US",
-      "title_ur": "Neither Bone Nor Stone: Why the US Constitution Was Meant to be Amended",
-      "desc_ur": "“The people have an indubitable, unalienable, and indefeasible right to reform or change their government, whenever it be found adverse or inadequate to the purposes of its institution.” –James Madison, failed First Amendment to the US Constitution introduced…"
+      "title_ur": "جم O'Callaghan پر شہریت کی اصلاحات کے ساتھ 'دائیں بازو کے ہتھکنڈوں کی طرف جھکاؤ' کا الزام",
+      "desc_ur": "لوگوں سے پہلے منافع نے دیگر اپوزیشن جماعتوں سے پالیسیوں کے خلاف \"موقف اختیار کرنے\" کا مطالبہ کیا۔"
     },
     {
-      "title": "India launches online platform to connect exporters with US buyers",
-      "desc": "The move comes as India and the US continue negotiations on a trade deal, whose broad contours were agreed earlier this year",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/economy/news/india-launches-online-platform-to-connect-exporters-with-us-buyers-126091000653_1.html",
-      "time": "2026-09-10T09:07:48",
-      "country": "India",
-      "title_ur": "India launches online platform to connect exporters with US buyers",
-      "desc_ur": "The move comes as India and the US continue negotiations on a trade deal, whose broad contours were agreed earlier this year"
-    },
-    {
-      "title": "China’s car exports in first 8 months surpass 2025 total, as EV sales soar",
-      "desc": "Industry data show China’s passenger car exports surpassed last year’s total in the first eight months of this year",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/Business/wireStory/chinas-car-exports-8-months-surpass-2025-total-136328066",
-      "time": "2026-09-10T09:07:25",
+      "title": "Abu Dhabi's Mubadala takes stake in China’s Luckin coffee with $1B deal",
+      "desc": "Abu Dhabi sovereign wealth fund Mubadala has taken a stake in China’s Luckin Coffee as part of a $1 billion investment alongside private equity firm Centurium Capital. Mubadala has been one of the world’s most active sovereign wealth funds, a run that has con…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/af60e1425ad617bf",
+      "time": "2026-09-10T13:32:53",
       "country": "China",
-      "title_ur": "China’s car exports in first 8 months surpass 2025 total, as EV sales soar",
-      "desc_ur": "Industry data show China’s passenger car exports surpassed last year’s total in the first eight months of this year"
+      "title_ur": "ابوظہبی کے مبادلہ نے 1 بلین ڈالر کے معاہدے کے ساتھ چین کی لکن کافی میں حصہ لیا",
+      "desc_ur": "ابوظہبی کے خودمختار دولت فنڈ مبادلہ نے پرائیویٹ ایکویٹی فرم سنچوریم کیپٹل کے ساتھ $1 بلین کی سرمایہ کاری کے حصے کے طور پر چین کی لکن کافی میں حصہ لیا ہے۔ مبادلہ دنیا کے سب سے زیادہ فعال خودمختار دولت کے فنڈز میں سے ایک رہا ہے، ایک ایسا رن جس نے…"
     },
     {
-      "title": "Houthis, Yemeni forces engaged in fierce battles: Why each front matters",
-      "desc": "Forces loyal to the UN-recognised government and Houthis fight on multiple fronts in an effort to expand their control.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/9/10/houthis-yemeni-forces-engaged-in-fierce-battles-why-each-front-matters",
-      "time": "2026-09-10T09:05:39",
-      "country": "Yemen",
-      "title_ur": "Houthis, Yemeni forces engaged in fierce battles: Why each front matters",
-      "desc_ur": "Forces loyal to the UN-recognised government and Houthis fight on multiple fronts in an effort to expand their control."
+      "title": "ECB raises interest rates to 2.5% amid warning Iran war is fuelling inflation",
+      "desc": "Borrowing costs soar in Europe and oil tops $105 a barrel as bank flags mounting price pressures in eurozone\nBusiness live – latest updates\nThe European Central Bank has raised interest rates to 2.5% and warned that the risk of higher inflation over the next …",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/ca1642f0ea10c2c3",
+      "time": "2026-09-10T13:32:24",
+      "country": "Iran",
+      "title_ur": "ای سی بی نے سود کی شرح کو 2.5 فیصد تک بڑھا دیا، انتباہ کے درمیان کہ ایران جنگ مہنگائی کو ہوا دے رہی ہے",
+      "desc_ur": "یوروپ میں قرض لینے کی لاگت بڑھ گئی اور تیل 105 ڈالر فی بیرل سے اوپر ہے کیونکہ یورو زون میں قیمتوں کے دباؤ میں بینک کے جھنڈے\nبزنس لائیو - تازہ ترین اپ ڈیٹس\nیورپی مرکزی بینک نے شرح سود بڑھا کر 2.5 فیصد کر دی ہے اور خبردار کیا ہے کہ آئندہ مہنگائی میں اضافے کا خطرہ…"
+    },
+    {
+      "title": "IND vs BAN live streaming: How to watch today's Women's Asia Cup S/F match?",
+      "desc": "The live streaming of India vs Bangladesh Women's Asia Cup T20 semifinal match will be available on the SonyLIV app and website for Indian fans",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/cricket/news/ind-vs-ban-live-streaming-how-to-watch-today-s-women-s-asia-cup-s-f-match-126091000665_1.html",
+      "time": "2026-09-10T13:32:06",
+      "country": "India",
+      "title_ur": "IND بمقابلہ BAN لائیو سٹریمنگ: آج کا ویمنز ایشیا کپ S/F میچ کیسے دیکھیں؟",
+      "desc_ur": "ہندوستان بمقابلہ بنگلہ دیش ویمنز ایشیا کپ T20 سیمی فائنل میچ کی لائیو سٹریمنگ سونی ایل آئی وی ایپ اور ویب سائٹ پر ہندوستانی شائقین کے لیے دستیاب ہوگی۔"
+    },
+    {
+      "title": "Some Bribes, as a Treat",
+      "desc": "Plus: Data center backlash, Anthropic job-loss predictions, and more...",
+      "source": "Reason",
+      "url": "https://reason.com/2026/09/10/some-bribes-as-a-treat/",
+      "time": "2026-09-10T13:30:15",
+      "country": "US",
+      "title_ur": "کچھ رشوت، بطور علاج",
+      "desc_ur": "پلس: ڈیٹا سینٹر کا ردعمل، انتھروپک ملازمت میں کمی کی پیش گوئیاں، اور مزید..."
     }
   ],
   "pakistan": [
     {
-      "title": "Iran War: Pakistan and Turkiye Saber Rattle at Iran Over Ansar Allah Attacks on Saudis; Oil at $101 a Barrel Even as Flows Out of Persian Gulf Increase Despite Iran’s More Aggressive Footing",
-      "desc": "Today's Iran war news: Oil prices grind upward as Pakistan and Turkiye bare their teeth over Ansar Allah's attacks on the Saudis.",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/2026/09/iran-war-pakistan-and-turkiye-saber-rattle-at-iran-over-ansar-allah-attacks-on-saudis-oil-at-101-a-barrel-even-as-flows-out-of-persian-gulf-increase-despite-irans-more-aggressive-footing.html",
-      "time": "2026-09-10T09:15:49",
+      "title": "Pakistan U19 cricketers mistaken for asylum seekers by protesters in UK",
+      "desc": "The English cricket board confirms it is reviewing the team’s security for the remainder of the tour.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/sports/2026/9/10/pakistan-u19-cricketers-mistaken-for-asylum-seekers-by-protesters-in-uk",
+      "time": "2026-09-10T13:25:06",
       "country": "Pakistan",
-      "title_ur": "Iran War: Pakistan and Turkiye Saber Rattle at Iran Over Ansar Allah Attacks on Saudis; Oil at $101 a Barrel Even as Flows Out of Persian Gulf Increase Despite Iran’s More Aggressive Footing",
-      "desc_ur": "Today's Iran war news: Oil prices grind upward as Pakistan and Turkiye bare their teeth over Ansar Allah's attacks on the Saudis."
-    },
-    {
-      "title": "Women's Junior Asia Cup: India storms into semis with 19-0 win over Pakistan",
-      "desc": "India's junior women's hockey team secured a semi-final spot with a dominant 19-0 win. They overwhelmed Pakistan in their quarter-final match with relentless attacking play. India scored multiple goals across all four quarters to ensure their comprehensive vi…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/sports/hockey/womens-junior-asia-cup-india-storms-into-semis-with-19-0-win-over-pakistan/articleshow/134000862.cms",
-      "time": "2026-09-10T08:54:18",
-      "country": "Pakistan",
-      "title_ur": "Women's Junior Asia Cup: India storms into semis with 19-0 win over Pakistan",
-      "desc_ur": "India's junior women's hockey team secured a semi-final spot with a dominant 19-0 win. They overwhelmed Pakistan in their quarter-final match with relentless attacking play. India scored multiple goals across all four quarters to ensure their comprehensive vi…"
+      "title_ur": "برطانیہ میں مظاہرین نے پاکستان انڈر 19 کرکٹرز کو سیاسی پناہ کے متلاشی سمجھ لیا۔",
+      "desc_ur": "انگلش کرکٹ بورڈ نے تصدیق کی ہے کہ وہ دورے کے بقیہ حصے کے لیے ٹیم کی سیکیورٹی کا جائزہ لے رہا ہے۔"
     }
   ],
   "business": {
@@ -186,11 +176,11 @@
       {
         "date": "2026-09-11",
         "day": "جمعہ",
-        "high": 37,
+        "high": 36,
         "low": 28,
-        "condition": "Mainly Clear",
-        "condition_ur": "زیادہ تر صاف",
-        "precip": 14
+        "condition": "Clear",
+        "condition_ur": "صاف",
+        "precip": 8
       },
       {
         "date": "2026-09-12",
@@ -199,52 +189,52 @@
         "low": 27,
         "condition": "Light Drizzle",
         "condition_ur": "ہلکی بوندا باندی",
-        "precip": 51
+        "precip": 55
       },
       {
         "date": "2026-09-13",
         "day": "اتوار",
         "high": 36,
         "low": 27,
-        "condition": "Drizzle",
-        "condition_ur": "بوندا باندی",
-        "precip": 49
+        "condition": "Light Drizzle",
+        "condition_ur": "ہلکی بوندا باندی",
+        "precip": 39
       },
       {
         "date": "2026-09-14",
         "day": "پیر",
-        "high": 36,
+        "high": 35,
         "low": 27,
-        "condition": "Thunderstorm",
-        "condition_ur": "گرج چمک",
-        "precip": 55
+        "condition": "Light Drizzle",
+        "condition_ur": "ہلکی بوندا باندی",
+        "precip": 33
       },
       {
         "date": "2026-09-15",
         "day": "منگل",
         "high": 34,
-        "low": 25,
-        "condition": "Drizzle",
-        "condition_ur": "بوندا باندی",
+        "low": 27,
+        "condition": "Light Drizzle",
+        "condition_ur": "ہلکی بوندا باندی",
         "precip": 57
       },
       {
         "date": "2026-09-16",
         "day": "بدھ",
-        "high": 30,
-        "low": 23,
-        "condition": "Thunderstorm",
-        "condition_ur": "گرج چمک",
-        "precip": 51
+        "high": 31,
+        "low": 24,
+        "condition": "Showers",
+        "condition_ur": "بارش",
+        "precip": 62
       },
       {
         "date": "2026-09-17",
         "day": "جمعرات",
-        "high": 30,
+        "high": 31,
         "low": 23,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 41
+        "precip": 34
       }
     ]
   },
