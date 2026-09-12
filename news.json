@@ -1,177 +1,187 @@
 {
-  "generated": "2026-09-12T00:26:11Z",
+  "generated": "2026-09-12T04:50:23Z",
   "world": [
     {
-      "title": "Iran claims to have captured a US ‘sail drone’ near Hormuz Strait",
-      "desc": "Iran’s Revolutionary Guard says its navy struck a US-operated surface drone at the entrance of the Strait of Hormuz.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/iran-claims-to-have-captured-a-us-sail-drone-near-hormuz-strait",
-      "time": "2026-09-11T00:24:24",
-      "country": "Iran",
-      "title_ur": "Iran claims to have captured a US ‘sail drone’ near Hormuz Strait",
-      "desc_ur": "Iran’s Revolutionary Guard says its navy struck a US-operated surface drone at the entrance of the Strait of Hormuz."
-    },
-    {
-      "title": "Two arrested at socialist anti-Trump protest after assault at ‘closest entry point’ to GOP convention: police",
-      "desc": "A socialist protester blamed right-wing provocateurs after Dallas police in riot gear arrested two near the Republican National Committee convention.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/two-arrested-socialist-anti-trump-protest-assault-closest-entry-point-gop-convention-police",
-      "time": "2026-09-11T00:22:16",
+      "title": "Trump steps on Vance’s primetime moment and other takeaways from RNC convention’s second night",
+      "desc": "Vice President JD Vance offered Republicans a glimpse of what could be the party’s future on Thursday night, as he hammered home a midterm message with overt...",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/09/11/politics/takeaways-from-night-2-of-gop-midterm-convention",
+      "time": "2026-09-11T04:49:47",
       "country": "US",
-      "title_ur": "Two arrested at socialist anti-Trump protest after assault at ‘closest entry point’ to GOP convention: police",
-      "desc_ur": "A socialist protester blamed right-wing provocateurs after Dallas police in riot gear arrested two near the Republican National Committee convention."
+      "title_ur": "Trump steps on Vance’s primetime moment and other takeaways from RNC convention’s second night",
+      "desc_ur": "Vice President JD Vance offered Republicans a glimpse of what could be the party’s future on Thursday night, as he hammered home a midterm message with overt..."
     },
     {
-      "title": "Iran calls for diplomatic solution in Yemen",
-      "desc": "Iran's foreign ministry urged a diplomatic solution to the Yemen conflict, saying the country's residents have a \"right to live a dignified life, free from pressure, intimidation, and brutal siege,\" a...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/a3e5d2a381a47e44",
-      "time": "2026-09-11T00:21:19",
-      "country": "Iran",
-      "title_ur": "Iran calls for diplomatic solution in Yemen",
-      "desc_ur": "Iran's foreign ministry urged a diplomatic solution to the Yemen conflict, saying the country's residents have a \"right to live a dignified life, free from pressure, intimidation, and brutal siege,\" a..."
-    },
-    {
-      "title": "Yemen risks return to civil war as Iran-backed Houthis target vital oil shipping route",
-      "desc": "Yemen is moving closer to a return to civil war as Iran-backed rebels threaten a crucial shipping alternative to the Strait of Hormuz.",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/cc57124192bb81f3",
-      "time": "2026-09-11T00:21:09",
-      "country": "Iran",
-      "title_ur": "Yemen risks return to civil war as Iran-backed Houthis target vital oil shipping route",
-      "desc_ur": "Yemen is moving closer to a return to civil war as Iran-backed rebels threaten a crucial shipping alternative to the Strait of Hormuz."
-    },
-    {
-      "title": "Israeli film on Gaza receives 25-minute ovation at Venice premiere",
-      "desc": "Venice Film Festival honours NAZA, an expose on Israel's use of AI systems in Gaza.",
+      "title": "Anthropic claims Claude AI used for missile projects, global espionage",
+      "desc": "AI was used to develop missile guidance software in Yemen and to power cyber operations, a report alleges.",
       "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/9/11/israeli-film-on-gaza-receives-25-minute-ovation-at-venice-premiere",
-      "time": "2026-09-11T00:14:59",
-      "country": "Israel",
-      "title_ur": "Israeli film on Gaza receives 25-minute ovation at Venice premiere",
-      "desc_ur": "Venice Film Festival honours NAZA, an expose on Israel's use of AI systems in Gaza."
+      "url": "https://www.aljazeera.com/news/2026/9/11/anthropic-claims-claude-ai-used-for-missile-projects-global-espionage",
+      "time": "2026-09-11T04:48:25",
+      "country": "US",
+      "title_ur": "Anthropic claims Claude AI used for missile projects, global espionage",
+      "desc_ur": "AI was used to develop missile guidance software in Yemen and to power cyber operations, a report alleges."
     },
     {
-      "title": "Trump: I have no regrets over Iran war, I'd do it again",
-      "desc": "Trump says he would make the same decision to strike Iran's nuclear sites, warning Tehran will not be allowed to obtain a nuclear weapon.",
+      "title": "Meet Ryan: The 13-year-old who turns thousands of empty cans collected from homes and businesses into money for charities across the West Midlands",
+      "desc": "UK News: A 13-year-old boy has turned thousands of discarded drink cans into a regular source of funding for food banks and charities in the West Midlands. Rya.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/uk/meet-ryan-the-13-year-old-who-turns-thousands-of-empty-cans-collected-from-homes-and-businesses-into-money-for-charities-across-the-west-midlands/articleshow/134045796.cms",
+      "time": "2026-09-11T04:48:03",
+      "country": "UK",
+      "title_ur": "Meet Ryan: The 13-year-old who turns thousands of empty cans collected from homes and businesses into money for charities across the West Midlands",
+      "desc_ur": "UK News: A 13-year-old boy has turned thousands of discarded drink cans into a regular source of funding for food banks and charities in the West Midlands. Rya."
+    },
+    {
+      "title": "Iran is producing ballistic missiles again",
+      "desc": "Iran has resumed production of ballistic missiles, The Wall Street Journal reported Thursday, contradicting the Trump administration’s claims that Tehran’s military capabilities have been destroyed in the months-long conflict with the U.S. Iran has assembled …",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4395076/posts",
+      "time": "2026-09-11T04:44:41",
+      "country": "Iran",
+      "title_ur": "Iran is producing ballistic missiles again",
+      "desc_ur": "Iran has resumed production of ballistic missiles, The Wall Street Journal reported Thursday, contradicting the Trump administration’s claims that Tehran’s military capabilities have been destroyed in the months-long conflict with the U.S. Iran has assembled …"
+    },
+    {
+      "title": "George W Bush Claims Islam Is 'Religion of Peace' for 9/11 Anniversary — So Much for 'Never Forget'",
+      "desc": "W. provided us with a helpful reminder of how the warning signs for the biggest terrorist attack on American soil were missed. Because not only did Americans \"forget,\" New York City has an Islamist running the city. As if it were Bush's dutiful mission to pus…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4395075/posts",
+      "time": "2026-09-11T04:41:01",
+      "country": "US",
+      "title_ur": "George W Bush Claims Islam Is 'Religion of Peace' for 9/11 Anniversary — So Much for 'Never Forget'",
+      "desc_ur": "W. provided us with a helpful reminder of how the warning signs for the biggest terrorist attack on American soil were missed. Because not only did Americans \"forget,\" New York City has an Islamist running the city. As if it were Bush's dutiful mission to pus…"
+    },
+    {
+      "title": "Putin in India for BRICS summit overshadowed by war",
+      "desc": "Russian President Vladimir Putin was in India on Friday for talks ahead of an 11-member BRICS summit dominated by conflict and economic challenges, with the leaders of China and Iran set to attend.\nWars in the Middle East and Ukraine, as well as global trade …",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/bd3ddeb4bfd69631",
+      "time": "2026-09-11T04:37:56",
+      "country": "Iran",
+      "title_ur": "Putin in India for BRICS summit overshadowed by war",
+      "desc_ur": "Russian President Vladimir Putin was in India on Friday for talks ahead of an 11-member BRICS summit dominated by conflict and economic challenges, with the leaders of China and Iran set to attend.\nWars in the Middle East and Ukraine, as well as global trade …"
+    },
+    {
+      "title": "Costly war far from over even as US loosens Iran's grip on Strait of Hormuz",
+      "desc": "US has restricted Iran's oil exports and loosened its Strait of Hormuz control. This ongoing conflict, however, is nowhere near resolution and its costs are only rising. Iran's leaders have shown no signs of backing down and may even escalate military actions…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/costly-war-far-from-over-even-as-us-loosens-irans-grip-on-strait-of-hormuz/articleshow/134045453.cms",
+      "time": "2026-09-11T04:37:20",
+      "country": "Iran",
+      "title_ur": "Costly war far from over even as US loosens Iran's grip on Strait of Hormuz",
+      "desc_ur": "US has restricted Iran's oil exports and loosened its Strait of Hormuz control. This ongoing conflict, however, is nowhere near resolution and its costs are only rising. Iran's leaders have shown no signs of backing down and may even escalate military actions…"
+    },
+    {
+      "title": "US Market: Wall Street brokerages see S&P 500 extending rally in 2026 on AI, earnings",
+      "desc": "Wall Street brokerages remain bullish on the S&P 500 in 2026, with AI-driven earnings growth and resilient corporate profits expected to support equities despite inflation, energy supply risks and economic uncertainty stemming from the Iran conflict.",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-wall-street-brokerages-see-sp-500-extending-rally-in-2026-on-ai-earnings/articleshow/134045638.cms",
+      "time": "2026-09-11T04:36:28",
+      "country": "Iran",
+      "title_ur": "US Market: Wall Street brokerages see S&P 500 extending rally in 2026 on AI, earnings",
+      "desc_ur": "Wall Street brokerages remain bullish on the S&P 500 in 2026, with AI-driven earnings growth and resilient corporate profits expected to support equities despite inflation, energy supply risks and economic uncertainty stemming from the Iran conflict."
+    },
+    {
+      "title": "Pain at the pump: Global oil prices increase as US-Iran tensions escalate",
+      "desc": "Brent crude oil prices have surged more than 12% over the past five days.",
+      "source": "New Zealand Herald",
+      "url": "https://www.nzherald.co.nz/business/pain-at-the-pump-global-oil-prices-increase-as-us-iran-tensions-escalate/OC4M6YY44BFKLDCRMBZTR5H4OM/",
+      "time": "2026-09-11T04:36:24",
+      "country": "Iran",
+      "title_ur": "Pain at the pump: Global oil prices increase as US-Iran tensions escalate",
+      "desc_ur": "Brent crude oil prices have surged more than 12% over the past five days."
+    },
+    {
+      "title": "Trump's Weird Convention Just Tied Every GOP Candidate To His Sagging Popularity",
+      "desc": "Good luck in November!",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/trump-convention-ties-gop-to-his-unpopularity_n_6aa0253ee4b0186919a695e1",
+      "time": "2026-09-11T04:34:19",
+      "country": "US",
+      "title_ur": "Trump's Weird Convention Just Tied Every GOP Candidate To His Sagging Popularity",
+      "desc_ur": "Good luck in November!"
+    },
+    {
+      "title": "Report: Trump refused Saudi Crown Prince’s request to strike Houthis",
+      "desc": "Axios reports that Saudi Crown Prince Mohammed bin Salman urged Trump to strike the Houthis as they advanced toward the Red Sea chokepoint of Bab al-Mandab. Trump refused.",
       "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/433042",
-      "time": "2026-09-11T00:11:26",
-      "country": "Iran",
-      "title_ur": "Trump: I have no regrets over Iran war, I'd do it again",
-      "desc_ur": "Trump says he would make the same decision to strike Iran's nuclear sites, warning Tehran will not be allowed to obtain a nuclear weapon."
-    },
-    {
-      "title": "Oil output drops 5,000bpd in August amid recovery",
-      "desc": "Nigeria’s oil output fell by 5,000 barrels per day in August, the second straight monthly decline, according to OPEC’s latest report. Read more on the data\n\nRead More: https://punchng.com/oil-output-drops-5000bpd-in-august-amid-recovery/",
-      "source": "The Punch",
-      "url": "https://punchng.com/oil-output-drops-5000bpd-in-august-amid-recovery/",
-      "time": "2026-09-11T00:08:46",
+      "url": "https://www.israelnationalnews.com/news/433057",
+      "time": "2026-09-11T04:31:15",
       "country": "US",
-      "title_ur": "Oil output drops 5,000bpd in August amid recovery",
-      "desc_ur": "Nigeria’s oil output fell by 5,000 barrels per day in August, the second straight monthly decline, according to OPEC’s latest report. Read more on the data\n\nRead More: https://punchng.com/oil-output-drops-5000bpd-in-august-amid-recovery/"
+      "title_ur": "Report: Trump refused Saudi Crown Prince’s request to strike Houthis",
+      "desc_ur": "Axios reports that Saudi Crown Prince Mohammed bin Salman urged Trump to strike the Houthis as they advanced toward the Red Sea chokepoint of Bab al-Mandab. Trump refused."
     },
     {
-      "title": "How September 11 accelerated the end of American hegemony",
-      "desc": "Twenty-five years after 9/11, its deepest legacy lies in the wars, surveillance and strategic overreach that hastened the end of US hegemony Read Full Article at RT.com",
-      "source": "RT",
-      "url": "https://www.rt.com/news/645409-september-11-end-of-american-hegemony/",
-      "time": "2026-09-11T00:07:58",
+      "title": "Modi and Xi are set to meet at BRICS with trade and border issues in spotlight",
+      "desc": "A meeting with Prime Minister Narendra Modi would be the clearest test yet of the tentative post-2020 reset between Asia’s two largest economies.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/11/china-india-modi-xi-brics-meeting-agenda.html",
+      "time": "2026-09-11T04:29:20",
+      "country": "India",
+      "title_ur": "Modi and Xi are set to meet at BRICS with trade and border issues in spotlight",
+      "desc_ur": "A meeting with Prime Minister Narendra Modi would be the clearest test yet of the tentative post-2020 reset between Asia’s two largest economies."
+    },
+    {
+      "title": "Rupee falls 27 paise to 95.79 against US dollar in early trade",
+      "desc": "At the interbank forex market, the rupee opened at 95.70 against the US dollar but fell to 95.79, losing 27 paise from its previous close",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/forex/rupee-falls-27-paise-to-9579-against-us-dollar-in-early-trade/article71454699.ece",
+      "time": "2026-09-11T04:28:50",
       "country": "US",
-      "title_ur": "How September 11 accelerated the end of American hegemony",
-      "desc_ur": "Twenty-five years after 9/11, its deepest legacy lies in the wars, surveillance and strategic overreach that hastened the end of US hegemony Read Full Article at RT.com"
+      "title_ur": "Rupee falls 27 paise to 95.79 against US dollar in early trade",
+      "desc_ur": "At the interbank forex market, the rupee opened at 95.70 against the US dollar but fell to 95.79, losing 27 paise from its previous close"
     },
     {
-      "title": "Trump: Maybe I don't go fully into Iran because of election",
-      "desc": "United States President Donald Trump suggested during a Fox News interview that he isn't going fully into Iran because of the election.\"Maybe I don't do that because of the election,\" Trump said when ...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/13f0018091a4f9d1",
-      "time": "2026-09-11T00:06:12",
-      "country": "Iran",
-      "title_ur": "Trump: Maybe I don't go fully into Iran because of election",
-      "desc_ur": "United States President Donald Trump suggested during a Fox News interview that he isn't going fully into Iran because of the election.\"Maybe I don't do that because of the election,\" Trump said when ..."
-    },
-    {
-      "title": "Small potatoes? $5,000? Have you had enough?",
-      "desc": "$5,000? Americans have already spent that much each, thanks to his stupid tariffs and will spend more on higher gas prices long before the Iran war is over with.",
-      "source": "Ncspin.com",
-      "url": "https://www.ncspin.com/small-potatoes-5000-have-you-had-enough",
-      "time": "2026-09-11T00:06:00",
-      "country": "Iran",
-      "title_ur": "Small potatoes? $5,000? Have you had enough?",
-      "desc_ur": "$5,000? Americans have already spent that much each, thanks to his stupid tariffs and will spend more on higher gas prices long before the Iran war is over with."
-    },
-    {
-      "title": "Real History: After 9/11, the ‘War on Terror’ Was a War of Terror",
-      "desc": "Three days after terrorists killed almost 3,000 people in the United States on September 11, 2001, President George W. Bush stood behind a pulpit at the Washington National Cathedral and spoke to a nation in shock. “Our responsibility to history is already cl…",
-      "source": "Antiwar.com",
-      "url": "https://original.antiwar.com/solomon/2026/09/10/real-history-after-9-11-the-war-on-terror-was-a-war-of-terror/",
-      "time": "2026-09-11T00:00:25",
+      "title": "Algeria cuts diplomatic ties with UAE, citing 'provocative and hostile actions'",
+      "desc": "Algeria announces it is severing diplomatic ties with the UAE, accusing the Gulf state of provocative and hostile actions. Abu Dhabi hopes the split is temporary.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/433055",
+      "time": "2026-09-11T04:26:11",
       "country": "US",
-      "title_ur": "Real History: After 9/11, the ‘War on Terror’ Was a War of Terror",
-      "desc_ur": "Three days after terrorists killed almost 3,000 people in the United States on September 11, 2001, President George W. Bush stood behind a pulpit at the Washington National Cathedral and spoke to a nation in shock. “Our responsibility to history is already cl…"
+      "title_ur": "Algeria cuts diplomatic ties with UAE, citing 'provocative and hostile actions'",
+      "desc_ur": "Algeria announces it is severing diplomatic ties with the UAE, accusing the Gulf state of provocative and hostile actions. Abu Dhabi hopes the split is temporary."
     },
     {
-      "title": "9/11’s Aftereffect: The Constitutional Accountability Abyss",
-      "desc": "Over the last several weeks in the lead up to the 25th anniversary of al Qaeda’s attack on the U.S., I’ve had American and foreign journalists ask me the same question: how did 9/11 change America? My answer has generally been some version of this: 9/11 didn’…",
-      "source": "Antiwar.com",
-      "url": "https://original.antiwar.com/patrick_eddington/2026/09/10/9-11s-aftereffect-the-constitutional-accountability-abyss/",
-      "time": "2026-09-11T00:00:08",
-      "country": "US",
-      "title_ur": "9/11’s Aftereffect: The Constitutional Accountability Abyss",
-      "desc_ur": "Over the last several weeks in the lead up to the 25th anniversary of al Qaeda’s attack on the U.S., I’ve had American and foreign journalists ask me the same question: how did 9/11 change America? My answer has generally been some version of this: 9/11 didn’…"
-    },
-    {
-      "title": "America After 9/11: 25 Years of Fear, War, Surveillance, and Permanent Emergency",
-      "desc": "“I tell you, freedom and human rights in America are doomed. The U.S. government will lead the American people in  –  and the West in general  –  into an unbearable hell and a choking life.” – Osama bin Laden (October 2001) “GIVE THEM NIGHTMARES.” – President…",
-      "source": "Antiwar.com",
-      "url": "https://original.antiwar.com/jwhitehead/2026/09/10/america-after-9-11-25-years-of-fear-war-surveillance-and-permanent-emergency/",
-      "time": "2026-09-11T00:00:07",
-      "country": "US",
-      "title_ur": "America After 9/11: 25 Years of Fear, War, Surveillance, and Permanent Emergency",
-      "desc_ur": "“I tell you, freedom and human rights in America are doomed. The U.S. government will lead the American people in  –  and the West in general  –  into an unbearable hell and a choking life.” – Osama bin Laden (October 2001) “GIVE THEM NIGHTMARES.” – President…"
-    },
-    {
-      "title": "THE GALIEN FOUNDATION ANNOUNCES INAUGURAL PRIX GALIEN JAPAN FORUM & AWARDS CEREMONY",
-      "desc": "Prestigious Life Sciences Platform and Awards Launch in Tokyo to Celebrate Breakthrough Innovation TOKYO, Sept. 10, 2026 /PRNewswire/ -- The Galien Foundation, the premier global institution dedicated to honoring innovators in life sciences, today announced t…",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/the-galien-foundation-announces-inaugural-prix-galien-japan-forum--awards-ceremony-302873582.html",
-      "time": "2026-09-11T00:00:00",
-      "country": "US",
-      "title_ur": "THE GALIEN FOUNDATION ANNOUNCES INAUGURAL PRIX GALIEN JAPAN FORUM & AWARDS CEREMONY",
-      "desc_ur": "Prestigious Life Sciences Platform and Awards Launch in Tokyo to Celebrate Breakthrough Innovation TOKYO, Sept. 10, 2026 /PRNewswire/ -- The Galien Foundation, the premier global institution dedicated to honoring innovators in life sciences, today announced t…"
-    },
-    {
-      "title": "Human tau pathology is associated with lonely, nontraveling slow waves linked to memory impairment",
-      "desc": "Frontal cortical tau pathology in aging humans is associated with reduced slow-wave travel during sleep. This reduced propagation is associated with poorer overnight memory retention, supporting a link between slow-wave travel and age-related memory function.",
-      "source": "Nature.com",
-      "url": "https://www.nature.com/articles/s41593-026-02415-9",
-      "time": "2026-09-11T00:00:00",
-      "country": "International",
-      "title_ur": "Human tau pathology is associated with lonely, nontraveling slow waves linked to memory impairment",
-      "desc_ur": "Frontal cortical tau pathology in aging humans is associated with reduced slow-wave travel during sleep. This reduced propagation is associated with poorer overnight memory retention, supporting a link between slow-wave travel and age-related memory function."
+      "title": "Xi’s first India trip since 2019 offers olive branch to PM Modi",
+      "desc": "During the BRICS summit this weekend, Chinese President Xi Jinping will arrive in India, aiming to strengthen Sino-Indian ties. A meeting with Prime Minister Narendra Modi is anticipated, especially following the recent de-escalation of border tensions—an eff…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/india/xi-jinping-india-visit-2026-brics-summit-pm-narendra-modi-meeting-india-china-relations-border-dispute-trade/articleshow/134045045.cms",
+      "time": "2026-09-11T04:25:06",
+      "country": "India",
+      "title_ur": "Xi’s first India trip since 2019 offers olive branch to PM Modi",
+      "desc_ur": "During the BRICS summit this weekend, Chinese President Xi Jinping will arrive in India, aiming to strengthen Sino-Indian ties. A meeting with Prime Minister Narendra Modi is anticipated, especially following the recent de-escalation of border tensions—an eff…"
     }
   ],
   "pakistan": [
     {
-      "title": "India ramps up domestic LPG production as renewed US-Iran attacks spark fresh fears over Strait of Hormuz supplies",
-      "desc": "India is increasing domestic cooking gas production to address supply gaps. Local refiners aim to add over ten percent to current output levels. Imports through the Strait of Hormuz are now less reliable due to renewed attacks. Domestic consumption has also s…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/india-ramps-up-domestic-lpg-production-as-renewed-us-iran-attacks-spark-fresh-fears-over-strait-of-hormuz-supplies/articleshow/134027282.cms",
-      "time": "2026-09-11T00:00:00",
+      "title": "BRICS Summit 2026 Live: PM Modi-Putin to hold bilateral talks today afternoon",
+      "desc": "BRICS Summit 2026 LIVE Updates: Important atendees include Russian President Vladimir Putin, Chinese President Xi Jinping, Iranian President Masoud Pezeshkian, Egyptian President Abdel Fattah El-Sisi, Ethiopian Prime Minister Abiy Ahmed Ali, and Indonesian Pr…",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/brics-summit-2026-live-updates-new-delhi-september-11/article71454726.ece",
+      "time": "2026-09-11T04:49:15",
       "country": "Pakistan",
-      "title_ur": "India ramps up domestic LPG production as renewed US-Iran attacks spark fresh fears over Strait of Hormuz supplies",
-      "desc_ur": "India is increasing domestic cooking gas production to address supply gaps. Local refiners aim to add over ten percent to current output levels. Imports through the Strait of Hormuz are now less reliable due to renewed attacks. Domestic consumption has also s…"
+      "title_ur": "BRICS Summit 2026 Live: PM Modi-Putin to hold bilateral talks today afternoon",
+      "desc_ur": "BRICS Summit 2026 LIVE Updates: Important atendees include Russian President Vladimir Putin, Chinese President Xi Jinping, Iranian President Masoud Pezeshkian, Egyptian President Abdel Fattah El-Sisi, Ethiopian Prime Minister Abiy Ahmed Ali, and Indonesian Pr…"
     },
     {
-      "title": "Oil soars to $109, pushing up chances of US interest rate increase",
-      "desc": "Oil prices have surged, with benchmark Brent crude hitting $109.20 a barrel after the biggest rise in attacks on Gulf shipping since the US-Israel war on Iran began spurred trader concerns about further supply disruptions.\nBrent crude futures spiked to $109.2…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/d5a11b4abc1ecd60",
-      "time": "2026-09-10T23:37:41",
+      "title": "Brent crude remains above $108 a barrel on West Asia supply disruption concerns",
+      "desc": "Brent crude stays above $108 amid West Asia supply disruption fears and rising production concerns from Saudi Arabia and Iraq.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/commodities/brent-crude-remains-above-108-a-barrel-on-west-asia-supply-disruption-concerns/article71454694.ece",
+      "time": "2026-09-11T04:21:10",
       "country": "Pakistan",
-      "title_ur": "Oil soars to $109, pushing up chances of US interest rate increase",
-      "desc_ur": "Oil prices have surged, with benchmark Brent crude hitting $109.20 a barrel after the biggest rise in attacks on Gulf shipping since the US-Israel war on Iran began spurred trader concerns about further supply disruptions.\nBrent crude futures spiked to $109.2…"
+      "title_ur": "Brent crude remains above $108 a barrel on West Asia supply disruption concerns",
+      "desc_ur": "Brent crude stays above $108 amid West Asia supply disruption fears and rising production concerns from Saudi Arabia and Iraq."
+    },
+    {
+      "title": "The September 11 Memorial Needs a Counter-Monument: Victims of Our Post-9/11 Wars Deserve Remembrance, Too",
+      "desc": "Similarities between \"Reflecting Absence\" and an earlier German Holocaust \"Counter-Monument\"; prompt reflections on accepting responsibility",
+      "source": "Juancole.com",
+      "url": "https://www.juancole.com/2026/09/september-memorial-remembrance.html",
+      "time": "2026-09-11T04:15:29",
+      "country": "Pakistan",
+      "title_ur": "The September 11 Memorial Needs a Counter-Monument: Victims of Our Post-9/11 Wars Deserve Remembrance, Too",
+      "desc_ur": "Similarities between \"Reflecting Absence\" and an earlier German Holocaust \"Counter-Monument\"; prompt reflections on accepting responsibility"
     }
   ],
   "business": {
@@ -190,7 +200,7 @@
         "low": 27,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 47
+        "precip": 56
       },
       {
         "date": "2026-09-13",
@@ -199,7 +209,7 @@
         "low": 27,
         "condition": "Mainly Clear",
         "condition_ur": "زیادہ تر صاف",
-        "precip": 45
+        "precip": 53
       },
       {
         "date": "2026-09-14",
@@ -208,7 +218,7 @@
         "low": 27,
         "condition": "Light Drizzle",
         "condition_ur": "ہلکی بوندا باندی",
-        "precip": 43
+        "precip": 37
       },
       {
         "date": "2026-09-15",
@@ -217,7 +227,7 @@
         "low": 26,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 51
+        "precip": 63
       },
       {
         "date": "2026-09-16",
@@ -226,7 +236,7 @@
         "low": 22,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 44
+        "precip": 67
       },
       {
         "date": "2026-09-17",
@@ -235,7 +245,7 @@
         "low": 22,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 47
+        "precip": 55
       },
       {
         "date": "2026-09-18",
@@ -244,7 +254,7 @@
         "low": 24,
         "condition": "Light Drizzle",
         "condition_ur": "ہلکی بوندا باندی",
-        "precip": 25
+        "precip": 19
       }
     ]
   },
