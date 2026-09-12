@@ -1,187 +1,217 @@
 {
-  "generated": "2026-09-12T04:50:23Z",
+  "generated": "2026-09-12T08:58:20Z",
   "world": [
     {
-      "title": "Trump steps on Vance’s primetime moment and other takeaways from RNC convention’s second night",
-      "desc": "Vice President JD Vance offered Republicans a glimpse of what could be the party’s future on Thursday night, as he hammered home a midterm message with overt...",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/09/11/politics/takeaways-from-night-2-of-gop-midterm-convention",
-      "time": "2026-09-11T04:49:47",
-      "country": "US",
-      "title_ur": "Trump steps on Vance’s primetime moment and other takeaways from RNC convention’s second night",
-      "desc_ur": "Vice President JD Vance offered Republicans a glimpse of what could be the party’s future on Thursday night, as he hammered home a midterm message with overt..."
-    },
-    {
-      "title": "Anthropic claims Claude AI used for missile projects, global espionage",
-      "desc": "AI was used to develop missile guidance software in Yemen and to power cyber operations, a report alleges.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/9/11/anthropic-claims-claude-ai-used-for-missile-projects-global-espionage",
-      "time": "2026-09-11T04:48:25",
-      "country": "US",
-      "title_ur": "Anthropic claims Claude AI used for missile projects, global espionage",
-      "desc_ur": "AI was used to develop missile guidance software in Yemen and to power cyber operations, a report alleges."
-    },
-    {
-      "title": "Meet Ryan: The 13-year-old who turns thousands of empty cans collected from homes and businesses into money for charities across the West Midlands",
-      "desc": "UK News: A 13-year-old boy has turned thousands of discarded drink cans into a regular source of funding for food banks and charities in the West Midlands. Rya.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/uk/meet-ryan-the-13-year-old-who-turns-thousands-of-empty-cans-collected-from-homes-and-businesses-into-money-for-charities-across-the-west-midlands/articleshow/134045796.cms",
-      "time": "2026-09-11T04:48:03",
-      "country": "UK",
-      "title_ur": "Meet Ryan: The 13-year-old who turns thousands of empty cans collected from homes and businesses into money for charities across the West Midlands",
-      "desc_ur": "UK News: A 13-year-old boy has turned thousands of discarded drink cans into a regular source of funding for food banks and charities in the West Midlands. Rya."
-    },
-    {
-      "title": "Iran is producing ballistic missiles again",
-      "desc": "Iran has resumed production of ballistic missiles, The Wall Street Journal reported Thursday, contradicting the Trump administration’s claims that Tehran’s military capabilities have been destroyed in the months-long conflict with the U.S. Iran has assembled …",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4395076/posts",
-      "time": "2026-09-11T04:44:41",
-      "country": "Iran",
-      "title_ur": "Iran is producing ballistic missiles again",
-      "desc_ur": "Iran has resumed production of ballistic missiles, The Wall Street Journal reported Thursday, contradicting the Trump administration’s claims that Tehran’s military capabilities have been destroyed in the months-long conflict with the U.S. Iran has assembled …"
-    },
-    {
-      "title": "George W Bush Claims Islam Is 'Religion of Peace' for 9/11 Anniversary — So Much for 'Never Forget'",
-      "desc": "W. provided us with a helpful reminder of how the warning signs for the biggest terrorist attack on American soil were missed. Because not only did Americans \"forget,\" New York City has an Islamist running the city. As if it were Bush's dutiful mission to pus…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4395075/posts",
-      "time": "2026-09-11T04:41:01",
-      "country": "US",
-      "title_ur": "George W Bush Claims Islam Is 'Religion of Peace' for 9/11 Anniversary — So Much for 'Never Forget'",
-      "desc_ur": "W. provided us with a helpful reminder of how the warning signs for the biggest terrorist attack on American soil were missed. Because not only did Americans \"forget,\" New York City has an Islamist running the city. As if it were Bush's dutiful mission to pus…"
-    },
-    {
-      "title": "Putin in India for BRICS summit overshadowed by war",
-      "desc": "Russian President Vladimir Putin was in India on Friday for talks ahead of an 11-member BRICS summit dominated by conflict and economic challenges, with the leaders of China and Iran set to attend.\nWars in the Middle East and Ukraine, as well as global trade …",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/bd3ddeb4bfd69631",
-      "time": "2026-09-11T04:37:56",
-      "country": "Iran",
-      "title_ur": "Putin in India for BRICS summit overshadowed by war",
-      "desc_ur": "Russian President Vladimir Putin was in India on Friday for talks ahead of an 11-member BRICS summit dominated by conflict and economic challenges, with the leaders of China and Iran set to attend.\nWars in the Middle East and Ukraine, as well as global trade …"
-    },
-    {
-      "title": "Costly war far from over even as US loosens Iran's grip on Strait of Hormuz",
-      "desc": "US has restricted Iran's oil exports and loosened its Strait of Hormuz control. This ongoing conflict, however, is nowhere near resolution and its costs are only rising. Iran's leaders have shown no signs of backing down and may even escalate military actions…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/defence/costly-war-far-from-over-even-as-us-loosens-irans-grip-on-strait-of-hormuz/articleshow/134045453.cms",
-      "time": "2026-09-11T04:37:20",
-      "country": "Iran",
-      "title_ur": "Costly war far from over even as US loosens Iran's grip on Strait of Hormuz",
-      "desc_ur": "US has restricted Iran's oil exports and loosened its Strait of Hormuz control. This ongoing conflict, however, is nowhere near resolution and its costs are only rising. Iran's leaders have shown no signs of backing down and may even escalate military actions…"
-    },
-    {
-      "title": "US Market: Wall Street brokerages see S&P 500 extending rally in 2026 on AI, earnings",
-      "desc": "Wall Street brokerages remain bullish on the S&P 500 in 2026, with AI-driven earnings growth and resilient corporate profits expected to support equities despite inflation, energy supply risks and economic uncertainty stemming from the Iran conflict.",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-wall-street-brokerages-see-sp-500-extending-rally-in-2026-on-ai-earnings/articleshow/134045638.cms",
-      "time": "2026-09-11T04:36:28",
-      "country": "Iran",
-      "title_ur": "US Market: Wall Street brokerages see S&P 500 extending rally in 2026 on AI, earnings",
-      "desc_ur": "Wall Street brokerages remain bullish on the S&P 500 in 2026, with AI-driven earnings growth and resilient corporate profits expected to support equities despite inflation, energy supply risks and economic uncertainty stemming from the Iran conflict."
-    },
-    {
-      "title": "Pain at the pump: Global oil prices increase as US-Iran tensions escalate",
-      "desc": "Brent crude oil prices have surged more than 12% over the past five days.",
-      "source": "New Zealand Herald",
-      "url": "https://www.nzherald.co.nz/business/pain-at-the-pump-global-oil-prices-increase-as-us-iran-tensions-escalate/OC4M6YY44BFKLDCRMBZTR5H4OM/",
-      "time": "2026-09-11T04:36:24",
-      "country": "Iran",
-      "title_ur": "Pain at the pump: Global oil prices increase as US-Iran tensions escalate",
-      "desc_ur": "Brent crude oil prices have surged more than 12% over the past five days."
-    },
-    {
-      "title": "Trump's Weird Convention Just Tied Every GOP Candidate To His Sagging Popularity",
-      "desc": "Good luck in November!",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/trump-convention-ties-gop-to-his-unpopularity_n_6aa0253ee4b0186919a695e1",
-      "time": "2026-09-11T04:34:19",
-      "country": "US",
-      "title_ur": "Trump's Weird Convention Just Tied Every GOP Candidate To His Sagging Popularity",
-      "desc_ur": "Good luck in November!"
-    },
-    {
-      "title": "Report: Trump refused Saudi Crown Prince’s request to strike Houthis",
-      "desc": "Axios reports that Saudi Crown Prince Mohammed bin Salman urged Trump to strike the Houthis as they advanced toward the Red Sea chokepoint of Bab al-Mandab. Trump refused.",
+      "title": "Anti-Israel film outrage: Gotliv: Who needs enemies when we have people like this at home?",
+      "desc": "MK Gotliv criticized the silence of Israel’s political and military leadership in the face of a film by Israeli filmmakers that presents a narrative claiming Israel deliberately harmed Gazans.",
       "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/433057",
-      "time": "2026-09-11T04:31:15",
+      "url": "https://www.israelnationalnews.com/news/433065",
+      "time": "2026-09-11T08:53:18",
+      "country": "Israel",
+      "title_ur": "Anti-Israel film outrage: Gotliv: Who needs enemies when we have people like this at home?",
+      "desc_ur": "MK Gotliv criticized the silence of Israel’s political and military leadership in the face of a film by Israeli filmmakers that presents a narrative claiming Israel deliberately harmed Gazans."
+    },
+    {
+      "title": "Supreme Court asks Centre to rethink NEET-SS cut-off as 2,000+ super speciality seats remain vacant",
+      "desc": "The Supreme Court has asked the Centre to reconsider its decision against lowering the qualifying percentile for NEET-SS 2025 super speciality admissions, citing a large number of vacant seats. Petitioners said more than 2,000 seats could remain unfilled. The…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/education/news/supreme-court-asks-centre-to-rethink-neet-ss-cut-off-as-2000-super-speciality-seats-remain-vacant/articleshow/134055349.cms",
+      "time": "2026-09-11T08:50:52",
+      "country": "International",
+      "title_ur": "Supreme Court asks Centre to rethink NEET-SS cut-off as 2,000+ super speciality seats remain vacant",
+      "desc_ur": "The Supreme Court has asked the Centre to reconsider its decision against lowering the qualifying percentile for NEET-SS 2025 super speciality admissions, citing a large number of vacant seats. Petitioners said more than 2,000 seats could remain unfilled. The…"
+    },
+    {
+      "title": "Iran, Saudi Arabia discuss regional 'insecurity' as Yemen fighting flares",
+      "desc": "TEHRAN: The top diplomats of Iran and Saudi Arabia spoke by phone to discuss \"growing insecurity\" in the region, Tehran said, without mentioning recent fighting in Yemen, where the two countries support",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/world/iran-saudi-arabia-discuss-regional-insecurity-yemen-fighting-flares-6378386",
+      "time": "2026-09-11T08:48:41",
+      "country": "Iran",
+      "title_ur": "Iran, Saudi Arabia discuss regional 'insecurity' as Yemen fighting flares",
+      "desc_ur": "TEHRAN: The top diplomats of Iran and Saudi Arabia spoke by phone to discuss \"growing insecurity\" in the region, Tehran said, without mentioning recent fighting in Yemen, where the two countries support"
+    },
+    {
+      "title": "Global Market: Eurozone bonds slide as energy prices stoke inflation fears",
+      "desc": "Eurozone government bonds are facing their sharpest weekly selloff since the Iran war began as surging energy prices fuel inflation concerns and boost expectations of further rate hikes. German, French and Italian yields have climbed, putting global debt mark…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-eurozone-bonds-slide-as-energy-prices-stoke-inflation-fears/articleshow/134055842.cms",
+      "time": "2026-09-11T08:45:04",
+      "country": "Iran",
+      "title_ur": "Global Market: Eurozone bonds slide as energy prices stoke inflation fears",
+      "desc_ur": "Eurozone government bonds are facing their sharpest weekly selloff since the Iran war began as surging energy prices fuel inflation concerns and boost expectations of further rate hikes. German, French and Italian yields have climbed, putting global debt mark…"
+    },
+    {
+      "title": "BofA Strategists Warn of Stock Volatility as Outflows Hit US",
+      "desc": "Outflows from US stocks are setting the stage for higher volatility as markets and policy makers remain complacent about rising Treasury yields, according to...",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bofa-strategists-warn-stock-volatility-084500523.html",
+      "time": "2026-09-11T08:45:00",
       "country": "US",
-      "title_ur": "Report: Trump refused Saudi Crown Prince’s request to strike Houthis",
-      "desc_ur": "Axios reports that Saudi Crown Prince Mohammed bin Salman urged Trump to strike the Houthis as they advanced toward the Red Sea chokepoint of Bab al-Mandab. Trump refused."
+      "title_ur": "BofA Strategists Warn of Stock Volatility as Outflows Hit US",
+      "desc_ur": "Outflows from US stocks are setting the stage for higher volatility as markets and policy makers remain complacent about rising Treasury yields, according to..."
     },
     {
-      "title": "Modi and Xi are set to meet at BRICS with trade and border issues in spotlight",
-      "desc": "A meeting with Prime Minister Narendra Modi would be the clearest test yet of the tentative post-2020 reset between Asia’s two largest economies.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/11/china-india-modi-xi-brics-meeting-agenda.html",
-      "time": "2026-09-11T04:29:20",
-      "country": "India",
-      "title_ur": "Modi and Xi are set to meet at BRICS with trade and border issues in spotlight",
-      "desc_ur": "A meeting with Prime Minister Narendra Modi would be the clearest test yet of the tentative post-2020 reset between Asia’s two largest economies."
+      "title": "Asia’s Economic Integration: A Roadmap for Peacebuilding in the Middle East",
+      "desc": "Economic cooperation in the Asia-Pacific has been the key driver of peace since 1952.",
+      "source": "The Diplomat",
+      "url": "https://thediplomat.com/2026/09/asias-economic-integration-a-roadmap-for-peacebuilding-in-the-middle-east/",
+      "time": "2026-09-11T08:43:00",
+      "country": "International",
+      "title_ur": "Asia’s Economic Integration: A Roadmap for Peacebuilding in the Middle East",
+      "desc_ur": "Economic cooperation in the Asia-Pacific has been the key driver of peace since 1952."
     },
     {
-      "title": "Rupee falls 27 paise to 95.79 against US dollar in early trade",
-      "desc": "At the interbank forex market, the rupee opened at 95.70 against the US dollar but fell to 95.79, losing 27 paise from its previous close",
+      "title": "Confident BRICS Summit will see positive talks on various issues: PM Modi",
+      "desc": "Russian President Vladimir Putin, Chinese President Xi Jinping and Iran President Masoud Pezeshkian are among those attending the summit",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/forex/rupee-falls-27-paise-to-9579-against-us-dollar-in-early-trade/article71454699.ece",
-      "time": "2026-09-11T04:28:50",
-      "country": "US",
-      "title_ur": "Rupee falls 27 paise to 95.79 against US dollar in early trade",
-      "desc_ur": "At the interbank forex market, the rupee opened at 95.70 against the US dollar but fell to 95.79, losing 27 paise from its previous close"
+      "url": "https://www.thehindubusinessline.com/economy/confident-brics-summit-will-see-positive-talks-on-various-issues-pm-modi/article71455172.ece",
+      "time": "2026-09-11T08:42:47",
+      "country": "Iran",
+      "title_ur": "Confident BRICS Summit will see positive talks on various issues: PM Modi",
+      "desc_ur": "Russian President Vladimir Putin, Chinese President Xi Jinping and Iran President Masoud Pezeshkian are among those attending the summit"
     },
     {
-      "title": "Algeria cuts diplomatic ties with UAE, citing 'provocative and hostile actions'",
-      "desc": "Algeria announces it is severing diplomatic ties with the UAE, accusing the Gulf state of provocative and hostile actions. Abu Dhabi hopes the split is temporary.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/433055",
-      "time": "2026-09-11T04:26:11",
+      "title": "ICYMI: Batters' struggle for runs throws spotlight on 2026 Asia Cup",
+      "desc": "The Women’s Asia Cup has already given us plenty to talk about, but there seems to be one ongoing trend that’s been hard to miss: the batters’ struggle for runs. Cricket News' Arya Shah explains...",
+      "source": "Cricketnews.com",
+      "url": "https://www.cricketnews.com/en/cricket/cricket-features/asia-cup-2026-batters-runs-spotllight/2b11993e253bd1d433e5a6bc",
+      "time": "2026-09-11T08:41:17",
       "country": "US",
-      "title_ur": "Algeria cuts diplomatic ties with UAE, citing 'provocative and hostile actions'",
-      "desc_ur": "Algeria announces it is severing diplomatic ties with the UAE, accusing the Gulf state of provocative and hostile actions. Abu Dhabi hopes the split is temporary."
+      "title_ur": "ICYMI: Batters' struggle for runs throws spotlight on 2026 Asia Cup",
+      "desc_ur": "The Women’s Asia Cup has already given us plenty to talk about, but there seems to be one ongoing trend that’s been hard to miss: the batters’ struggle for runs. Cricket News' Arya Shah explains..."
     },
     {
-      "title": "Xi’s first India trip since 2019 offers olive branch to PM Modi",
-      "desc": "During the BRICS summit this weekend, Chinese President Xi Jinping will arrive in India, aiming to strengthen Sino-Indian ties. A meeting with Prime Minister Narendra Modi is anticipated, especially following the recent de-escalation of border tensions—an eff…",
+      "title": "At 100-day mark, Siddaramaiah tells DKS govt ‘you’re on the right track’",
+      "desc": "The Karnataka government marked its first 100 days with new initiatives and program launches. Senior leader Siddaramaiah urged continued focus on poll promises and drought relief efforts. The government aims for a $1 trillion economy and reduced poverty level…",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/india/xi-jinping-india-visit-2026-brics-summit-pm-narendra-modi-meeting-india-china-relations-border-dispute-trade/articleshow/134045045.cms",
-      "time": "2026-09-11T04:25:06",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/at-100-day-mark-siddaramaiah-tells-dks-govt-youre-on-the-right-track/articleshow/134054973.cms",
+      "time": "2026-09-11T08:40:53",
+      "country": "US",
+      "title_ur": "At 100-day mark, Siddaramaiah tells DKS govt ‘you’re on the right track’",
+      "desc_ur": "The Karnataka government marked its first 100 days with new initiatives and program launches. Senior leader Siddaramaiah urged continued focus on poll promises and drought relief efforts. The government aims for a $1 trillion economy and reduced poverty level…"
+    },
+    {
+      "title": "Square, saw & join: Woodworking becomes a weekend hobby",
+      "desc": "Woodworking workshops are gaining immense traction throughout India as individuals embrace the joy of creating rather than merely consuming. These engaging sessions provide a necessary tech detox, allowing participants to explore crafting techniques like join…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/square-saw-join-woodworking-becomes-a-weekend-hobby/articleshow/134054588.cms",
+      "time": "2026-09-11T08:39:50",
       "country": "India",
-      "title_ur": "Xi’s first India trip since 2019 offers olive branch to PM Modi",
-      "desc_ur": "During the BRICS summit this weekend, Chinese President Xi Jinping will arrive in India, aiming to strengthen Sino-Indian ties. A meeting with Prime Minister Narendra Modi is anticipated, especially following the recent de-escalation of border tensions—an eff…"
+      "title_ur": "Square, saw & join: Woodworking becomes a weekend hobby",
+      "desc_ur": "Woodworking workshops are gaining immense traction throughout India as individuals embrace the joy of creating rather than merely consuming. These engaging sessions provide a necessary tech detox, allowing participants to explore crafting techniques like join…"
+    },
+    {
+      "title": "Houthis seize key Yemeni port city as Iran pushes for new foothold on Red Sea coast",
+      "desc": "The Iran-backed Houthi militant group has seized control of Yemen's port city of Mokha on the Red Sea coast, bringing Tehran closer to securing another point of leverage in its six-month-long conflict with the U.S.\nThe Houthis' capture of Mokha is regarded as…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/9522150c16f8ed9c",
+      "time": "2026-09-11T08:37:21",
+      "country": "Iran",
+      "title_ur": "Houthis seize key Yemeni port city as Iran pushes for new foothold on Red Sea coast",
+      "desc_ur": "The Iran-backed Houthi militant group has seized control of Yemen's port city of Mokha on the Red Sea coast, bringing Tehran closer to securing another point of leverage in its six-month-long conflict with the U.S.\nThe Houthis' capture of Mokha is regarded as…"
+    },
+    {
+      "title": "Tamil scholar Solomon Pappaiah dies at 90 in Madurai",
+      "desc": "Renowned Tamil scholar Solomon Pappaiah passed away at ninety years old. He was a celebrated pattimandram moderator and former Tamil professor. Pappaiah received the Padma Shri award in 2021 for his contributions. He was also recognized as a writer, poet, and…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/madurai/tamil-scholar-solomon-pappaiah-dies-at-90-in-madurai/articleshow/134055331.cms",
+      "time": "2026-09-11T08:37:01",
+      "country": "International",
+      "title_ur": "Tamil scholar Solomon Pappaiah dies at 90 in Madurai",
+      "desc_ur": "Renowned Tamil scholar Solomon Pappaiah passed away at ninety years old. He was a celebrated pattimandram moderator and former Tamil professor. Pappaiah received the Padma Shri award in 2021 for his contributions. He was also recognized as a writer, poet, and…"
+    },
+    {
+      "title": "San Francisco rent emergency: One-bedroom rents cross $5,000 as housing crisis deepens",
+      "desc": "Amid soaring rents, San Francisco's mayor has proclaimed a rent emergency to shield tenants from displacement. The city's intervention includes strategies to restrict exorbitant rent increases and prevent evictions, particularly as rents for one-bedroom units…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/real-estate/news/san-francisco-rent-emergency-one-bedroom-rents-cross-5000-as-housing-crisis-deepens/articleshow/134055199.cms",
+      "time": "2026-09-11T08:35:29",
+      "country": "US",
+      "title_ur": "San Francisco rent emergency: One-bedroom rents cross $5,000 as housing crisis deepens",
+      "desc_ur": "Amid soaring rents, San Francisco's mayor has proclaimed a rent emergency to shield tenants from displacement. The city's intervention includes strategies to restrict exorbitant rent increases and prevent evictions, particularly as rents for one-bedroom units…"
+    },
+    {
+      "title": "War and Climate",
+      "desc": "The closure of the Strait of Hormuz showed how quickly a regional conflict can throw global energy markets into chaos. By pushing governments toward coal and biofuels, the war could accelerate deforestation and undermine climate negotiations, with environment…",
+      "source": "Project Syndicate",
+      "url": "https://www.project-syndicate.org/onpoint/iran-war-fossil-fuel-scramble-could-leave-long-lasting-environmental-damage-by-robert-muggah-et-al-2026-09",
+      "time": "2026-09-11T08:35:04",
+      "country": "US",
+      "title_ur": "War and Climate",
+      "desc_ur": "The closure of the Strait of Hormuz showed how quickly a regional conflict can throw global energy markets into chaos. By pushing governments toward coal and biofuels, the war could accelerate deforestation and undermine climate negotiations, with environment…"
+    },
+    {
+      "title": "Elevated oil prices are the new normal; $120/bbl possible, say analysts",
+      "desc": "For the first time since the US-Iran war started in February 2026, S&P Global Energy does not project West Asian crude oil production to return to prewar levels by the end of 2027",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/markets/news/elevated-oil-prices-are-the-new-normal-120-bbl-possible-say-analysts-126091100598_1.html",
+      "time": "2026-09-11T08:34:04",
+      "country": "Iran",
+      "title_ur": "Elevated oil prices are the new normal; $120/bbl possible, say analysts",
+      "desc_ur": "For the first time since the US-Iran war started in February 2026, S&P Global Energy does not project West Asian crude oil production to return to prewar levels by the end of 2027"
     }
   ],
   "pakistan": [
     {
-      "title": "BRICS Summit 2026 Live: PM Modi-Putin to hold bilateral talks today afternoon",
-      "desc": "BRICS Summit 2026 LIVE Updates: Important atendees include Russian President Vladimir Putin, Chinese President Xi Jinping, Iranian President Masoud Pezeshkian, Egyptian President Abdel Fattah El-Sisi, Ethiopian Prime Minister Abiy Ahmed Ali, and Indonesian Pr…",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/brics-summit-2026-live-updates-new-delhi-september-11/article71454726.ece",
-      "time": "2026-09-11T04:49:15",
+      "title": "Oil Set To End Week Above $100 For First Time Since Mid-May As U.S. Diesel Hits Record High",
+      "desc": "Attacks along key Middle East shipping routes stoked prolonged supply disruption fears.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/oil-diesel-prices_n_6aa3c001e4b0ed72dee4fba5",
+      "time": "2026-09-11T08:54:43",
       "country": "Pakistan",
-      "title_ur": "BRICS Summit 2026 Live: PM Modi-Putin to hold bilateral talks today afternoon",
-      "desc_ur": "BRICS Summit 2026 LIVE Updates: Important atendees include Russian President Vladimir Putin, Chinese President Xi Jinping, Iranian President Masoud Pezeshkian, Egyptian President Abdel Fattah El-Sisi, Ethiopian Prime Minister Abiy Ahmed Ali, and Indonesian Pr…"
+      "title_ur": "Oil Set To End Week Above $100 For First Time Since Mid-May As U.S. Diesel Hits Record High",
+      "desc_ur": "Attacks along key Middle East shipping routes stoked prolonged supply disruption fears."
     },
     {
-      "title": "Brent crude remains above $108 a barrel on West Asia supply disruption concerns",
-      "desc": "Brent crude stays above $108 amid West Asia supply disruption fears and rising production concerns from Saudi Arabia and Iraq.",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/commodities/brent-crude-remains-above-108-a-barrel-on-west-asia-supply-disruption-concerns/article71454694.ece",
-      "time": "2026-09-11T04:21:10",
+      "title": "'Show video, photos': Kanpur engineer back from Moscow, wife contests drunken misconduct allegations",
+      "desc": "Indian engineer Chandan Gupta returned to Kanpur with his family after his detention in Moscow. His wife released a video contesting allegations of drunken misconduct against him. She denied claims of alcohol consumption and vandalism, challenging for evidenc…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/kanpur/show-video-photos-kanpur-engineer-back-from-moscow-wife-contests-drunken-misconduct-allegations/articleshow/134055257.cms",
+      "time": "2026-09-11T08:40:04",
       "country": "Pakistan",
-      "title_ur": "Brent crude remains above $108 a barrel on West Asia supply disruption concerns",
-      "desc_ur": "Brent crude stays above $108 amid West Asia supply disruption fears and rising production concerns from Saudi Arabia and Iraq."
+      "title_ur": "'Show video, photos': Kanpur engineer back from Moscow, wife contests drunken misconduct allegations",
+      "desc_ur": "Indian engineer Chandan Gupta returned to Kanpur with his family after his detention in Moscow. His wife released a video contesting allegations of drunken misconduct against him. She denied claims of alcohol consumption and vandalism, challenging for evidenc…"
     },
     {
-      "title": "The September 11 Memorial Needs a Counter-Monument: Victims of Our Post-9/11 Wars Deserve Remembrance, Too",
-      "desc": "Similarities between \"Reflecting Absence\" and an earlier German Holocaust \"Counter-Monument\"; prompt reflections on accepting responsibility",
-      "source": "Juancole.com",
-      "url": "https://www.juancole.com/2026/09/september-memorial-remembrance.html",
-      "time": "2026-09-11T04:15:29",
+      "title": "'There’s a lot of quality in Pakistan': Team coach defends players despite horror run in England",
+      "desc": "Michael Smith, the batting coach for Pakistan, emphasizes that young talent requires time and opportunities to flourish. As the team undergoes a transformative period on this tour, he highlights the encouraging developments seen in players such as Saud Shakee…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/theres-a-lot-of-quality-in-pakistan-team-coach-defends-players-despite-horror-run-in-england/articleshow/134055090.cms",
+      "time": "2026-09-11T08:33:32",
       "country": "Pakistan",
-      "title_ur": "The September 11 Memorial Needs a Counter-Monument: Victims of Our Post-9/11 Wars Deserve Remembrance, Too",
-      "desc_ur": "Similarities between \"Reflecting Absence\" and an earlier German Holocaust \"Counter-Monument\"; prompt reflections on accepting responsibility"
+      "title_ur": "'There’s a lot of quality in Pakistan': Team coach defends players despite horror run in England",
+      "desc_ur": "Michael Smith, the batting coach for Pakistan, emphasizes that young talent requires time and opportunities to flourish. As the team undergoes a transformative period on this tour, he highlights the encouraging developments seen in players such as Saud Shakee…"
+    },
+    {
+      "title": "Bombshell Leak Reveals Vance Kept Trump’s Ugly War Reality Under Wraps - The Daily Beast",
+      "desc": "Bombshell Leak Reveals Vance Kept Trump’s Ugly War Reality Under WrapsThe Daily Beast Behind the Scenes, Vance Gathered Unvarnished Views of the Iran WarThe New York Times Skeptical Vance reportedly sought direct intel from US generals on state of Iran warThe…",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185600336",
+      "time": "2026-09-11T08:32:04",
+      "country": "Pakistan",
+      "title_ur": "Bombshell Leak Reveals Vance Kept Trump’s Ugly War Reality Under Wraps - The Daily Beast",
+      "desc_ur": "Bombshell Leak Reveals Vance Kept Trump’s Ugly War Reality Under WrapsThe Daily Beast Behind the Scenes, Vance Gathered Unvarnished Views of the Iran WarThe New York Times Skeptical Vance reportedly sought direct intel from US generals on state of Iran warThe…"
+    },
+    {
+      "title": "U.S.-Iran Escalation to Delay Oil Flow Recovery Into Next Year, IEA Says",
+      "desc": "The energy watchdog further cut its outlook for global oil demand, now expecting consumption to fall by 2.5 million barrels a day in 2026 compared with its previous forecast.",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/766922c977406a6c",
+      "time": "2026-09-11T08:22:15",
+      "country": "Pakistan",
+      "title_ur": "U.S.-Iran Escalation to Delay Oil Flow Recovery Into Next Year, IEA Says",
+      "desc_ur": "The energy watchdog further cut its outlook for global oil demand, now expecting consumption to fall by 2.5 million barrels a day in 2026 compared with its previous forecast."
+    },
+    {
+      "title": "Iran seeks end to Saudi blockade of Yemen after Houthi rebels take key port",
+      "desc": "Iran's government on Friday called for an end to Saudi Arabia's blockade of Yemen and the immediate resumption of talks, in its first public statement since Iran-backed Houthi rebels entered a key Yemeni port and intensified their threat to a key global shipp…",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/iran-seeks-end-to-saudi-blockade-of-yemen-after-houthi-rebels-take-key-port-126091100540_1.html",
+      "time": "2026-09-11T08:12:09",
+      "country": "Pakistan",
+      "title_ur": "Iran seeks end to Saudi blockade of Yemen after Houthi rebels take key port",
+      "desc_ur": "Iran's government on Friday called for an end to Saudi Arabia's blockade of Yemen and the immediate resumption of talks, in its first public statement since Iran-backed Houthi rebels entered a key Yemeni port and intensified their threat to a key global shipp…"
     }
   ],
   "business": {
@@ -206,25 +236,25 @@
         "date": "2026-09-13",
         "day": "اتوار",
         "high": 36,
-        "low": 27,
-        "condition": "Mainly Clear",
-        "condition_ur": "زیادہ تر صاف",
+        "low": 28,
+        "condition": "Light Drizzle",
+        "condition_ur": "ہلکی بوندا باندی",
         "precip": 53
       },
       {
         "date": "2026-09-14",
         "day": "پیر",
         "high": 35,
-        "low": 27,
-        "condition": "Light Drizzle",
-        "condition_ur": "ہلکی بوندا باندی",
+        "low": 26,
+        "condition": "Thunderstorm",
+        "condition_ur": "گرج چمک",
         "precip": 37
       },
       {
         "date": "2026-09-15",
         "day": "منگل",
         "high": 34,
-        "low": 26,
+        "low": 25,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
         "precip": 63
@@ -232,8 +262,8 @@
       {
         "date": "2026-09-16",
         "day": "بدھ",
-        "high": 31,
-        "low": 22,
+        "high": 32,
+        "low": 25,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
         "precip": 67
@@ -241,8 +271,8 @@
       {
         "date": "2026-09-17",
         "day": "جمعرات",
-        "high": 31,
-        "low": 22,
+        "high": 30,
+        "low": 25,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
         "precip": 55
@@ -250,10 +280,10 @@
       {
         "date": "2026-09-18",
         "day": "جمعہ",
-        "high": 32,
-        "low": 24,
-        "condition": "Light Drizzle",
-        "condition_ur": "ہلکی بوندا باندی",
+        "high": 30,
+        "low": 22,
+        "condition": "Showers",
+        "condition_ur": "بارش",
         "precip": 19
       }
     ]
