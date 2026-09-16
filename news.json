@@ -1,207 +1,167 @@
 {
-  "generated": "2026-09-16T07:04:42Z",
+  "generated": "2026-09-16T12:41:15Z",
   "world": [
     {
-      "title": "Auburn Faculty Protest Board’s Curricular Overhaul",
-      "desc": "Auburn Faculty Protest Board’s Curricular Overhaul\n\n \n\n\n \nEmma Whitford\n\nTue, 09/15/2026 - 03:00 AM\n\nThree months after the Board of Trustees abolished the faculty senate and gave itself curricular control, faculty are back on campus and making their disappro…",
-      "source": "Inside Higher Ed",
-      "url": "https://www.insidehighered.com/news/faculty/shared-governance/2026/09/15/auburn-faculty-protest-boards-curricular-overhaul",
-      "time": "2026-09-15T07:00:00",
-      "country": "US",
-      "title_ur": "Auburn Faculty Protest Board’s Curricular Overhaul",
-      "desc_ur": "Auburn Faculty Protest Board’s Curricular Overhaul\n\n \n\n\n \nEmma Whitford\n\nTue, 09/15/2026 - 03:00 AM\n\nThree months after the Board of Trustees abolished the faculty senate and gave itself curricular control, faculty are back on campus and making their disappro…"
+      "title": "Video: Why are AI-generated lies about Finland flooding social media?",
+      "desc": "Accounts posting AI-generated content about Finland may be motivated by the chance to make money through Meta's Content Monetization programme.",
+      "source": "YLE News",
+      "url": "https://yle.fi/a/74-20246414",
+      "time": "2026-09-15T12:40:24",
+      "country": "International",
+      "title_ur": "Video: Why are AI-generated lies about Finland flooding social media?",
+      "desc_ur": "Accounts posting AI-generated content about Finland may be motivated by the chance to make money through Meta's Content Monetization programme."
     },
     {
-      "title": "Only China, India, and Russia Can End the Iran War",
-      "desc": "Washington needs its rivals to create peace on its behalf.",
-      "source": "Foreign Policy",
-      "url": "http://foreignpolicy.com/2026/09/15/only-china-india-and-russia-can-end-the-iran-war/",
-      "time": "2026-09-15T06:57:36",
+      "title": "UN Security Council meets as Houthis tighten grip on Red Sea chokepoint",
+      "desc": "The meeting comes after the Iran-backed group seized strategic islands on the Bab el-Mandeb strait.",
+      "source": "POLITICO.eu",
+      "url": "https://www.politico.eu/article/un-security-council-meeting-houthis-red-sea-chokepoint/",
+      "time": "2026-09-15T12:39:49",
       "country": "Iran",
-      "title_ur": "Only China, India, and Russia Can End the Iran War",
-      "desc_ur": "Washington needs its rivals to create peace on its behalf."
+      "title_ur": "UN Security Council meets as Houthis tighten grip on Red Sea chokepoint",
+      "desc_ur": "The meeting comes after the Iran-backed group seized strategic islands on the Bab el-Mandeb strait."
     },
     {
-      "title": "Third Time’s the Swarm: How AI Agent Swarms Industrialized Exploitation Across 48 Countries",
-      "desc": "On August 31, 2026, a likely Russian-speaking threat actor used hundreds of AI agents to exploit vulnerabilities in PaperCut NG/MF print management software, compromising at least 440 instances across 395 organizations in 48 countries. The agents were powered…",
-      "source": "Forkast.news",
-      "url": "https://forkast.news/third-times-the-swarm-how-ai-agent-swarms-industrialized-exploitation-across-48-countries/",
-      "time": "2026-09-15T06:54:15",
+      "title": "Iran war effort hampered by munitions shortfalls, production ‘bottlenecks,’ Pentagon watchdog finds",
+      "desc": "The US war with Iran has led to a shortage of key munitions, which has in turn exposed \"bottlenecks\" in the defense industry, the War Department's Office of Inspector General confirmed in a report released Monday.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/15/us-news/iran-war-effort-hampered-by-munitions-shortfalls-production-bottlenecks-pentagon-watchdog-finds/",
+      "time": "2026-09-15T12:36:33",
+      "country": "Iran",
+      "title_ur": "Iran war effort hampered by munitions shortfalls, production ‘bottlenecks,’ Pentagon watchdog finds",
+      "desc_ur": "The US war with Iran has led to a shortage of key munitions, which has in turn exposed \"bottlenecks\" in the defense industry, the War Department's Office of Inspector General confirmed in a report released Monday."
+    },
+    {
+      "title": "How ‘portfolio reasoning’ explains Trump’s constant reevaluation of America’s value",
+      "desc": "Trump has approached governing through the same framework as his former business portfolio, where he casts the US as a flagship holding whose value he was elected to increase.",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/how-portfolio-reasoning-explains-trumps-constant-reevaluation-of-americas-value-290121",
+      "time": "2026-09-15T12:35:02",
+      "country": "US",
+      "title_ur": "How ‘portfolio reasoning’ explains Trump’s constant reevaluation of America’s value",
+      "desc_ur": "Trump has approached governing through the same framework as his former business portfolio, where he casts the US as a flagship holding whose value he was elected to increase."
+    },
+    {
+      "title": "Attacks against civilian vessels in Black Sea unacceptable: Fidan",
+      "desc": "Turkish Foreign Minister Hakan Fidan has once again urged Russia and Ukraine not to attack civilian vessels and disrupt maritime security in the Black Sea following a surge in incidents, reiterating Ankara’s continued dialogue with both warring sides to preve…",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/attacks-against-civilian-vessels-in-black-sea-unacceptable-fidan-226917",
+      "time": "2026-09-15T12:34:20",
       "country": "Russia",
-      "title_ur": "Third Time’s the Swarm: How AI Agent Swarms Industrialized Exploitation Across 48 Countries",
-      "desc_ur": "On August 31, 2026, a likely Russian-speaking threat actor used hundreds of AI agents to exploit vulnerabilities in PaperCut NG/MF print management software, compromising at least 440 instances across 395 organizations in 48 countries. The agents were powered…"
+      "title_ur": "Attacks against civilian vessels in Black Sea unacceptable: Fidan",
+      "desc_ur": "Turkish Foreign Minister Hakan Fidan has once again urged Russia and Ukraine not to attack civilian vessels and disrupt maritime security in the Black Sea following a surge in incidents, reiterating Ankara’s continued dialogue with both warring sides to preve…"
     },
     {
-      "title": "Palestine weekly: Settlement sanctions spark diplomatic crisis",
-      "desc": "New B'Tselem report frames events on ground as Israel's 'project of elimination' of Palestinians.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/9/15/palestine-weekly-settlement-sanctions-spark-diplomatic-crisis",
-      "time": "2026-09-15T06:53:50",
-      "country": "Israel",
-      "title_ur": "Palestine weekly: Settlement sanctions spark diplomatic crisis",
-      "desc_ur": "New B'Tselem report frames events on ground as Israel's 'project of elimination' of Palestinians."
+      "title": "Trump calls AI fears a 'hoax', Treasury yields surge, Moynihan's warning and more in Morning Squawk",
+      "desc": "Here are five key things investors need to know to start the trading day.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/15/5-things-to-know-before-the-stock-market-opens.html",
+      "time": "2026-09-15T12:33:53",
+      "country": "US",
+      "title_ur": "Trump calls AI fears a 'hoax', Treasury yields surge, Moynihan's warning and more in Morning Squawk",
+      "desc_ur": "Here are five key things investors need to know to start the trading day."
     },
     {
-      "title": "Oil price could surge to $US150 as war engulfs major Middle East supply routes",
-      "desc": "The war front expanding in the US-Iran conflict has extended beyond the Strait of Hormuz into the Red Sea. With no sign of de-escalation, there is a higher risk of war pushing oil prices towards $US150 per barrel, even higher than the level it reached during …",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-09-15/oil-could-surge-to-150-dollars-middle-east-war-intensifies/107155830",
-      "time": "2026-09-15T06:51:37",
+      "title": "A new strait crisis is brewing in the Red Sea",
+      "desc": "Houthi gains near Bab el-Mandeb are raising new risks for shipping and putting Saudi Arabia under fresh strain Read Full Article at RT.com",
+      "source": "RT",
+      "url": "https://www.rt.com/news/645667-houthi-saudi-arabia-babelmandeb/",
+      "time": "2026-09-15T12:31:41",
       "country": "Iran",
-      "title_ur": "Oil price could surge to $US150 as war engulfs major Middle East supply routes",
-      "desc_ur": "The war front expanding in the US-Iran conflict has extended beyond the Strait of Hormuz into the Red Sea. With no sign of de-escalation, there is a higher risk of war pushing oil prices towards $US150 per barrel, even higher than the level it reached during …"
+      "title_ur": "A new strait crisis is brewing in the Red Sea",
+      "desc_ur": "Houthi gains near Bab el-Mandeb are raising new risks for shipping and putting Saudi Arabia under fresh strain Read Full Article at RT.com"
     },
     {
-      "title": "Three nations, one union under strain: The long history behind United Kingdom's latest breakup threat",
-      "desc": "The United Kingdom formed through centuries of unions and legislation.  Recent pacts highlight calls for constitutional change from devolved nations.  Scotland, Wales, and Northern Ireland seek self-determination and independence.  Energy and defence issues p…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/three-nations-one-union-under-strain-the-long-history-behind-united-kingdoms-latest-breakup-threat/articleshow/134253323.cms",
-      "time": "2026-09-15T06:51:29",
-      "country": "International",
-      "title_ur": "Three nations, one union under strain: The long history behind United Kingdom's latest breakup threat",
-      "desc_ur": "The United Kingdom formed through centuries of unions and legislation.  Recent pacts highlight calls for constitutional change from devolved nations.  Scotland, Wales, and Northern Ireland seek self-determination and independence.  Energy and defence issues p…"
-    },
-    {
-      "title": "UK jobs market stays soft before Bank of England decision",
-      "desc": "Britain's labour market remains weak with job vacancies falling to a four-year low and pay growth holding steady, official data showed today, days before a Bank of England interest rate announcement.",
-      "source": "RTE",
-      "url": "https://www.rte.ie/news/business/2026/0915/1591571-uk-labour-market-remains-weak/",
-      "time": "2026-09-15T06:47:52",
-      "country": "UK",
-      "title_ur": "UK jobs market stays soft before Bank of England decision",
-      "desc_ur": "Britain's labour market remains weak with job vacancies falling to a four-year low and pay growth holding steady, official data showed today, days before a Bank of England interest rate announcement."
-    },
-    {
-      "title": "Bhotekoshi flood: 607 foreign tourists from 34 countries missing",
-      "desc": "KATHMANDU: A total of 607 foreign tourists from 34 countries have gone missing following the Bhotekoshi flood in Rasuwa. Suraj Ghimire, information officer at the Department of Tourism, told RSS that the missing tourists had travelled to Gosainkunda for the K…",
-      "source": "Khabarhub.com",
-      "url": "https://english.khabarhub.com/2026/15/567887/",
-      "time": "2026-09-15T06:45:58",
-      "country": "International",
-      "title_ur": "Bhotekoshi flood: 607 foreign tourists from 34 countries missing",
-      "desc_ur": "KATHMANDU: A total of 607 foreign tourists from 34 countries have gone missing following the Bhotekoshi flood in Rasuwa. Suraj Ghimire, information officer at the Department of Tourism, told RSS that the missing tourists had travelled to Gosainkunda for the K…"
-    },
-    {
-      "title": "NIMASA targets November for E-Ship registration",
-      "desc": "•As first applicant awaits ministerial approval for CVFF By Godwin Oritse The Nigerian Maritime Administration and Safety Agency (NIMASA) has concluded plans to automate vessel registration in Nigeria, a move aimed at streamlining the process and easing the c…",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/09/nimasa-targets-november-for-e-ship-registration/",
-      "time": "2026-09-15T06:38:44",
-      "country": "International",
-      "title_ur": "NIMASA targets November for E-Ship registration",
-      "desc_ur": "•As first applicant awaits ministerial approval for CVFF By Godwin Oritse The Nigerian Maritime Administration and Safety Agency (NIMASA) has concluded plans to automate vessel registration in Nigeria, a move aimed at streamlining the process and easing the c…"
-    },
-    {
-      "title": "The Mazonakis phenomenon and the monstrous power of digital media, bang and boom go the gunshots on the works (and we don’t even have a fixer), Kasidiaris is “coming”",
-      "desc": "A Lifeline for the Athens Stock Exchange & the quiet profit machine in Neo Psychiko\nThe post The Mazonakis phenomenon and the monstrous power of digital media, bang and boom go the gunshots on the works (and we don’t even have a fixer), Kasidiaris is “coming”…",
-      "source": "Protothema.gr",
-      "url": "https://en.protothema.gr/2026/09/15/the-mazonakis-phenomenon-and-the-monstrous-power-of-digital-media-bang-and-boom-go-the-gunshots-on-the-works-and-we-dont-even-have-a-fixer-kasidiaris-is-coming/",
-      "time": "2026-09-15T06:38:00",
+      "title": "Macklemore removed from Ed Sheeran tour over ‘Free Palestine’ comments",
+      "desc": "The bubbling controversy around Macklemore’s support slot on Ed Sheeran’s US stadium dates erupted yesterday. The American rapper was removed from the tour after several venues said that they would not allow the shows to go on if Macklemore remained on the bi…",
+      "source": "Music Ally",
+      "url": "https://musically.com/2026/09/15/macklemore-removed-from-ed-sheeran-tour-over-free-palestine-comments/",
+      "time": "2026-09-15T12:30:00",
       "country": "US",
-      "title_ur": "The Mazonakis phenomenon and the monstrous power of digital media, bang and boom go the gunshots on the works (and we don’t even have a fixer), Kasidiaris is “coming”",
-      "desc_ur": "A Lifeline for the Athens Stock Exchange & the quiet profit machine in Neo Psychiko\nThe post The Mazonakis phenomenon and the monstrous power of digital media, bang and boom go the gunshots on the works (and we don’t even have a fixer), Kasidiaris is “coming”…"
+      "title_ur": "Macklemore removed from Ed Sheeran tour over ‘Free Palestine’ comments",
+      "desc_ur": "The bubbling controversy around Macklemore’s support slot on Ed Sheeran’s US stadium dates erupted yesterday. The American rapper was removed from the tour after several venues said that they would not allow the shows to go on if Macklemore remained on the bi…"
     },
     {
-      "title": "Positive inflows into gold ETFs continues for eighth week in a row",
-      "desc": "Data from the World Gold Council (WGC) showed that investments were net positive at $1.55 billion last week despite the volatile precious metal market",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/gold/positive-inflows-into-gold-etfs-continues-for-eighth-week-in-a-row/article71466928.ece",
-      "time": "2026-09-15T06:36:33",
+      "title": "‘Edward Said: Between Worlds’ Review: A Straightforward Archival Documentary Pays Tribute to the Academic in His Own Words",
+      "desc": "Maiken Baird seeks to locate the famous Palestinian-American activist and cultural critic within a torrid political present.",
+      "source": "IndieWire",
+      "url": "https://www.indiewire.com/criticism/movies/edward-said-between-worlds-documentary-movie-review-1235217122/",
+      "time": "2026-09-15T12:30:00",
       "country": "US",
-      "title_ur": "Positive inflows into gold ETFs continues for eighth week in a row",
-      "desc_ur": "Data from the World Gold Council (WGC) showed that investments were net positive at $1.55 billion last week despite the volatile precious metal market"
+      "title_ur": "‘Edward Said: Between Worlds’ Review: A Straightforward Archival Documentary Pays Tribute to the Academic in His Own Words",
+      "desc_ur": "Maiken Baird seeks to locate the famous Palestinian-American activist and cultural critic within a torrid political present."
     },
     {
-      "title": "Vance focuses on fearmongering as tariffs backlash hits Kansas heartland",
-      "desc": "Incumbent senator Roger Marshall was booed as he attempted to argue the Trump administration is lowering living costs",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/world/us/2026/09/15/vance-focuses-on-fearmongering-as-tariffs-backlash-hits-kansas-heartland/",
-      "time": "2026-09-15T06:34:27",
-      "country": "US",
-      "title_ur": "Vance focuses on fearmongering as tariffs backlash hits Kansas heartland",
-      "desc_ur": "Incumbent senator Roger Marshall was booed as he attempted to argue the Trump administration is lowering living costs"
-    },
-    {
-      "title": "BREAKING: Leaked Data Show Israel Covered Up Hundreds of COVID Shot Deaths and Hospitalizations Within Weeks of Vaccine Rollout",
-      "desc": "A newly published peer-reviewed study has exposed an internal Israeli Ministry of Health pharmacovigilance dataset documenting 531 hospitalizations and 67 deaths within weeks of mass COVID-19 “vaccine” rollout.\nNearly half of all hospitalization reports invol…",
-      "source": "Globalresearch.ca",
-      "url": "https://www.globalresearch.ca/israel-covered-up-hundreds-covid-shot-deaths-hospitalizations/5940428",
-      "time": "2026-09-15T06:32:03",
-      "country": "Israel",
-      "title_ur": "BREAKING: Leaked Data Show Israel Covered Up Hundreds of COVID Shot Deaths and Hospitalizations Within Weeks of Vaccine Rollout",
-      "desc_ur": "A newly published peer-reviewed study has exposed an internal Israeli Ministry of Health pharmacovigilance dataset documenting 531 hospitalizations and 67 deaths within weeks of mass COVID-19 “vaccine” rollout.\nNearly half of all hospitalization reports invol…"
-    },
-    {
-      "title": "Voice of the Global South: Can Brics do more than vocalize a vision for the world order?",
-      "desc": "Can the group’s shared dissatisfaction with today’s world order yield institutions that actually deliver? That will depend on how well the 11 members of Brics are able to cooperate on achieving tangible outcomes.",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/opinion/online-views/voice-of-global-south-can-brics-do-more-than-vocalize-a-vision-for-the-world-order-geopolitics-11789379615088.html",
-      "time": "2026-09-15T06:30:08",
+      "title": "Emily St. John Mandel’s ‘Exit Party’ Envisions Hope in a U.S. Torn Apart by Civil War. Read the First Page",
+      "desc": "Read the first page of Emily St. John Mandel’s new novel “Exit Party.” The author breaks down the book’s setting and themes.",
+      "source": "TODAY",
+      "url": "https://www.today.com/popculture/books/emily-st-john-mandel-exit-party-first-page-rcna597746",
+      "time": "2026-09-15T12:30:00",
       "country": "International",
-      "title_ur": "Voice of the Global South: Can Brics do more than vocalize a vision for the world order?",
-      "desc_ur": "Can the group’s shared dissatisfaction with today’s world order yield institutions that actually deliver? That will depend on how well the 11 members of Brics are able to cooperate on achieving tangible outcomes."
+      "title_ur": "Emily St. John Mandel’s ‘Exit Party’ Envisions Hope in a U.S. Torn Apart by Civil War. Read the First Page",
+      "desc_ur": "Read the first page of Emily St. John Mandel’s new novel “Exit Party.” The author breaks down the book’s setting and themes."
     },
     {
-      "title": "[Catholic Caucus Devotional] My Catholic Life! Catholic Daily Reflections: Commingling of Love and Suffering - Tuesday, September 15, 2026",
-      "desc": "Daily Readings from the USCCBMemorial of Our Lady of SorrowsJesus’ father and mother were amazed at what was said about him; and Simeon blessed them and said to Mary his mother, “Behold, this child is destined for the fall and rise of many in Israel, and to b…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-religion/4395566/posts",
-      "time": "2026-09-15T06:27:19",
-      "country": "Israel",
-      "title_ur": "[Catholic Caucus Devotional] My Catholic Life! Catholic Daily Reflections: Commingling of Love and Suffering - Tuesday, September 15, 2026",
-      "desc_ur": "Daily Readings from the USCCBMemorial of Our Lady of SorrowsJesus’ father and mother were amazed at what was said about him; and Simeon blessed them and said to Mary his mother, “Behold, this child is destined for the fall and rise of many in Israel, and to b…"
+      "title": "Wells Fargo just cuts its S&P 500 price target. Will others follow?",
+      "desc": "It what may be a first since the early days of the war between the U.S. and Iran, a Wall Street firm is lowering rather than raising its S&P 500 year-end target.",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/fbce6823bb9bbaee",
+      "time": "2026-09-15T12:28:56",
+      "country": "Iran",
+      "title_ur": "Wells Fargo just cuts its S&P 500 price target. Will others follow?",
+      "desc_ur": "It what may be a first since the early days of the war between the U.S. and Iran, a Wall Street firm is lowering rather than raising its S&P 500 year-end target."
+    },
+    {
+      "title": "What Europe’s migration deals are really buying",
+      "desc": "European officials are calling the EU-Mauritania migration deal a success. Here’s what the numbers don’t count.",
+      "source": "Africasacountry.com",
+      "url": "https://africasacountry.com/2026/09/what-europes-migration-deals-are-really-buying",
+      "time": "2026-09-15T12:28:39",
+      "country": "Europe",
+      "title_ur": "What Europe’s migration deals are really buying",
+      "desc_ur": "European officials are calling the EU-Mauritania migration deal a success. Here’s what the numbers don’t count."
+    },
+    {
+      "title": "'Woman, Life, Freedom' spirit lives on as Iran war drags on",
+      "desc": "The 2022 death of Jina Mahsa Amini in police custody triggered a resistance movement in Iran. Four years later, the Iranian regime endures — but so does the legacy of the \"Woman, Life, Freedom\" protests.",
+      "source": "DW (English)",
+      "url": "https://www.dw.com/en/woman-life-freedom-spirit-lives-on-as-iran-war-drags-on/a-79276123",
+      "time": "2026-09-15T12:27:00",
+      "country": "Iran",
+      "title_ur": "'Woman, Life, Freedom' spirit lives on as Iran war drags on",
+      "desc_ur": "The 2022 death of Jina Mahsa Amini in police custody triggered a resistance movement in Iran. Four years later, the Iranian regime endures — but so does the legacy of the \"Woman, Life, Freedom\" protests."
+    },
+    {
+      "title": "Iran's 'Woman, Life, Freedom' spirit lives on amid war",
+      "desc": "The 2022 death of Jina Mahsa Amini in police custody triggered a resistance movement in Iran. Four years later, the Iranian regime endures — but so does the legacy of the \"Woman, Life, Freedom\" protests.",
+      "source": "DW (English)",
+      "url": "https://www.dw.com/en/iran-war-jina-mahsa-amini-protests-human-rights/a-79276123",
+      "time": "2026-09-15T12:27:00",
+      "country": "Iran",
+      "title_ur": "Iran's 'Woman, Life, Freedom' spirit lives on amid war",
+      "desc_ur": "The 2022 death of Jina Mahsa Amini in police custody triggered a resistance movement in Iran. Four years later, the Iranian regime endures — but so does the legacy of the \"Woman, Life, Freedom\" protests."
+    },
+    {
+      "title": "Iran: 'Woman, Life, Freedom' lives on despite war",
+      "desc": "The death of Jina Mahsa Amini triggered a resistance movement in Iran. Four years later, the Iranian regime endures — but so does the legacy of the \"Woman, Life, Freedom\" protests.",
+      "source": "DW (English)",
+      "url": "https://www.dw.com/en/iran-woman-life-freedom-lives-on-despite-war/a-79276123",
+      "time": "2026-09-15T12:27:00",
+      "country": "Iran",
+      "title_ur": "Iran: 'Woman, Life, Freedom' lives on despite war",
+      "desc_ur": "The death of Jina Mahsa Amini triggered a resistance movement in Iran. Four years later, the Iranian regime endures — but so does the legacy of the \"Woman, Life, Freedom\" protests."
     }
   ],
   "pakistan": [
     {
-      "title": "Oil climbs as Saudi pipeline outage, fresh attacks heighten supply concerns",
-      "desc": "By Pranav Mathur and Colleen Howe BEIJING, Sept 15 (Reuters) - Oil prices rose nearly 2% on Tuesday as concerns over supply disruptions lingered after attack...",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/news/oil-prices-rise-saudi-pipeline-003617502.html",
-      "time": "2026-09-15T06:55:51",
+      "title": "WTO warns of 'most serious and sustained' trade disruptions",
+      "desc": "The WTO pointed to a range of factors that have hit cooperation, including shifts in economic power and the growing prominence and diversity of government intervention in markets.",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/world/wto-trade-disruption-global-trading-order-6385801",
+      "time": "2026-09-15T12:22:00",
       "country": "Pakistan",
-      "title_ur": "Oil climbs as Saudi pipeline outage, fresh attacks heighten supply concerns",
-      "desc_ur": "By Pranav Mathur and Colleen Howe BEIJING, Sept 15 (Reuters) - Oil prices rose nearly 2% on Tuesday as concerns over supply disruptions lingered after attack..."
-    },
-    {
-      "title": "Oil up as Saudi pipeline outage, attacks heighten fears",
-      "desc": "Oil prices rose today as concerns over supply disruptions persisted after attacks on Saudi Arabian energy infrastructure left the kingdom's East-West pipeline offline and cast doubt on efforts to ease shipping risks in the Gulf.",
-      "source": "RTE",
-      "url": "https://www.rte.ie/news/business/2026/0915/1591567-world-oil-prices/",
-      "time": "2026-09-15T06:17:26",
-      "country": "Pakistan",
-      "title_ur": "Oil up as Saudi pipeline outage, attacks heighten fears",
-      "desc_ur": "Oil prices rose today as concerns over supply disruptions persisted after attacks on Saudi Arabian energy infrastructure left the kingdom's East-West pipeline offline and cast doubt on efforts to ease shipping risks in the Gulf."
-    },
-    {
-      "title": "‘He’ll die in jail’: Seven former captains seek Australian government’s intervention over Imran Khan's health",
-      "desc": "Seven former Australian captains called upon the country's Foreign Minister Penny Wong to intervene diplomatically over Imran Khan.   | Cricket",
-      "source": "Hindustan Times",
-      "url": "https://www.hindustantimes.com/cricket/hell-die-in-jail-seven-former-captains-seek-australian-government-s-intervention-over-imran-khans-health-101789451466110.html",
-      "time": "2026-09-15T06:09:59",
-      "country": "Pakistan",
-      "title_ur": "‘He’ll die in jail’: Seven former captains seek Australian government’s intervention over Imran Khan's health",
-      "desc_ur": "Seven former Australian captains called upon the country's Foreign Minister Penny Wong to intervene diplomatically over Imran Khan.   | Cricket"
-    },
-    {
-      "title": "Oil supply squeeze drives up energy bills",
-      "desc": "Disruptions to oil supplies through the Strait of Hormuz are raising energy costs worldwide as the war with Iran reaches its 200th day on Sept. 15, putting pressure on importers.",
-      "source": "Hurriyet Daily News",
-      "url": "https://www.hurriyetdailynews.com/oil-supply-squeeze-drives-up-energy-bills-226891",
-      "time": "2026-09-15T06:09:50",
-      "country": "Pakistan",
-      "title_ur": "Oil supply squeeze drives up energy bills",
-      "desc_ur": "Disruptions to oil supplies through the Strait of Hormuz are raising energy costs worldwide as the war with Iran reaches its 200th day on Sept. 15, putting pressure on importers."
-    },
-    {
-      "title": "Mint Explainer | How India is cracking down on smuggled cosmetics from Pakistan",
-      "desc": "In July, the DCGI flagged that imported cosmetic products were circulating in the domestic market without mandatory registration certificates.",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/industry/india-crackdown-smuggled-cosmetics-pakistan-skin-whitening-creams-dcgi-cdsco-heavy-metals-11789445004796.html",
-      "time": "2026-09-15T06:08:12",
-      "country": "Pakistan",
-      "title_ur": "Mint Explainer | How India is cracking down on smuggled cosmetics from Pakistan",
-      "desc_ur": "In July, the DCGI flagged that imported cosmetic products were circulating in the domestic market without mandatory registration certificates."
+      "title_ur": "WTO warns of 'most serious and sustained' trade disruptions",
+      "desc_ur": "The WTO pointed to a range of factors that have hit cooperation, including shifts in economic power and the growing prominence and diversity of government intervention in markets."
     }
   ],
   "business": {
@@ -216,47 +176,47 @@
       {
         "date": "2026-09-16",
         "day": "بدھ",
-        "high": 33,
-        "low": 24,
-        "condition": "Thunderstorm",
-        "condition_ur": "گرج چمک",
-        "precip": 90
+        "high": 34,
+        "low": 26,
+        "condition": "Light Drizzle",
+        "condition_ur": "ہلکی بوندا باندی",
+        "precip": 82
       },
       {
         "date": "2026-09-17",
         "day": "جمعرات",
-        "high": 31,
-        "low": 23,
+        "high": 30,
+        "low": 24,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 69
+        "precip": 71
       },
       {
         "date": "2026-09-18",
         "day": "جمعہ",
         "high": 31,
         "low": 24,
-        "condition": "Thunderstorm",
-        "condition_ur": "گرج چمک",
-        "precip": 29
+        "condition": "Light Drizzle",
+        "condition_ur": "ہلکی بوندا باندی",
+        "precip": 25
       },
       {
         "date": "2026-09-19",
         "day": "ہفتہ",
         "high": 32,
-        "low": 25,
+        "low": 24,
         "condition": "Clear",
         "condition_ur": "صاف",
-        "precip": 10
+        "precip": 2
       },
       {
         "date": "2026-09-20",
         "day": "اتوار",
         "high": 33,
-        "low": 25,
+        "low": 24,
         "condition": "Clear",
         "condition_ur": "صاف",
-        "precip": 2
+        "precip": 0
       },
       {
         "date": "2026-09-21",
@@ -271,7 +231,7 @@
         "date": "2026-09-22",
         "day": "منگل",
         "high": 33,
-        "low": 24,
+        "low": 25,
         "condition": "Clear",
         "condition_ur": "صاف",
         "precip": 2
