@@ -1,177 +1,167 @@
 {
-  "generated": "2026-09-16T20:19:11Z",
+  "generated": "2026-09-16T23:06:32Z",
   "world": [
     {
-      "title": "S&P 500 and Nasdaq close at lowest levels in over a month as oil and yields bite",
-      "desc": "Rising oil prices and bond yields could dampen economic growth, strain corporate profits, and shift investor focus from equities to safer assets.\nThe post S&P 500 and Nasdaq close at lowest levels in over a month as oil and yields bite appeared first on Crypt…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/sp500-nasdaq-lowest-month-oil-yields/",
-      "time": "2026-09-15T20:18:03",
-      "country": "US",
-      "title_ur": "S&P 500 and Nasdaq close at lowest levels in over a month as oil and yields bite",
-      "desc_ur": "Rising oil prices and bond yields could dampen economic growth, strain corporate profits, and shift investor focus from equities to safer assets.\nThe post S&P 500 and Nasdaq close at lowest levels in over a month as oil and yields bite appeared first on Crypt…"
-    },
-    {
-      "title": "US stocks today: US stocks end lower as oil, yields crank up pressure ahead of Fed rate move",
-      "desc": "US stocks fell as rising oil prices and Treasury yields added pressure to markets ahead of the Federal Reserve’s expected rate hike. Brent crude climbed to $109.35 a barrel, while the 10-year Treasury yield crossed 5%, raising concerns over inflation, borrowi…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-lower-as-oil-yields-crank-up-pressure-ahead-of-fed-rate-move/articleshow/134272937.cms",
-      "time": "2026-09-15T20:17:51",
-      "country": "Iran",
-      "title_ur": "US stocks today: US stocks end lower as oil, yields crank up pressure ahead of Fed rate move",
-      "desc_ur": "US stocks fell as rising oil prices and Treasury yields added pressure to markets ahead of the Federal Reserve’s expected rate hike. Brent crude climbed to $109.35 a barrel, while the 10-year Treasury yield crossed 5%, raising concerns over inflation, borrowi…"
-    },
-    {
-      "title": "Irish acts exit Ed Sheeran tour as they back Macklemore",
-      "desc": "Irish acts Aaron Rowe and Beoga and Irish-American solo artist Finneas have announced they are leaving their guest slots on Ed Sheeran's tour in solidarity with the American rapper Macklemore, who was removed from the tour over his comments about Gaza.",
-      "source": "RTE",
-      "url": "https://www.rte.ie/entertainment/2026/0915/1591691-irish-acts-exit-ed-sheeran-tour-as-they-back-macklemore/",
-      "time": "2026-09-15T20:17:17",
-      "country": "Israel",
-      "title_ur": "Irish acts exit Ed Sheeran tour as they back Macklemore",
-      "desc_ur": "Irish acts Aaron Rowe and Beoga and Irish-American solo artist Finneas have announced they are leaving their guest slots on Ed Sheeran's tour in solidarity with the American rapper Macklemore, who was removed from the tour over his comments about Gaza."
-    },
-    {
-      "title": "Western intelligence warns of Iranian cyber threats targeting dissidents",
-      "desc": "Western intelligence agencies highlight 'CHOSEN BRICK' spyware targeting critics of Iran government abroad.",
+      "title": "Argentina intensifies campaign against Falklands oil companies",
+      "desc": "Government says new legal complaints to be filed against firms exploring for oil near the Falkland Islands.",
       "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/9/15/western-intelligence-warns-of-iranian-cyber-threats-targeting-dissidents",
-      "time": "2026-09-15T20:16:35",
+      "url": "https://www.aljazeera.com/economy/2026/9/15/argentina-intensifies-campaign-against-falklands-oil-companies",
+      "time": "2026-09-15T23:03:52",
+      "country": "International",
+      "title_ur": "Argentina intensifies campaign against Falklands oil companies",
+      "desc_ur": "Government says new legal complaints to be filed against firms exploring for oil near the Falkland Islands."
+    },
+    {
+      "title": "WATCH: Rep. Massie introduces articles of impeachment against Hegseth on House floor",
+      "desc": "Massie said Hegseth abused his powers by deploying the U.S. military in the war against Iran without seeking congressional approval under the War Powers Act. He said these are \"unlawful orders\" and \"high crimes and misdemeanors.\"",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/bf52d94d3e83e1a1",
+      "time": "2026-09-15T23:03:41",
       "country": "Iran",
-      "title_ur": "Western intelligence warns of Iranian cyber threats targeting dissidents",
-      "desc_ur": "Western intelligence agencies highlight 'CHOSEN BRICK' spyware targeting critics of Iran government abroad."
+      "title_ur": "WATCH: Rep. Massie introduces articles of impeachment against Hegseth on House floor",
+      "desc_ur": "Massie said Hegseth abused his powers by deploying the U.S. military in the war against Iran without seeking congressional approval under the War Powers Act. He said these are \"unlawful orders\" and \"high crimes and misdemeanors.\""
     },
     {
-      "title": "Worried About AI Ending Humanity, Anthropic Is Hiring Someone to Help Dictate Terms of the End of Humanity",
-      "desc": "What if you just didn't allow AI to be used with conventional weapons?",
-      "source": "Gizmodo.com",
-      "url": "https://gizmodo.com/worried-about-ai-ending-humanity-anthropic-is-hiring-someone-to-help-dictate-terms-of-the-end-of-humanity-2000811885",
-      "time": "2026-09-15T20:15:45",
-      "country": "US",
-      "title_ur": "Worried About AI Ending Humanity, Anthropic Is Hiring Someone to Help Dictate Terms of the End of Humanity",
-      "desc_ur": "What if you just didn't allow AI to be used with conventional weapons?"
-    },
-    {
-      "title": "AG Blanche unveils federal charges against 160 defendants in pandemic relief sweep",
-      "desc": "The Justice Department announced 160 arrests tied to over $245 million in COVID fraud losses, plus a $10 million childcare scheme in California.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/us/ag-blanche-unveils-federal-charges-160-defendants-pandemic-relief-sweep",
-      "time": "2026-09-15T20:14:57",
-      "country": "US",
-      "title_ur": "AG Blanche unveils federal charges against 160 defendants in pandemic relief sweep",
-      "desc_ur": "The Justice Department announced 160 arrests tied to over $245 million in COVID fraud losses, plus a $10 million childcare scheme in California."
-    },
-    {
-      "title": "Finneas, Aaron Rowe exit Ed Sheeran tour in protest of Macklemore being dropped",
-      "desc": "Finneas and other musical artists have withdrawn as supporting acts for Ed Sheeran on Tuesday in protest of Macklemore being dropped from the tour after the rapper says New England Patriots owner Robert Kraft organized a boycott against him.",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/finneas-aaron-rowe-exit-ed-sheeran-tour-protest-macklemore-dropped-pal-rcna597948",
-      "time": "2026-09-15T20:13:50",
-      "country": "US",
-      "title_ur": "Finneas, Aaron Rowe exit Ed Sheeran tour in protest of Macklemore being dropped",
-      "desc_ur": "Finneas and other musical artists have withdrawn as supporting acts for Ed Sheeran on Tuesday in protest of Macklemore being dropped from the tour after the rapper says New England Patriots owner Robert Kraft organized a boycott against him."
-    },
-    {
-      "title": "Pentagon reveals secret space weapons are already in orbit — but won't say what they do",
-      "desc": "Air Force Secretary Troy Meink revealed the Space Force has on-orbit space control weapons, but the Pentagon won't say what they are or how they work.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/pentagon-reveals-secret-space-weapons-already-orbit-wont-say-what-they-do",
-      "time": "2026-09-15T20:13:43",
-      "country": "International",
-      "title_ur": "Pentagon reveals secret space weapons are already in orbit — but won't say what they do",
-      "desc_ur": "Air Force Secretary Troy Meink revealed the Space Force has on-orbit space control weapons, but the Pentagon won't say what they are or how they work."
-    },
-    {
-      "title": "US speaker rejects AI pause, warns of losing edge to China",
-      "desc": "Trump has dismissed AI fears as 'hoax', insisting US safeguards suffice and warning slowdown benefits China.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/9/15/us-speaker-rejects-ai-pause-warns-of-losing-edge-to-china",
-      "time": "2026-09-15T20:13:09",
-      "country": "China",
-      "title_ur": "US speaker rejects AI pause, warns of losing edge to China",
-      "desc_ur": "Trump has dismissed AI fears as 'hoax', insisting US safeguards suffice and warning slowdown benefits China."
-    },
-    {
-      "title": "For the first time in thousands of years, the shofar sounds on the Temple Mount",
-      "desc": "Hundreds of Jews stood on the Temple Mount before dawn on the second day of Rosh Hashanah this year, and by the time they left, something had happened there that Rabbi Josh Wander believes had not happened in thousands of years: the shofar sounded on the Moun…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4395648/posts",
-      "time": "2026-09-15T20:10:53",
-      "country": "US",
-      "title_ur": "For the first time in thousands of years, the shofar sounds on the Temple Mount",
-      "desc_ur": "Hundreds of Jews stood on the Temple Mount before dawn on the second day of Rosh Hashanah this year, and by the time they left, something had happened there that Rabbi Josh Wander believes had not happened in thousands of years: the shofar sounded on the Moun…"
-    },
-    {
-      "title": "Macklemore Says Billionaire Patriots Owner Robert Kraft Gave Ed Sheeran an Ultimatum Through Other Stadium Owners: Drop Me from the Tour or Lose Your Venues",
-      "desc": "Macklemore posted a statement to Instagram and Facebook on September 14 addressing his removal from the remaining U.S. dates of Ed Sheeran‘s Loop tour, the fallout from his “Free Palestine” set at MetLife, and Pink’s public criticism of it.",
-      "source": "Thoughtcatalog.com",
-      "url": "https://thoughtcatalog.com/nadia-santiago/2026/09/macklemore-says-billionaire-patriots-owner-robert-kraft-gave-ed-sheeran-an-ultimatum-through-other-stadium-owners-drop-me-from-the-tour-or-lose-your-venues/",
-      "time": "2026-09-15T20:08:22",
-      "country": "International",
-      "title_ur": "Macklemore Says Billionaire Patriots Owner Robert Kraft Gave Ed Sheeran an Ultimatum Through Other Stadium Owners: Drop Me from the Tour or Lose Your Venues",
-      "desc_ur": "Macklemore posted a statement to Instagram and Facebook on September 14 addressing his removal from the remaining U.S. dates of Ed Sheeran‘s Loop tour, the fallout from his “Free Palestine” set at MetLife, and Pink’s public criticism of it."
-    },
-    {
-      "title": "CBO says Iran war diving up inflation, puts price tag at $38 billion",
-      "desc": "Two new, independent reports show detailed looks at the costs of the war in Iran. It's led to shortages in U.S. weapons, supply chain bottlenecks, and a price tag in the tens of billions of dollars.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/09/15/nx-s1-5969793/cbo-says-iran-war-diving-up-inflation-puts-price-tag-at-38-billion",
-      "time": "2026-09-15T20:08:21",
-      "country": "Iran",
-      "title_ur": "CBO says Iran war diving up inflation, puts price tag at $38 billion",
-      "desc_ur": "Two new, independent reports show detailed looks at the costs of the war in Iran. It's led to shortages in U.S. weapons, supply chain bottlenecks, and a price tag in the tens of billions of dollars."
-    },
-    {
-      "title": "Ed Sheeran addresses backlash over Macklemore being dropped from tour",
-      "desc": "After facing a slew of criticism following Macklemore’s ejection from his tour as an opening act for his pro-Palestine comments during sets, singer Ed Sheeran has issued a statement on the situation, claiming it wasn’t his call and defending his choice to not…",
-      "source": "CBC News",
-      "url": "https://www.cbc.ca/news/entertainment/sheeran-macklemore-tour-9.7345034",
-      "time": "2026-09-15T20:02:21",
-      "country": "International",
-      "title_ur": "Ed Sheeran addresses backlash over Macklemore being dropped from tour",
-      "desc_ur": "After facing a slew of criticism following Macklemore’s ejection from his tour as an opening act for his pro-Palestine comments during sets, singer Ed Sheeran has issued a statement on the situation, claiming it wasn’t his call and defending his choice to not…"
-    },
-    {
-      "title": "Ed Sheeran opener Aaron Rowe ditches tour and rails against ‘Israeli genocide’ after Macklemore fiasco",
-      "desc": "Ed Sheeran’s opening act dropped out of his tour in solidarity with Macklemore, who was booted from the concert series for his Israel-bashing comments. Aaron Rowe performs onstage during the All Together Now Festival on Saturday, August 2, 2025, in Waterford,…",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/09/15/us-news/ed-sheeran-opener-aaron-rowe-ditches-tour-and-rails-against-israeli-genocide-after-macklemore-fiasco/",
-      "time": "2026-09-15T20:00:27",
-      "country": "Israel",
-      "title_ur": "Ed Sheeran opener Aaron Rowe ditches tour and rails against ‘Israeli genocide’ after Macklemore fiasco",
-      "desc_ur": "Ed Sheeran’s opening act dropped out of his tour in solidarity with Macklemore, who was booted from the concert series for his Israel-bashing comments. Aaron Rowe performs onstage during the All Together Now Festival on Saturday, August 2, 2025, in Waterford,…"
-    },
-    {
-      "title": "OEUK Says UK to Gain From Replacing Oil Windfall Tax Early",
-      "desc": "The current windfall tax, called the Energy Profits Levy, was introduced in 2022 by the previous Conservative government after Russia's invasion of Ukraine sent energy prices soaring.",
-      "source": "Rigzone",
-      "url": "https://www.rigzone.com/news/wire/oeuk_says_uk_to_gain_from_replacing_oil_windfall_tax_early-15-sep-2026-184620-article/",
-      "time": "2026-09-15T20:00:00",
+      "title": "Trump Is Looking for Diesel in All the Wrong Places",
+      "desc": "A Russia-Ukraine cease-fire isn’t guaranteed to get prices down.",
+      "source": "The Atlantic",
+      "url": "https://www.theatlantic.com/newsletters/2026/09/trump-diesel-prices-russia-ukraine/688644/",
+      "time": "2026-09-15T23:03:00",
       "country": "Russia",
-      "title_ur": "OEUK Says UK to Gain From Replacing Oil Windfall Tax Early",
-      "desc_ur": "The current windfall tax, called the Energy Profits Levy, was introduced in 2022 by the previous Conservative government after Russia's invasion of Ukraine sent energy prices soaring."
+      "title_ur": "Trump Is Looking for Diesel in All the Wrong Places",
+      "desc_ur": "A Russia-Ukraine cease-fire isn’t guaranteed to get prices down."
+    },
+    {
+      "title": "Labour plot to block mega-donations to Reform 'could breach its own human rights laws', warns former attorney general",
+      "desc": "Downing Street has confirmed that a crackdown on money given by political donors based abroad will be applied retrospectively, in what critics say is a breach of 'natural justice'.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16134001/Labour-plot-block-mega-donations-Reform-breach-human-rights-laws-warns-former-attorney-general.html",
+      "time": "2026-09-15T23:01:58",
+      "country": "US",
+      "title_ur": "Labour plot to block mega-donations to Reform 'could breach its own human rights laws', warns former attorney general",
+      "desc_ur": "Downing Street has confirmed that a crackdown on money given by political donors based abroad will be applied retrospectively, in what critics say is a breach of 'natural justice'."
+    },
+    {
+      "title": "Government must make 'trade offs' for Budget - Chambers",
+      "desc": "The Minister for Public Expenditure Jack Chambers is to warn his Cabinet colleagues that they will have to make trade offs as the Government moves to moderate spending in Budget 2027 amid global uncertainty over the war in Iran.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/politics/2026/0916/1591707-cabinet-politics-ireland/",
+      "time": "2026-09-15T23:01:00",
+      "country": "Iran",
+      "title_ur": "Government must make 'trade offs' for Budget - Chambers",
+      "desc_ur": "The Minister for Public Expenditure Jack Chambers is to warn his Cabinet colleagues that they will have to make trade offs as the Government moves to moderate spending in Budget 2027 amid global uncertainty over the war in Iran."
+    },
+    {
+      "title": "Tether, Binance and a $1.5 billion Iran oil network converge in new US forfeiture case",
+      "desc": "The September 14 complaint targets ten Tron addresses frozen in 2025 and outlines a planned transfer into FBI custody.\nThe post Tether, Binance and a $1.5 billion Iran oil network converge in new US forfeiture case appeared first on CryptoSlate.",
+      "source": "CryptoSlate",
+      "url": "https://cryptoslate.com/tether-binance-and-a-1-5-billion-iran-oil-network-converge-in-new-us-forfeiture-case/",
+      "time": "2026-09-15T23:00:36",
+      "country": "Iran",
+      "title_ur": "Tether, Binance and a $1.5 billion Iran oil network converge in new US forfeiture case",
+      "desc_ur": "The September 14 complaint targets ten Tron addresses frozen in 2025 and outlines a planned transfer into FBI custody.\nThe post Tether, Binance and a $1.5 billion Iran oil network converge in new US forfeiture case appeared first on CryptoSlate."
+    },
+    {
+      "title": "Remember the MAGA vibe shift?",
+      "desc": "There’s a reason that Trump is so sweatily desperate to suppress the midterm elections that even John Roberts finds it a little excessive. And it’s this kind of polling: With fewer than 50 days until the midterms, Democrats have developed a clear advantage ov…",
+      "source": "Lawyersgunsmoneyblog.com",
+      "url": "https://www.lawyersgunsmoneyblog.com/2026/09/remember-the-maga-vibe-shift",
+      "time": "2026-09-15T22:59:51",
+      "country": "US",
+      "title_ur": "Remember the MAGA vibe shift?",
+      "desc_ur": "There’s a reason that Trump is so sweatily desperate to suppress the midterm elections that even John Roberts finds it a little excessive. And it’s this kind of polling: With fewer than 50 days until the midterms, Democrats have developed a clear advantage ov…"
+    },
+    {
+      "title": "Anti-Israel activist Mahmoud Khalil sues Columbia University citing 'deliberate indifference' to Palestinians",
+      "desc": "",
+      "source": "Yahoo Entertainment",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_aac934d6-286e-4485-9667-65aa71066cdd",
+      "time": "2026-09-15T22:57:21",
+      "country": "Israel",
+      "title_ur": "Anti-Israel activist Mahmoud Khalil sues Columbia University citing 'deliberate indifference' to Palestinians",
+      "desc_ur": ""
+    },
+    {
+      "title": "Iran Sends Top Diplomat Back to China After Failure to Garner BRICS Support",
+      "desc": "Iranian Foreign Minister Abbas Araghchi is scheduled for another visit to Beijing on Wednesday after an unsuccessful effort to garner support for Tehran’s cause at the BRICS summit in New Delhi over the weekend.\nThe post Iran Sends Top Diplomat Back to China …",
+      "source": "Breitbart News",
+      "url": "https://www.breitbart.com/middle-east/2026/09/15/iran-sends-top-diplomat-back-to-china-after-failure-to-garner-brics-support/",
+      "time": "2026-09-15T22:54:16",
+      "country": "Iran",
+      "title_ur": "Iran Sends Top Diplomat Back to China After Failure to Garner BRICS Support",
+      "desc_ur": "Iranian Foreign Minister Abbas Araghchi is scheduled for another visit to Beijing on Wednesday after an unsuccessful effort to garner support for Tehran’s cause at the BRICS summit in New Delhi over the weekend.\nThe post Iran Sends Top Diplomat Back to China …"
+    },
+    {
+      "title": "Jon Voight Explains What He's Up to as Trump's Hollywood Ambassador",
+      "desc": "The 87-year-old Academy Award winner sat down with The Hollywood Reporter to discuss his approach to lobbying for a federal tax credit at the White House: “We have an opening here, we have some sunlight, it’s going to happen.”",
+      "source": "Hollywood Reporter",
+      "url": "http://www.hollywoodreporter.com/business/business-news/jon-voight-hollywood-ambassador-trump-production-tax-credit-1236702881/",
+      "time": "2026-09-15T22:53:35",
+      "country": "US",
+      "title_ur": "Jon Voight Explains What He's Up to as Trump's Hollywood Ambassador",
+      "desc_ur": "The 87-year-old Academy Award winner sat down with The Hollywood Reporter to discuss his approach to lobbying for a federal tax credit at the White House: “We have an opening here, we have some sunlight, it’s going to happen.”"
+    },
+    {
+      "title": "Kash Patel defends removing bestiality as automatic disqualifier for FBI applicants - CNN",
+      "desc": "Kash Patel defends removing bestiality as automatic disqualifier for FBI applicantsCNN Patel Suggests F.B.I. Agents May Be Sent to the PollsThe New York Times Kash Patel’s Oppo Research On Top Dem Goes Viral After Reuters Photographer Snaps a Close-Upyahoo.co…",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185664256",
+      "time": "2026-09-15T22:52:36",
+      "country": "Europe",
+      "title_ur": "Kash Patel defends removing bestiality as automatic disqualifier for FBI applicants - CNN",
+      "desc_ur": "Kash Patel defends removing bestiality as automatic disqualifier for FBI applicantsCNN Patel Suggests F.B.I. Agents May Be Sent to the PollsThe New York Times Kash Patel’s Oppo Research On Top Dem Goes Viral After Reuters Photographer Snaps a Close-Upyahoo.co…"
+    },
+    {
+      "title": "Texas football’s treatment of Holly Rowe is reflective of the rampant backlash toward successful women in sports",
+      "desc": "The treatment of the famed ESPN reporter Holly Rowe reinforces a dark underbelly of misogyny in sports and society.",
+      "source": "Swish Appeal",
+      "url": "https://www.swishappeal.com/wnba/86862/holly-rowe-interview-steve-sarkisian-texas-football-upset-win-ai-meme-arch-manning-apology-misogny-mistreatment-abuse-patriarchy-sideline-reporter-espn",
+      "time": "2026-09-15T22:50:00",
+      "country": "International",
+      "title_ur": "Texas football’s treatment of Holly Rowe is reflective of the rampant backlash toward successful women in sports",
+      "desc_ur": "The treatment of the famed ESPN reporter Holly Rowe reinforces a dark underbelly of misogyny in sports and society."
+    },
+    {
+      "title": "Watch: Protestors At Bessent's Congressional Hearing",
+      "desc": "Hecklers disrupt Bessent's congressional hearing, call him \"war criminal\" saying sanctions kill Iranians and Cubans, shouting \"HOW DARE YOU! HOW DARE YOU!\" just like the doom goblin. Bailiffs eject them from chamber. Bessent answers them calmly and with reaso…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4395668/posts",
+      "time": "2026-09-15T22:48:44",
+      "country": "Iran",
+      "title_ur": "Watch: Protestors At Bessent's Congressional Hearing",
+      "desc_ur": "Hecklers disrupt Bessent's congressional hearing, call him \"war criminal\" saying sanctions kill Iranians and Cubans, shouting \"HOW DARE YOU! HOW DARE YOU!\" just like the doom goblin. Bailiffs eject them from chamber. Bessent answers them calmly and with reaso…"
+    },
+    {
+      "title": "Tucker Carlson Issues Warning on Report of Israel Bomb Sale—'No Precedent'",
+      "desc": "Tucker Carlson wrote a lengthy social media post alleging that the United States is preparing to send 40,000 bombs to Israel, warning “there is no precedent for what the Trump administration is doing.”\nCarlson, the former Fox News host and supporter of Presid…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/f45e5d3e79ef6e3a",
+      "time": "2026-09-15T22:48:18",
+      "country": "Israel",
+      "title_ur": "Tucker Carlson Issues Warning on Report of Israel Bomb Sale—'No Precedent'",
+      "desc_ur": "Tucker Carlson wrote a lengthy social media post alleging that the United States is preparing to send 40,000 bombs to Israel, warning “there is no precedent for what the Trump administration is doing.”\nCarlson, the former Fox News host and supporter of Presid…"
+    },
+    {
+      "title": "Ed Sheeran faces cancellation as ALL remaining opening acts drop out of his tour after Macklemore was kicked off his tour following 'Free Palestine' speech",
+      "desc": "Macklemore shared a statement Monday alleging that he was kicked off Sheeran's US tour dates because of what he said on stage in support of Palestinians.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/tvshowbiz/article-16134327/ed-sheeran-tour-macklemore-palestine.html",
+      "time": "2026-09-15T22:42:11",
+      "country": "US",
+      "title_ur": "Ed Sheeran faces cancellation as ALL remaining opening acts drop out of his tour after Macklemore was kicked off his tour following 'Free Palestine' speech",
+      "desc_ur": "Macklemore shared a statement Monday alleging that he was kicked off Sheeran's US tour dates because of what he said on stage in support of Palestinians."
     }
   ],
   "pakistan": [
     {
-      "title": "Rom Braslavski: I’m afraid a Palestinian government will be established here",
-      "desc": "Captivity survivor Rom Braslavski spoke with Prime Minister Benjamin Netanyahu and admitted that despite their disagreements, he is very apprehensive about giving his vote to the left.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/433221",
-      "time": "2026-09-15T20:05:13",
+      "title": "China Charges Back Into The Oil Market As Hormuz Chaos Sends Crude Toward $110",
+      "desc": "China is returning to the global oil market after months of leaning heavily on its own crude stockpiles as Middle East disruptions squeeze supplies.",
+      "source": "The Daily Caller",
+      "url": "https://dailycaller.com/2026/09/15/china-oil-market-strait-hormuz-prices-surge-david-blackmon-stuart-turley-james-taylor",
+      "time": "2026-09-15T22:11:27",
       "country": "Pakistan",
-      "title_ur": "Rom Braslavski: I’m afraid a Palestinian government will be established here",
-      "desc_ur": "Captivity survivor Rom Braslavski spoke with Prime Minister Benjamin Netanyahu and admitted that despite their disagreements, he is very apprehensive about giving his vote to the left."
-    },
-    {
-      "title": "Oil Jumps on Saudi and Libya Outages",
-      "desc": "Brent neared $109 as pipeline and oil field disruptions tightened supplies.",
-      "source": "Rigzone",
-      "url": "https://www.rigzone.com/news/wire/oil_jumps_on_saudi_and_libya_outages-15-sep-2026-184624-article/?rss=true",
-      "time": "2026-09-15T19:44:08",
-      "country": "Pakistan",
-      "title_ur": "Oil Jumps on Saudi and Libya Outages",
-      "desc_ur": "Brent neared $109 as pipeline and oil field disruptions tightened supplies."
+      "title_ur": "China Charges Back Into The Oil Market As Hormuz Chaos Sends Crude Toward $110",
+      "desc_ur": "China is returning to the global oil market after months of leaning heavily on its own crude stockpiles as Middle East disruptions squeeze supplies."
     }
   ],
   "business": {
