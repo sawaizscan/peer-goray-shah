@@ -1,187 +1,167 @@
 {
-  "generated": "2026-09-17T07:00:52Z",
+  "generated": "2026-09-17T12:40:22Z",
   "world": [
     {
-      "title": "Hormuz Shipping Traffic Remains Stuck in Single Digits",
-      "desc": "Tanker traffic in the Strait of Hormuz remains a fraction of pre-war levels, with four vessels traversing the waterway on Tuesday, down from seven the previous day, Reuters has reported, citing ship-tracking data. The data does not include tankers that have t…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Shipping-Traffic-Remains-Stuck-in-Single-Digits.html",
-      "time": "2026-09-16T07:00:00",
+      "title": "US retail sales rebound sharply in August",
+      "desc": "WASHINGTON, Sept 16 (Reuters) - U.S. retail sales rebounded more than expected in August as households stepped up purchases of motor vehicles and stocked up...",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/economy/articles/us-retail-sales-rebound-sharply-123724094.html",
+      "time": "2026-09-16T12:37:24",
       "country": "US",
-      "title_ur": "Hormuz Shipping Traffic Remains Stuck in Single Digits",
-      "desc_ur": "Tanker traffic in the Strait of Hormuz remains a fraction of pre-war levels, with four vessels traversing the waterway on Tuesday, down from seven the previous day, Reuters has reported, citing ship-tracking data. The data does not include tankers that have t…"
+      "title_ur": "US retail sales rebound sharply in August",
+      "desc_ur": "WASHINGTON, Sept 16 (Reuters) - U.S. retail sales rebounded more than expected in August as households stepped up purchases of motor vehicles and stocked up..."
     },
     {
-      "title": "Kareena Kapoor's Top 10 Performances",
-      "desc": "From the adorably vain Poo to the free-spirited Geet, Kareena Kapoor Khan has delivered some memorable performances.",
-      "source": "Rediff.com",
-      "url": "https://www.rediff.com/movies/special/kareena-kapoor-khans-best-performances-10-memorable-roles-from-jab-we-met-to-the-buckingham-murders/20260916.htm",
-      "time": "2026-09-16T06:56:44",
-      "country": "International",
-      "title_ur": "Kareena Kapoor's Top 10 Performances",
-      "desc_ur": "From the adorably vain Poo to the free-spirited Geet, Kareena Kapoor Khan has delivered some memorable performances."
-    },
-    {
-      "title": "IDF, Shin Bet confirm killing of Hamas' Rafah Brigade commander in Gaza",
-      "desc": "Nael Abu Obeid had been working to rebuild Hamas' Rafah Brigade, according to Israel; the strike follows the killing of the group's Khan Yunis Brigade commander earlier this week",
-      "source": "Haaretz",
-      "url": "https://www.haaretz.com/israel-news/israel-security/2026-09-16/ty-article/.premium/idf-shin-bet-confirm-killing-of-hamas-rafah-brigade-commander-in-gaza/000001a0-a8f3-dcac-a1b5-bdfbfaf70000",
-      "time": "2026-09-16T06:49:34",
-      "country": "Israel",
-      "title_ur": "IDF, Shin Bet confirm killing of Hamas' Rafah Brigade commander in Gaza",
-      "desc_ur": "Nael Abu Obeid had been working to rebuild Hamas' Rafah Brigade, according to Israel; the strike follows the killing of the group's Khan Yunis Brigade commander earlier this week"
-    },
-    {
-      "title": "Why Yemen's Houthi rebels have only grown stronger through years of war",
-      "desc": "At various times over the last decade, Saudi Arabia, the United Arab Emirates, the United States, Britain and Israel have carried out punishing air raids on Yemen's Houthi rebels -- only to see them grow even stronger.\nNow, as the Iran-backed Houthis advance …",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/world-news/why-yemen-s-houthi-rebels-have-only-grown-stronger-through-years-of-war-126091600319_1.html",
-      "time": "2026-09-16T06:47:52",
-      "country": "Iran",
-      "title_ur": "Why Yemen's Houthi rebels have only grown stronger through years of war",
-      "desc_ur": "At various times over the last decade, Saudi Arabia, the United Arab Emirates, the United States, Britain and Israel have carried out punishing air raids on Yemen's Houthi rebels -- only to see them grow even stronger.\nNow, as the Iran-backed Houthis advance …"
-    },
-    {
-      "title": "Buildner Announces Winners of Architect’s Chair #5 and Launches Stockholm Furniture Fair Edition #6",
-      "desc": "Buildner is pleased to announce the results of its Architect's Chair Competition Edition 5, the fifth edition of the annual international competition inviting architects and designers worldwide to create a signature chair that reflects their individual design…",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1184973/buildner-announces-winners-of-architects-chair-number-5-and-launches-stockholm-furniture-fair-edition-number-6",
-      "time": "2026-09-16T06:45:00",
-      "country": "International",
-      "title_ur": "Buildner Announces Winners of Architect’s Chair #5 and Launches Stockholm Furniture Fair Edition #6",
-      "desc_ur": "Buildner is pleased to announce the results of its Architect's Chair Competition Edition 5, the fifth edition of the annual international competition inviting architects and designers worldwide to create a signature chair that reflects their individual design…"
-    },
-    {
-      "title": "IDF Chief responds to ‘Naza’ film: ‘Baseless lies and manipulations’",
-      "desc": "IDF Chief of Staff Eyal Zamir vows to fight attempts to slander IDF troops and commanders: 'IDF most moral military in the world.'",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/433240",
-      "time": "2026-09-16T06:44:53",
-      "country": "International",
-      "title_ur": "IDF Chief responds to ‘Naza’ film: ‘Baseless lies and manipulations’",
-      "desc_ur": "IDF Chief of Staff Eyal Zamir vows to fight attempts to slander IDF troops and commanders: 'IDF most moral military in the world.'"
-    },
-    {
-      "title": "US Market: Fed’s Warsh faces tough rate call as inflation remains sticky",
-      "desc": "Federal Reserve Chair Kevin Warsh is under pressure to balance persistent inflation with calls from President Donald Trump for lower or unchanged interest rates. Markets expect the Fed to raise rates at Wednesday’s meeting as inflation remains above its 2% ta…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-market-feds-warsh-faces-tough-rate-call-as-inflation-remains-sticky/articleshow/134280309.cms",
-      "time": "2026-09-16T06:44:12",
+      "title": "Pardoned by Trump and escaping charges at home, ex-Honduran leader’s case shows a nation’s struggle for sovereignty",
+      "desc": "Juan Orlando Hernández’s escape from legal accountability at home and abroad point to the larger challenges of democracy building under the shadow of US power.",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/pardoned-by-trump-and-escaping-charges-at-home-ex-honduran-leaders-case-shows-a-nations-struggle-for-sovereignty-290009",
+      "time": "2026-09-16T12:37:02",
       "country": "US",
-      "title_ur": "US Market: Fed’s Warsh faces tough rate call as inflation remains sticky",
-      "desc_ur": "Federal Reserve Chair Kevin Warsh is under pressure to balance persistent inflation with calls from President Donald Trump for lower or unchanged interest rates. Markets expect the Fed to raise rates at Wednesday’s meeting as inflation remains above its 2% ta…"
+      "title_ur": "Pardoned by Trump and escaping charges at home, ex-Honduran leader’s case shows a nation’s struggle for sovereignty",
+      "desc_ur": "Juan Orlando Hernández’s escape from legal accountability at home and abroad point to the larger challenges of democracy building under the shadow of US power."
     },
     {
-      "title": "Ed Sheeran's tour in trouble after opening acts drop out in solidarity with rapper Macklemore",
-      "desc": "Ed Sheeran's tour of North and South America was plunged into chaos when four of his supporting acts quit in solidarity with the rapper Macklemore, who was dropped for making pro-Palestinian comments.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/09/16/g-s1-143549/ed-sheeran-tour-trouble",
-      "time": "2026-09-16T06:41:48",
+      "title": "US energy secretary reports Strait of Hormuz oil flow at 11M bpd, roughly half of pre-war levels",
+      "desc": "The reduced oil flow through the Strait of Hormuz heightens global energy market volatility, impacting economies reliant on Persian Gulf exports.\nThe post US energy secretary reports Strait of Hormuz oil flow at 11M bpd, roughly half of pre-war levels appeare…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/hormuz-oil-flow-11-million-bpd-wright/",
+      "time": "2026-09-16T12:36:30",
       "country": "US",
-      "title_ur": "Ed Sheeran's tour in trouble after opening acts drop out in solidarity with rapper Macklemore",
-      "desc_ur": "Ed Sheeran's tour of North and South America was plunged into chaos when four of his supporting acts quit in solidarity with the rapper Macklemore, who was dropped for making pro-Palestinian comments."
+      "title_ur": "US energy secretary reports Strait of Hormuz oil flow at 11M bpd, roughly half of pre-war levels",
+      "desc_ur": "The reduced oil flow through the Strait of Hormuz heightens global energy market volatility, impacting economies reliant on Persian Gulf exports.\nThe post US energy secretary reports Strait of Hormuz oil flow at 11M bpd, roughly half of pre-war levels appeare…"
     },
     {
-      "title": "[Catholic Caucus Devotional] My Catholic Life! Catholic Daily Reflections: \nThe Sorrow and Joy of the Gospel - Wednesday, September 16, 2026",
-      "desc": "Daily Readings from the USCCBMemorial of Saints Cornelius, Pope, and Cyprian, Bishop, MartyrsJesus said to the crowds: “To what shall I compare the people of this generation? What are they like? They are like children who sit in the marketplace and call to on…",
+      "title": "New photos show widespread damage at U.S. positions caused by Iranian attacks",
+      "desc": "New photos obtained exclusively by CBS News reveal for the first time the widespread damage and destruction of buildings and vehicles at multiple U.S. positions across the Middle East, as a result of Iranian missile and drone attacks. The Defense Department's…",
       "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-religion/4395704/posts",
-      "time": "2026-09-16T06:38:51",
-      "country": "US",
-      "title_ur": "[Catholic Caucus Devotional] My Catholic Life! Catholic Daily Reflections: \nThe Sorrow and Joy of the Gospel - Wednesday, September 16, 2026",
-      "desc_ur": "Daily Readings from the USCCBMemorial of Saints Cornelius, Pope, and Cyprian, Bishop, MartyrsJesus said to the crowds: “To what shall I compare the people of this generation? What are they like? They are like children who sit in the marketplace and call to on…"
-    },
-    {
-      "title": "Saudi says Houthis targeted Mecca with a drone, Iran-backed group rejects claim",
-      "desc": "The Organization of Islamic Cooperation condemned the strike as a \"heinous\" attack. Mecca is Islam's holiest site and the focal point of the annual Hajj pilgrimage.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/16/us-iran-war-trump-hormuz.html",
-      "time": "2026-09-16T06:38:40",
+      "url": "https://freerepublic.com/focus/f-news/4395719/posts",
+      "time": "2026-09-16T12:36:24",
       "country": "Iran",
-      "title_ur": "Saudi says Houthis targeted Mecca with a drone, Iran-backed group rejects claim",
-      "desc_ur": "The Organization of Islamic Cooperation condemned the strike as a \"heinous\" attack. Mecca is Islam's holiest site and the focal point of the annual Hajj pilgrimage."
+      "title_ur": "New photos show widespread damage at U.S. positions caused by Iranian attacks",
+      "desc_ur": "New photos obtained exclusively by CBS News reveal for the first time the widespread damage and destruction of buildings and vehicles at multiple U.S. positions across the Middle East, as a result of Iranian missile and drone attacks. The Defense Department's…"
     },
     {
-      "title": "House Directs Trump to Halt War With Iran or Secure Congress’s Approval - The New York Times",
-      "desc": "House Directs Trump to Halt War With Iran or Secure Congress’s ApprovalThe New York Times Trump sees three new GOP defections in House vote to end Iran warCNN Iran live updates: House adopts Iran war powers resolution in rebuke of TrumpABC News - Breaking New…",
+      "title": "Fidan: Israel is greatest threat to Syria's stability",
+      "desc": "Turkish Foreign Minister Hakan Fidan said on Wednesday that Israel currently represents the \"greatest threat\" to Syria's stability because it is threatened by \"strong\" neighboring countries.\"The threa...",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/6f8fc1fb8f3d88c4",
+      "time": "2026-09-16T12:36:08",
+      "country": "Israel",
+      "title_ur": "Fidan: Israel is greatest threat to Syria's stability",
+      "desc_ur": "Turkish Foreign Minister Hakan Fidan said on Wednesday that Israel currently represents the \"greatest threat\" to Syria's stability because it is threatened by \"strong\" neighboring countries.\"The threa..."
+    },
+    {
+      "title": "Saudi Arabia Announces Major Rare Earth and Uranium Discovery in Islamic Holy City of Medina",
+      "desc": "The energy minister of Saudi Arabia announced this week that his government had discovered a 110-million-ton cache of rare-earth minerals and uranium in Medina, the second-holiest city in Islam, that the country is expected to develop to diversify its energy …",
+      "source": "Breitbart News",
+      "url": "https://www.breitbart.com/middle-east/2026/09/16/saudi-arabia-announces-major-rare-earth-and-uranium-discovery-in-islamic-holy-city-of-medina/",
+      "time": "2026-09-16T12:34:53",
+      "country": "Saudi Arabia",
+      "title_ur": "Saudi Arabia Announces Major Rare Earth and Uranium Discovery in Islamic Holy City of Medina",
+      "desc_ur": "The energy minister of Saudi Arabia announced this week that his government had discovered a 110-million-ton cache of rare-earth minerals and uranium in Medina, the second-holiest city in Islam, that the country is expected to develop to diversify its energy …"
+    },
+    {
+      "title": "Saudi Arabia calls an attempted Mecca attack a 'red line' as Houthis deny they did it - NPR",
+      "desc": "Saudi Arabia calls an attempted Mecca attack a 'red line' as Houthis deny they did itNPR Iran war live: Yemen crisis ramps up as Houthis battle Saudi-backed troopsAl Jazeera Houthis Claim They Downed Saudi Fighter Jet After Being Accused of Targeting MeccaThe…",
       "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185666338",
-      "time": "2026-09-16T06:33:06",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185668506",
+      "time": "2026-09-16T12:33:32",
       "country": "Iran",
-      "title_ur": "House Directs Trump to Halt War With Iran or Secure Congress’s Approval - The New York Times",
-      "desc_ur": "House Directs Trump to Halt War With Iran or Secure Congress’s ApprovalThe New York Times Trump sees three new GOP defections in House vote to end Iran warCNN Iran live updates: House adopts Iran war powers resolution in rebuke of TrumpABC News - Breaking New…"
+      "title_ur": "Saudi Arabia calls an attempted Mecca attack a 'red line' as Houthis deny they did it - NPR",
+      "desc_ur": "Saudi Arabia calls an attempted Mecca attack a 'red line' as Houthis deny they did itNPR Iran war live: Yemen crisis ramps up as Houthis battle Saudi-backed troopsAl Jazeera Houthis Claim They Downed Saudi Fighter Jet After Being Accused of Targeting MeccaThe…"
     },
     {
-      "title": "From Defense to Offense: Reclaiming the streets against Jew-hatred",
-      "desc": "Monthly rallies, now drawing hundreds of participants, are commanding real media attention. Opinion.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/433250",
-      "time": "2026-09-16T06:33:00",
-      "country": "International",
-      "title_ur": "From Defense to Offense: Reclaiming the streets against Jew-hatred",
-      "desc_ur": "Monthly rallies, now drawing hundreds of participants, are commanding real media attention. Opinion."
+      "title": "This 'runaway beer truck' is barreling toward Trump: Morning Joe",
+      "desc": "Defense Secretary Pete Hegseth was raked over the coals on MS NOW on Wednesday morning over reports of significant destruction to U.S. military facilities during the Iran war and munitions shortages.“Morning Joe” hosts Joe Scarborough and Mika Brzezinski ridi…",
+      "source": "Raw Story",
+      "url": "https://www.rawstory.com/hegseth-beer/",
+      "time": "2026-09-16T12:33:31",
+      "country": "Iran",
+      "title_ur": "This 'runaway beer truck' is barreling toward Trump: Morning Joe",
+      "desc_ur": "Defense Secretary Pete Hegseth was raked over the coals on MS NOW on Wednesday morning over reports of significant destruction to U.S. military facilities during the Iran war and munitions shortages.“Morning Joe” hosts Joe Scarborough and Mika Brzezinski ridi…"
     },
     {
-      "title": "Houthis seize strategic Red Sea islands as analysts warn of impending oil crunch",
-      "desc": "Militant group in Yemen captured the islands of Greater and Lesser Hanish, near the chokepoint of the Bab al-Mandab strait",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/09/16/houthis-seize-strategic-red-sea-islands-as-analysts-warn-of-impending-oil-crunch/",
-      "time": "2026-09-16T06:31:44",
-      "country": "Yemen",
-      "title_ur": "Houthis seize strategic Red Sea islands as analysts warn of impending oil crunch",
-      "desc_ur": "Militant group in Yemen captured the islands of Greater and Lesser Hanish, near the chokepoint of the Bab al-Mandab strait"
+      "title": "LyondellBasell (LYB) Retraces Amid Shifting Commodity Sentiment",
+      "desc": "Alluvium Asset Management, an asset management company, released its “Conventum – Alluvium Global Fund” second-quarter 2026 investor letter. The letter can b...",
+      "source": "Yahoo Entertainment",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lyondellbasell-lyb-retraces-amid-shifting-123131175.html",
+      "time": "2026-09-16T12:31:31",
+      "country": "India",
+      "title_ur": "LyondellBasell (LYB) Retraces Amid Shifting Commodity Sentiment",
+      "desc_ur": "Alluvium Asset Management, an asset management company, released its “Conventum – Alluvium Global Fund” second-quarter 2026 investor letter. The letter can b..."
     },
     {
-      "title": "Today in Germany: A roundup of the latest news on Wednesday",
-      "desc": "Organised crime in Germany getting more international, digitally connected and violent, school pupils in Bavaria evacuated after chlorine gas leak, drone maker forced underground amid suspected Russian threat and more news on Wednesday.",
-      "source": "The Local Germany",
-      "url": "https://www.thelocal.de/20260916/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-138",
-      "time": "2026-09-16T06:26:53",
-      "country": "Russia",
-      "title_ur": "Today in Germany: A roundup of the latest news on Wednesday",
-      "desc_ur": "Organised crime in Germany getting more international, digitally connected and violent, school pupils in Bavaria evacuated after chlorine gas leak, drone maker forced underground amid suspected Russian threat and more news on Wednesday."
+      "title": "US officials meet Yemen’s Iran-aligned Houthis in Oman talks",
+      "desc": "US-Houthi talks in Oman highlight shifting diplomatic strategies, potentially stabilizing Red Sea trade but straining US-Saudi relations.\nThe post US officials meet Yemen’s Iran-aligned Houthis in Oman talks appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/us-houthi-oman-talks-red-sea/",
+      "time": "2026-09-16T12:31:13",
+      "country": "Iran",
+      "title_ur": "US officials meet Yemen’s Iran-aligned Houthis in Oman talks",
+      "desc_ur": "US-Houthi talks in Oman highlight shifting diplomatic strategies, potentially stabilizing Red Sea trade but straining US-Saudi relations.\nThe post US officials meet Yemen’s Iran-aligned Houthis in Oman talks appeared first on Crypto Briefing."
     },
     {
-      "title": "Malaysia talks to rival airlines as it monitors AirAsia's financial health, sources say",
-      "desc": "AirAsia reportedly owes Malaysia Airports Holdings Berhad at least 500 million ringgit for services including landing and parking fees.",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/asia/air-asia-malaysia-airlines-financial-health-6388346",
-      "time": "2026-09-16T06:26:00",
-      "country": "International",
-      "title_ur": "Malaysia talks to rival airlines as it monitors AirAsia's financial health, sources say",
-      "desc_ur": "AirAsia reportedly owes Malaysia Airports Holdings Berhad at least 500 million ringgit for services including landing and parking fees."
+      "title": "U.S. Investigates Suspected Cyber Attacks on Texas-Bound Tankers",
+      "desc": "U.S. Coast Guard and Federal Bureau of Investigation (FBI) agents last month boarded tankers to probe suspected cyber attacks on the vessels bound for the U.S. Gulf Coast that allegedly took place while the ships were transiting the Strait of Gibraltar betwee…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Investigates-Suspected-Cyber-Attacks-on-Texas-Bound-Tankers.html",
+      "time": "2026-09-16T12:30:00",
+      "country": "US",
+      "title_ur": "U.S. Investigates Suspected Cyber Attacks on Texas-Bound Tankers",
+      "desc_ur": "U.S. Coast Guard and Federal Bureau of Investigation (FBI) agents last month boarded tankers to probe suspected cyber attacks on the vessels bound for the U.S. Gulf Coast that allegedly took place while the ships were transiting the Strait of Gibraltar betwee…"
+    },
+    {
+      "title": "Support acts pull out of Ed Sheeran tour over Macklemore removal",
+      "desc": "Yesterday, we broke down the events that led to Macklemore being removed from his support slot on Ed Sheeran’s US tour. There have been two big developments since.\nThe post is from Music Ally.",
+      "source": "Music Ally",
+      "url": "https://musically.com/2026/09/16/support-acts-pull-out-of-ed-sheeran-tour-over-macklemore-removal/",
+      "time": "2026-09-16T12:30:00",
+      "country": "US",
+      "title_ur": "Support acts pull out of Ed Sheeran tour over Macklemore removal",
+      "desc_ur": "Yesterday, we broke down the events that led to Macklemore being removed from his support slot on Ed Sheeran’s US tour. There have been two big developments since.\nThe post is from Music Ally."
+    },
+    {
+      "title": "At least 20 dead after Gaza apartment building collapses",
+      "desc": "Rescuers in Gaza searched through the ⁠wreckage of a bombed-out apartment building that collapsed overnight, killing at least 20 people, including children, and trapping dozens of others beneath the rubble.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/middle-east/2026/0916/1591774-israel-gaza/",
+      "time": "2026-09-16T12:29:27",
+      "country": "Israel",
+      "title_ur": "At least 20 dead after Gaza apartment building collapses",
+      "desc_ur": "Rescuers in Gaza searched through the ⁠wreckage of a bombed-out apartment building that collapsed overnight, killing at least 20 people, including children, and trapping dozens of others beneath the rubble."
+    },
+    {
+      "title": "India expresses concern over drone attack on Makkah, calls for West Asia peace and stability",
+      "desc": "India voiced deep concern regarding a recent drone attack near Makkah. Saudi authorities intercepted and destroyed a drone sent by Houthi militants. This incident occurred amid heightened tensions and previous Houthi attacks on Saudi infrastructure. India rei…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/india/india-expresses-concern-over-drone-attack-on-makkah-calls-for-west-asia-peace-and-stability/articleshow/134287647.cms",
+      "time": "2026-09-16T12:27:42",
+      "country": "India",
+      "title_ur": "India expresses concern over drone attack on Makkah, calls for West Asia peace and stability",
+      "desc_ur": "India voiced deep concern regarding a recent drone attack near Makkah. Saudi authorities intercepted and destroyed a drone sent by Houthi militants. This incident occurred amid heightened tensions and previous Houthi attacks on Saudi infrastructure. India rei…"
+    },
+    {
+      "title": "\"The Elimination Project\": Israel’s Systematic Dismantling of Palestinian Life in West Bank: B'Tselem",
+      "desc": "A major new report by the Israeli human rights group B’Tselem titled “The Elimination Project” accuses Israel of “dramatically intensifying its attacks on every aspect of Palestinian life in the West Bank.”\n“For too long, Israel’s policies in the West Bank ha…",
+      "source": "Democracy Now!",
+      "url": "https://www.democracynow.org/2026/9/16/btselem",
+      "time": "2026-09-16T12:26:46",
+      "country": "Israel",
+      "title_ur": "\"The Elimination Project\": Israel’s Systematic Dismantling of Palestinian Life in West Bank: B'Tselem",
+      "desc_ur": "A major new report by the Israeli human rights group B’Tselem titled “The Elimination Project” accuses Israel of “dramatically intensifying its attacks on every aspect of Palestinian life in the West Bank.”\n“For too long, Israel’s policies in the West Bank ha…"
     }
   ],
   "pakistan": [
     {
-      "title": "Army Chief Dhiraj Seth in Russia for 3-day visit to boost military cooperation",
-      "desc": "Army Chief Gen Dhiraj Seth is visiting Russia for three days starting Wednesday. He will discuss military cooperation and training with Russian officials. Gen Seth will also pay respects at the Tomb of the Unknown Soldier. The visit aims to strengthen the end…",
+      "title": "Russia squeezed, Saudi route hit, China circles: Why India's oil bill could get heavier",
+      "desc": "India is encountering soaring costs for crude oil imports due to ongoing global supply chain issues. Disruptions in Saudi oil export infrastructure and limitations on Russian shipments contribute to the turmoil. Additionally, China's rising thirst for Russian…",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/defence/army-chief-dhiraj-seth-in-russia-for-3-day-visit-to-boost-military-cooperation/articleshow/134280177.cms",
-      "time": "2026-09-16T06:37:42",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/russia-squeezed-saudi-route-hit-china-circles-why-indias-oil-bill-could-get-heavier/articleshow/134287455.cms",
+      "time": "2026-09-16T12:09:49",
       "country": "Pakistan",
-      "title_ur": "Army Chief Dhiraj Seth in Russia for 3-day visit to boost military cooperation",
-      "desc_ur": "Army Chief Gen Dhiraj Seth is visiting Russia for three days starting Wednesday. He will discuss military cooperation and training with Russian officials. Gen Seth will also pay respects at the Tomb of the Unknown Soldier. The visit aims to strengthen the end…"
-    },
-    {
-      "title": "Oil slips on US stock build, Middle East disruptions limit losses",
-      "desc": "Brent crude futures fell 73 cents, or 0.67 percent, to $108.02 a barrel at 0450 GMT",
-      "source": "The Daily Star",
-      "url": "https://www.thedailystar.net/business/news/oil-slips-us-stock-build-middle-east-disruptions-limit-losses-4274296",
-      "time": "2026-09-16T06:34:20",
-      "country": "Pakistan",
-      "title_ur": "Oil slips on US stock build, Middle East disruptions limit losses",
-      "desc_ur": "Brent crude futures fell 73 cents, or 0.67 percent, to $108.02 a barrel at 0450 GMT"
-    },
-    {
-      "title": "General strike in Kurdish cities marks Mahsa Amini death anniversary",
-      "desc": "The strike highlights growing civil unrest, potentially signaling regime instability and impacting market perceptions of Iran's future.\nThe post General strike in Kurdish cities marks Mahsa Amini death anniversary appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/general-strike-in-kurdish-cities-marks-mahsa-amini-death-anniversary/",
-      "time": "2026-09-16T06:17:22",
-      "country": "Pakistan",
-      "title_ur": "General strike in Kurdish cities marks Mahsa Amini death anniversary",
-      "desc_ur": "The strike highlights growing civil unrest, potentially signaling regime instability and impacting market perceptions of Iran's future.\nThe post General strike in Kurdish cities marks Mahsa Amini death anniversary appeared first on Crypto Briefing."
+      "title_ur": "Russia squeezed, Saudi route hit, China circles: Why India's oil bill could get heavier",
+      "desc_ur": "India is encountering soaring costs for crude oil imports due to ongoing global supply chain issues. Disruptions in Saudi oil export infrastructure and limitations on Russian shipments contribute to the turmoil. Additionally, China's rising thirst for Russian…"
     }
   ],
   "business": {
@@ -196,7 +176,7 @@
       {
         "date": "2026-09-17",
         "day": "جمعرات",
-        "high": 31,
+        "high": 30,
         "low": 22,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
@@ -206,33 +186,33 @@
         "date": "2026-09-18",
         "day": "جمعہ",
         "high": 32,
-        "low": 24,
-        "condition": "Clear",
-        "condition_ur": "صاف",
-        "precip": 24
+        "low": 23,
+        "condition": "Overcast",
+        "condition_ur": "ابر آلود",
+        "precip": 6
       },
       {
         "date": "2026-09-19",
         "day": "ہفتہ",
         "high": 34,
-        "low": 24,
+        "low": 23,
         "condition": "Clear",
         "condition_ur": "صاف",
-        "precip": 0
+        "precip": 2
       },
       {
         "date": "2026-09-20",
         "day": "اتوار",
         "high": 35,
-        "low": 24,
+        "low": 23,
         "condition": "Clear",
         "condition_ur": "صاف",
-        "precip": 0
+        "precip": 2
       },
       {
         "date": "2026-09-21",
         "day": "پیر",
-        "high": 36,
+        "high": 35,
         "low": 25,
         "condition": "Clear",
         "condition_ur": "صاف",
@@ -245,7 +225,7 @@
         "low": 25,
         "condition": "Clear",
         "condition_ur": "صاف",
-        "precip": 0
+        "precip": 18
       },
       {
         "date": "2026-09-23",
@@ -254,7 +234,7 @@
         "low": 26,
         "condition": "Light Drizzle",
         "condition_ur": "ہلکی بوندا باندی",
-        "precip": 16
+        "precip": 14
       }
     ]
   },
