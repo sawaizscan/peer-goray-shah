@@ -1,158 +1,179 @@
 {
-  "generated": "2026-09-18T11:34:22Z",
+  "generated": "2026-09-18T15:37:21Z",
   "world": [
     {
-      "title": "Coleman not included in Republic of Ireland squad",
-      "desc": "Seamus Coleman is not included in the Republic of Ireland squad for the forthcoming Nations League matches against Kosovo, Israel and Austria but Sheffield United's Liam Kitching receives a first call-up.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqlym1n2wrx1o",
-      "time": "2026-09-17T11:33:55",
-      "country": "Israel",
-      "title_ur": "کولمین جمہوریہ آئرلینڈ کے اسکواڈ میں شامل نہیں ہیں۔",
-      "desc_ur": "سیمس کولمین کوسوو، اسرائیل اور آسٹریا کے خلاف آئندہ نیشنز لیگ میچوں کے لیے جمہوریہ آئرلینڈ کے اسکواڈ میں شامل نہیں ہے لیکن شیفیلڈ یونائیٹڈ کے لیام کیچنگ کو پہلا کال ملا ہے۔"
+      "title": "A Russia Sanctions Bill Would Give Trump Vast New Tariff Powers",
+      "desc": "The bill, which passed the House and Senate, would let Trump impose tariffs up to 100 percent on certain countries, but it fails to properly define which.",
+      "source": "Reason",
+      "url": "https://reason.com/2026/09/17/a-russia-sanctions-bill-would-give-trump-vast-new-tariff-powers/",
+      "time": "2026-09-17T15:35:27",
+      "country": "Russia",
+      "title_ur": "روس پر پابندیوں کا بل ٹرمپ کو وسیع نئے ٹیرف اختیارات دے گا۔",
+      "desc_ur": "یہ بل، جسے ایوان اور سینیٹ سے منظور کیا گیا، ٹرمپ کو بعض ممالک پر 100 فیصد تک ٹیرف لگانے کی اجازت دے گا، لیکن یہ درست طریقے سے اس کی وضاحت کرنے میں ناکام ہے۔"
     },
     {
-      "title": "From Yanbu to Sohar: Tracking Saudi Arabia’s alternative oil routes - aljazeera.com",
-      "desc": "From Yanbu to Sohar: Tracking Saudi Arabia’s alternative oil routesaljazeera.com Global Oil Prices Could Hit Highest Levels in Months After Saudi Pipeline Attacksnytimes.com ‘They called us’: Has Trump abandoned Bab al-Mandeb to the Houthis?aljazeera.com Oil …",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185678990",
-      "time": "2026-09-17T11:33:17",
+      "title": "The group that helped Trump win is losing faith in America — but it isn't about politics",
+      "desc": "President Donald Trump won 43% of the Hispanic vote in 2024, up from 35% in 2020 – a big gain for Republicans. Now, as the midterms approach, Hispanic Americans across party lines are losing faith in the American Dream, and his administration’s immigration cr…",
+      "source": "Raw Story",
+      "url": "https://www.rawstory.com/hispanics-for-trump/",
+      "time": "2026-09-17T15:34:48",
       "country": "US",
-      "title_ur": "یانبو سے سہر تک: سعودی عرب کے تیل کے متبادل راستوں کا سراغ لگانا - aljazeera.com",
-      "desc_ur": "یانبو سے سہر تک: سعودی عرب کے متبادل تیل کے راستوں کا سراغ لگاناsaljazeera.com سعودی پائپ لائن پر حملے کے بعد تیل کی عالمی قیمتیں مہینوں میں بلند ترین سطح پر پہنچ سکتی ہیں 'انہوں نے ہمیں بلایا': کیا ٹرمپ نے باب المندب کو حوثیوں کے لیے چھوڑ دیا ہے؟ aljazeera.com تیل…"
+      "title_ur": "جس گروپ نے ٹرمپ کو جیتنے میں مدد کی وہ امریکہ میں اعتماد کھو رہا ہے - لیکن یہ سیاست کے بارے میں نہیں ہے۔",
+      "desc_ur": "صدر ڈونلڈ ٹرمپ نے 2024 میں ہسپانوی ووٹوں کا 43٪ جیتا تھا، جو 2020 میں 35٪ سے زیادہ تھا - یہ ریپبلکنز کے لیے ایک بڑا فائدہ ہے۔ اب، جیسے جیسے مڈٹرم قریب آرہا ہے، پارٹی لائنوں کے پار ہسپانوی امریکیوں کا امریکن ڈریم، اور اس کی انتظامیہ کی امیگریشن cr…"
     },
     {
-      "title": "Inside the suddenly explosive world of AI safety",
-      "desc": "On a sunny July day in Berkeley, California, the country's top AI safety researchers gathered on an unmarked floor of an unmarked building. They had come together for a \"war room\" to dissect the high-profile cybersecurity incident that had rocked the AI indus…",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic",
-      "time": "2026-09-17T11:30:17",
-      "country": "US",
-      "title_ur": "AI حفاظت کی اچانک دھماکہ خیز دنیا کے اندر",
-      "desc_ur": "برکلے، کیلیفورنیا میں جولائی کے ایک دھوپ والے دن، ملک کے اعلیٰ AI سیفٹی محققین ایک بے نشان عمارت کی ایک بے نشان منزل پر جمع ہوئے۔ وہ ایک \"وار روم\" کے لیے اکٹھے ہوئے تھے تاکہ ہائی پروفائل سائبر سیکیورٹی کے واقعے کا تجزیہ کیا جا سکے جس نے AI انڈس کو ہلا کر رکھ دیا تھا…"
-    },
-    {
-      "title": "Asian Games Cricket 2026: Predictions, schedule and complete guide to all the teams",
-      "desc": "India are tipped for a men's and women's clean sweep at Asian Games Cricket 2026. Get the full schedule, results and a team by team guide.",
-      "source": "Cricketnews.com",
-      "url": "https://www.cricketnews.com/en/cricket/play/asian-games-cricket-2026-predictions-schedule-complete-team-guide/786f67b62e666012467ad665",
-      "time": "2026-09-17T11:30:01",
-      "country": "India",
-      "title_ur": "ایشین گیمز کرکٹ 2026: تمام ٹیموں کے لیے پیشین گوئیاں، شیڈول اور مکمل گائیڈ",
-      "desc_ur": "ایشین گیمز کرکٹ 2026 میں ہندوستان کو مردوں اور خواتین کے کلین سویپ کے لیے اشارہ دیا گیا ہے۔ مکمل شیڈول، نتائج اور ٹیم گائیڈ کے لحاظ سے ایک ٹیم حاصل کریں۔"
-    },
-    {
-      "title": "Matt Fitzpatrick Doubts Dubai Title Defense Over Safety Fears",
-      "desc": "Defending champion Matt Fitzpatrick questions playing in Dubai amid Middle East conflict, citing safety concerns and a recent hotel attack in the region.",
-      "source": "Golferinsight.com",
-      "url": "https://golferinsight.com/matt-fitzpatrick-doubts-dubai-title-defense-over-safety-fears/",
-      "time": "2026-09-17T11:30:00",
-      "country": "International",
-      "title_ur": "میٹ فٹز پیٹرک نے دبئی ٹائٹل ڈیفنس کو سیفٹی کے خدشات پر شک کیا۔",
-      "desc_ur": "دفاعی چیمپیئن میٹ فٹز پیٹرک نے مشرق وسطیٰ کے تنازعات کے درمیان دبئی میں کھیلتے ہوئے سوال کیا، حفاظتی خدشات اور خطے میں حالیہ ہوٹل پر حملے کا حوالہ دیتے ہوئے۔"
-    },
-    {
-      "title": "How can Europe achieve its growth potential?",
-      "desc": "Business leaders from Microsoft, Volvo, EDF, and Mastercard outline the challenges and opportunities facing companies in Europe",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/09/17/how-can-europe-achieve-its-growth-potential-microsoft-volvo-mastercard-logitech-honeywell/",
-      "time": "2026-09-17T11:29:42",
-      "country": "US",
-      "title_ur": "یورپ اپنی ترقی کی صلاحیت کیسے حاصل کر سکتا ہے؟",
-      "desc_ur": "مائیکروسافٹ، وولوو، ای ڈی ایف، اور ماسٹر کارڈ کے کاروباری رہنما یورپ میں کمپنیوں کو درپیش چیلنجوں اور مواقع کا خاکہ پیش کرتے ہیں۔"
-    },
-    {
-      "title": "Robert Kraft pledges $2M for humanitarian aid as Macklemore faces fallout over venue ban",
-      "desc": "Robert Kraft revealed a $2 million humanitarian pledge after Ed Sheeran personally called, doubling Macklemore's donation before the rapper's challenge.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/outkick-sports/robert-kraft-pledges-2m-humanitarian-aid-macklemore-faces-fallout-venue-ban",
-      "time": "2026-09-17T11:22:24",
-      "country": "International",
-      "title_ur": "رابرٹ کرافٹ نے انسانی بنیادوں پر امداد کے لیے 2 ملین ڈالر دینے کا وعدہ کیا کیونکہ میکلمور کو پنڈال پر پابندی کا سامنا کرنا پڑا",
-      "desc_ur": "رابرٹ کرافٹ نے ایڈ شیران کے ذاتی طور پر فون کرنے کے بعد 2 ملین ڈالر کے انسانی ہمدردی کے وعدے کا انکشاف کیا، ریپر کے چیلنج سے پہلے میکلمور کے عطیہ کو دوگنا کر دیا۔"
-    },
-    {
-      "title": "Family of Putney Pusher suspect blame Met police for his death",
-      "desc": "Nicholas Brandram, who was descended from Queen Victoria, was arrested in June over the incident in 2017 in which a woman was shoved into the path of a double-decker bus.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16138963/Family-Putney-Pusher-suspect-blame-Met-police-death.html",
-      "time": "2026-09-17T11:21:35",
-      "country": "US",
-      "title_ur": "پٹنی پشر ملزم کے اہل خانہ نے میٹ پولیس کو اس کی موت کا ذمہ دار ٹھہرایا",
-      "desc_ur": "ملکہ وکٹوریہ سے تعلق رکھنے والے نکولس برینڈرم کو جون میں 2017 میں اس واقعے پر گرفتار کیا گیا تھا جس میں ایک خاتون کو ڈبل ڈیکر بس کے راستے میں پھینک دیا گیا تھا۔"
-    },
-    {
-      "title": "Iran Struggles to Shift Trade to Land From Sea",
-      "desc": "Plus, J.B. Hunt warns that costs will cut into profit, and U.S. retail sales rebounded in August.",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/1366952934bb4a3f",
-      "time": "2026-09-17T11:20:29",
-      "country": "Iran",
-      "title_ur": "ایران تجارت کو سمندر سے خشکی پر منتقل کرنے کے لیے جدوجہد کر رہا ہے۔",
-      "desc_ur": "اس کے علاوہ، جے بی ہنٹ نے خبردار کیا ہے کہ لاگت سے منافع میں کمی آئے گی، اور اگست میں امریکی خوردہ فروخت میں تیزی آئی۔"
-    },
-    {
-      "title": "Iran War: Saudi Transits Out of Strait of Hormuz Up Markedly But Diesel Crunch Acute as US Weighs Export Ban",
-      "desc": "[This Iran War post launched incomplete because I left my phone in a cab and went through a lot of hair-tearing and then running around, with the great help of a local American friend. The first launch version is therefore thin. The final should be up at 8:00…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/267a8ee2c761094e",
-      "time": "2026-09-17T11:20:28",
-      "country": "Iran",
-      "title_ur": "ایران جنگ: سعودی آبنائے ہرمز سے باہر نکل کر واضح طور پر اوپر پہنچ گئے لیکن امریکہ کی جانب سے برآمدی پابندی کے وزن کے باعث ڈیزل کی کمی شدید",
-      "desc_ur": "[ایران جنگ کی یہ پوسٹ نامکمل شروع کی گئی کیونکہ میں نے اپنا فون ٹیکسی میں چھوڑ دیا تھا اور ایک مقامی امریکی دوست کی مدد سے بہت سارے بال پھاڑ کر ادھر ادھر بھاگا تھا۔ اس لیے پہلا لانچ ورژن پتلا ہے۔ فائنل 8:00 بجے ہونا چاہیے…"
-    },
-    {
-      "title": "US, China security experts propose nuclear-style safeguards for AI risks",
-      "desc": "The experts, part of a US-China dialogue whose work helps inform official discussions, are urging both governments to prepare for such scenarios amid rising concerns about increasingly powerful and more autonomous systems.",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/tech/technology/us-china-security-experts-propose-nuclear-style-safeguards-for-ai-risks/articleshow/134310194.cms",
-      "time": "2026-09-17T11:20:04",
-      "country": "China",
-      "title_ur": "امریکہ، چین کے سیکورٹی ماہرین نے AI خطرات کے لیے جوہری طرز کے تحفظات تجویز کیے ہیں۔",
-      "desc_ur": "ماہرین، امریکہ اور چین کے مکالمے کا ایک حصہ جس کا کام سرکاری بات چیت کو مطلع کرنے میں مدد کرتا ہے، دونوں حکومتوں پر زور دے رہے ہیں کہ وہ تیزی سے طاقتور اور زیادہ خود مختار نظاموں کے بارے میں بڑھتے ہوئے خدشات کے درمیان ایسے منظرناموں کے لیے تیاری کریں۔"
-    },
-    {
-      "title": "How China’s Asian Games cricket campaign ended without a ball being bowled as Bangladesh advanced to the semis",
-      "desc": "China's cricket journey in the Asian Games came to an unforeseen halt, as their quarter-final clash with Bangladesh was called off due to a soaked outfield. Consequently, Bangladesh moved forward to the semi-finals, taking advantage of their superior internat…",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/asian-games-2026-womens-t20/how-chinas-asian-games-cricket-campaign-ended-without-a-ball-being-bowled-as-bangladesh-advanced-to-the-semis/articleshow/134302783.cms",
-      "time": "2026-09-17T11:20:00",
-      "country": "China",
-      "title_ur": "بنگلہ دیش کے سیمی فائنل میں پہنچنے پر چین کی ایشین گیمز کی کرکٹ مہم ایک گیند پھینکے بغیر کیسے ختم ہوئی۔",
-      "desc_ur": "ایشین گیمز میں چین کا کرکٹ کا سفر غیر متوقع طور پر رک گیا، کیونکہ بنگلہ دیش کے ساتھ ان کا کوارٹر فائنل میچ بھیگی آؤٹ فیلڈ کی وجہ سے منسوخ کر دیا گیا تھا۔ نتیجتاً، بنگلہ دیش نے اپنی بہترین انٹرنیٹ کا فائدہ اٹھاتے ہوئے سیمی فائنل میں جگہ بنالی۔"
-    },
-    {
-      "title": "China opposes US sanctions bill, says will not accept long-arm jurisdiction",
-      "desc": "China rejected the US \"long-arm jurisdiction\" to impose tariffs on purchases of Russian oil and gas, saying trade and economic cooperation with other countries should not be subject to interference",
+      "title": "US Bill empowers Trump to target India with 100% tariff over Russian energy",
+      "desc": "The legislation gives President Donald Trump discretion to impose tariffs of up to 100 per cent on major buyers of Russian energy, including India, but does not trigger them automatically",
       "source": "Business Standard",
-      "url": "https://www.business-standard.com/world-news/china-opposes-us-sanctions-bill-says-will-not-accept-long-arm-jurisdiction-126091700751_1.html",
-      "time": "2026-09-17T11:18:13",
-      "country": "Russia",
-      "title_ur": "چین نے امریکی پابندیوں کے بل کی مخالفت کرتے ہوئے کہا ہے کہ طویل بازو کے دائرہ اختیار کو قبول نہیں کریں گے۔",
-      "desc_ur": "چین نے روس کے تیل اور گیس کی خریداری پر محصولات عائد کرنے کے امریکی \"طویل بازو کے دائرہ اختیار\" کو مسترد کرتے ہوئے کہا کہ دوسرے ممالک کے ساتھ تجارتی اور اقتصادی تعاون کو مداخلت سے مشروط نہیں کیا جانا چاہئے۔"
+      "url": "https://www.business-standard.com/india-news/us-bill-empowers-trump-to-target-india-with-100-tariff-over-russian-energy-126091701380_1.html",
+      "time": "2026-09-17T15:33:40",
+      "country": "India",
+      "title_ur": "امریکی بل ٹرمپ کو اختیار دیتا ہے کہ وہ روسی توانائی پر 100 فیصد ٹیرف کے ساتھ ہندوستان کو نشانہ بنائیں",
+      "desc_ur": "یہ قانون صدر ڈونلڈ ٹرمپ کو روس کے توانائی کے بڑے خریداروں بشمول ہندوستان پر 100 فیصد تک ٹیرف لگانے کی صوابدید دیتا ہے، لیکن خود بخود انہیں متحرک نہیں کرتا ہے۔"
     },
     {
-      "title": "Sheff Utd's Kitching earns first international call",
-      "desc": "Sheffield United defender Liam Kitching earns his first senior international call-up for the Republic of Ireland's Nations League campaign.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/sport/football/articles/cm780xe073lqo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
-      "time": "2026-09-17T11:16:09",
+      "title": "Burnham's political donations headache",
+      "desc": "Reform UK received two £36 million donations from crypto billionaire Ben Delo. This has sent shockwaves through Westminster and thrown the question of political finance reform into sharp relief.Labour is caught in an uncomfortable bind - appalled by the scale…",
+      "source": "Acast.com",
+      "url": "https://shows.acast.com/newstatesman/episodes/burnhams-political-donations-headache",
+      "time": "2026-09-17T15:33:31",
+      "country": "UK",
+      "title_ur": "برنہم کے سیاسی عطیات سر درد",
+      "desc_ur": "ریفارم یوکے کو کرپٹو ارب پتی بین ڈیلو سے £36 ملین کے دو عطیات ملے۔ اس نے ویسٹ منسٹر میں صدمے کی لہریں بھیجی ہیں اور سیاسی مالیاتی اصلاحات کے سوال کو شدید ریلیف میں ڈال دیا ہے۔ لیبر ایک غیر آرام دہ بندھن میں پھنس گیا ہے - پیمانے سے حیران…"
+    },
+    {
+      "title": "U.N.-backed experts cite possible U.S. war crimes in Iran, including a school attack - NPR",
+      "desc": "U.N.-backed experts cite possible U.S. war crimes in Iran, including a school attackNPR UN-backed experts cite possible US war crimes in Iran strikesAP News U.N. finds grounds U.S. committed war crimes in Iran school bombingYahoo Iran War Updates: U.N. panel …",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185680608",
+      "time": "2026-09-17T15:33:19",
+      "country": "Iran",
+      "title_ur": "اقوام متحدہ کے حمایت یافتہ ماہرین نے ایران میں ممکنہ امریکی جنگی جرائم کا حوالہ دیا، بشمول اسکول پر حملہ - NPR",
+      "desc_ur": "اقوام متحدہ کے حمایت یافتہ ماہرین نے ایران میں ممکنہ امریکی جنگی جرائم کا حوالہ دیا، بشمول ایک اسکول حملہNPR اقوام متحدہ کے حمایت یافتہ ماہرین نے ایران میں ممکنہ امریکی جنگی جرائم کا حوالہ دیا ہے حملے"
+    },
+    {
+      "title": "Trump administration denies entry visas to Palestinian officials ahead of UN general assembly - The Guardian",
+      "desc": "Trump administration denies entry visas to Palestinian officials ahead of UN general assemblyThe Guardian U.S. denies visas to Palestinian officials ahead of U.N. General AssemblyThe Washington Post US rejects Abbas’s entry visa, forcing him to again address …",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185680588",
+      "time": "2026-09-17T15:33:08",
+      "country": "US",
+      "title_ur": "ٹرمپ انتظامیہ نے اقوام متحدہ کی جنرل اسمبلی سے قبل فلسطینی حکام کو انٹری ویزے دینے سے انکار کر دیا – The Guardian",
+      "desc_ur": "ٹرمپ انتظامیہ نے اقوام متحدہ کی جنرل اسمبلی سے قبل فلسطینی حکام کو انٹری ویزا دینے سے انکار کر دیا گارڈین امریکہ نے اقوام متحدہ کی جنرل اسمبلی سے قبل فلسطینی حکام کو ویزے دینے سے انکار کر دیا واشنگٹن پوسٹ امریکہ نے عباس کا داخلہ ویزا مسترد کر دیا، انہیں دوبارہ خطاب کرنے پر مجبور کر دیا…"
+    },
+    {
+      "title": "SC suspends Imaan Mazari, husband's sentences in controversial tweets case - Geo News",
+      "desc": "SC suspends Imaan Mazari, husband's sentences in controversial tweets caseGeo News SC suspends Imaan, Hadi's sentences in controversial social media posts case, orders their releasedawn.com SC suspends trial court order, grants bail to Imaan Mazari, Hadi Ali …",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185680576",
+      "time": "2026-09-17T15:32:57",
+      "country": "US",
+      "title_ur": "سپریم کورٹ نے متنازع ٹویٹس کیس میں ایمان مزاری اور ان کے شوہر کی سزائیں معطل کر دیں - جیو نیوز",
+      "desc_ur": "سپریم کورٹ نے متنازعہ ٹویٹس کیس میں ایمان مزاری اور شوہر کی سزا معطل کر دی جیو نیوز متنازع سوشل میڈیا پوسٹس کیس میں سپریم کورٹ نے ایمان اور ہادی کی سزائیں معطل کر دیں، ان کی رہائی کے احکامات جاری"
+    },
+    {
+      "title": "General Motors Will Build Patriot Missile Parts To Help Spread Freedom Across The Globe",
+      "desc": "The General is set to supply parts for Lockheed Martin Patriot missiles in a bid to lift the U.S.'s munitions supplies.",
+      "source": "Jalopnik",
+      "url": "https://www.jalopnik.com/2261286/gm-patriot-missile-parts-freedom/",
+      "time": "2026-09-17T15:31:39",
       "country": "International",
-      "title_ur": "Sheff Utd's Kitching نے پہلی بین الاقوامی کال حاصل کی۔",
-      "desc_ur": "شیفیلڈ یونائیٹڈ کے محافظ لیام کیچنگ نے جمہوریہ آئرلینڈ کی نیشنز لیگ مہم کے لیے اپنا پہلا سینئر بین الاقوامی کال اپ حاصل کیا۔"
+      "title_ur": "جنرل موٹرز دنیا بھر میں آزادی کو پھیلانے میں مدد کے لیے پیٹریاٹ میزائل کے پرزے بنائے گی۔",
+      "desc_ur": "جنرل لاک ہیڈ مارٹن پیٹریاٹ میزائلوں کے پرزے فراہم کرنے کے لیے تیار ہے تاکہ امریکی جنگی سازوسامان کی سپلائی اٹھا سکے۔"
     },
     {
-      "title": "AI bosses say they can self-regulate and House passes Russia sanctions bill: Morning Rundown",
-      "desc": "AI executives call for self-regulation of their companies’ technology.",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/news/us-news/tech-ai-safety-regulation-house-russia-sanctions-morning-rundown-rcna598280",
-      "time": "2026-09-17T11:15:19",
-      "country": "Russia",
-      "title_ur": "اے آئی کے مالکان کا کہنا ہے کہ وہ خود کو منظم کر سکتے ہیں اور ہاؤس روس کی پابندیوں کا بل پاس کرتا ہے: مارننگ رن ڈاؤن",
-      "desc_ur": "AI ایگزیکٹوز اپنی کمپنیوں کی ٹکنالوجی کے خود ضابطے کا مطالبہ کرتے ہیں۔"
+      "title": "Trump Fantasizes About Dipping Iwo Jima Memorial in Gold",
+      "desc": "Donald Trump posted an image to Truth Social depicting the Marine Corps War Memorial, also know as the Iwo Jima Memorial, coated in gold.",
+      "source": "Rolling Stone",
+      "url": "http://www.rollingstone.com/politics/politics-news/trump-fantasizes-iwo-jima-memorial-gold-1235628351/",
+      "time": "2026-09-17T15:31:31",
+      "country": "US",
+      "title_ur": "ٹرمپ نے Iwo Jima میموریل کو سونے میں ڈبونے کے بارے میں تصور کیا۔",
+      "desc_ur": "ڈونلڈ ٹرمپ نے ٹروتھ سوشل پر ایک تصویر پوسٹ کی ہے جس میں میرین کور وار میموریل کو دکھایا گیا ہے، جسے Iwo Jima میموریل کے نام سے بھی جانا جاتا ہے، جو سونے میں لپٹی ہوئی ہے۔"
+    },
+    {
+      "title": "The Case for the Case Study",
+      "desc": "What happens when we look beyond the statistical average? A Holocaust study, individual outliers, and \"Fauda\" reveal why understanding people requires more than examining averages.",
+      "source": "Psychology Today",
+      "url": "https://www.psychologytoday.com/us/blog/justice-matters/202609/the-case-for-the-case-study",
+      "time": "2026-09-17T15:30:17",
+      "country": "US",
+      "title_ur": "کیس اسٹڈی کے لیے کیس",
+      "desc_ur": "جب ہم شماریاتی اوسط سے آگے دیکھتے ہیں تو کیا ہوتا ہے؟ ہولوکاسٹ کا مطالعہ، انفرادی آؤٹ لیرز، اور \"فاؤڈا\" سے پتہ چلتا ہے کہ لوگوں کو سمجھنے کے لیے اوسط کی جانچ کرنے سے زیادہ کیوں ضرورت ہوتی ہے۔"
+    },
+    {
+      "title": "What Comes Next After the Conviction Of Kosovo's Former President?",
+      "desc": "Former Kosovo President Hashim Thaci and three other former leaders of the Kosovo Liberation Army are preparing to challenge their war-crimes convictions, while the prosecutors will also review the full judgment, including the four men’s acquittal on several …",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "url": "https://www.rferl.org/a/conviction-kosovo-former-president-thaci-war-crimes-serbia/33858188.html",
+      "time": "2026-09-17T15:25:29",
+      "country": "International",
+      "title_ur": "کوسوو کے سابق صدر کو سزا سنائے جانے کے بعد آگے کیا ہوگا؟",
+      "desc_ur": "کوسوو کے سابق صدر ہاشم تھاچی اور کوسوو لبریشن آرمی کے تین دیگر سابق رہنما اپنے جنگی جرائم کی سزاؤں کو چیلنج کرنے کی تیاری کر رہے ہیں، جب کہ استغاثہ مکمل فیصلے کا بھی جائزہ لیں گے، جس میں چار افراد کی بریت سمیت متعدد…"
+    },
+    {
+      "title": "The new school year in Gaza begins in tents",
+      "desc": "For the fourth consecutive year, hundreds of thousands of Gaza’s children return not to classrooms, but to fabric shelters and makeshift wooden structures, holding onto traces of a school system Israel’s genocide has destroyed.",
+      "source": "Mondoweiss",
+      "url": "https://mondoweiss.net/2026/09/the-new-school-year-in-gaza-begins-in-tents/",
+      "time": "2026-09-17T15:25:23",
+      "country": "Israel",
+      "title_ur": "غزہ میں نئے تعلیمی سال کا آغاز خیموں میں ہو رہا ہے۔",
+      "desc_ur": "مسلسل چوتھے سال، غزہ کے لاکھوں بچے کلاس رومز میں نہیں بلکہ تانے بانے سے بنی پناہ گاہوں اور لکڑی کے عارضی ڈھانچے کی طرف لوٹ رہے ہیں، جو اسرائیل کی نسل کشی کے تباہ شدہ اسکولوں کے نظام کے نشانات کو تھامے ہوئے ہیں۔"
+    },
+    {
+      "title": "Patriots billionaire Robert Kraft reveals Ed Sheeran crisis talks and singer's $2m plea after Macklemore 'ultimatum' threw tour into chaos",
+      "desc": "Macklemore, aka Benjamin Haggerty, was dropped after he delivered a politically motivated speech in support of Palestinians in Gaza and the West Bank during his performances in New York.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/sport/nfl/article-16139681/robert-kraft-ed-sheeran-macklemore-tour.html",
+      "time": "2026-09-17T15:24:25",
+      "country": "Israel",
+      "title_ur": "محب وطن ارب پتی رابرٹ کرافٹ نے میکلمور کے 'الٹی میٹم' کے دورے کو افراتفری میں ڈالنے کے بعد ایڈ شیران کے بحران کی بات چیت اور گلوکار کی 2 ملین ڈالر کی درخواست کا انکشاف کیا۔",
+      "desc_ur": "میکل مور عرف بنجمن ہیگرٹی کو اس وقت ڈراپ کر دیا گیا جب اس نے نیویارک میں اپنی پرفارمنس کے دوران غزہ اور مغربی کنارے میں فلسطینیوں کی حمایت میں سیاسی طور پر حوصلہ افزا تقریر کی۔"
+    },
+    {
+      "title": "Camtek projects 25% revenue growth in advanced packaging business",
+      "desc": "Camtek's projected growth in advanced packaging underscores the increasing demand for sophisticated semiconductor solutions, driving industry innovation.\nThe post Camtek projects 25% revenue growth in advanced packaging business appeared first on Crypto Brief…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/camtek-advanced-packaging-revenue-growth/",
+      "time": "2026-09-17T15:24:24",
+      "country": "US",
+      "title_ur": "کیمٹیک ایڈوانس پیکیجنگ بزنس میں 25% ریونیو میں اضافے کی منصوبہ بندی کرتا ہے۔",
+      "desc_ur": "اعلی درجے کی پیکیجنگ میں کیمٹیک کی متوقع ترقی جدید ترین سیمی کنڈکٹر حل کی بڑھتی ہوئی مانگ کو واضح کرتی ہے، صنعت کی جدت کو آگے بڑھاتی ہے۔\nThe post کیمٹیک نے اعلی درجے کی پیکیجنگ کے کاروبار میں آمدنی میں 25 فیصد اضافے کا منصوبہ پیش کیا appeared first on Crypto Brief…"
+    },
+    {
+      "title": "Explosion reported in Strait of Hormuz",
+      "desc": "An explosion occurred in the Strait of Hormuz, Sabereen News, affiliated with Iran-backed militia networks, reported on Thursday.According to the media outlet, Iran's Islamic Revolutionary Guard Corps...",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/996360d2487f80e8",
+      "time": "2026-09-17T15:22:58",
+      "country": "Iran",
+      "title_ur": "آبنائے ہرمز میں دھماکے کی اطلاع ہے۔",
+      "desc_ur": "آبنائے ہرمز میں ایک دھماکہ ہوا، سبرین نیوز، جو ایران کے حمایت یافتہ ملیشیا نیٹ ورکس سے وابستہ ہے، جمعرات کو رپورٹ کیا گیا۔ میڈیا آؤٹ لیٹ کے مطابق، ایران کے اسلامی انقلابی گارڈ کور..."
     }
   ],
-  "pakistan": [],
+  "pakistan": [
+    {
+      "title": "Pakistan acknowledges India's participation in anti-terrorism meeting, calls terrorism a common challenge",
+      "desc": "Pakistan acknowledged India's participation in a recent regional anti-terrorism meeting. Terrorism was described as a common challenge for both nations during the event. Pakistani officials denied reports of Sikh pilgrims being stopped from traveling to India…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/india/pakistan-acknowledges-indias-participation-in-anti-terrorism-meeting-calls-terrorism-a-common-challenge/articleshow/134315719.cms",
+      "time": "2026-09-17T15:13:31",
+      "country": "Pakistan",
+      "title_ur": "پاکستان نے انسداد دہشت گردی اجلاس میں ہندوستان کی شرکت کو تسلیم کرتے ہوئے دہشت گردی کو مشترکہ چیلنج قرار دے دیا",
+      "desc_ur": "پاکستان نے حالیہ علاقائی انسداد دہشت گردی اجلاس میں ہندوستان کی شرکت کو تسلیم کیا۔ تقریب کے دوران دہشت گردی کو دونوں ممالک کے لیے مشترکہ چیلنج قرار دیا گیا۔ پاکستانی حکام نے سکھ یاتریوں کو بھارت جانے سے روکنے کی خبروں کی تردید…"
+    },
+    {
+      "title": "Asian Games 2026: Fatima Sana shines as Pakistan women beat Thailand by 3 wickets, enter semifinal",
+      "desc": "Pakistan women booked their place in the semifinal of the Asian Games 2026 after beating Thailand by three wickets in a rain-curtailed 11-over game at the Korogi Sports Park in Nisshin. The match was reduced to 11 overs per side because of a wet outfield. Pak…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/asian-games-2026-womens-t20/asian-games-2026-fatima-sana-shines-as-pakistan-women-beat-thailand-by-3-wickets-enter-semifinal/articleshow/134307386.cms",
+      "time": "2026-09-17T15:03:00",
+      "country": "Pakistan",
+      "title_ur": "ایشین گیمز 2026: فاطمہ ثناء کی چمک، پاکستانی خواتین نے تھائی لینڈ کو 3 وکٹوں سے ہرا کر سیمی فائنل میں جگہ بنالی",
+      "desc_ur": "پاکستان ویمن نے ایشین گیمز 2026 کے سیمی فائنل میں اپنی جگہ محفوظ کر لی ہے جس میں نیشین کے کوروگی اسپورٹس پارک میں بارش کی وجہ سے 11 اوور کے کھیل میں تھائی لینڈ کو تین وکٹوں سے شکست دے کر فائنل میں جگہ بنا لی ہے۔ گیلے آؤٹ فیلڈ کی وجہ سے میچ کو 11 اوورز فی سائیڈ کر دیا گیا۔ پاک…"
+    }
+  ],
   "business": {
     "quote": "Opportunities come infrequently. When it rains gold, put out a bucket, not a thimble.",
     "author": "Warren Buffett",
@@ -165,7 +186,7 @@
       {
         "date": "2026-09-18",
         "day": "جمعہ",
-        "high": 31,
+        "high": 32,
         "low": 21,
         "condition": "Heavy Drizzle",
         "condition_ur": "تیز بوندا باندی",
@@ -175,16 +196,16 @@
         "date": "2026-09-19",
         "day": "ہفتہ",
         "high": 33,
-        "low": 24,
+        "low": 23,
         "condition": "Clear",
         "condition_ur": "صاف",
-        "precip": 0
+        "precip": 2
       },
       {
         "date": "2026-09-20",
         "day": "اتوار",
-        "high": 34,
-        "low": 24,
+        "high": 33,
+        "low": 23,
         "condition": "Clear",
         "condition_ur": "صاف",
         "precip": 0
@@ -193,7 +214,7 @@
         "date": "2026-09-21",
         "day": "پیر",
         "high": 34,
-        "low": 24,
+        "low": 23,
         "condition": "Clear",
         "condition_ur": "صاف",
         "precip": 0
@@ -202,25 +223,25 @@
         "date": "2026-09-22",
         "day": "منگل",
         "high": 35,
-        "low": 25,
+        "low": 24,
         "condition": "Mainly Clear",
         "condition_ur": "زیادہ تر صاف",
-        "precip": 4
+        "precip": 0
       },
       {
         "date": "2026-09-23",
         "day": "بدھ",
-        "high": 37,
+        "high": 36,
         "low": 26,
-        "condition": "Mainly Clear",
-        "condition_ur": "زیادہ تر صاف",
+        "condition": "Clear",
+        "condition_ur": "صاف",
         "precip": 10
       },
       {
         "date": "2026-09-24",
         "day": "جمعرات",
         "high": 35,
-        "low": 26,
+        "low": 25,
         "condition": "Light Drizzle",
         "condition_ur": "ہلکی بوندا باندی",
         "precip": 29
