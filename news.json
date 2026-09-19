@@ -1,167 +1,187 @@
 {
-  "generated": "2026-09-19T19:53:32Z",
+  "generated": "2026-09-19T22:01:58Z",
   "world": [
     {
-      "title": "Iranians storm streets in govt's show of strength",
-      "desc": "Iran's government has sought to rally the people and stress national unity. Estimates varied of the number of people volunteering to receive limited military training and defend the country in an effort described as \"Janfaday-e Iran,\" or the \"ones who sacrifi…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/iranians-storm-streets-in-govts-show-of-strength/articleshow/134343578.cms",
-      "time": "2026-09-18T19:50:57",
-      "country": "Iran",
-      "title_ur": "حکومتی طاقت کے مظاہرہ میں ایرانی سڑکوں پر نکل آئے",
-      "desc_ur": "ایران کی حکومت نے عوام کو اکٹھا کرنے اور قومی اتحاد پر زور دینے کی کوشش کی ہے۔ \"جنفادی ایران\" یا \"قربانی کرنے والے…"
-    },
-    {
-      "title": "Mulshi industrial units complain of traffic & power supply woes",
-      "desc": "Mulshi MSMEs flag bad roads, daily power cuts and traffic jams in Pirangut industrial belt; MIA seeks new substation, road fixes and bus stop shift.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/pune/mulshi-industrial-units-complain-of-traffic-power-supply-woes/articleshow/134343608.cms",
-      "time": "2026-09-18T19:50:09",
-      "country": "Iran",
-      "title_ur": "ملشی صنعتی یونٹس ٹریفک اور بجلی کی فراہمی کے مسائل کی شکایت کرتے ہیں۔",
-      "desc_ur": "ملشی MSMEs نے پیرنگوت صنعتی پٹی میں خراب سڑکوں، روزانہ بجلی کی کٹوتی اور ٹریفک جام کو جھنجھوڑ دیا۔ MIA نئے سب سٹیشن، سڑکوں کو ٹھیک کرنے اور بس سٹاپ کی شفٹ کی تلاش میں ہے۔"
-    },
-    {
-      "title": "AI brings creative twist to Ganapati reels this festive season",
-      "desc": "Pune Ganeshotsav gets an AI boost as residents use image and video tools to create cinematic Bappa visuals, animated family reels, wallpapers and visarjan videos.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/pune/ai-brings-creative-twist-to-ganapati-reels-this-festive-season/articleshow/134343606.cms",
-      "time": "2026-09-18T19:50:02",
-      "country": "US",
-      "title_ur": "AI اس تہوار کے موسم میں گنپتی ریلز میں تخلیقی موڑ لاتا ہے۔",
-      "desc_ur": "پونے گنیشوتسو کو ایک AI فروغ ملتا ہے کیونکہ باشندے سنیما بپا ویژول، اینی میٹڈ فیملی ریلز، وال پیپرز اور ویسرجن ویڈیوز بنانے کے لیے امیج اور ویڈیو ٹولز کا استعمال کرتے ہیں۔"
-    },
-    {
-      "title": "Two sentenced to life imprisonment for killing 17-yr-old girl in Sultanpur",
-      "desc": "Fast-track court in Sultanpur sentences Subhash and Jaikaran Chauhan to life for 2020 murder of 17-year-old student, allegedly burned over land dispute.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/lucknow/two-sentenced-to-life-imprisonment-for-killing-17-yr-old-girl-in-sultanpur/articleshow/134343604.cms",
-      "time": "2026-09-18T19:49:56",
-      "country": "International",
-      "title_ur": "سلطان پور میں 17 سالہ لڑکی کو قتل کرنے والے دو مجرموں کو عمر قید کی سزا سنادی گئی۔",
-      "desc_ur": "سلطان پور کی فاسٹ ٹریک عدالت نے سبھاش اور جیکرن چوہان کو 2020 میں زمین کے تنازعہ پر مبینہ طور پر جلائے گئے 17 سالہ طالب علم کے قتل کے جرم میں عمر قید کی سزا سنائی۔"
-    },
-    {
-      "title": "He was looking for work, says family of youth arrested for AQIS links",
-      "desc": "Family of 19-year-old Maqsood Ali arrested by Tamil Nadu and Lucknow ATS for alleged AQIS links says he left home seeking work; probe focuses on online contacts.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/lucknow/he-was-looking-for-work-says-family-of-youth-arrested-for-aqis-links/articleshow/134343598.cms",
-      "time": "2026-09-18T19:49:34",
-      "country": "US",
-      "title_ur": "AQIS لنکس کے الزام میں گرفتار نوجوانوں کے خاندان کا کہنا ہے کہ وہ کام کی تلاش میں تھا۔",
-      "desc_ur": "تمل ناڈو اور لکھنؤ اے ٹی ایس کے ذریعہ AQIS سے تعلق کے الزام میں گرفتار 19 سالہ مقصود علی کے اہل خانہ کا کہنا ہے کہ وہ کام کی تلاش میں گھر سے نکلا تھا۔ تحقیقات آن لائن رابطوں پر مرکوز ہے۔"
-    },
-    {
-      "title": "Abdul El-Sayed claims JD Vance’s beard is fake after VP mocks ‘patchy’ Dem: ‘I’m all natural, bro’",
-      "desc": "\"Let's just actually see how much paste did you have to put on your face to get that little weak beard?\" El-Sayed taunted Vance in an interview with TMZ.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/09/18/us-news/abdul-el-sayed-claims-jd-vances-beard-is-fake-after-vp-mocks-patchy-dem-im-all-natural-bro/",
-      "time": "2026-09-18T19:49:10",
-      "country": "US",
-      "title_ur": "عبد السید نے دعوی کیا کہ جے ڈی وینس کی داڑھی جعلی ہے جب وی پی نے 'پیچی' ڈیم کا مذاق اڑایا: 'میں بالکل فطری ہوں، بھائی'",
-      "desc_ur": "\"آئیے اصل میں دیکھتے ہیں کہ اس چھوٹی سی کمزور داڑھی کو حاصل کرنے کے لیے آپ کو اپنے چہرے پر کتنا پیسٹ لگانا پڑا؟\" ال سید نے ٹی ایم زیڈ کے ساتھ ایک انٹرویو میں وانس پر طنز کیا۔"
-    },
-    {
-      "title": "Delhi court remands foreign national to Tihar in immigration escape case",
-      "desc": "Delhi court remands foreign national Jordan Brown to Tihar Jail till Sept 29 in alleged immigration escape case; arrested near India-Nepal border for lacking documents.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/lucknow/delhi-court-remands-foreign-national-to-tihar-in-immigration-escape-case/articleshow/134343589.cms",
-      "time": "2026-09-18T19:48:34",
-      "country": "India",
-      "title_ur": "دہلی کی عدالت نے امیگریشن فرار کیس میں غیر ملکی شہری کو تہاڑ بھیج دیا۔",
-      "desc_ur": "دہلی کی عدالت نے مبینہ امیگریشن فرار کیس میں غیر ملکی شہری جارڈن براؤن کو 29 ستمبر تک تہاڑ جیل بھیج دیا۔ کاغذات نہ ہونے پر بھارت نیپال سرحد کے قریب سے گرفتار"
-    },
-    {
-      "title": "'Reporting fake news': Trump bars CNN, MS NOW, Politico from White House; threatens more bans",
-      "desc": "President Donald Trump has enacted a swift exclusion of three major news outlets—CNN, MS NOW, and Politico—from White House premises. He branded their regular reports as 'FAKE NEWS,' marking a bold stance against media he perceives as adversarial. Trump warne…",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/us/reporting-fake-news-trump-bars-cnn-ms-now-politico-from-white-house-threatens-more-bans/articleshow/134343443.cms",
-      "time": "2026-09-18T19:48:22",
-      "country": "US",
-      "title_ur": "'جعلی خبروں کی رپورٹنگ': ٹرمپ نے CNN، MS NOW، Politico کو وائٹ ہاؤس سے روک دیا؛ مزید پابندیوں کی دھمکی",
-      "desc_ur": "صدر ڈونلڈ ٹرمپ نے وائٹ ہاؤس کے احاطے سے تین بڑے نیوز آؤٹ لیٹس — CNN، MS NOW، اور Politico — کو تیزی سے خارج کرنے کا قانون نافذ کیا ہے۔ اس نے ان کی باقاعدہ رپورٹس کو 'جعلی خبریں' قرار دیا، جس سے وہ میڈیا کے خلاف ایک جرات مندانہ موقف کی نشاندہی کرتا ہے جسے وہ مخالف سمجھتا ہے۔ ٹرمپ کا انتباہ…"
-    },
-    {
-      "title": "Barabanki teen dies by suicide over blackmail threats",
-      "desc": "Barabanki: 18-year-old girl dies by suicide after alleged blackmail via WhatsApp calls; police probe phone records and Rs 15,000 UPI transfer to trace caller.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/lucknow/barabanki-teen-dies-by-suicide-over-blackmail-threats/articleshow/134343587.cms",
-      "time": "2026-09-18T19:47:54",
-      "country": "International",
-      "title_ur": "بارہ بنکی کے نوجوان نے بلیک میل کی دھمکیوں سے تنگ آکر خودکشی کرلی",
-      "desc_ur": "بارہ بنکی: واٹس ایپ کال کے ذریعے مبینہ بلیک میلنگ کے بعد 18 سالہ لڑکی نے خودکشی کر لی۔ پولیس فون ریکارڈز اور 15,000 روپے UPI ٹرانسفر کرنے والے کو ٹریس کرنے کے لیے تحقیقات کر رہی ہے۔"
-    },
-    {
-      "title": "Vinod Rathod, Rituparna Sengupta to perform at Kali Bari foundation day event",
-      "desc": "Lucknow’s historic Kali Bari Temple marks its 163rd foundation day on Sept 20 with performances by Vinod Rathod and Rituparna Sengupta.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/lucknow/vinod-rathod-rituparna-sengupta-to-perform-at-kali-bari-foundation-day-event/articleshow/134343582.cms",
-      "time": "2026-09-18T19:46:20",
-      "country": "International",
-      "title_ur": "کالی باری یوم تاسیس کی تقریب میں ونود راٹھور، ریتوپرنا سینگپتا پرفارم کریں گے۔",
-      "desc_ur": "لکھنؤ کا تاریخی کالی باری مندر 20 ستمبر کو ونود راٹھور اور ریتوپرنا سینگپتا کی پرفارمنس کے ساتھ اپنے 163 ویں یوم تاسیس کو منا رہا ہے۔"
-    },
-    {
-      "title": "Banned: CNN & MS Now Shut Out Of White House By Trump; POTUS Says “Other Fake News Media Outlets To Follow”",
-      "desc": "The President of the United States has banned CNN, MS Now and others from the White House. Floundering in the polls and in the war with Iran, the notoriously thinned skinned and authoritarian former Apprentice host just posted on his Truth Social: “I am proud…",
-      "source": "Deadline",
-      "url": "http://deadline.com/2026/09/trump-bans-cnn-ms-now-politico-1237107905/",
-      "time": "2026-09-18T19:42:54",
-      "country": "Iran",
-      "title_ur": "پابندی عائد: CNN اور MS اب ٹرمپ کے ذریعہ وائٹ ہاؤس کو بند کر دیا گیا ہے۔ پوٹس کا کہنا ہے کہ \"دیگر جعلی نیوز میڈیا آؤٹ لیٹس کو فالو کرنا ہے\"",
-      "desc_ur": "امریکہ کے صدر نے وائٹ ہاؤس سے CNN، MS Now اور دیگر پر پابندی لگا دی ہے۔ انتخابات میں اور ایران کے ساتھ جنگ ​​میں جھنجھلاہٹ کا شکار، بدنام زمانہ پتلی پتلی اور آمریت پسند سابق اپرنٹس میزبان نے ابھی اپنی سچائی سوشل پر پوسٹ کیا: \"مجھے فخر ہے…"
-    },
-    {
-      "title": "Free, not welcome: Why rebuilding a life can be harder than jail time",
-      "desc": "After release, ex-inmates face stigma, job barriers, family rejection and mental health struggles; experts urge stronger rehabilitation and reintegration support.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/noida/free-not-welcome-why-rebuilding-a-life-can-be-harder-than-jail-time/articleshow/134343553.cms",
-      "time": "2026-09-18T19:42:25",
-      "country": "International",
-      "title_ur": "مفت، خوش آئند نہیں: کیوں زندگی کی تعمیر نو جیل کے وقت سے زیادہ مشکل ہو سکتی ہے۔",
-      "desc_ur": "رہائی کے بعد، سابق قیدیوں کو بدنامی، ملازمت کی رکاوٹوں، خاندانی ردّ اور ذہنی صحت کی جدوجہد کا سامنا کرنا پڑتا ہے۔ ماہرین بحالی اور دوبارہ انضمام کی مضبوط حمایت پر زور دیتے ہیں۔"
-    },
-    {
-      "title": "Mortgage rates are nearing 7%. One house hunter says he's \"despondent.\"",
-      "desc": "\"It seems like we're trying to climb out of a hole somebody else is digging,\" said one frustrated house hunter as homeownership costs rise.",
+      "title": "Trump signs Russia sanctions bill championed by Graham",
+      "desc": "The new law lets the president impose tariffs on the largest purchases of Russian oil and natural gas.",
       "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/mortgage-rates-near-7-percent-homebuyers/",
-      "time": "2026-09-18T19:42:12",
-      "country": "US",
-      "title_ur": "رہن کی شرح 7% کے قریب ہے۔ ایک گھریلو شکاری کا کہنا ہے کہ وہ \"مایوس\" ہے۔",
-      "desc_ur": "\"ایسا لگتا ہے کہ ہم ایک گڑھے سے باہر نکلنے کی کوشش کر رہے ہیں جو کوئی اور کھود رہا ہے،\" گھر کی ملکیت کے اخراجات بڑھنے کے باعث ایک مایوس گھریلو شکاری نے کہا۔"
+      "url": "https://www.cbsnews.com/news/trump-signs-russia-sanctions-bill-lindsey-graham/",
+      "time": "2026-09-18T22:01:08",
+      "country": "Russia",
+      "title_ur": "ٹرمپ نے روس پر پابندیوں کے بل پر دستخط کیے جس کی حمایت گراہم نے کی۔",
+      "desc_ur": "نیا قانون صدر کو روسی تیل اور قدرتی گیس کی سب سے بڑی خریداری پر محصولات عائد کرنے دیتا ہے۔"
     },
     {
-      "title": "Living under noose for 16 years, Surinder Koli was a man on a mission to acquit himself",
-      "desc": "Surinder Koli, convicted in 13 Nithari cases and once hours from execution, was later acquitted in all; freed in 2025, he was found dead in Haridwar.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/noida/living-under-noose-for-16-years-surinder-koli-was-a-man-on-a-mission-to-acquit-himself/articleshow/134343550.cms",
-      "time": "2026-09-18T19:41:55",
+      "title": "The Saudis, the Houthis, and Israel",
+      "desc": "A new challenge requires Riyadh to work with Abu Dhabi and Jerusalem.",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/1dfe1ccc527b1b77",
+      "time": "2026-09-18T21:56:29",
+      "country": "Israel",
+      "title_ur": "سعودی، حوثی اور اسرائیل",
+      "desc_ur": "ایک نئے چیلنج کے لیے ریاض کو ابوظہبی اور یروشلم کے ساتھ کام کرنے کی ضرورت ہے۔"
+    },
+    {
+      "title": "Second Tranche of Section 301 Tariffs May Be Delayed by Trump-Xi Summit",
+      "desc": "A new tranche of tariffs on 16 United States trading partners including China may be delayed by President Donald Trump’s planned summit with Chinese President Xi Jinping next week.",
+      "source": "WWD",
+      "url": "http://wwd.com/sourcing-journal/trade/section-301-excess-capacity-tariffs-delay-trump-xi-summit-1239245815/",
+      "time": "2026-09-18T21:54:20",
+      "country": "China",
+      "title_ur": "سیکشن 301 ٹیرف کی دوسری قسط ٹرمپ الیون سربراہی اجلاس میں تاخیر کا شکار ہو سکتی ہے",
+      "desc_ur": "چین سمیت امریکہ کے 16 تجارتی شراکت داروں پر محصولات کی نئی قسط صدر ڈونلڈ ٹرمپ کی چینی صدر شی جن پنگ کے ساتھ اگلے ہفتے طے شدہ سربراہی اجلاس میں تاخیر کا شکار ہو سکتی ہے۔"
+    },
+    {
+      "title": "Pete Hegseth Impeachment: Thomas Massie Hid Plans Out of Fear GOP Leaders Would Try to Stop Him",
+      "desc": "Thomas Massie said he kept his resolution to impeach Pete Hegseth secret from GOP leaders because he feared they would try to stop him.",
+      "source": "Radaronline.com",
+      "url": "https://radaronline.com/p/thomas-massie-hid-pete-hegseth-impeachment-plans-fear-gop-stop-him/",
+      "time": "2026-09-18T21:53:01",
+      "country": "US",
+      "title_ur": "پیٹ ہیگستھ کا مواخذہ: تھامس میسی نے اس خوف سے منصوبے چھپائے کہ جی او پی رہنما اسے روکنے کی کوشش کریں گے۔",
+      "desc_ur": "تھامس میسی نے کہا کہ انہوں نے پیٹ ہیگستھ کے مواخذے کی اپنی قرارداد کو جی او پی رہنماؤں سے خفیہ رکھا کیونکہ انہیں خدشہ تھا کہ وہ انہیں روکنے کی کوشش کریں گے۔"
+    },
+    {
+      "title": "JPMorgan drops Iran war oil forecast as redlines are crossed - qz.com",
+      "desc": "JPMorgan drops Iran war oil forecast as redlines are crossedqz.com 'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with IranBBC Oil's shrug emoji eraAxios Energy markets grapple with Iran war uncertainty: 'We simply don…",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185696984",
+      "time": "2026-09-18T21:52:46",
+      "country": "Iran",
+      "title_ur": "JPMorgan نے ریڈ لائنز عبور کرنے کے ساتھ ہی ایران جنگ کی تیل کی پیشن گوئی کو گرا دیا - qz.com",
+      "desc_ur": "JPMorgan نے ایران جنگ کی تیل کی پیشن گوئی کو گرا دیا جیسا کہ ریڈ لائنز کراس کر دی گئی ہیں 'ہمیں صرف معلوم نہیں ہے' - جے پی مورگن ایران کے ساتھ ٹرمپ کی جنگ کی وجہ سے تیل کی قیمتوں کی پیش گوئی کرنے کے لیے جدوجہد کر رہے ہیںBBC Oil کے shrug emoji eraAxios انرجی مارکیٹس ایران جنگ کی غیر یقینی صورتحال سے دوچار ہیں: 'ہم صرف نہیں کرتے…"
+    },
+    {
+      "title": "'Dangerous and unpleasant': what it's like sailing through the Bab al-Mandeb strait",
+      "desc": "On today's episode of Iran: the Latest, Roland Oliphant speaks to former Royal Navy commander Tom Sharpe about whether ...",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/fcce1eb5e4159fc4",
+      "time": "2026-09-18T21:50:56",
+      "country": "Iran",
+      "title_ur": "'خطرناک اور ناخوشگوار': آبنائے باب المندب سے گزرنا کیسا ہے",
+      "desc_ur": "ایران کے آج کے ایپی سوڈ پر: تازہ ترین، رولینڈ اولی فینٹ نے رائل نیوی کے سابق کمانڈر ٹام شارپ سے اس بارے میں بات کی کہ آیا..."
+    },
+    {
+      "title": "Wall Street drifts lower as bond yields rise and oil prices swing",
+      "desc": "Wall Street closed out an up-and-down week with a mixed finish for U.S. indexes as bond yields rose and oil prices swung",
+      "source": "Boston 25 News",
+      "url": "https://www.boston25news.com/news/business/asian-shares-mostly/ESN55GTH7Q2URFSOW3YA2KFXBA/",
+      "time": "2026-09-18T21:50:12",
       "country": "International",
-      "title_ur": "16 سال تک پھندے کے نیچے زندگی گزارنے والے سریندر کولی خود کو بری کرنے کے مشن پر تھے۔",
-      "desc_ur": "سریندر کولی، 13 نٹھاری کیسوں میں مجرم ٹھہرائے گئے اور پھانسی کے ایک گھنٹے بعد، بعد میں سبھی کو بری کر دیا گیا۔ 2025 میں رہا کیا گیا، وہ ہریدوار میں مردہ پایا گیا۔"
+      "title_ur": "بانڈ کی پیداوار بڑھنے اور تیل کی قیمتوں میں اضافے کے ساتھ ہی وال سٹریٹ کم ہو جاتی ہے۔",
+      "desc_ur": "بانڈ کی پیداوار میں اضافہ اور تیل کی قیمتوں میں اضافے کے ساتھ ہی وال اسٹریٹ نے یو ایس انڈیکس کے لیے ملے جلے اختتام کے ساتھ ایک اوپر اور نیچے ہفتہ بند کیا"
     },
     {
-      "title": "73 condos get notices over mosquito breeding risks",
-      "desc": "Noida health dept issues 73 notices to housing societies over mosquito breeding risks; urges anti-stagnant water steps as dengue hits 91, malaria 50.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/noida/73-condos-get-notices-over-mosquito-breeding-risks/articleshow/134343547.cms",
-      "time": "2026-09-18T19:41:47",
+      "title": "RFK Jr., Who Should Be Running Out of Terrible Ideas By Now, Has Managed to Think Up Another Terrible Idea",
+      "desc": "Remind me why we gave this moron carte blanche to let his freak flag fly?",
+      "source": "esquire.com",
+      "url": "https://www.esquire.com/news-politics/politics/a73794923/rfk-jr-speech-chemtrails/",
+      "time": "2026-09-18T21:49:29",
+      "country": "International",
+      "title_ur": "RFK جونیئر، جسے اب تک خوفناک خیالات سے باہر ہو جانا چاہیے، ایک اور خوفناک آئیڈیا سوچنے میں کامیاب ہو گیا ہے۔",
+      "desc_ur": "مجھے یاد دلائیں کہ ہم نے اس بے وقوف کا جھنڈا کیوں اڑنے دیا؟"
+    },
+    {
+      "title": "Report: China Pushes Iran to Rein In Houthis, Reopen Strait of Hormuz",
+      "desc": "After Iran struck out with BRICS and China this week in its search for international support, China reportedly privately told the Iranians to rein in their proxies in Yemen, the Houthi insurgents, who have repeatedly attacked Saudi Arabia and sought to block …",
+      "source": "Breitbart News",
+      "url": "https://www.breitbart.com/middle-east/2026/09/18/report-china-pushes-iran-to-rein-in-houthis-reopen-strait-of-hormuz/",
+      "time": "2026-09-18T21:47:43",
+      "country": "Iran",
+      "title_ur": "رپورٹ: چین نے ایران کو حوثیوں پر لگام لگانے کے لیے دباؤ ڈالا، آبنائے ہرمز کو دوبارہ کھول دیا۔",
+      "desc_ur": "بین الاقوامی حمایت کی تلاش میں ایران کے اس ہفتے برکس اور چین کے ساتھ دستبرداری کے بعد، چین نے مبینہ طور پر نجی طور پر ایرانیوں سے کہا کہ وہ یمن میں اپنے پراکسیوں کو لگام دیں، حوثی باغی، جنہوں نے بارہا سعودی عرب پر حملہ کیا ہے اور بلاک کرنے کی کوشش کی ہے…"
+    },
+    {
+      "title": "Are women cut out for serving on juries?",
+      "desc": "'The jurors who have given interviews have spent an inordinate amount of time discussing their feelings. That is irrelevant'",
+      "source": "Wnd.com",
+      "url": "https://www.wnd.com/2026/09/are-women-cut-serving-juries/",
+      "time": "2026-09-18T21:47:17",
       "country": "US",
-      "title_ur": "73 کونڈو کو مچھروں کی افزائش کے خطرات پر نوٹس ملے",
-      "desc_ur": "نوئیڈا کے محکمہ صحت نے مچھروں کی افزائش کے خطرات پر ہاؤسنگ سوسائٹیوں کو 73 نوٹس جاری کیے ہیں۔ ڈینگی 91، ملیریا 50 تک پہنچنے کے بعد روکے ہوئے پانی کے خلاف اقدامات پر زور دیتا ہے۔"
+      "title_ur": "کیا خواتین کو جیوری میں خدمات انجام دینے کے لیے کاٹ دیا جاتا ہے؟",
+      "desc_ur": "'انٹرویو دینے والے ججوں نے اپنے جذبات پر بات کرنے میں بہت زیادہ وقت صرف کیا ہے۔ یہ غیر متعلقہ ہے'"
+    },
+    {
+      "title": "Russia, China block renewal of UN panel overseeing Iran sanctions compliance",
+      "desc": "The blocked resolution sought to extend the mandate of the panel overseeing the sanctions. The move has limited practical significance, but signals that Russia and China do not intend to cooperate with efforts to enforce them against Iran",
+      "source": "Haaretz",
+      "url": "https://www.haaretz.com/middle-east-news/iran/2026-09-19/ty-article/.premium/russia-china-block-renewal-of-un-panel-overseeing-iran-sanctions-compliance/000001a0-b5af-dea8-afe0-f5afb3f30000",
+      "time": "2026-09-18T21:47:09",
+      "country": "Iran",
+      "title_ur": "روس اور چین نے ایران پر پابندیوں کی تعمیل کی نگرانی کرنے والے اقوام متحدہ کے پینل کی تجدید کو روک دیا۔",
+      "desc_ur": "مسدود قرارداد میں پابندیوں کی نگرانی کرنے والے پینل کے مینڈیٹ میں توسیع کی کوشش کی گئی تھی۔ اس اقدام کی محدود عملی اہمیت ہے، لیکن اس بات کا اشارہ ہے کہ روس اور چین ان کو ایران کے خلاف نافذ کرنے کی کوششوں میں تعاون کرنے کا ارادہ نہیں رکھتے۔"
+    },
+    {
+      "title": "Jake Tapper Argues Trump Threw ‘Unconstitutional Tantrum’ to Try Distract From Bad News: ‘Not Going To Happen’",
+      "desc": "CNN's Jake Tapper insisted Friday that President Donald Trump's \"unconstitutional tantrum\" is meant to distract from the abundance of bad news surrounding his administration, but added that it is \"not going to happen.\"\nThe post Jake Tapper Argues Trump Threw …",
+      "source": "Mediaite",
+      "url": "https://www.mediaite.com/media/news/jake-tapper-argues-trump-threw-unconstitutional-tantrum-to-try-distract-from-bad-news-not-going-to-happen/",
+      "time": "2026-09-18T21:43:31",
+      "country": "US",
+      "title_ur": "جیک ٹیپر کا استدلال ہے کہ ٹرمپ نے بری خبروں سے توجہ ہٹانے کی کوشش کرنے کے لئے 'غیر آئینی طنز' پھینکا: 'ہونے والا نہیں'",
+      "desc_ur": "CNN کے جیک ٹیپر نے جمعہ کو اصرار کیا کہ صدر ڈونلڈ ٹرمپ کے \"غیر آئینی ہچکچاہٹ\" کا مقصد ان کی انتظامیہ کے ارد گرد بری خبروں کی کثرت سے توجہ ہٹانا ہے، لیکن مزید کہا کہ ایسا نہیں ہونے والا ہے۔\nThe post جیک ٹیپر کی دلیل ٹرمپ نے پھینکی…"
+    },
+    {
+      "title": "Trump announces deal giving US security control over Greenland",
+      "desc": "President Trump announces a deal with Denmark and Greenland granting the US permanent security control and barring adversaries from military bases: “This is a dream come true for the United States of America.\"(Arutz Sheva-Israel National News' North American …",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/flashes/693771",
+      "time": "2026-09-18T21:43:15",
+      "country": "Israel",
+      "title_ur": "ٹرمپ نے گرین لینڈ پر امریکی سیکیورٹی کنٹرول دینے کے معاہدے کا اعلان کیا۔",
+      "desc_ur": "صدر ٹرمپ نے ڈنمارک اور گرین لینڈ کے ساتھ ایک معاہدے کا اعلان کیا جس میں امریکہ کو مستقل سیکورٹی کنٹرول دیا جائے گا اور مخالفین کو فوجی اڈوں سے روک دیا جائے گا: \"یہ ریاستہائے متحدہ امریکہ کے لیے ایک خواب پورا ہو رہا ہے۔\""
+    },
+    {
+      "title": "Hated but not feared",
+      "desc": "Reflecting on the EU’s offer to make Canada an “associate member,” the Sultan of Shrill quotes what Machiavelli actually said as opposed to what is sometimes misleadingly described as “it is better to be feared than loved”: Upon this a question arises: whethe…",
+      "source": "Lawyersgunsmoneyblog.com",
+      "url": "https://www.lawyersgunsmoneyblog.com/2026/09/hated-but-not-feared",
+      "time": "2026-09-18T21:40:00",
+      "country": "Europe",
+      "title_ur": "نفرت ہے لیکن ڈر نہیں ہے۔",
+      "desc_ur": "کینیڈا کو \"ایسوسی ایٹ ممبر\" بنانے کے لیے یورپی یونین کی پیشکش پر غور کرتے ہوئے، سلطان آف شرل نے میکیاویلی کی حقیقت میں اس بات کا حوالہ دیا جو کبھی کبھی گمراہ کن طور پر بیان کیا جاتا ہے کہ \"محبت سے ڈرنا بہتر ہے\": اس پر ایک سوال پیدا ہوتا ہے: کیا…"
+    },
+    {
+      "title": "Trump’s Latest Trade Threat Would Throw America Into A Massive Recession",
+      "desc": "Cutting off countries that export more to us than they import would mean ending trade with 95 countries and territories: China, Taiwan, South Korea, Israel — even Burundi.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/trump-trade-threat-recession_n_6aac5984e4b05a5eaee47873",
+      "time": "2026-09-18T21:39:26",
+      "country": "Israel",
+      "title_ur": "ٹرمپ کی تازہ ترین تجارتی دھمکی امریکہ کو زبردست کساد بازاری میں ڈال دے گی۔",
+      "desc_ur": "وہ ممالک جو ہمیں درآمد سے زیادہ برآمد کرتے ہیں ان کا مطلب 95 ممالک اور خطوں کے ساتھ تجارت ختم کرنا ہوگا: چین، تائیوان، جنوبی کوریا، اسرائیل - یہاں تک کہ برونڈی۔"
     }
   ],
   "pakistan": [
     {
-      "title": "Maha fuel dealers to take call on halting UPI payments on Sept 27",
-      "desc": "Maharashtra fuel dealers may stop accepting UPI for purchases over Rs 2,000 if Centre imposes 0.4% MDR; decision expected after Sept 27 meeting.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/pune/maha-fuel-dealers-to-take-call-on-halting-upi-payments-on-sept-27/articleshow/134343603.cms",
-      "time": "2026-09-18T19:49:51",
+      "title": "‘We’ll Bomb the Sh*t Out of Them’: Trump and the War on Morality",
+      "desc": "Freddie Ponton21st Century Wire In December 2025, Alpha Elsec shipped 122 armed five-kilogram warhead assemblies from India to Israel. Their customs description and specifications matched the warhead carried by Elbit Systems’ SkyStriker, a loitering munition …",
+      "source": "Activistpost.com",
+      "url": "https://activistpost.com/well-bomb-the-sht-out-of-them-trump-and-the-war-on-morality/",
+      "time": "2026-09-18T22:00:00",
       "country": "Pakistan",
-      "title_ur": "مہا ایندھن کے ڈیلر 27 ستمبر کو UPI ادائیگیوں کو روکنے کا مطالبہ کریں گے۔",
-      "desc_ur": "اگر مرکز 0.4% MDR عائد کرتا ہے تو مہاراشٹر کے ایندھن کے ڈیلر 2,000 روپے سے زیادہ کی خریداری کے لیے UPI کو قبول کرنا بند کر سکتے ہیں۔ فیصلہ 27 ستمبر کے اجلاس کے بعد متوقع ہے۔"
+      "title_ur": "'ہم ان میں سے ش*ٹ کو بمباری کریں گے': ٹرمپ اور اخلاقیات کے خلاف جنگ",
+      "desc_ur": "Freddie Ponton 21st Century Wire دسمبر 2025 میں، Alpha Elsec نے 122 مسلح پانچ کلو گرام وار ہیڈ اسمبلیاں بھارت سے اسرائیل بھیجیں۔ ان کی کسٹم کی تفصیل اور وضاحتیں ایلبٹ سسٹمز کے اسکائی اسٹرائیکر کی طرف سے اٹھائے جانے والے وار ہیڈ سے مماثل ہیں"
+    },
+    {
+      "title": "Bombing at mosque near police offices in Pakistan kills at least 21",
+      "desc": "A vehicle bomb and gun attack on a mosque near police offices in Pakistan’s Kohat district killed at least 21 people and injured 80.",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/world/pakistan-bomb-attack-mosque-police-offices-6395946",
+      "time": "2026-09-18T21:52:24",
+      "country": "Pakistan",
+      "title_ur": "پاکستان میں پولیس دفاتر کے قریب مسجد میں بم دھماکے میں کم از کم 21 افراد ہلاک ہو گئے۔",
+      "desc_ur": "پاکستان کے ضلع کوہاٹ میں پولیس دفاتر کے قریب ایک مسجد پر گاڑی بم اور بندوق کے حملے میں کم از کم 21 افراد ہلاک اور 80 زخمی ہوئے۔"
+    },
+    {
+      "title": "Former Pakistani PM Imran Khan’s son says he fears for his father's life behind bars",
+      "desc": "Kasim Khan, the the son of jailed former Pakistani prime minister Imran Khan, says he wakes up most mornings expecting to learn that his father has died in prison.",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/radio/asithappens/imran-khan-son-9.7350224",
+      "time": "2026-09-18T21:32:50",
+      "country": "Pakistan",
+      "title_ur": "پاکستان کے سابق وزیر اعظم عمران خان کے بیٹے کا کہنا ہے کہ انہیں اپنے والد کی جیل کی سلاخوں کے پیچھے جان کا خوف ہے۔",
+      "desc_ur": "جیل میں بند سابق پاکستانی وزیر اعظم عمران خان کے بیٹے قاسم خان کا کہنا ہے کہ وہ زیادہ تر صبح اس امید میں اٹھتے ہیں کہ ان کے والد کا جیل میں انتقال ہو گیا ہے۔"
     }
   ],
   "business": {
