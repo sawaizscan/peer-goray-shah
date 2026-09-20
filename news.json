@@ -1,177 +1,167 @@
 {
-  "generated": "2026-09-20T19:36:00Z",
+  "generated": "2026-09-20T22:06:21Z",
   "world": [
     {
-      "title": "Crude oil shipping costs surge 258% in two months to $23.59 per barrel",
-      "desc": "The surge in crude oil shipping costs strains global supply chains, inflates energy prices, and prompts a shift to alternative sources.\nThe post Crude oil shipping costs surge 258% in two months to $23.59 per barrel appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/crude-oil-shipping-costs-surge-258-percent/",
-      "time": "2026-09-19T19:35:33",
-      "country": "International",
-      "title_ur": "خام تیل کی ترسیل کی لاگت دو ماہ میں 258 فیصد اضافے سے 23.59 ڈالر فی بیرل ہو گئی",
-      "desc_ur": "خام تیل کی ترسیل کے اخراجات میں اضافے سے عالمی سپلائی چینز پر دباؤ پڑتا ہے، توانائی کی قیمتوں میں اضافہ ہوتا ہے، اور متبادل ذرائع کی طرف منتقلی کا اشارہ ملتا ہے۔\nThe post خام تیل کی ترسیل کے اخراجات دو ماہ میں 258 فیصد اضافے کے ساتھ 23.59 ڈالر فی بیرل ہو گئے appeared first on Crypto Briefing."
-    },
-    {
-      "title": "US Representative: 'Ben Gvir in the Cabinet is an existential threat'",
-      "desc": "Brad Sherman, one of Israel’s most prominent supporters in Congress, warns of a collapse in public support for Israel in the United States.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/433398",
-      "time": "2026-09-19T19:32:23",
-      "country": "Israel",
-      "title_ur": "امریکی نمائندہ: 'کابینہ میں بین گویر ایک وجودی خطرہ ہے'",
-      "desc_ur": "کانگریس میں اسرائیل کے سب سے نمایاں حامیوں میں سے ایک بریڈ شرمین نے امریکہ میں اسرائیل کے لیے عوامی حمایت میں کمی کے بارے میں خبردار کیا ہے۔"
-    },
-    {
-      "title": "Israel eliminates another Hamas commander",
-      "desc": "The Israel Defense Forces (IDF) claimed on Saturday that earlier in the week, another Hamas commander involved in the October 7, 2023, attack was eliminated.\"The IDF struck in the Khan Younis area two...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/c4818d93f4db98bd",
-      "time": "2026-09-19T19:32:00",
-      "country": "Israel",
-      "title_ur": "اسرائیل نے حماس کے ایک اور کمانڈر کو ختم کر دیا۔",
-      "desc_ur": "اسرائیلی ڈیفنس فورسز (IDF) نے ہفتے کے روز دعویٰ کیا تھا کہ ہفتے کے شروع میں، 7 اکتوبر 2023 کے حملے میں ملوث حماس کے ایک اور کمانڈر کو ہلاک کر دیا گیا ہے۔\" IDF نے خان یونس کے علاقے میں دو حملہ کیا..."
-    },
-    {
-      "title": "Treasury yields are already blowing up the CBO’s long-term forecasts, and experts who previously downplayed U.S. debt fears are now starting to worry",
-      "desc": "\"If interest begets debt, and debt begets interest, eventually debt will spin out of control. A fiscal crisis, once unthinkable, is now a distinct possibility.\"",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/09/19/treasury-yields-cbo-forecasts-us-debt-interest-costs-deficits/",
-      "time": "2026-09-19T19:31:57",
-      "country": "US",
-      "title_ur": "ٹریژری کی پیداوار پہلے ہی سی بی او کی طویل مدتی پیشن گوئیوں کو اڑا رہی ہے، اور ماہرین جنہوں نے پہلے امریکی قرضوں کے خدشات کو کم کیا تھا اب پریشان ہونے لگے ہیں۔",
-      "desc_ur": "\"اگر سود قرض کو جنم دیتا ہے، اور قرض سود کو جنم دیتا ہے، تو بالآخر قرض قابو سے باہر ہو جائے گا۔ ایک مالیاتی بحران، جو کبھی سوچا بھی نہیں جا سکتا تھا، اب ایک الگ امکان ہے۔\""
-    },
-    {
-      "title": "Iran rallies masses for largest show of defiance against U.S. since war began",
-      "desc": "Hundreds of thousands of Iranians pledged their readiness to take up arms and defend the country in the largest government-organized rally since the war began. Estimates vary on how many signed up to receive limited military training",
-      "source": "Haaretz",
-      "url": "https://www.haaretz.com/middle-east-news/iran/2026-09-19/ty-article/.premium/iran-rallies-masses-for-largest-show-of-defiance-against-u-s-since-war-began/000001a0-ba32-de67-a5a3-ff36539d0000",
-      "time": "2026-09-19T19:26:45",
-      "country": "Iran",
-      "title_ur": "ایران نے جنگ شروع ہونے کے بعد سے امریکہ کے خلاف سب سے بڑے مظاہرے کے لیے عوام کی ریلیاں نکالی ہیں۔",
-      "desc_ur": "جنگ شروع ہونے کے بعد سے حکومت کے زیر اہتمام سب سے بڑی ریلی میں لاکھوں ایرانیوں نے ہتھیار اٹھانے اور ملک کے دفاع کے لیے اپنی تیاری کا عہد کیا۔ محدود فوجی تربیت حاصل کرنے کے لیے کتنے لوگوں نے سائن اپ کیا اس پر اندازے مختلف ہوتے ہیں۔"
-    },
-    {
-      "title": "Ed Sheeran’s Whole Opening Lineup Quit in Solidarity with Macklemore, Leaving Him with No One to Open His Philly Show",
-      "desc": "Ed Sheeran’s Philadelphia concert at Lincoln Financial Field will begin at 8 p.m. on Saturday, September 19, instead of the scheduled 5:30 p.m. start. The new time matches when Sheeran was originally due onstage after his opening acts.",
-      "source": "Thoughtcatalog.com",
-      "url": "https://thoughtcatalog.com/xstockton/2026/09/ed-sheerans-whole-opening-lineup-quit-in-solidarity-with-macklemore-leaving-him-with-no-one-to-open-his-philly-show/",
-      "time": "2026-09-19T19:15:08",
-      "country": "Europe",
-      "title_ur": "ایڈ شیران کی مکمل افتتاحی لائن اپ میکلمور کے ساتھ یکجہتی میں چھوڑ دیا، اسے اپنے فلی شو کو کھولنے کے لیے کسی کے ساتھ نہیں چھوڑا۔",
-      "desc_ur": "لنکن فنانشل فیلڈ میں ایڈ شیران کا فلاڈیلفیا کنسرٹ رات 8 بجے شروع ہوگا۔ ہفتہ، 19 ستمبر کو، مقررہ شام 5:30 بجے کے بجائے شروع نیا وقت اس وقت مماثل ہے جب شیران اپنی ابتدائی اداکاری کے بعد اصل میں اسٹیج پر آنے والا تھا۔"
-    },
-    {
-      "title": "Shhh! Whatever you do, don't center the murderous extremists",
-      "desc": "Soft moral relativism was always destined to shift to hard moral inversion - and that suicidal outcome has of course landed in an era of peak moral confusion.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/433397",
-      "time": "2026-09-19T19:14:44",
-      "country": "US",
-      "title_ur": "شش! آپ جو بھی کریں، قاتل انتہا پسندوں کو مرکز نہ بنائیں",
-      "desc_ur": "نرم اخلاقی رشتہ داری ہمیشہ سخت اخلاقی الٹ پھیر کی طرف مائل ہوتی تھی - اور یہ خودکشی کا نتیجہ یقیناً اخلاقی الجھن کے عروج کے دور میں نکلا ہے۔"
-    },
-    {
-      "title": "Lighting a yahrtzeit candle for your self",
-      "desc": "Why would a person light a Yahrtzeit (Memorial) candle for themselves?",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/433395",
-      "time": "2026-09-19T19:03:13",
-      "country": "International",
-      "title_ur": "اپنی ذات کے لیے یاہرٹزیٹ موم بتی روشن کرنا",
-      "desc_ur": "ایک شخص اپنے لیے یادگاری شمع کیوں روشن کرے گا؟"
-    },
-    {
-      "title": "The new lines of southern Lebanon",
-      "desc": "The U.N. expanded the United Nations Interim Force in Lebanon's mandate 20 years ago to include monitoring adherence to a ceasefire in fighting between Israel and Lebanon's Iran-backed Hezbollah — the militant group created in 1982 to counter a second Israeli…",
-      "source": "NPR",
-      "url": "https://www.npr.org/sections/the-picture-show/2026/09/19/g-s1-139752/the-new-lines-of-southern-lebanon",
-      "time": "2026-09-19T19:00:24",
-      "country": "Iran",
-      "title_ur": "جنوبی لبنان کی نئی خطوط",
-      "desc_ur": "اقوام متحدہ نے 20 سال قبل لبنان کے مینڈیٹ میں اقوام متحدہ کی عبوری فورس کو وسعت دی تھی جس میں اسرائیل اور لبنان کی ایران کی حمایت یافتہ حزب اللہ کے درمیان لڑائی میں جنگ بندی کی پابندی کی نگرانی شامل تھی - یہ عسکریت پسند گروپ 1982 میں ایک دوسرے اسرائیلی کا مقابلہ کرنے کے لیے بنایا گیا تھا…"
-    },
-    {
-      "title": "Swallowed by a whale?",
-      "desc": "Yonah learned about partial teshuva when he was in the belly of the fish.  He repented, and then agreed to fulfill his mission in Nineveh.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/433401",
-      "time": "2026-09-19T19:00:00",
-      "country": "International",
-      "title_ur": "ایک وہیل کی طرف سے نگل لیا؟",
-      "desc_ur": "یونا کو جزوی ٹیشووا کے بارے میں اس وقت معلوم ہوا جب وہ مچھلی کے پیٹ میں تھا۔  اس نے توبہ کی، اور پھر نینویٰ میں اپنا مشن پورا کرنے پر رضامند ہو گیا۔"
-    },
-    {
-      "title": "Mamdani’s condolences for an accused killer put his Israel-Hamas record under scrutiny",
-      "desc": "One story is unfolding in the streets and courtrooms of New York. The other is unfolding on the world stage. In both, innocent people were killed. In both, New Yorkers can examine where their mayor placed his voice afterward. Opinion.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/433399",
-      "time": "2026-09-19T19:00:00",
-      "country": "Israel",
-      "title_ur": "ایک ملزم قاتل کے لیے ممدانی کی تعزیت نے اس کے اسرائیل-حماس کے ریکارڈ کی جانچ پڑتال کی۔",
-      "desc_ur": "نیویارک کی گلیوں اور عدالتوں میں ایک کہانی سامنے آ رہی ہے۔ دوسرا عالمی سطح پر منظر عام پر آ رہا ہے۔ دونوں میں بے گناہ لوگ مارے گئے۔ دونوں میں، نیو یارک والے اس بات کا جائزہ لے سکتے ہیں کہ ان کے میئر نے بعد میں اپنی آواز کہاں رکھی۔ رائے۔"
-    },
-    {
-      "title": "Britain Faces £150 Billion Grid Overhaul to Power Renewable Energy Boom",
-      "desc": "The United Kingdom will need to invest heavily in expanding its electricity grid to meet rising power demand and ensure that new renewable energy projects can connect to it. The U.K. National Energy System Operator (NESO) has announced that more than an estim…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Britain-Faces-150-Billion-Grid-Overhaul-to-Power-Renewable-Energy-Boom.html",
-      "time": "2026-09-19T19:00:00",
-      "country": "UK",
-      "title_ur": "برطانیہ کو قابل تجدید توانائی کے فروغ کے لیے £150 بلین گرڈ اوور ہال کا سامنا ہے",
-      "desc_ur": "برطانیہ کو بجلی کی بڑھتی ہوئی طلب کو پورا کرنے کے لیے اپنے بجلی کے گرڈ کو بڑھانے کے لیے بہت زیادہ سرمایہ کاری کرنے کی ضرورت ہوگی اور اس بات کو یقینی بنانا ہوگا کہ قابل تجدید توانائی کے نئے منصوبے اس سے منسلک ہو سکیں۔ یوکے نیشنل انرجی سسٹم آپریٹر (NESO) نے اعلان کیا ہے کہ ایک اندازے سے زیادہ…"
-    },
-    {
-      "title": "Explosions rock Saudi capital – media",
-      "desc": "Explosions have been reported in Riyadh and disrupted flights, with smoke and flames seen near the Saudi capital’s main airport Read Full Article at RT.com",
-      "source": "RT",
-      "url": "https://www.rt.com/news/645990-explosions-rock-saudi-capital/",
-      "time": "2026-09-19T18:56:55",
+      "title": "Saudi-led coalition says defences intercept Houthi missile fired at Riyadh",
+      "desc": "This was the first time an alert was sounded in Riyadh since an escalation between the Houthis in Yemen and the Saudis.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/9/19/saudi-led-coalition-says-defences-intercept-houthi-missile-fired-at-riyadh",
+      "time": "2026-09-19T22:03:05",
       "country": "Saudi Arabia",
-      "title_ur": "سعودی دارالحکومت میں دھماکے - میڈیا",
-      "desc_ur": "ریاض میں دھماکوں کی اطلاع ملی ہے اور پروازوں میں خلل پڑا ہے، سعودی دارالحکومت کے مرکزی ہوائی اڈے کے قریب دھویں اور آگ کے شعلے دیکھے گئے ہیں RT.com پر مکمل مضمون پڑھیں"
+      "title_ur": "Saudi-led coalition says defences intercept Houthi missile fired at Riyadh",
+      "desc_ur": "This was the first time an alert was sounded in Riyadh since an escalation between the Houthis in Yemen and the Saudis."
     },
     {
-      "title": "Cristiano Ronaldo heads into FIFA break as international goals record stands tall at 146: How many does Lionel Messi have?",
-      "desc": "Heading into the upcoming international break, Ronaldo's incredible scoring record remains unmatched, while Messi is preparing for an emotional farewell to the national team. \nCristiano Ronaldo and Lionel Messi remain at the center of the international goals …",
-      "source": "Worldsoccertalk.com",
-      "url": "https://worldsoccertalk.com/news/cristiano-ronaldo-heads-into-fifa-break-as-international-goals-record-stands-tall-at-146-how-many-does-lionel-messi-have/",
-      "time": "2026-09-19T18:50:55",
+      "title": "What The Hell Is Happening w/ Charlie Robinson",
+      "desc": "Twice a month Charlie Robinson and Ryan Cristián join forces to discuss the madness that is partisan politics, and the chaotic nature of the world today. They discuss current events, political machinations, foreign policy blunders, and just good old fashioned…",
+      "source": "Activistpost.com",
+      "url": "https://activistpost.com/what-the-hell-is-happening-w-charlie-robinson-5/",
+      "time": "2026-09-19T22:00:00",
+      "country": "China",
+      "title_ur": "What The Hell Is Happening w/ Charlie Robinson",
+      "desc_ur": "Twice a month Charlie Robinson and Ryan Cristián join forces to discuss the madness that is partisan politics, and the chaotic nature of the world today. They discuss current events, political machinations, foreign policy blunders, and just good old fashioned…"
+    },
+    {
+      "title": "Israel's president pardons a combat medic whose shooting of a Palestinian attacker caused debate",
+      "desc": "President Isaac Herzog in a statement said he acted on the recommendation of Defense Minister Israel Katz and cited the time that had passed, and the spirit of the approaching Yom Kippur, or Day of Atonement, as among the factors in his decision.",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/world/israels-president-pardons-combat-medic-whose-shooting-palestinian-attacker-caused-debate-6396976",
+      "time": "2026-09-19T21:57:25",
+      "country": "Israel",
+      "title_ur": "Israel's president pardons a combat medic whose shooting of a Palestinian attacker caused debate",
+      "desc_ur": "President Isaac Herzog in a statement said he acted on the recommendation of Defense Minister Israel Katz and cited the time that had passed, and the spirit of the approaching Yom Kippur, or Day of Atonement, as among the factors in his decision."
+    },
+    {
+      "title": "Quick News: Spider-Man, Naza, World, Street",
+      "desc": "Spider-Man: Brand New Day Sony Pictures and exhibitors have reportedly agreed to extend the exclusive theatrical window for “Spider-Man: Brand New Day” through until November 16th, according to Global Box-Office. It marks the longest exclusive theatrical wind…",
+      "source": "Dark Horizons",
+      "url": "https://www.darkhorizons.com/quick-news-spider-man-naza-world-street/",
+      "time": "2026-09-19T21:55:55",
+      "country": "US",
+      "title_ur": "Quick News: Spider-Man, Naza, World, Street",
+      "desc_ur": "Spider-Man: Brand New Day Sony Pictures and exhibitors have reportedly agreed to extend the exclusive theatrical window for “Spider-Man: Brand New Day” through until November 16th, according to Global Box-Office. It marks the longest exclusive theatrical wind…"
+    },
+    {
+      "title": "Pro-Palestinian protesters target Ed Sheeran’s Philadelphia concert after Macklemore removed from tour",
+      "desc": "Pro-Palestinian protesters waved flags and chanted outside Ed Sheeran's Philadelphia concert, one week after Macklemore was dropped from the tour.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/entertainment/pro-palestinian-protesters-target-ed-sheeran-philadelphia-concert-macklemore-removed-tour",
+      "time": "2026-09-19T21:55:49",
       "country": "International",
-      "title_ur": "کرسٹیانو رونالڈو فیفا کے وقفے میں داخل ہوئے جب بین الاقوامی گولوں کا ریکارڈ 146 پر بلند ہے: لیونل میسی کے پاس کتنے ہیں؟",
-      "desc_ur": "آنے والے بین الاقوامی وقفے کی طرف بڑھتے ہوئے، رونالڈو کا اسکورنگ کا ناقابل یقین ریکارڈ بدستور قائم ہے، جب کہ میسی قومی ٹیم کو جذباتی الوداع کرنے کی تیاری کر رہے ہیں۔ \nکرسٹیانو رونالڈو اور لیونل میسی بین الاقوامی گولز کے مرکز میں رہتے ہیں…"
+      "title_ur": "Pro-Palestinian protesters target Ed Sheeran’s Philadelphia concert after Macklemore removed from tour",
+      "desc_ur": "Pro-Palestinian protesters waved flags and chanted outside Ed Sheeran's Philadelphia concert, one week after Macklemore was dropped from the tour."
     },
     {
-      "title": "Iran Submits Conditions For Ending War With US Via Qatar, Awaits Trump Response",
-      "desc": "Iran Submits Conditions For Ending War With US Via Qatar, Awaits Trump Response\n \nIran has announced Saturday that its Supreme National Security Council has submitted Tehran's conditions for ending the war with the United States via Qatar, and that it awaits …",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/30b8c8572f9b5194",
-      "time": "2026-09-19T18:46:28",
+      "title": "Karl Rove Explains Why He's Voting Democrat: 'My Party Is Infiltrated'",
+      "desc": "The GOP needs to “get rid of these people,” the Republican strategist argued.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/karl-rove-party-infiltrated_n_6aaec807e4b03a8a58d6cd5f",
+      "time": "2026-09-19T21:54:15",
+      "country": "International",
+      "title_ur": "Karl Rove Explains Why He's Voting Democrat: 'My Party Is Infiltrated'",
+      "desc_ur": "The GOP needs to “get rid of these people,” the Republican strategist argued."
+    },
+    {
+      "title": "Aaron Rowe Defends Ed Sheeran After Dropping Out Of Tour: “Human F*cking Error”",
+      "desc": "Although Ed Sheeran has no more openers on his Loop Tour, at least one artist is coming to his defense after dropping Macklemore over his pro-Palestine remarks. On Friday, after departing the tour, Aaron Rowe defended Sheeran for his “human f*cking error” in …",
+      "source": "Deadline",
+      "url": "http://deadline.com/2026/09/aaron-rowe-defends-ed-sheeran-1237108505/",
+      "time": "2026-09-19T21:47:53",
+      "country": "International",
+      "title_ur": "Aaron Rowe Defends Ed Sheeran After Dropping Out Of Tour: “Human F*cking Error”",
+      "desc_ur": "Although Ed Sheeran has no more openers on his Loop Tour, at least one artist is coming to his defense after dropping Macklemore over his pro-Palestine remarks. On Friday, after departing the tour, Aaron Rowe defended Sheeran for his “human f*cking error” in …"
+    },
+    {
+      "title": "Rep. Brad Sherman warns Israel over government policies eroding U.S. support",
+      "desc": "The California Democrat says West Bank settler violence, far-right minister Ben-Gvir and Israel's failure to invest in global diplomacy are worsening its standing with Americans, warning that could cut off U.S. weapons and diplomatic backing",
+      "source": "Haaretz",
+      "url": "https://www.haaretz.com/us-news/2026-09-20/ty-article/.premium/top-democrat-brad-sherman-warns-israel-growing-isolation-threatens-u-s-support/000001a0-bb8a-d160-a3ae-bfcfffee0000",
+      "time": "2026-09-19T21:39:06",
+      "country": "Israel",
+      "title_ur": "Rep. Brad Sherman warns Israel over government policies eroding U.S. support",
+      "desc_ur": "The California Democrat says West Bank settler violence, far-right minister Ben-Gvir and Israel's failure to invest in global diplomacy are worsening its standing with Americans, warning that could cut off U.S. weapons and diplomatic backing"
+    },
+    {
+      "title": "Saudi Arabia confirms Yemen's Houthi rebels tried to attack its capital with a ballistic missile",
+      "desc": "Saudi Arabia on Saturday confirmed that Yemen's Houthi rebels tried to attack its capital with a ballistic missile, the first targeting of Riyadh since the escalation in fighting with the Tehran-backed rebels that has opened a new front in the Iran war.",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/news/world/houthi-rebels-saudi-arabia-conflict-riyadh-missile-attack-9.7351092",
+      "time": "2026-09-19T21:34:24",
       "country": "Iran",
-      "title_ur": "ایران نے قطر کے راستے امریکہ کے ساتھ جنگ ​​ختم کرنے کی شرائط پیش کر دیں، ٹرمپ کے جواب کا انتظار ہے۔",
-      "desc_ur": "ایران نے قطر کے راستے امریکہ کے ساتھ جنگ ختم کرنے کی شرائط پیش کر دیں، ٹرمپ کے جواب کا انتظار ہے۔\n \nایران نے ہفتے کے روز اعلان کیا ہے کہ اس کی سپریم نیشنل سکیورٹی کونسل نے قطر کے راستے امریکہ کے ساتھ جنگ ختم کرنے کے لیے تہران کی شرائط پیش کر دی ہیں، اور وہ انتظار کر رہا ہے…"
+      "title_ur": "Saudi Arabia confirms Yemen's Houthi rebels tried to attack its capital with a ballistic missile",
+      "desc_ur": "Saudi Arabia on Saturday confirmed that Yemen's Houthi rebels tried to attack its capital with a ballistic missile, the first targeting of Riyadh since the escalation in fighting with the Tehran-backed rebels that has opened a new front in the Iran war."
+    },
+    {
+      "title": "Treasury yields are blowing up CBO forecasts, and experts who downplayed US debt fears are worried",
+      "desc": "The 10-year Treasury yield topped 5% this past week, hitting the highest level since 2007 and blowing way past forecasts for borrowing costs over the next decade.\nAccording to the Congressional Budget Office’s most recent long-term outlook issued in February—…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/c85bc19261e387d7",
+      "time": "2026-09-19T21:32:56",
+      "country": "US",
+      "title_ur": "Treasury yields are blowing up CBO forecasts, and experts who downplayed US debt fears are worried",
+      "desc_ur": "The 10-year Treasury yield topped 5% this past week, hitting the highest level since 2007 and blowing way past forecasts for borrowing costs over the next decade.\nAccording to the Congressional Budget Office’s most recent long-term outlook issued in February—…"
+    },
+    {
+      "title": "Fossil fuel emissions set to fall in after oil shock",
+      "desc": "Every energy shock teaches the same lesson, and nobody enjoys learning it. When fuel stays expensive long enough, people stop buying it. Not because a rule told them to, but because the math at the pump stopped working.\nThat math broke in late February, when …",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/740b1713d933569d",
+      "time": "2026-09-19T21:32:56",
+      "country": "US",
+      "title_ur": "Fossil fuel emissions set to fall in after oil shock",
+      "desc_ur": "Every energy shock teaches the same lesson, and nobody enjoys learning it. When fuel stays expensive long enough, people stop buying it. Not because a rule told them to, but because the math at the pump stopped working.\nThat math broke in late February, when …"
+    },
+    {
+      "title": "Iran faces production cuts as oil loadings drop sharply amid US blockade",
+      "desc": "Iran's oil production cuts strain its economy, disrupt Asian refiners' supply chains, and increase global oil market volatility.\nThe post Iran faces production cuts as oil loadings drop sharply amid US blockade appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-oil-loadings-drop-us-blockade/",
+      "time": "2026-09-19T21:20:43",
+      "country": "Iran",
+      "title_ur": "Iran faces production cuts as oil loadings drop sharply amid US blockade",
+      "desc_ur": "Iran's oil production cuts strain its economy, disrupt Asian refiners' supply chains, and increase global oil market volatility.\nThe post Iran faces production cuts as oil loadings drop sharply amid US blockade appeared first on Crypto Briefing."
+    },
+    {
+      "title": "Iran oil production plummets amid US sanctions, naval blockade impacts exports",
+      "desc": "Iran's reduced oil output due to sanctions may tighten global supply, potentially driving up prices and impacting geopolitical stability.\nThe post Iran oil production plummets amid US sanctions, naval blockade impacts exports appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/iran-oil-production-plummets-amid-us-sanctions-naval-blockade-impacts-exports/",
+      "time": "2026-09-19T21:18:23",
+      "country": "Iran",
+      "title_ur": "Iran oil production plummets amid US sanctions, naval blockade impacts exports",
+      "desc_ur": "Iran's reduced oil output due to sanctions may tighten global supply, potentially driving up prices and impacting geopolitical stability.\nThe post Iran oil production plummets amid US sanctions, naval blockade impacts exports appeared first on Crypto Briefing."
+    },
+    {
+      "title": "Rezaei: Iran set 7 conditions for start of US talks",
+      "desc": "Iranian Supreme National Security Council Secretary Mohsen Rezaei (pictured) revealed on Saturday that his country offered seven conditions for restarting negotiations with the United States in the me...",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/36bd5da0aab3bf43",
+      "time": "2026-09-19T21:18:03",
+      "country": "Iran",
+      "title_ur": "Rezaei: Iran set 7 conditions for start of US talks",
+      "desc_ur": "Iranian Supreme National Security Council Secretary Mohsen Rezaei (pictured) revealed on Saturday that his country offered seven conditions for restarting negotiations with the United States in the me..."
+    },
+    {
+      "title": "Israeli attacks kill at least four in Gaza - medic",
+      "desc": "Palestinian health officials have said Israeli fire killed at least four people in the Gaza, including a 10-year-old girl and the son of a top government official.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/middle-east/2026/0919/1592210-gaza-israel/",
+      "time": "2026-09-19T21:14:41",
+      "country": "Israel",
+      "title_ur": "Israeli attacks kill at least four in Gaza - medic",
+      "desc_ur": "Palestinian health officials have said Israeli fire killed at least four people in the Gaza, including a 10-year-old girl and the son of a top government official."
     }
   ],
   "pakistan": [
     {
-      "title": "New video shows mountain porter left to die on K2 during record-breaking climb",
-      "desc": "Bone-chilling newly released footage captured the moment a Norwegian mountaineer and her team discovered a struggling porter hanging upside down and ultimately left him to die on the infamous K2 in Pakistan.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/09/19/world-news/new-video-shows-mountain-porter-left-to-die-on-k2/",
-      "time": "2026-09-19T19:25:13",
+      "title": "This Yom Kippur, the whole world must apologize to Israel",
+      "desc": "If penitential prayers are heard in Israel on this Day of Atonement, then we have learned nothing from the 1973 Yom Kippur War. The misconception that Israel is capable of sinning is still deeply rooted",
+      "source": "Haaretz",
+      "url": "https://www.haaretz.com/opinion/2026-09-20/ty-article-opinion/.premium/this-yom-kippur-the-whole-world-must-apologize-to-israel/000001a0-bb0f-da3d-afb5-fb6f579e0000",
+      "time": "2026-09-19T21:35:52",
       "country": "Pakistan",
-      "title_ur": "نئی ویڈیو میں دکھایا گیا ہے کہ پہاڑی پورٹر ریکارڈ توڑ چڑھائی کے دوران K2 پر مرنے کے لیے چھوڑ دیا گیا ہے۔",
-      "desc_ur": "ہڈیوں کو ٹھنڈا کرنے والی نئی جاری کردہ فوٹیج نے اس لمحے کو پکڑا جب ایک نارویجن کوہ پیما اور اس کی ٹیم نے ایک جدوجہد کرنے والے پورٹر کو الٹا لٹکا ہوا دریافت کیا اور بالآخر اسے پاکستان کے بدنام زمانہ K2 پر مرنے کے لیے چھوڑ دیا۔"
-    },
-    {
-      "title": "‘Who’s job is to stop cross-border smuggling’: Farmers’ poser to BJP’s anti-drug yatra",
-      "desc": "BJP’s 13-day Nasha Mukt Punjab Yatra faces farmers’ criticism over Centre’s role in stopping cross-border drug smuggling from Pakistan via drones.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/whos-job-is-to-stop-cross-border-smuggling-farmers-poser-to-bjps-anti-drug-yatra/articleshow/134359259.cms",
-      "time": "2026-09-19T18:23:28",
-      "country": "Pakistan",
-      "title_ur": "'سرحد پار اسمگلنگ کو روکنا کس کا کام ہے': کسانوں کا بی جے پی کی انسداد منشیات یاترا کا تصویر",
-      "desc_ur": "بی جے پی کی 13 روزہ نشا مکت پنجاب یاترا کو ڈرون کے ذریعے پاکستان سے سرحد پار منشیات کی اسمگلنگ کو روکنے میں مرکز کے کردار پر کسانوں کی تنقید کا سامنا ہے۔"
+      "title_ur": "This Yom Kippur, the whole world must apologize to Israel",
+      "desc_ur": "If penitential prayers are heard in Israel on this Day of Atonement, then we have learned nothing from the 1973 Yom Kippur War. The misconception that Israel is capable of sinning is still deeply rooted"
     }
   ],
   "business": {
