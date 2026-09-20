@@ -1,193 +1,173 @@
 {
-  "generated": "2026-09-19T22:01:58Z",
+  "generated": "2026-09-20T00:12:38Z",
   "world": [
     {
-      "title": "Trump signs Russia sanctions bill championed by Graham",
-      "desc": "The new law lets the president impose tariffs on the largest purchases of Russian oil and natural gas.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/trump-signs-russia-sanctions-bill-lindsey-graham/",
-      "time": "2026-09-18T22:01:08",
-      "country": "Russia",
-      "title_ur": "ٹرمپ نے روس پر پابندیوں کے بل پر دستخط کیے جس کی حمایت گراہم نے کی۔",
-      "desc_ur": "نیا قانون صدر کو روسی تیل اور قدرتی گیس کی سب سے بڑی خریداری پر محصولات عائد کرنے دیتا ہے۔"
-    },
-    {
-      "title": "The Saudis, the Houthis, and Israel",
-      "desc": "A new challenge requires Riyadh to work with Abu Dhabi and Jerusalem.",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/1dfe1ccc527b1b77",
-      "time": "2026-09-18T21:56:29",
-      "country": "Israel",
-      "title_ur": "سعودی، حوثی اور اسرائیل",
-      "desc_ur": "ایک نئے چیلنج کے لیے ریاض کو ابوظہبی اور یروشلم کے ساتھ کام کرنے کی ضرورت ہے۔"
-    },
-    {
-      "title": "Second Tranche of Section 301 Tariffs May Be Delayed by Trump-Xi Summit",
-      "desc": "A new tranche of tariffs on 16 United States trading partners including China may be delayed by President Donald Trump’s planned summit with Chinese President Xi Jinping next week.",
-      "source": "WWD",
-      "url": "http://wwd.com/sourcing-journal/trade/section-301-excess-capacity-tariffs-delay-trump-xi-summit-1239245815/",
-      "time": "2026-09-18T21:54:20",
-      "country": "China",
-      "title_ur": "سیکشن 301 ٹیرف کی دوسری قسط ٹرمپ الیون سربراہی اجلاس میں تاخیر کا شکار ہو سکتی ہے",
-      "desc_ur": "چین سمیت امریکہ کے 16 تجارتی شراکت داروں پر محصولات کی نئی قسط صدر ڈونلڈ ٹرمپ کی چینی صدر شی جن پنگ کے ساتھ اگلے ہفتے طے شدہ سربراہی اجلاس میں تاخیر کا شکار ہو سکتی ہے۔"
-    },
-    {
-      "title": "Pete Hegseth Impeachment: Thomas Massie Hid Plans Out of Fear GOP Leaders Would Try to Stop Him",
-      "desc": "Thomas Massie said he kept his resolution to impeach Pete Hegseth secret from GOP leaders because he feared they would try to stop him.",
-      "source": "Radaronline.com",
-      "url": "https://radaronline.com/p/thomas-massie-hid-pete-hegseth-impeachment-plans-fear-gop-stop-him/",
-      "time": "2026-09-18T21:53:01",
+      "title": "‘Almost Started a War’: US Military Nearly Boarded a Chinese Ship Based on Bad Intel From AI",
+      "desc": "One source told CNN that the \"hallucination\" was part of a trend in the U.S. military, not an isolated incident.",
+      "source": "Gizmodo.com",
+      "url": "https://gizmodo.com/almost-started-a-war-us-military-nearly-boarded-a-chinese-ship-based-on-bad-intel-from-ai-2000814290",
+      "time": "2026-09-19T00:07:39",
       "country": "US",
-      "title_ur": "پیٹ ہیگستھ کا مواخذہ: تھامس میسی نے اس خوف سے منصوبے چھپائے کہ جی او پی رہنما اسے روکنے کی کوشش کریں گے۔",
-      "desc_ur": "تھامس میسی نے کہا کہ انہوں نے پیٹ ہیگستھ کے مواخذے کی اپنی قرارداد کو جی او پی رہنماؤں سے خفیہ رکھا کیونکہ انہیں خدشہ تھا کہ وہ انہیں روکنے کی کوشش کریں گے۔"
+      "title_ur": "'تقریباً ایک جنگ شروع ہو گئی': امریکی فوج تقریباً AI سے خراب انٹیل کی بنیاد پر ایک چینی جہاز پر سوار ہوئی",
+      "desc_ur": "ایک ذریعہ نے CNN کو بتایا کہ \"ہیلوسینیشن\" امریکی فوج کے رجحان کا حصہ تھا، کوئی الگ تھلگ واقعہ نہیں۔"
     },
     {
-      "title": "JPMorgan drops Iran war oil forecast as redlines are crossed - qz.com",
-      "desc": "JPMorgan drops Iran war oil forecast as redlines are crossedqz.com 'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with IranBBC Oil's shrug emoji eraAxios Energy markets grapple with Iran war uncertainty: 'We simply don…",
+      "title": "ANDREW NEIL: We face a winter of global discontent - yet the West is being run by failures of truly historic proportions, for whom reality is another country",
+      "desc": "Oil and gas prices have already soared since Donald Trump's war on Iran resulted in Tehran seizing control of the Strait of Hormuz, a development the President managed somehow not to foresee.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/debate/article-16142883/ANDREW-NEIL-winter-global-discontent-West-failures.html",
+      "time": "2026-09-19T00:07:06",
+      "country": "Iran",
+      "title_ur": "اینڈریو نیل: ہمیں عالمی سطح پر عدم اطمینان کی سردی کا سامنا ہے - اس کے باوجود مغرب واقعی تاریخی تناسب کی ناکامیوں سے چل رہا ہے، جن کے لیے حقیقت ایک اور ملک ہے۔",
+      "desc_ur": "تیل اور گیس کی قیمتیں پہلے ہی بڑھ چکی ہیں جب سے ڈونلڈ ٹرمپ کی ایران کے خلاف جنگ کے نتیجے میں تہران نے آبنائے ہرمز پر قبضہ کر لیا، جس کا صدر کسی طرح سے اندازہ نہیں لگا سکتے تھے۔"
+    },
+    {
+      "title": "Nicolle Wallace Blasts Trump’s MS NOW White House Ban: ‘Authoritarian in Nature’",
+      "desc": "\"He wants people to be afraid to cover him aggressively,\" the \"Deadline: White House\" host says\nThe post Nicolle Wallace Blasts Trump’s MS NOW White House Ban: ‘Authoritarian in Nature’ appeared first on TheWrap.",
+      "source": "TheWrap",
+      "url": "https://www.thewrap.com/media-platforms/journalism/nicolle-wallace-blasts-trump-ms-now-ban-video/",
+      "time": "2026-09-19T00:05:42",
+      "country": "US",
+      "title_ur": "نکول والیس نے ٹرمپ کے ایم ایس ناؤ وائٹ ہاؤس کی پابندی کو دھماکے سے اڑا دیا: 'فطرت میں آمرانہ'",
+      "desc_ur": "\"وہ چاہتا ہے کہ لوگ اسے جارحانہ انداز میں ڈھانپنے سے ڈریں،\" \"ڈیڈ لائن: وائٹ ہاؤس\" کے میزبان کا کہنا ہے\nThe post نکول والیس نے ٹرمپ کے ایم ایس ناؤ وائٹ ہاؤس پر پابندی کو اڑا دیا: 'فطرت میں آمرانہ' appeared first on TheWrap."
+    },
+    {
+      "title": "Refinery profit won’t fall with crude prices – Dangote",
+      "desc": "Dangote Refinery has assured investors that its profitability is driven by refining margins, not crude oil prices, amid its ongoing initial public offering\n\nRead More: https://punchng.com/refinery-profit-wont-fall-with-crude-prices-dangote/",
+      "source": "The Punch",
+      "url": "https://punchng.com/refinery-profit-wont-fall-with-crude-prices-dangote/",
+      "time": "2026-09-19T00:05:38",
+      "country": "International",
+      "title_ur": "ریفائنری کا منافع خام قیمتوں کے ساتھ نہیں گرے گا - ڈینگوٹ",
+      "desc_ur": "ڈینگوٹے ریفائنری نے سرمایہ کاروں کو یقین دلایا ہے کہ اس کا منافع خام تیل کی قیمتوں سے نہیں بلکہ ریفائننگ مارجن سے ہوتا ہے، اس کی جاری ابتدائی عوامی پیشکش کے درمیان\n\nمزید پڑھیں: https://punchng.com/refinery-profit-wont-fall-with-crude-prices-dangote/"
+    },
+    {
+      "title": "Israeli strike on motorcycle kills Palestinian in Gaza City, injures child",
+      "desc": "Separate attacks struck central refugee camps as officials warned Gaza's health sector faces total collapse.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/9/19/israeli-strike-on-motorcycle-in-gaza-city-kills-one-injures-child",
+      "time": "2026-09-19T00:02:03",
+      "country": "Israel",
+      "title_ur": "غزہ شہر میں موٹرسائیکل پر اسرائیلی حملے میں فلسطینی جاں بحق، بچہ زخمی",
+      "desc_ur": "مرکزی پناہ گزین کیمپوں پر الگ الگ حملے ہوئے جب حکام نے خبردار کیا کہ غزہ کے صحت کے شعبے کو مکمل طور پر تباہی کا سامنا ہے۔"
+    },
+    {
+      "title": "Iran war live: Trump extends sanctions on Iran, Houthi supporters in Sanaa",
+      "desc": "Thousands take to the streets in support of Houthis in Sanaa, Trump extends sanctions on Iran.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/19/iran-war-live-trump-extends-sanctions-on-iran-houthi-supporters-in-sanaa",
+      "time": "2026-09-19T00:00:26",
+      "country": "Iran",
+      "title_ur": "ایران جنگ لائیو: ٹرمپ نے صنعا میں ایران، حوثی حامیوں پر پابندیوں میں توسیع کردی",
+      "desc_ur": "صنعا میں حوثیوں کی حمایت میں ہزاروں افراد سڑکوں پر نکل آئے، ٹرمپ نے ایران پر پابندیوں میں توسیع کردی۔"
+    },
+    {
+      "title": "Why the House let out early: a matter of debate as Johnson says chamber has 'done its work'",
+      "desc": "Thomas Massie claims Mike Johnson sent the House home early to dodge a vote on his eight privileged impeachment articles against Pete Hegseth.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/why-house-let-out-early-matter-debate-johnson-says-chamber-has-done-its-work",
+      "time": "2026-09-18T23:56:54",
+      "country": "US",
+      "title_ur": "ایوان کو جلد کیوں باہر جانے دیا: ایک بحث کا معاملہ جیسا کہ جانسن کا کہنا ہے کہ چیمبر نے 'اپنا کام کیا ہے'",
+      "desc_ur": "تھامس میسی کا دعویٰ ہے کہ مائیک جانسن نے پیٹ ہیگستھ کے خلاف اپنے آٹھ مراعات یافتہ مواخذے کے مضامین پر ووٹ ڈالنے کے لیے ایوان کو جلد ہی گھر بھیج دیا۔"
+    },
+    {
+      "title": "WW3 Near-Miss? AI Hallucinated Nuclear Weapons Components Aboard Chinese Vessel Bound For Iran",
+      "desc": "WW3 Near-Miss? AI Hallucinated Nuclear Weapons Components Aboard Chinese Vessel Bound For Iran\n \nCould runaway artificial intelligence (AI) spark a future WW3?\nWe don't need movies like Terminator 2 and its SkyNet to help us imagine this, it's 2026 and there …",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/fc733505c363cb8d",
+      "time": "2026-09-18T23:54:12",
+      "country": "Iran",
+      "title_ur": "WW3 قریب مس؟ AI نے ایران کے لیے روانہ ہونے والے چینی بحری جہاز پر سوار نیوکلیئر ہتھیاروں کے پرزہ جات کو دھوکہ دیا۔",
+      "desc_ur": "WW3 قریب مس؟ AI نے ایران کے لیے روانہ ہونے والے چینی بحری جہاز پر سوار نیوکلیئر ہتھیاروں کے پرزہ جات کو دھوکہ دیا۔\n \nکیا بھاگی ہوئی مصنوعی ذہانت (AI) مستقبل کی WW3 کو جنم دے سکتی ہے؟\nہمیں اس کا تصور کرنے میں مدد کرنے کے لیے ٹرمینیٹر 2 اور اس کے اسکائی نیٹ جیسی فلموں کی ضرورت نہیں ہے، یہ 2026 ہے اور وہاں…"
+    },
+    {
+      "title": "AI operation uncovered 126 terror suspects – INTERPOL",
+      "desc": "An INTERPOL AI operation, in which Nigeria participated, has identified 126 suspected foreign terrorist fighters from over 108,000 facial images.\n\nRead More: https://punchng.com/ai-operation-uncovered-126-terror-suspects-interpol/",
+      "source": "The Punch",
+      "url": "https://punchng.com/ai-operation-uncovered-126-terror-suspects-interpol/",
+      "time": "2026-09-18T23:53:22",
+      "country": "US",
+      "title_ur": "اے آئی آپریشن نے 126 دہشت گرد مشتبہ افراد کو بے نقاب کیا - انٹرپول",
+      "desc_ur": "ایک انٹرپول AI آپریشن، جس میں نائیجیریا نے حصہ لیا، 108,000 سے زیادہ چہرے کی تصاویر سے 126 مشتبہ غیر ملکی دہشت گرد جنگجوؤں کی شناخت کی ہے۔\n\nمزید پڑھیں: https://punchng.com/ai-operation-uncovered-126-terror-suspects-interpol/"
+    },
+    {
+      "title": "US troop deaths in Iran war exceed Pentagon count by at least four, Washington Post reports - Reuters",
+      "desc": "US troop deaths in Iran war exceed Pentagon count by at least four, Washington Post reportsReuters More U.S. troops have died amid Iran war than Pentagon has disclosed publiclyThe Washington Post Pentagon’s count leaves out some deaths in Middle East during I…",
       "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185696984",
-      "time": "2026-09-18T21:52:46",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185697900",
+      "time": "2026-09-18T23:53:20",
       "country": "Iran",
-      "title_ur": "JPMorgan نے ریڈ لائنز عبور کرنے کے ساتھ ہی ایران جنگ کی تیل کی پیشن گوئی کو گرا دیا - qz.com",
-      "desc_ur": "JPMorgan نے ایران جنگ کی تیل کی پیشن گوئی کو گرا دیا جیسا کہ ریڈ لائنز کراس کر دی گئی ہیں 'ہمیں صرف معلوم نہیں ہے' - جے پی مورگن ایران کے ساتھ ٹرمپ کی جنگ کی وجہ سے تیل کی قیمتوں کی پیش گوئی کرنے کے لیے جدوجہد کر رہے ہیںBBC Oil کے shrug emoji eraAxios انرجی مارکیٹس ایران جنگ کی غیر یقینی صورتحال سے دوچار ہیں: 'ہم صرف نہیں کرتے…"
+      "title_ur": "ایران جنگ میں امریکی فوجیوں کی ہلاکتیں پینٹاگون کی تعداد سے کم از کم چار سے زیادہ ہیں، واشنگٹن پوسٹ کی رپورٹ – رائٹرز",
+      "desc_ur": "ایران جنگ میں امریکی فوجیوں کی ہلاکتوں میں پینٹاگون کی تعداد کم از کم چار سے زیادہ ہے، واشنگٹن پوسٹ کی رپورٹ رائٹرز رائٹرز کی رپورٹ کے مطابق پینٹاگون کی جانب سے عوامی طور پر ظاہر کیے جانے سے کہیں زیادہ امریکی فوجی ایران کی جنگ کے دوران ہلاک ہوئے ہیں واشنگٹن پوسٹ پینٹاگون کی گنتی میں مشرق وسطیٰ میں ہونے والی کچھ ہلاکتوں کو چھوڑ دیا گیا ہے۔"
     },
     {
-      "title": "'Dangerous and unpleasant': what it's like sailing through the Bab al-Mandeb strait",
-      "desc": "On today's episode of Iran: the Latest, Roland Oliphant speaks to former Royal Navy commander Tom Sharpe about whether ...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/fcce1eb5e4159fc4",
-      "time": "2026-09-18T21:50:56",
+      "title": "The cost of the Iran war has risen to $43.6B, Pentagon tells Congress - USA Today",
+      "desc": "The cost of the Iran war has risen to $43.6B, Pentagon tells CongressUSA Today Iran war has cost $45.1 billion, Pentagon tells CongressCNN US Warns Allies of Missile Delivery Delays Due to ShortageBloomberg.com Estimating the Cost of Combat Operations Against…",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185697896",
+      "time": "2026-09-18T23:53:09",
       "country": "Iran",
-      "title_ur": "'خطرناک اور ناخوشگوار': آبنائے باب المندب سے گزرنا کیسا ہے",
-      "desc_ur": "ایران کے آج کے ایپی سوڈ پر: تازہ ترین، رولینڈ اولی فینٹ نے رائل نیوی کے سابق کمانڈر ٹام شارپ سے اس بارے میں بات کی کہ آیا..."
+      "title_ur": "پینٹاگون نے کانگریس کو بتایا کہ ایران جنگ کی لاگت 43.6 بلین ڈالر تک بڑھ گئی ہے۔",
+      "desc_ur": "ایران جنگ کی لاگت $43.6B تک بڑھ گئی ہے، پینٹاگون نے کانگریس کو بتایا ہے کہ آج ایران کی جنگ پر $45.1 بلین لاگت آئی ہے، پینٹاگون نے کانگریس سی این این کو بتایا کہ امریکی نے اتحادیوں کو میزائل کی فراہمی میں تاخیر کی وجہ سے خبردار کیا ہے بلومبرگ ڈاٹ کام کے خلاف جنگی کارروائیوں کی لاگت کا تخمینہ لگانا…"
     },
     {
-      "title": "Wall Street drifts lower as bond yields rise and oil prices swing",
-      "desc": "Wall Street closed out an up-and-down week with a mixed finish for U.S. indexes as bond yields rose and oil prices swung",
-      "source": "Boston 25 News",
-      "url": "https://www.boston25news.com/news/business/asian-shares-mostly/ESN55GTH7Q2URFSOW3YA2KFXBA/",
-      "time": "2026-09-18T21:50:12",
+      "title": "West African Youths seek greater role in governance",
+      "desc": "By Henry Umoru ABUJA — The Confederation of West African Youths has called for greater youth participation in governance, accountable leadership and policies capable of creating more economic opportunities for young Nigerians. The Regional President of the or…",
+      "source": "Vanguard",
+      "url": "https://www.vanguardngr.com/2026/09/west-african-youths-seek-greater-role-in-governance/",
+      "time": "2026-09-18T23:44:00",
       "country": "International",
-      "title_ur": "بانڈ کی پیداوار بڑھنے اور تیل کی قیمتوں میں اضافے کے ساتھ ہی وال سٹریٹ کم ہو جاتی ہے۔",
-      "desc_ur": "بانڈ کی پیداوار میں اضافہ اور تیل کی قیمتوں میں اضافے کے ساتھ ہی وال اسٹریٹ نے یو ایس انڈیکس کے لیے ملے جلے اختتام کے ساتھ ایک اوپر اور نیچے ہفتہ بند کیا"
+      "title_ur": "مغربی افریقی نوجوان حکمرانی میں زیادہ کردار کے خواہاں ہیں۔",
+      "desc_ur": "ہنری عمرو ابوجا کی طرف سے - مغربی افریقی نوجوانوں کی کنفیڈریشن نے گورننس، جوابدہ قیادت اور نوجوان نائیجیرین کے لیے مزید معاشی مواقع پیدا کرنے کے قابل پالیسیوں میں نوجوانوں کی زیادہ سے زیادہ شرکت پر زور دیا ہے۔ کے علاقائی صدر یا…"
     },
     {
-      "title": "RFK Jr., Who Should Be Running Out of Terrible Ideas By Now, Has Managed to Think Up Another Terrible Idea",
-      "desc": "Remind me why we gave this moron carte blanche to let his freak flag fly?",
-      "source": "esquire.com",
-      "url": "https://www.esquire.com/news-politics/politics/a73794923/rfk-jr-speech-chemtrails/",
-      "time": "2026-09-18T21:49:29",
-      "country": "International",
-      "title_ur": "RFK جونیئر، جسے اب تک خوفناک خیالات سے باہر ہو جانا چاہیے، ایک اور خوفناک آئیڈیا سوچنے میں کامیاب ہو گیا ہے۔",
-      "desc_ur": "مجھے یاد دلائیں کہ ہم نے اس بے وقوف کا جھنڈا کیوں اڑنے دیا؟"
-    },
-    {
-      "title": "Report: China Pushes Iran to Rein In Houthis, Reopen Strait of Hormuz",
-      "desc": "After Iran struck out with BRICS and China this week in its search for international support, China reportedly privately told the Iranians to rein in their proxies in Yemen, the Houthi insurgents, who have repeatedly attacked Saudi Arabia and sought to block …",
+      "title": "El-Sayed: Piker Wasn't 'Big Part' of Campaign, Just Guy Who 'Said Some Things I Agree With' Who We Had in MI Once",
+      "desc": "On Friday’s broadcast of MS NOW’s “Morning Joe,” Democratic U.S. Senate nominee Abdul El-Sayed defended downplaying Hasan Piker as a streamer from California by saying that Piker “said some things I agree with” and some things he disagrees with and\nThe post E…",
       "source": "Breitbart News",
-      "url": "https://www.breitbart.com/middle-east/2026/09/18/report-china-pushes-iran-to-rein-in-houthis-reopen-strait-of-hormuz/",
-      "time": "2026-09-18T21:47:43",
-      "country": "Iran",
-      "title_ur": "رپورٹ: چین نے ایران کو حوثیوں پر لگام لگانے کے لیے دباؤ ڈالا، آبنائے ہرمز کو دوبارہ کھول دیا۔",
-      "desc_ur": "بین الاقوامی حمایت کی تلاش میں ایران کے اس ہفتے برکس اور چین کے ساتھ دستبرداری کے بعد، چین نے مبینہ طور پر نجی طور پر ایرانیوں سے کہا کہ وہ یمن میں اپنے پراکسیوں کو لگام دیں، حوثی باغی، جنہوں نے بارہا سعودی عرب پر حملہ کیا ہے اور بلاک کرنے کی کوشش کی ہے…"
-    },
-    {
-      "title": "Are women cut out for serving on juries?",
-      "desc": "'The jurors who have given interviews have spent an inordinate amount of time discussing their feelings. That is irrelevant'",
-      "source": "Wnd.com",
-      "url": "https://www.wnd.com/2026/09/are-women-cut-serving-juries/",
-      "time": "2026-09-18T21:47:17",
+      "url": "https://www.breitbart.com/clips/2026/09/18/el-sayed-piker-wasnt-big-part-of-campaign-just-guy-who-said-some-things-i-agree-with-who-we-had-in-mi-once/",
+      "time": "2026-09-18T23:39:25",
       "country": "US",
-      "title_ur": "کیا خواتین کو جیوری میں خدمات انجام دینے کے لیے کاٹ دیا جاتا ہے؟",
-      "desc_ur": "'انٹرویو دینے والے ججوں نے اپنے جذبات پر بات کرنے میں بہت زیادہ وقت صرف کیا ہے۔ یہ غیر متعلقہ ہے'"
+      "title_ur": "ال سید: پائیکر مہم کا 'بڑا حصہ' نہیں تھا، صرف وہ لڑکا جس نے 'کچھ باتیں کہی جن سے میں متفق ہوں' جو ہم نے ایک بار MI میں کیا تھا",
+      "desc_ur": "جمعہ کے روز ایم ایس ناؤ کے \"مارننگ جو\" کی نشریات پر، ڈیموکریٹک امریکی سینیٹ کے نامزد امیدوار عبد السید نے حسن پیکر کو کیلیفورنیا سے تعلق رکھنے والے اسٹریمر کے طور پر یہ کہتے ہوئے دفاع کیا کہ پائیکر نے \"کچھ ایسی باتیں کہی ہیں جن سے میں اتفاق کرتا ہوں\" اور کچھ چیزوں سے وہ متفق نہیں ہیں۔\nپوسٹ ای…"
     },
     {
-      "title": "Russia, China block renewal of UN panel overseeing Iran sanctions compliance",
-      "desc": "The blocked resolution sought to extend the mandate of the panel overseeing the sanctions. The move has limited practical significance, but signals that Russia and China do not intend to cooperate with efforts to enforce them against Iran",
-      "source": "Haaretz",
-      "url": "https://www.haaretz.com/middle-east-news/iran/2026-09-19/ty-article/.premium/russia-china-block-renewal-of-un-panel-overseeing-iran-sanctions-compliance/000001a0-b5af-dea8-afe0-f5afb3f30000",
-      "time": "2026-09-18T21:47:09",
-      "country": "Iran",
-      "title_ur": "روس اور چین نے ایران پر پابندیوں کی تعمیل کی نگرانی کرنے والے اقوام متحدہ کے پینل کی تجدید کو روک دیا۔",
-      "desc_ur": "مسدود قرارداد میں پابندیوں کی نگرانی کرنے والے پینل کے مینڈیٹ میں توسیع کی کوشش کی گئی تھی۔ اس اقدام کی محدود عملی اہمیت ہے، لیکن اس بات کا اشارہ ہے کہ روس اور چین ان کو ایران کے خلاف نافذ کرنے کی کوششوں میں تعاون کرنے کا ارادہ نہیں رکھتے۔"
-    },
-    {
-      "title": "Jake Tapper Argues Trump Threw ‘Unconstitutional Tantrum’ to Try Distract From Bad News: ‘Not Going To Happen’",
-      "desc": "CNN's Jake Tapper insisted Friday that President Donald Trump's \"unconstitutional tantrum\" is meant to distract from the abundance of bad news surrounding his administration, but added that it is \"not going to happen.\"\nThe post Jake Tapper Argues Trump Threw …",
-      "source": "Mediaite",
-      "url": "https://www.mediaite.com/media/news/jake-tapper-argues-trump-threw-unconstitutional-tantrum-to-try-distract-from-bad-news-not-going-to-happen/",
-      "time": "2026-09-18T21:43:31",
+      "title": "Trump announces White House ban against three media outlets",
+      "desc": "President Donald Trump announced CNN, MS NOW and Politico are banned from the White House, dubbing them \"fake news\" and teased other outlets could follow.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/media/trump-announces-white-house-ban-three-media-outlets",
+      "time": "2026-09-18T23:33:16",
       "country": "US",
-      "title_ur": "جیک ٹیپر کا استدلال ہے کہ ٹرمپ نے بری خبروں سے توجہ ہٹانے کی کوشش کرنے کے لئے 'غیر آئینی طنز' پھینکا: 'ہونے والا نہیں'",
-      "desc_ur": "CNN کے جیک ٹیپر نے جمعہ کو اصرار کیا کہ صدر ڈونلڈ ٹرمپ کے \"غیر آئینی ہچکچاہٹ\" کا مقصد ان کی انتظامیہ کے ارد گرد بری خبروں کی کثرت سے توجہ ہٹانا ہے، لیکن مزید کہا کہ ایسا نہیں ہونے والا ہے۔\nThe post جیک ٹیپر کی دلیل ٹرمپ نے پھینکی…"
+      "title_ur": "ٹرمپ نے وائٹ ہاؤس کے تین میڈیا اداروں پر پابندی کا اعلان کر دیا۔",
+      "desc_ur": "صدر ڈونلڈ ٹرمپ نے اعلان کیا کہ CNN، MS NOW اور Politico پر وائٹ ہاؤس سے پابندی عائد کر دی گئی ہے، انہیں \"جعلی خبریں\" کا نام دے کر چھیڑا گیا ہے اور اس کی پیروی کرنے والے دوسرے آؤٹ لیٹس کو چھیڑ دیا گیا ہے۔"
     },
     {
-      "title": "Trump announces deal giving US security control over Greenland",
-      "desc": "President Trump announces a deal with Denmark and Greenland granting the US permanent security control and barring adversaries from military bases: “This is a dream come true for the United States of America.\"(Arutz Sheva-Israel National News' North American …",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/flashes/693771",
-      "time": "2026-09-18T21:43:15",
-      "country": "Israel",
-      "title_ur": "ٹرمپ نے گرین لینڈ پر امریکی سیکیورٹی کنٹرول دینے کے معاہدے کا اعلان کیا۔",
-      "desc_ur": "صدر ٹرمپ نے ڈنمارک اور گرین لینڈ کے ساتھ ایک معاہدے کا اعلان کیا جس میں امریکہ کو مستقل سیکورٹی کنٹرول دیا جائے گا اور مخالفین کو فوجی اڈوں سے روک دیا جائے گا: \"یہ ریاستہائے متحدہ امریکہ کے لیے ایک خواب پورا ہو رہا ہے۔\""
-    },
-    {
-      "title": "Hated but not feared",
-      "desc": "Reflecting on the EU’s offer to make Canada an “associate member,” the Sultan of Shrill quotes what Machiavelli actually said as opposed to what is sometimes misleadingly described as “it is better to be feared than loved”: Upon this a question arises: whethe…",
-      "source": "Lawyersgunsmoneyblog.com",
-      "url": "https://www.lawyersgunsmoneyblog.com/2026/09/hated-but-not-feared",
-      "time": "2026-09-18T21:40:00",
-      "country": "Europe",
-      "title_ur": "نفرت ہے لیکن ڈر نہیں ہے۔",
-      "desc_ur": "کینیڈا کو \"ایسوسی ایٹ ممبر\" بنانے کے لیے یورپی یونین کی پیشکش پر غور کرتے ہوئے، سلطان آف شرل نے میکیاویلی کی حقیقت میں اس بات کا حوالہ دیا جو کبھی کبھی گمراہ کن طور پر بیان کیا جاتا ہے کہ \"محبت سے ڈرنا بہتر ہے\": اس پر ایک سوال پیدا ہوتا ہے: کیا…"
-    },
-    {
-      "title": "Trump’s Latest Trade Threat Would Throw America Into A Massive Recession",
-      "desc": "Cutting off countries that export more to us than they import would mean ending trade with 95 countries and territories: China, Taiwan, South Korea, Israel — even Burundi.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/trump-trade-threat-recession_n_6aac5984e4b05a5eaee47873",
-      "time": "2026-09-18T21:39:26",
-      "country": "Israel",
-      "title_ur": "ٹرمپ کی تازہ ترین تجارتی دھمکی امریکہ کو زبردست کساد بازاری میں ڈال دے گی۔",
-      "desc_ur": "وہ ممالک جو ہمیں درآمد سے زیادہ برآمد کرتے ہیں ان کا مطلب 95 ممالک اور خطوں کے ساتھ تجارت ختم کرنا ہوگا: چین، تائیوان، جنوبی کوریا، اسرائیل - یہاں تک کہ برونڈی۔"
+      "title": "Trafalgar Senate polls, September 2026",
+      "desc": "GA: Ossoff +7 (LINK)  NC: Cooper +6 (LINK)  OH: Brown +4 (LINK)  MI: El-Sayed +2 (LINK)  TX: Talarico +1 (LINK)",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4396091/posts",
+      "time": "2026-09-18T23:30:54",
+      "country": "International",
+      "title_ur": "ٹریفلگر سینیٹ انتخابات، ستمبر 2026",
+      "desc_ur": "GA: Ossoff +7 (LINK) NC: Cooper +6 (LINK) OH: Brown +4 (LINK) MI: السید +2 (LINK) TX: Talarico +1 (LINK)"
     }
   ],
   "pakistan": [
     {
-      "title": "‘We’ll Bomb the Sh*t Out of Them’: Trump and the War on Morality",
-      "desc": "Freddie Ponton21st Century Wire In December 2025, Alpha Elsec shipped 122 armed five-kilogram warhead assemblies from India to Israel. Their customs description and specifications matched the warhead carried by Elbit Systems’ SkyStriker, a loitering munition …",
-      "source": "Activistpost.com",
-      "url": "https://activistpost.com/well-bomb-the-sht-out-of-them-trump-and-the-war-on-morality/",
-      "time": "2026-09-18T22:00:00",
+      "title": "JPMorgan sends stark warning on $100 oil",
+      "desc": "JPMorgan has a clear warning for anyone counting on relief from $100 oil.\nThe bank says it can’t provide a clear path for how this crisis ends. Six months into the U.S.-Israeli war with Iran, the bank says assumptions about how much economic pain Washington c…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/28bd98ad2a769805",
+      "time": "2026-09-18T22:23:41",
       "country": "Pakistan",
-      "title_ur": "'ہم ان میں سے ش*ٹ کو بمباری کریں گے': ٹرمپ اور اخلاقیات کے خلاف جنگ",
-      "desc_ur": "Freddie Ponton 21st Century Wire دسمبر 2025 میں، Alpha Elsec نے 122 مسلح پانچ کلو گرام وار ہیڈ اسمبلیاں بھارت سے اسرائیل بھیجیں۔ ان کی کسٹم کی تفصیل اور وضاحتیں ایلبٹ سسٹمز کے اسکائی اسٹرائیکر کی طرف سے اٹھائے جانے والے وار ہیڈ سے مماثل ہیں"
-    },
-    {
-      "title": "Bombing at mosque near police offices in Pakistan kills at least 21",
-      "desc": "A vehicle bomb and gun attack on a mosque near police offices in Pakistan’s Kohat district killed at least 21 people and injured 80.",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/world/pakistan-bomb-attack-mosque-police-offices-6395946",
-      "time": "2026-09-18T21:52:24",
-      "country": "Pakistan",
-      "title_ur": "پاکستان میں پولیس دفاتر کے قریب مسجد میں بم دھماکے میں کم از کم 21 افراد ہلاک ہو گئے۔",
-      "desc_ur": "پاکستان کے ضلع کوہاٹ میں پولیس دفاتر کے قریب ایک مسجد پر گاڑی بم اور بندوق کے حملے میں کم از کم 21 افراد ہلاک اور 80 زخمی ہوئے۔"
-    },
-    {
-      "title": "Former Pakistani PM Imran Khan’s son says he fears for his father's life behind bars",
-      "desc": "Kasim Khan, the the son of jailed former Pakistani prime minister Imran Khan, says he wakes up most mornings expecting to learn that his father has died in prison.",
-      "source": "CBC News",
-      "url": "https://www.cbc.ca/radio/asithappens/imran-khan-son-9.7350224",
-      "time": "2026-09-18T21:32:50",
-      "country": "Pakistan",
-      "title_ur": "پاکستان کے سابق وزیر اعظم عمران خان کے بیٹے کا کہنا ہے کہ انہیں اپنے والد کی جیل کی سلاخوں کے پیچھے جان کا خوف ہے۔",
-      "desc_ur": "جیل میں بند سابق پاکستانی وزیر اعظم عمران خان کے بیٹے قاسم خان کا کہنا ہے کہ وہ زیادہ تر صبح اس امید میں اٹھتے ہیں کہ ان کے والد کا جیل میں انتقال ہو گیا ہے۔"
+      "title_ur": "JPMorgan $100 تیل پر سخت وارننگ بھیجتا ہے۔",
+      "desc_ur": "JPMorgan کے پاس ہر اس شخص کے لیے واضح انتباہ ہے جو $100 کے تیل سے ریلیف پر اعتماد کر رہا ہے۔\nبینک کا کہنا ہے کہ وہ واضح راستہ فراہم نہیں کر سکتا کہ یہ بحران کیسے ختم ہوتا ہے۔ ایران کے ساتھ امریکہ اسرائیل جنگ کے چھ ماہ بعد، بینک کا کہنا ہے کہ اس بارے میں مفروضے کہ واشنگٹن کو کتنا معاشی درد ہو گا…"
     }
   ],
   "business": {
-    "quote": "Do not save what is left after spending, but spend what is left after saving.",
-    "author": "Warren Buffett",
-    "quote_ur": "خرچ کرنے کے بعد جو بچے اسے مت بچاؤ، بلکہ بچانے کے بعد جو بچے اسے خرچ کرو۔"
+    "quote": "It's not how much money you make, but how much money you keep.",
+    "author": "Robert Kiyosaki",
+    "quote_ur": "یہ نہیں کہ آپ کتنا کماتے ہیں، بلکہ یہ ہے کہ آپ کتنا رکھتے ہیں۔"
   },
   "weather": {
     "city": "Lahore",
@@ -218,16 +198,16 @@
         "low": 25,
         "condition": "Mainly Clear",
         "condition_ur": "زیادہ تر صاف",
-        "precip": 6
+        "precip": 9
       },
       {
         "date": "2026-09-23",
         "day": "بدھ",
         "high": 37,
         "low": 26,
-        "condition": "Clear",
-        "condition_ur": "صاف",
-        "precip": 12
+        "condition": "Light Drizzle",
+        "condition_ur": "ہلکی بوندا باندی",
+        "precip": 10
       },
       {
         "date": "2026-09-24",
@@ -236,16 +216,16 @@
         "low": 26,
         "condition": "Clear",
         "condition_ur": "صاف",
-        "precip": 10
+        "precip": 6
       },
       {
         "date": "2026-09-25",
         "day": "جمعہ",
         "high": 36,
         "low": 26,
-        "condition": "Mainly Clear",
-        "condition_ur": "زیادہ تر صاف",
-        "precip": 21
+        "condition": "Drizzle",
+        "condition_ur": "بوندا باندی",
+        "precip": 16
       },
       {
         "date": "2026-09-26",
@@ -254,7 +234,7 @@
         "low": 26,
         "condition": "Clear",
         "condition_ur": "صاف",
-        "precip": 14
+        "precip": 15
       }
     ]
   },
