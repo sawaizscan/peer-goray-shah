@@ -1,167 +1,217 @@
 {
-  "generated": "2026-09-20T00:12:38Z",
+  "generated": "2026-09-20T05:07:39Z",
   "world": [
     {
-      "title": "‘Almost Started a War’: US Military Nearly Boarded a Chinese Ship Based on Bad Intel From AI",
-      "desc": "One source told CNN that the \"hallucination\" was part of a trend in the U.S. military, not an isolated incident.",
-      "source": "Gizmodo.com",
-      "url": "https://gizmodo.com/almost-started-a-war-us-military-nearly-boarded-a-chinese-ship-based-on-bad-intel-from-ai-2000814290",
-      "time": "2026-09-19T00:07:39",
-      "country": "US",
-      "title_ur": "'تقریباً ایک جنگ شروع ہو گئی': امریکی فوج تقریباً AI سے خراب انٹیل کی بنیاد پر ایک چینی جہاز پر سوار ہوئی",
-      "desc_ur": "ایک ذریعہ نے CNN کو بتایا کہ \"ہیلوسینیشن\" امریکی فوج کے رجحان کا حصہ تھا، کوئی الگ تھلگ واقعہ نہیں۔"
+      "title": "'Have 2 cheating cases': How ex-employee came to haunt Delhi executive Yuvraj Singh Manchanda weeks before his wedding",
+      "desc": "A couple faces charges in the alleged murder of Yuvraj Singh Manchanda, an Adani Realty executive. The woman had prior cheating cases, and her partner faced domestic violence allegations. Investigators are probing if the victim's body remained in a car for tw…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/had-2-cheating-cases-how-ex-employee-came-to-haunt-delhi-executive-yuvraj-singh-manchanda-weeks-before-his-wedding/articleshow/134347855.cms",
+      "time": "2026-09-19T05:06:00",
+      "country": "India",
+      "title_ur": "'Have 2 cheating cases': How ex-employee came to haunt Delhi executive Yuvraj Singh Manchanda weeks before his wedding",
+      "desc_ur": "A couple faces charges in the alleged murder of Yuvraj Singh Manchanda, an Adani Realty executive. The woman had prior cheating cases, and her partner faced domestic violence allegations. Investigators are probing if the victim's body remained in a car for tw…"
     },
     {
-      "title": "ANDREW NEIL: We face a winter of global discontent - yet the West is being run by failures of truly historic proportions, for whom reality is another country",
-      "desc": "Oil and gas prices have already soared since Donald Trump's war on Iran resulted in Tehran seizing control of the Strait of Hormuz, a development the President managed somehow not to foresee.",
+      "title": "Hugs, kisses minutes before Indian-origin woman and her friend get killed by train in Manhattan: Report",
+      "desc": "US News: An Indian-origin woman may have jumped onto a New York City subway track in an attempt to rescue her friend after he ended up on the tracks, before bo.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/us/hugs-kisses-minutes-before-indian-origin-woman-and-her-friend-get-killed-by-train-in-manhattan-report/articleshow/134347745.cms",
+      "time": "2026-09-19T05:04:08",
+      "country": "India",
+      "title_ur": "Hugs, kisses minutes before Indian-origin woman and her friend get killed by train in Manhattan: Report",
+      "desc_ur": "US News: An Indian-origin woman may have jumped onto a New York City subway track in an attempt to rescue her friend after he ended up on the tracks, before bo."
+    },
+    {
+      "title": "Cambridgeshire weather forecast: Sunny intervals and mild temperatures expected today",
+      "desc": "Cambridgeshire anticipates pleasant sunshine with mild temperatures on September nineteenth. Maximum temperatures will reach twenty-three degrees Celsius, while humidity remains high. The upcoming week forecasts consistent sunny intervals and dry conditions. …",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/uk/cambridgeshire-weather-forecast-sunny-intervals-and-mild-temperatures-expected-today/articleshow/134348134.cms",
+      "time": "2026-09-19T05:01:53",
+      "country": "US",
+      "title_ur": "Cambridgeshire weather forecast: Sunny intervals and mild temperatures expected today",
+      "desc_ur": "Cambridgeshire anticipates pleasant sunshine with mild temperatures on September nineteenth. Maximum temperatures will reach twenty-three degrees Celsius, while humidity remains high. The upcoming week forecasts consistent sunny intervals and dry conditions. …"
+    },
+    {
+      "title": "Oxfordshire weather forecast: Overcast Saturday, sunny week ahead",
+      "desc": "Oxfordshire faces overcast skies and high humidity on September 19, 2026. Moderate temperatures will range from fifteen to twenty-two degrees Celsius throughout the day. Following Saturday, sunny conditions are expected for the next several days. Temperatures…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/uk/oxfordshire-weather-forecast-overcast-saturday-sunny-week-ahead/articleshow/134348132.cms",
+      "time": "2026-09-19T05:01:51",
+      "country": "US",
+      "title_ur": "Oxfordshire weather forecast: Overcast Saturday, sunny week ahead",
+      "desc_ur": "Oxfordshire faces overcast skies and high humidity on September 19, 2026. Moderate temperatures will range from fifteen to twenty-two degrees Celsius throughout the day. Following Saturday, sunny conditions are expected for the next several days. Temperatures…"
+    },
+    {
+      "title": "Not even Liberal Democrats like Ed Davey, damning new poll reveals",
+      "desc": "Lib Dem members are the most dissatisfied with their leader compared to other parties - with Sir Ed twice as unpopular with his base as Andy Burnham is with Labour members.",
       "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/debate/article-16142883/ANDREW-NEIL-winter-global-discontent-West-failures.html",
-      "time": "2026-09-19T00:07:06",
-      "country": "Iran",
-      "title_ur": "اینڈریو نیل: ہمیں عالمی سطح پر عدم اطمینان کی سردی کا سامنا ہے - اس کے باوجود مغرب واقعی تاریخی تناسب کی ناکامیوں سے چل رہا ہے، جن کے لیے حقیقت ایک اور ملک ہے۔",
-      "desc_ur": "تیل اور گیس کی قیمتیں پہلے ہی بڑھ چکی ہیں جب سے ڈونلڈ ٹرمپ کی ایران کے خلاف جنگ کے نتیجے میں تہران نے آبنائے ہرمز پر قبضہ کر لیا، جس کا صدر کسی طرح سے اندازہ نہیں لگا سکتے تھے۔"
-    },
-    {
-      "title": "Nicolle Wallace Blasts Trump’s MS NOW White House Ban: ‘Authoritarian in Nature’",
-      "desc": "\"He wants people to be afraid to cover him aggressively,\" the \"Deadline: White House\" host says\nThe post Nicolle Wallace Blasts Trump’s MS NOW White House Ban: ‘Authoritarian in Nature’ appeared first on TheWrap.",
-      "source": "TheWrap",
-      "url": "https://www.thewrap.com/media-platforms/journalism/nicolle-wallace-blasts-trump-ms-now-ban-video/",
-      "time": "2026-09-19T00:05:42",
-      "country": "US",
-      "title_ur": "نکول والیس نے ٹرمپ کے ایم ایس ناؤ وائٹ ہاؤس کی پابندی کو دھماکے سے اڑا دیا: 'فطرت میں آمرانہ'",
-      "desc_ur": "\"وہ چاہتا ہے کہ لوگ اسے جارحانہ انداز میں ڈھانپنے سے ڈریں،\" \"ڈیڈ لائن: وائٹ ہاؤس\" کے میزبان کا کہنا ہے\nThe post نکول والیس نے ٹرمپ کے ایم ایس ناؤ وائٹ ہاؤس پر پابندی کو اڑا دیا: 'فطرت میں آمرانہ' appeared first on TheWrap."
-    },
-    {
-      "title": "Refinery profit won’t fall with crude prices – Dangote",
-      "desc": "Dangote Refinery has assured investors that its profitability is driven by refining margins, not crude oil prices, amid its ongoing initial public offering\n\nRead More: https://punchng.com/refinery-profit-wont-fall-with-crude-prices-dangote/",
-      "source": "The Punch",
-      "url": "https://punchng.com/refinery-profit-wont-fall-with-crude-prices-dangote/",
-      "time": "2026-09-19T00:05:38",
+      "url": "https://www.dailymail.com/news/article-16143145/Liberal-Democrats-Ed-Davey-embarrassing-poll.html",
+      "time": "2026-09-19T05:01:46",
       "country": "International",
-      "title_ur": "ریفائنری کا منافع خام قیمتوں کے ساتھ نہیں گرے گا - ڈینگوٹ",
-      "desc_ur": "ڈینگوٹے ریفائنری نے سرمایہ کاروں کو یقین دلایا ہے کہ اس کا منافع خام تیل کی قیمتوں سے نہیں بلکہ ریفائننگ مارجن سے ہوتا ہے، اس کی جاری ابتدائی عوامی پیشکش کے درمیان\n\nمزید پڑھیں: https://punchng.com/refinery-profit-wont-fall-with-crude-prices-dangote/"
+      "title_ur": "Not even Liberal Democrats like Ed Davey, damning new poll reveals",
+      "desc_ur": "Lib Dem members are the most dissatisfied with their leader compared to other parties - with Sir Ed twice as unpopular with his base as Andy Burnham is with Labour members."
     },
     {
-      "title": "Israeli strike on motorcycle kills Palestinian in Gaza City, injures child",
-      "desc": "Separate attacks struck central refugee camps as officials warned Gaza's health sector faces total collapse.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/9/19/israeli-strike-on-motorcycle-in-gaza-city-kills-one-injures-child",
-      "time": "2026-09-19T00:02:03",
-      "country": "Israel",
-      "title_ur": "غزہ شہر میں موٹرسائیکل پر اسرائیلی حملے میں فلسطینی جاں بحق، بچہ زخمی",
-      "desc_ur": "مرکزی پناہ گزین کیمپوں پر الگ الگ حملے ہوئے جب حکام نے خبردار کیا کہ غزہ کے صحت کے شعبے کو مکمل طور پر تباہی کا سامنا ہے۔"
-    },
-    {
-      "title": "Iran war live: Trump extends sanctions on Iran, Houthi supporters in Sanaa",
-      "desc": "Thousands take to the streets in support of Houthis in Sanaa, Trump extends sanctions on Iran.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/19/iran-war-live-trump-extends-sanctions-on-iran-houthi-supporters-in-sanaa",
-      "time": "2026-09-19T00:00:26",
-      "country": "Iran",
-      "title_ur": "ایران جنگ لائیو: ٹرمپ نے صنعا میں ایران، حوثی حامیوں پر پابندیوں میں توسیع کردی",
-      "desc_ur": "صنعا میں حوثیوں کی حمایت میں ہزاروں افراد سڑکوں پر نکل آئے، ٹرمپ نے ایران پر پابندیوں میں توسیع کردی۔"
-    },
-    {
-      "title": "Why the House let out early: a matter of debate as Johnson says chamber has 'done its work'",
-      "desc": "Thomas Massie claims Mike Johnson sent the House home early to dodge a vote on his eight privileged impeachment articles against Pete Hegseth.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/why-house-let-out-early-matter-debate-johnson-says-chamber-has-done-its-work",
-      "time": "2026-09-18T23:56:54",
+      "title": "York weather forecast: Sunny intervals, 60% chance of rain, 18°C high today",
+      "desc": "York residents can expect sunny intervals and a chance of rain today. Temperatures will range from eleven to eighteen degrees Celsius with high humidity. Tomorrow brings clearer skies and cooler temperatures after today's mixed weather. The week ahead shows f…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/uk/york-weather-forecast-sunny-intervals-60-chance-of-rain-18c-high-today/articleshow/134348130.cms",
+      "time": "2026-09-19T05:01:42",
       "country": "US",
-      "title_ur": "ایوان کو جلد کیوں باہر جانے دیا: ایک بحث کا معاملہ جیسا کہ جانسن کا کہنا ہے کہ چیمبر نے 'اپنا کام کیا ہے'",
-      "desc_ur": "تھامس میسی کا دعویٰ ہے کہ مائیک جانسن نے پیٹ ہیگستھ کے خلاف اپنے آٹھ مراعات یافتہ مواخذے کے مضامین پر ووٹ ڈالنے کے لیے ایوان کو جلد ہی گھر بھیج دیا۔"
+      "title_ur": "York weather forecast: Sunny intervals, 60% chance of rain, 18°C high today",
+      "desc_ur": "York residents can expect sunny intervals and a chance of rain today. Temperatures will range from eleven to eighteen degrees Celsius with high humidity. Tomorrow brings clearer skies and cooler temperatures after today's mixed weather. The week ahead shows f…"
     },
     {
-      "title": "WW3 Near-Miss? AI Hallucinated Nuclear Weapons Components Aboard Chinese Vessel Bound For Iran",
-      "desc": "WW3 Near-Miss? AI Hallucinated Nuclear Weapons Components Aboard Chinese Vessel Bound For Iran\n \nCould runaway artificial intelligence (AI) spark a future WW3?\nWe don't need movies like Terminator 2 and its SkyNet to help us imagine this, it's 2026 and there …",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/fc733505c363cb8d",
-      "time": "2026-09-18T23:54:12",
-      "country": "Iran",
-      "title_ur": "WW3 قریب مس؟ AI نے ایران کے لیے روانہ ہونے والے چینی بحری جہاز پر سوار نیوکلیئر ہتھیاروں کے پرزہ جات کو دھوکہ دیا۔",
-      "desc_ur": "WW3 قریب مس؟ AI نے ایران کے لیے روانہ ہونے والے چینی بحری جہاز پر سوار نیوکلیئر ہتھیاروں کے پرزہ جات کو دھوکہ دیا۔\n \nکیا بھاگی ہوئی مصنوعی ذہانت (AI) مستقبل کی WW3 کو جنم دے سکتی ہے؟\nہمیں اس کا تصور کرنے میں مدد کرنے کے لیے ٹرمینیٹر 2 اور اس کے اسکائی نیٹ جیسی فلموں کی ضرورت نہیں ہے، یہ 2026 ہے اور وہاں…"
-    },
-    {
-      "title": "AI operation uncovered 126 terror suspects – INTERPOL",
-      "desc": "An INTERPOL AI operation, in which Nigeria participated, has identified 126 suspected foreign terrorist fighters from over 108,000 facial images.\n\nRead More: https://punchng.com/ai-operation-uncovered-126-terror-suspects-interpol/",
-      "source": "The Punch",
-      "url": "https://punchng.com/ai-operation-uncovered-126-terror-suspects-interpol/",
-      "time": "2026-09-18T23:53:22",
+      "title": "Lewisham weather September 19 2026: overcast skies and 22°C high",
+      "desc": "Lewisham will experience overcast skies and high humidity on September 19, 2026. Temperatures will reach a comfortable 22 degrees Celsius with minimal rain expected. Following this, the week ahead promises sunny conditions and pleasant temperatures. The warme…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/uk/lewisham-weather-september-19-2026-overcast-skies-and-22c-high/articleshow/134348129.cms",
+      "time": "2026-09-19T05:01:41",
       "country": "US",
-      "title_ur": "اے آئی آپریشن نے 126 دہشت گرد مشتبہ افراد کو بے نقاب کیا - انٹرپول",
-      "desc_ur": "ایک انٹرپول AI آپریشن، جس میں نائیجیریا نے حصہ لیا، 108,000 سے زیادہ چہرے کی تصاویر سے 126 مشتبہ غیر ملکی دہشت گرد جنگجوؤں کی شناخت کی ہے۔\n\nمزید پڑھیں: https://punchng.com/ai-operation-uncovered-126-terror-suspects-interpol/"
+      "title_ur": "Lewisham weather September 19 2026: overcast skies and 22°C high",
+      "desc_ur": "Lewisham will experience overcast skies and high humidity on September 19, 2026. Temperatures will reach a comfortable 22 degrees Celsius with minimal rain expected. Following this, the week ahead promises sunny conditions and pleasant temperatures. The warme…"
     },
     {
-      "title": "US troop deaths in Iran war exceed Pentagon count by at least four, Washington Post reports - Reuters",
-      "desc": "US troop deaths in Iran war exceed Pentagon count by at least four, Washington Post reportsReuters More U.S. troops have died amid Iran war than Pentagon has disclosed publiclyThe Washington Post Pentagon’s count leaves out some deaths in Middle East during I…",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185697900",
-      "time": "2026-09-18T23:53:20",
-      "country": "Iran",
-      "title_ur": "ایران جنگ میں امریکی فوجیوں کی ہلاکتیں پینٹاگون کی تعداد سے کم از کم چار سے زیادہ ہیں، واشنگٹن پوسٹ کی رپورٹ – رائٹرز",
-      "desc_ur": "ایران جنگ میں امریکی فوجیوں کی ہلاکتوں میں پینٹاگون کی تعداد کم از کم چار سے زیادہ ہے، واشنگٹن پوسٹ کی رپورٹ رائٹرز رائٹرز کی رپورٹ کے مطابق پینٹاگون کی جانب سے عوامی طور پر ظاہر کیے جانے سے کہیں زیادہ امریکی فوجی ایران کی جنگ کے دوران ہلاک ہوئے ہیں واشنگٹن پوسٹ پینٹاگون کی گنتی میں مشرق وسطیٰ میں ہونے والی کچھ ہلاکتوں کو چھوڑ دیا گیا ہے۔"
+      "title": "Cardiff weather forecast: Light rain expected today, with temperatures in the mid-teens Celsius",
+      "desc": "Cardiff will experience light rain and cool temperatures today, September 19. Following this, sunny skies are forecast for Saturday and Sunday. Monday, September 22, will be the warmest day with highs of 23 degrees Celsius. The latter half of the week will se…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/uk/cardiff-weather-forecast-light-rain-expected-today-with-temperatures-in-the-mid-teens-celsius/articleshow/134348127.cms",
+      "time": "2026-09-19T05:01:41",
+      "country": "US",
+      "title_ur": "Cardiff weather forecast: Light rain expected today, with temperatures in the mid-teens Celsius",
+      "desc_ur": "Cardiff will experience light rain and cool temperatures today, September 19. Following this, sunny skies are forecast for Saturday and Sunday. Monday, September 22, will be the warmest day with highs of 23 degrees Celsius. The latter half of the week will se…"
     },
     {
-      "title": "The cost of the Iran war has risen to $43.6B, Pentagon tells Congress - USA Today",
-      "desc": "The cost of the Iran war has risen to $43.6B, Pentagon tells CongressUSA Today Iran war has cost $45.1 billion, Pentagon tells CongressCNN US Warns Allies of Missile Delivery Delays Due to ShortageBloomberg.com Estimating the Cost of Combat Operations Against…",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185697896",
-      "time": "2026-09-18T23:53:09",
-      "country": "Iran",
-      "title_ur": "پینٹاگون نے کانگریس کو بتایا کہ ایران جنگ کی لاگت 43.6 بلین ڈالر تک بڑھ گئی ہے۔",
-      "desc_ur": "ایران جنگ کی لاگت $43.6B تک بڑھ گئی ہے، پینٹاگون نے کانگریس کو بتایا ہے کہ آج ایران کی جنگ پر $45.1 بلین لاگت آئی ہے، پینٹاگون نے کانگریس سی این این کو بتایا کہ امریکی نے اتحادیوں کو میزائل کی فراہمی میں تاخیر کی وجہ سے خبردار کیا ہے بلومبرگ ڈاٹ کام کے خلاف جنگی کارروائیوں کی لاگت کا تخمینہ لگانا…"
+      "title": "Belfast weather forecast: Sunny intervals and breezy conditions expected Saturday",
+      "desc": "Belfast residents can expect sunny intervals and mild temperatures on Saturday, September 19, 2026. The day will be breezy with a low chance of precipitation, reaching a high of seventeen degrees Celsius. Sunday will offer similar pleasant conditions with con…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/uk/belfast-weather-forecast-sunny-intervals-and-breezy-conditions-expected-saturday/articleshow/134348125.cms",
+      "time": "2026-09-19T05:01:40",
+      "country": "US",
+      "title_ur": "Belfast weather forecast: Sunny intervals and breezy conditions expected Saturday",
+      "desc_ur": "Belfast residents can expect sunny intervals and mild temperatures on Saturday, September 19, 2026. The day will be breezy with a low chance of precipitation, reaching a high of seventeen degrees Celsius. Sunday will offer similar pleasant conditions with con…"
     },
     {
-      "title": "West African Youths seek greater role in governance",
-      "desc": "By Henry Umoru ABUJA — The Confederation of West African Youths has called for greater youth participation in governance, accountable leadership and policies capable of creating more economic opportunities for young Nigerians. The Regional President of the or…",
-      "source": "Vanguard",
-      "url": "https://www.vanguardngr.com/2026/09/west-african-youths-seek-greater-role-in-governance/",
-      "time": "2026-09-18T23:44:00",
+      "title": "Sheffield weather forecast: Sunny intervals and breezy conditions expected September 19",
+      "desc": "Sheffield anticipates sunny intervals and breezy conditions on September 19th. Daytime temperatures will reach eighteen degrees Celsius, dropping to ten degrees later. High humidity is expected, though rain remains unlikely throughout the day. The upcoming we…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/uk/sheffield-weather-forecast-sunny-intervals-and-breezy-conditions-expected-september-19/articleshow/134348123.cms",
+      "time": "2026-09-19T05:01:39",
+      "country": "US",
+      "title_ur": "Sheffield weather forecast: Sunny intervals and breezy conditions expected September 19",
+      "desc_ur": "Sheffield anticipates sunny intervals and breezy conditions on September 19th. Daytime temperatures will reach eighteen degrees Celsius, dropping to ten degrees later. High humidity is expected, though rain remains unlikely throughout the day. The upcoming we…"
+    },
+    {
+      "title": "Bristol weather today: chance of light rain, 19°C high, 95% humidity",
+      "desc": "Bristol anticipates light rain and moderate temperatures on September 19th. High humidity will accompany the day's potential precipitation and brisk winds. Following this damp start, the city will experience a shift towards sunny conditions. The warmest day n…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/uk/bristol-weather-today-chance-of-light-rain-19c-high-95-humidity/articleshow/134348119.cms",
+      "time": "2026-09-19T05:01:29",
       "country": "International",
-      "title_ur": "مغربی افریقی نوجوان حکمرانی میں زیادہ کردار کے خواہاں ہیں۔",
-      "desc_ur": "ہنری عمرو ابوجا کی طرف سے - مغربی افریقی نوجوانوں کی کنفیڈریشن نے گورننس، جوابدہ قیادت اور نوجوان نائیجیرین کے لیے مزید معاشی مواقع پیدا کرنے کے قابل پالیسیوں میں نوجوانوں کی زیادہ سے زیادہ شرکت پر زور دیا ہے۔ کے علاقائی صدر یا…"
+      "title_ur": "Bristol weather today: chance of light rain, 19°C high, 95% humidity",
+      "desc_ur": "Bristol anticipates light rain and moderate temperatures on September 19th. High humidity will accompany the day's potential precipitation and brisk winds. Following this damp start, the city will experience a shift towards sunny conditions. The warmest day n…"
     },
     {
-      "title": "El-Sayed: Piker Wasn't 'Big Part' of Campaign, Just Guy Who 'Said Some Things I Agree With' Who We Had in MI Once",
-      "desc": "On Friday’s broadcast of MS NOW’s “Morning Joe,” Democratic U.S. Senate nominee Abdul El-Sayed defended downplaying Hasan Piker as a streamer from California by saying that Piker “said some things I agree with” and some things he disagrees with and\nThe post E…",
-      "source": "Breitbart News",
-      "url": "https://www.breitbart.com/clips/2026/09/18/el-sayed-piker-wasnt-big-part-of-campaign-just-guy-who-said-some-things-i-agree-with-who-we-had-in-mi-once/",
-      "time": "2026-09-18T23:39:25",
+      "title": "Nottingham weather forecast: Sunny intervals and mild temperatures expected September 19",
+      "desc": "Nottingham residents can anticipate sunny intervals and mild temperatures this weekend. The day will feature a maximum temperature of 20 degrees Celsius and low rain chances. Looking ahead, the next seven days promise consistently pleasant weather conditions.…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/uk/nottingham-weather-forecast-sunny-intervals-and-mild-temperatures-expected-september-19/articleshow/134348118.cms",
+      "time": "2026-09-19T05:01:28",
       "country": "US",
-      "title_ur": "ال سید: پائیکر مہم کا 'بڑا حصہ' نہیں تھا، صرف وہ لڑکا جس نے 'کچھ باتیں کہی جن سے میں متفق ہوں' جو ہم نے ایک بار MI میں کیا تھا",
-      "desc_ur": "جمعہ کے روز ایم ایس ناؤ کے \"مارننگ جو\" کی نشریات پر، ڈیموکریٹک امریکی سینیٹ کے نامزد امیدوار عبد السید نے حسن پیکر کو کیلیفورنیا سے تعلق رکھنے والے اسٹریمر کے طور پر یہ کہتے ہوئے دفاع کیا کہ پائیکر نے \"کچھ ایسی باتیں کہی ہیں جن سے میں اتفاق کرتا ہوں\" اور کچھ چیزوں سے وہ متفق نہیں ہیں۔\nپوسٹ ای…"
+      "title_ur": "Nottingham weather forecast: Sunny intervals and mild temperatures expected September 19",
+      "desc_ur": "Nottingham residents can anticipate sunny intervals and mild temperatures this weekend. The day will feature a maximum temperature of 20 degrees Celsius and low rain chances. Looking ahead, the next seven days promise consistently pleasant weather conditions.…"
     },
     {
-      "title": "Trump announces White House ban against three media outlets",
-      "desc": "President Donald Trump announced CNN, MS NOW and Politico are banned from the White House, dubbing them \"fake news\" and teased other outlets could follow.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/media/trump-announces-white-house-ban-three-media-outlets",
-      "time": "2026-09-18T23:33:16",
+      "title": "Glasgow weather today: Sunny intervals expected with mild temperatures up to 19°C",
+      "desc": "Glasgow anticipates sunny intervals and mild temperatures today. Maximum temperatures will reach nineteen degrees Celsius and minimums twelve. Humidity will be high and winds brisk, requiring attention to outdoor items. The upcoming week shows varied conditio…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/uk/glasgow-weather-today-sunny-intervals-expected-with-mild-temperatures-up-to-19c/articleshow/134348116.cms",
+      "time": "2026-09-19T05:01:27",
       "country": "US",
-      "title_ur": "ٹرمپ نے وائٹ ہاؤس کے تین میڈیا اداروں پر پابندی کا اعلان کر دیا۔",
-      "desc_ur": "صدر ڈونلڈ ٹرمپ نے اعلان کیا کہ CNN، MS NOW اور Politico پر وائٹ ہاؤس سے پابندی عائد کر دی گئی ہے، انہیں \"جعلی خبریں\" کا نام دے کر چھیڑا گیا ہے اور اس کی پیروی کرنے والے دوسرے آؤٹ لیٹس کو چھیڑ دیا گیا ہے۔"
+      "title_ur": "Glasgow weather today: Sunny intervals expected with mild temperatures up to 19°C",
+      "desc_ur": "Glasgow anticipates sunny intervals and mild temperatures today. Maximum temperatures will reach nineteen degrees Celsius and minimums twelve. Humidity will be high and winds brisk, requiring attention to outdoor items. The upcoming week shows varied conditio…"
     },
     {
-      "title": "Trafalgar Senate polls, September 2026",
-      "desc": "GA: Ossoff +7 (LINK)  NC: Cooper +6 (LINK)  OH: Brown +4 (LINK)  MI: El-Sayed +2 (LINK)  TX: Talarico +1 (LINK)",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4396091/posts",
-      "time": "2026-09-18T23:30:54",
+      "title": "Edinburgh weather forecast: light showers and brisk winds expected today",
+      "desc": "Edinburgh faces a day of mixed weather, with light showers and brisk winds expected. Tomorrow brings sunny intervals and similar temperatures to today's forecast. The middle of the week will be warmer with overcast skies and higher temperatures. Later in the …",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/uk/edinburgh-weather-forecast-light-showers-and-brisk-winds-expected-today/articleshow/134348114.cms",
+      "time": "2026-09-19T05:01:26",
       "country": "International",
-      "title_ur": "ٹریفلگر سینیٹ انتخابات، ستمبر 2026",
-      "desc_ur": "GA: Ossoff +7 (LINK) NC: Cooper +6 (LINK) OH: Brown +4 (LINK) MI: السید +2 (LINK) TX: Talarico +1 (LINK)"
+      "title_ur": "Edinburgh weather forecast: light showers and brisk winds expected today",
+      "desc_ur": "Edinburgh faces a day of mixed weather, with light showers and brisk winds expected. Tomorrow brings sunny intervals and similar temperatures to today's forecast. The middle of the week will be warmer with overcast skies and higher temperatures. Later in the …"
+    },
+    {
+      "title": "Newcastle weather forecast: Sunny intervals, high humidity, and breezy conditions expected September 19",
+      "desc": "Newcastle residents will experience sunny intervals and high humidity today. Temperatures will reach eighteen degrees Celsius with low chances of rain. Tomorrow brings sunshine and slightly cooler conditions after today's forecast. The week ahead shows varied…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/uk/newcastle-weather-forecast-sunny-intervals-high-humidity-and-breezy-conditions-expected-september-19/articleshow/134348111.cms",
+      "time": "2026-09-19T05:01:25",
+      "country": "US",
+      "title_ur": "Newcastle weather forecast: Sunny intervals, high humidity, and breezy conditions expected September 19",
+      "desc_ur": "Newcastle residents will experience sunny intervals and high humidity today. Temperatures will reach eighteen degrees Celsius with low chances of rain. Tomorrow brings sunshine and slightly cooler conditions after today's forecast. The week ahead shows varied…"
     }
   ],
   "pakistan": [
     {
-      "title": "JPMorgan sends stark warning on $100 oil",
-      "desc": "JPMorgan has a clear warning for anyone counting on relief from $100 oil.\nThe bank says it can’t provide a clear path for how this crisis ends. Six months into the U.S.-Israeli war with Iran, the bank says assumptions about how much economic pain Washington c…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/28bd98ad2a769805",
-      "time": "2026-09-18T22:23:41",
+      "title": "Death toll from attack at police HQ in Pakistan rises to 31",
+      "desc": "Attackers had stormed the Old Police Lines complex in the town of Kohat in Pakistan’s Khyber Pakhtunkhwa province on Sep 18.",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/asia/pakistan-militant-attack-police-hq-death-toll-rises-6396396",
+      "time": "2026-09-19T04:54:22",
       "country": "Pakistan",
-      "title_ur": "JPMorgan $100 تیل پر سخت وارننگ بھیجتا ہے۔",
-      "desc_ur": "JPMorgan کے پاس ہر اس شخص کے لیے واضح انتباہ ہے جو $100 کے تیل سے ریلیف پر اعتماد کر رہا ہے۔\nبینک کا کہنا ہے کہ وہ واضح راستہ فراہم نہیں کر سکتا کہ یہ بحران کیسے ختم ہوتا ہے۔ ایران کے ساتھ امریکہ اسرائیل جنگ کے چھ ماہ بعد، بینک کا کہنا ہے کہ اس بارے میں مفروضے کہ واشنگٹن کو کتنا معاشی درد ہو گا…"
+      "title_ur": "Death toll from attack at police HQ in Pakistan rises to 31",
+      "desc_ur": "Attackers had stormed the Old Police Lines complex in the town of Kohat in Pakistan’s Khyber Pakhtunkhwa province on Sep 18."
+    },
+    {
+      "title": "Samay Raina warns Nawazuddin Siddiqui of Ranveer Allahbadia controversy during 'India's Got Latent' appearance: 'Please choose your words wisely'",
+      "desc": "Nawazuddin Siddiqui recently appeared on Samay Raina's popular show, India's Got Latent. He discussed his role in the hit series Sacred Games and shared jokes with the host. Raina playfully questioned Siddiqui about his film Thamma, which received mixed revie…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/web-series/news/hindi/samay-raina-warns-nawazuddin-siddiqui-of-ranveer-allahbadia-controversy-during-indias-got-latent-appearance-please-choose-your-words-wisely/articleshow/134347836.cms",
+      "time": "2026-09-19T04:42:58",
+      "country": "Pakistan",
+      "title_ur": "Samay Raina warns Nawazuddin Siddiqui of Ranveer Allahbadia controversy during 'India's Got Latent' appearance: 'Please choose your words wisely'",
+      "desc_ur": "Nawazuddin Siddiqui recently appeared on Samay Raina's popular show, India's Got Latent. He discussed his role in the hit series Sacred Games and shared jokes with the host. Raina playfully questioned Siddiqui about his film Thamma, which received mixed revie…"
+    },
+    {
+      "title": "Netanyahu proposes stripping citizenship from Israelis criticizing IDF",
+      "desc": "Netanyahu's proposal could strain Israel's global relations, impact free speech perceptions, and affect his political stability amid tensions.\nThe post Netanyahu proposes stripping citizenship from Israelis criticizing IDF appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/netanyahu-proposes-stripping-citizenship-from-israelis-criticizing-idf/",
+      "time": "2026-09-19T04:42:08",
+      "country": "Pakistan",
+      "title_ur": "Netanyahu proposes stripping citizenship from Israelis criticizing IDF",
+      "desc_ur": "Netanyahu's proposal could strain Israel's global relations, impact free speech perceptions, and affect his political stability amid tensions.\nThe post Netanyahu proposes stripping citizenship from Israelis criticizing IDF appeared first on Crypto Briefing."
+    },
+    {
+      "title": "Death toll rises to 31 in Pakistan police HQ bomb attack",
+      "desc": "The death toll from an explosion and gun attack at a police headquarters in northern Pakistan has risen to at least 31, according to local officials.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/world/2026/0919/1592157-pakistan-bomb-attack/",
+      "time": "2026-09-19T04:34:43",
+      "country": "Pakistan",
+      "title_ur": "Death toll rises to 31 in Pakistan police HQ bomb attack",
+      "desc_ur": "The death toll from an explosion and gun attack at a police headquarters in northern Pakistan has risen to at least 31, according to local officials."
+    },
+    {
+      "title": "Pakistan police HQ attack death toll rises to 31",
+      "desc": "The death toll of the attack on a police station in Kohat, northern Pakistan, grew to 31, Agence France-Presse reported, citing a police official.Four attackers were killed by law enforcement during t...",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/48c7e7f8560bb836",
+      "time": "2026-09-19T04:25:38",
+      "country": "Pakistan",
+      "title_ur": "Pakistan police HQ attack death toll rises to 31",
+      "desc_ur": "The death toll of the attack on a police station in Kohat, northern Pakistan, grew to 31, Agence France-Presse reported, citing a police official.Four attackers were killed by law enforcement during t..."
+    },
+    {
+      "title": "Dollar advances vs yen as BOJ dissent clouds rate-hike outlook",
+      "desc": "Following the Bank of Japan's decision to increase interest rates, the dollar saw a rise against the yen. Some policymakers expressed skepticism regarding further hikes, while Japanese officials monitored exchange rates, hinting at possible intervention. Addi…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-advances-vs-yen-as-boj-dissent-clouds-rate-hike-outlook/articleshow/134347750.cms",
+      "time": "2026-09-19T04:25:04",
+      "country": "Pakistan",
+      "title_ur": "Dollar advances vs yen as BOJ dissent clouds rate-hike outlook",
+      "desc_ur": "Following the Bank of Japan's decision to increase interest rates, the dollar saw a rise against the yen. Some policymakers expressed skepticism regarding further hikes, while Japanese officials monitored exchange rates, hinting at possible intervention. Addi…"
     }
   ],
   "business": {
@@ -177,7 +227,7 @@
         "date": "2026-09-20",
         "day": "اتوار",
         "high": 34,
-        "low": 23,
+        "low": 24,
         "condition": "Clear",
         "condition_ur": "صاف",
         "precip": 0
@@ -196,15 +246,15 @@
         "day": "منگل",
         "high": 35,
         "low": 25,
-        "condition": "Mainly Clear",
-        "condition_ur": "زیادہ تر صاف",
+        "condition": "Clear",
+        "condition_ur": "صاف",
         "precip": 9
       },
       {
         "date": "2026-09-23",
         "day": "بدھ",
-        "high": 37,
-        "low": 26,
+        "high": 36,
+        "low": 25,
         "condition": "Light Drizzle",
         "condition_ur": "ہلکی بوندا باندی",
         "precip": 10
@@ -212,20 +262,20 @@
       {
         "date": "2026-09-24",
         "day": "جمعرات",
-        "high": 37,
-        "low": 26,
-        "condition": "Clear",
-        "condition_ur": "صاف",
-        "precip": 6
+        "high": 36,
+        "low": 25,
+        "condition": "Mainly Clear",
+        "condition_ur": "زیادہ تر صاف",
+        "precip": 20
       },
       {
         "date": "2026-09-25",
         "day": "جمعہ",
-        "high": 36,
-        "low": 26,
+        "high": 31,
+        "low": 25,
         "condition": "Drizzle",
         "condition_ur": "بوندا باندی",
-        "precip": 16
+        "precip": 20
       },
       {
         "date": "2026-09-26",
