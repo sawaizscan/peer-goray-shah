@@ -1,207 +1,217 @@
 {
-  "generated": "2026-09-22T13:32:37Z",
+  "generated": "2026-09-22T17:52:15Z",
   "world": [
     {
-      "title": "T LOunge for September 21st 2026",
-      "desc": "Lafayette at the Block Arcade – Melbourne, Australia SWANKY. Let’s be that today. It’s MONDAY and we’re all gonna need whatever little jolts or thrills we can find to face it. For us, that means a fabulous LOunge and a succession of frivolous posts, all of wh…",
-      "source": "tomandlorenzo.com",
-      "url": "https://tomandlorenzo.com/2026/09/t-lounge-for-september-21st-2026/",
-      "time": "2026-09-21T13:30:13",
-      "country": "US",
-      "title_ur": "21 ستمبر 2026 کے لیے ٹی لاؤنج",
-      "desc_ur": "بلاک آرکیڈ میں لافائیٹ - میلبورن، آسٹریلیا SWANKY۔ چلو آج ایسا ہی ہو جائے۔ یہ پیر ہے اور ہم سب کو اس کا سامنا کرنے کے لیے جو بھی چھوٹے جھٹکے یا سنسنی مل سکتی ہے اس کی ضرورت ہے۔ ہمارے لیے، اس کا مطلب ہے ایک شاندار لاؤنج اور فضول پوسٹس کا پے درپے، یہ سب کچھ…"
-    },
-    {
-      "title": "Markets can handle a hawkish Fed, but not uncertainty",
-      "desc": "Better clarity from the Federal Reserve is giving investors reason to be bullish, yet risks keep them from fully committing. Read here now",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/news/economy/markets-can-handle-hawkish-fed-but-not-uncertainty",
-      "time": "2026-09-21T13:29:42",
-      "country": "International",
-      "title_ur": "مارکیٹس ایک عجیب فیڈ کو سنبھال سکتی ہیں، لیکن غیر یقینی صورتحال کو نہیں۔",
-      "desc_ur": "فیڈرل ریزرو کی طرف سے بہتر وضاحت سرمایہ کاروں کو تیزی سے ہونے کی وجہ دے رہی ہے، پھر بھی خطرات انہیں مکمل طور پر کام کرنے سے روکتے ہیں۔ اب یہاں پڑھیں"
-    },
-    {
-      "title": "Why Is Lee Jae-myung’s Approval Rating Dropping?",
-      "desc": "Four developments, from the fading Yoon effect to failed nominations, help explain a slide to 37 percent that the South Korean president attributes to his own shortcomings.",
-      "source": "The Diplomat",
-      "url": "https://thediplomat.com/2026/09/why-is-lee-jae-myungs-approval-rating-dropping/",
-      "time": "2026-09-21T13:29:00",
-      "country": "International",
-      "title_ur": "Lee Jae-myung کی منظوری کی درجہ بندی کیوں گر رہی ہے؟",
-      "desc_ur": "چار پیش رفت، دھندلاہٹ یون اثر سے لے کر ناکام نامزدگیوں تک، 37 فیصد تک سلائیڈ کی وضاحت کرنے میں مدد کرتی ہے جسے جنوبی کوریا کے صدر اپنی کوتاہیوں سے منسوب کرتے ہیں۔"
-    },
-    {
-      "title": "Record diesel prices hit transport stocks, threaten U.S. inflation",
-      "desc": "The U.S. diesel average hit $6.51 a gallon on Sunday, up more than $2.80 from a year ago, with the pain spreading from trucking to groceries and home heating",
-      "source": "Quartz India",
-      "url": "https://qz.com/record-diesel-prices-transport-stocks-inflation-092126",
-      "time": "2026-09-21T13:27:12",
-      "country": "International",
-      "title_ur": "ڈیزل کی ریکارڈ قیمتوں نے ٹرانسپورٹ اسٹاک کو متاثر کیا، امریکی افراط زر کو خطرہ",
-      "desc_ur": "اتوار کو یو ایس ڈیزل کی اوسط قیمت 6.51 ڈالر فی گیلن تک پہنچ گئی، جو کہ ایک سال پہلے کے مقابلے میں 2.80 ڈالر سے زیادہ ہے، درد ٹرک سے لے کر گروسری اور گھر کو گرم کرنے تک پھیل گیا۔"
-    },
-    {
-      "title": "This region is now a key test for BRICS",
-      "desc": "The New Delhi summit marked the start of a crucial new phase for the group’s African partners Read Full Article at RT.com",
-      "source": "RT",
-      "url": "https://www.rt.com/africa/646039-africa-test-for-brics/",
-      "time": "2026-09-21T13:25:16",
-      "country": "India",
-      "title_ur": "یہ خطہ اب برکس کے لیے ایک کلیدی امتحان ہے۔",
-      "desc_ur": "نئی دہلی سربراہی اجلاس نے گروپ کے افریقی شراکت داروں کے لیے ایک اہم نئے مرحلے کا آغاز کیا RT.com پر مکمل مضمون پڑھیں"
-    },
-    {
-      "title": "In 2013, a venture-capital couple bought California land for $13.625 million, demolished the old house, built a 12,300-square-foot estate, then sold it for $56 million",
-      "desc": "In an impressive real estate transaction, a luxurious Italian-style estate known as Villa del Prato in Portola Valley has been sold for $56 million, setting an all-time high for residential properties in the area. The Caranos transformed the 12-acre property …",
+      "title": "Manhole death in Mumbai: Three months on, panel still unaware of who left it open",
+      "desc": "BMC panel urges vigilance probe into sewer manhole netting work since 2024 after Mumbai manhole death; contractor blamed, but who left it open unclear.",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/us/in-2013-a-venture-capital-couple-bought-california-land-for-13-625-million-demolished-the-old-house-built-a-12300-square-foot-estate-then-sold-it-for-56-million/articleshow/134384451.cms",
-      "time": "2026-09-21T13:23:54",
-      "country": "US",
-      "title_ur": "2013 میں، ایک وینچر کیپٹل جوڑے نے 13.625 ملین ڈالر میں کیلیفورنیا کی زمین خریدی، پرانے گھر کو گرایا، 12,300 مربع فٹ کی جائیداد بنائی، پھر اسے 56 ملین ڈالر میں فروخت کیا۔",
-      "desc_ur": "ایک متاثر کن رئیل اسٹیٹ کے لین دین میں، پورٹولا ویلی میں ولا ڈیل پراٹو کے نام سے مشہور اطالوی طرز کی ایک پرتعیش اسٹیٹ $56 ملین میں فروخت کی گئی ہے، جو اس علاقے میں رہائشی املاک کے لیے اب تک کی بلند ترین سطح پر ہے۔ کارانوس نے 12 ایکڑ پراپرٹی کو تبدیل کر دیا…"
-    },
-    {
-      "title": "EXCLUSIVE: H-1B Visas Are The One Topic Vivek Ramaswamy Refuses To Talk About",
-      "desc": "You may remember him from his presidential run or cable news, but who really is Vivek Ramaswamy and why does he want to run Ohio so badly?",
-      "source": "The Daily Caller",
-      "url": "https://dailycaller.com/2026/09/21/vivek-ramaswamy-ohio-governor-interview-amy-acton-success-iran-war-data-centers-immigration",
-      "time": "2026-09-21T13:22:52",
-      "country": "US",
-      "title_ur": "خصوصی: H-1B ویزا ہی ایک موضوع ہے وویک رامسوامی نے اس کے بارے میں بات کرنے سے انکار کر دیا",
-      "desc_ur": "آپ اسے ان کی صدارتی دوڑ یا کیبل نیوز سے یاد کر سکتے ہیں، لیکن وویک رامسوامی دراصل کون ہیں اور وہ اوہائیو کو اتنی بری طرح کیوں چلانا چاہتے ہیں؟"
-    },
-    {
-      "title": "Into the darkness?",
-      "desc": "The story of last week, which will certainly return, is the threat to the survival of humanity (and maybe all life on Earth) from artificial intelligence. I don’t know how real that threat is and find it hard to think about, but I am worried that even if huma…",
-      "source": "Crookedtimber.org",
-      "url": "https://crookedtimber.org/2026/09/21/into-the-darkness/",
-      "time": "2026-09-21T13:22:52",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/manhole-death-in-mumbai-three-months-on-panel-still-unaware-of-who-left-it-open/articleshow/134395523.cms",
+      "time": "2026-09-21T17:51:14",
       "country": "International",
-      "title_ur": "اندھیرے میں؟",
-      "desc_ur": "پچھلے ہفتے کی کہانی، جو یقینی طور پر واپس آئے گی، مصنوعی ذہانت سے انسانیت (اور شاید زمین پر موجود تمام زندگیوں) کی بقا کے لیے خطرہ ہے۔ میں نہیں جانتا کہ یہ خطرہ کتنا حقیقی ہے اور اس کے بارے میں سوچنا مشکل ہے، لیکن میں پریشان ہوں کہ اگر ہما…"
+      "title_ur": "Manhole death in Mumbai: Three months on, panel still unaware of who left it open",
+      "desc_ur": "BMC panel urges vigilance probe into sewer manhole netting work since 2024 after Mumbai manhole death; contractor blamed, but who left it open unclear."
     },
     {
-      "title": "The Graham Bill comes at a wrong time",
-      "desc": "These are difficult times in India-US relations, not that the two nations have not been there before. When President Donald Trump signed into law the Lindsey Graham Sanctioning Russia and Iran Act of 2026, he set in motion the prospect of imposing tariffs of …",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/opinion/the-graham-bill-comes-at-a-wrong-time/article71491735.ece",
-      "time": "2026-09-21T13:22:16",
+      "title": "Trump will call out ‘ridiculous’ UN for claims US commits war crimes: Ambassador Waltz",
+      "desc": "\"The fact that these parts of the UN continue to make that kind of ridiculous moral equivalence just overshadows in some cases the good work that it's doing,\" Waltz said.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/09/21/us-news/trump-will-call-out-ridiculous-un-for-claims-us-commits-war-crimes-ambassador-waltz/",
+      "time": "2026-09-21T17:51:13",
+      "country": "US",
+      "title_ur": "Trump will call out ‘ridiculous’ UN for claims US commits war crimes: Ambassador Waltz",
+      "desc_ur": "\"The fact that these parts of the UN continue to make that kind of ridiculous moral equivalence just overshadows in some cases the good work that it's doing,\" Waltz said."
+    },
+    {
+      "title": "Returning officer clears BJP, Cong candidates for Jodhpur mayor election; Cong wins Mathania chairperson post",
+      "desc": "Returning officer rejects BJP and Congress objections, clears Jodhpur mayor nominees for Sept 25; Congress wins Mathania chairperson post with 17 of 25 votes.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/jaipur/returning-officer-clears-bjp-cong-candidates-for-jodhpur-mayor-election-cong-wins-mathania-chairperson-post/articleshow/134395520.cms",
+      "time": "2026-09-21T17:51:02",
+      "country": "International",
+      "title_ur": "Returning officer clears BJP, Cong candidates for Jodhpur mayor election; Cong wins Mathania chairperson post",
+      "desc_ur": "Returning officer rejects BJP and Congress objections, clears Jodhpur mayor nominees for Sept 25; Congress wins Mathania chairperson post with 17 of 25 votes."
+    },
+    {
+      "title": "BJP wins Ajmer mayoral poll despite fewer AMC seats",
+      "desc": "BJP wins Ajmer Municipal Corporation mayoral election as Anamika Sharma defeats Congress, despite Congress leading ward seats; cross-voting by independents suspected.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/jaipur/bjp-wins-ajmer-mayoral-poll-despite-fewer-amc-seats/articleshow/134395512.cms",
+      "time": "2026-09-21T17:50:54",
+      "country": "US",
+      "title_ur": "BJP wins Ajmer mayoral poll despite fewer AMC seats",
+      "desc_ur": "BJP wins Ajmer Municipal Corporation mayoral election as Anamika Sharma defeats Congress, despite Congress leading ward seats; cross-voting by independents suspected."
+    },
+    {
+      "title": "AAP, CPM, RLP spring surprises in Raj civic polls",
+      "desc": "AAP, CPM and RLP form boards in Baran, Nokha and Marwar Mundwa, breaking BJP-Congress dominance in pockets of Rajasthan’s urban local bodies polls.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/jaipur/aap-cpm-rlp-spring-surprises-in-raj-civic-polls/articleshow/134395508.cms",
+      "time": "2026-09-21T17:50:42",
+      "country": "International",
+      "title_ur": "AAP, CPM, RLP spring surprises in Raj civic polls",
+      "desc_ur": "AAP, CPM and RLP form boards in Baran, Nokha and Marwar Mundwa, breaking BJP-Congress dominance in pockets of Rajasthan’s urban local bodies polls."
+    },
+    {
+      "title": "Number game begins for deputy mayor’s post in Jaipur dist",
+      "desc": "Jaipur district deputy mayor polls: BJP, Congress and independents negotiate numbers after mayor wins; key contests in Ajmer, Pali, Alwar, Bharatpur.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/jaipur/number-game-begins-for-deputy-mayors-post-in-jaipur-dist/articleshow/134395504.cms",
+      "time": "2026-09-21T17:50:27",
+      "country": "International",
+      "title_ur": "Number game begins for deputy mayor’s post in Jaipur dist",
+      "desc_ur": "Jaipur district deputy mayor polls: BJP, Congress and independents negotiate numbers after mayor wins; key contests in Ajmer, Pali, Alwar, Bharatpur."
+    },
+    {
+      "title": "Govt: Green hydrogen investment can create 12,000 jobs in Bihar",
+      "desc": "Bihar Green Hydrogen Policy 2026 may draw Rs 16,000 crore investment and create 12,000 jobs, CM Samrat Choudhary reviews plan aligned with 2030 mission.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/patna/govt-green-hydrogen-investment-can-create-12000-jobs-in-bihar/articleshow/134395502.cms",
+      "time": "2026-09-21T17:50:21",
+      "country": "International",
+      "title_ur": "Govt: Green hydrogen investment can create 12,000 jobs in Bihar",
+      "desc_ur": "Bihar Green Hydrogen Policy 2026 may draw Rs 16,000 crore investment and create 12,000 jobs, CM Samrat Choudhary reviews plan aligned with 2030 mission."
+    },
+    {
+      "title": "Jaipur mayoral election: Four candidates in fray",
+      "desc": "Jaipur mayoral election: Four candidates—BJP’s Sunil Kothari, Congress’ Sunita Mawar, and independents Sunita Methi, Dashrath Atal; voting Sept 25.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/jaipur/jaipur-mayoral-election-four-candidates-in-fray/articleshow/134395500.cms",
+      "time": "2026-09-21T17:50:15",
+      "country": "International",
+      "title_ur": "Jaipur mayoral election: Four candidates in fray",
+      "desc_ur": "Jaipur mayoral election: Four candidates—BJP’s Sunil Kothari, Congress’ Sunita Mawar, and independents Sunita Methi, Dashrath Atal; voting Sept 25."
+    },
+    {
+      "title": "Brandon Gill unloads on Democrats over illegal immigrant charged with raping teen: 'Collateral damage'",
+      "desc": "Brandon Gill slams Democrats for ignoring an illegal immigrant's alleged kidnapping and rape of a teen in Maryland while fixating on Austin ICE.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/brandon-gill-unloads-democrats-illegal-immigrant-charged-raping-teen-collateral-damage",
+      "time": "2026-09-21T17:49:40",
+      "country": "US",
+      "title_ur": "Brandon Gill unloads on Democrats over illegal immigrant charged with raping teen: 'Collateral damage'",
+      "desc_ur": "Brandon Gill slams Democrats for ignoring an illegal immigrant's alleged kidnapping and rape of a teen in Maryland while fixating on Austin ICE."
+    },
+    {
+      "title": "Implementation of Kasturirangan report on ESAs faces fresh debate",
+      "desc": "Fresh debate erupts over implementing the Kasturirangan report on Western Ghats eco-sensitive areas, amid misinformation claims, project concerns and calls for clarity.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/mysuru/implementation-of-kasturirangan-report-on-esas-faces-fresh-debate/articleshow/134395079.cms",
+      "time": "2026-09-21T17:48:27",
       "country": "Iran",
-      "title_ur": "گراہم بل غلط وقت پر آتا ہے۔",
-      "desc_ur": "ہندوستان اور امریکہ کے تعلقات میں یہ مشکل وقت ہیں، ایسا نہیں ہے کہ دونوں ممالک پہلے نہیں رہے ہیں۔ جب صدر ڈونلڈ ٹرمپ نے لنڈسے گراہم سینکشننگ روس اینڈ ایران ایکٹ 2026 پر دستخط کیے تو انہوں نے ٹیرف کے نفاذ کے امکان کو حرکت میں لایا…"
+      "title_ur": "Implementation of Kasturirangan report on ESAs faces fresh debate",
+      "desc_ur": "Fresh debate erupts over implementing the Kasturirangan report on Western Ghats eco-sensitive areas, amid misinformation claims, project concerns and calls for clarity."
     },
     {
-      "title": "Yeshua's Second Coming - The Fulfillment of Yom Kippur!",
-      "desc": "My beloved Jewish and Gentile friend, may I ask you these very personal questions on the Day of Atonement (Yom Kippur)? Where is YOUR atonement (covering) for your transgressions against the RIGHTEOUS Holy Law of Almighty G-d (Lev. 17:11, Isa. 53)? Where is Y…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-religion/4396325/posts",
-      "time": "2026-09-21T13:22:08",
+      "title": "8 AU students hospitalised with high fever",
+      "desc": "Eight Anna University students in Chennai hospitalized with high fever after scrub typhus death; GCC screening finds 222 fever cases, dengue not yet confirmed.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/chennai/8-au-students-hospitalised-with-high-fever/articleshow/134395393.cms",
+      "time": "2026-09-21T17:48:13",
       "country": "US",
-      "title_ur": "یشوعا کی دوسری آمد - یوم کپور کی تکمیل!",
-      "desc_ur": "میرے پیارے یہودی اور غیر قوم دوست، کیا میں کفارہ کے دن آپ سے یہ ذاتی سوالات پوچھ سکتا ہوں؟ اللہ تعالیٰ کے مقدس قانون کے خلاف آپ کی خطاؤں کا کفارہ کہاں ہے (Lev. 17:11، Isa. 53)؟ Y کہاں ہے؟"
+      "title_ur": "8 AU students hospitalised with high fever",
+      "desc_ur": "Eight Anna University students in Chennai hospitalized with high fever after scrub typhus death; GCC screening finds 222 fever cases, dengue not yet confirmed."
     },
     {
-      "title": "In 2019, French runner Marie Leautey left Portugal to run around the world; 825 days and more than 28,000 km later, she set the women’s circumnavigation record at the time",
-      "desc": "French executive Marie Leautey decided to leave her corporate career behind and pursue an unusually ambitious goal: running around the world. The idea took shape in 2017, but she began the actual journey in December 2019. Over 825 days, she covered about 28,2…",
+      "title": "‘Whoever wins AI, WINS!' Trump calls AI doomsday warnings bigger 'hoax' than climate change",
+      "desc": "US News: US president Donald Trump has dismissed warnings that artificial intelligence could threaten humanity, calling such concerns a “HOAX” and saying they .",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/us/in-2017-a-french-executive-quit-her-job-and-ran-around-the-world-2-5-years-and-more-than-28000-km-later-she-became-one-of-the-fastest-women-to-do-it/articleshow/134388760.cms",
-      "time": "2026-09-21T13:21:18",
+      "url": "https://timesofindia.indiatimes.com/world/us/whoever-wins-ai-wins-trump-calls-ai-doomsday-warnings-bigger-hoax-than-climate-change/articleshow/134395249.cms",
+      "time": "2026-09-21T17:47:46",
       "country": "US",
-      "title_ur": "2019 میں، فرانسیسی رنر میری لیوٹی نے پرتگال کو دنیا بھر میں دوڑنے کے لیے چھوڑ دیا۔ 825 دن اور 28,000 کلومیٹر سے زیادہ بعد، اس نے اس وقت خواتین کے چکر لگانے کا ریکارڈ قائم کیا۔",
-      "desc_ur": "فرانسیسی ایگزیکٹو میری لیوٹی نے اپنے کارپوریٹ کیریئر کو پیچھے چھوڑنے اور ایک غیر معمولی طور پر مہتواکانکشی مقصد: پوری دنیا میں بھاگنے کا فیصلہ کیا۔ اس خیال نے 2017 میں شکل اختیار کی، لیکن اس نے اصل سفر دسمبر 2019 میں شروع کیا۔ 825 دنوں میں اس نے تقریباً 28,2…"
+      "title_ur": "‘Whoever wins AI, WINS!' Trump calls AI doomsday warnings bigger 'hoax' than climate change",
+      "desc_ur": "US News: US president Donald Trump has dismissed warnings that artificial intelligence could threaten humanity, calling such concerns a “HOAX” and saying they ."
     },
     {
-      "title": "A Russian immigrant lived among California’s redwoods for nearly two decades; after his death, records listed his address as a hollowed-out tree stump",
-      "desc": "Petro Zailenko, better known as the Hendy Hermit, spent roughly 18 years living in and around Hendy Woods in California's Mendocino County. The Russian immigrant became known for choosing the redwood forest over conventional housing, using hollowed sections o…",
+      "title": "Chennai private hospitals face 12-hour bed waits as flu, dengue surge",
+      "desc": "Chennai private hospitals report up to 12-hour waits for beds as flu, respiratory infections and dengue cases rise ahead of monsoon; severe cases remain low.",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/us/a-russian-immigrant-hid-inside-californias-redwoods-for-18-years-his-address-was-eventually-listed-as-a-hollowed-out-tree/articleshow/134388695.cms",
-      "time": "2026-09-21T13:20:23",
-      "country": "Russia",
-      "title_ur": "ایک روسی تارک وطن تقریباً دو دہائیوں سے کیلیفورنیا کے ریڈ ووڈز کے درمیان رہتا تھا۔ اس کی موت کے بعد، ریکارڈ میں اس کا پتہ ایک کھوکھلے درخت کے سٹمپ کے طور پر درج تھا۔",
-      "desc_ur": "پیٹرو زیلینکو، جسے ہینڈی ہرمٹ کے نام سے جانا جاتا ہے، نے تقریباً 18 سال کیلیفورنیا کی مینڈوسینو کاؤنٹی میں ہینڈی ووڈس میں اور اس کے آس پاس رہتے ہوئے گزارے۔ روسی تارکین وطن روایتی رہائش کے مقابلے ریڈ ووڈ جنگل کا انتخاب کرنے کے لیے جانا جاتا ہے، کھوکھلے حصوں کا استعمال کرتے ہوئے…"
-    },
-    {
-      "title": "Xi Jinping skips UNGA to meet Trump one-on-one in Washington",
-      "desc": "Xi's focus on bilateral ties with Trump over multilateral UNGA signals a strategic pivot, impacting global trade dynamics and tech policy discourse.\nThe post Xi Jinping skips UNGA to meet Trump one-on-one in Washington appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/xi-jinping-skips-unga-trump-bilateral-summit/",
-      "time": "2026-09-21T13:20:07",
-      "country": "China",
-      "title_ur": "Xi Jinping واشنگٹن میں ٹرمپ سے ون آن ون ملاقات کے لیے UNGA کو چھوڑ کر",
-      "desc_ur": "کثیرالجہتی UNGA پر ٹرمپ کے ساتھ دو طرفہ تعلقات پر شی کی توجہ ایک اسٹریٹجک محور کا اشارہ دیتی ہے، جو عالمی تجارتی حرکیات اور ٹیک پالیسی ڈسکورس کو متاثر کرتی ہے۔\nThe post شی جن پنگ یو این جی اے کو چھوڑ کر واشنگٹن میں ٹرمپ سے ون آن ون ملاقات کریں گے appeared first on Crypto Briefing."
-    },
-    {
-      "title": "Former QPR and Antwerp forward not willing to come out of retirement for Suriname",
-      "desc": "Tjaronn Chery has confirmed, via NEC Nijmegen, that he will not be coming out of international retirement for Suriname. The former QPR and Antwerp man did come out of international retirement to try a...",
-      "source": "Getfootballnewsbene.com",
-      "url": "https://getfootballnewsbene.com/former-qpr-and-antwerp-forward-not-willing-to-come-out-of-retirement-for-suriname/",
-      "time": "2026-09-21T13:20:00",
+      "url": "https://timesofindia.indiatimes.com/city/chennai/chennai-private-hospitals-face-12-hour-bed-waits-as-flu-dengue-surge/articleshow/134395368.cms",
+      "time": "2026-09-21T17:47:34",
       "country": "International",
-      "title_ur": "سابق کیو پی آر اور اینٹورپ فارورڈ سورینام کے لیے ریٹائرمنٹ سے باہر آنے کو تیار نہیں۔",
-      "desc_ur": "Tjaronn Chery نے NEC Nijmegen کے ذریعے تصدیق کی ہے کہ وہ سورینام کے لیے بین الاقوامی ریٹائرمنٹ سے باہر نہیں آئیں گے۔ سابق کیو پی آر اور اینٹورپ آدمی ایک کوشش کرنے کے لئے بین الاقوامی ریٹائرمنٹ سے باہر آیا تھا ..."
+      "title_ur": "Chennai private hospitals face 12-hour bed waits as flu, dengue surge",
+      "desc_ur": "Chennai private hospitals report up to 12-hour waits for beds as flu, respiratory infections and dengue cases rise ahead of monsoon; severe cases remain low."
     },
     {
-      "title": "In 2014, a fire-damaged 1967 Ferrari 330 GTS emerged from decades in a Pennsylvania garage and sold for $2.06 million",
-      "desc": "A 1967 Ferrari 330 GTS spent decades hidden away in Pennsylvania after an engine fire left it stored and largely forgotten. The rare grand tourer eventually emerged after about 44 years and went to auction in 2014. Despite its burned engine and unfinished res…",
+      "title": "BJP wins 12 of 18 civic body chairperson posts in Jaipur dist",
+      "desc": "BJP wins 12 of 18 civic body chairperson posts in Jaipur district; Congress takes 6. Results cover 2 municipal councils and 16 municipalities.",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/us/in-2014-a-ferrari-330-gts-found-after-44-years-in-a-garage-sold-for-2-1m-its-burned-engine-made-the-forgotten-car-even-rarer/articleshow/134388693.cms",
-      "time": "2026-09-21T13:19:41",
+      "url": "https://timesofindia.indiatimes.com/city/jaipur/bjp-wins-12-of-18-civic-body-chairperson-posts-in-jaipur-dist/articleshow/134395363.cms",
+      "time": "2026-09-21T17:47:23",
       "country": "International",
-      "title_ur": "2014 میں، آگ سے تباہ شدہ 1967 فیراری 330 GTS کئی دہائیوں سے پنسلوانیا کے ایک گیراج میں ابھری اور 2.06 ملین ڈالر میں فروخت ہوئی۔",
-      "desc_ur": "1967 کی فیراری 330 GTS نے پنسلوانیا میں کئی دہائیوں تک چھپے ہوئے گزارے جب انجن میں آگ لگنے سے یہ محفوظ ہو گیا اور بڑی حد تک بھول گیا۔ نایاب گرینڈ ٹورر بالآخر تقریباً 44 سال کے بعد ابھرا اور 2014 میں نیلامی میں چلا گیا۔ اس کے جلے ہوئے انجن اور نامکمل باقیات کے باوجود…"
+      "title_ur": "BJP wins 12 of 18 civic body chairperson posts in Jaipur dist",
+      "desc_ur": "BJP wins 12 of 18 civic body chairperson posts in Jaipur district; Congress takes 6. Results cover 2 municipal councils and 16 municipalities."
+    },
+    {
+      "title": "CNN, MS NOW and Politico to sue jointly over ban in White House",
+      "desc": "\"We are filing a lawsuit today to protect our First Amendment rights and defend the principle that the government does not decide what the press reports or publishes,\" CNN, MS NOW and Politico said",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/cnn-ms-now-and-politico-to-sue-jointly-over-ban-in-white-house-126092101389_1.html",
+      "time": "2026-09-21T17:47:21",
+      "country": "US",
+      "title_ur": "CNN, MS NOW and Politico to sue jointly over ban in White House",
+      "desc_ur": "\"We are filing a lawsuit today to protect our First Amendment rights and defend the principle that the government does not decide what the press reports or publishes,\" CNN, MS NOW and Politico said"
     }
   ],
   "pakistan": [
     {
-      "title": "Wall Street Futures Rise as Falling Oil Prices Support Market Sentiment: Dow Jones, S&P, Nasdaq",
-      "desc": "US stock futures pointed to a higher opening on Monday as a sharp decline in oil prices and renewed optimism surrounding artificial intelligence supported in...",
-      "source": "Advfn.com",
-      "url": "https://investorshub.advfn.com/market-news/article/36633/wall-street-futures-rise-as-falling-oil-prices-support-market-sentiment-dow-jones-sp-nasdaq",
-      "time": "2026-09-21T13:19:09",
-      "country": "Pakistan",
-      "title_ur": "وال سٹریٹ فیوچر میں اضافہ کیونکہ تیل کی گرتی قیمتیں مارکیٹ کے جذبات کو سپورٹ کرتی ہیں: ڈاؤ جونز، ایس اینڈ پی، نیس ڈیک",
-      "desc_ur": "امریکی اسٹاک فیوچرز نے پیر کو تیل کی قیمتوں میں تیزی سے کمی اور مصنوعی ذہانت کے آس پاس کی تجدید امید کے طور پر پیر کو ایک اونچی شروعات کی طرف اشارہ کیا ..."
-    },
-    {
-      "title": "Pakistan says it killed 28 militants, Afghan Taliban and UN report three civilian deaths",
-      "desc": "KABUL: Pakistan's government said on Monday (Sep 21) that it launched airstrikes in the Afghanistan-Pakistan border region, killing at least 28 militants, with one security official saying two Afghan provinces were targeted.Hours earlier, Afghan Taliban offic…",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/asia/pakistan-says-it-killed-28-militants-afghan-taliban-and-un-report-three-civilian-deaths-6399366",
-      "time": "2026-09-21T13:08:00",
-      "country": "Pakistan",
-      "title_ur": "پاکستان کا کہنا ہے کہ اس نے 28 عسکریت پسندوں کو ہلاک کیا، افغان طالبان اور اقوام متحدہ نے تین شہریوں کی ہلاکت کی اطلاع دی۔",
-      "desc_ur": "کابل: پاکستان کی حکومت نے پیر (21 ستمبر) کو کہا کہ اس نے افغانستان-پاکستان کے سرحدی علاقے میں فضائی حملے کیے، جس میں کم از کم 28 عسکریت پسند ہلاک ہوئے، ایک سیکیورٹی اہلکار کے مطابق دو افغان صوبوں کو نشانہ بنایا گیا۔"
-    },
-    {
-      "title": "Pakistan says it killed 28 militants, Taliban reports three civilian deaths",
-      "desc": "KABUL: Pakistan's government said on Monday (Sep 21) that airstrikes killed at least 28 militants in the Afghanistan-Pakistan border region, with one security official saying two Afghan provinces were targeted.Hours earlier, Afghan Taliban officials accused I…",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/asia/pakistan-says-it-killed-28-militants-taliban-reports-three-civilian-deaths-6399366",
-      "time": "2026-09-21T13:08:00",
-      "country": "Pakistan",
-      "title_ur": "پاکستان کا کہنا ہے کہ اس نے 28 عسکریت پسندوں کو ہلاک کیا، طالبان نے تین شہریوں کی ہلاکت کی اطلاع دی۔",
-      "desc_ur": "کابل: پاکستان کی حکومت نے پیر (21 ستمبر) کو کہا کہ افغانستان اور پاکستان کے سرحدی علاقے میں فضائی حملوں میں کم از کم 28 عسکریت پسند مارے گئے، ایک سیکیورٹی اہلکار نے کہا کہ دو افغان صوبوں کو نشانہ بنایا گیا۔"
-    },
-    {
-      "title": "India’s fertilizer sector hit by sulfur price surge",
-      "desc": "India’s fertilizer industry is under pressure from rising sulfur costs and a squeeze on the availability of the key raw material following attacks on oil refining facilities in Russia and shipping disruptions in the Middle East",
-      "source": "RT",
-      "url": "https://www.rt.com/india/646047-india-sulfur-fertilizer-russia/",
-      "time": "2026-09-21T13:06:56",
-      "country": "Pakistan",
-      "title_ur": "سلفر کی قیمتوں میں اضافے سے ہندوستان کا کھاد کا شعبہ متاثر ہوا۔",
-      "desc_ur": "ہندوستان کی کھاد کی صنعت بڑھتی ہوئی گندھک کی قیمتوں اور روس میں تیل صاف کرنے کی تنصیبات پر حملوں اور مشرق وسطیٰ میں جہاز رانی میں رکاوٹوں کے بعد اہم خام مال کی دستیابی پر دباؤ کے دباؤ میں ہے۔"
-    },
-    {
-      "title": "India bounce back from Iran defeat, sweep Pakistan 3-0 in Asian Games table tennis",
-      "desc": "India bounced back from their defeat to Iran with a commanding 3-0 win over Pakistan in the men’s table tennis team event at the Asian Games, with Harmeet Desai, Sathiyan Gnanasekaran and Payas Jain each winning in straight games. India’s women also swept Pak…",
+      "title": "Truck driver killed, 17 injured in truck-bus collision on Trichy-Chennai NH",
+      "desc": "Truck driver killed and 17 injured after sand-laden truck crossed median and hit TNSTC bus on Trichy-Chennai NH near Pazhaveli, disrupting traffic.",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/sports/other-sports/india-bounce-back-from-iran-defeat-sweep-pakistan-3-0-in-asian-games-table-tennis/articleshow/134390145.cms",
-      "time": "2026-09-21T12:53:42",
+      "url": "https://timesofindia.indiatimes.com/city/chennai/truck-driver-killed-17-injured-in-truck-bus-collision-on-trichy-chennai-nh/articleshow/134395286.cms",
+      "time": "2026-09-21T17:44:42",
       "country": "Pakistan",
-      "title_ur": "ایشین گیمز ٹیبل ٹینس میں بھارت نے ایران سے شکست کھا کر پاکستان کو 3-0 سے کلین سویپ کر دیا۔",
-      "desc_ur": "ہندوستان نے ایشین گیمز میں مردوں کے ٹیبل ٹینس ٹیم ایونٹ میں پاکستان کے خلاف 3-0 کی زبردست جیت کے ساتھ ایران کے ہاتھوں اپنی شکست سے واپسی کی، ہرمیت دیسائی، ساتھیان گنااسیکرن اور پیاس جین نے براہ راست گیمز میں ہر ایک کو جیتا۔ بھارت کی خواتین نے بھی پاکستان کو کلین سویپ کر دیا..."
+      "title_ur": "Truck driver killed, 17 injured in truck-bus collision on Trichy-Chennai NH",
+      "desc_ur": "Truck driver killed and 17 injured after sand-laden truck crossed median and hit TNSTC bus on Trichy-Chennai NH near Pazhaveli, disrupting traffic."
+    },
+    {
+      "title": "Global Diesel Prices Hit Record Highs",
+      "desc": "Diesel prices have rallied in Europe and the United States to record highs as wars in Iran and Ukraine sharply cut exports from some of the biggest producers such as Russia, Saudi Arabia and the United Arab Emirates, with little options to prevent further gai…",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/global-diesel-prices-hit-record-highs/",
+      "time": "2026-09-21T17:43:49",
+      "country": "Pakistan",
+      "title_ur": "Global Diesel Prices Hit Record Highs",
+      "desc_ur": "Diesel prices have rallied in Europe and the United States to record highs as wars in Iran and Ukraine sharply cut exports from some of the biggest producers such as Russia, Saudi Arabia and the United Arab Emirates, with little options to prevent further gai…"
+    },
+    {
+      "title": "Trump's Greenland fixation revealed as wars expose why the Arctic island matters now more than ever",
+      "desc": "President Donald Trump's Greenland interest spotlights critical minerals and oil as Strait of Hormuz disruptions threaten global energy supplies.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/trumps-greenland-fixation-revealed-wars-expose-why-arctic-island-matters-now-more-than-ever",
+      "time": "2026-09-21T17:43:13",
+      "country": "Pakistan",
+      "title_ur": "Trump's Greenland fixation revealed as wars expose why the Arctic island matters now more than ever",
+      "desc_ur": "President Donald Trump's Greenland interest spotlights critical minerals and oil as Strait of Hormuz disruptions threaten global energy supplies."
+    },
+    {
+      "title": "Warring urges Jaishankar to take up racial attacks in US, UK",
+      "desc": "Punjab Congress chief Raja Warring urges EAM S Jaishankar to raise Sikh drivers’ racial attacks in the US and UK, citing Wyoming stabbing and England assault.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/warring-urges-jaishankar-to-take-up-racial-attacks-in-us-uk/articleshow/134395239.cms",
+      "time": "2026-09-21T17:42:04",
+      "country": "Pakistan",
+      "title_ur": "Warring urges Jaishankar to take up racial attacks in US, UK",
+      "desc_ur": "Punjab Congress chief Raja Warring urges EAM S Jaishankar to raise Sikh drivers’ racial attacks in the US and UK, citing Wyoming stabbing and England assault."
+    },
+    {
+      "title": "Bajwa, Pilot discuss Rahul's Punjab visit as AAP, BJP step up poll activities",
+      "desc": "Bajwa meets Sachin Pilot in Delhi to plan Rahul Gandhi’s proposed Punjab visit and Congress bus yatra ahead of assembly polls as AAP, BJP ramp up campaigns.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/bajwa-pilot-discuss-rahuls-punjab-visit-as-aap-bjp-step-up-poll-activities/articleshow/134395209.cms",
+      "time": "2026-09-21T17:40:17",
+      "country": "Pakistan",
+      "title_ur": "Bajwa, Pilot discuss Rahul's Punjab visit as AAP, BJP step up poll activities",
+      "desc_ur": "Bajwa meets Sachin Pilot in Delhi to plan Rahul Gandhi’s proposed Punjab visit and Congress bus yatra ahead of assembly polls as AAP, BJP ramp up campaigns."
+    },
+    {
+      "title": "‘AAP backing mafia, BJP will end drug menace’: Chouhan at Talwandi Sabo rally",
+      "desc": "Shivraj Singh Chouhan at BJP’s Nasha Mukt Punjab Yatra in Talwandi Sabo targets AAP over drug mafia, vows crackdown, urges women and youth to act.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/aap-backing-mafia-bjp-will-end-drug-menace-chouhan-at-talwandi-sabo-rally/articleshow/134395190.cms",
+      "time": "2026-09-21T17:40:11",
+      "country": "Pakistan",
+      "title_ur": "‘AAP backing mafia, BJP will end drug menace’: Chouhan at Talwandi Sabo rally",
+      "desc_ur": "Shivraj Singh Chouhan at BJP’s Nasha Mukt Punjab Yatra in Talwandi Sabo targets AAP over drug mafia, vows crackdown, urges women and youth to act."
     }
   ],
   "business": {
@@ -220,7 +230,7 @@
         "low": 25,
         "condition": "Light Drizzle",
         "condition_ur": "ہلکی بوندا باندی",
-        "precip": 28
+        "precip": 23
       },
       {
         "date": "2026-09-23",
@@ -229,7 +239,7 @@
         "low": 25,
         "condition": "Mainly Clear",
         "condition_ur": "زیادہ تر صاف",
-        "precip": 14
+        "precip": 18
       },
       {
         "date": "2026-09-24",
@@ -238,7 +248,7 @@
         "low": 24,
         "condition": "Mainly Clear",
         "condition_ur": "زیادہ تر صاف",
-        "precip": 12
+        "precip": 8
       },
       {
         "date": "2026-09-25",
@@ -247,7 +257,7 @@
         "low": 25,
         "condition": "Partly Cloudy",
         "condition_ur": "جزوی ابر آلود",
-        "precip": 20
+        "precip": 13
       },
       {
         "date": "2026-09-26",
@@ -256,7 +266,7 @@
         "low": 25,
         "condition": "Overcast",
         "condition_ur": "ابر آلود",
-        "precip": 8
+        "precip": 6
       },
       {
         "date": "2026-09-27",
@@ -274,7 +284,7 @@
         "low": 25,
         "condition": "Clear",
         "condition_ur": "صاف",
-        "precip": 27
+        "precip": 24
       }
     ]
   },
