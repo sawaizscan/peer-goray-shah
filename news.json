@@ -1,177 +1,167 @@
 {
-  "generated": "2026-09-24T01:36:39Z",
+  "generated": "2026-09-24T07:02:32Z",
   "world": [
     {
-      "title": "Who's a sleepy Ed? Foreign Secretary Miliband seemingly struggles to stay awake during Burnham's first speech to the United Nations General Assembly",
-      "desc": "With the bright lights of the UN chamber trained on Britain's new Prime Minister, attention briefly shifted to the Foreign Secretary who appeared to be struggling to keep his eyes open.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16152873/sleepy-Ed-Miliband-seemingly-struggles-stay-awake-Burnhams-speech.html",
-      "time": "2026-09-23T01:33:41",
-      "country": "UK",
-      "title_ur": "Who's a sleepy Ed? Foreign Secretary Miliband seemingly struggles to stay awake during Burnham's first speech to the United Nations General Assembly",
-      "desc_ur": "With the bright lights of the UN chamber trained on Britain's new Prime Minister, attention briefly shifted to the Foreign Secretary who appeared to be struggling to keep his eyes open."
-    },
-    {
-      "title": "Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines - BBC",
-      "desc": "Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelinesBBC Fact-Checking Trump’s Speech at the United NationsThe New York Times Trump Puts Legacy Ahead of Midterm Politics in Speech at U.N.WSJ Iran war live: Trump …",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185743740",
-      "time": "2026-09-23T01:33:40",
-      "country": "Iran",
-      "title_ur": "Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines - BBC",
-      "desc_ur": "Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelinesBBC Fact-Checking Trump’s Speech at the United NationsThe New York Times Trump Puts Legacy Ahead of Midterm Politics in Speech at U.N.WSJ Iran war live: Trump …"
-    },
-    {
-      "title": "'No peace without justice,' Macron tells UN General Assembly - France 24",
-      "desc": "'No peace without justice,' Macron tells UN General AssemblyFrance 24 In UN farewell, Macron denounces Trump's Gaza diplomacy as spectacle of shameReuters Macron Criticizes Israel and Russia in Final U.N. Speech as France’s PresidentThe New York Times UN Gene…",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=185743734",
-      "time": "2026-09-23T01:33:09",
-      "country": "Israel",
-      "title_ur": "'No peace without justice,' Macron tells UN General Assembly - France 24",
-      "desc_ur": "'No peace without justice,' Macron tells UN General AssemblyFrance 24 In UN farewell, Macron denounces Trump's Gaza diplomacy as spectacle of shameReuters Macron Criticizes Israel and Russia in Final U.N. Speech as France’s PresidentThe New York Times UN Gene…"
-    },
-    {
-      "title": "Why Is the US Eyeing Gwadar Port?",
-      "desc": "Will Washington translate its interest in Gwadar and the region around it into a policy to establish its presence there?",
-      "source": "The Diplomat",
-      "url": "https://thediplomat.com/2026/09/why-is-the-us-eyeing-gwadar-port/",
-      "time": "2026-09-23T01:33:00",
-      "country": "US",
-      "title_ur": "Why Is the US Eyeing Gwadar Port?",
-      "desc_ur": "Will Washington translate its interest in Gwadar and the region around it into a policy to establish its presence there?"
-    },
-    {
-      "title": "Trump tells UN he faces ‘big decision’ on Iran as diplomacy continues",
-      "desc": "NEW YORK: US President Donald Trump told the United Nations General Assembly (UNGA) on Tuesday that he faces a “big decision” over whether to launch another attack on Iran or pursue a diplomatic agreement. During his speech in New York, attended by a member o…",
-      "source": "Khabarhub.com",
-      "url": "https://english.khabarhub.com/2026/23/568849/",
-      "time": "2026-09-23T01:31:10",
-      "country": "Iran",
-      "title_ur": "Trump tells UN he faces ‘big decision’ on Iran as diplomacy continues",
-      "desc_ur": "NEW YORK: US President Donald Trump told the United Nations General Assembly (UNGA) on Tuesday that he faces a “big decision” over whether to launch another attack on Iran or pursue a diplomatic agreement. During his speech in New York, attended by a member o…"
-    },
-    {
-      "title": "Breaking News Live Updates: Trump makes big diplomatic push at UNGA as officials hold talks with Iran, South Korea's Lee",
-      "desc": "Breaking News Live Updates: Trump signals diplomatic outreach at UNGA as US-Iranian officials hold surprise talks, Rubio prepares to meet Lavrov, and South Korean President Lee meets Trump.",
-      "source": "Economictimes.com",
-      "url": "https://m.economictimes.com/news/newsblogs/breaking-news-united-nations-live-unga-meeting-trump-iran-war-xi-jinping-china-eam-jaishankar-india-unsc-seat-pm-modi-canada-asian-games-2026-medal-tally-weather-today-delhi-mumbai/liveblog/134423801.cms",
-      "time": "2026-09-23T01:28:59",
-      "country": "Iran",
-      "title_ur": "Breaking News Live Updates: Trump makes big diplomatic push at UNGA as officials hold talks with Iran, South Korea's Lee",
-      "desc_ur": "Breaking News Live Updates: Trump signals diplomatic outreach at UNGA as US-Iranian officials hold surprise talks, Rubio prepares to meet Lavrov, and South Korean President Lee meets Trump."
-    },
-    {
-      "title": "Global Market Today: Asian stocks rise after US tech rally, oil drops",
-      "desc": "MSCI’s Asia Pacific equity index climbed 0.3%, a sixth straight day of gains, with Japanese markets closed for a holiday. Bellwether chip stocks such as Samsung Electronics Co. and SK Hynix Inc. climbed.",
+      "title": "Asian Games: Indian women beat Iran; men thrash Bangladesh in kabaddi",
+      "desc": "India continued their strong run in kabaddi at the Asian Games as both the men's and women's teams registered comfortable wins in their group-stage matches on Wednesday. The women's team defeated 2018 gold medallist Iran 37-23 in their second group match. The…",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-asian-stocks-rise-after-us-tech-rally-oil-drops/articleshow/134423544.cms",
-      "time": "2026-09-23T01:22:33",
-      "country": "US",
-      "title_ur": "Global Market Today: Asian stocks rise after US tech rally, oil drops",
-      "desc_ur": "MSCI’s Asia Pacific equity index climbed 0.3%, a sixth straight day of gains, with Japanese markets closed for a holiday. Bellwether chip stocks such as Samsung Electronics Co. and SK Hynix Inc. climbed."
-    },
-    {
-      "title": "Zelenskyy says Ukraine ready for energy truce with Russia after Trump talks",
-      "desc": "Ukraine leader says Kyiv is ready to stop strikes on Russian facilities if Moscow halts attacks on its energy system.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/9/23/zelenskyy-says-ukraine-ready-for-energy-truce-with-russia-after-trump-talks",
-      "time": "2026-09-23T01:20:39",
-      "country": "Russia",
-      "title_ur": "Zelenskyy says Ukraine ready for energy truce with Russia after Trump talks",
-      "desc_ur": "Ukraine leader says Kyiv is ready to stop strikes on Russian facilities if Moscow halts attacks on its energy system."
-    },
-    {
-      "title": "British PM warns that Israeli settlement plans threaten viability of two-state solution",
-      "desc": "Addressing the United Nations General Assembly, Andy Burnham said that his government 'will not stand by as the horrific suffering continues to grow'",
-      "source": "Haaretz",
-      "url": "https://www.haaretz.com/israel-news/israel-security/2026-09-23/ty-article/british-pm-israeli-settlement-plans-threaten-viability-of-two-state-solution/000001a0-cbcb-dfbe-a3ff-ffef73360000",
-      "time": "2026-09-23T01:18:44",
-      "country": "Israel",
-      "title_ur": "British PM warns that Israeli settlement plans threaten viability of two-state solution",
-      "desc_ur": "Addressing the United Nations General Assembly, Andy Burnham said that his government 'will not stand by as the horrific suffering continues to grow'"
-    },
-    {
-      "title": "Netanyahu tells New York mayor Mamdani that he will ‘expose the truth’ about him at UN",
-      "desc": "Mamdani said on Monday that he still believes Netanyahu should be arrested during his upcoming visit for the UN General Assembly.",
-      "source": "National Post",
-      "url": "https://nationalpost.com/news/world/israel-middle-east/benjamin-netanyahu-zohran-mamdani",
-      "time": "2026-09-23T01:17:32",
-      "country": "Israel",
-      "title_ur": "Netanyahu tells New York mayor Mamdani that he will ‘expose the truth’ about him at UN",
-      "desc_ur": "Mamdani said on Monday that he still believes Netanyahu should be arrested during his upcoming visit for the UN General Assembly."
-    },
-    {
-      "title": "Scott Bessent Could Soon Be Trump’s ‘AI Czar,’ Report Says",
-      "desc": "Or should we say \"Super Intelligence Czar\"?",
-      "source": "Gizmodo.com",
-      "url": "https://gizmodo.com/scott-bessent-could-soon-be-trumps-ai-czar-report-says-2000815770",
-      "time": "2026-09-23T01:16:24",
-      "country": "US",
-      "title_ur": "Scott Bessent Could Soon Be Trump’s ‘AI Czar,’ Report Says",
-      "desc_ur": "Or should we say \"Super Intelligence Czar\"?"
-    },
-    {
-      "title": "Saudi Arabia Forced Back to Perilous Hormuz",
-      "desc": "Saudi Arabia's detours around the Strait of Hormuz aren't quite working out. After months of pushing oil west via pipelines and the Red Sea, Riyadh is again sending millions of barrels a day through Hormuz in what the Wall Street Journal calls a \"risky\" move …",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/36215d8d2ab506cd",
-      "time": "2026-09-23T01:15:42",
-      "country": "US",
-      "title_ur": "Saudi Arabia Forced Back to Perilous Hormuz",
-      "desc_ur": "Saudi Arabia's detours around the Strait of Hormuz aren't quite working out. After months of pushing oil west via pipelines and the Red Sea, Riyadh is again sending millions of barrels a day through Hormuz in what the Wall Street Journal calls a \"risky\" move …"
-    },
-    {
-      "title": "Iranian President Masoud Pezeshkian arrives in New York for UNGA",
-      "desc": "Iranian President Masoud Pezeshkian has arrived in New York as the US-Iran war continues.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/iranian-president-masoud-pezeshkian-arrives-in-new-york-for-unga",
-      "time": "2026-09-23T01:11:06",
+      "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-indian-women-beat-iran-men-thrash-bangladesh-in-kabaddi/articleshow/134428050.cms",
+      "time": "2026-09-23T07:01:04",
       "country": "Iran",
-      "title_ur": "Iranian President Masoud Pezeshkian arrives in New York for UNGA",
-      "desc_ur": "Iranian President Masoud Pezeshkian has arrived in New York as the US-Iran war continues."
+      "title_ur": "Asian Games: Indian women beat Iran; men thrash Bangladesh in kabaddi",
+      "desc_ur": "India continued their strong run in kabaddi at the Asian Games as both the men's and women's teams registered comfortable wins in their group-stage matches on Wednesday. The women's team defeated 2018 gold medallist Iran 37-23 in their second group match. The…"
     },
     {
-      "title": "Iran military condemns Trump's \"hostile\" remarks at UN, calls them 'tool for domestic propaganda'",
-      "desc": "Iran's General Staff of the Armed Forces condemned US President Donald Trump's remarks made at the UN General Assembly. The military authorities accused Trump of using threats and propaganda to create insecurity around the world. Trump warned of potential mil…",
+      "title": "Colleges Adopted ‘Systemic Suppression’ of Protesters, New Investigation Shows",
+      "desc": "Colleges Adopted ‘Systemic Suppression’ of Protesters, New Investigation Shows\n\n \n\n\n \njessica.blake@…\n\nWed, 09/23/2026 - 03:00 AM\n\nDrawing on records, media reports and surveys, the ACLU and Amnesty International USA break down how colleges have “disproportio…",
+      "source": "Inside Higher Ed",
+      "url": "https://www.insidehighered.com/news/students/free-speech/2026/09/23/colleges-adopted-systemic-suppression-protesters",
+      "time": "2026-09-23T07:00:00",
+      "country": "US",
+      "title_ur": "Colleges Adopted ‘Systemic Suppression’ of Protesters, New Investigation Shows",
+      "desc_ur": "Colleges Adopted ‘Systemic Suppression’ of Protesters, New Investigation Shows\n\n \n\n\n \njessica.blake@…\n\nWed, 09/23/2026 - 03:00 AM\n\nDrawing on records, media reports and surveys, the ACLU and Amnesty International USA break down how colleges have “disproportio…"
+    },
+    {
+      "title": "Mamdani fires back at Netanyahu, calls Israeli leader 'architect of horrific genocide' ahead of UN visit",
+      "desc": "NYC Mayor Zohran Mamdani fired back at Benjamin Netanyahu's accusations of supporting Hamas by citing the ICC arrest warrant for alleged war crimes.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/mamdani-fires-back-netanyahu-calls-israeli-leader-architect-horrific-genocide-ahead-un-visit",
+      "time": "2026-09-23T06:59:30",
+      "country": "Israel",
+      "title_ur": "Mamdani fires back at Netanyahu, calls Israeli leader 'architect of horrific genocide' ahead of UN visit",
+      "desc_ur": "NYC Mayor Zohran Mamdani fired back at Benjamin Netanyahu's accusations of supporting Hamas by citing the ICC arrest warrant for alleged war crimes."
+    },
+    {
+      "title": "How India’s urban housing story has changed: Over 1 crore homes completed, 1 crore more families targeted",
+      "desc": "Real Estate News: India’s urban housing story has moved beyond simply building homes, with the government’s flagship housing programme now covering everything from self.",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/defence/iran-military-condemns-trumps-hostile-remarks-at-un-calls-them-tool-for-domestic-propaganda/articleshow/134423561.cms",
-      "time": "2026-09-23T01:11:05",
-      "country": "Iran",
-      "title_ur": "Iran military condemns Trump's \"hostile\" remarks at UN, calls them 'tool for domestic propaganda'",
-      "desc_ur": "Iran's General Staff of the Armed Forces condemned US President Donald Trump's remarks made at the UN General Assembly. The military authorities accused Trump of using threats and propaganda to create insecurity around the world. Trump warned of potential mil…"
+      "url": "https://timesofindia.indiatimes.com/real-estate/how-indias-urban-housing-story-has-changed-over-1-crore-homes-completed-1-crore-more-families-targeted/articleshow/134428076.cms",
+      "time": "2026-09-23T06:58:28",
+      "country": "India",
+      "title_ur": "How India’s urban housing story has changed: Over 1 crore homes completed, 1 crore more families targeted",
+      "desc_ur": "Real Estate News: India’s urban housing story has moved beyond simply building homes, with the government’s flagship housing programme now covering everything from self."
     },
     {
-      "title": "Sensex today | Stock Market Live: Stock to buy today: JSW Infrastructure",
-      "desc": "Sensex, Nifty, Stock Price Live: The short-term outlook is bullish for JSW Infrastructure. The stock has surged over 5 per cent on Tuesday and has closed on a strong note. This rise has taken the share price well above a key resistance level of ₹355. It also …",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-23rd-september-2026/article71495500.ece",
-      "time": "2026-09-23T01:09:39",
+      "title": "Seattle straightened and filled the Lower Duwamish until 97% of its original habitat was gone; a $23 million pollution settlement has now removed contaminated soil and rebuilt 2.8 acres where fish are already returning",
+      "desc": "A remarkable $23 million settlement has paved the way for the revitalization of Seattle's Lower Duwamish River, leading to extensive habitat restoration. Contaminated soil and debris have been eliminated, and new ecological zones have been established over 2.…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/science/nature/seattle-straightened-and-filled-the-lower-duwamish-until-97-of-its-original-habitat-was-gone-a-23-million-pollution-settlement-has-now-removed-contaminated-soil-and-rebuilt-2-8-acres-where-fish-are-already-returning/articleshow/134427995.cms",
+      "time": "2026-09-23T06:57:38",
       "country": "International",
-      "title_ur": "Sensex today | Stock Market Live: Stock to buy today: JSW Infrastructure",
-      "desc_ur": "Sensex, Nifty, Stock Price Live: The short-term outlook is bullish for JSW Infrastructure. The stock has surged over 5 per cent on Tuesday and has closed on a strong note. This rise has taken the share price well above a key resistance level of ₹355. It also …"
+      "title_ur": "Seattle straightened and filled the Lower Duwamish until 97% of its original habitat was gone; a $23 million pollution settlement has now removed contaminated soil and rebuilt 2.8 acres where fish are already returning",
+      "desc_ur": "A remarkable $23 million settlement has paved the way for the revitalization of Seattle's Lower Duwamish River, leading to extensive habitat restoration. Contaminated soil and debris have been eliminated, and new ecological zones have been established over 2.…"
+    },
+    {
+      "title": "Taiwan index rises to near all-time peak as Asian stocks ride AI wave",
+      "desc": "Asian stocks rise on AI enthusiasm, while oil prices decline amid increased Middle East supply and ongoing geopolitical tensions.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/taiwan-index-rises-to-near-all-time-peak-as-asian-stocks-ride-ai-wave/article71498652.ece",
+      "time": "2026-09-23T06:52:49",
+      "country": "US",
+      "title_ur": "Taiwan index rises to near all-time peak as Asian stocks ride AI wave",
+      "desc_ur": "Asian stocks rise on AI enthusiasm, while oil prices decline amid increased Middle East supply and ongoing geopolitical tensions."
+    },
+    {
+      "title": "Ed Sheeran loses almost half a million followers with a 'steep decline' after he was accused of 'bowing to the mob' during 'the worst week of my life'",
+      "desc": "Ed Sheeran has lost almost 500,000 Instagram followers during what he has called 'one of the worst weeks of my life'.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/tvshowbiz/article-16153361/Ed-Sheeran-loses-half-million-followers-steep-decline-accused-bowing-mob-worst-week-life.html",
+      "time": "2026-09-23T06:48:56",
+      "country": "US",
+      "title_ur": "Ed Sheeran loses almost half a million followers with a 'steep decline' after he was accused of 'bowing to the mob' during 'the worst week of my life'",
+      "desc_ur": "Ed Sheeran has lost almost 500,000 Instagram followers during what he has called 'one of the worst weeks of my life'."
+    },
+    {
+      "title": "Oil prices fall in longest losing streak in a year on hopes of progress in US-Iran talks – business live",
+      "desc": "Oil prices decline for a sixth session, as Saudi Arabia reportedly restarts its east-west pipeline\nGood morning, and welcome to our rolling coverage of business, the financial markets and the world economy.\nOil prices have fallen for a sixth session, dropping…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/cc1e667500f63d2a",
+      "time": "2026-09-23T06:48:08",
+      "country": "Iran",
+      "title_ur": "Oil prices fall in longest losing streak in a year on hopes of progress in US-Iran talks – business live",
+      "desc_ur": "Oil prices decline for a sixth session, as Saudi Arabia reportedly restarts its east-west pipeline\nGood morning, and welcome to our rolling coverage of business, the financial markets and the world economy.\nOil prices have fallen for a sixth session, dropping…"
+    },
+    {
+      "title": "France, Greece seek to ease tensions over power cable",
+      "desc": "Greece and France are preparing to resume surveys for an eastern Mediterranean electricity cable using a French-flagged vessel, in an effort to ease tensions with Türkiye, Kathimerini reported.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/france-greece-seek-to-ease-tensions-over-power-cable-227224",
+      "time": "2026-09-23T06:47:02",
+      "country": "US",
+      "title_ur": "France, Greece seek to ease tensions over power cable",
+      "desc_ur": "Greece and France are preparing to resume surveys for an eastern Mediterranean electricity cable using a French-flagged vessel, in an effort to ease tensions with Türkiye, Kathimerini reported."
+    },
+    {
+      "title": "As Australia’s rock ‘n’ roll outlaw, Angry Anderson embodied the appeal and limitations of Oz Rock",
+      "desc": "One of Australian rock’s most recognisable vocalists, Angry Anderson, has died at 79.",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/as-australias-rock-n-roll-outlaw-angry-anderson-embodied-the-appeal-and-limitations-of-oz-rock-290938",
+      "time": "2026-09-23T06:46:47",
+      "country": "US",
+      "title_ur": "As Australia’s rock ‘n’ roll outlaw, Angry Anderson embodied the appeal and limitations of Oz Rock",
+      "desc_ur": "One of Australian rock’s most recognisable vocalists, Angry Anderson, has died at 79."
+    },
+    {
+      "title": "AI, US war against Iran to dominate UN General Assembly",
+      "desc": "The future of artificial intelligence and the stalled US war against Iran, with its ripple effect on the global economy, are expected to dominate the UN gathering of world leaders.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/world/2026/0923/1592622-un-general-assembly/",
+      "time": "2026-09-23T06:44:27",
+      "country": "Iran",
+      "title_ur": "AI, US war against Iran to dominate UN General Assembly",
+      "desc_ur": "The future of artificial intelligence and the stalled US war against Iran, with its ripple effect on the global economy, are expected to dominate the UN gathering of world leaders."
+    },
+    {
+      "title": "Co-op Group posts bigger H1 loss as investments weigh",
+      "desc": "Britain's Co-op Group posted a bigger first-half loss today as spending on promotions and store improvements weighed on profitability.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/business/2026/0923/1592624-co-op-group-posts-first-half-loss/",
+      "time": "2026-09-23T06:40:22",
+      "country": "UK",
+      "title_ur": "Co-op Group posts bigger H1 loss as investments weigh",
+      "desc_ur": "Britain's Co-op Group posted a bigger first-half loss today as spending on promotions and store improvements weighed on profitability."
+    },
+    {
+      "title": "Dolly Parton’s estate accuses her nephew of threatening violence",
+      "desc": "Dolly Parton’s estate has accused the country music icon’s nephew of threatening violence and to destroy his aunt’s legacy and business empire and have asked a judge to keep him away from its employees and business dealings",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/US/wireStory/dolly-partons-estate-accuses-nephew-threatening-violence-destroy-136674583",
+      "time": "2026-09-23T06:34:47",
+      "country": "US",
+      "title_ur": "Dolly Parton’s estate accuses her nephew of threatening violence",
+      "desc_ur": "Dolly Parton’s estate has accused the country music icon’s nephew of threatening violence and to destroy his aunt’s legacy and business empire and have asked a judge to keep him away from its employees and business dealings"
+    },
+    {
+      "title": "Long Way From Home: How Mohammad Siasarani Fought His Way From A Small Iranian Town To The Global Stage",
+      "desc": "The defining experiences that paved the way for the 24-year-old to reach a ONE SAMURAI 4 semifinals.",
+      "source": "Onefc.com",
+      "url": "https://www.onefc.com/features/long-way-from-home-how-mohammad-siasarani-fought-his-way-from-a-small-iranian-town-to-the-global-stage/",
+      "time": "2026-09-23T06:34:03",
+      "country": "Iran",
+      "title_ur": "Long Way From Home: How Mohammad Siasarani Fought His Way From A Small Iranian Town To The Global Stage",
+      "desc_ur": "The defining experiences that paved the way for the 24-year-old to reach a ONE SAMURAI 4 semifinals."
+    },
+    {
+      "title": "Araghchi slams France's Iran stance in talks with Barrot",
+      "desc": "Iranian Foreign Minister Abbas Araghchi (pictured left) said on Wednesday that he held a conversation with French Foreign Minister Jean-Noel Barrot (pictured right) on the sidelines of the United Nati...",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/32c94c1e9485c9c4",
+      "time": "2026-09-23T06:33:41",
+      "country": "Iran",
+      "title_ur": "Araghchi slams France's Iran stance in talks with Barrot",
+      "desc_ur": "Iranian Foreign Minister Abbas Araghchi (pictured left) said on Wednesday that he held a conversation with French Foreign Minister Jean-Noel Barrot (pictured right) on the sidelines of the United Nati..."
     }
   ],
   "pakistan": [
     {
-      "title": "Oil prices drop as US-Iran talks at UN spark diplomatic optimism",
-      "desc": "Diplomatic progress between the U.S. and Iran could stabilize energy markets, reducing fears of supply disruptions and impacting oil prices.\nThe post Oil prices drop as US-Iran talks at UN spark diplomatic optimism appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/oil-prices-drop-as-us-iran-talks-at-un-spark-diplomatic-optimism/",
-      "time": "2026-09-23T01:14:48",
+      "title": "Pakistan seals roads to Islamabad before protests for Imran Khan’s release",
+      "desc": "Police close major highways into Islamabad as supporters of jailed former prime minister plan to march into the capital.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/9/23/pakistan-seals-islamabad-roads-before-protests-for-imran-khans-release",
+      "time": "2026-09-23T06:59:03",
       "country": "Pakistan",
-      "title_ur": "Oil prices drop as US-Iran talks at UN spark diplomatic optimism",
-      "desc_ur": "Diplomatic progress between the U.S. and Iran could stabilize energy markets, reducing fears of supply disruptions and impacting oil prices.\nThe post Oil prices drop as US-Iran talks at UN spark diplomatic optimism appeared first on Crypto Briefing."
-    },
-    {
-      "title": "South Korea plans to cut its reliance on Middle crude oil imports to 50% by 2035",
-      "desc": "SEOUL, Sept 23 : South Korea aims to reduce its reliance on crude oil from the Middle East to 50 per cent by 2035, as Asia's fourth-biggest economy seeks to diversify energy supplies following the disruption caused by the Iran war, the Industry Ministry said …",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/business/south-korea-plans-cut-its-reliance-middle-crude-oil-imports-50-2035-6403736",
-      "time": "2026-09-23T00:43:41",
-      "country": "Pakistan",
-      "title_ur": "South Korea plans to cut its reliance on Middle crude oil imports to 50% by 2035",
-      "desc_ur": "SEOUL, Sept 23 : South Korea aims to reduce its reliance on crude oil from the Middle East to 50 per cent by 2035, as Asia's fourth-biggest economy seeks to diversify energy supplies following the disruption caused by the Iran war, the Industry Ministry said …"
+      "title_ur": "Pakistan seals roads to Islamabad before protests for Imran Khan’s release",
+      "desc_ur": "Police close major highways into Islamabad as supporters of jailed former prime minister plan to march into the capital."
     }
   ],
   "business": {
@@ -190,7 +180,7 @@
         "low": 26,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 10
+        "precip": 23
       },
       {
         "date": "2026-09-25",
@@ -199,7 +189,7 @@
         "low": 24,
         "condition": "Overcast",
         "condition_ur": "ابر آلود",
-        "precip": 4
+        "precip": 11
       },
       {
         "date": "2026-09-26",
@@ -208,7 +198,7 @@
         "low": 23,
         "condition": "Clear",
         "condition_ur": "صاف",
-        "precip": 14
+        "precip": 4
       },
       {
         "date": "2026-09-27",
@@ -217,7 +207,7 @@
         "low": 24,
         "condition": "Mainly Clear",
         "condition_ur": "زیادہ تر صاف",
-        "precip": 2
+        "precip": 9
       },
       {
         "date": "2026-09-28",
@@ -226,7 +216,7 @@
         "low": 22,
         "condition": "Overcast",
         "condition_ur": "ابر آلود",
-        "precip": 18
+        "precip": 20
       },
       {
         "date": "2026-09-29",
@@ -235,7 +225,7 @@
         "low": 23,
         "condition": "Clear",
         "condition_ur": "صاف",
-        "precip": 16
+        "precip": 12
       },
       {
         "date": "2026-09-30",
