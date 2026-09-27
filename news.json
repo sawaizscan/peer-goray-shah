@@ -1,187 +1,177 @@
 {
-  "generated": "2026-09-27T09:25:50Z",
+  "generated": "2026-09-27T14:46:54Z",
   "world": [
     {
-      "title": "Houthis attack Saudi Arabia again as Trump rejects ceasefire offer",
-      "desc": "Saudi air defences intercepted two Houthi drones targeting Riyadh and a ballistic missile aimed at Khamis Mushait as hopes fade for a US-Iran ceasefire",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/world-news/houthis-attack-saudi-arabia-again-as-trump-rejects-ceasefire-offer-126092600515_1.html",
-      "time": "2026-09-26T09:25:04",
+      "title": "Iran’s Bitterness and Bewilderment Over How to Make Peace with Trump",
+      "desc": "Robin Wright on the Islamic Republic of Iran’s latest proposal for bringing an end to its conflict with the United States and Israel.",
+      "source": "The New Yorker",
+      "url": "https://www.newyorker.com/news/the-lede/irans-bitterness-and-bewilderment-over-how-to-make-peace-with-trump",
+      "time": "2026-09-26T14:45:36",
       "country": "Iran",
-      "title_ur": "ٹرمپ کی جانب سے جنگ بندی کی پیشکش کو مسترد کرتے ہوئے حوثیوں نے ایک بار پھر سعودی عرب پر حملہ کیا۔",
-      "desc_ur": "سعودی فضائی دفاع نے ریاض کو نشانہ بنانے والے دو حوثی ڈرونز اور خمیس مشیط کو نشانہ بنانے والے ایک بیلسٹک میزائل کو روک دیا کیونکہ امریکہ ایران جنگ بندی کی امیدیں ختم ہوگئیں۔"
+      "title_ur": "ٹرمپ کے ساتھ صلح کرنے کے طریقہ پر ایران کی تلخی اور پریشانی",
+      "desc_ur": "رابن رائٹ نے امریکہ اور اسرائیل کے ساتھ تنازعات کے خاتمے کے لیے اسلامی جمہوریہ ایران کی تازہ ترین تجویز پر تبصرہ کیا۔"
     },
     {
-      "title": "EU warns of energy 'price crisis,' asks countries to consider curbing demand, letter shows",
-      "desc": "While the EU is ⁠better prepared now than it was in winter 2021 ‌when Russia squeezed Europe's gas supplies by reducing deliveries, governments must step up preparations for this winter",
+      "title": "American Voters, Beware an Islamist Takeover in America",
+      "desc": "A dangerous trend is unfolding in America: please do not let what happened in my home country happen here. Many people refuse to see the gradual creep of Islamist ideology into nearly every sector of American society: media, politics, community organizing, ed…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4396956/posts",
+      "time": "2026-09-26T14:45:33",
+      "country": "US",
+      "title_ur": "امریکی ووٹرز، امریکہ میں اسلام پسندوں کے قبضے سے بچو",
+      "desc_ur": "امریکہ میں ایک خطرناک رجحان سامنے آ رہا ہے: براہ کرم جو کچھ میرے آبائی ملک میں ہوا وہ یہاں نہ ہونے دیں۔ بہت سے لوگ امریکی معاشرے کے تقریباً ہر شعبے میں اسلامی نظریات کے بتدریج پھیلتے ہوئے دیکھنے سے انکار کرتے ہیں: میڈیا، سیاست، کمیونٹی آرگنائزنگ، ایڈ…"
+    },
+    {
+      "title": "U.S. Bond yields hit a 20-year high. What does it mean for common Americans?",
+      "desc": "Long-term yields also mostly continued to climb this week despite another Treasury buyback operation, an intervention the government said is aimed at addressing liquidity in the Treasury market.",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/us/u-s-bond-yields-hit-a-20-year-high-what-does-it-mean-for-common-americans/articleshow/134506412.cms",
+      "time": "2026-09-26T14:41:42",
+      "country": "US",
+      "title_ur": "امریکی بانڈ کی پیداوار 20 سال کی بلند ترین سطح پر پہنچ گئی۔ عام امریکیوں کے لیے اس کا کیا مطلب ہے؟",
+      "desc_ur": "ایک اور ٹریژری بائ بیک آپریشن کے باوجود طویل مدتی پیداوار بھی اس ہفتے زیادہ تر چڑھتی رہی، حکومت نے کہا کہ ٹریژری مارکیٹ میں لیکویڈیٹی کو حل کرنا ہے۔"
+    },
+    {
+      "title": "Israel-Ireland match to go ahead in Nations League after player vote",
+      "desc": "Ireland have delayed their pre-match media briefing and training as pressure grew, but player vote avoids game boycott.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/sports/2026/9/26/republic-of-ireland-players-vote-for-israel-nations-league-game-to-go-ahead",
+      "time": "2026-09-26T14:36:21",
+      "country": "Israel",
+      "title_ur": "کھلاڑیوں کے ووٹ کے بعد نیشنز لیگ میں اسرائیل اور آئرلینڈ کا میچ آگے بڑھے گا۔",
+      "desc_ur": "دباؤ بڑھنے پر آئرلینڈ نے میچ سے پہلے کی میڈیا بریفنگ اور ٹریننگ میں تاخیر کی ہے، لیکن پلیئر ووٹ گیم کے بائیکاٹ سے گریز کرتے ہیں۔"
+    },
+    {
+      "title": "Trump says he rejected the latest Iranian proposal",
+      "desc": "President Trump said on Saturday that he rejected the latest Iranian proposal that was conveyed to the U.S. during indirect negotiations in New York this week.\nWhy it matters: While Qatar and other regional mediators are trying to revive negotiations between …",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/2fb86b7ddbcbecd7",
+      "time": "2026-09-26T14:36:07",
+      "country": "Iran",
+      "title_ur": "ٹرمپ کا کہنا ہے کہ انہوں نے تازہ ترین ایرانی تجویز کو مسترد کر دیا۔",
+      "desc_ur": "صدر ٹرمپ نے ہفتے کے روز کہا کہ انہوں نے اس تازہ ترین ایرانی تجویز کو مسترد کر دیا جو اس ہفتے نیویارک میں بالواسطہ مذاکرات کے دوران امریکہ کو دی گئی تھی۔\nیہ کیوں اہمیت رکھتا ہے: جب کہ قطر اور دیگر علاقائی ثالث دونوں کے درمیان مذاکرات کو بحال کرنے کی کوشش کر رہے ہیں…"
+    },
+    {
+      "title": "Kennedy: 'When the Berlin Wall Fell, Who Ran to Which Side? Socialism Is for Morons'",
+      "desc": "Friday on FNC's \"Hannity,\" Sen. John Kennedy (R-LA) rebuked the creep of socialism into American politics.\nThe post Kennedy: ‘When the Berlin Wall Fell, Who Ran to Which Side? Socialism Is for Morons’ appeared first on Breitbart.",
+      "source": "Breitbart News",
+      "url": "https://www.breitbart.com/clips/2026/09/26/kennedy-when-the-berlin-wall-fell-who-ran-to-which-side-socialism-is-for-morons/",
+      "time": "2026-09-26T14:32:40",
+      "country": "UK",
+      "title_ur": "کینیڈی: 'جب دیوار برلن گری تو کون کس طرف بھاگا؟ سوشلزم مورون کے لیے ہے",
+      "desc_ur": "جمعہ کو FNC کے \"Hannity\" پر، سین جان کینیڈی (R-LA) نے امریکی سیاست میں سوشلزم کے رینگنے کی سرزنش کی۔\nThe post کینیڈی: ’جب دیوار برلن گری تو کون کس طرف بھاگا؟ سوشلزم مورون کے لیے ہے appeared first on Breitbart."
+    },
+    {
+      "title": "Aluminium extrusion industry warns of factory closures as production falls",
+      "desc": "India’s aluminium extrusion sector faces factory closures and job losses as production slumps to 27-30% capacity, with calls for duty relief.",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/commodities/eu-warns-of-energy-price-crisis-asks-countries-to-consider-curbing-demand-letter-shows/article71511673.ece",
-      "time": "2026-09-26T09:23:20",
-      "country": "Russia",
-      "title_ur": "یورپی یونین نے توانائی کے 'قیمت کے بحران' سے خبردار کیا، ممالک سے مطالبہ کو روکنے پر غور کرنے کو کہا، لیٹر شوز",
-      "desc_ur": "جب کہ یورپی یونین 2021 کے موسم سرما کے مقابلے میں اب بہتر طور پر تیار ہے جب روس نے ترسیل کو کم کرکے یورپ کی گیس کی سپلائی کو نچوڑا تھا، حکومتوں کو اس موسم سرما کے لیے تیاریاں تیز کرنی ہوں گی۔"
-    },
-    {
-      "title": "Trump posts map showing ‘Trump Strait’ off Iran, and other Mideast developments",
-      "desc": "U.S. President Donald Trump has posted an image of the Strait of Hormuz labeled “Trump Strait” shortly after Iran proposed a deal to open the waterway within a week if the U.S. meets certain conditions.\nMeanwhile, Iranian media outlets say the country’s presi…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/c5946988a6ab1488",
-      "time": "2026-09-26T09:21:48",
-      "country": "Iran",
-      "title_ur": "ٹرمپ نے نقشہ پوسٹ کیا ہے جس میں ایران سے دور 'ٹرمپ آبنائے' اور مشرق وسطیٰ کی دیگر پیش رفت دکھائی دیتی ہے۔",
-      "desc_ur": "امریکی صدر ڈونلڈ ٹرمپ نے آبنائے ہرمز کی ایک تصویر پوسٹ کی ہے جس پر \"ٹرمپ سٹریٹ\" کا لیبل لگا ہوا ہے، ایران کی جانب سے ایک ہفتے کے اندر آبی گزرگاہ کھولنے کے معاہدے کی تجویز کے فوراً بعد اگر امریکہ کچھ شرائط پوری کرتا ہے۔\nدریں اثنا، ایرانی ذرائع ابلاغ کا کہنا ہے کہ ملک کے صدر…"
-    },
-    {
-      "title": "High Gas and Rising Mortgage Rates Trouble Trump as Midterms Near",
-      "desc": "As the president extolled the strength of the economy on the global stage, Americans continued to feel the sting of rising prices stemming from the war in Iran.",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/5db557b17bdffaed",
-      "time": "2026-09-26T09:21:20",
-      "country": "Iran",
-      "title_ur": "ہائی گیس اور بڑھتے ہوئے رہن کی شرحیں ٹرمپ کو مڈٹرم کے قریب ہونے پر پریشان کر رہی ہیں۔",
-      "desc_ur": "جیسا کہ صدر نے عالمی سطح پر معیشت کی مضبوطی کی تعریف کی، امریکیوں کو ایران میں جنگ کی وجہ سے بڑھتی ہوئی قیمتوں کے ڈنک کا احساس ہوتا رہا۔"
-    },
-    {
-      "title": "Watch: Pregnant monkey drinks vodka, sleeps on boxes inside liquor shop",
-      "desc": "In a bizarre incident on the outskirts of Ranchi, a pregnant monkey was seen entering a liquor shop where it launched an attack on a staff member before indulging in a quarter bottle of vodka. The monkey soon after decided to take a nap on top of some boxes. …",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/ranchi/watch-pregnant-monkey-drinks-vodka-sleeps-on-boxes-inside-liquor-shop/articleshow/134501282.cms",
-      "time": "2026-09-26T09:16:26",
-      "country": "International",
-      "title_ur": "دیکھیں: حاملہ بندر ووڈکا پی رہی ہے، شراب کی دکان کے اندر ڈبوں پر سو رہی ہے۔",
-      "desc_ur": "رانچی کے مضافات میں ایک عجیب واقعہ میں، ایک حاملہ بندر کو شراب کی دکان میں داخل ہوتے دیکھا گیا جہاں اس نے ووڈکا کی چوتھائی بوتل میں ملوث ہونے سے پہلے عملے کے ایک رکن پر حملہ کر دیا۔ بندر نے جلد ہی کچھ ڈبوں کے اوپر جھپکی لینے کا فیصلہ کیا۔ …"
-    },
-    {
-      "title": "India men's cricket team arrives in Nagoya, set to face Afghanistan in Asian Games quarterfinal",
-      "desc": "The Indian men's cricket team has arrived in Nagoya ahead of their quarter-final match against Afghanistan. Shreyas Iyer leads a squad featuring established international players as they aim to defend their gold medal. India previously won gold in the last As…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/sports/cricket/india-mens-cricket-team-arrives-in-nagoya-set-to-face-afghanistan-in-asian-games-quarterfinal/articleshow/134500244.cms",
-      "time": "2026-09-26T09:14:31",
+      "url": "https://www.thehindubusinessline.com/markets/commodities/aluminium-extrusion-industry-warns-of-factory-closures-as-production-falls/article71512574.ece",
+      "time": "2026-09-26T14:31:09",
       "country": "India",
-      "title_ur": "ہندوستانی مردوں کی کرکٹ ٹیم ناگویا پہنچ گئی، ایشین گیمز کے کوارٹر فائنل میں افغانستان کا مقابلہ کرنا ہے۔",
-      "desc_ur": "ہندوستانی مردوں کی کرکٹ ٹیم افغانستان کے خلاف اپنے کوارٹر فائنل میچ سے قبل ناگویا پہنچ گئی ہے۔ شریاس آئیر ایک ٹیم کی قیادت کر رہے ہیں جس میں قائم بین الاقوامی کھلاڑی شامل ہیں کیونکہ ان کا مقصد اپنے گولڈ میڈل کا دفاع کرنا ہے۔ ہندوستان نے اس سے قبل آخری میں سونے کا تمغہ جیتا تھا۔"
+      "title_ur": "ایلومینیم کے اخراج کی صنعت نے پیداوار میں کمی کے ساتھ فیکٹری بند ہونے کا انتباہ دیا ہے۔",
+      "desc_ur": "ہندوستان کے ایلومینیم کے اخراج کے شعبے کو فیکٹریوں کی بندش اور ملازمتوں کے نقصانات کا سامنا ہے کیونکہ پیداوار 27-30٪ کی صلاحیت تک گر گئی ہے، ڈیوٹی ریلیف کے مطالبات کے ساتھ۔"
     },
     {
-      "title": "American-Made Must Mean Mission-Ready | Opinion",
-      "desc": "After 24 years of military service as a decorated Army officer and Iraq War veteran, an Air Force Reserve commander, and now serving in emergency management with Joint Task Force–National Capital Region, I’ve learned that equipment is only as good as its abil…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/9713bc18b3391c39",
-      "time": "2026-09-26T09:07:10",
-      "country": "Iraq",
-      "title_ur": "امریکن میڈ مسٹ مطلب مشن ریڈی | رائے",
-      "desc_ur": "24 سال کی فوجی خدمات کے بعد ایک ڈیکوریٹڈ آرمی آفیسر اور عراق جنگ کے تجربہ کار، ایک ایئر فورس ریزرو کمانڈر، اور اب جوائنٹ ٹاسک فورس – نیشنل کیپیٹل ریجن کے ساتھ ہنگامی انتظام میں خدمات انجام دینے کے بعد، میں نے یہ سیکھا ہے کہ سامان صرف اتنا ہی اچھا ہے جتنا اس کی صلاحیت ہے…"
-    },
-    {
-      "title": "Pezeshkian denies Iran role in Houthi attacks",
-      "desc": "Iranian President Masoud Pezeshkian said on Saturday that Iran is not involved in attacks by Yemen's Houthis against Saudi Arabia.Speaking to Al Jazeera, Pezeshkian said the opposing sides \"must resol...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/b107eca99b43bb4a",
-      "time": "2026-09-26T09:06:45",
+      "title": "China pushes back against US on Iran and Cuba in UN speech",
+      "desc": "China's Vice President Han Zheng urged the US to respect Cuba's sovereignty and lift its blockade. He emphasized the need for major countries to uphold international peace and security in his UN speech. Additionally, Han highlighted China's role as a reliable…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/china-pushes-back-against-us-on-iran-and-cuba-in-un-speech/articleshow/134506344.cms",
+      "time": "2026-09-26T14:26:50",
       "country": "Iran",
-      "title_ur": "پیزشکیان حوثی حملوں میں ایران کے کردار کی تردید کرتے ہیں۔",
-      "desc_ur": "ایرانی صدر مسعود پیزشکیان نے ہفتے کے روز کہا کہ ایران یمن کے حوثیوں کے سعودی عرب کے خلاف حملوں میں ملوث نہیں ہے۔ الجزیرہ سے بات کرتے ہوئے، پیزشکیان نے کہا کہ مخالف فریقوں کو \"حل کرنا چاہیے..."
+      "title_ur": "چین نے اقوام متحدہ کی تقریر میں ایران اور کیوبا کے معاملے پر امریکہ کو پیچھے دھکیل دیا۔",
+      "desc_ur": "چین کے نائب صدر ہان ژینگ نے امریکہ پر زور دیا کہ وہ کیوبا کی خودمختاری کا احترام کرے اور اس کی ناکہ بندی ختم کرے۔ انہوں نے اقوام متحدہ کی اپنی تقریر میں بڑے ممالک کو بین الاقوامی امن اور سلامتی کو برقرار رکھنے کی ضرورت پر زور دیا۔ مزید برآں، ہان نے ایک قابل اعتماد کے طور پر چین کے کردار پر روشنی ڈالی…"
     },
     {
-      "title": "Senegal draw in Vieira debut, Nigeria survive scare, but Cape Verde crash",
-      "desc": "Senegal draw with Mozambique, Nigeria edge past Madagascar, but Cape Verde beaten by Mali in AFCON qualifying openers.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/sports/2026/9/26/senegal-draw-in-vieira-debut-nigeria-survive-scare-but-cape-verde-crash",
-      "time": "2026-09-26T09:02:55",
-      "country": "International",
-      "title_ur": "ویرا ڈیبیو میں سینیگال ڈرا، نائیجیریا خوف سے بچ گیا، لیکن کیپ وردے حادثہ",
-      "desc_ur": "سینیگال نے موزمبیق کے ساتھ ڈرا، نائیجیریا نے مڈغاسکر کو پیچھے چھوڑ دیا، لیکن AFCON کوالیفائنگ اوپنرز میں کیپ وردے کو مالی کے ہاتھوں شکست۔"
+      "title": "Asian Games 2026 Day 7: India win seven medals as kabaddi teams deliver gold double in action-packed Saturday",
+      "desc": "At the Asian Games 2026, India marked a notable achievement by gathering seven medals on Saturday. The kabaddi squads were outstanding, with men and women conquering Iran to uphold their golds. Sawan Barwal made headlines, winning silver in the men’s marathon…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-day-7-india-win-seven-medals-as-kabaddi-teams-deliver-gold-double-in-action-packed-saturday/articleshow/134506152.cms",
+      "time": "2026-09-26T14:26:45",
+      "country": "Iran",
+      "title_ur": "ایشین گیمز 2026 کا ساتواں دن: ہندوستان نے سات تمغے جیتے کیونکہ کبڈی ٹیموں نے ہفتہ کو ایکشن سے بھرپور میں گولڈ ڈبل دیا",
+      "desc_ur": "ایشین گیمز 2026 میں، ہندوستان نے ہفتہ کو سات تمغے اکٹھے کرکے ایک قابل ذکر کامیابی کا نشان لگایا۔ کبڈی اسکواڈ شاندار تھے، مردوں اور عورتوں نے اپنے سونے کے تمغوں کو برقرار رکھنے کے لیے ایران کو فتح کیا۔ ساون بروال مردوں کی میراتھن میں چاندی کا تمغہ جیت کر سرخیوں میں آگئے…"
     },
     {
-      "title": "China, US to open AI ‘communication channel’ after summit, White House says",
-      "desc": "White House says the two countries agreed to open a 'bilateral communication channel' for AI incidents.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/9/26/china-us-to-open-ai-communication-channel-after-summit-white-house-says",
-      "time": "2026-09-26T09:02:10",
+      "title": "Trump rejects Iran’s seven-day ceasefire plan: Report",
+      "desc": "U.S. President Donald Trump has rejected Iran’s seven-day ceasefire proposal and told aides he expects to resume bombing Iran after November’s midterm elections, The Wall Street Journal reported, citing U.S. officials.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/trump-rejects-irans-seven-day-ceasefire-plan-report-227387",
+      "time": "2026-09-26T14:25:07",
+      "country": "Iran",
+      "title_ur": "ٹرمپ نے ایران کے سات روزہ جنگ بندی کے منصوبے کو مسترد کر دیا: رپورٹ",
+      "desc_ur": "امریکی صدر ڈونلڈ ٹرمپ نے ایران کی سات روزہ جنگ بندی کی تجویز کو مسترد کر دیا ہے اور ساتھیوں کو بتایا ہے کہ وہ نومبر کے وسط مدتی انتخابات کے بعد ایران پر بمباری دوبارہ شروع کرنے کی توقع رکھتے ہیں، وال سٹریٹ جرنل نے امریکی حکام کے حوالے سے رپورٹ کیا۔"
+    },
+    {
+      "title": "War criminals belong in court, not at UN: Erdoğan",
+      "desc": "President Recep Tayyip Erdoğan called on Sept. 26 for Israeli officials wanted by the International Criminal Court (ICC) to face trial, condemning the killing of civilians in Gaza and Lebanon.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/war-criminals-belong-in-court-not-at-un-erdogan-227386",
+      "time": "2026-09-26T14:21:04",
+      "country": "Israel",
+      "title_ur": "جنگی مجرموں کا تعلق عدالت میں ہے، اقوام متحدہ میں نہیں: ایردوان",
+      "desc_ur": "صدر رجب طیب ایردوان نے 26 ستمبر کو غزہ اور لبنان میں شہریوں کے قتل کی مذمت کرتے ہوئے بین الاقوامی فوجداری عدالت (ICC) کو مقدمے کا سامنا کرنے کے لیے مطلوب اسرائیلی حکام سے ملاقات کی۔"
+    },
+    {
+      "title": "China and the U.S. agree to set up a new AI safety channel and vow to keep working on pledge to cut tariffs on $30 billion worth of goods",
+      "desc": "The White House said China agreed to import at least 10 million metric tons of coal from the U.S. in 2027 and 2028.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/09/26/china-us-new-ai-safety-channel-pledge-tariffs-cuts-30-billion-goods/",
+      "time": "2026-09-26T14:13:22",
       "country": "China",
-      "title_ur": "وائٹ ہاؤس کا کہنا ہے کہ چین، امریکہ سمٹ کے بعد AI 'مواصلاتی چینل' کھولیں گے۔",
-      "desc_ur": "وائٹ ہاؤس کا کہنا ہے کہ دونوں ممالک نے اے آئی کے واقعات کے لیے 'دو طرفہ مواصلاتی چینل' کھولنے پر اتفاق کیا۔"
+      "title_ur": "چین اور امریکہ نے ایک نیا AI حفاظتی چینل قائم کرنے پر اتفاق کیا اور 30 ​​بلین ڈالر مالیت کی اشیا پر محصولات میں کمی کے عہد پر کام جاری رکھنے کا عزم کیا۔",
+      "desc_ur": "وائٹ ہاؤس نے کہا کہ چین نے 2027 اور 2028 میں امریکہ سے کم از کم 10 ملین میٹرک ٹن کوئلہ درآمد کرنے پر اتفاق کیا ہے۔"
     },
     {
-      "title": "America Last",
-      "desc": "The MAGA movement promised to put ordinary people first. A year in, they have fallen to the bottom of the Trump administration’s priority list.",
-      "source": "New York Magazine",
-      "url": "http://nymag.com/intelligencer/article/how-trump-put-america-last.html",
-      "time": "2026-09-26T09:00:28",
-      "country": "US",
-      "title_ur": "امریکہ آخری",
-      "desc_ur": "MAGA تحریک نے عام لوگوں کو پہلے رکھنے کا وعدہ کیا تھا۔ ایک سال میں، وہ ٹرمپ انتظامیہ کی ترجیحی فہرست میں سب سے نیچے آ گئے ہیں۔"
+      "title": "Xi ends Washington visit with trade truce extended to January",
+      "desc": "Chinese President Xi Jinping left Washington on Friday at the end of a state visit that extended the US-China trade truce but produced no major new agreements. Treasury Secretary Scott Bessent said the two countries had agreed to extend their trade truce to 1…",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/xi-washington-visit-trade-truce-ai-talks",
+      "time": "2026-09-26T14:10:38",
+      "country": "China",
+      "title_ur": "ژی نے تجارتی جنگ بندی کے ساتھ واشنگٹن کا دورہ جنوری تک ختم کیا۔",
+      "desc_ur": "چینی صدر شی جن پنگ جمعہ کو اپنے سرکاری دورے کے اختتام پر واشنگٹن سے روانہ ہوئے جس نے امریکہ اور چین کے درمیان تجارتی جنگ بندی میں توسیع کی لیکن کوئی بڑا نیا معاہدہ نہیں کیا۔ ٹریژری سکریٹری سکاٹ بیسنٹ نے کہا کہ دونوں ممالک نے اپنی تجارتی جنگ بندی کو 1 تک بڑھانے پر اتفاق کیا ہے۔"
     },
     {
-      "title": "The war between Donald Trump and the Fed",
-      "desc": "What happens when a fundamentally strong economy faces an irresponsible government?",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/business/economy/2026/09/26/the-war-between-donald-trump-and-the-fed/",
-      "time": "2026-09-26T09:00:00",
-      "country": "US",
-      "title_ur": "ڈونلڈ ٹرمپ اور فیڈ کے درمیان جنگ",
-      "desc_ur": "جب ایک بنیادی طور پر مضبوط معیشت کو غیر ذمہ دارانہ حکومت کا سامنا کرنا پڑتا ہے تو کیا ہوتا ہے؟"
+      "title": "Zelensky: I Made Big Ask of Trump During Xi Visit",
+      "desc": "Ukrainian President Volodymyr Zelensky said on Friday that he asked US President Trump to press China's leader to use Beijing's influence over Moscow in a diplomatic effort to get Russia to end its 4 1/2-year-long invasion of Ukraine. Zelensky told reporters …",
+      "source": "Newser",
+      "url": "https://www.newser.com/story/397113/zelensky-i-made-big-ask-of-trump-during-xi-visit.html",
+      "time": "2026-09-26T14:10:00",
+      "country": "Russia",
+      "title_ur": "زیلنسکی: میں نے الیون کے دورے کے دوران ٹرمپ سے بڑا سوال کیا۔",
+      "desc_ur": "یوکرین کے صدر ولادیمیر زیلنسکی نے جمعہ کے روز کہا کہ انہوں نے امریکی صدر ٹرمپ سے کہا کہ وہ چین کے رہنما پر دباؤ ڈالیں کہ وہ ماسکو پر بیجنگ کے اثر و رسوخ کو استعمال کرنے کے لیے ایک سفارتی کوشش میں روس کو یوکرین پر 4 1/2 سال سے جاری حملے کو ختم کرنے کے لیے مجبور کرے۔ زیلینسکی نے صحافیوں کو بتایا کہ…"
     },
     {
-      "title": "$30bn tariff cut, Iran and AI dialogue: Key points from Xi-Trump talks",
-      "desc": "Chinese President Xi Jinping wrapped up his three-day state visit to Washington on Friday, announcing that he will meet US President Donald Trump twice",
+      "title": "Asian Games 2026: President Murmu, Mandaviya hail India's historic kabaddi golden sweep",
+      "desc": "In a thrilling display of skill, President Droupadi Murmu praised the Indian men's kabaddi team following their victory against Iran, clinching gold at the Asian Games 2026 with a score of 40-34. This remarkable comeback was celebrated alongside the women's t…",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/us/30bn-tariff-cut-iran-and-ai-dialogue-key-points-from-xi-trump-talks/articleshow/134501032.cms",
-      "time": "2026-09-26T08:59:24",
+      "url": "https://economictimes.indiatimes.com/news/sports/other-sports/asian-games-2026-president-murmu-mandaviya-hail-indias-historic-kabaddi-golden-sweep/articleshow/134506020.cms",
+      "time": "2026-09-26T14:09:28",
       "country": "Iran",
-      "title_ur": "30 بلین ڈالر کے ٹیرف میں کٹوتی، ایران اور اے آئی ڈائیلاگ: شی-ٹرمپ مذاکرات کے اہم نکات",
-      "desc_ur": "چینی صدر شی جن پنگ نے جمعہ کو واشنگٹن کا اپنا تین روزہ سرکاری دورہ مکمل کرتے ہوئے اعلان کیا کہ وہ امریکی صدر ڈونلڈ ٹرمپ سے دو بار ملاقات کریں گے۔"
-    },
-    {
-      "title": "Exclusive - Rise and Fall 2: Swara Bhasker makes bold statement on body-shaming by wearing a saree with a ‘moti’ text: 'Motherhood changes...'",
-      "desc": "Swara Bhasker takes a bold stance in the reality show Rise and Fall by promoting body positivity for women. Dressed in a saree featuring the word 'Moti', she aims to subvert body-shaming practices. Swara passionately affirms that a woman's value transcends he…",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/exclusive-rise-and-fall-2-swara-bhasker-makes-bold-statement-on-body-shaming-by-wearing-a-saree-with-a-moti-text-motherhood-changes-/articleshow/134501022.cms",
-      "time": "2026-09-26T08:58:08",
-      "country": "US",
-      "title_ur": "خصوصی - عروج اور زوال 2: سوارا بھاسکر ایک 'موتی' متن کے ساتھ ساڑھی پہن کر جسم کو شرمندہ کرنے پر جرات مندانہ بیان دیتی ہے: 'زچگی بدل جاتی ہے...'",
-      "desc_ur": "سوارا بھاسکر ریئلٹی شو رائز اینڈ فال میں خواتین کے لیے جسمانی مثبتیت کو فروغ دے کر ایک جرات مندانہ موقف اختیار کرتی ہیں۔ ایک ساڑھی میں ملبوس جس میں لفظ 'موتی' لکھا ہوا ہے، اس کا مقصد جسم کو شرمندہ کرنے کے طریقوں کو ختم کرنا ہے۔ سوارا پرجوش انداز میں اس بات کی تصدیق کرتی ہے کہ عورت کی قدر اس سے بڑھ جاتی ہے…"
-    },
-    {
-      "title": "Iran: We must strengthen resilience",
-      "desc": "Iranian Deputy Defense Minister Reza Talaei-Nik noted on Saturday that the country must recognize its defense vulnerabilities and strengthen its resilience.\"Although the war brought costs and damage t...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/8c91d5fe8388c379",
-      "time": "2026-09-26T08:51:36",
-      "country": "Iran",
-      "title_ur": "ایران: ہمیں لچک کو مضبوط کرنا ہوگا۔",
-      "desc_ur": "ایران کے نائب وزیر دفاع رضا طلائی نیک نے ہفتے کے روز نوٹ کیا کہ ملک کو اپنی دفاعی کمزوریوں کو تسلیم کرنا چاہیے اور اپنی لچک کو مضبوط کرنا چاہیے۔"
+      "title_ur": "ایشین گیمز 2026: صدر مرمو، منڈاویہ نے ہندوستان کے تاریخی کبڈی گولڈن سویپ کو سراہا۔",
+      "desc_ur": "مہارت کے ایک سنسنی خیز مظاہرہ میں، صدر دروپدی مرمو نے ایران کے خلاف جیت کے بعد ہندوستانی مردوں کی کبڈی ٹیم کی تعریف کی، جس نے ایشیائی کھیلوں 2026 میں 40-34 کے اسکور کے ساتھ طلائی تمغہ جیتا۔ اس شاندار واپسی کا جشن خواتین کے ٹی…"
     }
   ],
   "pakistan": [
     {
-      "title": "Iran awaits US move after WSJ report says Trump rejects peace plan",
-      "desc": "Donald Trump is privately sceptical that Iran will meet his demands and has told his staff that he sees a renewed bombing campaign as likely after the November US midterm elections, the Wall Street Journal reported, citing unnamed US officials.",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/world/iran-us-trump-reject-peace-plan-wsj-report-6412236",
-      "time": "2026-09-26T08:24:48",
+      "title": "Pakistan: Suicide attack at police stop kills at least 11",
+      "desc": "The blast was claimed by the Pakistani Taliban, which has stepped up attacks on Pakistani security forces in recent years. At least 11 people were killed in a suicide bombing in northwestern Pakistan on Saturday, authorities said.\n\nThe blast happened just two…",
+      "source": "DW (English)",
+      "url": "https://www.dw.com/en/pakistan-suicide-attack-at-police-stop-kills-at-least-11/a-79443050",
+      "time": "2026-09-26T14:27:00",
       "country": "Pakistan",
-      "title_ur": "ڈبلیو ایس جے کی رپورٹ کے مطابق ٹرمپ کے امن منصوبے کو مسترد کرنے کے بعد ایران امریکی اقدام کا انتظار کر رہا ہے۔",
-      "desc_ur": "وال اسٹریٹ جرنل نے نامعلوم امریکی حکام کے حوالے سے رپورٹ کیا کہ ڈونلڈ ٹرمپ نجی طور پر اس بات پر شکوک رکھتے ہیں کہ ایران ان کے مطالبات کو پورا کرے گا اور اس نے اپنے عملے کو بتایا ہے کہ وہ نومبر میں ہونے والے امریکی وسط مدتی انتخابات کے بعد ایک نئی بمباری مہم کو ممکنہ طور پر دیکھ رہے ہیں۔"
+      "title_ur": "پاکستان: پولیس اسٹاپ پر خودکش حملے میں کم از کم 11 ہلاک",
+      "desc_ur": "اس دھماکے کی ذمہ داری پاکستانی طالبان نے قبول کی تھی، جس نے حالیہ برسوں میں پاکستانی سیکیورٹی فورسز پر حملوں میں اضافہ کیا ہے۔ حکام نے بتایا کہ ہفتے کے روز شمال مغربی پاکستان میں ایک خودکش بم دھماکے میں کم از کم 11 افراد ہلاک ہو گئے۔\n\nدھماکہ صرف دو…"
     },
     {
-      "title": "Husband allegedly kills wife, minor daughter following domestic dispute in Punjab",
-      "desc": "In a heartbreaking incident in Friends Colony, a domestic altercation resulted in the tragic deaths of a woman and her daughter. The suspect, identified as Jaswinder Masi, allegedly fled the scene following the horrific event on Friday night. Reports reveal t…",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/husband-allegedly-kills-wife-minor-daughter-following-domestic-dispute/articleshow/134500099.cms",
-      "time": "2026-09-26T07:55:42",
+      "title": "‘A Bustle in Your Hedgerow’: Two Parties Confront Ideological Insurgencies, Part One",
+      "desc": "Established parties in America and Germany face ideological insurgencies from opposite flanks. Their strategies of co-option and confrontation may determine whether they survive. If there’s a bustle in your hedgerow, don’t be alarmed now It’s just a spring cl…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-chat/4396953/posts",
+      "time": "2026-09-26T13:54:48",
       "country": "Pakistan",
-      "title_ur": "پنجاب میں گھریلو جھگڑے پر شوہر نے مبینہ طور پر بیوی اور کمسن بیٹی کو قتل کر دیا۔",
-      "desc_ur": "فرینڈز کالونی میں دلخراش واقعہ میں گھریلو جھگڑے کے نتیجے میں خاتون اور اس کی بیٹی جاں بحق ہو گئی۔ مشتبہ شخص جس کی شناخت جسوندر ماسی کے نام سے ہوئی ہے، جمعہ کی رات کو ہونے والے ہولناک واقعہ کے بعد مبینہ طور پر موقع سے فرار ہو گیا۔ رپورٹس سے پتہ چلتا ہے کہ ٹی…"
-    },
-    {
-      "title": "Iraq seeks US exemptions from Iran airline sanctions",
-      "desc": "The Iraqi government said on Saturday that it is holding direct talks with the United States to \"secure exemptions\" for certain Iraqi airports from measures targeting flights operated by Iranian airli...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/088cd1f39aafdeca",
-      "time": "2026-09-26T07:52:00",
-      "country": "Pakistan",
-      "title_ur": "عراق ایران کی فضائی کمپنی پر پابندیوں سے امریکی استثنیٰ مانگتا ہے۔",
-      "desc_ur": "عراقی حکومت نے ہفتے کے روز کہا کہ وہ امریکہ کے ساتھ براہ راست بات چیت کر رہی ہے تاکہ کچھ عراقی ہوائی اڈوں کے لیے ایرانی ہوائی اڈوں کی پروازوں کو نشانہ بنانے والے اقدامات سے \"محفوظ چھوٹ\" حاصل کی جا سکے۔"
+      "title_ur": "'آپ کے ہیجرو میں ہلچل': دو فریق نظریاتی شورشوں کا مقابلہ کرتے ہیں، پہلا حصہ",
+      "desc_ur": "امریکہ اور جرمنی میں قائم جماعتوں کو مخالف سمتوں سے نظریاتی شورش کا سامنا ہے۔ تعاون اور تصادم کی ان کی حکمت عملی اس بات کا تعین کر سکتی ہے کہ آیا وہ زندہ رہیں گے۔ اگر آپ کے ہیجرو میں ہلچل ہے تو گھبرائیں نہیں یہ صرف موسم بہار ہے…"
     }
   ],
   "business": {
@@ -198,33 +188,33 @@
         "day": "اتوار",
         "high": 32,
         "low": 24,
-        "condition": "Partly Cloudy",
-        "condition_ur": "جزوی ابر آلود",
-        "precip": 10
+        "condition": "Mainly Clear",
+        "condition_ur": "زیادہ تر صاف",
+        "precip": 6
       },
       {
         "date": "2026-09-28",
         "day": "پیر",
         "high": 29,
-        "low": 22,
-        "condition": "Thunderstorm",
-        "condition_ur": "گرج چمک",
-        "precip": 20
+        "low": 21,
+        "condition": "Light Showers",
+        "condition_ur": "ہلکی بارش",
+        "precip": 32
       },
       {
         "date": "2026-09-29",
         "day": "منگل",
-        "high": 32,
+        "high": 31,
         "low": 22,
         "condition": "Clear",
         "condition_ur": "صاف",
-        "precip": 2
+        "precip": 0
       },
       {
         "date": "2026-09-30",
         "day": "بدھ",
-        "high": 33,
-        "low": 22,
+        "high": 32,
+        "low": 23,
         "condition": "Clear",
         "condition_ur": "صاف",
         "precip": 0
@@ -251,10 +241,10 @@
         "date": "2026-10-03",
         "day": "ہفتہ",
         "high": 34,
-        "low": 24,
+        "low": 23,
         "condition": "Clear",
         "condition_ur": "صاف",
-        "precip": 2
+        "precip": 0
       }
     ]
   },
