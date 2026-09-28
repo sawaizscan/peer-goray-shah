@@ -1,197 +1,167 @@
 {
-  "generated": "2026-09-28T12:37:48Z",
+  "generated": "2026-09-28T19:56:57Z",
   "world": [
     {
-      "title": "Ten climbers missing after avalanche hits Himalayan base camp",
-      "desc": "The Nepali team was preparing to take overseas climbers up the Himlung Himal peak.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o",
-      "time": "2026-09-27T12:36:57",
-      "country": "International",
-      "title_ur": "ہمالیائی بیس کیمپ پر برفانی تودہ گرنے سے دس کوہ پیما لاپتہ ہیں۔",
-      "desc_ur": "نیپالی ٹیم غیر ملکی کوہ پیماؤں کو ہملونگ ہمل چوٹی پر لے جانے کی تیاری کر رہی تھی۔"
+      "title": "Urgent warning issued for Americans in the UK after attempted 'terrorist attack' as citizens are told to 'exercise caution'",
+      "desc": "The US government has issued a warning for Americans to 'exercise caution' in the UK after an attempted 'terrorist act' near an air force base.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16164803/warning-americans-UK-terrorist-attack-caution.html",
+      "time": "2026-09-27T19:54:47",
+      "country": "UK",
+      "title_ur": "Urgent warning issued for Americans in the UK after attempted 'terrorist attack' as citizens are told to 'exercise caution'",
+      "desc_ur": "The US government has issued a warning for Americans to 'exercise caution' in the UK after an attempted 'terrorist act' near an air force base."
     },
     {
-      "title": "Nikkei Faces Dividend Test After Five-Day Rally",
-      "desc": "Tokyo stocks head into September 28 with the Nikkei 225 sitting at 66,364 after a five-session winning streak, as investors weigh strong artificial intelligence and semiconductor momentum against dividend-related trading, a weak yen, high bond yields and ling…",
-      "source": "Newsonjapan.com",
-      "url": "https://newsonjapan.com/article/150872.php",
-      "time": "2026-09-27T12:36:19",
-      "country": "International",
-      "title_ur": "نکی کو پانچ روزہ ریلی کے بعد ڈیویڈنڈ ٹیسٹ کا سامنا ہے۔",
-      "desc_ur": "ٹوکیو اسٹاکس 28 ستمبر کو روانہ ہو رہے ہیں Nikkei 225 پانچ سیشن جیتنے کے بعد 66,364 پر بیٹھے ہیں، کیونکہ سرمایہ کار منافع سے متعلقہ ٹریڈنگ، کمزور ین، اعلی بانڈ کی پیداوار اور لنگ کے خلاف مضبوط مصنوعی ذہانت اور سیمی کنڈکٹر مومینٹم کا وزن رکھتے ہیں۔"
+      "title": "Blanche says reporters ‘one-sided news’ is a national security issue worthy of barring press | CNN Politics",
+      "desc": "Attorney General Todd Blanche said on Sunday that media outlets reporting “one-sided” news is a national security issue that merits a White House ban.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/09/27/politics/todd-blanche-white-house-press-ban",
+      "time": "2026-09-27T19:54:45",
+      "country": "US",
+      "title_ur": "Blanche says reporters ‘one-sided news’ is a national security issue worthy of barring press | CNN Politics",
+      "desc_ur": "Attorney General Todd Blanche said on Sunday that media outlets reporting “one-sided” news is a national security issue that merits a White House ban."
     },
     {
-      "title": "Saudi strike on Yemen’s Taiz kills seven",
-      "desc": "A Saudi airstrike on a central marketplace in Taiz, southwest Yemen, has killed seven people and wounded 40 more, according to Houthi media reports.\n\nRead More: https://punchng.com/saudi-strike-on-yemens-taiz-kills-seven/",
+      "title": "20th Asian Games in Japan: Indian women’s kabaddi team coach Neeta Dadwe achieves unique hat-trick",
+      "desc": "Indian women’s kabaddi coach Neeta Dadwe seals a rare hat-trick with Asian Games gold in Japan, as India beats Iran 37-34 and defends the title.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/jaipur/20th-asian-games-in-japan-indian-womens-kabaddi-team-coach-neeta-dadwe-achieves-unique-hat-trick/articleshow/134525969.cms",
+      "time": "2026-09-27T19:52:09",
+      "country": "Iran",
+      "title_ur": "20th Asian Games in Japan: Indian women’s kabaddi team coach Neeta Dadwe achieves unique hat-trick",
+      "desc_ur": "Indian women’s kabaddi coach Neeta Dadwe seals a rare hat-trick with Asian Games gold in Japan, as India beats Iran 37-34 and defends the title."
+    },
+    {
+      "title": "Israel to revoke diplomatic status of Dutch officials in West Bank",
+      "desc": "Israel is revoking the diplomatic accreditation of Dutch officials in the West Bank after the Netherlands began enforcing sanctions on settlement goods.\n\nRead More: https://punchng.com/israel-to-revoke-diplomatic-status-of-dutch-officials-in-west-bank/",
       "source": "The Punch",
-      "url": "https://punchng.com/saudi-strike-on-yemens-taiz-kills-seven/",
-      "time": "2026-09-27T12:35:44",
-      "country": "Saudi Arabia",
-      "title_ur": "یمن کے شہر تعز پر سعودی حملے میں سات افراد ہلاک",
-      "desc_ur": "حوثی میڈیا رپورٹس کے مطابق، جنوب مغربی یمن کے شہر تعز میں ایک مرکزی بازار پر سعودی فضائی حملے میں سات افراد ہلاک اور 40 زخمی ہو گئے۔\n\nمزید پڑھیں: https://punchng.com/saudi-strike-on-yemens-taiz-kills-seven/"
+      "url": "https://punchng.com/israel-to-revoke-diplomatic-status-of-dutch-officials-in-west-bank/",
+      "time": "2026-09-27T19:50:41",
+      "country": "Israel",
+      "title_ur": "Israel to revoke diplomatic status of Dutch officials in West Bank",
+      "desc_ur": "Israel is revoking the diplomatic accreditation of Dutch officials in the West Bank after the Netherlands began enforcing sanctions on settlement goods.\n\nRead More: https://punchng.com/israel-to-revoke-diplomatic-status-of-dutch-officials-in-west-bank/"
     },
     {
-      "title": "Explosives scare at US airbase in Britain amid Iranian threats",
-      "desc": "Several arrested near RAF Fairford as bomb disposal experts examine vehicles and residents are evacuated, following Iranian threats against US bomber base.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/433702",
-      "time": "2026-09-27T12:32:00",
-      "country": "Iran",
-      "title_ur": "ایرانی دھمکیوں کے درمیان برطانیہ میں امریکی ایئربیس پر دھماکہ خیز مواد کا خوف",
-      "desc_ur": "بم ڈسپوزل ماہرین گاڑیوں کا معائنہ کرتے ہوئے RAF فیئر فورڈ کے قریب سے متعدد کو گرفتار کر لیا گیا اور امریکی بمبار اڈے کے خلاف ایرانی دھمکیوں کے بعد رہائشیوں کو نکالا گیا۔"
+      "title": "Ireland, Israel players skip handshakes before Nations League game",
+      "desc": "Republic of Ireland and Israel players did not exchange handshakes before their UEFA Nations League match in Hungary amid controversy over the Israel-Gaza\n\nRead More: https://punchng.com/ireland-israel-players-skip-handshakes-before-nations-league-game/",
+      "source": "The Punch",
+      "url": "https://punchng.com/ireland-israel-players-skip-handshakes-before-nations-league-game/",
+      "time": "2026-09-27T19:50:41",
+      "country": "Israel",
+      "title_ur": "Ireland, Israel players skip handshakes before Nations League game",
+      "desc_ur": "Republic of Ireland and Israel players did not exchange handshakes before their UEFA Nations League match in Hungary amid controversy over the Israel-Gaza\n\nRead More: https://punchng.com/ireland-israel-players-skip-handshakes-before-nations-league-game/"
     },
     {
-      "title": "Fmr. CIA Director on Iran war: Trump 'got himself into this mess, now he can't figure a way out'",
-      "desc": "Not only has President Trump rejected Iran's newest ceasefire proposal eight months into the war, he has also suggested ...",
+      "title": "AI could be used to kill 1 billion people, Bill Gates warns — as he calls for restrictions",
+      "desc": "Tech billionaire Bill Gates warned that artificial intelligence had the potential to kill a billion people in the wrong hands — as he joined the call to put safety restrictions on the technology. The Microsoft co-founder called for greater government oversigh…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-chat/4397073/posts",
+      "time": "2026-09-27T19:48:24",
+      "country": "US",
+      "title_ur": "AI could be used to kill 1 billion people, Bill Gates warns — as he calls for restrictions",
+      "desc_ur": "Tech billionaire Bill Gates warned that artificial intelligence had the potential to kill a billion people in the wrong hands — as he joined the call to put safety restrictions on the technology. The Microsoft co-founder called for greater government oversigh…"
+    },
+    {
+      "title": "Iran 'Fully Prepared' To Resume War, We Don't Trust Trump: Iran FM",
+      "desc": "Iran 'Fully Prepared' To Resume War, We Don't Trust Trump: Iran FM\n \nThe two big weekend Iran war developments are 1) President Trump has rejected Tehran's seven day ceasefire roadmap proposal, and reportedly plans to resume bombing Iran - likely after the No…",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/1a7e0bcdc68c7de2",
-      "time": "2026-09-27T12:22:18",
+      "url": "https://biztoc.com/x/a235d20820f719c5",
+      "time": "2026-09-27T19:46:46",
       "country": "Iran",
-      "title_ur": "ایف ایم آر ایران جنگ کے بارے میں سی آئی اے کے ڈائریکٹر: ٹرمپ 'خود ہی اس گڑبڑ میں پھنس گئے، اب وہ کوئی راستہ نہیں نکال سکتے'",
-      "desc_ur": "صدر ٹرمپ نے نہ صرف جنگ کے آٹھ ماہ بعد ایران کی تازہ ترین جنگ بندی کی تجویز کو مسترد کر دیا ہے بلکہ انہوں نے یہ تجویز بھی دی ہے کہ..."
+      "title_ur": "Iran 'Fully Prepared' To Resume War, We Don't Trust Trump: Iran FM",
+      "desc_ur": "Iran 'Fully Prepared' To Resume War, We Don't Trust Trump: Iran FM\n \nThe two big weekend Iran war developments are 1) President Trump has rejected Tehran's seven day ceasefire roadmap proposal, and reportedly plans to resume bombing Iran - likely after the No…"
     },
     {
-      "title": "Terror suspects stripped down after ‘planning van bombings’ at UK base used by US Air Force",
-      "desc": "British cops on Sunday arrested five suspected terrorists accused of plotting a van bombing attack at a UK military base used by the US Air Force for its strikes on Iran. Dramatic pictures show the suspects being held at gunpoint while stripped to the waist, …",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/09/27/world-news/raf-fairford-terror-suspects-stripped-down-after-uk-cops-foil-van-bomb-plot/",
-      "time": "2026-09-27T12:16:43",
-      "country": "Iran",
-      "title_ur": "امریکی فضائیہ کے زیر استعمال برطانیہ کے اڈے پر ’وین بم دھماکوں کی منصوبہ بندی‘ کے بعد دہشت گرد مشتبہ افراد کو چھین لیا گیا",
-      "desc_ur": "برطانوی پولیس نے اتوار کے روز پانچ مشتبہ دہشت گردوں کو گرفتار کیا ہے جن پر برطانیہ کے ایک فوجی اڈے پر وین بم حملے کی منصوبہ بندی کرنے کا الزام ہے جسے امریکی فضائیہ ایران پر حملوں کے لیے استعمال کرتی ہے۔ ڈرامائی تصاویر میں دکھایا گیا ہے کہ مشتبہ افراد کو بندوق کی نوک پر کمر سے اتار کر رکھا گیا ہے،…"
-    },
-    {
-      "title": "The Eighteenth Sunday after Pentecost",
-      "desc": "Give peace, o Lord, to those who wait for Thee, that Thy prophets may be found true: hear the prayers of Thy servant, and of Thy people Israel. Ps. 121 I rejoiced in what was said to me, ‘We will go unto the house of the Lord.’ Glory be... Give peace, o Lord.…",
-      "source": "Newliturgicalmovement.org",
-      "url": "https://www.newliturgicalmovement.org/2026/09/the-eighteenth-sunday-after-pentecost.html",
-      "time": "2026-09-27T12:15:00",
+      "title": "Pubs in Ireland refuse to screen Israel match in protest over Gaza genocide",
+      "desc": "Ireland has been thrust into the global spotlight over two controversial Nations League football games against Israel.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/sports/2026/9/27/pubs-in-ireland-refuse-to-screen-israel-match-in-protest-over-gaza-genocide",
+      "time": "2026-09-27T19:35:30",
       "country": "Israel",
-      "title_ur": "پینتیکوست کے بعد اٹھارہویں اتوار",
-      "desc_ur": "اے خُداوند، اُن کو سلامتی دے جو تیرا انتظار کرتے ہیں، تاکہ تیرے نبی سچے پائیں: اپنے بندے اور اپنی قوم اسرائیل کی دعائیں سن۔ پی ایس 121 میں اس بات سے خوش ہوا جو مجھ سے کہا گیا تھا، 'ہم رب کے گھر جائیں گے۔' پاک ہے... اے رب، سلامتی دے..."
+      "title_ur": "Pubs in Ireland refuse to screen Israel match in protest over Gaza genocide",
+      "desc_ur": "Ireland has been thrust into the global spotlight over two controversial Nations League football games against Israel."
     },
     {
-      "title": "Video: Mass Protest Forms Outside the New York Film Festival Premiere of ‘Anti-Israel’ Doc ‘NAZA’",
-      "desc": "Hundreds of Israelis and Jewish Americans gathered in front of the Lincoln Center in NYC on Saturday to protest against the premiere of the controversial documentary NAZA at the New York Film Festival.\nThe post Video: Mass Protest Forms Outside the New York F…",
-      "source": "Breitbart News",
-      "url": "https://www.breitbart.com/entertainment/2026/09/27/video-mass-protest-forms-outside-the-new-york-film-festival-premiere-of-anti-israel-doc-naza/",
-      "time": "2026-09-27T12:11:14",
-      "country": "Israel",
-      "title_ur": "ویڈیو: نیو یارک فلم فیسٹیول کے 'اینٹی اسرائیل' ڈاکٹر 'نازا' کے پریمیئر کے باہر بڑے پیمانے پر احتجاج کی شکلیں",
-      "desc_ur": "نیو یارک فلم فیسٹیول میں متنازعہ دستاویزی فلم NAZA کے پریمیئر کے خلاف احتجاج کرنے کے لیے ہفتے کے روز سینکڑوں اسرائیلی اور یہودی امریکی NYC میں لنکن سینٹر کے سامنے جمع ہوئے۔\nپوسٹ ویڈیو: نیو یارک ایف کے باہر بڑے پیمانے پر احتجاجی فارم…"
+      "title": "More questions than answers after major incident near RAF Fairford",
+      "desc": "The vital US launchpad in England has long been a possible target, writes diplomatic correspondent James Landale.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gd1r8dk1ko",
+      "time": "2026-09-27T19:32:05",
+      "country": "US",
+      "title_ur": "More questions than answers after major incident near RAF Fairford",
+      "desc_ur": "The vital US launchpad in England has long been a possible target, writes diplomatic correspondent James Landale."
     },
     {
-      "title": "Amid changing dynamics in the Middle East, Turkey seeks to emerge as a leader",
-      "desc": "Turkey's attempts at expanding its Middle East footprint has put it in a position of power, coming head-to-head with Israel.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/09/27/nx-s1-5949210/amid-changing-dynamics-in-the-middle-east-turkey-seeks-to-emerge-as-a-leader",
-      "time": "2026-09-27T12:06:19",
-      "country": "Israel",
-      "title_ur": "مشرق وسطیٰ میں بدلتی ہوئی حرکیات کے درمیان، ترکی ایک رہنما کے طور پر ابھرنے کی کوشش کر رہا ہے۔",
-      "desc_ur": "ترکی کی مشرق وسطیٰ میں اپنے قدموں کے نشان کو بڑھانے کی کوششوں نے اسے طاقت کی پوزیشن میں ڈال دیا ہے، جو اسرائیل کے ساتھ آمنے سامنے ہے۔"
-    },
-    {
-      "title": "Gaza death toll rises to 74,018",
-      "desc": "The number of Palestinians killed in Gaza since the restart of Hamas' armed conflict with Israel in October 2023 has risen to at least 74,018, with 175,079 people wounded, the enclave's Health Ministr...",
+      "title": "Israel to revoke Dutch diplomats’ status over trade ban",
+      "desc": "Israeli Foreign Minister Gideon Saar announced on Sunday that diplomatic credentials of seven Dutch diplomats operating in Ramallah are to be revoked in seven days over Amsterdam's decision to ban the...",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/8e016b97e48e9dbe",
-      "time": "2026-09-27T12:02:46",
+      "url": "https://biztoc.com/x/44c4edd2cb464d94",
+      "time": "2026-09-27T19:32:02",
       "country": "Israel",
-      "title_ur": "غزہ میں ہلاکتوں کی تعداد 74,018 ہوگئی",
-      "desc_ur": "اکتوبر 2023 میں اسرائیل کے ساتھ حماس کے مسلح تصادم کے دوبارہ شروع ہونے کے بعد سے غزہ میں ہلاک ہونے والے فلسطینیوں کی تعداد کم از کم 74,018 ہو گئی ہے، جب کہ 175,079 افراد زخمی ہوئے ہیں، انکلیو کے وزیر صحت..."
+      "title_ur": "Israel to revoke Dutch diplomats’ status over trade ban",
+      "desc_ur": "Israeli Foreign Minister Gideon Saar announced on Sunday that diplomatic credentials of seven Dutch diplomats operating in Ramallah are to be revoked in seven days over Amsterdam's decision to ban the..."
     },
     {
-      "title": "Chabad to Netanyahu before UN speech: ‘Bring light into the darkness’",
-      "desc": "Chabad-Lubavitch delegation presented Prime Minister Benjamin Netanyahu with the Four Species and the Lubavitcher Rebbe’s teachings, offering encouragement ahead of his address to the UN General Assembly.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/433707",
-      "time": "2026-09-27T12:02:00",
-      "country": "Israel",
-      "title_ur": "اقوام متحدہ کی تقریر سے پہلے نیتن یاہو کو چابڈ: 'اندھیروں میں روشنی لاؤ'",
-      "desc_ur": "چابڈ-لوباوچ کے وفد نے وزیر اعظم بنجمن نیتن یاہو کو فور اسپیسز اور لوباویچر ریبی کی تعلیمات پیش کیں، جو اقوام متحدہ کی جنرل اسمبلی سے خطاب سے پہلے حوصلہ افزائی کی پیشکش کرتے تھے۔"
+      "title": "USAID watchdog's debarments expose two schemes diverting American foreign aid",
+      "desc": "A Colombian nonprofit that provided aid services to Venezuelan migrants, LGBTQ+ individuals, those with HIV, and others, has been debarred after an investigation revealed the organization’s former president and affiliates allegedly sexually exploited those it…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4397071/posts",
+      "time": "2026-09-27T19:29:00",
+      "country": "US",
+      "title_ur": "USAID watchdog's debarments expose two schemes diverting American foreign aid",
+      "desc_ur": "A Colombian nonprofit that provided aid services to Venezuelan migrants, LGBTQ+ individuals, those with HIV, and others, has been debarred after an investigation revealed the organization’s former president and affiliates allegedly sexually exploited those it…"
     },
     {
-      "title": "Kean and Bennett face off in high-stakes NJ midterm debate Sunday night",
-      "desc": "Democrat Rebecca Bennett and Republican Tom Kean Jr. will square off on the debate stage on Sunday at 7 p.m.\n \n\nIt’s the first — and likely, only — debate between the two swing-district candidates. Here’s what you need to know. [ more › ]",
-      "source": "Gothamist",
-      "url": "https://gothamist.com/news/kean-and-bennett-face-off-in-high-stakes-nj-midterm-debate-sunday-night",
-      "time": "2026-09-27T12:00:56",
+      "title": "Ed Sheeran is branded a 'red-headed puppet' who is 'told what to say' as Amelia Dimoldenberg takes aim at the singer over Macklemore row during her Saturday Night Live UK monologue",
+      "desc": "Ed Sheeran has fallen victim to further scrutiny amid his handling of the Macklemore row as Amelia Dimoldenberg took aim at the singer and called him a 'red-headed puppet' during Saturday Night Live.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/tvshowbiz/article-16164755/Ed-Sheeran-red-headed-puppet-Amelia-Dimoldenberg-Macklemore-row-Saturday-Night-Live-UK-monologue.html",
+      "time": "2026-09-27T19:25:19",
+      "country": "UK",
+      "title_ur": "Ed Sheeran is branded a 'red-headed puppet' who is 'told what to say' as Amelia Dimoldenberg takes aim at the singer over Macklemore row during her Saturday Night Live UK monologue",
+      "desc_ur": "Ed Sheeran has fallen victim to further scrutiny amid his handling of the Macklemore row as Amelia Dimoldenberg took aim at the singer and called him a 'red-headed puppet' during Saturday Night Live."
+    },
+    {
+      "title": "NATO article 5 is not what you think it is",
+      "desc": "Would the US go to war for a NATO ally? The treaty’s wording exposes a gap between expectations and the limits of American protection. Read Full Article at RT.com",
+      "source": "RT",
+      "url": "https://www.rt.com/news/646324-nato-article-5-myths/",
+      "time": "2026-09-27T19:24:38",
+      "country": "US",
+      "title_ur": "NATO article 5 is not what you think it is",
+      "desc_ur": "Would the US go to war for a NATO ally? The treaty’s wording exposes a gap between expectations and the limits of American protection. Read Full Article at RT.com"
+    },
+    {
+      "title": "Israel Election Poll: Eisenkot-Netanyahu tie as Smotrich hits new high",
+      "desc": "Eisenkot's Yashar party loses one seat compared with the previous Kan poll and is projected to win 23 seats, while Netanyahu's Likud gains one seat and stands at 21. Each bloc earns 52 seats, similar to Kan's last poll",
+      "source": "Haaretz",
+      "url": "https://www.haaretz.com/israel-news/israel-politics/2026-09-27/ty-article/israel-election-poll-eisenkot-netanyahu-tie-as-smotrich-hits-new-high/000001a0-e43c-db4b-a7a5-f67e17050000",
+      "time": "2026-09-27T19:21:22",
+      "country": "Israel",
+      "title_ur": "Israel Election Poll: Eisenkot-Netanyahu tie as Smotrich hits new high",
+      "desc_ur": "Eisenkot's Yashar party loses one seat compared with the previous Kan poll and is projected to win 23 seats, while Netanyahu's Likud gains one seat and stands at 21. Each bloc earns 52 seats, similar to Kan's last poll"
+    },
+    {
+      "title": "Floating power plants could offer coastal communities a reliable energy source. Here’s how",
+      "desc": "These mobile power systems could be a lifeline for remote, island and disaster-prone places.",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/floating-power-plants-could-offer-coastal-communities-a-reliable-energy-source-heres-how-289134",
+      "time": "2026-09-27T19:21:06",
       "country": "International",
-      "title_ur": "کین اور بینیٹ اتوار کی رات ہائی اسٹیک NJ وسط مدتی بحث میں آمنے سامنے ہیں۔",
-      "desc_ur": "ڈیموکریٹ ریبیکا بینیٹ اور ریپبلکن ٹام کین جونیئر اتوار کو شام 7 بجے مباحثے کے اسٹیج پر مقابلہ کریں گے۔\n \n\nیہ پہلا - اور ممکنہ طور پر، صرف - دو سوئنگ ڈسٹرکٹ امیدواروں کے درمیان بحث ہے۔ یہاں آپ کو جاننے کی ضرورت ہے۔ [مزید ›]"
-    },
-    {
-      "title": "Popular food could boost heart health, but the amount you need to eat may surprise you",
-      "desc": "A major meta-analysis of 87 trials reveals that 60 to 100 grams of whole grains daily may lower cholesterol, blood pressure and blood sugar levels.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/food-drink/popular-food-could-boost-heart-health-amount-you-need-eat-may-surprise-you",
-      "time": "2026-09-27T12:00:22",
-      "country": "International",
-      "title_ur": "مشہور کھانا دل کی صحت کو بڑھا سکتا ہے، لیکن آپ کو جس مقدار میں کھانے کی ضرورت ہے وہ آپ کو حیران کر سکتی ہے۔",
-      "desc_ur": "87 ٹرائلز کے ایک بڑے میٹا تجزیہ سے پتہ چلتا ہے کہ روزانہ 60 سے 100 گرام سارا اناج کولیسٹرول، بلڈ پریشر اور بلڈ شوگر کی سطح کو کم کر سکتا ہے۔"
-    },
-    {
-      "title": "Terror cops probe plot to bomb UK base used by US forces to strike Iran... | Devices, chemicals found in van...",
-      "desc": "",
-      "source": "The-sun.com",
-      "url": "https://www.the-sun.com/news/17063221/homes-evacuated-raf-bomb-squad-probe-explosives-arrests/",
-      "time": "2026-09-27T12:00:18",
-      "country": "Iran",
-      "title_ur": "دہشت گرد پولیس ایران پر حملے کے لیے امریکی افواج کے زیر استعمال برطانوی اڈے پر بمباری کی منصوبہ بندی کی تحقیقات کر رہی ہے۔ وین میں آلات، کیمیکل ملا...",
-      "desc_ur": ""
-    },
-    {
-      "title": "Ireland to play Israel in Budapest",
-      "desc": "Paul was joined from Hungary by RTÉ Sports Correspondent Tony O'Donoghue.See omnystudio.com/listener for privacy information.",
-      "source": "Omny.fm",
-      "url": "https://omny.fm/shows/this-week/ireland-to-play-israel-in-budapest",
-      "time": "2026-09-27T12:00:07",
-      "country": "Israel",
-      "title_ur": "بوڈاپیسٹ میں آئرلینڈ اسرائیل سے کھیلے گا۔",
-      "desc_ur": "پال کو ہنگری سے RTÉ کھیلوں کے نمائندے ٹونی او ڈونوگھو نے جوائن کیا تھا۔ رازداری کی معلومات کے لیے omnystudio.com/listener دیکھیں۔"
+      "title_ur": "Floating power plants could offer coastal communities a reliable energy source. Here’s how",
+      "desc_ur": "These mobile power systems could be a lifeline for remote, island and disaster-prone places."
     }
   ],
   "pakistan": [
     {
-      "title": "At NFL games this season, drone defense tech aims to bring down disruptions",
-      "desc": "The NFL told CNBC it recorded 10,852 drone violations over stadiums between 2021 and 2025. The Jaguars became the first team to sign a drone defense firm.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/27/nfl-drone-defense-tech-game-disruptions.html",
-      "time": "2026-09-27T12:00:01",
+      "title": "Deepfakes are distorting this year’s Victorian election. We found out who’s most susceptible to them",
+      "desc": "Voters need to become better at questioning what they see, without automatically disbelieving it.",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/deepfakes-are-distorting-this-years-victorian-election-we-found-out-whos-most-susceptible-to-them-291443",
+      "time": "2026-09-27T19:19:17",
       "country": "Pakistan",
-      "title_ur": "اس سیزن میں NFL گیمز میں، ڈرون ڈیفنس ٹیک کا مقصد رکاوٹوں کو کم کرنا ہے۔",
-      "desc_ur": "NFL نے CNBC کو بتایا کہ اس نے 2021 اور 2025 کے درمیان اسٹیڈیموں پر 10,852 ڈرون خلاف ورزیاں ریکارڈ کیں۔ جیگوارز ڈرون دفاعی فرم پر دستخط کرنے والی پہلی ٹیم بن گئی۔"
-    },
-    {
-      "title": "Enemy suffered heavy blows in war against Iran: Army chief",
-      "desc": "Chief Commander of Iran's Army Major General Abdolrahim Mousavi says the war has entered a sensitive and decisive phase, stressing that despite Iran's victory and the heavy blows inflicted on the aggressor, the country must remain prepared for new aggression.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260927-irna08.htm",
-      "time": "2026-09-27T12:00:00",
-      "country": "Pakistan",
-      "title_ur": "ایران کے خلاف جنگ میں دشمن کو بھاری نقصان اٹھانا پڑا: آرمی چیف",
-      "desc_ur": "ایران کی فوج کے چیف کمانڈر میجر جنرل عبدالرحیم موسوی نے کہا ہے کہ جنگ ایک حساس اور فیصلہ کن مرحلے میں داخل ہو چکی ہے، انہوں نے اس بات پر زور دیا کہ ایران کی فتح اور جارح کو شدید ضربیں لگنے کے باوجود، ملک کو نئی جارحیت کے لیے تیار رہنا چاہیے۔"
-    },
-    {
-      "title": "Regional insecurity will spare no one; expulsion of US, Israeli forces inevitable: Iran's Army chief",
-      "desc": "Commander-in-Chief of the Iranian Army Major General Amir Hatami has issued a warning to regional and global actors, declaring that any insecurity in West Asia will encompass the entire region.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260927-presstv10.htm",
-      "time": "2026-09-27T12:00:00",
-      "country": "Pakistan",
-      "title_ur": "علاقائی عدم تحفظ کسی کو نہیں بخشے گا۔ امریکی اور اسرائیلی افواج کی بے دخلی ناگزیر ہے: ایرانی آرمی چیف",
-      "desc_ur": "ایرانی فوج کے کمانڈر انچیف میجر جنرل امیر حاتمی نے علاقائی اور عالمی اداکاروں کو وارننگ جاری کرتے ہوئے اعلان کیا ہے کہ مغربی ایشیا میں کسی بھی قسم کی عدم تحفظ پورے خطے کو اپنی لپیٹ میں لے لے گی۔"
-    },
-    {
-      "title": "Five Men Arrested Near UK Air Base Used By US Forces In Iran War",
-      "desc": "British police have arrested several men on suspicion of explosives offenses near an air base used by US forces, prompting the evacuation of residents from nearby homes.",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/security/library/news/2026/09/sec-260927-rferl01.htm",
-      "time": "2026-09-27T12:00:00",
-      "country": "Pakistan",
-      "title_ur": "ایران جنگ میں امریکی افواج کے زیر استعمال یوکے ایئر بیس کے قریب سے پانچ افراد گرفتار",
-      "desc_ur": "برطانوی پولیس نے امریکی افواج کے زیر استعمال فضائی اڈے کے قریب دھماکہ خیز مواد کے جرائم کے شبے میں متعدد افراد کو گرفتار کیا ہے، جس سے قریبی گھروں سے مکینوں کا انخلا شروع ہو گیا ہے۔"
+      "title_ur": "Deepfakes are distorting this year’s Victorian election. We found out who’s most susceptible to them",
+      "desc_ur": "Voters need to become better at questioning what they see, without automatically disbelieving it."
     }
   ],
   "business": {
@@ -204,19 +174,10 @@
     "city_ur": "لاہور",
     "forecast": [
       {
-        "date": "2026-09-28",
-        "day": "پیر",
-        "high": 30,
-        "low": 22,
-        "condition": "Light Drizzle",
-        "condition_ur": "ہلکی بوندا باندی",
-        "precip": 12
-      },
-      {
         "date": "2026-09-29",
         "day": "منگل",
-        "high": 31,
-        "low": 23,
+        "high": 30,
+        "low": 22,
         "condition": "Clear",
         "condition_ur": "صاف",
         "precip": 0
@@ -234,7 +195,7 @@
         "date": "2026-10-01",
         "day": "جمعرات",
         "high": 34,
-        "low": 23,
+        "low": 22,
         "condition": "Clear",
         "condition_ur": "صاف",
         "precip": 0
@@ -242,8 +203,8 @@
       {
         "date": "2026-10-02",
         "day": "جمعہ",
-        "high": 35,
-        "low": 24,
+        "high": 34,
+        "low": 23,
         "condition": "Clear",
         "condition_ur": "صاف",
         "precip": 0
@@ -251,7 +212,7 @@
       {
         "date": "2026-10-03",
         "day": "ہفتہ",
-        "high": 35,
+        "high": 34,
         "low": 24,
         "condition": "Clear",
         "condition_ur": "صاف",
@@ -265,12 +226,21 @@
         "condition": "Clear",
         "condition_ur": "صاف",
         "precip": 0
+      },
+      {
+        "date": "2026-10-05",
+        "day": "پیر",
+        "high": 33,
+        "low": 24,
+        "condition": "Clear",
+        "condition_ur": "صاف",
+        "precip": 0
       }
     ]
   },
   "date": {
-    "gregorian": "Monday, 28 September 2026",
-    "hijri": "17 Rabīʿ al-thānī 1448",
-    "hijri_ur": "17 رَبيع الثاني 1448"
+    "gregorian": "Tuesday, 29 September 2026",
+    "hijri": "18 Rabīʿ al-thānī 1448",
+    "hijri_ur": "18 رَبيع الثاني 1448"
   }
 }
