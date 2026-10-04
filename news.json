@@ -1,183 +1,253 @@
 {
-  "generated": "2026-10-03T23:15:22Z",
+  "generated": "2026-10-04T02:48:50Z",
   "world": [
     {
-      "title": "Venice Prize-Winner ‘NAZA’ Brings Explosive Gaza Exposé to U.S. Theaters – Specialty Preview",
-      "desc": "NAZA, written and directed by Yuval Abraham and Rachel Szor, has started its U.S. run, playing at the IFC Center in New York since Wednesday. That followed fast on a New York Film Festival screening last weekend and a Special Jury Prize at its Venice world pr…",
-      "source": "Deadline",
-      "url": "http://deadline.com/2026/10/indie-films-opening-naza-venice-prize-winning-documentary-1237145719/",
-      "time": "2026-10-02T23:15:00",
+      "title": "Britain's nursing union cuts ties with Israeli pharma giant Teva over IDF ties",
+      "desc": "The Royal College of Nursing cited Teva's ties to the IDF and past legal sanctions in cutting ties with the drugmaker. Teva expressed disappointment and accused the union of politicizing Britain's health care system",
+      "source": "Haaretz",
+      "url": "https://www.haaretz.com/science-and-health/2026-10-03/ty-article/britains-nursing-union-cuts-ties-with-israeli-pharma-giant-teva-over-idf-ties/000001a0-ff8c-db42-a3f0-ffcef5bb0000",
+      "time": "2026-10-03T02:46:50",
       "country": "Israel",
-      "title_ur": "وینس انعام یافتہ 'NAZA' امریکی تھیٹروں میں دھماکہ خیز غزہ کی نمائش لے کر آیا - خصوصی پیش نظارہ",
-      "desc_ur": "یوول ابراہم اور ریچل سزور کی تحریر اور ہدایت کاری میں بننے والی NAZA نے بدھ سے نیویارک کے IFC سینٹر میں کھیلتے ہوئے اپنی یو ایس رن شروع کر دی ہے۔ اس کے بعد پچھلے ہفتے کے آخر میں نیویارک فلم فیسٹیول کی اسکریننگ اور اس کے وینس ورلڈ پرائز میں ایک خصوصی جیوری پرائز پر تیزی سے عمل ہوا…"
+      "title_ur": "برطانیہ کی نرسنگ یونین نے IDF تعلقات پر اسرائیلی فارما کمپنی ٹیوا سے تعلقات منقطع کر دیے",
+      "desc_ur": "رائل کالج آف نرسنگ نے ٹیوا کے IDF سے تعلقات اور منشیات بنانے والے کے ساتھ تعلقات منقطع کرنے میں ماضی کی قانونی پابندیوں کا حوالہ دیا۔ تیوا نے مایوسی کا اظہار کیا اور یونین پر برطانیہ کے صحت کی دیکھ بھال کے نظام کو سیاست کرنے کا الزام لگایا"
     },
     {
-      "title": "Omani co-pilot accused of trying to hijack Israel-bound flydubai flight previously banned from flying over radical views: report",
-      "desc": "An Omani co-pilot who tried to hijack a flydubai flight carrying 174 people was previously banned by Oman over radical views, according to reports.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/10/02/world-news/omani-co-pilot-accused-of-trying-to-hijack-israel-bound-flydubai-flight-previously-banned-from-flying-over-radical-views-report/",
-      "time": "2026-10-02T23:05:02",
-      "country": "Israel",
-      "title_ur": "عمانی شریک پائلٹ پر اسرائیل جانے والی فلائی دبئی فلائٹ کو ہائی جیک کرنے کی کوشش کرنے کا الزام ہے جس پر پہلے بنیاد پرست خیالات پر پرواز کرنے پر پابندی عائد تھی: رپورٹ",
-      "desc_ur": "اطلاعات کے مطابق، ایک عمانی شریک پائلٹ جس نے فلائی دبئی کی پرواز کو ہائی جیک کرنے کی کوشش کی جس میں 174 افراد سوار تھے۔"
-    },
-    {
-      "title": "B.C. man sentenced to 8 months in jail for antisemitic graffiti on Victoria synagogue",
-      "desc": "B.C. provincial court Judge Micah Rankin's ruling released this week says Arthur Roberts pleaded guilty to mischief and uttering threats, after he admitted to defacing the Congregation Emanu-El synagogue in downtown Victoria in the summer of 2025.",
-      "source": "CBC News",
-      "url": "https://www.cbc.ca/news/canada/british-columbia/b-c-man-sentenced-8-months-in-jail-antisemitic-graffiti-victoria-synagogue-9.7367841",
-      "time": "2026-10-02T23:02:10",
+      "title": "FlyDubai co-pilot who attacked Capt Machchhar, identified as Hamam Alhamami",
+      "desc": "Al Arabiya English and CNN reported that the Omani co-pilot had faced concerns over alleged radical views before joining Flydubai and is now facing a terrorism investigation in the UAE",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/flydubai-co-pilot-who-attacked-capt-machchhar-identified-as-hamam-alhamami-126100300064_1.html",
+      "time": "2026-10-03T02:45:15",
       "country": "International",
-      "title_ur": "B.C وکٹوریہ کنیسہ پر سام دشمن گرافٹی کے جرم میں ایک شخص کو 8 ماہ قید کی سزا سنائی گئی۔",
-      "desc_ur": "B.C اس ہفتے جاری ہونے والے صوبائی عدالت کے جج میکاہ رینکن کے فیصلے میں کہا گیا ہے کہ آرتھر رابرٹس نے 2025 کے موسم گرما میں وکٹوریہ کے مرکز میں جماعت ایمانو-ایل کی عبادت گاہ کو بدنام کرنے کا اعتراف کرنے کے بعد، شرارت اور دھمکیاں دینے کا جرم قبول کیا۔"
+      "title_ur": "فلائی دبئی کے شریک پائلٹ جس نے کیپٹن مچھر پر حملہ کیا، جس کی شناخت حمام الحامی کے نام سے ہوئی ہے۔",
+      "desc_ur": "العربیہ انگلش اور سی این این نے اطلاع دی ہے کہ عمانی شریک پائلٹ کو فلائی دبئی میں شامل ہونے سے قبل مبینہ بنیاد پرستانہ خیالات پر تشویش کا سامنا کرنا پڑا تھا اور اب اسے متحدہ عرب امارات میں دہشت گردی کی تحقیقات کا سامنا ہے۔"
     },
     {
-      "title": "UK court told men scouted previously attacked synagogue",
-      "desc": "Two Iranian men identified a Manchester synagogue previously subjected to a fatal terrorist attack as a target for an alleged homemade bomb plot, a court has heard.",
-      "source": "RTE",
-      "url": "https://www.rte.ie/news/world/2026/1003/1593861-uk-manchester-court/",
-      "time": "2026-10-02T23:00:01",
+      "title": "Secret gold, diamond hand-offs: DRI blows lid off fly-in, fly-out racket",
+      "desc": "The Directorate of Revenue Intelligence arrested eight people involved in a gold-and-diamond smuggling operation at Mumbai airport. An employee at an airport store and multiple foreign nationals were apprehended during the investigation. Authorities intercept…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/secret-gold-diamond-hand-offs-dri-blows-lid-off-fly-in-fly-out-racket/articleshow/134650962.cms",
+      "time": "2026-10-03T02:41:07",
+      "country": "International",
+      "title_ur": "خفیہ سونا، ہیرے کا ہاتھ: ڈی آر آئی نے فلائی ان، فلائی آؤٹ ریکیٹ کا ڈھکن اڑا دیا",
+      "desc_ur": "ڈائریکٹوریٹ آف ریونیو انٹیلی جنس نے ممبئی ہوائی اڈے پر سونے اور ہیروں کی اسمگلنگ کی کارروائی میں ملوث آٹھ افراد کو گرفتار کیا۔ تحقیقات کے دوران ہوائی اڈے کے ایک اسٹور کے ایک ملازم اور متعدد غیر ملکی شہریوں کو گرفتار کیا گیا۔ حکام نے روکا…"
+    },
+    {
+      "title": "Saudi Arabia readies 100,000 Yemeni troops for Houthi assault: Can fragmented Yemeni forces retake Bab el-Mandeb?",
+      "desc": "Saudi Arabia is gearing up for a significant military campaign against the Iran-aligned Houthi forces in Yemen. This operation seeks to reclaim vital coastal territories and ensure safe maritime passage. With the potential mobilization of over 100,000 Yemeni …",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/saudi-arabia-readies-100000-yemeni-troops-for-houthi-assault-can-fragmented-yemeni-forces-retake-bab-el-mandeb/articleshow/134650886.cms",
+      "time": "2026-10-03T02:33:58",
       "country": "Iran",
-      "title_ur": "برطانیہ کی عدالت نے بتایا کہ ان مردوں کو جو اس سے قبل عبادت گاہ پر حملہ کر چکے تھے۔",
-      "desc_ur": "ایک عدالت نے سنا ہے کہ دو ایرانی مردوں نے مانچسٹر کے ایک عبادت گاہ کی نشاندہی کی ہے جو اس سے قبل ایک مہلک دہشت گردانہ حملے کا نشانہ بنا تھا، یہ ایک مبینہ گھریلو بم کی منصوبہ بندی کا ہدف تھا۔"
+      "title_ur": "سعودی عرب حوثیوں کے حملے کے لیے 100,000 یمنی فوجیوں کو تیار: کیا بکھری ہوئی یمنی افواج باب المندب پر ​​دوبارہ قبضہ کر سکتی ہے؟",
+      "desc_ur": "سعودی عرب یمن میں ایران کی حمایت یافتہ حوثی فورسز کے خلاف ایک اہم فوجی مہم کی تیاری کر رہا ہے۔ یہ آپریشن اہم ساحلی علاقوں کو دوبارہ حاصل کرنے اور محفوظ سمندری گزرگاہ کو یقینی بنانے کی کوشش کرتا ہے۔ 100,000 سے زیادہ یمنیوں کے ممکنہ متحرک ہونے کے ساتھ…"
     },
     {
-      "title": "The International Fellowship of Christians and Jews' 3rd Annual 'Flags of Fellowship' Campaign More than Doubles Participation; Grows Internationally to Combat Anti-Semitism",
-      "desc": "Over 4,375 churches, synagogues, and organizations in 13 countries worldwide to plant more than 5.2 million flags & stand in prayer, remembrance and solidarity with Israel and the Jewish people throughout October CHICAGO, Oct. 2, 2026 /PRNewswire/ -- The Inte…",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/the-international-fellowship-of-christians-and-jews-3rd-annual-flags-of-fellowship-campaign-more-than-doubles-participation-grows-internationally-to-combat-anti-semitism-302897554.html",
-      "time": "2026-10-02T22:53:00",
+      "title": "UK charges 2 Iranian men over alleged Yom Kippur terror plot in Manchester - CNN",
+      "desc": "UK charges 2 Iranian men over alleged Yom Kippur terror plot in ManchesterCNN U.K. police accuse 2 Iranian men of planning terror attack on Manchester's Jewish communityCBS News Two men charged with terrorism offences in ManchesterBBC Two Iranian men charged …",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186009736",
+      "time": "2026-10-03T02:33:07",
+      "country": "Iran",
+      "title_ur": "برطانیہ نے مانچسٹر میں مبینہ یوم کپور دہشت گردی کی منصوبہ بندی کے الزام میں 2 ایرانی افراد پر فرد جرم عائد کی ہے۔",
+      "desc_ur": "برطانیہ نے مانچسٹر میں یوم کپور دہشت گردی کی مبینہ منصوبہ بندی کے الزام میں 2 ایرانی مردوں پر فرد جرم عائد کی سی این این یوکے پولیس نے 2 ایرانی مردوں پر مانچسٹر کی یہودی برادری پر دہشت گردی کے حملے کی منصوبہ بندی کرنے کا الزام لگایا سی بی ایس نیوز مانچسٹر میں دو افراد پر دہشت گردی کے جرائم کے الزام میں بی بی سی دو ایرانی مردوں پر فرد جرم عائد…"
+    },
+    {
+      "title": "FlyDubai incident: Co-pilot was barred by Oman over alleged extremist views",
+      "desc": "The FlyDubai co-pilot who officials said nearly crashed a Tel Aviv-bound flight with 182 people aboard was barred from flying by his native Oman over concerns he had adopted extremist views, a person familiar with the matter said Saturday.\nThe co-pilot was su…",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/flydubai-incident-co-pilot-was-barred-by-oman-over-alleged-extremist-views-126100300069_1.html",
+      "time": "2026-10-03T02:32:27",
       "country": "Israel",
-      "title_ur": "عیسائیوں اور یہودیوں کی بین الاقوامی رفاقت کا تیسرا سالانہ 'فلیگز آف فیلوشپ' مہم دوگنی شرکت سے زیادہ؛ سامیت دشمنی کا مقابلہ کرنے کے لیے بین الاقوامی سطح پر بڑھتا ہے۔",
-      "desc_ur": "دنیا بھر کے 13 ممالک میں 4,375 سے زیادہ گرجا گھروں، عبادت گاہوں اور تنظیموں نے 5.2 ملین سے زیادہ جھنڈے لگائے اور پورے اکتوبر میں اسرائیل اور یہودی لوگوں کے ساتھ دعا، یاد اور یکجہتی کے لیے کھڑے ہو کر شکاگو، 2 اکتوبر 2026/PRNewswire/ -- The Inte…"
+      "title_ur": "فلائی دبئی واقعہ: کو پائلٹ کو عمان نے مبینہ انتہا پسندانہ خیالات پر روک دیا تھا۔",
+      "desc_ur": "فلائی دبئی کے شریک پائلٹ جس نے حکام کا کہنا تھا کہ تقریباً 182 افراد کے ساتھ تل ابیب جانے والی پرواز کو حادثہ پیش آیا تھا، اسے اس کے آبائی علاقے عمان نے ان خدشات پر پرواز کرنے سے روک دیا تھا کہ اس نے انتہا پسندانہ خیالات اپنائے تھے، اس معاملے سے واقف ایک شخص نے ہفتے کو بتایا۔\nشریک پائلٹ su…"
     },
     {
-      "title": "News Wrap: New York AG appointed as special prosecutor in Cornell rape case",
-      "desc": "In our news wrap Friday, New York Gov. Kathy Hochul appointed the state Attorney General Letitia James as a special prosecutor to take over the Cornell University rape case, the U.S. is sending an additional aircraft carrier to the Middle East as President Tr…",
+      "title": "Trump must close this Turkish loophole that allows Iran to skirt sanctions",
+      "desc": "Washington has done well targeting Tehran’s shipping, banking and financial networks.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/10/02/opinion/trump-must-close-this-turkish-loophole-that-allows-iran-to-skirt-sanctions/",
+      "time": "2026-10-03T02:28:01",
+      "country": "Iran",
+      "title_ur": "ٹرمپ کو ترکی کی اس خامی کو بند کرنا ہوگا جو ایران کو پابندیوں کو ختم کرنے کی اجازت دیتا ہے۔",
+      "desc_ur": "واشنگٹن نے تہران کے جہاز رانی، بینکنگ اور مالیاتی نیٹ ورکس کو نشانہ بنانے میں اچھی کارکردگی کا مظاہرہ کیا ہے۔"
+    },
+    {
+      "title": "Who Is Hamam Al Hammami? FlyDubai Co-Pilot Alleged Attacker ID'd: Reports",
+      "desc": "The co-pilot accused of attacking the captain of a FlyDubai flight bound for Israel was previously barred from flying in Oman over concerns he had adopted extremist views, according to reports published Friday.\nABC News and the New York Post have identified t…",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/4c32e2305b0aa094",
-      "time": "2026-10-02T22:52:09",
+      "url": "https://biztoc.com/x/dda1e2b2791e9b8f",
+      "time": "2026-10-03T02:27:40",
+      "country": "Israel",
+      "title_ur": "حمام الحمامی کون ہے؟ FlyDubai کے شریک پائلٹ نے مبینہ حملہ آور کی شناخت کی: رپورٹس",
+      "desc_ur": "جمعہ کو شائع ہونے والی خبروں کے مطابق، اسرائیل جانے والی فلائی دبئی کی پرواز کے کپتان پر حملہ کرنے کے الزام میں شریک پائلٹ کو پہلے عمان میں پرواز کرنے سے روک دیا گیا تھا کیونکہ اس نے شدت پسندانہ خیالات اپنائے تھے۔\nاے بی سی نیوز اور نیویارک پوسٹ نے اس کی نشاندہی کی ہے…"
+    },
+    {
+      "title": "'The Watcher' Season 2 begins production this fall; Naomi Watts, Bobby Cannavale, Margo Martindale, Isabel Gravitt to return",
+      "desc": "Netflix has announced that Season 2 of the mystery horror series 'The Watcher' is set to begin production this fall in New York, reported Variety.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/web-series/news/english/the-watcher-season-2-begins-production-this-fall-naomi-watts-bobby-cannavale-margo-martindale-isabel-gravitt-to-return/articleshow/134650749.cms",
+      "time": "2026-10-03T02:23:18",
       "country": "International",
-      "title_ur": "نیوز ریپ: نیویارک کے اے جی کو کورنیل ریپ کیس میں خصوصی پراسیکیوٹر مقرر کیا گیا۔",
-      "desc_ur": "جمعہ کو ہماری خبروں کی لپیٹ میں، نیویارک کی گورنر کیتھی ہوچول نے ریاستی اٹارنی جنرل لیٹیا جیمز کو کارنیل یونیورسٹی ریپ کیس کو سنبھالنے کے لیے خصوصی پراسیکیوٹر کے طور پر مقرر کیا، امریکہ ایک اضافی طیارہ بردار بحری جہاز مشرق وسطیٰ بھیج رہا ہے۔"
+      "title_ur": "'دی واچر' سیزن 2 اس موسم خزاں میں پیداوار شروع کرتا ہے۔ نومی واٹس، بوبی کیناوالے، مارگو مارٹنڈیل، ازابیل گریوٹ کی واپسی",
+      "desc_ur": "Netflix نے اعلان کیا ہے کہ پراسرار ہارر سیریز 'دی واچر' کا سیزن 2 اس موسم خزاں میں نیویارک میں پروڈکشن شروع کرنے کے لیے تیار ہے، ورائٹی کے مطابق۔"
     },
     {
-      "title": "Flydubai pilot recounts cockpit stabbing in call with Indian PM Modi",
-      "desc": "Smit Machchhar recalls midair disaster after co-pilot's attack on Flydubai flight to Tel Aviv.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/10/2/flydubai-pilot-recounts-cockpit-stabbing-in-call-with-indian-pm-modi",
-      "time": "2026-10-02T22:50:23",
-      "country": "Israel",
-      "title_ur": "فلائی دبئی کے پائلٹ نے بھارتی وزیر اعظم مودی کے ساتھ کال میں کاک پٹ میں چھرا گھونپنے کا واقعہ بیان کیا۔",
-      "desc_ur": "اسمیت مچھر نے فلائی دبئی سے تل ابیب جانے والی پرواز پر شریک پائلٹ کے حملے کے بعد ہوا میں ہونے والی تباہی کو یاد کیا۔"
+      "title": "FlyDubai incident now being treated as inside job",
+      "desc": "... Oman Air warned Flydubai about the pilot's extremist views. But Flydubai ignored the warnings. Even when the suicidal pilot was a trainee, he was found with extremist material. He was treated as a security risk. He was linked to Al-Qaeda on 7 different oc…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4397758/posts",
+      "time": "2026-10-03T02:19:21",
+      "country": "International",
+      "title_ur": "فلائی دبئی کے واقعے کو اب اندرونی کام سمجھا جا رہا ہے۔",
+      "desc_ur": "... عمان ایئر نے فلائی دبئی کو پائلٹ کے انتہا پسندانہ خیالات سے خبردار کیا۔ لیکن Flydubai نے انتباہات کو نظر انداز کر دیا۔ یہاں تک کہ جب خودکشی کرنے والا پائلٹ ٹرینی تھا، اس کے پاس انتہا پسند مواد پایا گیا۔ اس کے ساتھ سیکیورٹی رسک سمجھا جاتا تھا۔ وہ 7 مختلف مقامات پر القاعدہ سے منسلک تھا۔"
     },
     {
-      "title": "Flydubai Hijacker Was Barred by Oman, Flagged ‘Security Risk’ — Intended to Crash Jet in Israel",
-      "desc": "The Omani co-pilot accused of trying to crash a Flydubai passenger jet carrying more than 170 people, nearly all of them Israeli, had previously been barred from flying over concerns about extremist views and identified as a security risk — and has indicated …",
-      "source": "Breitbart News",
-      "url": "https://www.breitbart.com/politics/2026/10/02/flydubai-hijacker-was-barred-by-oman-flagged-security-risk-intended-to-crash-jet-in-israel/",
-      "time": "2026-10-02T22:46:04",
-      "country": "Israel",
-      "title_ur": "فلائی دبئی ہائی جیکر کو عمان نے روک دیا، 'سیکیورٹی رسک' کا نشان لگا دیا - اسرائیل میں جیٹ کریش کرنے کا ارادہ",
-      "desc_ur": "عمانی شریک پائلٹ پر الزام ہے کہ اس نے فلائی دبئی کے مسافر طیارے کو گرانے کی کوشش کی جس میں 170 سے زائد افراد سوار تھے، جن میں تقریباً سبھی اسرائیلی تھے، اس سے قبل شدت پسندانہ خیالات کے خدشات پر پرواز کرنے سے روک دیا گیا تھا اور اسے سیکیورٹی رسک کے طور پر شناخت کیا گیا تھا۔"
+      "title": "More than half of mid-to-large cap companies fail to deliver returns in 2026",
+      "desc": "More than half of India's mid-to-large tier companies with market capitalisation above ₹1,000 crore have faced losses in 2026. Eight companies have experienced significant market cap erosion, affecting investor sentiment. Factors such as regulatory issues, fu…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/more-than-half-of-mid-to-large-cap-companies-fail-to-deliver-returns-in-2026/articleshow/134650512.cms",
+      "time": "2026-10-03T02:13:53",
+      "country": "India",
+      "title_ur": "نصف سے زیادہ درمیانی سے بڑی کیپ کمپنیاں 2026 میں منافع فراہم کرنے میں ناکام رہیں",
+      "desc_ur": "₹1,000 کروڑ سے زیادہ مارکیٹ کیپٹلائزیشن کے ساتھ ہندوستان کی درمیانی سے بڑے درجے کی نصف سے زیادہ کمپنیوں کو 2026 میں نقصان کا سامنا کرنا پڑا ہے۔ آٹھ کمپنیوں نے سرمایہ کاروں کے جذبات کو متاثر کرتے ہوئے مارکیٹ کیپ میں نمایاں کمی کا سامنا کیا ہے۔ عوامل جیسے ریگولیٹری مسائل، فو…"
     },
     {
-      "title": "Two Iranians charged with plotting terror attack on British Jews hours after arrest of Iran national in US airbase plot",
-      "desc": "The pair's alleged plot coincided with the anniversary of last year's attacks at a UK synagogue which left two dead.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/10/02/world-news/iranian-nationals-arrested-in-yom-kippur-terror-plot-in-uk/",
-      "time": "2026-10-02T22:40:10",
+      "title": "U.K. police accuse 2 Iranian men of planning terror attack on Jewish community",
+      "desc": "Two Iranian men have been charged with plotting a terror attack on the Jewish community in Manchester, British police said.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/2-iranians-charged-planning-terror-attack-manchester-jewish-community-uk/",
+      "time": "2026-10-03T02:04:57",
       "country": "Iran",
-      "title_ur": "امریکی ایئربیس کی سازش میں ایرانی شہری کی گرفتاری کے چند گھنٹے بعد دو ایرانیوں پر برطانوی یہودیوں پر دہشت گردانہ حملے کی منصوبہ بندی کرنے کا الزام",
-      "desc_ur": "اس جوڑے کی مبینہ سازش گزشتہ سال برطانیہ کے ایک عبادت گاہ پر ہونے والے حملوں کی برسی کے موقع پر تھی جس میں دو افراد ہلاک ہوئے تھے۔"
+      "title_ur": "برطانیہ کی پولیس نے 2 ایرانی مردوں پر یہودی کمیونٹی پر دہشت گردانہ حملے کی منصوبہ بندی کرنے کا الزام لگایا ہے۔",
+      "desc_ur": "برطانوی پولیس نے کہا کہ دو ایرانی مردوں پر مانچسٹر میں یہودی برادری پر دہشت گردانہ حملے کی منصوبہ بندی کرنے کا الزام عائد کیا گیا ہے۔"
     },
     {
-      "title": "Will Polanski fall into Zack Trap set by hard-Left agitators and be toppled as Green leader?",
-      "desc": "Even though Zack Polanski has regularly described Israel's response to the October 7 attacks as 'genocide', hardliners claim that he cannot let go of his 'Zionist indoctrination'.",
+      "title": "Saudi Arabia preparing massive Yemen offensive – Reuters",
+      "desc": "Saudi Arabia is planning a major offensive in Yemen aimed at reversing recent gains by the Iran-backed Houthis, Reuters has reported Read Full Article at RT.com",
+      "source": "RT",
+      "url": "https://www.rt.com/news/646670-saudis-offensive-yemen-plan/",
+      "time": "2026-10-03T01:51:45",
+      "country": "Iran",
+      "title_ur": "سعودی عرب یمن پر بڑے حملے کی تیاری کر رہا ہے – رائٹرز",
+      "desc_ur": "سعودی عرب یمن میں ایک بڑے حملے کی منصوبہ بندی کر رہا ہے جس کا مقصد ایران کے حمایت یافتہ حوثیوں کی حالیہ کامیابیوں کو واپس لینا ہے، رائٹرز نے رپورٹ کیا ہے کہ RT.com پر مکمل مضمون پڑھیں"
+    },
+    {
+      "title": "Truth about Jennifer Lopez's umbrella incident at Stella McCartney show: Sources in Paris tell ROB SHUTER why she was really irritated... and how the fashion designer had to apologize to her",
+      "desc": "A young woman, seemingly event staff, asked her to put down the umbrella entirely. Jennifer didn't appear pleased. When the video came out, the internet screamed: Diva!",
       "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16179695/Polanski-Zack-Trap-hard-Left-toppled-Green-leader.html",
-      "time": "2026-10-02T22:36:55",
+      "url": "https://www.dailymail.com/tvshowbiz/article-16179543/jennifer-lopez-stella-mccartney-umbrella-paris.html",
+      "time": "2026-10-03T01:40:29",
+      "country": "International",
+      "title_ur": "سٹیلا میک کارٹنی شو میں جینیفر لوپیز کی چھتری کے واقعے کے بارے میں سچائی: پیرس کے ذرائع نے ROB SHUTER کو بتایا کہ وہ واقعی کیوں ناراض تھی... اور فیشن ڈیزائنر کو اس سے معافی کیسے مانگنی پڑی۔",
+      "desc_ur": "ایک نوجوان خاتون، بظاہر تقریب کے عملے نے اس سے چھتری کو پوری طرح نیچے رکھنے کو کہا۔ جینیفر خوش نہیں دکھائی دے رہی تھی۔ جب ویڈیو سامنے آئی تو انٹرنیٹ چیخ اٹھا: دیوا!"
+    },
+    {
+      "title": "Israeli Opposition Accuses Netanyahu Of Being Too Pro-Palestine",
+      "desc": "Yisrael Beytenu’s Avigdor Liberman is attacking Netanyahu from the right, casting the prime minister as the real backer of a Palestinian state.",
+      "source": "The Daily Caller",
+      "url": "https://dailycaller.com/2026/10/02/avigdor-liberman-netanyahu-palestinian-state-bar-ilan",
+      "time": "2026-10-03T01:25:11",
       "country": "Israel",
-      "title_ur": "کیا پولانسکی سخت بائیں بازو کے مشتعل افراد کے قائم کردہ زیک ٹریپ میں گریں گے اور گرین لیڈر کے طور پر گرا دیں گے؟",
-      "desc_ur": "اگرچہ زیک پولانسکی نے باقاعدگی سے 7 اکتوبر کے حملوں پر اسرائیل کے ردعمل کو 'نسل کشی' قرار دیا ہے، لیکن سخت گیر دعویٰ کرتے ہیں کہ وہ اپنی 'صیہونی فکر' کو نہیں چھوڑ سکتے۔"
-    },
-    {
-      "title": "Don’t let Flydubai terror scare derail Abraham Accords progress",
-      "desc": "'To allow peace to be derailed is actually to do the terrorists' bidding'",
-      "source": "Wnd.com",
-      "url": "https://www.wnd.com/2026/10/dont-let-flydubai-terror-scare-derail-abraham-accords/",
-      "time": "2026-10-02T22:32:58",
-      "country": "International",
-      "title_ur": "Flydubai دہشت گردی کے خوف کو ابراہام ایکارڈز کی پیش رفت کو پٹڑی سے اترنے نہ دیں۔",
-      "desc_ur": "'امن کو پٹڑی سے اترنے دینا دراصل دہشت گردوں کی بولی ہے'"
-    },
-    {
-      "title": "Phil Collins on Piers Morgan Uncensored: The 7 Biggest Revelations",
-      "desc": "Collins discussed his recent health issues, making amends with Paul McCartney, and his views on Donald Trump over the hour-long conversation.\nPhil Collins on Piers Morgan Uncensored: The 7 Biggest Revelations\nAlex Young",
-      "source": "Consequence.net",
-      "url": "https://consequence.net/2026/10/phil-collins-pieces-morgan-drums-mccartney/",
-      "time": "2026-10-02T22:32:33",
-      "country": "US",
-      "title_ur": "فل کولنز آن پیئرز مورگن بغیر سینسر شدہ: 7 سب سے بڑے انکشافات",
-      "desc_ur": "کولنز نے اپنے حالیہ صحت کے مسائل پر تبادلہ خیال کیا، پال میک کارٹنی کے ساتھ ترمیم کرتے ہوئے، اور ایک گھنٹہ طویل گفتگو میں ڈونلڈ ٹرمپ کے بارے میں ان کے خیالات۔\nفل کولنز آن پیئرز مورگن بغیر سینسر شدہ: 7 سب سے بڑے انکشافات\nایلکس ینگ"
-    },
-    {
-      "title": "The Bible is a law book",
-      "desc": "'The regularity of creation is itself a covenant – a binding legal arrangement between God and the cosmos'",
-      "source": "Wnd.com",
-      "url": "https://www.wnd.com/2026/10/bible-is-law-book/",
-      "time": "2026-10-02T22:31:25",
-      "country": "International",
-      "title_ur": "بائبل قانون کی کتاب ہے۔",
-      "desc_ur": "'تخلیق کی باقاعدگی خود ایک عہد ہے - خدا اور کائنات کے درمیان ایک پابند قانونی انتظام'"
-    },
-    {
-      "title": "Brooks and Atkins Stohr on GOP vulnerabilities in the midterms",
-      "desc": "David Brooks of The Atlantic and Kimberly Atkins Stohr of The Boston Globe join Geoff Bennett to discuss the week in politics, including President Trump hitting the campaign trail in a string of reliably Republican states, GOP vulnerabilities heading into the…",
-      "source": "PBS",
-      "url": "https://www.pbs.org/newshour/show/brooks-and-atkins-stohr-on-gop-vulnerabilities-in-the-midterms",
-      "time": "2026-10-02T22:30:44",
-      "country": "US",
-      "title_ur": "مڈٹرم میں GOP کے خطرات پر بروکس اور اٹکنز سٹوہر",
-      "desc_ur": "دی اٹلانٹک کے ڈیوڈ بروکس اور بوسٹن گلوب کے کمبرلی اٹکنز سٹوہر سیاست میں ہفتے کے بارے میں بات کرنے کے لیے جیوف بینیٹ کے ساتھ شامل ہوئے، بشمول صدر ٹرمپ نے قابل اعتماد ریپبلکن ریاستوں کے ایک سلسلے میں انتخابی مہم کو نشانہ بنانا، GOP کے خطرات کی طرف بڑھنا…"
-    },
-    {
-      "title": "Yes, you must vote!",
-      "desc": "'When communists are gunning for government control, you can't just sit on the sidelines'",
-      "source": "Wnd.com",
-      "url": "https://www.wnd.com/2026/10/yes-you-must-vote/",
-      "time": "2026-10-02T22:29:21",
-      "country": "US",
-      "title_ur": "جی ہاں، آپ کو ووٹ دینا چاہیے!",
-      "desc_ur": "'جب کمیونسٹ حکومتی کنٹرول کے لیے بندوق اٹھا رہے ہوں تو آپ صرف کنارے پر نہیں بیٹھ سکتے'"
+      "title_ur": "اسرائیلی اپوزیشن نے نیتن یاہو پر فلسطین کے حامی ہونے کا الزام لگایا ہے۔",
+      "desc_ur": "اسرائیل بیتینو کا ایویگڈور لائبرمین نیتن یاہو پر دائیں طرف سے حملہ کر رہا ہے، وزیراعظم کو فلسطینی ریاست کا حقیقی حمایتی قرار دے رہا ہے۔"
     }
   ],
   "pakistan": [
     {
-      "title": "Selma Blair Announces ‘Hineni’ Doc About Antisemitism After She Was “Erased” Over Islamophobic Comments",
-      "desc": "More than two years later, Selma Blair is taking the fallout over her Islamophobic comments and channeling it into a documentary about antisemitism. On Thursday, the actress announced at the ADL State of the Arts Reception in New York City that she’s making a…",
-      "source": "Deadline",
-      "url": "http://deadline.com/2026/10/selma-blair-announces-hineni-doc-antisemitism-1237145841/",
-      "time": "2026-10-02T23:11:52",
+      "title": "'Go to Pakistan': CJP's Abhijeet Dipke on those doing Hindu-Muslim 'divisive' politics",
+      "desc": "Abhijeet Dipke led a large protest in Mumbai demanding the resignation of Chief Election Commissioner Gyanesh Kumar. Thousands of supporters gathered at Shivaji Park, despite police denying permission for the event. The Cockroach Janta Party aims to address e…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/go-to-pakistan-cjps-abhijeet-dipke-on-those-doing-hindu-muslim-divisive-politics/articleshow/134650773.cms",
+      "time": "2026-10-03T02:29:13",
       "country": "Pakistan",
-      "title_ur": "سیلما بلیئر نے اسلامو فوبک تبصروں پر \"مٹانے\" کے بعد سام دشمنی کے بارے میں 'ہینی' ڈاکٹر کا اعلان کیا",
-      "desc_ur": "دو سال سے زیادہ کے بعد، سیلما بلیئر اپنے اسلامو فوبک تبصروں کا نتیجہ لے رہی ہیں اور اسے سام دشمنی کے بارے میں ایک دستاویزی فلم میں تبدیل کر رہی ہیں۔ جمعرات کو، اداکارہ نے نیویارک سٹی میں ADL اسٹیٹ آف دی آرٹس کے استقبالیہ میں اعلان کیا کہ وہ ایک…"
+      "title_ur": "'پاکستان جاؤ': ہندو مسلم 'تقسیم' سیاست کرنے والوں پر چیف جسٹس کے ابھیجیت ڈپکے",
+      "desc_ur": "ابھیجیت ڈپکے نے ممبئی میں ایک بڑے احتجاج کی قیادت کرتے ہوئے چیف الیکشن کمشنر گیانیش کمار کے استعفیٰ کا مطالبہ کیا۔ پولیس کی جانب سے تقریب کی اجازت نہ دینے کے باوجود ہزاروں حامی شیواجی پارک میں جمع ہوئے۔ کاکروچ جنتا پارٹی کا مقصد ای سے خطاب کرنا ہے…"
     },
     {
-      "title": "Israel could’ve ended Gaza war, freed captives sooner: Israel ex-negotiator",
-      "desc": "Retired General Nitzan Alon says more captives could have returned alive and a deal was possible 'maybe a year earlier'.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/10/2/israel-couldve-ended-gaza-war-freed-captives-sooner-israel-ex-negotiator",
-      "time": "2026-10-02T21:53:17",
+      "title": "India-Pakistan Asian Games final: Cricketers eye gold, but tricky pitch could level the field",
+      "desc": "The Korogi Sports Centre in Nagoya is set to be the stage for the eagerly awaited cricket showdown between India and Pakistan. India, boasting a commanding 14-3 record against their rivals, comes in as the favorite after a resounding win over Sri Lanka. Meanw…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/asian-games-2026-mens-t20/india-pakistan-asian-games-final-cricketers-eye-gold-but-tricky-pitch-could-level-the-field/articleshow/134650661.cms",
+      "time": "2026-10-03T02:22:54",
       "country": "Pakistan",
-      "title_ur": "اسرائیل غزہ جنگ ختم کر سکتا تھا، قیدیوں کو جلد رہا کر سکتا تھا: اسرائیل کے سابق مذاکرات کار",
-      "desc_ur": "ریٹائرڈ جنرل نیتزان ایلون کا کہنا ہے کہ مزید قیدی زندہ واپس آ سکتے تھے اور 'شاید ایک سال پہلے' معاہدہ ممکن تھا۔"
+      "title_ur": "بھارت-پاکستان ایشین گیمز فائنل: کرکٹرز کی نظریں سونے پر مرکوز ہیں، لیکن مشکل پچ میدان کو برابر کر سکتی ہے۔",
+      "desc_ur": "ناگویا میں کوروگی اسپورٹس سینٹر ہندوستان اور پاکستان کے درمیان کرکٹ میچ کا بے صبری سے انتظار کرنے کے لیے تیار ہے۔ ہندوستان، اپنے حریفوں کے خلاف 14-3 کے زبردست ریکارڈ پر فخر کرتے ہوئے، سری لنکا کے خلاف شاندار جیت کے بعد فیورٹ کے طور پر آتا ہے۔ مطلب…"
+    },
+    {
+      "title": "India vs Pakistan: Sooryavanshi, Bumrah in focus against Pak in gold-medal clash",
+      "desc": "India vs Pakistan Live Score, Asian Games Cricket Final: Less than 48 hours after the ICC unveiled the 2027 ODI World Cup schedule, with India and Pa",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-pakistan-live-score-ind-vs-pak-asian-games-2026-cricket-final-gold-medal-playing-xi-toss-scorecard/liveblog/134650734.cms",
+      "time": "2026-10-03T02:19:20",
+      "country": "Pakistan",
+      "title_ur": "بھارت بمقابلہ پاکستان: سوریاونشی، بمراہ گولڈ میڈل کے مقابلے میں پاکستان کے خلاف توجہ مرکوز کر رہے ہیں۔",
+      "desc_ur": "ہندوستان بمقابلہ پاکستان لائیو اسکور، ایشین گیمز کرکٹ فائنل: آئی سی سی نے 2027 کے ون ڈے ورلڈ کپ کے شیڈول کی نقاب کشائی کے 48 گھنٹے سے بھی کم وقت میں، ہندوستان اور پاکستان کے ساتھ"
+    },
+    {
+      "title": "India vs Pakistan, Final: Will rain interrupt? Check weather forecast, playing 11, pitch report and live streaming",
+      "desc": "India vs Pakistan, Final Weather Forecast: India and Pakistan clash for Asian Games cricket gold at Korogi Sports Park on October 3, with rain odds climbing past 50 percent by midday and no reserve day in place, a washout would hand both sides the gold medal.",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/india-vs-pakistan-final-will-rain-interrupt-check-weather-forecast-playing-11-pitch-report-and-live-streaming/articleshow/134650615.cms",
+      "time": "2026-10-03T02:16:25",
+      "country": "Pakistan",
+      "title_ur": "بھارت بمقابلہ پاکستان، فائنل: کیا بارش میں خلل پڑے گا؟ موسم کی پیشن گوئی، 11 کھیل، پچ رپورٹ اور لائیو سٹریمنگ چیک کریں۔",
+      "desc_ur": "بھارت بمقابلہ پاکستان، حتمی موسم کی پیشن گوئی: بھارت اور پاکستان 3 اکتوبر کو کوروگی اسپورٹس پارک میں ایشین گیمز کرکٹ گولڈ کے لیے ٹکرائیں گے، بارش کی مشکلات دوپہر تک 50 فیصد سے تجاوز کر گئی ہیں اور کوئی ریزرو ڈے نہیں ہے، واش آؤٹ دونوں فریقوں کو گولڈ میڈل دے گا۔"
+    },
+    {
+      "title": "FlyDubai Co-Pilot Had Previously Been Flagged as Security Risk: Reports",
+      "desc": "National and international investigators are examining how the co-pilot accused of attacking a FlyDubai captain and attempting to crash a flight bound for Israel on Wednesday was reportedly able to continue working in aviation after previously being identifie…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/37ce872dd4dc93c1",
+      "time": "2026-10-03T01:57:40",
+      "country": "Pakistan",
+      "title_ur": "فلائی دبئی کے شریک پائلٹ کو پہلے سیکیورٹی رسک کے طور پر نشان زد کیا گیا تھا: رپورٹس",
+      "desc_ur": "قومی اور بین الاقوامی تفتیش کار اس بات کا جائزہ لے رہے ہیں کہ فلائی دبئی کے کپتان پر حملہ کرنے اور بدھ کے روز اسرائیل جانے والی پرواز کو کریش کرنے کی کوشش کرنے والے شریک پائلٹ کی شناخت کے بعد مبینہ طور پر ایوی ایشن میں کام جاری رکھنے کے قابل کیسے رہا؟"
+    },
+    {
+      "title": "India vs Pakistan live: Asian Games cricket final",
+      "desc": "Our live updates on team news, weather forecast, prediction, toss, score and text commentary from the gold-medal match.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/10/3/india-vs-pakistan-live-asian-games-cricket-final",
+      "time": "2026-10-03T01:55:31",
+      "country": "Pakistan",
+      "title_ur": "انڈیا بمقابلہ پاکستان لائیو: ایشین گیمز کرکٹ فائنل",
+      "desc_ur": "گولڈ میڈل میچ سے ٹیم کی خبروں، موسم کی پیشن گوئی، پیشن گوئی، ٹاس، سکور اور ٹیکسٹ کمنٹری پر ہماری لائیو اپ ڈیٹس۔"
+    },
+    {
+      "title": "How to watch India vs. Pakistan: Live stream Asian Games cricket final from anywhere",
+      "desc": "The gold medal cricket match has arrived at the Asian Games. We'll show you how to watch India vs. Pakistan from anywhere.",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/guides/streaming/how-to-watch-india-vs-pakistan-asian-games-cricket-2026#article",
+      "time": "2026-10-03T01:31:01",
+      "country": "Pakistan",
+      "title_ur": "انڈیا بمقابلہ پاکستان کیسے دیکھیں: کہیں سے بھی ایشین گیمز کرکٹ فائنل لائیو سٹریم",
+      "desc_ur": "ایشین گیمز میں گولڈ میڈل کرکٹ میچ آچکا ہے۔ ہم آپ کو کہیں سے بھی انڈیا بمقابلہ پاکستان دیکھنے کا طریقہ دکھائیں گے۔"
+    },
+    {
+      "title": "Asian Games Day 14 India full schedule: Men's team eyes cricket gold against Pakistan, hockey title and Olympic quotas",
+      "desc": "On Day 14 of the Asian Games 2026, India will compete in several significant events. The men's cricket team will face Pakistan for the gold medal, while the men's hockey team will play Malaysia. Important Olympic qualification opportunities are available in a…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/sports/other-sports/asian-games-day-14-india-full-schedule-mens-team-eyes-cricket-gold-against-pakistan-hockey-title-and-olympic-quotas/articleshow/134650344.cms",
+      "time": "2026-10-03T01:21:54",
+      "country": "Pakistan",
+      "title_ur": "ایشیائی کھیلوں کا 14 دن بھارت کا مکمل شیڈول: مردوں کی ٹیم کی نظریں پاکستان کے خلاف کرکٹ گولڈ، ہاکی ٹائٹل اور اولمپک کوٹے پر",
+      "desc_ur": "ایشین گیمز 2026 کے 14 ویں دن، ہندوستان کئی اہم مقابلوں میں حصہ لے گا۔ طلائی تمغے کے لیے مردوں کی کرکٹ ٹیم کا مقابلہ پاکستان سے ہو گا، جبکہ مردوں کی ہاکی ٹیم ملائیشیا سے کھیلے گی۔ اولمپک اہلیت کے اہم مواقع دستیاب ہیں ایک…"
+    },
+    {
+      "title": "How to watch India vs Pakistan for FREE: live stream Asian Games Cricket Final online from anywhere",
+      "desc": "All the ways to watch to India vs Pakistan in the Asian Games cricket final online from anywhere in the world.",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/how-to-watch/sport/india-vs-pakistan-asian-games-cricket-final-2026-free",
+      "time": "2026-10-03T01:00:00",
+      "country": "Pakistan",
+      "title_ur": "ہندوستان بمقابلہ پاکستان مفت میں کیسے دیکھیں: کہیں سے بھی ایشین گیمز کرکٹ فائنل آن لائن لائیو سٹریم کریں۔",
+      "desc_ur": "ایشین گیمز کرکٹ فائنل میں ہندوستان بمقابلہ پاکستان کو دنیا میں کہیں سے بھی آن لائن دیکھنے کے تمام طریقے۔"
     }
   ],
   "business": {
-    "quote": "Don't put all your eggs in one basket.",
-    "author": "Miguel de Cervantes",
-    "quote_ur": "تمام انڈے ایک ٹوکری میں مت رکھو۔"
+    "quote": "The stock market is a device for transferring money from the impatient to the patient.",
+    "author": "Warren Buffett",
+    "quote_ur": "اسٹاک مارکیٹ بے صبروں سے صبر کرنے والوں کو رقم منتقل کرنے کا ایک آلہ ہے۔"
   },
   "weather": {
     "city": "Lahore",
@@ -204,17 +274,17 @@
       {
         "date": "2026-10-06",
         "day": "منگل",
-        "high": 34,
+        "high": 35,
         "low": 25,
         "condition": "Clear",
         "condition_ur": "صاف",
-        "precip": 8
+        "precip": 9
       },
       {
         "date": "2026-10-07",
         "day": "بدھ",
-        "high": 30,
-        "low": 22,
+        "high": 31,
+        "low": 23,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
         "precip": 84
@@ -223,19 +293,19 @@
         "date": "2026-10-08",
         "day": "جمعرات",
         "high": 31,
-        "low": 23,
-        "condition": "Mainly Clear",
-        "condition_ur": "زیادہ تر صاف",
-        "precip": 53
+        "low": 24,
+        "condition": "Light Drizzle",
+        "condition_ur": "ہلکی بوندا باندی",
+        "precip": 41
       },
       {
         "date": "2026-10-09",
         "day": "جمعہ",
-        "high": 30,
-        "low": 20,
-        "condition": "Thunderstorm",
-        "condition_ur": "گرج چمک",
-        "precip": 41
+        "high": 32,
+        "low": 24,
+        "condition": "Light Drizzle",
+        "condition_ur": "ہلکی بوندا باندی",
+        "precip": 43
       },
       {
         "date": "2026-10-10",
@@ -244,7 +314,7 @@
         "low": 21,
         "condition": "Clear",
         "condition_ur": "صاف",
-        "precip": 27
+        "precip": 35
       }
     ]
   },
