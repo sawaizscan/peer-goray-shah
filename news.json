@@ -1,187 +1,167 @@
 {
-  "generated": "2026-10-06T02:22:55Z",
+  "generated": "2026-10-06T09:11:34Z",
   "world": [
     {
-      "title": "US Air Force pulls bombers from UK air base after suspected terror attack",
-      "desc": "The US Air Force has brought home its bombers stationed at a US-run military air base in England used to strike Iran following an investigation into a planned terror attack at the RAF Fairford base.\nThe bombers were redeployed back to their home bases in the …",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/world-news/us-air-force-pulls-bombers-from-uk-air-base-after-suspected-terror-attack-126100500030_1.html",
-      "time": "2026-10-05T02:20:12",
+      "title": "Accused flydubai hijacker expected to face death penalty after planning to crash jet into Tel Aviv airport: report",
+      "desc": "The accused flydubai hijacker is expected to face the death penalty and he chillingly told investigators he had a “dream” to crash the Israel-bound plane into Tel Aviv airport.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/10/05/world-news/accused-flydubai-hijacker-expected-to-face-death-penalty-after-planning-to-crash-jet-into-tel-aviv-airport-report/",
+      "time": "2026-10-05T09:11:07",
+      "country": "Israel",
+      "title_ur": "فلائی دبئی ہائی جیکر کو تل ابیب ہوائی اڈے پر جیٹ کریش کرنے کی منصوبہ بندی کے بعد سزائے موت کا سامنا کرنا پڑے گا: رپورٹ",
+      "desc_ur": "ملزم فلائی دبئی ہائی جیکر کو سزائے موت کا سامنا کرنے کی توقع ہے اور اس نے سرد مہری سے تفتیش کاروں کو بتایا کہ اس نے اسرائیل جانے والے طیارے کو تل ابیب کے ہوائی اڈے پر گرانے کا \"خواب\" دیکھا تھا۔"
+    },
+    {
+      "title": "Zack Polanski allies desperately try to save him as he faces Holborn by-election defeat and coup after Greens' 'anti-Semitic' conference meltdown",
+      "desc": "Mr Polanski is under huge pressure after Green members passed a 'Zionism is Racism' policy at its annual conference that effectively calls for the destruction of Israel.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16183381/Zack-Polanski-Holborn-election-Greens-anti-Semitism.html",
+      "time": "2026-10-05T09:02:32",
+      "country": "Israel",
+      "title_ur": "زیک پولانسکی کے اتحادی اسے بچانے کی شدت سے کوشش کر رہے ہیں کیونکہ اسے گرینز کی 'یہود مخالف' کانفرنس کے پگھلنے کے بعد ہولبورن کے ضمنی انتخاب میں شکست اور بغاوت کا سامنا ہے۔",
+      "desc_ur": "مسٹر پولانسکی اس وقت شدید دباؤ میں ہیں جب گرین ممبران نے اپنی سالانہ کانفرنس میں 'صیہونیت نسل پرستی' کی پالیسی منظور کی ہے جس میں مؤثر طریقے سے اسرائیل کی تباہی کا مطالبہ کیا گیا ہے۔"
+    },
+    {
+      "title": "Average five-year mortgage rate hits 6% for first time in three years",
+      "desc": "The cost of a new fixed-rate mortgage has been rising in recent weeks as lenders face higher costs.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8r4yxpry5e9o",
+      "time": "2026-10-05T09:02:21",
+      "country": "International",
+      "title_ur": "اوسط پانچ سالہ رہن کی شرح تین سالوں میں پہلی بار 6% تک پہنچ گئی ہے۔",
+      "desc_ur": "حالیہ ہفتوں میں ایک نئے فکسڈ ریٹ مارگیج کی قیمت بڑھ رہی ہے کیونکہ قرض دہندگان کو زیادہ لاگت کا سامنا کرنا پڑتا ہے۔"
+    },
+    {
+      "title": "IDF eliminates Hamas Nukhba commander from October 7 massacre",
+      "desc": "IDF, ISA, eliminate Hamas Nukhba platoon commander Ibrahim Abu Oweimer, who infiltrated Israel during the October 7 massacre and continued working to restore Hamas capabilities and advance attacks.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/434128",
+      "time": "2026-10-05T09:02:00",
+      "country": "Israel",
+      "title_ur": "آئی ڈی ایف نے 7 اکتوبر کے قتل عام سے حماس نخبہ کے کمانڈر کو ختم کر دیا۔",
+      "desc_ur": "آئی ڈی ایف، آئی ایس اے نے حماس نخبہ پلاٹون کمانڈر ابراہیم ابو عویمر کو ختم کر دیا، جس نے 7 اکتوبر کے قتل عام کے دوران اسرائیل میں دراندازی کی اور حماس کی صلاحیتوں کو بحال کرنے اور پیشگی حملوں کے لیے کام جاری رکھا۔"
+    },
+    {
+      "title": "America must defend our digital infrastructure, here and overseas, to win the next war",
+      "desc": "Iranian strikes damaged Amazon Web Services data centers in the UAE and Bahrain, exposing why digital infrastructure is now a national security priority.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/opinion/america-defend-digital-infrastructure-win-next-war",
+      "time": "2026-10-05T09:00:27",
       "country": "Iran",
-      "title_ur": "مشتبہ دہشت گردانہ حملے کے بعد امریکی فضائیہ نے برطانوی فضائی اڈے سے بمبار طیاروں کو واپس بلا لیا۔",
-      "desc_ur": "امریکی فضائیہ نے RAF فیئر فورڈ بیس پر منصوبہ بند دہشت گردانہ حملے کی تحقیقات کے بعد انگلینڈ میں امریکی زیر انتظام فوجی اڈے پر اپنے بمبار طیاروں کو وطن واپس لایا ہے جو ایران پر حملہ کرنے کے لیے استعمال کیا جاتا تھا۔\nبمباروں کو ان کے آبائی اڈوں پر دوبارہ تعینات کیا گیا تھا…"
+      "title_ur": "امریکہ کو اگلی جنگ جیتنے کے لیے یہاں اور بیرون ملک اپنے ڈیجیٹل انفراسٹرکچر کا دفاع کرنا چاہیے۔",
+      "desc_ur": "ایرانی حملوں نے متحدہ عرب امارات اور بحرین میں ایمیزون ویب سروسز کے ڈیٹا سینٹرز کو نقصان پہنچایا، جس سے یہ بات سامنے آئی کہ ڈیجیٹل انفراسٹرکچر اب قومی سلامتی کی ترجیح کیوں ہے۔"
     },
     {
-      "title": "Deep in an Irony Spiral, Slam Frank Struggles to Show Its Center",
-      "desc": "‘Slam Frank,’ at the Orpheum, is encased in so many layers of parodic distance that it’s hard to say just where its creators’ beliefs finally land—if they land anywhere at all.",
-      "source": "Vulture",
-      "url": "http://www.vulture.com/article/slam-frank-play-musical-review-orpheum.html",
-      "time": "2026-10-05T02:15:44",
+      "title": "Army, Navy Tout Over $1.2 Billion in New Missile and Drone Acquisitions",
+      "desc": "The services' latest announcements are tied to more than $1.2 billion in new acquisitions, including drones and Blackbeard hypersonic missiles.",
+      "source": "Military.com",
+      "url": "https://military.com/army-navy-tout-over-12-billion-new-missile-drone-acquisitions",
+      "time": "2026-10-05T09:00:14",
+      "country": "International",
+      "title_ur": "نئے میزائل اور ڈرون کے حصول میں فوج، بحریہ نے 1.2 بلین ڈالر سے زیادہ کا تعاون کیا۔",
+      "desc_ur": "سروسز کے تازہ ترین اعلانات نئے حصول میں 1.2 بلین ڈالر سے زیادہ کے ساتھ منسلک ہیں، بشمول ڈرون اور بلیک بیئرڈ ہائپرسونک میزائل۔"
+    },
+    {
+      "title": "The Inescapable Hasan Piker",
+      "desc": "For good or ill, Hasan Piker is now the most volatile force in American politics, earning condemnation across the political spectrum.",
+      "source": "New York Magazine",
+      "url": "http://nymag.com/intelligencer/article/hasan-piker-el-sayed-michigan-gaza-midterms.html",
+      "time": "2026-10-05T09:00:08",
       "country": "US",
-      "title_ur": "ایک آہنی سرپل میں گہری، سلیم فرینک اپنا مرکز دکھانے کے لیے جدوجہد کر رہا ہے۔",
-      "desc_ur": "Orpheum میں 'Slam Frank'، طنزیہ فاصلے کی اتنی تہوں میں بند ہے کہ یہ کہنا مشکل ہے کہ اس کے تخلیق کاروں کے عقائد آخر کہاں اترتے ہیں — اگر وہ کہیں بھی اترتے ہیں۔"
+      "title_ur": "ناگزیر حسن پیکر",
+      "desc_ur": "اچھا یا برا، حسن پیکر اب امریکی سیاست میں سب سے زیادہ غیر مستحکم قوت ہے، جس کی سیاسی میدان میں مذمت کی جاتی ہے۔"
     },
     {
-      "title": "Oil slips as Middle East crude exports rise, G7 to release stocks",
-      "desc": "By Florence Tan\nSINGAPORE, Oct 5 (Reuters) - Oil prices slipped on Monday as rising crude exports from the Middle East and a release of oil stocks from Group of Seven nations are adding to supplies despite ongoing concerns about further damage to Gulf oil inf…",
+      "title": "The midterms will come down to the cost of everything — and who voters trust to fix it",
+      "desc": "It's almost election time in America, and voters in swing states are looking at their wallets — and gas prices — at the ballot box.",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/affordability-midterm-elections-inflation-gas-electricity-housing-prices-swing-states-2026-10#article",
+      "time": "2026-10-05T09:00:01",
+      "country": "US",
+      "title_ur": "وسط مدتیں ہر چیز کی قیمت پر آئیں گی - اور ووٹر کس پر اعتماد کرتے ہیں کہ وہ اسے ٹھیک کریں۔",
+      "desc_ur": "یہ امریکہ میں تقریباً انتخابات کا وقت ہے، اور سوئنگ ریاستوں کے ووٹر بیلٹ باکس میں اپنے بٹوے — اور گیس کی قیمتوں کو دیکھ رہے ہیں۔"
+    },
+    {
+      "title": "4 ways the midterm elections could turn out, with a month to go",
+      "desc": "Democrats are heading into the last month of the midterm elections campaign with ambitions going deeper and deeper into red territory, while Republicans are grim about their hopes of holding on to either chamber of Congress.\n Historically, the opposition part…",
+      "source": "Yahoo Entertainment",
+      "url": "https://www.yahoo.com/news/politics/articles/four-ways-midterm-elections-could-090000631.html",
+      "time": "2026-10-05T09:00:00",
+      "country": "International",
+      "title_ur": "وسط مدتی انتخابات کے 4 طریقے، جن میں ایک ماہ باقی ہے۔",
+      "desc_ur": "ڈیموکریٹس وسط مدتی انتخابات کی مہم کے آخری مہینے کی طرف بڑھ رہے ہیں جن کے عزائم سرخ علاقے میں گہرے ہوتے جا رہے ہیں، جب کہ ریپبلکن کانگریس کے کسی بھی چیمبر پر فائز رہنے کی اپنی امیدوں کے بارے میں غمگین ہیں۔\n تاریخی طور پر اپوزیشن کا حصہ…"
+    },
+    {
+      "title": "Donald Trump vs. Bernie Sanders—2 Sharply Different Views of America’s Role in the World",
+      "desc": "Katrina vanden Heuvel\n\n\n\nOne is an imperial gangster; the other seeks to create a world “not based on greed but based on justice, on decency.”\r\n\n\r\n\n\nThe post Donald Trump vs. Bernie Sanders—2 Sharply Different Views of America’s Role in the World appeared fir…",
+      "source": "Thenation.com",
+      "url": "https://www.thenation.com/?post_type=article&p=611339",
+      "time": "2026-10-05T09:00:00",
+      "country": "US",
+      "title_ur": "ڈونلڈ ٹرمپ بمقابلہ برنی سینڈرز — 2 دنیا میں امریکہ کے کردار کے بارے میں مختلف نظریات",
+      "desc_ur": "کترینہ وینڈن ہیویل\n\n\n\nایک سامراجی غنڈہ ہے۔ دوسرا \"لالچ کی بنیاد پر نہیں بلکہ انصاف پر، شائستگی پر مبنی\" دنیا بنانے کی کوشش کرتا ہے۔\r\n\n\r\n\n\nThe post ڈونلڈ ٹرمپ بمقابلہ برنی سینڈرز — 2 دنیا میں امریکہ کے کردار کے بارے میں واضح طور پر مختلف خیالات سامنے آئے…"
+    },
+    {
+      "title": "Weekly Climate and Energy News Roundup #709",
+      "desc": "“No amount of experimentation can ever prove me right; a single experiment can prove me wrong.”— Albert Einstein\nThe post Weekly Climate and Energy News Roundup #709 appeared first on Watts Up With That?.",
+      "source": "Wattsupwiththat.com",
+      "url": "https://wattsupwiththat.com/2026/10/05/weekly-climate-and-energy-news-roundup-709/",
+      "time": "2026-10-05T09:00:00",
+      "country": "International",
+      "title_ur": "ہفتہ وار موسمیاتی اور توانائی کی خبروں کا راؤنڈ اپ #709",
+      "desc_ur": "\"کوئی بھی تجربہ مجھے صحیح ثابت نہیں کر سکتا، ایک ہی تجربہ مجھے غلط ثابت کر سکتا ہے۔\" - البرٹ آئن سٹائن\nThe post ہفتہ وار کلائمیٹ اینڈ انرجی نیوز راؤنڈ اپ #709 پہلی بار واٹس اپ کے ساتھ شائع ہوا۔"
+    },
+    {
+      "title": "Michigan’s Senate Race Is a Testing Ground",
+      "desc": "Leena Barakat, Pamela Shifman\n\n\n\nWe must counter fear and division with solidarity.\r\n\n\r\n\n\nThe post Michigan’s Senate Race Is a Testing Ground appeared first on The Nation.",
+      "source": "Thenation.com",
+      "url": "https://www.thenation.com/?post_type=article&p=611346",
+      "time": "2026-10-05T09:00:00",
+      "country": "US",
+      "title_ur": "مشی گن کی سینیٹ ریس ایک ٹیسٹنگ گراؤنڈ ہے۔",
+      "desc_ur": "لینا برکات، پامیلا شیف مین\n\n\n\nہمیں یکجہتی کے ساتھ خوف اور تقسیم کا مقابلہ کرنا چاہیے۔\r\n\n\r\n\n\nThe post مشی گن کی سینیٹ ریس ایک امتحانی میدان ہے appeared first on The Nation."
+    },
+    {
+      "title": "Gulf Hotel Deals Stall as U.S.-Iran War Scrambles Valuations",
+      "desc": "There's no evidence of distressed sales in the Gulf hotel market. But the war clearly changed the math buyers need to close deals.",
+      "source": "Skift",
+      "url": "https://skift.com/2026/10/05/gulf-hotel-deals-stall-as-u-s-iran-war-scrambles-valuations/",
+      "time": "2026-10-05T09:00:00",
+      "country": "Iran",
+      "title_ur": "خلیجی ہوٹل ڈیلز اسٹال کیونکہ امریکہ-ایران جنگ نے قیمتوں کو گھمایا",
+      "desc_ur": "گلف ہوٹل مارکیٹ میں پریشان کن فروخت کا کوئی ثبوت نہیں ہے۔ لیکن جنگ نے واضح طور پر ریاضی کو تبدیل کر دیا خریداروں کو سودے بند کرنے کی ضرورت ہے۔"
+    },
+    {
+      "title": "Trump administration eyes Iran midterm play",
+      "desc": "As the Trump administration weighs next steps in the Iran war, at least some in the administration worry that Iran will consider taking action to damage the president ahead of the midterms.\n“I think that’s a real possibility that they may want to inflict some…",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/d0ac58935b012a8c",
-      "time": "2026-10-05T02:13:45",
-      "country": "Europe",
-      "title_ur": "مشرق وسطیٰ کے خام برآمدات میں اضافے کے ساتھ ہی تیل کی کمی، G7 اسٹاک جاری کرنے کے لیے",
-      "desc_ur": "فلورنس ٹین کی طرف سے\nسنگاپور، اکتوبر 5 (رائٹرز) - پیر کو تیل کی قیمتوں میں کمی آئی کیونکہ مشرق وسطیٰ سے خام تیل کی بڑھتی ہوئی برآمدات اور گروپ آف سیون ممالک کی جانب سے تیل کے ذخیرے کا اجراء خلیجی تیل کی مالیت کو مزید نقصان پہنچنے کے جاری خدشات کے باوجود سپلائی میں اضافہ کر رہا ہے…"
-    },
-    {
-      "title": "Jeffries says House Democrats reaching to flip Trump districts",
-      "desc": "House Democratic leader Hakeem Jeffries says his party is on track to win back control of the House",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/Politics/wireStory/jeffries-house-democrats-reaching-flip-trump-districts-attempt-136993177",
-      "time": "2026-10-05T02:13:22",
-      "country": "US",
-      "title_ur": "جیفریز کا کہنا ہے کہ ہاؤس ڈیموکریٹس ٹرمپ کے اضلاع کو تبدیل کرنے کے لیے پہنچ رہے ہیں۔",
-      "desc_ur": "ہاؤس ڈیموکریٹک رہنما حکیم جیفریز کا کہنا ہے کہ ان کی پارٹی ایوان پر دوبارہ کنٹرول حاصل کرنے کی راہ پر گامزن ہے۔"
-    },
-    {
-      "title": "OPEC+ holds output targets steady as Middle East conflict tightens supply - Investing.com",
-      "desc": "OPEC+ holds output targets steady as Middle East conflict tightens supplyInvesting.com OPEC+ agrees to keep November oil output targets steadyCNBC OPEC, Allies Hold Oil Output Steady Amid Middle East TensionsWSJ Large oil exporters agree to continue consisten…",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186025046",
-      "time": "2026-10-05T02:12:48",
-      "country": "International",
-      "title_ur": "OPEC+ نے پیداواری اہداف کو مستحکم رکھا کیونکہ مشرق وسطیٰ کے تنازعے نے سپلائی کو سخت کر دیا - Investing.com",
-      "desc_ur": "OPEC+ نے پیداوار کے اہداف کو مستحکم رکھا ہے کیونکہ مشرق وسطیٰ کے تنازعے میں سپلائی سخت ہوتی ہے Investing.com OPEC+ نومبر کے تیل کی پیداوار کے اہداف کو مستحکم رکھنے پر راضی ہےCNBC OPEC، اتحادیوں نے مشرق وسطیٰ کی کشیدگی کے درمیان تیل کی پیداوار کو مستحکم رکھاWSJ بڑے تیل برآمد کنندگان مسلسل جاری رکھنے پر متفق ہیں…"
-    },
-    {
-      "title": "Oil Price Today (October 5): Crude oil dips to $101 despite simmering Iran war tensions. Here’s why",
-      "desc": "Brent crude futures fell 70 cents, or 0.69%, to $101.60 a barrel, while US West Texas Intermediate crude was at $90.15 a barrel, down 90 cents, or 1.07%.",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-october-5-crude-oil-dips-101-despite-simmering-iran-war-tensions-heres-why/articleshow/134683960.cms",
-      "time": "2026-10-05T02:10:42",
+      "url": "https://biztoc.com/x/2515499fddbdeedb",
+      "time": "2026-10-05T08:58:42",
       "country": "Iran",
-      "title_ur": "تیل کی قیمت آج (5 اکتوبر): ایران کی جنگی کشیدگی کے باوجود خام تیل 101 ڈالر تک گر گیا۔ یہاں کیوں ہے",
-      "desc_ur": "برینٹ کروڈ فیوچر 70 سینٹس یا 0.69 فیصد گر کر 101.60 ڈالر فی بیرل پر آ گیا جبکہ یو ایس ویسٹ ٹیکساس انٹرمیڈیٹ کروڈ 90 سینٹس یا 1.07 فیصد کم ہو کر 90.15 ڈالر فی بیرل پر رہا۔"
+      "title_ur": "ٹرمپ انتظامیہ کی نظریں ایران کے وسط مدتی کھیل پر ہیں۔",
+      "desc_ur": "چونکہ ٹرمپ انتظامیہ ایران جنگ میں اگلے اقدامات پر غور کر رہی ہے، کم از کم انتظامیہ میں سے کچھ لوگوں کو خدشہ ہے کہ ایران وسط مدتی سے پہلے صدر کو نقصان پہنچانے کے لیے کارروائی کرنے پر غور کرے گا۔\n\"مجھے لگتا ہے کہ یہ ایک حقیقی امکان ہے کہ وہ کچھ کو متاثر کرنا چاہتے ہیں…"
     },
     {
-      "title": "Markets bet on RBI rate hike as inflation pressure builds",
-      "desc": "As inflation concerns rise, investors are putting their faith in the Reserve Bank of India to implement an interest rate hike. A survey reveals that nearly 60% of economists believe a 25-basis-point increase is likely at the coming policy meeting. With an eye…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/markets-bet-on-rbi-rate-hike-as-inflation-pressure-builds/articleshow/134683865.cms",
-      "time": "2026-10-05T02:07:42",
-      "country": "India",
-      "title_ur": "مارکیٹس آر بی آئی کی شرح میں اضافے پر شرط لگاتی ہیں کیونکہ افراط زر کے دباؤ میں اضافہ ہوتا ہے۔",
-      "desc_ur": "مہنگائی کے خدشات بڑھنے کے ساتھ ہی، سرمایہ کار شرح سود میں اضافے کو لاگو کرنے کے لیے ریزرو بینک آف انڈیا پر بھروسہ کر رہے ہیں۔ ایک سروے سے پتہ چلتا ہے کہ تقریباً 60 فیصد ماہرین اقتصادیات کا خیال ہے کہ آنے والی پالیسی میٹنگ میں 25 بیس پوائنٹ اضافہ کا امکان ہے۔ آنکھ سے…"
-    },
-    {
-      "title": "Jeffries says House Democrats reaching to flip Trump districts in attempt to repeat their 2018 sweep",
-      "desc": "House Democratic leader Hakeem Jeffries says his party is on track to win back control of the House",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/US/wireStory/jeffries-house-democrats-reaching-flip-trump-districts-attempt-136993176",
-      "time": "2026-10-05T02:04:29",
-      "country": "US",
-      "title_ur": "جیفریز کا کہنا ہے کہ ہاؤس ڈیموکریٹس اپنے 2018 کی جھاڑو کو دہرانے کی کوشش میں ٹرمپ کے اضلاع کو پلٹانے کے لئے پہنچ رہے ہیں",
-      "desc_ur": "ہاؤس ڈیموکریٹک رہنما حکیم جیفریز کا کہنا ہے کہ ان کی پارٹی ایوان پر دوبارہ کنٹرول حاصل کرنے کی راہ پر گامزن ہے۔"
-    },
-    {
-      "title": "Africa faces gunboat diplomacy without the gunboats",
-      "desc": "“Speak softly and carry a big stick; you will go far.” That was one of the mantras of Theodore ‘Teddy’ Roosevelt, the 26th president of the United States. It meant diplomacy backed by force. As US imperial ambitions expanded, the message was clear: negotiatio…",
-      "source": "Thechronicle.com.gh",
-      "url": "https://thechronicle.com.gh/africa-faces-gunboat-diplomacy-without-the-gunboats/",
-      "time": "2026-10-05T02:01:47",
-      "country": "US",
-      "title_ur": "افریقہ کو گن بوٹس کے بغیر گن بوٹ ڈپلومیسی کا سامنا ہے۔",
-      "desc_ur": "’’آہستہ بولو اور ایک بڑی چھڑی اٹھاؤ، تم بہت دور جائو گے۔‘‘ یہ ریاستہائے متحدہ کے 26 ویں صدر تھیوڈور 'ٹیڈی' روزویلٹ کے منتروں میں سے ایک تھا۔ اس کا مطلب تھا طاقت کے ذریعے حمایت یافتہ سفارت کاری۔ جیسے جیسے امریکی سامراجی عزائم پھیلتے گئے، پیغام واضح تھا: مذاکرات…"
-    },
-    {
-      "title": "Lanterns Season-Finale Recap: In Brightest Day",
-      "desc": "An emotional ‘Lanterns’ finale full of deep introspection and difficult truths caps off a strong entry into the superhero TV canon.",
-      "source": "Vulture",
-      "url": "http://www.vulture.com/article/lanterns-finale-recap-season-1-episode-8-hbo.html",
-      "time": "2026-10-05T02:00:34",
-      "country": "International",
-      "title_ur": "لالٹینز سیزن-فائنل ریکیپ: روشن ترین دن میں",
-      "desc_ur": "گہری خود شناسی اور مشکل سچائیوں سے بھرا ایک جذباتی 'Lanterns' فائنل سپر ہیرو ٹی وی کینن میں زبردست داخلے کو روکتا ہے۔"
-    },
-    {
-      "title": "Badenoch ally attacks Burnham’s ‘hope hard enough’ economic message as ‘absolutely mad’",
-      "desc": "Shadow Work and Pensions Secretary Helen Whately says Conservatives will present “very different view of the country” — and defends policy on pensions triple lock.",
-      "source": "POLITICO.eu",
-      "url": "https://www.politico.eu/article/helen-whately-kemi-badenoch-ally-andy-burnham-hope-hard-enough-economic-message-absolutely-mad/",
-      "time": "2026-10-05T02:00:00",
-      "country": "International",
-      "title_ur": "بیڈینوچ کے اتحادی نے برنہم کے 'امید کافی مشکل' اقتصادی پیغام کو 'بالکل پاگل' قرار دیا",
-      "desc_ur": "شیڈو ورک اور پنشن کی سیکرٹری ہیلن وٹلی کا کہنا ہے کہ کنزرویٹو \"ملک کے بارے میں بہت مختلف نقطہ نظر\" پیش کریں گے - اور پنشن ٹرپل لاک پر پالیسی کا دفاع کریں گے۔"
-    },
-    {
-      "title": "4 reasons for Kemi Badenoch to be cheerful — and 3 looming headaches",
-      "desc": "Britain's Tories gather in Birmingham stronger than they’ve been in years — but face a long road from here to winning.",
-      "source": "POLITICO.eu",
-      "url": "https://www.politico.eu/article/kemi-badenochs-4-reasons-to-be-cheerful-and-3-signs-she-should-be-worried/",
-      "time": "2026-10-05T02:00:00",
-      "country": "UK",
-      "title_ur": "Kemi Badenoch کے خوش رہنے کی 4 وجوہات - اور 3 سر میں درد",
-      "desc_ur": "برطانیہ کے ٹوریز برمنگھم میں برسوں سے زیادہ مضبوط جمع ہیں — لیکن یہاں سے جیتنے کے لیے ایک طویل راستہ کا سامنا ہے۔"
-    },
-    {
-      "title": "Iran FM rejects report that two diplomats were ‘kicked out’ of US",
-      "desc": "Iranian Foreign Minister Seyed Abbas Araghchi denied reports about the expulsion of Iranian diplomats from the United States. Following the UN General Assembly, he stated all but one diplomat left as scheduled. Reports suggested two members defied a US State …",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-fm-rejects-report-that-two-diplomats-were-kicked-out-of-us/articleshow/134683799.cms",
-      "time": "2026-10-05T01:58:24",
-      "country": "Iran",
-      "title_ur": "ایران کے وزیر خارجہ نے دو سفارت کاروں کو امریکہ سے نکالے جانے کی رپورٹ کو مسترد کر دیا۔",
-      "desc_ur": "ایرانی وزیر خارجہ سید عباس عراقچی نے امریکہ سے ایرانی سفارت کاروں کو نکالے جانے کی خبروں کی تردید کی ہے۔ اقوام متحدہ کی جنرل اسمبلی کے بعد، انہوں نے کہا کہ ایک سفارت کار کے علاوہ باقی تمام شیڈول کے مطابق چلے گئے۔ رپورٹس میں بتایا گیا ہے کہ دو ارکان نے امریکی ریاست کی مخالفت کی…"
-    },
-    {
-      "title": "US pulls bombers out of UK's Fairford airbase after arrests",
-      "desc": "Following a suspected terrorist plot targeting the UK's Fairford airbase, the US Air Force withdrew all its B-1 planes from the site. A week after several men were detained at the Royal Air Force (RAF) base in the UK's Fairford on suspicion of planning terror…",
-      "source": "DW (English)",
-      "url": "https://www.dw.com/en/us-pulls-bombers-out-of-uks-fairford-airbase-after-arrests/a-79541731",
-      "time": "2026-10-05T01:58:00",
-      "country": "UK",
-      "title_ur": "امریکہ نے گرفتاریوں کے بعد حملہ آوروں کو برطانیہ کے فیئر فورڈ ایئربیس سے باہر نکال لیا۔",
-      "desc_ur": "برطانیہ کے فیئرفورڈ ایئربیس کو نشانہ بنانے کے مشتبہ دہشت گردانہ منصوبے کے بعد، امریکی فضائیہ نے اپنے تمام B-1 طیارے اس جگہ سے واپس لے لیے۔ برطانیہ کے فیئر فورڈ میں رائل ایئر فورس (RAF) کے اڈے پر دہشت گردی کی منصوبہ بندی کے شبے میں متعدد افراد کو حراست میں لینے کے ایک ہفتے بعد…"
-    },
-    {
-      "title": "Japan should keep focus on cheap Mideast oil, local refiner says",
-      "desc": "The comments from Taiyo Oil's CEO push back against a government drive to diversify crude sourcing triggered by the U.S.-Iran war.",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/6da107965297dd9d",
-      "time": "2026-10-05T01:57:57",
-      "country": "Iran",
-      "title_ur": "مقامی ریفائنر کا کہنا ہے کہ جاپان کو مشرق وسطیٰ کے سستے تیل پر توجہ مرکوز رکھنی چاہیے۔",
-      "desc_ur": "تائیو آئل کے سی ای او کے تبصرے امریکہ-ایران جنگ کی وجہ سے شروع ہونے والی خام تیل کی فراہمی کو متنوع بنانے کی حکومتی مہم کے خلاف پیچھے ہٹ رہے ہیں۔"
+      "title": "Flydubai co-pilot planned attack before airline hired him, Israeli officials say",
+      "desc": "By Alexander Cornwell and Maayan Lubell JERUSALEM, Oct 5 (Reuters) - The flydubai co-pilot who stabbed his captain in a suspected attempt to crash the plane has told UAE interrogators he planned the attack before he was hired by the Dubai state-owned airline,…",
+      "source": "Yahoo Entertainment",
+      "url": "https://www.yahoo.com/news/us/articles/co-pilot-planned-flydubai-attack-063750438.html",
+      "time": "2026-10-05T08:55:12",
+      "country": "Israel",
+      "title_ur": "اسرائیلی حکام کا کہنا ہے کہ فلائی دبئی کے شریک پائلٹ نے ائیر لائن کی خدمات حاصل کرنے سے پہلے حملے کا منصوبہ بنایا تھا۔",
+      "desc_ur": "الیگزینڈر کارن ویل اور مایان لوبیل یروشلم، 5 اکتوبر (رائٹرز) - فلائی دبئی کے شریک پائلٹ نے جس نے اپنے کپتان کو جہاز کو گرانے کی مشتبہ کوشش میں چاقو مارا تھا، نے متحدہ عرب امارات کے تفتیش کاروں کو بتایا ہے کہ اس نے دبئی کی سرکاری ایئرلائن کی خدمات حاصل کرنے سے پہلے اس حملے کی منصوبہ بندی کی تھی،…"
     }
   ],
   "pakistan": [
     {
-      "title": "Gold inches up as October Fed rate hike prospects fade",
-      "desc": "During early Monday trading in Asia, gold prices surged due to lackluster US job growth figures. This disappointing employment data notably diminished the Federal Reserve's likelihood of raising interest rates in October, prompting investors to pivot towards …",
+      "title": "Another showdown brewing in Pakistan? Imran Khan supporters hit streets after talks fail",
+      "desc": "Thousands of supporters of jailed former Pakistan prime minister Imran Khan began a march towards Islamabad on Sunday, demanding his release after talks",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-inches-up-as-october-fed-rate-hike-prospects-fade/articleshow/134683767.cms",
-      "time": "2026-10-05T01:56:32",
+      "url": "https://timesofindia.indiatimes.com/world/pakistan/another-showdown-brewing-in-pakistan-imran-khan-supporters-hit-streets-after-talks-fail/articleshow/134689447.cms",
+      "time": "2026-10-05T08:32:43",
       "country": "Pakistan",
-      "title_ur": "اکتوبر فیڈ کی شرح میں اضافے کے امکانات ختم ہوتے ہی سونا انچ بڑھ گیا۔",
-      "desc_ur": "ایشیا میں پیر کے اوائل میں ٹریڈنگ کے دوران، امریکی ملازمتوں میں اضافے کے کمزور اعداد و شمار کی وجہ سے سونے کی قیمتوں میں اضافہ ہوا۔ روزگار کے اس مایوس کن اعداد و شمار نے خاص طور پر فیڈرل ریزرو کے اکتوبر میں شرح سود میں اضافے کے امکانات کو کم کر دیا، جس سے سرمایہ کاروں کو…"
-    },
-    {
-      "title": "Iran’s Electro-Optical Missiles Take Out F-15s & Warships – Yemen Offensive Shocks Israel",
-      "desc": "Ansarallah-led government forces have liberated the entire west coast of Yemen from Saudi-backed forces, triggering an Israeli media meltdown. Meanwhile, Iran’s Islamic Revolutionary Guard Corps (IRGC) have taken out a series of US assets and began firing new…",
-      "source": "Activistpost.com",
-      "url": "https://activistpost.com/irans-electro-optical-missiles-take-out-f-15s-warships-yemen-offensive-shocks-israel/",
-      "time": "2026-10-05T01:44:00",
-      "country": "Pakistan",
-      "title_ur": "ایران کے الیکٹرو آپٹیکل میزائلوں نے ایف 15 اور جنگی جہازوں کو مار گرایا – یمن جارحانہ اسرائیل کو جھٹکا",
-      "desc_ur": "انصاراللہ کی قیادت میں حکومتی فورسز نے یمن کے پورے مغربی ساحل کو سعودی حمایت یافتہ فورسز سے آزاد کرالیا ہے جس سے اسرائیلی میڈیا میں مایوسی پھیل گئی ہے۔ دریں اثنا، ایران کے اسلامی انقلابی گارڈ کور (IRGC) نے امریکی اثاثوں کا ایک سلسلہ نکال لیا ہے اور نئی فائرنگ شروع کردی ہے…"
-    },
-    {
-      "title": "Hidden cost of travel: Visa fees, card markups, optional tours and tips that can add 25-40% to budget; here's how to plan for them",
-      "desc": "Many travelers fail to account for hidden costs while planning international journeys, often only considering major expenses. These overlooked charges can hike trip costs by 25-40%, creating budget overruns. It's vital to include local transport, dining, and …",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/wealth/spend/hidden-cost-of-travel-visa-fees-card-markups-optional-tours-and-tips-that-can-add-25-40-to-budget-heres-how-to-plan-for-them/articleshow/134651425.cms",
-      "time": "2026-10-05T01:00:00",
-      "country": "Pakistan",
-      "title_ur": "سفر کی پوشیدہ قیمت: ویزا فیس، کارڈ مارک اپ، اختیاری ٹور اور ٹپس جو بجٹ میں 25-40% کا اضافہ کر سکتے ہیں۔ یہاں ان کے لئے منصوبہ بندی کرنے کا طریقہ ہے",
-      "desc_ur": "بہت سے مسافر بین الاقوامی سفر کی منصوبہ بندی کے دوران پوشیدہ اخراجات کا حساب دینے میں ناکام رہتے ہیں، اکثر صرف بڑے اخراجات پر غور کرتے ہیں۔ یہ نظر انداز کیے گئے چارجز ٹرپ کے اخراجات میں 25-40% اضافہ کر سکتے ہیں، جس سے بجٹ میں اضافہ ہو سکتا ہے۔ مقامی ٹرانسپورٹ، ڈائننگ، اور…"
+      "title_ur": "پاکستان میں ایک اور ہنگامہ آرائی؟ مذاکرات ناکام ہونے پر عمران خان کے حامی سڑکوں پر نکل آئے",
+      "desc_ur": "جیل میں بند پاکستان کے سابق وزیر اعظم عمران خان کے ہزاروں حامیوں نے اتوار کو اسلام آباد کی طرف مارچ شروع کیا اور مذاکرات کے بعد ان کی رہائی کا مطالبہ کیا۔"
     }
   ],
   "business": {
@@ -196,11 +176,11 @@
       {
         "date": "2026-10-06",
         "day": "منگل",
-        "high": 34,
-        "low": 24,
-        "condition": "Thunderstorm",
-        "condition_ur": "گرج چمک",
-        "precip": 12
+        "high": 35,
+        "low": 25,
+        "condition": "Light Drizzle",
+        "condition_ur": "ہلکی بوندا باندی",
+        "precip": 44
       },
       {
         "date": "2026-10-07",
@@ -209,48 +189,48 @@
         "low": 22,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 85
+        "precip": 100
       },
       {
         "date": "2026-10-08",
         "day": "جمعرات",
-        "high": 30,
-        "low": 23,
-        "condition": "Drizzle",
-        "condition_ur": "بوندا باندی",
-        "precip": 61
+        "high": 31,
+        "low": 24,
+        "condition": "Light Drizzle",
+        "condition_ur": "ہلکی بوندا باندی",
+        "precip": 47
       },
       {
         "date": "2026-10-09",
         "day": "جمعہ",
-        "high": 30,
-        "low": 22,
+        "high": 31,
+        "low": 23,
         "condition": "Mainly Clear",
         "condition_ur": "زیادہ تر صاف",
-        "precip": 24
+        "precip": 18
       },
       {
         "date": "2026-10-10",
         "day": "ہفتہ",
-        "high": 30,
-        "low": 22,
-        "condition": "Light Drizzle",
-        "condition_ur": "ہلکی بوندا باندی",
+        "high": 29,
+        "low": 23,
+        "condition": "Thunderstorm",
+        "condition_ur": "گرج چمک",
         "precip": 22
       },
       {
         "date": "2026-10-11",
         "day": "اتوار",
         "high": 29,
-        "low": 21,
-        "condition": "Thunderstorm",
-        "condition_ur": "گرج چمک",
-        "precip": 18
+        "low": 20,
+        "condition": "Drizzle",
+        "condition_ur": "بوندا باندی",
+        "precip": 31
       },
       {
         "date": "2026-10-12",
         "day": "پیر",
-        "high": 30,
+        "high": 29,
         "low": 22,
         "condition": "Clear",
         "condition_ur": "صاف",
