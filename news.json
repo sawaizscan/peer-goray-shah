@@ -1,243 +1,183 @@
 {
-  "generated": "2026-10-07T20:03:22Z",
+  "generated": "2026-10-08T00:17:53Z",
   "world": [
     {
-      "title": "Crackdown on hookah service: 42 held in Kaiserbagh cafe raid, owners on the run",
-      "desc": "Lucknow police raid Kaiserbagh’s Cafe Tales, detain 42 and seize 14 hookahs; owners absconding. Action under BNS and COTPA after HC ruling.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/lucknow/crackdown-on-hookah-service-42-held-in-kaiserbagh-cafe-raid-owners-on-the-run/articleshow/134749826.cms",
-      "time": "2026-10-06T20:01:53",
-      "country": "International",
-      "title_ur": "ہکا سروس کے خلاف کریک ڈاؤن: قیصر باغ کیفے پر چھاپہ، 42 گرفتار، مالکان فرار",
-      "desc_ur": "لکھنؤ پولیس نے قیصر باغ کے کیفے ٹیلز پر چھاپہ مارا، 42 کو حراست میں لیا اور 14 ہُکّے ضبط کیے؛ مالکان مفرور ہائی کورٹ کے فیصلے کے بعد BNS اور COTPA کے تحت کارروائی۔"
+      "title": "Vance: Iran must make 'meaningful' nuclear concessions to end war",
+      "desc": "US Vice President says Iran must significantly reduce its nuclear enrichment capacity for a deal to end the war.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/434216",
+      "time": "2026-10-07T00:15:10",
+      "country": "Iran",
+      "title_ur": "وینس: ایران کو جنگ کے خاتمے کے لیے 'بامعنی' جوہری مراعات دینی چاہئیں",
+      "desc_ur": "امریکی نائب صدر کا کہنا ہے کہ جنگ کے خاتمے کے لیے ایران کو اپنی جوہری افزودگی کی صلاحیت کو نمایاں طور پر کم کرنا ہوگا۔"
     },
     {
-      "title": "Ease of voting becomes a divide between 2 Nandigram blocks",
-      "desc": "Nandigram bypoll saw 80.8% turnout by 7pm amid voter intimidation claims; BJP’s Suvendu Adhikari predicts win as Congress alleges rigging, seeks repoll.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/kolkata/ease-of-voting-becomes-a-divide-between-2-nandigram-blocks/articleshow/134749825.cms",
-      "time": "2026-10-06T20:01:44",
-      "country": "International",
-      "title_ur": "ووٹنگ میں آسانی 2 نندی گرام بلاکس کے درمیان تقسیم بن جاتی ہے۔",
-      "desc_ur": "نندی گرام ضمنی انتخاب میں ووٹروں کو ڈرانے دھمکانے کے دعووں کے درمیان شام 7 بجے تک 80.8 فیصد ٹرن آؤٹ دیکھا گیا۔ بی جے پی کے سویندو ادھیکاری نے جیت کی پیشین گوئی کی کیونکہ کانگریس نے دھاندلی کا الزام لگایا، دوبارہ پولنگ کی کوشش کی۔"
-    },
-    {
-      "title": "HC fumes as 5 of 6 muck sites near Dharamshala on forest land",
-      "desc": "Himachal Pradesh HC questions muck dumping near Dharamshala as 5 of 6 proposed sites are on forest land, seeks affidavits and non-forest alternatives by Dec 2.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/hc-fumes-as-5-of-6-muck-sites-near-dharamshala-on-forest-land/articleshow/134749812.cms",
-      "time": "2026-10-06T20:01:36",
-      "country": "International",
-      "title_ur": "HC جنگل کی زمین پر دھرم شالہ کے قریب 6 میں سے 5 گوبر کی جگہوں کے طور پر دھواں اٹھتا ہے۔",
-      "desc_ur": "ہماچل پردیش ہائی کورٹ نے دھرم شالہ کے قریب کچرا پھینکنے پر سوال اٹھائے ہیں کیوں کہ 6 میں سے 5 مجوزہ جگہیں جنگل کی زمین پر ہیں، 2 دسمبر تک حلف نامے اور غیر جنگلاتی متبادل تلاش کرتا ہے۔"
-    },
-    {
-      "title": "89-yr-old held in ‘digital arrest’ for 22 days, duped of ₹16L",
-      "desc": "Lucknow: Fraudsters posing as ATS kept an 89-year-old under “digital arrest” for 22 days, threatening him and duping him of ₹16.09 lakh via bank transfers.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/lucknow/89-yr-old-held-in-digital-arrest-for-22-days-duped-of-16l/articleshow/134749823.cms",
-      "time": "2026-10-06T20:00:42",
-      "country": "International",
-      "title_ur": "89 سالہ بوڑھے کو 22 دن تک ’ڈیجیٹل گرفتاری‘ میں رکھا گیا، 16 لاکھ روپے کا دھوکہ",
-      "desc_ur": "لکھنؤ: اے ٹی ایس کا روپ دھار کر دھوکہ دہی کرنے والوں نے 89 سالہ بوڑھے کو 22 دن تک \"ڈیجیٹل گرفتاری\" میں رکھا، اسے دھمکی دی اور بینک ٹرانسفر کے ذریعے 16.09 لاکھ روپے کا دھوکہ دیا۔"
-    },
-    {
-      "title": "FBI investigated mom over ties to ‘right-wing’ Moms for Liberty group, bombshell DOJ report reveals",
-      "desc": "Tina Descovich says Moms for Liberty feels vindication after a DOJ report revealed the FBI opened 25 Guardian assessments targeting parents.",
+      "title": "Trump says Putin call coming ‘very soon’ as US tracks suspected plague death in Russia",
+      "desc": "President Donald Trump says he'll speak with Vladimir Putin \"very soon\" as his administration tracks a suspected pneumonic plague death in Siberia.",
       "source": "Fox News",
-      "url": "https://www.foxnews.com/media/fbi-investigated-mom-ties-right-wing-moms-liberty-group-bombshell-doj-report-reveals",
-      "time": "2026-10-06T20:00:19",
-      "country": "Saudi Arabia",
-      "title_ur": "ایف بی آئی نے لبرٹی گروپ کے لئے 'دائیں بازو' کی ماں سے تعلقات پر ماں سے تفتیش کی، بمشیل ڈی او جے کی رپورٹ سے پتہ چلتا ہے",
-      "desc_ur": "ٹینا ڈیسکووچ کا کہنا ہے کہ DOJ کی ایک رپورٹ کے بعد FBI نے والدین کو نشانہ بنانے والے گارڈین کے 25 جائزے کھولے ہیں جس کے بعد Moms for Liberty کو ثابت قدمی محسوس ہوتی ہے۔"
+      "url": "https://www.foxnews.com/politics/trump-says-putin-call-coming-very-soon-us-tracks-suspected-plague-death-russia",
+      "time": "2026-10-07T00:08:29",
+      "country": "Russia",
+      "title_ur": "ٹرمپ کا کہنا ہے کہ پیوٹن کی کال 'بہت جلد' آرہی ہے کیونکہ امریکہ روس میں طاعون کی مشتبہ موت کا سراغ لگا رہا ہے۔",
+      "desc_ur": "صدر ڈونلڈ ٹرمپ کا کہنا ہے کہ وہ ولادیمیر پوٹن سے \"بہت جلد\" بات کریں گے کیونکہ ان کی انتظامیہ سائبیریا میں نیومونک طاعون کی مشتبہ موت کا سراغ لگا رہی ہے۔"
     },
     {
-      "title": "Activists Target What They Call a Major “Spy Center” for ICE in Rural Vermont",
-      "desc": "As ICE widens its surveillance dragnet, activists plan a week of action to disrupt a major data network.",
-      "source": "Truthout",
-      "url": "https://truthout.org/articles/activists-target-what-they-call-a-major-spy-center-for-ice-in-rural-vermont/",
-      "time": "2026-10-06T20:00:03",
-      "country": "International",
-      "title_ur": "کارکنان اسے نشانہ بناتے ہیں جسے وہ دیہی ورمونٹ میں ICE کے لیے ایک بڑا \"جاسوس مرکز\" کہتے ہیں۔",
-      "desc_ur": "جیسا کہ ICE اپنے نگرانی کے ڈریگنیٹ کو وسیع کرتا ہے، کارکنان ایک بڑے ڈیٹا نیٹ ورک میں خلل ڈالنے کے لیے ایک ہفتے کی کارروائی کا منصوبہ بناتے ہیں۔"
-    },
-    {
-      "title": "Wisconsin homeowner vows to fight proposed data-center power line after utility offered $81,000 plus $50,000 to clear a 1,000-by-75-foot corridor and remove six outbuildings",
-      "desc": "Wisconsin homeowner vows to fight proposed data-center power line after utility offered $81,000 plus $50,000 to clear a 1,000-by-75-foot corridor and remove six outbuildings",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/us/wisconsin-homeowner-vows-to-fight-proposed-data-center-power-line-after-utility-offered-81000-plus-50000-to-clear-a-1000-by-75-foot-corridor-and-remove-six-outbuildings/articleshow/134749793.cms",
-      "time": "2026-10-06T20:00:02",
+      "title": "Trump’s Other War",
+      "desc": "As the midterm election draws near, a number of Republicans in tough races are distancing themselves from President Trump’s war. The war is unpopular because it has inflicted economic pain on the already-suffering American people. No, I am not talking about t…",
+      "source": "Antiwar.com",
+      "url": "https://original.antiwar.com/paul/2026/10/06/trumps-other-war/",
+      "time": "2026-10-07T00:00:45",
       "country": "US",
-      "title_ur": "وسکونسن کے گھر کے مالک نے مجوزہ ڈیٹا سینٹر پاور لائن سے لڑنے کا عہد کیا جب یوٹیلیٹی کی جانب سے 1,000 بائی 75 فٹ کوریڈور کو صاف کرنے اور چھ آؤٹ بلڈنگز کو ہٹانے کے لیے $81,000 جمع $50,000 کی پیشکش کی گئی۔",
-      "desc_ur": "وسکونسن کے گھر کے مالک نے مجوزہ ڈیٹا سینٹر پاور لائن سے لڑنے کا عہد کیا جب یوٹیلیٹی کی جانب سے 1,000 بائی 75 فٹ کوریڈور کو صاف کرنے اور چھ آؤٹ بلڈنگز کو ہٹانے کے لیے $81,000 جمع $50,000 کی پیشکش کی گئی۔"
+      "title_ur": "ٹرمپ کی دوسری جنگ",
+      "desc_ur": "جیسے جیسے وسط مدتی انتخابات قریب آرہے ہیں، سخت دوڑ میں شامل متعدد ریپبلکن صدر ٹرمپ کی جنگ سے خود کو دور کر رہے ہیں۔ یہ جنگ غیر مقبول ہے کیونکہ اس نے پہلے سے ہی مشکلات کا شکار امریکی عوام کو معاشی تکلیف پہنچائی ہے۔ نہیں، میں ٹی کے بارے میں بات نہیں کر رہا ہوں…"
     },
     {
-      "title": "China Refiners Flock to Iraqi Crude",
-      "desc": "China's independent refiners are turning to Iraqi crude.",
-      "source": "Rigzone",
-      "url": "https://www.rigzone.com/news/wire/china_refiners_flock_to_iraqi_crude-06-oct-2026-184784-article/",
-      "time": "2026-10-06T20:00:01",
-      "country": "Iraq",
-      "title_ur": "چائنا ریفائنرز عراقی خام تیل کی طرف آتے ہیں۔",
-      "desc_ur": "چین کے خود مختار ریفائنرز عراقی خام تیل کا رخ کر رہے ہیں۔"
+      "title": "The Donald’s Quixote Is Tilting at Iranian Windmills",
+      "desc": "Treasury Secy Scott Bessent clearly endeavors to be the second Pete Hegseth of Trump World, albeit via packing heat in the form of economic missiles rather than the kinetic kind. In fact, however, his ballyhooed Operation Economic Outcast actually amounts to …",
+      "source": "Antiwar.com",
+      "url": "https://original.antiwar.com/david_stockman/2026/10/06/the-donalds-quixote-is-tilting-at-iranian-windmills/",
+      "time": "2026-10-07T00:00:02",
+      "country": "Iran",
+      "title_ur": "ڈونلڈ کا کوئزوٹ ایرانی ونڈ ملز پر جھک رہا ہے۔",
+      "desc_ur": "ٹریژری سیکری اسکاٹ بیسنٹ واضح طور پر ٹرمپ ورلڈ کے دوسرے پیٹ ہیگستھ بننے کی کوشش کر رہے ہیں، حالانکہ وہ حرکی قسم کے بجائے اقتصادی میزائلوں کی شکل میں ہیٹ پیکنگ کے ذریعے۔ درحقیقت، تاہم، اس کا بالی ہُوڈ آپریشن اکنامک آؤٹ کاسٹ درحقیقت…"
     },
     {
-      "title": "Halliburton Shuns Falklands Oil Project",
-      "desc": "One of the world’s largest oilfield service providers has refused to get involved in the Sea Lion oil project off the coast of the Falkland Islands, amid a step-up in pressure from the Argentine president on the companies leading the work. Halliburton, in fac…",
+      "title": "Why sound, strong science alone isn’t enough in pandemic preparedness",
+      "desc": "Comparable data are key to protecting the world from the next epidemic, says bioengineer Polina Brangel.",
+      "source": "Nature.com",
+      "url": "https://www.nature.com/articles/d41586-026-02985-5",
+      "time": "2026-10-07T00:00:00",
+      "country": "International",
+      "title_ur": "وبائی امراض کی تیاری میں صرف مضبوط سائنس کیوں کافی نہیں ہے۔",
+      "desc_ur": "بائیو انجینیئر پولینا برینگل کا کہنا ہے کہ تقابلی ڈیٹا دنیا کو اگلی وبا سے بچانے کی کلید ہے۔"
+    },
+    {
+      "title": "How to Plan the Ultimate City Break to Ottawa",
+      "desc": "Canada’s capital city is celebrating its 200th anniversary this year — the perfect excuse to trace how it’s evolved through history.",
+      "source": "National Geographic",
+      "url": "https://www.nationalgeographic.com/travel/article/city-guide-to-ottawa-canada-heritage-and-modern-activities-in-the-city",
+      "time": "2026-10-07T00:00:00",
+      "country": "US",
+      "title_ur": "اوٹاوا تک الٹیمیٹ سٹی بریک کی منصوبہ بندی کیسے کریں۔",
+      "desc_ur": "کینیڈا کا دارالحکومت اس سال اپنی 200 ویں سالگرہ منا رہا ہے - یہ معلوم کرنے کا بہترین بہانہ کہ یہ تاریخ کے ذریعے کیسے تیار ہوا ہے۔"
+    },
+    {
+      "title": "A selectivity filter in Tim17 mediates intramitochondrial protein sorting",
+      "desc": "Tim17 forms the protein-conducting channel of the mitochondrial inner membrane translocase. Here, authors show that the N-terminus of Tim17 constitutes a negatively charged selectivity filter to facilitate the intramitochondrial protein sorting.",
+      "source": "Nature.com",
+      "url": "https://www.nature.com/articles/s41467-026-77990-3.pdf",
+      "time": "2026-10-07T00:00:00",
+      "country": "US",
+      "title_ur": "Tim17 میں ایک سلیکٹیوٹی فلٹر انٹرامیٹوکونڈریل پروٹین کی چھانٹی میں ثالثی کرتا ہے۔",
+      "desc_ur": "ٹم 17 مائٹوکونڈریل اندرونی جھلی ٹرانسلوکیس کا پروٹین چلانے والا چینل بناتا ہے۔ یہاں، مصنفین ظاہر کرتے ہیں کہ ٹِم 17 کا N-ٹرمینس ایک منفی چارج شدہ سلیکٹیوٹی فلٹر بناتا ہے تاکہ انٹرامیٹوکونڈریل پروٹین کی چھانٹی کو آسان بنایا جا سکے۔"
+    },
+    {
+      "title": "Iran war live: Yemen forces claim control over strategic Taiz mountain peak",
+      "desc": "Yemeni forces claim they have tightened control over the highest peak in the Jabal Habashi district of Taiz.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/7/iran-war-live-yemen-forces-claim-control-over-strategic-taiz-mountain-peak",
+      "time": "2026-10-07T00:00:00",
+      "country": "Iran",
+      "title_ur": "ایران جنگ لائیو: یمنی افواج نے تزئیز پہاڑی چوٹی پر کنٹرول کا دعویٰ کیا ہے۔",
+      "desc_ur": "یمنی فورسز کا دعویٰ ہے کہ انہوں نے تعز کے ضلع جبل حبشی کی بلند ترین چوٹی پر کنٹرول سخت کر لیا ہے۔"
+    },
+    {
+      "title": "‘When prevention disappears, infections rise’: can the world still end AIDS?",
+      "desc": "The United Nations’ deadline for eliminating HIV/AIDS as a public-health threat is unlikely to be met. But medical, political and social advances have raised hopes that longer-term success is still possible.",
+      "source": "Nature.com",
+      "url": "https://www.nature.com/articles/d41586-026-03127-7",
+      "time": "2026-10-07T00:00:00",
+      "country": "International",
+      "title_ur": "'جب روک تھام ختم ہوجاتی ہے تو انفیکشن بڑھ جاتے ہیں': کیا دنیا اب بھی ایڈز کو ختم کرسکتی ہے؟",
+      "desc_ur": "صحت عامہ کے خطرے کے طور پر HIV/AIDS کو ختم کرنے کے لیے اقوام متحدہ کی ڈیڈ لائن کے پورا ہونے کا امکان نہیں ہے۔ لیکن طبی، سیاسی اور سماجی ترقی نے امیدیں پیدا کی ہیں کہ طویل مدتی کامیابی اب بھی ممکن ہے۔"
+    },
+    {
+      "title": "Experimental multi-level calibration of a silicon mini solar cell for low-cost solar irradiance measurement",
+      "desc": "Scientific Reports - Experimental multi-level calibration of a silicon mini solar cell for low-cost solar irradiance measurement",
+      "source": "Nature.com",
+      "url": "https://www.nature.com/articles/s41598-026-56126-z.pdf",
+      "time": "2026-10-07T00:00:00",
+      "country": "International",
+      "title_ur": "کم لاگت شمسی شعاع ریزی کی پیمائش کے لیے سلکان منی سولر سیل کی تجرباتی ملٹی لیول انشانکن",
+      "desc_ur": "سائنسی رپورٹس - کم لاگت شمسی شعاع ریزی کی پیمائش کے لیے سلیکون منی سولر سیل کی تجرباتی ملٹی لیول کیلیبریشن"
+    },
+    {
+      "title": "Why $100 Oil Is Hard to Kill",
+      "desc": "Brent Crude oil prices have held above $100 per barrel for most of the past month despite numerous reports and figures put out in recent weeks by tanker-tracking services and investment banks that crude oil flows from the Strait of Hormuz have recovered, and …",
       "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Halliburton-Shuns-Falklands-Oil-Project.html",
-      "time": "2026-10-06T20:00:00",
+      "url": "https://oilprice.com/Energy/Oil-Prices/Why-100-Oil-Is-Hard-to-Kill.html",
+      "time": "2026-10-07T00:00:00",
       "country": "US",
-      "title_ur": "ہیلی برٹن نے فاک لینڈز آئل پروجیکٹ کو ختم کر دیا۔",
-      "desc_ur": "دنیا کے سب سے بڑے آئل فیلڈ سروس فراہم کنندگان میں سے ایک نے جزائر فاک لینڈ کے ساحل پر سی لائین آئل پروجیکٹ میں شامل ہونے سے انکار کر دیا ہے، ارجنٹائن کے صدر کی جانب سے کام کی قیادت کرنے والی کمپنیوں پر دباؤ میں ایک قدم بڑھنے کے درمیان۔ ہالی برٹن، حقیقت میں…"
+      "title_ur": "کیوں 100 ڈالر کا تیل مارنا مشکل ہے۔",
+      "desc_ur": "حالیہ ہفتوں میں ٹینکر ٹریکنگ سروسز اور انویسٹمنٹ بینکوں کی طرف سے سامنے آنے والی متعدد رپورٹس اور اعداد و شمار کے باوجود برینٹ کروڈ آئل کی قیمتیں پچھلے مہینے کے بیشتر عرصے میں 100 ڈالر فی بیرل سے اوپر رہی ہیں کہ آبنائے ہرمز سے خام تیل کا بہاؤ بحال ہو گیا ہے، اور…"
     },
     {
-      "title": "Leopard caught on camera after 50 days of fear in Barabanki village",
-      "desc": "Leopard sighted on camera in Sharifabad village, Barabanki after 50 days; forest department installs night-vision trap cameras and reactivates cage.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/lucknow/leopard-caught-on-camera-after-50-days-of-fear-in-barabanki-village/articleshow/134749821.cms",
-      "time": "2026-10-06T19:59:59",
+      "title": "Dear Albo of 1983, what do you make of yourself now?",
+      "desc": "The University of Sydney is cracking down on students' intellectual freedom. Anthony Albanese, the once proud student protester, is encouraging it.\nThe post Dear Albo of 1983, what do you make of yourself now? appeared first on Crikey.",
+      "source": "Crikey",
+      "url": "http://www.crikey.com.au/2026/10/07/anthony-albanese-student-protest-university-of-sydney-globalise-the-intifada/",
+      "time": "2026-10-06T23:56:53",
       "country": "International",
-      "title_ur": "بارہ بنکی گاؤں میں 50 دن کے خوف کے بعد تیندوا کیمرے میں قید",
-      "desc_ur": "بارہ بنکی کے شریف آباد گاؤں میں 50 دن بعد تیندوا کیمرے پر نظر آیا۔ محکمہ جنگلات نائٹ ویژن ٹریپ کیمرے نصب کرتا ہے اور پنجرے کو دوبارہ فعال کرتا ہے۔"
+      "title_ur": "1983 کے پیارے البو، اب آپ اپنے آپ کو کیا بناتے ہیں؟",
+      "desc_ur": "یونیورسٹی آف سڈنی طلباء کی فکری آزادی پر کریک ڈاؤن کر رہی ہے۔ انتھونی البانیس، جو کبھی قابل فخر طالب علم مظاہرین تھے، اس کی حوصلہ افزائی کر رہے ہیں۔\nThe post 1983 کے ڈیئر البو، اب آپ اپنے آپ کو کیا بناتے ہیں؟ appeared first on Crikey."
     },
     {
-      "title": "Man gets life term for killing woman",
-      "desc": "Barabanki court sentenced Naseem to life for killing a 21-year-old woman in 2019 and dumping her body in a well; convicted under IPC 302, 201, 364, fined ₹1.40 lakh.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/lucknow/man-gets-life-term-for-killing-woman/articleshow/134749817.cms",
-      "time": "2026-10-06T19:59:18",
+      "title": "Chris Murphy Says Pentagon Denied Him Access To U.S. Base In Qatar",
+      "desc": "He described it as part of a U.S. government effort to conceal the impact of the Iran war.",
+      "source": "HuffPost",
+      "url": "https://www.huffpost.com/entry/chris-murphy-qatar-base_n_6ac5876ee4b028b057cbbeba",
+      "time": "2026-10-06T23:54:50",
+      "country": "Iran",
+      "title_ur": "کرس مرفی کا کہنا ہے کہ پینٹاگون نے انہیں قطر میں امریکی اڈے تک رسائی سے انکار کردیا۔",
+      "desc_ur": "انہوں نے اسے امریکی حکومت کی جانب سے ایران جنگ کے اثرات کو چھپانے کی کوشش کا حصہ قرار دیا۔"
+    },
+    {
+      "title": "Yemeni government fighters shown driving vehicles over Houthi opponents - Reuters",
+      "desc": "Yemeni government fighters shown driving vehicles over Houthi opponentsReuters Live Updates: Iran-backed Houthis deny losing ground in Yemen as oil prices ease despite fierce fightingCBS News Why Saudi Arabia’s Last War in Yemen Turned Into a QuagmireThe New …",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186055454",
+      "time": "2026-10-06T23:53:07",
+      "country": "Iran",
+      "title_ur": "یمنی حکومت کے جنگجوؤں نے حوثی مخالفین پر گاڑیاں چلاتے ہوئے دکھایا - رائٹرز",
+      "desc_ur": "یمنی حکومت کے جنگجوؤں نے حوثی مخالفین پر گاڑیاں چلاتے ہوئے دکھایا رائٹرز لائیو اپ ڈیٹس: ایران کے حمایت یافتہ حوثی یمن میں زمین کھونے سے انکار کرتے ہیں کیونکہ شدید لڑائی کے باوجود تیل کی قیمتوں میں کمی سی بی ایس نیوز کیوں یمن میں سعودی عرب کی آخری جنگ ایک دلدل میں بدل گئی"
+    },
+    {
+      "title": "Oct. 7 sadly taught Jews that we stand alone",
+      "desc": "The planet has turned upside-down.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/10/06/opinion/oct-7-sadly-taught-jews-that-we-stand-alone/",
+      "time": "2026-10-06T23:47:49",
       "country": "International",
-      "title_ur": "عورت کو قتل کرنے پر مرد کو عمر قید",
-      "desc_ur": "بارہ بنکی کی عدالت نے نسیم کو 2019 میں ایک 21 سالہ خاتون کو قتل کرنے اور اس کی لاش کو کنویں میں پھینکنے کے جرم میں عمر قید کی سزا سنائی۔ آئی پی سی 302، 201، 364 کے تحت مجرم ٹھہرایا گیا، 1.40 لاکھ روپے کا جرمانہ کیا گیا۔"
-    },
-    {
-      "title": "Slipper left behind by killer helped cops crack teacher couple’s murder",
-      "desc": "Slipper clue led Sultanpur police to arrest school bus driver and aide for murdering teacher couple; CCTV sabotage, phone location and weapons recovered.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/lucknow/slipper-left-behind-by-killer-helped-cops-crack-teacher-couples-murder/articleshow/134749816.cms",
-      "time": "2026-10-06T19:58:26",
-      "country": "US",
-      "title_ur": "قاتل کے پیچھے چھوڑی ہوئی چپل نے پولیس کو ٹیچر جوڑے کے قتل کا سراغ لگانے میں مدد کی۔",
-      "desc_ur": "سلپر سراغ کی وجہ سے سلطان پور پولیس نے ٹیچر جوڑے کے قتل کے الزام میں اسکول بس ڈرائیور اور ساتھی کو گرفتار کرلیا۔ سی سی ٹی وی توڑ پھوڑ، فون لوکیشن اور اسلحہ برآمد۔"
-    },
-    {
-      "title": "Sooryavanshi steals the show, even without playing",
-      "desc": "Lucknow’s Ekana crowd of 45,000 turns up for 15-year-old Vaibhav Sooryavanshi vs West Indies, with fans buying his T-shirts despite him missing XI.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/lucknow/sooryavanshi-steals-the-show-even-without-playing/articleshow/134749815.cms",
-      "time": "2026-10-06T19:58:08",
-      "country": "International",
-      "title_ur": "سوریاونشی بغیر کھیلے بھی شو چرا لیتا ہے۔",
-      "desc_ur": "15 سالہ ویبھو سوریاونشی بمقابلہ ویسٹ انڈیز کے لیے لکھنؤ کے ایکانا کا 45,000 کا ہجوم آیا، الیون کے غائب ہونے کے باوجود شائقین اس کی ٹی شرٹس خرید رہے ہیں۔"
-    },
-    {
-      "title": "British Airways A380 makeover: World’s biggest business class, 30% fewer economy seats and 5 other key changes",
-      "desc": "The carrier will refurbish all 12 of its A380 aircraft, introducing a new business-class cabin that spans the entire upper deck. British Airways has described it as the world’s biggest business-class cabin.",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/companies/news/british-airways-a380-makeover-world-s-biggest-business-class-30-fewer-economy-seats-and-5-other-key-changes-11791309765483.html",
-      "time": "2026-10-06T19:55:50",
-      "country": "UK",
-      "title_ur": "برٹش ایئرویز A380 تبدیلی: دنیا کی سب سے بڑی بزنس کلاس، 30% کم اکانومی سیٹیں اور 5 دیگر اہم تبدیلیاں",
-      "desc_ur": "کیریئر اپنے تمام 12 A380 طیاروں کی تجدید کرے گا، ایک نیا بزنس کلاس کیبن متعارف کرائے گا جو پورے اوپری ڈیک پر پھیلا ہوا ہے۔ برٹش ایئرویز نے اسے دنیا کا سب سے بڑا بزنس کلاس کیبن قرار دیا ہے۔"
-    },
-    {
-      "title": "Solar plant contractor shot dead in Sirsa; money dispute suspected",
-      "desc": "Solar plant contractor Subhash Chandra, 45, shot dead at a Sirsa plant near Jamal village; police probe suspects money dispute and search for assailants.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/solar-plant-contractor-shot-dead-in-sirsa-money-dispute-suspected/articleshow/134749799.cms",
-      "time": "2026-10-06T19:54:44",
-      "country": "US",
-      "title_ur": "سرسا میں سولر پلانٹ کا ٹھیکیدار گولی مار کر ہلاک رقم کا تنازعہ مشتبہ",
-      "desc_ur": "سولر پلانٹ کے ٹھیکیدار 45 سالہ سبھاش چندر کو جمال گاؤں کے قریب سرسا پلانٹ میں گولی مار کر ہلاک کر دیا گیا۔ پولیس کی تفتیش میں رقم کے تنازعہ پر شبہ ہے اور حملہ آوروں کی تلاش ہے۔"
+      "title_ur": "7 اکتوبر نے افسوس کے ساتھ یہودیوں کو سکھایا کہ ہم اکیلے کھڑے ہیں۔",
+      "desc_ur": "سیارہ الٹا ہو گیا ہے۔"
     }
   ],
   "pakistan": [
     {
-      "title": "CBI raid at my camp office part of BJP's poll preparation: CM Mann",
-      "desc": "Punjab CM Bhagwant Mann says CBI raid at his camp office is BJP poll strategy; AAP leaders accuse Centre of misusing ED/CBI ahead of elections.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/cbi-raid-at-my-camp-office-part-of-bjps-poll-preparation-cm-mann/articleshow/134749810.cms",
-      "time": "2026-10-06T20:00:34",
+      "title": "October 7 hostage Mia Schem tells the Mail what she thinks of pro-Palestine 'sheep' who hate Israel, Drake's pro-Gaza song and reveals Hamas brutality left her with one arm shorter than the other",
+      "desc": "On the three-year anniversary of October 7, former Hamas hostage Mia Schem 24, has revealed the lasting physical and psychological scars of captivity.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16186365/October-7-hostage-Mia-Schem-tells-Mail.html",
+      "time": "2026-10-06T23:19:08",
       "country": "Pakistan",
-      "title_ur": "میرے کیمپ آفس پر سی بی آئی کا چھاپہ بی جے پی کی انتخابی تیاری کا حصہ: سی ایم مان",
-      "desc_ur": "پنجاب کے وزیر اعلی بھگونت مان کا کہنا ہے کہ ان کے کیمپ آفس پر سی بی آئی کا چھاپہ بی جے پی کی انتخابی حکمت عملی ہے۔ اے اے پی لیڈروں نے مرکز پر انتخابات سے قبل ای ڈی/سی بی آئی کا غلط استعمال کرنے کا الزام لگایا۔"
+      "title_ur": "7 اکتوبر کو یرغمال میا سکیم نے میل کو بتایا کہ وہ فلسطین کی حامی 'بھیڑوں' کے بارے میں کیا سوچتی ہیں جو اسرائیل سے نفرت کرتی ہیں، ڈریک کا غزہ حامی گانا اور حماس کی بربریت کا انکشاف کرتا ہے کہ اس کا ایک بازو دوسرے سے چھوٹا ہے۔",
+      "desc_ur": "7 اکتوبر کو تین سالہ سالگرہ کے موقع پر، حماس کے سابق یرغمال میا سکیم 24، نے اسیری کے دیرپا جسمانی اور نفسیاتی نشانات کا انکشاف کیا ہے۔"
     },
     {
-      "title": "CBI searches Mann’s camp office after filing FIR against OSD",
-      "desc": "CBI files FIR against Punjab CM Bhagwant Mann’s OSD Rajbir Ghuman, searches 8 locations including Chandigarh camp office in alleged cash-for-transfer graft case.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/cbi-searches-manns-camp-office-after-filing-fir-against-osd/articleshow/134749808.cms",
-      "time": "2026-10-06T20:00:30",
+      "title": "Brett McGurk chronicles negotiations to free Oct. 7 hostages in 'Brink'",
+      "desc": "Brett McGurk served under four presidential administrations, ultimately working as President Biden's lead on foreign policy in the Middle East. During that time, Hamas attacked Israel, killing over a thousand people and taking hundreds hostage. Amna Nawaz sat…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/e12ac64602bd4775",
+      "time": "2026-10-06T23:10:45",
       "country": "Pakistan",
-      "title_ur": "او ایس ڈی کے خلاف ایف آئی آر درج کرنے کے بعد سی بی آئی نے مان کے کیمپ آفس کی تلاشی لی",
-      "desc_ur": "سی بی آئی نے پنجاب کے وزیر اعلی بھگونت مان کے او ایس ڈی راجبیر گھمن کے خلاف ایف آئی آر درج کی، مبینہ نقد رقم کی منتقلی کے بدعنوانی کے معاملے میں چندی گڑھ کیمپ آفس سمیت 8 مقامات کی تلاشی لی۔"
-    },
-    {
-      "title": "Dhillon hits back at Mann: ‘CBI probe ordered by court, not BJP’",
-      "desc": "Punjab BJP chief Kewal Singh Dhillon says CBI probe into allegations against Punjab govt was ordered by Punjab and Haryana High Court, not BJP; urges AAP to cooperate.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/dhillon-hits-back-at-mann-cbi-probe-ordered-by-court-not-bjp/articleshow/134749805.cms",
-      "time": "2026-10-06T20:00:19",
-      "country": "Pakistan",
-      "title_ur": "ڈھلون کا مان پر جوابی حملہ: 'سی بی آئی جانچ کا حکم عدالت نے دیا، بی جے پی نے نہیں'",
-      "desc_ur": "پنجاب بی جے پی کے سربراہ کیول سنگھ ڈھلون کا کہنا ہے کہ پنجاب حکومت کے خلاف الزامات کی سی بی آئی جانچ کا حکم بی جے پی نے نہیں بلکہ پنجاب اور ہریانہ ہائی کورٹ نے دیا تھا۔ AAP سے تعاون کی اپیل کرتا ہے۔"
-    },
-    {
-      "title": "2 killed after pickup crashes into tree in Sirsa",
-      "desc": "Two Punjab milk supply workers died in Sirsa after their pickup hit a roadside tree while avoiding an animal; both were declared dead at Dabwali hospital.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/2-killed-after-pickup-crashes-into-tree-in-sirsa/articleshow/134749801.cms",
-      "time": "2026-10-06T20:00:13",
-      "country": "Pakistan",
-      "title_ur": "سرسا میں پک اپ درخت سے ٹکرا گئی، 2 ہلاک",
-      "desc_ur": "پنجاب کے دودھ سپلائی کرنے والے دو کارکن سرسا میں اس وقت ہلاک ہوگئے جب ان کی پک اپ ایک جانور سے بچتے ہوئے سڑک کے کنارے درخت سے ٹکرا گئی۔ دونوں کو ڈبوالی اسپتال میں مردہ قرار دے دیا گیا۔"
-    },
-    {
-      "title": "‘Wilfully misleading’: HC sends notice to Punjab chief secretary in DA case",
-      "desc": "Punjab & Haryana HC issues notice to Punjab chief secretary in DA case, citing “wilfully misleading” claims as Supreme Court appeals remain under defect.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/wilfully-misleading-hc-sends-notice-to-punjab-chief-secretary-in-da-case/articleshow/134749780.cms",
-      "time": "2026-10-06T19:51:15",
-      "country": "Pakistan",
-      "title_ur": "’جان بوجھ کر گمراہ کن‘: ہائی کورٹ نے ڈی اے کیس میں پنجاب کے چیف سیکرٹری کو نوٹس بھیج دیا۔",
-      "desc_ur": "پنجاب اور ہریانہ ہائی کورٹ نے ڈی اے کیس میں پنجاب کے چیف سکریٹری کو نوٹس جاری کیا، \"جان بوجھ کر گمراہ کن\" دعووں کا حوالہ دیتے ہوئے کیونکہ سپریم کورٹ کی اپیلیں خراب رہیں۔"
-    },
-    {
-      "title": "Punjab accounts for 31% of farm fires as MP crosses 100",
-      "desc": "Punjab logged 88 stubble-burning cases (30.6% of 287 across 7 states) by Oct 6; MP hit 118. FIR filed, Rs 1.40 lakh fines, 13 red entries, notices to 36 officials.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/punjab-accounts-for-31-of-farm-fires-as-mp-crosses-100/articleshow/134749776.cms",
-      "time": "2026-10-06T19:49:41",
-      "country": "Pakistan",
-      "title_ur": "کھیتوں میں لگنے والی آگ کا 31 فیصد حصہ پنجاب کا ہے کیونکہ MP کی تعداد 100 سے تجاوز کر گئی ہے۔",
-      "desc_ur": "پنجاب میں 6 اکتوبر تک پراٹھا جلانے کے 88 واقعات (7 ریاستوں میں 287 میں سے 30.6%) درج ہوئے؛ ایم پی نے 118 کو نشانہ بنایا۔ ایف آئی آر درج، 1.40 لاکھ روپے جرمانہ، 13 ریڈ انٹری، 36 اہلکاروں کو نوٹس۔"
-    },
-    {
-      "title": "HC orders probe into ‘missing’ envelope in central varsity professor recruitment case",
-      "desc": "Punjab and Haryana HC orders Chandigarh DGP probe into missing sealed envelope with selection committee recommendations in Central University of Punjab professor recruitment.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/hc-orders-probe-into-missing-envelope-in-central-varsity-professor-recruitment-case/articleshow/134749772.cms",
-      "time": "2026-10-06T19:47:17",
-      "country": "Pakistan",
-      "title_ur": "ہائی کورٹ نے سنٹرل یونیورسٹی کے پروفیسر بھرتی کیس میں 'گمشدہ' لفافے کی تحقیقات کا حکم دیا",
-      "desc_ur": "پنجاب اور ہریانہ ہائی کورٹ نے سنٹرل یونیورسٹی آف پنجاب پروفیسر کی بھرتی میں سلیکشن کمیٹی کی سفارشات کے ساتھ مہر بند لفافے کے غائب ہونے کی چندی گڑھ کے ڈی جی پی کی تحقیقات کا حکم دیا۔"
-    },
-    {
-      "title": "Waris Punjab De meets guv, says party registration being blocked",
-      "desc": "Akali Dal (Waris Punjab De) delegation met Punjab Governor Gulab Chand Kataria, alleging delays in party registration and political occupation of govt houses.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/waris-punjab-de-meets-guv-says-party-registration-being-blocked/articleshow/134749742.cms",
-      "time": "2026-10-06T19:41:47",
-      "country": "Pakistan",
-      "title_ur": "وارث پنجاب دی حکومت سے ملاقات، کہتے ہیں پارٹی رجسٹریشن روکی جا رہی ہے۔",
-      "desc_ur": "اکالی دل (وارث پنجاب ڈی) کے وفد نے پنجاب کے گورنر گلاب چند کٹاریہ سے ملاقات کی، پارٹی رجسٹریشن میں تاخیر اور سرکاری مکانات پر سیاسی قبضے کا الزام لگایا۔"
+      "title_ur": "بریٹ میک گرک نے 'برنک' میں 7 اکتوبر کو یرغمالیوں کی رہائی کے لیے مذاکرات کی تاریخ بیان کی۔",
+      "desc_ur": "بریٹ میک گرک نے چار صدارتی انتظامیہ کے تحت کام کیا، بالآخر مشرق وسطیٰ میں خارجہ پالیسی پر صدر بائیڈن کی قیادت کے طور پر کام کیا۔ اس دوران حماس نے اسرائیل پر حملہ کر کے ایک ہزار سے زائد افراد کو ہلاک اور سینکڑوں کو یرغمال بنا لیا۔ آمنہ نواز بیٹھی..."
     }
   ],
   "business": {
-    "quote": "Do not save what is left after spending, but spend what is left after saving.",
-    "author": "Warren Buffett",
-    "quote_ur": "خرچ کرنے کے بعد جو بچے اسے مت بچاؤ، بلکہ بچانے کے بعد جو بچے اسے خرچ کرو۔"
+    "quote": "It's not how much money you make, but how much money you keep.",
+    "author": "Robert Kiyosaki",
+    "quote_ur": "یہ نہیں کہ آپ کتنا کماتے ہیں، بلکہ یہ ہے کہ آپ کتنا رکھتے ہیں۔"
   },
   "weather": {
     "city": "Lahore",
@@ -248,27 +188,27 @@
         "day": "جمعرات",
         "high": 32,
         "low": 23,
-        "condition": "Drizzle",
-        "condition_ur": "بوندا باندی",
-        "precip": 22
+        "condition": "Light Drizzle",
+        "condition_ur": "ہلکی بوندا باندی",
+        "precip": 28
       },
       {
         "date": "2026-10-09",
         "day": "جمعہ",
-        "high": 32,
+        "high": 31,
         "low": 24,
-        "condition": "Light Drizzle",
-        "condition_ur": "ہلکی بوندا باندی",
-        "precip": 8
+        "condition": "Mainly Clear",
+        "condition_ur": "زیادہ تر صاف",
+        "precip": 12
       },
       {
         "date": "2026-10-10",
         "day": "ہفتہ",
-        "high": 31,
+        "high": 30,
         "low": 23,
-        "condition": "Drizzle",
-        "condition_ur": "بوندا باندی",
-        "precip": 22
+        "condition": "Overcast",
+        "condition_ur": "ابر آلود",
+        "precip": 27
       },
       {
         "date": "2026-10-11",
@@ -284,18 +224,18 @@
         "day": "پیر",
         "high": 30,
         "low": 22,
-        "condition": "Drizzle",
-        "condition_ur": "بوندا باندی",
-        "precip": 25
+        "condition": "Light Drizzle",
+        "condition_ur": "ہلکی بوندا باندی",
+        "precip": 20
       },
       {
         "date": "2026-10-13",
         "day": "منگل",
         "high": 30,
-        "low": 23,
+        "low": 22,
         "condition": "Light Drizzle",
         "condition_ur": "ہلکی بوندا باندی",
-        "precip": 10
+        "precip": 14
       },
       {
         "date": "2026-10-14",
@@ -304,7 +244,7 @@
         "low": 22,
         "condition": "Clear",
         "condition_ur": "صاف",
-        "precip": 17
+        "precip": 16
       }
     ]
   },
