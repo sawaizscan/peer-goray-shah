@@ -1,217 +1,177 @@
 {
-  "generated": "2026-10-09T13:35:28Z",
+  "generated": "2026-10-09T19:11:30Z",
   "world": [
     {
-      "title": "Right-wing groups urge Netanyahu to shut down French Consulate in Jerusalem",
-      "desc": "A number of right-wing organizations have called on Prime Minister Benjamin Netanyahu to order the closure of France’s Consulate General in Jerusalem, following the closure of the British Consulate in the city this morning and the departure of 20 British dipl…",
+      "title": "'There Must Be Room to Mourn Every Single Life,' Mamdani Says of Oct. 7 Attack and Genocide That Followed",
+      "desc": "New York City Mayor Zohran Mamdani said during a press conference on Thursday that \"there must be room to mourn\" both the Israelis killed during the Hamas-led October 7 attack three years ago and the Palestinians killed in the Israeli government's subsequent …",
+      "source": "Common Dreams",
+      "url": "https://www.commondreams.org/news/mamdani-october-7-statement",
+      "time": "2026-10-08T19:07:17",
+      "country": "Israel",
+      "title_ur": "7 اکتوبر کے حملے اور اس کے بعد ہونے والی نسل کشی کے بارے میں مامدانی کا کہنا ہے کہ 'ہر ایک زندگی میں ماتم کرنے کی گنجائش ہونی چاہیے'",
+      "desc_ur": "نیویارک شہر کے میئر ظہران مامدانی نے جمعرات کو ایک پریس کانفرنس کے دوران کہا کہ تین سال قبل حماس کی زیر قیادت 7 اکتوبر کو ہونے والے حملے میں ہلاک ہونے والے اسرائیلیوں اور اس کے نتیجے میں اسرائیلی حکومت کے حملے میں مارے گئے فلسطینیوں دونوں پر \"سوگ کرنے کی گنجائش ہونی چاہیے\"۔"
+    },
+    {
+      "title": "Israeli tourist dies suddenly in Madrid",
+      "desc": "The man in his 80s suffered cardiac arrest during a trip to Spain. ZAKA 360 coordinated with Israeli and Spanish officials to bring his body home for burial in Ashkelon.",
       "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/flashes/694988",
-      "time": "2026-10-08T13:33:20",
+      "url": "https://www.israelnationalnews.com/news/434320",
+      "time": "2026-10-08T19:07:16",
       "country": "Israel",
-      "title_ur": "دائیں بازو کے گروپوں نے نیتن یاہو پر زور دیا ہے کہ وہ یروشلم میں فرانسیسی قونصل خانہ بند کر دیں۔",
-      "desc_ur": "دائیں بازو کی متعدد تنظیموں نے وزیر اعظم بنجمن نیتن یاہو سے مطالبہ کیا ہے کہ وہ یروشلم میں فرانس کے قونصل خانے کو بند کرنے کا حکم دیں، آج صبح شہر میں برطانوی قونصل خانے کی بندش اور 20 برطانوی سفارت کاروں کی روانگی کے بعد…"
+      "title_ur": "میڈرڈ میں اسرائیلی سیاح کی اچانک موت ہو گئی۔",
+      "desc_ur": "80 کی دہائی میں اس شخص کو اسپین کے سفر کے دوران دل کا دورہ پڑا۔ ZAKA 360 نے اسرائیلی اور ہسپانوی حکام کے ساتھ مل کر اس کی لاش کو اشکیلون میں تدفین کے لیے گھر پہنچایا۔"
     },
     {
-      "title": "US futures head lower after explosions in Riyadh send crude prices up",
-      "desc": "Rising oil prices have intensified inflationary pressures globally, including the U.S.",
-      "source": "Medianewsgroup.com",
-      "url": "https://wirehub.medianewsgroup.com/2026/10/08/us-futures-head-lower-after-explosions-in-saudi-capital-send-crude-prices-racing-higher/",
-      "time": "2026-10-08T13:33:16",
-      "country": "US",
-      "title_ur": "ریاض میں ہونے والے دھماکوں کے بعد خام تیل کی قیمتوں میں اضافے کے بعد امریکی فیوچرز نیچے ہیں۔",
-      "desc_ur": "تیل کی بڑھتی ہوئی قیمتوں نے امریکہ سمیت عالمی سطح پر افراط زر کے دباؤ کو تیز کر دیا ہے۔"
-    },
-    {
-      "title": "Has Israel shut the UK consulate in East Jerusalem – or downgraded it?",
-      "desc": "British Foreign Secretary Miliband said the consulate building would remain but would be called 'UK Mission, Jerusalem'.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/10/8/has-israel-shut-the-uk-consulate-in-east-jerusalem-or-downgraded",
-      "time": "2026-10-08T13:32:32",
-      "country": "Israel",
-      "title_ur": "کیا اسرائیل نے مشرقی یروشلم میں برطانیہ کا قونصل خانہ بند کر دیا ہے – یا اس کا درجہ گھٹا دیا ہے؟",
-      "desc_ur": "برطانوی وزیر خارجہ ملی بینڈ نے کہا کہ قونصل خانے کی عمارت برقرار رہے گی لیکن اسے 'برطانوی مشن، یروشلم' کہا جائے گا۔"
-    },
-    {
-      "title": "ICE Is Reportedly Holding Immigrants Illegally In a New Jersey Warehouse",
-      "desc": "Since 2007, Jezebel has been the Internet's most treasured source for everything celebrities, sex, and politics...with teeth.",
-      "source": "Jezebel",
-      "url": "https://www.jezebel.com/ice-illegally-holding-immigrants-warehouse-new-jersey",
-      "time": "2026-10-08T13:30:26",
-      "country": "US",
-      "title_ur": "ICE مبینہ طور پر تارکین وطن کو نیو جرسی کے گودام میں غیر قانونی طور پر روک رہا ہے۔",
-      "desc_ur": "2007 سے، Jezebel مشہور شخصیات، جنس اور سیاست... دانتوں کے ساتھ ہر چیز کے لیے انٹرنیٹ کا سب سے قیمتی ذریعہ رہا ہے۔"
-    },
-    {
-      "title": "CIA Conspired with the Right on the Eve of Mexico's '68 Massacre",
-      "desc": "Declassified records show the agency bankrolled a far-right student shock group for decades and trained future spy chief Nazar Haro, while key 1968 files stay censored.",
-      "source": "Mexicosolidarity.com",
-      "url": "https://mexicosolidarity.com/cia-right-68-massacre/",
-      "time": "2026-10-08T13:29:42",
-      "country": "International",
-      "title_ur": "سی آئی اے نے میکسیکو کے '68 کے قتل عام کے موقع پر حق کے ساتھ سازش کی۔",
-      "desc_ur": "غیر منقولہ ریکارڈ سے پتہ چلتا ہے کہ ایجنسی نے کئی دہائیوں تک ایک انتہائی دائیں بازو کے طالب علموں کے شاک گروپ کو بینک رول کیا اور مستقبل کے جاسوس سربراہ نذر ہارو کو تربیت دی، جبکہ 1968 کی اہم فائلیں سنسر رہیں۔"
-    },
-    {
-      "title": "Harel Insurance Investments and Financial Services to Participate in the Jefferies Israel Financials Summit on October 21 in London",
-      "desc": "TEL AVIV, Israel, Oct. 8, 2026 /PRNewswire/ -- Harel Insurance Investments and Financial Services, a leading Israeli insurance and financial group (TASE: HARL) (\"Harel Insurance Investments\", \"the Group\" or \"the Company\") today announced that it will particip…",
+      "title": "PEAKING: PSYCHEDELICS AND THE PURSUIT OF HAPPINESS takes viewers inside dosing rooms to watch psychedelic healing as it happens",
+      "desc": "One-of-a-kind documentary follows professional athletes, military veterans, people battling opioid addiction, trauma survivors, and more, as they turn to psychedelics as a last resort to heal their minds. NEW YORK, Oct. 8, 2026 /PRNewswire/ -- PEAKING: PSYCHE…",
       "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/harel-insurance-investments-and-financial-services-to-participate-in-the-jefferies-israel-financials-summit-on-october-21-in-london-302902512.html",
-      "time": "2026-10-08T13:28:00",
-      "country": "Israel",
-      "title_ur": "ہارل انشورنس انویسٹمنٹس اینڈ فنانشل سروسز 21 اکتوبر کو لندن میں جیفریز اسرائیل فنانشل سمٹ میں شرکت کریں گی۔",
-      "desc_ur": "تل ابیب، اسرائیل، 8 اکتوبر، 2026/پی آرنیوزوائر/ -- ہیرل انشورنس انویسٹمنٹس اینڈ فنانشل سروسز، ایک سرکردہ اسرائیلی انشورنس اور مالیاتی گروپ (TASE: HARL) (\"Harel Insurance Investments\" \"The Group\" or \"The Company\") نے آج اعلان کیا کہ وہ شرکت کرے گا…"
-    },
-    {
-      "title": "Bank of England's Bailey says government debt commitments needed more than ever",
-      "desc": "Bank of England Governor Andrew Bailey highlighted the importance of credible fiscal policies for stabilizing public finances. Rising inflation and high levels of government borrowing put pressure on global bond markets. He emphasized that realistic debt comm…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/bank-of-englands-bailey-says-government-debt-commitments-needed-more-than-ever/articleshow/134792070.cms",
-      "time": "2026-10-08T13:26:10",
+      "url": "https://www.prnewswire.com/news-releases/peaking-psychedelics-and-the-pursuit-of-happiness-takes-viewers-inside-dosing-rooms-to-watch-psychedelic-healing-as-it-happens-302902898.html",
+      "time": "2026-10-08T19:04:00",
       "country": "International",
-      "title_ur": "بینک آف انگلینڈ کے بیلی کا کہنا ہے کہ حکومت کے قرض کے وعدوں کی پہلے سے کہیں زیادہ ضرورت ہے۔",
-      "desc_ur": "بینک آف انگلینڈ کے گورنر اینڈریو بیلی نے عوامی مالیات کو مستحکم کرنے کے لیے قابل اعتبار مالیاتی پالیسیوں کی اہمیت کو اجاگر کیا۔ بڑھتی ہوئی افراط زر اور حکومتی قرضوں کی بلند سطح عالمی بانڈ مارکیٹوں پر دباؤ ڈالتی ہے۔ انہوں نے اس بات پر زور دیا کہ حقیقت پسندانہ قرضوں کی کمی..."
+      "title_ur": "چوٹی: سائیکیڈیلکس اور خوشی کا حصول ناظرین کو سائیکیڈیلک شفا یابی کو دیکھنے کے لیے کمرے کے اندر لے جاتا ہے جیسا کہ یہ ہوتا ہے",
+      "desc_ur": "ایک قسم کی دستاویزی فلم پیشہ ور کھلاڑیوں، فوجی تجربہ کاروں، اوپیئڈ کی لت سے لڑنے والے افراد، صدمے سے بچ جانے والے افراد، اور بہت کچھ کی پیروی کرتی ہے، کیونکہ وہ اپنے دماغوں کو ٹھیک کرنے کے لیے آخری حربے کے طور پر سائیکیڈیلکس کا رخ کرتے ہیں۔ نیویارک، 8 اکتوبر، 2026/پی آرنیوزوائر/ -- پییکنگ: سائیک…"
     },
     {
-      "title": "“Call Me on Signal”: Kimberly Guilfoyle’s Jaw-Dropping Grift Exposed",
-      "desc": "Kimberly Guilfoyle begged a donor to send her $100,000 without leaving a trace as part of her pay-to-play grift—in the midst of her confirmation process last year to become U.S. ambassador to Greece. The Wall Street Journal reports that Guilfoyle urged Trump …",
-      "source": "The New Republic",
-      "url": "https://newrepublic.com/post/216386/kimberly-guilfoyle-grift-american-express-card",
-      "time": "2026-10-08T13:25:48",
+      "title": "The American mood is turning dark, and Republicans are likely to pay the price at the midterms",
+      "desc": "Occupants of the White House have traditionally taken a thump in midterm elections. And this year, polls suggest Republicans are set for a battering.",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/the-american-mood-is-turning-dark-and-republicans-are-likely-to-pay-the-price-at-the-midterms-293679",
+      "time": "2026-10-08T19:03:30",
       "country": "US",
-      "title_ur": "\"سگنل پر مجھے کال کریں\": کمبرلی گلفائل کی جبڑے سے گرنے والی گرفت بے نقاب",
-      "desc_ur": "کمبرلی گلفائل نے ایک عطیہ دہندہ سے التجا کی کہ وہ اسے پے ٹو پلے گرفٹ کے حصے کے طور پر بغیر کوئی نشان چھوڑے اسے $100,000 بھیجے — پچھلے سال یونان میں امریکی سفیر بننے کے لیے اس کی تصدیق کے عمل کے درمیان۔ وال اسٹریٹ جرنل نے رپورٹ کیا ہے کہ گلفائل نے ٹرمپ پر زور دیا…"
+      "title_ur": "امریکی موڈ تاریک ہو رہا ہے، اور امکان ہے کہ ریپبلکن وسط مدت میں قیمت ادا کریں گے۔",
+      "desc_ur": "وائٹ ہاؤس کے مکینوں نے روایتی طور پر وسط مدتی انتخابات میں زبردست کامیابی حاصل کی ہے۔ اور اس سال، پولز سے پتہ چلتا ہے کہ ریپبلکنز ایک دوسرے سے مقابلہ کرنے کے لیے تیار ہیں۔"
     },
     {
-      "title": "FO Talks: Does This Mean the End for Switzerland’s Neutrality?",
-      "desc": "Fair Observer’s Communications and Outreach officer, Roberta Campani, speaks with former Swiss diplomat Jean-Daniel Ruch about Switzerland’s rejection of the Neutrality Initiative. Ruch interprets the result as resistance to a stricter definition of neutralit…",
-      "source": "Fair Observer",
-      "url": "https://www.fairobserver.com/video/fo-talks-does-this-mean-the-end-for-switzerlands-neutrality/",
-      "time": "2026-10-08T13:23:16",
-      "country": "Europe",
-      "title_ur": "FO Talks: کیا اس کا مطلب سوئٹزرلینڈ کی غیر جانبداری کا خاتمہ ہے؟",
-      "desc_ur": "فیئر آبزرور کی کمیونیکیشنز اینڈ آؤٹ ریچ آفیسر، روبرٹا کیمپانی، سوئٹزرلینڈ کی جانب سے غیر جانبداری کے اقدام کو مسترد کیے جانے کے بارے میں سابق سوئس سفارت کار جین ڈینیئل رچ کے ساتھ بات کر رہی ہیں۔ Ruch نتیجہ کو غیر جانبداری کی سخت تعریف کے خلاف مزاحمت سے تعبیر کرتا ہے…"
-    },
-    {
-      "title": "These Numbers Should Terrify Democrats Ahead of the Midterms",
-      "desc": "With less than a month to go before the midterms, the questionable polls keep piling up. I've been saying for a while that I think the GOP will outperform the polls this year, and a fresh report from CNN backs that up. According to CNN chief data analyst Harr…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-chat/4398391/posts",
-      "time": "2026-10-08T13:22:45",
-      "country": "International",
-      "title_ur": "ان نمبروں کو وسط مدتی سے پہلے ڈیموکریٹس کو خوفزدہ کرنا چاہئے۔",
-      "desc_ur": "وسط مدتی انتخابات میں ایک ماہ سے بھی کم وقت باقی ہے، قابل اعتراض انتخابات کا ڈھیر لگا رہتا ہے۔ میں تھوڑی دیر سے کہہ رہا ہوں کہ مجھے لگتا ہے کہ GOP اس سال کے انتخابات میں بہتر کارکردگی کا مظاہرہ کرے گی، اور CNN کی ایک تازہ رپورٹ اس کی حمایت کرتی ہے۔ سی این این کے چیف ڈیٹا اینالسٹ ہار کے مطابق…"
-    },
-    {
-      "title": "Seattle Mayor Katie Wilson draws criticism for Gaza remarks at Town Hall forum",
-      "desc": "SEATTLE — Seattle Mayor Katie Wilson is facing criticism over remarks she made during a recent forum on fascism, Israel and Gaza. Wilson appeared Sept. 24 at Town Hall Seattle with authors Naomi Klein and Astra Taylor to discuss their book, End Times Fascism …",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4398390/posts",
-      "time": "2026-10-08T13:21:52",
-      "country": "Israel",
-      "title_ur": "سیٹل کی میئر کیٹی ولسن نے ٹاؤن ہال فورم میں غزہ کے ریمارکس پر تنقید کی۔",
-      "desc_ur": "سیئٹل — سیئٹل کی میئر کیٹی ولسن کو فسطائیت، اسرائیل اور غزہ پر حالیہ فورم کے دوران کیے گئے ریمارکس پر تنقید کا سامنا ہے۔ ولسن 24 ستمبر کو ٹاؤن ہال سیئٹل میں مصنفین نومی کلین اور آسٹرا ٹیلر کے ساتھ اپنی کتاب، اینڈ ٹائمز فاشزم پر گفتگو کرنے کے لیے نمودار ہوئے۔"
-    },
-    {
-      "title": "EU in favor of Lebanon peacekeepers’ extension",
-      "desc": "Visiting EU foreign policy chief Kaja Kallas told AFP on Oct. 8 that the bloc was in favor of extending the mandate of United Nations peacekeepers in Lebanon, which is to expire this year.",
-      "source": "Hurriyet Daily News",
-      "url": "https://www.hurriyetdailynews.com/eu-in-favor-of-lebanon-peacekeepers-extension-227892",
-      "time": "2026-10-08T13:21:31",
-      "country": "Lebanon",
-      "title_ur": "یورپی یونین لبنان کے امن فوجیوں کی توسیع کے حق میں ہے۔",
-      "desc_ur": "دورہ کرنے والے یورپی یونین کی خارجہ پالیسی کے سربراہ کاجا کالس نے 8 اکتوبر کو اے ایف پی کو بتایا کہ یہ بلاک لبنان میں اقوام متحدہ کے امن دستوں کے مینڈیٹ میں توسیع کے حق میں ہے، جس کی میعاد اس سال ختم ہو رہی ہے۔"
-    },
-    {
-      "title": "As Democrats eye big midterm wins, Republicans look to turn the tables in some House districts",
-      "desc": "Republicans are focusing on pivotal congressional races as they seek to gain ground in the midterms. Key issues include immigration and economic policies being heavily funded by national organizations. In New Hampshire, an open seat contest is drawing attenti…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/as-democrats-eye-big-midterm-wins-republicans-look-to-turn-the-tables-in-some-house-districts/articleshow/134791830.cms",
-      "time": "2026-10-08T13:19:52",
+      "title": "US Navy Moves To Build New Tomahawk Missile That Comes With Unknown Price Tag",
+      "desc": "The U.S. Navy is preparing to manufacture a new bunker-busting version of its Tomahawk cruise missile.",
+      "source": "The Daily Caller",
+      "url": "https://dailycaller.com/2026/10/08/us-navy-moves-to-build-new-bunker-busting-tomahawk-missile",
+      "time": "2026-10-08T19:01:38",
       "country": "US",
-      "title_ur": "جیسا کہ ڈیموکریٹس کی نظریں بڑی وسط مدتی جیت پر ہیں، ریپبلکن ہاؤس کے کچھ اضلاع میں میزیں موڑنا چاہتے ہیں",
-      "desc_ur": "ریپبلکن کانگریس کی اہم دوڑ پر توجہ مرکوز کر رہے ہیں کیونکہ وہ وسط مدتی میں زمین حاصل کرنے کی کوشش کر رہے ہیں۔ اہم مسائل میں امیگریشن اور معاشی پالیسیاں شامل ہیں جو قومی تنظیموں کے ذریعہ بہت زیادہ فنڈز فراہم کی جاتی ہیں۔ نیو ہیمپشائر میں، ایک کھلی نشست کا مقابلہ توجہ حاصل کر رہا ہے…"
+      "title_ur": "امریکی بحریہ نیا ٹماہاک میزائل بنانے کے لیے آگے بڑھ رہی ہے جو نامعلوم قیمت کے ساتھ آتا ہے۔",
+      "desc_ur": "امریکی بحریہ اپنے ٹوماہاک کروز میزائل کا ایک نیا بنکر بسٹنگ ورژن تیار کرنے کی تیاری کر رہی ہے۔"
     },
     {
-      "title": "Israel-Britain ties hit new low as Jerusalem consulate loses its diplomatic status",
-      "desc": "Britain and Israel continue to cooperate closely on defence and security, but their wider diplomatic relationship has deteriorated over Israel's conduct of the war against Hamas in Gaza and Britain's decision last year to recognise a Palestinian state. The di…",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/israel-britain-ties-hit-new-low-as-jerusalem-consulate-loses-its-diplomatic-status/articleshow/134791840.cms",
-      "time": "2026-10-08T13:18:37",
+      "title": "Iran Conflict Remains Deeply Unpopular as Many Americans Expect It To Go On for Months",
+      "desc": "Around two-thirds (65%) now disapprove of the way President Donald Trump is handling the U.S. military action in Iran, while a third (33%) approve.",
+      "source": "Pew Research Center",
+      "url": "https://www.pewresearch.org/short-reads/2026/10/08/iran-conflict-remains-deeply-unpopular-as-many-americans-expect-it-to-go-on-for-months/",
+      "time": "2026-10-08T19:01:21",
+      "country": "Iran",
+      "title_ur": "ایران کا تنازعہ بہت زیادہ غیر مقبول ہے کیونکہ بہت سے امریکیوں کی توقع ہے کہ یہ مہینوں تک جاری رہے گا",
+      "desc_ur": "تقریباً دو تہائی (65%) اب صدر ڈونلڈ ٹرمپ کے ایران میں امریکی فوجی کارروائی سے نمٹنے کے طریقے کو ناپسند کرتے ہیں، جبکہ ایک تہائی (33%) نے اس کی منظوری دی ہے۔"
+    },
+    {
+      "title": "Di Leo: Three Years After October 7, Democrats Have Abandoned Israel",
+      "desc": "We are a nation at war. Not by our choice, of course; but then, it only takes one country to declare a war. The jihadist Twelvers who run Iran declared war on the United States, and on Israel, and in fact on pretty much the entire world, 47 years ago, and the…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-bloggers/4398445/posts",
+      "time": "2026-10-08T19:01:08",
+      "country": "Iran",
+      "title_ur": "ڈی لیو: 7 اکتوبر کے تین سال بعد، ڈیموکریٹس نے اسرائیل کو چھوڑ دیا ہے۔",
+      "desc_ur": "ہم حالت جنگ میں قوم ہیں۔ ہماری پسند سے نہیں، یقیناً۔ لیکن پھر، جنگ کا اعلان کرنے کے لیے صرف ایک ملک کی ضرورت ہوتی ہے۔ ایران کو چلانے والے جہادی ٹویلرز نے 47 سال پہلے امریکہ اور اسرائیل کے خلاف اور حقیقت میں پوری دنیا کے خلاف جنگ کا اعلان کیا تھا، اور…"
+    },
+    {
+      "title": "The Pentagon Is Eating Silicon Valley",
+      "desc": "From Palantir to OpenAI, 'Valley of Death' examines how America's tech industry is becoming increasingly intertwined with the business of war.",
+      "source": "Reason",
+      "url": "https://reason.com/2026/10/08/the-pentagon-is-eating-silicon-valley/",
+      "time": "2026-10-08T19:00:37",
+      "country": "US",
+      "title_ur": "پینٹاگون سلیکن ویلی کھا رہا ہے۔",
+      "desc_ur": "Palantir سے OpenAI تک، 'ویلی آف ڈیتھ' اس بات کا جائزہ لیتی ہے کہ کس طرح امریکہ کی ٹیک انڈسٹری تیزی سے جنگ کے کاروبار سے جڑی ہوئی ہے۔"
+    },
+    {
+      "title": "Abdul El-Sayed attacked Obama. Now they’re campaign partners.",
+      "desc": "Just days ago, Democratic Senate hopeful Abdul El-Sayed announced that Barack Obama will join him on the campaign trail in Michigan later this month. While the former president will try to make El-Sayed as palatable to the public as possible, El-Sayed’s comme…",
+      "source": "TheBlaze",
+      "url": "https://www.theblaze.com/news/el-sayed-snubs-obama",
+      "time": "2026-10-08T19:00:00",
+      "country": "US",
+      "title_ur": "عبد السید نے اوباما پر حملہ کیا۔ اب وہ مہم کے ساتھی ہیں۔",
+      "desc_ur": "ابھی کچھ دن پہلے، ڈیموکریٹک سینیٹ کے امیدوار عبد السید نے اعلان کیا تھا کہ براک اوباما اس ماہ کے آخر میں مشی گن میں انتخابی مہم میں ان کے ساتھ شامل ہوں گے۔ جب کہ سابق صدر السید کو عوام کے لیے ہر ممکن حد تک خوشنما بنانے کی کوشش کریں گے، السید کا کام…"
+    },
+    {
+      "title": "Jordan BDS group calls for boycott of Andrea Bocelli concert in Petra, citing Israel support",
+      "desc": "The campaign to boycott Bocelli's concert cited his 2010 performance at a fundraiser supporting the Israeli military, performances in Israel and other ties it says reflect longstanding support",
+      "source": "Haaretz",
+      "url": "https://www.haaretz.com/israel-news/culture/leisure/2026-10-08/ty-article/.premium/jordan-bds-group-urges-boycott-of-andrea-bocelli-over-alleged-israel-support/000001a1-1c8c-d10a-a5b1-bd8ca4ba0000",
+      "time": "2026-10-08T18:59:51",
       "country": "Israel",
-      "title_ur": "یروشلم قونصلیٹ کی سفارتی حیثیت ختم ہونے کے بعد اسرائیل اور برطانیہ کے تعلقات نئی نچلی سطح پر پہنچ گئے۔",
-      "desc_ur": "برطانیہ اور اسرائیل دفاع اور سلامتی پر قریبی تعاون جاری رکھے ہوئے ہیں، لیکن اسرائیل کی جانب سے غزہ میں حماس کے خلاف جنگ کے انعقاد اور برطانیہ کی طرف سے گزشتہ سال فلسطینی ریاست کو تسلیم کرنے کے فیصلے پر ان کے وسیع تر سفارتی تعلقات خراب ہو گئے ہیں۔ دی…"
+      "title_ur": "اردن بی ڈی ایس گروپ نے اسرائیل کی حمایت کا حوالہ دیتے ہوئے پیٹرا میں اینڈریا بوسیلی کنسرٹ کے بائیکاٹ کا مطالبہ کیا",
+      "desc_ur": "بوسیلی کے کنسرٹ کا بائیکاٹ کرنے کی مہم میں اسرائیلی فوج کی حمایت کرنے والے فنڈ ریزر میں ان کی 2010 کی کارکردگی، اسرائیل میں پرفارمنس اور دیگر تعلقات کا حوالہ دیا گیا جس کے مطابق دیرینہ حمایت کی عکاسی ہوتی ہے۔"
     },
     {
-      "title": "U.K. police release 7th man arrested over RAF Fairford incident on bail",
-      "desc": "All seven men arrested in the investigation, each in their 20s, now remain on police bail while \"specialist teams continue to pursue all lines of enquiry,\" police said.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/uk-police-release-arrest-raf-fairford-incident/",
-      "time": "2026-10-08T13:17:30",
+      "title": "Cost Concerns Dominate as Public’s Economic Ratings Turn More Negative",
+      "desc": "The costs of many household essentials are a top economic concern for most Americans – much as they were four years ago on the eve of the last midterm election.",
+      "source": "Pew Research Center",
+      "url": "https://www.pewresearch.org/politics/2026/10/08/cost-concerns-dominate-as-publics-economic-ratings-turn-more-negative/",
+      "time": "2026-10-08T18:57:14",
+      "country": "US",
+      "title_ur": "عوام کی اقتصادی درجہ بندی مزید منفی ہونے پر لاگت کے خدشات کا غلبہ ہے۔",
+      "desc_ur": "گھریلو ضروریات کی بہت سی قیمتیں زیادہ تر امریکیوں کے لیے سب سے اوپر کی اقتصادی تشویش ہیں - جیسا کہ وہ چار سال پہلے گزشتہ وسط مدتی انتخابات کے موقع پر تھیں۔"
+    },
+    {
+      "title": "STEPHEN DAISLEY SKETCH: A salvo of mutters and rebukes came his way but they bounced punily off his silver bouffant, the Iron Dome of Scottish politics",
+      "desc": "With no small pluck and some evident anger, Malcolm Offord charged at the heart of Goliath: the gurning Gaza gabfest that is Holyrood.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16194403/bounced-silver-bouffant-Iron-Dome-Scottish-politics.html",
+      "time": "2026-10-08T18:56:50",
+      "country": "Israel",
+      "title_ur": "اسٹیفن ڈیزلی اسکیچ: اس کے پاس بڑبڑاہٹ اور ڈانٹ ڈپٹ آئی لیکن انہوں نے اس کے سلور بوفنٹ، سکاٹش سیاست کے آئرن ڈوم کو سزا کے طور پر اچھال دیا۔",
+      "desc_ur": "بغیر کسی چھوٹے موٹے اور کچھ واضح غصے کے، میلکم آففورڈ نے گولیتھ کے دل پر الزام لگایا: غزہ کی گہرائیوں والی گیب فیسٹ جو ہولیروڈ ہے۔"
+    },
+    {
+      "title": "Newsom Has A Perfect Four-Word Response After Trump Doubles Down On His Threat",
+      "desc": "Donald J. Trump apparently wasn't finished talking about the possibility of Los Angeles or San Diego being attacked. \nAfter drawing widespread attention for suggesting that Iran could “take out” the two California cities, Trump doubled down on the remarks at …",
+      "source": "Crooksandliars.com",
+      "url": "https://crooksandliars.com/2026/10/newsom-has-perfect-four-word-response",
+      "time": "2026-10-08T18:56:47",
+      "country": "Iran",
+      "title_ur": "ٹرمپ کی دھمکی پر دوگنا ہونے کے بعد نیوزوم کے پاس چار الفاظ کا بہترین ردعمل ہے۔",
+      "desc_ur": "ڈونلڈ جے ٹرمپ نے بظاہر لاس اینجلس یا سان ڈیاگو پر حملے کے امکان کے بارے میں بات ختم نہیں کی تھی۔ \nیہ تجویز کرنے کے لئے وسیع پیمانے پر توجہ مبذول کرنے کے بعد کہ ایران کیلیفورنیا کے دو شہروں کو \"نکال سکتا ہے\"، ٹرمپ نے ریمارکس پر دوگنا کر دیا…"
+    },
+    {
+      "title": "With Americans in a Sour Mood, Democratic Voters Are More Engaged in Midterms",
+      "desc": "The 2026 midterm election comes amid deep public dissatisfaction with the state of the nation and near-record low approval ratings for Trump.",
+      "source": "Pew Research Center",
+      "url": "https://www.pewresearch.org/politics/2026/10/08/with-americans-in-a-sour-mood-democratic-voters-are-more-engaged-in-midterms/",
+      "time": "2026-10-08T18:55:19",
+      "country": "US",
+      "title_ur": "امریکیوں کے ساتھ کھٹے موڈ میں، ڈیموکریٹک ووٹرز وسط مدتی انتخابات میں زیادہ مصروف ہیں۔",
+      "desc_ur": "2026 کے وسط مدتی انتخابات قوم کی حالت کے بارے میں گہرے عوامی عدم اطمینان اور ٹرمپ کے لیے قریب قریب ریکارڈ کم منظوری کی درجہ بندی کے درمیان آئے ہیں۔"
+    },
+    {
+      "title": "Schumer, Jeffries dodge Mamdani controversy as fellow New York Dem unloads",
+      "desc": "NYC Mayor Zohran Mamdani's Oct. 7 anniversary statement drew sharp criticism, but Chuck Schumer and Hakeem Jeffries have stayed notably silent.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/schumer-jeffries-dodge-mamdani-controversy-fellow-new-york-dem-unloads",
+      "time": "2026-10-08T18:52:07",
       "country": "International",
-      "title_ur": "یوکے پولیس نے RAF فیئر فورڈ واقعے میں گرفتار ساتویں شخص کو ضمانت پر رہا کر دیا۔",
-      "desc_ur": "پولیس نے بتایا کہ تفتیش میں گرفتار ہونے والے تمام سات افراد، جن میں سے ہر ایک کی عمر 20 سال ہے، اب پولیس ضمانت پر ہیں جبکہ \"ماہر ٹیمیں انکوائری کے تمام سلسلے جاری رکھے ہوئے ہیں،\" پولیس نے کہا۔"
+      "title_ur": "شمر، جیفریز نے نیویارک ڈیم کے ساتھی کے طور پر مامدانی تنازعہ کو چکما دیا۔",
+      "desc_ur": "NYC کے میئر ظہران مامدانی کے 7 اکتوبر کو برسی کے بیان پر شدید تنقید کی گئی، لیکن چک شومر اور حکیم جیفریز نے خاصی خاموشی اختیار کی۔"
     }
   ],
   "pakistan": [
     {
-      "title": "Saudi, UAE join Japan-led push to bolster Asian oil buffers",
-      "desc": "Saudi Arabia and the United Arab Emirates are joining Japan's efforts to strengthen oil supply security in Southeast Asia. This collaboration comes in response to supply disruptions caused by ongoing conflicts in the Middle East. Japan has committed $10 billi…",
+      "title": "Emails seal Lucent drugs case as tribunal upholds ₹5.4cr ED attachment",
+      "desc": "SAFEMA Appellate Tribunal upholds ED attachment of ₹5.46 crore Lucent Drugs property, citing emails and records showing tramadol routed to Pakistan.",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/saudi-uae-join-japan-led-push-to-bolster-asian-oil-buffers/articleshow/134792155.cms",
-      "time": "2026-10-08T13:33:24",
+      "url": "https://timesofindia.indiatimes.com/city/hyderabad/emails-seal-lucent-drugs-case-as-tribunal-upholds-5-4cr-ed-attachment/articleshow/134799515.cms",
+      "time": "2026-10-08T18:59:53",
       "country": "Pakistan",
-      "title_ur": "سعودی، متحدہ عرب امارات ایشیائی تیل کے بفروں کو تقویت دینے کے لیے جاپان کی قیادت میں جاری دباؤ میں شامل ہیں۔",
-      "desc_ur": "سعودی عرب اور متحدہ عرب امارات جنوب مشرقی ایشیا میں تیل کی سپلائی سیکیورٹی کو مضبوط بنانے کے لیے جاپان کی کوششوں میں شامل ہو رہے ہیں۔ یہ تعاون مشرق وسطیٰ میں جاری تنازعات کی وجہ سے سپلائی میں رکاوٹوں کے جواب میں سامنے آیا ہے۔ جاپان نے 10 بلین ڈالر کا وعدہ کیا ہے…"
+      "title_ur": "ای میلز نے لوسنٹ ڈرگ کیس کو سیل کردیا کیونکہ ٹریبونل نے ₹ 5.4 کروڑ ای ڈی اٹیچمنٹ کو برقرار رکھا",
+      "desc_ur": "SAFEMA اپیلیٹ ٹربیونل نے ای میلز اور ریکارڈز کا حوالہ دیتے ہوئے 5.46 کروڑ روپے کی Lucent Drugs کی جائیداد کی ای ڈی کی اٹیچمنٹ کو برقرار رکھا ہے جس میں ٹراماڈول کو پاکستان روانہ کیا گیا ہے۔"
     },
     {
-      "title": "Iran's Araghchi says Tehran to respond to US peace plan within days as Pentagon prepares fresh strikes",
-      "desc": "Iranian Foreign Minister Seyyed Abbas Araghchi on Thursday said that Tehran will respond to a US peace proposal on the West Asia conflict \"within the next few days\" amid reports suggesting that Washington is preparing for military options for a possible resum…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/irans-araghchi-says-tehran-to-respond-to-us-peace-plan-within-days-as-pentagon-prepares-fresh-strikes/articleshow/134792075.cms",
-      "time": "2026-10-08T13:28:50",
+      "title": "Shell's CEO delivers a strong verdict on the oil market",
+      "desc": "When the war with Iran began on Feb. 28, tanker traffic through the Strait of Hormuz came close to a standstill. \nThe International Energy Agency called it the largest oil supply disruption in the history of the global market. Prices jumped within days. Goldm…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/86abebea1ab7e7ed",
+      "time": "2026-10-08T18:48:53",
       "country": "Pakistan",
-      "title_ur": "ایران کے عراقچی کا کہنا ہے کہ تہران امریکی امن منصوبے کا جواب چند دنوں میں دے گا کیونکہ پینٹاگون تازہ حملوں کی تیاری کر رہا ہے",
-      "desc_ur": "ایرانی وزیر خارجہ سید عباس عراقچی نے جمعرات کو کہا کہ تہران مغربی ایشیا کے تنازعے پر امریکی امن تجویز کا جواب \"اگلے چند دنوں میں\" دے گا، ان رپورٹوں کے درمیان کہ واشنگٹن ممکنہ بحالی کے لیے فوجی آپشنز کی تیاری کر رہا ہے۔"
-    },
-    {
-      "title": "Pakistan tells UN chief 25 terrorist groups operating in Afghanistan amid tensions with Kabul",
-      "desc": "Pakistan Interior Minister Mohsin Naqvi told UN Secretary General Antonio Guterres that 25 terrorist organisations were operating in Afghanistan and urged international cooperation to tackle the threat. His remarks came amid escalating Pakistan-Afghanistan te…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/pakistan-tells-un-chief-25-terrorist-groups-operating-in-afghanistan-amid-tensions-with-kabul/articleshow/134791922.cms",
-      "time": "2026-10-08T13:21:51",
-      "country": "Pakistan",
-      "title_ur": "پاکستان نے کابل کے ساتھ کشیدگی کے درمیان اقوام متحدہ کے سربراہ کو افغانستان میں سرگرم 25 دہشت گرد گروپوں سے آگاہ کیا۔",
-      "desc_ur": "پاکستان کے وزیر داخلہ محسن نقوی نے اقوام متحدہ کے سیکرٹری جنرل انتونیو گوتریس کو بتایا کہ افغانستان میں 25 دہشت گرد تنظیمیں کام کر رہی ہیں اور اس خطرے سے نمٹنے کے لیے بین الاقوامی تعاون پر زور دیا۔ ان کا یہ تبصرہ پاکستان اور افغانستان کے درمیان بڑھتے ہوئے کشیدگی کے درمیان آیا ہے۔"
-    },
-    {
-      "title": "Trump weighs unleashing fresh strikes on Iran BEFORE midterms - sending oil prices skyrocketing",
-      "desc": "The White House has asked the Pentagon to draw up options for fresh strikes on Iran that could be launched before next month's midterms.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16193243/trump-weighs-strikes-iran-oil-prices.html",
-      "time": "2026-10-08T13:15:19",
-      "country": "Pakistan",
-      "title_ur": "ٹرمپ نے وسط مدتی انتخابات سے پہلے ایران پر تازہ حملے کرنے کا وزن کیا - تیل کی قیمتیں آسمان کو چھو رہی ہیں",
-      "desc_ur": "وائٹ ہاؤس نے پینٹاگون سے کہا ہے کہ وہ ایران پر نئے حملوں کے لیے آپشن تیار کرے جو اگلے ماہ کی وسط مدتی مدت سے پہلے شروع کیے جا سکتے ہیں۔"
-    },
-    {
-      "title": "Saudi-Pakistan pact set for Turkish parliament: Fidan",
-      "desc": "Authorities will soon submit to parliament the necessary legislation for a trilateral defense pact with Saudi Arabia and Pakistan, Foreign Minister Hakan Fidan said on Oct. 8.",
-      "source": "Hurriyet Daily News",
-      "url": "https://www.hurriyetdailynews.com/saudi-pakistan-pact-set-for-turkish-parliament-fidan-227889",
-      "time": "2026-10-08T13:01:13",
-      "country": "Pakistan",
-      "title_ur": "سعودی پاکستان معاہدہ ترک پارلیمنٹ میں طے پایا: فدان",
-      "desc_ur": "وزیر خارجہ ہاکان فیدان نے 8 اکتوبر کو کہا کہ حکام جلد ہی سعودی عرب اور پاکستان کے ساتھ سہ فریقی دفاعی معاہدے کے لیے ضروری قانون سازی پارلیمنٹ میں پیش کریں گے۔"
-    },
-    {
-      "title": "Latinos unhappy with Trump immigration agenda and U.S. military preps Iran war options: Morning Rundown - NBC News",
-      "desc": "Latinos unhappy with Trump immigration agenda and U.S. military preps Iran war options: Morning RundownNBC News How a Provocative Ad on Trump and Immigration Stirred a Florida House RaceThe New York Times Watch: Trump’s Deportations Are Tearing Apart Florida …",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186066936",
-      "time": "2026-10-08T12:53:30",
-      "country": "Pakistan",
-      "title_ur": "لاطینی لوگ ٹرمپ کے امیگریشن ایجنڈے سے ناخوش ہیں اور امریکی فوج ایران کے جنگی آپشنز کی تیاری کر رہی ہے: مارننگ رن ڈاؤن – این بی سی نیوز",
-      "desc_ur": "ٹرمپ کے امیگریشن ایجنڈے سے ناخوش لاطینی اور امریکی فوج ایران کے جنگی آپشنز کی تیاری کر رہی ہے: مارننگ رن ڈاؤن این بی سی نیوز کیسے ٹرمپ اور امیگریشن پر ایک اشتعال انگیز اشتہار نے فلوریڈا ہاؤس کی دوڑ میں ہلچل مچا دی نیویارک ٹائمز واچ: ٹرمپ کی ملک بدری فلوریڈا کو توڑ رہی ہے…"
+      "title_ur": "شیل کے سی ای او نے تیل کی منڈی پر ایک مضبوط فیصلہ سنا دیا۔",
+      "desc_ur": "جب 28 فروری کو ایران کے ساتھ جنگ ​​شروع ہوئی تو آبنائے ہرمز کے راستے ٹینکر کی آمدورفت رک گئی۔ \nبین الاقوامی توانائی ایجنسی نے اسے عالمی منڈی کی تاریخ میں تیل کی فراہمی میں سب سے بڑی رکاوٹ قرار دیا۔ قیمتیں دنوں میں بڑھ گئیں۔ گولڈم…"
     }
   ],
   "business": {
@@ -224,40 +184,31 @@
     "city_ur": "لاہور",
     "forecast": [
       {
-        "date": "2026-10-09",
-        "day": "جمعہ",
-        "high": 32,
-        "low": 23,
-        "condition": "Thunderstorm",
-        "condition_ur": "گرج چمک",
-        "precip": 37
-      },
-      {
         "date": "2026-10-10",
         "day": "ہفتہ",
         "high": 30,
         "low": 23,
-        "condition": "Thunderstorm",
-        "condition_ur": "گرج چمک",
-        "precip": 29
+        "condition": "Overcast",
+        "condition_ur": "ابر آلود",
+        "precip": 14
       },
       {
         "date": "2026-10-11",
         "day": "اتوار",
-        "high": 29,
-        "low": 20,
-        "condition": "Light Showers",
-        "condition_ur": "ہلکی بارش",
-        "precip": 61
+        "high": 28,
+        "low": 21,
+        "condition": "Thunderstorm",
+        "condition_ur": "گرج چمک",
+        "precip": 67
       },
       {
         "date": "2026-10-12",
         "day": "پیر",
-        "high": 30,
-        "low": 22,
-        "condition": "Light Drizzle",
-        "condition_ur": "ہلکی بوندا باندی",
-        "precip": 22
+        "high": 29,
+        "low": 21,
+        "condition": "Thunderstorm",
+        "condition_ur": "گرج چمک",
+        "precip": 25
       },
       {
         "date": "2026-10-13",
@@ -266,31 +217,40 @@
         "low": 21,
         "condition": "Thunderstorm",
         "condition_ur": "گرج چمک",
-        "precip": 42
+        "precip": 44
       },
       {
         "date": "2026-10-14",
         "day": "بدھ",
         "high": 29,
-        "low": 20,
-        "condition": "Light Drizzle",
-        "condition_ur": "ہلکی بوندا باندی",
-        "precip": 16
+        "low": 21,
+        "condition": "Partly Cloudy",
+        "condition_ur": "جزوی ابر آلود",
+        "precip": 20
       },
       {
         "date": "2026-10-15",
         "day": "جمعرات",
-        "high": 28,
+        "high": 29,
         "low": 22,
-        "condition": "Overcast",
-        "condition_ur": "ابر آلود",
-        "precip": 8
+        "condition": "Mainly Clear",
+        "condition_ur": "زیادہ تر صاف",
+        "precip": 9
+      },
+      {
+        "date": "2026-10-16",
+        "day": "جمعہ",
+        "high": 28,
+        "low": 19,
+        "condition": "Thunderstorm",
+        "condition_ur": "گرج چمک",
+        "precip": 20
       }
     ]
   },
   "date": {
-    "gregorian": "Friday, 9 October 2026",
-    "hijri": "28 Rabīʿ al-thānī 1448",
-    "hijri_ur": "28 رَبيع الثاني 1448"
+    "gregorian": "Saturday, 10 October 2026",
+    "hijri": "29 Rabīʿ al-thānī 1448",
+    "hijri_ur": "29 رَبيع الثاني 1448"
   }
 }
