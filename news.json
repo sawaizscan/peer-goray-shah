@@ -1,193 +1,173 @@
 {
-  "generated": "2026-10-10T22:49:33Z",
+  "generated": "2026-10-11T01:28:19Z",
   "world": [
     {
-      "title": "Trump strikes deal with Putin for Russia to supply diesel to US",
-      "desc": "In an apparent reversal of Washington's campaign to squeeze Russian fuel revenue powering the war in Ukraine, Donald Trump says Moscow will supply diesel to the US.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-10-10/trump-strikes-deal-with-putin-for-russia-to-supply-diesel-to-us/107250922",
-      "time": "2026-10-09T22:43:29",
+      "title": "Boosting US oil supplies with Russian diesel unlikely to have much impact on prices: Experts",
+      "desc": "A new agreement aims to increase diesel supplies from Russia to the U.S., while experts doubt it will lower prices. The current high diesel prices have significantly impacted inflation and consumer goods, which have raised concerns before upcoming elections. …",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/boosting-us-oil-supplies-with-russian-diesel-unlikely-to-have-much-impact-on-prices-experts/articleshow/134845915.cms",
+      "time": "2026-10-10T01:23:01",
       "country": "Russia",
-      "title_ur": "ٹرمپ نے پیوٹن کے ساتھ روس سے امریکہ کو ڈیزل سپلائی کرنے کا معاہدہ کیا۔",
-      "desc_ur": "یوکرین میں جنگ کو تقویت دینے والی روسی ایندھن کی آمدنی کو نچوڑنے کی واشنگٹن کی مہم کے واضح الٹ میں، ڈونلڈ ٹرمپ کا کہنا ہے کہ ماسکو امریکہ کو ڈیزل فراہم کرے گا۔"
+      "title_ur": "روسی ڈیزل کے ساتھ امریکی تیل کی سپلائی بڑھانے سے قیمتوں پر زیادہ اثر نہیں پڑے گا: ماہرین",
+      "desc_ur": "ایک نئے معاہدے کا مقصد روس سے امریکہ کو ڈیزل کی سپلائی بڑھانا ہے، جبکہ ماہرین کو شک ہے کہ اس سے قیمتیں کم ہوں گی۔ ڈیزل کی موجودہ بلند قیمتوں نے مہنگائی اور اشیائے خوردونوش کو نمایاں طور پر متاثر کیا ہے، جس نے آئندہ انتخابات سے قبل خدشات کو جنم دیا ہے۔ …"
     },
     {
-      "title": "Cramer says Delta Air Lines' earnings miss doesn't tell the whole story",
-      "desc": "CNBC’s Jim Cramer said Delta's disappointing headline numbers overshadowed signs of strength.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/09/jim-cramer-delta-earnings-fuel-costs.html",
-      "time": "2026-10-09T22:39:52",
-      "country": "International",
-      "title_ur": "کریمر کا کہنا ہے کہ ڈیلٹا ایئر لائنز کی کمائی کی کمی پوری کہانی نہیں بتاتی",
-      "desc_ur": "CNBC کے جم کرمر نے کہا کہ ڈیلٹا کے مایوس کن سرخی نمبروں نے طاقت کے آثار کو چھایا ہوا ہے۔"
-    },
-    {
-      "title": "Kalshi Investigating Suspicious Bets on Trump’s New White House Press Secretary",
-      "desc": "Zacharia had been trading at roughly a 1% chance of landing the job in the days before her appointment and was not widely viewed as a leading contender.\nThe post Kalshi Investigating Suspicious Bets on Trump’s New White House Press Secretary first appeared on…",
-      "source": "Mediaite",
-      "url": "https://www.mediaite.com/media/news/kalshi-investigating-suspicious-bets-on-trumps-new-white-house-press-secretary/",
-      "time": "2026-10-09T22:37:23",
-      "country": "US",
-      "title_ur": "کالشی ٹرمپ کے نئے وائٹ ہاؤس پریس سیکرٹری پر مشکوک دائو کی تحقیقات کر رہے ہیں۔",
-      "desc_ur": "زکریا اپنی تقرری سے پہلے کے دنوں میں ملازمت پر اترنے کے تقریباً 1% موقع پر تجارت کر رہی تھی اور اسے بڑے پیمانے پر ایک اہم دعویدار کے طور پر نہیں دیکھا جاتا تھا۔\nThe post ٹرمپ کے وائٹ ہاؤس کے نئے پریس سیکرٹری پر مشکوک دائو کی تحقیقات کر رہی کالشی appeared first on…"
-    },
-    {
-      "title": "DOJ scrutinizes Binance compliance with its 2023 settlement",
-      "desc": "The DOJ's scrutiny of Binance's compliance could impact global crypto regulations and influence future enforcement actions against exchanges.\nThe post DOJ scrutinizes Binance compliance with its 2023 settlement appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/doj-reviews-binance-settlement-compliance/",
-      "time": "2026-10-09T22:34:41",
-      "country": "International",
-      "title_ur": "DOJ اپنے 2023 کے تصفیے کے ساتھ بائنانس کی تعمیل کی جانچ پڑتال کرتا ہے۔",
-      "desc_ur": "Binance کی تعمیل کی DOJ کی جانچ عالمی کرپٹو ضوابط کو متاثر کر سکتی ہے اور تبادلے کے خلاف مستقبل کے نفاذ کے اقدامات کو متاثر کر سکتی ہے۔\nThe post DOJ اپنی 2023 کے تصفیے کے ساتھ بائنانس کی تعمیل کی جانچ پڑتال کرتا ہے appeared first on Crypto Briefing."
-    },
-    {
-      "title": "The Trump administration plans a public killing",
-      "desc": "This story appeared in The Logoff, a daily newsletter that helps you stay informed about the Trump administration without letting political news take over your life. Subscribe here. Welcome to The Logoff: The Trump administration is planning a public killing.…",
-      "source": "Vox",
-      "url": "https://www.vox.com/the-logoff-newsletter-trump/506134/pete-hegseth-nidal-hasan-livestream-execution-firing-squad",
-      "time": "2026-10-09T22:33:12",
-      "country": "US",
-      "title_ur": "ٹرمپ انتظامیہ عوامی قتل کا منصوبہ بنا رہی ہے۔",
-      "desc_ur": "یہ کہانی دی لاگ آف میں شائع ہوئی، ایک روزانہ نیوز لیٹر جو سیاسی خبروں کو آپ کی زندگی پر قبضہ کیے بغیر ٹرمپ انتظامیہ کے بارے میں باخبر رہنے میں آپ کی مدد کرتا ہے۔ یہاں سبسکرائب کریں۔ دی لاگ آف میں خوش آمدید: ٹرمپ انتظامیہ عوامی قتل کی منصوبہ بندی کر رہی ہے۔…"
-    },
-    {
-      "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-      "desc": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo",
-      "time": "2026-10-09T22:30:22",
-      "country": "Russia",
-      "title_ur": "تجزیہ: ٹرمپ کا جھٹکا روس کے معاہدے نے ایندھن کی قیمتوں کو روکنے کے بڑھتے ہوئے دباؤ کو نمایاں کیا۔",
-      "desc_ur": "بی بی سی کے شمالی امریکہ کے نامہ نگار نے لکھا ہے کہ امریکی صدر اگلے ماہ ہونے والے وسط مدتی انتخابات سے قبل اپنی پارٹی کے درد کو کم کرنے کی امید رکھتے ہیں۔"
-    },
-    {
-      "title": "Afghan Asylum Seeker and Ukrainian Boy Find Common Ground in Busan Asian Project Market Drama ‘Babak’",
-      "desc": "An Afghan asylum seeker named Babak is pushed out of his temporary housing in Germany to make room for Ukrainian refugees in “Babak,” the next project from Payal Sethi, director of the upcoming “Kurinji.” The project is part of the Asian Project Market, which…",
-      "source": "Variety",
-      "url": "https://variety.com/2026/film/markets-festivals/afghan-refugee-drama-babak-busan-asian-project-market-1236906366/",
-      "time": "2026-10-09T22:28:06",
-      "country": "UK",
-      "title_ur": "افغان پناہ کے متلاشی اور یوکرائنی لڑکے نے بوسان ایشین پروجیکٹ مارکیٹ ڈرامہ 'بابک' میں مشترکہ میدان تلاش کیا۔",
-      "desc_ur": "بابک نامی ایک افغان پناہ گزین کو جرمنی میں اس کی عارضی رہائش گاہ سے باہر دھکیل دیا گیا ہے تاکہ وہ \"بابک\" میں یوکرائنی پناہ گزینوں کے لیے جگہ بنا سکے، جو آئندہ \"کورنجی\" کی ڈائریکٹر پائل سیٹھی کا اگلا پروجیکٹ ہے۔ یہ منصوبہ ایشین پروجیکٹ مارکیٹ کا حصہ ہے، جو…"
-    },
-    {
-      "title": "Dow Jones Top Company Headlines at 5 PM ET: Brands Say They're Pouring Tariff Refunds Into Marketing | Delta ...",
-      "desc": "Dow Jones Top Company Headlines at 5 PM ET: Brands Say They're Pouring Tariff Refunds Into Marketing | Delta ...morningstar.com",
-      "source": "Morningstar.com",
-      "url": "https://www.morningstar.com/news/dow-jones/202610097282/dow-jones-top-company-headlines-at-5-pm-et-brands-say-theyre-pouring-tariff-refunds-into-marketing-delta",
-      "time": "2026-10-09T22:27:59",
-      "country": "International",
-      "title_ur": "ڈاؤ جونز ٹاپ کمپنی کی ہیڈلائنز شام 5 بجے ET: برانڈز کا کہنا ہے کہ وہ ٹیرف ریفنڈز کو مارکیٹنگ میں ڈال رہے ہیں۔ ڈیلٹا...",
-      "desc_ur": "ڈاؤ جونز ٹاپ کمپنی کی ہیڈلائنز شام 5 بجے ET: برانڈز کا کہنا ہے کہ وہ ٹیرف ریفنڈز کو مارکیٹنگ میں ڈال رہے ہیں۔ ڈیلٹا ...morningstar.com"
-    },
-    {
-      "title": "They’ve done it again: the Nobel Committee just disgraced itself once more",
-      "desc": "The Nobel committee has disgraced itself yet again by awarding the 2026 Peace Prize to Navanethem “Navi” Pillay, the South African legal activist and former UN human-rights chief known for her extreme anti-Israel bias.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/10/09/opinion/theyve-done-it-again-the-nobel-committee-just-disgraced-itself-once-more/",
-      "time": "2026-10-09T22:24:19",
+      "title": "Paris airport workers say they blocked Elbit-bound shipment to Israel",
+      "desc": "The cargo was due to be loaded onto an Air France flight from Paris to Israel on Thursday. Airport workers decided not to load it onto an El Al flight scheduled to depart for Ben-Gurion Airport on Saturday",
+      "source": "Haaretz",
+      "url": "https://www.haaretz.com/israel-news/israel-security/2026-10-10/ty-article/.premium/paris-airport-workers-say-they-blocked-elbit-bound-shipment-to-israel/000001a1-2301-daa9-a9f5-77850f9a0000",
+      "time": "2026-10-10T01:22:14",
       "country": "Israel",
-      "title_ur": "انہوں نے یہ دوبارہ کیا ہے: نوبل کمیٹی نے صرف ایک بار پھر خود کو رسوا کیا۔",
-      "desc_ur": "نوبل کمیٹی نے جنوبی افریقی قانونی کارکن اور اقوام متحدہ کے انسانی حقوق کے سابق سربراہ ناوانیتھم \"نوی\" پلے کو 2026 کا امن انعام دے کر ایک بار پھر اپنی بے عزتی کی ہے۔"
+      "title_ur": "پیرس ہوائی اڈے کے کارکنوں کا کہنا ہے کہ انہوں نے اسرائیل جانے والی ایلبٹ کی ترسیل کو روک دیا۔",
+      "desc_ur": "یہ کارگو جمعرات کو پیرس سے اسرائیل جانے والی ایئر فرانس کی پرواز پر لادا جانا تھا۔ ہوائی اڈے کے کارکنوں نے فیصلہ کیا کہ اسے ہفتہ کو بین گوریون ہوائی اڈے کے لیے روانہ ہونے والی ایل ال پرواز پر لوڈ نہ کریں"
     },
     {
-      "title": "Zelensky slams Trump’s ‘weak decision’",
-      "desc": "Ukraine’s Vladimir Zelensky has lashed out at US President Donald Trump over his decision to lift sanctions on Russian diesel exports, accusing Washington of striking a deal with Moscow behind Kiev’s back.",
-      "source": "RT",
-      "url": "https://www.rt.com/news/647018-zelensky-trump-weak-decision/",
-      "time": "2026-10-09T22:22:04",
+      "title": "Trump hails Russia deal to supply diesel as “big deal” amid Zelenskyy’s criticism",
+      "desc": "WASHINGTON DC: Amid Ukrainian President Volodymyr Zelenskyy’s criticism of easing sanctions on Moscow without a de-escalation agreement, US President Donald Trump on Friday (local time) hailed the diesel deal with Russia as a “big deal”, thanking Russian Pres…",
+      "source": "Khabarhub.com",
+      "url": "https://english.khabarhub.com/2026/10/571410/",
+      "time": "2026-10-10T01:18:26",
       "country": "Russia",
-      "title_ur": "زیلنسکی نے ٹرمپ کے 'کمزور فیصلے' پر تنقید کی",
-      "desc_ur": "یوکرین کے ولادیمیر زیلنسکی نے روسی ڈیزل کی برآمدات پر سے پابندیاں ہٹانے کے فیصلے پر امریکی صدر ڈونلڈ ٹرمپ پر تنقید کی ہے، اور الزام لگایا ہے کہ واشنگٹن نے کیف کے پیچھے ماسکو کے ساتھ معاہدہ کیا ہے۔"
+      "title_ur": "زیلنسکی کی تنقید کے درمیان ٹرمپ نے روس کے ڈیزل کی فراہمی کے معاہدے کو \"بڑا سودا\" قرار دیا۔",
+      "desc_ur": "واشنگٹن ڈی سی: یوکرین کے صدر ولادیمیر زیلنسکی کی جانب سے ماسکو پر بغیر کسی کشیدگی کے معاہدے کے پابندیوں میں نرمی کی تنقید کے درمیان، امریکی صدر ڈونلڈ ٹرمپ نے جمعہ کو (مقامی وقت کے مطابق) روس کے ساتھ ڈیزل ڈیل کو ایک \"بڑا سودا\" قرار دیتے ہوئے روسی پریس کا شکریہ ادا کیا…"
     },
     {
-      "title": "Trump agrees diesel supply deal with Russia in move condemned by Ukraine",
-      "desc": "‘Gifts to Putin will not bring peace ‌or ‌any ​benefit to the civilised world,’ says Ukrainian president Volodymyr Zelenskiy",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/world/us/2026/10/09/trump-agrees-diesel-supply-deal-with-russia-in-move-condemned-by-ukraine/",
-      "time": "2026-10-09T22:18:26",
-      "country": "Russia",
-      "title_ur": "ٹرمپ نے یوکرین کی طرف سے مذمت کے اقدام میں روس کے ساتھ ڈیزل سپلائی کے معاہدے پر اتفاق کیا۔",
-      "desc_ur": "یوکرین کے صدر ولادیمیر زیلینسکی کا کہنا ہے کہ ’پوتن کو تحفے امن یا مہذب دنیا کو کوئی فائدہ نہیں پہنچائیں گے۔"
-    },
-    {
-      "title": "Iranian security forces face wave of deadly attacks in restive southeast - Iran International",
-      "desc": "Iranian security forces face wave of deadly attacks in restive southeastIran International Terrorist killed as police repel attack in SE IranMehr News Agency Iranian police official killed by explosive device blast in the country’s southeast. Deadly Attacks L…",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186085410",
-      "time": "2026-10-09T22:12:47",
+      "title": "Ossoff vs. Collins in Georgia US Senate debate: Key moments and polls",
+      "desc": "Democrats are fighting to defend U.S. Senator Jon Ossoff's Georgia seat as Republican challenger Mike Collins faces a difficult path, trailing amid unfavorable polling and a Democratic fundraising advantage. The two faced off in a debate Thursday evening, cla…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4398632/posts",
+      "time": "2026-10-10T01:13:45",
       "country": "Iran",
-      "title_ur": "ایرانی سیکورٹی فورسز کو مشتعل جنوب مشرق میں مہلک حملوں کی لہر کا سامنا ہے - ایران انٹرنیشنل",
-      "desc_ur": "ایرانی سیکورٹی فورسز کو مشتعل جنوب مشرقی میں مہلک حملوں کی لہر کا سامنا ہے ایران میں بین الاقوامی دہشت گرد ہلاک جب پولیس نے حملہ پسپا کر دیا ایران مہر نیوز ایجنسی ایرانی پولیس اہلکار ملک کے جنوب مشرق میں دھماکہ خیز ڈیوائس کے دھماکے میں ہلاک ہو گیا۔ مہلک حملے L…"
+      "title_ur": "اوسوف بمقابلہ کولنز جارجیا میں امریکی سینیٹ کی بحث: اہم لمحات اور پولز",
+      "desc_ur": "ڈیموکریٹس امریکی سینیٹر جون اوسوف کی جارجیا کی نشست کے دفاع کے لیے لڑ رہے ہیں کیونکہ ریپبلکن چیلنجر مائیک کولنز کو ایک مشکل راستہ کا سامنا ہے، جو ناموافق پولنگ اور ڈیموکریٹک فنڈ ریزنگ فائدہ کے درمیان پیچھے ہیں۔ جمعرات کی شام ایک بحث میں دونوں کا سامنا ہوا، cla…"
     },
     {
-      "title": "‘Morally Wrong’: Trump Sparks Anger on Left and Right By Lifting Russian Sanctions",
-      "desc": "Trump sparked a wave of bipartisan shock and anger on Friday when he announced he was lifting sanctions on Russian diesel in a bid to lower prices\nThe post ‘Morally Wrong’: Trump Sparks Anger on Left and Right By Lifting Russian Sanctions first appeared on Me…",
-      "source": "Mediaite",
-      "url": "https://www.mediaite.com/media/news/morally-wrong-trump-sparks-anger-on-left-and-right-by-lifting-russian-sanctions/",
-      "time": "2026-10-09T22:10:58",
-      "country": "Russia",
-      "title_ur": "'اخلاقی طور پر غلط': ٹرمپ نے روسی پابندیاں اٹھا کر بائیں اور دائیں غصے کو جنم دیا",
-      "desc_ur": "ٹرمپ نے جمعہ کے روز دو طرفہ صدمے اور غصے کی لہر کو جنم دیا جب انہوں نے اعلان کیا کہ وہ قیمتوں کو کم کرنے کے لیے روسی ڈیزل پر سے پابندیاں اٹھا رہے ہیں۔\nThe post ’اخلاقی طور پر غلط‘: ٹرمپ نے روسی پابندیاں اٹھا کر بائیں اور دائیں غصے کو جنم دیا appeared first on Me…"
-    },
-    {
-      "title": "Cook Political Report Shifts 18 House Races Left, Including Four GOP-Held Seats from Toss Up to Lean D",
-      "desc": "The Cook Political Report shifted 18 House races to the left Friday — including four currently held by Republican incumbents.\nThe post Cook Political Report Shifts 18 House Races Left, Including Four GOP-Held Seats from Toss Up to Lean D first appeared on Med…",
-      "source": "Mediaite",
-      "url": "https://www.mediaite.com/politics/cook-political-report-shifts-18-house-races-left-including-four-gop-held-seats-from-toss-up-to-lean-d/",
-      "time": "2026-10-09T22:10:37",
-      "country": "US",
-      "title_ur": "کک پولیٹیکل رپورٹ نے 18 ہاؤس ریسز کو بائیں طرف شفٹ کیا، جس میں چار GOP کے زیر قبضہ سیٹیں ٹاس اپ سے لین ڈی تک شامل ہیں",
-      "desc_ur": "کک پولیٹیکل رپورٹ نے جمعہ کو 18 ہاؤس ریسوں کو بائیں طرف منتقل کر دیا - بشمول چار ریپبلکن عہدے داروں کے پاس۔\nThe post کک پولیٹیکل رپورٹ نے 18 ہاؤس ریسز کو بائیں طرف شفٹ کر دیا، جس میں GOP کے زیر انتظام چار سیٹیں بھی شامل ہیں ٹاس اپ سے لین ڈی تک appeared first on Med…"
-    },
-    {
-      "title": "‘Beyond Disgusting’: The Right Wing Is At Odds Over Hegseth’s Public Execution Plan",
-      "desc": "Some lawmakers have warned the Trump administration against a proposal to livestream the execution of Fort Hood shooter Nidal Hasan, even as the online right bays for blood.",
+      "title": "'A Deal With The Devil': Lawmakers Sound Off On Trump's Russian Diesel Deal",
+      "desc": "“Propping up Putin’s war economy is morally wrong as he uses that money to bomb cities,” Rep. Don Bacon (R-Neb.) wrote on X.",
       "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/beyond-disgusting-the-right-wing-is-at-odds-over-hegseths-public-execution-plan_n_6ac931d9e4b0942a61410151",
-      "time": "2026-10-09T22:09:06",
+      "url": "https://www.huffpost.com/entry/trump-russia-diesel-deal-lawmaker-reaction_n_6ac96ea9e4b0e825de15531f",
+      "time": "2026-10-10T00:59:03",
+      "country": "Russia",
+      "title_ur": "'شیطان کے ساتھ ڈیل': قانون سازوں نے ٹرمپ کے روسی ڈیزل ڈیل پر آواز اٹھائی",
+      "desc_ur": "\"پیوٹن کی جنگی معیشت کو آگے بڑھانا اخلاقی طور پر غلط ہے کیونکہ وہ اس رقم کو شہروں پر بمباری کے لیے استعمال کرتے ہیں،\" نمائندہ ڈان بیکن (R-Neb.) نے X پر لکھا۔"
+    },
+    {
+      "title": "New Yorker Exposed",
+      "desc": "I really enjoy watching a smart guy work, and Jared Kushner is a very smart guy. A volunteer in his nation’s service with a remarkable record of success in both private and public life, he has been relentlessly smeared by liberals. Most recently, the New York…",
+      "source": "Power Line",
+      "url": "http://www.powerlineblog.com/archives/2026/10/new-yorker-exposed.php",
+      "time": "2026-10-10T00:55:24",
       "country": "US",
-      "title_ur": "'ناگوار سے پرے': دائیں بازو ہیگستھ کے عوامی عمل درآمد کے منصوبے سے متضاد ہے۔",
-      "desc_ur": "کچھ قانون سازوں نے ٹرمپ انتظامیہ کو فورٹ ہڈ کے شوٹر ندال حسن کی پھانسی کو لائیو سٹریم کرنے کی تجویز کے خلاف متنبہ کیا ہے، یہاں تک کہ خون کے لیے آن لائن حق بھی۔"
+      "title_ur": "نیویارکر بے نقاب",
+      "desc_ur": "میں واقعی میں ایک ہوشیار آدمی کو کام کرتے ہوئے دیکھ کر لطف اندوز ہوتا ہوں، اور جیرڈ کشنر بہت ہوشیار آدمی ہے۔ اپنی قوم کی خدمت میں ایک رضاکار جس نے نجی اور عوامی زندگی دونوں میں کامیابی کا ایک قابل ذکر ریکارڈ رکھا ہے، اس پر لبرل لوگوں کی طرف سے بے تحاشہ تنقید کی گئی ہے۔ حال ہی میں نیویارک…"
+    },
+    {
+      "title": "FCC Chair Brendan Carr Says Pete Hegseth Has Final Say On Broadcasting Fort Hood Shooter’s Execution",
+      "desc": "Carr said he'll \"defer to Secretary Hegseth\" if the latter aims to air the execution of Nidal Malik Hasan on broadcast TV.",
+      "source": "Gizmodo.com",
+      "url": "https://gizmodo.com/fcc-chair-brendan-carr-says-pete-hegseth-has-final-say-on-broadcasting-fort-hood-shooters-execution-2000824507",
+      "time": "2026-10-10T00:51:56",
+      "country": "International",
+      "title_ur": "ایف سی سی کے چیئر برینڈن کار کا کہنا ہے کہ پیٹ ہیگستھ نے فورٹ ہڈ شوٹر کی پھانسی کی نشریات پر حتمی بات کی ہے",
+      "desc_ur": "کار نے کہا کہ وہ \"سیکرٹری ہیگستھ کو موخر کریں گے\" اگر مؤخر الذکر کا مقصد ندال ملک حسن کی پھانسی کو نشریاتی ٹی وی پر نشر کرنا ہے۔"
+    },
+    {
+      "title": "Talarico attends Texas festival after Paxton trolls Democrat's flu absence",
+      "desc": "Democratic Senate candidate James Talarico made a surprise appearance at the Austin City Limits (ACL) Music Festival on Friday, ending nearly two weeks of speculation about his whereabouts after a flu diagnosis kept him off the campaign trail and sparked ridi…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4398630/posts",
+      "time": "2026-10-10T00:51:29",
+      "country": "US",
+      "title_ur": "Paxton نے ڈیموکریٹ کی فلو کی غیر موجودگی کو ٹرول کرنے کے بعد Talarico ٹیکساس کے میلے میں شرکت کی",
+      "desc_ur": "ڈیموکریٹک سینیٹ کے امیدوار جیمز تلاریکو نے جمعہ کے روز آسٹن سٹی لمٹس (ACL) میوزک فیسٹیول میں حیرت انگیز طور پر پیشی کی، فلو کی تشخیص کے بعد ان کے ٹھکانے کے بارے میں تقریباً دو ہفتوں سے جاری قیاس آرائیوں کو ختم کر دیا اور اسے مہم سے دور رکھا اور اس کے نتیجے میں رد عمل شروع کر دیا۔"
+    },
+    {
+      "title": "Queen guitarist Brian May pours cold water on prospect of band doing Abba Voyage-style virtual show because it would require AI driven by the 'massive evil' of data centres",
+      "desc": "Queen guitarist Sir Brian May has cast doubt on the prospect of Queen returning with a virtual Freddie Mercury as he voiced his concerns over AI.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16197917/Queen-guitarist-band-Abba-Voyage-virtual-AI.html",
+      "time": "2026-10-10T00:51:17",
+      "country": "US",
+      "title_ur": "ملکہ گٹارسٹ برائن مے نے بینڈ کے ابا وائج طرز کا ورچوئل شو کرنے کے امکان پر ٹھنڈا پانی ڈالا کیونکہ اس کے لیے ڈیٹا سینٹرز کی 'بڑے پیمانے پر برائی' سے چلنے والے AI کی ضرورت ہوگی۔",
+      "desc_ur": "ملکہ کے گٹارسٹ سر برائن مے نے ورچوئل فریڈی مرکری کے ساتھ ملکہ کی واپسی کے امکان پر شکوک و شبہات کا اظہار کیا ہے کیونکہ انہوں نے AI پر اپنے خدشات کا اظہار کیا ہے۔"
+    },
+    {
+      "title": "Trump: Oil prices will tumble when Iran war ends",
+      "desc": "United States President Donald Trump said at a rally in New York that oil prices will be \"tumbling down\" once the Iran war is over.Trump added that inflation will also fall after the war and vowed to ...",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/71acd12c051e553a",
+      "time": "2026-10-10T00:46:03",
+      "country": "Iran",
+      "title_ur": "ٹرمپ: ایران جنگ ختم ہونے پر تیل کی قیمتیں گریں گی۔",
+      "desc_ur": "امریکی صدر ڈونلڈ ٹرمپ نے نیویارک میں ایک ریلی سے خطاب کرتے ہوئے کہا کہ ایران جنگ ختم ہونے کے بعد تیل کی قیمتیں گر جائیں گی۔ٹرمپ نے مزید کہا کہ جنگ کے بعد مہنگائی میں بھی کمی آئے گی"
+    },
+    {
+      "title": "Breitbart Business Digest: The Diesel and AI Panic Week",
+      "desc": "The financial press in recent weeks has been full of stories about calamitous commercial consequences arising from what everyone keeps calling record-high diesel prices.\nThe post Breitbart Business Digest: The Diesel and AI Panic Week appeared first on Breitb…",
+      "source": "Breitbart News",
+      "url": "https://www.breitbart.com/economy/2026/10/09/breitbart-business-digest-the-diesel-and-ai-panic-week/",
+      "time": "2026-10-10T00:39:00",
+      "country": "US",
+      "title_ur": "بریٹ بارٹ بزنس ڈائجسٹ: دی ڈیزل اور اے آئی پینک ویک",
+      "desc_ur": "حالیہ ہفتوں میں فنانشل پریس ان تباہ کن تجارتی نتائج کے بارے میں کہانیوں سے بھرا پڑا ہے جو ڈیزل کی بلند ترین قیمتوں کو ہر کوئی کہتا رہتا ہے۔\nThe post بریٹ بارٹ بزنس ڈائجسٹ: ڈیزل اور اے آئی پینک ویک appeared first on Breitb…"
+    },
+    {
+      "title": "Iran Didn’t Need to Buy an American Newspaper. It Just Needed a Byline.",
+      "desc": "Seven fake journalists. Nearly 100 articles. At least 20 publications. How an Iranian influence operation turned fabricated writers into published, searchable voices in the American press... ...Seven Journalists Who Weren’t Journalists OpenAI identified seven…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-chat/4398628/posts",
+      "time": "2026-10-10T00:34:45",
+      "country": "Iran",
+      "title_ur": "ایران کو امریکی اخبار خریدنے کی ضرورت نہیں تھی۔ اسے صرف ایک بائی لائن کی ضرورت ہے۔",
+      "desc_ur": "سات جعلی صحافی۔ تقریباً 100 مضامین۔ کم از کم 20 اشاعتیں۔ کس طرح ایرانی اثر و رسوخ کی کارروائی نے من گھڑت مصنفین کو امریکی پریس میں شائع شدہ، تلاش کی جانے والی آوازوں میں تبدیل کر دیا... ...سات صحافی جو صحافی نہیں تھے OpenAI نے سات…"
+    },
+    {
+      "title": "Trump swipes at Nobel committee after peace prize awarded to human rights lawyer - Politico",
+      "desc": "Trump swipes at Nobel committee after peace prize awarded to human rights lawyerPolitico Israel Denounces the Decision to Award the Nobel Peace Prize to Navi PillayThe New York Times Former ICC judge Navi Pillay wins 2026 Nobel Peace PrizeReuters Trump Reshar…",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186086358",
+      "time": "2026-10-10T00:33:30",
+      "country": "Israel",
+      "title_ur": "انسانی حقوق کے وکیل - پولیٹیکو کو امن کے انعام سے نوازے جانے کے بعد ٹرمپ نے نوبل کمیٹی میں سوائپ کیا۔",
+      "desc_ur": "انسانی حقوق کے وکیل پولیٹیکو اسرائیل کو امن کا نوبل انعام دینے کے بعد ٹرمپ نے نوبل کمیٹی میں تبدیلی کی، نیوی پلے کو امن کا نوبل انعام دینے کے فیصلے کی مذمت نیویارک ٹائمز آئی سی سی کی سابق جج نوی پلے نے 2026 کا امن کا نوبل انعام جیت لیا۔"
+    },
+    {
+      "title": "On the trail of the Red Prince: Palestine's Ali Hassan Salameh | ASSASSINS",
+      "desc": "In the 1970s, there was one man that Mossad just couldn't seem to cross off its kill list: Ali Hassan Salameh. Israel claimed that ...",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/99fa25e9dcbbf441",
+      "time": "2026-10-10T00:24:30",
+      "country": "Israel",
+      "title_ur": "ریڈ پرنس کی پگڈنڈی پر: فلسطین کا علی حسن سلامہ | قاتل",
+      "desc_ur": "1970 کی دہائی میں، ایک ایسا شخص تھا جسے موساد اپنی ہلاکتوں کی فہرست سے باہر نہیں کر سکتا تھا: علی حسن سلامہ۔ اسرائیل نے دعویٰ کیا کہ..."
+    },
+    {
+      "title": "Israeli drone attack wounds six in Lebanon near Syria border",
+      "desc": "Five Syrians and one Lebanese wounded in latest Israeli attack, Lebanon's health authorities say.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/10/10/israeli-drone-attack-wounds-six-in-lebanon-near-syria-border",
+      "time": "2026-10-10T00:22:52",
+      "country": "Israel",
+      "title_ur": "شام کی سرحد کے قریب لبنان میں اسرائیلی ڈرون حملے میں چھ افراد زخمی ہو گئے۔",
+      "desc_ur": "لبنان کے محکمہ صحت کے حکام کا کہنا ہے کہ تازہ ترین اسرائیلی حملے میں پانچ شامی اور ایک لبنانی زخمی ہوا۔"
     }
   ],
   "pakistan": [
     {
-      "title": "An untested promise",
-      "desc": "India isn't the target of the new Saudi Arabia-Turkiye-Pakistan pact, experts say",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/blueprint-defence-magazine/reports/an-untested-promise-126100600443_1.html",
-      "time": "2026-10-09T22:40:15",
+      "title": "Chlorhexidine MIC distribution, efflux pump gene profiles, and genotypic characteristics among clinical methicillin-resistant and methicillin-susceptible Staphylococcus aureus isolates",
+      "desc": "Scientific Reports - Chlorhexidine MIC distribution, efflux pump gene profiles, and genotypic characteristics among clinical methicillin-resistant and methicillin-susceptible Staphylococcus aureus...",
+      "source": "Nature.com",
+      "url": "https://www.nature.com/articles/s41598-026-75442-y.pdf",
+      "time": "2026-10-10T00:00:00",
       "country": "Pakistan",
-      "title_ur": "ایک غیر تجربہ شدہ وعدہ",
-      "desc_ur": "ماہرین کا کہنا ہے کہ ہندوستان نئے سعودی عرب-ترکی-پاکستان معاہدے کا ہدف نہیں ہے۔"
-    },
-    {
-      "title": "Aliens in America S01 1080p CW WEB-DL H264-BLUE",
-      "desc": "A young Muslim student from Pakistan is sent to live with a Christian family in Wisconsin as part of a foreign exchange program. Links: HOMEPAGE – iMDBAliens.In.America.S01.1080p.CW.WEB-DL.AAC2.0.H.264-BLUEMKV | AAC | 18EP [20.9 GB]NFO - Subtitles – Torrent –…",
-      "source": "Rlsbb.cc",
-      "url": "https://post.rlsbb.cc/aliens-in-america-s01-1080p-cw-web-dl-h264-blue/",
-      "time": "2026-10-09T22:08:18",
-      "country": "Pakistan",
-      "title_ur": "امریکہ میں غیر ملکی S01 1080p CW WEB-DL H264-BLUE",
-      "desc_ur": "پاکستان سے ایک نوجوان مسلمان طالب علم کو غیر ملکی کرنسی پروگرام کے تحت وسکونسن میں ایک عیسائی خاندان کے ساتھ رہنے کے لیے بھیجا گیا ہے۔ لنکس: ہوم پیج – iMDBAliens.In.America.S01.1080p.CW.WEB-DL.AAC2.0.H.264-BLUEMKV | AAC | 18EP [20.9 GB]NFO - سب ٹائٹلز - ٹورینٹ -…"
-    },
-    {
-      "title": "Pakistani Drama ‘Dancers’ Brings a Generation Torn Between Leaving and Staying Home to Busan Asian Project Market",
-      "desc": "The pull between leaving Pakistan and staying rooted there drives “Dancers,” writer-director Eshah Shakeel’s coming-of-age drama about two young people in a Punjab town near Lahore who bond through clandestine dance lessons. The project is part of the Asian P…",
-      "source": "Variety",
-      "url": "https://variety.com/2026/film/markets-festivals/busan-asian-project-market-dancers-pakistan-1236906326/",
-      "time": "2026-10-09T22:00:00",
-      "country": "Pakistan",
-      "title_ur": "پاکستانی ڈرامہ 'رقاص' بوسان ایشین پروجیکٹ مارکیٹ میں گھر چھوڑنے اور رہنے کے درمیان ایک نسل کو لے کر آتا ہے۔",
-      "desc_ur": "پاکستان چھوڑنے اور وہاں جڑے رہنے کے درمیان کھینچا تانی \"ڈانسرز\" کو آگے بڑھاتی ہے، مصنفہ ہدایتکار ایشا شکیل کا لاہور کے قریب پنجاب کے ایک قصبے میں دو نوجوانوں کے بارے میں ڈرامہ جو خفیہ ڈانس کے اسباق کے ذریعے بندھے ہوئے ہیں۔ یہ منصوبہ ایشین پی…"
+      "title_ur": "کلورہیکسیڈائن MIC کی تقسیم، فلوکس پمپ جین پروفائلز، اور کلینیکل میتھیسلن مزاحم اور میتھیسلن کے لیے حساس اسٹیفیلوکوکس اوریئس آئسولیٹس کے درمیان جین ٹائپک خصوصیات",
+      "desc_ur": "سائنسی رپورٹس - Chlorhexidine MIC کی تقسیم، Eflux پمپ جین پروفائلز، اور کلینکل میتھیسلن مزاحم اور میتھیسلن کے لیے حساس Staphylococcus aureus کے درمیان جین ٹائپک خصوصیات..."
     }
   ],
   "business": {
-    "quote": "Success usually comes to those who are too busy to be looking for it.",
-    "author": "Henry David Thoreau",
-    "quote_ur": "کامیابی عام طور پر ان لوگوں کو ملتی ہے جو اس کی تلاش میں مصروف رہنے سے زیادہ مصروف ہوتے ہیں۔"
+    "quote": "The way to get started is to quit talking and begin doing.",
+    "author": "Walt Disney",
+    "quote_ur": "شروع کرنے کا طریقہ یہ ہے کہ باتیں کرنا چھوڑ دو اور کام شروع کر دو۔"
   },
   "weather": {
     "city": "Lahore",
@@ -197,9 +177,9 @@
         "date": "2026-10-11",
         "day": "اتوار",
         "high": 29,
-        "low": 22,
-        "condition": "Thunderstorm",
-        "condition_ur": "گرج چمک",
+        "low": 21,
+        "condition": "Showers",
+        "condition_ur": "بارش",
         "precip": 51
       },
       {
@@ -207,35 +187,35 @@
         "day": "پیر",
         "high": 30,
         "low": 21,
-        "condition": "Overcast",
-        "condition_ur": "ابر آلود",
+        "condition": "Partly Cloudy",
+        "condition_ur": "جزوی ابر آلود",
         "precip": 22
       },
       {
         "date": "2026-10-13",
         "day": "منگل",
-        "high": 30,
+        "high": 29,
         "low": 22,
-        "condition": "Thunderstorm",
-        "condition_ur": "گرج چمک",
+        "condition": "Drizzle",
+        "condition_ur": "بوندا باندی",
         "precip": 53
       },
       {
         "date": "2026-10-14",
         "day": "بدھ",
         "high": 30,
-        "low": 22,
-        "condition": "Overcast",
-        "condition_ur": "ابر آلود",
+        "low": 21,
+        "condition": "Partly Cloudy",
+        "condition_ur": "جزوی ابر آلود",
         "precip": 10
       },
       {
         "date": "2026-10-15",
         "day": "جمعرات",
-        "high": 28,
+        "high": 27,
         "low": 20,
-        "condition": "Showers",
-        "condition_ur": "بارش",
+        "condition": "Light Showers",
+        "condition_ur": "ہلکی بارش",
         "precip": 44
       },
       {
@@ -243,8 +223,8 @@
         "day": "جمعہ",
         "high": 28,
         "low": 19,
-        "condition": "Partly Cloudy",
-        "condition_ur": "جزوی ابر آلود",
+        "condition": "Mainly Clear",
+        "condition_ur": "زیادہ تر صاف",
         "precip": 16
       },
       {
