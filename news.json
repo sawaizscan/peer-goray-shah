@@ -1,177 +1,237 @@
 {
-  "generated": "2026-10-12T02:33:03Z",
+  "generated": "2026-10-12T10:05:41Z",
   "world": [
     {
-      "title": "DOJ investigating TV networks over suspension of press pool after Trump media ban",
-      "desc": "The Justice Department is investigating whether the major TV networks violated antitrust laws after they briefly suspended the TV press pool system in response to President Trump's decision to ban three news organizations from the White House.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/doj-investigating-tv-networks-suspension-press-pool-trump-media-ban/",
-      "time": "2026-10-11T02:21:00",
-      "country": "US",
-      "title_ur": "DOJ ٹرمپ میڈیا پر پابندی کے بعد پریس پول کی معطلی پر ٹی وی نیٹ ورکس کی تحقیقات کر رہا ہے۔",
-      "desc_ur": "محکمہ انصاف اس بات کی تحقیقات کر رہا ہے کہ آیا صدر ٹرمپ کے وائٹ ہاؤس سے تین نیوز آرگنائزیشنز پر پابندی لگانے کے فیصلے کے جواب میں ٹی وی پریس پول سسٹم کو مختصر طور پر معطل کرنے کے بعد بڑے ٹی وی نیٹ ورکس نے عدم اعتماد کے قوانین کی خلاف ورزی کی۔"
+      "title": "Italy's Schools Decree sparks wider debate over European integration",
+      "desc": "The Italian \"Schools Decree\" caps foreign-born pupils at 30% and bans face coverings, but experts question whether forced assimilation works.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/world/italys-school-veil-ban-exposes-europes-assimilation-fight-expert-warns-us-could-next",
+      "time": "2026-10-11T10:00:40",
+      "country": "Europe",
+      "title_ur": "Italy's Schools Decree sparks wider debate over European integration",
+      "desc_ur": "The Italian \"Schools Decree\" caps foreign-born pupils at 30% and bans face coverings, but experts question whether forced assimilation works."
     },
     {
-      "title": "Putin would like to reach a deal in Ukraine war - Trump",
-      "desc": "US President Donald Trump said that his Russian counterpart Vladimir Putin would like to reach a deal on the war with Ukraine",
-      "source": "RTE",
-      "url": "https://www.rte.ie/news/world/2026/1011/1594882-russia-us/",
-      "time": "2026-10-11T02:14:16",
-      "country": "Russia",
-      "title_ur": "پیوٹن یوکرین جنگ میں ڈیل کرنا چاہیں گے: ٹرمپ",
-      "desc_ur": "امریکی صدر ڈونلڈ ٹرمپ نے کہا ہے کہ ان کے روسی ہم منصب ولادی میر پیوٹن یوکرین کے ساتھ جنگ ​​کے حوالے سے معاہدہ کرنا چاہتے ہیں۔"
-    },
-    {
-      "title": "Shock as congressional hopeful faces possible hate crime charge after anti-Israel outburst",
-      "desc": "Critics were left stunned Saturday after learning that congressional candidate Matthew Arndt\r\n of Wisconsin may face a hate crime enhancement after launching into an anti-Israel tirade during a suspected road rage incident\r\n.“This is a blatant [First Amendmen…",
-      "source": "Raw Story",
-      "url": "https://www.rawstory.com/matthew-arndt/",
-      "time": "2026-10-11T02:12:22",
+      "title": "Woman in her 40s stabbed to death in southern Israel; husband arrested",
+      "desc": "Nania Melda was taken to Soroka Medical Center in Be'er Sheva in critical condition and later pronounced dead. Police said her husband, a man in his 40s, was arrested after reporting the incident",
+      "source": "Haaretz",
+      "url": "https://www.haaretz.com/israel-news/israel-crime/2026-10-11/ty-article/.premium/woman-in-her-40s-stabbed-to-death-in-southern-israel-husband-arrested/000001a1-2a12-d5af-a3b7-2bb2039a0000",
+      "time": "2026-10-11T10:00:40",
       "country": "Israel",
-      "title_ur": "صدمہ کیونکہ کانگریسی امید پرستوں کو اسرائیل مخالف اشتعال انگیزی کے بعد ممکنہ نفرت انگیز جرائم کے الزامات کا سامنا ہے۔",
-      "desc_ur": "کانگریس کے امیدوار میتھیو آرنڈٹ کو جاننے کے بعد ہفتے کے روز ناقدین دنگ رہ گئے۔\r\n وسکونسن کو ایک مشتبہ روڈ ریج واقعے کے دوران اسرائیل مخالف ٹائریڈ شروع کرنے کے بعد نفرت انگیز جرائم میں اضافے کا سامنا کرنا پڑ سکتا ہے۔\r\n.“یہ ایک صریح ہے [پہلی ترمیم…"
+      "title_ur": "Woman in her 40s stabbed to death in southern Israel; husband arrested",
+      "desc_ur": "Nania Melda was taken to Soroka Medical Center in Be'er Sheva in critical condition and later pronounced dead. Police said her husband, a man in his 40s, was arrested after reporting the incident"
     },
     {
-      "title": "World condemns deadly Houthi attack on Saudi Arabia’s Riyadh airport",
-      "desc": "Trump condemns 'terrible' attack and says the US is evaluating whether to join Saudi Arabia's attacks on the Houthis.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/10/11/world-condemns-deadly-houthi-attack-on-saudi-arabias-riyadh-airport",
-      "time": "2026-10-11T02:12:07",
+      "title": "New York's Controversial Anti-Swastika Law Turns Prosecutors Into Speech Police",
+      "desc": "Graffiti vandals are now being investigated for hate crimes.",
+      "source": "Reason",
+      "url": "https://reason.com/2026/10/11/new-york-tries-to-legislate-away-hate/",
+      "time": "2026-10-11T10:00:26",
+      "country": "International",
+      "title_ur": "New York's Controversial Anti-Swastika Law Turns Prosecutors Into Speech Police",
+      "desc_ur": "Graffiti vandals are now being investigated for hate crimes."
+    },
+    {
+      "title": "Inside Israel's plot to kill Hezbollah chief as Netanyahu warned Biden aide would 'jump out of his skin'",
+      "desc": "Benjamin Netanyahu warned that Jake Sullivan would \"jump out of his skin\" over Israel's secret plan to assassinate Hassan Nasrallah in Beirut.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/world/inside-israels-plot-kill-hezbollah-chief-netanyahu-warned-biden-aide-would-jump-out-his-skin",
+      "time": "2026-10-11T10:00:18",
+      "country": "Israel",
+      "title_ur": "Inside Israel's plot to kill Hezbollah chief as Netanyahu warned Biden aide would 'jump out of his skin'",
+      "desc_ur": "Benjamin Netanyahu warned that Jake Sullivan would \"jump out of his skin\" over Israel's secret plan to assassinate Hassan Nasrallah in Beirut."
+    },
+    {
+      "title": "Victor Marx, an unorthodox candidate, aims to harness AI and bring more accountability to the state as governor",
+      "desc": "Republican Victor Marx, if he wins the race for Colorado governor, says he's bring accountability to state government as a conservative. But how he'd govern is less clear, given a murky campaign.",
+      "source": "The Denver Post",
+      "url": "https://www.denverpost.com/2026/10/11/victor-marx-colorado-governor-election-approach/",
+      "time": "2026-10-11T10:00:05",
+      "country": "International",
+      "title_ur": "Victor Marx, an unorthodox candidate, aims to harness AI and bring more accountability to the state as governor",
+      "desc_ur": "Republican Victor Marx, if he wins the race for Colorado governor, says he's bring accountability to state government as a conservative. But how he'd govern is less clear, given a murky campaign."
+    },
+    {
+      "title": "From Turkey to Ethiopia: 7 churches and monasteries for adventurous pilgrims",
+      "desc": "From Turkey's Sumela Monastery, built against a cliff, to Ethiopia’s rock-hewn church reached by a difficult climb, some Christian pilgrimage sites make the journey itself part of the experience.",
+      "source": "Ewtnnews.com",
+      "url": "https://www.ewtnnews.com/world/middle-east/from-turkey-to-ethiopia-7-churches-and-monasteries-for-adventurous-pilgrims",
+      "time": "2026-10-11T10:00:00",
       "country": "US",
-      "title_ur": "دنیا نے سعودی عرب کے ریاض ایئرپورٹ پر حوثیوں کے مہلک حملے کی مذمت کی ہے۔",
-      "desc_ur": "ٹرمپ نے 'خوفناک' حملے کی مذمت کی اور کہا کہ امریکہ اس بات کا جائزہ لے رہا ہے کہ آیا حوثیوں پر سعودی عرب کے حملوں میں شامل ہونا ہے۔"
+      "title_ur": "From Turkey to Ethiopia: 7 churches and monasteries for adventurous pilgrims",
+      "desc_ur": "From Turkey's Sumela Monastery, built against a cliff, to Ethiopia’s rock-hewn church reached by a difficult climb, some Christian pilgrimage sites make the journey itself part of the experience."
     },
     {
-      "title": "Fading Aroma of Black Cardamom: A $480 million market may bloom while India's 'black gold' wilts",
-      "desc": "India’s large black cardamom industry is battling declining plantation health, crop diseases and climate change, threatening farmers’ livelihoods in Sikkim. Once the world’s largest producer, India has lost ground to Nepal, which now dominates global producti…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/economy/agriculture/fading-aroma-of-black-cardamom-a-480-million-market-may-bloom-while-indias-black-gold-wilts/articleshow/134864010.cms",
-      "time": "2026-10-11T02:06:52",
-      "country": "India",
-      "title_ur": "کالی الائچی کی دھندلی مہک: 480 ملین ڈالر کی مارکیٹ کھل سکتی ہے جب کہ ہندوستان کا 'کالا سونا' مرجھا جائے گا",
-      "desc_ur": "ہندوستان کی کالی الائچی کی بڑی صنعت پودے لگانے کی گرتی ہوئی صحت، فصلوں کی بیماریوں اور موسمیاتی تبدیلیوں سے لڑ رہی ہے، جس سے سکم میں کسانوں کی روزی روٹی کو خطرہ ہے۔ کبھی دنیا کا سب سے بڑا پروڈیوسر، ہندوستان نیپال سے ہار گیا ہے، جو اب عالمی پیداوار پر حاوی ہے…"
+      "title": "“Repeated And Persistent Supply-Side Shocks” Are Here To Stay",
+      "desc": "A Fed president just admitted the crises aren’t going away. Look at what the last “temporary” emergency took from you, and never gave back, before you believe anything they tell you about this one. On August 19, in Your Dollar Is About to Lose Half Its Buying…",
+      "source": "Activistpost.com",
+      "url": "https://activistpost.com/repeated-and-persistent-supply-side-shocks-are-here-to-stay/",
+      "time": "2026-10-11T10:00:00",
+      "country": "US",
+      "title_ur": "“Repeated And Persistent Supply-Side Shocks” Are Here To Stay",
+      "desc_ur": "A Fed president just admitted the crises aren’t going away. Look at what the last “temporary” emergency took from you, and never gave back, before you believe anything they tell you about this one. On August 19, in Your Dollar Is About to Lose Half Its Buying…"
     },
     {
-      "title": "Pentagon quietly admits true death toll of Iran war as 21 Americans are killed and hundreds are injured... after Hegseth claimed missing casualties were 'a complete lie'",
-      "desc": "The update comes weeks after six US officials revealed that the Pentagon had underreported the number of American service members killed since the Iran war began.",
+      "title": "Mark Carney’s Plans Are Bigger Than Trump",
+      "desc": "Canada’s last breakup, with Great Britain, took roughly 100 years of painstaking and piecemeal constitutional reform to accomplish. This time, things are moving a little faster. Since President Donald Trump launched his trade war against his closest neighbor …",
+      "source": "The New Republic",
+      "url": "https://newrepublic.com/article/216347/mark-carney-plans-trump-europe-global-game",
+      "time": "2026-10-11T10:00:00",
+      "country": "UK",
+      "title_ur": "Mark Carney’s Plans Are Bigger Than Trump",
+      "desc_ur": "Canada’s last breakup, with Great Britain, took roughly 100 years of painstaking and piecemeal constitutional reform to accomplish. This time, things are moving a little faster. Since President Donald Trump launched his trade war against his closest neighbor …"
+    },
+    {
+      "title": "Inside Prince Harry's lifelong battle with depression: How the illness took hold of him as a troubled youngster but then spiralled to a 'very dark place' during Megxit - and who in his family he blamed for his issues",
+      "desc": "Staring directly down the camera lens in a newly released video, Prince Harry said: 'I couldn't remember my mum's laugh. I couldn't remember what she looked like.'",
       "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16199207/Pentagon-admission-death-toll-Iran-war-21-Americans-Hegseth.html",
-      "time": "2026-10-11T01:57:04",
-      "country": "Iran",
-      "title_ur": "پینٹاگون نے خاموشی سے ایران کی جنگ میں ہلاک ہونے والوں کی تعداد کا سچا اعتراف کیا کیونکہ 21 امریکی ہلاک اور سینکڑوں زخمی ہوئے...",
-      "desc_ur": "یہ اپ ڈیٹ چھ امریکی اہلکاروں کے انکشاف کے چند ہفتوں بعد سامنے آئی ہے کہ پینٹاگون نے ایران جنگ شروع ہونے کے بعد سے ہلاک ہونے والے امریکی فوجیوں کی تعداد کو کم رپورٹ کیا تھا۔"
+      "url": "https://www.dailymail.com/news/royals/article-16196383/Prince-Harry-lifelong-battle-depression-illness-Megxit-family.html",
+      "time": "2026-10-11T09:57:53",
+      "country": "International",
+      "title_ur": "Inside Prince Harry's lifelong battle with depression: How the illness took hold of him as a troubled youngster but then spiralled to a 'very dark place' during Megxit - and who in his family he blamed for his issues",
+      "desc_ur": "Staring directly down the camera lens in a newly released video, Prince Harry said: 'I couldn't remember my mum's laugh. I couldn't remember what she looked like.'"
     },
     {
-      "title": "Saudi Arabia extends airport closure and moves Riyadh schools online after deadly strike",
-      "desc": "Saudi Arabia on Sunday kept its main international airport closed and moved Riyadh schools online as Yemen’s Houthi rebels threatened new strikes across the kingdom, a day after a missile attack killed 12 people and wounded more than 300.",
-      "source": "CBC News",
-      "url": "https://www.cbc.ca/news/world/saudi-arabia-extends-airport-closure-after-attack-9.7377486",
-      "time": "2026-10-11T01:56:14",
-      "country": "Saudi Arabia",
-      "title_ur": "سعودی عرب نے ہوائی اڈے کی بندش میں توسیع کر دی اور مہلک ہڑتال کے بعد ریاض کے سکولوں کو آن لائن منتقل کر دیا۔",
-      "desc_ur": "سعودی عرب نے اتوار کے روز اپنا مرکزی بین الاقوامی ہوائی اڈہ بند رکھا اور ریاض کے اسکولوں کو آن لائن منتقل کر دیا کیونکہ یمن کے حوثی باغیوں نے مملکت بھر میں نئے حملوں کی دھمکی دی تھی، ایک دن بعد ایک میزائل حملے میں 12 افراد ہلاک اور 300 سے زائد زخمی ہوئے۔"
+      "title": "‘Age doesn’t matter’: Virender Sehwag makes bold Virat Kohli vs Vaibhav Sooryavanshi comparison",
+      "desc": "Virender Sehwag sees his own explosive batting in 15-year-old Vaibhav Sooryavanshi, saying both hit from ball one and age doesn't matter once you play for India.",
+      "source": "Sporting News",
+      "url": "https://www.sportingnews.com/in/cricket/news/age-doesnt-matter-virender-sehwag-virat-kohli-vs-vaibhav-sooryavanshi-comparison/b0b8f50f84d1fca5fb9462fe",
+      "time": "2026-10-11T09:56:56",
+      "country": "India",
+      "title_ur": "‘Age doesn’t matter’: Virender Sehwag makes bold Virat Kohli vs Vaibhav Sooryavanshi comparison",
+      "desc_ur": "Virender Sehwag sees his own explosive batting in 15-year-old Vaibhav Sooryavanshi, saying both hit from ball one and age doesn't matter once you play for India."
     },
     {
-      "title": "Trump's trade wars sting US manufacturers ahead of midterms",
-      "desc": "For Doug Rende, who runs an aluminum product manufacturer in the US state of Ohio, President Donald Trump's tariffs have meant millions of dollars more in annual costs -- and recently, the Iran war has made shipments even more expensive.\nRende is chief execut…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/86cfd30748a959ed",
-      "time": "2026-10-11T01:51:49",
-      "country": "Iran",
-      "title_ur": "ٹرمپ کی تجارتی جنگوں نے امریکی مینوفیکچررز کو وسط مدتی سے پہلے ڈنک دیا۔",
-      "desc_ur": "امریکی ریاست اوہائیو میں ایلومینیم کی مصنوعات بنانے والی کمپنی کو چلانے والے ڈوگ رینڈے کے لیے، صدر ڈونلڈ ٹرمپ کے ٹیرف کا مطلب سالانہ اخراجات میں لاکھوں ڈالرز زیادہ ہیں -- اور حال ہی میں، ایران جنگ نے ترسیل کو مزید مہنگا کر دیا ہے۔\nرینڈے چیف ایگزیکٹو ہیں…"
-    },
-    {
-      "title": "Amit Segal challenges Avi Gil's October 7 account: You can't have it both ways",
-      "desc": "Channel 12 News political commentator Amit Segal challenges claims made by Netanyahu's former military secretary, Avi Gil, regarding intelligence warnings ahead of the October 7 Hamas attack.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/434401",
-      "time": "2026-10-11T01:45:42",
-      "country": "Israel",
-      "title_ur": "امیت سیگل نے Avi Gil کے 7 اکتوبر کے اکاؤنٹ کو چیلنج کیا: آپ کے پاس یہ دونوں طریقوں سے نہیں ہو سکتے",
-      "desc_ur": "چینل 12 نیوز کے سیاسی مبصر امیت سیگل نے نیتن یاہو کے سابق ملٹری سکریٹری ایوی گل کی طرف سے حماس کے 7 اکتوبر کے حملے سے قبل انٹیلی جنس وارننگ کے بارے میں کیے گئے دعووں کو چیلنج کیا۔"
-    },
-    {
-      "title": "GOP Pushback Emerges Over Trump’s Putin Diesel Deal",
-      "desc": "President Donald Trump's agreement with Russian President Vladimir Putin to boost diesel supplies is drawing criticism from within his own party, exposing Republican divisions over the White House's latest attempt to bring down fuel prices ahead of November's…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4398749/posts",
-      "time": "2026-10-11T01:41:03",
-      "country": "Russia",
-      "title_ur": "ٹرمپ کے پوتن ڈیزل ڈیل پر جی او پی پش بیک ابھرا۔",
-      "desc_ur": "صدر ڈونلڈ ٹرمپ کے روسی صدر ولادیمیر پوتن کے ساتھ ڈیزل کی سپلائی کو بڑھانے کے معاہدے پر ان کی اپنی پارٹی کے اندر سے تنقید ہو رہی ہے، جس نے نومبر کے مہینے سے پہلے ایندھن کی قیمتوں کو کم کرنے کی وائٹ ہاؤس کی تازہ ترین کوشش پر ریپبلکن اختلافات کو بے نقاب کیا ہے۔"
-    },
-    {
-      "title": "12 killed, over 300 injured in latest attack on Saudi's Riyadh airport",
-      "desc": "The latest attack on the international airport in Saudi Arabia's capital of Riyadh killed 12 people and injured over 300 others, civil aviation authorities said early Sunday, with some in critical condition. A Saudi-led coalition blamed Iran-backed Houthi reb…",
+      "title": "Ukraine steps up strikes on Russia's tech infra, damages third data centre",
+      "desc": "A Ukrainian drone attack shut down a data center run by Russian technology giant Yandex, the company said Sunday, the third strike on its facilities in four days as Kyiv widens its campaign against infrastructure deep inside Russia.\nThe attack on the data cen…",
       "source": "Business Standard",
-      "url": "https://www.business-standard.com/world-news/12-killed-over-300-injured-in-latest-attack-on-saudi-s-riyadh-airport-126101100047_1.html",
-      "time": "2026-10-11T01:40:11",
+      "url": "https://www.business-standard.com/world-news/ukraine-steps-up-strikes-on-russia-s-tech-infra-damages-third-data-centre-126101100315_1.html",
+      "time": "2026-10-11T09:55:35",
+      "country": "Russia",
+      "title_ur": "Ukraine steps up strikes on Russia's tech infra, damages third data centre",
+      "desc_ur": "A Ukrainian drone attack shut down a data center run by Russian technology giant Yandex, the company said Sunday, the third strike on its facilities in four days as Kyiv widens its campaign against infrastructure deep inside Russia.\nThe attack on the data cen…"
+    },
+    {
+      "title": "Crude oil futures brace for volatility amid geopolitical uncertainties",
+      "desc": "Crude oil futures are likely to remain volatile next week as uncertainty over US-Iran negotiations and escalating tensions in West Asia keep supply risks elevated, even as hopes of a deal to reopen the Strait of Hormuz offer scope for a correction, analysts s…",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/markets/commodities/crude-oil-futures-brace-for-volatility-amid-geopolitical-uncertainties-126101100308_1.html",
+      "time": "2026-10-11T09:48:54",
       "country": "Iran",
-      "title_ur": "سعودی عرب کے ریاض ایئرپورٹ پر تازہ ترین حملے میں 12 افراد ہلاک، 300 سے زائد زخمی",
-      "desc_ur": "سعودی عرب کے دارالحکومت ریاض کے بین الاقوامی ہوائی اڈے پر ہونے والے تازہ ترین حملے میں 12 افراد ہلاک اور 300 سے زائد زخمی ہوئے، سول ایوی ایشن حکام نے اتوار کی صبح کہا، بعض کی حالت تشویشناک ہے۔ سعودی زیرقیادت اتحاد نے ایران کے حمایت یافتہ حوثی باغیوں کو مورد الزام ٹھہرایا…"
+      "title_ur": "Crude oil futures brace for volatility amid geopolitical uncertainties",
+      "desc_ur": "Crude oil futures are likely to remain volatile next week as uncertainty over US-Iran negotiations and escalating tensions in West Asia keep supply risks elevated, even as hopes of a deal to reopen the Strait of Hormuz offer scope for a correction, analysts s…"
     },
     {
-      "title": "Trump urges Sen. John Fetterman to switch parties and become a Republican",
-      "desc": "President Donald Trump openly encouraged Democratic Sen. John Fetterman of Pennsylvania to switch parties and become a Republican just weeks before the midterm elections could reshape control of Congress. “I’d love to see him as a Republican,” Trump told repo…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-bloggers/4398748/posts",
-      "time": "2026-10-11T01:31:17",
-      "country": "US",
-      "title_ur": "ٹرمپ نے سینیٹر جان فیٹرمین پر زور دیا کہ وہ پارٹیاں بدلیں اور ریپبلکن بن جائیں۔",
-      "desc_ur": "صدر ڈونلڈ ٹرمپ نے کھلے عام پنسلوانیا کے ڈیموکریٹک سینیٹر جان فیٹرمین کو پارٹیاں تبدیل کرنے اور ریپبلکن بننے کی ترغیب دی جس سے چند ہفتے قبل وسط مدتی انتخابات کانگریس کے کنٹرول کو تبدیل کر سکتے ہیں۔ \"میں اسے ایک ریپبلکن کے طور پر دیکھنا پسند کروں گا،\" ٹرمپ نے ریپو کو بتایا…"
+      "title": "Q2 earnings, inflation data, oil prices may drive stock markets this week",
+      "desc": "Major quarterly earnings from companies like Wipro and HCL Tech, along with inflation figures, global trends, and crude oil price movements, will drive stock market movement this week, analysts said.\nMarket investors will also watch foreign investor trading a…",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/markets/news/q2-earnings-inflation-data-oil-prices-may-drive-stock-markets-this-week-126101100299_1.html",
+      "time": "2026-10-11T09:48:39",
+      "country": "International",
+      "title_ur": "Q2 earnings, inflation data, oil prices may drive stock markets this week",
+      "desc_ur": "Major quarterly earnings from companies like Wipro and HCL Tech, along with inflation figures, global trends, and crude oil price movements, will drive stock market movement this week, analysts said.\nMarket investors will also watch foreign investor trading a…"
     },
     {
-      "title": "Democrat Senate candidate Abdul El-Sayed jokes that Michigan football can't win without cheating",
-      "desc": "Democrat socialist Abdul El-Sayed has made a lot of braindead comments regarding football over the years, and throughout his campaign for state senator in Michigan. El-Sayed once connected American football to toxic masculinity and the transatlantic slave tra…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-chat/4398747/posts",
-      "time": "2026-10-11T01:25:30",
-      "country": "US",
-      "title_ur": "ڈیموکریٹ سینیٹ کے امیدوار عبد السید نے مذاق کیا کہ مشی گن فٹ بال دھوکہ دہی کے بغیر نہیں جیت سکتا",
-      "desc_ur": "ڈیموکریٹ سوشلسٹ عبد السید نے گذشتہ برسوں کے دوران اور مشی گن میں ریاستی سینیٹر کے لیے اپنی مہم کے دوران فٹ بال کے حوالے سے بہت سارے دماغی تبصرے کیے ہیں۔ السید نے ایک بار امریکی فٹ بال کو زہریلے مردانگی اور ٹرانس اٹلانٹک غلام ٹری سے جوڑ دیا تھا…"
+      "title": "Israeli Aerospace Industries to unveil new radar system at US defense exhibition",
+      "desc": "IAI's new POINT@AIR system combines long-range radar detection, 360-degree coverage, and continuous surveillance using a compact, mobile aerostat platform.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/434421",
+      "time": "2026-10-11T09:44:00",
+      "country": "Israel",
+      "title_ur": "Israeli Aerospace Industries to unveil new radar system at US defense exhibition",
+      "desc_ur": "IAI's new POINT@AIR system combines long-range radar detection, 360-degree coverage, and continuous surveillance using a compact, mobile aerostat platform."
     },
     {
-      "title": "US hits, disables ship trying to 'violate' Iran blockade",
-      "desc": "The United States Central Command (CENTCOM) said its forces struck and disabled a commercial cargo vessel that tried to \"violate\" its blockade against Iran.The action took place in the Gulf of Oman on...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/bdb9abc1e57270d0",
-      "time": "2026-10-11T01:21:35",
+      "title": "Attack on Riyadh 'a dangerous escalation'",
+      "desc": "European Commission President Ursula von der Leyen has called the deadly attack on Riyadh airport a \"dangerous escalation\" and said the Iran-backed group must halt strikes on civilian targets.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/middle-east/2026/1011/1594905-riyadh-attack-reaction/",
+      "time": "2026-10-11T09:42:03",
       "country": "Iran",
-      "title_ur": "امریکہ نے ایران کی ناکہ بندی کی 'خلاف ورزی' کرنے کی کوشش کرنے والے جہاز کو نشانہ بنایا، ناکارہ بنا دیا۔",
-      "desc_ur": "ریاستہائے متحدہ کی مرکزی کمان (CENTCOM) نے کہا کہ اس کی افواج نے ایک تجارتی مال بردار جہاز کو مار گرایا اور اسے ناکارہ بنا دیا جس نے ایران کے خلاف اس کی ناکہ بندی کی \"خلاف ورزی\" کرنے کی کوشش کی تھی۔ یہ کارروائی خلیج عمان میں ہوئی..."
-    },
-    {
-      "title": "The War Is Changing the Economics of Saudi Tourism",
-      "desc": "The war is raising the cost of attracting the international travelers Saudi Arabia needs to meet its tourism ambitions.",
-      "source": "Skift",
-      "url": "https://skift.com/2026/10/10/the-war-is-changing-the-economics-of-saudi-tourism/",
-      "time": "2026-10-11T01:21:16",
-      "country": "Iran",
-      "title_ur": "جنگ سعودی سیاحت کی اقتصادیات کو بدل رہی ہے۔",
-      "desc_ur": "جنگ سعودی عرب کو اپنے سیاحتی عزائم کو پورا کرنے کے لیے بین الاقوامی سیاحوں کو راغب کرنے کی لاگت کو بڑھا رہی ہے۔"
+      "title_ur": "Attack on Riyadh 'a dangerous escalation'",
+      "desc_ur": "European Commission President Ursula von der Leyen has called the deadly attack on Riyadh airport a \"dangerous escalation\" and said the Iran-backed group must halt strikes on civilian targets."
     }
   ],
   "pakistan": [
     {
-      "title": "US fighter jet disables cargo ship attempting to breach Iran naval blockade",
-      "desc": "CENTCOM says a US fighter jet disabled a Panama-flagged cargo ship in the Gulf of Oman after it ignored warnings and attempted to breach the naval blockade against Iran.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/434402",
-      "time": "2026-10-11T02:20:59",
+      "title": "Pak president declares emergency in KPK, provincial govt ceases to exist",
+      "desc": "Pakistan on Sunday declared an emergency in the northwest Khyber Pakhtunkhwa province over the deteriorating law and order situation, bringing the provincial government led by jailed former prime minister Imran Khan's party to an end.\nAn emergency allows Paki…",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/pak-president-declares-emergency-in-kpk-provincial-govt-ceases-to-exist-126101100293_1.html",
+      "time": "2026-10-11T10:01:46",
       "country": "Pakistan",
-      "title_ur": "امریکی لڑاکا طیارے نے ایران کی بحری ناکہ بندی کی خلاف ورزی کرنے والے کارگو جہاز کو ناکارہ بنا دیا۔",
-      "desc_ur": "CENTCOM کا کہنا ہے کہ ایک امریکی لڑاکا طیارے نے خلیج عمان میں پاناما کے جھنڈے والے کارگو جہاز کو انتباہات کو نظر انداز کرنے اور ایران کے خلاف بحری ناکہ بندی کی خلاف ورزی کرنے کے بعد ناکارہ بنا دیا۔"
+      "title_ur": "Pak president declares emergency in KPK, provincial govt ceases to exist",
+      "desc_ur": "Pakistan on Sunday declared an emergency in the northwest Khyber Pakhtunkhwa province over the deteriorating law and order situation, bringing the provincial government led by jailed former prime minister Imran Khan's party to an end.\nAn emergency allows Paki…"
     },
     {
-      "title": "Yemeni leadership condemns Houthi missile attack on Saudi airport",
-      "desc": "The condemnation may intensify regional conflict, affecting military strategies and diplomatic relations, with potential shifts in market perceptions.\nThe post Yemeni leadership condemns Houthi missile attack on Saudi airport appeared first on Crypto Briefing.",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/yemeni-leadership-condemns-houthi-missile-attack-on-saudi-airport/",
-      "time": "2026-10-11T00:29:15",
+      "title": "Pakistan imposes emergency rule in northern province after protests",
+      "desc": "The province of Khyber Pakhtunkhwa is a stronghold of jailed former prime minister Imran Khan's Pakistan Tehreek-e-Insaf (PTI) party.",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/asia/pakistan-province-emergency-rule-imran-khan-supporters-6450151",
+      "time": "2026-10-11T09:52:25",
       "country": "Pakistan",
-      "title_ur": "یمنی قیادت نے سعودی ہوائی اڈے پر حوثیوں کے میزائل حملے کی مذمت کی ہے۔",
-      "desc_ur": "مذمت علاقائی تنازعات کو تیز کر سکتی ہے، جس سے فوجی حکمت عملی اور سفارتی تعلقات متاثر ہو سکتے ہیں، مارکیٹ کے تاثرات میں ممکنہ تبدیلی کے ساتھ۔\nThe post یمنی قیادت کی سعودی ایئرپورٹ پر حوثیوں کے میزائل حملے کی مذمت appeared first on Crypto Briefing."
+      "title_ur": "Pakistan imposes emergency rule in northern province after protests",
+      "desc_ur": "The province of Khyber Pakhtunkhwa is a stronghold of jailed former prime minister Imran Khan's Pakistan Tehreek-e-Insaf (PTI) party."
+    },
+    {
+      "title": "Pakistan: President puts Khan stronghold province under emergency rule",
+      "desc": "President Asif Ali Zardari has effectively suspended the provincial government in Khyber Pakhtunkhwa. The northwestern state is an epicenter of support for former PM Imran Khan and run by his party.",
+      "source": "DW (English)",
+      "url": "https://www.dw.com/en/pakistan-president-puts-khan-stronghold-province-under-emergency-rule/a-79632530",
+      "time": "2026-10-11T09:37:00",
+      "country": "Pakistan",
+      "title_ur": "Pakistan: President puts Khan stronghold province under emergency rule",
+      "desc_ur": "President Asif Ali Zardari has effectively suspended the provincial government in Khyber Pakhtunkhwa. The northwestern state is an epicenter of support for former PM Imran Khan and run by his party."
+    },
+    {
+      "title": "Crude oil futures brace for volatility amid geopolitical uncertainties: Analysts",
+      "desc": "Crude oil markets face volatility amid US-Iran tensions and Gulf disruption, with potential relief from Hormuz talks and mixed supply signals.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-futures-brace-for-volatility-amid-geopolitical-uncertainties-analysts/article71571069.ece",
+      "time": "2026-10-11T09:34:40",
+      "country": "Pakistan",
+      "title_ur": "Crude oil futures brace for volatility amid geopolitical uncertainties: Analysts",
+      "desc_ur": "Crude oil markets face volatility amid US-Iran tensions and Gulf disruption, with potential relief from Hormuz talks and mixed supply signals."
+    },
+    {
+      "title": "Pak crisis: Shehbaz govt declares emergency, ends Imran Khan's party's rule in KPK",
+      "desc": "Pakistan on Sunday declared an emergency in northwestern Khyber Pakhtunkhwa (KPK), suspending the provincial government led by jailed former prime",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/pakistan/pak-crisis-shehbaz-govt-declares-emergency-ends-imran-khans-partys-rule-in-kpk/articleshow/134868055.cms",
+      "time": "2026-10-11T09:29:47",
+      "country": "Pakistan",
+      "title_ur": "Pak crisis: Shehbaz govt declares emergency, ends Imran Khan's party's rule in KPK",
+      "desc_ur": "Pakistan on Sunday declared an emergency in northwestern Khyber Pakhtunkhwa (KPK), suspending the provincial government led by jailed former prime"
+    },
+    {
+      "title": "Imran Khan's party's provincial government suspended by Pakistan president",
+      "desc": "Pakistan's president suspended the provincial government of Khyber Pakhtunkhwa after declaring a state of emergency. This decision was made following tensions between Prime Minister Shehbaz Sharif's administration and Imran Khan's Pakistan Tehreek-e-Insaf par…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/imran-khans-partys-provincial-government-suspended-by-pakistan-president/articleshow/134867960.cms",
+      "time": "2026-10-11T09:27:50",
+      "country": "Pakistan",
+      "title_ur": "Imran Khan's party's provincial government suspended by Pakistan president",
+      "desc_ur": "Pakistan's president suspended the provincial government of Khyber Pakhtunkhwa after declaring a state of emergency. This decision was made following tensions between Prime Minister Shehbaz Sharif's administration and Imran Khan's Pakistan Tehreek-e-Insaf par…"
+    },
+    {
+      "title": "Ukraine steps up strikes on Russia's tech infrastructure, damaging third data center in 4 days",
+      "desc": "A Ukrainian drone attack targeted a Yandex data center in Vladimir, causing widespread service outages. Users in multiple Russian cities and neighboring countries faced disruptions in accessing various services, including banking. This strike is part of a bro…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/ukraine-steps-up-strikes-on-russias-tech-infrastructure-damaging-third-data-center-in-4-days/articleshow/134867593.cms",
+      "time": "2026-10-11T08:48:05",
+      "country": "Pakistan",
+      "title_ur": "Ukraine steps up strikes on Russia's tech infrastructure, damaging third data center in 4 days",
+      "desc_ur": "A Ukrainian drone attack targeted a Yandex data center in Vladimir, causing widespread service outages. Users in multiple Russian cities and neighboring countries faced disruptions in accessing various services, including banking. This strike is part of a bro…"
+    },
+    {
+      "title": "Pakistan imposes emergency rule in ​province governed by Imran Khan’s party",
+      "desc": "PM office says cabinet move follows 'provincial government’s deliberate disengagement from the fight against terrorism'.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/10/11/pakistan-imposes-emergency-rule-in-khyber-pakhtunkhwa",
+      "time": "2026-10-11T08:32:06",
+      "country": "Pakistan",
+      "title_ur": "Pakistan imposes emergency rule in ​province governed by Imran Khan’s party",
+      "desc_ur": "PM office says cabinet move follows 'provincial government’s deliberate disengagement from the fight against terrorism'."
     }
   ],
   "business": {
@@ -187,7 +247,7 @@
         "date": "2026-10-12",
         "day": "پیر",
         "high": 28,
-        "low": 18,
+        "low": 19,
         "condition": "Partly Cloudy",
         "condition_ur": "جزوی ابر آلود",
         "precip": 8
@@ -197,17 +257,17 @@
         "day": "منگل",
         "high": 29,
         "low": 20,
-        "condition": "Overcast",
-        "condition_ur": "ابر آلود",
+        "condition": "Partly Cloudy",
+        "condition_ur": "جزوی ابر آلود",
         "precip": 47
       },
       {
         "date": "2026-10-14",
         "day": "بدھ",
-        "high": 29,
-        "low": 20,
-        "condition": "Light Drizzle",
-        "condition_ur": "ہلکی بوندا باندی",
+        "high": 30,
+        "low": 21,
+        "condition": "Drizzle",
+        "condition_ur": "بوندا باندی",
         "precip": 12
       },
       {
@@ -215,15 +275,15 @@
         "day": "جمعرات",
         "high": 28,
         "low": 19,
-        "condition": "Showers",
-        "condition_ur": "بارش",
+        "condition": "Thunderstorm",
+        "condition_ur": "گرج چمک",
         "precip": 60
       },
       {
         "date": "2026-10-16",
         "day": "جمعہ",
-        "high": 29,
-        "low": 20,
+        "high": 28,
+        "low": 18,
         "condition": "Clear",
         "condition_ur": "صاف",
         "precip": 4
@@ -232,7 +292,7 @@
         "date": "2026-10-17",
         "day": "ہفتہ",
         "high": 29,
-        "low": 20,
+        "low": 19,
         "condition": "Clear",
         "condition_ur": "صاف",
         "precip": 10
@@ -242,8 +302,8 @@
         "day": "اتوار",
         "high": 28,
         "low": 19,
-        "condition": "Mainly Clear",
-        "condition_ur": "زیادہ تر صاف",
+        "condition": "Clear",
+        "condition_ur": "صاف",
         "precip": 5
       }
     ]
