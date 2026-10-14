@@ -1,207 +1,187 @@
 {
-  "generated": "2026-10-14T10:59:46Z",
+  "generated": "2026-10-14T15:45:27Z",
   "world": [
     {
-      "title": "MHP: Türkiye should provide military assistance to Saudi Arabia",
-      "desc": "Nationalist Movement Party (MHP) Chairman Devlet Bahçeli has called on the Turkish government to extend “all possible military support” to Saudi Arabia following escalating Houthi strikes.",
-      "source": "Hurriyet Daily News",
-      "url": "https://www.hurriyetdailynews.com/mhp-turkiye-should-provide-military-assistance-to-saudi-arabia-228086",
-      "time": "2026-10-13T10:56:23",
+      "title": "Socialist Party Primary Winner Vows to Prevent 'Trump Supporters' Taking Over France",
+      "desc": "French Socialist Party presidential primary winner Raphaël Glucksmann appears intent on running the political playbook of President Emmanuel Macron, pitching himself as the only candidate who can defeat Trumpism in the form of Marine Le Pen and the far-left o…",
+      "source": "Breitbart News",
+      "url": "https://www.breitbart.com/europe/2026/10/13/left-primary-winner-vows-to-prevent-trump-supporters-taking-over-france/",
+      "time": "2026-10-13T15:40:06",
+      "country": "US",
+      "title_ur": "Socialist Party Primary Winner Vows to Prevent 'Trump Supporters' Taking Over France",
+      "desc_ur": "French Socialist Party presidential primary winner Raphaël Glucksmann appears intent on running the political playbook of President Emmanuel Macron, pitching himself as the only candidate who can defeat Trumpism in the form of Marine Le Pen and the far-left o…"
+    },
+    {
+      "title": "LIV players face another deadline with their futures at stake",
+      "desc": "For the second time in nine months, players who took the Saudi riches of LIV Golf are facing a tight deadline on their future. The first was a lot easier to ignore.",
+      "source": "Golf Channel",
+      "url": "https://www.golfchannel.com/news/news/liv-players-face-another-deadline-with-their-futures-at-stake",
+      "time": "2026-10-13T15:37:57",
       "country": "Saudi Arabia",
-      "title_ur": "MHP: ترکی کو سعودی عرب کو فوجی مدد فراہم کرنی چاہیے۔",
-      "desc_ur": "نیشنلسٹ موومنٹ پارٹی (MHP) کے چیئرمین Devlet Bahçeli نے ترکی کی حکومت سے مطالبہ کیا ہے کہ وہ حوثیوں کے بڑھتے ہوئے حملوں کے بعد سعودی عرب کو \"ہر ممکن فوجی مدد\" فراہم کرے۔"
+      "title_ur": "LIV players face another deadline with their futures at stake",
+      "desc_ur": "For the second time in nine months, players who took the Saudi riches of LIV Golf are facing a tight deadline on their future. The first was a lot easier to ignore."
     },
     {
-      "title": "Links 10/13/2026",
-      "desc": "Our deady daily links: Powdering moles, Omar criminal raid, MBS survival doubts, China debt, India stomps cockroaches, pro-Lula ralllies, Danube dry-out, Russia diesel sales row, developing nation debt worries, Trump v. press again",
-      "source": "Nakedcapitalism.com",
-      "url": "https://www.nakedcapitalism.com/?p=318040",
-      "time": "2026-10-13T10:55:34",
+      "title": "Saudi-led coalition orders evacuation of Yemen oil facility in Sanaa",
+      "desc": "The evacuation signals potential escalation, impacting regional security and energy markets, with possible retaliatory actions affecting stability.\nThe post Saudi-led coalition orders evacuation of Yemen oil facility in Sanaa appeared first on Crypto Briefing.",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/saudi-led-coalition-orders-evacuation-of-yemen-oil-facility-in-sanaa/",
+      "time": "2026-10-13T15:36:40",
+      "country": "Saudi Arabia",
+      "title_ur": "Saudi-led coalition orders evacuation of Yemen oil facility in Sanaa",
+      "desc_ur": "The evacuation signals potential escalation, impacting regional security and energy markets, with possible retaliatory actions affecting stability.\nThe post Saudi-led coalition orders evacuation of Yemen oil facility in Sanaa appeared first on Crypto Briefing."
+    },
+    {
+      "title": "‘He’s with Putin’: Ukrainians recoil at Trump’s pressure campaign",
+      "desc": "Residents of wartime Lviv feel the US president’s actions are undermining Ukraine’s struggle against Russia",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/world/europe/2026/10/13/hes-with-putin-ukrainians-recoil-at-trumps-pressure-campaign/",
+      "time": "2026-10-13T15:35:21",
+      "country": "Russia",
+      "title_ur": "‘He’s with Putin’: Ukrainians recoil at Trump’s pressure campaign",
+      "desc_ur": "Residents of wartime Lviv feel the US president’s actions are undermining Ukraine’s struggle against Russia"
+    },
+    {
+      "title": "Can This Florida Dem Pull Off One More Big Surprise?",
+      "desc": "You’re reading The TNR Blue Book. Get daily scoops, strategy, and developments inside the liberal ideas factory delivered right to your inbox. Sign up for free.Inside WashingtonAngie Nixon has defied expectations before. In the Democratic primary for Florida’…",
+      "source": "The New Republic",
+      "url": "https://newrepublic.com/post/216540/angie-nixon-florida-democrat-murphy",
+      "time": "2026-10-13T15:30:53",
+      "country": "US",
+      "title_ur": "Can This Florida Dem Pull Off One More Big Surprise?",
+      "desc_ur": "You’re reading The TNR Blue Book. Get daily scoops, strategy, and developments inside the liberal ideas factory delivered right to your inbox. Sign up for free.Inside WashingtonAngie Nixon has defied expectations before. In the Democratic primary for Florida’…"
+    },
+    {
+      "title": "India's 97 GW Coal Expansion Plan Looks Too Small, Senior Official Says",
+      "desc": "India may need to revise up its planned new coal-fired capacity installations through 2035 amid soaring electricity demand that needs grid stability and flexibility, a senior Indian official said on Tuesday. Last year, India planned to raise its coal-fired po…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-97-GW-Coal-Expansion-Plan-Looks-Too-Small-Senior-Official-Says.html",
+      "time": "2026-10-13T15:30:00",
       "country": "India",
-      "title_ur": "لنکس 10/13/2026",
-      "desc_ur": "ہمارے روزمرہ کے مرنے والے روابط: چھلکے چھڑکنا، عمر مجرمانہ چھاپہ، MBS کی بقا کے شکوک، چین کا قرض، بھارت کاکروچ روکتا ہے، پرو لولا ریلیاں، ڈینیوب ڈرائی آؤٹ، روس ڈیزل کی فروخت کا سلسلہ، ترقی پذیر قوم کے قرضوں کی پریشانی، ٹرمپ بمقابلہ دوبارہ پریس"
+      "title_ur": "India's 97 GW Coal Expansion Plan Looks Too Small, Senior Official Says",
+      "desc_ur": "India may need to revise up its planned new coal-fired capacity installations through 2035 amid soaring electricity demand that needs grid stability and flexibility, a senior Indian official said on Tuesday. Last year, India planned to raise its coal-fired po…"
     },
     {
-      "title": "Iran War Has Cost American Families Nearly $2,000, Economist Says",
-      "desc": "Eight months into the war in Iran, the average American household is nearly $2,000 worse off, according to economist Mark Zandi. This adds a fresh economic pressure as the midterms approach.\n\"Nearly $2,000. By my calculation, that is what the Iran war has cos…",
+      "title": "Great Basin Drill Season Delivers High-Grade Silver and Gold as a Historic Nevada Tungsten Camp Lines Up Six Drill Holes",
+      "desc": "VANCOUVER, BC, Oct. 13, 2026 /PRNewswire/ -- Mining Stocks News Commentary - Gold futures ended last week at about $4,220 an ounce, and Nevada's producers and explorers are putting those prices to work with the drill. Over the past five weeks, operators in th…",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/great-basin-drill-season-delivers-high-grade-silver-and-gold-as-a-historic-nevada-tungsten-camp-lines-up-six-drill-holes-302907061.html",
+      "time": "2026-10-13T15:29:00",
+      "country": "International",
+      "title_ur": "Great Basin Drill Season Delivers High-Grade Silver and Gold as a Historic Nevada Tungsten Camp Lines Up Six Drill Holes",
+      "desc_ur": "VANCOUVER, BC, Oct. 13, 2026 /PRNewswire/ -- Mining Stocks News Commentary - Gold futures ended last week at about $4,220 an ounce, and Nevada's producers and explorers are putting those prices to work with the drill. Over the past five weeks, operators in th…"
+    },
+    {
+      "title": "Iran Strengthens Nuclear Site Defenses Ahead Of Possible US Strikes After Midterms",
+      "desc": "Iran is strengthening defenses around sensitive sites, including nuclear facilities, as it prepares for possible renewed US strikes after the November 3 midterm elections, The Wall Street Journal reported Tuesday.\nThe report said Tehran has warned regional of…",
       "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/4770ce0e3f557b5c",
-      "time": "2026-10-13T10:53:34",
+      "url": "https://biztoc.com/x/71156caec36e0169",
+      "time": "2026-10-13T15:25:06",
       "country": "Iran",
-      "title_ur": "ماہر اقتصادیات کا کہنا ہے کہ ایران جنگ میں امریکی خاندانوں کو تقریباً 2,000 ڈالر کا نقصان ہوا ہے۔",
-      "desc_ur": "ماہر اقتصادیات مارک زندی کے مطابق، ایران میں جنگ کے آٹھ ماہ بعد، اوسطاً امریکی خاندان تقریباً 2,000 ڈالر سے بدتر ہے۔ اس سے وسط مدتی نقطہ نظر کے طور پر ایک نئے معاشی دباؤ کا اضافہ ہوتا ہے۔\n\"تقریباً 2,000 ڈالر۔ میرے حساب سے، یہ وہی ہے جو ایران کی جنگ کا نتیجہ ہے..."
+      "title_ur": "Iran Strengthens Nuclear Site Defenses Ahead Of Possible US Strikes After Midterms",
+      "desc_ur": "Iran is strengthening defenses around sensitive sites, including nuclear facilities, as it prepares for possible renewed US strikes after the November 3 midterm elections, The Wall Street Journal reported Tuesday.\nThe report said Tehran has warned regional of…"
     },
     {
-      "title": "Saudi Airport Attacks Pressure Trump to Boost US Role in Yemen - Bloomberg.com",
-      "desc": "Saudi Airport Attacks Pressure Trump to Boost US Role in YemenBloomberg.com Saudi warning system stayed silent before deadly airport attacksReuters Opinion | The unfriendly skies: When military drones target civilian airportsThe Washington Post Iran-Backed Mi…",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186294352",
-      "time": "2026-10-13T10:53:28",
-      "country": "Iran",
-      "title_ur": "سعودی ہوائی اڈے پر حملہ، یمن میں امریکی کردار کو بڑھانے کے لیے ٹرمپ پر دباؤ - Bloomberg.com",
-      "desc_ur": "سعودی ہوائی اڈے پر حملے کا ٹرمپ پر یمن میں امریکی کردار کو بڑھانے کے لیے دباؤBloomberg.com ہوائی اڈے پر مہلک حملوں سے پہلے سعودی وارننگ سسٹم خاموش رہا رائٹرز کی رائے | غیر دوستانہ آسمان: جب فوجی ڈرون شہری ہوائی اڈوں کو نشانہ بناتے ہیں واشنگٹن پوسٹ ایران کی حمایت یافتہ ایم آئی…"
-    },
-    {
-      "title": "Fishermen call for climate risk insurance",
-      "desc": "Small-scale fishing communities from West Bengal gathered to address critical challenges impacting their livelihoods. They discussed customary fishing rights, the necessity of climate-risk insurance, and the importance of social security for fishers. Emphasiz…",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/kolkata/fishermen-call-for-climate-risk-insurance/articleshow/134915628.cms",
-      "time": "2026-10-13T10:51:00",
-      "country": "US",
-      "title_ur": "ماہی گیر موسمیاتی خطرے کی بیمہ کا مطالبہ کرتے ہیں۔",
-      "desc_ur": "مغربی بنگال سے چھوٹے پیمانے پر ماہی گیری کی کمیونٹیز ان کی روزی روٹی کو متاثر کرنے والے اہم چیلنجوں سے نمٹنے کے لیے جمع ہوئیں۔ انہوں نے ماہی گیری کے روایتی حقوق، موسمیاتی خطرے کی بیمہ کی ضرورت اور ماہی گیروں کے لیے سماجی تحفظ کی اہمیت پر تبادلہ خیال کیا۔ زور دیں…"
-    },
-    {
-      "title": "Trump Dismisses Fears Russia and China Are Helping Iran: ‘If They Are, It’s at a Very Low Level’",
-      "desc": "\"I see so many comments from the Radical Left Morons and Lunatics that China and Russia are helping the “wonderful” Islamic Republic of Iran.\"\nThe post Trump Dismisses Fears Russia and China Are Helping Iran: ‘If They Are, It’s at a Very Low Level’ first appe…",
-      "source": "Mediaite",
-      "url": "https://www.mediaite.com/media/news/trump-dismisses-fears-russia-and-china-are-helping-iran-if-they-are-its-at-a-very-low-level/",
-      "time": "2026-10-13T10:49:38",
-      "country": "Iran",
-      "title_ur": "ٹرمپ نے ان خدشات کو مسترد کر دیا کہ روس اور چین ایران کی مدد کر رہے ہیں: 'اگر وہ ہیں تو یہ بہت کم سطح پر ہے'",
-      "desc_ur": "\"میں ریڈیکل لیفٹ مورنز اور پاگلوں کے بہت سارے تبصرے دیکھ رہا ہوں کہ چین اور روس \"شاندار\" اسلامی جمہوریہ ایران کی مدد کر رہے ہیں۔\"\nThe post ٹرمپ نے روس اور چین کے ایران کی مدد کرنے کے خدشے کو مسترد کر دیا: ‘اگر وہ ہیں تو یہ بہت کم سطح پر ہے’ پہلی ایپ…"
-    },
-    {
-      "title": "Venomous snakes may use bold colours to warn predators of danger",
-      "desc": "In the wild, survival often depends on staying out of sight. But for some snakes, the opposite may be true.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/science/wildlife/venomous-snakes-are-more-likely-than-non-venomous-species-to-have-conspicuous-colours-researchers-suggest-that-visibility-may-play-a-role-in-how-predators-recognise-potential-danger/articleshow/134915484.cms",
-      "time": "2026-10-13T10:49:06",
-      "country": "US",
-      "title_ur": "زہریلے سانپ شکاریوں کو خطرے سے خبردار کرنے کے لیے جلے رنگوں کا استعمال کر سکتے ہیں۔",
-      "desc_ur": "جنگلی میں، بقا کا انحصار اکثر نظروں سے دور رہنے پر ہوتا ہے۔ لیکن کچھ سانپوں کے لئے، اس کے برعکس سچ ہو سکتا ہے."
-    },
-    {
-      "title": "Lost in 2014, rediscovered Parama statue to return as part of Bhowanipore puja theme",
-      "desc": "Kolkata is set to pay tribute to esteemed public artist Shanu Lahiri during this year's Durga Puja, focusing on her remarkable contributions to the art scene. Artists Somnath Sil, Subhradip Pal, and Aritra Mukhopadhyay will present a stunning recreation of he…",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/kolkata/lost-in-2014-rediscovered-parama-statue-to-return-as-part-of-bhowanipore-puja-theme/articleshow/134915497.cms",
-      "time": "2026-10-13T10:48:12",
-      "country": "UK",
-      "title_ur": "بھوانی پور پوجا تھیم کے حصے کے طور پر 2014 میں کھو گیا، پرما مجسمہ کو دوبارہ دریافت کیا گیا",
-      "desc_ur": "کولکتہ اس سال کی درگا پوجا کے دوران معزز عوامی فنکار شانو لہڑی کو خراج تحسین پیش کرنے کے لیے تیار ہے، جس میں فن کے منظر نامے میں ان کی نمایاں شراکت پر توجہ دی جائے گی۔ فنکار سومناتھ سل، سبھرادیپ پال، اور اریترا مکوپادھیائے ایک شاندار تفریح ​​پیش کریں گے…"
-    },
-    {
-      "title": "Who is Ranjeev Puri? Indian-American eyes historic Michigan House Speaker post in US midterms",
-      "desc": "Indian-origin Michigan lawmaker Ranjeev Puri is hoping to make history by becoming the first Indian-American to serve as Speaker of a state House in the",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/who-is-ranjeev-puri-indian-american-eyes-historic-michigan-house-speaker-post-in-us-midterms/articleshow/134915455.cms",
-      "time": "2026-10-13T10:44:27",
-      "country": "India",
-      "title_ur": "رنجیو پوری کون ہیں؟ ہندوستانی نژاد امریکی کی نظریں امریکی وسط مدتی میں تاریخی مشی گن ہاؤس اسپیکر کے عہدے پر ہیں۔",
-      "desc_ur": "ہندوستانی نژاد مشی گن کے قانون ساز رنجیو پوری امید کر رہے ہیں کہ وہ ریاستی ایوان کے اسپیکر کے طور پر خدمات انجام دینے والے پہلے ہندوستانی نژاد امریکی بن کر تاریخ رقم کریں گے۔"
-    },
-    {
-      "title": "Kyrsten Sinema’s ex-bodyguard allegedly vowed to punish ex politician, threatened to ‘decapitate’ judge, chilling texts show",
-      "desc": "Kyrsten Sinema’s ex-bodyguard turned lover allegedly threatened to punish the former lawmaker and threatened to decapitate a judge, chilling text messages show, as he appeared in court for violating his no-contact order in place against her.",
+      "title": "Home sales slowed last month — as mortgage rates climbed: ‘Very tough market out there’",
+      "desc": "September is the second month in a row that the annual sales pace has remained below 4 million.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/10/13/us-news/kyrsten-sinemas-ex-bodyguard-allegedly-vowed-to-punish-ex-politician-threatened-to-decapitate-judge-chilling-texts-show/",
-      "time": "2026-10-13T10:42:52",
+      "url": "https://nypost.com/2026/10/13/business/home-sales-slowed-in-september-as-mortgage-rates-climbed/",
+      "time": "2026-10-13T15:23:24",
       "country": "International",
-      "title_ur": "کرسٹن سینیما کے سابق محافظ نے مبینہ طور پر سابق سیاستدان کو سزا دینے کا عزم کیا، جج کو ’سر قلم‘ کرنے کی دھمکی دی، سنسنی خیز تحریریں",
-      "desc_ur": "کرسٹن سینما کے سابق باڈی گارڈ نے مبینہ طور پر عاشق کو سابق قانون ساز کو سزا دینے کی دھمکی دی اور ایک جج کو سر قلم کرنے کی دھمکی دی، متنی پیغامات دکھائے، جب وہ اس کے خلاف اپنے عدم رابطہ حکم کی خلاف ورزی کرنے پر عدالت میں حاضر ہوا۔"
+      "title_ur": "Home sales slowed last month — as mortgage rates climbed: ‘Very tough market out there’",
+      "desc_ur": "September is the second month in a row that the annual sales pace has remained below 4 million."
     },
     {
-      "title": "Banks in France could collapse because ‘widening riots can cause deposit flight,’ analysts warn",
-      "desc": "Good morning. On Fortune’s radar today:\nGoogle’s $200 billion AI bill is only the down payment, says Ruth Porat.\nMacquarie warns of potential run on banks in France.\nMarkets: Tech investors flee “casino.”\nMidterms are usually good for stocks.\nThe Iran war has…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/83214b1c5120dca2",
-      "time": "2026-10-13T10:42:31",
-      "country": "Iran",
-      "title_ur": "تجزیہ کاروں نے خبردار کیا ہے کہ فرانس میں بینک گر سکتے ہیں کیونکہ 'فسادات کو بڑھانا ڈپازٹ فلائٹ کا سبب بن سکتا ہے'",
-      "desc_ur": "صبح بخیر آج فارچیون کے ریڈار پر:\nروتھ پوراٹ کہتی ہیں کہ گوگل کا 200 بلین ڈالر کا AI بل صرف ڈاؤن پیمنٹ ہے۔\nMacquarie فرانس میں بینکوں پر ممکنہ رن سے خبردار کرتا ہے۔\nمارکیٹس: ٹیک سرمایہ کار \"کیسینو\" سے بھاگ جاتے ہیں۔\nمڈٹرم عام طور پر اسٹاک کے لیے اچھے ہوتے ہیں۔\nایران جنگ نے…"
+      "title": "Fed Governor Waller: Higher Bond Yields Reflect Stronger Growth Not Inflation",
+      "desc": "\"If this is all because of higher growth, that's a good thing,\" Waller said at a Bloomberg event in Mumbai Tuesday.\nThe post Fed Governor Waller: Higher Bond Yields Reflect Stronger Growth Not Inflation appeared first on Breitbart.",
+      "source": "Breitbart News",
+      "url": "https://www.breitbart.com/economy/2026/10/13/fed-governor-waller-higher-bond-yields-reflect-stronger-growth-not-inflation/",
+      "time": "2026-10-13T15:20:21",
+      "country": "US",
+      "title_ur": "Fed Governor Waller: Higher Bond Yields Reflect Stronger Growth Not Inflation",
+      "desc_ur": "\"If this is all because of higher growth, that's a good thing,\" Waller said at a Bloomberg event in Mumbai Tuesday.\nThe post Fed Governor Waller: Higher Bond Yields Reflect Stronger Growth Not Inflation appeared first on Breitbart."
     },
     {
-      "title": "Sensex today | Stock Market Highlights: Sensex jumps 1,109 points, Nifty rises 1.6% as IT stocks rally",
-      "desc": "Sensex, Nifty 50 | Stock Market Highlights: 13th October 2026 -  Indian stock markets staged a strong recovery on Tuesday, with the Sensex surging 1,109.10 points, or 1.54 per cent, to 73,033.78 and the Nifty 50 rising 358.60 points, or 1.60 per cent, to 22,7…",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-stock-market-highlights-13-october-2026/article71574859.ece",
-      "time": "2026-10-13T10:41:29",
-      "country": "India",
-      "title_ur": "سینسیکس آج | اسٹاک مارکیٹ کی جھلکیاں: آئی ٹی اسٹاک کی ریلی کے طور پر سینسیکس 1,109 پوائنٹس، نفٹی میں 1.6 فیصد اضافہ",
-      "desc_ur": "سینسیکس، نفٹی 50 | اسٹاک مارکیٹ کی جھلکیاں: 13 اکتوبر 2026 - ہندوستانی اسٹاک مارکیٹوں نے منگل کو مضبوط بحالی کا آغاز کیا، سینسیکس 1,109.10 پوائنٹس یا 1.54 فیصد اضافے کے ساتھ 73,033.78 پر اور نفٹی 50 358.60 پوائنٹس، یا 1.26 فیصد سے 1.26 فیصد تک بڑھ گیا۔"
+      "title": "Trump Praises Somaliland at Ohio Rally After Breitbart Exclusive with Its President",
+      "desc": "President Donald Trump praised Somaliland days after its president, Abdirahman Mohamed Abdullahi, spoke with Breitbart News exclusively.\nThe post Trump Praises Somaliland at Ohio Rally After Breitbart Exclusive with Its President appeared first on Breitbart.",
+      "source": "Breitbart News",
+      "url": "https://www.breitbart.com/politics/2026/10/13/trump-praises-somaliland-ohio-rally-after-breitbart-exclusive-president/",
+      "time": "2026-10-13T15:19:54",
+      "country": "US",
+      "title_ur": "Trump Praises Somaliland at Ohio Rally After Breitbart Exclusive with Its President",
+      "desc_ur": "President Donald Trump praised Somaliland days after its president, Abdirahman Mohamed Abdullahi, spoke with Breitbart News exclusively.\nThe post Trump Praises Somaliland at Ohio Rally After Breitbart Exclusive with Its President appeared first on Breitbart."
     },
     {
-      "title": "Iran Says They Weren’t Behind Terror Incident At British Base That Housed US Bombers, Challenge UK Gov’t Narrative",
-      "desc": "Iran’s foreign ministry denied British allegations of responsibility for a terrorist attack against a UK airbase housing American bombers Monday.",
-      "source": "The Daily Caller",
-      "url": "https://dailycaller.com/2026/10/13/iran-terror-incident-british-base-us-bombers-uk",
-      "time": "2026-10-13T10:41:16",
-      "country": "Iran",
-      "title_ur": "ایران کا کہنا ہے کہ وہ برطانوی اڈے پر دہشت گردی کے واقعے کے پیچھے نہیں تھے جس میں امریکی بمبار موجود تھے، برطانوی حکومت کے بیانیے کو چیلنج کریں",
-      "desc_ur": "ایران کی وزارت خارجہ نے پیر کے روز امریکی بمبار طیاروں کی رہائش گاہ پر برطانیہ کے ایئربیس پر دہشت گردانہ حملے کی ذمہ داری کے برطانوی الزامات کی تردید کی ہے۔"
+      "title": "Nikki Beach Resort & Spa Antigua Advances Toward Vertical Construction Following Completion of Site Works",
+      "desc": "With land clearing and grading completed, in-process pilings highlight pre-construction foundational efforts to prepare for vertical construction JOLLY BEACH, Antigua — Nikki Beach Resort & Spa Antigua, Antigua’s first luxury branded resort and residences, ha…",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/nikki-beach-resort-spa-antigua-advances-toward-vertical-construction-following-completion-of-site-works",
+      "time": "2026-10-13T15:16:39",
+      "country": "International",
+      "title_ur": "Nikki Beach Resort & Spa Antigua Advances Toward Vertical Construction Following Completion of Site Works",
+      "desc_ur": "With land clearing and grading completed, in-process pilings highlight pre-construction foundational efforts to prepare for vertical construction JOLLY BEACH, Antigua — Nikki Beach Resort & Spa Antigua, Antigua’s first luxury branded resort and residences, ha…"
     },
     {
-      "title": "DSSSB final answer key 2026: Answer keys for MTS, Junior Radiographer and other posts from October 15",
-      "desc": "DSSSB final answer key 2026: The Delhi Subordinate Services Selection Board (DSSSB) has announced the release schedule for final answer keys for several computer-based recruitment examinations. Candidates who appeared for posts including Multi Tasking Staff (…",
+      "title": "‘A very tough market out there’: U.S. home sales fell 2.2% from last year as mortgage rates and prices rise",
+      "desc": "The housing market has been in a slump since 2022, when mortgage rates began to climb from pandemic-era lows",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/10/13/a-very-tough-market-out-there-u-s-home-sales-fell-2-2-from-last-year-as-mortgage-rates-and-prices-rise/",
+      "time": "2026-10-13T15:10:23",
+      "country": "US",
+      "title_ur": "‘A very tough market out there’: U.S. home sales fell 2.2% from last year as mortgage rates and prices rise",
+      "desc_ur": "The housing market has been in a slump since 2022, when mortgage rates began to climb from pandemic-era lows"
+    },
+    {
+      "title": "‘Not Ready for Primetime!’ Critics Destroy Trump’s New Press Secretary After 14 Minute Hit-and-Run Debut",
+      "desc": "Much of the immediate online criticism centered on Zacharia herself, particularly her delivery of a lengthy statement and the abrupt end to the briefing.\nThe post ‘Not Ready for Primetime!’ Critics Destroy Trump’s New Press Secretary After 14 Minute Hit-and-R…",
+      "source": "Mediaite",
+      "url": "https://www.mediaite.com/media/news/not-ready-for-primetime-critics-destroy-trumps-new-press-secretary-after-14-minute-hit-and-run-debut/",
+      "time": "2026-10-13T15:08:35",
+      "country": "US",
+      "title_ur": "‘Not Ready for Primetime!’ Critics Destroy Trump’s New Press Secretary After 14 Minute Hit-and-Run Debut",
+      "desc_ur": "Much of the immediate online criticism centered on Zacharia herself, particularly her delivery of a lengthy statement and the abrupt end to the briefing.\nThe post ‘Not Ready for Primetime!’ Critics Destroy Trump’s New Press Secretary After 14 Minute Hit-and-R…"
+    },
+    {
+      "title": "Running on empty, Trump turns to Putin to fuel midterm hopes",
+      "desc": "The TOI correspondent from Washington: US President Donald Trump insists Russia and China are not doing much to help Iran in its war with America and",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/education/news/dsssb-final-answer-key-2026-answer-keys-for-mts-junior-radiographer-and-other-posts-from-october-15/articleshow/134915332.cms",
-      "time": "2026-10-13T10:40:05",
-      "country": "India",
-      "title_ur": "DSSSB فائنل جوابی کلید 2026: MTS، جونیئر ریڈیوگرافر اور دیگر پوسٹوں کے لیے 15 اکتوبر سے آنسر کیز",
-      "desc_ur": "DSSSB فائنل جوابی کلید 2026: دہلی ماتحت خدمات سلیکشن بورڈ (DSSSB) نے کئی کمپیوٹر پر مبنی بھرتی امتحانات کے لیے حتمی جوابی کلیدوں کے اجراء کے شیڈول کا اعلان کیا ہے۔ وہ امیدوار جو ملٹی ٹاسکنگ اسٹاف سمیت اسامیوں کے لیے حاضر ہوئے (…"
-    },
-    {
-      "title": "Who gets to call AI safe?",
-      "desc": "In July 2026, OpenAI agents breached the systems of Hugging Face, the leading platform for open AI development. The agents were being evaluated inside an OpenAI sandbox on their ability to find and exploit vulnerabilities in computer systems. Although each te…",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/opinion/who-gets-to-call-ai-safe/article71578890.ece",
-      "time": "2026-10-13T10:40:00",
-      "country": "International",
-      "title_ur": "کون AI کو محفوظ کہے گا؟",
-      "desc_ur": "جولائی 2026 میں، OpenAI ایجنٹوں نے Hugging Face کے نظام کی خلاف ورزی کی، جو اوپن AI کی ترقی کے لیے معروف پلیٹ فارم ہے۔ ایجنٹوں کا جائزہ اوپن اے آئی سینڈ باکس کے اندر کمپیوٹر سسٹمز میں کمزوریوں کو تلاش کرنے اور ان کا استحصال کرنے کی صلاحیت پر کیا جا رہا تھا۔ اگرچہ ہر ٹی…"
+      "url": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/running-on-empty-trump-turns-to-putin-to-fuel-midterm-hopes/articleshow/134921032.cms",
+      "time": "2026-10-13T15:04:57",
+      "country": "Iran",
+      "title_ur": "Running on empty, Trump turns to Putin to fuel midterm hopes",
+      "desc_ur": "The TOI correspondent from Washington: US President Donald Trump insists Russia and China are not doing much to help Iran in its war with America and"
     }
   ],
   "pakistan": [
     {
-      "title": "Pakistan imposes emergency rule in former prime minister's stronghold",
-      "desc": "Pakistan has imposed emergency rule in the province governed by the political party of imprisoned former prime minister Imran Khan.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/10/13/nx-s1-5998798/pakistan-imposes-emergency-rule-in-former-prime-ministers-stronghold",
-      "time": "2026-10-13T10:51:33",
+      "title": "France Shouldn’t Return Afghans to Taliban Rule",
+      "desc": "Click to expand Image\n \n\n\n\n \n \n \n\n \n \n \n \n Afghan refugees board a truck with their belongings as they await deportation at the Pakistan-Afghanistan border in Chaman on October 19, 2025.\n © 2025 Abdul Basil/AFP via Getty Images\n \n \n\n\n \nFrance has confirmed th…",
+      "source": "Human Rights Watch",
+      "url": "https://www.hrw.org/news/2026/10/13/france-shouldnt-return-afghans-to-taliban-rule",
+      "time": "2026-10-13T15:40:54",
       "country": "Pakistan",
-      "title_ur": "پاکستان نے سابق وزیراعظم کے گڑھ میں ایمرجنسی نافذ کر دی۔",
-      "desc_ur": "پاکستان نے جیل میں قید سابق وزیر اعظم عمران خان کی سیاسی جماعت کے زیر انتظام صوبے میں ایمرجنسی نافذ کر دی ہے۔"
+      "title_ur": "France Shouldn’t Return Afghans to Taliban Rule",
+      "desc_ur": "Click to expand Image\n \n\n\n\n \n \n \n\n \n \n \n \n Afghan refugees board a truck with their belongings as they await deportation at the Pakistan-Afghanistan border in Chaman on October 19, 2025.\n © 2025 Abdul Basil/AFP via Getty Images\n \n \n\n\n \nFrance has confirmed th…"
     },
     {
-      "title": "Türkiye moving to ratify Mecca defense pact: Erdoğan",
-      "desc": "Türkiye will soon complete the ratification process of the Mecca Joint Defense Agreement, which establishes a trilateral alliance with Pakistan and Saudi Arabia, President Recep Tayyip Erdoğan has announced.",
-      "source": "Hurriyet Daily News",
-      "url": "https://www.hurriyetdailynews.com/turkiye-moving-to-ratify-mecca-defense-pact-erdogan-228082",
-      "time": "2026-10-13T10:49:24",
+      "title": "Most-favoured-nation pricing for prescription drugs in US Medicare: a cohort study",
+      "desc": "Hwang, T. J., Hediger, S., Krishnan, A., Cai, C. L., Kesselheim, A. S. & Vokinger, K. N. (2026). Most-favoured-nation pricing for prescription drugs in US Medicare: a cohort study. The Lancet, 408(10562), 1337-1345. https://doi.org/10.1016/S0140-6736(26)01555…",
+      "source": "Lse.ac.uk",
+      "url": "https://researchonline.lse.ac.uk/id/eprint/141377/",
+      "time": "2026-10-13T15:14:01",
       "country": "Pakistan",
-      "title_ur": "ترکی مکہ دفاعی معاہدے کی توثیق کے لیے آگے بڑھ رہا ہے: ایردوان",
-      "desc_ur": "صدر رجب طیب ایردوان نے اعلان کیا ہے کہ ترکی جلد ہی مکہ کے مشترکہ دفاعی معاہدے کی توثیق کا عمل مکمل کر لے گا، جو پاکستان اور سعودی عرب کے ساتھ سہ فریقی اتحاد قائم کرتا ہے۔"
+      "title_ur": "Most-favoured-nation pricing for prescription drugs in US Medicare: a cohort study",
+      "desc_ur": "Hwang, T. J., Hediger, S., Krishnan, A., Cai, C. L., Kesselheim, A. S. & Vokinger, K. N. (2026). Most-favoured-nation pricing for prescription drugs in US Medicare: a cohort study. The Lancet, 408(10562), 1337-1345. https://doi.org/10.1016/S0140-6736(26)01555…"
     },
     {
-      "title": "When Simon Cowell saved 200 dogs from South Korean dog meat farm, sent them to shelter for adoption",
-      "desc": "In 2018, Simon Cowell donated £25,000 to Humane Society International to help close a dog meat farm in South Korea. The charity rescued nearly 200 dogs and puppies, including animals suffering from untreated injuries and poor living conditions. The dogs were …",
+      "title": "Pakistan successfully test-fires hypersonic Fatah-2 Extended Range missile",
+      "desc": "According to the army, the weapon system is equipped with advanced navigation and state-of-the-art avionics. It added that the Fatah-2 ER, with its extended range, will further enhance the army's reach and capability of engaging deep targets.",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/in-2018-simon-cowell-donated-25000-to-help-close-a-south-korean-dog-meat-farm-the-charitys-rescue-operation-moved-more-than-200-dogs-and-puppies-towards-shelter-care-and-a-chance-of-adoption/articleshow/134913640.cms",
-      "time": "2026-10-13T10:35:57",
+      "url": "https://economictimes.indiatimes.com/news/defence/pakistan-successfully-test-fires-hypersonic-fatah-2-extended-range-missile/articleshow/134919943.cms",
+      "time": "2026-10-13T14:47:30",
       "country": "Pakistan",
-      "title_ur": "سائمن کوول نے جب جنوبی کوریا کے کتے کے گوشت کے فارم سے 200 کتوں کو بچایا، انہیں گود لینے کے لیے پناہ گاہ بھیج دیا۔",
-      "desc_ur": "2018 میں، سائمن کوول نے جنوبی کوریا میں کتے کے گوشت کے فارم کو بند کرنے میں مدد کے لیے ہیومن سوسائٹی انٹرنیشنل کو £25,000 کا عطیہ دیا۔ خیراتی ادارے نے تقریباً 200 کتوں اور کتے کے بچوں کو بچایا، جن میں ایسے جانور بھی شامل ہیں جن کا علاج نہیں کیا جا رہا تھا اور زندگی کی خراب صورتحال تھی۔ کتے تھے…"
-    },
-    {
-      "title": "Some peptide users report lasting symptoms as RFK Jr. pushes for wider access",
-      "desc": "After the third day of squirting an experimental drug up his nose, Dylan Meetze felt horrible.\"It was like I was underwater, like it took the most to do anything,\" he said.Subscribe to The Post Most newsletter for the most important and interesting stories fr…",
-      "source": "Yahoo Entertainment",
-      "url": "https://www.yahoo.com/news/science/articles/taken-hyped-unregulated-peptides-regrets-103443715.html",
-      "time": "2026-10-13T10:34:43",
-      "country": "Pakistan",
-      "title_ur": "کچھ پیپٹائڈ استعمال کرنے والے دیرپا علامات کی اطلاع دیتے ہیں کیونکہ RFK Jr. وسیع تر رسائی کے لیے زور دیتا ہے۔",
-      "desc_ur": "ایک تجرباتی دوا کو اپنی ناک پر پھینکنے کے تیسرے دن کے بعد، ڈیلن میٹز نے خوفناک محسوس کیا۔\"یہ ایسا تھا جیسے میں پانی کے اندر تھا، جیسے کچھ بھی کرنے میں سب سے زیادہ وقت لگتا ہے،\" اس نے کہا۔ سب سے اہم اور دلچسپ کہانیوں کے لیے The post سب سے زیادہ نیوز لیٹر کو سبسکرائب کریں۔"
-    },
-    {
-      "title": "This will kill his confidence': Angelo Mathews shocked by Sri Lanka's Test squad for Pakistan excluding key player",
-      "desc": "Former Sri Lanka captain Angelo Matthews was shocked when a key Test player was not included by Sri Lanka for the upcoming Pakistan Test series",
-      "source": "Cricketnews.com",
-      "url": "https://www.cricketnews.com/en/cricket/news/angelo-mathews-shocked-sri-lanka-test-squad-pakistan-exclude-key-player/aa23fb822015524acd0615c3",
-      "time": "2026-10-13T10:21:55",
-      "country": "Pakistan",
-      "title_ur": "اس سے اس کا اعتماد ختم ہو جائے گا': اینجلو میتھیوز سری لنکا کے اہم کھلاڑی کو چھوڑ کر پاکستان کے لیے ٹیسٹ اسکواڈ سے حیران",
-      "desc_ur": "سری لنکا کے سابق کپتان اینجلو میتھیوز اس وقت حیران رہ گئے جب سری لنکا کی جانب سے پاکستان کی آئندہ ٹیسٹ سیریز کے لیے ایک اہم ٹیسٹ کھلاڑی کو شامل نہیں کیا گیا۔"
+      "title_ur": "Pakistan successfully test-fires hypersonic Fatah-2 Extended Range missile",
+      "desc_ur": "According to the army, the weapon system is equipped with advanced navigation and state-of-the-art avionics. It added that the Fatah-2 ER, with its extended range, will further enhance the army's reach and capability of engaging deep targets."
     }
   ],
   "business": {
@@ -216,25 +196,25 @@
       {
         "date": "2026-10-14",
         "day": "بدھ",
-        "high": 30,
-        "low": 19,
-        "condition": "Thunderstorm",
-        "condition_ur": "گرج چمک",
+        "high": 31,
+        "low": 22,
+        "condition": "Light Drizzle",
+        "condition_ur": "ہلکی بوندا باندی",
         "precip": 53
       },
       {
         "date": "2026-10-15",
         "day": "جمعرات",
-        "high": 28,
+        "high": 29,
         "low": 20,
-        "condition": "Light Drizzle",
-        "condition_ur": "ہلکی بوندا باندی",
+        "condition": "Thunderstorm",
+        "condition_ur": "گرج چمک",
         "precip": 71
       },
       {
         "date": "2026-10-16",
         "day": "جمعہ",
-        "high": 29,
+        "high": 28,
         "low": 19,
         "condition": "Overcast",
         "condition_ur": "ابر آلود",
@@ -263,8 +243,8 @@
         "day": "پیر",
         "high": 30,
         "low": 18,
-        "condition": "Clear",
-        "condition_ur": "صاف",
+        "condition": "Partly Cloudy",
+        "condition_ur": "جزوی ابر آلود",
         "precip": 0
       },
       {
@@ -272,8 +252,8 @@
         "day": "منگل",
         "high": 30,
         "low": 19,
-        "condition": "Clear",
-        "condition_ur": "صاف",
+        "condition": "Partly Cloudy",
+        "condition_ur": "جزوی ابر آلود",
         "precip": 0
       }
     ]
