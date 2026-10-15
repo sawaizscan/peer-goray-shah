@@ -1,197 +1,217 @@
 {
-  "generated": "2026-10-15T16:07:08Z",
+  "generated": "2026-10-15T19:57:39Z",
   "world": [
     {
-      "title": "Comptroller Mark Levine not reinvesting NYC’s pension funds in Israel bonds — in stunning campaign pledge reversal",
-      "desc": "City Comptroller Mark Levine said he’s decided not to reinvest the Big Apple’s pension funds in Israel bonds — a dramatic reversal from a pledge he made during his successful campaign last year. Levine told The New York Times he made the decision solely on fi…",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/10/14/us-news/nyc-comptroller-mark-levine-not-reinvesting-pension-funds-in-israel-bonds-in-stunning-campaign-pledge-reversal/",
-      "time": "2026-10-14T16:06:11",
+      "title": "Netanyahu celebrates Colombia's embassy opening: 'The world is coming back'",
+      "desc": "Prime Minister Netanyahu and Foreign Minister Sa’ar welcome opening of Colombia’s embassy in Jerusalem and hail strengthening of relations between Israel and Latin America.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/434626",
+      "time": "2026-10-14T19:55:28",
       "country": "Israel",
-      "title_ur": "Comptroller Mark Levine not reinvesting NYC’s pension funds in Israel bonds — in stunning campaign pledge reversal",
-      "desc_ur": "City Comptroller Mark Levine said he’s decided not to reinvest the Big Apple’s pension funds in Israel bonds — a dramatic reversal from a pledge he made during his successful campaign last year. Levine told The New York Times he made the decision solely on fi…"
+      "title_ur": "Netanyahu celebrates Colombia's embassy opening: 'The world is coming back'",
+      "desc_ur": "Prime Minister Netanyahu and Foreign Minister Sa’ar welcome opening of Colombia’s embassy in Jerusalem and hail strengthening of relations between Israel and Latin America."
     },
     {
-      "title": "U.S. blasts \"embarrassing\" complaint against Lebanon's ambassador",
-      "desc": "The Trump administration sharply criticized a legal complaint filed in Lebanon against the country's ambassador to Washington over her reported outreach to her Israeli counterpart.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/state-department-lebanon-ambassador-complaint/",
-      "time": "2026-10-14T16:04:49",
-      "country": "Israel",
-      "title_ur": "U.S. blasts \"embarrassing\" complaint against Lebanon's ambassador",
-      "desc_ur": "The Trump administration sharply criticized a legal complaint filed in Lebanon against the country's ambassador to Washington over her reported outreach to her Israeli counterpart."
+      "title": "MAGA Rep. Threatens Journalists With Legal Trouble For Recording His Debate Crash Out",
+      "desc": "Maryland's staunch MAGA House Rep. Andy Harris has been desperately dodging in-person town halls since 2023, and now we know why. \nHarris went head-to-head in a debate with his Democratic opponent, Dan Schwartz, last night in Cambridge, Maryland, where both c…",
+      "source": "Crooksandliars.com",
+      "url": "https://crooksandliars.com/2026/10/maga-rep-threatens-journalists-legal",
+      "time": "2026-10-14T19:54:48",
+      "country": "US",
+      "title_ur": "MAGA Rep. Threatens Journalists With Legal Trouble For Recording His Debate Crash Out",
+      "desc_ur": "Maryland's staunch MAGA House Rep. Andy Harris has been desperately dodging in-person town halls since 2023, and now we know why. \nHarris went head-to-head in a debate with his Democratic opponent, Dan Schwartz, last night in Cambridge, Maryland, where both c…"
     },
     {
-      "title": "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
-      "desc": "Iran has escalated its strikes on commercial ships transiting Hormuz in recent weeks, as it tries to choke off a rebound in crude oil exports.",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/d88846526f328405",
-      "time": "2026-10-14T16:04:46",
+      "title": "Social Security recipients will get a 3.6% bump in benefits in 2027",
+      "desc": "By Tami Luhby(CNN) — Senior citizens and other Social Security beneficiaries will receive a 3.6% boost in their monthly payments in 2027, the Social Security Administration announced Wednesday, making",
+      "source": "WDJT",
+      "url": "https://www.cbs58.com/news/social-security-recipients-will-get-a-36-bump-in-benefits-in-2027",
+      "time": "2026-10-14T19:52:14",
+      "country": "International",
+      "title_ur": "Social Security recipients will get a 3.6% bump in benefits in 2027",
+      "desc_ur": "By Tami Luhby(CNN) — Senior citizens and other Social Security beneficiaries will receive a 3.6% boost in their monthly payments in 2027, the Social Security Administration announced Wednesday, making"
+    },
+    {
+      "title": "Dirk Eddelbuettel: qlcal 0.1.4 on CRAN: Fresh Upstream Updates",
+      "desc": "The twenty-second release of the qlcal package\narrivied at CRAN yesterday, and\nhas been built for r2u\nas well as on r-universe.\nqlcal\ndelivers the calendaring parts of QuantLib. It is provided (for the R\npackage) as a set of included files, so the package is …",
+      "source": "Eddelbuettel.com",
+      "url": "http://dirk.eddelbuettel.com/blog/2026/10/14/",
+      "time": "2026-10-14T19:51:00",
+      "country": "International",
+      "title_ur": "Dirk Eddelbuettel: qlcal 0.1.4 on CRAN: Fresh Upstream Updates",
+      "desc_ur": "The twenty-second release of the qlcal package\narrivied at CRAN yesterday, and\nhas been built for r2u\nas well as on r-universe.\nqlcal\ndelivers the calendaring parts of QuantLib. It is provided (for the R\npackage) as a set of included files, so the package is …"
+    },
+    {
+      "title": "How can a book make you cry?",
+      "desc": "New Nobel laureate Karl Deisseroth draws line from his early interest in power of words to research on how brain works.",
+      "source": "Harvard School of Engineering and Applied Sciences",
+      "url": "https://news.harvard.edu/gazette/story/2026/10/how-can-a-book-make-you-cry/",
+      "time": "2026-10-14T19:48:58",
+      "country": "International",
+      "title_ur": "How can a book make you cry?",
+      "desc_ur": "New Nobel laureate Karl Deisseroth draws line from his early interest in power of words to research on how brain works."
+    },
+    {
+      "title": "As Inflation Goes Up, New Poll Shows 4 in 10 Struggle to Pay Basic Necessities",
+      "desc": "The latest Consumer Price Index report shows that inflation has gone up 3.7 percent over the past year.",
+      "source": "Truthout",
+      "url": "https://truthout.org/articles/as-inflation-goes-up-new-poll-shows-4-in-10-struggle-to-pay-basic-necessities/",
+      "time": "2026-10-14T19:48:11",
+      "country": "International",
+      "title_ur": "As Inflation Goes Up, New Poll Shows 4 in 10 Struggle to Pay Basic Necessities",
+      "desc_ur": "The latest Consumer Price Index report shows that inflation has gone up 3.7 percent over the past year."
+    },
+    {
+      "title": "/C O R R E C T I O N - Khalifa Kush/",
+      "desc": "In the news release, KHALIFA KUSH PARTNERS WITH SKYWORLD TO EXPAND ITS U.S. FOOTPRINT WITH ENTRY INTO NEW YORK, issued 14-Oct-2026 by Khalifa Kush over PR Newswire, we are advised by the company that changes have been made. The complete, corrected release fol…",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/khalifa-kush-partners-with-skyworld-cannabis-to-expand-its-us-footprint-with-entry-into-new-york-302907678.html",
+      "time": "2026-10-14T19:46:00",
+      "country": "US",
+      "title_ur": "/C O R R E C T I O N - Khalifa Kush/",
+      "desc_ur": "In the news release, KHALIFA KUSH PARTNERS WITH SKYWORLD TO EXPAND ITS U.S. FOOTPRINT WITH ENTRY INTO NEW YORK, issued 14-Oct-2026 by Khalifa Kush over PR Newswire, we are advised by the company that changes have been made. The complete, corrected release fol…"
+    },
+    {
+      "title": "Latin America’s Right-Wing Governments Draw Closer to Israel",
+      "desc": "The rise of right-wing governments in Latin America has brought the region closer to Israel, creating opportunities for the Jewish State to reintegrate into the international community after a period of relative isolation. Encouraged by the United States, Lat…",
+      "source": "Globalresearch.ca",
+      "url": "https://www.globalresearch.ca/latin-america-right-wing-governments-closer-israel/5943451",
+      "time": "2026-10-14T19:42:05",
+      "country": "Israel",
+      "title_ur": "Latin America’s Right-Wing Governments Draw Closer to Israel",
+      "desc_ur": "The rise of right-wing governments in Latin America has brought the region closer to Israel, creating opportunities for the Jewish State to reintegrate into the international community after a period of relative isolation. Encouraged by the United States, Lat…"
+    },
+    {
+      "title": "‘It’s Going to Be a Bad Night!’ Former Ted Cruz Spox Gives Brutal Midterm Forecast for GOP",
+      "desc": "\"It's going to be a bad night for the Republicans! It just is,\" said Rick Tyler, a former spokesperson for Ted Cruz’s presidential campaign.\nThe post ‘It’s Going to Be a Bad Night!’ Former Ted Cruz Spox Gives Brutal Midterm Forecast for GOP first appeared on …",
+      "source": "Mediaite",
+      "url": "https://www.mediaite.com/media/tv/its-going-to-be-a-bad-night-former-ted-cruz-spox-gives-brutal-midterm-forecast-for-gop/",
+      "time": "2026-10-14T19:41:26",
+      "country": "US",
+      "title_ur": "‘It’s Going to Be a Bad Night!’ Former Ted Cruz Spox Gives Brutal Midterm Forecast for GOP",
+      "desc_ur": "\"It's going to be a bad night for the Republicans! It just is,\" said Rick Tyler, a former spokesperson for Ted Cruz’s presidential campaign.\nThe post ‘It’s Going to Be a Bad Night!’ Former Ted Cruz Spox Gives Brutal Midterm Forecast for GOP first appeared on …"
+    },
+    {
+      "title": "End of British-American Special Relationship? From Falkland to Ireland, Relations at Their Lowest",
+      "desc": "Trump’s disputes with Britain over Irish reunification and the Falklands, among other issues, reveal deep fractures in the US–UK special relationship. Could Washington’s approach push its closest ally towards greater strategic autonomy?\n***\nThe “special relat…",
+      "source": "Globalresearch.ca",
+      "url": "https://www.globalresearch.ca/end-british-american-special-relationship-falkland-ireland/5943837",
+      "time": "2026-10-14T19:41:10",
+      "country": "UK",
+      "title_ur": "End of British-American Special Relationship? From Falkland to Ireland, Relations at Their Lowest",
+      "desc_ur": "Trump’s disputes with Britain over Irish reunification and the Falklands, among other issues, reveal deep fractures in the US–UK special relationship. Could Washington’s approach push its closest ally towards greater strategic autonomy?\n***\nThe “special relat…"
+    },
+    {
+      "title": "Trump-backed GOP candidate who ousted scandal-plagued incumbent warns against 'never-ending war' with Iran",
+      "desc": "Television journalist turned congressional hopeful Ryan Elijah says transparency, accountability will be his focus following victory over Cory Mills in contentious Florida GOP primary.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/trump-backed-gop-candidate-ousted-scandal-plagued-incumbent-warns-never-ending-war-iran",
+      "time": "2026-10-14T19:38:56",
       "country": "Iran",
-      "title_ur": "Container ship sinks in Strait of Hormuz as Iran steps up attacks",
-      "desc_ur": "Iran has escalated its strikes on commercial ships transiting Hormuz in recent weeks, as it tries to choke off a rebound in crude oil exports."
+      "title_ur": "Trump-backed GOP candidate who ousted scandal-plagued incumbent warns against 'never-ending war' with Iran",
+      "desc_ur": "Television journalist turned congressional hopeful Ryan Elijah says transparency, accountability will be his focus following victory over Cory Mills in contentious Florida GOP primary."
     },
     {
-      "title": "Trump's Plan To Buy Russian Diesel Would Violate Federal Law",
-      "desc": "If laws passed by Congress do not apply to presidential actions, then we no longer live in a democracy.",
-      "source": "Reason",
-      "url": "https://reason.com/2026/10/14/trumps-plan-to-buy-russian-diesel-would-violate-federal-law/",
-      "time": "2026-10-14T16:00:19",
+      "title": "Elon Musk: Don't Blame Me For New Starlink Restriction In Ukraine",
+      "desc": "The military-grade version of Starlink, Starshield, has reportedly added an in-motion restriction that blocks Ukrainian drones from using it, hampering the country's defense against Russia.\nStarlink is facing political backlash over a sudden restriction in Uk…",
+      "source": "PCMag.com",
+      "url": "https://uk.pcmag.com/networking/167929/elon-musk-dont-blame-me-for-new-starlink-restriction-in-ukraine",
+      "time": "2026-10-14T19:37:25",
       "country": "Russia",
-      "title_ur": "Trump's Plan To Buy Russian Diesel Would Violate Federal Law",
-      "desc_ur": "If laws passed by Congress do not apply to presidential actions, then we no longer live in a democracy."
+      "title_ur": "Elon Musk: Don't Blame Me For New Starlink Restriction In Ukraine",
+      "desc_ur": "The military-grade version of Starlink, Starshield, has reportedly added an in-motion restriction that blocks Ukrainian drones from using it, hampering the country's defense against Russia.\nStarlink is facing political backlash over a sudden restriction in Uk…"
     },
     {
-      "title": "INFLATION ACCELERATING",
-      "desc": "US consumer inflation was hotter than anticipated in September, government data showed Wednesday, as Washington's war with Tehran pushed energy costs higher,...",
-      "source": "Yahoo Entertainment",
-      "url": "https://finance.yahoo.com/economy/policy/articles/us-consumer-inflation-more-expected-133229281.html",
-      "time": "2026-10-14T16:00:12",
+      "title": "‘Things are about to get worse,’ ex-U.S. energy official warns after attack on Saudi oil giant",
+      "desc": "A former U.S. energy official predicted that “things are about to get worse” for Americans at the pump, after Iran-backed Houthi rebels attacked the headquarters of the Saudi-owned oil giant Aramco late Tuesday.\nDavid Goldwyn, who served as the State Departme…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/eb5dcf9e081c1187",
+      "time": "2026-10-14T19:37:15",
       "country": "Iran",
-      "title_ur": "INFLATION ACCELERATING",
-      "desc_ur": "US consumer inflation was hotter than anticipated in September, government data showed Wednesday, as Washington's war with Tehran pushed energy costs higher,..."
+      "title_ur": "‘Things are about to get worse,’ ex-U.S. energy official warns after attack on Saudi oil giant",
+      "desc_ur": "A former U.S. energy official predicted that “things are about to get worse” for Americans at the pump, after Iran-backed Houthi rebels attacked the headquarters of the Saudi-owned oil giant Aramco late Tuesday.\nDavid Goldwyn, who served as the State Departme…"
     },
     {
-      "title": "Today's news and jokes",
-      "desc": "Should do it gacha style so you're never sure which one you're going to get until the movie starts. You've seen the start of the Paul one seven times, just groaning, stomping out and buying a ticket to the 7:15 show starting in a bit, praying you finally get …",
-      "source": "Superpunch.net",
-      "url": "https://www.superpunch.net/2026/10/todays-news-and-jokes_01720123625.html",
-      "time": "2026-10-14T16:00:00",
-      "country": "US",
-      "title_ur": "Today's news and jokes",
-      "desc_ur": "Should do it gacha style so you're never sure which one you're going to get until the movie starts. You've seen the start of the Paul one seven times, just groaning, stomping out and buying a ticket to the 7:15 show starting in a bit, praying you finally get …"
-    },
-    {
-      "title": "‘American Doctor,’ ‘NAZA,’ ‘Musk,’ Elizabeth Holmes Doc And More Make DOC NYC’s Prestigious Short List",
-      "desc": "DOC NYC announced its influential short lists Wednesday, often a reliable gauge of which documentaries are connecting with awards voters as Oscar season heats up. Among the films making the festival’s short list of features: Ava DuVernay’s 14th; You Can See E…",
-      "source": "Deadline",
-      "url": "http://deadline.com/2026/10/doc-nyc-2026-short-lists-announcement-1237156501/",
-      "time": "2026-10-14T16:00:00",
-      "country": "US",
-      "title_ur": "‘American Doctor,’ ‘NAZA,’ ‘Musk,’ Elizabeth Holmes Doc And More Make DOC NYC’s Prestigious Short List",
-      "desc_ur": "DOC NYC announced its influential short lists Wednesday, often a reliable gauge of which documentaries are connecting with awards voters as Oscar season heats up. Among the films making the festival’s short list of features: Ava DuVernay’s 14th; You Can See E…"
-    },
-    {
-      "title": "From ’You Can See Everything’ to ’14th’ and ‘Musk,’ DOC NYC 2026 Reveals Influential Awards Short List",
-      "desc": "The DOC NYC Short List is often predictive of December's eventual Oscar shortlist. Films that are also nominated for Best Feature at the Critics Choice Award Documentary Awards get a leg up for future non-fiction awards.",
-      "source": "IndieWire",
-      "url": "https://www.indiewire.com/awards/industry/doc-nyc-2026-awards-short-list-you-can-see-everything-musk-1235221889/",
-      "time": "2026-10-14T16:00:00",
-      "country": "US",
-      "title_ur": "From ’You Can See Everything’ to ’14th’ and ‘Musk,’ DOC NYC 2026 Reveals Influential Awards Short List",
-      "desc_ur": "The DOC NYC Short List is often predictive of December's eventual Oscar shortlist. Films that are also nominated for Best Feature at the Critics Choice Award Documentary Awards get a leg up for future non-fiction awards."
-    },
-    {
-      "title": "American Airlines cancels all flights to 3 major travel destinations —citing geopolitical unrest",
-      "desc": "American Airlines has canceled three routes this year — including one of its longest non-stop flights.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/10/14/lifestyle/american-airlines-cancels-routes-to-qatar-mexico-over-geopolitical-tensions/",
-      "time": "2026-10-14T15:59:49",
-      "country": "US",
-      "title_ur": "American Airlines cancels all flights to 3 major travel destinations —citing geopolitical unrest",
-      "desc_ur": "American Airlines has canceled three routes this year — including one of its longest non-stop flights."
-    },
-    {
-      "title": "A Saudi-Iran dean may keep the Bab al-Mandab Strait open",
-      "desc": "Behind the armed conflict between Riyadh and Yemen’s Houthi movement lies a much broader strategic struggle: the rivalry between Saudi Arabia and Iran, two regional powers whose competing interests have influenced the political and security landscape of the M…",
-      "source": "Globalresearch.ca",
-      "url": "https://www.globalresearch.ca/a-saudi-iran-dean-may-keep-the-bab-al-mandab-strait-open/5943819",
-      "time": "2026-10-14T15:58:42",
-      "country": "Iran",
-      "title_ur": "A Saudi-Iran dean may keep the Bab al-Mandab Strait open",
-      "desc_ur": "Behind the armed conflict between Riyadh and Yemen’s Houthi movement lies a much broader strategic struggle: the rivalry between Saudi Arabia and Iran, two regional powers whose competing interests have influenced the political and security landscape of the M…"
-    },
-    {
-      "title": "Colombia Opens Embassy in Jerusalem, Restores Ties with Israel Cut by Marxists",
-      "desc": "Colombia opened its new embassy in Jerusalem, Israel, on Wednesday thus fulfilling one of the campaign promises of conservative President Abelardo de la Espriella.\nThe post Colombia Opens Embassy in Jerusalem, Restores Ties with Israel Cut by Marxists appeare…",
-      "source": "Breitbart News",
-      "url": "https://www.breitbart.com/latin-america/2026/10/14/colombia-opens-new-embassy-in-jerusalem-restores-ties-with-israel-cut-by-marxist-gustavo-petro/",
-      "time": "2026-10-14T15:57:10",
+      "title": "Exclusive interview: The rabbi's decision that saved an IDF officer's life on October 7",
+      "desc": "A day before completing 12 years of military service, Major Y. received an urgent call to report to the Gaza Division headquarters. His community's rabbi urged him to stay and defend his neighbors instead.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/434625",
+      "time": "2026-10-14T19:37:07",
       "country": "Israel",
-      "title_ur": "Colombia Opens Embassy in Jerusalem, Restores Ties with Israel Cut by Marxists",
-      "desc_ur": "Colombia opened its new embassy in Jerusalem, Israel, on Wednesday thus fulfilling one of the campaign promises of conservative President Abelardo de la Espriella.\nThe post Colombia Opens Embassy in Jerusalem, Restores Ties with Israel Cut by Marxists appeare…"
+      "title_ur": "Exclusive interview: The rabbi's decision that saved an IDF officer's life on October 7",
+      "desc_ur": "A day before completing 12 years of military service, Major Y. received an urgent call to report to the Gaza Division headquarters. His community's rabbi urged him to stay and defend his neighbors instead."
     },
     {
-      "title": "U.S. Shipping Regulator Proposes $200,000 Fees on Spanish Ships Over Port Ban",
-      "desc": "The U.S. Federal Maritime Commission (FMC) is proposing $200,000 fees on Spanish-flagged vessels entering American ports, along with restrictions on billions of dollars in Spanish imports, after concluding that Spain’s...",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/u-s-shipping-regulator-proposes-200000-fees-on-spanish-ships-over-port-ban/",
-      "time": "2026-10-14T15:56:37",
-      "country": "US",
-      "title_ur": "U.S. Shipping Regulator Proposes $200,000 Fees on Spanish Ships Over Port Ban",
-      "desc_ur": "The U.S. Federal Maritime Commission (FMC) is proposing $200,000 fees on Spanish-flagged vessels entering American ports, along with restrictions on billions of dollars in Spanish imports, after concluding that Spain’s..."
-    },
-    {
-      "title": "‘Trump needs a lesson in international law,’ says Nobel Peace Prize winner",
-      "desc": "Navi Pillay says the announcement of US sanctions against the International Criminal Court almost immediately after she was awarded the Nobel Peace Prize was no coincidence\nThe post ‘Trump needs a lesson in international law,’ says Nobel Peace Prize winner ap…",
-      "source": "Protothema.gr",
-      "url": "https://en.protothema.gr/2026/10/14/trump-needs-a-lesson-in-international-law-says-nobel-peace-prize-winner/",
-      "time": "2026-10-14T15:56:26",
-      "country": "US",
-      "title_ur": "‘Trump needs a lesson in international law,’ says Nobel Peace Prize winner",
-      "desc_ur": "Navi Pillay says the announcement of US sanctions against the International Criminal Court almost immediately after she was awarded the Nobel Peace Prize was no coincidence\nThe post ‘Trump needs a lesson in international law,’ says Nobel Peace Prize winner ap…"
-    },
-    {
-      "title": "Esquire UK - November/December 2026",
-      "desc": "Esquire is a funny, informative, connected magazine that covers the interests of American men—all the interests of the American man: Politics, style, advice, women, health, eating and drinking, the most interesting people of our time. All that and it’s the mo…",
-      "source": "Rlsbb.cc",
-      "url": "https://post.rlsbb.cc/esquire-uk-november-december-2026/",
-      "time": "2026-10-14T15:53:22",
-      "country": "UK",
-      "title_ur": "Esquire UK - November/December 2026",
-      "desc_ur": "Esquire is a funny, informative, connected magazine that covers the interests of American men—all the interests of the American man: Politics, style, advice, women, health, eating and drinking, the most interesting people of our time. All that and it’s the mo…"
-    },
-    {
-      "title": "Over 62,000 detained in Britain for social media posts since 2021",
-      "desc": "Recent figures suggest that speech policing in Britain has reached a scale that civil-liberties groups say goes beyond the occasional prosecution of a genuine threat. From January 1, 2021, to December 31, 2025, police recorded at least 62,199 arrests under th…",
-      "source": "Globalresearch.ca",
-      "url": "https://www.globalresearch.ca/over-62000-detained-in-britain-for-social-media-posts-since-2021/5943817",
-      "time": "2026-10-14T15:52:20",
-      "country": "UK",
-      "title_ur": "Over 62,000 detained in Britain for social media posts since 2021",
-      "desc_ur": "Recent figures suggest that speech policing in Britain has reached a scale that civil-liberties groups say goes beyond the occasional prosecution of a genuine threat. From January 1, 2021, to December 31, 2025, police recorded at least 62,199 arrests under th…"
+      "title": "Houthi siege tightens around major Yemen city that survived bloody civil war",
+      "desc": "The Iran-backed Houthi rebels are advancing on the Yemeni city of Taiz, the country's third-largest metropolis that had endured a yearslong siege during the nation's bloody civil war.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/10/14/world-news/houthi-siege-tightens-around-major-yemen-city-that-survived-bloody-civil-war/",
+      "time": "2026-10-14T19:36:27",
+      "country": "Iran",
+      "title_ur": "Houthi siege tightens around major Yemen city that survived bloody civil war",
+      "desc_ur": "The Iran-backed Houthi rebels are advancing on the Yemeni city of Taiz, the country's third-largest metropolis that had endured a yearslong siege during the nation's bloody civil war."
     }
   ],
   "pakistan": [
     {
-      "title": "AWS HealthOmics introduces resource fallback order for Nextflow workflows",
-      "desc": "Today, AWS HealthOmics introduces the resource fallback directive for tasks in your Nextflow workflows, enabling you to define an ordered list of preferred accelerator types, including an option to fallback to CPU instances. Researchers and bioinformaticians …",
-      "source": "Amazon.com",
-      "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-healthomics-resource-fallback-for-Nextflow/",
-      "time": "2026-10-14T16:00:00",
+      "title": "Report: Egyptian intelligence chief was not on plane that landed in Israel before Oct. 7",
+      "desc": "According to the report, the plane landed in Israel with two businessmen on board and departed about an hour later empty. Netanyahu said Tuesday that Egypt's intelligence chief had been in Israel before October 7 but that he did not know whom he met",
+      "source": "Haaretz",
+      "url": "https://www.haaretz.com/israel-news/israel-security/2026-10-14/ty-article/.premium/report-egyptian-intel-chief-was-not-on-plane-that-visited-israel-before-oct-7/000001a1-3bbd-dcb1-a9fd-7fff45890000",
+      "time": "2026-10-14T19:30:01",
       "country": "Pakistan",
-      "title_ur": "AWS HealthOmics introduces resource fallback order for Nextflow workflows",
-      "desc_ur": "Today, AWS HealthOmics introduces the resource fallback directive for tasks in your Nextflow workflows, enabling you to define an ordered list of preferred accelerator types, including an option to fallback to CPU instances. Researchers and bioinformaticians …"
+      "title_ur": "Report: Egyptian intelligence chief was not on plane that landed in Israel before Oct. 7",
+      "desc_ur": "According to the report, the plane landed in Israel with two businessmen on board and departed about an hour later empty. Netanyahu said Tuesday that Egypt's intelligence chief had been in Israel before October 7 but that he did not know whom he met"
     },
     {
-      "title": "A Cold New World in Riyadh",
-      "desc": "Saudi Arabia is running out of options for containing the Houthis.",
-      "source": "The Atlantic",
-      "url": "https://www.theatlantic.com/international/2026/10/houthi-strikes-saudi-arabia/688990/?utm_source=feed",
-      "time": "2026-10-14T15:43:35",
+      "title": "Skepticism as 'grubby' Trump caught up in another 'collusion' campaign to help Russia",
+      "desc": "President Donald Trump seems to be caught up in what The Guardian's editorial board describes as a \"coordinated pressure\" campaign to tip the Ukraine war in Russia's favor.The editorial board pointed to several \"perilous circumstances\" that have arisen in rec…",
+      "source": "Raw Story",
+      "url": "https://www.rawstory.com/trump-russia-2678086416/",
+      "time": "2026-10-14T19:25:56",
       "country": "Pakistan",
-      "title_ur": "A Cold New World in Riyadh",
-      "desc_ur": "Saudi Arabia is running out of options for containing the Houthis."
+      "title_ur": "Skepticism as 'grubby' Trump caught up in another 'collusion' campaign to help Russia",
+      "desc_ur": "President Donald Trump seems to be caught up in what The Guardian's editorial board describes as a \"coordinated pressure\" campaign to tip the Ukraine war in Russia's favor.The editorial board pointed to several \"perilous circumstances\" that have arisen in rec…"
     },
     {
-      "title": "‘Hazara Town,’ About the Hazara Community in Pakistan, Acquired by Filmotor Ahead of IDFA World Premiere (EXCLUSIVE)",
-      "desc": "World sales outfit Filmotor has acquired the global sales rights to “Hazara Town,” the debut feature documentary by Khadim Dai. The film will have its world premiere in the International Competition at the International Documentary Film Festival Amsterdam, kn…",
-      "source": "Variety",
-      "url": "https://variety.com/2026/film/global/hazara-town-filmotor-idfa-1236911984/",
-      "time": "2026-10-14T15:38:18",
+      "title": "Jane Fonda, Anne Hathaway, Guillermo del Toro… Hollywood Comes to Tom Cruise’s Aid After ‘Digger’ Flop",
+      "desc": "Released in theaters earlier this month, ‘Digger’ has received a decidedly mixed reception. In response to the countless negative reviews, several Hollywood figures have come to the defense of Tom Cruise’s new role.",
+      "source": "Vanity Fair",
+      "url": "https://www.vanityfair.com/story/digger-hollywood-response",
+      "time": "2026-10-14T19:24:38",
       "country": "Pakistan",
-      "title_ur": "‘Hazara Town,’ About the Hazara Community in Pakistan, Acquired by Filmotor Ahead of IDFA World Premiere (EXCLUSIVE)",
-      "desc_ur": "World sales outfit Filmotor has acquired the global sales rights to “Hazara Town,” the debut feature documentary by Khadim Dai. The film will have its world premiere in the International Competition at the International Documentary Film Festival Amsterdam, kn…"
+      "title_ur": "Jane Fonda, Anne Hathaway, Guillermo del Toro… Hollywood Comes to Tom Cruise’s Aid After ‘Digger’ Flop",
+      "desc_ur": "Released in theaters earlier this month, ‘Digger’ has received a decidedly mixed reception. In response to the countless negative reviews, several Hollywood figures have come to the defense of Tom Cruise’s new role."
     },
     {
-      "title": "Ukraine accuses SpaceX of interrupting Starlink terminals, disrupting drone missions",
-      "desc": "Ukrainian military officials allege that SpaceX interrupted military-grade Starlink terminals, which prevented Kyiv from using them to guide drone strikes.Serhiy Beskrestnov, adviser to Ukrainian President Volodymyr Zelensky, wrote on Telegram that the countr…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4399140/posts",
-      "time": "2026-10-14T15:29:18",
+      "title": "GOP donor who texted Guilfoyle pressures Vance over extraditing doctor in Pakistan - The Hill",
+      "desc": "GOP donor who texted Guilfoyle pressures Vance over extraditing doctor in PakistanThe Hill ‘Honey Please’: The Steep Rise and Sudden Fall of Kimberly Guilfoyle.The New York Times Trump Pretends Like He Doesn’t Really Know Kimberly Guilfoyle After Ambassador S…",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186321156",
+      "time": "2026-10-14T19:13:38",
       "country": "Pakistan",
-      "title_ur": "Ukraine accuses SpaceX of interrupting Starlink terminals, disrupting drone missions",
-      "desc_ur": "Ukrainian military officials allege that SpaceX interrupted military-grade Starlink terminals, which prevented Kyiv from using them to guide drone strikes.Serhiy Beskrestnov, adviser to Ukrainian President Volodymyr Zelensky, wrote on Telegram that the countr…"
+      "title_ur": "GOP donor who texted Guilfoyle pressures Vance over extraditing doctor in Pakistan - The Hill",
+      "desc_ur": "GOP donor who texted Guilfoyle pressures Vance over extraditing doctor in PakistanThe Hill ‘Honey Please’: The Steep Rise and Sudden Fall of Kimberly Guilfoyle.The New York Times Trump Pretends Like He Doesn’t Really Know Kimberly Guilfoyle After Ambassador S…"
+    },
+    {
+      "title": "The Case Against the Resurrection of Jesus",
+      "desc": "Bradley Bowen once planned to study under William Lane Craig. Now he applies logic, probability, and history to the three leading Christian cases for the resurrection, exposing cherry-picked facts, hidden assumptions, and shaky math. Do these famous arguments…",
+      "source": "Skeptic.com",
+      "url": "https://www.skeptic.com/article/case-against-jesus-resurrection/",
+      "time": "2026-10-14T19:12:31",
+      "country": "Pakistan",
+      "title_ur": "The Case Against the Resurrection of Jesus",
+      "desc_ur": "Bradley Bowen once planned to study under William Lane Craig. Now he applies logic, probability, and history to the three leading Christian cases for the resurrection, exposing cherry-picked facts, hidden assumptions, and shaky math. Do these famous arguments…"
+    },
+    {
+      "title": "Intel’s Fab 38 Explosion In Israel Injures 3 People And Draws 8 Rescue Teams Including Hazmat Units, As Authorities Suspect A Nitrogen Trifluoride Cylinder",
+      "desc": "Intel's Fab 38 has just experienced a major disruption, where an explosion has apparently injured at least three people. The incident does not appear to be of a geopolitical nature, but does hammer home the critical importance that Intel accords its Fab 38, w…",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/intels-fab-38-explosion-in-israel-injures-3-people-and-draws-8-rescue-teams-including-hazmat-units-as-authorities-suspect-a-nitrogen-trifluoride-cylinder/",
+      "time": "2026-10-14T19:07:38",
+      "country": "Pakistan",
+      "title_ur": "Intel’s Fab 38 Explosion In Israel Injures 3 People And Draws 8 Rescue Teams Including Hazmat Units, As Authorities Suspect A Nitrogen Trifluoride Cylinder",
+      "desc_ur": "Intel's Fab 38 has just experienced a major disruption, where an explosion has apparently injured at least three people. The incident does not appear to be of a geopolitical nature, but does hammer home the critical importance that Intel accords its Fab 38, w…"
     }
   ],
   "business": {
@@ -204,19 +224,10 @@
     "city_ur": "لاہور",
     "forecast": [
       {
-        "date": "2026-10-15",
-        "day": "جمعرات",
-        "high": 27,
-        "low": 20,
-        "condition": "Drizzle",
-        "condition_ur": "بوندا باندی",
-        "precip": 82
-      },
-      {
         "date": "2026-10-16",
         "day": "جمعہ",
         "high": 28,
-        "low": 19,
+        "low": 18,
         "condition": "Overcast",
         "condition_ur": "ابر آلود",
         "precip": 0
@@ -233,8 +244,8 @@
       {
         "date": "2026-10-18",
         "day": "اتوار",
-        "high": 29,
-        "low": 18,
+        "high": 30,
+        "low": 19,
         "condition": "Clear",
         "condition_ur": "صاف",
         "precip": 0
@@ -243,7 +254,7 @@
         "date": "2026-10-19",
         "day": "پیر",
         "high": 30,
-        "low": 19,
+        "low": 18,
         "condition": "Clear",
         "condition_ur": "صاف",
         "precip": 0
@@ -251,16 +262,25 @@
       {
         "date": "2026-10-20",
         "day": "منگل",
-        "high": 30,
-        "low": 19,
-        "condition": "Mainly Clear",
-        "condition_ur": "زیادہ تر صاف",
+        "high": 31,
+        "low": 20,
+        "condition": "Clear",
+        "condition_ur": "صاف",
         "precip": 0
       },
       {
         "date": "2026-10-21",
         "day": "بدھ",
-        "high": 31,
+        "high": 32,
+        "low": 20,
+        "condition": "Clear",
+        "condition_ur": "صاف",
+        "precip": 0
+      },
+      {
+        "date": "2026-10-22",
+        "day": "جمعرات",
+        "high": 32,
         "low": 19,
         "condition": "Clear",
         "condition_ur": "صاف",
@@ -269,8 +289,8 @@
     ]
   },
   "date": {
-    "gregorian": "Thursday, 15 October 2026",
-    "hijri": "4 Jumādá al-ūlá 1448",
-    "hijri_ur": "4 جُمادى الأولى 1448"
+    "gregorian": "Friday, 16 October 2026",
+    "hijri": "5 Jumādá al-ūlá 1448",
+    "hijri_ur": "5 جُمادى الأولى 1448"
   }
 }
