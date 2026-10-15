@@ -1,167 +1,197 @@
 {
-  "generated": "2026-10-15T01:10:17Z",
+  "generated": "2026-10-15T06:06:52Z",
   "world": [
     {
-      "title": "CNBC Daily Open: Diesel deal may not be enough to curb high energy prices",
-      "desc": "The diesel deal between the U.S. and Russia is unlikely to substantially reduce energy prices for U.S. truckers and farmers.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/14/cnbc-daily-open-diesel-energy-apple-anthropic-imf.html",
-      "time": "2026-10-14T01:09:16",
-      "country": "Russia",
-      "title_ur": "CNBC Daily Open: Diesel deal may not be enough to curb high energy prices",
-      "desc_ur": "The diesel deal between the U.S. and Russia is unlikely to substantially reduce energy prices for U.S. truckers and farmers."
-    },
-    {
-      "title": "In heated Georgia Senate debate, Jon Ossoff says he won’t run for president in 2028",
-      "desc": "Sen. Jon Ossoff said Tuesday night during a debate that he will not run for president in 2028.",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/politics/2026-election/heated-georgia-senate-debate-jon-ossoff-says-wont-run-president-2028-rcna603300",
-      "time": "2026-10-14T01:08:51",
-      "country": "International",
-      "title_ur": "In heated Georgia Senate debate, Jon Ossoff says he won’t run for president in 2028",
-      "desc_ur": "Sen. Jon Ossoff said Tuesday night during a debate that he will not run for president in 2028."
-    },
-    {
-      "title": "Jewish educators told to condemn Israel before attending conference: report",
-      "desc": "The statement was the result of a protest by some parents associated with the host Italian organization, Reggio Children, who objected to the Jewish educators' participation over alleged support for Israel and the Israel Defense Forces.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/10/13/world-news/italian-education-group-demands-jewish-educators-condemn-israel-before-attending-conference-report/",
-      "time": "2026-10-14T01:07:33",
-      "country": "Israel",
-      "title_ur": "Jewish educators told to condemn Israel before attending conference: report",
-      "desc_ur": "The statement was the result of a protest by some parents associated with the host Italian organization, Reggio Children, who objected to the Jewish educators' participation over alleged support for Israel and the Israel Defense Forces."
-    },
-    {
-      "title": "Trump: Iran is a failed country, decision on next steps coming very soon",
-      "desc": "President Trump says a decision on Iran is imminent, citing its economic crisis as speculation grows over possible renewed US strikes before the midterm elections.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/434572",
-      "time": "2026-10-14T01:06:09",
-      "country": "Iran",
-      "title_ur": "Trump: Iran is a failed country, decision on next steps coming very soon",
-      "desc_ur": "President Trump says a decision on Iran is imminent, citing its economic crisis as speculation grows over possible renewed US strikes before the midterm elections."
-    },
-    {
-      "title": "NY Gov. Kathy Hochul, Bruce Blakeman spar over immigration, cost of living in debate",
-      "desc": "Gov. Hochul and Nassau County Executive Bruce Blakeman faced off in the only debate for governor.\n \n\nThe Democratic incumbent repeatedly invoked President Donald Trump. The Republican challenger largely avoided bringing up New York City Mayor Zohran Mamdani. …",
-      "source": "Gothamist",
-      "url": "https://gothamist.com/news/ny-gov-kathy-hochul-bruce-blakeman-spar-over-immigration-cost-of-living-in-debate",
-      "time": "2026-10-14T01:05:08",
-      "country": "US",
-      "title_ur": "NY Gov. Kathy Hochul, Bruce Blakeman spar over immigration, cost of living in debate",
-      "desc_ur": "Gov. Hochul and Nassau County Executive Bruce Blakeman faced off in the only debate for governor.\n \n\nThe Democratic incumbent repeatedly invoked President Donald Trump. The Republican challenger largely avoided bringing up New York City Mayor Zohran Mamdani. …"
-    },
-    {
-      "title": "Treasury Dept. Hits Major US Bank With Third-Largest Fine In History",
-      "desc": "The Treasury Department fined Bank of America more than $1.2 billion over money laundering and sanctions failures, its third-largest penalty ever.",
-      "source": "The Daily Caller",
-      "url": "https://dailycaller.com/2026/10/13/treasury-dept-hits-major-us-bank-with-third-largest-fine-in-history",
-      "time": "2026-10-14T01:01:15",
-      "country": "US",
-      "title_ur": "Treasury Dept. Hits Major US Bank With Third-Largest Fine In History",
-      "desc_ur": "The Treasury Department fined Bank of America more than $1.2 billion over money laundering and sanctions failures, its third-largest penalty ever."
-    },
-    {
-      "title": "Australia’s defence establishment is incompetent and leading us to disaster",
-      "desc": "Between Donald Trump, AUKUS and billions in waste, defence and security seems to be the one area in Australian policymaking where we can't have a serious conversation.\nThe post Australia’s defence establishment is incompetent and leading us to disaster appear…",
-      "source": "Crikey",
-      "url": "http://www.crikey.com.au/2026/10/14/donald-trump-aukus-australia-defence-security/",
-      "time": "2026-10-14T00:59:17",
-      "country": "UK",
-      "title_ur": "Australia’s defence establishment is incompetent and leading us to disaster",
-      "desc_ur": "Between Donald Trump, AUKUS and billions in waste, defence and security seems to be the one area in Australian policymaking where we can't have a serious conversation.\nThe post Australia’s defence establishment is incompetent and leading us to disaster appear…"
-    },
-    {
-      "title": "Israel Rejects Flight With Indonesian Pilot",
-      "desc": "Israel appears to have stepped up enforcement of its flight regulations after the FlyDubai cockpit attack. An Ethiopian Airlines cargo plane bound for Tel Aviv was forced to turn around on Monday because one of the pilots was from Indonesia, which does not ha…",
-      "source": "Newser",
-      "url": "https://www.newser.com/story/398089/israel-rejects-flight-with-indonesian-pilot.html",
-      "time": "2026-10-14T00:56:56",
-      "country": "Israel",
-      "title_ur": "Israel Rejects Flight With Indonesian Pilot",
-      "desc_ur": "Israel appears to have stepped up enforcement of its flight regulations after the FlyDubai cockpit attack. An Ethiopian Airlines cargo plane bound for Tel Aviv was forced to turn around on Monday because one of the pilots was from Indonesia, which does not ha…"
-    },
-    {
-      "title": "Iran shifting tactics to step up attacks on shipping before US vote: Officials",
-      "desc": "Iran has begun using new offensive tactics against vessels in the Strait of Hormuz and nearby waters. This strategy aims to limit oil shipping and influence the upcoming US midterm elections. Reports indicate an increase in maritime attacks near the strait, s…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/defence/iran-shifting-tactics-to-step-up-attacks-on-shipping-before-us-vote-officials/articleshow/134929470.cms",
-      "time": "2026-10-14T00:53:39",
-      "country": "Iran",
-      "title_ur": "Iran shifting tactics to step up attacks on shipping before US vote: Officials",
-      "desc_ur": "Iran has begun using new offensive tactics against vessels in the Strait of Hormuz and nearby waters. This strategy aims to limit oil shipping and influence the upcoming US midterm elections. Reports indicate an increase in maritime attacks near the strait, s…"
-    },
-    {
-      "title": "Saudi Aramco administrative building at Dhahran headquarters attacked",
-      "desc": "A limited fire broke out in an Aramco administrative building without injuries reported amid escalating tensions. The Saudi-led coalition conducted airstrikes on Houthi positions in Yemen in response to missile threats. Houthi forces retaliated by claiming th…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/saudi-aramco-administrative-building-at-dhahran-headquarters-attacked/articleshow/134929477.cms",
-      "time": "2026-10-14T00:48:57",
-      "country": "Saudi Arabia",
-      "title_ur": "Saudi Aramco administrative building at Dhahran headquarters attacked",
-      "desc_ur": "A limited fire broke out in an Aramco administrative building without injuries reported amid escalating tensions. The Saudi-led coalition conducted airstrikes on Houthi positions in Yemen in response to missile threats. Houthi forces retaliated by claiming th…"
-    },
-    {
-      "title": "Best of Opinion: Global growth headline numbers mask vulnerabilities",
-      "desc": "From the IMF's global growth forecast and Navi Pillay's Nobel Peace Prize to India's climate needs, rising healthcare costs and the debate over welfare, today's opinions examine multiple challenges",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/opinion/specials/best-of-business-standard-opinion-imf-global-growth-climate-policy-healthcare-welfare-rights-126101301208_1.html",
-      "time": "2026-10-14T00:45:25",
-      "country": "India",
-      "title_ur": "Best of Opinion: Global growth headline numbers mask vulnerabilities",
-      "desc_ur": "From the IMF's global growth forecast and Navi Pillay's Nobel Peace Prize to India's climate needs, rising healthcare costs and the debate over welfare, today's opinions examine multiple challenges"
-    },
-    {
-      "title": "Israeli attacks kill one in Gaza, wound journalists in occupied West Bank",
-      "desc": "A year into the ceasefire, nearly two-thirds of Gaza is in Israeli hands and Netanyahu vows control of the West Bank.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/10/14/israeli-attacks-kill-one-in-gaza-wound-journalists-in-occupied-west-bank",
-      "time": "2026-10-14T00:45:16",
-      "country": "Israel",
-      "title_ur": "Israeli attacks kill one in Gaza, wound journalists in occupied West Bank",
-      "desc_ur": "A year into the ceasefire, nearly two-thirds of Gaza is in Israeli hands and Netanyahu vows control of the West Bank."
-    },
-    {
-      "title": "Economist warns Aussie house prices could plunge by 40 per cent in some suburbs amid alarming recession prediction",
-      "desc": "House prices could plunge by as much as 40 per cent as the nation hurtles towards its biggest property downturn on record, a leading economist has warned.",
+      "title": "Used diesel car prices take a pounding due to surging cost of fuel",
+      "desc": "While the typical value of a three-year-old diesel motor was already in decline, the depreciation curve has sharpened noticeably since March, experts say.",
       "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16206953/house-prices-chris-joye-australia-mark-bouris.html",
-      "time": "2026-10-14T00:33:04",
+      "url": "https://www.dailymail.com/money/cars/article-16205605/Used-diesel-car-prices-pounding-surging-cost-fuel.html",
+      "time": "2026-10-14T06:03:04",
       "country": "US",
-      "title_ur": "Economist warns Aussie house prices could plunge by 40 per cent in some suburbs amid alarming recession prediction",
-      "desc_ur": "House prices could plunge by as much as 40 per cent as the nation hurtles towards its biggest property downturn on record, a leading economist has warned."
+      "title_ur": "Used diesel car prices take a pounding due to surging cost of fuel",
+      "desc_ur": "While the typical value of a three-year-old diesel motor was already in decline, the depreciation curve has sharpened noticeably since March, experts say."
     },
     {
-      "title": "Britain has entered a ‘new era of national security,’ the head of MI5 says. - NBC News",
-      "desc": "Britain has entered a ‘new era of national security,’ the head of MI5 says.NBC News Trump warns Houthis of Iran's role in resurgence before ballistic missile strikes Saudi oil giantFox News U.K. intelligence chief warns Iran is shifting plots to ‘harder targe…",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186305130",
-      "time": "2026-10-14T00:32:46",
-      "country": "Iran",
-      "title_ur": "Britain has entered a ‘new era of national security,’ the head of MI5 says. - NBC News",
-      "desc_ur": "Britain has entered a ‘new era of national security,’ the head of MI5 says.NBC News Trump warns Houthis of Iran's role in resurgence before ballistic missile strikes Saudi oil giantFox News U.K. intelligence chief warns Iran is shifting plots to ‘harder targe…"
+      "title": "Indian bonds slip on higher oil, hawkish RBI governor comments",
+      "desc": "Indian government bonds faced a downturn, attributed to soaring oil prices and statements from the Reserve Bank of India. The yield on the benchmark 6.94% 2036 bond rose following the central bank's recent rate hike. Geopolitical tensions involving Yemen and …",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-slip-on-higher-oil-hawkish-rbi-governor-comments/articleshow/134933863.cms",
+      "time": "2026-10-14T06:01:23",
+      "country": "India",
+      "title_ur": "Indian bonds slip on higher oil, hawkish RBI governor comments",
+      "desc_ur": "Indian government bonds faced a downturn, attributed to soaring oil prices and statements from the Reserve Bank of India. The yield on the benchmark 6.94% 2036 bond rose following the central bank's recent rate hike. Geopolitical tensions involving Yemen and …"
     },
     {
-      "title": "Oil soars above $105 in wake of Saudi airport strike, Ukraine energy attack blamed on Russia",
-      "desc": "Oil soared above $105 a barrel Monday morning in the wake of geopolitical turmoil, with an Iran-backed group launching a deadly strike on a Saudi airport and Ukraine accusing Russia of attacking energy facilities in spite of a ceasefire declared by President …",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/fba67dc4c79e71af",
-      "time": "2026-10-14T00:28:59",
+      "title": "Both Man City and Paris Saint-Germain breached football's financial regulations, but the Gulf state rivals could not have dealt with scrutiny more differently, writes IAN HERBERT",
+      "desc": "IAN HERBERT: It's hard to avoid the sense that those arriving with PSG for the Champions League tie at Man City will consider City's guilty conviction to be anything less than comeuppance.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/sport/article-16205833/Both-Man-City-Paris-Saint-Germain-breached-footballs-financial-regulations-Gulf-state-rivals-not-dealt-scrutiny-differently-writes-IAN-HERBERT.html",
+      "time": "2026-10-14T06:00:49",
+      "country": "Europe",
+      "title_ur": "Both Man City and Paris Saint-Germain breached football's financial regulations, but the Gulf state rivals could not have dealt with scrutiny more differently, writes IAN HERBERT",
+      "desc_ur": "IAN HERBERT: It's hard to avoid the sense that those arriving with PSG for the Champions League tie at Man City will consider City's guilty conviction to be anything less than comeuppance."
+    },
+    {
+      "title": "Americans are paying $6 for diesel, and 12 senators want more Russia sanctions anyway",
+      "desc": "Twelve U.S. senators from both parties urged President Trump to reverse his deal lifting sanctions on Russian diesel exports. Former Senate Majority Leader Mitch McConnell and Texas Sen. John Cornyn joined four other Republicans and six Democrats in signing t…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-10-14-americans-diesel-senators-russia-sanctions.html",
+      "time": "2026-10-14T06:00:00",
+      "country": "Russia",
+      "title_ur": "Americans are paying $6 for diesel, and 12 senators want more Russia sanctions anyway",
+      "desc_ur": "Twelve U.S. senators from both parties urged President Trump to reverse his deal lifting sanctions on Russian diesel exports. Former Senate Majority Leader Mitch McConnell and Texas Sen. John Cornyn joined four other Republicans and six Democrats in signing t…"
+    },
+    {
+      "title": "Saffron: The golden spice of wellness and culinary delight",
+      "desc": "Saffron has a rich history dating back over 3,500 years, originating in ancient Mesopotamia and later spreading to the Mediterranean. It was used in ancient Egypt, Greece and Rome for medicinal, culinary and cosmetic purposes. Iran is now the largest producer…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-10-14-saffron-golden-spice-of-wellness-culinary-delight.html",
+      "time": "2026-10-14T06:00:00",
       "country": "Iran",
-      "title_ur": "Oil soars above $105 in wake of Saudi airport strike, Ukraine energy attack blamed on Russia",
-      "desc_ur": "Oil soared above $105 a barrel Monday morning in the wake of geopolitical turmoil, with an Iran-backed group launching a deadly strike on a Saudi airport and Ukraine accusing Russia of attacking energy facilities in spite of a ceasefire declared by President …"
+      "title_ur": "Saffron: The golden spice of wellness and culinary delight",
+      "desc_ur": "Saffron has a rich history dating back over 3,500 years, originating in ancient Mesopotamia and later spreading to the Mediterranean. It was used in ancient Egypt, Greece and Rome for medicinal, culinary and cosmetic purposes. Iran is now the largest producer…"
+    },
+    {
+      "title": "Iranâs seven demands, a shuttered strait and the hollow threat behind Tehranâs words",
+      "desc": "Tehran wants the world to believe it controls the global energy lifeline and that Washington must negotiate on Iran’s terms. Yet Iran’s own officials are giving the public two different accounts of where talks stand. A blockade that also chokes the country en…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-10-14-irans-seven-demands-shuttered-strait-hollow-threat.html",
+      "time": "2026-10-14T06:00:00",
+      "country": "Iran",
+      "title_ur": "Iranâs seven demands, a shuttered strait and the hollow threat behind Tehranâs words",
+      "desc_ur": "Tehran wants the world to believe it controls the global energy lifeline and that Washington must negotiate on Iran’s terms. Yet Iran’s own officials are giving the public two different accounts of where talks stand. A blockade that also chokes the country en…"
+    },
+    {
+      "title": "Trump Dismisses Reports of Chinese and Russian Support for Iran Despite U.S. Intelligence Findings",
+      "desc": "President Donald Trump said late Monday, Oct. 12, that he does not believe China and Russia are helping Iran in the ongoing conflict. He wrote on Truth Social that both countries have “too much to lose” to enable Tehran. Trump added that he had seen comments …",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-10-14-trump-dismisses-reports-chinese-russian-support-for-iran.html",
+      "time": "2026-10-14T06:00:00",
+      "country": "Iran",
+      "title_ur": "Trump Dismisses Reports of Chinese and Russian Support for Iran Despite U.S. Intelligence Findings",
+      "desc_ur": "President Donald Trump said late Monday, Oct. 12, that he does not believe China and Russia are helping Iran in the ongoing conflict. He wrote on Truth Social that both countries have “too much to lose” to enable Tehran. Trump added that he had seen comments …"
+    },
+    {
+      "title": "AI Less Regulated Than Milk and Washing Machines, Microsoft President Says",
+      "desc": "Microsoft President Brad Smith warned that artificial intelligence (AI) is subject to fewer safety rules than milk and washing machines and called for global regulations governing the technology, according to an interview published on Reuters [1]. Smith made …",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-10-14-ai-less-regulated-milk-microsoft-president-says.html",
+      "time": "2026-10-14T06:00:00",
+      "country": "Europe",
+      "title_ur": "AI Less Regulated Than Milk and Washing Machines, Microsoft President Says",
+      "desc_ur": "Microsoft President Brad Smith warned that artificial intelligence (AI) is subject to fewer safety rules than milk and washing machines and called for global regulations governing the technology, according to an interview published on Reuters [1]. Smith made …"
+    },
+    {
+      "title": "The French Freezer Hack Wasn’t Really a Cyberattack … It Was an Invitation",
+      "desc": "When Your Password is Today’s Date, You’re Inviting Intrusions I’ve read the headlines streaming out of France this week, and I don’t buy the scary, sophisticated-hacker framing for a second. Hundreds of French supermarkets had their fridges and freezers hija…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-10-14-french-freezer-hack-wasnt-really-a-cyberattack.html",
+      "time": "2026-10-14T06:00:00",
+      "country": "US",
+      "title_ur": "The French Freezer Hack Wasn’t Really a Cyberattack … It Was an Invitation",
+      "desc_ur": "When Your Password is Today’s Date, You’re Inviting Intrusions I’ve read the headlines streaming out of France this week, and I don’t buy the scary, sophisticated-hacker framing for a second. Hundreds of French supermarkets had their fridges and freezers hija…"
+    },
+    {
+      "title": "Quiet revisions, loud victory claims: Pentagon raises Iran war death toll after Hegseth called the reports âa complete lieâ",
+      "desc": "In the early days of the Iran conflict, the Pentagon spent days crowing about victory, but over time, the bravado turned up hollow, while the casualties occurred quietly. U.S. bases took damage across the Middle East, as the victor continued to sing. Now the …",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-10-14-pentagon-raises-iran-war-death-toll-after-hegseth-called-the-reports-a-complete-lie.html",
+      "time": "2026-10-14T06:00:00",
+      "country": "Iran",
+      "title_ur": "Quiet revisions, loud victory claims: Pentagon raises Iran war death toll after Hegseth called the reports âa complete lieâ",
+      "desc_ur": "In the early days of the Iran conflict, the Pentagon spent days crowing about victory, but over time, the bravado turned up hollow, while the casualties occurred quietly. U.S. bases took damage across the Middle East, as the victor continued to sing. Now the …"
+    },
+    {
+      "title": "Chernobyl Nuclear Fuel Particles Remain Stable 40 Years After Disaster, Report Says",
+      "desc": "Researchers found that six particles, each measuring between 8 and 50 micrometers, remain highly radioactive yet structurally intact, the report stated [1][2]. The particles were analyzed by scientists at Leibniz University Hannover and the Helmholtz-Zentrum …",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-10-14-chernobyl-nuclear-fuel-particles-remain-stable-report.html",
+      "time": "2026-10-14T06:00:00",
+      "country": "International",
+      "title_ur": "Chernobyl Nuclear Fuel Particles Remain Stable 40 Years After Disaster, Report Says",
+      "desc_ur": "Researchers found that six particles, each measuring between 8 and 50 micrometers, remain highly radioactive yet structurally intact, the report stated [1][2]. The particles were analyzed by scientists at Leibniz University Hannover and the Helmholtz-Zentrum …"
+    },
+    {
+      "title": "Obama tells Belfast event ‘democracy not inevitable’ but keeps Trump criticism subtle",
+      "desc": "Former US president talks about the Middle East, democracy, journalism and his regular theme of hope during a speaking event",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/ireland/2026/10/14/obama-tells-belfast-event-democracy-not-inevitable-but-keeps-trump-criticism-subtle/",
+      "time": "2026-10-14T05:58:11",
+      "country": "US",
+      "title_ur": "Obama tells Belfast event ‘democracy not inevitable’ but keeps Trump criticism subtle",
+      "desc_ur": "Former US president talks about the Middle East, democracy, journalism and his regular theme of hope during a speaking event"
+    },
+    {
+      "title": "F1 race at Malaysia’s Sepang generated nearly US$232 million: Sports ministry",
+      "desc": "The Gulf Air Bahrain Grand Prix, which was relocated to Malaysia’s Sepang circuit as a one-off event, drew 827 million viewers worldwide, according to Malaysian Youth and Sports Minister Taufiq Johari.",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/asia/f1-sepang-malaysia-economic-impact-million-6458016",
+      "time": "2026-10-14T05:54:00",
+      "country": "US",
+      "title_ur": "F1 race at Malaysia’s Sepang generated nearly US$232 million: Sports ministry",
+      "desc_ur": "The Gulf Air Bahrain Grand Prix, which was relocated to Malaysia’s Sepang circuit as a one-off event, drew 827 million viewers worldwide, according to Malaysian Youth and Sports Minister Taufiq Johari."
+    },
+    {
+      "title": "Gold prices hold firm ahead of US inflation data",
+      "desc": "Spot gold held its ground at $4,165.25 per ounce, as of 0447 ‌GMT. U.S. gold futures for December delivery edged 0.3% higher to $4,188.70",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-prices-hold-firm-ahead-of-us-inflation-data/article71582178.ece",
+      "time": "2026-10-14T05:51:19",
+      "country": "US",
+      "title_ur": "Gold prices hold firm ahead of US inflation data",
+      "desc_ur": "Spot gold held its ground at $4,165.25 per ounce, as of 0447 ‌GMT. U.S. gold futures for December delivery edged 0.3% higher to $4,188.70"
+    },
+    {
+      "title": "Islamic Gaza GenoLIE: Selective Outrage / Falsehood Propaganda - Political Islam's Hatred",
+      "desc": "Islamic Gaza GenoLIE: Selective Outrage / Falsehood PropagandaPolitical Islam's Hatred If the anti-Hamas war in Gaza had been conducted by non-Jews, would any prominent Arab or Muslim figure or organization be speaking so loudly about it? Of course not. They …",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-bloggers/4399096/posts",
+      "time": "2026-10-14T05:50:04",
+      "country": "Israel",
+      "title_ur": "Islamic Gaza GenoLIE: Selective Outrage / Falsehood Propaganda - Political Islam's Hatred",
+      "desc_ur": "Islamic Gaza GenoLIE: Selective Outrage / Falsehood PropagandaPolitical Islam's Hatred If the anti-Hamas war in Gaza had been conducted by non-Jews, would any prominent Arab or Muslim figure or organization be speaking so loudly about it? Of course not. They …"
     }
   ],
   "pakistan": [
     {
-      "title": "PM Modi woos global investors, says India believes in 'Power to Empower'",
-      "desc": "The Prime Minister told the gathering of business leaders from India and abroad that the country has seen inclusive growth at a steady pace in the last decade, despite challenges such as the Covid pandemic, wars, disruption of supply chains, trade barriers an…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/india/pm-modi-woos-global-investors-says-india-believes-in-power-to-empower/articleshow/134925720.cms",
-      "time": "2026-10-14T00:30:00",
+      "title": "A prophecy for Kabul: Pakistan warns the Taliban that the militants it shelters may come for its throne",
+      "desc": "Pakistan’s top diplomat has issued what sounds less like a request than a prophecy, and the rulers in Kabul would be wise to hear the echo of history in it. On Monday, Foreign Minister Ishaq Dar urged Afghanistan’s Taliban government to stop militants from us…",
+      "source": "Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-10-14-pakistan-warns-the-taliban-that-the-militants-it-shelters-may-come-for-its-throne.html",
+      "time": "2026-10-14T06:00:00",
       "country": "Pakistan",
-      "title_ur": "PM Modi woos global investors, says India believes in 'Power to Empower'",
-      "desc_ur": "The Prime Minister told the gathering of business leaders from India and abroad that the country has seen inclusive growth at a steady pace in the last decade, despite challenges such as the Covid pandemic, wars, disruption of supply chains, trade barriers an…"
+      "title_ur": "A prophecy for Kabul: Pakistan warns the Taliban that the militants it shelters may come for its throne",
+      "desc_ur": "Pakistan’s top diplomat has issued what sounds less like a request than a prophecy, and the rulers in Kabul would be wise to hear the echo of history in it. On Monday, Foreign Minister Ishaq Dar urged Afghanistan’s Taliban government to stop militants from us…"
+    },
+    {
+      "title": "Brent crude hits $107 after fresh Middle East attacks, with Saudi Aramco targeted and Turkey drawn into the crisis",
+      "desc": "Escalating Iranian attacks in the Strait of Hormuz and fresh Houthi strikes on Saudi Arabia fuel fears of disruption to global oil supplies\nThe post Brent crude hits $107 after fresh Middle East attacks, with Saudi Aramco targeted and Turkey drawn into the cr…",
+      "source": "Protothema.gr",
+      "url": "https://en.protothema.gr/2026/10/14/brent-crude-hits-107-after-fresh-middle-east-attacks-with-saudi-aramco-targeted-and-turkey-drawn-into-the-crisis/",
+      "time": "2026-10-14T05:49:43",
+      "country": "Pakistan",
+      "title_ur": "Brent crude hits $107 after fresh Middle East attacks, with Saudi Aramco targeted and Turkey drawn into the crisis",
+      "desc_ur": "Escalating Iranian attacks in the Strait of Hormuz and fresh Houthi strikes on Saudi Arabia fuel fears of disruption to global oil supplies\nThe post Brent crude hits $107 after fresh Middle East attacks, with Saudi Aramco targeted and Turkey drawn into the cr…"
+    },
+    {
+      "title": "LeT commander shot dead by unknown gunman in Pakistan's Punjab province? Video goes viral",
+      "desc": "A video purportedly showing a fatal shooting in Pakistan’s Punjab province has circulated online alongside claims that the victim was a senior Lashkar-e-Taiba operative named Imran. The footage’s location, authenticity and the victim’s identity have not been …",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/let-commander-shot-dead-by-unknown-gunman-in-pakistans-punjab-province-video-goes-viral/articleshow/134931979.cms",
+      "time": "2026-10-14T05:13:00",
+      "country": "Pakistan",
+      "title_ur": "LeT commander shot dead by unknown gunman in Pakistan's Punjab province? Video goes viral",
+      "desc_ur": "A video purportedly showing a fatal shooting in Pakistan’s Punjab province has circulated online alongside claims that the victim was a senior Lashkar-e-Taiba operative named Imran. The footage’s location, authenticity and the victim’s identity have not been …"
+    },
+    {
+      "title": "Renshaw's heroics do little to solve Australia's opening puzzle",
+      "desc": "Oct 14 : Matt Renshaw's match-winning heroics against South Africa have given Australia another strong middle-order option but done little to resolve the uncertainty over their opening combination ahead of the second test in Gqeberha.With Renshaw producing a …",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/sport/renshaws-heroics-do-little-solve-australias-opening-puzzle-6458051",
+      "time": "2026-10-14T05:09:20",
+      "country": "Pakistan",
+      "title_ur": "Renshaw's heroics do little to solve Australia's opening puzzle",
+      "desc_ur": "Oct 14 : Matt Renshaw's match-winning heroics against South Africa have given Australia another strong middle-order option but done little to resolve the uncertainty over their opening combination ahead of the second test in Gqeberha.With Renshaw producing a …"
     }
   ],
   "business": {
@@ -171,7 +201,72 @@
   },
   "weather": {
     "city": "Lahore",
-    "forecast": []
+    "city_ur": "لاہور",
+    "forecast": [
+      {
+        "date": "2026-10-15",
+        "day": "جمعرات",
+        "high": 29,
+        "low": 20,
+        "condition": "Heavy Showers",
+        "condition_ur": "تیز بارش",
+        "precip": 80
+      },
+      {
+        "date": "2026-10-16",
+        "day": "جمعہ",
+        "high": 28,
+        "low": 19,
+        "condition": "Foggy",
+        "condition_ur": "دھند",
+        "precip": 4
+      },
+      {
+        "date": "2026-10-17",
+        "day": "ہفتہ",
+        "high": 29,
+        "low": 19,
+        "condition": "Clear",
+        "condition_ur": "صاف",
+        "precip": 0
+      },
+      {
+        "date": "2026-10-18",
+        "day": "اتوار",
+        "high": 29,
+        "low": 19,
+        "condition": "Clear",
+        "condition_ur": "صاف",
+        "precip": 0
+      },
+      {
+        "date": "2026-10-19",
+        "day": "پیر",
+        "high": 30,
+        "low": 19,
+        "condition": "Clear",
+        "condition_ur": "صاف",
+        "precip": 0
+      },
+      {
+        "date": "2026-10-20",
+        "day": "منگل",
+        "high": 30,
+        "low": 19,
+        "condition": "Clear",
+        "condition_ur": "صاف",
+        "precip": 0
+      },
+      {
+        "date": "2026-10-21",
+        "day": "بدھ",
+        "high": 32,
+        "low": 19,
+        "condition": "Clear",
+        "condition_ur": "صاف",
+        "precip": 0
+      }
+    ]
   },
   "date": {
     "gregorian": "Thursday, 15 October 2026",
