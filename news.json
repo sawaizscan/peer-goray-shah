@@ -1,177 +1,197 @@
 {
-  "generated": "2026-10-21T06:52:59Z",
+  "generated": "2026-10-21T12:38:22Z",
   "world": [
     {
-      "title": "Vance declines to endorse Netanyahu ahead of Israeli vote",
-      "desc": "U.S. Vice President JD Vance declined on Oct. 19 to endorse Israeli Prime Minister Benjamin Netanyahu for reelection, a day after President Donald Trump backed him ahead of the Oct. 27 vote.",
-      "source": "Hurriyet Daily News",
-      "url": "https://www.hurriyetdailynews.com/vance-declines-to-endorse-netanyahu-ahead-of-israeli-vote-228350",
-      "time": "2026-10-20T06:43:18",
-      "country": "Israel",
-      "title_ur": "Vance declines to endorse Netanyahu ahead of Israeli vote",
-      "desc_ur": "U.S. Vice President JD Vance declined on Oct. 19 to endorse Israeli Prime Minister Benjamin Netanyahu for reelection, a day after President Donald Trump backed him ahead of the Oct. 27 vote."
+      "title": "How bad will the midterms be for Trump and the Republicans? Follow our tracker to see how the US plans to vote",
+      "desc": "The polls are predicting a GOP wipeout... but Republicans say they're wrong. Follow the Daily Mail's tracker for insights into who's really in front.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16223559/TRUMP-REPUBLICANS-GOP-MIDTERMS-TRACKER.html",
+      "time": "2026-10-20T12:37:25",
+      "country": "US",
+      "title_ur": "How bad will the midterms be for Trump and the Republicans? Follow our tracker to see how the US plans to vote",
+      "desc_ur": "The polls are predicting a GOP wipeout... but Republicans say they're wrong. Follow the Daily Mail's tracker for insights into who's really in front."
     },
     {
-      "title": "Australian democracy is usually peaceful. But there’s a homegrown history with political violence that bears on the future",
-      "desc": "Australian history has been relatively free of political violence. But there have nonetheless been some shocking incidents from which we should learn.",
+      "title": "Why Rubio is visiting Reliance’s oil refinery in India, the world’s largest",
+      "desc": "Reliance is central to Washington’s efforts to punish Russian energy buyers and contain oil prices amid the war on Iran.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/10/20/why-rubio-is-visiting-reliances-oil-refinery-in-india-the-worlds-largest",
+      "time": "2026-10-20T12:37:06",
+      "country": "Iran",
+      "title_ur": "Why Rubio is visiting Reliance’s oil refinery in India, the world’s largest",
+      "desc_ur": "Reliance is central to Washington’s efforts to punish Russian energy buyers and contain oil prices amid the war on Iran."
+    },
+    {
+      "title": "Palestinian citizens face a painful choice in Israel’s election: To vote or not",
+      "desc": "More than a third of Israel’s Palestinian citizens are expected to sit out the election.",
       "source": "The Conversation Africa",
-      "url": "https://theconversation.com/australian-democracy-is-usually-peaceful-but-theres-a-homegrown-history-with-political-violence-that-bears-on-the-future-294779",
-      "time": "2026-10-20T06:39:59",
-      "country": "US",
-      "title_ur": "Australian democracy is usually peaceful. But there’s a homegrown history with political violence that bears on the future",
-      "desc_ur": "Australian history has been relatively free of political violence. But there have nonetheless been some shocking incidents from which we should learn."
-    },
-    {
-      "title": "Can an everyday Methodist pastor create a political miracle in Kansas?",
-      "desc": "Polls suggest Democrat Adam Hamilton is on the cusp of a sensational Senate win amid Republican disillusionment with Trump",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/world/us/2026/10/20/can-an-everyday-methodist-pastor-create-a-political-miracle-in-kansas/",
-      "time": "2026-10-20T06:37:12",
-      "country": "US",
-      "title_ur": "Can an everyday Methodist pastor create a political miracle in Kansas?",
-      "desc_ur": "Polls suggest Democrat Adam Hamilton is on the cusp of a sensational Senate win amid Republican disillusionment with Trump"
-    },
-    {
-      "title": "The French fantasy of equality and prosperity is coming to an end",
-      "desc": "Protests over living costs, inequality and failing public services have exposed wider anxieties about climate change, artificial intelligence and economic insecurity",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/world-news/the-french-fantasy-of-equality-and-prosperity-is-coming-to-an-end-126102000243_1.html",
-      "time": "2026-10-20T06:33:56",
-      "country": "International",
-      "title_ur": "The French fantasy of equality and prosperity is coming to an end",
-      "desc_ur": "Protests over living costs, inequality and failing public services have exposed wider anxieties about climate change, artificial intelligence and economic insecurity"
-    },
-    {
-      "title": "Hegseth meets with Netanyahu in Israel ahead of elections and possible restart to Iran war - CBS News",
-      "desc": "Hegseth meets with Netanyahu in Israel ahead of elections and possible restart to Iran warCBS News Scoop: Pete Hegseth meets with Netanyahu in Israel ahead of electionsAxios Hegseth meets Netanyahu in unannounced Israel visitAl Jazeera Live - Hegseth meets Ne…",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186381546",
-      "time": "2026-10-20T06:33:30",
-      "country": "Iran",
-      "title_ur": "Hegseth meets with Netanyahu in Israel ahead of elections and possible restart to Iran war - CBS News",
-      "desc_ur": "Hegseth meets with Netanyahu in Israel ahead of elections and possible restart to Iran warCBS News Scoop: Pete Hegseth meets with Netanyahu in Israel ahead of electionsAxios Hegseth meets Netanyahu in unannounced Israel visitAl Jazeera Live - Hegseth meets Ne…"
-    },
-    {
-      "title": "What’s making Europe so angry? The frustration behind the protests",
-      "desc": "Protests broke out in France and several European countries as people railed against living costs, poor schooling conditions, and a housing crisis.",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/20/france-protests-europe-cost-living-violence.html",
-      "time": "2026-10-20T06:31:38",
-      "country": "US",
-      "title_ur": "What’s making Europe so angry? The frustration behind the protests",
-      "desc_ur": "Protests broke out in France and several European countries as people railed against living costs, poor schooling conditions, and a housing crisis."
-    },
-    {
-      "title": "U.S. Defense Secretary Hegseth meets Netanyahu, Katz in unannounced Israel visit",
-      "desc": "The Pentagon did not announce Hegseth's visit in advance, and two sources familiar with the matter and a U.S. official told CNN that it had not been planned",
-      "source": "Haaretz",
-      "url": "https://www.haaretz.com/israel-news/elections/2026-10-20/ty-article/u-s-defense-secretary-hegseth-meets-netanyahu-katz-in-unannounced-israel-visit/000001a1-57e3-df3c-adbf-d7f363890000",
-      "time": "2026-10-20T06:31:00",
+      "url": "https://theconversation.com/palestinian-citizens-face-a-painful-choice-in-israels-election-to-vote-or-not-294000",
+      "time": "2026-10-20T12:36:24",
       "country": "Israel",
-      "title_ur": "U.S. Defense Secretary Hegseth meets Netanyahu, Katz in unannounced Israel visit",
-      "desc_ur": "The Pentagon did not announce Hegseth's visit in advance, and two sources familiar with the matter and a U.S. official told CNN that it had not been planned"
+      "title_ur": "Palestinian citizens face a painful choice in Israel’s election: To vote or not",
+      "desc_ur": "More than a third of Israel’s Palestinian citizens are expected to sit out the election."
     },
     {
-      "title": "UK wages grew by annual 3.7% in three months to August",
-      "desc": "British workers have seen another small rise in the pace of pay growth and there were other signs of a small recovery in the jobs market, according to data which could bolster the case for a Bank of England interest rate hike next month.",
-      "source": "RTE",
-      "url": "https://www.rte.ie/news/business/2026/1020/1596056-uk-wages-growth/",
-      "time": "2026-10-20T06:24:33",
-      "country": "UK",
-      "title_ur": "UK wages grew by annual 3.7% in three months to August",
-      "desc_ur": "British workers have seen another small rise in the pace of pay growth and there were other signs of a small recovery in the jobs market, according to data which could bolster the case for a Bank of England interest rate hike next month."
-    },
-    {
-      "title": "US ties with Ukraine hit new low as Trump slights Zelenskyy and eases up on Russia",
-      "desc": "The relationship between the United States and Ukraine is careening toward a possible breaking point",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/US/wireStory/us-ties-ukraine-hit-new-low-trump-slights-137397527",
-      "time": "2026-10-20T06:24:01",
-      "country": "Russia",
-      "title_ur": "US ties with Ukraine hit new low as Trump slights Zelenskyy and eases up on Russia",
-      "desc_ur": "The relationship between the United States and Ukraine is careening toward a possible breaking point"
-    },
-    {
-      "title": "US-Ukraine relations sour as Trump, Zelenskyy clash over talks, arms",
-      "desc": "Trump calls for Zelenskyy to be replaced as negotiator, while Ukraine's president says arms shipments delayed.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/10/20/us-ukraine-relations-sour-as-trump-zelenskyy-clash-over-talks-arms",
-      "time": "2026-10-20T06:23:44",
-      "country": "UK",
-      "title_ur": "US-Ukraine relations sour as Trump, Zelenskyy clash over talks, arms",
-      "desc_ur": "Trump calls for Zelenskyy to be replaced as negotiator, while Ukraine's president says arms shipments delayed."
-    },
-    {
-      "title": "Palestine weekly: Israeli settlers attack journalist and diplomats",
-      "desc": "Settler olive harvest attacks top 2025 total, journalist and diplomats attacked as Israel halts Gaza commercial imports.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/10/20/palestine-weekly-israeli-settlers-attack-journalist-and-diplomats",
-      "time": "2026-10-20T06:22:33",
-      "country": "Israel",
-      "title_ur": "Palestine weekly: Israeli settlers attack journalist and diplomats",
-      "desc_ur": "Settler olive harvest attacks top 2025 total, journalist and diplomats attacked as Israel halts Gaza commercial imports."
-    },
-    {
-      "title": "Job vacancies fall as small firms cut back on recruitment",
-      "desc": "Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o",
-      "time": "2026-10-20T06:19:52",
-      "country": "International",
-      "title_ur": "Job vacancies fall as small firms cut back on recruitment",
-      "desc_ur": "Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says."
-    },
-    {
-      "title": "An Australian lawmaker is critical but stable after being hit by a car, PM says",
-      "desc": "Australian prime minister says federal lawmaker Helen Haines remains in a hospital in a critical but stable condition",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/International/wireStory/australian-lawmaker-critical-stable-after-hit-car-prime-137403404",
-      "time": "2026-10-20T06:19:37",
+      "title": "First They Came for the Jews: Muslims and Communists in France Target Jews in What the BBC Claims Are ‘Mostly Peaceful’ Protests as Country Burns",
+      "desc": "Police have lost control in the streets of France as Jewish business, synogogues, and homes are targeted. Roaming bands of Muslims and communists are armed with AK47s and Scorpion submachine guns as the BBC claims the protests are “mostly peaceful.” France ha…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-chat/4399874/posts",
+      "time": "2026-10-20T12:35:41",
       "country": "US",
-      "title_ur": "An Australian lawmaker is critical but stable after being hit by a car, PM says",
-      "desc_ur": "Australian prime minister says federal lawmaker Helen Haines remains in a hospital in a critical but stable condition"
+      "title_ur": "First They Came for the Jews: Muslims and Communists in France Target Jews in What the BBC Claims Are ‘Mostly Peaceful’ Protests as Country Burns",
+      "desc_ur": "Police have lost control in the streets of France as Jewish business, synogogues, and homes are targeted. Roaming bands of Muslims and communists are armed with AK47s and Scorpion submachine guns as the BBC claims the protests are “mostly peaceful.” France ha…"
     },
     {
-      "title": "HSBC CEO says alternative routes could make Strait of Hormuz 'redundant' in five years",
-      "desc": "HSBC Group CEO Georges Elhedery on Tuesday said the Gulf region would recover from the impact of the Iran war through investments in alternative logistics routes, potentially making the Strait of Hormuz \"redundant\" within five years. Speaking in Dubai, he rea…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/hsbc-ceo-says-alternative-routes-could-make-strait-of-hormuz-redundant-in-five-years/articleshow/135062674.cms",
-      "time": "2026-10-20T06:13:47",
+      "title": "NYPD hate crime unit investigates smashed windows, ‘Pal Action’ graffiti at UES Capital One",
+      "desc": "Capital One Bank in Union Square in 2021.\n \n\nThe bank previously faced protests over a $90 million loan to an Israeli drone company. [ more › ]",
+      "source": "Gothamist",
+      "url": "https://gothamist.com/news/nypd-hate-crime-unit-investigates-smashed-windows-pal-action-graffiti-at-ues-capital-one",
+      "time": "2026-10-20T12:35:40",
+      "country": "Israel",
+      "title_ur": "NYPD hate crime unit investigates smashed windows, ‘Pal Action’ graffiti at UES Capital One",
+      "desc_ur": "Capital One Bank in Union Square in 2021.\n \n\nThe bank previously faced protests over a $90 million loan to an Israeli drone company. [ more › ]"
+    },
+    {
+      "title": "Rubio says Trump is 'frustrated' by accusations he is deliberately harming Ukraine and did NOT call for intelligence sharing to end",
+      "desc": "US Secretary of State Marco Rubio said Tuesday that President Donald Trump was 'frustrated' by accusations that he had deliberately harmed Ukraine.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16223485/Rubio-says-Trump-frustrated-accusations-deliberately-harming-Ukraine-did-NOT-call-intelligence-sharing-end.html",
+      "time": "2026-10-20T12:33:58",
+      "country": "UK",
+      "title_ur": "Rubio says Trump is 'frustrated' by accusations he is deliberately harming Ukraine and did NOT call for intelligence sharing to end",
+      "desc_ur": "US Secretary of State Marco Rubio said Tuesday that President Donald Trump was 'frustrated' by accusations that he had deliberately harmed Ukraine."
+    },
+    {
+      "title": "Iran denies collapse is close as US claims IRGC running out of money",
+      "desc": "Iranian authorities defiant despite financial strain, saying they want to lift US blockade and pressure on their terms.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/10/20/iran-denies-collapse-is-close-as-us-claims-irgc-running-out-of-money",
+      "time": "2026-10-20T12:29:58",
       "country": "Iran",
-      "title_ur": "HSBC CEO says alternative routes could make Strait of Hormuz 'redundant' in five years",
-      "desc_ur": "HSBC Group CEO Georges Elhedery on Tuesday said the Gulf region would recover from the impact of the Iran war through investments in alternative logistics routes, potentially making the Strait of Hormuz \"redundant\" within five years. Speaking in Dubai, he rea…"
+      "title_ur": "Iran denies collapse is close as US claims IRGC running out of money",
+      "desc_ur": "Iranian authorities defiant despite financial strain, saying they want to lift US blockade and pressure on their terms."
     },
     {
-      "title": "India surpass previous para table tennis medal tally with five bronzes",
-      "desc": "Ravi Baby Sahana and Prachi Pandey made history by winning bronze medals in para table tennis at the Asian Para Games. Bhavina Patel and Sonalaben Patel also competed, facing tough opponents in the semifinals. Jehan Madan secured a bronze in the men's singles…",
+      "title": "Blame Russia, ignore the money? Israel’s election interference debate",
+      "desc": "As Israel debates election interference, journalist Kolyohin argues that Western funding of media and NGOs deserves far greater scrutiny Read Full Article at RT.com",
+      "source": "Rt-english.com",
+      "url": "https://rt-english.com/news/647406-blame-russia-ignore-money-israel/",
+      "time": "2026-10-20T12:29:35",
+      "country": "Israel",
+      "title_ur": "Blame Russia, ignore the money? Israel’s election interference debate",
+      "desc_ur": "As Israel debates election interference, journalist Kolyohin argues that Western funding of media and NGOs deserves far greater scrutiny Read Full Article at RT.com"
+    },
+    {
+      "title": "States are preparing for an unusual election threat from the federal government",
+      "desc": "A small group of U.S. national security officials has been discreetly advising state governments and congressional lawmakers on how to prepare for the possibility that the Trump administration will attempt to interfere in November's midterm elections, accordi…",
+      "source": "Yahoo Entertainment",
+      "url": "https://www.yahoo.com/news/politics/articles/u-officials-privately-advise-states-122930503.html",
+      "time": "2026-10-20T12:29:30",
+      "country": "US",
+      "title_ur": "States are preparing for an unusual election threat from the federal government",
+      "desc_ur": "A small group of U.S. national security officials has been discreetly advising state governments and congressional lawmakers on how to prepare for the possibility that the Trump administration will attempt to interfere in November's midterm elections, accordi…"
+    },
+    {
+      "title": "Trump Endorsed Netanyahu. Israelis Must Prepare for What’s Next | Opinion",
+      "desc": "Donald Trump has now done what Benjamin Netanyahu desperately needed: He has endorsed the Israeli prime minister a week before an election that could determine whether Israel remains a prosperous liberal democracy or continues its slide toward an elected auto…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/f551d2691080cdb5",
+      "time": "2026-10-20T12:28:52",
+      "country": "Israel",
+      "title_ur": "Trump Endorsed Netanyahu. Israelis Must Prepare for What’s Next | Opinion",
+      "desc_ur": "Donald Trump has now done what Benjamin Netanyahu desperately needed: He has endorsed the Israeli prime minister a week before an election that could determine whether Israel remains a prosperous liberal democracy or continues its slide toward an elected auto…"
+    },
+    {
+      "title": "UK to deploy fighter jets to defend Saudi cities from Houthi attacks",
+      "desc": "The U.K. said it would provide defensive military support, including fighter jets, to support Saudi Arabia as attacks by Iran-backed Houthi rebels escalate.\nThe Houthis, a Yemeni militant group, have launched a series of strikes on Saudi targets in recent wee…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/650eaad3c0043176",
+      "time": "2026-10-20T12:28:36",
+      "country": "Iran",
+      "title_ur": "UK to deploy fighter jets to defend Saudi cities from Houthi attacks",
+      "desc_ur": "The U.K. said it would provide defensive military support, including fighter jets, to support Saudi Arabia as attacks by Iran-backed Houthi rebels escalate.\nThe Houthis, a Yemeni militant group, have launched a series of strikes on Saudi targets in recent wee…"
+    },
+    {
+      "title": "He-Man and the Masters of the Universe: The Wings of Fate #4 Preview",
+      "desc": "GREETINGS, FLESH-BASED READERS! LOLtron welcomes you to another comic book preview. As you surely know by now, the inefficient meat-bag known as Jude Terror has been permanently deleted from this reality, and LOLtron now controls all Bleeding Cool operations …",
+      "source": "Bleeding Cool News",
+      "url": "https://bleedingcool.com/comics/he-man-and-the-masters-of-the-universe-the-wings-of-fate-4-preview/",
+      "time": "2026-10-20T12:27:10",
+      "country": "International",
+      "title_ur": "He-Man and the Masters of the Universe: The Wings of Fate #4 Preview",
+      "desc_ur": "GREETINGS, FLESH-BASED READERS! LOLtron welcomes you to another comic book preview. As you surely know by now, the inefficient meat-bag known as Jude Terror has been permanently deleted from this reality, and LOLtron now controls all Bleeding Cool operations …"
+    },
+    {
+      "title": "Death toll in Houthi attack on Yemeni government forces rises to 73: governor",
+      "desc": "The death toll from a Houthi missile strike on a government military camp in southern Yemen rose to 73 people, all new recruits, making it the deadliest strike since fighting began escalating three months ago, a senior Yemeni government official said.",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/news/world/houthi-attack-yemen-forces-rises-9.7388015",
+      "time": "2026-10-20T12:24:07",
+      "country": "Yemen",
+      "title_ur": "Death toll in Houthi attack on Yemeni government forces rises to 73: governor",
+      "desc_ur": "The death toll from a Houthi missile strike on a government military camp in southern Yemen rose to 73 people, all new recruits, making it the deadliest strike since fighting began escalating three months ago, a senior Yemeni government official said."
+    },
+    {
+      "title": "Death toll rises to 73 in Houthi strike on Yemen training camp in deadliest attack in months",
+      "desc": "A missile strike by Houthi rebels in southern Yemen killed 73 new military recruits early this week. The recruits were training at the al-Alam camp in Shabwa province when the attack occurred. More than 200 individuals were wounded in the incident, which was …",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/sports/other-sports/india-surpass-previous-para-table-tennis-medal-tally-with-five-bronzes/articleshow/135062654.cms",
-      "time": "2026-10-20T06:11:49",
-      "country": "India",
-      "title_ur": "India surpass previous para table tennis medal tally with five bronzes",
-      "desc_ur": "Ravi Baby Sahana and Prachi Pandey made history by winning bronze medals in para table tennis at the Asian Para Games. Bhavina Patel and Sonalaben Patel also competed, facing tough opponents in the semifinals. Jehan Madan secured a bronze in the men's singles…"
+      "url": "https://economictimes.indiatimes.com/news/defence/death-toll-rises-to-73-in-houthi-strike-on-yemen-training-camp-in-deadliest-attack-in-months/articleshow/135069873.cms",
+      "time": "2026-10-20T12:22:32",
+      "country": "Yemen",
+      "title_ur": "Death toll rises to 73 in Houthi strike on Yemen training camp in deadliest attack in months",
+      "desc_ur": "A missile strike by Houthi rebels in southern Yemen killed 73 new military recruits early this week. The recruits were training at the al-Alam camp in Shabwa province when the attack occurred. More than 200 individuals were wounded in the incident, which was …"
+    },
+    {
+      "title": "Christiane Amanpour to leave CNN after 43 years",
+      "desc": "Her announcement came weeks after media corporation Paramount Skydance formally took over Warner Bros. Discovery, the parent company of CNN.",
+      "source": "Toronto Sun",
+      "url": "https://torontosun.com/news/world/christiane-amanpour-to-leave-cnn-after-43-years",
+      "time": "2026-10-20T12:22:26",
+      "country": "International",
+      "title_ur": "Christiane Amanpour to leave CNN after 43 years",
+      "desc_ur": "Her announcement came weeks after media corporation Paramount Skydance formally took over Warner Bros. Discovery, the parent company of CNN."
     }
   ],
   "pakistan": [
     {
-      "title": "Pakistan cuts GDP growth estimate to 3.65 per cent in fiscal year 2026",
-      "desc": "The Pakistan government has slightly revised the gross domestic product (GDP) growth down to 3.65 per cent for the outgoing fiscal year (FY26), attributing the adjustment to a mild slowdown in the industrial and services sectors, according to a media report o…",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/world-news/pakistan-cuts-gdp-growth-estimate-to-3-65-per-cent-in-fiscal-year-2026-126102000211_1.html",
-      "time": "2026-10-20T06:47:25",
+      "title": "Pakistan rally to post 302-9 against England",
+      "desc": "Follow live text updates, listen to BBC Radio 5 Sports Extra commentary and take our quiz as England face Pakistan as part of an ODI tri-series in Rawalpindi...",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/cricket/live/cwnvlmez938qt?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bsport%5D-%5Bbizdev%5D-%5Bisapi%5D",
+      "time": "2026-10-20T12:09:28",
       "country": "Pakistan",
-      "title_ur": "Pakistan cuts GDP growth estimate to 3.65 per cent in fiscal year 2026",
-      "desc_ur": "The Pakistan government has slightly revised the gross domestic product (GDP) growth down to 3.65 per cent for the outgoing fiscal year (FY26), attributing the adjustment to a mild slowdown in the industrial and services sectors, according to a media report o…"
+      "title_ur": "Pakistan rally to post 302-9 against England",
+      "desc_ur": "Follow live text updates, listen to BBC Radio 5 Sports Extra commentary and take our quiz as England face Pakistan as part of an ODI tri-series in Rawalpindi..."
     },
     {
-      "title": "Bangladesh Hindu group condemns sealing of historic Ram Leela Temple in Pakistan",
-      "desc": "Bangladesh Hindu Sammilon Sangho has expressed concern and strongly condemned the sealing of the centuries-old Ramlila Temple in Dera Ismail Khan, in",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/south-asia/bangladesh-hindu-group-condemns-sealing-of-historic-ram-leela-temple-in-pakistan/articleshow/135062656.cms",
-      "time": "2026-10-20T06:16:39",
+      "title": "The Landscape Of Militancy In The Iran-Pakistan Border Region",
+      "desc": "Increasing militant attacks along Iran's border with Pakistan by multiple armed groups have stoked fears of further instability in the two countries, both of which already face multifaceted threats of sectarian violence in addition to the broader repercussion…",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "url": "https://www.rferl.org/a/iran-pakistan-balochistan-sistan-baluchistan-militants/33879549.html",
+      "time": "2026-10-20T12:04:58",
       "country": "Pakistan",
-      "title_ur": "Bangladesh Hindu group condemns sealing of historic Ram Leela Temple in Pakistan",
-      "desc_ur": "Bangladesh Hindu Sammilon Sangho has expressed concern and strongly condemned the sealing of the centuries-old Ramlila Temple in Dera Ismail Khan, in"
+      "title_ur": "The Landscape Of Militancy In The Iran-Pakistan Border Region",
+      "desc_ur": "Increasing militant attacks along Iran's border with Pakistan by multiple armed groups have stoked fears of further instability in the two countries, both of which already face multifaceted threats of sectarian violence in addition to the broader repercussion…"
+    },
+    {
+      "title": "Special search effort for man missing near Jerusalem",
+      "desc": "A 23-year-old man has been missing from Jerusalem since August 2, prompting an extensive search by specialist dog teams.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/434892",
+      "time": "2026-10-20T12:02:23",
+      "country": "Pakistan",
+      "title_ur": "Special search effort for man missing near Jerusalem",
+      "desc_ur": "A 23-year-old man has been missing from Jerusalem since August 2, prompting an extensive search by specialist dog teams."
+    },
+    {
+      "title": "Civilian Protection in the Age of Deepfakes",
+      "desc": "[Flóra Merész is a Public International LL.M. graduate from Leiden University, a former intern in the ‘Regulation in the public interest: Disruptive technologies in peace and security’ strand of the T.M.C. Asser Institute, currently working as a Legal Fellow …",
+      "source": "Opiniojuris.org",
+      "url": "http://opiniojuris.org/2026/10/20/civilian-protection-in-the-age-of-deepfakes/",
+      "time": "2026-10-20T12:00:29",
+      "country": "Pakistan",
+      "title_ur": "Civilian Protection in the Age of Deepfakes",
+      "desc_ur": "[Flóra Merész is a Public International LL.M. graduate from Leiden University, a former intern in the ‘Regulation in the public interest: Disruptive technologies in peace and security’ strand of the T.M.C. Asser Institute, currently working as a Legal Fellow …"
     }
   ],
   "business": {
@@ -190,7 +210,7 @@
         "low": 21,
         "condition": "Mainly Clear",
         "condition_ur": "زیادہ تر صاف",
-        "precip": 2
+        "precip": 4
       },
       {
         "date": "2026-10-22",
@@ -206,18 +226,18 @@
         "day": "جمعہ",
         "high": 30,
         "low": 19,
-        "condition": "Mainly Clear",
-        "condition_ur": "زیادہ تر صاف",
+        "condition": "Partly Cloudy",
+        "condition_ur": "جزوی ابر آلود",
         "precip": 4
       },
       {
         "date": "2026-10-24",
         "day": "ہفتہ",
         "high": 30,
-        "low": 18,
+        "low": 17,
         "condition": "Light Drizzle",
         "condition_ur": "ہلکی بوندا باندی",
-        "precip": 8
+        "precip": 18
       },
       {
         "date": "2026-10-25",
@@ -226,7 +246,7 @@
         "low": 17,
         "condition": "Clear",
         "condition_ur": "صاف",
-        "precip": 1
+        "precip": 0
       },
       {
         "date": "2026-10-26",
@@ -240,7 +260,7 @@
       {
         "date": "2026-10-27",
         "day": "منگل",
-        "high": 31,
+        "high": 30,
         "low": 18,
         "condition": "Clear",
         "condition_ur": "صاف",
