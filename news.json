@@ -1,177 +1,167 @@
 {
-  "generated": "2026-10-25T21:01:39Z",
+  "generated": "2026-10-25T23:24:30Z",
   "world": [
     {
-      "title": "Emirates eyes Denver, Detroit and Philadelphia flights: 'The list goes on and on'",
-      "desc": "Emirates will expand to US as new, more fuel efficient planes arrive in the coming years.",
-      "source": "The Points Guy",
-      "url": "https://thepointsguy.com/news/emirates-airline-us-expansion-plans-denver-detroit-philadelphia/",
-      "time": "2026-10-24T21:00:25",
-      "country": "US",
-      "title_ur": "ایمریٹس کی نظر ڈینور، ڈیٹرائٹ اور فلاڈیلفیا کی پروازوں پر ہے: 'لسٹ جاری ہے'",
-      "desc_ur": "ایمریٹس امریکہ تک پھیلے گا کیونکہ آنے والے برسوں میں ایندھن کی بچت کرنے والے نئے اور زیادہ طیارے آئیں گے۔"
-    },
-    {
-      "title": "Irish data centre chief says critics are 'like Brexiteers' and fuelled by conspiracy theories",
-      "desc": "Digital Infrastructure Ireland wants more data centres built in Ireland.",
-      "source": "TheJournal.ie",
-      "url": "https://www.thejournal.ie/irish-data-centre-brexiteers-7028896-Oct2026/",
-      "time": "2026-10-24T21:00:10",
-      "country": "International",
-      "title_ur": "آئرش ڈیٹا سینٹر کے سربراہ کا کہنا ہے کہ ناقدین 'بریکسائٹرز کی طرح' ہیں اور سازشی نظریات کی وجہ سے ایندھن ہیں",
-      "desc_ur": "ڈیجیٹل انفراسٹرکچر آئرلینڈ چاہتا ہے کہ آئرلینڈ میں مزید ڈیٹا سینٹرز بنائے جائیں۔"
-    },
-    {
-      "title": "Domino’s Pizza Driver Notices A ‘Recession Indicator’—It’s Coming From Her Regulars: ‘These People Order Every Other Day’",
-      "desc": "People can be creatures of habits, hence why “regulars” exist. The regular enjoys the familiarity of a certain product and doesn’t want to stray away from a tried-and-trued thing. However, when times get tough, even regulars will make adjustments to save mone…",
-      "source": "BroBible",
-      "url": "https://brobible.com/culture/article/dominos-pizza-delivery-driver-recession-indicator/",
-      "time": "2026-10-24T21:00:00",
-      "country": "US",
-      "title_ur": "ڈومینو کے پیزا ڈرائیور نے ایک 'کساد بازاری کے اشارے' کو نوٹس کیا - یہ اس کے باقاعدگی سے آرہا ہے: 'یہ لوگ ہر دوسرے دن آرڈر کرتے ہیں'",
-      "desc_ur": "لوگ عادات کی مخلوق ہو سکتے ہیں، اس لیے \"باقاعدہ\" کیوں موجود ہیں۔ ریگولر کسی خاص پروڈکٹ سے واقفیت حاصل کرتا ہے اور آزمائشی اور سچی چیز سے دور نہیں جانا چاہتا۔ تاہم، جب وقت مشکل ہو جاتا ہے، یہاں تک کہ ریگولر بھی پیسے بچانے کے لیے ایڈجسٹمنٹ کریں گے…"
-    },
-    {
-      "title": "Fuel Oil Becomes Asia’s Next Cost Shock",
-      "desc": "Singapore’s shipping-fuel market is adding another layer of cost to Asian trade. Disrupted supplies from the Middle East and Russia, resilient bunker demand and prohibitive freight rates have pushed high-sulphur fuel oil above the price of the crude used to p…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Crude-Oil/Fuel-Oil-Becomes-Asias-Next-Cost-Shock.html",
-      "time": "2026-10-24T21:00:00",
-      "country": "Russia",
-      "title_ur": "ایندھن کا تیل ایشیا کا اگلا قیمت کا جھٹکا بن گیا۔",
-      "desc_ur": "سنگاپور کی شپنگ فیول مارکیٹ ایشیائی تجارت میں لاگت کی ایک اور تہہ کا اضافہ کر رہی ہے۔ مشرق وسطیٰ اور روس سے سپلائی میں خلل، لچکدار بنکر کی طلب اور مال برداری کے ممنوعہ نرخوں نے اعلیٰ سلفر ایندھن کے تیل کو استعمال ہونے والے خام تیل کی قیمت سے اوپر دھکیل دیا ہے…"
-    },
-    {
-      "title": "USAF Needs ‘1,509 Combat-Ready Jets’ by 2035, According to Service Report to Congress",
-      "desc": "A service report sent to Congress proposes a combat capable force of 1,509 fighters by 2035, which is more than the USAF has available today, posing serious questions about funding and aircraft delivery. The report, which was delivered to the U.S. Congress on…",
-      "source": "Theaviationist.com",
-      "url": "https://theaviationist.com/2026/10/24/usaf-needs-1509-combat-ready-jets-by-2035/",
-      "time": "2026-10-24T20:53:05",
-      "country": "US",
-      "title_ur": "کانگریس کو سروس رپورٹ کے مطابق، USAF کو 2035 تک '1,509 جنگی تیار جیٹ طیاروں' کی ضرورت ہے",
-      "desc_ur": "کانگریس کو بھیجی گئی ایک سروس رپورٹ میں 2035 تک 1,509 جنگجوؤں کی جنگی صلاحیت رکھنے والی فورس کی تجویز پیش کی گئی ہے، جو کہ یو ایس اے ایف کے پاس آج دستیاب ہونے سے زیادہ ہے، جس سے فنڈنگ ​​اور طیاروں کی ترسیل کے بارے میں سنگین سوالات اٹھتے ہیں۔ یہ رپورٹ امریکی کانگریس کو پیش کی گئی…"
-    },
-    {
-      "title": "The Baloney Detection Kit: Carl Sagan’s Timeless Tenets of Critical Thinking",
-      "desc": "Necessary cognitive fortification against propaganda, pseudoscience, and general falsehood.",
-      "source": "Themarginalian.org",
-      "url": "https://www.themarginalian.org/2026/10/24/baloney-detection-kit-carl-sagan/",
-      "time": "2026-10-24T20:52:43",
-      "country": "Europe",
-      "title_ur": "دی بالونی ڈیٹیکشن کٹ: کارل ساگن کی تنقیدی سوچ کے لازوال اصول",
-      "desc_ur": "پروپیگنڈے، سیوڈو سائنس، اور عام جھوٹ کے خلاف ضروری علمی تقویت۔"
-    },
-    {
-      "title": "Trump: There's a possibility we may strike Iran",
-      "desc": "United States President Donald Trump said on Saturday that Washington striking Iran is a possibility, but that the two countries may also reach a deal.\"If I'm going to do it, and it is a possibility, ...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/8adf05c17442d3d1",
-      "time": "2026-10-24T20:50:16",
-      "country": "Iran",
-      "title_ur": "ٹرمپ: اس بات کا امکان ہے کہ ہم ایران پر حملہ کر سکتے ہیں۔",
-      "desc_ur": "امریکی صدر ڈونلڈ ٹرمپ نے ہفتے کے روز کہا کہ واشنگٹن کی جانب سے ایران پر حملہ ایک امکان ہے، لیکن یہ کہ دونوں ممالک ایک معاہدے پر بھی پہنچ سکتے ہیں۔\"اگر میں ایسا کرنے جا رہا ہوں، اور یہ ایک امکان ہے،..."
-    },
-    {
-      "title": "[Catholic Caucus] The Sacred Page: Of Law and Love: Readings for 30th Week in Ordinary Time",
-      "desc": "By Dr. John BergsmaHow does love relate to law? The two can seem opposed, a contrast to one another. Love is a romantic dinner for two on a veranda overlooking the Seine. Law is a solemn old man in a black robe, sitting behind a high podium with police office…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-religion/4400472/posts",
-      "time": "2026-10-24T20:49:09",
-      "country": "US",
-      "title_ur": "[کیتھولک کاکس] مقدس صفحہ: قانون اور محبت کا: عام وقت میں 30 ویں ہفتہ کی پڑھائی",
-      "desc_ur": "از ڈاکٹر جان برگسما محبت کا قانون سے کیا تعلق ہے؟ دونوں مخالف لگ سکتے ہیں، ایک دوسرے کے برعکس۔ محبت سین کا نظارہ کرنے والے برآمدے پر دو کے لئے ایک رومانٹک ڈنر ہے۔ قانون سیاہ لباس میں ایک پختہ بوڑھا آدمی ہے، پولیس آفس کے ساتھ ایک اونچے پوڈیم کے پیچھے بیٹھا ہے…"
-    },
-    {
-      "title": "Obama describes Trump as an agent of ‘chaos and cruelty’ in midterm elections pitch",
-      "desc": "Former President Barack Obama characterized President Donald Trump as an agent of “chaos and cruelty” and a man of broken promises during a midterm election rally.",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/politics/2026-election/obama-trump-chaos-cruelty-midterm-election-pitch-acton-ramaswamy-rcna605223",
-      "time": "2026-10-24T20:44:55",
-      "country": "US",
-      "title_ur": "اوباما نے ٹرمپ کو وسط مدتی انتخابات میں 'افراتفری اور ظلم' کا ایجنٹ قرار دیا۔",
-      "desc_ur": "سابق صدر براک اوباما نے صدر ڈونلڈ ٹرمپ کو ’’افراتفری اور ظلم‘‘ کے ایجنٹ اور وسط مدتی انتخابی ریلی کے دوران وعدہ خلافی کرنے والا شخص قرار دیا۔"
-    },
-    {
-      "title": "Palestinian Flags Wave While Paris Burns: The Real Motive Behind the Riots",
-      "desc": "Asiedu argues that France’s unrest is rooted less in school funding than in failed assimilation, cultural division and a weakening sense of shared national identity. Kaizen D. Asiedu argues that recent unrest in Paris cannot be explained simply as a dispute o…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4400471/posts",
-      "time": "2026-10-24T20:44:10",
-      "country": "France",
-      "title_ur": "پیرس جلتے ہوئے فلسطینی پرچم لہرا رہے ہیں: فسادات کے پیچھے اصل محرک",
-      "desc_ur": "Asiedu کا استدلال ہے کہ فرانس کی بدامنی کی جڑیں اسکولوں کی فنڈنگ ​​میں ناکام انضمام، ثقافتی تقسیم اور مشترکہ قومی شناخت کے کمزور ہوتے ہوئے احساس سے کم ہیں۔ Kaizen D. Asiedu کا استدلال ہے کہ پیرس میں حالیہ بدامنی کو محض ایک تنازعہ کے طور پر بیان نہیں کیا جا سکتا۔"
-    },
-    {
-      "title": "Americans evacuated across Middle East as US intelligence chief warns Iranian death plot is in 'advanced stages'",
-      "desc": "A US official told the Daily Mail on Saturday that the 'threat of Houthi attacks and of Iranian terror plots targeting US officials are informing our decisions on staffing adjustments' for some embassies.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16236015/us-middle-east-embassies-iran-attack.html",
-      "time": "2026-10-24T20:41:43",
-      "country": "Iran",
-      "title_ur": "امریکی انٹیلی جنس چیف نے خبردار کیا ہے کہ ایرانی موت کی سازش 'جدید مراحل' میں ہے، امریکیوں کا مشرق وسطیٰ میں انخلا",
-      "desc_ur": "ایک امریکی اہلکار نے ہفتے کے روز ڈیلی میل کو بتایا کہ 'حوثیوں کے حملوں کا خطرہ اور امریکی حکام کو نشانہ بنانے والے ایرانی دہشت گردی کے منصوبے کچھ سفارت خانوں کے لیے عملے کی ایڈجسٹمنٹ سے متعلق ہمارے فیصلوں سے آگاہ کر رہے ہیں۔'"
-    },
-    {
-      "title": "CBI files FIR against IL&FS Energy, top execs in Rs 212cr Canara Bank loan fraud case",
-      "desc": "CBI has named M/s IL&FS Energy Development Company Ltd, its MD and directors — Sunil Wadhwa, Anoop Seth, Hari Sankaran, Ramesh Chandra Bawa and Arun Kumar Saha — and unknown public servants and private individuals as accused. The case was registered on Oct 21…",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/cbi-files-fir-against-ilfs-energy-top-execs-in-rs-212cr-canara-bank-loan-fraud-case/articleshow/135177586.cms",
-      "time": "2026-10-24T20:37:54",
-      "country": "US",
-      "title_ur": "سی بی آئی نے IL&FS انرجی کے خلاف ایف آئی آر درج کی، 212 کروڑ روپے کے کینرا بینک لون فراڈ کیس میں اعلیٰ افسران",
-      "desc_ur": "سی بی آئی نے میسرز آئی ایل اینڈ ایف ایس انرجی ڈیولپمنٹ کمپنی لمیٹڈ، اس کے ایم ڈی اور ڈائریکٹرز - سنیل وادھوا، انوپ سیٹھ، ہری سنکرن، رمیش چندر باوا اور ارون کمار ساہا - اور نامعلوم سرکاری ملازمین اور نجی افراد کو ملزم نامزد کیا ہے۔ مقدمہ 21 اکتوبر کو درج کیا گیا تھا۔"
-    },
-    {
-      "title": "Could Israel’s military crackdown influence Tuesday’s election?",
-      "desc": "Israel preparing a full lockdown of occupied West Bank after Hebron gunfight.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/10/24/could-israels-military-crackdown-influence-tuesdays-election",
-      "time": "2026-10-24T20:37:02",
+      "title": "Israelis hold final rally against Netanyahu ahead of what may be the most consequential election in the country’s history",
+      "desc": "The crowd heard calls for a commission of inquiry into the security failures that led to the Hamas-led attack on Oct. 7, 2023, that sparked the war in Gaza.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/10/24/israeli-election-rally-netanyahu-gadi-eisenkot/",
+      "time": "2026-10-24T23:20:47",
       "country": "Israel",
-      "title_ur": "کیا اسرائیل کا فوجی کریک ڈاؤن منگل کے انتخابات کو متاثر کر سکتا ہے؟",
-      "desc_ur": "اسرائیل ہیبرون بندوق کی لڑائی کے بعد مقبوضہ مغربی کنارے کے مکمل لاک ڈاؤن کی تیاری کر رہا ہے۔"
+      "title_ur": "اسرائیلیوں نے نیتن یاہو کے خلاف آخری ریلی نکالی اس سے پہلے کہ ملکی تاریخ کے سب سے زیادہ نتیجہ خیز انتخابات ہو سکتے ہیں",
+      "desc_ur": "ہجوم نے 7 اکتوبر 2023 کو حماس کے زیرقیادت حملے کی وجہ سے سیکیورٹی کی ناکامیوں کے بارے میں انکوائری کمیشن کے مطالبات کو سنا، جس نے غزہ میں جنگ کو جنم دیا۔"
     },
     {
-      "title": "Donald Trump votes early in Florida for US midterm elections 2026. Watch video, see photos",
-      "desc": "US midterm elections 2026: Donald Trump also rallied for Republicans in competitive races in Alaska, Iowa, Montana and South Carolina. He is set to visit Mississippi on Monday.",
+      "title": "Did you remember to turn back your clocks? Israel 'falls back' to Winter Time",
+      "desc": "Israel switches to Winter Time, turning clocks back one hour from 2:00 a.m. to 1:00 a.m. Winter Time will remain in effect until March 26, 2027.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/435093",
+      "time": "2026-10-24T23:20:13",
+      "country": "Israel",
+      "title_ur": "کیا آپ کو اپنی گھڑیاں واپس کرنا یاد ہے؟ اسرائیل سردیوں کے وقت میں 'واپس گر گیا'",
+      "desc_ur": "اسرائیل نے موسم سرما کے وقت کو تبدیل کیا، صبح 2:00 بجے سے 1:00 بجے تک گھڑیوں کو ایک گھنٹہ پیچھے کر دیا، موسم سرما کا وقت 26 مارچ 2027 تک نافذ رہے گا۔"
+    },
+    {
+      "title": "The bitter row over military service that could shape Israel's future",
+      "desc": "The ultra-Orthodox community is resisting being drafted into the Israeli army. But will they now bring down the Netanyahu government?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do",
+      "time": "2026-10-24T23:03:21",
+      "country": "Israel",
+      "title_ur": "فوجی خدمات پر تلخ جھگڑا جو اسرائیل کے مستقبل کو تشکیل دے سکتا ہے۔",
+      "desc_ur": "الٹرا آرتھوڈوکس کمیونٹی اسرائیلی فوج میں بھرتی ہونے کے خلاف مزاحمت کر رہی ہے۔ لیکن کیا اب وہ نیتن یاہو حکومت کو گرائیں گے؟"
+    },
+    {
+      "title": "Twitch streamer Frogan seeks $73,000 in donations after Ethan Klein voluntarily dismisses copyright lawsuit",
+      "desc": "Twitch streamer Frogan is seeking donations after Ethan Klein’s company voluntarily dismissed its copyright lawsuit against her on September 8, 2026. Frogan says she still owes $73,000 in legal fees, with total expenses exceeding $100,000. Her GoFundMe campai…",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/us/donald-trump-votes-early-in-florida-for-us-midterm-elections-2026-watch-video-see-photos/articleshow/135177717.cms",
-      "time": "2026-10-24T20:34:52",
-      "country": "US",
-      "title_ur": "ڈونلڈ ٹرمپ امریکی وسط مدتی انتخابات 2026 کے لیے فلوریڈا میں جلد ووٹ ڈال رہے ہیں۔ ویڈیو دیکھیں، تصاویر دیکھیں",
-      "desc_ur": "امریکی وسط مدتی انتخابات 2026: ڈونلڈ ٹرمپ نے الاسکا، آئیووا، مونٹانا اور جنوبی کیرولائنا میں مسابقتی ریس میں ریپبلکنز کے لیے بھی ریلی نکالی۔ وہ پیر کو مسیسیپی کا دورہ کرنے والے ہیں۔"
+      "url": "https://timesofindia.indiatimes.com/world/us-streamers/twitch-streamer-frogan-seeks-73000-in-donations-after-ethan-klein-voluntarily-dismisses-copyright-lawsuit/articleshow/135180000.cms",
+      "time": "2026-10-24T23:03:01",
+      "country": "International",
+      "title_ur": "ایتھن کلین کے رضاکارانہ طور پر کاپی رائٹ کے مقدمے کو مسترد کرنے کے بعد ٹویچ اسٹریمر فروگن نے 73,000 ڈالر کے عطیات طلب کیے",
+      "desc_ur": "8 ستمبر 2026 کو ایتھن کلین کی کمپنی کی جانب سے اس کے خلاف کاپی رائٹ کے مقدمے کو رضاکارانہ طور پر خارج کرنے کے بعد ٹویچ اسٹریمر فروگن عطیات کی تلاش میں ہے۔ فروگن کا کہنا ہے کہ وہ اب بھی قانونی فیس کی مد میں $73,000 کی مقروض ہے، جس کے کل اخراجات $100,000 سے زیادہ ہیں۔ اس کا GoFundMe کیمپائی…"
     },
     {
-      "title": "Democrats ready to sacrifice Americans’ well-being for ideology – guests to RT (VIDEOS)",
-      "desc": "Senate Democrats’ reported plans to derail President Donald Trump’s diesel deal with Russia prove they don’t care about Americans’ well-being, guests have told RT",
-      "source": "Rt-english.com",
-      "url": "https://rt-english.com/news/647620-democrats-ready-sacrifice-americans-well-being-for-ideology-guests-to-rt/",
-      "time": "2026-10-24T20:32:32",
-      "country": "Russia",
-      "title_ur": "ڈیموکریٹس نظریے کے لیے امریکیوں کی فلاح و بہبود کو قربان کرنے کے لیے تیار ہیں - RT کے مہمان (VIDEOS)",
-      "desc_ur": "سینیٹ کے ڈیموکریٹس نے روس کے ساتھ صدر ڈونلڈ ٹرمپ کے ڈیزل ڈیل کو پٹری سے اتارنے کے منصوبوں کی اطلاع دی ہے جس سے ثابت ہوتا ہے کہ وہ امریکیوں کی بھلائی کی پرواہ نہیں کرتے، مہمانوں نے RT کو بتایا"
+      "title": "Record Tanker Rates Cripple U.S. Crude Oil Flows to Asia",
+      "desc": "The Iran war has made oil tanker voyages so inefficient that vessel availability has crumbled and freight costs have soared to record-highs, all but erasing the incentive for shipping crude oil from the U.S. Gulf Coast to Asia. The cost of shipping crude oil …",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Record-Tanker-Rates-Cripple-US-Crude-Oil-Flows-to-Asia.html",
+      "time": "2026-10-24T23:00:00",
+      "country": "Iran",
+      "title_ur": "ریکارڈ ٹینکر کے نرخوں نے ایشیا میں امریکی خام تیل کے بہاؤ کو کمزور کر دیا۔",
+      "desc_ur": "ایران کی جنگ نے آئل ٹینکر کے سفر کو اس قدر ناکارہ بنا دیا ہے کہ جہازوں کی دستیابی ٹوٹ پھوٹ کا شکار ہو گئی ہے اور مال برداری کی لاگت ریکارڈ بلندیوں پر پہنچ گئی ہے، اس کے علاوہ امریکی خلیجی ساحل سے ایشیا تک خام تیل کی ترسیل کی ترغیب کو ختم کر دیا گیا ہے۔ خام تیل کی ترسیل کی لاگت…"
+    },
+    {
+      "title": "Trump casts his midterm ballot early in Florida",
+      "desc": "President Donald Trump has cast his ballot in the midterm elections, voting for all Republicans in Florida before speaking at a Georgia rally",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/Politics/wireStory/trump-casts-midterm-ballot-early-florida-137543344",
+      "time": "2026-10-24T22:58:14",
+      "country": "US",
+      "title_ur": "ٹرمپ نے فلوریڈا میں اپنے وسط مدتی ووٹ کاسٹ کیا۔",
+      "desc_ur": "صدر ڈونلڈ ٹرمپ نے وسط مدتی انتخابات میں اپنا حق رائے دہی استعمال کیا ہے، فلوریڈا میں تمام ریپبلکنز کو جارجیا کی ریلی سے خطاب کرنے سے پہلے ووٹ دیا ہے۔"
+    },
+    {
+      "title": "\"Exchanged s*x for platforming any person\": Kai Cenat takes legal action against former friend Reggie over alleged false claims on social media",
+      "desc": "Kai Cenat has reportedly sent former friend Reggie a cease-and-desist letter over alleged false claims involving serious misconduct. His legal team denied the allegations and demanded that Reggie remove related social media posts. Reggie responded publicly, q…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/us-streamers/exchanged-sx-for-platforming-any-person-kai-cenat-takes-legal-action-against-former-friend-reggie-over-alleged-false-claims-on-social-media/articleshow/135179990.cms",
+      "time": "2026-10-24T22:57:28",
+      "country": "US",
+      "title_ur": "\"کسی بھی شخص کو پلیٹ فارم کرنے کے لئے s*x کا تبادلہ\": کائی سینات نے سوشل میڈیا پر مبینہ جھوٹے دعووں پر سابق دوست ریگی کے خلاف قانونی کارروائی کی",
+      "desc_ur": "کائی سینات نے مبینہ طور پر سابق دوست ریگی کو سنگین بدانتظامی کے مبینہ جھوٹے دعووں پر جنگ بندی کا خط بھیجا ہے۔ ان کی قانونی ٹیم نے ان الزامات کی تردید کی اور ریگی سے متعلقہ سوشل میڈیا پوسٹس کو ہٹانے کا مطالبہ کیا۔ ریگی نے عوامی طور پر جواب دیا، q…"
+    },
+    {
+      "title": "The world’s biggest producer of maple syrup has nearly exhausted its strategic reserves after Americans hoarded supplies ahead of Trump’s tariffs",
+      "desc": "The Quebec Maple Syrup Producers, which oversees the strategic syrup reserve, predicted the stockpile will be completely empty by February.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/10/24/maple-syrup-strategic-reserves-quebec-canada-us-hoarding-trumps-tariffs/",
+      "time": "2026-10-24T22:46:22",
+      "country": "US",
+      "title_ur": "میپل سیرپ کی دنیا کے سب سے بڑے پروڈیوسر نے ٹرمپ کے محصولات سے پہلے امریکیوں کی طرف سے سپلائی جمع کرنے کے بعد اپنے اسٹریٹجک ذخائر تقریباً ختم کر دیے ہیں۔",
+      "desc_ur": "کیوبیک میپل سرپ پروڈیوسرز، جو سٹریٹجک سیرپ ریزرو کی نگرانی کرتے ہیں، نے پیش گوئی کی ہے کہ ذخیرہ فروری تک مکمل طور پر خالی ہو جائے گا۔"
+    },
+    {
+      "title": "President Trump and first lady Melania Trump vote early in West Palm Beach",
+      "desc": "A hoarse-sounding President Trump and first lady Melania Trump voted early in West Palm Beach on Saturday – as Trump vowed to keep up the vigorous campaign schedule",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/10/24/us-news/president-trump-and-first-lady-melania-trump-cast-their-ballots-by-voting-early-in-west-palm-beach-saturday/",
+      "time": "2026-10-24T22:44:32",
+      "country": "US",
+      "title_ur": "صدر ٹرمپ اور خاتون اول میلانیا ٹرمپ ویسٹ پام بیچ میں جلد ووٹ ڈال رہے ہیں۔",
+      "desc_ur": "ایک کرخت آواز والے صدر ٹرمپ اور خاتون اول میلانیا ٹرمپ نے ہفتے کے روز ویسٹ پام بیچ میں ووٹ ڈالا – جیسا کہ ٹرمپ نے بھرپور مہم کے شیڈول کو جاری رکھنے کا عزم کیا"
+    },
+    {
+      "title": "Is Tom Barrack fit to represent America in the Middle East?",
+      "desc": "When an American envoy says antisemitism “didn’t exist,\" suggests Zionism became a problem in 1948 and repeatedly gives Israel's adversaries the benefit of the doubt, the question is no longer one unfortunate choice of words. It is one of judgment. Opinion.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/435092",
+      "time": "2026-10-24T22:40:43",
+      "country": "Israel",
+      "title_ur": "کیا ٹام بیرک مشرق وسطیٰ میں امریکہ کی نمائندگی کے لیے موزوں ہیں؟",
+      "desc_ur": "جب ایک امریکی ایلچی کہتا ہے کہ سام دشمنی \"موجود نہیں تھی\"، تجویز کرتا ہے کہ صیہونیت 1948 میں ایک مسئلہ بن گئی اور بار بار اسرائیل کے مخالفین کو شک کا فائدہ دیتی ہے، سوال اب الفاظ کا ایک بدقسمتی سے انتخاب نہیں ہے۔ یہ فیصلے میں سے ایک ہے۔ رائے۔"
+    },
+    {
+      "title": "Trump Says US Will 'Take Care Of Cuba' After Iran",
+      "desc": "Trump Says US Will 'Take Care Of Cuba' After Iran\n \nAuthored by Ryan Morgan via The Epoch Times,\nPresident Donald Trump hinted at a new U.S. foreign intervention in Cuba, potentially with military force, as he addressed supporters at a midterm campaign rally …",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/b9cbf34e478d7d78",
+      "time": "2026-10-24T22:37:16",
+      "country": "Iran",
+      "title_ur": "ٹرمپ کا کہنا ہے کہ امریکہ ایران کے بعد کیوبا کا خیال رکھے گا۔",
+      "desc_ur": "ٹرمپ کا کہنا ہے کہ امریکہ ایران کے بعد کیوبا کا خیال رکھے گا۔\n \nریان مورگن کی طرف سے دی ایپچ ٹائمز کے ذریعے لکھا گیا،\nصدر ڈونلڈ ٹرمپ نے کیوبا میں ممکنہ طور پر فوجی طاقت کے ساتھ ایک نئی امریکی غیر ملکی مداخلت کا اشارہ دیا، جب انہوں نے وسط مدتی مہم کے جلسے میں حامیوں سے خطاب کیا…"
+    },
+    {
+      "title": "Obama compares Trump's White House renovations to 'Saddam Hussein opening a Cheesecake Factory' at Ohio rally",
+      "desc": "Barack Obama compared Trump's White House renovations to a Cheesecake Factory run by Saddam Hussein at a Cleveland rally for Ohio Democrats.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/obama-compares-trumps-white-house-renovations-saddam-hussein-opening-cheesecake-factory-ohio-rally",
+      "time": "2026-10-24T22:35:34",
+      "country": "US",
+      "title_ur": "اوباما نے اوہائیو کی ریلی میں ٹرمپ کے وائٹ ہاؤس کی تزئین و آرائش کا موازنہ 'صدام حسین کی چیز کیک فیکٹری کھولنے' سے کیا۔",
+      "desc_ur": "براک اوباما نے اوہائیو ڈیموکریٹس کے لیے کلیولینڈ کی ریلی میں صدام حسین کی طرف سے چلائی جانے والی چیز کیک فیکٹری سے ٹرمپ کی وائٹ ہاؤس کی تزئین و آرائش کا موازنہ کیا۔"
+    },
+    {
+      "title": "How have Democrats’ policies shifted since the last major US election?",
+      "desc": "From trans rights to Israel's war on Gaza, the party's candidates have responded to voter shifts on a slew of issues.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election",
+      "time": "2026-10-24T22:28:37",
+      "country": "Israel",
+      "title_ur": "گزشتہ بڑے امریکی انتخابات کے بعد سے ڈیموکریٹس کی پالیسیاں کیسے بدلی ہیں؟",
+      "desc_ur": "ٹرانس رائٹس سے لے کر غزہ پر اسرائیل کی جنگ تک، پارٹی کے امیدواروں نے متعدد مسائل پر ووٹروں کی تبدیلی کا جواب دیا ہے۔"
+    },
+    {
+      "title": "Alaska Senate race: Democratic enthusiasm may favor Peltola, professor says",
+      "desc": "“Alaska is often seen as a Republican stronghold, but it has traditionally had a pragmatic political culture that puts local interests ahead of party loyalty. The tight race we are seeing in this elec···",
+      "source": "Khan.co.kr",
+      "url": "https://www.khan.co.kr/article/202610250723001",
+      "time": "2026-10-24T22:23:00",
+      "country": "US",
+      "title_ur": "الاسکا سینیٹ کی دوڑ: پروفیسر کا کہنا ہے کہ جمہوری جوش پیلٹولا کے حق میں ہوسکتا ہے",
+      "desc_ur": "\"الاسکا کو اکثر ریپبلکن گڑھ کے طور پر دیکھا جاتا ہے، لیکن اس کا روایتی طور پر ایک عملی سیاسی کلچر رہا ہے جو مقامی مفادات کو پارٹی کی وفاداری سے آگے رکھتا ہے۔"
+    },
+    {
+      "title": "Israel restricts movement in West Bank ahead of election",
+      "desc": "The Israel Defense Forces (IDF) announced that Palestinian workers will be banned from entering Israeli communities in the West Bank and the Jordan Valley, known in Israel as Judea and Samaria, starti...",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/f3821936612382b1",
+      "time": "2026-10-24T22:22:15",
+      "country": "Israel",
+      "title_ur": "اسرائیل نے انتخابات سے قبل مغربی کنارے میں نقل و حرکت پر پابندی لگا دی ہے۔",
+      "desc_ur": "اسرائیل ڈیفنس فورسز (IDF) نے اعلان کیا ہے کہ فلسطینی کارکنوں کے مغربی کنارے اور وادی اردن میں اسرائیلی کمیونٹیز میں داخلے پر پابندی ہوگی، جسے اسرائیل میں یہودیہ اور سامریہ کے نام سے جانا جاتا ہے۔"
     }
   ],
   "pakistan": [
     {
-      "title": "James Carville Lays Out His Strategy For Dems To ‘Embarrass’ Trump If They Win Midterms",
-      "desc": "“Do everything you can to embarrass them, and by the way, investigate the hell out of corruption.”",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/james-carville-plots-how-dems-can-embarrass-trump_n_6add0179e4b04787f03bfac8",
-      "time": "2026-10-24T20:45:53",
+      "title": "Israel to restrict Palestinian Arab workers' entry, close land crossings on Election Day",
+      "desc": "In accordance with a situational assessment, it was decided that, starting Sunday and through Monday, Palestinian Arab workers will not be permitted to enter Israeli communities in Judea and Samaria and the Jordan Valley for work, with the exception of indust…",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/flashes/695970",
+      "time": "2026-10-24T23:10:14",
       "country": "Pakistan",
-      "title_ur": "جیمز کارویل نے ڈیمز کے لیے اپنی حکمت عملی وضع کی ہے کہ اگر وہ مڈٹرم جیت جاتے ہیں تو ٹرمپ کو 'شرمندہ' کریں",
-      "desc_ur": "\"ان کو شرمندہ کرنے کے لیے ہر ممکن کوشش کرو، اور ویسے بھی کرپشن کی تحقیقات کرو۔\""
-    },
-    {
-      "title": "HC orders release of 25% insurance benefits to dead soldier’s mother",
-      "desc": "Punjab and Haryana HC orders release of remaining 25% Army Group Insurance Fund death benefits, with interest, to mother of soldier killed in J&K in 2009.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/hc-orders-release-of-25-insurance-benefits-to-dead-soldiers-mother/articleshow/135177673.cms",
-      "time": "2026-10-24T20:04:11",
-      "country": "Pakistan",
-      "title_ur": "ہائی کورٹ نے مرنے والے فوجی کی والدہ کو 25 فیصد انشورنس فوائد جاری کرنے کا حکم دیا۔",
-      "desc_ur": "پنجاب اور ہریانہ ہائی کورٹ نے 2009 میں جموں و کشمیر میں مارے گئے فوجی کی ماں کو سود کے ساتھ بقیہ 25% آرمی گروپ انشورنس فنڈ موت کے فوائد جاری کرنے کا حکم دیا۔"
+      "title_ur": "اسرائیل فلسطینی عرب کارکنوں کے داخلے پر پابندی عائد کرے گا، انتخابات کے دن زمینی گزرگاہیں بند کر دی جائیں گی۔",
+      "desc_ur": "حالات کے جائزے کے مطابق، یہ فیصلہ کیا گیا ہے کہ اتوار سے شروع ہونے والے اور پیر تک، فلسطینی عرب کارکنوں کو صنعت کے استثناء کے ساتھ، یہودیہ اور سامریہ اور وادی اردن میں کام کے لیے اسرائیلی کمیونٹیز میں داخل ہونے کی اجازت نہیں ہوگی…"
     }
   ],
   "business": {
@@ -217,7 +207,7 @@
         "low": 16,
         "condition": "Clear",
         "condition_ur": "صاف",
-        "precip": 2
+        "precip": 0
       },
       {
         "date": "2026-10-30",
@@ -226,7 +216,7 @@
         "low": 18,
         "condition": "Light Drizzle",
         "condition_ur": "ہلکی بوندا باندی",
-        "precip": 0
+        "precip": 2
       },
       {
         "date": "2026-10-31",
