@@ -1,169 +1,158 @@
 {
-  "generated": "2026-10-26T13:47:09Z",
+  "generated": "2026-10-26T19:41:19Z",
   "world": [
     {
-      "title": "Gaza’s visually and hearing-impaired children miss school due to Israel war",
-      "desc": "Children in Gaza with auditory and visual challenges often have no access to specialist education.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/features/2026/10/25/gazas-visually-and-hearing-impaired-children-miss-school-due-to-israel-war",
-      "time": "2026-10-25T13:46:51",
-      "country": "Israel",
-      "title_ur": "اسرائیل کی جنگ کی وجہ سے غزہ کے بینائی اور سماعت سے محروم بچے اسکول جانے سے محروم ہیں۔",
-      "desc_ur": "غزہ میں سمعی اور بصری چیلنجوں میں مبتلا بچوں کو اکثر ماہر تعلیم تک رسائی حاصل نہیں ہوتی۔"
-    },
-    {
-      "title": "Shin Bet-directed private security to protect Golan, Winter ahead of election",
-      "desc": "Shin Bet chief David Zini said last month that he had approved other security measures for party leaders, including allowing them to hire armed private guards even without intelligence indicating a concrete threat",
-      "source": "Haaretz",
-      "url": "https://www.haaretz.com/israel-news/elections/2026-10-25/ty-article/.premium/shin-bet-directed-private-security-to-protect-golan-winter-ahead-of-election/000001a1-7306-db66-abbf-7f8f7c2a0000",
-      "time": "2026-10-25T13:44:26",
-      "country": "International",
-      "title_ur": "شن بیٹ نے پرائیویٹ سیکیورٹی کو گولان، سردیوں کے انتخابات سے قبل تحفظ فراہم کرنے کی ہدایت کی۔",
-      "desc_ur": "شن بیٹ کے سربراہ ڈیوڈ زینی نے گزشتہ ماہ کہا تھا کہ انہوں نے پارٹی رہنماؤں کے لیے دیگر حفاظتی اقدامات کی منظوری دے دی ہے، جس میں انہیں مسلح نجی گارڈز کی خدمات حاصل کرنے کی اجازت بھی دی گئی ہے، یہاں تک کہ انٹیلی جنس کے بغیر کسی ٹھوس خطرے کی نشاندہی ہوتی ہے۔"
-    },
-    {
-      "title": "British Islamic preacher accused of celebrating terrorists and radicalising followers sets up 'religious training camp' in Thailand",
-      "desc": "A London-born radical Shia preacher accused of celebrating terrorists has set up a physical and religious training camp in Thailand to teach 'Islamic spiritual psychology'.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16229095/British-Islamic-preacher-accused-celebrating-terrorists-radicalising-followers-sets-religious-training-camp-Thailand.html",
-      "time": "2026-10-25T13:41:28",
-      "country": "UK",
-      "title_ur": "برطانوی اسلامی مبلغ پر دہشت گردوں اور بنیاد پرست پیروکاروں کو منانے کا الزام تھائی لینڈ میں 'مذہبی تربیتی کیمپ' قائم",
-      "desc_ur": "لندن میں پیدا ہونے والے ایک بنیاد پرست شیعہ مبلغ نے دہشت گردوں کو منانے کا الزام لگایا ہے جس نے تھائی لینڈ میں 'اسلامی روحانی نفسیات' سکھانے کے لیے جسمانی اور مذہبی تربیتی کیمپ لگایا ہے۔"
-    },
-    {
-      "title": "'I won't let the terrorists break me': Sister eulogizes fallen IDF soldier",
-      "desc": "Hundreds attend the funeral of Sgt. Yuval Shai Svilem, killed in the Hebron terror attack, as his sister vows not to let terrorists break her spirit.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/435126",
-      "time": "2026-10-25T13:37:00",
-      "country": "Europe",
-      "title_ur": "'میں دہشت گردوں کو مجھے توڑنے نہیں دوں گی': بہن نے شہید ہونے والے IDF فوجی کو خراج تحسین پیش کیا۔",
-      "desc_ur": "سارجنٹ کے جنازے میں سینکڑوں افراد نے شرکت کی۔ یوول شائی سویلم، ہیبرون دہشت گردانہ حملے میں مارا گیا، کیونکہ اس کی بہن نے دہشت گردوں کو اس کی روح کو توڑنے نہ دینے کا عہد کیا۔"
-    },
-    {
-      "title": "Trump bashed son Don Jr behind closed doors over lavish Bahamas wedding party funded by Russian oligarch",
-      "desc": "The president privately aired his grievances with his aides over the spectacle, according to a new report. Don Jr married Bettina in Palm Beach before partying on the oligarch's dime.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16237199/Trump-bashes-Don-Jr-Bahamas-wedding-party-Russian-oligarch.html",
-      "time": "2026-10-25T13:30:01",
-      "country": "Russia",
-      "title_ur": "ٹرمپ نے اپنے بیٹے ڈان جونیئر کو روسی اولیگارچ کے ذریعہ مالی اعانت فراہم کی جانے والی بہاماس شادی کی شاندار تقریب پر بند دروازوں کے پیچھے مارا",
-      "desc_ur": "ایک نئی رپورٹ کے مطابق، صدر نے تماشے پر اپنے معاونین کے ساتھ اپنی شکایات کو نجی طور پر نشر کیا۔ ڈان جونیئر نے اولیگارچ ڈائم پر پارٹی کرنے سے پہلے پام بیچ میں بیٹینا سے شادی کی۔"
-    },
-    {
-      "title": "Israeli election to test Benjamin Netanyahu's ability to hold power",
-      "desc": "On Tuesday, Israel will hold its first parliamentary elections since the October 7, 2023 terror attacks. Essentially one man is on the ballot: Prime Minister Benjamin Netanyahu. How might Israeli policy change if the opposition succeeds?",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/israeli-election-to-test-benjamin-netanyahus-ability-to-hold-power/",
-      "time": "2026-10-25T13:27:06",
-      "country": "Israel",
-      "title_ur": "اسرائیلی انتخابات بنجمن نیتن یاہو کی اقتدار میں رہنے کی اہلیت کو جانچنے کے لیے",
-      "desc_ur": "منگل کو، اسرائیل 7 اکتوبر 2023 کے دہشت گردانہ حملوں کے بعد اپنے پہلے پارلیمانی انتخابات کرائے گا۔ بنیادی طور پر ایک آدمی بیلٹ پر ہے: وزیر اعظم بینجمن نیتن یاہو۔ اگر اپوزیشن کامیاب ہو جاتی ہے تو اسرائیلی پالیسی کیسے بدل سکتی ہے؟"
-    },
-    {
-      "title": "5 Top Stories: O’Leary, Warren, Warsh, Schiff and Rand Paul",
-      "desc": "This week’s top stories cover housing risks, Iran war costs, Fed accountability, stock market warnings and calls for federal spending cuts.",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/144eecef7964b425",
-      "time": "2026-10-25T13:25:14",
-      "country": "Iran",
-      "title_ur": "5 اہم کہانیاں: اولیری، وارن، وارش، شیف اور رینڈ پال",
-      "desc_ur": "اس ہفتے کی سرفہرست کہانیوں میں ہاؤسنگ کے خطرات، ایران جنگ کے اخراجات، فیڈ احتساب، اسٹاک مارکیٹ کے انتباہات اور وفاقی اخراجات میں کمی کے مطالبات شامل ہیں۔"
-    },
-    {
-      "title": "Who's on Air Force One? Trump's midterms entourage includes strategists, aides and aging athletes",
-      "desc": "President Donald Trump is actively campaigning across the United States aboard Air Force One to support Republican candidates. He travels with a diverse entourage including aides, Cabinet members, and celebrities. High-profile passengers such as Mike Tyson an…",
+      "title": "Cong has lost hope, public support: Pathak",
+      "desc": "Deputy CM Brajesh Pathak slams Congress chief Mallikarjun Kharge’s reported remarks on PM Modi’s father, calling it personal politics ahead of polls.",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/inside-trumps-air-force-one-his-midterm-entourage-of-aides-celebrities-and-strategists/articleshow/135192019.cms",
-      "time": "2026-10-25T13:24:56",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/cong-has-lost-hope-public-support-pathak/articleshow/135197382.cms",
+      "time": "2026-10-25T19:39:22",
+      "country": "India",
+      "title_ur": "کانگریس نے امید اور عوامی حمایت کھو دی ہے: پاٹھک",
+      "desc_ur": "نائب وزیر اعلیٰ برجیش پاٹھک نے کانگریس سربراہ ملکارجن کھرگے کے پی ایم مودی کے والد کے بارے میں مبینہ تبصرہ پر تنقید کرتے ہوئے اسے انتخابات سے قبل ذاتی سیاست قرار دیا۔"
+    },
+    {
+      "title": "Unnao woman found dead in Lucknow; note with four names recovered",
+      "desc": "Unnao woman Asiya found murdered near Lucknow’s Kisan Path; note with four names recovered. Police probe movements, CCTV, and suspect strangulation.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/unnao-woman-found-dead-in-lucknow-note-with-four-names-recovered/articleshow/135197380.cms",
+      "time": "2026-10-25T19:38:24",
       "country": "US",
-      "title_ur": "ایئر فورس ون پر کون ہے؟ ٹرمپ کے وسط مدتی وفد میں حکمت عملی ساز، معاونین اور عمر رسیدہ کھلاڑی شامل ہیں",
-      "desc_ur": "صدر ڈونلڈ ٹرمپ ریپبلکن امیدواروں کی حمایت کے لیے ائیر فورس ون پر سوار ہو کر پورے امریکہ میں مہم چلا رہے ہیں۔ وہ متنوع وفد کے ساتھ سفر کرتا ہے جس میں معاونین، کابینہ کے اراکین، اور مشہور شخصیات شامل ہیں۔ ہائی پروفائل مسافر جیسے مائیک ٹائسن اور…"
+      "title_ur": "اناؤ کی خاتون لکھنؤ میں مردہ پائی گئی چار ناموں والا نوٹ برآمد",
+      "desc_ur": "اناؤ کی خاتون آسیہ لکھنؤ کے کسان پاتھ کے قریب قتل شدہ پائی گئی چار ناموں والا نوٹ برآمد۔ پولیس کی نقل و حرکت، سی سی ٹی وی، اور گلا گھونٹنے کا شبہ ہے۔"
     },
     {
-      "title": "'Grossly Incompetent': Trump Loses It Over Obama, El-Sayed In Early Morning Meltdown",
-      "desc": "Trump wasn’t having it with his predecessor just hours after he took on the “foolishness” of his administration.",
-      "source": "HuffPost",
-      "url": "https://www.huffpost.com/entry/trump-obama-el-sayed-truth-social_n_6adde2f5e4b0320e45d2acde",
-      "time": "2026-10-25T13:15:54",
+      "title": "Neglect leaves Jubilee Hills park barely usable; residents seek revival",
+      "desc": "Jubilee Hills GHMC HUDA Park lies unfinished for 2 years, with unsafe walkways, debris, poor sanitation and lighting; residents urge GHMC to complete renovation.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/hyderabad/neglect-leaves-jubilee-hills-park-barely-usable-residents-seek-revival/articleshow/135197378.cms",
+      "time": "2026-10-25T19:38:05",
       "country": "US",
-      "title_ur": "'مکمل طور پر نااہل': ٹرمپ نے اسے اوبامہ کے مقابلے میں کھو دیا، صبح کے پگھلنے میں السید",
-      "desc_ur": "ٹرمپ نے اپنی انتظامیہ کی \"بے وقوفی\" اختیار کرنے کے چند گھنٹوں بعد ہی اپنے پیشرو کے ساتھ یہ بات نہیں کی تھی۔"
+      "title_ur": "غفلت کے باعث جوبلی ہلز پارک بمشکل قابل استعمال ہے۔ رہائشی بحالی کے خواہاں ہیں۔",
+      "desc_ur": "جوبلی ہلز GHMC HUDA پارک 2 سال سے نامکمل پڑا ہے، غیر محفوظ چلنے کے راستے، ملبہ، ناقص صفائی اور روشنی؛ رہائشیوں نے جی ایچ ایم سی سے تزئین و آرائش مکمل کرنے کی اپیل کی۔"
     },
     {
-      "title": "Trump's midterm swing brings him to Michigan as Republicans aim to undermine El-Sayed in Senate race",
-      "desc": "President Donald Trump's busy midterm campaign schedule is bringing him to Michigan, where Republicans hope to claim an open Senate seat on Election Day",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/Politics/wireStory/trumps-midterm-swing-brings-michigan-republicans-aim-undermine-137550585",
-      "time": "2026-10-25T13:15:36",
+      "title": "Teen stages abduction to extort ₹5L from family, traced to Haryana",
+      "desc": "Lucknow police trace 17-year-old NEET aspirant who faked kidnapping, sent ₹5 lakh ransom threats via WhatsApp; found safe in Haryana within 48 hours.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/teen-stages-abduction-to-extort-5l-from-family-traced-to-haryana/articleshow/135197373.cms",
+      "time": "2026-10-25T19:37:51",
+      "country": "Iran",
+      "title_ur": "خاندان سے 5L روپے بٹورنے کے لیے نوجوان کا اغوا، ہریانہ کا سراغ لگایا گیا۔",
+      "desc_ur": "لکھنؤ پولیس نے 17 سالہ NEET کے خواہشمند کا سراغ لگایا جس نے اغوا کا فرض کیا، واٹس ایپ کے ذریعے 5 لاکھ روپے تاوان کی دھمکیاں بھیجیں۔ ہریانہ میں 48 گھنٹوں کے اندر محفوظ پایا گیا۔"
+    },
+    {
+      "title": "31st Rajasthan State Equipped Bench Press Championship concludes: Bikaner win 4 team titles; Jaipur lifters bag 6 gold medals",
+      "desc": "31st Rajasthan Equipped Bench Press Championship in Jaipur ends: Bikaner wins 4 team titles; Jodhpur’s Kishanaram top Strong Man; Jaipur wins 6 gold.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/jaipur/31st-rajasthan-state-equipped-bench-press-championship-concludes-bikaner-win-4-team-titles-jaipur-lifters-bag-6-gold-medals/articleshow/135197369.cms",
+      "time": "2026-10-25T19:37:45",
+      "country": "International",
+      "title_ur": "31 ویں راجستھان ریاست سے لیس بینچ پریس چیمپئن شپ کا اختتام: بیکانیر نے 4 ٹیم ٹائٹل جیتے۔ جے پور کے لفٹرز نے 6 گولڈ میڈل جیتے۔",
+      "desc_ur": "جے پور میں 31 ویں راجستھان لیس بینچ پریس چیمپئن شپ ختم: بیکانیر نے 4 ٹیم ٹائٹل جیتے۔ جودھپور کا کشنرام ٹاپ سٹرانگ مین؛ جے پور نے 6 طلائی تمغے جیتے۔"
+    },
+    {
+      "title": "Middlemen target NHM aspirants as 1,756 apply for 50 posts in Karimnagar",
+      "desc": "Karimnagar NHM recruitment draws 1,756 applicants for 50 posts; officials warn of middlemen and political pressure as scrutiny runs till Nov 8, results Nov 15.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/hyderabad/middlemen-target-nhm-aspirants-as-1756-apply-for-50-posts-in-karimnagar/articleshow/135197360.cms",
+      "time": "2026-10-25T19:37:15",
+      "country": "Iran",
+      "title_ur": "درمیانی افراد نے NHM کے امیدواروں کو نشانہ بنایا کیونکہ کریم نگر میں 50 آسامیوں کے لیے 1,756 درخواستیں دیتے ہیں۔",
+      "desc_ur": "کریم نگر NHM بھرتی 50 آسامیوں کے لیے 1,756 درخواست دہندگان کی قرعہ اندازی؛ حکام نے دلالوں اور سیاسی دباؤ سے خبردار کیا ہے کیونکہ جانچ پڑتال 8 نومبر تک چلتی ہے، 15 نومبر کو نتائج۔"
+    },
+    {
+      "title": "Son stabbed to death by mother’s former boyfriend in Hyderabad",
+      "desc": "Hyderabad: 21-year-old man stabbed dead by mother’s former boyfriend in Hussaini Alam after dispute; police registered BNS case and are investigating.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/hyderabad/son-stabbed-to-death-by-mothers-former-boyfriend-in-hyderabad/articleshow/135197359.cms",
+      "time": "2026-10-25T19:36:59",
       "country": "US",
-      "title_ur": "ٹرمپ کی وسط مدتی جھولی انہیں مشی گن لے آئی کیونکہ ریپبلکن سینیٹ کی دوڑ میں السید کو کمزور کرنا چاہتے ہیں",
-      "desc_ur": "صدر ڈونلڈ ٹرمپ کی وسط مدتی مہم کا مصروف شیڈول انہیں مشی گن لے جا رہا ہے، جہاں ریپبلیکنز کو امید ہے کہ وہ انتخابات کے دن سینیٹ کی کھلی نشست کا دعویٰ کریں گے۔"
+      "title_ur": "حیدرآباد میں ماں کے سابق بوائے فرینڈ نے بیٹے کو چاقو مار کر قتل کردیا۔",
+      "desc_ur": "حیدر آباد: حسینی عالم میں ماں کے سابق بوائے فرینڈ نے جھگڑے کے بعد 21 سالہ نوجوان کو چاقو مار کر قتل کر دیا۔ پولیس نے بی این ایس کیس درج کر کے تفتیش کر رہی ہے۔"
     },
     {
-      "title": "She voted for Trump every time. Then came cancer and the bills",
-      "desc": "Cindy Banda faces mounting medical bills after battling breast cancer",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/Politics/wireStory/voted-trump-time-cancer-bills-137550700",
-      "time": "2026-10-25T13:15:00",
+      "title": "The narrative battle over France’s unrest",
+      "desc": "Student protests, police violence and French media obsessed with 'barbarians'.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/video/the-listening-post/2026/10/25/the-narrative-battle-over-frances-unrest",
+      "time": "2026-10-25T19:36:14",
+      "country": "France",
+      "title_ur": "فرانس کی بدامنی پر داستانی جنگ",
+      "desc_ur": "طلباء کا احتجاج، پولیس تشدد اور فرانسیسی میڈیا 'وحشیوں' کا شکار۔"
+    },
+    {
+      "title": "A match like none other: Transplant survivors, donors celebrate a victorious second innings",
+      "desc": "Champions of Life Cricket Cup 2026 in Jaipur brought 70 transplant recipients and living donors together, highlighting active post-transplant life and women captains.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/jaipur/a-match-like-none-other-transplant-survivors-donors-celebrate-a-victorious-second-innings/articleshow/135197357.cms",
+      "time": "2026-10-25T19:36:11",
       "country": "US",
-      "title_ur": "اس نے ہر بار ٹرمپ کو ووٹ دیا۔ پھر کینسر اور بل آئے",
-      "desc_ur": "سنڈی بندہ کو چھاتی کے کینسر سے لڑنے کے بعد بڑھتے ہوئے طبی بلوں کا سامنا ہے۔"
+      "title_ur": "ایک میچ جیسا کہ کوئی اور نہیں: ٹرانسپلانٹ سے بچ جانے والے، عطیہ دہندگان ایک فاتح دوسری اننگز کا جشن مناتے ہیں۔",
+      "desc_ur": "جے پور میں چیمپیئنز آف لائف کرکٹ کپ 2026 نے 70 ٹرانسپلانٹ وصول کنندگان اور زندہ عطیہ دہندگان کو ایک ساتھ لایا، جس نے ٹرانسپلانٹ کے بعد کی فعال زندگی اور خواتین کپتانوں کو اجاگر کیا۔"
     },
     {
-      "title": "When Everything Is Genocide, Nothing Is: The Weaponization of a Word Against Israel — The ‘GenoLIE’ Vibe",
-      "desc": "When Everything Is Genocide, Nothing Is: The Weaponization of a Word Against Israel.That same DSA found a new \"genocide,\" this time in Cuba.Democratic Socialists of America Accuses Marco Rubio of ‘Genocide’ in Pro-Castro Screed. By Corey Walker. August 20, 20…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-bloggers/4400531/posts",
-      "time": "2026-10-25T13:14:18",
-      "country": "Israel",
-      "title_ur": "جب سب کچھ نسل کشی ہے، کچھ بھی نہیں ہے: اسرائیل کے خلاف ایک لفظ کی ہتھیار سازی - 'جینولی' وائب",
-      "desc_ur": "جب سب کچھ نسل کشی ہے، کچھ بھی نہیں ہے: اسرائیل کے خلاف ایک لفظ کا ہتھیار۔ اسی DSA نے اس بار کیوبا میں ایک نئی \"نسل کشی\" پائی۔ امریکہ کے ڈیموکریٹک سوشلسٹوں نے پرو کاسٹرو اسکریڈ میں مارکو روبیو پر 'نسل کشی' کا الزام لگایا۔ بذریعہ کوری واکر۔ 20 اگست 20…"
+      "title": "CM to invite Shekhawati industrialists settled outside to invest at home",
+      "desc": "Rajasthan CM Bhajanlal Sharma to host Shekhawati migrant industrialists meet on Dec 8, urging diaspora investment, agro-processing units, water assurance and expressways.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/jaipur/cm-to-invite-shekhawati-industrialists-settled-outside-to-invest-at-home/articleshow/135197341.cms",
+      "time": "2026-10-25T19:36:00",
+      "country": "US",
+      "title_ur": "وزیر اعلی شیخاوتی صنعتکاروں کو گھر پر سرمایہ کاری کرنے کی دعوت دیں گے۔",
+      "desc_ur": "راجستھان کے وزیر اعلی بھجن لال شرما 8 دسمبر کو شیخاوتی تارکین وطن صنعت کاروں کی میٹنگ کی میزبانی کریں گے، جس میں تارکین وطن کی سرمایہ کاری، ایگرو پروسیسنگ یونٹس، پانی کی یقین دہانی اور ایکسپریس ویز پر زور دیا جائے گا۔"
     },
     {
-      "title": "Israeli Political Scientist Outlines 3 Possible Scenarios for Parliamentary Elections",
-      "desc": "TEL AVIV (Sputnik) - Events surrounding parliamentary elections in Israel could unfold according to one of three scenarios, with the possibility of a coalition led by Prime Minister Benjamin Netanyahu securing a parliamentary majority being virtually ruled ou…",
-      "source": "Sputnikglobe.com",
-      "url": "https://sputnikglobe.com/20261025/israeli-political-scientist-outlines-3-possible-scenarios-for-parliamentary-elections-1124935138.html",
-      "time": "2026-10-25T13:12:24",
-      "country": "Israel",
-      "title_ur": "اسرائیلی ماہر سیاسیات نے پارلیمانی انتخابات کے لیے 3 ممکنہ منظرنامے بیان کیے ہیں۔",
-      "desc_ur": "تل ابیب (اسپوتنک) - اسرائیل میں پارلیمانی انتخابات سے متعلق واقعات تین میں سے کسی ایک منظرنامے کے مطابق سامنے آسکتے ہیں، وزیر اعظم بینجمن نیتن یاہو کی قیادت میں ایک اتحاد کے پارلیمانی اکثریت حاصل کرنے کے امکان کے ساتھ عملی طور پر آپ پر حکمرانی کی جائے گی۔"
+      "title": "Debt-ridden man dies after posting his own condolence message",
+      "desc": "34-year-old Peddapalli man dies by suicide after posting his own condolence message on social media; police probe debt-related distress.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/hyderabad/debt-ridden-man-dies-after-posting-his-own-condolence-message/articleshow/135197352.cms",
+      "time": "2026-10-25T19:35:36",
+      "country": "International",
+      "title_ur": "قرض میں ڈوبا شخص اپنا ہی تعزیتی پیغام پوسٹ کرنے کے بعد انتقال کر گیا۔",
+      "desc_ur": "34 سالہ پیڈاپلی شخص نے سوشل میڈیا پر اپنا تعزیتی پیغام پوسٹ کرنے کے بعد خودکشی کر لی۔ پولیس قرض سے متعلق پریشانی کی تحقیقات کر رہی ہے۔"
     },
     {
-      "title": "Israel to close all West Bank land crossings on election day",
-      "desc": "After a deadly attack which killed two Israeli soldiers on Friday, the Israeli military has said all land border points between Israel and the occupied West Bank will be closed during Tuesday's election.",
-      "source": "DW (English)",
-      "url": "https://www.dw.com/en/israel-to-close-all-west-bank-land-crossings-on-election-day/a-79755010",
-      "time": "2026-10-25T13:09:00",
-      "country": "Israel",
-      "title_ur": "اسرائیل انتخابات کے دن مغربی کنارے کے تمام لینڈ کراسنگ کو بند کر دے گا۔",
-      "desc_ur": "جمعے کے روز ایک مہلک حملے میں دو اسرائیلی فوجیوں کی ہلاکت کے بعد، اسرائیلی فوج نے کہا ہے کہ منگل کے انتخابات کے دوران اسرائیل اور مقبوضہ مغربی کنارے کے درمیان تمام زمینی سرحدی مقامات بند کر دیے جائیں گے۔"
+      "title": "Raj govt declares 80 tehsils across 14 dists drought-hit",
+      "desc": "Rajasthan declares 80 tehsils in 14 districts drought-hit for 2026 kharif; 69 severe, 11 moderate. Relief planned amid low reservoir levels and groundwater stress.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/jaipur/raj-govt-declares-80-tehsils-across-14-dists-drought-hit/articleshow/135197350.cms",
+      "time": "2026-10-25T19:35:27",
+      "country": "International",
+      "title_ur": "راج حکومت نے 14 اضلاع کی 80 تحصیلوں کو خشک سالی سے متاثرہ قرار دیا ہے۔",
+      "desc_ur": "راجستھان نے 2026 خریف کے لیے 14 اضلاع میں 80 تحصیلوں کو خشک سالی سے متاثرہ قرار دیا ہے۔ 69 شدید، 11 اعتدال پسند۔ کم ذخائر کی سطح اور زیر زمین پانی کے دباؤ کے درمیان ریلیف کا منصوبہ بنایا گیا۔"
     },
     {
-      "title": "As Israel goes to the polls, West Asia holds its breath",
-      "desc": "The world is watching Israel’s elections closely, as West Asia’s future hinges on Benjamin Netanyahu’s electoral fortunes.",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/opinion/columns/as-israel-goes-to-the-polls-west-asia-holds-its-breath-11792921468940.html",
-      "time": "2026-10-25T13:06:13",
-      "country": "Israel",
-      "title_ur": "جیسے ہی اسرائیل انتخابات میں جاتا ہے، مغربی ایشیا نے اپنی سانسیں روک لی ہیں۔",
-      "desc_ur": "دنیا اسرائیل کے انتخابات کو قریب سے دیکھ رہی ہے، کیونکہ مغربی ایشیا کا مستقبل بنجمن نیتن یاہو کی انتخابی قسمت پر منحصر ہے۔"
+      "title": "14 rice millers held for diversion of fine rice",
+      "desc": "CID arrests 14 rice millers in Telangana for allegedly diverting fine rice, substituting coarse rice; probes 19 districts, preventing Rs 242 crore loss.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/hyderabad/14-rice-millers-held-for-diversion-of-fine-rice/articleshow/135197347.cms",
+      "time": "2026-10-25T19:35:18",
+      "country": "International",
+      "title_ur": "چاول کے 14 ملرز کو باریک چاول کی منتقلی پر گرفتار کر لیا گیا۔",
+      "desc_ur": "سی آئی ڈی نے تلنگانہ میں 14 رائس ملرز کو مبینہ طور پر ٹھیک چاول کو ہٹانے، موٹے چاول کی جگہ لینے کے الزام میں گرفتار کیا۔ 19 اضلاع کی چھان بین، 242 کروڑ روپے کے نقصان کو روکا۔"
+    },
+    {
+      "title": "In 1973, George Harrison donated the royalties from Living in the Material World to his foundation forever; 51 years later, it recorded £573,221 in charitable spending during 2024 alone",
+      "desc": "George Harrison's Material World Foundation continues to thrive, providing substantial funding to charitable initiatives worldwide. In 2024 alone, the foundation allocated over £573,000 towards public health, education, and emergency relief efforts. Operated …",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/uk/in-1973-george-harrison-donated-the-royalties-from-living-in-the-material-world-to-his-foundation-forever-51-years-later-it-recorded-573221-in-charitable-spending-during-2024-alone/articleshow/135197167.cms",
+      "time": "2026-10-25T19:35:16",
+      "country": "International",
+      "title_ur": "1973 میں، جارج ہیریسن نے لیونگ ان میٹریل ورلڈ کی رائلٹی اپنی فاؤنڈیشن کو ہمیشہ کے لیے عطیہ کر دی۔ 51 سال بعد، اس نے صرف 2024 کے دوران خیراتی اخراجات میں £573,221 ریکارڈ کیے",
+      "desc_ur": "جارج ہیریسن کی مٹیریل ورلڈ فاؤنڈیشن ترقی کی منازل طے کر رہی ہے، دنیا بھر میں خیراتی اقدامات کو خاطر خواہ فنڈ فراہم کر رہی ہے۔ صرف 2024 میں، فاؤنڈیشن نے صحت عامہ، تعلیم، اور ہنگامی امدادی کوششوں کے لیے £573,000 سے زیادہ رقم مختص کی۔ آپریشن شدہ…"
+    },
+    {
+      "title": "MMC turns festive floral waste into incense sticks",
+      "desc": "Hyderabad’s MMC recycled 7,000 metric tonnes of festival floral waste into incense and dhoop sticks, cutting landfill load via separate collection and processing.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/hyderabad/mmc-turns-festive-floral-waste-into-incense-sticks/articleshow/135197346.cms",
+      "time": "2026-10-25T19:35:00",
+      "country": "International",
+      "title_ur": "MMC تہوار کے پھولوں کے فضلے کو بخور کی چھڑیوں میں بدل دیتا ہے۔",
+      "desc_ur": "حیدرآباد کے ایم ایم سی نے 7,000 میٹرک ٹن تہوار کے پھولوں کے فضلے کو بخور اور دھوپ اسٹکس میں ری سائیکل کیا، لینڈ فل لوڈ کو علیحدہ جمع کرنے اور پروسیسنگ کے ذریعے کاٹ دیا۔"
     }
   ],
-  "pakistan": [
-    {
-      "title": "Why is Pakistan wearing pink jerseys vs. England in ODI tri-series match?",
-      "desc": "Why is Pakistan wearing pink jerseys vs England? Shaheen Afridi & Co. swapped green for pink in the ODI tri-series in Lahore to support breast cancer awareness.",
-      "source": "Sporting News",
-      "url": "https://www.sportingnews.com/in/cricket/news/pakistan-wearing-pink-jersey-england-odi-tri-series-match/8b8032e0172ffcc6dd98111f",
-      "time": "2026-10-25T13:31:33",
-      "country": "Pakistan",
-      "title_ur": "پاکستان نے ون ڈے سہ ملکی سیریز کے میچ میں انگلینڈ بمقابلہ گلابی جرسی کیوں پہنی ہے؟",
-      "desc_ur": "پاکستان نے انگلینڈ کے خلاف گلابی جرسی کیوں پہنی ہے؟ شاہین آفریدی اینڈ کمپنی نے چھاتی کے کینسر سے متعلق آگاہی کے لیے لاہور میں ہونے والی ون ڈے سہ فریقی سیریز میں گلابی رنگ میں سبز رنگ کا تبادلہ کیا۔"
-    }
-  ],
+  "pakistan": [],
   "business": {
     "quote": "It's not how much money you make, but how much money you keep.",
     "author": "Robert Kiyosaki",
@@ -174,18 +163,9 @@
     "city_ur": "لاہور",
     "forecast": [
       {
-        "date": "2026-10-26",
-        "day": "پیر",
-        "high": 28,
-        "low": 17,
-        "condition": "Clear",
-        "condition_ur": "صاف",
-        "precip": 0
-      },
-      {
         "date": "2026-10-27",
         "day": "منگل",
-        "high": 28,
+        "high": 29,
         "low": 17,
         "condition": "Clear",
         "condition_ur": "صاف",
@@ -205,24 +185,24 @@
         "day": "جمعرات",
         "high": 29,
         "low": 16,
-        "condition": "Overcast",
-        "condition_ur": "ابر آلود",
-        "precip": 0
-      },
-      {
-        "date": "2026-10-30",
-        "day": "جمعہ",
-        "high": 29,
-        "low": 16,
         "condition": "Clear",
         "condition_ur": "صاف",
         "precip": 0
       },
       {
+        "date": "2026-10-30",
+        "day": "جمعہ",
+        "high": 28,
+        "low": 16,
+        "condition": "Clear",
+        "condition_ur": "صاف",
+        "precip": 2
+      },
+      {
         "date": "2026-10-31",
         "day": "ہفتہ",
         "high": 29,
-        "low": 16,
+        "low": 18,
         "condition": "Clear",
         "condition_ur": "صاف",
         "precip": 0
@@ -230,17 +210,26 @@
       {
         "date": "2026-11-01",
         "day": "اتوار",
+        "high": 30,
+        "low": 17,
+        "condition": "Clear",
+        "condition_ur": "صاف",
+        "precip": 0
+      },
+      {
+        "date": "2026-11-02",
+        "day": "پیر",
         "high": 29,
         "low": 16,
-        "condition": "Mainly Clear",
-        "condition_ur": "زیادہ تر صاف",
+        "condition": "Clear",
+        "condition_ur": "صاف",
         "precip": 0
       }
     ]
   },
   "date": {
-    "gregorian": "Monday, 26 October 2026",
-    "hijri": "15 Jumādá al-ūlá 1448",
-    "hijri_ur": "15 جُمادى الأولى 1448"
+    "gregorian": "Tuesday, 27 October 2026",
+    "hijri": "16 Jumādá al-ūlá 1448",
+    "hijri_ur": "16 جُمادى الأولى 1448"
   }
 }
