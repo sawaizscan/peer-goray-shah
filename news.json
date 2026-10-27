@@ -1,227 +1,207 @@
 {
-  "generated": "2026-10-27T03:17:16Z",
+  "generated": "2026-10-27T09:13:56Z",
   "world": [
     {
-      "title": "Ship attacks in Strait of Hormuz hit record high in October",
-      "desc": "Attacks on commercial shipping in the Strait of Hormuz and nearby waterways reached a record high in October, according to a Washington-based think tank. More than 30 supertankers were damaged since the US-Israeli war with Iran began on February 28, threateni…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/ship-attacks-in-strait-of-hormuz-hit-record-high-in-october/articleshow/135201653.cms",
-      "time": "2026-10-26T03:14:31",
-      "country": "Iran",
-      "title_ur": "اکتوبر میں آبنائے ہرمز میں بحری جہازوں کے حملے ریکارڈ بلند ہوئے۔",
-      "desc_ur": "واشنگٹن میں قائم تھنک ٹینک کے مطابق، اکتوبر میں آبنائے ہرمز اور قریبی آبی گزرگاہوں میں تجارتی جہاز رانی پر حملے ریکارڈ بلندی پر پہنچ گئے۔ 28 فروری کو ایران کے ساتھ امریکہ اسرائیل جنگ شروع ہونے کے بعد سے 30 سے ​​زائد سپر ٹینکروں کو نقصان پہنچا، دھمکی…"
-    },
-    {
-      "title": "US has ‘two very different sets of intelligence reports’: Trump rules out Sunday strikes on Iran",
-      "desc": "Trump has stated that there will be no military strike against Iran today, despite conflicting intelligence reports. He emphasized a choice for Tehran between negotiating a diplomatic agreement or facing military action. Additionally, Trump mentioned that the…",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/us/us-has-two-very-different-sets-of-intelligence-reports-trump-rules-out-sunday-strikes-on-iran/articleshow/135200674.cms",
-      "time": "2026-10-26T03:10:32",
-      "country": "Iran",
-      "title_ur": "امریکہ کے پاس 'انٹیلی جنس رپورٹس کے دو بالکل مختلف سیٹ' ہیں: ٹرمپ نے اتوار کو ایران پر حملوں کو مسترد کر دیا۔",
-      "desc_ur": "ٹرمپ نے کہا ہے کہ متضاد انٹیلی جنس رپورٹس کے باوجود آج ایران کے خلاف کوئی فوجی حملہ نہیں کیا جائے گا۔ انہوں نے تہران کے لیے کسی سفارتی معاہدے پر بات چیت یا فوجی کارروائی کا سامنا کرنے کے درمیان انتخاب پر زور دیا۔ مزید برآں، ٹرمپ نے ذکر کیا کہ…"
-    },
-    {
-      "title": "Trump on Iran: I’m going to make a great deal",
-      "desc": "After ruling out US strikes on Iran on Sunday, Trump says he is willing to take time to secure a nuclear agreement and warns of the dangers of a nuclear-armed Tehran.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/435155",
-      "time": "2026-10-26T03:09:34",
-      "country": "Iran",
-      "title_ur": "ایران کے بارے میں ٹرمپ: میں بہت بڑا سودا کرنے جا رہا ہوں۔",
-      "desc_ur": "اتوار کو ایران پر امریکی حملوں کو مسترد کرنے کے بعد، ٹرمپ کا کہنا ہے کہ وہ جوہری معاہدے کو محفوظ بنانے کے لیے وقت نکالنے کے لیے تیار ہیں اور جوہری ہتھیاروں سے لیس تہران کے خطرات سے خبردار کرتے ہیں۔"
-    },
-    {
-      "title": "Blockers by Michael Lewis: A page-turner about civil servants, and Trump’s war on them",
-      "desc": "Although brilliant at showing the consequences of Trump administration actions, the book is limited in explaining the reasons behind them",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/culture/books/review/2026/10/26/blockers-by-michael-lewis-a-page-turner-about-civil-servants-and-trumps-war-on-them/",
-      "time": "2026-10-26T03:06:00",
-      "country": "US",
-      "title_ur": "مائیکل لیوس کے ذریعہ بلاکرز: سرکاری ملازمین کے بارے میں ایک صفحہ بدلنے والا، اور ٹرمپ کی ان کے خلاف جنگ",
-      "desc_ur": "اگرچہ ٹرمپ انتظامیہ کے اقدامات کے نتائج کو ظاہر کرنے میں شاندار، کتاب ان کے پیچھے وجوہات کی وضاحت کرنے میں محدود ہے۔"
-    },
-    {
-      "title": "'Our motherland needs us': The Israeli expats flying home to vote",
-      "desc": "Tens of thousands of Israeli citizens abroad, including hundreds from Australia, are travelling to Israel to vote in the country's most consequential election in decades.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-10-26/israel-election-overseas-voters-against-netanyahu-likud-party/107308408",
-      "time": "2026-10-26T03:04:29",
-      "country": "Israel",
-      "title_ur": "'ہماری مادر وطن کو ہماری ضرورت ہے': اسرائیلی تارکین وطن ووٹ ڈالنے کے لیے وطن واپس آ رہے ہیں۔",
-      "desc_ur": "بیرون ملک دسیوں ہزار اسرائیلی شہری، جن میں آسٹریلیا کے سینکڑوں شہری بھی شامل ہیں، کئی دہائیوں میں ملک کے سب سے زیادہ نتیجہ خیز انتخابات میں ووٹ ڈالنے کے لیے اسرائیل کا سفر کر رہے ہیں۔"
-    },
-    {
-      "title": "Let’s talk about this COMPLETE AND TOTAL LOSER, Bill Maher.",
-      "desc": "Let’s talk about this COMPLETE AND TOTAL LOSER, Bill Maher. He’s got a Low Rated Show on equally Low Rated HBO, which was once, long ago, a Network of Quality and Excitement — But that’s all gone. It’s not “HOT” anymore! Maher’s friend and business associate,…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-chat/4400607/posts",
-      "time": "2026-10-26T03:01:53",
-      "country": "US",
-      "title_ur": "آئیے اس مکمل اور مکمل ہارے ہوئے، بل مہر کے بارے میں بات کرتے ہیں۔",
-      "desc_ur": "آئیے اس مکمل اور مکمل ہارے ہوئے، بل مہر کے بارے میں بات کرتے ہیں۔ اسے اتنا ہی کم درجہ بندی والے HBO پر ایک کم ریٹیڈ شو ملا ہے، جو ایک بار، بہت پہلے، کوالٹی اور جوش کا نیٹ ورک تھا - لیکن یہ سب ختم ہو گیا۔ یہ اب \"گرم\" نہیں ہے! مہر کے دوست اور کاروباری ساتھی،…"
-    },
-    {
-      "title": "UAE's Nusseibeh vows independence, dialogue with Iran if elected UN chief",
-      "desc": "A former UAE ambassador to the UN, Nusseibeh vowed to act as a voice for international diplomacy and the rule of law, principles she said would underpin her credibility",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/world-news/uae-s-nusseibeh-vows-independence-dialogue-with-iran-if-elected-un-chief-126102600079_1.html",
-      "time": "2026-10-26T02:58:51",
-      "country": "Iran",
-      "title_ur": "متحدہ عرب امارات کی نسیبہ کا اقوام متحدہ کے سربراہ منتخب ہونے کی صورت میں آزادی، ایران کے ساتھ بات چیت کا عزم",
-      "desc_ur": "اقوام متحدہ میں متحدہ عرب امارات کی سابق سفیر، نسیبہ نے بین الاقوامی سفارت کاری اور قانون کی حکمرانی کے لیے ایک آواز کے طور پر کام کرنے کا عزم کیا، ان اصولوں سے جو ان کے بقول ان کی ساکھ کو مضبوط کریں گے۔"
-    },
-    {
-      "title": "What is 3 5 6 in the Bible?",
-      "desc": "What is 3 5 6 in the Bible? Unveiling its Meaning The phrase “What is 3 5 6 in the Bible?” doesn’t directly correspond to a specific, universally recognized verse or coded message; instead, it’s crucial to understand that numbers in the Bible often carry symb…",
-      "source": "Lifesciencesworld.com",
-      "url": "https://www.lifesciencesworld.com/what-is-3-5-6-in-the-bible/",
-      "time": "2026-10-26T02:53:19",
-      "country": "International",
-      "title_ur": "بائبل میں 3 5 6 کیا ہے؟",
-      "desc_ur": "بائبل میں 3 5 6 کیا ہے؟ اس کے معنی کی نقاب کشائی کرتے ہوئے جملہ \"بائبل میں 3 5 6 کیا ہے؟\" کسی مخصوص، عالمی طور پر تسلیم شدہ آیت یا کوڈ شدہ پیغام سے براہ راست مطابقت نہیں رکھتا؛ اس کے بجائے، یہ سمجھنا بہت ضروری ہے کہ بائبل میں اعداد اکثر علامت رکھتے ہیں…"
-    },
-    {
-      "title": "\"I am here. With you\": Venezuelan opposition leader Maria Corina Machado returns from exile; US hails reconciliation talks",
-      "desc": "Venezuelan opposition leader and Nobel laureate Maria Corina Machado has returned home after nearly a year in exile, CBS News reported. Confirming her arrival, Machado posted on X, \"I am here. With you.\"",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/i-am-here-with-you-venezuelan-opposition-leader-maria-corina-machado-returns-from-exile-us-hails-reconciliation-talks/articleshow/135201285.cms",
-      "time": "2026-10-26T02:49:33",
-      "country": "US",
-      "title_ur": "\"میں یہاں ہوں۔ آپ کے ساتھ\": وینزویلا کی اپوزیشن لیڈر ماریا کورینا ماچاڈو جلاوطنی سے واپس آگئیں۔ امریکہ نے مصالحتی مذاکرات کا خیر مقدم کیا۔",
-      "desc_ur": "سی بی ایس نیوز نے رپورٹ کیا کہ وینزویلا کی اپوزیشن رہنما اور نوبل انعام یافتہ ماریہ کورینا ماچاڈو تقریباً ایک سال کی جلاوطنی کے بعد وطن واپس پہنچی ہیں۔ اپنی آمد کی تصدیق کرتے ہوئے، ماچاڈو نے X پر پوسٹ کیا، \"میں یہاں ہوں۔ آپ کے ساتھ۔\""
-    },
-    {
-      "title": "Young woman claims she was beaten by an Australian ISIS bride and raped by her husband while being kept as a slave",
-      "desc": "A woman said she was nine years old when she was enslaved and beaten by another woman known as 'Umm Osama', whom investigators reportedly believe was Australian citizen Hodan Abby.",
+      "title": "The secret Iranian nuclear fortress built to survive US bombs: CATHERINE BARNWELL reveals",
+      "desc": "Trump vowed that Iran will never be allowed to have a nuclear weapon, but chilling satellite images reveal Tehran is constructing a fortress 100 metres beneath a solid granite mountain.",
       "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16237881/yazidi-survivor-hodan-abby-australian-isis-allegations.html",
-      "time": "2026-10-26T02:43:29",
-      "country": "US",
-      "title_ur": "نوجوان خاتون کا دعویٰ ہے کہ اسے ایک آسٹریلوی آئی ایس آئی ایس کی دلہن نے مارا پیٹا اور اس کے شوہر نے غلام بنا کر رکھا۔",
-      "desc_ur": "ایک خاتون نے بتایا کہ وہ نو سال کی تھی جب اسے 'ام اسامہ' کے نام سے جانی جانے والی دوسری خاتون نے غلام بنایا اور مارا پیٹا، جس کے بارے میں تفتیش کاروں کا خیال ہے کہ وہ آسٹریلوی شہری ہوڈن ایبی تھا۔"
-    },
-    {
-      "title": "NAZA: It’s Not Just About Israel and Gaza. It’s About the Evil Lurking in Us All",
-      "desc": "This new, award-winning film silences us not because of the monstrosity of what Israel did but because it serves as irrefutable proof of our own monstrosity\n***\nI have just seen NAZA, a documentary in which 24 Israeli intelligence …\nThe post NAZA: It’s Not Ju…",
-      "source": "Globalresearch.ca",
-      "url": "https://www.globalresearch.ca/naza-not-just-about-israel-gaza-about-evil-lurking-us-all/5944402",
-      "time": "2026-10-26T02:43:26",
-      "country": "Israel",
-      "title_ur": "نازا: یہ صرف اسرائیل اور غزہ کے بارے میں نہیں ہے۔ یہ ہم سب میں چھپی ہوئی برائی کے بارے میں ہے۔",
-      "desc_ur": "یہ نئی، ایوارڈ یافتہ فلم ہمیں اس وجہ سے خاموش نہیں کرتی ہے کہ اسرائیل نے کیا کیا بلکہ اس وجہ سے کہ یہ ہماری اپنی شیطانیت کے ناقابل تردید ثبوت کے طور پر کام کرتی ہے۔\n***\nمیں نے ابھی NAZA، ایک دستاویزی فلم دیکھی ہے جس میں 24 اسرائیلی انٹیلی جنس…\nThe post نازا: یہ جو نہیں ہے…"
-    },
-    {
-      "title": "Asian shares cautious ahead of central bank meetings, AI earnings",
-      "desc": "Japan's Nikkei dipped 0.8%, after losing 4.0% last week, while South Korea fell 0.4%, having shed almost 19% so far this month",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/markets/news/asian-shares-cautious-ahead-of-central-bank-meetings-ai-earnings-126102600044_1.html",
-      "time": "2026-10-26T02:30:15",
-      "country": "US",
-      "title_ur": "ایشیائی حصص مرکزی بینک کے اجلاسوں، AI آمدنی سے پہلے محتاط",
-      "desc_ur": "جاپان کا نکی گزشتہ ہفتے 4.0 فیصد کھونے کے بعد 0.8 فیصد گر گیا، جبکہ جنوبی کوریا 0.4 فیصد گر گیا، اس مہینے میں اب تک تقریباً 19 فیصد کمی آئی ہے۔"
-    },
-    {
-      "title": "Oil Price Today (October 26): Crude oil at $115, retreats from 6-month high despite lingering concerns. What are experts saying?",
-      "desc": "US crude futures declined $1.82, or 2%, to $101.48 a barrel, while Brent crude futures dropped $1.50, or 1.72%, to $115 a barrel. Both benchmarks had settled nearly $3 higher on Friday following Houthi attacks in Saudi Arabia that heightened concerns over ene…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-october-26-crude-oil-at-115-retreats-from-6-month-high-despite-lingering-concerns-what-are-experts-saying/articleshow/135200948.cms",
-      "time": "2026-10-26T02:26:44",
-      "country": "US",
-      "title_ur": "تیل کی قیمت آج (26 اکتوبر): خام تیل 115 ڈالر پر، دیرپا خدشات کے باوجود 6 ماہ کی بلند ترین سطح سے پیچھے ہٹ گیا۔ ماہرین کیا کہہ رہے ہیں؟",
-      "desc_ur": "یو ایس کروڈ فیوچر 1.82 ڈالر یا 2 فیصد کمی کے ساتھ 101.48 ڈالر فی بیرل جبکہ برینٹ کروڈ فیوچر 1.50 ڈالر یا 1.72 فیصد گر کر 115 ڈالر فی بیرل رہے۔ سعودی عرب میں حوثیوں کے حملوں کے بعد جمعہ کو دونوں بینچ مارک تقریباً 3 ڈالر زیادہ طے پائے تھے جس نے ene…"
-    },
-    {
-      "title": "‘Vote for Netanyahu’: Trump urges Israelis to re-elect ‘outstanding warrior’ PM to ‘finish job’ in Iran",
-      "desc": "HHNBAhead of the crucial Israeli elections, Donald Trump has thrown his support behind Benjamin Netanyahu, underlining the critical role their alliance plays in countering Iran's threats to both nations. Trump praised Netanyahu's effectiveness as a leader thr…",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/us/vote-for-netanyahu-trump-urges-israelis-to-re-elect-outstanding-warrior-pm-to-finish-job-in-iran/articleshow/135200797.cms",
-      "time": "2026-10-26T02:25:15",
+      "url": "https://www.dailymail.com/news/article-16238835/Video-secret-Iranian-nuclear-fortress-built-survive-US-bombs-CATHERINE-BARNWELL-reveals.html",
+      "time": "2026-10-26T09:10:59",
       "country": "Iran",
-      "title_ur": "'نیتن یاہو کو ووٹ دیں': ٹرمپ نے اسرائیلیوں پر زور دیا کہ وہ ایران میں 'نوکری ختم' کرنے کے لیے 'باقی جنگجو' وزیر اعظم کو دوبارہ منتخب کریں۔",
-      "desc_ur": "HHNBA اہم اسرائیلی انتخابات سے پہلے، ڈونلڈ ٹرمپ نے بنجمن نیتن یاہو کے پیچھے اپنی حمایت پھینک دی ہے، اور دونوں ممالک کے لیے ایران کے خطرات کا مقابلہ کرنے میں ان کے اتحاد کے اہم کردار کی نشاندہی کی ہے۔ ٹرمپ نے ایک رہنما کے طور پر نیتن یاہو کی تاثیر کی تعریف کی…"
+      "title_ur": "خفیہ ایرانی جوہری قلعہ امریکی بموں سے بچنے کے لیے بنایا گیا تھا: کیتھرین بارن ویل کا انکشاف",
+      "desc_ur": "ٹرمپ نے اس عزم کا اظہار کیا کہ ایران کو کبھی بھی جوہری ہتھیار رکھنے کی اجازت نہیں دی جائے گی، لیکن مصنوعی سیارہ کی تصاویر سے پتہ چلتا ہے کہ تہران ایک ٹھوس گرینائٹ پہاڑ کے نیچے 100 میٹر تک قلعہ تعمیر کر رہا ہے۔"
     },
     {
-      "title": "Trump: Jewish voters of Abdul El-Sayed should be ashamed of themselves",
-      "desc": "Trump criticizes Jewish voters backing Michigan Democrat Abdul El-Sayed, whose statements on Israel and response to a synagogue attack have drawn controversy.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/435154",
-      "time": "2026-10-26T02:17:21",
+      "title": "Hidden In Plain Sight: What It Meant to Unearth My Father’s Decades-Old FBI File",
+      "desc": "My father didn’t want to know what, if anything, the FBI had on him. Or at least that’s what my mother claimed. But after he died, as I sifted through his United Nations personnel documents and wartime correspondence to and",
+      "source": "Lithub.com",
+      "url": "https://lithub.com/hidden-in-plain-sight-what-it-meant-to-unearth-my-fathers-decades-old-fbi-file/",
+      "time": "2026-10-26T09:09:45",
+      "country": "International",
+      "title_ur": "سادہ نظر میں پوشیدہ: میرے والد کی دہائیوں پرانی ایف بی آئی فائل کا پتہ لگانے کا کیا مطلب ہے",
+      "desc_ur": "میرے والد یہ نہیں جاننا چاہتے تھے کہ ایف بی آئی نے ان پر کیا کیا ہے۔ یا کم از کم یہی میری ماں نے دعویٰ کیا ہے۔ لیکن اس کے مرنے کے بعد، جیسا کہ میں نے اقوام متحدہ کے اہلکاروں کے دستاویزات اور جنگ کے وقت کی خط و کتابت کو چھان لیا اور"
+    },
+    {
+      "title": "California’s billionaire tax faces a precarious road from rich opposition",
+      "desc": "Tech billionaires have raised more than $300m to oppose the billionaire tax proposal.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/economy/2026/10/26/californias-billionaire-tax-faces-a-precarious-road-from-rich-opposition",
+      "time": "2026-10-26T09:08:42",
+      "country": "US",
+      "title_ur": "کیلیفورنیا کے ارب پتی ٹیکس کو امیر اپوزیشن کی جانب سے ایک خطرناک سڑک کا سامنا ہے۔",
+      "desc_ur": "ٹیک ارب پتیوں نے ارب پتی ٹیکس کی تجویز کی مخالفت کرنے کے لیے $300 ملین سے زیادہ جمع کیے ہیں۔"
+    },
+    {
+      "title": "Disney+ Among Buyers For RTÉ & BBC Drama ‘The Walsh Sisters’",
+      "desc": "EXCLUSIVE: Disney+ is among a raft of buyers for RTÉ and BBC comedy-drama The Walsh Sisters. Based on a book series from bestselling author Marian Keyes, Season 1 was Irish broadcaster RTÉ’s highest-rated drama of the past two years. The BBC and RTÉ have gree…",
+      "source": "Deadline",
+      "url": "http://deadline.com/2026/10/disney-plus-the-walsh-sisters-marian-keyes-rte-bbc-series-1237172919/",
+      "time": "2026-10-26T09:08:40",
+      "country": "US",
+      "title_ur": "RTÉ اور BBC ڈرامہ 'The Walsh Sisters' کے خریداروں میں Disney+",
+      "desc_ur": "خصوصی: Disney+ RTÉ اور BBC کامیڈی ڈرامہ The Walsh Sisters کے خریداروں میں شامل ہے۔ بیسٹ سیلنگ مصنف ماریان کیز کی کتابی سیریز پر مبنی، سیزن 1 آئرش براڈکاسٹر RTÉ کا پچھلے دو سالوں کا سب سے زیادہ درجہ بندی والا ڈرامہ تھا۔ بی بی سی اور آر ٹی ای کو خوشی ہے…"
+    },
+    {
+      "title": "Anika Fajardo on Connecting With Her Colombian Heritage Through Magical Realism",
+      "desc": "I discovered magical realism when I was sixteen, the same summer I began a correspondence with my Colombian father. Up to that point, I had lived entirely removed from my birthplace in Colombia. It was the 1980s and I was",
+      "source": "Lithub.com",
+      "url": "https://lithub.com/anika-fajardo-on-connecting-with-her-colombian-heritage-through-magical-realism/",
+      "time": "2026-10-26T09:07:35",
+      "country": "International",
+      "title_ur": "انیکا فجرڈو جادوئی حقیقت پسندی کے ذریعے اپنے کولمبیا کے ورثے سے جڑنے پر",
+      "desc_ur": "میں نے جادوئی حقیقت پسندی کو اس وقت دریافت کیا جب میں سولہ سال کا تھا، اسی موسم گرما میں میں نے اپنے کولمبیا کے والد سے خط و کتابت شروع کی۔ اس وقت تک، میں کولمبیا میں اپنی جائے پیدائش سے مکمل طور پر دور رہ چکا تھا۔ یہ 1980 کی دہائی تھی اور میں"
+    },
+    {
+      "title": "Republicans race to avoid a civil war over Israel",
+      "desc": "The News\nDonald Trump’s wartime alliance with Benjamin Netanyahu is exposing a divide within his party that will outlast his presidency — over what “America First” really means for the US-Israel relationship.\nMaking peace between the GOP’s pro-Israel establis…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/d98364400894e2d2",
+      "time": "2026-10-26T09:06:27",
       "country": "Israel",
-      "title_ur": "ٹرمپ: عبد السید کے یہودی ووٹرز کو خود پر شرم آنی چاہیے۔",
-      "desc_ur": "ٹرمپ نے مشی گن کے ڈیموکریٹ عبد السید کی حمایت کرنے والے یہودی ووٹروں پر تنقید کی، جن کے اسرائیل کے بارے میں بیانات اور عبادت گاہ پر حملے کے ردعمل نے تنازعہ کھڑا کر دیا ہے۔"
+      "title_ur": "ریپبلکن اسرائیل پر خانہ جنگی سے بچنے کی دوڑ لگا رہے ہیں۔",
+      "desc_ur": "دی نیوز\nڈونالڈ ٹرمپ کا بینجمن نیتن یاہو کے ساتھ جنگ کے وقت کا اتحاد ان کی پارٹی کے اندر اس تقسیم کو بے نقاب کر رہا ہے جو ان کی صدارت کو ختم کر دے گا - اس بات پر کہ امریکہ اسرائیل تعلقات کے لیے \"امریکہ فرسٹ\" کا کیا مطلب ہے۔\nGOP کے اسرائیل نواز اسٹیبلس کے درمیان امن قائم کرنا…"
+    },
+    {
+      "title": "Trump restored the Department of War. Now it’s up to Congress to finish the job",
+      "desc": "A 10th Mountain Division veteran explains why Trump and Hegseth's restoration of the Department of War name clarifies the military mission.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/opinion/trump-restored-department-of-war-now-congress-finish-job",
+      "time": "2026-10-26T09:00:50",
+      "country": "US",
+      "title_ur": "ٹرمپ نے محکمہ جنگ کو بحال کیا۔ اب یہ کام ختم کرنا کانگریس پر منحصر ہے۔",
+      "desc_ur": "10ویں ماؤنٹین ڈویژن کا تجربہ کار بتاتا ہے کہ ٹرمپ اور ہیگستھ کی جانب سے محکمہ جنگ کے نام کی بحالی فوجی مشن کو کیوں واضح کرتی ہے۔"
+    },
+    {
+      "title": "At 17, British student Max Budgen drew 1,300 flipbook pages in over 3 weeks, pushing past boredom at page 500 to set a Guinness World Record",
+      "desc": "Max Budgen, a 17-year-old student from Petersfield, Hampshire, created a 1,300-page hand-drawn flipbook. He devoted over three weeks to complete this ambitious project while facing challenges. Max experienced boredom and a lack of ideas at times but remained …",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/uk/at-17-british-student-max-budgen-drew-1300-flipbook-pages-in-over-3-weeks-pushing-past-boredom-at-page-500-to-set-a-guinness-world-record/articleshow/135207329.cms",
+      "time": "2026-10-26T09:00:07",
+      "country": "UK",
+      "title_ur": "17 سال کی عمر میں، برطانوی طالب علم میکس بڈجن نے 3 ہفتوں سے زائد عرصے میں 1,300 فلپ بک کے صفحات بنائے، صفحہ 500 پر ماضی کی بوریت کو آگے بڑھاتے ہوئے گنیز ورلڈ ریکارڈ قائم کیا۔",
+      "desc_ur": "پیٹرز فیلڈ، ہیمپشائر کے ایک 17 سالہ طالب علم میکس بڈگن نے 1,300 صفحات پر مشتمل ہاتھ سے تیار کردہ فلپ بک بنائی۔ انہوں نے چیلنجوں کا سامنا کرتے ہوئے اس مہتواکانکشی منصوبے کو مکمل کرنے کے لیے تین ہفتے سے زیادہ وقت صرف کیا۔ میکس نے بعض اوقات بوریت اور خیالات کی کمی کا تجربہ کیا لیکن باقی رہا…"
+    },
+    {
+      "title": "Toys are facing their biggest price spike in years. Mom-and-pop toy stores tell us how they're getting by.",
+      "desc": "Toy prices are surging amid inflation, tariffs, and shipping costs, affecting small local stores. Toy giants also face financial pressure.",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/toy-prices-soar-local-stores-2026-10#article",
+      "time": "2026-10-26T09:00:01",
+      "country": "US",
+      "title_ur": "کھلونے برسوں میں اپنی سب سے بڑی قیمت میں اضافے کا سامنا کر رہے ہیں۔ ماں اور پاپ کھلونوں کی دکانیں ہمیں بتاتی ہیں کہ وہ کیسے گزر رہے ہیں۔",
+      "desc_ur": "مہنگائی، ٹیرف اور شپنگ کے اخراجات کے درمیان کھلونوں کی قیمتیں بڑھ رہی ہیں، جس سے چھوٹے مقامی اسٹورز متاثر ہو رہے ہیں۔ کھلونا جنات کو بھی مالی دباؤ کا سامنا ہے۔"
+    },
+    {
+      "title": "Weekly Climate and Energy News Roundup #712",
+      "desc": "“Science cannot solve the ultimate mystery of nature. And that is because, in the last analysis, we ourselves are a part of the mystery that we are trying to solve.”— Max Planck\nThe post Weekly Climate and Energy News Roundup #712 appeared first on Watts Up W…",
+      "source": "Wattsupwiththat.com",
+      "url": "https://wattsupwiththat.com/2026/10/26/weekly-climate-and-energy-news-roundup-712/",
+      "time": "2026-10-26T09:00:00",
+      "country": "US",
+      "title_ur": "ہفتہ وار موسمیاتی اور توانائی کی خبروں کا راؤنڈ اپ #712",
+      "desc_ur": "\"سائنس فطرت کے حتمی اسرار کو حل نہیں کر سکتی۔ اور اس کی وجہ یہ ہے کہ، آخری تجزیے میں، ہم خود اس اسرار کا حصہ ہیں جسے ہم حل کرنے کی کوشش کر رہے ہیں۔\" - میکس پلانک\nThe post ہفتہ وار موسمیاتی اور توانائی کی خبروں کا راؤنڈ اپ #712 appeared first on Watts Up W…"
+    },
+    {
+      "title": "This AI Radio Host Speaks Spanish and Backs Immigrants. It’s Winning Over Listeners",
+      "desc": "Coyotec is bilingual, swears, and tells listeners how to defend themselves against ICE. Its popularity comes as more broadcasters are experimenting with artificial personalities.",
+      "source": "Wired",
+      "url": "https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/",
+      "time": "2026-10-26T09:00:00",
+      "country": "International",
+      "title_ur": "یہ AI ریڈیو میزبان ہسپانوی بولتا ہے اور تارکین وطن کی پشت پناہی کرتا ہے۔ یہ سننے والوں کو جیت رہا ہے۔",
+      "desc_ur": "Coyotec دو لسانی ہے، قسم کھاتا ہے، اور سامعین کو بتاتا ہے کہ ICE کے خلاف اپنا دفاع کیسے کریں۔ اس کی مقبولیت اس وقت آتی ہے جب زیادہ براڈکاسٹر مصنوعی شخصیات کے ساتھ تجربہ کر رہے ہیں۔"
+    },
+    {
+      "title": "New York voters need more genuine general-election choices — or democracy is doomed",
+      "desc": "If New York can't somehow return to the days of competitive elections where politicians actually have to earn the majority's votes, the state will keep spiraling down.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/10/26/opinion/new-york-voters-need-more-genunine-general-election-choices/",
+      "time": "2026-10-26T09:00:00",
+      "country": "International",
+      "title_ur": "نیویارک کے ووٹروں کو عام انتخابات کے زیادہ حقیقی انتخاب کی ضرورت ہے - یا جمہوریت برباد ہو جائے گی۔",
+      "desc_ur": "اگر نیویارک کسی طرح مسابقتی انتخابات کے دنوں میں واپس نہیں آ سکتا جہاں سیاست دانوں کو درحقیقت اکثریت کے ووٹ حاصل کرنے ہوتے ہیں، تو ریاست نیچے گرتی رہے گی۔"
+    },
+    {
+      "title": "Loggers say Roadless Rule repeal won't solve their biggest challenges",
+      "desc": "President Trump is planning to open up some of the nation's last pristine forests to road building and timber companies. But those who work in the woods say it won't do enough to revive the industry.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/26/nx-s1-6009247/loggers-say-roadless-rule-repeal-wont-solve-their-biggest-challenges",
+      "time": "2026-10-26T09:00:00",
+      "country": "US",
+      "title_ur": "لاگرز کا کہنا ہے کہ روڈ لیس رول کی منسوخی سے ان کے سب سے بڑے چیلنجز حل نہیں ہوں گے۔",
+      "desc_ur": "صدر ٹرمپ ملک کے آخری قدیم جنگلات کو سڑکوں کی تعمیر اور لکڑی کی کمپنیوں کے لیے کھولنے کا منصوبہ بنا رہے ہیں۔ لیکن جنگل میں کام کرنے والوں کا کہنا ہے کہ یہ صنعت کو بحال کرنے کے لیے کافی کام نہیں کرے گا۔"
+    },
+    {
+      "title": "Court ruling fails to end wait for thousands of immigrants stuck abroad without visas",
+      "desc": "A federal judge struck down a Trump administration ban on issuing immigrant visas to people from 75 countries, but immigrants continue to be stuck in their countries. Attorneys say the federal government is slow-walking the processing of visas on purpose.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/26/nx-s1-5991896/court-ruling-fails-to-end-wait-for-thousands-of-immigrants-stuck-abroad-without-visas",
+      "time": "2026-10-26T09:00:00",
+      "country": "US",
+      "title_ur": "عدالتی فیصلہ بغیر ویزے کے بیرون ملک پھنسے ہزاروں تارکین وطن کا انتظار ختم کرنے میں ناکام ہے۔",
+      "desc_ur": "ایک وفاقی جج نے 75 ممالک کے لوگوں کو تارکین وطن کے ویزے جاری کرنے پر ٹرمپ انتظامیہ کی پابندی کو ختم کر دیا، لیکن تارکین وطن اپنے ممالک میں پھنسے ہوئے ہیں۔ وکلاء کا کہنا ہے کہ وفاقی حکومت جان بوجھ کر ویزوں کی کارروائی میں سست روی کا مظاہرہ کر رہی ہے۔"
+    },
+    {
+      "title": "Israel elections 2026: What's at stake for Netanyahu? Key challengers, seats needed to win and more",
+      "desc": "Israel is set to vote on Tuesday, marking its first national election since Hamas’ October 7, 2023, attack, with Prime Minister Benjamin Netanyahu’s",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/israel-elections-2026-whats-at-stake-for-netanyahu-key-challengers-seats-needed-to-win-and-more/articleshow/135206597.cms",
+      "time": "2026-10-26T08:54:52",
+      "country": "Israel",
+      "title_ur": "اسرائیل انتخابات 2026: نیتن یاہو کے لیے کیا خطرہ ہے؟ کلیدی چیلنجرز، جیتنے کے لیے درکار سیٹیں اور بہت کچھ",
+      "desc_ur": "اسرائیل منگل کو ووٹ ڈالنے والا ہے، حماس کے 7 اکتوبر 2023 کے حملے کے بعد، وزیراعظم بنجمن نیتن یاہو کے ساتھ اپنے پہلے قومی انتخابات کے موقع پر"
     }
   ],
   "pakistan": [
     {
-      "title": "Beyond NATO? Turkey’s New Defense Partnerships Reshape Eurasian Geopolitics",
-      "desc": "Turkey’s latest defense agreement with Qatar, Pakistan and Indonesia could reshape military cooperation across Eurasia. \nIts implications extend beyond NATO, potentially impacting Russia’s regional influence, China’s strategic interests – and Washington’s lev…",
-      "source": "Globalresearch.ca",
-      "url": "https://www.globalresearch.ca/turkey-new-defense-partnerships-reshape-eurasian-geopolitics/5944409",
-      "time": "2026-10-26T02:48:26",
+      "title": "Iran holds security talks with Saudi, Pakistan, Turkey",
+      "desc": "Senior officials from Saudi Arabia, Turkey, and Pakistan are set to hold talks on regional security with Iranian officials in Tehran on Monday.\n\nRead More: https://punchng.com/iran-holds-security-talks-with-saudi-pakistan-turkey/",
+      "source": "The Punch",
+      "url": "https://punchng.com/iran-holds-security-talks-with-saudi-pakistan-turkey/",
+      "time": "2026-10-26T08:55:38",
       "country": "Pakistan",
-      "title_ur": "نیٹو سے آگے؟ ترکی کی نئی دفاعی شراکت داری یوریشین جیو پولیٹکس کو نئی شکل دیتی ہے۔",
-      "desc_ur": "قطر، پاکستان اور انڈونیشیا کے ساتھ ترکی کا تازہ ترین دفاعی معاہدہ یوریشیا میں فوجی تعاون کو نئی شکل دے سکتا ہے۔ \nاس کے مضمرات نیٹو سے آگے تک پھیلے ہوئے ہیں، ممکنہ طور پر روس کے علاقائی اثر و رسوخ، چین کے اسٹریٹجک مفادات – اور واشنگٹن کے لیو…"
+      "title_ur": "ایران نے سعودی، پاکستان، ترکی کے ساتھ سیکیورٹی مذاکرات کیے ہیں۔",
+      "desc_ur": "سعودی عرب، ترکی اور پاکستان کے سینئر حکام پیر کو تہران میں ایرانی حکام کے ساتھ علاقائی سلامتی پر بات چیت کرنے والے ہیں۔\n\nمزید پڑھیں: https://punchng.com/iran-holds-security-talks-with-saudi-pakistan-turkey/"
     },
     {
-      "title": "pak-geodata 0.1.0",
-      "desc": "Comprehensive, typed, offline geographic data for all areas and cities in Pakistan",
-      "source": "Pypi.org",
-      "url": "https://pypi.org/project/pak-geodata/0.1.0/",
-      "time": "2026-10-26T02:10:03",
+      "title": "Hockey Returns To Punjab: India Ready For Asian Champions Trophy",
+      "desc": "India, five-time champions and recent Asian Games gold medallists, are strong favourites to win the six-nation Asian Champions Trophy hockey tournament kicking off in Jalandhar. The tournament marks the return of international hockey to Punjab after 17 years,…",
+      "source": "Rediff.com",
+      "url": "https://www.rediff.com/sports/report/india-start-as-favourites-in-act-as-hockey-returns-to-punjab/20261026.htm",
+      "time": "2026-10-26T08:48:01",
       "country": "Pakistan",
-      "title_ur": "پاک جیوڈیٹا 0.1.0",
-      "desc_ur": "پاکستان کے تمام علاقوں اور شہروں کے لیے جامع، ٹائپ شدہ، آف لائن جغرافیائی ڈیٹا"
+      "title_ur": "ہاکی کی پنجاب میں واپسی: ہندوستان ایشین چیمپئنز ٹرافی کے لیے تیار ہے۔",
+      "desc_ur": "ہندوستان، پانچ بار کے چمپئن اور حالیہ ایشین گیمز میں گولڈ میڈل جیتنے والے، جالندھر میں شروع ہونے والے چھ ملکی ایشین چیمپئنز ٹرافی ہاکی ٹورنامنٹ جیتنے کے لیے مضبوط فیورٹ ہیں۔ یہ ٹورنامنٹ 17 سال بعد پنجاب میں بین الاقوامی ہاکی کی واپسی کا نشان ہے،…"
     },
     {
-      "title": "pak-geodata added to PyPI",
-      "desc": "Comprehensive, typed, offline geographic data for all areas and cities in Pakistan",
-      "source": "Pypi.org",
-      "url": "https://pypi.org/project/pak-geodata/",
-      "time": "2026-10-26T02:09:56",
+      "title": "Delegations meet in Iran with Mideast on edge over potential for renewed fighting",
+      "desc": "Regional officials say high-level delegations from Saudi Arabia, Pakistan and Turkey are in Tehran for talks aimed at preventing renewed fighting between Iran and Israel and the United States",
+      "source": "Abcnews.com",
+      "url": "https://abcnews.com/International/wireStory/delegations-meet-iran-mideast-region-edge-potential-renewed-137563622",
+      "time": "2026-10-26T08:46:06",
       "country": "Pakistan",
-      "title_ur": "pak-geodata PyPI میں شامل کیا گیا۔",
-      "desc_ur": "پاکستان کے تمام علاقوں اور شہروں کے لیے جامع، ٹائپ شدہ، آف لائن جغرافیائی ڈیٹا"
+      "title_ur": "وفود کی ایران میں مشرق وسطیٰ کے ساتھ نئی لڑائی کے امکانات پر ملاقات",
+      "desc_ur": "علاقائی حکام کا کہنا ہے کہ سعودی عرب، پاکستان اور ترکی کے اعلیٰ سطحی وفود ایران اور اسرائیل اور امریکہ کے درمیان نئی لڑائی کو روکنے کے لیے مذاکرات کے لیے تہران میں ہیں۔"
     },
     {
-      "title": "'I don't think we can reveal on live TV': Shadab Khan on chat with Haris Rauf",
-      "desc": "Shadab Khan led a remarkable comeback for Pakistan against England by scoring an unbeaten 113 runs. Together with Haris Rauf, they built a record-breaking partnership for the last wicket in ODI history. Earlier, England posted a total of 241 runs, with Ben Du…",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-dont-think-we-can-reveal-on-live-tv-shadab-khan-on-chat-with-haris-rauf/articleshow/135200547.cms",
-      "time": "2026-10-26T02:03:30",
+      "title": "Saudi, Turkish Officials Travel to Iran to Cool Tensions",
+      "desc": "Top security officials from Saudi Arabia, Pakistan and Turkey are set to meet Iran's leaders in an effort to defuse tensions and breathe new life into talks aimed at preventing a broader war in the Middle East.",
+      "source": "Rigzone",
+      "url": "https://www.rigzone.com/news/wire/saudi_turkish_officials_travel_to_iran_to_cool_tensions-26-oct-2026-184926-article/",
+      "time": "2026-10-26T08:33:01",
       "country": "Pakistan",
-      "title_ur": "'مجھے نہیں لگتا کہ ہم لائیو ٹی وی پر انکشاف کر سکتے ہیں': شاداب خان حارث رؤف کے ساتھ بات چیت پر",
-      "desc_ur": "شاداب خان نے انگلینڈ کے خلاف ناقابل شکست 113 رنز بنا کر پاکستان کی جانب سے شاندار واپسی کی قیادت کی۔ حارث رؤف کے ساتھ مل کر، انہوں نے ون ڈے کی تاریخ میں آخری وکٹ کے لیے ریکارڈ ساز شراکت قائم کی۔ اس سے قبل انگلینڈ نے بین ڈو کے ساتھ مجموعی طور پر 241 رنز بنائے۔"
+      "title_ur": "سعودی اور ترک حکام کشیدگی کو ٹھنڈا کرنے کے لیے ایران کا دورہ کر رہے ہیں۔",
+      "desc_ur": "سعودی عرب، پاکستان اور ترکی کے اعلیٰ سکیورٹی حکام کشیدگی کو کم کرنے اور مشرق وسطیٰ میں وسیع جنگ کو روکنے کے مقصد سے ہونے والی بات چیت میں نئی ​​جان ڈالنے کی کوشش میں ایران کے رہنماؤں سے ملاقات کرنے والے ہیں۔"
     },
     {
-      "title": "Riyadh airport partially reopens: Saudi Arabia intercepts Houthi ballistic missile, drones",
-      "desc": "A Saudi-led coalition reported intercepting Houthi ballistic missiles aimed at Riyadh, claiming to protect the capital. Houthi military spokesman Yahya Saree described King Khalid International Airport as unsafe for travellers and staff. The airport administr…",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/riyadh-airport-partially-reopens-saudi-arabia-intercepts-houthi-ballistic-missile-drones/articleshow/135200598.cms",
-      "time": "2026-10-26T02:02:32",
+      "title": "Report of rift between Netanyahu and army chief denied",
+      "desc": "Defence Minister Israel Katz has said that reports of a rift between Israel's army and its civilian leaders over fresh action in the war with Iran were 'entirely baseless'.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/2026/1026/1596840-israel-election/",
+      "time": "2026-10-26T08:14:48",
       "country": "Pakistan",
-      "title_ur": "ریاض کا ہوائی اڈہ جزوی طور پر دوبارہ کھل گیا: سعودی عرب نے حوثی بیلسٹک میزائل اور ڈرون کو روک دیا",
-      "desc_ur": "سعودی زیرقیادت اتحاد نے دارالحکومت کی حفاظت کا دعویٰ کرتے ہوئے ریاض کو نشانہ بنانے والے حوثی بیلسٹک میزائلوں کو روکنے کی اطلاع دی۔ حوثی فوج کے ترجمان یحییٰ ساری نے کنگ خالد انٹرنیشنل ایئرپورٹ کو مسافروں اور عملے کے لیے غیر محفوظ قرار دیا۔ ائیرپورٹ انتظامیہ نے…"
-    },
-    {
-      "title": "On Iran war, Trump weighs two options: 'make a deal' or 'finish it off'",
-      "desc": "US President Donald Trump is weighing a deal with Iran against renewed military strikes, warning that a decision is approaching as Tehran escalates attacks on shipping near the Strait of Hormuz. Washington is reducing personnel in parts of the Middle East, wh…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/defence/on-iran-war-trump-weighs-two-options-make-a-deal-or-finish-it-off/articleshow/135200501.cms",
-      "time": "2026-10-26T01:50:20",
-      "country": "Pakistan",
-      "title_ur": "ایران جنگ پر، ٹرمپ کے پاس دو آپشن ہیں: 'معاہدہ کریں' یا 'اسے ختم کریں'",
-      "desc_ur": "امریکی صدر ڈونلڈ ٹرمپ نئے فوجی حملوں کے خلاف ایران کے ساتھ ایک معاہدے پر غور کر رہے ہیں، اور خبردار کیا ہے کہ ایک فیصلہ قریب آ رہا ہے کیونکہ تہران آبنائے ہرمز کے قریب جہاز رانی پر حملے بڑھا رہا ہے۔ واشنگٹن مشرق وسطیٰ کے کچھ حصوں میں اہلکاروں کو کم کر رہا ہے، جہاں…"
-    },
-    {
-      "title": "Delhi’s Shangri-La Eros hotel fined Rs 1 lakh for automatically adding 10% service charge to food bills at 'Mister Chai' restaurant, CCPA orders restaurant to stop collecting it by default after finding customers were also charged GST on the added amount despite the hotel claiming the charge was optional",
-      "desc": "The Central Consumer Protection Authority has fined Shangri-La Eros hotel in New Delhi for an illegal service charge. The hotel had automatically added a 10% service charge to bills, which was considered unfair. After receiving a consumer complaint, the CCPA …",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/delhi/delhis-shangri-la-eros-hotel-fined-rs-1-lakh-for-automatically-adding-10-service-charge-to-food-bills-at-mister-chai-restaurant-ccpa-orders-restaurant-to-stop-collecting-it-by-default-after-finding-customers-were-also-charged-gst-on-the-added-amount-despite-the-hotel-claiming-the-charge-was-optional/articleshow/135200467.cms",
-      "time": "2026-10-26T01:43:36",
-      "country": "Pakistan",
-      "title_ur": "دہلی کے شنگری لا ایروز ہوٹل کو 'مسٹر چائی' ریستوراں میں کھانے کے بلوں میں خود بخود 10٪ سروس چارج شامل کرنے پر 1 لاکھ روپے کا جرمانہ، CCPA نے ریسٹورنٹ کو حکم دیا کہ وہ اسے بطور ڈیفالٹ وصول کرنا بند کر دے جب کہ گاہکوں کو تلاش کرنے کے بعد اضافی رقم پر جی ایس ٹی بھی وصول کیا گیا تھا، اس کے باوجود ہوٹل کا دعویٰ اختیاری تھا۔",
-      "desc_ur": "سینٹرل کنزیومر پروٹیکشن اتھارٹی نے نئی دہلی میں شنگری لا ایروز ہوٹل کو غیر قانونی سروس چارج کے لیے جرمانہ کیا ہے۔ ہوٹل نے خود بخود بلوں میں 10% سروس چارج شامل کر دیا تھا، جسے غیر منصفانہ سمجھا جاتا تھا۔ صارفین کی شکایت موصول ہونے کے بعد، CCPA…"
+      "title_ur": "نیتن یاہو اور آرمی چیف کے درمیان اختلافات کی خبروں کی تردید",
+      "desc_ur": "وزیر دفاع اسرائیل کاٹز نے کہا ہے کہ ایران کے ساتھ جنگ ​​میں تازہ کارروائی پر اسرائیلی فوج اور اس کے سویلین رہنماؤں کے درمیان اختلافات کی خبریں 'مکمل طور پر بے بنیاد' ہیں۔"
     }
   ],
   "business": {
@@ -256,35 +236,35 @@
         "day": "جمعرات",
         "high": 29,
         "low": 16,
-        "condition": "Overcast",
-        "condition_ur": "ابر آلود",
+        "condition": "Partly Cloudy",
+        "condition_ur": "جزوی ابر آلود",
         "precip": 0
       },
       {
         "date": "2026-10-30",
         "day": "جمعہ",
-        "high": 28,
-        "low": 17,
-        "condition": "Overcast",
-        "condition_ur": "ابر آلود",
-        "precip": 0
+        "high": 29,
+        "low": 18,
+        "condition": "Clear",
+        "condition_ur": "صاف",
+        "precip": 2
       },
       {
         "date": "2026-10-31",
         "day": "ہفتہ",
-        "high": 28,
-        "low": 18,
+        "high": 29,
+        "low": 17,
         "condition": "Clear",
         "condition_ur": "صاف",
-        "precip": 0
+        "precip": 2
       },
       {
         "date": "2026-11-01",
         "day": "اتوار",
         "high": 29,
-        "low": 17,
-        "condition": "Clear",
-        "condition_ur": "صاف",
+        "low": 16,
+        "condition": "Mainly Clear",
+        "condition_ur": "زیادہ تر صاف",
         "precip": 0
       },
       {
