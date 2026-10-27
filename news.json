@@ -1,179 +1,158 @@
 {
-  "generated": "2026-10-27T20:11:18Z",
+  "generated": "2026-10-27T23:53:27Z",
   "world": [
     {
-      "title": "The United Kingdom remains committed to working with Iraq, Kuwait, and the Tripartite Commission to provide answers for families of missing loved ones: UK statement at the UN Security Council",
-      "desc": "Statement by Ambassador Kate Foster, UK Deputy Permanent Representative to the UN, at the UN Security Council meeting on the situation between Iraq and Kuwait.",
-      "source": "Www.gov.uk",
-      "url": "https://www.gov.uk/government/speeches/the-united-kingdom-remains-committed-to-working-with-iraq-kuwait-and-the-tripartite-commission-to-provide-answers-for-families-of-missing-loved-ones-u",
-      "time": "2026-10-26T20:07:23",
-      "country": "Iraq",
-      "title_ur": "The United Kingdom remains committed to working with Iraq, Kuwait, and the Tripartite Commission to provide answers for families of missing loved ones: UK statement at the UN Security Council",
-      "desc_ur": "Statement by Ambassador Kate Foster, UK Deputy Permanent Representative to the UN, at the UN Security Council meeting on the situation between Iraq and Kuwait."
-    },
-    {
-      "title": "PrairieSky Announces Third Quarter 2026 Results",
-      "desc": "CALGARY, Alberta, Oct. 26, 2026 (GLOBE NEWSWIRE) — PrairieSky Royalty Ltd. (“PrairieSky” or the “Company”) (TSX: PSK) is pleased to announce its third quarter operating and financial results for the three and nine months ended September 30, 2026. Third Quarte…",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/prairiesky-announces-third-quarter-2026-results",
-      "time": "2026-10-26T20:03:31",
-      "country": "International",
-      "title_ur": "PrairieSky Announces Third Quarter 2026 Results",
-      "desc_ur": "CALGARY, Alberta, Oct. 26, 2026 (GLOBE NEWSWIRE) — PrairieSky Royalty Ltd. (“PrairieSky” or the “Company”) (TSX: PSK) is pleased to announce its third quarter operating and financial results for the three and nine months ended September 30, 2026. Third Quarte…"
-    },
-    {
-      "title": "Army practices digging temporary battlefield graves...",
-      "desc": "The Army is preparing for the grim possibility of burying fallen soldiers on the battlefield, testing how fast it can dig temporary graves while preserving remains for eventual identification and return to families after the end of a conflict.",
-      "source": "Armytimes.com",
-      "url": "https://www.armytimes.com/news/2026/10/26/army-practices-digging-temporary-battlefield-graves/",
-      "time": "2026-10-26T20:00:16",
-      "country": "International",
-      "title_ur": "Army practices digging temporary battlefield graves...",
-      "desc_ur": "The Army is preparing for the grim possibility of burying fallen soldiers on the battlefield, testing how fast it can dig temporary graves while preserving remains for eventual identification and return to families after the end of a conflict."
-    },
-    {
-      "title": "BIBI ODDS SINK: 27%...",
-      "desc": "Live odds and predictions for Prime Minister of Israel After the Next Election on a federally regulated prediction market in the United States.",
-      "source": "Polymarket.us",
-      "url": "https://polymarket.us/event/isrpol-pm-2026-10-27",
-      "time": "2026-10-26T20:00:16",
-      "country": "Israel",
-      "title_ur": "BIBI ODDS SINK: 27%...",
-      "desc_ur": "Live odds and predictions for Prime Minister of Israel After the Next Election on a federally regulated prediction market in the United States."
-    },
-    {
-      "title": "Iran War Pushes Trump's Average Gasoline Prices Above Biden's",
-      "desc": "The average price Americans have paid for gasoline during President Donald Trump's second term has now surpassed the average recorded during Joe Biden's presidency, marking a politically significant milestone just days before the November 3 midterm elections.…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Crude-Oil/Iran-War-Pushes-Trumps-Average-Gasoline-Prices-Above-Bidens.html",
-      "time": "2026-10-26T20:00:00",
-      "country": "Iran",
-      "title_ur": "Iran War Pushes Trump's Average Gasoline Prices Above Biden's",
-      "desc_ur": "The average price Americans have paid for gasoline during President Donald Trump's second term has now surpassed the average recorded during Joe Biden's presidency, marking a politically significant milestone just days before the November 3 midterm elections.…"
-    },
-    {
-      "title": "Air New Zealand forecast to lose $338m as jet fuel prices stay high",
-      "desc": "'We continue to manage our financial position carefully,' Air NZ says as fuel price bites.",
-      "source": "New Zealand Herald",
-      "url": "https://www.nzherald.co.nz/business/companies/airlines/air-new-zealand-forecast-to-lose-338m-as-jet-fuel-prices-stay-high/premium/TKQS4A5QZRA7ZB3IZV5AMDAETY/",
-      "time": "2026-10-26T20:00:00",
-      "country": "International",
-      "title_ur": "Air New Zealand forecast to lose $338m as jet fuel prices stay high",
-      "desc_ur": "'We continue to manage our financial position carefully,' Air NZ says as fuel price bites."
-    },
-    {
-      "title": "UN commission says Israel has continued to commit genocide in Gaza since truce",
-      "desc": "A United Nations commission says Israel ​continued to commit genocide in Gaza after last October's U.S.-brokered ceasefire in the enclave, in a report published Monday that Israel dismissed as part of a \"misinformation campaign.\"",
-      "source": "CBC News",
-      "url": "https://www.cbc.ca/news/world/israel-gaza-genocide-un-commission-9.7396540",
-      "time": "2026-10-26T19:59:10",
-      "country": "Israel",
-      "title_ur": "UN commission says Israel has continued to commit genocide in Gaza since truce",
-      "desc_ur": "A United Nations commission says Israel ​continued to commit genocide in Gaza after last October's U.S.-brokered ceasefire in the enclave, in a report published Monday that Israel dismissed as part of a \"misinformation campaign.\""
-    },
-    {
-      "title": "Warnings over SNP's 'lawless' Scotland as police chiefs say they may have to prioritise serious crime amid funding crisis",
-      "desc": "Police chiefs have sparked fears of a 'lawless' Scotland after warning the service may have to prioritise emergency calls amid a funding crisis.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16240487/Warnings-SNPs-lawless-Scotland-police-chiefs-say-prioritise-crime-amid-funding-crisis.html",
-      "time": "2026-10-26T19:58:08",
+      "title": "Neil Young Files $10 Million Suit Against Trump for Using ‘Rockin’ in the Free World,’ Six Years After a Prior Settlement Over the Same Song",
+      "desc": "Neil Young has filed a $10 million lawsuit Monday against Donald J. Trump’s political action committee, Trump 47 Committee Inc., alleging copyright infringement for the ongoing use of Young’s song “Rockin’ in the Free World” as the president’s walkup music at…",
+      "source": "Variety",
+      "url": "https://variety.com/2026/music/news/neil-young-files-suit-donald-trump-rockin-in-the-free-world-1236931685/",
+      "time": "2026-10-26T23:50:34",
       "country": "US",
-      "title_ur": "Warnings over SNP's 'lawless' Scotland as police chiefs say they may have to prioritise serious crime amid funding crisis",
-      "desc_ur": "Police chiefs have sparked fears of a 'lawless' Scotland after warning the service may have to prioritise emergency calls amid a funding crisis."
+      "title_ur": "نیل ینگ نے ٹرمپ کے خلاف فری ورلڈ میں 'راکن' کے استعمال کے لیے 10 ملین ڈالر کا مقدمہ دائر کیا، 'اسی گانے پر پہلے سے طے پانے کے چھ سال بعد'",
+      "desc_ur": "نیل ینگ نے پیر کو ڈونلڈ جے ٹرمپ کی پولیٹیکل ایکشن کمیٹی، ٹرمپ 47 کمیٹی انکارپوریشن کے خلاف 10 ملین ڈالر کا مقدمہ دائر کیا ہے، جس میں ینگ کے گانے \"راکن' ان دی فری ورلڈ\" کو صدر کے واک اپ میوزک کے طور پر استعمال کرنے کے لیے کاپی رائٹ کی خلاف ورزی کا الزام لگایا گیا ہے۔"
     },
     {
-      "title": "UN inquiry finds Israel committed crimes against humanity in West Bank",
-      "desc": "Independent experts commissioned by the UN charged that Israel has committed war crimes and crimes against humanity in the West Bank, 'intentionally targeting Palestinian civilians as it continues to commit genocide in Gaza'",
-      "source": "Haaretz",
-      "url": "https://www.haaretz.com/israel-news/israel-security/2026-10-26/ty-article/un-inquiry-accuses-israel-of-committing-crimes-against-humanity-in-west-bank/000001a1-78e5-dbdb-a7b1-f9e768690000",
-      "time": "2026-10-26T19:57:15",
-      "country": "Israel",
-      "title_ur": "UN inquiry finds Israel committed crimes against humanity in West Bank",
-      "desc_ur": "Independent experts commissioned by the UN charged that Israel has committed war crimes and crimes against humanity in the West Bank, 'intentionally targeting Palestinian civilians as it continues to commit genocide in Gaza'"
+      "title": "Donald Trump Bashes Norway in Fresh Rant Following Nobel Peace Prize Snub — as Country's Foreign Minister Responds",
+      "desc": "Donald Trump has branded Norway a 's---hole' country following his latest Nobel Peace Prize snub and claims he will not allow Norwegian immigrants to settle in U.S.",
+      "source": "Radaronline.com",
+      "url": "https://radaronline.com/p/donald-trump-slams-norway-after-nobel-peace-prize-snub/",
+      "time": "2026-10-26T23:50:00",
+      "country": "US",
+      "title_ur": "ڈونالڈ ٹرمپ نے نوبل پیس پرائز اسنب کے بعد ناروے کو تازہ تنقید کا نشانہ بنایا - جیسا کہ ملک کے وزیر خارجہ نے جواب دیا",
+      "desc_ur": "ڈونلڈ ٹرمپ نے اپنے تازہ ترین نوبل امن انعام سے دستبرداری کے بعد ناروے کو ایک 'ہول' ملک قرار دیا ہے اور دعویٰ کیا ہے کہ وہ ناروے کے تارکین وطن کو امریکہ میں آباد ہونے کی اجازت نہیں دیں گے۔"
     },
     {
-      "title": "Katz denies Netanyahu's plan to sack IDF chief if reelected",
-      "desc": "Israeli Defense Minister Israel Katz denied on Monday recent reports that Prime Minister Benjamin Netanyahu plans to dismiss the Israel Defense Forces (IDF) Chief of Staff Eyal Zamir if reelected as p...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/205f7146144d23a5",
-      "time": "2026-10-26T19:54:24",
-      "country": "Israel",
-      "title_ur": "Katz denies Netanyahu's plan to sack IDF chief if reelected",
-      "desc_ur": "Israeli Defense Minister Israel Katz denied on Monday recent reports that Prime Minister Benjamin Netanyahu plans to dismiss the Israel Defense Forces (IDF) Chief of Staff Eyal Zamir if reelected as p..."
-    },
-    {
-      "title": "Macklemore begins Free Palestine tour after Ed Sheeran fallout",
-      "desc": "Proceeds from the tour, which begins in Dublin next month, will go to organisations supporting Palestinians, he says.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqkgl82nm43po",
-      "time": "2026-10-26T19:53:31",
-      "country": "International",
-      "title_ur": "Macklemore begins Free Palestine tour after Ed Sheeran fallout",
-      "desc_ur": "Proceeds from the tour, which begins in Dublin next month, will go to organisations supporting Palestinians, he says."
-    },
-    {
-      "title": "Israeli Cinema Professionals Talk Hopes & Fears Ahead Of Knife-Edge Election: “It’s Like A Horror Film Because I Don’t Know What Is Behind The Door”",
-      "desc": "“It’s like a horror film because I don’t know what is behind the door. It’s hard to predict what’s going to happen,” comments Israeli director Tom Shoval ahead of Israel’s knife-edge elections on Tuesday. Like most of the country’s mainly liberal-minded film-…",
-      "source": "Deadline",
-      "url": "http://deadline.com/2026/10/israeli-cinema-professionals-hopes-fears-ahead-election-1237188603/",
-      "time": "2026-10-26T19:53:14",
-      "country": "Israel",
-      "title_ur": "Israeli Cinema Professionals Talk Hopes & Fears Ahead Of Knife-Edge Election: “It’s Like A Horror Film Because I Don’t Know What Is Behind The Door”",
-      "desc_ur": "“It’s like a horror film because I don’t know what is behind the door. It’s hard to predict what’s going to happen,” comments Israeli director Tom Shoval ahead of Israel’s knife-edge elections on Tuesday. Like most of the country’s mainly liberal-minded film-…"
-    },
-    {
-      "title": "American And Chinese Aircraft Carriers Could Cross Paths As Tensions Rise Near Taiwan",
-      "desc": "China’s Liaoning aircraft carrier strike group is heading toward waters where an American supercarrier is conducting massive military exercises.",
-      "source": "The Daily Caller",
-      "url": "https://dailycaller.com/2026/10/26/american-chinese-aircraft-carriers-could-cross-paths",
-      "time": "2026-10-26T19:53:07",
-      "country": "China",
-      "title_ur": "American And Chinese Aircraft Carriers Could Cross Paths As Tensions Rise Near Taiwan",
-      "desc_ur": "China’s Liaoning aircraft carrier strike group is heading toward waters where an American supercarrier is conducting massive military exercises."
-    },
-    {
-      "title": "U.N.-commissioned experts say Israel is still committing genocide in Gaza despite the ceasefire. Israel calls for the commission to be dissolved",
-      "desc": "Israel has long criticized the commission's output and denied accusations of genocide in Gaza and sexual assault by its forces.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/10/26/israel-un-experts-misinformation-ceasefire-genocide-gaza/",
-      "time": "2026-10-26T19:52:42",
-      "country": "Israel",
-      "title_ur": "U.N.-commissioned experts say Israel is still committing genocide in Gaza despite the ceasefire. Israel calls for the commission to be dissolved",
-      "desc_ur": "Israel has long criticized the commission's output and denied accusations of genocide in Gaza and sexual assault by its forces."
-    },
-    {
-      "title": "Female pastor announces her 'prophet' husband has married a second woman... then calls her onto stage to introduce herself",
-      "desc": "An Ohio pastor stunned her church congregation as she announced that her self-proclaimed 'prophet' husband had married a second wife. Lydia Ford, 45, the pastor of LifeWorks Church in Cleveland, Ohio, revealed to her flock that she and her husband Israel Ford…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-chat/4400683/posts",
-      "time": "2026-10-26T19:49:29",
-      "country": "Israel",
-      "title_ur": "Female pastor announces her 'prophet' husband has married a second woman... then calls her onto stage to introduce herself",
-      "desc_ur": "An Ohio pastor stunned her church congregation as she announced that her self-proclaimed 'prophet' husband had married a second wife. Lydia Ford, 45, the pastor of LifeWorks Church in Cleveland, Ohio, revealed to her flock that she and her husband Israel Ford…"
-    }
-  ],
-  "pakistan": [
-    {
-      "title": "Why Democrats are pivoting to thirst traps",
-      "desc": "Democrats have been emphasizing lots of issues in the runup to the 2026 midterms: The Iran war. The state of the economy and healthcare. Corruption. And…hotness. Specifically, their candidates: The internet is awash in clips of Michigan candidate Abdul El-Say…",
-      "source": "Vox",
-      "url": "https://www.vox.com/podcasts/506859/2026-midterms-hot-democrats-thirst-trap-politics",
-      "time": "2026-10-26T19:49:39",
-      "country": "Pakistan",
-      "title_ur": "Why Democrats are pivoting to thirst traps",
-      "desc_ur": "Democrats have been emphasizing lots of issues in the runup to the 2026 midterms: The Iran war. The state of the economy and healthcare. Corruption. And…hotness. Specifically, their candidates: The internet is awash in clips of Michigan candidate Abdul El-Say…"
-    },
-    {
-      "title": "Saudi Arabia and allies travel to Iran for talks on ending Houthi attacks, wider war",
-      "desc": "Top officials from Saudi Arabia, Turkey and Pakistan — who make up the Mecca Joint Defense Agreement — are in ​Iran on Monday in a bid to de-escalate the war with the US and the ongoing Houthi attacks.",
+      "title": "Embattled Ilhan Omar jokes with Hasan Piker about Trump admin probe — as critics blast event with controversial lefty streamer",
+      "desc": "“We just look really good on their screens,\" Rep. Ilhan Omar told the lefty streamer.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/10/26/world-news/saudi-defense-pact-holds-talks-in-iran-to-try-to-end-war-houthi-attacks/",
-      "time": "2026-10-26T19:32:32",
-      "country": "Pakistan",
-      "title_ur": "Saudi Arabia and allies travel to Iran for talks on ending Houthi attacks, wider war",
-      "desc_ur": "Top officials from Saudi Arabia, Turkey and Pakistan — who make up the Mecca Joint Defense Agreement — are in ​Iran on Monday in a bid to de-escalate the war with the US and the ongoing Houthi attacks."
+      "url": "https://nypost.com/2026/10/26/us-news/ilhan-omar-jokes-with-hasan-piker-about-trump-probe-as-critics-blast-event-with-controversial-lefty-streamer/",
+      "time": "2026-10-26T23:45:35",
+      "country": "US",
+      "title_ur": "تنازعات میں گھرے الہان ​​عمر نے حسن پیکر کے ساتھ ٹرمپ ایڈمن کی تحقیقات کے بارے میں مذاق کیا - جیسا کہ ناقدین نے متنازعہ بائیں بازو کے اسٹریمر کے ساتھ ایونٹ کو دھماکے سے اڑا دیا۔",
+      "desc_ur": "\"ہم صرف ان کی اسکرینوں پر واقعی اچھے لگتے ہیں،\" نمائندہ الہان ​​عمر نے بائیں بازو کے اسٹریمر کو بتایا۔"
+    },
+    {
+      "title": "‘Nobody Wants This’ Star Tovah Feldshuh Responds to Adam Brody’s Palestine Support: ‘To Accuse the Jewish People of Genocide’ Is ‘Right Out of Hitler’s Playbook’",
+      "desc": "“Nobody Wants This” star Tovah Feldshuh has weighed in after Adam Brody called for a “Free Palestine” during a GQ interview last month. At the time, the actor, who plays Rabbi Noah Roklov on the Netflix show, explained that while he hadn’t spoken publicly abo…",
+      "source": "Variety",
+      "url": "https://variety.com/2026/tv/news/nobody-wants-this-tovah-feldshuh-adam-brodys-palestine-1236931666/",
+      "time": "2026-10-26T23:44:45",
+      "country": "US",
+      "title_ur": "'کوئی بھی یہ نہیں چاہتا' اسٹار تووا فیلڈشوہ نے ایڈم بروڈی کی فلسطین کی حمایت کا جواب دیا: 'یہودی لوگوں پر نسل کشی کا الزام لگانا' 'ہٹلر کی پلے بک سے باہر ہے'",
+      "desc_ur": "\"کوئی بھی یہ نہیں چاہتا\" اسٹار تووا فیلڈشوہ نے پچھلے مہینے جی کیو انٹرویو کے دوران ایڈم بروڈی کے \"آزاد فلسطین\" کا مطالبہ کرنے کے بعد وزن اٹھایا ہے۔ اس وقت، اداکار، جو Netflix شو میں ربی نوح روکلوف کا کردار ادا کرتے ہیں، نے وضاحت کی کہ جب کہ اس نے عوامی طور پر اس کے بارے میں بات نہیں کی تھی…"
+    },
+    {
+      "title": "As Attacks Mount, Shipping Faces an Uncomfortable Question: Are Safety Rules Fit for War?",
+      "desc": "October has become the worst month on record for attacks on merchant ships in and around the Strait of Hormuz, and oil is now washing onto the beaches of the United Arab Emirates.",
+      "source": "gcaptain.com",
+      "url": "https://gcaptain.com/as-attacks-mount-shipping-faces-an-uncomfortable-question-are-safety-rules-fit-for-war/",
+      "time": "2026-10-26T23:43:42",
+      "country": "International",
+      "title_ur": "جیسے جیسے حملے بڑھتے ہیں، شپنگ کو ایک غیر آرام دہ سوال کا سامنا کرنا پڑتا ہے: کیا حفاظتی اصول جنگ کے لیے موزوں ہیں؟",
+      "desc_ur": "اکتوبر آبنائے ہرمز اور اس کے آس پاس تجارتی بحری جہازوں پر حملوں کے لیے ریکارڈ کا بدترین مہینہ بن گیا ہے اور اب تیل متحدہ عرب امارات کے ساحلوں پر پہنچ رہا ہے۔"
+    },
+    {
+      "title": "What to know as Israel holds first vote since 7 October",
+      "desc": "Israelis go to the polls today in an election that will decide whether Prime Minister Benjamin Netanyahu survives the worst security failure in the country's history.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/middle-east/2026/1026/1596896-israel-election/",
+      "time": "2026-10-26T23:38:12",
+      "country": "Israel",
+      "title_ur": "اسرائیل میں 7 اکتوبر کے بعد پہلی ووٹنگ کے طور پر کیا جاننا ہے۔",
+      "desc_ur": "اسرائیلی آج ایک ایسے انتخاب میں پولنگ کر رہے ہیں جو یہ فیصلہ کرے گا کہ آیا وزیر اعظم بنجمن نیتن یاہو ملکی تاریخ میں سکیورٹی کی بدترین ناکامی سے بچ گئے ہیں۔"
+    },
+    {
+      "title": "Watch: Danon confronts Francesca Albanese at UN, hands her resignation letter",
+      "desc": "Ambassador Danny Danon confronts UN rapporteur Francesca Albanese over her accusations against Israel and presents her with a resignation letter to sign: You are a disgrace to the UN.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/435206",
+      "time": "2026-10-26T23:34:13",
+      "country": "Israel",
+      "title_ur": "دیکھیں: ڈینن نے اقوام متحدہ میں فرانسسکا البانیس کا مقابلہ کیا، اپنا استعفیٰ خط حوالے کیا۔",
+      "desc_ur": "سفیر ڈینی ڈینن نے اسرائیل کے خلاف اپنے الزامات پر اقوام متحدہ کی نمائندہ فرانسسکا البانی کا سامنا کیا اور اسے دستخط کرنے کے لیے ایک استعفیٰ خط پیش کیا: آپ اقوام متحدہ کی توہین ہیں۔"
+    },
+    {
+      "title": "Ilhan Omar joins 'polarizing and dangerous' streamer at campaign event despite Democratic backlash",
+      "desc": "Rep. Ilhan Omar, D-Minn., is set to share the stage with far-left streamer Hasan Piker on Monday night despite mounting opposition from fellow Minnesota Democrats, some of whom have publicly urged the congresswoman to cancel the appearance just eight days bef…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-chat/4400702/posts",
+      "time": "2026-10-26T23:32:27",
+      "country": "US",
+      "title_ur": "الہان ​​عمر ڈیموکریٹک ردعمل کے باوجود مہم کے پروگرام میں 'پولرائزنگ اور خطرناک' اسٹریمر میں شامل ہوئے",
+      "desc_ur": "ساتھی مینیسوٹا ڈیموکریٹس کی بڑھتی ہوئی مخالفت کے باوجود نمائندہ الہان ​​عمر، ڈی-من، پیر کی رات انتہائی بائیں بازو کے اسٹریمر حسن پیکر کے ساتھ اسٹیج شیئر کرنے کے لیے تیار ہیں، جن میں سے کچھ نے عوامی طور پر کانگریس کی خاتون سے صرف آٹھ دن پہلے پیشی منسوخ کرنے کی تاکید کی ہے۔"
+    },
+    {
+      "title": "Midterm Countdown: Washington Revisits Canada Tariffs Days Before Election",
+      "desc": "The ice may be thawing in the United States-Canada trade negotiations as the former heads into a contentious midterm season and the latter grapples with a flagging export economy.",
+      "source": "WWD",
+      "url": "http://wwd.com/sourcing-journal/trade/midterm-countdown-washington-canada-tariffs-election-trump-1239386941/",
+      "time": "2026-10-26T23:23:10",
+      "country": "US",
+      "title_ur": "وسط مدتی الٹی گنتی: واشنگٹن انتخابات سے چند دن پہلے کینیڈا کے ٹیرف پر نظرثانی کرتا ہے۔",
+      "desc_ur": "امریکہ-کینیڈا کے تجارتی مذاکرات میں برف پگھل سکتی ہے کیونکہ سابقہ ​​درمیانی مدت کے متنازعہ سیزن کی طرف گامزن ہیں اور بعد میں برآمدی معیشت کو جھنجھوڑنا پڑ رہا ہے۔"
+    },
+    {
+      "title": "Trump's top economic adviser ridiculed after bashing 'myth': 'That should do it'",
+      "desc": "President Donald Trump's top economic adviser was brutally ridiculed Monday after he bashed a \"myth\" that many voters care about during an interview. Kevin Hassett, the White House national economic adviser, joined Larry Kudlow on Fox Business to discuss the …",
+      "source": "Raw Story",
+      "url": "https://www.rawstory.com/kevin-hassett-2678148046/",
+      "time": "2026-10-26T23:22:12",
+      "country": "US",
+      "title_ur": "ٹرمپ کے اعلی اقتصادی مشیر نے 'افسوس' کو مارنے کے بعد طنز کیا: 'یہ کرنا چاہئے'",
+      "desc_ur": "صدر ڈونلڈ ٹرمپ کے اعلی اقتصادی مشیر کا پیر کو اس وقت بے دردی سے مذاق اڑایا گیا جب انہوں نے ایک انٹرویو کے دوران ایک ایسی \"افسوس\" کی مذمت کی جس کی بہت سے رائے دہندگان کو خیال ہے۔ وائٹ ہاؤس کے قومی اقتصادی مشیر کیون ہیسٹ نے فاکس بزنس پر لیری کڈلو کے ساتھ بات چیت کے لیے شمولیت اختیار کی…"
+    },
+    {
+      "title": "Islamophobia Is Trump’s Closing Midterm Gambit",
+      "desc": "President Trump and his allies are ending the campaign with naked but nonsensical appeals to anti-Muslim bigotry.",
+      "source": "The Atlantic",
+      "url": "https://www.theatlantic.com/newsletters/2026/10/islamophobia-trump-midterms-el-sayed/689168/?utm_source=feed",
+      "time": "2026-10-26T23:22:00",
+      "country": "US",
+      "title_ur": "اسلاموفوبیا ٹرمپ کا اختتامی مڈٹرم گیمبٹ ہے۔",
+      "desc_ur": "صدر ٹرمپ اور ان کے اتحادی مسلم مخالف تعصب کی ننگی لیکن بے ہودہ اپیلوں کے ساتھ مہم کا خاتمہ کر رہے ہیں۔"
+    },
+    {
+      "title": "NYSC trains corps members on AI, job market demands",
+      "desc": "The NYSC in Ogun State has trained corps members on leveraging Artificial Intelligence (AI) and other skills to meet job market demands after their service\n\nRead More: https://punchng.com/nysc-trains-corps-members-on-ai-job-market-demands/",
+      "source": "The Punch",
+      "url": "https://punchng.com/nysc-trains-corps-members-on-ai-job-market-demands/",
+      "time": "2026-10-26T23:21:57",
+      "country": "International",
+      "title_ur": "NYSC کور کے اراکین کو AI، جاب مارکیٹ کے مطالبات پر تربیت دیتا ہے۔",
+      "desc_ur": "اوگن اسٹیٹ میں NYSC نے کور کے اراکین کو مصنوعی ذہانت (AI) اور دیگر مہارتوں سے فائدہ اٹھانے کے بارے میں تربیت دی ہے تاکہ ان کی سروس کے بعد جاب مارکیٹ کے تقاضوں کو پورا کیا جا سکے۔\n\nمزید پڑھیں: https://punchng.com/nysc-trains-corps-members-on-ai-job-market-demands/"
+    },
+    {
+      "title": "Gal Gadot receives honorary doctorate from Bar-Ilan University: Israel's always my home",
+      "desc": "Israeli actress Gal Gadot receives an honorary doctorate from Bar-Ilan University, reflecting on October 7, Jewish unity and mutual responsibility while urging Israelis to vote.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/435205",
+      "time": "2026-10-26T23:15:17",
+      "country": "Israel",
+      "title_ur": "Gal Gadot نے بار-Ilan یونیورسٹی سے ڈاکٹریٹ کی اعزازی ڈگری حاصل کی: اسرائیل ہمیشہ میرا گھر ہے۔",
+      "desc_ur": "اسرائیلی اداکارہ گال گیڈوٹ نے بار-ایلان یونیورسٹی سے ڈاکٹریٹ کی اعزازی ڈگری حاصل کی، 7 اکتوبر کو یہودیوں کے اتحاد اور باہمی ذمہ داری کی عکاسی کرتے ہوئے اسرائیلیوں کو ووٹ دینے پر زور دیا۔"
+    },
+    {
+      "title": "Donald Trump’s criticism of LeBron James draws a sharp response from Stephen A. Smith",
+      "desc": "Stephen A. Smith disputes Donald Trump's criticism of LeBron James after an anthem video, days after the ESPN commentator attended a White House dinner.",
+      "source": "Gamedaychatter.com",
+      "url": "https://gamedaychatter.com/donald-trumps-criticism-of-lebron-james-draws-a-sharp-response-from-stephen-a-smith/",
+      "time": "2026-10-26T23:15:00",
+      "country": "US",
+      "title_ur": "ڈونلڈ ٹرمپ کی لیبرون جیمز پر تنقید کا اسٹیفن اے اسمتھ کی طرف سے شدید ردعمل سامنے آیا",
+      "desc_ur": "اسٹیفن اے اسمتھ نے ترانے کی ویڈیو کے بعد ڈونلڈ ٹرمپ کی لیبرون جیمز پر تنقید کو متنازعہ بنایا، ای ایس پی این کے تبصرہ نگار کے وائٹ ہاؤس کے عشائیے میں شرکت کے چند دن بعد۔"
+    },
+    {
+      "title": "Minnesota Senate Race Shaken by ICE, Fraud and Ilhan Omar Probe",
+      "desc": "Republicans view the Minnesota Senate race as a potential pickup opportunity in the 2026 midterm elections, even as they face an increasingly difficult national environment in the final stretch of the campaign. The Minnesota Senate race shifted from Likely De…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-chat/4400701/posts",
+      "time": "2026-10-26T23:14:27",
+      "country": "International",
+      "title_ur": "مینیسوٹا سینیٹ کی دوڑ ICE، فراڈ اور الہان ​​عمر کی تحقیقات سے ہل گئی۔",
+      "desc_ur": "ریپبلکنز مینیسوٹا سینیٹ کی دوڑ کو 2026 کے وسط مدتی انتخابات میں ایک ممکنہ پک اپ موقع کے طور پر دیکھتے ہیں، یہاں تک کہ انتخابی مہم کے آخری حصے میں انہیں بڑھتے ہوئے مشکل قومی ماحول کا سامنا ہے۔ مینیسوٹا سینیٹ کی دوڑ ممکنہ ڈی سے منتقل ہوگئی…"
     }
   ],
+  "pakistan": [],
   "business": {
     "quote": "In the middle of difficulty lies opportunity.",
     "author": "Albert Einstein",
