@@ -1,237 +1,167 @@
 {
-  "generated": "2026-10-30T06:08:53Z",
+  "generated": "2026-10-30T13:16:06Z",
   "world": [
     {
-      "title": "18 crew members rescued from Greek-owned CONTSHIP JET after drone attack",
-      "desc": "All 18 crew members of the Greek-owned container ship CONTSHIP JET are safe after the vessel was attacked by three unmanned surface vessels (drones) in the Black Sea off the…\n18 crew members rescued from Greek-owned CONTSHIP JET after drone attack - Η ΝΑΥΤΕΜΠ…",
-      "source": "Naftemporiki.gr",
-      "url": "https://www.naftemporiki.gr/english/2181537/18-crew-members-rescued-from-greek-owned-contship-jet-after-drone-attack/",
-      "time": "2026-10-29T06:07:34",
+      "title": "Deadlock ahead for Israel as election fails to deliver an alternative to Netanyahu coalition",
+      "desc": "Stalemate in the Israeli Knesset means Netanyahu is likely to continue as caretaker prime minister.",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/deadlock-ahead-for-israel-as-election-fails-to-deliver-an-alternative-to-netanyahu-coalition-295365",
+      "time": "2026-10-29T13:12:09",
+      "country": "Israel",
+      "title_ur": "اسرائیل کے لیے ڈیڈ لاک آگے ہے کیونکہ انتخابات نیتن یاہو کے اتحاد کا متبادل فراہم کرنے میں ناکام ہو گئے ہیں۔",
+      "desc_ur": "اسرائیلی کنیسٹ میں تعطل کا مطلب ہے کہ نتن یاہو کے نگراں وزیر اعظم کے طور پر جاری رہنے کا امکان ہے۔"
+    },
+    {
+      "title": "Silicom: Q3 Earnings Snapshot",
+      "desc": "KFAR-SAVA, Israel (AP) — KFAR-SAVA, Israel (AP) — Silicom Ltd. (SILC) on Thursday reported a loss of $341,000 in its third quarter.\nOn a per-share basis, the Kfar-Sava, Israel-based company said it had a loss of 6 cents. Earnings, adjusted for one-time gains …",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/c5879aea2f202d8c",
+      "time": "2026-10-29T13:11:52",
+      "country": "Israel",
+      "title_ur": "Silicom: Q3 آمدنی کا سنیپ شاٹ",
+      "desc_ur": "KFAR-SAVA، اسرائیل (AP) - KFAR-SAVA، اسرائیل (AP) - Silicom Ltd. (SILC) نے جمعرات کو اپنی تیسری سہ ماہی میں $341,000 کے نقصان کی اطلاع دی۔\nفی حصص کی بنیاد پر، Kfar-Sava، اسرائیل میں قائم کمپنی نے کہا کہ اسے 6 سینٹ کا نقصان ہوا ہے۔ کمائیاں، یک وقتی فوائد کے لیے ایڈجسٹ…"
+    },
+    {
+      "title": "‘Scapegoat for political failures’: Qatar rejects Israeli election interference claims",
+      "desc": "Qatar has categorically dismissed accusations of meddling in Israel's electoral affairs, labeling them as baseless fabrications. Claims allege that Qatar financed Arab groups to sway voter participation in Israel. These assertions lack evidence, leading to an…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/scapegoat-for-political-failures-qatar-rejects-israeli-election-interference-claims/articleshow/135316192.cms",
+      "time": "2026-10-29T13:11:39",
+      "country": "Israel",
+      "title_ur": "'سیاسی ناکامیوں کے لیے قربانی کا بکرا': قطر نے اسرائیلی انتخابات میں مداخلت کے دعووں کو مسترد کردیا۔",
+      "desc_ur": "قطر نے واضح طور پر اسرائیل کے انتخابی معاملات میں مداخلت کے الزامات کو مسترد کرتے ہوئے انہیں بے بنیاد من گھڑت قرار دیا ہے۔ دعویٰ یہ ہے کہ قطر نے اسرائیل میں ووٹروں کی شرکت کو متاثر کرنے کے لیے عرب گروپوں کی مالی معاونت کی۔ ان دعوؤں میں ثبوت کی کمی ہے، جس کی وجہ سے…"
+    },
+    {
+      "title": "Brewers start to feel the costs of prolonged war in Iran",
+      "desc": "By Emma Rumney and Jacob Gronholt-Pedersen\nLONDON, Oct 29 (Reuters) - Top European brewers including Anheuser-Busch InBev warned this week that higher costs related to conflict in the Middle East were starting to weigh on profits or would do so in coming mont…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/2efd1380426877e5",
+      "time": "2026-10-29T13:10:05",
+      "country": "Iran",
+      "title_ur": "شراب بنانے والے ایران میں طویل جنگ کے اخراجات محسوس کرنے لگتے ہیں۔",
+      "desc_ur": "ایما رومنی اور جیکب گرون ہولٹ پیڈرسن کے ذریعہ\nلندن، اکتوبر 29 (رائٹرز) – انہیوزر-بش ان بیو سمیت اعلی یورپی شراب بنانے والوں نے اس ہفتے خبردار کیا کہ مشرق وسطیٰ میں تنازعات سے متعلق زیادہ لاگت منافع پر پڑنے لگی ہے یا آنے والے مہینے میں ایسا کریں گے…"
+    },
+    {
+      "title": "Hegseth fires top Pentagon strategist accused of leaking classified Iran, Ukraine war information",
+      "desc": "Lt. Gen. Brett Sylvia allegedly failed three polygraph exams tied to classified leaks about the Iran war and Ukraine before Pete Hegseth fired him.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/hegseth-fires-top-pentagon-strategist-accused-leaking-classified-iran-ukraine-war-information",
+      "time": "2026-10-29T13:08:37",
+      "country": "Iran",
+      "title_ur": "ہیگستھ نے پینٹاگون کے سرکردہ اسٹریٹجسٹ کو برطرف کردیا جس پر ایران، یوکرین جنگ کی خفیہ معلومات لیک کرنے کا الزام ہے۔",
+      "desc_ur": "لیفٹیننٹ جنرل بریٹ سلویا مبینہ طور پر تین پولی گراف امتحانات میں ناکام ہو گئے تھے جو کہ ایران جنگ اور یوکرین کے بارے میں خفیہ لیکس سے منسلک تھے اس سے پہلے کہ پیٹ ہیگستھ نے اسے برطرف کر دیا۔"
+    },
+    {
+      "title": "Hong Kong Sixes 2026 ground sizes in metres: Tin Kwong Road Recreation Ground boundary dimensions detailed",
+      "desc": "What is the boundary size of Tin Kwong Road Recreation Ground for Hong Kong Sixes? Explore the exact ground dimensions in metres and the boundary ropes.",
+      "source": "Cricketnews.com",
+      "url": "https://www.cricketnews.com/en/cricket/news/hong-kong-sixes-2026-ground-size-metres-tin-kwong-road-recreation-ground/5d08fa45108f0f3cc578f5b1",
+      "time": "2026-10-29T13:08:20",
       "country": "International",
-      "title_ur": "ڈرون حملے کے بعد یونانی ملکیتی CONTSHIP JET سے عملے کے 18 ارکان کو بچا لیا گیا۔",
-      "desc_ur": "یونانی ملکیت والے کنٹینر جہاز CONTSHIP JET کے عملے کے تمام 18 ارکان اس وقت محفوظ ہیں جب بحری جہاز پر بغیر پائلٹ کے تین جہازوں (ڈرونز) نے بحیرہ اسود میں حملہ کیا تھا…\nعملے کے 18 ارکان کو ڈرون حملے کے بعد یونانی ملکیتی CONTSHIP JET سے بچا لیا گیا - Η ΝΑΥΤΕΜΠ…"
+      "title_ur": "ہانگ کانگ سکسز 2026 میٹر میں زمینی سائز: ٹن کونگ روڈ تفریحی زمینی حدود کے طول و عرض تفصیلی",
+      "desc_ur": "ہانگ کانگ سکسز کے لیے ٹن کونگ روڈ تفریحی میدان کی باؤنڈری کا سائز کیا ہے؟ زمینی طول و عرض کو میٹروں اور باؤنڈری رسیوں میں دریافت کریں۔"
     },
     {
-      "title": "Albanese has a sewerage problem and the Coalition loves the stench",
-      "desc": "Questions over a golf club grant were just the beginning of a tough week in parliament for Anthony Albanese and his government.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-10-29/politics-albanese-courtney-gould/107313486",
-      "time": "2026-10-29T06:06:04",
+      "title": "With days to go before the midterms, data shows the U.S. economy is doing well",
+      "desc": "GDP grew at an annual rate of 3.4% in the third quarter in the last major read on the economy ahead of the midterm elections — but many Americans continue to struggle with affordability.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/29/nx-s1-6021008/economy-gdp-inflation-midterms-voters-affordability",
+      "time": "2026-10-29T13:05:03",
       "country": "US",
-      "title_ur": "البانی کو سیوریج کا مسئلہ ہے اور اتحاد کو بدبو پسند ہے۔",
-      "desc_ur": "گالف کلب کی گرانٹ پر سوالات انتھونی البانی اور ان کی حکومت کے لیے پارلیمنٹ میں ایک مشکل ہفتے کا آغاز تھے۔"
+      "title_ur": "وسط مدتی مدت سے پہلے کچھ دن باقی ہیں، اعداد و شمار سے پتہ چلتا ہے کہ امریکی معیشت اچھی کارکردگی کا مظاہرہ کر رہی ہے۔",
+      "desc_ur": "وسط مدتی انتخابات سے قبل معیشت پر آخری اہم پڑھنے میں تیسری سہ ماہی میں جی ڈی پی 3.4 فیصد کی سالانہ شرح سے بڑھی — لیکن بہت سے امریکی استطاعت کے ساتھ جدوجہد جاری رکھے ہوئے ہیں۔"
     },
     {
-      "title": "Putin seeks new tax revenue to fund Russia's war as budget deficit swells",
-      "desc": "With Russia's invasion of Ukraine intensifying the strain on state finances, President Vladimir Putin is reaching for cash to fund his government and the war, squeezing tax revenue from an economy that's increasingly skewed toward the military - while civilia…",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/world-news/putin-seeks-new-tax-revenue-to-fund-russia-s-war-as-budget-deficit-swells-126102900289_1.html",
-      "time": "2026-10-29T06:05:55",
-      "country": "Russia",
-      "title_ur": "پیوٹن نے بجٹ خسارہ بڑھنے پر روس کی جنگ کو فنڈ دینے کے لیے نئے ٹیکس ریونیو کی تلاش کی۔",
-      "desc_ur": "یوکرین پر روس کے حملے سے ریاستی مالیات پر دباؤ بڑھتا جا رہا ہے، صدر ولادیمیر پوٹن اپنی حکومت اور جنگ کو فنڈ دینے کے لیے نقد رقم حاصل کر رہے ہیں، ایک ایسی معیشت سے ٹیکس کی آمدنی کو نچوڑ رہے ہیں جو فوج کی طرف تیزی سے جھک رہی ہے - جبکہ شہری…"
+      "title": "Virgil Abloh’s widow Shannon sells the family’s Chicago mansion for $6.1 million in an off-market deal after building a new home worth over $15 million nearby",
+      "desc": "Virgil Abloh’s widow Shannon sells the family’s Chicago mansion for $6.1 million in an off-market deal after building a new home worth over $15 million nearby",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/real-estate/news/virgil-ablohs-widow-shannon-sells-the-familys-chicago-mansion-for-6-1-million-in-an-off-market-deal-after-building-a-new-home-worth-over-15-million-nearby/articleshow/135309455.cms",
+      "time": "2026-10-29T13:02:21",
+      "country": "International",
+      "title_ur": "ورجیل ابلوہ کی بیوہ شینن نے قریب ہی $15 ملین سے زیادہ مالیت کا نیا گھر بنانے کے بعد ایک آف مارکیٹ ڈیل میں خاندان کی شکاگو مینشن کو $6.1 ملین میں فروخت کیا۔",
+      "desc_ur": "ورجیل ابلوہ کی بیوہ شینن نے قریب ہی $15 ملین سے زیادہ مالیت کا نیا گھر بنانے کے بعد ایک آف مارکیٹ ڈیل میں خاندان کی شکاگو مینشن کو $6.1 ملین میں فروخت کیا۔"
     },
     {
-      "title": "Oil Prices Fall as Vance Moves to Restart Iran Peace Talks",
-      "desc": "Crude oil prices gave up some of the gains they made earlier this week, after U.S. Vice President JD Vance contacted the secretary of the Iranian Supreme National Security Council in a bid to restart peace talks. At the time of writing, Brent crude was tradin…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Fall-as-Vance-Moves-to-Restart-Iran-Peace-Talks.html",
-      "time": "2026-10-29T06:05:36",
-      "country": "Iran",
-      "title_ur": "ایران امن مذاکرات دوبارہ شروع کرنے کے لیے وینس کے اقدام سے تیل کی قیمتوں میں کمی",
-      "desc_ur": "خام تیل کی قیمتوں نے اس ہفتے کے شروع میں ہونے والے کچھ فوائد کو ترک کر دیا، جب امریکی نائب صدر جے ڈی وینس نے امن مذاکرات دوبارہ شروع کرنے کے لیے ایرانی سپریم نیشنل سیکیورٹی کونسل کے سیکریٹری سے رابطہ کیا۔ لکھنے کے وقت، برینٹ کروڈ ٹریڈین تھا…"
+      "title": "Cloudflare finds the largest DDoS attacks fell 69% as total attacks rose 208%",
+      "desc": "A new report out today from Cloudflare Inc.’s Cloudforce One threat intelligence unit finds that the largest distributed denial-of-service attacks fell nearly 69% in the third quarter, and network-layer attacks overall more than tripled from a year earlier, t…",
+      "source": "SiliconANGLE News",
+      "url": "https://siliconangle.com/2026/10/29/cloudflare-finds-the-largest-ddos-attacks-fell-69-as-total-attacks-rose-208/",
+      "time": "2026-10-29T13:00:56",
+      "country": "International",
+      "title_ur": "کلاؤڈ فلیئر کو پتہ چلا ہے کہ سب سے بڑے DDoS حملوں میں 69 فیصد کمی واقع ہوئی ہے کیونکہ کل حملوں میں 208 فیصد اضافہ ہوا ہے",
+      "desc_ur": "کلاؤڈ فلیئر انکارپوریشن کے کلاؤڈ فورس ون تھریٹ انٹیلی جنس یونٹ کی جانب سے آج سامنے آنے والی ایک نئی رپورٹ میں پتا چلا ہے کہ تیسری سہ ماہی میں سب سے بڑے تقسیم شدہ انکاری-سروس حملوں میں تقریباً 69 فیصد کمی آئی ہے، اور نیٹ ورک پرت کے حملوں میں مجموعی طور پر ایک سال پہلے کے مقابلے میں تین گنا زیادہ اضافہ ہوا ہے۔"
     },
     {
-      "title": "Jaded rhetoric and trite stereotypes about neutrality are inflaming triple lock debate",
-      "desc": "Government only has itself to blame if triple lock is wrongly conflated with neutrality",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/opinion/2026/10/29/jaded-rhetoric-and-trite-stereotypes-about-neutrality-are-inflaming-triple-lock-debate/",
-      "time": "2026-10-29T06:00:01",
-      "country": "Europe",
-      "title_ur": "غیرجانبداری کے بارے میں بیوقوفانہ بیان بازی اور سخت دقیانوسی تصورات ٹرپل لاک بحث کو ہوا دے رہے ہیں",
-      "desc_ur": "اگر ٹرپل لاک کو غیرجانبداری کے ساتھ غلط طریقے سے ملایا جاتا ہے تو صرف حکومت ہی اس کی ذمہ دار ہے۔"
+      "title": "One Of The Best Steven Spielberg Movies Of The 21st Century Is Officially Being Cut From Streaming",
+      "desc": "One of the best Steven Spielberg movies ever made in the 21st century is leaving streaming this week, leaving limited time to watch it again.",
+      "source": "Screen Rant",
+      "url": "https://screenrant.com/steven-spielberg-munich-movie-leaving-prime-video-november-2026/",
+      "time": "2026-10-29T13:00:18",
+      "country": "International",
+      "title_ur": "21 ویں صدی کی بہترین اسٹیون اسپیلبرگ فلموں میں سے ایک کو باضابطہ طور پر سلسلہ بندی سے کاٹ دیا گیا ہے۔",
+      "desc_ur": "21 ویں صدی میں اب تک کی بہترین اسٹیون اسپیلبرگ فلموں میں سے ایک اس ہفتے اسٹریمنگ چھوڑ رہی ہے، اسے دوبارہ دیکھنے کے لیے محدود وقت چھوڑ دیا گیا ہے۔"
     },
     {
-      "title": "71% of Americans reject it, Congress vows impeachment, yet the war machine rolls on: Who will profit from an Iran invasion after the Midterms?",
-      "desc": "U.S. has warned Gulf allies to prepare for intense military strikes against Iran after the November 3 midterm elections. Trump is leaning toward major attacks on Iran’s nuclear facilities and infrastructure, though no final decision has been made. Military pr…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-10-29-71-of-americans-reject-it-congress-vows-impeachment-yet-the-war-machine-rolls-on.html",
-      "time": "2026-10-29T06:00:00",
-      "country": "Iran",
-      "title_ur": "71% امریکی اسے مسترد کرتے ہیں، کانگریس نے مواخذے کا وعدہ کیا، پھر بھی جنگی مشین چلتی ہے: وسط مدت کے بعد ایران کے حملے سے کس کو فائدہ ہوگا؟",
-      "desc_ur": "امریکہ نے خلیجی اتحادیوں کو خبردار کیا ہے کہ وہ 3 نومبر کے وسط مدتی انتخابات کے بعد ایران کے خلاف شدید فوجی حملوں کی تیاری کریں۔ ٹرمپ کا جھکاؤ ایران کی جوہری تنصیبات اور بنیادی ڈھانچے پر بڑے حملوں کی طرف ہے، حالانکہ کوئی حتمی فیصلہ نہیں کیا گیا ہے۔ ملٹری پی آر…"
-    },
-    {
-      "title": "The Warnings Are Real: What Governments Are Preparing Forâand Why 30 Days Is Not Enough",
-      "desc": "What Governments Are Preparing For Dan Bongino’s 30-day food and water warning is a useful message wrapped in a credibility problem. Plenty of people will dismiss it because of who is delivering it, and that is exactly how a warning gets lost. I separate the …",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-10-29-warnings-are-real-what-governments-are-preparing-for.html",
-      "time": "2026-10-29T06:00:00",
+      "title": "Fox News Power Rankings: South Carolina moves to toss-up",
+      "desc": "South Carolina's Senate race moves to toss-up as new polling shows Graham tied at 48%, and Trump heads to the Upstate to boost the GOP senator.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/politics/fox-news-power-rankings-south-carolina-moves-toss-up",
+      "time": "2026-10-29T13:00:02",
       "country": "US",
-      "title_ur": "انتباہات حقیقی ہیں: حکومتیں کس چیز کی تیاری کر رہی ہیں اور 30 ​​دن کیوں کافی نہیں ہیں؟",
-      "desc_ur": "ڈین بونگینو کی 30 دن کی خوراک اور پانی کی وارننگ کے لیے حکومتیں کیا تیاری کر رہی ہیں یہ ایک کارآمد پیغام ہے جو ساکھ کے مسئلے میں لپٹا ہوا ہے۔ بہت سارے لوگ اسے اس وجہ سے مسترد کر دیں گے کہ اسے کون فراہم کر رہا ہے، اور بالکل اسی طرح ایک انتباہ ضائع ہو جاتا ہے۔ میں الگ کرتا ہوں…"
+      "title_ur": "فاکس نیوز پاور رینکنگ: ساؤتھ کیرولینا ٹاس اپ کی طرف بڑھ رہی ہے۔",
+      "desc_ur": "جنوبی کیرولائنا کی سینیٹ کی دوڑ ٹاس اپ کی طرف بڑھ رہی ہے کیونکہ نئی پولنگ سے پتہ چلتا ہے کہ گراہم 48٪ پر بندھے ہوئے ہیں، اور ٹرمپ GOP سینیٹر کو فروغ دینے کے لیے اپسٹیٹ کی طرف بڑھ رہے ہیں۔"
     },
     {
-      "title": "US midterms: Inside the Democrats’ secret effort to sow confusion in Alaska ballot",
-      "desc": "Operatives aligned with Democratic nominee for US senate sought candidates of same name as Republican rival",
-      "source": "The Irish Times",
-      "url": "https://www.irishtimes.com/world/us/2026/10/29/us-midterms-inside-the-democrats-secret-effort-to-sow-confusion-in-alaska-ballot/",
-      "time": "2026-10-29T06:00:00",
+      "title": "How Dropkick Murphys Became Punk’s Loudest Anti-Trump Voice",
+      "desc": "Interview with Dropkick Murphys, the Boston punk heroes who have spoken out against Trump and made fans of Bruce Springsteen and Maura Healey",
+      "source": "Rolling Stone",
+      "url": "http://www.rollingstone.com/music/music-features/dropkick-murphys-boston-punk-anti-trump-interview-1235648956/",
+      "time": "2026-10-29T13:00:00",
       "country": "US",
-      "title_ur": "امریکی وسط مدتی: الاسکا بیلٹ میں الجھن بونے کی ڈیموکریٹس کی خفیہ کوشش کے اندر",
-      "desc_ur": "امریکی سینیٹ کے لیے ڈیموکریٹک امیدوار کے ساتھ منسلک کارکنوں نے ریپبلکن حریف کے طور پر اسی نام کے امیدواروں کی تلاش کی"
+      "title_ur": "ڈراپ کِک مرفیز پنک کی سب سے بلند ترین اینٹی ٹرمپ آواز کیسے بنی۔",
+      "desc_ur": "ڈراپ کِک مرفیس کے ساتھ انٹرویو، بوسٹن کے پنک ہیروز جنہوں نے ٹرمپ کے خلاف بات کی اور بروس اسپرنگسٹن اور مورا ہیلی کے مداح بنائے۔"
     },
     {
-      "title": "U.S. Designates Helium as Critical Material, Citing Semiconductor and Supply Chain Risks",
-      "desc": "The U.S. Department of Energy (DOE) announced on Friday, Oct. 23, that Secretary of Energy Chris Wright has designated helium as a critical material under the Energy Act of 2020 [1]. The department made the designation because helium is indispensable for maki…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-10-29-us-helium-critical-material-semiconductor-supply-risks.html",
-      "time": "2026-10-29T06:00:00",
+      "title": "Dallas County has abandoned Sand Branch for decades. Now it must finally deliver clean water",
+      "desc": "A devastating fire exposed the dangers of life without running water. Dallas County and Texas leaders have the money and power to end this shameful neglect.",
+      "source": "Dallas Observer",
+      "url": "http://www.dallasobserver.com/opinion/dallas-county-has-abandoned-sand-branch-for-decades-now-it-must-finally-deliver-clean-water-40728276/",
+      "time": "2026-10-29T13:00:00",
       "country": "US",
-      "title_ur": "امریکہ نے سیمی کنڈکٹر اور سپلائی چین کے خطرات کا حوالہ دیتے ہوئے ہیلیم کو اہم مواد قرار دیا",
-      "desc_ur": "یو ایس ڈپارٹمنٹ آف انرجی (DOE) نے جمعہ، 23 اکتوبر کو اعلان کیا کہ توانائی کے سیکریٹری کرس رائٹ نے 2020 کے انرجی ایکٹ کے تحت ہیلیم کو ایک اہم مواد کے طور پر نامزد کیا ہے [1]۔ محکمہ نے یہ عہدہ اس لیے دیا کیونکہ ہیلیم ماکی کے لیے ناگزیر ہے…"
+      "title_ur": "ڈلاس کاؤنٹی نے کئی دہائیوں سے ریت کی شاخ کو ترک کر دیا ہے۔ اب اسے آخر کار صاف پانی فراہم کرنا ہوگا۔",
+      "desc_ur": "ایک تباہ کن آگ نے بہتے پانی کے بغیر زندگی کے خطرات کو بے نقاب کردیا۔ ڈلاس کاؤنٹی اور ٹیکساس کے رہنماؤں کے پاس اس شرمناک غفلت کو ختم کرنے کے لیے پیسہ اور طاقت ہے۔"
     },
     {
-      "title": "Israeli Election Ends in Another Stalemate, Netanyahu and Eisenkot Deadlocked",
-      "desc": "Exit polls published after polls closed at 10 p.m. local time showed Israeli Prime Minister Benjamin Netanyahu’s Likud party winning the highest share of votes, according to the Kan public broadcaster. Kan projected Likud at 25 seats and former Israel Defense…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-10-29-israeli-election-stalemate-netanyahu-eisenkot-deadlocked.html",
-      "time": "2026-10-29T06:00:00",
+      "title": "Bulldozers, glyphosate, white phosphorus: Israel’s destruction of South Lebanon’s olive groves",
+      "desc": "Lebanese farmers are losing their livelihood as Israeli forces uproot centuries-old trees, destroy olive groves, and demolish entire towns and villages, rendering them uninhabitable.",
+      "source": "Mondoweiss",
+      "url": "https://mondoweiss.net/2026/10/bulldozers-glyphosate-white-phosphorus-israels-destruction-of-south-lebanons-olive-groves/",
+      "time": "2026-10-29T13:00:00",
       "country": "Israel",
-      "title_ur": "اسرائیلی انتخابات ایک اور تعطل میں ختم، نیتن یاہو اور آئزن کوٹ تعطل کا شکار",
-      "desc_ur": "رات 10 بجے پول بند ہونے کے بعد ایگزٹ پول شائع ہوئے۔ کان پبلک براڈکاسٹر کے مطابق، مقامی وقت کے مطابق اسرائیلی وزیر اعظم بنجمن نیتن یاہو کی لیکود پارٹی نے سب سے زیادہ ووٹ حاصل کیے ہیں۔ کان نے لیکوڈ کو 25 نشستوں پر پیش کیا اور اسرائیل کے سابق دفاعی…"
+      "title_ur": "بلڈوزر، گلائفوسیٹ، سفید فاسفورس: اسرائیل کی جانب سے جنوبی لبنان کے زیتون کے باغات کی تباہی",
+      "desc_ur": "لبنانی کسان اپنی روزی روٹی کھو رہے ہیں کیونکہ اسرائیلی افواج نے صدیوں پرانے درختوں کو جڑ سے اکھاڑ پھینکا، زیتون کے باغات کو تباہ کر دیا، اور تمام قصبوں اور دیہاتوں کو مسمار کر دیا، جس سے وہ رہائش کے قابل نہیں ہیں۔"
     },
     {
-      "title": "Thomas Massie Calls Out Trump for Iran War 'Legal Fiction' as President Says Conflict Ends 'Whenever I Want'",
-      "desc": "Rep. Thomas Massie criticized Trump’s Iran war remarks, arguing the Constitution requires Congress to authorize military action.",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/cbab79e7965721bb",
-      "time": "2026-10-29T05:58:42",
-      "country": "Iran",
-      "title_ur": "تھامس میسی نے ٹرمپ کو ایران جنگ کے لیے 'قانونی افسانہ' قرار دیا جیسا کہ صدر کا کہنا ہے کہ 'جب میں چاہتا ہوں' تنازعہ ختم",
-      "desc_ur": "نمائندہ تھامس میسی نے ٹرمپ کے ایران جنگی ریمارکس پر تنقید کی، دلیل دی کہ آئین کانگریس کو فوجی کارروائی کی اجازت دینے کا تقاضا کرتا ہے۔"
-    },
-    {
-      "title": "CEO says plan is to file for bankruptcy after ending luxury never-ending cruise that left hundreds stranded",
-      "desc": "More than 200 passengers, mostly Americans, after the operator of a luxury U.S. cruise ship that was on a continuous around-the-world voyage ran out of money due to .\nVilla Vie Residences, the Florida-based operator of the MV Odyssey, said the war with Iran q…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/4077efe0eb3413d6",
-      "time": "2026-10-29T05:58:34",
-      "country": "Iran",
-      "title_ur": "سی ای او کا کہنا ہے کہ لگژری کبھی نہ ختم ہونے والے کروز کو ختم کرنے کے بعد دیوالیہ پن کے لئے فائل کرنے کا منصوبہ ہے جس نے سینکڑوں پھنسے ہوئے",
-      "desc_ur": "لگژری یو ایس کروز شپ کے آپریٹر کے بعد 200 سے زیادہ مسافر، جن میں زیادہ تر امریکی تھے، جو کہ دنیا بھر میں مسلسل سفر کر رہا تھا، کی وجہ سے پیسے ختم ہو گئے۔\nایم وی اوڈیسی کے فلوریڈا میں مقیم آپریٹر ولا وی ریذیڈنسز نے کہا کہ ایران کے ساتھ جنگ…"
-    },
-    {
-      "title": "Israel election: Netanyahu-led bloc holds lead with nearly 90% of votes counted",
-      "desc": "With nearly 90% of votes counted, the pro-Netanyahu bloc is just ahead of the anti-Netanyahu bloc, but neither grouping is expected to win a majority, with tough coalition talks ahead. Follow DW. Israel's election turnout was the highest in decades \nLatest vo…",
-      "source": "DW (English)",
-      "url": "https://www.dw.com/en/israel-election-netanyahu-led-bloc-holds-lead-with-nearly-90-of-votes-counted/live-79713839",
-      "time": "2026-10-29T05:37:00",
+      "title": "Nothing will change until Israelis realize: One side's victory doesn't mean the other's destruction",
+      "desc": "Believing that Israel is trapped in a zero-sum game is a dangerous mistake. The test of the quality of our democracy will lie in the loser's ability to remain fully at home",
+      "source": "Haaretz",
+      "url": "https://www.haaretz.com/israel-news/elections/2026-10-29/ty-article-magazine/.highlight/israelis-must-realize-one-sides-victory-doesnt-mean-the-others-destruction/000001a1-873f-dceb-abfd-bf7f45f00000",
+      "time": "2026-10-29T12:57:30",
       "country": "Israel",
-      "title_ur": "اسرائیل انتخابات: نتن یاہو کی زیرقیادت بلاک کو تقریباً 90 فیصد ووٹوں کی گنتی کے ساتھ برتری حاصل ہے۔",
-      "desc_ur": "تقریباً 90% ووٹوں کی گنتی کے ساتھ، نتن یاہو کا حامی بلاک نیتن یاہو مخالف بلاک سے بالکل آگے ہے، لیکن کسی بھی گروپ کو اکثریت حاصل کرنے کی توقع نہیں ہے، سخت اتحادی بات چیت آگے ہے۔ ڈی ڈبلیو کو فالو کریں۔ اسرائیل کا انتخابی ٹرن آؤٹ دہائیوں میں سب سے زیادہ تھا۔ \nتازہ ترین vo…"
-    },
-    {
-      "title": "Why a Democratic win in US midterms could adversely affect Europe",
-      "desc": "Complacency about rising far-right movements and renewed pressure on Ukraine could be the result.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/features/2026/10/29/why-a-democratic-win-in-us-midterms-could-adversely-affect-europe",
-      "time": "2026-10-29T05:36:08",
-      "country": "UK",
-      "title_ur": "کیوں امریکی وسط مدتی انتخابات میں ڈیموکریٹک جیت یورپ پر منفی اثر ڈال سکتی ہے۔",
-      "desc_ur": "انتہائی دائیں بازو کی بڑھتی ہوئی تحریکوں اور یوکرین پر نئے دباؤ کے بارے میں اطمینان کا نتیجہ ہو سکتا ہے۔"
-    },
-    {
-      "title": "The Human Shelter Documentary Asks What Makes a Home from Japan to Uganda",
-      "desc": "The Human Shelter: Expedition into What Makes a Home is an exploration of the feeling of home. Directed by Boris Bertram and funded by IKEA, the film looks at present ways of living in Norway, Iraq, the United States, Nigeria, Japan, Uganda, and Iceland, inte…",
-      "source": "ArchDaily",
-      "url": "https://www.archdaily.com/1187729/the-human-shelter-documentary-asks-what-makes-a-home-from-japan-to-uganda",
-      "time": "2026-10-29T05:30:00",
-      "country": "Iraq",
-      "title_ur": "ہیومن شیلٹر ڈاکیومینٹری پوچھتی ہے کہ جاپان سے یوگنڈا تک گھر کیا بناتا ہے۔",
-      "desc_ur": "دی ہیومن شیلٹر: ایک گھر بناتا ہے میں مہم گھر کے احساس کی تلاش ہے۔ بورس برٹرم کی ہدایت کاری میں اور IKEA کی مالی اعانت سے چلنے والی، یہ فلم ناروے، عراق، ریاستہائے متحدہ، نائجیریا، جاپان، یوگنڈا اور آئس لینڈ میں زندگی گزارنے کے موجودہ طریقوں پر نظر ڈالتی ہے۔"
+      "title_ur": "کچھ بھی نہیں بدلے گا جب تک اسرائیلیوں کو یہ احساس نہ ہو: ایک فریق کی جیت کا مطلب دوسرے کی تباہی نہیں ہے۔",
+      "desc_ur": "یہ ماننا کہ اسرائیل صفر کے کھیل میں پھنس گیا ہے ایک خطرناک غلطی ہے۔ ہماری جمہوریت کے معیار کا امتحان ہارنے والے کی مکمل طور پر گھر میں رہنے کی صلاحیت میں ہے۔"
     }
   ],
   "pakistan": [
     {
-      "title": "Saudi, Egyptian Stocks Fall After Yemeni Strikes on Saudi Arabia",
-      "desc": "Saudi Arabia’s benchmark stock index fell 2.6 percent on Sunday, 25 October, and Egypt’s Blue Chip index dropped 2.5 percent, approaching its lowest level in almost seven months, according to market data reported by Reuters [1][2]. The declines followed opera…",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-10-29-saudi-egyptian-stocks-fall-after-yemeni-strikes.html",
-      "time": "2026-10-29T06:00:00",
+      "title": "Evening newswrap: Pakistani lawmaker mocks Khawaja Asif after Munir’s Iran visit; SC wonders what's 'wrong' with victims of digital arrest & more",
+      "desc": "Uttar Pradesh has barred candidates linked to organisations advocating violent regime change from state government jobs, while introducing permanent",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/evening-newswrap-pakistani-lawmaker-mocks-khawaja-asif-after-munirs-iran-visit-sc-wonders-whats-wrong-with-victims-of-digital-arrest-more/articleshow/135314210.cms",
+      "time": "2026-10-29T12:59:00",
       "country": "Pakistan",
-      "title_ur": "سعودی عرب پر یمنی حملوں کے بعد سعودی، مصری اسٹاکس گر گئے۔",
-      "desc_ur": "سعودی عرب کا بینچ مارک اسٹاک انڈیکس اتوار 25 اکتوبر کو 2.6 فیصد گر گیا اور مصر کا بلیو چپ انڈیکس 2.5 فیصد گر گیا، جو کہ تقریباً سات ماہ کی کم ترین سطح پر پہنچ گیا، رائٹرز [1][2] کی رپورٹ کردہ مارکیٹ کے اعداد و شمار کے مطابق۔ اوپیرا کے بعد کمی…"
-    },
-    {
-      "title": "Saudi Oil Exports Fight Back: East-West Pipeline Resumes Flows Amid War Risks and Shipping Disruptions",
-      "desc": "Energy Minister Prince Abdulaziz bin Salman has announced that Saudi Arabia’s East-West pipeline has moved 5.8 million barrels of crude as of Oct. 6 [1]. The figure marks a significant step in the kingdom’s effort to restore its Red Sea export corridor after …",
-      "source": "Naturalnews.com",
-      "url": "https://www.naturalnews.com/2026-10-29-saudi-east-west-pipeline-resumes-amid-war-risks.html",
-      "time": "2026-10-29T06:00:00",
-      "country": "Pakistan",
-      "title_ur": "سعودی تیل کی برآمدات کا مقابلہ: جنگ کے خطرات اور جہاز رانی میں رکاوٹوں کے درمیان مشرقی مغربی پائپ لائن کا بہاؤ دوبارہ شروع",
-      "desc_ur": "وزیر توانائی شہزادہ عبدالعزیز بن سلمان نے اعلان کیا ہے کہ سعودی عرب کی مشرقی مغربی پائپ لائن 6 اکتوبر تک 5.8 ملین بیرل خام تیل منتقل کر چکی ہے [1]۔ یہ اعداد و شمار مملکت کی جانب سے بحیرہ احمر کے برآمدی راہداری کو بحال کرنے کی کوشش میں ایک اہم قدم کی نشاندہی کرتا ہے…"
-    },
-    {
-      "title": "Taiwan suspects China behind Pakistan's brief airspace ban for its airlines",
-      "desc": "Taiwan's Deputy Foreign Minister Chen Ming-chi said Pakistan's move sent a dangerous message, as Taiwanese commercial flights resumed over the country on Thursday after permits were approved",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/world-news/taiwan-suspects-china-behind-pakistan-s-brief-airspace-ban-for-its-airlines-126102900461_1.html",
-      "time": "2026-10-29T05:43:01",
-      "country": "Pakistan",
-      "title_ur": "تائیوان کو شبہ ہے کہ اس کی ایئر لائنز پر پاکستان کی مختصر فضائی حدود کی پابندی کے پیچھے چین ہے۔",
-      "desc_ur": "تائیوان کے نائب وزیر خارجہ چن منگ چی نے کہا کہ پاکستان کے اس اقدام نے ایک خطرناک پیغام بھیجا ہے، کیونکہ پرمٹ منظور ہونے کے بعد جمعرات کو تائیوان کی تجارتی پروازیں ملک میں دوبارہ شروع ہو گئیں۔"
-    },
-    {
-      "title": "Skeptical Science New Research for Week #44 2026",
-      "desc": "Open access notables\n\nAre Modern Droughts Unprecedented?, Helpap et al., AGU Advances\n\nGlobal drought variability of past centuries remains poorly understood due to sparse instrumental records and limited paleoclimate reconstructions. Yet, quantifying long-te…",
-      "source": "Skepticalscience.com",
-      "url": "https://skepticalscience.com/new_research_2026_44.html",
-      "time": "2026-10-29T05:35:44",
-      "country": "Pakistan",
-      "title_ur": "شکی سائنس کی نئی تحقیق برائے ہفتہ #44 2026",
-      "desc_ur": "قابل ذکر تک رسائی کو کھولیں۔\n\nکیا جدید خشک سالی بے مثال ہیں؟، ہیلپپ وغیرہ، اے جی یو ایڈوانسز\n\nپچھلی صدیوں کے عالمی خشک سالی کے تغیرات کو ناقص آلات کے ریکارڈ اور محدود پیلیوکلیمیٹ تعمیر نو کی وجہ سے بخوبی سمجھا جاتا ہے۔ پھر بھی، طویل مدتی کی مقدار درست کرنا…"
-    },
-    {
-      "title": "‘Netanyahu fatigue’ in Washington after Israel vote - Politico",
-      "desc": "‘Netanyahu fatigue’ in Washington after Israel votePolitico Exceptional military and intelligence cooperation between Washington and Tel Aviv, regardless of election results Hadassah Looks Forward to the Continued Strength of the US-Israel Alliance Following …",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186492202",
-      "time": "2026-10-29T05:32:48",
-      "country": "Pakistan",
-      "title_ur": "اسرائیل کے ووٹ کے بعد واشنگٹن میں نیتن یاہو کی تھکاوٹ - پولیٹیکو",
-      "desc_ur": "اسرائیل کے ووٹ پولیٹیکو کے بعد واشنگٹن میں 'نیتن یاہو کی تھکاوٹ' واشنگٹن اور تل ابیب کے درمیان غیر معمولی فوجی اور انٹیلی جنس تعاون، انتخابی نتائج سے قطع نظر حداسہ امریکہ-اسرائیل اتحاد کی مسلسل طاقت کا منتظر ہے"
-    },
-    {
-      "title": "Morbi exporters resume Gulf shipments, but FY27 exports may shrink by 40%",
-      "desc": "Tentative resumption of Gulf shipments via Strait of Hormuz offers limited relief as nearly 40% of units remain shut",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/morbi-exporters-resume-gulf-shipments-but-fy27-exports-may-shrink-by-40/article71639119.ece",
-      "time": "2026-10-29T05:20:38",
-      "country": "Pakistan",
-      "title_ur": "موربی کے برآمد کنندگان نے خلیج کی ترسیل دوبارہ شروع کی، لیکن مالی سال 27 کی برآمدات 40 فیصد تک سکڑ سکتی ہیں",
-      "desc_ur": "آبنائے ہرمز کے راستے خلیجی ترسیل کی عارضی بحالی سے محدود ریلیف ملتا ہے کیونکہ تقریباً 40 فیصد یونٹ بند رہتے ہیں"
-    },
-    {
-      "title": "Oil prices fall as hopes of US-Iran peace talks ease supply fears",
-      "desc": "Brent crude fell 1.1% to $114.10 a barrel and WTI dropped 1.3% to $101.45, paring Wednesday's gains as reports of renewed diplomatic efforts eased concerns over supply disruptions",
-      "source": "Business Standard",
-      "url": "https://www.business-standard.com/markets/commodities/oil-prices-fall-as-hopes-of-us-iran-peace-talks-ease-supply-fears-126102900085_1.html",
-      "time": "2026-10-29T04:44:29",
-      "country": "Pakistan",
-      "title_ur": "تیل کی قیمتیں گرتی ہیں کیونکہ امریکہ ایران امن مذاکرات کی امیدوں نے رسد کے خدشات کو کم کیا ہے۔",
-      "desc_ur": "برینٹ کروڈ 1.1 فیصد گر کر 114.10 ڈالر فی بیرل اور ڈبلیو ٹی آئی 1.3 فیصد گر کر 101.45 ڈالر پر آگئی، بدھ کے روز کے فوائد کو کم کرتے ہوئے نئی سفارتی کوششوں کی اطلاعات نے سپلائی میں خلل کے خدشات کو کم کیا۔"
-    },
-    {
-      "title": "Evolving Scope of the China-Pakistan Economic Corridor",
-      "desc": "The two countries have launched the China-Pakistan Information Corridor to counter ‘misleading narratives,’ expand cultural exchanges, and strengthen think tank cooperation.",
-      "source": "The Diplomat",
-      "url": "https://thediplomat.com/2026/10/evolving-scope-of-the-china-pakistan-economic-corridor/",
-      "time": "2026-10-29T04:21:00",
-      "country": "Pakistan",
-      "title_ur": "چین پاکستان اقتصادی راہداری کا ابھرتا ہوا دائرہ",
-      "desc_ur": "دونوں ممالک نے 'گمراہ کن بیانیہ' کا مقابلہ کرنے، ثقافتی تبادلوں کو وسعت دینے اور تھنک ٹینک تعاون کو مضبوط کرنے کے لیے چین پاکستان انفارمیشن کوریڈور کا آغاز کیا ہے۔"
+      "title_ur": "شام کی خبریں: منیر کے دورہ ایران کے بعد پاکستانی قانون ساز نے خواجہ آصف کا مذاق اڑایا۔ SC حیران ہے کہ ڈیجیٹل گرفتاری اور مزید کے متاثرین کے ساتھ 'غلط' کیا ہے۔",
+      "desc_ur": "اتر پردیش نے پرتشدد حکومت کی تبدیلی کی حمایت کرنے والی تنظیموں سے منسلک امیدواروں کو ریاستی سرکاری ملازمتوں سے روک دیا ہے، جبکہ مستقل کو متعارف کرایا ہے۔"
     }
   ],
   "business": {
@@ -248,9 +178,9 @@
         "day": "جمعہ",
         "high": 27,
         "low": 18,
-        "condition": "Clear",
-        "condition_ur": "صاف",
-        "precip": 2
+        "condition": "Mainly Clear",
+        "condition_ur": "زیادہ تر صاف",
+        "precip": 0
       },
       {
         "date": "2026-10-31",
@@ -266,8 +196,8 @@
         "day": "اتوار",
         "high": 28,
         "low": 18,
-        "condition": "Mainly Clear",
-        "condition_ur": "زیادہ تر صاف",
+        "condition": "Overcast",
+        "condition_ur": "ابر آلود",
         "precip": 0
       },
       {
@@ -284,8 +214,8 @@
         "day": "منگل",
         "high": 29,
         "low": 18,
-        "condition": "Clear",
-        "condition_ur": "صاف",
+        "condition": "Mainly Clear",
+        "condition_ur": "زیادہ تر صاف",
         "precip": 0
       },
       {
@@ -293,8 +223,8 @@
         "day": "بدھ",
         "high": 28,
         "low": 17,
-        "condition": "Partly Cloudy",
-        "condition_ur": "جزوی ابر آلود",
+        "condition": "Mainly Clear",
+        "condition_ur": "زیادہ تر صاف",
         "precip": 0
       },
       {
@@ -302,8 +232,8 @@
         "day": "جمعرات",
         "high": 29,
         "low": 17,
-        "condition": "Clear",
-        "condition_ur": "صاف",
+        "condition": "Mainly Clear",
+        "condition_ur": "زیادہ تر صاف",
         "precip": 0
       }
     ]
