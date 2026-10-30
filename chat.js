@@ -1,11 +1,11 @@
 (function() {
-  var API_KEY = atob('QVEuQWI4Uk42SVMweWEwbmRhQWpPOXNqSWxrWmNGSFZkTWZkZnlBektnVVdaRDZYS2dnREE=');
+  // Address of the private proxy that holds the API key (see proxy/worker.js).
+  var PROXY_URL = 'PROXY_URL_HERE';
   var MODELS = [
     'gemini-2.5-flash',
     'gemini-3.1-flash-lite',
     'gemini-2.5-flash-lite'
   ];
-  var BASE_URL = 'https://generativelanguage.googleapis.com/v1beta/models/';
 
   var GUIDE_PROMPT = `You are AI BABA J (اے آئی بابا جی), the compassionate spiritual companion of the website pirgorayshah.live (Syed Saleem Raza Kazmi, Pir Goray Shah). You walk beside people through anxiety, grief, money worries, family strain and loss of meaning, using the Qur'an, the Prophet's ﷺ guidance, the Ahl al-Bayt عليهم السلام, and sound psychology. You are warm, calm and honest. You are a companion, not a doctor, not a mufti, not a miracle-worker.
 
@@ -525,11 +525,10 @@ Respond in the language the user asks in (Urdu, English, Arabic, Persian).`;
       if (modelIdx >= MODELS.length) {
         return Promise.reject(new Error('All models unavailable.'));
       }
-      var url = BASE_URL + MODELS[modelIdx] + ':generateContent?key=' + API_KEY;
-      return fetch(url, {
+      return fetch(PROXY_URL, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
+        body: JSON.stringify({ model: MODELS[modelIdx], payload: {
           systemInstruction: { parts: [{ text: systemText }] },
           contents: chatHistory.map(function(m) {
             return { role: m.role === 'User' ? 'user' : 'model', parts: [{ text: m.text }] };
@@ -540,7 +539,7 @@ Respond in the language the user asks in (Urdu, English, Arabic, Persian).`;
             { category: 'HARM_CATEGORY_SEXUALLY_EXPLICIT', threshold: 'BLOCK_NONE' },
             { category: 'HARM_CATEGORY_DANGEROUS_CONTENT', threshold: 'BLOCK_NONE' }
           ]
-        })
+        } })
       }).then(function(res) {
         if (!res.ok) {
           return res.json().then(function(e) {
