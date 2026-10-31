@@ -1,177 +1,187 @@
 {
-  "generated": "2026-10-31T01:57:19Z",
+  "generated": "2026-10-31T08:00:03Z",
   "world": [
     {
-      "title": "Weak quarter for Intel sends shivers through cooling chip stocks",
-      "desc": "Chip stocks, particularly those affected by Intel's earnings, faced significant declines following the report's release. Intel attributed its downturn to challenges in the PC industry and a recent factory explosion. Other major chipmakers like AMD and Broadco…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/weak-quarter-for-intel-sends-shivers-through-cooling-chip-stocks/articleshow/135338775.cms",
-      "time": "2026-10-30T01:56:12",
-      "country": "US",
-      "title_ur": "انٹیل کے لیے کمزور سہ ماہی کولنگ چپ اسٹاکس کے ذریعے کانپتی ہے۔",
-      "desc_ur": "چپ اسٹاک، خاص طور پر انٹیل کی آمدنی سے متاثر ہونے والے، رپورٹ کے اجراء کے بعد نمایاں کمی کا سامنا کرنا پڑا۔ انٹیل نے اپنی مندی کی وجہ پی سی انڈسٹری میں چیلنجز اور حال ہی میں فیکٹری میں ہونے والے دھماکے کو قرار دیا۔ دیگر بڑے چپ ساز جیسے AMD اور Broadco…"
-    },
-    {
-      "title": "Chinese EVs win over some in South Korea, but Japan is proving to be a rougher road",
-      "desc": "Chinese electric vehicle makers such as BYD are making inroads into South Korea, challenging established domestic brands with competitively priced models and growing dealership networks. BYD has sold more than 20,000 vehicles in the country in the first nine …",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/business/chinese-evs-win-over-some-in-south-korea-but-japan-is-proving-to-be-a-rougher-road/articleshow/135338612.cms",
-      "time": "2026-10-30T01:54:27",
-      "country": "International",
-      "title_ur": "چینی ای وی نے جنوبی کوریا میں کچھ پر کامیابی حاصل کی ہے، لیکن جاپان اس سے کہیں زیادہ کچا راستہ ثابت ہو رہا ہے۔",
-      "desc_ur": "چینی الیکٹرک گاڑیاں بنانے والی کمپنیاں جیسے کہ BYD جنوبی کوریا میں داخل ہو رہی ہیں، مسابقتی قیمت والے ماڈلز اور بڑھتے ہوئے ڈیلرشپ نیٹ ورکس کے ساتھ قائم گھریلو برانڈز کو چیلنج کر رہی ہیں۔ BYD نے پہلے نو میں ملک میں 20,000 سے زیادہ گاڑیاں فروخت کی ہیں…"
-    },
-    {
-      "title": "Rajnath Singh proposes ASEAN youth bridge to boost ties",
-      "desc": "Defence Minister Rajnath Singh proposed a dedicated youth bridge across the Asean region for innovation and collaboration. He emphasized the importance of empowering youth to enhance regional peace and security in the Indo-Pacific. Singh highlighted India's m…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/india/rajnath-singh-proposes-asean-youth-bridge-to-boost-ties/articleshow/135338343.cms",
-      "time": "2026-10-30T01:52:06",
-      "country": "India",
-      "title_ur": "راج ناتھ سنگھ نے تعلقات کو فروغ دینے کے لیے آسیان یوتھ پل کی تجویز پیش کی۔",
-      "desc_ur": "وزیر دفاع راج ناتھ سنگھ نے ایجادات اور تعاون کے لیے آسیان خطے میں نوجوانوں کے لیے وقف پل کی تجویز پیش کی۔ انہوں نے انڈو پیسیفک میں علاقائی امن اور سلامتی کو بڑھانے کے لیے نوجوانوں کو بااختیار بنانے کی اہمیت پر زور دیا۔ سنگھ نے ہندوستان کے ایم…"
-    },
-    {
-      "title": "Pope Leo requested an absentee ballot in Illinois to vote in the midterms",
-      "desc": "It’s not clear whether Leo, who has been critical of the Trump administration, has mailed off his ballot yet.",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/politics/2026-election/pope-leo-requested-absentee-ballot-illinois-vote-midterms-rcna606468",
-      "time": "2026-10-30T01:44:30",
-      "country": "US",
-      "title_ur": "پوپ لیو نے الینوائے میں غیر حاضر بیلٹ سے وسط مدت میں ووٹ دینے کی درخواست کی۔",
-      "desc_ur": "یہ واضح نہیں ہے کہ ٹرمپ انتظامیہ پر تنقید کرنے والے لیو نے ابھی تک اپنا بیلٹ بھیج دیا ہے۔"
-    },
-    {
-      "title": "Israel’s final election results show neither Netanyahu nor rival can immediately form government",
-      "desc": "Prime Minister Benjamin Netanyahu’s right-wing bloc won 53 seats in Israel’s 120-member Knesset, or parliament, well below the 68 seats it had controlled at its peak in the previous parliament.",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/world/israel/israels-final-election-results-show-neither-netanyahu-rival-can-immedi-rcna606290",
-      "time": "2026-10-30T01:42:46",
-      "country": "Israel",
-      "title_ur": "اسرائیل کے حتمی انتخابی نتائج سے ظاہر ہوتا ہے کہ نیتن یاہو یا حریف فوری طور پر حکومت نہیں بنا سکتے",
-      "desc_ur": "وزیر اعظم بنجمن نیتن یاہو کے دائیں بازو کے بلاک نے اسرائیل کی 120 رکنی کنیسٹ یا پارلیمنٹ میں 53 نشستیں حاصل کیں، جو کہ پچھلی پارلیمنٹ میں اپنے عروج پر اس کے زیر کنٹرول 68 نشستوں سے بہت کم ہیں۔"
-    },
-    {
-      "title": "​10 baby names that mean 'star' in different languages​",
-      "desc": "Everyone dreams of who their kid would be when they grow up. A doctor, an artist, a footballer, the next big name in science? And despite what profession they end up in, you want them to be the star of that field. And, what name is better for your star; the o…",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/life-style/parenting/baby-names/10-baby-names-that-mean-star-in-different-languages/photostory/135323392.cms",
-      "time": "2026-10-30T01:30:00",
-      "country": "International",
-      "title_ur": "10 بچوں کے نام جن کا مطلب مختلف زبانوں میں 'ستارہ' ہے۔",
-      "desc_ur": "ہر کوئی خواب دیکھتا ہے کہ ان کا بچہ بڑا ہو کر کون ہوگا۔ ایک ڈاکٹر، ایک آرٹسٹ، ایک فٹ بالر، سائنس میں اگلا بڑا نام؟ اور اس کے باوجود کہ وہ کس پیشے سے تعلق رکھتے ہیں، آپ چاہتے ہیں کہ وہ اس شعبے کا ستارہ بنیں۔ اور، آپ کے ستارے کے لیے کون سا نام بہتر ہے؟ او…"
-    },
-    {
-      "title": "Intel increases equipment orders as server demand exceeds supply",
-      "desc": "Intel's server expansion is drawing equipment and materials suppliers into a capacity push, but the benefits will arrive in stages. Management's October 29 earnings-call comments identified three distinct constraints: wafer production, packaging substrates, a…",
-      "source": "Digitimes",
-      "url": "https://www.digitimes.com/news/a20261030VL205/intel-equipment-demand-capacity-production.html",
-      "time": "2026-10-30T01:29:42",
-      "country": "US",
-      "title_ur": "سرور کی طلب سپلائی سے زیادہ ہونے پر انٹیل آلات کے آرڈرز میں اضافہ کرتا ہے۔",
-      "desc_ur": "انٹیل کے سرور کی توسیع سازوسامان اور مواد فراہم کرنے والوں کو ایک صلاحیت کی طرف لے جا رہی ہے، لیکن فوائد مراحل میں پہنچیں گے۔ انتظامیہ کے 29 اکتوبر کے کمائی کال تبصروں میں تین الگ الگ رکاوٹوں کی نشاندہی کی گئی: ویفر کی پیداوار، پیکیجنگ سبسٹریٹس، ایک…"
-    },
-    {
-      "title": "'Killer': Analyst awed as JD Vance's flails under pressure from betrayed MAGA voter",
-      "desc": "Vice President JD Vance was confronted by a former Trump voter in Texas about the war in Iran and did his best to respond.\"In 2024, I cast my first-ever vote for you and Trump because of your promises for real change, affordability, government accountability,…",
-      "source": "Raw Story",
-      "url": "https://www.rawstory.com/jd-vance-iran-2678168195/",
-      "time": "2026-10-30T01:26:50",
+      "title": "North Sea oil bosses enjoy £19 million personal windfall since outbreak of Iran War",
+      "desc": "New Greenpeace analysis reveals CEOs at Shell, TotalEnergies, Harbour Energy, and Equinor saw the value of shares in their own companies jump by £19m in the eight months since the start of the Iran war Shell CEO Wael Sawan sold £1.3m in shares the day before …",
+      "source": "Greenpeace.org.uk",
+      "url": "https://www.greenpeace.org.uk/news/north-sea-oil-bosses-enjoy-19-million-personal-windfall-since-outbreak-of-iran-war/",
+      "time": "2026-10-30T07:58:26",
       "country": "Iran",
-      "title_ur": "'قاتل': دھوکہ دہی والے ایم اے جی اے ووٹر کے دباؤ میں جے ڈی وینس کے ناکام ہونے پر تجزیہ کار حیران",
-      "desc_ur": "نائب صدر JD Vance کا سامنا ٹیکساس میں ٹرمپ کے ایک سابق ووٹر سے ایران کی جنگ کے بارے میں ہوا اور اس نے جواب دینے کی پوری کوشش کی۔\"2024 میں، میں نے آپ کو اور ٹرمپ کے لیے پہلا ووٹ دیا کیونکہ آپ کے وعدوں کی وجہ سے حقیقی تبدیلی، برداشت، حکومتی احتساب،…"
+      "title_ur": "شمالی سمندر کے تیل کے مالکان ایران کی جنگ شروع ہونے کے بعد سے £19 ملین ذاتی نقصان سے لطف اندوز ہوئے۔",
+      "desc_ur": "گرین پیس کے نئے تجزیے سے پتہ چلتا ہے کہ شیل، ٹوٹل انرجی، ہاربر انرجی، اور ایکوینور کے سی ای اوز نے دیکھا کہ ان کی اپنی کمپنیوں کے حصص کی قیمت آٹھ مہینوں میں 19 ملین پاؤنڈ تک بڑھ گئی جب سے ایران جنگ شیل کے سی ای او وائل ساون نے ایک دن پہلے 1.3 ملین پاؤنڈ کے شیئرز فروخت کیے…"
     },
     {
-      "title": "ASIO's stark warning about how Iran is targeting its critics | 7.30",
-      "desc": "First it was a firebombed Jewish business, then a Melbourne synagogue was set alight — now ASIO says journalist Sharri ...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/69b8b79f74fd05ef",
-      "time": "2026-10-30T01:19:50",
-      "country": "Iran",
-      "title_ur": "ASIO کی سخت وارننگ اس بارے میں کہ ایران اپنے ناقدین کو کس طرح نشانہ بنا رہا ہے | 7.30",
-      "desc_ur": "پہلے یہ یہودیوں کا ایک آتشبازی کا کاروبار تھا، پھر میلبورن کی ایک عبادت گاہ کو آگ لگا دی گئی - اب ASIO کا کہنا ہے کہ صحافی شری..."
-    },
-    {
-      "title": "Shares of Intel plummet more than 20% following weak guidance blamed on PC market slowdown",
-      "desc": "Intel Corp. somehow managed to beat expectations despite facing softness in the personal computer market, but its weak forecast for the current quarter sparked panic among investors, and its stock plunged more than 22% in late trading today. The computer chip…",
-      "source": "SiliconANGLE News",
-      "url": "https://siliconangle.com/2026/10/29/shares-of-intel-plummet-more-than-20-following-weak-guidance-blamed-on-pc-market-slowdown/",
-      "time": "2026-10-30T01:17:32",
-      "country": "International",
-      "title_ur": "کمزور رہنمائی کے بعد انٹیل کے حصص 20 فیصد سے زیادہ گر گئے۔",
-      "desc_ur": "پرسنل کمپیوٹر مارکیٹ میں نرمی کا سامنا کرنے کے باوجود انٹیل کارپوریشن کسی نہ کسی طرح توقعات کو مات دینے میں کامیاب رہی، لیکن موجودہ سہ ماہی کے لیے اس کی کمزور پیش گوئی نے سرمایہ کاروں میں خوف و ہراس پھیلا دیا، اور اس کا اسٹاک آج دیر سے ٹریڈنگ میں 22 فیصد سے زیادہ گر گیا۔ کمپیوٹر چپ…"
-    },
-    {
-      "title": "MMAmania.com’s ‘Prospect of the Month:’ Tyjani Beztati",
-      "desc": "The common goal among most up-and-coming regional (or international) mixed martial arts (MMA) prospects is to one day compete for Ultimate Fighting Championship (UFC). Other major promotions such as Bellator MMA, Professional Fighter’s Leagues, and ONE Champi…",
-      "source": "MMA Mania",
-      "url": "https://www.mmamania.com/mma-prospects/482521/mmamania-coms-prospect-of-the-month-tyjani-beztati",
-      "time": "2026-10-30T01:15:00",
-      "country": "International",
-      "title_ur": "MMAmania.com کا 'ماہ کا امکان:' Tyjani Beztati",
-      "desc_ur": "سب سے زیادہ آنے والے علاقائی (یا بین الاقوامی) مکسڈ مارشل آرٹس (MMA) کے امکانات میں مشترکہ مقصد ایک دن الٹیمیٹ فائٹنگ چیمپئن شپ (UFC) کے لیے مقابلہ کرنا ہے۔ دیگر اہم پروموشنز جیسے بیلیٹر ایم ایم اے، پروفیشنل فائٹر لیگز، اور ون چمپی…"
-    },
-    {
-      "title": "Final Vote Results in Israel Set Up Weeks of Uncertainty About Who Will Govern - The New York Times",
-      "desc": "Final Vote Results in Israel Set Up Weeks of Uncertainty About Who Will GovernThe New York Times With No Clear Winner, How Could Israel Get a Prime Minister?The New York Times Israel’s election ended in deadlock. Here are four ways outCNN Netanyahu, at risk o…",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186504690",
-      "time": "2026-10-30T01:12:51",
+      "title": "Netanyahu's party ramps up claims Arab parties 'stole' the election and warns of 'Israel's Islamisation' after failing to win majority",
+      "desc": "The opposition accused Mr Netanyahu of demonising the Arab population after a historic showing by Arab-led parties in an attempt to delegitimise the election.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16251625/Netanyahus-party-ramps-claims-Arab-parties-stole-election-warn-Israels-Islamisation-failing-win-majority.html",
+      "time": "2026-10-30T07:48:08",
       "country": "Israel",
-      "title_ur": "اسرائیل میں ووٹنگ کے حتمی نتائج نے اس بارے میں غیر یقینی صورتحال پیدا کر دی کہ کون حکومت کرے گا – نیویارک ٹائمز",
-      "desc_ur": "اسرائیل میں حتمی ووٹنگ کے نتائج نے اس بارے میں غیر یقینی کے ہفتوں کو قائم کیا کہ کون حکومت کرے گا، کوئی واضح فاتح کے بغیر، اسرائیل کو وزیر اعظم کیسے مل سکتا ہے؟ نیویارک ٹائمز اسرائیل کے انتخابات تعطل میں ختم ہوئے۔ سی این این نیتن یاہو سے باہر نکلنے کے چار راستے یہ ہیں، خطرے میں…"
+      "title_ur": "نیتن یاہو کی پارٹی نے دعویٰ کیا کہ عرب جماعتوں نے انتخابات میں 'چوری' کی اور اکثریت حاصل کرنے میں ناکامی کے بعد 'اسرائیل کی اسلامائزیشن' کا انتباہ دیا",
+      "desc_ur": "حزب اختلاف نے مسٹر نیتن یاہو پر الزام لگایا کہ وہ انتخابات کو غیر قانونی قرار دینے کی کوشش میں عرب قیادت والی جماعتوں کے تاریخی مظاہرہ کے بعد عرب آبادی کو شیطانی بنا رہے ہیں۔"
     },
     {
-      "title": "Netanyahu, at risk of losing power, steps up attacks on Israel's Arab parties",
-      "desc": "JERUSALEM: Israeli Prime Minister Benjamin Netanyahu alleged on Thursday (Oct 29), without providing evidence, that Arab parties' record gains in an election this week were driven in part by voter fraud, a charge rejected by Arab leaders who accused the premi…",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/world/israel-election-netanyahu-attacks-arab-parties-6503801",
-      "time": "2026-10-30T01:12:32",
-      "country": "Israel",
-      "title_ur": "نیتن یاہو، اقتدار کھونے کے خطرے میں، اسرائیل کی عرب جماعتوں پر حملے تیز کر دیتا ہے۔",
-      "desc_ur": "یروشلم: اسرائیلی وزیر اعظم بینجمن نیتن یاہو نے جمعرات (29 اکتوبر) کو بغیر ثبوت فراہم کیے، الزام لگایا کہ اس ہفتے ہونے والے انتخابات میں عرب جماعتوں کے ریکارڈ کامیابیاں ووٹروں کی دھوکہ دہی کی وجہ سے تھیں، اس الزام کو عرب رہنماؤں نے مسترد کر دیا جنہوں نے وزیر اعظم پر الزام لگایا…"
+      "title": "BP posts net income of $8.46 billion, beating forecasts",
+      "desc": "BP has today posted third-quarter underlying replacement cost profit, its version of net income, of $8.46 billion, compared with expectations of $7.33 billion and $2.2 billion a year ago.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/business/2026/1030/1597314-bp-quarterly-results/",
+      "time": "2026-10-30T07:45:44",
+      "country": "International",
+      "title_ur": "BP نے پیشن گوئیوں کو پیچھے چھوڑتے ہوئے $8.46 بلین کی خالص آمدنی پوسٹ کی۔",
+      "desc_ur": "بی پی نے آج تیسری سہ ماہی کے بنیادی متبادل لاگت کے منافع کو پوسٹ کیا ہے، اس کی خالص آمدنی کا ورژن $8.46 بلین ہے، جو ایک سال پہلے $7.33 بلین اور $2.2 بلین کی توقعات کے مقابلے میں ہے۔"
     },
     {
-      "title": "Kerry warns Trump against new Iran strikes",
-      "desc": "Former Secretary of State John Kerry warns that renewed US strikes on Iran would undermine negotiations and criticizes Trump's withdrawal from the 2015 nuclear deal.",
+      "title": "Israel's forecast: Winter weather over weekend",
+      "desc": "Light rainfall, cooler temperatures expected Friday, before a gradual warming trend early next week.",
       "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/435378",
-      "time": "2026-10-30T01:10:50",
-      "country": "Iran",
-      "title_ur": "کیری نے ٹرمپ کو ایران کے نئے حملوں کے خلاف خبردار کیا۔",
-      "desc_ur": "سابق وزیر خارجہ جان کیری نے خبردار کیا ہے کہ ایران پر نئے امریکی حملے مذاکرات کو نقصان پہنچائیں گے اور ٹرمپ کے 2015 کے جوہری معاہدے سے دستبرداری پر تنقید کرتے ہیں۔"
+      "url": "https://www.israelnationalnews.com/news/435390",
+      "time": "2026-10-30T07:42:20",
+      "country": "Israel",
+      "title_ur": "اسرائیل کی پیشن گوئی: ہفتے کے آخر میں موسم سرما کا موسم",
+      "desc_ur": "ہلکی بارش، جمعہ کو ٹھنڈے درجہ حرارت کی توقع، اگلے ہفتے کے اوائل میں بتدریج گرمی کے رجحان سے پہلے۔"
     },
     {
-      "title": "Adani Ports makes $3.3 billion play for Evos Terminals",
-      "desc": "Adani Ports has submitted a binding $3.3 billion bid for Evos Terminals, a European liquid-storage operator with eight terminals across five countries, as it looks to expand overseas and build exposure to energy-transition infrastructure. The move follows APS…",
+      "title": "Intel forecast disappoints as Israel fab blast, PC weakness weigh",
+      "desc": "The guidance could test confidence in a stock that has more than doubled this year, as investors weigh ongoing manufacturing constraints and soft PC demand against strong demand for its AI server chips and efforts to revive growth through a costly foundry exp…",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/adani-ports-makes-3-3-billion-play-for-evos-terminals/articleshow/135337817.cms",
-      "time": "2026-10-30T01:09:50",
+      "url": "https://economictimes.indiatimes.com/tech/technology/intel-forecast-disappoints-as-israel-fab-blast-pc-weakness-weigh/articleshow/135350115.cms",
+      "time": "2026-10-30T07:42:07",
+      "country": "Israel",
+      "title_ur": "انٹیل کی پیشن گوئی مایوس کن ہے کیونکہ اسرائیل فیب دھماکے، پی سی کی کمزوری کا وزن",
+      "desc_ur": "رہنمائی ایسے اسٹاک پر اعتماد کی جانچ کر سکتی ہے جو اس سال دوگنا سے زیادہ ہو گیا ہے، کیونکہ سرمایہ کار اس کے AI سرور چپس کی مضبوط مانگ اور ایک مہنگی فاؤنڈری ایکسپریشن کے ذریعے ترقی کو بحال کرنے کی کوششوں کے مقابلے میں جاری مینوفیکچرنگ رکاوٹوں اور نرم پی سی کی مانگ کا وزن کرتے ہیں۔"
+    },
+    {
+      "title": "Nifty climbs past 23,100, IT stocks drive mid-session rally; Trent surges over 6%",
+      "desc": "Trent led the Nifty 50 gainers, rising 6.3% to ₹3,041.90; IndiGo gained 3.42% to ₹4,835, hitting a session high of ₹4,869",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/nifty-climbs-past-23100-it-stocks-drive-mid-session-rally-trent-surges-over-6/article71644102.ece",
+      "time": "2026-10-30T07:38:47",
+      "country": "Saudi Arabia",
+      "title_ur": "نفٹی 23,100 سے اوپر چڑھ گیا، آئی ٹی اسٹاک نے وسط سیشن میں ریلی نکالی۔ ٹرینٹ میں 6 فیصد سے زیادہ اضافہ",
+      "desc_ur": "ٹرینٹ نے نفٹی 50 کو فائدہ پہنچانے والوں کی قیادت کی، 6.3 فیصد بڑھ کر ₹3,041.90 پر؛ IndiGo 3.42% بڑھ کر ₹4,835 ہو گیا، جس نے ₹4,869 کے سیشن کی اونچائی کو چھو لیا۔"
+    },
+    {
+      "title": "Dakar announces Portugal and Morocco as 2027 host destinations",
+      "desc": "The 2027 Dakar Rally has been relocated to Portugal and Morocco, with the war in West Asia preventing Saudi Arabia from hosting the event as originally planned.Having been originally scheduled to begin on New Year’s Day, the 49th edition of Dakar will now run…",
+      "source": "autosport.com",
+      "url": "https://www.autosport.com/dakar/news/dakar-announces-portugal-and-morocco-as-2027-host-destinations/10869559/",
+      "time": "2026-10-30T07:36:26",
+      "country": "Saudi Arabia",
+      "title_ur": "ڈاکار نے پرتگال اور مراکش کو 2027 کے میزبان مقامات کے طور پر اعلان کیا۔",
+      "desc_ur": "2027 ڈاکار ریلی کو پرتگال اور مراکش میں منتقل کر دیا گیا ہے، مغربی ایشیا میں جنگ نے سعودی عرب کو اس تقریب کی میزبانی کرنے سے روک دیا ہے جیسا کہ اصل میں منصوبہ بندی کی گئی تھی۔ اصل میں نئے سال کے دن شروع ہونا طے شدہ ہونے کے بعد، ڈاکار کا 49 واں ایڈیشن اب چلے گا…"
+    },
+    {
+      "title": "Dolly Parton’s father could not read or write; his struggle inspired her free book programme, which began in one Tennessee county and has now gifted over 330 million books worldwide",
+      "desc": "Dolly Parton’s father could not read or write; his struggle inspired her free book programme, which began in one Tennessee county and has now gifted over 330 million books worldwide",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/us/dolly-partons-father-could-not-read-or-write-his-struggle-inspired-her-free-book-programme-which-began-in-one-tennessee-county-and-has-now-gifted-over-330-million-books-worldwide/articleshow/135349466.cms",
+      "time": "2026-10-30T07:34:07",
+      "country": "International",
+      "title_ur": "ڈولی پارٹن کے والد نہ پڑھ سکتے تھے اور نہ لکھ سکتے تھے۔ اس کی جدوجہد نے اس کے مفت کتابی پروگرام کو متاثر کیا، جس کا آغاز ایک ٹینیسی کاؤنٹی سے ہوا اور اب وہ دنیا بھر میں 330 ملین سے زیادہ کتابیں تحفے میں دے چکے ہیں۔",
+      "desc_ur": "ڈولی پارٹن کے والد نہ پڑھ سکتے تھے اور نہ لکھ سکتے تھے۔ اس کی جدوجہد نے اس کے مفت کتابی پروگرام کو متاثر کیا، جس کا آغاز ایک ٹینیسی کاؤنٹی سے ہوا اور اب وہ دنیا بھر میں 330 ملین سے زیادہ کتابیں تحفے میں دے چکے ہیں۔"
+    },
+    {
+      "title": "America’s not actually polarized. It can agree on Mr. Beast — and Joe Rogan",
+      "desc": "We asked 741 people to name their top influencers, podcasts, comedians, musicians, video games, films and TV series and found the United States of America.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/10/30/mrbeast-influencer-democrats-republicans-independents-joe-rogan-podcast-2/",
+      "time": "2026-10-30T07:30:00",
+      "country": "US",
+      "title_ur": "امریکہ اصل میں پولرائزڈ نہیں ہے۔ یہ مسٹر بیسٹ — اور جو روگن پر متفق ہو سکتا ہے۔",
+      "desc_ur": "ہم نے 741 لوگوں سے ان کے اعلیٰ اثر کرنے والوں، پوڈکاسٹوں، مزاح نگاروں، موسیقاروں، ویڈیو گیمز، فلموں اور ٹی وی سیریز کے نام بتانے کو کہا اور ریاستہائے متحدہ امریکہ پایا۔"
+    },
+    {
+      "title": "Stora Enso Interim Report January-September 2026: Introducing Bergslagets Skogar while building a stronger Stora Enso",
+      "desc": "STORA ENSO OYJ INTERIM REPORT 30 October 2026 at 8:30 EET HELSINKI, Oct. 30, 2026 /PRNewswire/ -- Q3/2026 (year-on-year) Organic sales increased by 2%, supported by higher board deliveries and containerboard prices. Reported sales decreased by 2% to EUR 2,240…",
+      "source": "PR Newswire UK",
+      "url": "https://www.prnewswire.co.uk/news-releases/stora-enso-interim-report-januaryseptember-2026-introducing-bergslagets-skogar-while-building-a-stronger-stora-enso-302924715.html",
+      "time": "2026-10-30T07:27:00",
       "country": "Europe",
-      "title_ur": "اڈانی پورٹس ایووس ٹرمینلز کے لیے 3.3 بلین ڈالر کماتا ہے۔",
-      "desc_ur": "اڈانی پورٹس نے ایووس ٹرمینلز کے لیے 3.3 بلین ڈالر کی بائنڈنگ بولی جمع کرائی ہے، جو کہ پانچ ممالک میں آٹھ ٹرمینلز کے ساتھ ایک یورپی مائع اسٹوریج آپریٹر ہے، کیونکہ یہ بیرون ملک توسیع اور توانائی کی منتقلی کے بنیادی ڈھانچے کی نمائش کو بڑھانا چاہتا ہے۔ یہ اقدام اے پی ایس کی پیروی کرتا ہے…"
+      "title_ur": "اسٹورا اینسو کی عبوری رپورٹ جنوری-ستمبر 2026: ایک مضبوط اسٹورا اینسو کی تعمیر کے دوران برگسلگیٹس اسکوگر کا تعارف",
+      "desc_ur": "STORA ENSO OYJ کی عبوری رپورٹ 30 اکتوبر 2026 کو 8:30 EET ہیلسنکی، 30 اکتوبر 2026 /PRNewswire/ -- Q3/2026 (سال بہ سال) نامیاتی فروخت میں 2% اضافہ ہوا، بورڈ کی اعلیٰ قیمتوں اور کنٹینر کی ترسیل سے تعاون کیا گیا۔ رپورٹ شدہ فروخت 2% کم ہوکر 2,240 یورو ہوگئی…"
+    },
+    {
+      "title": "‘That okey-doke will not work this time’: Obama takes up mic to duel with tired-sounding Trump",
+      "desc": "Just days before US midterm elections described by both parties as the most important in living memory, there are signs Donald Trump may be headed for a humbling that seemed unimaginable when he swept back to power",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/world/us/2026/10/30/that-okey-doke-will-not-work-this-time-obama-takes-up-mic-to-duel-with-tired-sounding-trump/",
+      "time": "2026-10-30T07:24:34",
+      "country": "US",
+      "title_ur": "'وہ اوکی ڈوک اس بار کام نہیں کرے گا': اوبامہ نے تھکے ہارے ٹرمپ کے ساتھ مقابلہ کرنے کے لیے مائیک اٹھایا",
+      "desc_ur": "امریکی وسط مدتی انتخابات سے چند روز قبل دونوں جماعتوں کی جانب سے زندہ یادداشت میں سب سے اہم قرار دیا گیا تھا، ایسے اشارے مل رہے ہیں کہ ڈونلڈ ٹرمپ ایک ایسی عاجزی کی طرف گامزن ہو سکتے ہیں جو دوبارہ اقتدار میں آنے کے بعد ناقابل تصور لگ رہا تھا۔"
+    },
+    {
+      "title": "Delhi air force ground closure: Why govt is reclaiming prime Lutyens land near PM house including Race Club, Jaipur Polo Ground and Gymkhana Club",
+      "desc": "The closure of the Air Force Sports Complex on October 28 is the latest development in the government's drive to reclaim prime land near Lok Kalyan Marg. After taking over the Delhi Race Club and Jaipur Polo Ground and terminating the Delhi Gymkhana Club's le…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/delhi-air-force-ground-closure-why-govt-is-reclaiming-prime-lutyens-land-near-pm-house-including-race-club-jaipur-polo-ground-and-gymkhana-club/articleshow/135349325.cms",
+      "time": "2026-10-30T07:23:27",
+      "country": "India",
+      "title_ur": "دہلی ایئر فورس گراؤنڈ بند: کیوں حکومت ریس کلب، جے پور پولو گراؤنڈ اور جم خانہ کلب سمیت پی ایم ہاؤس کے قریب پرائم لوٹینز کی زمین پر دوبارہ دعویٰ کر رہی ہے",
+      "desc_ur": "28 اکتوبر کو ایئر فورس اسپورٹس کمپلیکس کی بندش لوک کلیان مارگ کے قریب پرائم لینڈ کو دوبارہ حاصل کرنے کی حکومت کی مہم میں تازہ ترین پیشرفت ہے۔ دہلی ریس کلب اور جے پور پولو گراؤنڈ پر قبضہ کرنے اور دہلی جم خانہ کلب کو ختم کرنے کے بعد…"
+    },
+    {
+      "title": "Germany news: Merz in Asia warns against weaponizing trade, calls for 'rules based' order",
+      "desc": "German diplomacy in Asia was in focus this week, as Chancellor Merz wraps up a three-country Asian business tour in South Korea. Meanwhile, President Steinmeier is set to hold talks with Xi Jinping. DW has more.",
+      "source": "DW (English)",
+      "url": "https://www.dw.com/en/germany-news-merz-in-asia-warns-against-weaponizing-trade-calls-for-rules-based-order/live-79803462",
+      "time": "2026-10-30T07:20:00",
+      "country": "China",
+      "title_ur": "جرمنی کی خبریں: ایشیا میں مرز نے ہتھیاروں کی تجارت کے خلاف انتباہ کیا، 'قواعد پر مبنی' آرڈر کا مطالبہ کیا۔",
+      "desc_ur": "ایشیا میں جرمن سفارت کاری اس ہفتے توجہ کے مرکز میں تھی، کیوں کہ چانسلر میرز نے جنوبی کوریا میں تین ملکوں کے ایشیائی کاروباری دورے کو سمیٹا۔ دریں اثناء صدر سٹین میئر شی جن پنگ کے ساتھ بات چیت کرنے والے ہیں۔ ڈی ڈبلیو کے پاس اور بھی ہے۔"
+    },
+    {
+      "title": "Germany news: Merz in Asia warns against weaponizing trade",
+      "desc": "German diplomacy in Asia was in focus this week, as Chancellor Merz wraps up a three-country Asian business tour in South Korea. Meanwhile, President Steinmeier is set to hold talks with Xi Jinping. DW has more.",
+      "source": "DW (English)",
+      "url": "https://www.dw.com/en/germany-news-merz-in-asia-warns-against-weaponizing-trade/live-79803462",
+      "time": "2026-10-30T07:20:00",
+      "country": "China",
+      "title_ur": "جرمنی کی خبریں: ایشیا میں مرز نے ہتھیاروں کی تجارت کے خلاف خبردار کیا۔",
+      "desc_ur": "ایشیا میں جرمن سفارت کاری اس ہفتے توجہ کے مرکز میں تھی، کیوں کہ چانسلر میرز نے جنوبی کوریا میں تین ملکوں کے ایشیائی کاروباری دورے کو سمیٹا۔ دریں اثناء صدر سٹین میئر شی جن پنگ کے ساتھ بات چیت کرنے والے ہیں۔ ڈی ڈبلیو کے پاس اور بھی ہے۔"
+    },
+    {
+      "title": "Intel shares tumble after hours, hit by chip supply woes",
+      "desc": "Intel shares plunged 23% in after hours trading on Wall Street last night after the chip maker warned it would burn cash this year due to the faltering PC market, bottlenecks in manufacturing and heavy spending on expanding production.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/business/2026/1030/1597308-intel-quarterly-results/",
+      "time": "2026-10-30T07:15:24",
+      "country": "International",
+      "title_ur": "انٹیل کے حصص گھنٹوں کے بعد گر گئے، چپ سپلائی کی پریشانیوں کی وجہ سے",
+      "desc_ur": "گزشتہ رات وال اسٹریٹ پر انٹیل کے حصص میں 23 فیصد کی کمی واقع ہوئی جب چپ بنانے والی کمپنی نے متنبہ کیا کہ وہ اس سال پی سی مارکیٹ کی کمزوری، مینوفیکچرنگ میں رکاوٹوں اور پیداوار کو بڑھانے پر بھاری اخراجات کی وجہ سے نقد رقم جلا دے گی۔"
     }
   ],
   "pakistan": [
     {
-      "title": "Intel reveals $600 million revenue impact from factory explosion as PC demand weakens",
-      "desc": "Intel expects to lose about $600 million in revenue over two quarters after an explosion at its Kiryat Gat semiconductor manufacturing facility earlier this month. The disruption comes alongside weaker-than-expected fourth-quarter guidance and slowing PC dema…",
-      "source": "Notebookcheck.net",
-      "url": "https://www.notebookcheck.net/Intel-reveals-600-million-revenue-impact-from-factory-explosion-as-PC-demand-weakens.1437704.0.html",
-      "time": "2026-10-30T00:48:00",
+      "title": "Human rights lawyer couple sentenced to 10 years' prison in Pakistan",
+      "desc": "Imaan Mazari and Hadi Ali Chattha were charged over an incident in 2024, when England's cricket team was touring Pakistan.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crq5nplyvlg8o",
+      "time": "2026-10-30T07:53:38",
       "country": "Pakistan",
-      "title_ur": "انٹیل نے پی سی کی طلب کے کمزور ہونے پر فیکٹری دھماکے سے 600 ملین ڈالر کی آمدنی کے اثرات کو ظاہر کیا۔",
-      "desc_ur": "انٹیل کو توقع ہے کہ اس ماہ کے شروع میں اس کی کریات گیٹ سیمی کنڈکٹر مینوفیکچرنگ کی سہولت میں دھماکے کے بعد دو سہ ماہی میں تقریبا$ 600 ملین ڈالر کی آمدنی کا نقصان ہوگا۔ یہ خلل توقع سے کم چوتھی سہ ماہی رہنمائی اور سست پی سی ڈیما کے ساتھ آتا ہے…"
+      "title_ur": "پاکستان میں انسانی حقوق کے وکیل جوڑے کو 10 سال قید کی سزا سنادی گئی۔",
+      "desc_ur": "ایمان مزاری اور ہادی علی چٹھہ پر 2024 میں ہونے والے ایک واقعے پر فرد جرم عائد کی گئی تھی، جب انگلینڈ کی کرکٹ ٹیم پاکستان کے دورے پر تھی۔"
     },
     {
-      "title": "Intel reveals $600 million revenue impact from factory explosion as PC demand weaken",
-      "desc": "Intel expects to lose about $600 million in revenue over two quarters after an explosion at its Kiryat Gat semiconductor manufacturing facility earlier this month. The disruption comes alongside weaker-than-expected fourth-quarter guidance and slowing PC dema…",
-      "source": "Notebookcheck.net",
-      "url": "https://www.notebookcheck.net/Intel-reveals-600-million-revenue-impact-from-factory-explosion-as-PC-demand-weaken.1437704.0.html",
-      "time": "2026-10-30T00:48:00",
+      "title": "Stone fortress from time of the Prophets opened to public in central Israel",
+      "desc": "The 3,200-year-old citadel was likely built by the Canaanites under the control of the Egyptians, archaeologists say",
+      "source": "Haaretz",
+      "url": "https://www.haaretz.com/archaeology/2026-10-30/ty-article-magazine/stone-fortress-from-time-of-the-prophets-opened-to-public-in-central-israel/000001a1-87e9-d646-a9f3-dfed178b0000",
+      "time": "2026-10-30T06:49:37",
       "country": "Pakistan",
-      "title_ur": "انٹیل نے پی سی کی طلب کے کمزور ہونے پر فیکٹری دھماکے سے 600 ملین ڈالر کی آمدنی کے اثرات کو ظاہر کیا۔",
-      "desc_ur": "انٹیل کو توقع ہے کہ اس ماہ کے شروع میں اس کی کریات گیٹ سیمی کنڈکٹر مینوفیکچرنگ کی سہولت میں دھماکے کے بعد دو سہ ماہی میں تقریبا$ 600 ملین ڈالر کی آمدنی کا نقصان ہوگا۔ یہ خلل توقع سے کم چوتھی سہ ماہی رہنمائی اور سست پی سی ڈیما کے ساتھ آتا ہے…"
+      "title_ur": "انبیاء کے زمانے سے پتھر کا قلعہ وسطی اسرائیل میں عوام کے لیے کھول دیا گیا۔",
+      "desc_ur": "ماہرین آثار قدیمہ کا کہنا ہے کہ 3,200 سال پرانا قلعہ غالباً کنعانیوں نے مصریوں کے زیر کنٹرول بنایا تھا۔"
+    },
+    {
+      "title": "Why Indian Navy is spending Rs 40,000 crore to buy 8 corvettes? How It will help India to defend India's 7000 km coastline from Pakistan to Bangladesh",
+      "desc": "The Indian Navy's Rs 40,000-crore-plus plan to acquire eight next-generation corvettes is part of a wider effort to strengthen coastal defence and maritime security. With stealth features, multi-role warfare capabilities and over 70% indigenous content, the w…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/why-indian-navy-is-spending-rs-40000-crore-to-buy-8-corvettes-how-it-will-help-india-to-defend-indias-7000-km-coastline-from-pakistan-to-bangladesh/articleshow/135345261.cms",
+      "time": "2026-10-30T06:42:03",
+      "country": "Pakistan",
+      "title_ur": "ہندوستانی بحریہ 8 کارویٹ خریدنے کے لیے 40،000 کروڑ روپے کیوں خرچ کر رہی ہے؟ پاکستان سے بنگلہ دیش تک ہندوستان کی 7000 کلومیٹر ساحلی پٹی کا دفاع کرنے میں ہندوستان کو کس طرح مدد ملے گی۔",
+      "desc_ur": "ہندوستانی بحریہ کا 40,000 کروڑ روپے سے زیادہ کا آٹھ اگلی نسل کے کارویٹ حاصل کرنے کا منصوبہ ساحلی دفاع اور میری ٹائم سیکورٹی کو مضبوط بنانے کی وسیع تر کوششوں کا حصہ ہے۔ اسٹیلتھ خصوصیات، کثیر کردار جنگی صلاحیتوں اور 70 فیصد سے زیادہ مقامی مواد کے ساتھ، w…"
     }
   ],
   "business": {
