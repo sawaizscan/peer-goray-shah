@@ -1,162 +1,203 @@
 {
-  "generated": "2026-11-01T22:56:23Z",
+  "generated": "2026-11-02T02:04:01Z",
   "world": [
     {
-      "title": "Iran warns it will retaliate without ‘geographical limitations’ if attacked - Financial Times",
-      "desc": "Iran warns it will retaliate without ‘geographical limitations’ if attackedFinancial Times Iran's supreme leader orders \"maximum\" response to any U.S. attackAxios Live Updates: Iran's supreme leader warns U.S., Israel against new attacksCBS News Live - Iran h…",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186538372",
-      "time": "2026-10-31T22:53:08",
-      "country": "Iran",
-      "title_ur": "ایران نے خبردار کیا ہے کہ اگر حملہ کیا گیا تو وہ ’جغرافیائی حدود‘ کے بغیر جوابی کارروائی کرے گا – فنانشل ٹائمز",
-      "desc_ur": "ایران نے خبردار کیا ہے کہ اگر حملہ کیا گیا تو وہ 'جغرافیائی حدود' کے بغیر جوابی کارروائی کرے گا Financial Times ایران کے سپریم لیڈر نے کسی بھی امریکی حملے کا \"زیادہ سے زیادہ\" جواب دینے کا حکم دیا ہے Axios Live Updates: ایران کے سپریم لیڈر نے امریکہ، اسرائیل کو نئے حملوں کے خلاف خبردار کیاCBS News Live - ایران ایچ…"
-    },
-    {
-      "title": "Abdul El-Sayed Gets Asked If Haley Stevens Is Trying ‘Rat F*ck’ His Campaign Amid Brewing Feud",
-      "desc": "A reporter asked a very provocative question of Abdul El-Sayed over his ongoing spat with Haley Stevens, who was asked to \"stay away\" from his rallies.\nThe post Abdul El-Sayed Gets Asked If Haley Stevens Is Trying ‘Rat F*ck’ His Campaign Amid Brewing Feud fir…",
-      "source": "Mediaite",
-      "url": "https://www.mediaite.com/media/news/abdul-el-sayed-gets-asked-if-haley-stevens-is-trying-rat-fck-his-campaign-amid-brewing-feud/",
-      "time": "2026-10-31T22:51:40",
-      "country": "Europe",
-      "title_ur": "عبد السید سے پوچھا گیا کہ کیا ہیلی اسٹیونس 'چوہا F*ck' کی کوشش کر رہی ہے اس کی مہم کشی کے جھگڑے کے درمیان",
-      "desc_ur": "ہیلی سٹیونز کے ساتھ جاری جھگڑے پر ایک رپورٹر نے عبدال السید سے ایک بہت ہی اشتعال انگیز سوال پوچھا، جسے ان کی ریلیوں سے \"دور رہنے\" کو کہا گیا۔\nThe post عبد السید سے پوچھا گیا کہ کیا ہیلی اسٹیونس 'چوہا F*ck' کی کوشش کر رہی ہے اس کی مہم کے درمیان جھگڑے کے درمیان…"
-    },
-    {
-      "title": "Iranian Fuel, Russian and Chinese Jets: Who Keeps Burma’s Junta Bombing Civilians?",
-      "desc": "The September 28 airstrike on a market in Kyauktaw, an Arakan Army (AA) stronghold in Rakhine State, killed 50 people and wounded 58, according to aid workers at the scene.\nThe post Iranian Fuel, Russian and Chinese Jets: Who Keeps Burma’s Junta Bombing Civil…",
-      "source": "Thegatewaypundit.com",
-      "url": "https://www.thegatewaypundit.com/2026/10/iranian-fuel-russian-chinese-jets-who-keeps-burmas/",
-      "time": "2026-10-31T22:40:22",
-      "country": "Iran",
-      "title_ur": "ایرانی ایندھن، روسی اور چینی جیٹ طیاروں: برما کے جنتا بمبار شہریوں کو کون رکھتا ہے؟",
-      "desc_ur": "جائے وقوعہ پر موجود امدادی کارکنوں کے مطابق، 28 ستمبر کو ریاست رخائن میں اراکان آرمی (AA) کے گڑھ کیوکتاؤ کے ایک بازار پر فضائی حملے میں 50 افراد ہلاک اور 58 زخمی ہوئے۔\nThe post ایرانی ایندھن، روسی اور چینی جیٹ طیاروں: برما کی جنتا بمباری کو کون رکھتا ہے؟"
-    },
-    {
-      "title": "5.0-magnitude quake shakes southern Iran",
-      "desc": "A 5.0-magnitude earthquake struck southern Iran early on Sunday, local time, according to the United States Geological Survey (USGS). The tremor's epicenter was 115 kilometers southeast of Bushehr at ...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/b863436ebb3f1a00",
-      "time": "2026-10-31T22:38:32",
-      "country": "Iran",
-      "title_ur": "جنوبی ایران میں 5.0 شدت کا زلزلہ",
-      "desc_ur": "امریکی جیولوجیکل سروے (USGS) کے مطابق، مقامی وقت کے مطابق اتوار کی صبح جنوبی ایران میں 5.0 شدت کا زلزلہ آیا۔ زلزلے کا مرکز بوشہر سے 115 کلومیٹر جنوب مشرق میں ..."
-    },
-    {
-      "title": "Iran-US war to erupt again? Iranian Supreme Leader Warns US, Israel but Tehran offers Strait of Hormuz deal",
-      "desc": "Iran’s Supreme National Security Council head said that he has not responded to a letter from U.S. Vice President JD Vance and that “the tone has completely changed.”",
+      "title": "6.0-magnitude earthquake strikes Japan's coast near Shima",
+      "desc": "A magnitude 6.0 earthquake struck 58 km southeast of Shima, off Japan's Mie Prefecture coast, early Sunday, according to the US Geological Survey (USGS).",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/us/iran-us-war-to-erupt-again-iranian-supreme-leader-warns-us-israel-but-tehran-offers-strait-of-hormuz-deal/articleshow/135414002.cms",
-      "time": "2026-10-31T22:37:28",
-      "country": "Iran",
-      "title_ur": "ایران امریکہ جنگ پھر چھڑ جائے گی؟ ایرانی سپریم لیڈر نے امریکہ، اسرائیل کو خبردار کیا لیکن تہران نے آبنائے ہرمز معاہدے کی پیشکش کر دی۔",
-      "desc_ur": "ایران کی سپریم نیشنل سیکیورٹی کونسل کے سربراہ نے کہا کہ انہوں نے امریکی نائب صدر جے ڈی وینس کے خط کا کوئی جواب نہیں دیا ہے اور یہ کہ \"لہجہ مکمل طور پر بدل گیا ہے۔\""
-    },
-    {
-      "title": "Trump loses legal battle over Epstein-linked Wall Street Journal case",
-      "desc": "Judge permanently drops Trump's $10bn WSJ lawsuit, ruling he failed to prove actual malice in the newspaper's reporting.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/10/31/trump-loses-legal-battle-over-epstein-linked-wall-street-journal-case",
-      "time": "2026-10-31T22:36:41",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/6-0-magnitude-earthquake-strikes-japans-coast-near-shima/articleshow/135415435.cms",
+      "time": "2026-11-01T02:00:52",
       "country": "US",
-      "title_ur": "ٹرمپ ایپسٹین سے منسلک وال اسٹریٹ جرنل کیس پر قانونی جنگ ہار گئے۔",
-      "desc_ur": "جج نے ٹرمپ کے 10 بلین ڈالر کے WSJ کے مقدمے کو مستقل طور پر خارج کر دیا، یہ فیصلہ دیا کہ وہ اخبار کی رپورٹنگ میں اصل بدنیتی ثابت کرنے میں ناکام رہے۔"
+      "title_ur": "شیما کے قریب جاپان کے ساحل پر 6.0 شدت کا زلزلہ آیا",
+      "desc_ur": "امریکی جیولوجیکل سروے (یو ایس جی ایس) کے مطابق، اتوار کی صبح جاپان کے مائی پریفیکچر کے ساحل سے دور شیما سے 58 کلومیٹر جنوب مشرق میں 6.0 کی شدت کا زلزلہ آیا۔"
     },
     {
-      "title": "Iran hasn’t rebuilt nuclear sites, according to nuclear watchdog",
-      "desc": "However, inspectors still don't know where hundreds of pounds of enriched uranium are",
-      "source": "Wnd.com",
-      "url": "https://www.wnd.com/2026/10/iran-hasnt-rebuilt-nuclear-sites-according-nuclear-watchdog/",
-      "time": "2026-10-31T22:36:28",
-      "country": "Iran",
-      "title_ur": "نیوکلیئر واچ ڈاگ کے مطابق، ایران نے نیوکلیئر سائٹس کو دوبارہ تعمیر نہیں کیا ہے۔",
-      "desc_ur": "تاہم، انسپکٹر ابھی تک نہیں جانتے کہ سینکڑوں پاؤنڈ افزودہ یورینیم کہاں ہے۔"
+      "title": "Riyadh airport sees 94% flight cancellations after Houthi missile attacks",
+      "desc": "The high flight cancellations at Riyadh airport highlight ongoing regional instability, potentially affecting Saudi airspace security and market dynamics.\nThe post Riyadh airport sees 94% flight cancellations after Houthi missile attacks appeared first on Cry…",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/riyadh-airport-sees-94-flight-cancellations-after-houthi-missile-attacks/",
+      "time": "2026-11-01T01:53:12",
+      "country": "Saudi Arabia",
+      "title_ur": "حوثیوں کے میزائل حملوں کے بعد ریاض کے ہوائی اڈے پر 94 فیصد پروازیں منسوخ ہوئیں",
+      "desc_ur": "ریاض کے ہوائی اڈے پر اعلیٰ پروازوں کی منسوخی جاری علاقائی عدم استحکام کو نمایاں کرتی ہے، جو ممکنہ طور پر سعودی فضائی حدود کی حفاظت اور مارکیٹ کی حرکیات کو متاثر کرتی ہے۔\nThe post حوثیوں کے میزائل حملوں کے بعد ریاض ایئرپورٹ پر 94 فیصد پروازیں منسوخ appeared first on Cry…"
     },
     {
-      "title": "Mamdani’s wife Rama Duwaji leaves US again to team up with Dua Lipa on London art installation",
-      "desc": "NYC First Lady Rama Duwaji jetted overseas again this week – this time to England where she collaborated with global pop star Dua Lipa on an art installation for the 2026 London Literature Festival.",
+      "title": "Who won the Canelo vs Mbilli fight? Canelo's comeback, judges' scores and what happened in Riyadh",
+      "desc": "In a spectacular return, Saul 'Canelo' Alvarez dominated the boxing ring, regaining his world title with a solid win over Christian Mbilli in Riyadh. After a year off and a tough defeat to Terence Crawford, Alvarez's comeback is nothing short of remarkable. H…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/sports/other-sports/who-won-the-canelo-vs-mbilli-fight-canelos-comeback-judges-scores-and-what-happened-in-riyadh/articleshow/135415407.cms",
+      "time": "2026-11-01T01:49:35",
+      "country": "Saudi Arabia",
+      "title_ur": "کینیلو بمقابلہ ایمبیلی فائٹ کس نے جیتا؟ کینیلو کی واپسی، ججز کے اسکور اور ریاض میں کیا ہوا۔",
+      "desc_ur": "ایک شاندار واپسی میں، Saul 'Canelo' Alvarez نے باکسنگ رنگ پر غلبہ حاصل کیا، ریاض میں کرسچن Mbilli کے خلاف ٹھوس جیت کے ساتھ اپنا عالمی اعزاز دوبارہ حاصل کیا۔ ایک سال کی چھٹی اور ٹیرنس کرافورڈ سے سخت شکست کے بعد، الواریز کی واپسی قابل ذکر سے کم نہیں ہے۔ ایچ…"
+    },
+    {
+      "title": "Trump’s tariff craze has derailed the GOP’s hopes to maintain their authority after the 2026 midterms",
+      "desc": "Heading into the midterms, the economy should have been President Trump’s and the GOP’s strong point, but it’s not thanks to the self-inflected injury of tariffs and the inflation it continues to stoke.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/10/31/us-news/mamdanis-wife-rama-duwaji-leaves-us-again-to-team-up-with-dua-lipa-on-london-art-installation/",
-      "time": "2026-10-31T22:22:48",
-      "country": "UK",
-      "title_ur": "مامدانی کی اہلیہ راما دواجی لندن آرٹ کی تنصیب پر دعا لیپا کے ساتھ ٹیم بنانے کے لیے دوبارہ امریکہ روانہ",
-      "desc_ur": "NYC خاتون اول راما دوواجی اس ہفتے دوبارہ بیرون ملک روانہ ہوئیں – اس بار انگلینڈ گئی جہاں انہوں نے 2026 لندن لٹریچر فیسٹیول کے لیے ایک آرٹ انسٹالیشن پر عالمی پاپ اسٹار دعا لیپا کے ساتھ تعاون کیا۔"
-    },
-    {
-      "title": "China sees the yuan vs. dollar rivalry like Pepsi vs. Coke, expert says — ‘never the market leader, but serviceable in a pinch’",
-      "desc": "\"Without a far larger pool of renminbi assets that foreigners can freely buy and sell, the renminbi cannot come close to replacing the dollar.\"",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/10/31/china-us-currency-wars-yuan-vs-dollar-pepsi-coke-pretodollar-dedollarization/",
-      "time": "2026-10-31T22:15:08",
-      "country": "China",
-      "title_ur": "چین یوآن بمقابلہ ڈالر کی دشمنی کو پیپسی بمقابلہ کوک کی طرح دیکھتا ہے، ماہر کا کہنا ہے کہ - 'کبھی بھی مارکیٹ لیڈر نہیں، لیکن ایک چوٹکی میں قابل خدمت'",
-      "desc_ur": "\"رینمنبی اثاثوں کے ایک بہت بڑے تالاب کے بغیر جسے غیر ملکی آزادانہ طور پر خرید و فروخت کر سکتے ہیں، رینمنبی ڈالر کی جگہ لینے کے قریب نہیں آسکتی ہے۔\""
-    },
-    {
-      "title": "Iran’s Supreme Leader threatens US with response if strikes are launched after midterms - The Hill",
-      "desc": "Iran’s Supreme Leader threatens US with response if strikes are launched after midtermsThe Hill Iran's supreme leader orders \"maximum\" response to any U.S. attackAxios Live Updates: Iran's supreme leader warns U.S., Israel against new attacksCBS News Live - I…",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186537994",
-      "time": "2026-10-31T22:13:43",
-      "country": "Iran",
-      "title_ur": "ایران کے سپریم لیڈر نے امریکہ کو دھمکی دی ہے کہ اگر وسط مدتی مدت کے بعد حملہ کیا گیا تو جواب دیں گے - The Hill",
-      "desc_ur": "ایران کے سپریم لیڈر نے امریکہ کو دھمکی دی کہ اگر وسط مدتی حملوں کے بعد حملہ کیا گیا تو وہ جواب دیں گے پہاڑی ایران کے سپریم لیڈر نے کسی بھی امریکی حملے کا \"زیادہ سے زیادہ\" جواب دینے کا حکم دیا ہے Axios Live Updates: ایران کے سپریم لیڈر نے امریکہ، اسرائیل کو نئے حملوں کے خلاف خبردار کیاCBS News Live - I…"
-    },
-    {
-      "title": "Australia and Indonesia are neighbours, but can they become good friends?",
-      "desc": "We can choose whether Australia and Indonesia remain nations that happen to live next to each other, or nations that are neighbours by choice and build their neighbourhood together.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-11-01/boyer-lectures-australia-indonesia-neighbours-by-choice/107315382",
-      "time": "2026-10-31T22:00:00",
+      "url": "https://nypost.com/2026/10/31/business/trumps-tariff-craze-has-derailed-the-gops-hopes-to-maintain-their-authority-after-the-2026-midterms/",
+      "time": "2026-11-01T01:49:17",
       "country": "US",
-      "title_ur": "آسٹریلیا اور انڈونیشیا پڑوسی ہیں، لیکن کیا وہ اچھے دوست بن سکتے ہیں؟",
-      "desc_ur": "ہم اس بات کا انتخاب کر سکتے ہیں کہ آیا آسٹریلیا اور انڈونیشیا ایسی قومیں رہیں جو ایک دوسرے کے ساتھ رہتی ہیں، یا ایسی قومیں جو پسند کے مطابق پڑوسی ہیں اور مل کر اپنا پڑوس بناتی ہیں۔"
+      "title_ur": "ٹرمپ کے ٹیرف کے جنون نے GOP کی 2026 کے وسط مدت کے بعد اپنا اختیار برقرار رکھنے کی امیدوں کو پٹڑی سے اتار دیا ہے۔",
+      "desc_ur": "مڈٹرم کی طرف بڑھتے ہوئے، معیشت کو صدر ٹرمپ اور GOP کا مضبوط نقطہ ہونا چاہیے تھا، لیکن یہ ٹیرف کی خود ساختہ چوٹ اور افراط زر کی وجہ سے نہیں ہے جو اس میں مسلسل اضافہ ہو رہا ہے۔"
     },
     {
-      "title": "Paxton and Talarico tussle for Texas Senate seat as Trump campaigns via telephone",
-      "desc": "President Donald Trump is taking time off from the in-person campaign trail for virtual rallies",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/US/wireStory/paxton-talarico-tussle-texas-senate-seat-trump-campaigns-137737591",
-      "time": "2026-10-31T21:55:16",
-      "country": "US",
-      "title_ur": "ٹیکساس سینیٹ کی نشست کے لیے پیکسٹن اور تلاریکو کے درمیان جھگڑا، جب ٹرمپ ٹیلی فون کے ذریعے مہم چلا رہے تھے۔",
-      "desc_ur": "صدر ڈونلڈ ٹرمپ ورچوئل ریلیوں کے لیے ذاتی انتخابی مہم سے وقت نکال رہے ہیں۔"
-    },
-    {
-      "title": "Hegseth’s Doomsday Plan May Be A Sign America Will Go ‘Full Gaza In Iran’ After The Midterms, Conservative Podcaster Warns",
-      "desc": "Conservative comedian Tim Dillon predicted Saturday the U.S. military’s operations against Iran would escalate after the midterm elections.",
-      "source": "The Daily Caller",
-      "url": "https://dailycaller.com/2026/10/31/pete-hegseth-doomsday-plan-iran-war-escalation-tim-dillon-show",
-      "time": "2026-10-31T21:45:39",
-      "country": "Iran",
-      "title_ur": "قدامت پسند پوڈکاسٹر نے خبردار کیا کہ ہیگستھ کا قیامت کا منصوبہ اس بات کا اشارہ ہو سکتا ہے کہ امریکہ مڈٹرم کے بعد 'ایران میں مکمل غزہ' چلا جائے گا",
-      "desc_ur": "قدامت پسند مزاح نگار ٹم ڈلن نے ہفتے کے روز پیش گوئی کی تھی کہ وسط مدتی انتخابات کے بعد ایران کے خلاف امریکی فوج کی کارروائیوں میں اضافہ ہوگا۔"
-    },
-    {
-      "title": "Hundreds evacuated from Russian-occupied town of Oleshky arrive in safe Ukrainian land",
-      "desc": "Hundreds of Ukrainians arrived in their homeland Saturday afternoon, after the Russian-occupied town of Oleshky was evacuated under a ceasefire First Lady Melania Trump helped broker.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/10/31/world-news/hundreds-evacuated-from-russian-occupied-town-of-oleshky-arrive-in-safe-ukrainian-land/",
-      "time": "2026-10-31T21:27:11",
-      "country": "Russia",
-      "title_ur": "روس کے زیر قبضہ قصبے اولیشکی سے نکالے گئے سیکڑوں افراد محفوظ یوکرین کی سرزمین پر پہنچ گئے۔",
-      "desc_ur": "روس کے زیر قبضہ قصبہ اولیشکی کو جنگ بندی کے تحت خالی کروانے کے بعد سیکڑوں یوکرائنی ہفتے کی سہ پہر اپنے آبائی وطن پہنچے، خاتون اول میلانیا ٹرمپ نے دلال کی مدد کی۔"
-    },
-    {
-      "title": "And now we understand the absolutely rabid obsession with destroying Pete Hegseth. I’ve been in the Army since before 9/11. Served under many secretaries. Only in the past 18 months have I experienced....",
-      "desc": "InfantryDort@infantrydort·8hAnd now we understand the absolutely rabid obsession with destroying Pete Hegseth.I’ve been in the Army since before 9/11. Served under many secretaries.Only in the past 18 months have I experienced:>politicians warning me not to f…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-chat/4401302/posts",
-      "time": "2026-10-31T21:16:17",
+      "title": "‘Your father is waiting’: How 8-year-old lured KG girl into empty classroom before brutal attack in Panchkula; staff remained unaware until parents arrive",
+      "desc": "An eight-year-old boy lured a six-year-old girl into a classroom and assaulted her at a school. The incident went unnoticed by the staff until the girl's parents reported her missing. Police are investigating the school's supervision and have registered a com…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/your-father-is-waiting-how-8-year-old-lured-kg-girl-into-empty-classroom-before-brutal-attack-in-panchkula-staff-remained-unaware-until-parents-arrive/articleshow/135415404.cms",
+      "time": "2026-11-01T01:48:44",
       "country": "International",
-      "title_ur": "اور اب ہم پیٹ ہیگستھ کو تباہ کرنے کے بالکل پاگل جنون کو سمجھتے ہیں۔ میں نائن الیون سے پہلے سے فوج میں ہوں۔ کئی سیکرٹریز کے ماتحت خدمات انجام دیں۔ صرف پچھلے 18 مہینوں میں میں نے تجربہ کیا ہے ....",
-      "desc_ur": "InfantryDort@infantrydort·8hاور اب ہم پیٹ ہیگستھ کو تباہ کرنے کے بالکل پاگل جنون کو سمجھتے ہیں۔ میں 9/11 سے پہلے سے فوج میں ہوں۔ بہت سے سیکرٹریوں کے ماتحت کام کیا ہے۔ صرف پچھلے 18 مہینوں میں میں نے تجربہ کیا ہے:>سیاستدان مجھے خبردار کرتے ہیں کہ..."
+      "title_ur": "'تمہارا باپ انتظار کر رہا ہے': پنچکولہ میں وحشیانہ حملے سے پہلے 8 سالہ بچے نے کیسے KG لڑکی کو خالی کلاس روم میں گھسایا؛ والدین کے آنے تک عملہ لاعلم رہا۔",
+      "desc_ur": "ایک آٹھ سالہ لڑکے نے چھ سالہ لڑکی کو لالچ دے کر کلاس روم میں لے جایا اور اسکول میں اس پر حملہ کیا۔ اس واقعہ پر عملے کا دھیان نہیں گیا جب تک لڑکی کے والدین نے اس کے لاپتہ ہونے کی اطلاع نہیں دی۔ پولیس اسکول کی نگرانی میں تفتیش کر رہی ہے اور ایک com درج کر لیا ہے…"
+    },
+    {
+      "title": "Mike Rogers claims he’s ahead by 7 percent on ballots returned so far ‘by our models’",
+      "desc": "Michigan’s Republican Senate candidate Mike Rogers claimed he is ahead by almost seven percent on early-returned ballots, contrary to recent polls which lean in favor of his Democratic opponent Abdul El-Sayed. “We’re actually about seven percent ahead on vote…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-bloggers/4401341/posts",
+      "time": "2026-11-01T01:45:35",
+      "country": "International",
+      "title_ur": "مائیک راجرز کا دعویٰ ہے کہ وہ 'ہمارے ماڈلز کے ذریعے' اب تک واپس کیے گئے بیلٹ پر 7 فیصد آگے ہیں۔",
+      "desc_ur": "مشی گن کے ریپبلکن سینیٹ کے امیدوار مائیک راجرز نے دعویٰ کیا کہ وہ جلد واپسی کے ووٹوں پر تقریباً سات فیصد آگے ہیں، حالیہ پولز کے برعکس جو ان کے ڈیموکریٹک مخالف عبد السید کے حق میں تھے۔ \"ہم ووٹ میں تقریباً سات فیصد آگے ہیں…"
+    },
+    {
+      "title": "Eisenkot vows to swiftly utilize Knesset majority ‘against Oct. 7 government’ - The Times of Israel",
+      "desc": "Eisenkot vows to swiftly utilize Knesset majority ‘against Oct. 7 government’The Times of Israel The Bursting of the Tel Aviv BubbleThe Atlantic Israel’s election results are in. Here’s what could happen nextAP News Gadi Eisenkot outlines four principles for …",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186539687",
+      "time": "2026-11-01T01:32:29",
+      "country": "Israel",
+      "title_ur": "آئزن کوٹ نے '7 اکتوبر کی حکومت کے خلاف' Knesset اکثریت کو تیزی سے استعمال کرنے کا عہد کیا - ٹائمز آف اسرائیل",
+      "desc_ur": "آئزن کوٹ نے 7 اکتوبر کی حکومت کے خلاف تیزی سے کنیسٹ اکثریت کا استعمال کرنے کا عزم کیا’ ٹائمز آف اسرائیل دی برسٹنگ آف دی تل ابیب بلبلا بحر اوقیانوس اسرائیل کے انتخابی نتائج سامنے آ رہے ہیں۔ اگلا کیا ہو سکتا ہے یہ ہے اے پی نیوز گیڈی آئزن کوٹ نے چار اصولوں کا خاکہ پیش کیا ہے…"
+    },
+    {
+      "title": "The Dems catering to the extremists ahead of Election Day is another victory for the far-left",
+      "desc": "For decades, an evergreen media storyline has been that the next election will resolve the civil war between the center and far-left factions of the Democratic Party.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/10/31/opinion/michael-goodwin-the-dems-catering-to-the-extremists-ahead-of-election-day-is-another-victory-for-the-far-left/",
+      "time": "2026-11-01T01:27:23",
+      "country": "International",
+      "title_ur": "انتخابات کے دن سے پہلے انتہا پسندوں کو ڈیموں کی مدد کرنا انتہائی بائیں بازو کی ایک اور فتح ہے۔",
+      "desc_ur": "کئی دہائیوں سے میڈیا کی سدا بہار کہانی یہ رہی ہے کہ اگلا الیکشن ڈیموکریٹک پارٹی کے مرکز اور انتہائی بائیں بازو کے دھڑوں کے درمیان خانہ جنگی کو حل کر دے گا۔"
+    },
+    {
+      "title": "Nobody Wants This Star Dismisses Cast Tension Rumors Amid Adam Brody Palestine",
+      "desc": "\"Tensions are NOT RISING. Profound differences of opinion are. Please do not conflate the two — And none of it will be brought to the set,\" the actress wrote in response to a Threads post.",
+      "source": "Hollywood Reporter",
+      "url": "http://www.hollywoodreporter.com/tv/tv-news/tovah-feldshuh-nobody-wants-this-tension-adam-brody-palestine-1236744254/",
+      "time": "2026-11-01T01:22:01",
+      "country": "International",
+      "title_ur": "کوئی نہیں چاہتا کہ یہ ستارہ ایڈم بروڈی فلسطین کے درمیان تناؤ کی افواہوں کو مسترد کرے۔",
+      "desc_ur": "اداکارہ نے تھریڈز کی ایک پوسٹ کے جواب میں لکھا، \"تناؤ بڑھ نہیں رہا ہے۔ رائے کے گہرے اختلافات ہیں۔ براہ کرم دونوں کو آپس میں نہ جوڑیں - اور اس میں سے کسی کو بھی سیٹ پر نہیں لایا جائے گا۔\""
+    },
+    {
+      "title": "Trump discusses Iran with Netanyahu as US weighs fresh strikes: Report",
+      "desc": "In a recent discussion, US President Donald Trump and Israeli Prime Minister Benjamin Netanyahu reviewed the evolving situation with Iran, considering various military strategies. Secretary of State Marco Rubio acknowledged ongoing diplomatic engagement with …",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-discusses-iran-with-netanyahu-as-us-weighs-fresh-strikes-report/articleshow/135415222.cms",
+      "time": "2026-11-01T01:21:37",
+      "country": "Iran",
+      "title_ur": "ٹرمپ نے نیتن یاہو کے ساتھ ایران پر تبادلہ خیال کیا کیونکہ امریکہ نے تازہ حملوں کا وزن کیا: رپورٹ",
+      "desc_ur": "ایک حالیہ گفتگو میں، امریکی صدر ڈونلڈ ٹرمپ اور اسرائیلی وزیر اعظم بنجمن نیتن یاہو نے مختلف فوجی حکمت عملیوں پر غور کرتے ہوئے ایران کے ساتھ بدلتی ہوئی صورتحال کا جائزہ لیا۔ سکریٹری آف اسٹیٹ مارکو روبیو نے اس کے ساتھ جاری سفارتی مصروفیات کا اعتراف کیا…"
+    },
+    {
+      "title": "CNN Amplifies El-sayed’s Diversion—and Helps Him Dodge The Demand To Reject Hatred",
+      "desc": "Lulu Garcia-Navarro, hosting CNN, NewsNight, Oct. 30, 2026. Regarding Haley Stevens’ demand that El-Sayed denounce Hasan Piker’s uncle, Cenk Uygur [both Islamic bigots], for [falsely] blaming grocery prices on [Jews] aid to Israel, Stevens graciously gave El-…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-bloggers/4401336/posts",
+      "time": "2026-11-01T01:14:30",
+      "country": "Israel",
+      "title_ur": "CNN نے السید کے موڑ کو بڑھایا — اور اس کی مدد کرتا ہے کہ وہ نفرت کو مسترد کرنے کے مطالبے کو چکما دے",
+      "desc_ur": "لولو گارسیا ناوارو، سی این این کی میزبانی کر رہا ہے، نیوز نائٹ، 30 اکتوبر، 2026۔ ہیلی سٹیونز کے اس مطالبے کے بارے میں کہ السید حسن پیکر کے چچا، سینک اویگور [دونوں اسلامی متعصبوں] کی مذمت کرے، [جھوٹا] گروسری کی قیمتوں پر الزام لگانے کے لیے، اسرائیل نے [یہودیوں] کو…"
+    },
+    {
+      "title": "Iran’s leader orders swift response to any attack | Morning News Bulletin 1 November 2026",
+      "desc": "In this bulletin, Iranian envoys meet with mediators as Supreme Leader orders military to be prepared to respond to attacks; South Australia records its third bird flu case in a common dolphin; and in cricket, Australia loses it's number one test ranking afte…",
+      "source": "SBS News",
+      "url": "https://www.sbs.com.au/news/podcast-episode/irans-leader-orders-swift-response-to-any-attack-morning-news-bulletin-1-november-2026/jqjit2v8b",
+      "time": "2026-11-01T01:13:06",
+      "country": "Iran",
+      "title_ur": "ایرانی رہنما کا کسی بھی حملے کا فوری جواب دینے کا حکم | مارننگ نیوز بلیٹن 1 نومبر 2026",
+      "desc_ur": "اس بلیٹن میں، ایرانی سفیر ثالثوں سے ملاقات کرتے ہیں کیونکہ سپریم لیڈر نے فوج کو حملوں کا جواب دینے کے لیے تیار رہنے کا حکم دیا ہے۔ جنوبی آسٹریلیا میں عام ڈولفن میں برڈ فلو کا تیسرا کیس ریکارڈ کیا گیا ہے۔ اور کرکٹ میں، آسٹریلیا اپنی ٹیسٹ رینکنگ میں نمبر ایک سے محروم ہونے کے بعد…"
+    },
+    {
+      "title": "Trump: Iran wants a deal but cannot be trusted",
+      "desc": "Trump says Iran wants a nuclear deal but cannot be trusted, warns remaining sites could be struck within minutes, and refuses to rule out renewed military action.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/435436",
+      "time": "2026-11-01T01:08:06",
+      "country": "Iran",
+      "title_ur": "ٹرمپ: ایران معاہدہ چاہتا ہے لیکن اس پر بھروسہ نہیں کیا جا سکتا",
+      "desc_ur": "ٹرمپ کا کہنا ہے کہ ایران جوہری معاہدہ چاہتا ہے لیکن اس پر بھروسہ نہیں کیا جا سکتا، خبردار کیا کہ باقی ماندہ سائٹس کو منٹوں میں نشانہ بنایا جا سکتا ہے، اور نئی فوجی کارروائی کو مسترد کرنے سے انکار کر دیا۔"
+    },
+    {
+      "title": "Parachutes Did No Better Than Empty Backpacks in a 23-Person Trial, and the Catch Was the Altitude",
+      "desc": "A satirical BMJ trial found no difference between parachutes and empty backpacks, revealing how low-risk participants and unrealistic conditions can undermine otherwise rigorous medical research.",
+      "source": "Medical Daily",
+      "url": "https://www.medicaldaily.com/bmj-parachute-trial-study-design-480658",
+      "time": "2026-11-01T01:00:56",
+      "country": "US",
+      "title_ur": "پیراشوٹ نے 23 افراد کے ٹرائل میں خالی بیگ سے بہتر کوئی نہیں کیا، اور کیچ اونچائی تھی۔",
+      "desc_ur": "ایک طنزیہ BMJ ٹرائل نے پیراشوٹ اور خالی بیگ کے درمیان کوئی فرق نہیں پایا، جس سے یہ ظاہر ہوتا ہے کہ کس طرح کم خطرہ والے شرکاء اور غیر حقیقی حالات دوسری صورت میں سخت طبی تحقیق کو کمزور کر سکتے ہیں۔"
+    },
+    {
+      "title": "G20 foreign ministers end Atlanta meeting without consensus on key issue, group photo cancelled",
+      "desc": "Top diplomats from the G20 met in Atlanta, but they could not agree on important global security issues. Tensions, particularly regarding Russia's war in Ukraine, overshadowed the talks and affected the outcomes. The meeting concluded without a joint communiq…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/g20-foreign-ministers-end-atlanta-meeting-without-consensus-on-key-issue-group-photo-cancelled/articleshow/135414976.cms",
+      "time": "2026-11-01T00:57:52",
+      "country": "Russia",
+      "title_ur": "جی 20 کے وزرائے خارجہ نے اٹلانٹا اجلاس اہم ایشو پر اتفاق رائے کے بغیر ختم کر دیا، گروپ فوٹو منسوخ کر دیا گیا۔",
+      "desc_ur": "G20 کے اعلیٰ سفارت کاروں کی ملاقات اٹلانٹا میں ہوئی لیکن وہ اہم عالمی سلامتی کے امور پر متفق نہیں ہو سکے۔ کشیدگی، خاص طور پر یوکرین میں روس کی جنگ کے حوالے سے، مذاکرات پر چھایا ہوا اور نتائج کو متاثر کیا۔ اجلاس بغیر کسی مشترکہ اعلامیے کے اختتام پذیر ہوا…"
     }
   ],
-  "pakistan": [],
+  "pakistan": [
+    {
+      "title": "23 years later: Pakistan recreate India's Lord's magic with record-equalling chase",
+      "desc": "Pakistan produced a memorable run chase to beat Sri Lanka by three wickets in the One-Day International tri-series final in Lahore on Saturday. Fakhar Zaman led the charge with a brilliant century as the hosts chased down a target of 326 with nine balls to sp…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/23-years-later-pakistan-script-historic-chase-to-match-indias-massive-odi-feat/articleshow/135415340.cms",
+      "time": "2026-11-01T01:40:58",
+      "country": "Pakistan",
+      "title_ur": "23 سال بعد: پاکستان نے ریکارڈ برابر تعاقب کے ساتھ ہندوستان کے لارڈز کا جادو پھر سے چلایا",
+      "desc_ur": "لاہور میں ہفتہ کو کھیلے گئے ایک روزہ بین الاقوامی سہ فریقی سیریز کے فائنل میں پاکستان نے سری لنکا کو تین وکٹوں سے شکست دینے کے لیے یادگار رنز کا تعاقب کیا۔ فخر زمان نے شاندار سنچری بنا کر میزبان ٹیم کو 326 رنز کا ہدف نو گیندوں پر حاصل کر لیا۔"
+    },
+    {
+      "title": "Iran Holds to Seven Conditions as U.S. Prepares Post-Midterm Strike Options",
+      "desc": "Washington has warned allies across the Middle East to prepare for renewed U.S.\nThe post Iran Holds to Seven Conditions as U.S. Prepares Post-Midterm Strike Options appeared first on The Gateway Pundit.",
+      "source": "Thegatewaypundit.com",
+      "url": "https://www.thegatewaypundit.com/2026/10/iran-holds-seven-conditions-as-u-s-prepares/",
+      "time": "2026-11-01T01:00:16",
+      "country": "Pakistan",
+      "title_ur": "امریکہ نے وسط مدتی ہڑتال کے بعد کے اختیارات کی تیاری کرتے ہوئے ایران کو سات شرائط کا پابند کیا",
+      "desc_ur": "واشنگٹن نے مشرق وسطیٰ میں اتحادیوں کو خبردار کیا ہے کہ وہ نئے سرے سے امریکہ کے لیے تیار رہیں۔\nThe post امریکا نے وسط مدتی ہڑتال کے بعد کے آپشنز کی تیاری کرتے ہوئے ایران کو سات شرائط پر رکھا appeared first on The Gateway Pundit."
+    },
+    {
+      "title": "India and Turkey propose plans to move grain shipments through Black Sea, says Rubio",
+      "desc": "The proposals come amid growing concerns over shipping disruptions, food security and maritime safety across key international waterways and strategic regions",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/india-and-turkey-propose-plans-to-move-grain-shipments-through-black-sea-says-rubio/article71651939.ece",
+      "time": "2026-11-01T00:43:17",
+      "country": "Pakistan",
+      "title_ur": "روبیو کا کہنا ہے کہ ہندوستان اور ترکی اناج کی ترسیل بحیرہ اسود کے ذریعے منتقل کرنے کے منصوبے تجویز کرتے ہیں۔",
+      "desc_ur": "یہ تجاویز اہم بین الاقوامی آبی گزرگاہوں اور اسٹریٹجک خطوں میں شپنگ میں رکاوٹوں، خوراک کی حفاظت اور سمندری حفاظت پر بڑھتے ہوئے خدشات کے درمیان سامنے آئی ہیں۔"
+    },
+    {
+      "title": "India must build oil reserves, reduce energy imports amid global trade shocks: C Rangarajan",
+      "desc": "C Rangarajan urges India to build oil reserves, reduce energy imports, strengthen domestic production and prioritise innovation amid global trade disruptions.",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/india-must-build-oil-reserves-reduce-energy-imports-amid-global-trade-shocks-c-rangarajan/article71651648.ece",
+      "time": "2026-11-01T00:22:20",
+      "country": "Pakistan",
+      "title_ur": "عالمی تجارتی جھٹکوں کے درمیان ہندوستان کو تیل کے ذخائر بنانا چاہیے، توانائی کی درآمدات کو کم کرنا چاہیے: سی رنگراجن",
+      "desc_ur": "سی رنگاراجن نے ہندوستان سے تیل کے ذخائر کی تعمیر، توانائی کی درآمدات کو کم کرنے، گھریلو پیداوار کو مضبوط بنانے اور عالمی تجارتی رکاوٹوں کے درمیان جدت کو ترجیح دینے پر زور دیا۔"
+    }
+  ],
   "business": {
-    "quote": "Price is what you pay. Value is what you get.",
-    "author": "Warren Buffett",
-    "quote_ur": "قیمت وہ ہے جو آپ ادا کرتے ہیں۔ قدر وہ ہے جو آپ کو ملتی ہے۔"
+    "quote": "The biggest risk is not taking any risk.",
+    "author": "Mark Zuckerberg",
+    "quote_ur": "سب سے بڑا خطرہ کوئی خطرہ نہ اٹھانا ہے۔"
   },
   "weather": {
     "city": "Lahore",
@@ -174,10 +215,10 @@
       {
         "date": "2026-11-03",
         "day": "منگل",
-        "high": 29,
+        "high": 28,
         "low": 18,
-        "condition": "Partly Cloudy",
-        "condition_ur": "جزوی ابر آلود",
+        "condition": "Overcast",
+        "condition_ur": "ابر آلود",
         "precip": 0
       },
       {
@@ -185,8 +226,8 @@
         "day": "بدھ",
         "high": 29,
         "low": 18,
-        "condition": "Mainly Clear",
-        "condition_ur": "زیادہ تر صاف",
+        "condition": "Partly Cloudy",
+        "condition_ur": "جزوی ابر آلود",
         "precip": 0
       },
       {
@@ -196,7 +237,7 @@
         "low": 18,
         "condition": "Partly Cloudy",
         "condition_ur": "جزوی ابر آلود",
-        "precip": 0
+        "precip": 2
       },
       {
         "date": "2026-11-06",
@@ -205,12 +246,12 @@
         "low": 18,
         "condition": "Clear",
         "condition_ur": "صاف",
-        "precip": 0
+        "precip": 2
       },
       {
         "date": "2026-11-07",
         "day": "ہفتہ",
-        "high": 28,
+        "high": 29,
         "low": 16,
         "condition": "Clear",
         "condition_ur": "صاف",
