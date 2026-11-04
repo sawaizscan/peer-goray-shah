@@ -1,193 +1,233 @@
 {
-  "generated": "2026-11-03T22:25:46Z",
+  "generated": "2026-11-04T02:31:30Z",
   "world": [
     {
-      "title": "REPORT: AI Giant Already Looking To 2028, Trying To Influence Candidates",
-      "desc": "OpenAI’s top lobbyist is trying to shape the way 2028’s top political contenders think about artificial intelligence, Politico reported Monday.",
-      "source": "The Daily Caller",
-      "url": "https://dailycaller.com/2026/11/02/open-ai-lobbying-memo-2028-candidates-report",
-      "time": "2026-11-02T22:15:51",
-      "country": "International",
-      "title_ur": "رپورٹ: اے آئی جائنٹ پہلے ہی 2028 کی طرف دیکھ رہا ہے، امیدواروں کو متاثر کرنے کی کوشش کر رہا ہے",
-      "desc_ur": "Politico نے پیر کو رپورٹ کیا کہ OpenAI کا اعلیٰ لابی 2028 کے اعلی سیاسی دعویداروں کے مصنوعی ذہانت کے بارے میں سوچنے کے طریقے کو تشکیل دینے کی کوشش کر رہا ہے۔"
+      "title": "UK cyber chief says the UK will face AI cyberattacks on critical infrastructure by 2028",
+      "desc": "The UK's National Cyber Security Center warns of potential AI-driven cyberattacks targeting critical infrastructure by 2028. Increased sophistication in cyber activities from states like China and Russia poses significant risks. Past incidents highlight vulne…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/uk-cyber-chief-warns-of-ai-cyberattacks-on-critical-infrastructure-by-2028/articleshow/135479188.cms",
+      "time": "2026-11-03T02:31:01",
+      "country": "Russia",
+      "title_ur": "یوکے سائبر چیف کا کہنا ہے کہ برطانیہ کو 2028 تک اہم انفراسٹرکچر پر AI سائبر حملوں کا سامنا کرنا پڑے گا",
+      "desc_ur": "برطانیہ کے نیشنل سائبر سیکیورٹی سینٹر نے 2028 تک اہم بنیادی ڈھانچے کو نشانہ بنانے والے ممکنہ AI سے چلنے والے سائبر حملوں کے بارے میں خبردار کیا ہے۔ چین اور روس جیسی ریاستوں کی سائبر سرگرمیوں میں اضافہ اہم خطرات کا باعث ہے۔ ماضی کے واقعات vulne کو نمایاں کرتے ہیں…"
     },
     {
-      "title": "Inside the civil war engulfing Kazem Hamad's international crime empire",
-      "desc": "The ABC can reveal lethal infighting has erupted inside the crime ring largely responsible for Victoria's illegal tobacco extortions, firebombings and murders as Hamad's second-in-command goes \"rogue\".",
+      "title": "US official confirms strikes on Iranian targets in Strait of Hormuz",
+      "desc": "The strikes, which appeared to be limited as opposed to a full return to hostilities, came on the eve of crucial American midterm elections.",
       "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-11-03/kazem-hamad-civil-war-within-international-crime-empire/107335854",
-      "time": "2026-11-02T22:15:24",
-      "country": "International",
-      "title_ur": "خانہ جنگی کے اندر کاظم حماد کی بین الاقوامی جرائم کی سلطنت کو لپیٹ میں لے لیا۔",
-      "desc_ur": "ABC ظاہر کر سکتا ہے کہ کرائم رینگ کے اندر مہلک لڑائی پھوٹ پڑی ہے جو وکٹوریہ کی غیر قانونی تمباکو بھتہ خوری، فائربمبنگ اور قتل کے لیے بڑی حد تک ذمہ دار ہے کیونکہ حماد کی دوسری کمان \"بدمعاش\" ہے۔"
-    },
-    {
-      "title": "America’s Gulf Allies Prepare for New Round of Strikes on Iran—and the Blowback - WSJ",
-      "desc": "America’s Gulf Allies Prepare for New Round of Strikes on Iran—and the BlowbackWSJ Reigniting War With Iran Would Be a ‘Huge Gamble’Foreign Policy Trump to Axios: \"No rush\" to decide on bombing Iran againAxios Netanyahu pushes for new strikes on Iran, officia…",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186560733",
-      "time": "2026-11-02T22:13:52",
+      "url": "https://www.abc.net.au/news/2026-11-03/us-official-confirms-strikes-on-iran/107341252",
+      "time": "2026-11-03T02:30:14",
       "country": "Iran",
-      "title_ur": "امریکہ کے خلیجی اتحادی ایران پر حملے کے نئے دور کی تیاری کر رہے ہیں اور دھچکا - WSJ",
-      "desc_ur": "امریکہ کے خلیجی اتحادی ایران پر حملوں کے نئے دور کی تیاری کر رہے ہیں — اور ایران کے ساتھ دوبارہ جنگ کا دھچکا ڈبلیو ایس جے ایک 'بہت بڑا جوا' ہوگا ٹرمپ کی خارجہ پالیسی ایکسیوس کے لیے: ایران پر دوبارہ بمباری کرنے کا فیصلہ کرنے کے لیے \"کوئی جلدی نہیں\" Axios نیتن یاہو نے ایران پر نئے حملوں کے لیے زور دیا، اہلکار…"
+      "title_ur": "امریکی اہلکار نے آبنائے ہرمز میں ایرانی اہداف پر حملوں کی تصدیق کی ہے۔",
+      "desc_ur": "یہ حملے، جو کہ دشمنی کی مکمل واپسی کے مقابلے میں محدود دکھائی دیتے ہیں، اہم امریکی وسط مدتی انتخابات کے موقع پر آئے۔"
     },
     {
-      "title": "Vance: Trump and I feel pretty good about prospects of Iran deal",
-      "desc": "VP JD Vance says talks with Iran are progressing and no deadline has been set, but insists Tehran must verifiably commit not to rebuild its nuclear program.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/435556",
-      "time": "2026-11-02T22:13:28",
+      "title": "Multiple explosions heard on Iran's Qeshm island, Bandar Lengeh near Hormuz",
+      "desc": "There was no immediate official information on the cause of the explosions or reports of casualties",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/multiple-explosions-heard-on-iran-s-qeshm-island-bandar-lengeh-near-hormuz-126110300075_1.html",
+      "time": "2026-11-03T02:29:41",
       "country": "Iran",
-      "title_ur": "وینس: ٹرمپ اور میں ایران کے معاہدے کے امکانات کے بارے میں کافی اچھا محسوس کر رہے ہیں۔",
-      "desc_ur": "VP JD Vance کا کہنا ہے کہ ایران کے ساتھ بات چیت آگے بڑھ رہی ہے اور کوئی آخری تاریخ مقرر نہیں کی گئی ہے، لیکن اصرار کرتے ہیں کہ تہران کو تصدیق کے ساتھ اپنے جوہری پروگرام کو دوبارہ تعمیر نہ کرنے کا عہد کرنا چاہیے۔"
+      "title_ur": "ہرمز کے قریب ایران کے قشم جزیرے بندر لنگھ پر متعدد دھماکوں کی آوازیں سنی گئیں۔",
+      "desc_ur": "دھماکوں کی وجہ یا جانی نقصان کی اطلاع کے بارے میں فوری طور پر کوئی سرکاری معلومات نہیں ملی"
     },
     {
-      "title": "The 10 GOP frontliners who will determine control of the House",
-      "desc": "All the GOP lawmakers have expressed confidence in their re-election despite the historic headwinds their party is facing.",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/11/02/us-news/the-top-10-gop-frontliners-who-will-determine-control-of-the-house/",
-      "time": "2026-11-02T22:13:10",
+      "title": "Gold price prediction: Will gold extend gains on Tuesday? Check outlook for November 3",
+      "desc": "Investors are now looking to the US midterm elections for indications of the country's fiscal policy direction and their potential impact on broader market sentiment.",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-price-prediction-will-gold-extend-gains-on-tuesday-check-outlook-for-november-3/articleshow/135479165.cms",
+      "time": "2026-11-03T02:27:39",
       "country": "US",
-      "title_ur": "GOP کے 10 فرنٹ لائنرز جو ایوان کے کنٹرول کا تعین کریں گے۔",
-      "desc_ur": "تمام GOP قانون سازوں نے ان کی پارٹی کو درپیش تاریخی مشکلات کے باوجود اپنے دوبارہ انتخاب پر اعتماد کا اظہار کیا ہے۔"
+      "title_ur": "سونے کی قیمت کی پیشن گوئی: کیا منگل کو سونے میں اضافہ ہوگا؟ 3 نومبر کا آؤٹ لک دیکھیں",
+      "desc_ur": "سرمایہ کار اب ملک کی مالیاتی پالیسی کی سمت اور مارکیٹ کے وسیع جذبات پر ان کے ممکنہ اثرات کے اشارے کے لیے امریکی وسط مدتی انتخابات کی طرف دیکھ رہے ہیں۔"
     },
     {
-      "title": "Becerra Brings Up a Mileage Tax. Panic and Demagoguery Ensue",
-      "desc": "The reaction to Becerra's comments about a vehicle-miles-traveled tax shows how difficult it has become to have an honest conversation about transportation funding in California.",
-      "source": "Streetsblog.org",
-      "url": "http://cal.streetsblog.org/2026/11/02/becerra-brings-up-a-mileage-tax-panic-and-demagoguery-ensue",
-      "time": "2026-11-02T22:09:47",
-      "country": "International",
-      "title_ur": "Becerra ایک مائلیج ٹیکس لاتا ہے۔ گھبراہٹ اور ڈیماگوگری کا نتیجہ",
-      "desc_ur": "گاڑیوں کے میلوں کے سفر والے ٹیکس کے بارے میں Becerra کے تبصروں پر ردعمل ظاہر کرتا ہے کہ کیلیفورنیا میں ٹرانسپورٹیشن فنڈنگ ​​کے بارے میں ایماندارانہ گفتگو کرنا کتنا مشکل ہو گیا ہے۔"
+      "title": "3 US drones shot down near Strait of Hormuz: Iran's IRGC",
+      "desc": "Iran's Islamic Revolutionary Guard Corps announced the shooting down of three US drones near the Strait of Hormuz. The IRGC claims to have used electronic warfare systems to down the drones, increasing military tensions with the US. Both nations have expresse…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/3-us-drones-shot-down-near-strait-of-hormuz-irans-irgc/articleshow/135479113.cms",
+      "time": "2026-11-03T02:24:15",
+      "country": "Iran",
+      "title_ur": "آبنائے ہرمز کے قریب 3 امریکی ڈرون مار گرائے: ایران کی IRGC",
+      "desc_ur": "ایران کے پاسداران انقلاب اسلامی نے آبنائے ہرمز کے قریب تین امریکی ڈرون مار گرانے کا اعلان کیا۔ آئی آر جی سی کا دعویٰ ہے کہ اس نے ڈرون کو مار گرانے کے لیے الیکٹرانک جنگی نظام کا استعمال کیا ہے، جس سے امریکا کے ساتھ فوجی کشیدگی میں اضافہ ہوا ہے۔ دونوں ممالک نے اظہار خیال کیا ہے…"
     },
     {
-      "title": "How iron grip on Republicans put Senate in play...",
-      "desc": "How iron grip on Republicans put Senate in play...\r\n\n \n \n \n (First column, 4th story, link)\r\n\n \r\n\n \r\n\n \n Related stories:POOL PIVOT: Trump Touts Renovations Ahead of Vote...\r\nJust 60 people attend!\r\nThreats, Gaffes, Men's Posteriors: The Absurd...\r\nPrediction…",
-      "source": "Semafor.com",
-      "url": "https://www.semafor.com/article/11/02/2026/how-donald-trumps-iron-grip-on-the-republican-party-put-the-senate-in-play",
-      "time": "2026-11-02T22:07:36",
-      "country": "US",
-      "title_ur": "ریپبلکنز پر آہنی گرفت نے سینیٹ کو کس طرح کھیل میں ڈالا...",
-      "desc_ur": "ریپبلکنز پر آہنی گرفت نے سینیٹ کو کس طرح کھیل میں ڈالا...\r\n\n \n \n \n (پہلا کالم، چوتھی کہانی، لنک)\r\n\n \r\n\n \r\n\n \n متعلقہ کہانیاں:پول پیوٹ: ٹرمپ نے ووٹ سے پہلے تزئین و آرائش کا اعلان کیا...\r\nصرف 60 لوگ شرکت کرتے ہیں!\r\nدھمکیاں، گفے، مردوں کے پوسٹریئرز: دی بیبورڈ...\r\nپیشین گوئی…"
-    },
-    {
-      "title": "Breitbart Business Digest: How the Economy Might Matter for the Midterms",
-      "desc": "The Republican Party is headed into the midterm elections armed with a powerful economic case in favor of keeping its majorities in Congress, but it's unlikely to move many voters.\nThe post Breitbart Business Digest: How the Economy Might Matter for the Midte…",
+      "title": "Trump: Iran Wants Settlement ‘as Soon as Possible’ — Says Deal ‘Could Happen’",
+      "desc": "President Donald Trump said Monday that Iran wants a settlement with the United States “as soon as possible” and that a deal “could happen,” as Washington reported progress in negotiations aimed at ending the confrontation with Tehran.\nThe post Trump: Iran Wa…",
       "source": "Breitbart News",
-      "url": "https://www.breitbart.com/economy/2026/11/02/breitbart-business-digest-how-the-economy-might-matter-for-the-midterms/",
-      "time": "2026-11-02T22:07:27",
-      "country": "US",
-      "title_ur": "بریٹ بارٹ بزنس ڈائجسٹ: مڈٹرم کے لیے معیشت کیسے اہمیت رکھتی ہے۔",
-      "desc_ur": "ریپبلکن پارٹی کانگریس میں اپنی اکثریت برقرار رکھنے کے حق میں ایک طاقتور معاشی کیس کے ساتھ وسط مدتی انتخابات میں حصہ لے رہی ہے، لیکن اس کے بہت سے ووٹروں کو منتقل کرنے کا امکان نہیں ہے۔\nThe post Breitbart Business Digest: معیشت کس طرح مڈٹی کے لیے اہم ہو سکتی ہے…"
-    },
-    {
-      "title": "Trump’s Closing Argument: Get a Load of the Reflecting Pool!",
-      "desc": "Ahead of a probable midterm drubbing, President Trump is laser-focused on Washington renovations, as evidenced by his typically strange press conference at the Lincoln Memorial Reflecting Pool on Monday.",
-      "source": "New York Magazine",
-      "url": "http://nymag.com/intelligencer/article/trumps-closing-argument-get-a-load-of-the-reflecting-pool.html",
-      "time": "2026-11-02T22:04:49",
-      "country": "US",
-      "title_ur": "ٹرمپ کی اختتامی دلیل: عکاسی کرنے والے پول کا بوجھ حاصل کریں!",
-      "desc_ur": "ممکنہ وسط مدتی ڈربنگ سے پہلے، صدر ٹرمپ واشنگٹن کی تزئین و آرائش پر توجہ مرکوز کر رہے ہیں، جیسا کہ پیر کو لنکن میموریل ریفلکٹنگ پول میں ان کی عام طور پر عجیب پریس کانفرنس سے ظاہر ہوتا ہے۔"
-    },
-    {
-      "title": "Iran threatens the US with global 'no limits' war",
-      "desc": "Iran's supreme leader Mojtaba Khamenei has made a rare statement, threatening to wage war with “no geographical restrictions” ...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/500daef8da5ccf7a",
-      "time": "2026-11-02T22:04:31",
+      "url": "https://www.breitbart.com/politics/2026/11/02/trump-iran-wants-settlement-soon-possible-deal-happen/",
+      "time": "2026-11-03T02:21:54",
       "country": "Iran",
-      "title_ur": "ایران نے امریکا کو عالمی جنگ کی دھمکی دیدی",
-      "desc_ur": "ایران کے سپریم لیڈر مجتبیٰ خامنہ ای نے ایک غیر معمولی بیان دیا ہے، جس میں \"کسی جغرافیائی پابندیوں\" کے بغیر جنگ چھیڑنے کی دھمکی دی گئی ہے۔"
+      "title_ur": "ٹرمپ: ایران 'جتنا جلد ممکن ہو' تصفیہ چاہتا ہے - کہتے ہیں 'ڈیل ہو سکتا ہے'",
+      "desc_ur": "صدر ڈونالڈ ٹرمپ نے پیر کو کہا کہ ایران امریکہ کے ساتھ \"جلد سے جلد\" تصفیہ چاہتا ہے اور یہ کہ ایک معاہدہ \"ہو سکتا ہے\" جیسا کہ واشنگٹن نے تہران کے ساتھ محاذ آرائی کو ختم کرنے کے مقصد سے مذاکرات میں پیش رفت کی اطلاع دی ہے۔\nThe post ٹرمپ: ایران وا..."
     },
     {
-      "title": "Trump’s Closing Midterm Message",
-      "desc": "Polls predict Democratic wins, but the U.S. president is focused on his capital renovations.",
-      "source": "Foreign Policy",
-      "url": "http://foreignpolicy.com/2026/11/02/us-midterm-elections-trump-speech-reflecting-pool-democrats-republicans/",
-      "time": "2026-11-02T22:03:19",
-      "country": "US",
-      "title_ur": "ٹرمپ کا اختتامی وسط مدتی پیغام",
-      "desc_ur": "پولز ڈیموکریٹک جیتنے کی پیش گوئی کرتے ہیں، لیکن امریکی صدر اپنے دارالحکومت کی تزئین و آرائش پر مرکوز ہیں۔"
+      "title": "US launches ‘defensive’ strikes after Iran downs American drone (VIDEO)",
+      "desc": "The United States has carried out a series of unannounced airstrikes against Iran in recent weeks, including an attack on Qeshm Island near the strategic Strait of Hormuz on Monday, the Wall Street Journal has reported",
+      "source": "Rt-english.com",
+      "url": "https://rt-english.com/news/648262-us-iran-queshm-strikes/",
+      "time": "2026-11-03T02:21:12",
+      "country": "Iran",
+      "title_ur": "ایران کی جانب سے امریکی ڈرون مار گرانے کے بعد امریکا نے ’دفاعی‘ حملے شروع کیے (ویڈیو)",
+      "desc_ur": "وال اسٹریٹ جرنل نے رپورٹ کیا ہے کہ امریکہ نے حالیہ ہفتوں میں ایران کے خلاف غیر اعلانیہ فضائی حملے کیے ہیں، جن میں پیر کو آبنائے ہرمز کے قریب واقع جزیرہ قشم پر حملہ بھی شامل ہے۔"
     },
     {
-      "title": "‘They’re just fatigued’: Why Lachlan Murdoch says Fox ratings are diving",
-      "desc": "Some media observers attribute the decline to US President Donald Trump’s slipping approval ratings, but Fox chief Lachlan Murdoch says there is a simpler explanation.",
-      "source": "The Sydney Morning Herald",
-      "url": "https://www.smh.com.au/business/companies/trump-slump-lachlan-murdoch-cites-viewer-fatigue-as-fox-ratings-dive-20261103-p61ar6.html",
-      "time": "2026-11-02T22:01:15",
-      "country": "US",
-      "title_ur": "'وہ صرف تھکے ہوئے ہیں': کیوں لچلن مرڈوک کہتے ہیں کہ فاکس کی درجہ بندی ڈوب رہی ہے۔",
-      "desc_ur": "کچھ میڈیا مبصرین اس کمی کی وجہ امریکی صدر ڈونلڈ ٹرمپ کی منظوری کی درجہ بندی میں کمی کو قرار دیتے ہیں، لیکن فاکس کے سربراہ لاچلان مرڈوک کا کہنا ہے کہ اس کی ایک آسان وضاحت ہے۔"
+      "title": "OpenAI hires former U.S. Army Secretary Dan Driscoll for national security role",
+      "desc": "OpenAI has hired former U.S. Army Secretary Dan Driscoll for a newly created national security role for national security modernization.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/03/openai-hires-dan-driscoll-national-security.html",
+      "time": "2026-11-03T02:17:10",
+      "country": "International",
+      "title_ur": "اوپن اے آئی نے قومی سلامتی کے کردار کے لیے سابق امریکی آرمی سیکریٹری ڈین ڈریسکول کی خدمات حاصل کیں۔",
+      "desc_ur": "OpenAI نے قومی سلامتی کو جدید بنانے کے لیے ایک نئے بنائے گئے قومی سلامتی کے کردار کے لیے سابق امریکی آرمی سیکریٹری ڈین ڈریسکول کی خدمات حاصل کی ہیں۔"
     },
     {
-      "title": "4 Energy Stocks for Midterm Elections That Could Go Either Way",
-      "desc": "Polls open Tuesday with prediction markets already leaning one way, as Polymarket traders were pricing a Democratic sweep of both chambers at about 71 percent, a Democratic House with a Republican Senate at 24 percent and a Republican sweep at 5 percent. It i…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/4-Energy-Stocks-for-Midterm-Elections-That-Could-Go-Either-Way.html",
-      "time": "2026-11-02T22:00:00",
+      "title": "US midterm elections: Trump approval stuck near record low as voters lean towards Democrats, poll shows",
+      "desc": "US President Donald Trump's approval rating remains low as voters indicate their intention to oppose him in upcoming elections. Polls show that 46% of voters prefer Democrats compared to 38% for Republicans. Many voters identify rising living costs as a signi…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-midterm-elections-trump-approval-stuck-near-record-low-as-voters-lean-towards-democrats-poll-shows/articleshow/135478930.cms",
+      "time": "2026-11-03T02:17:06",
       "country": "US",
-      "title_ur": "وسط مدتی انتخابات کے لیے 4 انرجی اسٹاک جو کسی بھی طرح سے جا سکتے ہیں۔",
-      "desc_ur": "منگل کو پولز کا آغاز پیشین گوئی کی منڈیوں کے پہلے ہی ایک طرف جھکاؤ کے ساتھ ہوا، کیونکہ پولی مارکیٹ کے تاجر دونوں چیمبرز کے ڈیموکریٹک سویپ کی قیمت تقریباً 71 فیصد، ایک ڈیموکریٹک ہاؤس کے ساتھ ریپبلکن سینیٹ کے ساتھ 24 فیصد اور ایک ریپبلکن سویپ کی قیمت 5 فیصد تھی۔ یہ میں…"
+      "title_ur": "امریکی وسط مدتی انتخابات: ٹرمپ کی منظوری ریکارڈ کم کے قریب پھنس گئی کیونکہ ووٹرز ڈیموکریٹس کی طرف جھکاؤ رکھتے ہیں، پول شوز",
+      "desc_ur": "امریکی صدر ڈونلڈ ٹرمپ کی منظوری کی درجہ بندی بدستور کم ہے کیونکہ ووٹرز آئندہ انتخابات میں ان کی مخالفت کرنے کے ارادے کی نشاندہی کر رہے ہیں۔ پولز سے پتہ چلتا ہے کہ 46% ووٹرز ڈیموکریٹس کو ترجیح دیتے ہیں جبکہ ریپبلکنز کے لیے 38%۔ بہت سے رائے دہندگان زندگی کے بڑھتے ہوئے اخراجات کو ایک علامت کے طور پر شناخت کرتے ہیں…"
     },
     {
-      "title": "Germany Debates Rebuilding Hitler's Retreat After Arson",
-      "desc": "A mountaintop building once gifted to Adolf Hitler is now a burned-out shell—and Germany is split on what to do about it. The Kehlsteinhaus, or Eagle's Nest, was badly damaged in an October arson attack that caused millions in damage but no injuries. Authorit…",
-      "source": "Newser",
-      "url": "https://www.newser.com/story/399245/germany-debates-rebuilding-hitlers-retreat-after-arson.html",
-      "time": "2026-11-02T22:00:00",
-      "country": "US",
-      "title_ur": "جرمنی آتشزدگی کے بعد ہٹلر کی پسپائی کی تعمیر نو پر بحث کر رہا ہے۔",
-      "desc_ur": "ایک پہاڑی چوٹی کی عمارت جو کبھی ایڈولف ہٹلر کو تحفے میں دی گئی تھی اب ایک جل کر خاکستر ہو گیا ہے — اور جرمنی اس بات پر منقسم ہے کہ اس کے بارے میں کیا کرنا ہے۔ Kehlsteinhaus، یا Eagle's Nest، اکتوبر میں ہونے والے آتشزدگی کے حملے میں بری طرح سے تباہ ہو گیا تھا جس سے لاکھوں کا نقصان ہوا لیکن کوئی زخمی نہیں ہوا۔ اتھارٹی…"
+      "title": "US Strikes Iranian Island As Trump Downplays Prospect Of New War",
+      "desc": "The United States has struck Iran’s strategic Qeshm Island in a series of previously undisclosed attacks. The strike, conducted on the eve of the US midterm elections, was carried out even as President Donald Trump played down the prospect of renewed war and …",
+      "source": "Radio Free Europe/ Radio Liberty",
+      "url": "https://www.rferl.org/a/33889371.html",
+      "time": "2026-11-03T02:15:24",
+      "country": "Iran",
+      "title_ur": "امریکہ نے ایرانی جزیرے پر حملہ کر دیا کیونکہ ٹرمپ نے نئی جنگ کے امکانات کو مسترد کر دیا۔",
+      "desc_ur": "امریکہ نے ایران کے تزویراتی اہمیت کے حامل جزیرہ قشم پر پہلے سے نامعلوم حملوں کے سلسلے میں حملہ کیا ہے۔ یہ ہڑتال، امریکی وسط مدتی انتخابات کے موقع پر کی گئی، اس وقت بھی کی گئی جب صدر ڈونلڈ ٹرمپ نے نئی جنگ کے امکان کو مسترد کر دیا اور…"
     },
     {
-      "title": "Trump brushes aside tough midterm prospects with visit to Reflecting Pool",
-      "desc": "By Jacob Bogage and Nandita Bose WASHINGTON, Nov 2 (Reuters) - Facing elections that could cost his party control of Congress, President Donald Trump spent his last major speech before the midterms talking about pipes and paint on Monday. Trump ruminated on h…",
-      "source": "Yahoo Entertainment",
-      "url": "https://www.yahoo.com/news/politics/articles/trump-brushes-aside-tough-midterm-215812972.html",
-      "time": "2026-11-02T21:58:12",
-      "country": "US",
-      "title_ur": "ٹرمپ نے ریفلیکٹنگ پول کے دورے کے ساتھ وسط مدتی کے سخت امکانات کو ایک طرف کر دیا۔",
-      "desc_ur": "جیکب بوگیج اور نندیتا بوس کی طرف سے واشنگٹن، 2 نومبر (رائٹرز) – ایسے انتخابات کا سامنا کرنا پڑ سکتا ہے جن سے کانگریس پر ان کی پارٹی کا کنٹرول مہنگا پڑ سکتا ہے، صدر ڈونلڈ ٹرمپ نے پیر کو مڈٹرمز سے قبل اپنی آخری اہم تقریر پائپ اور پینٹ کے بارے میں بات کرتے ہوئے گزاری۔ ٹرمپ نے افواہوں پر…"
+      "title": "Dollar under pressure as oil prices slump, Australia rate decision awaited",
+      "desc": "The dollar experienced fluctuations as oil prices dropped amid potential US-Iran diplomatic developments. Meanwhile, the Reserve Bank of Australia is expected to announce an interest rate hike this week. Central banks in Britain, Norway, and Sweden are also s…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-under-pressure-as-oil-prices-slump-australia-rate-decision-awaited/articleshow/135478890.cms",
+      "time": "2026-11-03T02:12:44",
+      "country": "Iran",
+      "title_ur": "تیل کی قیمتوں میں کمی کے باعث ڈالر دباؤ میں، آسٹریلیا کی شرح کے فیصلے کا انتظار ہے۔",
+      "desc_ur": "امریکی ایران کی ممکنہ سفارتی پیش رفت کے درمیان تیل کی قیمتوں میں کمی کے باعث ڈالر نے اتار چڑھاؤ کا سامنا کیا۔ دریں اثنا، توقع ہے کہ ریزرو بینک آف آسٹریلیا اس ہفتے شرح سود میں اضافے کا اعلان کرے گا۔ برطانیہ، ناروے اور سویڈن کے مرکزی بینک بھی ہیں…"
+    },
+    {
+      "title": "Iran wants deal 'more than ever', no rush to decide on fresh strikes: Trump",
+      "desc": "Trump said the United States had significantly weakened Iran's financial position but was willing to give diplomacy more time before deciding on its next course of action",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/iran-wants-deal-more-than-ever-no-rush-to-decide-on-fresh-strikes-trump-126110300087_1.html",
+      "time": "2026-11-03T02:11:23",
+      "country": "Iran",
+      "title_ur": "ایران 'پہلے سے زیادہ' معاہدہ چاہتا ہے، نئے حملوں کا فیصلہ کرنے میں کوئی جلدی نہیں: ٹرمپ",
+      "desc_ur": "ٹرمپ نے کہا کہ امریکہ نے ایران کی مالی پوزیشن کو کافی حد تک کمزور کر دیا ہے لیکن وہ اپنے اگلے لائحہ عمل کا فیصلہ کرنے سے پہلے سفارت کاری کو مزید وقت دینے کے لیے تیار ہے۔"
+    },
+    {
+      "title": "Former Shas senior official warns: Deri could join the left; he must resign",
+      "desc": "Former MK Nissim Ze'ev, one of Shas's founders, analyzes the party's election defeat in an interview with Arutz Sheva-Israel National News and calls on Aryeh Deri to step down.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/435560",
+      "time": "2026-11-03T02:11:21",
+      "country": "Israel",
+      "title_ur": "شاس کے سابق سینئر اہلکار نے خبردار کیا: ڈیری بائیں بازو میں شامل ہو سکتا ہے۔ اسے استعفیٰ دینا چاہیے",
+      "desc_ur": "سابق ایم کے نسیم زیئف، جو شاس کے بانیوں میں سے ایک ہیں، اروتز شیوا-اسرائیل نیشنل نیوز کے ساتھ ایک انٹرویو میں پارٹی کی انتخابی شکست کا تجزیہ کرتے ہیں اور آریہ دیری سے عہدہ چھوڑنے کا مطالبہ کرتے ہیں۔"
+    },
+    {
+      "title": "U.S. military carries out limited strikes on Iran’s Qeshm Island, U.S. officials say",
+      "desc": "The strikes, which appeared to be limited as opposed to a full return to hostilities, came on the eve of crucial American midterm elections.",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/iran/us-conducted-defensive-strikes-iranian-targets-strait-hormuz-us-offici-rcna607161",
+      "time": "2026-11-03T02:06:40",
+      "country": "Iran",
+      "title_ur": "امریکی حکام کا کہنا ہے کہ امریکی فوج نے ایران کے جزیرہ قشم پر محدود حملے کیے ہیں۔",
+      "desc_ur": "یہ حملے، جو کہ دشمنی کی مکمل واپسی کے مقابلے میں محدود دکھائی دیتے ہیں، اہم امریکی وسط مدتی انتخابات کے موقع پر آئے۔"
+    },
+    {
+      "title": "Oil prices edge higher after reported US strike on Iran's Qeshm Island, reviving supply concerns",
+      "desc": "In the wake of a US military strike on Qeshm Island, oil prices have seen a modest increase. This development raises alarms about potential conflict escalation, even as diplomatic dialogues persist. Both the US and Iran appear willing to engage in negotiation…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-edge-higher-after-reported-us-strike-on-irans-qeshm-island-reviving-supply-concerns/articleshow/135478627.cms",
+      "time": "2026-11-03T02:06:09",
+      "country": "Iran",
+      "title_ur": "ایران کے جزیرہ قشم پر امریکی حملے کی اطلاع کے بعد تیل کی قیمتوں میں اضافہ ہوا، جس سے سپلائی کے خدشات بحال ہوئے۔",
+      "desc_ur": "قشم جزیرہ پر امریکی فوجی حملے کے بعد تیل کی قیمتوں میں معمولی اضافہ دیکھا گیا ہے۔ یہ پیشرفت ممکنہ تنازعات میں اضافے کے بارے میں خطرے کی گھنٹی بجاتی ہے، یہاں تک کہ سفارتی مکالمے جاری ہیں۔ امریکہ اور ایران دونوں ہی مذاکرات میں شامل ہونے پر آمادہ دکھائی دیتے ہیں..."
     }
   ],
   "pakistan": [
     {
-      "title": "The Anger Election’s Final Twist",
-      "desc": "The Anti-Corruption Message Is Actually Landing",
-      "source": "The Atlantic",
-      "url": "https://www.theatlantic.com/podcasts/2026/11/ra-voter-issues/689254/?utm_source=feed",
-      "time": "2026-11-02T22:23:10",
+      "title": "Pakistan's economic rebound masks deeper problems despite market rally",
+      "desc": "High energy costs and the war with Iran have pushed up inflation, while renewed militancy in Pakistan's border provinces is adding to risks for investors",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/pakistan-s-economic-rebound-masks-deeper-problems-despite-market-rally-126110300105_1.html",
+      "time": "2026-11-03T02:29:10",
       "country": "Pakistan",
-      "title_ur": "غصہ الیکشن کا آخری موڑ",
-      "desc_ur": "انسداد بدعنوانی کا پیغام دراصل لینڈنگ ہے۔"
+      "title_ur": "مارکیٹ میں تیزی کے باوجود پاکستان کی اقتصادی بحالی نے گہرے مسائل سے پردہ اٹھایا ہے۔",
+      "desc_ur": "توانائی کی بلند قیمتوں اور ایران کے ساتھ جنگ ​​نے افراط زر میں اضافہ کیا ہے، جبکہ پاکستان کے سرحدی صوبوں میں نئی ​​عسکریت پسندی سرمایہ کاروں کے لیے خطرات میں اضافہ کر رہی ہے۔"
     },
     {
-      "title": "Syria Considers Joining Saudi Arabia’s Mecca Alliance",
-      "desc": "Syrian Foreign Minister Asaad al-Shibani said on Saturday that his government is considering membership in the Mecca Alliance, the trilateral security partnership created by Saudi Arabia, Turkey, and Pakistan in August.\nThe post Syria Considers Joining Saudi …",
-      "source": "Breitbart News",
-      "url": "https://www.breitbart.com/middle-east/2026/11/02/syria-considers-joining-saudi-arabias-mecca-alliance/",
-      "time": "2026-11-02T21:58:19",
+      "title": "ICE planning to deport Afghans through Pakistan, official says",
+      "desc": "The plan has triggered alarm among advocates for Afghans, who warn that the proposal could lead to the deportation of Afghans who could be persecuted by the Taliban.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/ice-deportation-afghans-through-pakistan/",
+      "time": "2026-11-03T02:27:18",
       "country": "Pakistan",
-      "title_ur": "شام سعودی عرب کے مکہ اتحاد میں شامل ہونے پر غور کر رہا ہے۔",
-      "desc_ur": "شام کے وزیر خارجہ اسد الشیبانی نے ہفتے کے روز کہا کہ ان کی حکومت مکہ الائنس کی رکنیت پر غور کر رہی ہے، جو اگست میں سعودی عرب، ترکی اور پاکستان کی طرف سے بنائی گئی سہ فریقی سکیورٹی شراکت داری ہے۔\nThe post شام کا سعودی عرب میں شمولیت پر غور…"
+      "title_ur": "اہلکار کا کہنا ہے کہ ICE افغانوں کو پاکستان کے راستے ملک بدر کرنے کا منصوبہ بنا رہا ہے۔",
+      "desc_ur": "اس منصوبے نے افغانوں کے حامیوں میں خطرے کی گھنٹی پیدا کر دی ہے، جو متنبہ کرتے ہیں کہ یہ تجویز ان افغانوں کی ملک بدری کا باعث بن سکتی ہے جنہیں طالبان کے ذریعے ستایا جا سکتا ہے۔"
     },
     {
-      "title": "Could Jacoby Brissett be a trade option for the Ravens?",
-      "desc": "Jacoby Brissett’s benching in Arizona and his connection to Ravens QB coach Israel Woolfork make him a potential trade option for Baltimore",
-      "source": "USA Today",
-      "url": "https://ravenswire.usatoday.com/story/sports/nfl/ravens/2026/11/02/ravens-jacoby-brissett-trade-option-cardinals-lamar-jackson/92572292007/",
-      "time": "2026-11-02T21:51:16",
+      "title": "The Key 2026 Midterm Races Hollywood Is Watching",
+      "desc": "As encouraging as polls are for Democrats, left-leaning Hollywood activists are viewing Tuesday’s midterm elections with a lot of anxiety — and just a bit of cautious optimism. In fact, throughout the cycle, as candidates courted the industry’s deep pockets a…",
+      "source": "Deadline",
+      "url": "http://deadline.com/2026/11/hollywood-midterms-2026-1237173601/",
+      "time": "2026-11-03T02:15:13",
       "country": "Pakistan",
-      "title_ur": "کیا جیکوبی برسیٹ ریوینز کے لیے تجارتی آپشن ہو سکتا ہے؟",
-      "desc_ur": "ایریزونا میں جیکوبی برسیٹ کی بینچنگ اور ریوینز کیو بی کوچ اسرائیل وولفورک سے اس کا تعلق بالٹی مور کے لیے ایک ممکنہ تجارتی آپشن بنا۔"
+      "title_ur": "کلیدی 2026 کی وسط مدتی ریس ہالی ووڈ دیکھ رہی ہے۔",
+      "desc_ur": "ڈیموکریٹس کے لیے پولز جتنے حوصلہ افزا ہیں، بائیں جانب جھکاؤ رکھنے والے ہالی ووڈ کے کارکن منگل کے وسط مدتی انتخابات کو کافی بے چینی کے ساتھ دیکھ رہے ہیں - اور صرف تھوڑی سی محتاط امید کے ساتھ۔ درحقیقت، پورے دور میں، جیسا کہ امیدواروں نے صنعت کی گہری جیبوں کو ایک…"
+    },
+    {
+      "title": "US lawmakers ask Trump administration to stop deportation of Afghans",
+      "desc": "At least 150 Afghans are facing deportation to Pakistan and on to Afghanistan.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/3/us-lawmakers-ask-trump-administration-to-stop-deportation-of-afghans",
+      "time": "2026-11-03T02:12:33",
+      "country": "Pakistan",
+      "title_ur": "امریکی قانون سازوں نے ٹرمپ انتظامیہ سے افغانوں کی ملک بدری روکنے کا مطالبہ کیا۔",
+      "desc_ur": "کم از کم 150 افغانوں کو پاکستان اور افغانستان بھیجے جانے کا سامنا ہے۔"
+    },
+    {
+      "title": "US had good conversations with Iran on finding deal to end conflict: Vance",
+      "desc": "US Vice President JD Vance offered measured optimism on Monday that a deal can still be struck to prevent President Donald Trump from following through on his threat to potentially order new strikes on Iran after the crucial midterm elections in the United St…",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/us-had-good-conversations-with-iran-on-finding-deal-to-end-conflict-vance-126110300076_1.html",
+      "time": "2026-11-03T02:11:17",
+      "country": "Pakistan",
+      "title_ur": "امریکہ کی ایران کے ساتھ تنازعات کے خاتمے کے لیے معاہدہ تلاش کرنے پر اچھی بات چیت ہوئی: وینس",
+      "desc_ur": "امریکی نائب صدر جے ڈی وینس نے پیر کے روز ناپے ہوئے امید کی پیش کش کی کہ صدر ڈونلڈ ٹرمپ کو ریاستہائے متحدہ میں اہم وسط مدتی انتخابات کے بعد ایران پر ممکنہ طور پر نئے حملوں کا حکم دینے کی دھمکی پر عمل کرنے سے روکنے کے لیے ابھی بھی معاہدہ کیا جا سکتا ہے۔"
+    },
+    {
+      "title": "Gold edges higher on softer oil; US midterm elections in focus",
+      "desc": "Following a previous surge, gold prices experienced a minor uptick, influenced by declining oil rates and ongoing inflation concerns. Investors are honing in on the forthcoming US midterm elections for cues on economic direction. Financial analysts speculate …",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-edges-higher-on-softer-oil-us-midterm-elections-in-focus/articleshow/135478813.cms",
+      "time": "2026-11-03T02:11:14",
+      "country": "Pakistan",
+      "title_ur": "نرم تیل پر سونے کے کنارے بلند ہوتے ہیں۔ امریکی وسط مدتی انتخابات فوکس میں ہیں۔",
+      "desc_ur": "پچھلے اضافے کے بعد، سونے کی قیمتوں میں معمولی اضافہ ہوا، جو تیل کی گرتی ہوئی قیمتوں اور مہنگائی کے جاری خدشات سے متاثر ہوا۔ سرمایہ کار اقتصادی سمت کے اشارے کے لیے آنے والے امریکی وسط مدتی انتخابات پر اعتماد کر رہے ہیں۔ مالیاتی تجزیہ کاروں کا خیال ہے کہ…"
+    },
+    {
+      "title": "Oil rises after report of US strike on Iran's Qeshm Island",
+      "desc": "Oil prices have surged in reaction to reports of a US strike on Iran's Qeshm Island, sparking fears of significant supply interruptions. Previous drops in prices on Monday have been overshadowed by this escalation, reinstating a risk premium in the market. Di…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-rises-after-report-of-us-strike-on-irans-qeshm-island/articleshow/135478796.cms",
+      "time": "2026-11-03T02:07:18",
+      "country": "Pakistan",
+      "title_ur": "ایران کے جزیرہ قشم پر امریکی حملے کی اطلاع کے بعد تیل بڑھ گیا۔",
+      "desc_ur": "ایران کے جزیرہ قشم پر امریکی حملے کی اطلاعات کے رد عمل میں تیل کی قیمتوں میں اضافہ ہوا ہے جس سے سپلائی میں نمایاں رکاوٹوں کا خدشہ پیدا ہو گیا ہے۔ پیر کے روز قیمتوں میں پچھلے گراوٹ کو اس اضافے نے چھایا ہوا ہے، جس سے مارکیٹ میں خطرے کے پریمیم کو بحال کیا گیا ہے۔ دی…"
     }
   ],
   "business": {
-    "quote": "Dream big. Start small. Act now.",
-    "author": "Robin Sharma",
-    "quote_ur": "بڑا خواب دیکھو۔ چھوٹا شروع کرو۔ ابھی عمل کرو۔"
+    "quote": "Your most unhappy customers are your greatest source of learning.",
+    "author": "Bill Gates",
+    "quote_ur": "آپ کے سب سے ناخوش گاہک سیکھنے کا سب سے بڑا ذریعہ ہوتے ہیں۔"
   },
   "weather": {
     "city": "Lahore",
@@ -196,10 +236,10 @@
       {
         "date": "2026-11-04",
         "day": "بدھ",
-        "high": 29,
+        "high": 28,
         "low": 18,
-        "condition": "Partly Cloudy",
-        "condition_ur": "جزوی ابر آلود",
+        "condition": "Mainly Clear",
+        "condition_ur": "زیادہ تر صاف",
         "precip": 0
       },
       {
@@ -207,8 +247,8 @@
         "day": "جمعرات",
         "high": 29,
         "low": 18,
-        "condition": "Clear",
-        "condition_ur": "صاف",
+        "condition": "Overcast",
+        "condition_ur": "ابر آلود",
         "precip": 0
       },
       {
@@ -243,8 +283,8 @@
         "day": "پیر",
         "high": 29,
         "low": 16,
-        "condition": "Clear",
-        "condition_ur": "صاف",
+        "condition": "Partly Cloudy",
+        "condition_ur": "جزوی ابر آلود",
         "precip": 0
       },
       {
@@ -254,7 +294,7 @@
         "low": 16,
         "condition": "Clear",
         "condition_ur": "صاف",
-        "precip": 0
+        "precip": 2
       }
     ]
   },
