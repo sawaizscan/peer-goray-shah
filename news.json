@@ -1,199 +1,158 @@
 {
-  "generated": "2026-11-05T12:53:41Z",
+  "generated": "2026-11-05T20:26:17Z",
   "world": [
     {
-      "title": "‘Seismic shift’: World reacts to US midterm election results - Al Jazeera",
-      "desc": "‘Seismic shift’: World reacts to US midterm election resultsAl Jazeera The blue tsunami sparks joy, hope and mockery in EuropePOLITICO.eu World reacts to Democrats’ midterm elections victoryNPR Europe hails Democrats’ US midterm victory as a rebuke of Trumpis…",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186587914",
-      "time": "2026-11-04T12:53:17",
-      "country": "UK",
-      "title_ur": "'زلزلہ کی تبدیلی': دنیا کا امریکی وسط مدتی انتخابات کے نتائج پر ردعمل - الجزیرہ",
-      "desc_ur": "'زلزلہ کی تبدیلی': دنیا کا امریکی وسط مدتی انتخابات کے نتائج پر ردعمل الجزیرہ نیلی سونامی نے یورپ میں خوشی، امید اور تمسخر کو جنم دیا POLITICO.eu دنیا نے ڈیموکریٹس کی وسط مدتی انتخابات کی جیت پر ردعمل ظاہر کیاNPR یورپ نے ٹرمپ کی سرزنش کے طور پر ڈیموکریٹس کی امریکی وسط مدتی فتح کا خیرمقدم کیا…"
+      "title": "Is AIPAC Okay?",
+      "desc": "After every election in recent memory, the American Israel Public Affairs Committee (AIPAC) has spent a day or two congratulating its endorsed candidates on their wins. The massive pro-Israel lobby group spent over $80 million on this election cycle, so you m…",
+      "source": "Mother Jones",
+      "url": "https://www.motherjones.com/politics/2026/11/aipac-midterms-el-sayed-israel-lobby-spending/",
+      "time": "2026-11-04T20:25:06",
+      "country": "Israel",
+      "title_ur": "کیا AIPAC ٹھیک ہے؟",
+      "desc_ur": "حالیہ یاد میں ہر انتخابات کے بعد، امریکن اسرائیل پبلک افیئرز کمیٹی (اے آئی پی اے سی) نے اپنے حمایت یافتہ امیدواروں کو ان کی جیت پر مبارکباد دینے میں ایک یا دو دن گزارے ہیں۔ بڑے پیمانے پر اسرائیل نواز لابی گروپ نے اس انتخابی چکر پر $80 ملین سے زیادہ خرچ کیے، لہذا آپ…"
     },
     {
-      "title": "There’s got to be a morning after",
-      "desc": "Various random observations about a remarkable night in American political history: NBC is projecting an 81-seat Democratic majority in the House. It’s easy to forget now that as of this January Democrats were given barely better than even money odds to take …",
-      "source": "Lawyersgunsmoneyblog.com",
-      "url": "https://www.lawyersgunsmoneyblog.com/2026/11/theres-got-to-be-a-morning-after-2",
-      "time": "2026-11-04T12:52:39",
-      "country": "US",
-      "title_ur": "اس کے بعد ایک صبح ہونا ہے۔",
-      "desc_ur": "امریکی سیاسی تاریخ میں ایک قابل ذکر رات کے بارے میں مختلف بے ترتیب مشاہدات: این بی سی ایوان میں 81 نشستوں پر مشتمل ڈیموکریٹک اکثریت کو پیش کر رہا ہے۔ اب یہ بھولنا آسان ہے کہ اس جنوری تک ڈیموکریٹس کو پیسے کی مشکلات سے بھی بمشکل بہتر دیا گیا تھا…"
-    },
-    {
-      "title": "Khamenei is dead, long live the Ayatollah! How Trump's Iran war triggered 'regime change' at home",
-      "desc": "Donald Trump's military action against Iran inadvertently strengthened the regime, counter to expectations. In the wake of this, Democrats took control of Congress during the midterm elections, presenting new hurdles for Trump's presidency. Escalating fuel pr…",
+      "title": "'The Iran thing we had to do': Trump defends war despite election losses",
+      "desc": "President Trump defends military actions against Iran, claiming it's necessary to thwart nuclear arms, even as Republicans face election repercussions linked to the war and rising fuel prices.",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/khamenei-is-dead-long-live-the-ayatollah-how-trumps-iran-war-triggered-regime-change-at-home/articleshow/135538825.cms",
-      "time": "2026-11-04T12:51:41",
+      "url": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/the-iran-thing-we-had-to-do-trump-defends-war-despite-election-losses/articleshow/135551312.cms",
+      "time": "2026-11-04T20:24:58",
       "country": "Iran",
-      "title_ur": "خامنہ ای مر گئے، آیت اللہ زندہ باد! کس طرح ٹرمپ کی ایران جنگ نے گھر میں 'حکومت کی تبدیلی' کو جنم دیا۔",
-      "desc_ur": "ایران کے خلاف ڈونلڈ ٹرمپ کی فوجی کارروائی نے نادانستہ طور پر حکومت کو مضبوط کیا، توقعات کے برعکس۔ اس کے تناظر میں، ڈیموکریٹس نے وسط مدتی انتخابات کے دوران کانگریس کا کنٹرول سنبھال لیا، ٹرمپ کی صدارت کے لیے نئی رکاوٹیں پیش کیں۔ بڑھتی ہوئی ایندھن کی قیمت…"
+      "title_ur": "'ایران وہ کام جو ہمیں کرنا تھا': ٹرمپ نے انتخابی نقصان کے باوجود جنگ کا دفاع کیا۔",
+      "desc_ur": "صدر ٹرمپ نے ایران کے خلاف فوجی کارروائیوں کا دفاع کرتے ہوئے دعویٰ کیا کہ جوہری ہتھیاروں کو ناکام بنانا ضروری ہے، یہاں تک کہ ریپبلکنز کو جنگ اور ایندھن کی بڑھتی قیمتوں سے منسلک انتخابی اثرات کا سامنا ہے۔"
     },
     {
-      "title": "ED searches multiple locations in Odisha, Bengal in financial fraud case",
-      "desc": "ED raids multiple sites in Odisha and West Bengal in a Rs 70+ crore money circulation fraud probe, examining transactions, fund trails, and seized records.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/ed-searches-multiple-locations-in-odisha-bengal-in-financial-fraud-case/articleshow/135539922.cms",
-      "time": "2026-11-04T12:50:49",
+      "title": "Blue Reckoning",
+      "desc": "In RVA, the Democratic wave lifts (almost) everybody.",
+      "source": "Richmondmagazine.com",
+      "url": "https://richmondmagazine.com/news/field-notes/midterm-election-results-2026/",
+      "time": "2026-11-04T20:24:00",
       "country": "International",
-      "title_ur": "ای ڈی نے مالی دھوکہ دہی کے معاملے میں اوڈیشہ، بنگال میں متعدد مقامات کی تلاشی لی",
-      "desc_ur": "ای ڈی نے اوڈیشہ اور مغربی بنگال میں 70+ کروڑ روپے کی رقم کی گردش کی دھوکہ دہی کی تحقیقات میں متعدد مقامات پر چھاپے مارے، لین دین، فنڈ ٹریلز اور ضبط شدہ ریکارڈ کی جانچ کی۔"
+      "title_ur": "بلیو ریکوننگ",
+      "desc_ur": "آر وی اے میں، ڈیموکریٹک لہر (تقریباً) سب کو اٹھا لیتی ہے۔"
     },
     {
-      "title": "How Hakeem Jeffries is poised to become the first Black speaker",
-      "desc": "Rep. Hakeem Jeffries is on track to make history as the first Black speaker of the House. Democrats are projected to win control of the U.S. House of Representatives in the 2026 midterm elections, putting Jeffries in line to become the first Black speaker of …",
-      "source": "Rolling Out",
-      "url": "https://rollingout.com/2026/11/04/how-jeffries-poised-first-black-speaker/",
-      "time": "2026-11-04T12:48:37",
+      "title": "How a blue wave crushed the tech right",
+      "desc": "The Democratic wins that swept America on election night was a backlash against data centers, and a rebuke to Silicon Valley elites.",
+      "source": "Business Insider",
+      "url": "https://www.businessinsider.com/how-a-blue-wave-crushed-the-tech-right-2026-11#article",
+      "time": "2026-11-04T20:23:39",
+      "country": "UK",
+      "title_ur": "نیلی لہر نے ٹیک کو کس طرح کچل دیا۔",
+      "desc_ur": "ڈیموکریٹک کی جیت جس نے الیکشن کی رات امریکہ کو اپنی لپیٹ میں لے لیا وہ ڈیٹا سینٹرز کے خلاف ردعمل اور سلیکون ویلی کے اشرافیہ کی سرزنش تھی۔"
+    },
+    {
+      "title": "Jim Jordan, Steve Scalise Set To Wrestle For Top House GOP Spot After Mike Johnson Steps Aside",
+      "desc": "Republican Majority Leader Steve Scalise and Republican Ohio Rep. Jim Jordan launched their bids Wednesday to become their party’s next leader.",
+      "source": "The Daily Caller",
+      "url": "https://dailycaller.com/2026/11/04/steve-scalise-jim-jordan-face-off-party-leader",
+      "time": "2026-11-04T20:21:19",
       "country": "US",
-      "title_ur": "حکیم جیفریز کس طرح پہلے سیاہ فام اسپیکر بننے کے لیے تیار ہیں۔",
-      "desc_ur": "نمائندہ حکیم جیفریز ایوان کے پہلے سیاہ فام اسپیکر کے طور پر تاریخ رقم کرنے کے راستے پر ہیں۔ ڈیموکریٹس کے 2026 کے وسط مدتی انتخابات میں امریکی ایوان نمائندگان کا کنٹرول حاصل کرنے کا امکان ہے، جس سے جیفریز کے پہلے سیاہ فام اسپیکر بننے کے لیے قطار میں کھڑے ہوں گے…"
+      "title_ur": "مائیک جانسن کے ایک طرف ہٹ جانے کے بعد جم جارڈن، اسٹیو اسکیلیس ٹاپ ہاؤس جی او پی اسپاٹ کے لیے کشتی کے لیے تیار",
+      "desc_ur": "ریپبلکن اکثریتی رہنما سٹیو سکیلیس اور ریپبلکن اوہائیو کے نمائندے جم جارڈن نے بدھ کو اپنی پارٹی کا اگلا لیڈر بننے کے لیے بولی شروع کی۔"
     },
     {
-      "title": "Can Democrats stop Iran war, reverse Trump’s tariffs after midterms win?",
-      "desc": "Democrats can block Trump's legislative agenda, launch investigations but don't have the numbers to override his veto.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/11/4/tariffs-to-iran-war-can-democrats-reverse-trump-policy-with-midterms-win",
-      "time": "2026-11-04T12:48:11",
-      "country": "Iran",
-      "title_ur": "کیا ڈیموکریٹس ایران جنگ کو روک سکتے ہیں، وسط مدتی جیت کے بعد ٹرمپ کے ٹیرف کو واپس لے سکتے ہیں؟",
-      "desc_ur": "ڈیموکریٹس ٹرمپ کے قانون سازی کے ایجنڈے کو روک سکتے ہیں، تحقیقات شروع کر سکتے ہیں لیکن ان کے ویٹو کو ختم کرنے کے لیے ان کے پاس تعداد نہیں ہے۔"
+      "title": "SNP quango gave £900,000 to 'Palestine-row' arts group",
+      "desc": "The arts organisation behind a controversial Palestine-themed event titled 'From the Rivers to the Seas' has received almost £1million from taxpayers.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16266143/SNP-quango-gave-900-000-Palestine-row-arts-group.html",
+      "time": "2026-11-04T20:21:12",
+      "country": "International",
+      "title_ur": "SNP کوانگو نے 'Palestine-row' آرٹس گروپ کو £900,000 دیے",
+      "desc_ur": "'دریاؤں سے سمندر تک' کے عنوان سے فلسطین کی تھیم پر مبنی ایک متنازعہ تقریب کے پیچھے آرٹس آرگنائزیشن نے ٹیکس دہندگان سے تقریباً £1 ملین وصول کیے ہیں۔"
     },
     {
-      "title": "4.97kg of hydroponic ganja worth Rs 5 crore seized at Chennai airport",
-      "desc": "CHENNAI: In the third seizure within a week, customs sleuths at Chennai airport thwarted yet another attempt to smuggle hydroponic ganja into the country,",
+      "title": "Iran war backfires on Donald Trump? US president acknowledges conflict hurt Republicans as Democrats win midterm elections",
+      "desc": "Donald Trump Iran war: In a major setback for the Trump administration, Democrats won control of both chambers of Congress, impacting the Republican party amid rising gasoline prices and an ongoing conflict with Iran. Trump and other GOP leaders attribute the…",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/chennai/4-97kg-of-hydroponic-ganja-worth-rs-5-crore-seized-at-chennai-airport/articleshow/135539801.cms",
-      "time": "2026-11-04T12:47:26",
-      "country": "US",
-      "title_ur": "چنئی کے ہوائی اڈے پر 5 کروڑ روپے کا 4.97 کلو گرام ہائیڈروپونک گانجہ ضبط",
-      "desc_ur": "چنئی: ایک ہفتے کے اندر تیسری پکڑی گئی، چنئی کے ہوائی اڈے پر کسٹم سلیوتھس نے ہائیڈروپونک گانجہ کو ملک میں سمگل کرنے کی ایک اور کوشش کو ناکام بنا دیا۔"
-    },
-    {
-      "title": "Democrats Have a Historic Opportunity to Remodel Capitalism",
-      "desc": "The model actually exists. Politics just needs to catch up.",
-      "source": "Foreign Policy",
-      "url": "http://foreignpolicy.com/2026/11/04/midterm-elections-progressive-democratic-socialism-us-capitalism/",
-      "time": "2026-11-04T12:47:12",
-      "country": "US",
-      "title_ur": "ڈیموکریٹس کے پاس سرمایہ داری کو دوبارہ تشکیل دینے کا ایک تاریخی موقع ہے۔",
-      "desc_ur": "ماڈل اصل میں موجود ہے۔ سیاست کو بس پکڑنے کی ضرورت ہے۔"
-    },
-    {
-      "title": "Cruise Ship Leaves Cambodia After Forcing Hundreds of Passengers Off",
-      "desc": "After disembarking more than 200 passengers who had paid tens of thousands of dollars to live on board for years, the Villa Vie Odyssey cruise ship departed Cambodia early on Wednesday.",
-      "source": "gcaptain.com",
-      "url": "https://gcaptain.com/cruise-ship-leaves-cambodia-after-forcing-hundreds-of-passengers-off/",
-      "time": "2026-11-04T12:45:08",
-      "country": "US",
-      "title_ur": "سیکڑوں مسافروں کو زبردستی اتارنے کے بعد کروز جہاز کمبوڈیا سے نکل گیا۔",
-      "desc_ur": "200 سے زیادہ مسافروں کو اتارنے کے بعد جنہوں نے برسوں تک جہاز پر رہنے کے لیے دسیوں ہزار ڈالر ادا کیے تھے، ولا وائی اوڈیسی کروز جہاز بدھ کو صبح سویرے کمبوڈیا سے روانہ ہوا۔"
-    },
-    {
-      "title": "Trump says 'largely true' Iran war led to Republican midterm loss",
-      "desc": "After Democrats won both the House and Senate in a blowout for Republicans, President Donald Trump admitted fuel prices brought on by the Iran war impacted the outcome, but stuck by his decision. DW has more. Democratic Party candidates secure control of the …",
-      "source": "DW (English)",
-      "url": "https://www.dw.com/en/trump-says-largely-true-iran-war-led-to-republican-midterm-loss/live-79829440",
-      "time": "2026-11-04T12:45:00",
+      "url": "https://economictimes.indiatimes.com/news/international/us/iran-war-backfires-on-donald-trump-us-president-acknowledges-conflict-hurt-republicans-as-democrats-win-midterm-elections/articleshow/135551176.cms",
+      "time": "2026-11-04T20:21:11",
       "country": "Iran",
-      "title_ur": "ٹرمپ کا کہنا ہے کہ 'بڑی حد تک سچی' ایران جنگ ری پبلکن وسط مدتی نقصان کا باعث بنی۔",
-      "desc_ur": "جب ڈیموکریٹس نے ریپبلکنز کے لیے ایوان اور سینیٹ دونوں میں کامیابی حاصل کی، صدر ڈونلڈ ٹرمپ نے اعتراف کیا کہ ایران جنگ کی وجہ سے ایندھن کی قیمتوں میں اضافہ نے نتائج کو متاثر کیا، لیکن وہ اپنے فیصلے پر قائم رہے۔ ڈی ڈبلیو کے پاس اور بھی ہے۔ ڈیموکریٹک پارٹی کے امیدواروں کا کنٹرول محفوظ ہے…"
+      "title_ur": "ایران جنگ ڈونلڈ ٹرمپ پر الٹا فائر؟ امریکی صدر نے تسلیم کیا کہ تنازعات سے ریپبلکنز کو نقصان پہنچا کیونکہ ڈیموکریٹس نے وسط مدتی انتخابات میں کامیابی حاصل کی۔",
+      "desc_ur": "ڈونلڈ ٹرمپ ایران جنگ: ٹرمپ انتظامیہ کے لیے ایک بڑا دھچکا، ڈیموکریٹس نے کانگریس کے دونوں ایوانوں کا کنٹرول حاصل کر لیا، جس سے پٹرول کی بڑھتی ہوئی قیمتوں اور ایران کے ساتھ جاری تنازعہ کے درمیان ریپبلکن پارٹی پر اثر پڑا۔ ٹرمپ اور دیگر جی او پی رہنماؤں نے اس کی وجہ…"
     },
     {
-      "title": "Trump says 'largely true' Iran war led to Republicans midterm loss",
-      "desc": "After Democrats won both the House and Senate in a blowout for Republicans, President Trump admitted fuel prices brought on by the Iran war impacted the outcome, but stuck by his decision. Democratic Party candidates secure control of the US Senate and House …",
-      "source": "DW (English)",
-      "url": "https://www.dw.com/en/trump-says-largely-true-iran-war-led-to-republicans-midterm-loss/live-79829440",
-      "time": "2026-11-04T12:45:00",
+      "title": "World Leaders React to Democrat Midterm Election Victory",
+      "desc": "Leaders of foreign governments and major political parties around the world responded to the Democrats’ midterm election victory.\nThe post World Leaders React to Democrat Midterm Election Victory appeared first on Breitbart.",
+      "source": "Breitbart News",
+      "url": "https://www.breitbart.com/national-security/2026/11/04/world-leaders-react-democrat-midterm-election-victory/",
+      "time": "2026-11-04T20:20:35",
+      "country": "International",
+      "title_ur": "عالمی رہنماؤں کا ڈیموکریٹ وسط مدتی انتخابات میں کامیابی پر ردعمل",
+      "desc_ur": "غیر ملکی حکومتوں اور دنیا بھر کی بڑی سیاسی جماعتوں کے رہنماؤں نے ڈیموکریٹس کی وسط مدتی انتخابات میں کامیابی پر ردعمل کا اظہار کیا۔\nThe post عالمی رہنماؤں کا ڈیموکریٹ وسط مدتی انتخابات میں فتح پر ردعمل appeared first on Breitbart."
+    },
+    {
+      "title": "How Democrats Coalesced Around the Economy to Pull Off a Stunning Victory",
+      "desc": "A Democratic Party riven with division unified around an economic message and avoided previous pitfallsDemocrats won control of both chambers of Congress, a majority of governorships and more in a massive midterm rebuke of President Trump. In doing so, they p…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4401817/posts",
+      "time": "2026-11-04T20:20:12",
+      "country": "UK",
+      "title_ur": "کس طرح ڈیموکریٹس ایک شاندار فتح حاصل کرنے کے لیے معیشت کے ارد گرد اکٹھے ہوئے۔",
+      "desc_ur": "ایک ڈیموکریٹک پارٹی نے تقسیم سے دوچار ایک اقتصادی پیغام کے ارد گرد متحد کیا اور پچھلے نقصانات سے گریز کیا ڈیموکریٹس نے صدر ٹرمپ کی وسط مدتی سرزنش میں کانگریس کے دونوں ایوانوں، گورنرشپ کی اکثریت اور مزید بہت کچھ کا کنٹرول حاصل کر لیا۔ ایسا کرتے ہوئے، وہ پی…"
+    },
+    {
+      "title": "‘Vast criminal network’: US sanctions Indian couple, 9 firms over oil trade fraud aiding Iran",
+      "desc": "The United States on Wednesday imposed sanctions on an India-based businessman, his wife and several Indian companies for allegedly helping Iran evade",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/us/vast-criminal-network-us-sanctions-indian-couple-9-firms-over-oil-trade-fraud-aiding-iran/articleshow/135551108.cms",
+      "time": "2026-11-04T20:19:37",
       "country": "Iran",
-      "title_ur": "ٹرمپ کا کہنا ہے کہ 'بڑی حد تک سچی' ایران جنگ نے ریپبلکنز کو وسط مدتی نقصان پہنچایا",
-      "desc_ur": "جب ڈیموکریٹس نے ریپبلکنز کے لیے ایوان اور سینیٹ دونوں میں کامیابی حاصل کی، صدر ٹرمپ نے اعتراف کیا کہ ایران جنگ کے نتیجے میں ایندھن کی قیمتوں میں اضافہ نے نتائج کو متاثر کیا، لیکن وہ اپنے فیصلے پر قائم رہے۔ ڈیموکریٹک پارٹی کے امیدواروں نے امریکی سینیٹ اور ایوان کا کنٹرول حاصل کر لیا…"
+      "title_ur": "'وسیع مجرمانہ نیٹ ورک': امریکہ نے ایران کی مدد کرنے والے تیل کی تجارت میں دھوکہ دہی کے الزام میں ہندوستانی جوڑے اور 9 فرموں پر پابندی عائد کردی",
+      "desc_ur": "امریکہ نے بدھ کے روز ہندوستان میں مقیم ایک تاجر، اس کی اہلیہ اور کئی ہندوستانی کمپنیوں پر ایران سے فرار ہونے میں مبینہ طور پر مدد کرنے پر پابندیاں عائد کر دی ہیں۔"
     },
     {
-      "title": "US midterms: 'Largely true' Iran war led to loss, Trump says",
-      "desc": "The US president still insisted he \"had to do\" the controversial war, after his Vice President Vance also blamed it for the Republican loss. The Democrats now control both the US House and Senate. Follow live. Democratic Party candidates secure control of the…",
-      "source": "DW (English)",
-      "url": "https://www.dw.com/en/us-midterms-largely-true-iran-war-led-to-loss-trump-says/live-79829440",
-      "time": "2026-11-04T12:45:00",
+      "title": "Shoe Prices, Material Costs and Tariffs Are Top of Mind for the Industry: Can a New Congress Help Ease Concerns?",
+      "desc": "U.S. 2026 midterm election results show that consumers remained focused on the economy, with tariffs raising the cost of basics such as footwear.",
+      "source": "WWD",
+      "url": "http://wwd.com/footwear-news/shoe-industry-news/u-s-2026-midterm-elections-consumers-economy-cost-footwear-1239400137/",
+      "time": "2026-11-04T20:19:26",
       "country": "Iran",
-      "title_ur": "امریکی وسط مدتی: 'بڑے پیمانے پر سچ' ایران جنگ نے نقصان پہنچایا، ٹرمپ کہتے ہیں۔",
-      "desc_ur": "امریکی صدر نے اب بھی اصرار کیا کہ انہیں متنازعہ جنگ \"کرنی ہوگی\"، جب ان کے نائب صدر وینس نے بھی اسے ریپبلکن کے نقصان کا ذمہ دار ٹھہرایا۔ ڈیموکریٹس اب امریکی ایوان اور سینیٹ دونوں پر کنٹرول رکھتے ہیں۔ لائیو فالو کریں۔ ڈیموکریٹک پارٹی کے امیدواروں کا کنٹرول محفوظ ہے…"
+      "title_ur": "صنعت کے لیے جوتوں کی قیمتیں، مواد کی قیمتیں اور ٹیرف سب سے اہم ہیں: کیا نئی کانگریس تشویشات کو کم کرنے میں مدد کر سکتی ہے؟",
+      "desc_ur": "امریکی 2026 کے وسط مدتی انتخابات کے نتائج سے پتہ چلتا ہے کہ صارفین کی توجہ معیشت پر مرکوز رہی، ٹیرف نے جوتے جیسی بنیادی چیزوں کی قیمتوں میں اضافہ کیا۔"
     },
     {
-      "title": "Trump admits Iran war hurt Republican vote, vows to veto ‘insane’ bills",
-      "desc": "US President Donald Trump has admitted that the war on Iran contributed to Republican losses in the midterm elections.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-admits-iran-war-hurt-republican-vote-vows-to-veto-insane-bills",
-      "time": "2026-11-04T12:44:30",
-      "country": "Iran",
-      "title_ur": "ٹرمپ نے اعتراف کیا کہ ایران جنگ نے ریپبلکن ووٹ کو نقصان پہنچایا، 'پاگل' بلوں کو ویٹو کرنے کا عزم کیا۔",
-      "desc_ur": "امریکی صدر ڈونلڈ ٹرمپ نے اعتراف کیا ہے کہ ایران کے خلاف جنگ نے وسط مدتی انتخابات میں ریپبلکن پارٹی کو نقصان پہنچایا۔"
+      "title": "In A World of Taking Sides, Take This (Healing) Way Forward",
+      "desc": "I don’t know how many times I have thought about him this week, a farmer I met with beat-up hands, about 9 miles southwest of Bethlehem. He asks me what I do. I tell him I’m a farmer’s wife, daughter of a farmer, grand-daughter of a farmer — yeah, farmers are…",
+      "source": "Annvoskamp.com",
+      "url": "https://annvoskamp.com/2026/11/in-a-world-of-taking-sides-take-this-healing-way-forward/",
+      "time": "2026-11-04T20:18:06",
+      "country": "International",
+      "title_ur": "طرف لینے کی دنیا میں، اس (شفا) کو آگے بڑھائیں۔",
+      "desc_ur": "مجھے نہیں معلوم کہ میں نے اس ہفتے کتنی بار اس کے بارے میں سوچا ہے، ایک کسان جس سے میں نے بیت لحم کے جنوب مغرب میں تقریباً 9 میل کے فاصلے پر مارے مارے ہاتھوں سے ملاقات کی۔ وہ مجھ سے پوچھتا ہے کہ میں کیا کرتا ہوں۔ میں اسے بتاتا ہوں کہ میں ایک کسان کی بیوی ہوں، ایک کسان کی بیٹی ہوں، ایک کسان کی پوتی ہوں - ہاں، کسان ہیں…"
     },
     {
-      "title": "From Texas to Kansas, 6 stunning midterm results that upended the political map",
-      "desc": "Democrats flipped seven Senate seats in a 2026 midterm referendum on Trump, ousting Susan Collins and defeating Attorney General Ken Paxton.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/politics/from-texas-kansas-6-stunning-midterm-results-upended-political-map",
-      "time": "2026-11-04T12:43:40",
+      "title": "UPDATE: Talarico Totals Crush ALL Democrat TX Candidates Since 2016, Including 3 Presidential Races (See Graphs)",
+      "desc": "In 2024, Donald Trump carried Texas by approximately 13.7% with 6,393,597 votes.\nThe post UPDATE: Talarico Totals Crush ALL Democrat TX Candidates Since 2016, Including 3 Presidential Races (See Graphs) appeared first on The Gateway Pundit.",
+      "source": "Thegatewaypundit.com",
+      "url": "https://www.thegatewaypundit.com/2026/11/update-talarico-totals-crush-all-democrat-tx-candidates/",
+      "time": "2026-11-04T20:15:54",
       "country": "US",
-      "title_ur": "ٹیکساس سے کنساس تک، 6 شاندار وسط مدتی نتائج جنہوں نے سیاسی نقشے کو بالائے طاق رکھ دیا۔",
-      "desc_ur": "ڈیموکریٹس نے ٹرمپ پر 2026 کے وسط مدتی ریفرنڈم میں سینیٹ کی سات نشستیں پلٹائیں، سوسن کولنز کو بے دخل کیا اور اٹارنی جنرل کین پاکسٹن کو شکست دی۔"
+      "title_ur": "اپ ڈیٹ: Talarico Totals نے 2016 سے تمام ڈیموکریٹ TX امیدواروں کو کچل دیا، بشمول 3 صدارتی دوڑیں (گرافس دیکھیں)",
+      "desc_ur": "2024 میں، ڈونلڈ ٹرمپ نے 6,393,597 ووٹوں کے ساتھ ٹیکساس کو تقریباً 13.7 فیصد سے آگے کیا۔\nThe post اپ ڈیٹ: Talarico Totals نے 2016 سے تمام ڈیموکریٹ TX امیدواروں کو کچل دیا، بشمول 3 صدارتی ریس (گرافس دیکھیں) appeared first on The Gateway Pundit."
     },
     {
-      "title": "The Beginning of the End of Trumpism",
-      "desc": "What the mass disapproval of U.S. voters means for the world.",
-      "source": "Foreign Policy",
-      "url": "http://foreignpolicy.com/2026/11/04/democrats-midterms-senate-house-united-states-trump-global-backlash/",
-      "time": "2026-11-04T12:43:00",
-      "country": "US",
-      "title_ur": "ٹرمپ ازم کے خاتمے کا آغاز",
-      "desc_ur": "امریکی ووٹروں کی بڑے پیمانے پر ناپسندیدگی کا دنیا کے لیے کیا مطلب ہے۔"
+      "title": "The Art Market Is Doubling Down on the Gulf Despite the War With Iran",
+      "desc": "Christie’s, Sotheby’s, Frieze and Art Basel are pushing ahead with auctions, fairs and outposts in Abu Dhabi, Dubai and Doha, even as tensions around the Strait of Hormuz persist. Whether the rewards will outweigh the risks may depend on the continued enthusi…",
+      "source": "Observer",
+      "url": "https://observer.com/2026/11/art-christies-sothebys-frieze-art-basel-auctions-fairs-luxury-war-iran/",
+      "time": "2026-11-04T20:10:42",
+      "country": "Iran",
+      "title_ur": "ایران کے ساتھ جنگ ​​کے باوجود خلیج میں آرٹ مارکیٹ دوگنی ہو رہی ہے۔",
+      "desc_ur": "کرسٹیز، سوتھبیز، فریز اور آرٹ باسل ابوظہبی، دبئی اور دوحہ میں نیلامیوں، میلوں اور چوکیوں کے ساتھ آگے بڑھ رہے ہیں، یہاں تک کہ آبنائے ہرمز کے ارد گرد کشیدگی برقرار ہے۔ آیا انعامات خطرات سے زیادہ ہوں گے اس کا انحصار مسلسل جوش و خروش پر ہو سکتا ہے…"
+    },
+    {
+      "title": "US voters have punished the Republican Party as Iran war gas prices rise",
+      "desc": "The 2026 US midterms results are in: Donald Trump's Republican Party has suffered a devastating defeat, losing both the House ...",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/338edb3c595eff68",
+      "time": "2026-11-04T20:09:50",
+      "country": "Iran",
+      "title_ur": "امریکی ووٹرز نے ایران وار گیس کی قیمتوں میں اضافے پر ریپبلکن پارٹی کو سزا دی ہے۔",
+      "desc_ur": "2026 کے امریکی وسط مدتی نتائج سامنے آ رہے ہیں: ڈونلڈ ٹرمپ کی ریپبلکن پارٹی کو تباہ کن شکست کا سامنا کرنا پڑا ہے، دونوں ایوانوں میں شکست ہوئی ہے..."
     }
   ],
-  "pakistan": [
-    {
-      "title": "UK Supreme Court hears appeal against Palestine Action’s proscription",
-      "desc": "Rights activists say UK decision against Palestine Action is a 'misuse of terrorism powers'.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/11/4/uk-supreme-court-hears-appeal-against-palestine-actions-proscription",
-      "time": "2026-11-04T12:43:47",
-      "country": "Pakistan",
-      "title_ur": "برطانیہ کی سپریم کورٹ نے فلسطین ایکشن کی پابندی کے خلاف اپیل کی سماعت کی۔",
-      "desc_ur": "انسانی حقوق کے کارکنوں کا کہنا ہے کہ فلسطین ایکشن کے خلاف برطانیہ کا فیصلہ 'دہشت گردی کے اختیارات کا غلط استعمال' ہے۔"
-    },
-    {
-      "title": "Iran warns of wider war if US attacks after Trump election rout",
-      "desc": "Iran's supreme leader, Mojtaba Khamenei, expressed that the Middle East conflict may escalate if US attacks continue. Trump's political defeat in the midterms may limit his military options, yet he retains authority to strike. Iran's leadership is emphasizing…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-warns-of-wider-war-if-us-attacks-after-trump-election-rout/articleshow/135539710.cms",
-      "time": "2026-11-04T12:41:02",
-      "country": "Pakistan",
-      "title_ur": "ایران نے ٹرمپ کے انتخابات میں شکست کے بعد اگر امریکی حملہ کیا تو وسیع جنگ کا انتباہ",
-      "desc_ur": "ایران کے سپریم لیڈر مجتبیٰ خامنہ ای نے کہا ہے کہ اگر امریکی حملے جاری رہے تو مشرق وسطیٰ میں تنازعہ بڑھ سکتا ہے۔ وسط مدتی انتخابات میں ٹرمپ کی سیاسی شکست ان کے فوجی اختیارات کو محدود کر سکتی ہے، پھر بھی وہ حملہ کرنے کا اختیار برقرار رکھتے ہیں۔ ایرانی قیادت اس بات پر زور دے رہی ہے کہ…"
-    },
-    {
-      "title": "Moscow Exchange to Launch Bitcoin Trading on December 1: Is Global Adoption Speeding Up?",
-      "desc": "Moscow Exchange will list Bitcoin, Ether and USDT on December 1 under Russia's new crypto law. What could it mean for global Bitcoin adoption?",
-      "source": "Dcforecasts.com",
-      "url": "https://www.dcforecasts.com/bitcoin-news/moscow-exchange-bitcoin-trading-december-1/",
-      "time": "2026-11-04T12:34:35",
-      "country": "Pakistan",
-      "title_ur": "ماسکو ایکسچینج 1 دسمبر کو بٹ کوائن ٹریڈنگ شروع کرے گا: کیا عالمی سطح پر اپنانے کی رفتار بڑھ رہی ہے؟",
-      "desc_ur": "ماسکو ایکسچینج روس کے نئے کرپٹو قانون کے تحت 1 دسمبر کو Bitcoin، Ether اور USDT کی فہرست بنائے گا۔ عالمی Bitcoin اپنانے کے لیے اس کا کیا مطلب ہو سکتا ہے؟"
-    },
-    {
-      "title": "Agnipath scheme revised: Agniveers to get 2-year service extension, option for regular enrolment after 6 years",
-      "desc": "The Union Cabinet has approved a two-year service extension for Agniveers completing their initial four-year tenure under the Agnipath scheme. The revised arrangement will allow the remaining 75% to continue serving for six years and seek regular enrolment in…",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/education/news/agnipath-scheme-revised-agniveers-to-get-2-year-service-extension-option-for-regular-enrolment-after-6-years/articleshow/135538845.cms",
-      "time": "2026-11-04T12:31:51",
-      "country": "Pakistan",
-      "title_ur": "اگنی پتھ اسکیم پر نظر ثانی کی گئی: اگنیور کو 2 سال کی سروس ایکسٹینشن ملے گی، 6 سال کے بعد باقاعدہ اندراج کا آپشن",
-      "desc_ur": "مرکزی کابینہ نے اگنی پتھ اسکیم کے تحت اپنی ابتدائی چار سالہ مدت پوری کرنے والے اگنیوروں کے لیے دو سال کی سروس میں توسیع کی منظوری دی ہے۔ نظرثانی شدہ انتظامات بقیہ 75% کو چھ سال تک خدمت جاری رکھنے اور باقاعدہ اندراج حاصل کرنے کی اجازت دے گا…"
-    }
-  ],
+  "pakistan": [],
   "business": {
     "quote": "Time is more valuable than money. You can get more money, but you cannot get more time.",
     "author": "Jim Rohn",
@@ -204,21 +163,12 @@
     "city_ur": "لاہور",
     "forecast": [
       {
-        "date": "2026-11-05",
-        "day": "جمعرات",
-        "high": 29,
-        "low": 18,
-        "condition": "Overcast",
-        "condition_ur": "ابر آلود",
-        "precip": 0
-      },
-      {
         "date": "2026-11-06",
         "day": "جمعہ",
-        "high": 28,
-        "low": 18,
-        "condition": "Overcast",
-        "condition_ur": "ابر آلود",
+        "high": 29,
+        "low": 19,
+        "condition": "Mainly Clear",
+        "condition_ur": "زیادہ تر صاف",
         "precip": 0
       },
       {
@@ -235,8 +185,8 @@
         "day": "اتوار",
         "high": 29,
         "low": 16,
-        "condition": "Clear",
-        "condition_ur": "صاف",
+        "condition": "Mainly Clear",
+        "condition_ur": "زیادہ تر صاف",
         "precip": 0
       },
       {
@@ -251,11 +201,11 @@
       {
         "date": "2026-11-10",
         "day": "منگل",
-        "high": 28,
+        "high": 29,
         "low": 17,
         "condition": "Overcast",
         "condition_ur": "ابر آلود",
-        "precip": 2
+        "precip": 0
       },
       {
         "date": "2026-11-11",
@@ -265,12 +215,21 @@
         "condition": "Clear",
         "condition_ur": "صاف",
         "precip": 2
+      },
+      {
+        "date": "2026-11-12",
+        "day": "جمعرات",
+        "high": 29,
+        "low": 18,
+        "condition": "Overcast",
+        "condition_ur": "ابر آلود",
+        "precip": 2
       }
     ]
   },
   "date": {
-    "gregorian": "Thursday, 5 November 2026",
-    "hijri": "25 Jumādá al-ūlá 1448",
-    "hijri_ur": "25 جُمادى الأولى 1448"
+    "gregorian": "Friday, 6 November 2026",
+    "hijri": "26 Jumādá al-ūlá 1448",
+    "hijri_ur": "26 جُمادى الأولى 1448"
   }
 }
