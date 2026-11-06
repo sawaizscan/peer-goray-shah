@@ -1,162 +1,193 @@
 {
-  "generated": "2026-11-05T20:26:17Z",
+  "generated": "2026-11-06T01:01:47Z",
   "world": [
     {
-      "title": "Is AIPAC Okay?",
-      "desc": "After every election in recent memory, the American Israel Public Affairs Committee (AIPAC) has spent a day or two congratulating its endorsed candidates on their wins. The massive pro-Israel lobby group spent over $80 million on this election cycle, so you m…",
-      "source": "Mother Jones",
-      "url": "https://www.motherjones.com/politics/2026/11/aipac-midterms-el-sayed-israel-lobby-spending/",
-      "time": "2026-11-04T20:25:06",
-      "country": "Israel",
-      "title_ur": "کیا AIPAC ٹھیک ہے؟",
-      "desc_ur": "حالیہ یاد میں ہر انتخابات کے بعد، امریکن اسرائیل پبلک افیئرز کمیٹی (اے آئی پی اے سی) نے اپنے حمایت یافتہ امیدواروں کو ان کی جیت پر مبارکباد دینے میں ایک یا دو دن گزارے ہیں۔ بڑے پیمانے پر اسرائیل نواز لابی گروپ نے اس انتخابی چکر پر $80 ملین سے زیادہ خرچ کیے، لہذا آپ…"
-    },
-    {
-      "title": "'The Iran thing we had to do': Trump defends war despite election losses",
-      "desc": "President Trump defends military actions against Iran, claiming it's necessary to thwart nuclear arms, even as Republicans face election repercussions linked to the war and rising fuel prices.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/the-iran-thing-we-had-to-do-trump-defends-war-despite-election-losses/articleshow/135551312.cms",
-      "time": "2026-11-04T20:24:58",
-      "country": "Iran",
-      "title_ur": "'ایران وہ کام جو ہمیں کرنا تھا': ٹرمپ نے انتخابی نقصان کے باوجود جنگ کا دفاع کیا۔",
-      "desc_ur": "صدر ٹرمپ نے ایران کے خلاف فوجی کارروائیوں کا دفاع کرتے ہوئے دعویٰ کیا کہ جوہری ہتھیاروں کو ناکام بنانا ضروری ہے، یہاں تک کہ ریپبلکنز کو جنگ اور ایندھن کی بڑھتی قیمتوں سے منسلک انتخابی اثرات کا سامنا ہے۔"
-    },
-    {
-      "title": "Blue Reckoning",
-      "desc": "In RVA, the Democratic wave lifts (almost) everybody.",
-      "source": "Richmondmagazine.com",
-      "url": "https://richmondmagazine.com/news/field-notes/midterm-election-results-2026/",
-      "time": "2026-11-04T20:24:00",
-      "country": "International",
-      "title_ur": "بلیو ریکوننگ",
-      "desc_ur": "آر وی اے میں، ڈیموکریٹک لہر (تقریباً) سب کو اٹھا لیتی ہے۔"
-    },
-    {
-      "title": "How a blue wave crushed the tech right",
-      "desc": "The Democratic wins that swept America on election night was a backlash against data centers, and a rebuke to Silicon Valley elites.",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/how-a-blue-wave-crushed-the-tech-right-2026-11#article",
-      "time": "2026-11-04T20:23:39",
-      "country": "UK",
-      "title_ur": "نیلی لہر نے ٹیک کو کس طرح کچل دیا۔",
-      "desc_ur": "ڈیموکریٹک کی جیت جس نے الیکشن کی رات امریکہ کو اپنی لپیٹ میں لے لیا وہ ڈیٹا سینٹرز کے خلاف ردعمل اور سلیکون ویلی کے اشرافیہ کی سرزنش تھی۔"
-    },
-    {
-      "title": "Jim Jordan, Steve Scalise Set To Wrestle For Top House GOP Spot After Mike Johnson Steps Aside",
-      "desc": "Republican Majority Leader Steve Scalise and Republican Ohio Rep. Jim Jordan launched their bids Wednesday to become their party’s next leader.",
-      "source": "The Daily Caller",
-      "url": "https://dailycaller.com/2026/11/04/steve-scalise-jim-jordan-face-off-party-leader",
-      "time": "2026-11-04T20:21:19",
-      "country": "US",
-      "title_ur": "مائیک جانسن کے ایک طرف ہٹ جانے کے بعد جم جارڈن، اسٹیو اسکیلیس ٹاپ ہاؤس جی او پی اسپاٹ کے لیے کشتی کے لیے تیار",
-      "desc_ur": "ریپبلکن اکثریتی رہنما سٹیو سکیلیس اور ریپبلکن اوہائیو کے نمائندے جم جارڈن نے بدھ کو اپنی پارٹی کا اگلا لیڈر بننے کے لیے بولی شروع کی۔"
-    },
-    {
-      "title": "SNP quango gave £900,000 to 'Palestine-row' arts group",
-      "desc": "The arts organisation behind a controversial Palestine-themed event titled 'From the Rivers to the Seas' has received almost £1million from taxpayers.",
+      "title": "How our marriage has survived the alcohol gap: I can sink a bottle of wine a night but my husband barely drinks and hates how booze changes me: ANNABEL FENWICK ELLIOTT",
+      "desc": "I'll never forget the horrifying moment I realised my in-laws weren't big drinkers. It was the first time we were meeting back in 2020.",
       "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16266143/SNP-quango-gave-900-000-Palestine-row-arts-group.html",
-      "time": "2026-11-04T20:21:12",
-      "country": "International",
-      "title_ur": "SNP کوانگو نے 'Palestine-row' آرٹس گروپ کو £900,000 دیے",
-      "desc_ur": "'دریاؤں سے سمندر تک' کے عنوان سے فلسطین کی تھیم پر مبنی ایک متنازعہ تقریب کے پیچھے آرٹس آرگنائزیشن نے ٹیکس دہندگان سے تقریباً £1 ملین وصول کیے ہیں۔"
-    },
-    {
-      "title": "Iran war backfires on Donald Trump? US president acknowledges conflict hurt Republicans as Democrats win midterm elections",
-      "desc": "Donald Trump Iran war: In a major setback for the Trump administration, Democrats won control of both chambers of Congress, impacting the Republican party amid rising gasoline prices and an ongoing conflict with Iran. Trump and other GOP leaders attribute the…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/us/iran-war-backfires-on-donald-trump-us-president-acknowledges-conflict-hurt-republicans-as-democrats-win-midterm-elections/articleshow/135551176.cms",
-      "time": "2026-11-04T20:21:11",
-      "country": "Iran",
-      "title_ur": "ایران جنگ ڈونلڈ ٹرمپ پر الٹا فائر؟ امریکی صدر نے تسلیم کیا کہ تنازعات سے ریپبلکنز کو نقصان پہنچا کیونکہ ڈیموکریٹس نے وسط مدتی انتخابات میں کامیابی حاصل کی۔",
-      "desc_ur": "ڈونلڈ ٹرمپ ایران جنگ: ٹرمپ انتظامیہ کے لیے ایک بڑا دھچکا، ڈیموکریٹس نے کانگریس کے دونوں ایوانوں کا کنٹرول حاصل کر لیا، جس سے پٹرول کی بڑھتی ہوئی قیمتوں اور ایران کے ساتھ جاری تنازعہ کے درمیان ریپبلکن پارٹی پر اثر پڑا۔ ٹرمپ اور دیگر جی او پی رہنماؤں نے اس کی وجہ…"
-    },
-    {
-      "title": "World Leaders React to Democrat Midterm Election Victory",
-      "desc": "Leaders of foreign governments and major political parties around the world responded to the Democrats’ midterm election victory.\nThe post World Leaders React to Democrat Midterm Election Victory appeared first on Breitbart.",
-      "source": "Breitbart News",
-      "url": "https://www.breitbart.com/national-security/2026/11/04/world-leaders-react-democrat-midterm-election-victory/",
-      "time": "2026-11-04T20:20:35",
-      "country": "International",
-      "title_ur": "عالمی رہنماؤں کا ڈیموکریٹ وسط مدتی انتخابات میں کامیابی پر ردعمل",
-      "desc_ur": "غیر ملکی حکومتوں اور دنیا بھر کی بڑی سیاسی جماعتوں کے رہنماؤں نے ڈیموکریٹس کی وسط مدتی انتخابات میں کامیابی پر ردعمل کا اظہار کیا۔\nThe post عالمی رہنماؤں کا ڈیموکریٹ وسط مدتی انتخابات میں فتح پر ردعمل appeared first on Breitbart."
-    },
-    {
-      "title": "How Democrats Coalesced Around the Economy to Pull Off a Stunning Victory",
-      "desc": "A Democratic Party riven with division unified around an economic message and avoided previous pitfallsDemocrats won control of both chambers of Congress, a majority of governorships and more in a massive midterm rebuke of President Trump. In doing so, they p…",
-      "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4401817/posts",
-      "time": "2026-11-04T20:20:12",
-      "country": "UK",
-      "title_ur": "کس طرح ڈیموکریٹس ایک شاندار فتح حاصل کرنے کے لیے معیشت کے ارد گرد اکٹھے ہوئے۔",
-      "desc_ur": "ایک ڈیموکریٹک پارٹی نے تقسیم سے دوچار ایک اقتصادی پیغام کے ارد گرد متحد کیا اور پچھلے نقصانات سے گریز کیا ڈیموکریٹس نے صدر ٹرمپ کی وسط مدتی سرزنش میں کانگریس کے دونوں ایوانوں، گورنرشپ کی اکثریت اور مزید بہت کچھ کا کنٹرول حاصل کر لیا۔ ایسا کرتے ہوئے، وہ پی…"
-    },
-    {
-      "title": "‘Vast criminal network’: US sanctions Indian couple, 9 firms over oil trade fraud aiding Iran",
-      "desc": "The United States on Wednesday imposed sanctions on an India-based businessman, his wife and several Indian companies for allegedly helping Iran evade",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/us/vast-criminal-network-us-sanctions-indian-couple-9-firms-over-oil-trade-fraud-aiding-iran/articleshow/135551108.cms",
-      "time": "2026-11-04T20:19:37",
-      "country": "Iran",
-      "title_ur": "'وسیع مجرمانہ نیٹ ورک': امریکہ نے ایران کی مدد کرنے والے تیل کی تجارت میں دھوکہ دہی کے الزام میں ہندوستانی جوڑے اور 9 فرموں پر پابندی عائد کردی",
-      "desc_ur": "امریکہ نے بدھ کے روز ہندوستان میں مقیم ایک تاجر، اس کی اہلیہ اور کئی ہندوستانی کمپنیوں پر ایران سے فرار ہونے میں مبینہ طور پر مدد کرنے پر پابندیاں عائد کر دی ہیں۔"
-    },
-    {
-      "title": "Shoe Prices, Material Costs and Tariffs Are Top of Mind for the Industry: Can a New Congress Help Ease Concerns?",
-      "desc": "U.S. 2026 midterm election results show that consumers remained focused on the economy, with tariffs raising the cost of basics such as footwear.",
-      "source": "WWD",
-      "url": "http://wwd.com/footwear-news/shoe-industry-news/u-s-2026-midterm-elections-consumers-economy-cost-footwear-1239400137/",
-      "time": "2026-11-04T20:19:26",
-      "country": "Iran",
-      "title_ur": "صنعت کے لیے جوتوں کی قیمتیں، مواد کی قیمتیں اور ٹیرف سب سے اہم ہیں: کیا نئی کانگریس تشویشات کو کم کرنے میں مدد کر سکتی ہے؟",
-      "desc_ur": "امریکی 2026 کے وسط مدتی انتخابات کے نتائج سے پتہ چلتا ہے کہ صارفین کی توجہ معیشت پر مرکوز رہی، ٹیرف نے جوتے جیسی بنیادی چیزوں کی قیمتوں میں اضافہ کیا۔"
-    },
-    {
-      "title": "In A World of Taking Sides, Take This (Healing) Way Forward",
-      "desc": "I don’t know how many times I have thought about him this week, a farmer I met with beat-up hands, about 9 miles southwest of Bethlehem. He asks me what I do. I tell him I’m a farmer’s wife, daughter of a farmer, grand-daughter of a farmer — yeah, farmers are…",
-      "source": "Annvoskamp.com",
-      "url": "https://annvoskamp.com/2026/11/in-a-world-of-taking-sides-take-this-healing-way-forward/",
-      "time": "2026-11-04T20:18:06",
-      "country": "International",
-      "title_ur": "طرف لینے کی دنیا میں، اس (شفا) کو آگے بڑھائیں۔",
-      "desc_ur": "مجھے نہیں معلوم کہ میں نے اس ہفتے کتنی بار اس کے بارے میں سوچا ہے، ایک کسان جس سے میں نے بیت لحم کے جنوب مغرب میں تقریباً 9 میل کے فاصلے پر مارے مارے ہاتھوں سے ملاقات کی۔ وہ مجھ سے پوچھتا ہے کہ میں کیا کرتا ہوں۔ میں اسے بتاتا ہوں کہ میں ایک کسان کی بیوی ہوں، ایک کسان کی بیٹی ہوں، ایک کسان کی پوتی ہوں - ہاں، کسان ہیں…"
-    },
-    {
-      "title": "UPDATE: Talarico Totals Crush ALL Democrat TX Candidates Since 2016, Including 3 Presidential Races (See Graphs)",
-      "desc": "In 2024, Donald Trump carried Texas by approximately 13.7% with 6,393,597 votes.\nThe post UPDATE: Talarico Totals Crush ALL Democrat TX Candidates Since 2016, Including 3 Presidential Races (See Graphs) appeared first on The Gateway Pundit.",
-      "source": "Thegatewaypundit.com",
-      "url": "https://www.thegatewaypundit.com/2026/11/update-talarico-totals-crush-all-democrat-tx-candidates/",
-      "time": "2026-11-04T20:15:54",
+      "url": "https://www.dailymail.com/lifestyle/article-16265947/How-marriage-survived-alcohol-gap-sink-bottle-wine-night-husband-barely-drinks-hates-booze-changes-ANNABEL-FENWICK-ELLIOTT.html",
+      "time": "2026-11-05T01:00:49",
       "country": "US",
-      "title_ur": "اپ ڈیٹ: Talarico Totals نے 2016 سے تمام ڈیموکریٹ TX امیدواروں کو کچل دیا، بشمول 3 صدارتی دوڑیں (گرافس دیکھیں)",
-      "desc_ur": "2024 میں، ڈونلڈ ٹرمپ نے 6,393,597 ووٹوں کے ساتھ ٹیکساس کو تقریباً 13.7 فیصد سے آگے کیا۔\nThe post اپ ڈیٹ: Talarico Totals نے 2016 سے تمام ڈیموکریٹ TX امیدواروں کو کچل دیا، بشمول 3 صدارتی ریس (گرافس دیکھیں) appeared first on The Gateway Pundit."
+      "title_ur": "ہماری شادی شراب کے فرق سے کیسے بچ گئی: میں ایک رات شراب کی بوتل ڈوب سکتی ہوں لیکن میرے شوہر بمشکل پیتے ہیں اور نفرت کرتے ہیں کہ شراب مجھے کیسے بدلتی ہے: اینابیل فینوک ایلیوٹ",
+      "desc_ur": "میں اس خوفناک لمحے کو کبھی نہیں بھولوں گا جب میں نے محسوس کیا کہ میرے سسرال والے بڑے شرابی نہیں تھے۔ یہ پہلی بار تھا جب ہم 2020 میں دوبارہ مل رہے تھے۔"
     },
     {
-      "title": "The Art Market Is Doubling Down on the Gulf Despite the War With Iran",
-      "desc": "Christie’s, Sotheby’s, Frieze and Art Basel are pushing ahead with auctions, fairs and outposts in Abu Dhabi, Dubai and Doha, even as tensions around the Strait of Hormuz persist. Whether the rewards will outweigh the risks may depend on the continued enthusi…",
-      "source": "Observer",
-      "url": "https://observer.com/2026/11/art-christies-sothebys-frieze-art-basel-auctions-fairs-luxury-war-iran/",
-      "time": "2026-11-04T20:10:42",
-      "country": "Iran",
-      "title_ur": "ایران کے ساتھ جنگ ​​کے باوجود خلیج میں آرٹ مارکیٹ دوگنی ہو رہی ہے۔",
-      "desc_ur": "کرسٹیز، سوتھبیز، فریز اور آرٹ باسل ابوظہبی، دبئی اور دوحہ میں نیلامیوں، میلوں اور چوکیوں کے ساتھ آگے بڑھ رہے ہیں، یہاں تک کہ آبنائے ہرمز کے ارد گرد کشیدگی برقرار ہے۔ آیا انعامات خطرات سے زیادہ ہوں گے اس کا انحصار مسلسل جوش و خروش پر ہو سکتا ہے…"
+      "title": "Communist, Antifa, and Pro-Hamas Groups Mobilized for Germany’s Halloween Riots",
+      "desc": "Youth protests organized by Gen Z regelt (Gen Z's Got This) took place in 34 German cities on Oct.\nThe post Communist, Antifa, and Pro-Hamas Groups Mobilized for Germany’s Halloween Riots appeared first on The Gateway Pundit.",
+      "source": "Thegatewaypundit.com",
+      "url": "https://www.thegatewaypundit.com/2026/11/communist-antifa-pro-hamas-groups-mobilized-germanys-halloween/",
+      "time": "2026-11-05T01:00:31",
+      "country": "Germany",
+      "title_ur": "کمیونسٹ، انٹیفا، اور حماس کے حامی گروپ جرمنی کے ہالووین فسادات کے لیے متحرک",
+      "desc_ur": "Gen Z regelt (Gen Z's Got This) کے زیر اہتمام نوجوانوں کے احتجاج 34 اکتوبر کو جرمنی کے 34 شہروں میں ہوئے۔\nThe post کمیونسٹ، انٹیفا، اور حماس کے حامی گروپ جرمنی کے ہالووین فسادات کے لیے متحرک appeared first on The Gateway Pundit."
     },
     {
-      "title": "US voters have punished the Republican Party as Iran war gas prices rise",
-      "desc": "The 2026 US midterms results are in: Donald Trump's Republican Party has suffered a devastating defeat, losing both the House ...",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/338edb3c595eff68",
-      "time": "2026-11-04T20:09:50",
+      "title": "Africa’s LNG Exports Set to Soar 175% as Buyers Flee Hormuz",
+      "desc": "Energy buyers burned by the Strait of Hormuz are turning to Africa, and the money is following. The African Energy Chamber projects that Africa’s upstream sector will attract ~$40 billion a year through 2030, lifting the continent’s hydrocarbon output to 12.5…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Natural-Gas/Africas-LNG-Exports-Set-to-Soar-175-as-Buyers-Flee-Hormuz.html",
+      "time": "2026-11-05T01:00:00",
+      "country": "International",
+      "title_ur": "افریقہ کی ایل این جی کی برآمدات میں 175 فیصد اضافہ ہو گا کیونکہ خریدار ہرمز سے فرار ہو گئے ہیں۔",
+      "desc_ur": "آبنائے ہرمز سے جلنے والے توانائی کے خریدار افریقہ کا رخ کر رہے ہیں، اور پیسہ اس کی پیروی کر رہا ہے۔ افریقن انرجی چیمبر کا منصوبہ ہے کہ افریقہ کا اپ اسٹریم سیکٹر 2030 تک ہر سال ~ 40 بلین ڈالر حاصل کرے گا، جس سے براعظم کی ہائیڈرو کاربن کی پیداوار 12.5 تک پہنچ جائے گی۔"
+    },
+    {
+      "title": "'Selective blame': JD Vance scorched by WSJ for his tunnel vision on GOP losses",
+      "desc": "The Wall Street Journal’s editorial board says Vice President JD Vance pinned the GOP’s election defeat on the Iran war while leaving out other causes, in an editorial titled “JD Vance’s Theory of Election Defeat.”The board writes that Vance posted on X the m…",
+      "source": "Raw Story",
+      "url": "https://www.rawstory.com/wsj-jd-vance/",
+      "time": "2026-11-05T00:55:17",
       "country": "Iran",
-      "title_ur": "امریکی ووٹرز نے ایران وار گیس کی قیمتوں میں اضافے پر ریپبلکن پارٹی کو سزا دی ہے۔",
-      "desc_ur": "2026 کے امریکی وسط مدتی نتائج سامنے آ رہے ہیں: ڈونلڈ ٹرمپ کی ریپبلکن پارٹی کو تباہ کن شکست کا سامنا کرنا پڑا ہے، دونوں ایوانوں میں شکست ہوئی ہے..."
+      "title_ur": "'انتخابی الزام': JD Vance کو WSJ نے GOP کے نقصانات پر سرنگ کے وژن کے لیے جھلسایا۔",
+      "desc_ur": "وال سٹریٹ جرنل کے ادارتی بورڈ کا کہنا ہے کہ نائب صدر جے ڈی وینس نے ایران جنگ میں جی او پی کی انتخابی شکست کو دیگر وجوہات کو چھوڑتے ہوئے، \"جے ڈی وینس کی تھیوری آف الیکشن ڈیفیٹ\" کے عنوان سے اداریے میں لکھا ہے کہ وینس نے X the m…"
+    },
+    {
+      "title": "Global Market Today: Asian stocks rise as oil slides after US midterm elections",
+      "desc": "Benchmark indexes rose in Japan and Australia, pushing the MSCI Asia Pacific Index up by 0.3%. That was after the S&P 500 Index jumped 1.6%, its biggest gain in three months, and the tech-heavy Nasdaq 100 climbed 0.9%. South Korea was the outlier, with the Ko…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-as-oil-slides-after-us-midterm-elections/articleshow/135555294.cms",
+      "time": "2026-11-05T00:54:26",
+      "country": "US",
+      "title_ur": "گلوبل مارکیٹ ٹوڈے: امریکی وسط مدتی انتخابات کے بعد تیل کے گرنے سے ایشیائی اسٹاک میں اضافہ ہوا۔",
+      "desc_ur": "جاپان اور آسٹریلیا میں بینچ مارک انڈیکس میں اضافہ ہوا، جس نے MSCI ایشیا پیسیفک انڈیکس کو 0.3% تک بڑھا دیا۔ یہ ایس اینڈ پی 500 انڈیکس کے 1.6 فیصد اضافے کے بعد تھا، جو تین ماہ میں اس کا سب سے بڑا فائدہ ہے، اور ٹیک ہیوی نیس ڈیک 100 0.9 فیصد چڑھ گیا۔ جنوبی کوریا سب سے آگے تھا، کو کے ساتھ…"
+    },
+    {
+      "title": "Vance blames Republicans’ midterm losses on Iran war, cost of living - The Washington Post",
+      "desc": "Vance blames Republicans’ midterm losses on Iran war, cost of livingThe Washington Post Vance, in Break With Trump, Blames Iran War for Republicans’ 2026 Midterm LossesThe New York Times The blame game: Administration points finger at Iran after major GOP mid…",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&amp;id=186595748",
+      "time": "2026-11-05T00:53:15",
+      "country": "Iran",
+      "title_ur": "وینس نے ریپبلکنز کے وسط مدتی نقصانات کو ایران کی جنگ، زندگی گزارنے کی قیمت پر ذمہ دار ٹھہرایا – واشنگٹن پوسٹ",
+      "desc_ur": "وینس نے ایران جنگ پر ریپبلکنز کے وسط مدتی نقصانات، زندگی گزارنے کی لاگت کا ذمہ دار ٹھہرایا واشنگٹن پوسٹ وینس، ٹرمپ کے ساتھ بریک میں، ریپبلکنز کے 2026 کے وسط مدتی نقصانات کے لیے ایران کی جنگ کو مورد الزام ٹھہرایا نیویارک ٹائمز دی بلیم گیم: بڑے جی او پی کے وسط کے بعد انتظامیہ نے ایران پر انگلی اٹھائی…"
+    },
+    {
+      "title": "Texas’ New Attorney General Scored 67 Episodes of DRAGON BALL Z",
+      "desc": "Nathan Johnson, the newly elected Attorney General of Texas, once scored over sixty Dragon Ball Z episodes back in the '90s. \nThe post Texas’ New Attorney General Scored 67 Episodes of DRAGON BALL Z appeared first on Nerdist.",
+      "source": "Nerdist",
+      "url": "https://nerdist.com/article/texas-new-attorney-general-nathan-johnson-scored-67-episodes-dragon-ball-z/",
+      "time": "2026-11-05T00:52:12",
+      "country": "International",
+      "title_ur": "ٹیکساس کے نئے اٹارنی جنرل نے ڈریگن بال زیڈ کی 67 اقساط اسکور کیں۔",
+      "desc_ur": "ٹیکساس کے نو منتخب اٹارنی جنرل ناتھن جانسن نے 90 کی دہائی میں ایک بار ساٹھ سے زیادہ ڈریگن بال زیڈ ایپی سوڈ بنائے تھے۔ \nThe post ٹیکساس کے نئے اٹارنی جنرل نے ڈریگن بال زیڈ کی 67 اقساط اسکور کیں appeared first on Nerdist."
+    },
+    {
+      "title": "Democrat leads by dozens of votes in surprisingly tight Mississippi Senate race",
+      "desc": "If Democrat Scott Colom wins the race, he could become the first black US senator elected in Mississippi since 1875.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6n9rwxlx992o",
+      "time": "2026-11-05T00:51:45",
+      "country": "US",
+      "title_ur": "حیرت انگیز طور پر مسیسیپی سینیٹ کی دوڑ میں ڈیموکریٹ کو درجنوں ووٹوں سے برتری حاصل ہے۔",
+      "desc_ur": "اگر ڈیموکریٹ سکاٹ کولم ریس جیت جاتے ہیں تو وہ 1875 کے بعد مسیسیپی میں منتخب ہونے والے پہلے سیاہ فام امریکی سینیٹر بن سکتے ہیں۔"
+    },
+    {
+      "title": "Breaking down San Diego's 2026 midterm election results",
+      "desc": "Election Day has come and gone, but the tallying continues with hundreds of thousands votes still to be counted.While some races have yet to be called, we have a clear picture on some results in San Diego County.We sit down with a panel of two KPBS journalist…",
+      "source": "KPBS",
+      "url": "https://www.kpbs.org/podcasts/kpbs-midday-edition/breaking-down-san-diegos-2026-midterm-election-results",
+      "time": "2026-11-05T00:47:00",
+      "country": "US",
+      "title_ur": "سان ڈیاگو کے 2026 کے وسط مدتی انتخابات کے نتائج کو توڑنا",
+      "desc_ur": "الیکشن کا دن آیا اور چلا گیا، لیکن لاکھوں ووٹوں کی گنتی ابھی باقی ہے۔ جب کہ ابھی کچھ ریسوں کا اعلان ہونا باقی ہے، ہمارے پاس سان ڈیاگو کاؤنٹی میں کچھ نتائج کی واضح تصویر ہے۔ ہم KPBS کے دو صحافیوں کے پینل کے ساتھ بیٹھے ہیں…"
+    },
+    {
+      "title": "What Comes After the Blue Wave?",
+      "desc": "From the daily newsletter: Isaac Chotiner, Jason Zengerle, Susan B. Glasser and others on the midterm results.",
+      "source": "The New Yorker",
+      "url": "https://www.newyorker.com/newsletter/the-daily/what-comes-after-the-blue-wave",
+      "time": "2026-11-05T00:45:00",
+      "country": "US",
+      "title_ur": "نیلی لہر کے بعد کیا آتا ہے؟",
+      "desc_ur": "ڈیلی نیوز لیٹر سے: آئزک چوٹینر، جیسن زینگرل، سوسن بی گلاسر اور دیگر مڈٹرم نتائج پر۔"
+    },
+    {
+      "title": "GTA VI: The Complete Marketing Timeline",
+      "desc": "After 13 years of waiting and only a handful of official communications, Grand Theft Auto VI’s marketing is now shifting into high gear. As GTA VI finally approaches release, Rockstar Games is ramping up its marketing efforts, with activations piling up in Mi…",
+      "source": "Llllitl.fr",
+      "url": "https://www.llllitl.fr/2026/11/gta-vi-marketing-campaign/",
+      "time": "2026-11-05T00:44:29",
+      "country": "International",
+      "title_ur": "GTA VI: مکمل مارکیٹنگ ٹائم لائن",
+      "desc_ur": "13 سال کے انتظار اور صرف چند سرکاری مواصلات کے بعد، گرینڈ تھیفٹ آٹو VI کی مارکیٹنگ اب ہائی گیئر میں بدل رہی ہے۔ جیسا کہ GTA VI آخرکار ریلیز کے قریب پہنچ رہا ہے، Rockstar Games اپنی مارکیٹنگ کی کوششوں کو تیز کر رہا ہے، Mi میں ایکٹیویشنز کے ڈھیروں کے ساتھ…"
+    },
+    {
+      "title": "Trump lost the midterms because he did exactly what he was elected to do",
+      "desc": "Democrats won a massive victory on Tuesday, sweeping to power in both houses of Congress. Critics of President Donald Trump are blaming Republican losses on his failures — and that’s fair. But what really drove the “blue wave” was Trump’s success. That’s beca…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-bloggers/4401856/posts",
+      "time": "2026-11-05T00:44:07",
+      "country": "US",
+      "title_ur": "ٹرمپ وسط مدتی ہار گئے کیونکہ اس نے بالکل وہی کیا جو اسے کرنے کے لیے منتخب کیا گیا تھا۔",
+      "desc_ur": "ڈیموکریٹس نے منگل کو کانگریس کے دونوں ایوانوں میں برتری حاصل کرتے ہوئے زبردست فتح حاصل کی۔ صدر ڈونلڈ ٹرمپ کے ناقدین ریپبلکن پارٹی کے نقصانات کو ان کی ناکامیوں کا ذمہ دار ٹھہرا رہے ہیں - اور یہ منصفانہ ہے۔ لیکن جس چیز نے واقعی \"نیلی لہر\" کو جنم دیا وہ ٹرمپ کی کامیابی تھی۔ یہی وجہ ہے کہ…"
+    },
+    {
+      "title": "Woodside shares slump 5% on Thursday: Buy, sell, or hold?",
+      "desc": "Find out what happened today, and what the experts tip next.\nThe post Woodside shares slump 5% on Thursday: Buy, sell, or hold? appeared first on The Motley Fool Australia.",
+      "source": "Motley Fool Australia",
+      "url": "https://www.fool.com.au/2026/11/05/woodside-shares-slump-5-on-thursday-buy-sell-or-hold/",
+      "time": "2026-11-05T00:43:35",
+      "country": "US",
+      "title_ur": "جمعرات کو ووڈ سائیڈ کے حصص میں 5 فیصد کی کمی: خریدیں، بیچیں یا پکڑیں؟",
+      "desc_ur": "معلوم کریں کہ آج کیا ہوا، اور ماہرین اس کے بعد کیا مشورہ دیتے ہیں۔\nجمعرات کو ووڈ سائیڈ کے حصص میں 5 فیصد کی کمی: خریدیں، بیچیں یا پکڑیں؟ پہلی بار دی موٹلی فول آسٹریلیا پر شائع ہوا۔"
+    },
+    {
+      "title": "MAGA heirs gang up on Trump's war as Schumer threatens admin with 'power of the purse'",
+      "desc": "Democratic Senate Leader Chuck Schumer on Wednesday indicated that his party will defund President Donald Trump’s illegal war with Iran when it takes over as the majority next year.While speaking with reporters, Schumer (D-NY) was asked how Democrats planned …",
+      "source": "Raw Story",
+      "url": "https://www.rawstory.com/chuck-schumer-2678292419/",
+      "time": "2026-11-05T00:42:58",
+      "country": "Iran",
+      "title_ur": "MAGA کے وارثوں نے ٹرمپ کی جنگ پر گینگ اپ کیا کیونکہ شمر نے ایڈمن کو 'پرس کی طاقت' سے دھمکی دی",
+      "desc_ur": "ڈیموکریٹک سینیٹ کے رہنما چک شومر نے بدھ کے روز اشارہ کیا کہ ان کی پارٹی صدر ڈونلڈ ٹرمپ کی ایران کے ساتھ غیر قانونی جنگ کا دفاع کرے گی جب وہ اگلے سال اکثریت حاصل کرے گی۔"
+    },
+    {
+      "title": "Hilarious moment Anderson Cooper was distracted by Kaitlan Collins' mention of Mariah Carey during CNN midterm results show",
+      "desc": "The hilarious moment unfolded during CNN's live election results broadcast on Tuesday night, as Kaitlan Collins discussed the race for a New Hampshire Senate seat with Jake Tapper.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/media/article-16266253/moment-Anderson-Cooper-Kaitlan-Collins-Mariah-Carey-CNN-midterms.html",
+      "time": "2026-11-05T00:41:14",
+      "country": "US",
+      "title_ur": "مزاحیہ لمحہ اینڈرسن کوپر سی این این کے وسط مدتی نتائج کے شو کے دوران کیٹلان کولنز کے ماریہ کیری کے تذکرے سے مشغول ہو گیا۔",
+      "desc_ur": "یہ مزاحیہ لمحہ منگل کی رات CNN کے براہ راست انتخابی نتائج کی نشریات کے دوران سامنے آیا، جب کیٹلان کولنز نے جیک ٹیپر کے ساتھ نیو ہیمپشائر کی سینیٹ کی نشست کی دوڑ پر تبادلہ خیال کیا۔"
     }
   ],
-  "pakistan": [],
+  "pakistan": [
+    {
+      "title": "DAILY MAIL COMMENT: As Republicans suffer crushing defeat, Donald Trump only has himself to blame for midterm elections misery...",
+      "desc": "Donald Trump was never destined to be everyone's cup of tea. But there was cause for cautious optimism when he staged a remarkable comeback to become the 47th President of the United States",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16266073/DAILY-MAIL-COMMENT-Republicans-suffer-crushing-defeat-Donald-Trump-blame-midterm-elections-misery.html",
+      "time": "2026-11-05T00:59:46",
+      "country": "Pakistan",
+      "title_ur": "ڈیلی میل کا تبصرہ: جیسے ہی ریپبلکنز کو عبرتناک شکست کا سامنا کرنا پڑا، ڈونلڈ ٹرمپ کو وسط مدتی انتخابات کی بدحالی کا ذمہ دار ٹھہرایا جاتا ہے...",
+      "desc_ur": "ڈونلڈ ٹرمپ کا ہر ایک کا چائے کا کپ بننا کبھی نہیں تھا۔ لیکن محتاط امید کی وجہ تھی جب انہوں نے ریاستہائے متحدہ کے 47 ویں صدر بننے کے لئے شاندار واپسی کی۔"
+    },
+    {
+      "title": "Israel's president takes first steps on building new government after accepting election results",
+      "desc": "JERUSALEM: Israeli President Isaac Herzog on Wednesday (Nov 4) accepted the certified results of last week’s parliamentary elections as legally binding and began consultations with party representatives on forming a new government.The move dealt a blow to Pri…",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/world/israel-president-herzog-accepts-election-results-netanyahu-eisenkot-6525906",
+      "time": "2026-11-05T00:34:34",
+      "country": "Pakistan",
+      "title_ur": "اسرائیل کے صدر نے انتخابی نتائج کو قبول کرنے کے بعد نئی حکومت کی تشکیل کے لیے پہلا قدم اٹھایا",
+      "desc_ur": "یروشلم: اسرائیلی صدر اسحاق ہرزوگ نے ​​بدھ (4 نومبر) کو گزشتہ ہفتے کے پارلیمانی انتخابات کے مصدقہ نتائج کو قانونی طور پر پابند قرار دیتے ہوئے قبول کر لیا اور نئی حکومت کی تشکیل کے لیے پارٹی کے نمائندوں سے مشاورت شروع کر دی۔"
+    },
+    {
+      "title": "Israel Launches Heavy Strikes On Southern Lebanon For First Time In Weeks",
+      "desc": "Israel Launches Heavy Strikes On Southern Lebanon For First Time In Weeks\n \nTechnically there's still supposed to be a fragile (and not infrequently violated) Lebanon truce in effect.\nBut fighting has been on the uptick in southern Lebanon of late, as encroac…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/31de39ec32b66fad",
+      "time": "2026-11-05T00:27:24",
+      "country": "Pakistan",
+      "title_ur": "اسرائیل نے ہفتوں میں پہلی بار جنوبی لبنان پر شدید حملے کیے ہیں۔",
+      "desc_ur": "اسرائیل نے ہفتوں میں پہلی بار جنوبی لبنان پر شدید حملے کیے ہیں۔\n \nتکنیکی طور پر لبنان میں جنگ بندی ابھی بھی ایک نازک (اور کبھی کبھار خلاف ورزی نہیں کی گئی) سمجھی جاتی ہے۔\nلیکن جنوبی لبنان میں دیر سے لڑائی عروج پر رہی ہے، جیسا کہ تجاوزات…"
+    }
+  ],
   "business": {
-    "quote": "Time is more valuable than money. You can get more money, but you cannot get more time.",
-    "author": "Jim Rohn",
-    "quote_ur": "وقت پیسے سے زیادہ قیمتی ہے۔ آپ مزید پیسے حاصل کر سکتے ہیں، لیکن مزید وقت نہیں۔"
+    "quote": "The best investment you can make is in yourself.",
+    "author": "Warren Buffett",
+    "quote_ur": "سب سے بہتر سرمایہ کاری جو آپ کر سکتے ہیں وہ اپنے آپ میں ہے۔"
   },
   "weather": {
     "city": "Lahore",
@@ -167,8 +198,8 @@
         "day": "جمعہ",
         "high": 29,
         "low": 19,
-        "condition": "Mainly Clear",
-        "condition_ur": "زیادہ تر صاف",
+        "condition": "Clear",
+        "condition_ur": "صاف",
         "precip": 0
       },
       {
@@ -176,8 +207,8 @@
         "day": "ہفتہ",
         "high": 28,
         "low": 17,
-        "condition": "Clear",
-        "condition_ur": "صاف",
+        "condition": "Overcast",
+        "condition_ur": "ابر آلود",
         "precip": 0
       },
       {
@@ -185,8 +216,8 @@
         "day": "اتوار",
         "high": 29,
         "low": 16,
-        "condition": "Mainly Clear",
-        "condition_ur": "زیادہ تر صاف",
+        "condition": "Partly Cloudy",
+        "condition_ur": "جزوی ابر آلود",
         "precip": 0
       },
       {
@@ -201,20 +232,20 @@
       {
         "date": "2026-11-10",
         "day": "منگل",
-        "high": 29,
-        "low": 17,
-        "condition": "Overcast",
-        "condition_ur": "ابر آلود",
+        "high": 28,
+        "low": 16,
+        "condition": "Mainly Clear",
+        "condition_ur": "زیادہ تر صاف",
         "precip": 0
       },
       {
         "date": "2026-11-11",
         "day": "بدھ",
         "high": 28,
-        "low": 18,
-        "condition": "Clear",
-        "condition_ur": "صاف",
-        "precip": 2
+        "low": 17,
+        "condition": "Mainly Clear",
+        "condition_ur": "زیادہ تر صاف",
+        "precip": 8
       },
       {
         "date": "2026-11-12",
@@ -223,7 +254,7 @@
         "low": 18,
         "condition": "Overcast",
         "condition_ur": "ابر آلود",
-        "precip": 2
+        "precip": 14
       }
     ]
   },
