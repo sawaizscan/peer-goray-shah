@@ -1,167 +1,217 @@
 {
-  "generated": "2026-11-13T00:36:52Z",
+  "generated": "2026-11-13T07:31:40Z",
   "world": [
     {
-      "title": "Democrat seals historic win in Mississippi Senate race",
-      "desc": "Democrat Scott Colom has won his US Senate race in traditionally conservative Mississippi, networks have projected, making him the first African-American elected to the chamber from the southern state in more than 140 years.",
-      "source": "RTE",
-      "url": "https://www.rte.ie/news/2026/1112/1598899-us-election-mississippi/",
-      "time": "2026-11-12T00:35:59",
-      "country": "US",
-      "title_ur": "مسیسیپی سینیٹ کی دوڑ میں ڈیموکریٹ نے تاریخی فتح پر مہر ثبت کردی",
-      "desc_ur": "ڈیموکریٹ سکاٹ کولم نے روایتی طور پر قدامت پسند مسیسیپی میں اپنی امریکی سینیٹ کی دوڑ جیت لی ہے، نیٹ ورکس نے اندازہ لگایا ہے کہ وہ 140 سے زائد سالوں میں جنوبی ریاست سے چیمبر کے لیے منتخب ہونے والے پہلے افریقی نژاد امریکی ہیں۔"
-    },
-    {
-      "title": "Burnham's push for closer EU ties causes ripples in his party and others",
-      "desc": "Ahead of a week which will focus minds on the UK's relationship with the bloc, the prime minister's stance on Europe is causing MPs to think about their leaders' individual strategy.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr78251892z7o",
-      "time": "2026-11-12T00:30:48",
-      "country": "UK",
-      "title_ur": "برنہم کا یورپی یونین کے قریبی تعلقات کے لیے دباؤ ان کی پارٹی اور دوسروں میں ہلچل کا سبب بنتا ہے۔",
-      "desc_ur": "ایک ہفتے سے پہلے جو بلاک کے ساتھ برطانیہ کے تعلقات پر توجہ مرکوز کرے گا، وزیر اعظم کا یورپ کے بارے میں موقف ارکان پارلیمنٹ کو اپنے رہنماؤں کی انفرادی حکمت عملی کے بارے میں سوچنے پر مجبور کر رہا ہے۔"
-    },
-    {
-      "title": "November 11, 2026 - PBS News Hour full episode",
-      "desc": "Wednesday on the News Hour, an indictment reveals new details about Iran-backed operatives allegedly plotting attacks across the U.S. and Europe. The White House counsel is threatening Democratic lawmakers over their efforts to investigate Trump administratio…",
-      "source": "PBS",
-      "url": "https://www.pbs.org/newshour/show/november-11-2026-pbs-news-hour-full-episode",
-      "time": "2026-11-12T00:30:36",
-      "country": "Iran",
-      "title_ur": "11 نومبر 2026 - پی بی ایس نیوز آور مکمل ایپی سوڈ",
-      "desc_ur": "بدھ کو نیوز آور پر، ایک فرد جرم میں ایران کے حمایت یافتہ کارندوں کے بارے میں نئی ​​تفصیلات سامنے آئی ہیں جو مبینہ طور پر امریکہ اور یورپ میں حملوں کی منصوبہ بندی کر رہے تھے۔ وائٹ ہاؤس کے وکیل ڈیموکریٹک قانون سازوں کو ٹرمپ انتظامیہ کی تحقیقات کی کوششوں پر دھمکی دے رہے ہیں…"
-    },
-    {
-      "title": "COP31 calls for stronger climate finance and disaster resilience",
-      "desc": "ANTALYA (TÜRKİYE): Senior officials at the 31st United Nations Climate Change Conference (COP31) have called for effective implementation of global climate commitments, accelerated expansion of clean energy, improved access to climate finance and stronger dis…",
-      "source": "Khabarhub.com",
-      "url": "https://english.khabarhub.com/2026/12/575274/",
-      "time": "2026-11-12T00:30:21",
-      "country": "International",
-      "title_ur": "COP31 مضبوط موسمیاتی مالیات اور تباہی سے متعلق لچک کا مطالبہ کرتا ہے۔",
-      "desc_ur": "انطالیہ (ترکی): 31 ویں اقوام متحدہ کی موسمیاتی تبدیلی کانفرنس (COP31) کے سینئر عہدیداروں نے عالمی موسمیاتی وعدوں پر موثر عمل درآمد، صاف توانائی کی تیز رفتار توسیع، موسمیاتی مالیات تک بہتر رسائی اور مضبوط..."
-    },
-    {
-      "title": "Iran Names Argentina’s Navy and Air Force as ‘Terrorist Organizations’",
-      "desc": "The Iranian Foreign Ministry on Wednesday designated the naval and air forces of Argentina as “terrorist organizations” to retaliate for Argentina naming Iran’s Islamic Revolutionary Guard Corps (IRGC) as a terrorist organization in April.\nThe post Iran Names…",
-      "source": "Breitbart News",
-      "url": "https://www.breitbart.com/middle-east/2026/11/11/iran-names-argentinas-navy-and-air-force-as-terrorist-organizations/",
-      "time": "2026-11-12T00:24:36",
-      "country": "Iran",
-      "title_ur": "ایران نے ارجنٹائن کی بحریہ اور فضائیہ کو ’دہشت گرد تنظیمیں‘ قرار دے دیا",
-      "desc_ur": "ایرانی وزارت خارجہ نے بدھ کے روز ارجنٹائن کی بحری اور فضائی افواج کو \"دہشت گرد تنظیموں\" کے طور پر نامزد کیا ہے تاکہ ارجنٹائن نے اپریل میں ایران کی اسلامی انقلابی گارڈ کور (IRGC) کو دہشت گرد تنظیم قرار دیا تھا۔\nThe post ایران کے نام…"
-    },
-    {
-      "title": "Line of Supply Security as Economic Diplomacy: Nepal’s Northern and Southern Corridors",
-      "desc": "Securing access to essential resources has long driven international relations, with trade routes, maritime passages and energy pacts forging alliances born out of economic dependence. Today, modern supply networks are highly interconnected, meaning that disr…",
-      "source": "Khabarhub.com",
-      "url": "https://english.khabarhub.com/2026/12/575079/",
-      "time": "2026-11-12T00:15:13",
-      "country": "International",
-      "title_ur": "اقتصادی سفارت کاری کے طور پر لائن آف سپلائی سیکیورٹی: نیپال کی شمالی اور جنوبی راہداری",
-      "desc_ur": "ضروری وسائل تک رسائی کو محفوظ بنانے نے بین الاقوامی تعلقات کو طویل عرصے سے آگے بڑھایا ہے، تجارتی راستوں، سمندری گزرگاہوں اور توانائی کے معاہدوں نے اقتصادی انحصار سے پیدا ہونے والے اتحاد کو قائم کیا ہے۔ آج، جدید سپلائی نیٹ ورک بہت زیادہ ایک دوسرے سے جڑے ہوئے ہیں، یعنی disr…"
-    },
-    {
-      "title": "Indictment sheds light on alleged Iran-backed plots across U.S. and Europe",
-      "desc": "Iran's top national security official warned that it would strike American bases beyond the Gulf, including in Europe, if the United States resumes air strikes against the Islamic Republic. The warning comes one day after indictments in New York against three…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/e41e9c49b60c7e36",
-      "time": "2026-11-12T00:13:06",
-      "country": "Iran",
-      "title_ur": "فرد جرم پورے امریکہ اور یورپ میں ایران کی حمایت یافتہ مبینہ سازشوں پر روشنی ڈالتی ہے۔",
-      "desc_ur": "ایران کے اعلیٰ قومی سلامتی کے اہلکار نے خبردار کیا ہے کہ اگر امریکہ نے اسلامی جمہوریہ کے خلاف دوبارہ فضائی حملے شروع کیے تو وہ خلیج سے باہر امریکی اڈوں پر حملہ کرے گا، بشمول یورپ میں۔ یہ انتباہ نیویارک میں تین افراد کے خلاف فرد جرم عائد کیے جانے کے ایک دن بعد آیا ہے۔"
-    },
-    {
-      "title": "Treaties without teeth: Why Nigeria can no longer ignore international law",
-      "desc": "Nigerian diplomats and legal experts urge the government to strengthen international law enforcement, warning that weak compliance exposes the nation to co\n\nRead More: https://punchng.com/treaties-without-teeth-why-nigeria-can-no-longer-ignore-international-l…",
-      "source": "The Punch",
-      "url": "https://punchng.com/treaties-without-teeth-why-nigeria-can-no-longer-ignore-international-law/",
-      "time": "2026-11-12T00:12:13",
-      "country": "International",
-      "title_ur": "دانتوں کے بغیر معاہدے: نائجیریا اب بین الاقوامی قانون کو کیوں نظر انداز نہیں کر سکتا",
-      "desc_ur": "نائیجیریا کے سفارت کاروں اور قانونی ماہرین نے حکومت پر زور دیا کہ وہ بین الاقوامی قانون کے نفاذ کو مضبوط بنائے، انتباہ دیتے ہوئے کہ کمزور تعمیل قوم کو بے نقاب کرتی ہے۔\n\nمزید پڑھیں: https://punchng.com/treaties-without-teeth-why-nigeria-can-no-longer-ignore-international-l…"
-    },
-    {
-      "title": "Democrat Colom wins Mississippi Senate seat, becomes state's first Black senator since 1874",
-      "desc": "The Democrats now have a 55-44 advantage in the 100-member Senate, with the result of the US Senate race in Alaska yet to be determined.",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/world/mississippi-senate-scott-colom-democrat-us-midterms-6544221",
-      "time": "2026-11-12T00:11:29",
-      "country": "US",
-      "title_ur": "ڈیموکریٹ کولم نے مسیسیپی سینیٹ کی نشست جیت لی، 1874 کے بعد ریاست کے پہلے سیاہ فام سینیٹر بن گئے",
-      "desc_ur": "ڈیموکریٹس کو اب 100 رکنی سینیٹ میں 55-44 کی برتری حاصل ہے، الاسکا میں امریکی سینیٹ کی دوڑ کے نتائج کا تعین ہونا باقی ہے۔"
-    },
-    {
-      "title": "US election results could be positive for Lebanon, Hezbollah chief says",
-      "desc": "Naim Qassem says Republican losses and Israel's election result could help Lebanon maintain sovereignty.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/11/12/us-election-results-could-be-positive-for-lebanon-hezbollah-chief-says",
-      "time": "2026-11-12T00:06:50",
+      "title": "Skydance Co-CEO Ynon Kreiz Spotlights “Moral Responsibility” + Combating Antisemitism & Injustice In Simon Wiesenthal Gala Speech",
+      "desc": "“Defending Israel does not mean Israel is beyond criticism,” said Skydance’s Ynon Kriez bluntly tonight after being presented by Simon Wiesenthal Center’s 2026 Humanitarian Award by co-CEO David Ellison, Gal Gadot and Jeffrey Katzenberg. “The fight against an…",
+      "source": "Deadline",
+      "url": "http://deadline.com/2026/11/ynon-kreiz-simon-wiesenthal-dinner-skydance-1237220683/",
+      "time": "2026-11-12T07:29:06",
       "country": "Israel",
-      "title_ur": "حزب اللہ کے سربراہ کا کہنا ہے کہ امریکی انتخابات کے نتائج لبنان کے لیے مثبت ہو سکتے ہیں۔",
-      "desc_ur": "نعیم قاسم کا کہنا ہے کہ ریپبلکن پارٹی کی شکست اور اسرائیل کے انتخابی نتائج سے لبنان کی خودمختاری برقرار رکھنے میں مدد مل سکتی ہے۔"
+      "title_ur": "Skydance Co-CEO Ynon Kreiz Spotlights \"اخلاقی ذمہ داری\" + سائمن ویسنتھل گالا تقریر میں سام دشمنی اور ناانصافی کا مقابلہ",
+      "desc_ur": "\"اسرائیل کا دفاع کرنے کا مطلب یہ نہیں ہے کہ اسرائیل تنقید سے بالاتر ہے،\" Skydance کے Ynon Kriez نے آج رات دو ٹوک الفاظ میں کہا کہ سائمن ویسنتھل سینٹر کے 2026 کے ہیومینٹیرین ایوارڈ کو شریک سی ای او ڈیوڈ ایلیسن، گیل گیڈوٹ اور جیفری کیٹزنبرگ کی طرف سے پیش کیے جانے کے بعد۔ \"ایک کے خلاف جنگ…"
     },
     {
-      "title": "Democrat Scott Colom Flips Mississippi Senate Seat",
-      "desc": "Colom's win also means the Democrats have flipped eight seats. EIGHT seats.\nThe post Democrat Scott Colom Flips Mississippi Senate Seat first appeared on Le·gal In·sur·rec·tion.",
-      "source": "Legalinsurrection.com",
-      "url": "https://legalinsurrection.com/2026/11/democrat-scott-colom-flips-mississippi-senate-seat/",
-      "time": "2026-11-12T00:00:44",
-      "country": "International",
-      "title_ur": "ڈیموکریٹ سکاٹ کولم نے مسیسیپی سینیٹ کی نشست پلٹ دی۔",
-      "desc_ur": "کولم کی جیت کا مطلب یہ بھی ہے کہ ڈیموکریٹس نے آٹھ سیٹیں پلٹ دی ہیں۔ آٹھ نشستیں\nThe post ڈیموکریٹ سکاٹ کولم نے مسیسیپی سینیٹ کی نشست پلٹ دی appeared first on قانونی بغاوت."
-    },
-    {
-      "title": "Iran war live: Tehran warns of wider retaliation; Israel kills in Gaza",
-      "desc": "Israel orders military to step up preparations for a possible attack on Iran, as Tehran says will retaliate if attacked.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/12/iran-war-live-tehran-warns-of-wider-retaliation-israel-kills-in-gaza",
-      "time": "2026-11-12T00:00:44",
+      "title": "India's Gulf oil imports surpass Russia for first time since Iran war",
+      "desc": "Crude shipments reaching India through the crucial West Asia chokepoint have climbed to 2.1 million barrels a day so far this month, surpassing Russian imports of 1.8 million barrels a day",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/economy/news/india-s-gulf-oil-imports-surpass-russia-for-first-time-since-iran-war-126111200597_1.html",
+      "time": "2026-11-12T07:23:40",
       "country": "Iran",
-      "title_ur": "ایران جنگ لائیو: تہران نے وسیع تر جوابی کارروائی کا انتباہ دیا۔ اسرائیل نے غزہ میں قتل عام کیا۔",
-      "desc_ur": "اسرائیل نے فوج کو حکم دیا ہے کہ وہ ایران پر ممکنہ حملے کے لیے تیاریاں تیز کر دیں، جیسا کہ تہران کا کہنا ہے کہ اگر حملہ کیا گیا تو جوابی کارروائی کی جائے گی۔"
+      "title_ur": "ہندوستان کی خلیجی تیل کی درآمدات ایران جنگ کے بعد پہلی بار روس سے آگے نکل گئی ہیں۔",
+      "desc_ur": "اہم مغربی ایشیا چوک پوائنٹ کے ذریعے بھارت پہنچنے والے خام مال کی ترسیل اس ماہ اب تک 2.1 ملین بیرل یومیہ تک پہنچ گئی ہے، جو روسی درآمدات کو 1.8 ملین بیرل یومیہ سے پیچھے چھوڑ چکی ہے۔"
     },
     {
-      "title": "Could Kansas State Wildcats Flip SMU 2028 TE Commit?",
-      "desc": "The Kansas State Wildcats are now in the mix for tight end Caden Palmquest, a 2028 prospect out of Aledo High School in Texas",
-      "source": "Roundtable.io",
-      "url": "https://roundtable.io/sports/ncaa/kansas-state/news/could-kansas-state-wildcats-flip-smu-2028-te-commit",
-      "time": "2026-11-12T00:00:40",
+      "title": "UK economy grows by 0.7 per cent as spending on AI and defence staves off cost-of-living slowdown",
+      "desc": "Growth picked up to 0.7 per cent for the third quarter - between July and September - following growth of 0.5 per cent in the second quarter, the Office for National Statistics said today.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16286319/UK-economy-growsspending-AI-defence.html",
+      "time": "2026-11-12T07:19:54",
+      "country": "UK",
+      "title_ur": "برطانیہ کی معیشت میں 0.7 فیصد اضافہ ہوا کیونکہ AI اور دفاع پر اخراجات زندگی کی لاگت میں سست روی کو روکتے ہیں",
+      "desc_ur": "دفتر برائے قومی شماریات نے آج کہا کہ تیسری سہ ماہی کے لیے ترقی 0.7 فیصد تک پہنچ گئی - جولائی اور ستمبر کے درمیان - دوسری سہ ماہی میں 0.5 فیصد کی ترقی کے بعد، دفتر برائے قومی شماریات نے آج کہا۔"
+    },
+    {
+      "title": "What is ASEAN and why does the bloc matter?",
+      "desc": "ASEAN grapples with Myanmar turmoil, regional rivalries, and shared challenges as nations prepare for Manila’s summit and a possible US-ASEAN outreach amid China tensions",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/news/what-is-asean-and-why-does-the-bloc-matter/article71692602.ece",
+      "time": "2026-11-12T07:12:48",
+      "country": "China",
+      "title_ur": "آسیان کیا ہے اور بلاک کیوں اہمیت رکھتا ہے؟",
+      "desc_ur": "آسیان میانمار کے ہنگاموں، علاقائی رقابتوں، اور مشترکہ چیلنجوں سے نبرد آزما ہے کیونکہ قومیں منیلا کے سربراہی اجلاس کی تیاری کر رہی ہیں اور چین کے تناؤ کے درمیان امریکہ-آسیان کی ممکنہ رسائی"
+    },
+    {
+      "title": "UK economic growth picks up to 0.7% in third quarter",
+      "desc": "The U.K. economy grew 0.7% in the third quarter of the year, in line with estimates.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/12/uk-gdp-third-quarter-2026.html",
+      "time": "2026-11-12T07:11:23",
+      "country": "UK",
+      "title_ur": "برطانیہ کی اقتصادی ترقی تیسری سہ ماہی میں 0.7 فیصد تک پہنچ گئی۔",
+      "desc_ur": "تخمینوں کے مطابق، سال کی تیسری سہ ماہی میں یوکے کی معیشت میں 0.7 فیصد اضافہ ہوا۔"
+    },
+    {
+      "title": "Israeli strike on Gaza hospital kills six, injures 20",
+      "desc": "An Israeli strike on Nasser Hospital in southern Gaza has killed six people and wounded around 20, a civil defence official confirmed on Thursday.\n\nRead More: https://punchng.com/israeli-strike-on-gaza-hospital-kills-six-injures-20/",
+      "source": "The Punch",
+      "url": "https://punchng.com/israeli-strike-on-gaza-hospital-kills-six-injures-20/",
+      "time": "2026-11-12T07:09:31",
+      "country": "Israel",
+      "title_ur": "غزہ کے اسپتال پر اسرائیلی حملے میں 6 افراد جاں بحق، 20 زخمی",
+      "desc_ur": "ایک شہری دفاع کے اہلکار نے جمعرات کو تصدیق کی کہ جنوبی غزہ میں ناصر ہسپتال پر اسرائیلی حملے میں چھ افراد ہلاک اور 20 کے قریب زخمی ہو گئے۔\n\nمزید پڑھیں: https://punchng.com/israeli-strike-on-gaza-hospital-kills-six-injures-20/"
+    },
+    {
+      "title": "Israeli strike on Gaza hospital kills 6, health authorities say",
+      "desc": "An Israeli airstrike targeting the Nasser Hospital in southern Gaza killed six people and wounded at least a dozen more, Gaza's Hamas-controlled Health Ministry said.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/israel-strike-gaza-hospital-kills-several/",
+      "time": "2026-11-12T07:08:11",
+      "country": "Israel",
+      "title_ur": "صحت کے حکام کا کہنا ہے کہ غزہ کے اسپتال پر اسرائیلی حملے میں 6 افراد ہلاک ہو گئے۔",
+      "desc_ur": "غزہ کی حماس کے زیر کنٹرول وزارت صحت نے بتایا کہ جنوبی غزہ میں ناصر ہسپتال کو نشانہ بنانے والے اسرائیلی فضائی حملے میں چھ افراد ہلاک اور کم از کم ایک درجن زخمی ہو گئے۔"
+    },
+    {
+      "title": "2,000 years after Jewish rebels hid from Rome, their tunnels open to the public",
+      "desc": "Newly-opened Horbat Burgin site in Judean Foothills features underground hideouts from the era of the Bar Kokhba Revolt, colorful mosaics from a Byzantine church.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/436067",
+      "time": "2026-11-12T07:06:00",
       "country": "International",
-      "title_ur": "کیا کنساس اسٹیٹ وائلڈ کیٹس SMU 2028 TE کمٹ پلٹ سکتی ہے؟",
-      "desc_ur": "کنساس اسٹیٹ وائلڈ کیٹس اب سخت اختتام کیڈن پامکویسٹ کے لیے آمنے سامنے ہیں، جو کہ ٹیکساس کے الیڈو ہائی اسکول سے 2028 کا امکان ہے۔"
+      "title_ur": "یہودی باغیوں کے روم سے چھپنے کے 2,000 سال بعد، ان کی سرنگیں عوام کے لیے کھول دی گئیں",
+      "desc_ur": "جوڈین فٹ ہلز میں نئی ​​کھولی گئی ہورباٹ برگن سائٹ میں بار کوکھبا بغاوت کے زمانے کے زیر زمین خفیہ ٹھکانے، بازنطینی چرچ کے رنگین موزیک شامل ہیں۔"
     },
     {
-      "title": "Democratic Wave or Imperial Rebrand?: Time Will Tell",
-      "desc": "As a citizen and scholar, whose research, advocacy and moral framework have been dedicated to seeking justice and peace for the people of Palestine, Iran, Yemen and across West Asia, I find little cause for celebration in the recent Democratic Party midterm v…",
-      "source": "Antiwar.com",
-      "url": "https://original.antiwar.com/reza_behnam/2026/11/11/democratic-wave-or-imperial-rebrand/",
-      "time": "2026-11-12T00:00:28",
-      "country": "Iran",
-      "title_ur": "ڈیموکریٹک لہر یا امپیریل ریبرانڈ؟: وقت بتائے گا۔",
-      "desc_ur": "ایک شہری اور اسکالر کے طور پر، جس کی تحقیق، وکالت اور اخلاقی فریم ورک فلسطین، ایران، یمن اور پورے مغربی ایشیا کے لوگوں کے لیے انصاف اور امن کی تلاش کے لیے وقف ہے، مجھے حالیہ ڈیموکریٹک پارٹی کے وسط مدتی انتخابات میں جشن منانے کی کوئی وجہ نہیں ملی۔"
-    },
-    {
-      "title": "The Rise and Fall of Defense Secretary Pete Hegseth",
-      "desc": "In November 2024, then-President-elect Trump named Hegseth as his nominee for his secretary of defense. In a Senate Committee on Armed Services hearing right before Trump’s second inauguration, Hegseth faced allegations of sexual misconduct, financial mismana…",
-      "source": "Antiwar.com",
-      "url": "https://original.antiwar.com/dan_steinbock/2026/11/11/the-rise-and-fall-of-defense-secretary-pete-hegseth/",
-      "time": "2026-11-12T00:00:20",
+      "title": "All of Hilton’s six current sales in one place (up to 30% off)",
+      "desc": "Right now, Hilton is running four regional sales at the same time (five, if you split out Hawaii), as well as a separate sale for Hilton for Business members, so, effectively, it has the world covered. A little confusingly, however, most of the sales have dif…",
+      "source": "Travelingformiles.com",
+      "url": "https://travelingformiles.com/hilton-end-of-year-sales/",
+      "time": "2026-11-12T07:01:22",
       "country": "US",
-      "title_ur": "وزیر دفاع پیٹ ہیگستھ کا عروج و زوال",
-      "desc_ur": "نومبر 2024 میں، اس وقت کے منتخب صدر ٹرمپ نے ہیگستھ کو اپنے وزیر دفاع کے لیے نامزد کیا۔ ٹرمپ کے دوسرے حلف برداری سے قبل سینیٹ کمیٹی برائے آرمڈ سروسز کی سماعت میں، ہیگستھ کو جنسی بدانتظامی، مالی بدانتظامی کے الزامات کا سامنا کرنا پڑا…"
+      "title_ur": "ہلٹن کی تمام چھ موجودہ فروخت ایک جگہ پر (30% تک کی چھوٹ)",
+      "desc_ur": "اس وقت، ہلٹن ایک ہی وقت میں چار علاقائی سیلز چلا رہا ہے (پانچ، اگر آپ ہوائی کو الگ کر دیتے ہیں)، اور ساتھ ہی ہلٹن فار بزنس ممبرز کے لیے ایک الگ سیل، اس لیے، مؤثر طریقے سے، اس نے دنیا کا احاطہ کیا ہے۔ تھوڑا سا الجھا ہوا، تاہم، زیادہ تر سیلز میں فرق ہوتا ہے…"
+    },
+    {
+      "title": "Car dealers have withdrawn discounts on new petrols since fuel prices rocketed - so is it now cheaper to choose electric?",
+      "desc": "Average discounts on new petrol cars have slipped from 10.8% in February to 10.2% in November, while diesel discounts have fallen from 9.7% to 8.5%. Is this the tipping point to choose a new EV?",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/money/cars/article-16283739/Car-dealers-withdrawn-discounts-new-petrols-fuel-prices-rocketed.html",
+      "time": "2026-11-12T07:01:02",
+      "country": "International",
+      "title_ur": "ایندھن کی قیمتوں میں اضافے کے بعد سے کار ڈیلرز نے نئے پیٹرول پر چھوٹ واپس لے لی ہے - تو کیا اب الیکٹرک کا انتخاب کرنا سستا ہے؟",
+      "desc_ur": "نئی پٹرول کاروں پر اوسط ڈسکاؤنٹ فروری میں 10.8% سے گھٹ کر نومبر میں 10.2% ہو گیا ہے، جب کہ ڈیزل کی چھوٹ 9.7% سے کم ہو کر 8.5% ہو گئی ہے۔ کیا یہ ایک نیا ای وی منتخب کرنے کا اشارہ ہے؟"
+    },
+    {
+      "title": "Mississippi Democrat flips US Senate seat in stunning upset",
+      "desc": "Including Mississippi, Democrats flipped eight Senate seats that had been held by Republicans.",
+      "source": "TheJournal.ie",
+      "url": "https://www.thejournal.ie/mississippi-democrat-senate-race-win-republican-7223109-Nov2026/",
+      "time": "2026-11-12T06:56:18",
+      "country": "US",
+      "title_ur": "مسیسیپی ڈیموکریٹ نے حیران کن پریشان حالت میں امریکی سینیٹ کی نشست پلٹ دی۔",
+      "desc_ur": "مسیسیپی سمیت، ڈیموکریٹس نے سینیٹ کی آٹھ نشستیں پلٹ دیں جو ریپبلکنز کے پاس تھیں۔"
+    },
+    {
+      "title": "House Republicans Picked Jim Jordan to Lead Them After Their Midterm Losses, and Trump Stayed Out of It",
+      "desc": "House Republicans chose Ohio conservative Jim Jordan to lead them in the next Congress after a midterm landslide left them in the minority with a smaller conference. They made the pick on Tuesday. …",
+      "source": "Thoughtcatalog.com",
+      "url": "https://thoughtcatalog.com/sari-moon/2026/11/house-republicans-picked-jim-jordan-to-lead-them-after-their-midterm-losses-and-trump-stayed-out-of-it/",
+      "time": "2026-11-12T06:53:24",
+      "country": "US",
+      "title_ur": "ہاؤس ریپبلکنز نے جم جارڈن کو ان کے وسط مدتی نقصانات کے بعد ان کی قیادت کے لیے منتخب کیا، اور ٹرمپ اس سے باہر رہے۔",
+      "desc_ur": "ہاؤس ریپبلکنز نے اوہائیو کے قدامت پسند جم جارڈن کو اگلی کانگریس میں ان کی قیادت کے لیے منتخب کیا جب وسط مدتی لینڈ سلائیڈ نے انہیں ایک چھوٹی کانفرنس کے ساتھ اقلیت میں چھوڑ دیا۔ انہوں نے منگل کو انتخاب کیا۔ …"
+    },
+    {
+      "title": "Netanyahu’s legacy: Personality politics reshapes Israeli democracy",
+      "desc": "Netanyahu's fight for political survival turns the parliament's opening into a scene of insults and acrimony.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/12/netanyahus-legacy-personality-politics-reshapes-israeli-democracy",
+      "time": "2026-11-12T06:49:45",
+      "country": "Israel",
+      "title_ur": "نیتن یاہو کی میراث: شخصیت کی سیاست اسرائیلی جمہوریت کو نئی شکل دیتی ہے۔",
+      "desc_ur": "نیتن یاہو کی سیاسی بقا کی لڑائی نے پارلیمنٹ کے افتتاح کو توہین اور تضحیک کے منظر میں بدل دیا۔"
+    },
+    {
+      "title": "Persian Gulf overtakes Russia in India’s oil imports as tanker flows improve",
+      "desc": "The shift in India's oil imports may stabilize global crude markets, reducing the likelihood of extreme price spikes and influencing future OPEC policies.\nThe post Persian Gulf overtakes Russia in India’s oil imports as tanker flows improve appeared first on …",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/persian-gulf-overtakes-russia-in-indias-oil-imports-as-tanker-flows-improve/",
+      "time": "2026-11-12T06:48:29",
+      "country": "India",
+      "title_ur": "ٹینکر کے بہاؤ میں بہتری کے باعث خلیج فارس نے ہندوستان کی تیل کی درآمدات میں روس کو پیچھے چھوڑ دیا۔",
+      "desc_ur": "ہندوستان کی تیل کی درآمدات میں تبدیلی عالمی خام مارکیٹوں کو مستحکم کر سکتی ہے، قیمتوں میں انتہائی اضافے کے امکانات کو کم کر سکتی ہے اور مستقبل کی اوپیک پالیسیوں کو متاثر کر سکتی ہے۔\nThe post خلیج فارس نے بھارت کی تیل کی درآمدات میں روس کو پیچھے چھوڑ دیا، ٹینکر کے بہاؤ میں بہتری appeared first on…"
+    },
+    {
+      "title": "Air India to convert passenger aircraft into freighters for revenue growth",
+      "desc": "Singapore Airlines owns 25.1% stake in Air India and has been facing pressure from its investors over its decision to invest in Air India which has been bleeding money",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/logistics/air-india-to-convert-passenger-aircraft-into-freighters-for-revenue-growth/article71692568.ece",
+      "time": "2026-11-12T06:47:12",
+      "country": "India",
+      "title_ur": "ایئر انڈیا آمدنی میں اضافے کے لیے مسافر طیاروں کو مال بردار جہاز میں تبدیل کرے گا۔",
+      "desc_ur": "سنگاپور ایئر لائنز ایئر انڈیا میں 25.1 فیصد حصص کی مالک ہے اور ایئر انڈیا میں سرمایہ کاری کرنے کے اپنے فیصلے پر اپنے سرمایہ کاروں کے دباؤ کا سامنا کر رہی ہے جس میں پیسے کا خون بہایا جا رہا ہے۔"
     }
   ],
   "pakistan": [
     {
-      "title": "Saudi intercepts ballistic missiles aimed at Mecca, debris falls in multiple areas",
-      "desc": "The incident underscores regional instability, prompting potential airspace security enhancements and impacting geopolitical and economic dynamics.\nThe post Saudi intercepts ballistic missiles aimed at Mecca, debris falls in multiple areas appeared first on C…",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/saudi-intercepts-ballistic-missiles-aimed-at-mecca-debris-falls-in-multiple/",
-      "time": "2026-11-11T23:31:26",
+      "title": "ASEAN Moves to Build Emergency Oil Reserves Amid Iran Supply Crisis",
+      "desc": "The Association of Southeast Asian Nations has agreed to set up a joint crude oil stockpiling scheme in response to the supply disruption from the war in Iran, which severely affected countries in the region. The scheme will comprise storage sites in Indonesi…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/ASEAN-Moves-to-Build-Emergency-Oil-Reserves-Amid-Iran-Supply-Crisis.html",
+      "time": "2026-11-12T07:30:00",
       "country": "Pakistan",
-      "title_ur": "سعودی عرب نے مکہ کو نشانہ بنانے والے بیلسٹک میزائل کو روک دیا، متعدد علاقوں میں ملبہ گرا۔",
-      "desc_ur": "یہ واقعہ علاقائی عدم استحکام کی نشاندہی کرتا ہے، ممکنہ فضائی حدود کی حفاظت میں اضافہ اور جغرافیائی سیاسی اور اقتصادی حرکیات کو متاثر کرتا ہے۔\nThe post سعودی عرب نے مکہ کو نشانہ بنانے والے بیلسٹک میزائل کو ناکارہ بنادیا، متعدد علاقوں میں ملبہ گر گیا appeared first on C…"
+      "title_ur": "آسیان ایران کی سپلائی کے بحران کے درمیان تیل کے ہنگامی ذخائر کی تعمیر کے لیے آگے بڑھ رہا ہے",
+      "desc_ur": "جنوب مشرقی ایشیائی ممالک کی ایسوسی ایشن نے ایران میں جنگ سے سپلائی میں خلل کے جواب میں خام تیل کے ذخیرے کی مشترکہ اسکیم قائم کرنے پر اتفاق کیا ہے جس سے خطے کے ممالک شدید متاثر ہوئے ہیں۔ اس اسکیم میں انڈونیسی میں اسٹوریج سائٹس شامل ہوں گی…"
+    },
+    {
+      "title": "Is Chuck Schumer the Democratic Party’s dynamic future or its ineffectual past?",
+      "desc": "Senate leader is battling a growing perception that the party needs a new generation of leaders in wake of midterms success",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/world/us/2026/11/12/is-chuck-schumer-the-democratic-partys-dynamic-future-or-its-ineffectual-past/",
+      "time": "2026-11-12T07:28:44",
+      "country": "Pakistan",
+      "title_ur": "کیا چک شومر ڈیموکریٹک پارٹی کا متحرک مستقبل ہے یا اس کا غیر موثر ماضی؟",
+      "desc_ur": "سینیٹ کے رہنما اس بڑھتے ہوئے تاثر سے لڑ رہے ہیں کہ پارٹی کو وسط مدتی کامیابی کے بعد نئی نسل کے رہنماؤں کی ضرورت ہے۔"
+    },
+    {
+      "title": "NIA to probe online radicalisation of youths by Pakistan-based gangster",
+      "desc": "The National Investigation Agency is probing the online radicalisation of Indian youths linked to terrorist activities. This stems from a case registered by the Uttar Pradesh Anti-Terrorist Squad in April. Eight accused have been identified, including Shahzad…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/defence/nia-to-probe-online-radicalisation-of-youths-by-pakistan-based-gangster/articleshow/135759980.cms",
+      "time": "2026-11-12T07:26:37",
+      "country": "Pakistan",
+      "title_ur": "این آئی اے پاکستان میں مقیم گینگسٹر کے ذریعے نوجوانوں کی آن لائن بنیاد پرستی کی تحقیقات کرے گی۔",
+      "desc_ur": "نیشنل انویسٹی گیشن ایجنسی دہشت گردانہ سرگرمیوں سے منسلک ہندوستانی نوجوانوں کی آن لائن بنیاد پرستی کی تحقیقات کر رہی ہے۔ یہ اپریل میں اتر پردیش کے انسداد دہشت گردی اسکواڈ کی طرف سے درج کیے گئے ایک کیس سے ہوا ہے۔ شہزاد سمیت 8 ملزمان کی شناخت ہو گئی ہے۔"
+    },
+    {
+      "title": "Skeptical Science New Research for Week #46 2026",
+      "desc": "Open access notables\n\nA horizon scan of global catastrophic risks, Turchin & Green, Cell One Earth\n\nA number of global catastrophic risks—nuclear war, pandemics, global food-system collapses, and more—threaten sustainable human life on Earth. These risks ofte…",
+      "source": "Skepticalscience.com",
+      "url": "https://skepticalscience.com/new_research_2026_46.html",
+      "time": "2026-11-12T07:08:09",
+      "country": "Pakistan",
+      "title_ur": "شکی سائنس کی نئی تحقیق برائے ہفتہ #46 2026",
+      "desc_ur": "قابل ذکر تک رسائی کو کھولیں۔\n\nعالمی تباہ کن خطرات کا افق اسکین، ٹورچین اینڈ گرین، سیل ون ارتھ\n\nعالمی تباہ کن خطرات کی ایک بڑی تعداد — جوہری جنگ، وبائی امراض، عالمی خوراک کا نظام گرنا، اور مزید — زمین پر پائیدار انسانی زندگی کو خطرہ ہے۔ یہ خطرات اکثر…"
+    },
+    {
+      "title": "US midterm elections: Trump and the Republicans seem to have ignored a fundamental principle in politics",
+      "desc": "Basic pocket-book issues such as cost of living, gasoline prices and inflation were top of mind concerns for the American electorate. The current US administration’s corruption was also a major factor. In short, ‘It’s the economy, stupid.' Trump would have do…",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/opinion/online-views/us-midterm-elections-trump-republicans-ignored-a-fundamental-principle-in-politics-11794383983088.html",
+      "time": "2026-11-12T07:01:43",
+      "country": "Pakistan",
+      "title_ur": "امریکی وسط مدتی انتخابات: ٹرمپ اور ریپبلکنز نے سیاست میں ایک بنیادی اصول کو نظر انداز کر دیا ہے۔",
+      "desc_ur": "جیب بک کے بنیادی مسائل جیسے کہ زندگی گزارنے کی لاگت، پٹرول کی قیمتیں اور مہنگائی امریکی ووٹروں کے ذہن میں سب سے زیادہ تشویش تھی۔ موجودہ امریکی انتظامیہ کی بدعنوانی بھی ایک بڑا عنصر تھی۔ مختصر میں، 'یہ معیشت ہے، احمقانہ۔' ٹرمپ نے کیا ہوگا…"
+    },
+    {
+      "title": "Oil Prices Sink as Iran and Ukraine Peace Optimism Builds",
+      "desc": "Crude oil prices extended their decline today, with both Brent crude and WTI shedding over $1 in Asian trade earlier in the day on growing hopes for peace in Ukraine and Iran. At the time of writing, Brent crude was trading at $91.32 per barrel, and West Texa…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Sink-as-Iran-and-Ukraine-Peace-Optimism-Builds.html",
+      "time": "2026-11-12T06:35:48",
+      "country": "Pakistan",
+      "title_ur": "ایران اور یوکرین میں امن کی امید پیدا ہونے کے ساتھ ہی تیل کی قیمتیں گر رہی ہیں۔",
+      "desc_ur": "خام تیل کی قیمتوں نے آج اپنی گراوٹ کو بڑھایا، یوکرین اور ایران میں امن کی بڑھتی ہوئی امیدوں پر دن کے اوائل میں برینٹ کروڈ اور ڈبلیو ٹی آئی دونوں نے ایشیائی تجارت میں $1 سے زیادہ کمی کی۔ لکھنے کے وقت، برینٹ کروڈ 91.32 ڈالر فی بیرل پر ٹریڈ کر رہا تھا، اور ویسٹ ٹیکسا…"
     }
   ],
   "business": {
@@ -171,7 +221,72 @@
   },
   "weather": {
     "city": "Lahore",
-    "forecast": []
+    "city_ur": "لاہور",
+    "forecast": [
+      {
+        "date": "2026-11-13",
+        "day": "جمعہ",
+        "high": 29,
+        "low": 19,
+        "condition": "Drizzle",
+        "condition_ur": "بوندا باندی",
+        "precip": 37
+      },
+      {
+        "date": "2026-11-14",
+        "day": "ہفتہ",
+        "high": 28,
+        "low": 17,
+        "condition": "Mainly Clear",
+        "condition_ur": "زیادہ تر صاف",
+        "precip": 12
+      },
+      {
+        "date": "2026-11-15",
+        "day": "اتوار",
+        "high": 26,
+        "low": 16,
+        "condition": "Clear",
+        "condition_ur": "صاف",
+        "precip": 18
+      },
+      {
+        "date": "2026-11-16",
+        "day": "پیر",
+        "high": 26,
+        "low": 14,
+        "condition": "Clear",
+        "condition_ur": "صاف",
+        "precip": 0
+      },
+      {
+        "date": "2026-11-17",
+        "day": "منگل",
+        "high": 25,
+        "low": 14,
+        "condition": "Clear",
+        "condition_ur": "صاف",
+        "precip": 0
+      },
+      {
+        "date": "2026-11-18",
+        "day": "بدھ",
+        "high": 26,
+        "low": 13,
+        "condition": "Clear",
+        "condition_ur": "صاف",
+        "precip": 0
+      },
+      {
+        "date": "2026-11-19",
+        "day": "جمعرات",
+        "high": 25,
+        "low": 13,
+        "condition": "Clear",
+        "condition_ur": "صاف",
+        "precip": 0
+      }
+    ]
   },
   "date": {
     "gregorian": "Friday, 13 November 2026",
