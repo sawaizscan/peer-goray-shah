@@ -1,207 +1,187 @@
 {
-  "generated": "2026-11-19T01:21:20Z",
+  "generated": "2026-11-19T09:01:43Z",
   "world": [
     {
-      "title": "‘If you don’t act now, it will be existential’: Defense tech CEOs say Pentagon’s ‘Industrial Age’ bureaucracy must adapt",
-      "desc": "The wars in Ukraine and Iran are accelerating demand for defense tech, which went from a taboo investment to a venture capital darling.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/11/17/pentagon-defense-tech-shield-ai-bureaucracy/",
-      "time": "2026-11-18T01:11:16",
-      "country": "Iran",
-      "title_ur": "'اگر آپ ابھی کام نہیں کرتے ہیں تو یہ وجود میں آئے گا': دفاعی ٹیک سی ای او کا کہنا ہے کہ پینٹاگون کی 'صنعتی دور' بیوروکریسی کو اپنانا ہوگا",
-      "desc_ur": "یوکرین اور ایران کی جنگیں دفاعی ٹیکنالوجی کی مانگ کو تیز کر رہی ہیں، جو کہ ممنوعہ سرمایہ کاری سے وینچر کیپیٹل ڈارلنگ تک جا پہنچی ہے۔"
-    },
-    {
-      "title": "From Claude to combat: Military AI emerges as a new force in the global AI race",
-      "desc": "Generative AI's role in military operations gained early validation during the US-Israeli strikes on Iran on February 28, 2026. Bloomberg and CNBC reported that Palantir's Maven Smart System had been used to analyze intelligence and identify targets in Middle…",
-      "source": "Digitimes",
-      "url": "https://www.digitimes.com/news/a20261117PD238/military-genai-claude-development-2026.html",
-      "time": "2026-11-18T01:10:07",
-      "country": "Iran",
-      "title_ur": "کلاڈ سے لڑائی تک: ملٹری AI عالمی AI دوڑ میں ایک نئی قوت کے طور پر ابھری",
-      "desc_ur": "28 فروری 2026 کو ایران پر امریکی-اسرائیلی حملوں کے دوران فوجی کارروائیوں میں جنریٹو AI کے کردار کو ابتدائی توثیق حاصل ہوئی۔ بلومبرگ اور CNBC نے رپورٹ کیا کہ Palantir کے Maven Smart System کو انٹیلی جنس کا تجزیہ کرنے اور مشرق میں اہداف کی شناخت کے لیے استعمال کیا گیا تھا۔"
-    },
-    {
-      "title": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
-      "desc": "The US-led board has decried continued fighting in Gaza and delays in implementing the terms of a 2025 ceasefire deal.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/11/18/board-of-peace-warns-gaza-ceasefire-faces-imminent-collapse-without-action",
-      "time": "2026-11-18T01:07:01",
-      "country": "Israel",
-      "title_ur": "بورڈ آف پیس نے خبردار کیا ہے کہ غزہ کی جنگ بندی بغیر کارروائی کے فوری طور پر ختم ہو جائے گی۔",
-      "desc_ur": "امریکی قیادت والے بورڈ نے غزہ میں جاری لڑائی اور 2025 کے جنگ بندی معاہدے کی شرائط پر عمل درآمد میں تاخیر کی مذمت کی ہے۔"
-    },
-    {
-      "title": "The Greek Myth That Inspired the Hunger Games",
-      "desc": "The hero that inspired Katniss Everdeen also comes from the story of the labyrinth at Knossos and the Minotaur who haunts it. Here's how the labyrinth myth inspired Suzanne Collins' 'Hunger Games' series, including 'Sunrise on the Reaping.'",
-      "source": "Mental Floss",
-      "url": "https://www.mentalfloss.com/culture/folklore-mythology/greek-myth-inspired-hunger-games",
-      "time": "2026-11-18T01:00:00",
-      "country": "International",
-      "title_ur": "یونانی افسانہ جس نے بھوک کے کھیل کو متاثر کیا۔",
-      "desc_ur": "ہیرو جس نے کیٹنیس ایورڈین کو متاثر کیا وہ بھی نوسوس کی بھولبلییا کی کہانی سے آتا ہے اور مینوٹور جو اسے پریشان کرتا ہے۔ یہ ہے کہ کس طرح بھولبلییا کے افسانے نے سوزان کولنز کی 'ہنگر گیمز' سیریز کو متاثر کیا، بشمول 'سن رائز آن دی ریپنگ'۔"
-    },
-    {
-      "title": "Ukraine cripples Crimean road bridge in blow to Putin before meeting with Xi and Trump",
-      "desc": "KYIV/MOSCOW, Nov 17 (Reuters) - Ukrainian drones and missiles destroyed the central road section of the bridge linking Russia and Crimea on Tuesday, ​inflicting a military and symbolic blow on President Vladimir Putin two days before he is due to meet the lea…",
+      "title": "Australian Police Arrest Homeowner Who Killed Burglar",
+      "desc": "A homeowner in a Melbourne, Australia, neighborhood has been arrested after a burglar was fatally stabbed in his home. At 12:40 a.m. local time Sunday, police say three people broke into a house in Frankston, a neighborhood of the southern Australian city, wh…",
       "source": "Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4403423/posts",
-      "time": "2026-11-18T00:53:58",
-      "country": "Russia",
-      "title_ur": "یوکرین نے الیون اور ٹرمپ کے ساتھ ملاقات سے قبل پوٹن کو دھچکا لگا کر کریمیا کے سڑک کے پل کو تباہ کر دیا۔",
-      "desc_ur": "KYIV/ماسکو، 17 نومبر (رائٹرز) - یوکرین کے ڈرونز اور میزائلوں نے منگل کے روز روس اور کریمیا کو ملانے والے پل کے مرکزی سڑک کے حصے کو تباہ کر دیا، جس سے صدر ولادیمیر پوتن کو فوجی اور علامتی دھچکا لگا جس سے دو دن قبل وہ لیہ سے ملاقات کرنے والے ہیں…"
-    },
-    {
-      "title": "Haaland on the spot as Norway leave it late to reach quarter-finals",
-      "desc": "Erling Haaland converted a stoppage-time penalty as Norway fought back from 2-0 down to beat Denmark 3-2 in Copenhagen and snatch a place in the quarter-finals. Denmark, who began the day in second place in Group A4 and needed to avoid defeat to reach the kno…",
-      "source": "Dpa-international.com",
-      "url": "https://dpa-international.com/sports/urn:newsml:dpa.com:20090101:261118-930-11099/",
-      "time": "2026-11-18T00:48:27",
-      "country": "International",
-      "title_ur": "ہالینڈ موقع پر ہی کیونکہ ناروے نے کوارٹر فائنل تک پہنچنے میں دیر کر دی۔",
-      "desc_ur": "ایرلنگ ہالینڈ نے اسٹاپیج ٹائم پنالٹی کو تبدیل کیا جب ناروے نے کوپن ہیگن میں ڈنمارک کو 3-2 سے شکست دے کر کوارٹر فائنل میں جگہ چھین لی کیونکہ ناروے نے 2-0 سے نیچے سے مقابلہ کیا۔ ڈنمارک، جس نے دن کا آغاز گروپ A4 میں دوسرے نمبر سے کیا تھا اور اسے نوے تک پہنچنے کے لیے شکست سے بچنے کی ضرورت تھی…"
-    },
-    {
-      "title": "Chris Van Hollen’s bid to replace Chuck Schumer has taken a truly pathetic turn",
-      "desc": "Lefties’ sputtering drive to dethrone Sen. Chuck Schumer as Senate Democratic leader has taken a truly pathetic turn with whining about a decision from 11 years ago. Yes: Maryland Sen. Chris Van Hollen, who challenged Schumer only after realizing his presiden…",
-      "source": "New York Post",
-      "url": "https://nypost.com/2026/11/17/opinion/chris-van-hollens-bid-to-replace-chuck-schumer-has-taken-a-truly-pathetic-turn/",
-      "time": "2026-11-18T00:47:21",
-      "country": "International",
-      "title_ur": "کرس وان ہولن کی چک شومر کو تبدیل کرنے کی بولی نے واقعی ایک قابل رحم موڑ لیا ہے۔",
-      "desc_ur": "سینیٹ کے ڈیموکریٹک رہنما کے طور پر سینیٹر چک شومر کو معزول کرنے کے لیے لیفٹیز کی پھڑپھڑانے والی مہم نے 11 سال پہلے کے فیصلے کے بارے میں رونا رونے کے ساتھ واقعی ایک قابل رحم موڑ لیا ہے۔ جی ہاں: میری لینڈ کے سینیٹر کرس وان ہولن، جنہوں نے شومر کو اپنے صدر کا احساس ہونے کے بعد ہی چیلنج کیا…"
-    },
-    {
-      "title": "Americans aren't idiots. Trump must tell the truth about what's REALLY going on. This is the biggest giveaway all the cyber chaos isn't a coincidence... we're under siege: MAUREEN CALLAHAN",
-      "desc": "The country needs answers. But it seems the White House isn't telling us everything, or much of anything at all. Karoline Leavitt boldly said as much on Fox News Tuesday morning.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/opinion/us/article-16301115/cyber-attack-hack-iran-trump-truth-maureen-callahan.html",
-      "time": "2026-11-18T00:46:05",
+      "url": "https://freerepublic.com/focus/f-bloggers/4403458/posts",
+      "time": "2026-11-18T08:54:08",
       "country": "US",
-      "title_ur": "امریکی بیوقوف نہیں ہیں۔ ٹرمپ کو سچ بتانا چاہیے کہ واقعی کیا ہو رہا ہے۔ یہ سب سے بڑا تحفہ ہے تمام سائبر افراتفری ایک اتفاق نہیں ہے... ہم محاصرے میں ہیں: مورین کالہان",
-      "desc_ur": "ملک کو جواب چاہیے۔ لیکن ایسا لگتا ہے کہ وائٹ ہاؤس ہمیں سب کچھ نہیں بتا رہا ہے، یا کچھ بھی نہیں بتا رہا ہے۔ کیرولین لیویٹ نے منگل کی صبح فاکس نیوز پر ڈھٹائی سے کہا۔"
+      "title_ur": "آسٹریلوی پولیس نے چور کو مارنے والے گھر کے مالک کو گرفتار کر لیا۔",
+      "desc_ur": "آسٹریلیا کے شہر میلبورن میں ایک گھر کے مالک کو اس وقت گرفتار کر لیا گیا جب ایک چور کو اس کے گھر میں چھرا گھونپ کر قتل کر دیا گیا۔ اتوار کو مقامی وقت کے مطابق 12:40 بجے، پولیس کا کہنا ہے کہ جنوبی آسٹریلیا کے شہر فرینکسٹن کے ایک محلے میں تین افراد ایک گھر میں گھس گئے۔"
     },
     {
-      "title": "Nabeel Rajab, prominent Bahraini human rights activist, dies at 62",
-      "desc": "Nabeel Rajab, a prominent democracy activist who advocated for the rights of Bahrain’s Shiite majority and spent years in prison for challenging the country’s monarchy, has died",
-      "source": "Abcnews.com",
-      "url": "https://abcnews.com/International/wireStory/nabeel-rajab-prominent-bahraini-human-rights-activist-dies-138231196",
-      "time": "2026-11-18T00:45:40",
-      "country": "International",
-      "title_ur": "بحرین کے انسانی حقوق کے ممتاز کارکن نبیل رجب 62 سال کی عمر میں انتقال کر گئے۔",
-      "desc_ur": "بحرین کی شیعہ اکثریت کے حقوق کی وکالت کرنے والے اور ملک کی بادشاہت کو چیلنج کرنے کے جرم میں برسوں جیل میں گزارنے والے ممتاز جمہوریت کے کارکن نبیل رجب کا انتقال ہو گیا ہے۔"
-    },
-    {
-      "title": "Acting Navy Chief Admits War Is Straining Resources",
-      "desc": "President Trump's pick to lead the US Navy acknowledged the strain of the Iran war as senators from both political parties pressed him at his confirmation hearing Tuesday about the impact of long ship deployments on sailors, drawdowns to stockpiles of advance…",
-      "source": "Newser",
-      "url": "https://www.newser.com/story/400199/acting-navy-chief-admits-war-is-straining-resources.html",
-      "time": "2026-11-18T00:39:22",
+      "title": "Mark Ruffalo, Tilda Swinton, Michael Moore, Barry Jenkins and More Rally to the Defense of Iranian Filmmaker Jafar Panahi",
+      "desc": "The heads of Venice and Berlin film festivals as well as actors such as Mark Ruffalo and Tilda Swinton, and directors like Michael Moore, Barry Jenkins and Alex Gibney are among a host of prominent film players who have rallied to the defense of Iranian filmm…",
+      "source": "Variety",
+      "url": "https://variety.com/2026/film/global/jafar-panahi-defense-statement-1236951044/",
+      "time": "2026-11-18T08:53:00",
       "country": "Iran",
-      "title_ur": "قائم مقام بحریہ کے سربراہ نے اعتراف کیا کہ جنگ وسائل کو دبا رہی ہے۔",
-      "desc_ur": "امریکی بحریہ کی سربراہی کے لیے صدر ٹرمپ کے انتخاب نے ایران جنگ کے تناؤ کو تسلیم کیا کیونکہ دونوں سیاسی جماعتوں کے سینیٹرز نے منگل کو ان کی تصدیقی سماعت میں ان پر دباؤ ڈالا کہ ملاحوں پر طویل جہازوں کی تعیناتی کے اثرات، پیشگی ذخیرے میں کمی…"
+      "title_ur": "مارک روفالو، ٹلڈا سوئٹن، مائیکل مور، بیری جینکنز اور مزید ایرانی فلم ساز جعفر پناہی کے دفاع کے لیے ریلی",
+      "desc_ur": "وینس اور برلن کے فلمی میلوں کے سربراہوں کے ساتھ ساتھ مارک روفالو اور ٹلڈا سوئنٹن جیسے اداکاروں اور مائیکل مور، بیری جینکنز اور ایلکس گبنی جیسے ہدایت کار ان ممتاز فلمی کھلاڑیوں میں شامل ہیں جنہوں نے ایرانی فلموں کے دفاع کے لیے ریلیاں نکالی ہیں۔"
     },
     {
-      "title": "Jesse Watters Goes Way Off Script When Ask If Trump Has Done ‘Enough’ Amid Tech Outages",
-      "desc": "\"Jessica? Jesse brought up the Jews, and it was only a matter of time before they entered the picture. Have you talked to your Jewish friends about this?\"\nThe post Jesse Watters Goes Way Off Script When Ask If Trump Has Done ‘Enough’ Amid Tech Outages first a…",
-      "source": "Mediaite",
-      "url": "https://www.mediaite.com/media/news/jesse-watters-goes-way-off-script-when-ask-if-trump-has-done-enough-amid-tech-outages/",
-      "time": "2026-11-18T00:36:00",
-      "country": "US",
-      "title_ur": "جیسی واٹرز اسکرپٹ سے دور ہو گئے جب یہ پوچھا کہ کیا ٹرمپ نے ٹیک بندش کے درمیان 'کافی' کر لیا ہے۔",
-      "desc_ur": "\"جیسکا؟ جیسی نے یہودیوں کی پرورش کی، اور ان کے تصویر میں داخل ہونے میں ابھی کچھ ہی وقت تھا۔ کیا تم نے اپنے یہودی دوستوں سے اس بارے میں بات کی ہے؟\"\nThe post جیسی واٹرس اسکرپٹ سے ہٹ جاتی ہے جب یہ پوچھا جاتا ہے کہ کیا ٹرمپ نے ٹیک بندش کے درمیان 'کافی' کر لیا ہے پہلے ایک…"
-    },
-    {
-      "title": "Top IRGC commander in Iraq for talks amid Kataib Hezbollah tensions",
-      "desc": "Head of Iran's IRGC Quds Force to attend meetings over alleged oil smuggling linked to pro-Iranian armed groups.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/11/18/top-irgc-commander-in-iraq-for-talks-amid-kataib-hezbollah-tensions",
-      "time": "2026-11-18T00:33:36",
-      "country": "Iran",
-      "title_ur": "کتائب حزب اللہ کشیدگی کے درمیان بات چیت کے لیے عراق میں IRGC کے اعلیٰ کمانڈر",
-      "desc_ur": "ایران کی IRGC قدس فورس کے سربراہ ایران نواز مسلح گروپوں سے منسلک تیل کی مبینہ اسمگلنگ کے بارے میں میٹنگوں میں شرکت کے لیے۔"
-    },
-    {
-      "title": "Dems have a new secret weapon: Military veterans - Politico",
-      "desc": "Dems have a new secret weapon: Military veteransPolitico These 8 Democratic women with military experience flipped GOP House seatsUSA Today Congress’ first woman Marine served in Iraq, Afghanistan and on the drill fieldTask & Purpose Deluzio’s next mission: R…",
+      "title": "Knesset votes 66-52 to elect Yashar’s Matan Kahana as speaker, in boost to Eisenkot bloc - The Times of Israel",
+      "desc": "Knesset votes 66-52 to elect Yashar’s Matan Kahana as speaker, in boost to Eisenkot blocThe Times of Israel Israel’s parliament elects new Knesset speaker, weakening Netanyahu’s grip on powerCNN Israeli parliament elects new speaker backed by Netanyahu’s oppo…",
       "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&id=186767598",
-      "time": "2026-11-18T00:32:53",
-      "country": "Iraq",
-      "title_ur": "ڈیمز کے پاس ایک نیا خفیہ ہتھیار ہے: فوجی تجربہ کار - پولیٹیکو",
-      "desc_ur": "ڈیمز کے پاس ایک نیا خفیہ ہتھیار ہے: فوجی تجربہ کار پولیٹیکو یہ 8 ڈیموکریٹک خواتین جن میں فوجی تجربہ ہے GOP ہاؤس کی نشستیں پلٹ گئیں USA ٹوڈے کانگریس کی پہلی خاتون میرین نے عراق، افغانستان اور ڈرل فیلڈ ٹاسک اینڈ پرپز ڈیلوزیو کے اگلے مشن میں خدمات انجام دیں: R…"
+      "url": "https://slashdot.org/firehose.pl?op=view&id=186774814",
+      "time": "2026-11-18T08:52:56",
+      "country": "Israel",
+      "title_ur": "Eisenkot بلاک کو فروغ دینے کے لیے Knesset نے یشار کے متان کہانہ کو اسپیکر منتخب کرنے کے لیے 66-52 ووٹ دیے - The Times of Israel",
+      "desc_ur": "Eisenkot بلاک کو فروغ دینے کے لیے Knesset نے یشار کے متان کہانہ کو اسپیکر کے طور پر منتخب کرنے کے لیے 66-52 ووٹ دیے ٹائمز آف اسرائیل اسرائیل کی پارلیمنٹ نے نئے اسپیکر کا انتخاب کیا، طاقت پر نیتن یاہو کی گرفت کمزور CNN اسرائیلی پارلیمنٹ نے نئے اسپیکر کا انتخاب کیا جس کی حمایت نیتن یاہو کے مخالف…"
     },
     {
-      "title": "Navy's Hung Cao Calls Suicide Attempts ‘Mitigations' During Senate Confirmation Hearing",
-      "desc": "Acting Navy Secretary Hung Cao faced bipartisan questions on USS Abraham Lincoln suicide attempts, food shortages and long deployments.",
-      "source": "Military.com",
-      "url": "https://www.military.com/navy-hung-cao-calls-suicide-attempts-mitigations-during-senate-confirmation-hearing",
-      "time": "2026-11-18T00:32:38",
-      "country": "US",
-      "title_ur": "بحریہ کے ہنگ کاو نے سینیٹ کی تصدیق کی سماعت کے دوران خودکشی کی کوششوں کو 'تخفیف' قرار دیا",
-      "desc_ur": "قائم مقام بحریہ کے سیکرٹری ہنگ کاو کو یو ایس ایس ابراہم لنکن کی خودکشی کی کوششوں، خوراک کی قلت اور طویل تعیناتیوں پر دو طرفہ سوالات کا سامنا کرنا پڑا۔"
+      "title": "Another year, another health overspend",
+      "desc": "Inside Politics: Overall Government spending this year will be close to €120 billion. It is hard to fathom",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/politics/2026/11/18/another-year-another-overspend-as-health-needs-almost-800m-more/",
+      "time": "2026-11-18T08:52:55",
+      "country": "International",
+      "title_ur": "ایک اور سال، ایک اور صحت کا خرچ",
+      "desc_ur": "سیاست کے اندر: اس سال مجموعی طور پر حکومتی اخراجات €120 بلین کے قریب ہوں گے۔ یہ سمجھنا مشکل ہے۔"
     },
     {
-      "title": "Pentagon detains senior US Army officer accused of spying for Russians after UK arrest",
-      "desc": "Lt. Col. Brandon Tyner was handed to U.S. military authorities after British counterterrorism police arrested him on suspicion of spying for Russia.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/us/pentagon-detains-senior-us-army-officer-accused-spying-russians-after-uk-arrest",
-      "time": "2026-11-18T00:26:16",
+      "title": "Germany news: Merz's coalition agrees on electricity tax cut",
+      "desc": "The coalition government has agreed on an electricity tax cut for households amid energy shocks from the war in Iran. Meanwhile, the BSW party has failed to push for a recount of the 2025 election. DW has more.",
+      "source": "DW (English)",
+      "url": "https://www.dw.com/en/germany-news-merzs-coalition-agrees-on-electricity-tax-cut/live-79976869",
+      "time": "2026-11-18T08:52:00",
+      "country": "Iran",
+      "title_ur": "جرمنی کی خبریں: مرز کا اتحاد بجلی کے ٹیکس میں کٹوتی پر متفق ہے۔",
+      "desc_ur": "اتحادی حکومت نے ایران میں جنگ سے توانائی کے جھٹکوں کے درمیان گھرانوں کے لیے بجلی کے ٹیکس میں کٹوتی پر اتفاق کیا ہے۔ دریں اثنا، BSW پارٹی 2025 کے انتخابات کی دوبارہ گنتی کے لیے زور دینے میں ناکام رہی ہے۔ ڈی ڈبلیو کے پاس اور بھی ہے۔"
+    },
+    {
+      "title": "Scotland sink Ireland as both reach Super Six phase",
+      "desc": "Scotland's bowlers make short work of Ireland in a comfortable eight-wicket victory as both teams progress to the Super Six stage at the Women's Emerging Nations Trophy in Dubai.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cq8e0d48elz8o",
+      "time": "2026-11-18T08:50:52",
+      "country": "International",
+      "title_ur": "اسکاٹ لینڈ نے آئرلینڈ کو ڈبو دیا، دونوں سپر سکس مرحلے میں پہنچ گئے۔",
+      "desc_ur": "دبئی میں ویمنز ایمرجنگ نیشنز ٹرافی میں دونوں ٹیمیں سپر سکس مرحلے میں ترقی کرتے ہوئے اسکاٹ لینڈ کے گیند بازوں نے آئرلینڈ کو آٹھ وکٹوں سے آسانی سے شکست دے کر مختصر کام کیا۔"
+    },
+    {
+      "title": "Iranian army claims it targeted US' Ali Al Salem air base in Kuwait",
+      "desc": "The Iranian army claimed early Wednesday it targeted US Ali Al Salem air base in Kuwait with drones, triggering the air defence alerts in the oil-rich Gulf country for the first time in weeks.\nThe army claimed it had targeted air defence systems, as well as d…",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/iranian-army-claims-it-targeted-us-ali-al-salem-air-base-in-kuwait-126111800536_1.html",
+      "time": "2026-11-18T08:44:12",
+      "country": "Iran",
+      "title_ur": "ایرانی فوج نے دعویٰ کیا ہے کہ اس نے کویت میں امریکی علی السلم ایئر بیس کو نشانہ بنایا",
+      "desc_ur": "ایرانی فوج نے بدھ کی صبح دعویٰ کیا کہ اس نے کویت میں امریکی علی السلم ایئر بیس کو ڈرون سے نشانہ بنایا، جس سے تیل کی دولت سے مالا مال خلیجی ملک میں ہفتوں میں پہلی بار فضائی دفاعی الرٹ جاری ہو گئے۔\nفوج نے دعویٰ کیا ہے کہ اس نے فضائی دفاعی نظام کو نشانہ بنایا ہے، ساتھ ہی…"
+    },
+    {
+      "title": "Brent's war premium fades, but lingering risks keep $90 intact: Kotak Neo",
+      "desc": "Brent EFP, which measures how much buyers pay for prompt physical barrels over futures, has fallen to around zero from a cycle high of $31.38 on October 8",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/markets/news/brent-s-war-premium-fades-but-lingering-risks-keep-90-intact-kotak-neo-126111800586_1.html",
+      "time": "2026-11-18T08:37:55",
+      "country": "International",
+      "title_ur": "برینٹ کا جنگی پریمیم ختم ہو گیا، لیکن دیرپا خطرات $90 کو برقرار رکھتے ہیں: کوٹک نیو",
+      "desc_ur": "Brent EFP، جو اس بات کی پیمائش کرتا ہے کہ خریدار فیوچرز پر فوری فزیکل بیرل کے لیے کتنی ادائیگی کرتے ہیں، 8 اکتوبر کو $31.38 کی بلند ترین سائیکل سے تقریباً صفر پر آ گیا ہے۔"
+    },
+    {
+      "title": "Iran ramps up retaliation on Gulf countries after U.S. strikes",
+      "desc": "Iran appears to be ramping up retaliatory attacks against U.S. allies in the Gulf, as Bahrain and Kuwait claimed that they intercepted strikes.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
+      "time": "2026-11-18T08:32:54",
+      "country": "Iran",
+      "title_ur": "امریکی حملے کے بعد ایران نے خلیجی ممالک پر جوابی کارروائیاں تیز کر دیں۔",
+      "desc_ur": "ایسا لگتا ہے کہ ایران خلیج میں امریکی اتحادیوں کے خلاف جوابی حملوں کو تیز کر رہا ہے، جیسا کہ بحرین اور کویت نے دعویٰ کیا کہ انہوں نے حملوں کو روکا ہے۔"
+    },
+    {
+      "title": "The U.S.-Chinese-Russian Summit and the Future of Trilateral Nuclear Talks",
+      "desc": "U.S. President Donald Trump, who has sought nuclear arms control with Russia and China since his first term, may finally have his chance. The first-ever U.S.-Chinese-Russian leaders’ summit is set to take place in Shenzhen, with nuclear issues potentially on …",
+      "source": "War on the Rocks",
+      "url": "https://warontherocks.com/the-u-s-chinese-russian-summit-and-the-future-of-trilateral-nuclear-talks/",
+      "time": "2026-11-18T08:30:27",
       "country": "Russia",
-      "title_ur": "پینٹاگون نے برطانیہ کی گرفتاری کے بعد امریکی فوج کے سینئر افسر کو روسیوں کے لیے جاسوسی کے الزام میں حراست میں لے لیا۔",
-      "desc_ur": "لیفٹیننٹ کرنل برینڈن ٹائنر کو امریکی فوجی حکام کے حوالے کیا گیا جب برطانوی انسداد دہشت گردی پولیس نے اسے روس کے لیے جاسوسی کے شبے میں گرفتار کیا۔"
+      "title_ur": "امریکہ-چین-روسی سربراہی اجلاس اور سہ فریقی جوہری مذاکرات کا مستقبل",
+      "desc_ur": "امریکی صدر ڈونلڈ ٹرمپ، جنہوں نے اپنی پہلی مدت کے بعد سے روس اور چین کے ساتھ جوہری ہتھیاروں کے کنٹرول کی کوشش کی ہے، آخرکار اس کا موقع مل سکتا ہے۔ پہلی بار امریکی-چینی-روسی رہنماؤں کی سربراہی کانفرنس شینزین میں ہونے والی ہے، جس میں ممکنہ طور پر جوہری مسائل پر…"
+    },
+    {
+      "title": "Energy bills set to soar by £443 this winter with prices expected to hit highest level since 2023 due to chaos in the Middle East",
+      "desc": "Experts at Cornwall Insight have predicted Ofgem's energy price cap will rise by 26 per cent to £2,166 a year on January 1, up £443 on the level between October and December to hit the highest since 2023.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16301999/Energy-bills-soar-winter-prices-Middle-East.html",
+      "time": "2026-11-18T08:16:06",
+      "country": "International",
+      "title_ur": "اس موسم سرما میں توانائی کے بلوں میں £443 کا اضافہ متوقع ہے اور مشرق وسطیٰ میں افراتفری کی وجہ سے قیمتیں 2023 کے بعد سے بلند ترین سطح پر پہنچنے کی توقع ہے",
+      "desc_ur": "Cornwall Insight کے ماہرین نے پیش گوئی کی ہے کہ Ofgem کی توانائی کی قیمت 1 جنوری کو 26 فیصد اضافے کے ساتھ £2,166 سالانہ ہو جائے گی، جو اکتوبر اور دسمبر کے درمیان کی سطح پر £443 اضافے سے 2023 کے بعد سب سے زیادہ ہو گی۔"
+    },
+    {
+      "title": "Smotrich accuses AG of collaboration with the enemy",
+      "desc": "The finance minister criticized the attorney general's decision to block construction in E1, accusing her of cooperating with governments that harm Israel.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/436506",
+      "time": "2026-11-18T08:12:32",
+      "country": "Israel",
+      "title_ur": "Smotrich نے AG پر دشمن کے ساتھ تعاون کا الزام لگایا",
+      "desc_ur": "وزیر خزانہ نے E1 میں تعمیرات کو روکنے کے اٹارنی جنرل کے فیصلے پر تنقید کرتے ہوئے ان پر اسرائیل کو نقصان پہنچانے والی حکومتوں کے ساتھ تعاون کرنے کا الزام لگایا۔"
+    },
+    {
+      "title": "Iranian assassination plot in Greece: The FBI-wanted man who recruited the hitmen and the role of Greece’s National Intelligence Service in foiling the attack",
+      "desc": "Israeli company executive targeted by Iranian network – The six criminals recruited to kill him and the attempts to enter Greece\nThe post Iranian assassination plot in Greece: The FBI-wanted man who recruited the hitmen and the role of Greece’s National Intel…",
+      "source": "Protothema.gr",
+      "url": "https://en.protothema.gr/2026/11/18/iranian-assassination-plot-in-greece-the-fbi-wanted-man-who-recruited-the-hitmen-and-the-role-of-greeces-national-intelligence-service-in-foiling-the-attack/",
+      "time": "2026-11-18T08:04:08",
+      "country": "Iran",
+      "title_ur": "یونان میں ایرانی قتل کی سازش: ایف بی آئی کو مطلوب شخص جس نے حملہ آوروں کو بھرتی کیا اور حملے کو ناکام بنانے میں یونان کی نیشنل انٹیلی جنس سروس کا کردار",
+      "desc_ur": "اسرائیلی کمپنی کے ایگزیکٹو کو ایرانی نیٹ ورک نے نشانہ بنایا - چھ مجرموں نے اسے قتل کرنے کے لیے بھرتی کیا اور یونان میں داخل ہونے کی کوششیں\nThe post یونان میں ایرانی قتل کی سازش: ایف بی آئی کو مطلوب شخص جس نے ہٹ مینوں کو بھرتی کیا اور یونان کے نیشنل انٹیل کا کردار…"
+    },
+    {
+      "title": "The $17 billion DoorDash-Instacart deal puts a spotlight on a16z and Silicon Valley’s rival-board problem",
+      "desc": "Sequoia Capital partners sit on the boards of both delivery app companies, an arrangement an antitrust scholar says is likely illegal.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/11/18/doordash-instacart-investigation-silicon-valley-antitrust/",
+      "time": "2026-11-18T08:02:00",
+      "country": "US",
+      "title_ur": "$17 بلین DoorDash-Instacart معاہدہ a16z اور سلیکن ویلی کے حریف بورڈ کے مسئلے پر روشنی ڈالتا ہے۔",
+      "desc_ur": "Sequoia Capital کے شراکت دار دونوں ڈیلیوری ایپ کمپنیوں کے بورڈز پر بیٹھتے ہیں، ایک ایسا انتظام جو ایک عدم اعتماد اسکالر کا کہنا ہے کہ ممکنہ طور پر غیر قانونی ہے۔"
+    },
+    {
+      "title": "Qatar condemns Iran’s drone strikes on Kuwait and Bahrain as sovereignty violations",
+      "desc": "Regional instability may escalate, pressuring Iran's leadership and affecting political dynamics, with potential shifts in international relations.\nThe post Qatar condemns Iran’s drone strikes on Kuwait and Bahrain as sovereignty violations appeared first on …",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/qatar-condemns-irans-drone-strikes-on-kuwait-and-bahrain-as-sovereignty/",
+      "time": "2026-11-18T08:01:16",
+      "country": "Iran",
+      "title_ur": "قطر نے کویت اور بحرین پر ایران کے ڈرون حملوں کی خودمختاری کی خلاف ورزی قرار دے کر مذمت کی",
+      "desc_ur": "علاقائی عدم استحکام بڑھ سکتا ہے، ایران کی قیادت پر دباؤ ڈال سکتا ہے اور بین الاقوامی تعلقات میں ممکنہ تبدیلیوں کے ساتھ سیاسی حرکیات کو متاثر کر سکتا ہے۔\nThe post قطر نے کویت اور بحرین پر ایرانی ڈرون حملوں کو خودمختاری کی خلاف ورزی قرار دے دیا appeared first on…"
     }
   ],
   "pakistan": [
     {
-      "title": "Tech disruptions expose digital vulnerabilities: How to protect your accounts and data",
-      "desc": "Cybersecurity specialists warn that technical disruptions can create opportunities for scammers and hackers, making individual vigilance and timely software updates essential",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/info-tech/tech-disruptions-expose-digital-vulnerabilities-how-to-protect-your-accounts-and-data/article71714315.ece",
-      "time": "2026-11-18T00:47:01",
+      "title": "Oil falls as higher US crude stocks temper supply risks",
+      "desc": "Oil prices fell today on data showing an increase in US crude and fuel inventories last week, although ongoing US-Iran attacks and disruptions to shipping through the Strait of Hormuz limited losses.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/business/2026/1118/1599640-world-oil-prices/",
+      "time": "2026-11-18T08:21:39",
       "country": "Pakistan",
-      "title_ur": "تکنیکی رکاوٹیں ڈیجیٹل کمزوریوں کو بے نقاب کرتی ہیں: اپنے اکاؤنٹس اور ڈیٹا کی حفاظت کیسے کریں۔",
-      "desc_ur": "سائبرسیکیوریٹی کے ماہرین نے خبردار کیا ہے کہ تکنیکی رکاوٹیں اسکیمرز اور ہیکرز کے لیے مواقع پیدا کر سکتی ہیں، جس سے انفرادی چوکسی اور بروقت سافٹ ویئر اپ ڈیٹ ضروری ہو جاتے ہیں۔"
+      "title_ur": "تیل گرتا ہے کیونکہ امریکی خام تیل کے ذخیرے کی وجہ سے سپلائی کے خطرات بڑھ جاتے ہیں۔",
+      "desc_ur": "گزشتہ ہفتے امریکی خام تیل اور ایندھن کی انوینٹریوں میں اضافے کو ظاہر کرنے والے اعداد و شمار پر آج تیل کی قیمتوں میں کمی واقع ہوئی، حالانکہ جاری امریکی ایران حملوں اور آبنائے ہرمز کے ذریعے جہاز رانی میں رکاوٹیں محدود نقصانات ہیں۔"
     },
     {
-      "title": "Usman Khawaja reveals racist abuse from junior cricket parents left him ashamed of being Pakistani",
-      "desc": "The retired Australian Test star said adults made racist remarks within earshot as he began dominating matches, turning his success with the bat into another source of racial hostility.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/sport/cricket/article-16298121/usman-khawaja-childhood-racism-suicidal-thoughts-cricket.html",
-      "time": "2026-11-18T00:24:47",
-      "country": "Pakistan",
-      "title_ur": "عثمان خواجہ نے جونیئر کرکٹ کے والدین کی جانب سے نسل پرستانہ بدسلوکی کا انکشاف کیا، انہیں پاکستانی ہونے پر شرمندہ کر دیا",
-      "desc_ur": "ریٹائرڈ آسٹریلوی ٹیسٹ اسٹار نے کہا کہ جب اس نے میچوں پر غلبہ حاصل کرنا شروع کیا تو بالغوں نے نسل پرستانہ تبصرے کیے اور بلے سے اس کی کامیابی کو نسلی دشمنی کا ایک اور ذریعہ بنا دیا۔"
-    },
-    {
-      "title": "Ballots and Bombs: Why US Foreign Policy Begins at Home",
-      "desc": "While an American election is a domestic political event, its shockwaves recognize no borders.  Every two to four years, the rest of the world becomes a captive audience to a high-stakes drama in which they have no vote.  Yet, they anxiously await to see how …",
-      "source": "Antiwar.com",
-      "url": "https://original.antiwar.com/reza_behnam/2026/11/17/ballots-and-bombs-why-us-foreign-policy-begins-at-home/",
-      "time": "2026-11-18T00:00:36",
-      "country": "Pakistan",
-      "title_ur": "بیلٹ اور بم: امریکی خارجہ پالیسی گھر سے کیوں شروع ہوتی ہے۔",
-      "desc_ur": "اگرچہ ایک امریکی انتخابات ایک گھریلو سیاسی واقعہ ہے، لیکن اس کی جھٹکوں کی کوئی سرحد نہیں پہچانتی۔  ہر دو چار سال بعد باقی دنیا ایک ایسے بڑے ڈرامے کے اسیر ہو جاتی ہے جس میں ان کا کوئی ووٹ نہیں ہوتا۔  پھر بھی، وہ بے چینی سے انتظار کر رہے ہیں کہ کیسے…"
-    },
-    {
-      "title": "Iran war live: Kuwait says intercepting ‘hostile’ drone attacks",
-      "desc": "Kuwait intercepts 'hostile' drone attacks as Bahrain warns of 'potential threat', urges citizens to remain calm.",
+      "title": "Photos: India defeat Pakistan to win SAFF Championship in Bangladesh",
+      "desc": "Thousands of Bangladeshi fans turned up to watch India complete a three-peat of SAFF titles in Dhaka.",
       "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks",
-      "time": "2026-11-18T00:00:27",
+      "url": "https://www.aljazeera.com/gallery/2026/11/18/photos-india-defeat-pakistan-to-win-saff-championship-in-bangladesh",
+      "time": "2026-11-18T07:54:15",
       "country": "Pakistan",
-      "title_ur": "ایران جنگ لائیو: کویت کا کہنا ہے کہ 'دشمن' ڈرون حملوں کو روک رہا ہے۔",
-      "desc_ur": "کویت نے 'دشمن' ڈرون حملوں کو روک دیا کیونکہ بحرین نے 'ممکنہ خطرے' سے خبردار کیا ہے، شہریوں سے پرسکون رہنے کی اپیل کی ہے۔"
+      "title_ur": "فوٹو: بھارت نے پاکستان کو شکست دے کر بنگلہ دیش میں ساف چیمپئن شپ جیت لی",
+      "desc_ur": "بنگلہ دیش کے ہزاروں شائقین ڈھاکہ میں ہندوستان کو SAFF ٹائٹل کے تھری پیٹ مکمل کرنے کو دیکھنے آئے۔"
     },
     {
-      "title": "Europe’s LNG Scramble Sends Shockwaves Through Asian Gas Markets",
-      "desc": "Tight LNG supply and the lowest pre-winter gas inventory levels in Europe in over a decade are prompting Europe to pay up for LNG cargoes, which raises European and Asian gas and LNG prices and curbs demand in Asia.     With the Strait of Hormuz crisis still …",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Europes-LNG-Scramble-Sends-Shockwaves-Through-Asian-Gas-Markets.html",
-      "time": "2026-11-18T00:00:00",
+      "title": "Iran attacks US bases in Gulf countries",
+      "desc": "Gulf countries said they intercepted missiles and drones from Iran and its Houthi allies in Yemen, after the United States ⁠had struck Qeshm Island in the Strait of Hormuz in an uptick of hostilities despite efforts to end the nine-month-old war.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/middle-east/2026/1118/1599631-iran-us/",
+      "time": "2026-11-18T07:26:51",
       "country": "Pakistan",
-      "title_ur": "یورپ کا ایل این جی اسکریبل ایشین گیس مارکیٹس کے ذریعے شاک ویوز بھیجتا ہے۔",
-      "desc_ur": "سخت LNG سپلائی اور ایک دہائی سے زائد عرصے میں یورپ میں موسم سرما سے پہلے کی سب سے کم گیس کی انوینٹری کی سطح یورپ کو LNG کارگوز کے لیے ادائیگی کرنے پر آمادہ کر رہی ہے، جس سے یورپی اور ایشیائی گیس اور LNG کی قیمتوں میں اضافہ ہوتا ہے اور ایشیا میں طلب کو روکنا ہے۔     آبنائے ہرمز کے بحران کے ساتھ اب بھی…"
+      "title_ur": "ایران نے خلیجی ممالک میں امریکی اڈوں پر حملہ کیا۔",
+      "desc_ur": "خلیجی ممالک نے کہا کہ انہوں نے یمن میں ایران اور اس کے حوثی اتحادیوں کے میزائلوں اور ڈرونوں کو روکا، جب امریکہ نے نو ماہ پرانی جنگ کے خاتمے کی کوششوں کے باوجود دشمنی کو بڑھاتے ہوئے آبنائے ہرمز میں واقع جزیرہ قشم پر حملہ کیا۔"
     }
   ],
   "business": {
@@ -234,7 +214,7 @@
       {
         "date": "2026-11-21",
         "day": "ہفتہ",
-        "high": 24,
+        "high": 23,
         "low": 13,
         "condition": "Overcast",
         "condition_ur": "ابر آلود",
@@ -244,7 +224,7 @@
         "date": "2026-11-22",
         "day": "اتوار",
         "high": 24,
-        "low": 12,
+        "low": 13,
         "condition": "Clear",
         "condition_ur": "صاف",
         "precip": 0
@@ -252,7 +232,7 @@
       {
         "date": "2026-11-23",
         "day": "پیر",
-        "high": 25,
+        "high": 24,
         "low": 12,
         "condition": "Clear",
         "condition_ur": "صاف",
@@ -261,16 +241,16 @@
       {
         "date": "2026-11-24",
         "day": "منگل",
-        "high": 25,
+        "high": 24,
         "low": 12,
-        "condition": "Clear",
-        "condition_ur": "صاف",
+        "condition": "Partly Cloudy",
+        "condition_ur": "جزوی ابر آلود",
         "precip": 0
       },
       {
         "date": "2026-11-25",
         "day": "بدھ",
-        "high": 25,
+        "high": 24,
         "low": 12,
         "condition": "Clear",
         "condition_ur": "صاف",
