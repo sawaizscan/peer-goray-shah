@@ -1,179 +1,158 @@
 {
-  "generated": "2026-11-23T09:24:13Z",
+  "generated": "2026-11-23T21:35:33Z",
   "world": [
     {
-      "title": "Air raid sirens go off in Kaliningrad amid fears of Ukrainian drone attack in Russia's European enclave - a month after Putin threatened to use nuclear weapons to defend it",
-      "desc": "The region's governor said air defences reacted to a 'suspicious object' coming from the direction of Lithuania, but provided no evidence.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16312901/Air-raid-sirens-Kaliningrad-fears-Ukrainian-drone-attack-Russia-Kaliningrad.html",
-      "time": "2026-11-22T09:23:10",
-      "country": "Russia",
-      "title_ur": "روس کے یورپی انکلیو میں یوکرین کے ڈرون حملے کے خدشے کے درمیان کیلینن گراڈ میں فضائی حملے کے سائرن بج رہے ہیں - پوٹن کی جانب سے اس کے دفاع کے لیے جوہری ہتھیار استعمال کرنے کی دھمکی کے ایک ماہ بعد",
-      "desc_ur": "خطے کے گورنر نے کہا کہ فضائی دفاع نے لیتھوانیا کی سمت سے آنے والی 'مشتبہ چیز' پر ردعمل ظاہر کیا، لیکن کوئی ثبوت فراہم نہیں کیا۔"
-    },
-    {
-      "title": "The 9 at 9: Sunday",
-      "desc": "Fossil fuels missing from draft COP31 deal, Bahrain accuses Iran of striking facility, and glock pistol and €1.8m worth of drugs seized in Dublin",
-      "source": "TheJournal.ie",
-      "url": "https://www.thejournal.ie/morning-news-sunday-november-7234138-Nov2026/",
-      "time": "2026-11-22T09:15:34",
-      "country": "Iran",
-      "title_ur": "9 بجے 9: اتوار",
-      "desc_ur": "COP31 معاہدے کے مسودے سے فوسل ایندھن غائب، بحرین نے ایران پر حملہ کرنے کی سہولت، اور گلوک پستول اور €1.8m مالیت کی منشیات ضبط کرنے کا الزام لگایا"
-    },
-    {
-      "title": "Israel Police at breaking point as Ben-Gvir blocks 185 senior appointments",
-      "desc": "Police chief Levy rejects pleas to reconcile with the minister, saying privately that he 'is not afraid of him'. Ben-Gvir refuses to approve appointments, leaving the police short 185 officers",
-      "source": "Haaretz",
-      "url": "https://www.haaretz.com/israel-news/israel-crime/2026-11-22/ty-article/.premium/israel-police-at-breaking-point-as-ben-gvir-blocks-185-senior-appointments/000001a2-0200-d6a0-a3af-ebaa33fb0000",
-      "time": "2026-11-22T09:09:06",
-      "country": "Israel",
-      "title_ur": "بن گویر نے 185 سینئر تقرریوں کو روکتے ہوئے اسرائیلی پولیس بریکنگ پوائنٹ پر",
-      "desc_ur": "پولیس چیف لیوی نے وزیر کے ساتھ صلح کی درخواستوں کو مسترد کرتے ہوئے نجی طور پر کہا کہ وہ 'اس سے نہیں ڈرتے'۔ بین گویر نے تقرریوں کی منظوری دینے سے انکار کر دیا، جس سے پولیس میں 185 افسران کی کمی ہو گئی۔"
-    },
-    {
-      "title": "I'm a business immigration lawyer. My clients have put their lives on hold due to Trump's visa policies — it can feel heavy.",
-      "desc": "Business immigration lawyer Joe Kwon shares how he's weathered a year of visa policy shifts under Trump. It's been heavy, and sometimes overwhelming.",
-      "source": "Business Insider",
-      "url": "https://www.businessinsider.com/immigration-lawyer-reacts-to-trump-visa-policies-h1b-perm-2026-11",
-      "time": "2026-11-22T09:07:01",
-      "country": "US",
-      "title_ur": "میں ایک کاروباری امیگریشن وکیل ہوں۔ میرے مؤکلوں نے ٹرمپ کی ویزا پالیسیوں کی وجہ سے اپنی زندگیوں کو روک رکھا ہے - یہ بھاری محسوس ہو سکتا ہے۔",
-      "desc_ur": "بزنس امیگریشن کے وکیل جو کوون بتاتے ہیں کہ ٹرمپ کے دور میں ویزا پالیسی کی تبدیلیوں کے ایک سال سے وہ کس طرح گزرے ہیں۔ یہ بھاری رہا ہے، اور کبھی کبھی زبردست۔"
-    },
-    {
-      "title": "‘Trump’s exit strategy may depend on quietly lifting Iran blockade’",
-      "desc": "US President Donald Trump will have to ease the naval blockade on Iran if he wants the war to wind down, says analyst.",
+      "title": "Netanyahu’s Likud, Eisenkot’s Yashar end coalition talks without deal",
+      "desc": "Parties remain split over who will lead the next government and whether far-right minister Itamar Ben-Gvir will join.",
       "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/trumps-exit-strategy-may-depend-on-quietly-lifting-iran",
-      "time": "2026-11-22T09:06:27",
-      "country": "Iran",
-      "title_ur": "'ٹرمپ کی خارجی حکمت عملی خاموشی سے ایران کی ناکہ بندی اٹھانے پر منحصر ہو سکتی ہے'",
-      "desc_ur": "تجزیہ کار کا کہنا ہے کہ اگر امریکی صدر ڈونلڈ ٹرمپ جنگ ختم کرنا چاہتے ہیں تو انہیں ایران پر بحری ناکہ بندی میں نرمی کرنی ہوگی۔"
-    },
-    {
-      "title": "Groom arrested for desertion before wedding: Family threatens High Court petition",
-      "desc": "A yeshiva student arrested for desertion may miss his wedding. His family is demanding his release or a postponement of his sentence.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/436807",
-      "time": "2026-11-22T09:04:54",
-      "country": "International",
-      "title_ur": "شادی سے قبل دولہا گرفتار: اہل خانہ نے ہائی کورٹ کی پٹیشن کو دھمکی دی",
-      "desc_ur": "یشیوا طالب علم کو چھوڑنے کے الزام میں گرفتار کیا جا سکتا ہے وہ اپنی شادی سے محروم ہو سکتا ہے۔ اس کا خاندان اس کی رہائی یا اس کی سزا کو ملتوی کرنے کا مطالبہ کر رہا ہے۔"
-    },
-    {
-      "title": "Why the U.S. midterms might have ended JD Vance's presidential hopes",
-      "desc": "Vice-President JD Vance's presidential ambitions for 2028 could be among the more significant political casualties of the Democratic blue wave in this month's midterm elections.",
-      "source": "CBC News",
-      "url": "https://www.cbc.ca/news/world/jd-vance-2028-midterms-presidential-candidate-9.7428163",
-      "time": "2026-11-22T09:00:00",
-      "country": "International",
-      "title_ur": "کیوں امریکی وسط مدتی نے JD Vance کی صدارتی امیدیں ختم کر دی ہیں۔",
-      "desc_ur": "نائب صدر جے ڈی وینس کے 2028 کے صدارتی عزائم اس ماہ کے وسط مدتی انتخابات میں ڈیموکریٹک بلیو ویو کے زیادہ اہم سیاسی نقصانات میں شامل ہو سکتے ہیں۔"
-    },
-    {
-      "title": "Sephora’s CEO initially turned down an entry-level job at the company because she could only wear black, white, or gray to the office",
-      "desc": "Artemis Patrick said she turned down her first job offer from Sephora because she could only wear black, white or gray to the office.",
-      "source": "Fortune",
-      "url": "https://fortune.com/2026/11/22/sephora-ceo-declined-role-dress-code-monochrome/",
-      "time": "2026-11-22T09:00:00",
-      "country": "US",
-      "title_ur": "سیفورا کے سی ای او نے ابتدائی طور پر کمپنی میں انٹری لیول کی نوکری کو ٹھکرا دیا کیونکہ وہ دفتر میں صرف سیاہ، سفید یا سرمئی پہن سکتی تھی۔",
-      "desc_ur": "آرٹیمس پیٹرک نے کہا کہ اس نے سیفورا کی طرف سے اپنی پہلی ملازمت کی پیشکش کو ٹھکرا دیا کیونکہ وہ دفتر میں صرف سیاہ، سفید یا سرمئی پہن سکتی تھیں۔"
-    },
-    {
-      "title": "Will Canadian workers refuse to handle Israeli goods? Why unions increasingly say they should",
-      "desc": "A movement to cut off Israeli goods is spreading across Canada's unions. The Canadian Labour Congress, which represents more than 3 million workers, passed a resolution last month declaring trade, services and relationships with Israel to be “hot cargo,\"  emp…",
-      "source": "CBC News",
-      "url": "https://www.cbc.ca/news/canada/clc-resolution-canadian-unions-israel-9.7428991",
-      "time": "2026-11-22T09:00:00",
+      "url": "https://www.aljazeera.com/news/2026/11/22/netanyahus-likud-eisenkots-yashar-end-coalition-talks-without-deal",
+      "time": "2026-11-22T21:33:11",
       "country": "Israel",
-      "title_ur": "کیا کینیڈین کارکن اسرائیلی سامان ہینڈل کرنے سے انکار کر دیں گے؟ یونینز کیوں تیزی سے کہتے ہیں کہ انہیں کرنا چاہئے۔",
-      "desc_ur": "اسرائیلی سامان کو کاٹنے کی تحریک کینیڈا کی یونینوں میں پھیل رہی ہے۔ کینیڈین لیبر کانگریس، جو کہ 30 لاکھ سے زائد کارکنوں کی نمائندگی کرتی ہے، نے گزشتہ ماہ ایک قرارداد منظور کی جس میں اسرائیل کے ساتھ تجارت، خدمات اور تعلقات کو \"ہاٹ کارگو\" قرار دیا گیا ہے۔"
+      "title_ur": "نیتن یاہو کے لیکوڈ، آئزن کوٹ کے یاشار نے بغیر کسی معاہدے کے اتحادی مذاکرات ختم کر دیے۔",
+      "desc_ur": "پارٹیاں اس بات پر منقسم ہیں کہ اگلی حکومت کی قیادت کون کرے گا اور آیا انتہائی دائیں بازو کے وزیر اتمار بین گویر اس میں شامل ہوں گے۔"
     },
     {
-      "title": "Yair Netanyahu calls to remove Arabic from street signs",
-      "desc": "Yair Netanyahu, the son of Prime Minister Benjamin Netanyahu, called on the X network to eliminate Arabic writing on all signs and official documents in Israel. \"Israel is not a binational state, there is no reason for Arabic to receive official status here,\"…",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/flashes/698172",
-      "time": "2026-11-22T08:53:56",
+      "title": "Quentin Tarantino and Israeli wife Daniella Pick celebrate birth of third child - Ynetnews",
+      "desc": "Quentin Tarantino and Israeli wife Daniella Pick celebrate birth of third childYnetnews Quentin Tarantino and Wife Daniella Welcome Their Third Baby, a Boy (Exclusive)People.com Quentin Tarantino, Israeli wife Daniella Pick welcome 3rd childThe Times of Israe…",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&id=186833811",
+      "time": "2026-11-22T21:32:50",
       "country": "Israel",
-      "title_ur": "یائر نیتن یاہو نے سڑک کے نشانات سے عربی ہٹانے کا مطالبہ کیا۔",
-      "desc_ur": "وزیر اعظم بنجمن نیتن یاہو کے بیٹے یائر نیتن یاہو نے X نیٹ ورک سے مطالبہ کیا کہ اسرائیل میں تمام نشانیوں اور سرکاری دستاویزات پر عربی تحریر کو ختم کیا جائے۔ \"اسرائیل ایک دو قومی ریاست نہیں ہے، عربی کو یہاں سرکاری حیثیت حاصل کرنے کی کوئی وجہ نہیں ہے،\"…"
+      "title_ur": "Quentin Tarantino اور اسرائیلی اہلیہ ڈینیلا پک تیسرے بچے کی پیدائش کا جشن منا رہے ہیں۔",
+      "desc_ur": "Quentin Tarantino اور اسرائیلی اہلیہ ڈینیلا پک نے تیسرے بچے کی پیدائش کا جشن منایاYnetnews Quentin Tarantino اور بیوی ڈینیلا نے اپنے تیسرے بچے کو خوش آمدید کہا، ایک لڑکا (خصوصی)People.com Quentin Tarantino، اسرائیلی اہلیہ ڈینیلا پک نے تیسرے بچے کا استقبال کیاThe Times of Israe…"
     },
     {
-      "title": "Scaramucci Takes Aim at Sean Hannity Over Pope’s Iran War Criticism, Says ‘Trump Is His New Jesus’",
-      "desc": "Scaramucci criticized former Trump allies for abandoning principles and attacked Sean Hannity for distancing himself from Catholicism.",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/f984cf3f47dc9fee",
-      "time": "2026-11-22T08:51:22",
-      "country": "Iran",
-      "title_ur": "سکاراموچی نے پوپ کی ایران جنگ پر تنقید پر شان ہینٹی کو نشانہ بنایا، کہتے ہیں 'ٹرمپ ان کا نیا یسوع ہے'",
-      "desc_ur": "سکاراموچی نے اصولوں کو ترک کرنے پر ٹرمپ کے سابق اتحادیوں پر تنقید کی اور کیتھولک مذہب سے خود کو دور کرنے پر شان ہینٹی پر حملہ کیا۔"
-    },
-    {
-      "title": "Eyes off the road: Driver caught adjusting tefillin while driving",
-      "desc": "Traffic Police filmed a driver adjusting his tefillin instead of watching the road. The aerial unit also filmed a driver overtaking across a solid line. Police warned of the dangers of distracted driving and illegal overtaking.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/436806",
-      "time": "2026-11-22T08:48:00",
-      "country": "US",
-      "title_ur": "سڑک سے نظریں: ڈرائیور نے گاڑی چلاتے ہوئے ٹیفیلن کو ایڈجسٹ کرتے ہوئے پکڑا۔",
-      "desc_ur": "ٹریفک پولیس نے ایک ڈرائیور کو سڑک دیکھنے کے بجائے اپنی ٹیفیلن کو ایڈجسٹ کرتے ہوئے فلمایا۔ فضائی یونٹ نے ایک ڈرائیور کو ایک ٹھوس لائن پر اوور ٹیک کرتے ہوئے بھی فلمایا۔ پولیس نے ڈسٹرب ڈرائیونگ اور غیر قانونی اوور ٹیکنگ کے خطرات سے خبردار کیا۔"
-    },
-    {
-      "title": "Jewish pride in Paris: Hundreds of teens sing and dance at the foot of the Eiffel Tower",
-      "desc": "Some 1,500 Jewish teens gathered at the foot of the Eiffel Tower for CTeen's European Jewish Youth Congress. They recited Shema Yisrael, prayed for the safety of Jewish communities and danced to music by singer Noam Buskila.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/436805",
-      "time": "2026-11-22T08:39:36",
+      "title": "Jiri Prochazka releases statement following UFC Qatar loss - MMA Fighting",
+      "desc": "Jiri Prochazka releases statement following UFC Qatar lossMMA Fighting Main Card Results | UFC QatarUFC.com Video: Israel Adesanya, Dan Hooker go wild for Navajo Stirling's UFC Qatar KOYahoo Sports Here’s How to Watch UFC Fight Night: Procházka vs. Stirling L…",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&id=186833805",
+      "time": "2026-11-22T21:32:19",
       "country": "Israel",
-      "title_ur": "پیرس میں یہودیوں کا فخر: سیکڑوں نوجوان ایفل ٹاور کے دامن میں گاتے اور رقص کرتے ہیں",
-      "desc_ur": "CTeen کی یورپی یہودی یوتھ کانگریس کے لیے تقریباً 1,500 یہودی نوجوان ایفل ٹاور کے دامن میں جمع ہوئے۔ انہوں نے شیما یسرائیل کی تلاوت کی، یہودی برادریوں کی حفاظت کے لیے دعا کی اور گلوکار نوم بسکیلا کی موسیقی پر رقص کیا۔"
+      "title_ur": "جیری پروچازکا نے یو ایف سی قطر کے نقصان کے بعد بیان جاری کیا - ایم ایم اے فائٹنگ",
+      "desc_ur": "جیری پروچازکا نے یو ایف سی قطر کے نقصان کے بعد بیان جاری کیا ایم ایم اے فائٹنگ مین کارڈ کے نتائج | UFC QatarUFC.com ویڈیو: اسرائیل ایڈیسانیا، ڈین ہوکر ناواجو سٹرلنگ کے یو ایف سی قطر کو یاہو اسپورٹس کے لیے جنگلی کھیل رہے ہیں یو ایف سی فائٹ نائٹ دیکھنے کا طریقہ یہاں ہے: پروچازکا بمقابلہ اسٹرلنگ ایل…"
     },
     {
-      "title": "'No place for hate in cricket’: Congress leader rejects Masood’s religious bias charge over Siraj",
-      "desc": "NEW DELHI: Congress leader Mumtaz Patel has rejected party colleague Imran Masood's allegation of religious discrimination in the selection of the Indian",
+      "title": "Defining Genocide Down at the International Court of Justice",
+      "desc": "An international court redefines the meaning to target the U.S. and Israel. The world didn’t need another international body preoccupied with indicting Israel, but it seems to have one in the International Court of Justice. Thursday brought news that the ICJ,…",
+      "source": "Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4403972/posts",
+      "time": "2026-11-22T21:25:44",
+      "country": "Israel",
+      "title_ur": "بین الاقوامی عدالت انصاف میں نسل کشی کی تعریف",
+      "desc_ur": "ایک بین الاقوامی عدالت نے امریکہ اور اسرائیل کو نشانہ بنانے کے معنی کی نئی وضاحت کی ہے۔ دنیا کو اسرائیل پر فرد جرم عائد کرنے میں مصروف کسی اور بین الاقوامی ادارے کی ضرورت نہیں تھی، لیکن ایسا لگتا ہے کہ بین الاقوامی عدالت انصاف میں ایک ہے۔ جمعرات کو خبر آئی کہ آئی سی جے،…"
+    },
+    {
+      "title": "Netanyahu and Eisenkot blocs fail to reach coalition deal",
+      "desc": "The parties of caretaker Israeli prime minister Benjamin Netanyahu and his rival Gadi Eisenkot have concluded a new round of talks without reaching an agreement on a possible coalition government, which would require concessions from both sides.",
+      "source": "RTE",
+      "url": "https://www.rte.ie/news/world/2026/1122/1600236-netanyahu-eisenkot-coalition/",
+      "time": "2026-11-22T21:25:34",
+      "country": "Israel",
+      "title_ur": "نیتن یاہو اور آئزن کوٹ بلاکس اتحادی معاہدے تک پہنچنے میں ناکام رہے۔",
+      "desc_ur": "نگراں اسرائیلی وزیر اعظم بنجمن نیتن یاہو اور ان کے حریف گاڈی آئزن کوٹ کی جماعتوں نے ممکنہ مخلوط حکومت پر کسی معاہدے تک پہنچنے کے بغیر مذاکرات کا ایک نیا دور ختم کر دیا ہے، جس کے لیے دونوں طرف سے رعایتیں درکار ہوں گی۔"
+    },
+    {
+      "title": "Syria: Armed Men Bind and Rob Melkite Archbishop of Homs as Patriarchs Warn of Attacks on Christians",
+      "desc": "At least three armed men forced their way into the office of Melkite Greek Catholic Archbishop Jean-Abdo Arbach in the Old City of Homs on Saturday, Nov.\nThe post Syria: Armed Men Bind and Rob Melkite Archbishop of Homs as Patriarchs Warn of Attacks on Christ…",
+      "source": "Thegatewaypundit.com",
+      "url": "https://www.thegatewaypundit.com/2026/11/syria-armed-men-bind-rob-melkite-archbishop-homs/",
+      "time": "2026-11-22T21:20:17",
+      "country": "Syria",
+      "title_ur": "شام: مسلح افراد حمص کے آرچ بشپ میلکائٹ کو باندھ کر روب کرتے ہیں جیسا کہ سرپرستوں نے عیسائیوں پر حملوں کی وارننگ دی",
+      "desc_ur": "کم از کم تین مسلح افراد نے ہفتہ، نومبر کو حمص کے پرانے شہر میں میلکائٹ یونانی کیتھولک آرچ بشپ جین ایبڈو اربخ کے دفتر میں زبردستی گھس گئے۔\nThe post شام: مسلح افراد نے حمص کے آرچ بشپ راب میلکائٹ کو باندھا اور بطور سرپرستوں نے مسیح پر حملوں کی وارننگ…"
+    },
+    {
+      "title": "Suspected Jewish settler extremist attack Palestinian towns across West Bank - The Jerusalem Post",
+      "desc": "Suspected Jewish settler extremist attack Palestinian towns across West BankThe Jerusalem Post Israeli settlers launch attacks across West Bank as Netanyahu rival decries ‘Jewish terrorism’CNN Netanyahu rival condemns ‘Jewish terrorism’ after settler attacks …",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&id=186833685",
+      "time": "2026-11-22T21:12:16",
+      "country": "Israel",
+      "title_ur": "مشتبہ یہودی آباد کار انتہا پسندوں کا مغربی کنارے کے فلسطینی قصبوں پر حملہ – The Jerusalem Post",
+      "desc_ur": "مشتبہ یہودی آباد کار انتہا پسندوں کا مغربی کنارے کے فلسطینی قصبوں پر حملہ"
+    },
+    {
+      "title": "Rahul Gandhi 'clarifies' after allies criticise remark on Hamas and Israel",
+      "desc": "NEW DELHI: Amid criticism of Rahul Gandhi's statement about India's relationship with Israel, Mahatma Gandhi's great grandson Tushar Gandhi Sunday",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/india/no-place-for-hate-in-cricket-congress-leader-rejects-masoods-religious-bias-charge-over-siraj/articleshow/136069976.cms",
-      "time": "2026-11-22T08:26:38",
-      "country": "India",
-      "title_ur": "'کرکٹ میں نفرت کی کوئی جگہ نہیں': کانگریس لیڈر نے سراج پر مسعود کے مذہبی تعصب کے الزام کو مسترد کیا",
-      "desc_ur": "نئی دہلی: کانگریس کے رہنما ممتاز پٹیل نے پارٹی کے ساتھی عمران مسعود کی جانب سے بھارتی انتخاب میں مذہبی امتیاز کے الزامات کو مسترد کر دیا۔"
+      "url": "https://timesofindia.indiatimes.com/india/rahul-clarifies-after-allies-criticise-remark-on-hamas-and-israel/articleshow/136083458.cms",
+      "time": "2026-11-22T21:09:39",
+      "country": "Israel",
+      "title_ur": "حماس اور اسرائیل پر اتحادیوں کی تنقید کے بعد راہل گاندھی نے 'وضاحت' کی۔",
+      "desc_ur": "نئی دہلی: اسرائیل کے ساتھ ہندوستان کے تعلقات کے بارے میں راہول گاندھی کے بیان پر تنقید کے درمیان مہاتما گاندھی کے پڑپوتے تشار گاندھی نے اتوار کو"
     },
     {
-      "title": "2026 SkS Weekly Climate Change & Global Warming News Roundup #47",
-      "desc": "A listing of 28 news and opinion articles we found interesting and shared on social media during the past week: Sun, November 15, 2026 thru Sat, November 21, 2026.\nStories we promoted this week, by category:\nClimate Policy and Politics (7 items)\n<ul>\n<li>Timi…",
-      "source": "Skepticalscience.com",
-      "url": "https://skepticalscience.com/2026-SkS-Weekly-News-Roundup_47.html",
-      "time": "2026-11-22T08:24:20",
+      "title": "Ossoff's broad and decisive Senate win fuels 2028 speculation",
+      "desc": "Democratic Sen. Jon Ossoff's commanding victory in Georgia relied on a broad coalition, and this is fueling 2028 presidential interest in him, even though he says he'll be in the Senate for the next six years.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/jon-ossoff-2028-presidential-speculation-after-georgia-win/",
+      "time": "2026-11-22T21:06:12",
       "country": "International",
-      "title_ur": "2026 SkS ہفتہ وار موسمیاتی تبدیلی اور گلوبل وارمنگ نیوز راؤنڈ اپ #47",
-      "desc_ur": "گزشتہ ہفتے کے دوران ہمیں سوشل میڈیا پر دلچسپ اور شیئر کیے گئے 28 خبروں اور آراء مضامین کی فہرست: اتوار، 15 نومبر 2026 سے ہفتہ، 21 نومبر، 2026 تک۔\nوہ کہانیاں جو ہم نے اس ہفتے پروموٹ کی ہیں، زمرہ کے لحاظ سے:\nموسمیاتی پالیسی اور سیاست (7 آئٹمز)\n<ul>\n<li>Timi…"
+      "title_ur": "اوسوف کی وسیع اور فیصلہ کن سینیٹ جیت 2028 کی قیاس آرائیوں کو ہوا دیتی ہے۔",
+      "desc_ur": "جارجیا میں ڈیموکریٹک سینیٹر جون اوسوف کی کمانڈنگ فتح کا انحصار ایک وسیع اتحاد پر تھا، اور یہ ان میں 2028 کی صدارتی دلچسپی کو ہوا دے رہا ہے، حالانکہ ان کا کہنا ہے کہ وہ اگلے چھ سال تک سینیٹ میں رہیں گے۔"
+    },
+    {
+      "title": "Why I’m leaving Berkeley: Lefty groupthink smothers college excellence",
+      "desc": "I’m moving because Berkeley, like its peers, has declined from a daring, risk-taking center of higher learning to one that wallows contentedly in a monoculture of liberalism.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/11/22/opinion/why-im-leaving-berkeley-leftists-smother-college-excellence/",
+      "time": "2026-11-22T21:06:07",
+      "country": "US",
+      "title_ur": "میں برکلے کو کیوں چھوڑ رہا ہوں: لیفٹی گروپ تھنک نے کالج ایکسیلنس کو خراب کیا۔",
+      "desc_ur": "میں آگے بڑھ رہا ہوں کیونکہ برکلے، اپنے ہم عصروں کی طرح، اعلیٰ تعلیم کے ایک جرات مندانہ، خطرہ مول لینے والے مرکز سے ہٹ کر لبرل ازم کی یک ثقافت میں مطمئن ہو کر رہ گیا ہے۔"
+    },
+    {
+      "title": "Yacon di Ketinggian 1,800 m FOS Tertinggi dengan Tuaian 8 Bulan dan Simpanan 5°C",
+      "desc": "Pengenalan Yacon (Smallanthus sonchifolius) ialah tanaman ubi dari kawasan Andes yang menarik minat kerana ubi",
+      "source": "Fazlisyam.com",
+      "url": "https://fazlisyam.com/yacon-di-ketinggian-1800-m-fos-tertinggi-dengan-tuaian-8-bulan-dan-simpanan-5c/",
+      "time": "2026-11-22T21:06:00",
+      "country": "US",
+      "title_ur": "Yacon di Ketinggian 1,800 m FOS Tertinggi dengan Tuaian 8 Bulan dan Simpanan 5°C",
+      "desc_ur": "Pengenalan Yacon (Smallanthus sonchifolius) ialah tanaman ubi dari kawasan Andes yang menarik minat kerana ubi"
+    },
+    {
+      "title": "Maharashtra govt releases Rs 1,950 crore for National Spot Exchange Ltd scam victims",
+      "desc": "Maharashtra govt releases Rs 1,950 crore from attached assets for NSEL scam victims; over 5,000 investors to receive one-time settlement payout on Monday.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/maharashtra-govt-releases-rs-1950-crore-for-national-spot-exchange-ltd-scam-victims/articleshow/136081287.cms",
+      "time": "2026-11-22T21:05:00",
+      "country": "International",
+      "title_ur": "مہاراشٹر حکومت نے نیشنل اسپاٹ ایکسچینج لمیٹڈ گھوٹالہ متاثرین کے لیے 1,950 کروڑ روپے جاری کیے ہیں۔",
+      "desc_ur": "مہاراشٹر حکومت نے NSEL اسکام متاثرین کے لیے منسلک اثاثوں سے 1,950 کروڑ روپے جاری کیے؛ پیر کو 5,000 سے زیادہ سرمایہ کاروں کو یک وقتی تصفیہ ادائیگی موصول ہوگی۔"
+    },
+    {
+      "title": "As Beijing's AI Ambitions Grow, Republican Congressman Says Trump's Nvidia Chip Sales Means 'We Are Arming China'",
+      "desc": "Rep. Michael McCaul criticized the reported approval of nearly 900,000 advanced AI chips for shipment to China.",
+      "source": "Radaronline.com",
+      "url": "https://radaronline.com/p/republican-congressman-sounds-alarm-over-trumps-nvidia-chip-sales-as-beijings-ai-ambitions-grow-we-are-arming-china/",
+      "time": "2026-11-22T21:00:27",
+      "country": "China",
+      "title_ur": "جیسے جیسے بیجنگ کے اے آئی کے عزائم بڑھ رہے ہیں، ریپبلکن کانگریس مین کا کہنا ہے کہ ٹرمپ کی نیوڈیا چپ کی فروخت کا مطلب ہے 'ہم چین کو مسلح کر رہے ہیں'",
+      "desc_ur": "نمائندہ مائیکل میک کاول نے چین کو کھیپ کے لیے تقریباً 900,000 ایڈوانسڈ AI چپس کی مبینہ منظوری پر تنقید کی۔"
+    },
+    {
+      "title": "Relief for over 3,000 flat buyers as National Consumer Disputes Redressal Commission holds developer of Mumbai project guilty of deficiency in service for decade-long delay in possession",
+      "desc": "NCDRC finds Mumbai’s DB Ozone developer guilty of service deficiency for decade-long delay, orders possession in 3 months, 6% interest, refunds, amenities.",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/relief-for-over-3000-flat-buyers-as-national-consumer-disputes-redressal-commission-holds-developer-of-mumbai-project-guilty-of-deficiency-in-service-for-decade-long-delay-in-possession/articleshow/136081215.cms",
+      "time": "2026-11-22T20:49:00",
+      "country": "International",
+      "title_ur": "3,000 سے زیادہ فلیٹ خریداروں کے لیے ریلیف کیونکہ قومی صارف تنازعات کے ازالے کے کمیشن نے ممبئی پروجیکٹ کے ڈویلپر کو قبضے میں دہائی طویل تاخیر کے لیے سروس میں کوتاہی کا قصوروار ٹھہرایا",
+      "desc_ur": "این سی ڈی آر سی نے ممبئی کے ڈی بی اوزون ڈویلپر کو دہائی کی تاخیر کے لیے سروس کی کمی کا قصوروار پایا، 3 ماہ میں قبضے کا حکم، 6% سود، رقم کی واپسی، سہولیات۔"
+    },
+    {
+      "title": "Liz Cambage’s hidden struggles: Former WNBA star opens up about teenage drinking at 15 and depression",
+      "desc": "Liz Cambage opened up about her struggles with alcohol and mental health in a 2019 Players' Tribune essay. She revealed that her drinking began around 15 and her first attempt at sobriety came at 18. The former WNBA star also described her battle with anxiety…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/sports/international-sports/liz-cambages-hidden-struggles-former-wnba-star-opens-up-about-teenage-drinking-at-15-and-depression/articleshow/136083379.cms",
+      "time": "2026-11-22T20:44:06",
+      "country": "International",
+      "title_ur": "لِز کیمبیج کی چھپی ہوئی جدوجہد: سابق ڈبلیو این بی اے اسٹار نے 15 سال کی عمر میں نوعمر شراب نوشی اور افسردگی کے بارے میں بات کی۔",
+      "desc_ur": "لز کیمبیج نے 2019 کے پلیئرز ٹریبیون کے مضمون میں الکحل اور ذہنی صحت کے ساتھ اپنی جدوجہد کے بارے میں بات کی۔ اس نے انکشاف کیا کہ اس کی شراب نوشی 15 کے لگ بھگ شروع ہوئی تھی اور اس کی پہلی کوشش 18 سال کی عمر میں ہوئی تھی۔"
     }
   ],
-  "pakistan": [
-    {
-      "title": "Lahore tops global pollution ranking again as AQI crosses 500, eight Pakistan cities among worst",
-      "desc": "Lahore once again ranked as the world's most polluted major city on Sunday morning, with its Air Quality Index (AQI) reaching 538, placing it in the",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/pakistan/lahore-tops-global-pollution-ranking-again-as-aqi-crosses-500-eight-pakistan-cities-among-worst/articleshow/136069602.cms",
-      "time": "2026-11-22T07:33:22",
-      "country": "Pakistan",
-      "title_ur": "لاہور ایک بار پھر عالمی آلودگی کی درجہ بندی میں سرفہرست، AQI 500 سے تجاوز کر گیا، پاکستان کے آٹھ شہر بدترین",
-      "desc_ur": "لاہور ایک بار پھر اتوار کی صبح دنیا کے سب سے زیادہ آلودہ بڑے شہر کے طور پر درجہ بندی کر گیا، اس کا ایئر کوالٹی انڈیکس (AQI) 538 تک پہنچ گیا، جس نے اسے دنیا کے سب سے زیادہ آلودہ شہر قرار دیا۔"
-    },
-    {
-      "title": "India A vs Pakistan Shaheens ACC Men's Asia Cup Rising Stars score, toss winner, winning probability, result and highlights from Doha",
-      "desc": "Here are all the updates for the India A vs Pakistan A in the Shaheen ACC Men's Asia Cup",
-      "source": "Cricketnews.com",
-      "url": "https://www.cricketnews.com/en/cricket/news/india-vs-pakistan-asia-cup-rising-stars-score-result-highlights/c611ef8b141b0bdc54ba4c70",
-      "time": "2026-11-22T06:56:51",
-      "country": "Pakistan",
-      "title_ur": "انڈیا اے بمقابلہ پاکستان شاہین اے سی سی مینز ایشیا کپ رائزنگ سٹارز اسکور، ٹاس جیتنے والا، جیتنے کا امکان، نتیجہ اور دوحہ سے جھلکیاں",
-      "desc_ur": "شاہین اے سی سی مینز ایشیا کپ میں انڈیا اے بمقابلہ پاکستان اے کے تمام اپ ڈیٹس یہ ہیں۔"
-    }
-  ],
+  "pakistan": [],
   "business": {
     "quote": "Time is more valuable than money. You can get more money, but you cannot get more time.",
     "author": "Jim Rohn",
@@ -184,28 +163,19 @@
     "city_ur": "لاہور",
     "forecast": [
       {
-        "date": "2026-11-23",
-        "day": "پیر",
-        "high": 24,
-        "low": 13,
-        "condition": "Clear",
-        "condition_ur": "صاف",
-        "precip": 0
-      },
-      {
         "date": "2026-11-24",
         "day": "منگل",
-        "high": 24,
-        "low": 12,
-        "condition": "Overcast",
-        "condition_ur": "ابر آلود",
+        "high": 25,
+        "low": 13,
+        "condition": "Partly Cloudy",
+        "condition_ur": "جزوی ابر آلود",
         "precip": 0
       },
       {
         "date": "2026-11-25",
         "day": "بدھ",
-        "high": 24,
-        "low": 11,
+        "high": 25,
+        "low": 12,
         "condition": "Clear",
         "condition_ur": "صاف",
         "precip": 0
@@ -213,8 +183,8 @@
       {
         "date": "2026-11-26",
         "day": "جمعرات",
-        "high": 24,
-        "low": 12,
+        "high": 25,
+        "low": 13,
         "condition": "Clear",
         "condition_ur": "صاف",
         "precip": 0
@@ -222,7 +192,7 @@
       {
         "date": "2026-11-27",
         "day": "جمعہ",
-        "high": 24,
+        "high": 25,
         "low": 12,
         "condition": "Clear",
         "condition_ur": "صاف",
@@ -242,15 +212,24 @@
         "day": "اتوار",
         "high": 24,
         "low": 12,
-        "condition": "Mainly Clear",
-        "condition_ur": "زیادہ تر صاف",
+        "condition": "Clear",
+        "condition_ur": "صاف",
+        "precip": 0
+      },
+      {
+        "date": "2026-11-30",
+        "day": "پیر",
+        "high": 24,
+        "low": 12,
+        "condition": "Partly Cloudy",
+        "condition_ur": "جزوی ابر آلود",
         "precip": 0
       }
     ]
   },
   "date": {
-    "gregorian": "Monday, 23 November 2026",
-    "hijri": "13 Jumādá al-ākhirah 1448",
-    "hijri_ur": "13 جُمادى الآخرة 1448"
+    "gregorian": "Tuesday, 24 November 2026",
+    "hijri": "14 Jumādá al-ākhirah 1448",
+    "hijri_ur": "14 جُمادى الآخرة 1448"
   }
 }
