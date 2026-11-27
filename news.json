@@ -1,237 +1,187 @@
 {
-  "generated": "2026-11-27T03:26:02Z",
+  "generated": "2026-11-27T12:54:44Z",
   "world": [
     {
-      "title": "Israel slams UN over Iran's committee seat: The hypocrisy is obscene",
-      "desc": "Israel condemns the UN for reelecting Iran to a key committee, highlighting the regime's flogging of a female singer for performing without a hijab.",
+      "title": "Police restrict protests outside Matan Kahana's home",
+      "desc": "Im Tirtzu movement says police imposing unusual restrictions on protests outside the home of Knesset Speaker Matan Kahana, threatens legal action.",
       "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/flashes/698609",
-      "time": "2026-11-26T03:25:15",
+      "url": "https://www.israelnationalnews.com/news/437197",
+      "time": "2026-11-26T12:38:47",
+      "country": "US",
+      "title_ur": "پولیس نے متن کہنہ کے گھر کے باہر احتجاج کو محدود کر دیا۔",
+      "desc_ur": "ام ترتزو موومنٹ کا کہنا ہے کہ پولیس کی جانب سے کنیسٹ سپیکر متان کہانہ کے گھر کے باہر ہونے والے مظاہروں پر غیرمعمولی پابندیاں عائد کرنے سے قانونی کارروائی کی دھمکی ہے۔"
+    },
+    {
+      "title": "Macy’s faces staggering $1.7M loss just to blow up parade balloons again — as helium prices soar",
+      "desc": "Helium costs have spiked 40% since last year, making balloon refills pricey.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/11/26/lifestyle/macys-faces-1-7m-loss-to-blow-up-parade-balloons-again/",
+      "time": "2026-11-26T12:37:41",
+      "country": "US",
+      "title_ur": "ہیلیئم کی قیمتوں میں اضافے کے ساتھ ہی پریڈ کے غبارے دوبارہ اڑانے کے لیے میسی کو $1.7M کا حیران کن نقصان اٹھانا پڑا",
+      "desc_ur": "گزشتہ سال سے ہیلیم کی قیمتوں میں 40 فیصد اضافہ ہوا ہے، جس سے غبارے کی ریفلز مہنگی ہو گئی ہیں۔"
+    },
+    {
+      "title": "Erdoğan chairs 2026’s last security board meeting",
+      "desc": "Türkiye’s top security board convened for the final time in 2026 under the leadership of President Recep Tayyip Erdoğan, focusing on the implementation of the “terror-free Türkiye” project through a review of defense and intelligence reports.",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/erdogan-chairs-2026s-last-security-board-meeting-229880",
+      "time": "2026-11-26T12:34:24",
+      "country": "US",
+      "title_ur": "ایردوان 2026 کے آخری سیکورٹی بورڈ کے اجلاس کی صدارت کر رہے ہیں۔",
+      "desc_ur": "2026 میں صدر رجب طیب ایردوان کی سربراہی میں ترکی کے اعلیٰ ترین سیکورٹی بورڈ کا اجلاس ہوا، جس میں دفاع اور انٹیلی جنس رپورٹس کے جائزے کے ذریعے \"دہشت گردی سے پاک ترکی\" منصوبے کے نفاذ پر توجہ مرکوز کی گئی۔"
+    },
+    {
+      "title": "Europe’s Economic Sovereignty Is All Talk and Little Action",
+      "desc": "The continent’s reliance on the United States has surged despite all promises to diversify.",
+      "source": "Foreign Policy",
+      "url": "https://foreignpolicy.com/2026/11/26/eu-europe-economic-security-sovereignty-derisking-decoupling-dependence-united-states-china/",
+      "time": "2026-11-26T12:33:15",
+      "country": "US",
+      "title_ur": "یورپ کی اقتصادی خودمختاری تمام باتیں اور چھوٹی کارروائی ہے۔",
+      "desc_ur": "متنوع بنانے کے تمام وعدوں کے باوجود براعظم کا امریکہ پر انحصار بڑھ گیا ہے۔"
+    },
+    {
+      "title": "Oil Prices Rebound as Middle East Supply Fears Return",
+      "desc": "January WTI crude oil futures recovered from a three-month low this week as renewed concern over Middle East supply brought buyers back into the market. Prices had fallen early in the week as traders focused on the prospect of a global surplus. The selling sl…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Rebound-as-Middle-East-Supply-Fears-Return.html",
+      "time": "2026-11-26T12:30:00",
+      "country": "US",
+      "title_ur": "مشرق وسطیٰ میں سپلائی کی واپسی کے خدشے کے باعث تیل کی قیمتوں میں تیزی",
+      "desc_ur": "جنوری ڈبلیو ٹی آئی خام تیل کا مستقبل اس ہفتے تین ماہ کی کم ترین سطح سے برآمد ہوا کیونکہ مشرق وسطیٰ کی سپلائی پر نئی تشویش نے خریداروں کو دوبارہ مارکیٹ میں لایا۔ ہفتے کے اوائل میں قیمتیں گر گئی تھیں کیونکہ تاجروں نے عالمی سرپلس کے امکان پر توجہ مرکوز کی تھی۔ فروخت ہونے والی ایس ایل…"
+    },
+    {
+      "title": "Meeting of 28-29 October 2026",
+      "desc": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "Europa.eu",
+      "url": "https://www.ecb.europa.eu/press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html",
+      "time": "2026-11-26T12:30:00",
+      "country": "Europe",
+      "title_ur": "28-29 اکتوبر 2026 کی میٹنگ",
+      "desc_ur": "یورپی مرکزی بینک (ECB) یورپی یونین کے ممالک کا مرکزی بینک ہے جس نے یورو کو اپنایا ہے۔ ہمارا بنیادی کام یورو کے علاقے میں قیمت کے استحکام کو برقرار رکھنا ہے اور اس طرح واحد کرنسی کی قوت خرید کو محفوظ رکھنا ہے۔"
+    },
+    {
+      "title": "Iran Says LNG Carrier Exploded After Hitting a Mine in Hormuz",
+      "desc": "An LNG vessel has caught fire and exploded after hitting a naval mine in the Strait of Hormuz during an attempt to transit on a route deemed “illegal” by Iran, the Islamic Revolutionary Guard Corps (IRGC) Navy said in the latest communication of a tanker inci…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Says-LNG-Carrier-Exploded-After-Hitting-a-Mine-in-Hormuz.html",
+      "time": "2026-11-26T12:30:00",
       "country": "Iran",
-      "title_ur": "ایران کی کمیٹی کی نشست پر اسرائیل نے اقوام متحدہ پر تنقید کی: منافقت فحش ہے۔",
-      "desc_ur": "اسرائیل نے ایک اہم کمیٹی کے لیے ایران کو دوبارہ منتخب کرنے پر اقوام متحدہ کی مذمت کی ہے، جس میں حکومت کی جانب سے ایک خاتون گلوکارہ کو حجاب کے بغیر پرفارم کرنے پر کوڑے مارے جانے پر روشنی ڈالی گئی ہے۔"
+      "title_ur": "ایران کا کہنا ہے کہ ایل این جی کیریئر ہرمز میں بارودی سرنگ سے ٹکرانے کے بعد پھٹ گیا۔",
+      "desc_ur": "ایران کی طرف سے \"غیر قانونی\" سمجھے جانے والے راستے پر ٹرانزٹ کی کوشش کے دوران آبنائے ہرمز میں بحریہ کی ایک کان سے ٹکرانے کے بعد ایل این جی کے ایک جہاز میں آگ لگ گئی اور وہ پھٹ گیا، اسلامی انقلابی گارڈ کور (IRGC) بحریہ نے ایک ٹینکر کی تازہ ترین بات چیت میں کہا کہ…"
     },
     {
-      "title": "Nepal: Predatory Lending Abuses Exacerbated by Conflict in the Gulf",
-      "desc": "Click to expand Image\n \n\n\n\n \n \n \n\n \n \n \n \n Loan shark victims demand justice after 38 days of protest in Kathmandu, Nepal, March 7, 2024.\n © 2024 Skanda Gautam/SOPA Images/Sipa via AP Photo\n \n \n\n\n \nThousands of borrowers face exorbitant interest on fraudulent…",
-      "source": "Human Rights Watch",
-      "url": "https://www.hrw.org/news/2026/11/25/nepal-predatory-lending-abuses-exacerbated-by-conflict-in-the-gulf",
-      "time": "2026-11-26T03:15:00",
+      "title": "Ministry of Defence signs £8.7bn deal with Babcock to maintain submarines",
+      "desc": "Wes Streeting says deal will ‘get our subs out of the docks and into the sea faster’ amid scrutiny of nuclear deterrent\nUK politics live – latest updates\nBusiness live – latest updates\nThe Ministry of Defence has signed an £8.7bn contract with defence company…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/63ab37b20f5c2546",
+      "time": "2026-11-26T12:22:02",
+      "country": "UK",
+      "title_ur": "وزارت دفاع نے آبدوزوں کو برقرار رکھنے کے لیے بابکاک کے ساتھ £8.7 بلین کے معاہدے پر دستخط کیے ہیں۔",
+      "desc_ur": "ویس اسٹریٹنگ کا کہنا ہے کہ جوہری روک تھام کی جانچ پڑتال کے درمیان معاہدہ 'ہمارے ذیلی افراد کو ڈاک سے باہر اور سمندر میں تیزی سے لے جائے گا'\nبرطانیہ کی سیاست لائیو - تازہ ترین اپ ڈیٹس\nبزنس لائیو - تازہ ترین اپ ڈیٹس\nوزارت دفاع نے دفاعی کمپنی کے ساتھ £8.7 بلین کا معاہدہ کیا ہے…"
+    },
+    {
+      "title": "Antisemitism adviser to launch inquiry into ‘hostile work environment’ at BBC",
+      "desc": "John Mann says decision comes after hearing ‘disturbing’ accounts by Jewish staff about discrimination against them\nUK politics live – latest updates\nThe government’s independent adviser on antisemitism has said he is launching an investigation into the BBC a…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/1a7a1be31c83d2b7",
+      "time": "2026-11-26T12:21:36",
+      "country": "UK",
+      "title_ur": "سام دشمنی کے مشیر بی بی سی میں 'مخالف کام کے ماحول' کے بارے میں انکوائری شروع کریں گے۔",
+      "desc_ur": "جان مان کا کہنا ہے کہ فیصلہ یہودی عملے کی طرف سے ان کے ساتھ امتیازی سلوک کے بارے میں 'پریشان کن' اکاؤنٹس سننے کے بعد آیا ہے۔\nبرطانیہ کی سیاست لائیو - تازہ ترین اپ ڈیٹس\nحکومت کے آزاد مشیر برائے سام دشمنی نے کہا ہے کہ وہ بی بی سی کی تحقیقات شروع کر رہے ہیں ایک…"
+    },
+    {
+      "title": "If politicians really want to cut heating bills they need to trust in green energy – businesses already are",
+      "desc": "There’s a selfish case for moving towards green energy. It will create savings, and businesses are already acknowledging this.",
+      "source": "The Conversation Africa",
+      "url": "https://theconversation.com/if-politicians-really-want-to-cut-heating-bills-they-need-to-trust-in-green-energy-businesses-already-are-297216",
+      "time": "2026-11-26T12:17:40",
       "country": "US",
-      "title_ur": "نیپال: شکاری قرضے کی زیادتیاں خلیج میں تنازعات کی وجہ سے بڑھ گئیں۔",
-      "desc_ur": "تصویر کو پھیلانے کے لیے کلک کریں۔\n \n\n\n\n \n \n \n\n \n \n \n \n 7 مارچ 2024 کو نیپال کے کھٹمنڈو میں 38 دن کے احتجاج کے بعد لون شارک متاثرین انصاف کا مطالبہ کر رہے ہیں۔\n © 2024 سکندا گوتم/SOPA امیجز/سیپا بذریعہ اے پی فوٹو\n \n \n\n\n \nہزاروں قرض دہندگان کو دھوکہ دہی پر بہت زیادہ سود کا سامنا ہے…"
+      "title_ur": "اگر سیاست دان واقعی حرارتی بلوں کو کم کرنا چاہتے ہیں تو انہیں گرین انرجی پر بھروسہ کرنے کی ضرورت ہے - کاروبار پہلے ہی موجود ہیں۔",
+      "desc_ur": "سبز توانائی کی طرف بڑھنے کا ایک خود غرض معاملہ ہے۔ یہ بچت پیدا کرے گا، اور کاروبار پہلے ہی اس کا اعتراف کر رہے ہیں۔"
     },
     {
-      "title": "2/23/27: SF History Night | Pacific Heights - $10",
-      "desc": "Submitted by the Event OrganizerSF History Night | Pacific Heights\nSherith Israel circa 1910 via OpenSFHistory\nThe San Francisco History Association hosts monthly talks which explore our city’s enchanting history in depth.\nEach month, a local history expert h…",
-      "source": "Funcheap.com",
-      "url": "https://sf.funcheap.com/sf-history-night-pacific-heights-103/",
-      "time": "2026-11-26T03:14:25",
-      "country": "Israel",
-      "title_ur": "2/23/27: SF تاریخ کی رات | پیسیفک ہائٹس - $10",
-      "desc_ur": "ایونٹ آرگنائزر ایس ایف ہسٹری نائٹ کی طرف سے پیش کیا گیا | پیسیفک ہائٹس\nشیرتھ اسرائیل سرکا 1910 بذریعہ اوپن ایس ایف ہسٹری\nسان فرانسسکو ہسٹری ایسوسی ایشن ماہانہ مذاکروں کی میزبانی کرتی ہے جو ہمارے شہر کی پرفتن تاریخ کو گہرائی سے دریافت کرتی ہے۔\nہر ماہ ایک مقامی تاریخ کا ماہر..."
-    },
-    {
-      "title": "1/26/27: SF History Night | Pacific Heights - $10",
-      "desc": "Submitted by the Event OrganizerSF History Night | Pacific Heights\nSherith Israel circa 1910 via OpenSFHistory\nThe San Francisco History Association hosts monthly talks which explore our city’s enchanting history in depth.\nEach month, a local history expert h…",
-      "source": "Funcheap.com",
-      "url": "https://sf.funcheap.com/sf-history-night-pacific-heights-102/",
-      "time": "2026-11-26T03:14:24",
-      "country": "Israel",
-      "title_ur": "1/26/27: SF تاریخ کی رات | پیسیفک ہائٹس - $10",
-      "desc_ur": "ایونٹ آرگنائزر ایس ایف ہسٹری نائٹ کی طرف سے پیش کیا گیا | پیسیفک ہائٹس\nشیرتھ اسرائیل سرکا 1910 بذریعہ اوپن ایس ایف ہسٹری\nسان فرانسسکو ہسٹری ایسوسی ایشن ماہانہ مذاکروں کی میزبانی کرتی ہے جو ہمارے شہر کی پرفتن تاریخ کو گہرائی سے دریافت کرتی ہے۔\nہر ماہ ایک مقامی تاریخ کا ماہر..."
-    },
-    {
-      "title": "Norse Atlantic Confirms All Operations Suspended As Airline Teeters on the Edge of Bankruptcy",
-      "desc": "Hours after beleaguered low-cost, long-haul airline Norse Atlantic unexpectedly suspended operations on Wednesday night, the carrier has now confirmed that all flights are cancelled as it races to secure short-term financing to keep the company afloat. In an …",
-      "source": "Paddle Your Own Kanoo",
-      "url": "https://www.paddleyourownkanoo.com/2026/11/26/norse-atlantic-confirms-all-operations-suspended-as-airline-teeters-on-the-edge-of-bankruptcy/",
-      "time": "2026-11-26T03:13:56",
+      "title": "Qatar Is Forging Ahead With Film and TV Industry Plan, Undeterred by Regional Turbulence",
+      "desc": "Undeterred by regional turbulence, Qatar is forging ahead with its plan to build a film and TV industry that intends to put the tiny Arab state rich in oil and gas on the global entertainment map. That is the main takeaway of the recently concluded second edi…",
+      "source": "Variety",
+      "url": "https://variety.com/2026/film/global/qatar-film-tv-industry-regional-turbulence-1236958826/",
+      "time": "2026-11-26T12:17:28",
       "country": "US",
-      "title_ur": "نورس اٹلانٹک نے دیوالیہ پن کے کنارے پر ایئر لائن ٹیٹرز کے طور پر تمام آپریشنز معطل کرنے کی تصدیق کی",
-      "desc_ur": "کم لاگت والی، طویل فاصلے کی ایئر لائن نورس اٹلانٹک کے بدھ کی رات کو غیر متوقع طور پر آپریشن معطل کرنے کے چند گھنٹے بعد، کیریئر نے اب تصدیق کی ہے کہ تمام پروازیں منسوخ کر دی گئی ہیں کیونکہ وہ کمپنی کو برقرار رکھنے کے لیے قلیل مدتی فنانسنگ حاصل کرنے کی دوڑ میں ہے۔ ایک میں…"
+      "title_ur": "قطر فلم اور ٹی وی انڈسٹری کے منصوبے کے ساتھ آگے بڑھ رہا ہے، علاقائی انتشار سے بے نیاز",
+      "desc_ur": "علاقائی انتشار سے بے خوف، قطر ایک فلم اور ٹی وی انڈسٹری کی تعمیر کے اپنے منصوبے کے ساتھ آگے بڑھ رہا ہے جو تیل اور گیس سے مالا مال اس چھوٹی عرب ریاست کو عالمی تفریحی نقشے پر ڈالنے کا ارادہ رکھتی ہے۔ یہ حال ہی میں ختم ہونے والی دوسری ایڈی کا اہم راستہ ہے…"
     },
     {
-      "title": "Nene Korabo IV Urges Revamping Of Tourist Sites For GDP Growth",
-      "desc": "A prominent Ghanaian traditional and religious leader, Nene Dr Tiedjanhene Korabo IV, has called on African governments to invest in the rehabilitation and development of tourist centres to boost economic growth and increase the continent’s contribution to gl…",
-      "source": "Thechronicle.com.gh",
-      "url": "https://thechronicle.com.gh/nene-korabo-iv-urges-revamping-of-tourist-sites-for-gdp-growth/",
-      "time": "2026-11-26T03:07:49",
-      "country": "US",
-      "title_ur": "نینی کورابو چہارم نے جی ڈی پی کی ترقی کے لیے سیاحتی مقامات کی اصلاح پر زور دیا۔",
-      "desc_ur": "گھانا کے ایک ممتاز روایتی اور مذہبی رہنما، نین ڈاکٹر ٹائیڈ جانہنے کورابو چہارم، نے افریقی حکومتوں سے مطالبہ کیا ہے کہ وہ سیاحتی مراکز کی بحالی اور ترقی میں سرمایہ کاری کریں تاکہ اقتصادی ترقی کو فروغ دیا جا سکے اور براعظم کی اقتصادی ترقی میں شراکت میں اضافہ کیا جا سکے۔"
+      "title": "Houthi Attacks Gut Riyadh’s Peak Season",
+      "desc": "Riyadh’s fourth quarter runs on international corporate and event demand that flies in, and the missile strikes hit that badly. Domestic demand can’t fill the gap, so hotels will trade rate for occupancy in the quarter that in normal times supports their stro…",
+      "source": "Skift",
+      "url": "https://skift.com/2026/11/26/houthi-attacks-gut-riyadhs-peak-season/",
+      "time": "2026-11-26T12:14:10",
+      "country": "Saudi Arabia",
+      "title_ur": "حوثیوں نے گٹ ریاض کے چوٹی کے موسم پر حملہ کیا۔",
+      "desc_ur": "ریاض کی چوتھی سہ ماہی بین الاقوامی کارپوریٹ اور ایونٹ ڈیمانڈ پر چلتی ہے جو اڑتی ہے، اور میزائل حملوں نے اسے بری طرح متاثر کیا۔ گھریلو طلب اس خلا کو پُر نہیں کر سکتی، اس لیے ہوٹلز اس سہ ماہی میں قبضے کے لیے شرح تجارت کریں گے جو عام اوقات میں ان کے اسٹرو کو سپورٹ کرتی ہے…"
     },
     {
-      "title": "COP31: Will Countries Finally Deliver on Past Promises?",
-      "desc": "COP31 marks a critical juncture in the global effort to translate diplomatic pledges into tangible climate action.\nThe post COP31: Will Countries Finally Deliver on Past Promises? appeared first on The Good Men Project.",
-      "source": "The Good Men Project",
-      "url": "https://goodmenproject.com/featured-content/cop31-will-countries-finally-deliver-on-past-promises/",
-      "time": "2026-11-26T03:00:33",
-      "country": "International",
-      "title_ur": "COP31: کیا آخر کار ممالک ماضی کے وعدوں کو پورا کریں گے؟",
-      "desc_ur": "COP31 سفارتی وعدوں کو ٹھوس آب و ہوا کی کارروائی میں ترجمہ کرنے کی عالمی کوشش میں ایک اہم موڑ کی نشاندہی کرتا ہے۔\nThe post COP31: کیا آخر کار ممالک ماضی کے وعدوں کو پورا کریں گے؟ دی گڈ مین پروجیکٹ پر سب سے پہلے شائع ہوا۔"
+      "title": "‘Symbolic’: Why did UK sanction Yemen’s Houthis amid attacks on Saudi?",
+      "desc": "UK sanctions Iran-backed group and its leaders, accusing them of undermining stability in the Middle East.",
+      "source": "Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/11/26/symbolic-why-did-uk-sanction-yemens-houthis-amid-attacks-on-saudi",
+      "time": "2026-11-26T12:10:49",
+      "country": "Iran",
+      "title_ur": "'علامتی': سعودی پر حملوں کے درمیان برطانیہ نے یمن کے حوثیوں پر پابندی کیوں لگائی؟",
+      "desc_ur": "برطانیہ نے ایران کے حمایت یافتہ گروپ اور اس کے رہنماؤں پر مشرق وسطیٰ میں استحکام کو نقصان پہنچانے کا الزام لگاتے ہوئے پابندیاں عائد کر دیں۔"
     },
     {
-      "title": "Pentagon Plans to Pollute Iowa with Lead Azide",
-      "desc": "US military has a history of testing weapons and dumping toxic waste on an unsuspecting public.",
-      "source": "Substack.com",
-      "url": "https://michelchossudovsky.substack.com/p/pentagon-plans-pollute-iowa-lead-azide",
-      "time": "2026-11-26T02:55:07",
-      "country": "US",
-      "title_ur": "پینٹاگون لیڈ ایزائڈ کے ساتھ آئیووا کو آلودہ کرنے کا ارادہ رکھتا ہے۔",
-      "desc_ur": "امریکی فوج کے پاس ہتھیاروں کی جانچ کرنے اور زہریلے فضلے کو غیر مشکوک عوام پر پھینکنے کی تاریخ ہے۔"
+      "title": "Asian countries race to contain rising inflation",
+      "desc": "South Korea’s central bank raised rates to the highest level in more than two years, joining other Asian countries in moving to contain persistent inflation driven by the Iran war. Compounding the challenge, a market sell-off and high borrowing costs have hit…",
+      "source": "Biztoc.com",
+      "url": "https://biztoc.com/x/eff75fe69b9f4f99",
+      "time": "2026-11-26T12:07:20",
+      "country": "Iran",
+      "title_ur": "ایشیائی ممالک بڑھتی ہوئی مہنگائی پر قابو پانے کی دوڑ میں لگے ہوئے ہیں۔",
+      "desc_ur": "جنوبی کوریا کے مرکزی بینک نے دو سال سے زیادہ کی بلند ترین سطح پر شرحیں بڑھا دی ہیں، ایران جنگ کی وجہ سے مسلسل افراط زر پر قابو پانے کے لیے دوسرے ایشیائی ممالک میں شامل ہو کر۔ چیلنج کو بڑھاتے ہوئے، مارکیٹ میں فروخت اور قرض لینے کے زیادہ اخراجات نے متاثر کیا ہے…"
     },
     {
-      "title": "26/11 Mumbai Attacks: Memories, scars remain alive 18 years on; Eyewitnesses recount horror",
-      "desc": "Eighteen years after the 2008 terror attacks that shook Mumbai and exposed glaring lacunae in India's security and intelligence apparatus, the horrors of the 60-hour assault and bloodletting remain etched in public memory. The November 26, 2008 attacks, carri…",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/india/26/11-mumbai-attacks-memories-scars-remain-alive-18-years-on-eyewitnesses-recount-horror/videoshow/136176916.cms",
-      "time": "2026-11-26T02:54:13",
-      "country": "India",
-      "title_ur": "26/11 ممبئی حملے: یادیں، نشانات 18 سال بعد بھی زندہ ہیں۔ عینی شاہدین نے ہولناکی بیان کی۔",
-      "desc_ur": "2008 کے دہشت گردانہ حملوں کے اٹھارہ سال بعد جس نے ممبئی کو ہلا کر رکھ دیا تھا اور ہندوستان کی سیکورٹی اور انٹیلی جنس کے آلات میں واضح خامیوں کو بے نقاب کر دیا تھا، 60 گھنٹے تک جاری رہنے والے حملے اور خونریزی کی ہولناکیاں عوام کی یادداشت میں محفوظ ہیں۔ 26 نومبر 2008 کے حملے، کیری…"
-    },
-    {
-      "title": "Judge temporarily blocks FCC from reviewing ABC's licenses",
-      "desc": "A federal judge blocked the FCC from moving forward with an early review of ABC's broadcast licenses, a move the network argues is an attempt by the Trump administration to punish speech it does not like.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/judge-temporarily-blocks-fcc-from-reviewing-abc-licenses/",
-      "time": "2026-11-26T02:53:50",
-      "country": "US",
-      "title_ur": "جج عارضی طور پر FCC کو ABC کے لائسنسوں کا جائزہ لینے سے روکتا ہے۔",
-      "desc_ur": "ایک وفاقی جج نے ایف سی سی کو اے بی سی کے نشریاتی لائسنس کے ابتدائی جائزے کے ساتھ آگے بڑھنے سے روک دیا، نیٹ ورک کا کہنا ہے کہ یہ اقدام ٹرمپ انتظامیہ کی جانب سے ایسی تقریر کو سزا دینے کی کوشش ہے جسے وہ پسند نہیں کرتا ہے۔"
-    },
-    {
-      "title": "Anti-Israel protest targets Brooklyn kosher deli",
-      "desc": "Clashes erupt outside a Brooklyn kosher deli hosting an Israeli real estate event as hundreds of pro-Israel supporters confront anti-Israel demonstrators.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/437163",
-      "time": "2026-11-26T02:50:16",
-      "country": "Israel",
-      "title_ur": "اسرائیل مخالف مظاہروں نے بروکلین کوشر ڈیلی کو نشانہ بنایا",
-      "desc_ur": "بروکلین کوشر ڈیلی کے باہر جھڑپیں شروع ہو گئیں جو اسرائیل کے ایک رئیل اسٹیٹ ایونٹ کی میزبانی کر رہی ہے کیونکہ سینکڑوں اسرائیل کے حامی اسرائیل مخالف مظاہرین کا سامنا کر رہے ہیں۔"
-    },
-    {
-      "title": "Spirit of Tasmania imposed fuel surcharge despite lower fuel bill: Auditor-general",
-      "desc": "Tasmania's auditor-general says TT-Line's messaging about a 15 per cent fuel levy on Spirit of Tasmania fares was likely to mislead, but the ferry operator says looking at figures from one financial year doesn't capture the full impact of higher fuel prices.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-11-26/spirit-of-tasmania-fuel-surcharge-misleading-auditor-general/107425960",
-      "time": "2026-11-26T02:49:20",
-      "country": "International",
-      "title_ur": "اسپرٹ آف تسمانیہ نے ایندھن کے کم بل کے باوجود فیول سرچارج عائد کیا: آڈیٹر جنرل",
-      "desc_ur": "تسمانیہ کے آڈیٹر جنرل کا کہنا ہے کہ اسپرٹ آف تسمانیہ کے کرایوں پر 15 فیصد فیول لیوی کے بارے میں TT-Line کا پیغام گمراہ ہونے کا امکان تھا، لیکن فیری آپریٹر کا کہنا ہے کہ ایک مالی سال کے اعداد و شمار پر نظر ڈالنے سے ایندھن کی بلند قیمتوں کا مکمل اثر نہیں ہوتا۔"
-    },
-    {
-      "title": "Norse Atlantic’s financial woes deepen: Flights cancelled, IndiGo deal ends, takeover talks on",
-      "desc": "Norse Atlantic’s financial crisis worsened as shares plunged, flights were cancelled and the airline disclosed talks over short-term financing and a possible takeover. Its wet-lease agreement with IndiGo has ended, while PIA has shifted cancelled Norse-operat…",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/companies/news/norse-atlantic-s-financial-woes-deepen-flights-cancelled-indigo-deal-ends-takeover-talks-on-11795658948871.html",
-      "time": "2026-11-26T02:47:43",
-      "country": "International",
-      "title_ur": "نورس اٹلانٹک کی مالی پریشانیاں گہری: پروازیں منسوخ، انڈیگو ڈیل ختم، ٹیک اوور پر بات چیت",
-      "desc_ur": "نورس اٹلانٹک کا مالیاتی بحران مزید بگڑ گیا کیونکہ حصص ڈوب گئے، پروازیں منسوخ کر دی گئیں اور ایئر لائن نے مختصر مدت کی مالی اعانت اور ممکنہ قبضے پر بات چیت کا انکشاف کیا۔ انڈیگو کے ساتھ اس کا گیلے لیز کا معاہدہ ختم ہو گیا ہے، جبکہ پی آئی اے نے منسوخ شدہ نورس آپریٹ کو منتقل کر دیا ہے…"
-    },
-    {
-      "title": "Pressure grows on rising star Democrat to quit as governor over 'lies' about his military record: 'He should resign now'",
-      "desc": "Moore has faced accusations of embellishing a Bronze Star, misrepresenting his combat record and being called out for claiming he mourned the death of a soldier.",
-      "source": "Dailymail.com",
-      "url": "https://www.dailymail.com/news/article-16322745/Calls-Wes-Moore-resign-Maryland-governor.html",
-      "time": "2026-11-26T02:38:16",
-      "country": "US",
-      "title_ur": "ابھرتے ہوئے اسٹار ڈیموکریٹ پر اپنے فوجی ریکارڈ کے بارے میں 'جھوٹ' پر گورنر کے عہدے سے استعفیٰ دینے کے لیے دباؤ بڑھتا ہے: 'انہیں اب استعفیٰ دے دینا چاہیے'",
-      "desc_ur": "مور کو کانسی کے ستارے کی زینت بنانے، اپنے جنگی ریکارڈ کو غلط انداز میں پیش کرنے اور ایک فوجی کی موت پر سوگ منانے کے دعوے کے لیے پکارا جانے کے الزامات کا سامنا کرنا پڑا ہے۔"
-    },
-    {
-      "title": "IDF and Shin Bet strike senior Hamas terrorist in Gaza",
-      "desc": "The IDF and Shin Bet announce a strike targeting a senior Hamas terrorist, following the elimination of two senior Hamas officials in recent days.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/437162",
-      "time": "2026-11-26T02:37:46",
-      "country": "Israel",
-      "title_ur": "آئی ڈی ایف اور شن بیٹ نے غزہ میں حماس کے سینئر دہشت گرد پر حملہ کیا۔",
-      "desc_ur": "آئی ڈی ایف اور شن بیٹ نے حالیہ دنوں میں حماس کے دو اعلیٰ عہدیداروں کے خاتمے کے بعد حماس کے ایک سینئر دہشت گرد کو نشانہ بناتے ہوئے ایک حملے کا اعلان کیا۔"
+      "title": "Iran grapples with deepening energy crisis amid war deadlock",
+      "desc": "As uncertainty persists over whether Iran will face another military strike in January, it is the Iranian people who are bearing the brunt of a crisis that has dragged on for months, with an energy crunch leaving millions without electricity and hundreds of t…",
+      "source": "Hurriyet Daily News",
+      "url": "https://www.hurriyetdailynews.com/iran-grapples-with-deepening-energy-crisis-amid-war-deadlock-229877",
+      "time": "2026-11-26T12:05:46",
+      "country": "Iran",
+      "title_ur": "ایران جنگی تعطل کے درمیان توانائی کے گہرے بحران سے دوچار ہے۔",
+      "desc_ur": "جیسا کہ غیر یقینی صورتحال برقرار ہے کہ آیا ایران کو جنوری میں ایک اور فوجی حملے کا سامنا کرنا پڑے گا، یہ ایرانی عوام ہی ہیں جو مہینوں سے جاری بحران کا خمیازہ بھگت رہے ہیں، توانائی کے بحران کے باعث لاکھوں افراد بجلی سے محروم ہیں اور سیکڑوں…"
     }
   ],
   "pakistan": [
     {
-      "title": "Give space to friends",
-      "desc": "Pakistan’s first astronaut aboard China’s Tiangong space station is about more than a scientific milestone.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/toi-blogs/from-toi-print/give-space-to-friends/articleshow/136176787.cms",
-      "time": "2026-11-26T03:18:05",
+      "title": "Netflix’s First Pakistani Original ‘All The Love Our Hearts Carry’ Sets December Premiere, But Won’t Stream in India",
+      "desc": "Fawad Khan and Mahira Khan lead Netflix's first Pakistani Original, which arrives December 4, but India's I&B Ministry has told the streamer not to release it there.",
+      "source": "What's on Netflix",
+      "url": "https://www.whats-on-netflix.com/news/jo-bachay-hain-sang-samait-lo-netflix-release-date-india-ban/",
+      "time": "2026-11-26T11:53:06",
       "country": "Pakistan",
-      "title_ur": "دوستوں کو جگہ دیں۔",
-      "desc_ur": "چین کے تیانگونگ خلائی اسٹیشن پر سوار پاکستان کا پہلا خلاباز تقریباً ایک سائنسی سنگ میل سے زیادہ ہے۔"
+      "title_ur": "نیٹ فلکس کا پہلا پاکستانی اوریجنل 'آل دی لو ہمارے دلوں کی کیری' دسمبر میں پریمیئر سیٹ کرتا ہے، لیکن ہندوستان میں نہیں چلے گا۔",
+      "desc_ur": "فواد خان اور ماہرہ خان نیٹ فلکس کے پہلے پاکستانی اوریجنل کی قیادت کریں گے، جو 4 دسمبر کو آرہی ہے، لیکن ہندوستان کی آئی اینڈ بی منسٹری نے اسٹریمر سے کہا ہے کہ وہ اسے وہاں ریلیز نہ کرے۔"
     },
     {
-      "title": "Tough job Punjab",
-      "desc": "Now that they have patched up, SAD and BJP might do better in Punjab elections early next year, upsetting calculations of Congress and AAP.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/toi-blogs/from-toi-print/tough-job-punjab/articleshow/136176929.cms",
-      "time": "2026-11-26T03:15:22",
+      "title": "Turkmenistan Nears Major Milestone in $10 Billion TAPI Gas Pipeline",
+      "desc": "Turkmenistan expects a key section of a pipeline to begin supplying gas to Afghanistan’s third-largest city in early 2027, despite years of delays and hurdles in the $10-billion Turkmenistan–Afghanistan–Pakistan–India (TAPI) project, Turkmen officials have to…",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Turkmenistan-Nears-Major-Milestone-in-10-Billion-TAPI-Gas-Pipeline.html",
+      "time": "2026-11-26T11:40:00",
       "country": "Pakistan",
-      "title_ur": "مشکل کام پنجاب",
-      "desc_ur": "اب جب کہ انہوں نے جوڑ توڑ کر لیا ہے، ایس اے ڈی اور بی جے پی اگلے سال کے شروع میں پنجاب کے انتخابات میں بہتر کارکردگی کا مظاہرہ کر سکتے ہیں، جس سے کانگریس اور اے اے پی کے حسابات پریشان ہیں۔"
+      "title_ur": "ترکمانستان 10 بلین ڈالر کی تاپی گیس پائپ لائن میں اہم سنگ میل کے قریب ہے۔",
+      "desc_ur": "ترکمانستان کو توقع ہے کہ پائپ لائن کا ایک اہم حصہ 2027 کے اوائل میں افغانستان کے تیسرے سب سے بڑے شہر کو گیس کی فراہمی شروع کر دے گا، 10 بلین ڈالر کے ترکمانستان-افغانستان-پاکستان-انڈیا (TAPI) منصوبے میں سالوں کی تاخیر اور رکاوٹوں کے باوجود، ترکمان حکام کو…"
     },
     {
-      "title": "Netanyahu says corruption trial ‘must end’ as court suggests dropping case - Al Jazeera",
-      "desc": "Netanyahu says corruption trial ‘must end’ as court suggests dropping caseAl Jazeera Israeli judges recommend dropping most serious charges against NetanyahuBBC Judges in Israel Suggest Dropping Key Corruption Case Against NetanyahuThe New York Times Netanyah…",
-      "source": "Slashdot.org",
-      "url": "https://slashdot.org/firehose.pl?op=view&id=186872553",
-      "time": "2026-11-26T03:12:17",
-      "country": "Pakistan",
-      "title_ur": "نیتن یاہو کا کہنا ہے کہ بدعنوانی کے مقدمے کی سماعت 'ختم ہونی چاہیے' جیسا کہ عدالت نے کیس چھوڑنے کا مشورہ دیا ہے - الجزیرہ",
-      "desc_ur": "نیتن یاہو کا کہنا ہے کہ بدعنوانی کے مقدمے کی سماعت 'ختم ہونی چاہیے' کیونکہ عدالت نے کیس کو چھوڑنے کا مشورہ دیا الجزیرہ اسرائیلی ججوں نے نیتن یاہو کے خلاف سنگین ترین الزامات کو چھوڑنے کی سفارش کی بی بی سی کے ججز نے نیتن یاہو کے خلاف اہم کرپشن کیس چھوڑنے کی تجویز دی نیویارک ٹائمز نیتن یاہو…"
-    },
-    {
-      "title": "Netanyahu Declares Trial Has ‘Fallen Apart’ — Judges Deal Devastating Blow to Decade-Long Prosecution",
-      "desc": "Israeli Prime Minister Benjamin Netanyahu declared Wednesday that his corruption trial had collapsed after judges urged prosecutors to drop the most serious case against him and questioned the criminal basis of another, dealing a devastating blow to a prosecu…",
-      "source": "Breitbart News",
-      "url": "https://www.breitbart.com/politics/2026/11/25/netanyahu-declares-trial-has-fallen-apart-judges-deal-devastating-blow-to-decade-long-prosecution/",
-      "time": "2026-11-26T03:11:13",
-      "country": "Pakistan",
-      "title_ur": "نیتن یاہو نے اعلان کیا کہ مقدمے کی سماعت 'الگ ہو گئی ہے' - ججوں نے دہائی طویل استغاثہ کو تباہ کن دھچکا دیا",
-      "desc_ur": "اسرائیلی وزیر اعظم بنجمن نیتن یاہو نے بدھ کے روز اعلان کیا کہ ان کے بدعنوانی کے مقدمے کی سماعت اس وقت ختم ہو گئی جب ججوں نے استغاثہ پر زور دیا کہ وہ ان کے خلاف سنگین ترین مقدمہ خارج کر دیں اور دوسرے کی مجرمانہ بنیاد پر سوال اٹھائے، جس سے ایک پراسیکیو کو تباہ کن دھچکا لگا۔"
-    },
-    {
-      "title": "Netanyahu declares corruption trial has 'fallen apart' after judges question key charges",
-      "desc": "Israeli Prime Minister Benjamin Netanyahu declared his corruption trial \"fell apart\" as judges urged prosecutors to rethink the bribery and fraud cases.",
+      "title": "CENTCOM's Thanksgiving message to troops 'is one of deep gratitude' for their 'exceptional work' protecting US",
+      "desc": "CENTCOM spokesman Tim Hawkins told Fox News Digital that the military command is \"grateful\" for the family members of American forces positioned overseas.",
       "source": "Fox News",
-      "url": "https://www.foxnews.com/world/netanyahu-declares-corruption-trial-fallen-apart-judges-question-key-charges",
-      "time": "2026-11-26T02:26:48",
+      "url": "https://www.foxnews.com/us/centcom-thanksgiving-message-troops-deep-gratitude-exceptional-work-protecting-us",
+      "time": "2026-11-26T11:37:12",
       "country": "Pakistan",
-      "title_ur": "ججوں کی جانب سے اہم الزامات پر سوالات کے بعد نیتن یاہو نے اعلان کیا کہ بدعنوانی کے مقدمے کی سماعت 'تخریب ہو گئی ہے'",
-      "desc_ur": "اسرائیلی وزیر اعظم بنجمن نیتن یاہو نے اپنے بدعنوانی کے مقدمے کی سماعت کو \"منقطع\" قرار دیا جب ججوں نے استغاثہ پر زور دیا کہ وہ رشوت ستانی اور فراڈ کے مقدمات پر نظر ثانی کریں۔"
-    },
-    {
-      "title": "Greek Minister: 114 Illegal Migrants Choose Flight Home over Prison",
-      "desc": "Greek Migration Minister Thanos Plevris announced Wednesday that 114 illegal migrants left the country on what he described as the largest charter return flight ever organized in Greece by the International Organization for Migration, after opting for volunta…",
-      "source": "Breitbart News",
-      "url": "https://www.breitbart.com/europe/2026/11/25/greece-114-illegal-migrants-voluntary-return-prison/",
-      "time": "2026-11-26T02:25:47",
-      "country": "Pakistan",
-      "title_ur": "یونانی وزیر: 114 غیر قانونی تارکین وطن نے جیل کے اوپر فلائٹ ہوم کا انتخاب کیا۔",
-      "desc_ur": "یونانی مائیگریشن کے وزیر تھانوس پلیورس نے بدھ کو اعلان کیا کہ 114 غیر قانونی تارکین وطن نے ملک چھوڑ دیا جس کو انہوں نے یونان میں بین الاقوامی تنظیم برائے مائیگریشن کی طرف سے منعقد کی جانے والی اب تک کی سب سے بڑی چارٹر ریٹرن فلائٹ قرار دیا، رضاکارانہ طور پر انتخاب کے بعد…"
-    },
-    {
-      "title": "Netanyahu's corruption trial at a turning point? Israeli judges question key charges against PM",
-      "desc": "Israeli judges on Wednesday urged prosecutors to reconsider three corruption cases against prime minister Benjamin Netanyahu.",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/netanyahus-corruption-trial-at-a-turning-point-israeli-judges-question-key-charges-against-pm/articleshow/136175855.cms",
-      "time": "2026-11-26T02:15:54",
-      "country": "Pakistan",
-      "title_ur": "نیتن یاہو کا کرپشن کا مقدمہ اہم موڑ پر؟ اسرائیلی ججوں نے وزیر اعظم کے خلاف اہم الزامات پر سوال اٹھائے۔",
-      "desc_ur": "اسرائیلی ججوں نے بدھ کے روز استغاثہ پر زور دیا کہ وہ وزیراعظم بنجمن نیتن یاہو کے خلاف بدعنوانی کے تین مقدمات پر نظر ثانی کریں۔"
-    },
-    {
-      "title": "COP31: After 31 Climate Summits, Failure Is Always an Option",
-      "desc": "COP31 didn't merely fail to produce an agreement. After 31 meetings, it provided a remarkably clear demonstration of the futility of the entire exercise.\nThe post COP31: After 31 Climate Summits, Failure Is Always an Option appeared first on Watts Up With Tha…",
-      "source": "Wattsupwiththat.com",
-      "url": "https://wattsupwiththat.com/2026/11/25/cop31-after-31-climate-summits-failure-is-always-an-option/",
-      "time": "2026-11-26T02:03:00",
-      "country": "Pakistan",
-      "title_ur": "COP31: 31 موسمیاتی سربراہی اجلاس کے بعد، ناکامی ہمیشہ ایک آپشن ہوتی ہے۔",
-      "desc_ur": "COP31 محض ایک معاہدہ تیار کرنے میں ناکام نہیں ہوا۔ 31 میٹنگوں کے بعد، اس نے پوری مشق کی فضولیت کا واضح طور پر واضح مظاہرہ کیا۔\nThe post COP31: 31 موسمیاتی سربراہی اجلاس کے بعد، ناکامی ہمیشہ ایک آپشن ہوتی ہے appeared first on Watts Up With Tha…"
+      "title_ur": "CENTCOM کا فوجیوں کے لیے شکریہ کا پیغام ان کے 'غیر معمولی کام' کے لیے 'گہرے شکرگزار' میں سے ایک ہے جو امریکہ کی حفاظت کرتے ہیں",
+      "desc_ur": "سینٹ کام کے ترجمان ٹم ہاکنز نے فاکس نیوز ڈیجیٹل کو بتایا کہ فوجی کمانڈ بیرون ملک تعینات امریکی افواج کے اہل خانہ کے لیے \"شکر گزار\" ہے۔"
     }
   ],
   "business": {
@@ -283,7 +233,7 @@
         "date": "2026-12-01",
         "day": "منگل",
         "high": 23,
-        "low": 12,
+        "low": 13,
         "condition": "Overcast",
         "condition_ur": "ابر آلود",
         "precip": 0
@@ -291,8 +241,8 @@
       {
         "date": "2026-12-02",
         "day": "بدھ",
-        "high": 23,
-        "low": 12,
+        "high": 22,
+        "low": 11,
         "condition": "Overcast",
         "condition_ur": "ابر آلود",
         "precip": 0
