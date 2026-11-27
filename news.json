@@ -1,187 +1,197 @@
 {
-  "generated": "2026-11-27T12:54:44Z",
+  "generated": "2026-11-27T21:46:21Z",
   "world": [
     {
-      "title": "Police restrict protests outside Matan Kahana's home",
-      "desc": "Im Tirtzu movement says police imposing unusual restrictions on protests outside the home of Knesset Speaker Matan Kahana, threatens legal action.",
+      "title": "Security forces arrest suspect planning terrorist attack in central Israel",
+      "desc": "Yamam and Shin Bet personnel arrest a suspect who expressed his intention to carry out a terrorist attack. Police announce the conclusion of searches in Ramat Hasharon.",
       "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/437197",
-      "time": "2026-11-26T12:38:47",
-      "country": "US",
-      "title_ur": "پولیس نے متن کہنہ کے گھر کے باہر احتجاج کو محدود کر دیا۔",
-      "desc_ur": "ام ترتزو موومنٹ کا کہنا ہے کہ پولیس کی جانب سے کنیسٹ سپیکر متان کہانہ کے گھر کے باہر ہونے والے مظاہروں پر غیرمعمولی پابندیاں عائد کرنے سے قانونی کارروائی کی دھمکی ہے۔"
+      "url": "https://www.israelnationalnews.com/news/437239",
+      "time": "2026-11-26T21:43:41",
+      "country": "Israel",
+      "title_ur": "سیکورٹی فورسز نے وسطی اسرائیل میں دہشت گردانہ حملے کی منصوبہ بندی کرنے والے مشتبہ شخص کو گرفتار کر لیا۔",
+      "desc_ur": "یامام اور شن بیٹ کے اہلکار ایک مشتبہ شخص کو گرفتار کر رہے ہیں جس نے دہشت گردانہ حملہ کرنے کا ارادہ ظاہر کیا تھا۔ پولیس نے رمت حشرون میں تلاشی کے اختتام کا اعلان کیا۔"
     },
     {
-      "title": "Macy’s faces staggering $1.7M loss just to blow up parade balloons again — as helium prices soar",
-      "desc": "Helium costs have spiked 40% since last year, making balloon refills pricey.",
+      "title": "Two Italians killed by ‘drone strike debris’ in Kuwait - Al Jazeera",
+      "desc": "Two Italians killed by ‘drone strike debris’ in KuwaitAl Jazeera Iran war live: Tehran denies carrying out drone attack that killed 2Al Jazeera Two Italians killed in alleged Iranian drone attack on Kuwait; Tehran denies involvementCNN Two Italians killed in …",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&id=186878501",
+      "time": "2026-11-26T21:32:37",
+      "country": "Iran",
+      "title_ur": "کویت میں 'ڈرون حملے کے ملبے' سے دو اطالوی ہلاک - الجزیرہ",
+      "desc_ur": "کویت میں 'ڈرون حملے کے ملبے' سے دو اطالوی ہلاک الجزیرہ ایران جنگ لائیو: تہران نے ڈرون حملے کی تردید کی جس میں 2 الجزیرہ ہلاک ہوئے دو اطالوی کویت پر مبینہ ایرانی ڈرون حملے میں ہلاک ہوئے۔ تہران نے سی این این میں ملوث ہونے کی تردید کی ہے دو اطالوی ہلاک…"
+    },
+    {
+      "title": "Latest News, Breaking News Today - Entertainment, Cricket, Business, Politics - AnyTV News",
+      "desc": "नई दिल्ली, 26 नवंबर (आईएएनएस)। एप्पल ने यौन रूप से आपत्तिजनक कंटेंट और बच्चों के साथ अनुचित बातचीत को लेकर उठी चिंताओं के बाद चीनी कंपनी मिनीमैक्स द्वारा",
+      "source": "Anytvnews.com",
+      "url": "https://anytvnews.com/technology/apple-removes-ai-chatbot-talky-from-app-store-after-sexual-content-concerns/",
+      "time": "2026-11-26T21:29:34",
+      "country": "US",
+      "title_ur": "تازہ ترین خبریں، بریکنگ نیوز آج - تفریح، کرکٹ، کاروبار، سیاست - کوئی بھی ٹی وی نیوز",
+      "desc_ur": "نئی دہلی، 26 نومبر (آئی این ایس)۔ ایپل نے جنسی طور پر آپ کو پیدا کرنے والے کنٹنٹ اور بچوں کے ساتھ انچارج بات چیت کو دہلی کی پریشانیوں کے بعد چینی کمپنی مینی میکس"
+    },
+    {
+      "title": "Two Italians killed in drone attack in Kuwait",
+      "desc": "Iran has intensified attacks on Kuwait and Bahrain, but denies responsibility for the deadly strike.",
+      "source": "Free Malaysia Today",
+      "url": "https://www.freemalaysiatoday.com/category/highlight/2026/11/27/two-italians-killed-in-drone-attack-in-kuwait",
+      "time": "2026-11-26T21:28:56",
+      "country": "Iran",
+      "title_ur": "کویت میں ڈرون حملے میں دو اطالوی ہلاک ہو گئے۔",
+      "desc_ur": "ایران نے کویت اور بحرین پر حملے تیز کر دیے ہیں، لیکن اس مہلک حملے کی ذمہ داری سے انکار کر دیا ہے۔"
+    },
+    {
+      "title": "Intel Agencies Pushed USAID To Partner With Censorship NGO That Targeted Daily Caller, Other Conservative And Independent Outlets",
+      "desc": "Memos from the now-defunct USAID confirmed it had a central role in a censorship operation intent on blacklisting and deplatforming conservatives.",
+      "source": "The Daily Caller",
+      "url": "https://dailycaller.com/2026/11/26/usaid-censorship-ngo-targeted-conservative-outlets/",
+      "time": "2026-11-26T21:28:26",
+      "country": "US",
+      "title_ur": "انٹیل ایجنسیوں نے یو ایس ایڈ کو سنسرشپ این جی او کے ساتھ شراکت داری پر مجبور کیا جس نے ڈیلی کالر، دیگر قدامت پسند اور آزاد دکانوں کو نشانہ بنایا",
+      "desc_ur": "اب ناکارہ USAID کے میمو نے تصدیق کی کہ اس کا قدامت پسندوں کو بلیک لسٹ کرنے اور ڈیپلیٹفارم کرنے کے ارادے میں سنسرشپ آپریشن میں مرکزی کردار تھا۔"
+    },
+    {
+      "title": "A Tziyoni (Zionist) is the quintessential Jew",
+      "desc": "Louis Brandeis’ famous dictum about being Zionists was: “To be good Americans, we must be better Jews, and to be better Jews, we must become Zionists.\"",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/437217",
+      "time": "2026-11-26T21:28:00",
+      "country": "US",
+      "title_ur": "ایک Tziyoni (صیہونی) نفیس یہودی ہے۔",
+      "desc_ur": "لوئس برینڈیس کا صیہونی ہونے کے بارے میں مشہور قول یہ تھا: \"اچھے امریکی ہونے کے لیے ہمیں بہتر یہودی ہونا چاہیے، اور بہتر یہودی ہونے کے لیے، ہمیں صیہونی بننا چاہیے۔\""
+    },
+    {
+      "title": "Dark Eagle, America’s first operational long-range hypersonic missile battery, is ‘ready to go,’ Army honcho claims",
+      "desc": "The Army's first long-range hypersonic weapon battery is now operational and \"ready to go,\" the general in charge of munitions told a defense publication.",
       "source": "New York Post",
-      "url": "https://nypost.com/2026/11/26/lifestyle/macys-faces-1-7m-loss-to-blow-up-parade-balloons-again/",
-      "time": "2026-11-26T12:37:41",
+      "url": "https://nypost.com/2026/11/26/us-news/dark-eagle-americas-first-operational-long-range-hypersonic-missile-battery-is-ready-to-go-army-honcho-claims/",
+      "time": "2026-11-26T21:25:56",
       "country": "US",
-      "title_ur": "ہیلیئم کی قیمتوں میں اضافے کے ساتھ ہی پریڈ کے غبارے دوبارہ اڑانے کے لیے میسی کو $1.7M کا حیران کن نقصان اٹھانا پڑا",
-      "desc_ur": "گزشتہ سال سے ہیلیم کی قیمتوں میں 40 فیصد اضافہ ہوا ہے، جس سے غبارے کی ریفلز مہنگی ہو گئی ہیں۔"
+      "title_ur": "ڈارک ایگل، امریکہ کی پہلی آپریشنل لانگ رینج ہائپرسونک میزائل بیٹری، 'جانے کے لیے تیار ہے،' آرمی ہونچو کا دعویٰ",
+      "desc_ur": "جنگی سازوسامان کے انچارج جنرل نے ایک دفاعی اشاعت کو بتایا کہ فوج کی پہلی طویل فاصلے تک مار کرنے والی ہائپرسونک ہتھیاروں کی بیٹری اب کام کر رہی ہے اور \"جانے کے لیے تیار ہے\"۔"
     },
     {
-      "title": "Erdoğan chairs 2026’s last security board meeting",
-      "desc": "Türkiye’s top security board convened for the final time in 2026 under the leadership of President Recep Tayyip Erdoğan, focusing on the implementation of the “terror-free Türkiye” project through a review of defense and intelligence reports.",
-      "source": "Hurriyet Daily News",
-      "url": "https://www.hurriyetdailynews.com/erdogan-chairs-2026s-last-security-board-meeting-229880",
-      "time": "2026-11-26T12:34:24",
+      "title": "JD Vance’s Thanksgiving Dinner With Armed Forces Members Goes Viral For All The Wrong Reasons: “Gross”",
+      "desc": "“Talk about losing your appetite,” one user said as netizens were disgusted by JD Vance’s table manners at the Thanksgiving dinner on an Ohio Air Force base.",
+      "source": "Boredpanda.com",
+      "url": "https://www.boredpanda.com/jd-vance-thanksgiving-armed-forces-viral-gross-reasons/",
+      "time": "2026-11-26T21:25:55",
       "country": "US",
-      "title_ur": "ایردوان 2026 کے آخری سیکورٹی بورڈ کے اجلاس کی صدارت کر رہے ہیں۔",
-      "desc_ur": "2026 میں صدر رجب طیب ایردوان کی سربراہی میں ترکی کے اعلیٰ ترین سیکورٹی بورڈ کا اجلاس ہوا، جس میں دفاع اور انٹیلی جنس رپورٹس کے جائزے کے ذریعے \"دہشت گردی سے پاک ترکی\" منصوبے کے نفاذ پر توجہ مرکوز کی گئی۔"
+      "title_ur": "مسلح افواج کے ارکان کے ساتھ جے ڈی وینس کا تھینکس گیونگ ڈنر تمام غلط وجوہات کی بنا پر وائرل ہوا: \"مجموعی\"",
+      "desc_ur": "\"اپنی بھوک کھونے کے بارے میں بات کریں،\" ایک صارف نے کہا جب نیٹیزنز اوہائیو ایئر فورس کے ایک اڈے پر تھینکس گیونگ ڈنر میں جے ڈی وینس کے ٹیبل آداب سے بیزار تھے۔"
     },
     {
-      "title": "Europe’s Economic Sovereignty Is All Talk and Little Action",
-      "desc": "The continent’s reliance on the United States has surged despite all promises to diversify.",
-      "source": "Foreign Policy",
-      "url": "https://foreignpolicy.com/2026/11/26/eu-europe-economic-security-sovereignty-derisking-decoupling-dependence-united-states-china/",
-      "time": "2026-11-26T12:33:15",
-      "country": "US",
-      "title_ur": "یورپ کی اقتصادی خودمختاری تمام باتیں اور چھوٹی کارروائی ہے۔",
-      "desc_ur": "متنوع بنانے کے تمام وعدوں کے باوجود براعظم کا امریکہ پر انحصار بڑھ گیا ہے۔"
-    },
-    {
-      "title": "Oil Prices Rebound as Middle East Supply Fears Return",
-      "desc": "January WTI crude oil futures recovered from a three-month low this week as renewed concern over Middle East supply brought buyers back into the market. Prices had fallen early in the week as traders focused on the prospect of a global surplus. The selling sl…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Rebound-as-Middle-East-Supply-Fears-Return.html",
-      "time": "2026-11-26T12:30:00",
-      "country": "US",
-      "title_ur": "مشرق وسطیٰ میں سپلائی کی واپسی کے خدشے کے باعث تیل کی قیمتوں میں تیزی",
-      "desc_ur": "جنوری ڈبلیو ٹی آئی خام تیل کا مستقبل اس ہفتے تین ماہ کی کم ترین سطح سے برآمد ہوا کیونکہ مشرق وسطیٰ کی سپلائی پر نئی تشویش نے خریداروں کو دوبارہ مارکیٹ میں لایا۔ ہفتے کے اوائل میں قیمتیں گر گئی تھیں کیونکہ تاجروں نے عالمی سرپلس کے امکان پر توجہ مرکوز کی تھی۔ فروخت ہونے والی ایس ایل…"
-    },
-    {
-      "title": "Meeting of 28-29 October 2026",
-      "desc": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
-      "source": "Europa.eu",
-      "url": "https://www.ecb.europa.eu/press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html",
-      "time": "2026-11-26T12:30:00",
-      "country": "Europe",
-      "title_ur": "28-29 اکتوبر 2026 کی میٹنگ",
-      "desc_ur": "یورپی مرکزی بینک (ECB) یورپی یونین کے ممالک کا مرکزی بینک ہے جس نے یورو کو اپنایا ہے۔ ہمارا بنیادی کام یورو کے علاقے میں قیمت کے استحکام کو برقرار رکھنا ہے اور اس طرح واحد کرنسی کی قوت خرید کو محفوظ رکھنا ہے۔"
-    },
-    {
-      "title": "Iran Says LNG Carrier Exploded After Hitting a Mine in Hormuz",
-      "desc": "An LNG vessel has caught fire and exploded after hitting a naval mine in the Strait of Hormuz during an attempt to transit on a route deemed “illegal” by Iran, the Islamic Revolutionary Guard Corps (IRGC) Navy said in the latest communication of a tanker inci…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Says-LNG-Carrier-Exploded-After-Hitting-a-Mine-in-Hormuz.html",
-      "time": "2026-11-26T12:30:00",
-      "country": "Iran",
-      "title_ur": "ایران کا کہنا ہے کہ ایل این جی کیریئر ہرمز میں بارودی سرنگ سے ٹکرانے کے بعد پھٹ گیا۔",
-      "desc_ur": "ایران کی طرف سے \"غیر قانونی\" سمجھے جانے والے راستے پر ٹرانزٹ کی کوشش کے دوران آبنائے ہرمز میں بحریہ کی ایک کان سے ٹکرانے کے بعد ایل این جی کے ایک جہاز میں آگ لگ گئی اور وہ پھٹ گیا، اسلامی انقلابی گارڈ کور (IRGC) بحریہ نے ایک ٹینکر کی تازہ ترین بات چیت میں کہا کہ…"
-    },
-    {
-      "title": "Ministry of Defence signs £8.7bn deal with Babcock to maintain submarines",
-      "desc": "Wes Streeting says deal will ‘get our subs out of the docks and into the sea faster’ amid scrutiny of nuclear deterrent\nUK politics live – latest updates\nBusiness live – latest updates\nThe Ministry of Defence has signed an £8.7bn contract with defence company…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/63ab37b20f5c2546",
-      "time": "2026-11-26T12:22:02",
+      "title": "Now We Know Why the Evil Globalists Hate Trump: Belarusian President Lukashenko Praises President Trump for Preventing World War III",
+      "desc": "Belarusian President Alexander Lukashenko praised President Donald Trump in his recent interview with French current news magazine, Le Point.\nThe post Now We Know Why the Evil Globalists Hate Trump: Belarusian President Lukashenko Praises President Trump for …",
+      "source": "Thegatewaypundit.com",
+      "url": "https://www.thegatewaypundit.com/2026/11/now-we-know-why-evil-globalists-hate-trump/",
+      "time": "2026-11-26T21:20:12",
       "country": "UK",
-      "title_ur": "وزارت دفاع نے آبدوزوں کو برقرار رکھنے کے لیے بابکاک کے ساتھ £8.7 بلین کے معاہدے پر دستخط کیے ہیں۔",
-      "desc_ur": "ویس اسٹریٹنگ کا کہنا ہے کہ جوہری روک تھام کی جانچ پڑتال کے درمیان معاہدہ 'ہمارے ذیلی افراد کو ڈاک سے باہر اور سمندر میں تیزی سے لے جائے گا'\nبرطانیہ کی سیاست لائیو - تازہ ترین اپ ڈیٹس\nبزنس لائیو - تازہ ترین اپ ڈیٹس\nوزارت دفاع نے دفاعی کمپنی کے ساتھ £8.7 بلین کا معاہدہ کیا ہے…"
+      "title_ur": "اب ہم جانتے ہیں کہ شیطانی گلوبلسٹ ٹرمپ سے نفرت کیوں کرتے ہیں: بیلاروسی صدر لوکاشینکو نے تیسری عالمی جنگ کو روکنے کے لیے صدر ٹرمپ کی تعریف کی",
+      "desc_ur": "بیلاروسی صدر الیگزینڈر لوکاشینکو نے فرانسیسی کرنٹ نیوز میگزین لی پوائنٹ کے ساتھ اپنے حالیہ انٹرویو میں صدر ڈونلڈ ٹرمپ کی تعریف کی۔\nThe post اب ہم جانتے ہیں کہ شیطانی گلوبلسٹ ٹرمپ سے نفرت کیوں کرتے ہیں: بیلاروسی صدر لوکاشینکو نے صدر ٹرمپ کی تعریف کی…"
     },
     {
-      "title": "Antisemitism adviser to launch inquiry into ‘hostile work environment’ at BBC",
-      "desc": "John Mann says decision comes after hearing ‘disturbing’ accounts by Jewish staff about discrimination against them\nUK politics live – latest updates\nThe government’s independent adviser on antisemitism has said he is launching an investigation into the BBC a…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/1a7a1be31c83d2b7",
-      "time": "2026-11-26T12:21:36",
+      "title": "UK shields fighter jets, contacts reservists in Cold War-scale push amid Russia threat",
+      "desc": "Wes Streeting says the United Kingdom is contacting former service members to update its strategic reserve as Russian sabotage rises across Europe.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/world/uk-shields-fighter-jets-contacts-reservists-cold-war-scale-push-amid-russia-threat",
+      "time": "2026-11-26T21:14:20",
+      "country": "Russia",
+      "title_ur": "برطانیہ لڑاکا طیاروں کی حفاظت کرتا ہے، روس کے خطرے کے درمیان سرد جنگ کے پیمانے پر تحفظات سے رابطہ کرتا ہے",
+      "desc_ur": "ویس سٹریٹنگ کا کہنا ہے کہ یونائیٹڈ کنگڈم اپنے سٹریٹجک ریزرو کو اپ ڈیٹ کرنے کے لیے سابق سروس ممبران سے رابطہ کر رہا ہے کیونکہ پورے یورپ میں روسی تخریب کاری بڑھ رہی ہے۔"
+    },
+    {
+      "title": "Ukraine 'shoots down Russian drone with a laser in world first'",
+      "desc": "President Volodymyr Zelensky's military adviser, Serhii 'Flash' Beskrestnov, said Ukraine's Blysk laser air defence systems had intercepted a jet-powered Iranian-made Shahed drone.",
+      "source": "Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16325015/Ukraine-shoots-Russian-drone-laser-world-first.html",
+      "time": "2026-11-26T21:11:17",
+      "country": "Iran",
+      "title_ur": "یوکرین نے دنیا میں سب سے پہلے روسی ڈرون کو لیزر سے مار گرایا",
+      "desc_ur": "صدر ولادیمیر زیلینسکی کے فوجی مشیر سرہی 'فلیش' بیسکریسٹنوف نے کہا کہ یوکرین کے بلسک لیزر ایئر ڈیفنس سسٹم نے جیٹ سے چلنے والے ایرانی ساختہ شاہد ڈرون کو روکا ہے۔"
+    },
+    {
+      "title": "Owner of Jewish NYC deli targeted by anti-Israel mob praises NYPD’s SRG for averting ‘massive s–tshow’ — as he tells agitators to ‘get a life’",
+      "desc": "“I think if they weren’t here this would have been a massive sh—tshow. Massive,” Jacobowitz told The Post.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/11/26/us-news/owner-of-jewish-nyc-deli-targeted-by-anti-israel-mob-praises-nypds-srg/",
+      "time": "2026-11-26T20:58:12",
+      "country": "Israel",
+      "title_ur": "اسرائیل مخالف ہجوم کے ذریعہ نشانہ بنائے گئے یہودی NYC ڈیلی کے مالک نے 'بڑے پیمانے پر شو' کو روکنے کے لیے NYPD کے SRG کی تعریف کی - جیسا کہ وہ مشتعل افراد کو 'زندگی حاصل کرنے' کو کہتے ہیں۔",
+      "desc_ur": "\"میرے خیال میں اگر وہ یہاں نہ ہوتے تو یہ بہت بڑا شو ہوتا۔ بڑے پیمانے پر،\" جیکوبووٹز نے دی پوسٹ کو بتایا۔"
+    },
+    {
+      "title": "Ukraine lần đầu bắn hạ drone phản lực Shahed bằng laser 4 kW, vẫn chỉ là hệ thống thử nghiệm",
+      "desc": "Phía Ukraine cho biết lực lượng phòng không nước này đã lần đầu bắn hạ một máy bay không người lái tấn công kiểu Geran — bản Nga của dòng Shahed — trang bị động cơ phản lực, bằng vũ khí laser ngay trong điều kiện chiến đấu thực tế.",
+      "source": "Tinhte.vn",
+      "url": "https://tinhte.vn/thread/ukraine-lan-dau-ban-ha-drone-phan-luc-shahed-bang-laser-4-kw-van-chi-la-he-thong-thu-nghiem.4196046/",
+      "time": "2026-11-26T20:56:59",
       "country": "UK",
-      "title_ur": "سام دشمنی کے مشیر بی بی سی میں 'مخالف کام کے ماحول' کے بارے میں انکوائری شروع کریں گے۔",
-      "desc_ur": "جان مان کا کہنا ہے کہ فیصلہ یہودی عملے کی طرف سے ان کے ساتھ امتیازی سلوک کے بارے میں 'پریشان کن' اکاؤنٹس سننے کے بعد آیا ہے۔\nبرطانیہ کی سیاست لائیو - تازہ ترین اپ ڈیٹس\nحکومت کے آزاد مشیر برائے سام دشمنی نے کہا ہے کہ وہ بی بی سی کی تحقیقات شروع کر رہے ہیں ایک…"
+      "title_ur": "یوکرین lần đầu bắn hạ drone phản lực Shahed bằng لیزر 4 kW, vẫn chỉ là hệ thống thử nghiệm",
+      "desc_ur": "Phía Ukraine cho biết lực lượng phòng không nước này đã lần đầu bắn hạ một máy bay không người lái tấn công bủa người lái tấn công bủan — trang bị động cơ phản lực، bằng vũ khí laser ngay trong điều kiện chiến đấu thực tế."
     },
     {
-      "title": "If politicians really want to cut heating bills they need to trust in green energy – businesses already are",
-      "desc": "There’s a selfish case for moving towards green energy. It will create savings, and businesses are already acknowledging this.",
-      "source": "The Conversation Africa",
-      "url": "https://theconversation.com/if-politicians-really-want-to-cut-heating-bills-they-need-to-trust-in-green-energy-businesses-already-are-297216",
-      "time": "2026-11-26T12:17:40",
-      "country": "US",
-      "title_ur": "اگر سیاست دان واقعی حرارتی بلوں کو کم کرنا چاہتے ہیں تو انہیں گرین انرجی پر بھروسہ کرنے کی ضرورت ہے - کاروبار پہلے ہی موجود ہیں۔",
-      "desc_ur": "سبز توانائی کی طرف بڑھنے کا ایک خود غرض معاملہ ہے۔ یہ بچت پیدا کرے گا، اور کاروبار پہلے ہی اس کا اعتراف کر رہے ہیں۔"
-    },
-    {
-      "title": "Qatar Is Forging Ahead With Film and TV Industry Plan, Undeterred by Regional Turbulence",
-      "desc": "Undeterred by regional turbulence, Qatar is forging ahead with its plan to build a film and TV industry that intends to put the tiny Arab state rich in oil and gas on the global entertainment map. That is the main takeaway of the recently concluded second edi…",
-      "source": "Variety",
-      "url": "https://variety.com/2026/film/global/qatar-film-tv-industry-regional-turbulence-1236958826/",
-      "time": "2026-11-26T12:17:28",
-      "country": "US",
-      "title_ur": "قطر فلم اور ٹی وی انڈسٹری کے منصوبے کے ساتھ آگے بڑھ رہا ہے، علاقائی انتشار سے بے نیاز",
-      "desc_ur": "علاقائی انتشار سے بے خوف، قطر ایک فلم اور ٹی وی انڈسٹری کی تعمیر کے اپنے منصوبے کے ساتھ آگے بڑھ رہا ہے جو تیل اور گیس سے مالا مال اس چھوٹی عرب ریاست کو عالمی تفریحی نقشے پر ڈالنے کا ارادہ رکھتی ہے۔ یہ حال ہی میں ختم ہونے والی دوسری ایڈی کا اہم راستہ ہے…"
-    },
-    {
-      "title": "Houthi Attacks Gut Riyadh’s Peak Season",
-      "desc": "Riyadh’s fourth quarter runs on international corporate and event demand that flies in, and the missile strikes hit that badly. Domestic demand can’t fill the gap, so hotels will trade rate for occupancy in the quarter that in normal times supports their stro…",
-      "source": "Skift",
-      "url": "https://skift.com/2026/11/26/houthi-attacks-gut-riyadhs-peak-season/",
-      "time": "2026-11-26T12:14:10",
-      "country": "Saudi Arabia",
-      "title_ur": "حوثیوں نے گٹ ریاض کے چوٹی کے موسم پر حملہ کیا۔",
-      "desc_ur": "ریاض کی چوتھی سہ ماہی بین الاقوامی کارپوریٹ اور ایونٹ ڈیمانڈ پر چلتی ہے جو اڑتی ہے، اور میزائل حملوں نے اسے بری طرح متاثر کیا۔ گھریلو طلب اس خلا کو پُر نہیں کر سکتی، اس لیے ہوٹلز اس سہ ماہی میں قبضے کے لیے شرح تجارت کریں گے جو عام اوقات میں ان کے اسٹرو کو سپورٹ کرتی ہے…"
-    },
-    {
-      "title": "‘Symbolic’: Why did UK sanction Yemen’s Houthis amid attacks on Saudi?",
-      "desc": "UK sanctions Iran-backed group and its leaders, accusing them of undermining stability in the Middle East.",
-      "source": "Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/11/26/symbolic-why-did-uk-sanction-yemens-houthis-amid-attacks-on-saudi",
-      "time": "2026-11-26T12:10:49",
+      "title": "Two Italians Killed in Iranian Drone Attack on Kuwait, Officials Say - The New York Times",
+      "desc": "Two Italians Killed in Iranian Drone Attack on Kuwait, Officials SayThe New York Times Iran war live: Tehran denies carrying out drone attack that killed 2Al Jazeera Two Italians killed in alleged Iranian drone attack on Kuwait; Tehran denies involvementCNN T…",
+      "source": "Slashdot.org",
+      "url": "https://slashdot.org/firehose.pl?op=view&id=186878011",
+      "time": "2026-11-26T20:52:30",
       "country": "Iran",
-      "title_ur": "'علامتی': سعودی پر حملوں کے درمیان برطانیہ نے یمن کے حوثیوں پر پابندی کیوں لگائی؟",
-      "desc_ur": "برطانیہ نے ایران کے حمایت یافتہ گروپ اور اس کے رہنماؤں پر مشرق وسطیٰ میں استحکام کو نقصان پہنچانے کا الزام لگاتے ہوئے پابندیاں عائد کر دیں۔"
+      "title_ur": "کویت پر ایرانی ڈرون حملے میں دو اطالوی مارے گئے، حکام کا کہنا ہے - نیویارک ٹائمز",
+      "desc_ur": "کویت پر ایرانی ڈرون حملے میں دو اطالوی مارے گئے، حکام کا کہنا ہے کہ نیویارک ٹائمز ایران جنگ لائیو: تہران نے ڈرون حملے کی تردید کی ہے جس میں 2 الجزیرہ کویت پر مبینہ ایرانی ڈرون حملے میں دو اطالوی ہلاک ہوئے ہیں۔ تہران نے ملوث ہونے سے انکار کیا CNN T…"
     },
     {
-      "title": "Asian countries race to contain rising inflation",
-      "desc": "South Korea’s central bank raised rates to the highest level in more than two years, joining other Asian countries in moving to contain persistent inflation driven by the Iran war. Compounding the challenge, a market sell-off and high borrowing costs have hit…",
-      "source": "Biztoc.com",
-      "url": "https://biztoc.com/x/eff75fe69b9f4f99",
-      "time": "2026-11-26T12:07:20",
+      "title": "Iran imposes electricity rationing, rolling blackouts as regime buckles under US economic pressure",
+      "desc": "Rolling blackouts have become the norm in Iran as the government imposes electricity rationing and other austerity measures — with its president warning of a harsh winter due to mounting US economic pressures.",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/11/26/world-news/rolling-blackouts-hit-iran-as-regime-imposes-electricity-rationing/",
+      "time": "2026-11-26T20:44:39",
       "country": "Iran",
-      "title_ur": "ایشیائی ممالک بڑھتی ہوئی مہنگائی پر قابو پانے کی دوڑ میں لگے ہوئے ہیں۔",
-      "desc_ur": "جنوبی کوریا کے مرکزی بینک نے دو سال سے زیادہ کی بلند ترین سطح پر شرحیں بڑھا دی ہیں، ایران جنگ کی وجہ سے مسلسل افراط زر پر قابو پانے کے لیے دوسرے ایشیائی ممالک میں شامل ہو کر۔ چیلنج کو بڑھاتے ہوئے، مارکیٹ میں فروخت اور قرض لینے کے زیادہ اخراجات نے متاثر کیا ہے…"
-    },
-    {
-      "title": "Iran grapples with deepening energy crisis amid war deadlock",
-      "desc": "As uncertainty persists over whether Iran will face another military strike in January, it is the Iranian people who are bearing the brunt of a crisis that has dragged on for months, with an energy crunch leaving millions without electricity and hundreds of t…",
-      "source": "Hurriyet Daily News",
-      "url": "https://www.hurriyetdailynews.com/iran-grapples-with-deepening-energy-crisis-amid-war-deadlock-229877",
-      "time": "2026-11-26T12:05:46",
-      "country": "Iran",
-      "title_ur": "ایران جنگی تعطل کے درمیان توانائی کے گہرے بحران سے دوچار ہے۔",
-      "desc_ur": "جیسا کہ غیر یقینی صورتحال برقرار ہے کہ آیا ایران کو جنوری میں ایک اور فوجی حملے کا سامنا کرنا پڑے گا، یہ ایرانی عوام ہی ہیں جو مہینوں سے جاری بحران کا خمیازہ بھگت رہے ہیں، توانائی کے بحران کے باعث لاکھوں افراد بجلی سے محروم ہیں اور سیکڑوں…"
+      "title_ur": "ایران نے امریکی معاشی دباؤ کے تحت حکومت کی جانب سے بجلی کی فراہمی کو نافذ کرتے ہوئے بلیک آؤٹ کو روک دیا ہے۔",
+      "desc_ur": "ایران میں رولنگ بلیک آؤٹ معمول بن گیا ہے کیونکہ حکومت بجلی کی راشننگ اور دیگر کفایت شعاری کے اقدامات نافذ کرتی ہے – جس کے صدر نے امریکی معاشی دباؤ میں اضافے کی وجہ سے سخت سردی کی وارننگ دی ہے۔"
     }
   ],
   "pakistan": [
     {
-      "title": "Netflix’s First Pakistani Original ‘All The Love Our Hearts Carry’ Sets December Premiere, But Won’t Stream in India",
-      "desc": "Fawad Khan and Mahira Khan lead Netflix's first Pakistani Original, which arrives December 4, but India's I&B Ministry has told the streamer not to release it there.",
-      "source": "What's on Netflix",
-      "url": "https://www.whats-on-netflix.com/news/jo-bachay-hain-sang-samait-lo-netflix-release-date-india-ban/",
-      "time": "2026-11-26T11:53:06",
+      "title": "After Strikes, Hamas Says It's Weighing Options Against Israel",
+      "desc": "Hamas said Thursday that it's weighing its options after a fresh round of Israeli strikes reportedly killed 10 people in Gaza, including a senior official who doubled as a top education bureaucrat. Khalil Al-Hayya, Hamas' leader since July, said the group \"ca…",
+      "source": "Newser",
+      "url": "https://www.newser.com/story/400696/after-strikes-hamas-says-its-weighing-options-against-israel.html",
+      "time": "2026-11-26T21:35:00",
       "country": "Pakistan",
-      "title_ur": "نیٹ فلکس کا پہلا پاکستانی اوریجنل 'آل دی لو ہمارے دلوں کی کیری' دسمبر میں پریمیئر سیٹ کرتا ہے، لیکن ہندوستان میں نہیں چلے گا۔",
-      "desc_ur": "فواد خان اور ماہرہ خان نیٹ فلکس کے پہلے پاکستانی اوریجنل کی قیادت کریں گے، جو 4 دسمبر کو آرہی ہے، لیکن ہندوستان کی آئی اینڈ بی منسٹری نے اسٹریمر سے کہا ہے کہ وہ اسے وہاں ریلیز نہ کرے۔"
+      "title_ur": "حملوں کے بعد، حماس کا کہنا ہے کہ وہ اسرائیل کے خلاف آپشنز پر غور کر رہا ہے۔",
+      "desc_ur": "حماس نے جمعرات کو کہا کہ وہ اسرائیلی حملوں کے ایک تازہ دور کے بعد غزہ میں مبینہ طور پر 10 افراد کی ہلاکت کے بعد اپنے آپشنز پر غور کر رہی ہے، جن میں ایک سینئر اہلکار بھی شامل ہے جو اعلیٰ تعلیمی بیوروکریٹ کے طور پر دگنا ہو گیا تھا۔ جولائی سے حماس کے رہنما خلیل الحیا نے کہا کہ گروپ \"ca…"
     },
     {
-      "title": "Turkmenistan Nears Major Milestone in $10 Billion TAPI Gas Pipeline",
-      "desc": "Turkmenistan expects a key section of a pipeline to begin supplying gas to Afghanistan’s third-largest city in early 2027, despite years of delays and hurdles in the $10-billion Turkmenistan–Afghanistan–Pakistan–India (TAPI) project, Turkmen officials have to…",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Turkmenistan-Nears-Major-Milestone-in-10-Billion-TAPI-Gas-Pipeline.html",
-      "time": "2026-11-26T11:40:00",
+      "title": "No content from Pakistan to be shown in India, government reminds Netflix",
+      "desc": "In a move reflecting ongoing tensions, the Indian Ministry of Information and Broadcasting has urged Netflix to limit access to Pakistani content, particularly an upcoming series set to debut on December 4. This action follows previous advisories related to n…",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/no-content-from-pakistan-to-be-shown-in-india-government-reminds-netflix/articleshow/136203165.cms",
+      "time": "2026-11-26T21:17:58",
       "country": "Pakistan",
-      "title_ur": "ترکمانستان 10 بلین ڈالر کی تاپی گیس پائپ لائن میں اہم سنگ میل کے قریب ہے۔",
-      "desc_ur": "ترکمانستان کو توقع ہے کہ پائپ لائن کا ایک اہم حصہ 2027 کے اوائل میں افغانستان کے تیسرے سب سے بڑے شہر کو گیس کی فراہمی شروع کر دے گا، 10 بلین ڈالر کے ترکمانستان-افغانستان-پاکستان-انڈیا (TAPI) منصوبے میں سالوں کی تاخیر اور رکاوٹوں کے باوجود، ترکمان حکام کو…"
+      "title_ur": "پاکستان کا کوئی مواد بھارت میں نہیں دکھایا جائے گا، حکومت نے نیٹ فلکس کو یاد دلایا",
+      "desc_ur": "جاری کشیدگی کی عکاسی کرنے والے ایک اقدام میں، بھارتی وزارت اطلاعات و نشریات نے نیٹ فلکس پر زور دیا ہے کہ وہ پاکستانی مواد تک رسائی کو محدود کرے، خاص طور پر ایک آنے والی سیریز جو 4 دسمبر کو شروع ہونے والی ہے۔"
     },
     {
-      "title": "CENTCOM's Thanksgiving message to troops 'is one of deep gratitude' for their 'exceptional work' protecting US",
-      "desc": "CENTCOM spokesman Tim Hawkins told Fox News Digital that the military command is \"grateful\" for the family members of American forces positioned overseas.",
-      "source": "Fox News",
-      "url": "https://www.foxnews.com/us/centcom-thanksgiving-message-troops-deep-gratitude-exceptional-work-protecting-us",
-      "time": "2026-11-26T11:37:12",
+      "title": "The greatest architect you've never heard of is in Pakistan",
+      "desc": "Article URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/\nComments URL: https://news.ycombinator.com/item?id=50659841\nPoints: 9\n# Comments: 1",
+      "source": "Worksinprogress.co",
+      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+      "time": "2026-11-26T21:08:05",
       "country": "Pakistan",
-      "title_ur": "CENTCOM کا فوجیوں کے لیے شکریہ کا پیغام ان کے 'غیر معمولی کام' کے لیے 'گہرے شکرگزار' میں سے ایک ہے جو امریکہ کی حفاظت کرتے ہیں",
-      "desc_ur": "سینٹ کام کے ترجمان ٹم ہاکنز نے فاکس نیوز ڈیجیٹل کو بتایا کہ فوجی کمانڈ بیرون ملک تعینات امریکی افواج کے اہل خانہ کے لیے \"شکر گزار\" ہے۔"
+      "title_ur": "پاکستان کے عظیم ترین معمار کے بارے میں آپ نے کبھی نہیں سنا ہوگا۔",
+      "desc_ur": "آرٹیکل URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/\nتبصروں کا URL: https://news.ycombinator.com/item?id=50659841\nپوائنٹس: 9\n# تبصرے: 1"
+    },
+    {
+      "title": "'Don't you understand': Senators grill Hegseth over Iran war, army firings at fiery Senate hearing",
+      "desc": "Secretary of War Pete Hegseth appeared before Congress at a pair of hour-long hearings this week for the first time since the Trump administration went to war against Iran, with the Pentagon chief facing tough questions from sceptical Democrats. Hegseth seeme…",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/dont-you-understand-senators-grill-hegseth-over-iran-war-army-firings-at-fiery-senate-hearing/videoshow/136203080.cms",
+      "time": "2026-11-26T20:32:26",
+      "country": "Pakistan",
+      "title_ur": "'کیا آپ نہیں سمجھتے': سینیٹرز نے ہیگستھ کو ایران جنگ پر گرل کیا، سینیٹ کی آتشزدگی پر فوج کی فائرنگ",
+      "desc_ur": "جنگ کے سکریٹری پیٹ ہیگستھ اس ہفتے ایک گھنٹہ طویل سماعت کے جوڑے میں کانگریس کے سامنے پیش ہوئے جب ٹرمپ انتظامیہ ایران کے خلاف جنگ میں گئی تھی، پینٹاگون کے سربراہ کو شکی ڈیموکریٹس کے سخت سوالات کا سامنا ہے۔ ہیگستھ لگتا ہے…"
     }
   ],
   "business": {
@@ -193,15 +203,6 @@
     "city": "Lahore",
     "city_ur": "لاہور",
     "forecast": [
-      {
-        "date": "2026-11-27",
-        "day": "جمعہ",
-        "high": 24,
-        "low": 12,
-        "condition": "Clear",
-        "condition_ur": "صاف",
-        "precip": 0
-      },
       {
         "date": "2026-11-28",
         "day": "ہفتہ",
@@ -215,9 +216,9 @@
         "date": "2026-11-29",
         "day": "اتوار",
         "high": 24,
-        "low": 12,
-        "condition": "Overcast",
-        "condition_ur": "ابر آلود",
+        "low": 13,
+        "condition": "Clear",
+        "condition_ur": "صاف",
         "precip": 0
       },
       {
@@ -242,7 +243,7 @@
         "date": "2026-12-02",
         "day": "بدھ",
         "high": 22,
-        "low": 11,
+        "low": 12,
         "condition": "Overcast",
         "condition_ur": "ابر آلود",
         "precip": 0
@@ -255,12 +256,21 @@
         "condition": "Overcast",
         "condition_ur": "ابر آلود",
         "precip": 0
+      },
+      {
+        "date": "2026-12-04",
+        "day": "جمعہ",
+        "high": 22,
+        "low": 13,
+        "condition": "Overcast",
+        "condition_ur": "ابر آلود",
+        "precip": 6
       }
     ]
   },
   "date": {
-    "gregorian": "Friday, 27 November 2026",
-    "hijri": "17 Jumādá al-ākhirah 1448",
-    "hijri_ur": "17 جُمادى الآخرة 1448"
+    "gregorian": "Saturday, 28 November 2026",
+    "hijri": "18 Jumādá al-ākhirah 1448",
+    "hijri_ur": "18 جُمادى الآخرة 1448"
   }
 }
